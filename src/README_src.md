@@ -35,4 +35,5 @@ cd <작업경로> && python3 build_local.py                            # index.h
 
 - **`images/`** — `recover_from_html.py` 가 `index.html` 에서 뽑으므로 중복 저장하지 않는다(8 MB 절약).
 - **`RULES.md` 본체(규칙 0~83 · §4 · §5 · §6 · §7)** — 프로젝트 문서 `claude/Sketchy_RULES_최신본.md`(2026-08-15)에 있다. 복구 부록과 함께 읽는다.
-- **`glyph_dict.py`(글자 사전 99자) · `quiz.py` · `verify_hub.py` · `count_bridge.py` · `gapfill.py`** — 컨테이너와 함께 사라졌다. 되살리는 중.
+- **`coverage/glyph_dict.py`(글자 사전)** — 재건 완료(2026-08-31). 총 100자: 원문 전사 63 + 8/29 신설 15 + 포기 7 + 인용 복구 15(오미 五味 포함). library.json 인용 검산 통과. 기억한 원본 계수 99와 1 어긋남은 파일 안 유실 주석에 기록.
+- **`quiz.py` · `verify_hub.py` · `count_bridge.py` · `gapfill.py`** — 컨테이너와 함께 사라졌다. 되살리는 중.

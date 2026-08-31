@@ -1,0 +1,13 @@
+
+document.getElementById('bTest').onclick=()=>document.body.classList.toggle('test');
+document.getElementById('bTrap').onclick=()=>document.body.classList.toggle('traps');
+document.getElementById('bWhy').onclick=()=>document.body.classList.toggle('rall');
+document.getElementById('bQuiz').onclick=()=>document.body.classList.toggle('qall');
+document.addEventListener('click',e=>{
+ const q=e.target.closest('.qtoggle');
+ if(q){q.closest('.quiz').classList.toggle('open');return;}
+ const w=e.target.closest('.why');
+ if(w){const tr=w.closest('tr');const nx=tr.nextElementSibling;if(nx&&nx.classList.contains('reason'))nx.classList.toggle('open');return;}
+ const td=e.target.closest('td.fact');
+ if(td&&document.body.classList.contains('test'))td.classList.toggle('open');
+});

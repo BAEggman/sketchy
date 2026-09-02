@@ -62,6 +62,9 @@ def esc(t):
     return (t or '').replace('\n', '<br>')
 
 
+EXTERNAL = os.environ.get('EXTERNAL') == '1'   # 1이면 그림을 images/ 파일로 링크(base64 미포함)
+
+
 def panel_html(p):
     pid = p['id']
     diag = ' diag' if p['track'] == 'D' else ''
@@ -73,7 +76,10 @@ def panel_html(p):
              % (pid, p['title'], p['tag'], badge, pid))
     ip = img_path(pid)
     if ip:
-        o.append('<img loading="lazy" src="data:image/webp;base64,%s">' % b64(ip))
+        if EXTERNAL:
+            o.append('<img loading="lazy" decoding="async" src="images/%s.webp" alt="">' % pid)
+        else:
+            o.append('<img loading="lazy" src="data:image/webp;base64,%s">' % b64(ip))
     o.append('<table><thead><tr><th>소품</th>'
              '<th>잠그는 사실 (테스트 모드: 탭하여 확인)</th></tr></thead><tbody>')
     for r in p['rows']:
@@ -100,7 +106,11 @@ def panel_html(p):
 def run():
     pan = {p['id']: p for p in LIB['panels']}
     paths = [q for q in (img_path(p['id']) for p in LIB['panels']) if q]
-    fit_budget(paths)
+    if EXTERNAL:
+        _PICK.update(mode='외부 파일 링크(images/*.webp) — 재압축 없음')
+        print('외부 파일 모드 — 그림은 images/ 에서 불러온다(원본 화질 그대로)')
+    else:
+        fit_budget(paths)
 
     npan  = len(LIB['panels'])
     ntrap = sum(1 for p in LIB['panels'] for r in p['rows'] if r['trap'])
@@ -143,7 +153,7 @@ def run():
     sz = os.path.getsize(out)
     print('written index.html %.2f MB, panels %d traps %d | 도해 문항 %d 개 / %d 판 | 화질 %s'
           % (sz / 1e6, npan, ntrap, nquiz, nqp, _PICK['mode']))
-    if sz > BUDGET:
+    if sz > BUDGET and not EXTERNAL:
         print('⚠ 예산 초과 %.2f MB > %.2f MB — 업로드가 막힌다' % (sz / 1e6, BUDGET / 1e6))
 
 

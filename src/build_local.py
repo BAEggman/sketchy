@@ -36,6 +36,11 @@ def img_path(pid):
 def b64(path, maxw=None, q=None):
     maxw = _PICK['maxw'] if maxw is None else maxw
     q    = _PICK['q']    if q    is None else q
+    # 2026-09-02 — 이미 webp 인 파일(배포본에서 되살린 106장)은 재인코딩하지 않고
+    # 바이트 그대로 싣는다. 세대 손실 0. 새로 그린 png 만 아래에서 인코딩된다.
+    if path.lower().endswith('.webp') and Image.open(path).width <= maxw:
+        with open(path, 'rb') as f:
+            return base64.b64encode(f.read()).decode()
     im = Image.open(path).convert('RGB')
     if im.width > maxw:
         im = im.resize((maxw, int(im.height * maxw / im.width)), Image.LANCZOS)

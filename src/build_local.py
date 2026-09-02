@@ -18,11 +18,11 @@ SCRIPT = open(os.path.join(HERE, 'panels/_script.txt'), encoding='utf-8').read()
 # GitHub 웹 업로드는 한 번에 10 MB가 상한이다. index.html 은 그림 110장을 base64로 품는다.
 # ⚠ 사다리는 **이미지 base64 크기만** 잰다 — 본문(도해 문항·why 주석)이 0.6 MB쯤 더 붙으므로
 #   그 몫을 미리 떼어 놓는다(2026-08-29 실측 563 KB → 여유 두고 700 KB).
-BUDGET        = 9_900_000
+BUDGET        = 9_850_000   # 업로드 다리 상한 10 MB
 HTML_OVERHEAD = 700_000
-LADDER = [(1100, 70), (1100, 66), (1024, 68), (1024, 66), (1024, 64),
+LADDER = [(1250, 78), (1250, 74), (1250, 70), (1100, 70), (1024, 68), (1024, 66), (1024, 64),
           (1024, 62), (1000, 60), (980, 60), (940, 58)]
-_PICK = {'maxw': 1024, 'q': 68}
+_PICK = {'mode': 'passthrough', 'recode': {}}
 
 
 def img_path(pid):
@@ -34,14 +34,12 @@ def img_path(pid):
 
 
 def b64(path, maxw=None, q=None):
-    maxw = _PICK['maxw'] if maxw is None else maxw
-    q    = _PICK['q']    if q    is None else q
-    # 2026-09-02 — 이미 webp 인 파일(배포본에서 되살린 106장)은 재인코딩하지 않고
-    # 바이트 그대로 싣는다. 세대 손실 0. 새로 그린 png 만 아래에서 인코딩된다.
-    if path.lower().endswith('.webp') and Image.open(path).width <= maxw:
-        with open(path, 'rb') as f:
+    im = Image.open(path)
+    if path.lower().endswith('.webp') and im.width <= 1032:
+        with open(path, 'rb') as f:                 # 무손실 통과
             return base64.b64encode(f.read()).decode()
-    im = Image.open(path).convert('RGB')
+    maxw, q = (1024, 70) if path.lower().endswith('.png') else (1100, 58)
+    im = im.convert('RGB')
     if im.width > maxw:
         im = im.resize((maxw, int(im.height * maxw / im.width)), Image.LANCZOS)
     buf = io.BytesIO()
@@ -50,15 +48,13 @@ def b64(path, maxw=None, q=None):
 
 
 def fit_budget(paths):
-    for maxw, q in LADDER:
-        n = sum(len(b64(p, maxw, q)) for p in paths)
-        if n + HTML_OVERHEAD <= BUDGET:
-            _PICK.update(maxw=maxw, q=q)
-            print('배포 예산 %.2f MB (본문 몫 %.2f MB 제외) → maxw %d · q %d (이미지 %.2f MB)'
-                  % (BUDGET / 1e6, HTML_OVERHEAD / 1e6, maxw, q, n / 1e6))
-            return
-    _PICK.update(maxw=LADDER[-1][0], q=LADDER[-1][1])
-    print('⚠ 예산 안에 드는 조합이 없다 — 마지막 칸 %s 을 쓴다' % (LADDER[-1],))
+    """2026-09-02 — git 이력에서 되살린 고해상도 원본을 최대한 살리는 배분.
+       ① 원래 1024px 이하인 판(더 좋은 판본이 없던 판)은 **무손실 통과** — 손해를 만들지 않는다.
+       ② 되살린 고해상도 판(1100~1250px)만 1100px q58 로 맞춘다.
+       ③ 재작도 png 4판은 1024px q70.
+       업로드 다리 상한 10 MB 안에서 이 조합이 실측상 가장 깨끗했다(4안 비교, quality_pick.png)."""
+    _PICK.update(mode='lossless 58 + 고해상도 1100/q58 + 재작도 1024/q70')
+    print('배분 — 무손실 통과(≤1032px) · 고해상도 1100px q58 · 재작도 png 1024px q70')
 
 
 def esc(t):
@@ -145,8 +141,8 @@ def run():
     out = os.path.join(HERE, 'index.html')
     open(out, 'w', encoding='utf-8').write(html)
     sz = os.path.getsize(out)
-    print('written index.html %.2f MB, panels %d traps %d | 도해 문항 %d 개 / %d 판 | 화질 maxw %d q %d'
-          % (sz / 1e6, npan, ntrap, nquiz, nqp, _PICK['maxw'], _PICK['q']))
+    print('written index.html %.2f MB, panels %d traps %d | 도해 문항 %d 개 / %d 판 | 화질 %s'
+          % (sz / 1e6, npan, ntrap, nquiz, nqp, _PICK['mode']))
     if sz > BUDGET:
         print('⚠ 예산 초과 %.2f MB > %.2f MB — 업로드가 막힌다' % (sz / 1e6, BUDGET / 1e6))
 

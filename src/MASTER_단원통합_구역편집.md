@@ -1,0 +1,617 @@
+# Sketchy 마스터노트 — 단원 통합판을 「구역 편집」으로 그리는 법
+
+> 작성 2026-10-13 · 첫 실증 `s15u01` 六淫 통합판(낱장 6장 → 1장, blind13 판 표제어 95%·95%)
+> **이 노트 하나만 읽고 다른 대화가 다음 단원을 같은 품질로 합칠 수 있도록 썼다.**
+> 코드는 저장소 `BAEggman/sketchy`의 `src/coverage/`에 있고, 저장소가 없을 때를 위해 부록에 전문을 실었다(부록 코드는 실제 입력으로 다시 돌려 같은 결과가 나오는 것을 확인했다).
+
+---
+
+## 0. 한 줄 요약
+
+**소품이 20개 넘는 그림은 한 번에 그리지도, 통째로 고치지도 않는다.**
+바탕(무대 + 사람 자세)을 한 장 그리고 → 구역 하나(사람 1 + 소품 3)만 **잘라서 새 채팅에서** 편집하고 → 제자리에 **정합해 다시 붙인다.**
+모델이 한 번에 보는 소품 수가 늘 4~6개라서, 실험으로 확인한 안전 구간 안에 머문다.
+
+---
+
+## 1. 작업 환경 — 먼저 갖출 것
+
+| 무엇 | 어디 |
+|---|---|
+| 저장소 | `git clone https://github.com/BAEggman/sketchy.git` → 이하 `<repo>` (지난 세션은 `/home/claude/s7/work`) |
+| 패널 데이터 | `<repo>/src/panels/library.json` (`panels` 배열 · 통합 뒤 낱장은 `retired` 배열) |
+| 장면 순서·칩 | `<repo>/src/panels/scenes.json` |
+| 그림 | `<repo>/images/<id>.webp` |
+| 글자 사전 요약(판독자에게 주는 것) | `<repo>/src/coverage/blind6_사전요약.md` |
+| 도구 | `<repo>/src/coverage/zone_kit.py` · `tile_stitch.py` · `tile_stitch2.py` · `gemini_capture.js` (없으면 부록에서 만든다) |
+| 허브 빌더 | `<repo>/src/build_local.py` |
+| 작업 파일 | **세션 scratchpad** 안에 단원 폴더를 만든다(예: `<scratch>/u13/`). Chrome `file_upload`는 scratchpad 경로만 받는다(`/mnt/user-data/outputs`는 거부) |
+| 그리기 | Chrome에서 `https://gemini.google.com/app`, 입력창 오른쪽 모델 선택이 **Pro**인 상태(이미지 생성·편집이 됨). 도구는 Claude in Chrome |
+| 규칙·정본 문장 | 프로젝트 문서 `claude/Sketchy_RULES_최신본.md`(규칙 1~83·§5 공용 상징 사전) · `claude/Sketchy_CANON_정본기준서.md`(오장 다섯 인물 등 **영문 정본 복장 문장**) |
+
+이 노트에 나오는 말:
+- **틀** — 그림 전체가 지는 단원 명제(무대). 통합판 첫 행이 된다.
+- **틀 소실** — 낱장 판독(blind10)에서 사실은 다 읽혔는데 계열 이름이 안 읽힌 판. s13p04·s13p05(六經) · s13p08(溫病) · s18p11(八會) · s18p10(舍岩) · s16p10(內生五邪) · s12p01(望色). **통합판에서는 그 낱장들의 「무대 행」을 버리고 틀 행 하나로 대신한다** — 틀이 그림 전체에 있으므로.
+- **갈림** — 글자 사전의 조건부 항목(조건이 맞을 때만 그 글자). 예: 「얼음 = 陰」은 **살아 있는 불과 맞대어 놓였을 때만**.
+- 규칙 번호: **151** 개수는 「몇 개로」가 아니라 「무엇을 지워라」로 고친다 · **151-c** 한 채팅에서 자기 결과물을 계속 고치면 문맥이 오염된다 · **170** 한 곳을 더하면 다른 곳이 지워진다 → 매번 행 단위 전수 대조 · **173** 소품을 심을 때 글자 사전을 역검색한다(같은 꼴의 전담 기호가 있으면 꼴을 바꾼다) · **39-c** 그림이 생겼는지는 개수만 세지 말고 크기 변화로 확인한다.
+- **R0·R1…** — 라운드(생성·편집 한 번).
+
+---
+
+## 2. 왜 이렇게 하나 — 실측 근거
+
+### 2-1. 소품 수 한계 실험 (2026-10-13, 같은 화풍·같은 소품 풀, 10장, 새 판독자 둘이 채점)
+
+| 한 장에 넣은 소품 | 장당 틀린 소품(속성 오류) | 비고 |
+|---|---|---|
+| 6개 | 0 | |
+| 9개 | 1 | |
+| 12개, 한 번에 생성 | 2.5 | 같은 소품이 두 번 그려지는 **중복**이 나타나기 시작 |
+| 12개, 6개 위에 3개씩 편집으로 추가 | 1 | 기존 소품 지워짐 0 (빈 자리가 있었으므로) |
+| 16개 | 4.5 | 꽃병·감 소쿠리 중복 |
+
+- **소품이 통째로 사라진 경우는 120번 중 0번.** 무너지는 것은 「있느냐」가 아니라 **속성**이다.
+- **색·재질·사물 종류**는 16개에서도 100%. **2~3개짜리 자연스러운 개수**(국화 3송이·촛불 2자루)도 100%.
+- **모델 습관과 어긋나는 개수**(화살 3→2, 감 5→6·7, 붓 5→4, 손가락 3→손 흔들기 5)는 **9개부터** 깨진다.
+- **기본값을 거스르는 상태**(짚신을 거꾸로 매달기)는 6개짜리에서도 **10/10 실패** — 이런 데에는 사실을 싣지 않는다.
+- 원자료 `src/coverage/capacity_test/` · 프로젝트 문서 `claude/Sketchy_소품수한계_실험_20261013.md`
+
+### 2-2. 六淫 통합판에서 겪은 것
+
+| 방법 | 결과 |
+|---|---|
+| R1: 바탕 위에 전체 편집으로 5개 더하기 (그림 속 소품 ~8개) | **5/5 성공**, 소실 0 |
+| R2: 이어서 전체 편집으로 6개 더하기 (그림 속 ~13개) | **실패 — 그림을 다시 그려 버림.** 燥·寒 구역과 계절 띠가 사라지고 두 사람이 무표정 직립 |
+| 새 채팅에 R1을 올려 전체 편집 3개씩 (그림 속 ~16~20개) | 3/3 → 2/3(엉뚱한 사람 옆에 붙음) → 1/3 |
+| **구역 잘라 편집 → 다시 붙이기** (구역마다 3개, 4구역) | **4구역 모두 3/3**, 다른 소품 소실 0 |
+
+### 2-3. 읽히는가 — blind13 (판독자 둘, 생판 → 사전 2단계)
+- 판 전체 표제어 **六淫 95% · 95%**, 여섯 인물 표제어 **6/6 · 6/6**, 사실 24개 중 **약 23개**를 읽음.
+- 낱장 시절(blind10) 여섯 판은 각각 ✓(80~88%)였지만 **「六淫」이라는 묶음은 어느 판에도 없었다.** 통합판은 묶음이 가장 먼저 읽힌다 — 이것이 통합의 목적이다.
+
+---
+
+## 3. 숫자 규칙
+
+| 항목 | 기준 |
+|---|---|
+| 통합판 한 장의 구역 사실 수(**틀 행 제외**) | **≤ 26.** 넘으면 두 장으로 가른다(§9 계획표의 숫자도 틀 행 제외) |
+| 구역 수 | **4~6** (사람 하나 = 개념 하나 = 구역 하나) |
+| 구역당 사실 | **4 = 사람의 자세·표정 1(바탕에서 그림) + 소품 3(구역 편집에서 더함)**. 넷째 소품이 꼭 필요하면 같은 채팅에서 §5-3 형식으로 하나 더 |
+| 한 번의 편집에 새 소품 | 구역 편집 **≤ 3** · 전체 편집은 그림 속 소품이 **10개 이하**일 때만, **≤ 5** |
+| 정확한 개수를 지는 소품 | 구역당 **≤ 1**, 개수는 **3 이하** |
+| 사실을 싣지 않는 것 | 기본값을 거스르는 방향·손짓·뒤집힘, 「하나만」이 중요한데 중복되기 쉬운 것, **동작**(동사·治法으로 읽혀 유령이 된다 — 정물로 쓴다) |
+
+---
+
+## 4. 절차 (이 순서대로)
+
+```
+① 설계 → ② 바탕 생성 → ③ (조건부) 전체 편집 1회 → ④ 바탕 캡처(2배)
+→ ⑤ 구역 자르기 → ⑥ 구역 편집(구역마다 새 채팅) → ⑦ 구역 캡처 → ⑧ 합성 → ⑨ 마무리
+→ ⑩ 전수 대조 → ⑪ 블라인드 판독 → ⑫ 라이브러리·허브 반영 → ⑬ 기록·커밋
+```
+
+### ① 설계 — 그리기 전에 끝낸다
+
+1. **사실 목록**: 합칠 낱장들의 `library.json` rows를 전부 모은다(`python3 -c "import json;L={p['id']:p for p in json.load(open('src/panels/library.json'))['panels']};[print(i,j,r['prop'],'⇒',r['fact']) for i in ['s13p01','s13p02'] for j,r in enumerate(L[i]['rows'])]"`). 낱장의 「무대 행」(그 판의 장소·계절만 지던 행)은 틀 행이 대신하므로 뺄 수 있다.
+2. **틀을 정한다** — 그림 전체가 단원 이름을 지게 한다. 六淫 = 「흙담 **바깥** 길(外感) + 왼쪽 봄 → 오른쪽 겨울(主氣 배속)」. 六經이라면 예컨대 「바깥에서 안으로 들어가는 길·문 여섯(太陽→厥陰 전변 순서)」처럼 **순서가 곧 사실인 축**을 고른다.
+3. **구역 배치**: 사람 하나 = 개념 하나, 왼쪽에서 오른쪽으로. **같은 생김새의 사람**으로 반복해 「같은 구조의 여섯」이 한눈에 보이게 한다. 오장 인물이 나오는 단원(五行·宣明五氣·藏象)은 CANON의 영문 정본 복장 문장을 그대로 쓴다.
+   - **사전 충돌을 자리로 피한다** — 寒의 얼음은 불과 맞대면 陰으로 읽히므로 火 구역과 멀리, 맨 끝에 두었다.
+   - **층을 나눈다** — 소품은 사람 발치(바닥 띠)·몸 위·사람 바로 옆에 둔다. **그림 위쪽 하늘·담 띠(높이 7~38%)는 비워 둔다** — ⑧의 자동 정합이 이 띠를 쓴다. 띠에 꼭 넣어야 하면 ⑧에서 `band`를 바꾼다.
+   - 이웃 구역 소품이 **같은 x 범위에 겹치지 않게** 한다(겹치면 ⑧에서 패치가 필요하다).
+4. **규칙 173 역검색**: 새로 심는 소품마다 `blind6_사전요약.md`에서 같은 꼴의 전담 기호를 찾는다. 걸리면 꼴을 바꾼다. 예: 燥의 「마른 물독」은 사전에 內燥로 있어서 → 「**금 사이로 맑은 물이 새는** 물동이(傷津)」.
+5. 구역마다 **지칭할 생김새**를 정해 둔다 — 「네 번째 사람」 같은 서수 지칭은 틀린다. 「빗속에서 흠뻑 젖어 축 늘어진 사람」처럼.
+6. 구역마다 **③에서 할지 ⑥에서 할지** 정한다 — ③은 그림 속 소품이 10개 이하일 때 한두 구역까지만.
+
+### ② 바탕 생성 (새 채팅, 한 번)
+
+- 화풍 참조로 **같은 단원 낱장 하나**를 1024 정사각 PNG로 줄여 scratchpad에 두고 첨부한다:
+  `python3 -c "from PIL import Image;Image.open('<repo>/images/s13p01.webp').convert('RGB').resize((1024,1024)).save('<scratch>/u13/ref.png')"`
+- 바탕에는 **무대 + 사람과 자세·표정만** 넣고 빈 자리를 남긴다. 프롬프트는 §5-1(六淫 실제 원문이 있다).
+- 16:9로 지시하면 1024×572로 나온다. 편집을 거치며 1024×434(초광폭)로 바뀔 수 있다 — **마지막 편집본의 크기가 기준이다**(`__setup()`이 알려 준다).
+
+### ③ (조건부) 전체 편집 1회
+
+- 그림 속 소품이 10개 이하일 때, ①-6에서 정한 한두 구역에 소품 ≤5개를 **같은 채팅에서** 전체 편집으로 더한다(六淫: 風·暑 두 구역, 5/5).
+- 이후로는 **전체 편집 금지.** 여기서 끝낸 구역은 ⑤~⑧에서 뺀다.
+
+### ④ 바탕 캡처 (2배 캔버스)
+
+§6의 캡처 절차로 마지막 바탕을 내려받아 **2배 크기 `base2x.png`**로 만든다. 타일 계획은 도구가 찍어 준다:
+```
+python3 zone_kit.py plan 1024 434 --scale 2      # 바탕이 1024×572 이면: plan 1024 572 --scale 2
+```
+
+### ⑤ 구역 자르기
+
+```
+python3 zone_kit.py crop base2x.png <scratch>/u13 --centers 530,660,810,955 --cssw 1024
+```
+- `--centers`: ⑥에서 편집할 구역 사람들의 **x 중심을 1024 기준 좌표로**(③에서 끝낸 구역은 넣지 않는다 — 六淫은 6명 중 뒤 4명).
+  재는 법: `python3 -c "from PIL import Image,ImageDraw;im=Image.open('base2x.png').convert('RGB');d=ImageDraw.Draw(im);[d.line([(x*2,0),(x*2,30)],fill=(255,0,0),width=2) or d.text((x*2+3,30),str(x),fill=(255,0,0)) for x in range(0,1024,50)];im.resize((1024,im.height//2)).save('ruler.png')"` → `ruler.png`를 보고 사람 머리 중심을 읽는다.
+- 9:16 세로 조각을 `crop_0.png…`(업로드 크기 488×868 등)와 `crops.json`(조각의 1024 기준 상자)으로 남긴다. 조각에 이웃 가장자리가 1/5쯤 걸리는 것은 정상.
+
+### ⑥ 구역 편집 (구역마다 새 채팅 — 탭 여러 개로 동시에)
+
+- 조각을 **첨부**하고 §5-2 프롬프트로 **소품 3개만** 더한다. 작은 신체 표지(코피·종기 등)는 「**멀리서도 보일 만큼 뚜렷하게**」.
+- 결과는 576×1024로 나온다.
+- 확인: 3개가 다 들어갔는가 · 사람 자세·크기·배경이 그대로인가 · 가장자리가 바뀌지 않았는가. 어긋나면 **같은 채팅에서** §5-3.
+
+### ⑦ 구역 캡처
+
+구역 그림마다 `zone_kit.py plan 576 1024`가 찍어 주는 대로 캡처 → `tile_stitch2.py`로 `Z0.png…`(576×1024)를 만든다.
+
+### ⑧ 합성
+
+```
+python3 zone_kit.py compose cfg.json comp.png
+```
+`cfg.json` (六淫 실제값):
+```json
+{"base": "base2x.png", "cssw": 1024, "crops": "crops.json",
+ "zones": [ {"crop": 0, "img": "Zf.png", "own": [440, 600]},
+            {"crop": 1, "img": "Zw.png", "own": [600, 738]},
+            {"crop": 2, "img": "Zd.png", "own": [738, 905]},
+            {"crop": 3, "img": "Zc.png", "own": [905, 1024]} ],
+ "patches": [ {"zone": 2, "ellipse": [1467, 738, 60, 58], "shift": [18, 0]} ],
+ "feather": 14, "search": 12, "band": [0.07, 0.38]}
+```
+- `crop` = `crops.json`의 순번. `own` = 그 구역 편집본이 차지할 **1024 기준 x 범위** — 경계는 **사람과 사람 사이 빈 땅**에 둔다. 왼쪽 끝 구역이 아니면 첫 구역의 시작은 ③에서 끝낸 구역과의 경계다(六淫 440 = 暑와 火 사이).
+- 정합은 `band` 높이 띠로 ±`search` px 자동 탐색. 출력의 `mse`가 300을 넘으면 그 구역 편집이 구도를 바꾼 것 — 다시 편집. **단, 띠 안에 새 소품을 넣은 구역은 mse가 높아도 `|dx|,|dy| ≤ 5`이고 눈으로 어긋남이 없으면 통과.**
+- `patches`: 이웃 구역 소품과 x가 겹쳐 띠 경계로는 살릴 수 없는 소품을 타원째 옮겨 붙인다.
+  `zone` = **zones 배열 순번**(0부터) · `ellipse` = 그 소품이 **편집본에 있던 자리**의 중심·반지름(**바탕 2배 픽셀**) · `shift` = 옮길 거리. 六淫: 燥의 물동이가 濕의 화로와 x가 겹쳐 18px 오른쪽으로 옮겨 붙였다.
+
+### ⑨ 마무리
+
+1. 합성본을 2배로 보며 생성 그림 오른쪽 아래의 ✦ 워터마크가 남았는지 본다(보통 이웃 구역 편집본이 덮는다).
+2. 남았으면 **✦만 감싸는 상자**를 잡아 `--wm`으로 준다(자동 탐지는 하지 않는다 — 불빛·눈송이를 지운다):
+```
+python3 zone_kit.py finish comp.png <repo>/images/s13u01.webp --wm 1210,760,1260,810
+```
+   각 상자마다 `<out>.wm_<x>_<y>.png`(왼쪽 원본 · 오른쪽 메울 자리 마젠타)가 생긴다 — **반드시 열어 보고** ✦만 칠해졌는지 확인.
+3. `finish`가 언샤프(1.2/60/2)와 webp q84까지 한다. 워터마크가 없으면 `--wm` 없이 돌린다.
+
+### ⑩ 전수 대조 (규칙 170)
+
+2배로 확대해 **모든 행**을 하나씩 센다 — 새로 넣은 것만이 아니라 바탕·③의 것까지.
+
+| 구역 | 행 | 소품 | 있음 | 속성(개수·색·상태) | 그 사람 곁인가 |
+|---|---|---|---|---|---|
+| 風 | 善行數變 | 크기 다른 # 통증 표시 | ✓ | ✓ | ✓ |
+
+이음매도 본다: 각 경계에서 하늘·담·바닥이 끊기지 않는가, 반쪽만 남은 소품이 없는가.
+
+### ⑪ 블라인드 판독
+
+- 판독자 **둘**(새 하위 에이전트 `general-purpose`, `model: opus`), 같은 그림. 번호는 다음 빈 blind 번호(2026-10-13 현재 **blind14**부터).
+- 판독용 그림: `python3 -c "from PIL import Image;Image.open('<repo>/images/s13u01.webp').convert('RGB').save('<repo>/src/coverage/blind14/901.png')"`, `.gitignore`에 `src/coverage/blind14/*.png`와 `src/coverage/blind14/crop_*/`.
+- 프롬프트는 §5-4 전문(경로·번호만 바꾼다).
+- **통과**: 판 표제어 1순위 = 단원명 · 인물 표제어 전부 맞음 · 사실의 90% 이상이 읽힘.
+- **불합격 처리**: 판 표제어가 틀리면 → ① 틀 재설계(무대를 바꿔 ②부터) · 인물 표제어가 틀리면 → 그 구역만 ⑥ 재편집(⑦⑧⑨ 다시) · 소품 몇 개만 「뜻 미상」이면 → 통과로 두고 잔결로 적는다.
+
+### ⑫ 라이브러리·허브 반영
+
+- 새 패널 id = `s<계열>u<번호>` — 같은 계열에서 첫 통합판이 `u01`, 둘째가 `u02`(예: s13의 六經 = `s13u01`, 溫病 = `s13u02`). `track`은 원래 낱장들과 같게.
+- rows (필드: `prop` · `fact` · `trap` · `why`):
+  - **첫 행 = 틀 행**: prop = 무대 서술, fact = 단원 명제, trap = false, why = 무대가 왜 그 명제인지 + 「▸ 단원 통합(날짜) — 낱장 무엇을 합쳤고 판독 결과」.
+  - 이어서 구역 순서대로 원래 행을 옮긴다: prop만 새 그림대로 고쳐 쓰고 앞에 `[구역·무대]`(예 `[風·봄] …`), fact·trap은 그대로, why 끝에 `▸ 단원 통합(날짜) — s15p01[1]에서 옮김.`(대괄호 숫자 = 원래 rows 순번, **0부터**).
+- 낱장은 **지우지 않는다** — `library.json`의 `retired` 배열로 옮기고 각 항목에 `"merged_into": "<새 id>"`. 빌더는 `panels`만 읽으므로 허브에서 빠진다.
+- `scenes.json`: 해당 장면 `ids`에서 낱장들을 새 id 하나로 바꾸고, `chips`에서 낱장 id를 앵커로 쓰던 항목(`["s15p01","장면 15"]`)을 새 id로.
+- 실제 항목은 부록 E.
+- 빌드: `cd <repo> && ln -sfn ../images src/images && (cd src && EXTERNAL=1 python3 build_local.py) && mv src/index.html index.html && rm src/images` → `grep -c 'src="images/' index.html`가 `panels` 수와 같은지 확인.
+
+### ⑬ 기록·커밋
+
+- `src/coverage/unify_<id>_설계.md`(설계·라운드 기록·실패·판독 결과) · `blindNN_prompt.txt` · `blindNN_map.json` · `blindNN_results.json` · `blindNN_report.md` · `blindNN/*.md`
+- 커밋 메시지 끝 두 줄은 세션 지시대로. `git push`가 403(세션 미인가)이면 `git bundle create … origin/main..main`으로 묶어 사용자에게 푸시 패키지로 넘긴다(지난 세션들의 `sketchy_push_*.zip` 방식).
+- 프로젝트 문서 한 장(`claude/Sketchy_단원통합_<단원>_<날짜>.md`).
+
+---
+
+## 5. 프롬프트 템플릿 (실제로 통한 문장)
+
+### 5-1. 바탕 — 六淫 실제 원문 (화풍 참조 그림 첨부)
+```
+첨부한 그림과 똑같은 화풍(잉크 선 + 수채, 가장자리 얇은 검은 테두리와 베이지 여백, 같은 인물 생김새 — 상투, 회청색 저고리, 기운 황토색 바지)으로 새 그림을 그려줘. 가로로 긴 16:9 파노라마. 그림 뒤쪽을 마을의 긴 흙담이 왼쪽 끝에서 오른쪽 끝까지 가로지르고(담 너머로 초가지붕이 조금 보임), 담 바깥 앞쪽으로 흙길이 왼쪽에서 오른쪽으로 이어진다. 길을 따라 계절이 차례로 바뀐다 — 왼쪽 끝은 꽃 핀 봄, 그다음 장마가 아닌 바짝 마른 한여름 두 칸, 그다음 비가 부슬부슬 오는 장마철, 그다음 가을, 오른쪽 끝은 눈 덮인 겨울. 길 위에 같은 생김새의 마을 사람 여섯이 일정한 간격으로 있다(왼쪽에서 오른쪽 순서):
+1) 봄: 세찬 옆바람에 몸이 기울고, 머리에서 밀짚모자가 벗겨져 날아가며 소매와 꽃잎이 옆으로 날린다
+2) 한여름: 지팡이에 기대 무릎이 꺾인 채 얼굴이 붉고 땀을 흘린다
+3) 한여름: 가만있지 못하고 두 팔을 휘두르며, 얼굴과 눈이 붉다
+4) 장마: 흠뻑 젖은 옷으로 몸이 축 늘어져 무겁게 걷는다
+5) 가을: 한 손을 가슴에 대고 마른기침을 한다
+6) 겨울: 온몸을 안으로 잔뜩 웅크리고 있다
+아직 다른 소품은 넣지 말고, 각 사람 발치와 옆에 빈 자리를 넉넉히 남겨 두고, 사람들이 길 위에서 겹치지 않게 해줘. 그림 안에 글자·숫자는 넣지 마.
+```
+- 「같은 인물 생김새 — …」 괄호가 **복장 고정문**이다. 화풍 참조 그림의 사람 옷을 그대로 옮겨 적는다. 오장 인물이 나오는 단원은 CANON §3 영문 정본 문장을 괄호 대신 붙인다.
+
+### 5-2. 구역 편집 — 실제 원문 (조각 첨부, 새 채팅)
+```
+첨부한 그림은 긴 가로 그림의 한 조각이야. 비율·구도·확대 정도, 가운데 사람의 자세·위치·크기, 배경(흙담·하늘·땅)과 화풍을 그대로 두고, 다시 그리지 말고 덧그리기만 해줘. 그림 왼쪽·오른쪽 가장자리(각각 폭의 5분의 1)는 손대지 마. 빗속에서 흠뻑 젖어 축 늘어진 가운데 사람 곁에만 아래 세 가지를 더해줘:
+1) 그 사람 발밑 길 위로 느리게 흐르는 진하고 끈적한 갈색 흙탕물 줄기
+2) 종아리와 발에 진흙이 두껍게 몰려 붙고, 발목이 눈에 띄게 통통 부어 있다
+3) 그 사람 바로 뒤 흙담에 번진 검푸른 곰팡이 얼룩, 그리고 그 담 밑 바닥에 금이 가 반으로 쪼개진 화로 하나 — 안에는 불기 없는 꺼진 잿더미
+글자·숫자는 넣지 마.
+```
+- 맨 오른쪽 구역이면 「긴 가로 그림의 **오른쪽 끝** 조각」과 「왼쪽에 걸쳐 있는 <이웃 생김새> 사람과 그 주변은 손대지 마」.
+- 신체 표지가 작으면 각 줄 끝에 「— 멀리서도 보일 만큼 뚜렷하게」.
+
+### 5-3. 같은 채팅에서 고치기
+```
+거의 됐어. 그런데 <무엇>이 <잘못 들어간 곳>에 들어갔어. 그것을 거기서 빼서 <정확한 곳 — 생김새로 지칭>으로 옮겨줘.
+그 밖의 것은 비율·구도·확대 정도까지 하나도 바꾸지 마. 글자·숫자 없이.
+```
+- 개수가 틀렸으면 「몇 개로 만들어라」가 아니라 **「○○을 지워라」**(규칙 151). 다섯 번 넘게 고쳤으면 원본을 새 채팅에 올려 다시(151-c).
+
+### 5-4. 통합판 블라인드 판독 — blind13 원문 (`<…>`만 바꾼다)
+```
+당신은 한의학을 공부한 판독자다. <repo>/src/coverage/blind<NN>/901.png 는 한의학 암기용 그림책(Sketchy식 — 소품 하나가 사실 하나를 나르는 무대 그림)의 한 판이다. 이 판은 한 단원의 개념 여러 개를 한 장에 모은 통합판이다. 이 판에 대한 사전 정보는 없다. 다른 판·문서·정답은 절대 열지 마라 — blind<NN>/ 안의 다른 파일, blind<NN>_map.json, 다른 blind*/ 폴더, *_titles.json, *_results.json, *_report.md, library.json, scenes.json, index.html, images/ 폴더, redraw*.md, unify_*, capacity_test*, MASTER_*.md, blind5_rules.md, glyph_dict.py 는 열면 시험이 무효다.
+
+[1단계 — 생판] 먼저 다른 자료는 절대 열지 말고 그림만 Read 도구로 읽어라(최대 4회, Python/PIL 로 부분을 잘라 크게 봐도 된다 — 잘라 본 것은 Read 횟수에 넣지 않는다; 잘라 낸 파일은 <repo>/src/coverage/blind<NN>/crop_<A|B>/ 에 저장). 답하라:
+ ① 판 전체의 표제어(이 그림 전체가 묶는 단원·개념) 1순위·2순위 + 확신도(%)
+ ② 그림 속 인물(또는 구역)마다 — 왼쪽부터 차례로 — 그 인물의 표제어 하나와, 그 곁 소품 각각이 나르는 한의학 사실(셀 수 있는 것은 개수까지)
+ ③ 뜻 모를 소품·어색한 것·프레임 잘림·이어 붙인 흔적
+
+[2단계 — 계통] 1단계 답을 확정해 적은 뒤에만 <repo>/src/coverage/blind6_사전요약.md 를 Read 하라 — 이 그림책이 앞 판들에서 등재한 「글자 = 사물」 기호 목록이다. 실제 독자는 이것을 배우고 온다. ⚠ 「갈림」이 붙은 항목은 조건부다 — 조건이 맞을 때만 그 글자다. 그 어휘로 같은 그림을 다시 읽고 ①~③을 다시 답하라. 1단계 답을 고집할 필요 없고, 이 어휘로 더 잘 풀리는지 정직하게 판정하라.
+
+[기록] 두 단계의 답을 <repo>/src/coverage/blind<NN>/901_<A|B>.md 에 Write 하라 (한국어 · 각 단계 900자 안팎 · 표제어 후보는 **굵게**).
+
+[보고] 나에게는 아래 형식만 돌려라. 다른 말은 붙이지 마라:
+판 1순위: <표제어> (<n>%)  /  판 2순위: <표제어> (<n>%)
+인물1: <표제어> — <읽힌 사실 개수>개: <짧게>
+인물2: …
+(인물 수만큼)
+잔결: <뜻 모를 소품·잘림·이어붙임 흔적 한 줄, 없으면 「없음」>
+```
+
+---
+
+## 6. Gemini 운용 요령과 캡처 (Claude in Chrome)
+
+**도구 불러오기** — ToolSearch 한 번에: `select:mcp__claude-in-chrome__tabs_context_mcp,mcp__claude-in-chrome__navigate,mcp__claude-in-chrome__computer,mcp__claude-in-chrome__find,mcp__claude-in-chrome__javascript_tool,mcp__claude-in-chrome__file_upload,mcp__claude-in-chrome__browser_batch,mcp__claude-in-chrome__tabs_create_mcp,mcp__claude-in-chrome__tabs_close_mcp`
+
+**첨부해서 보내기**
+1. 새 탭 → `https://gemini.google.com/app`.
+2. 입력창 왼쪽 `+`(「업로드 및 도구」) 클릭 → 1초 뒤 `find "file input elements (type=file)"`. 안 나오면 스크린샷 한 번 찍고 다시 클릭(첫 클릭이 자주 헛돈다). 나온 셋 중 **첫째** ref에 `file_upload`(scratchpad 경로) → `key Escape`.
+3. 2~4초 뒤 첨부가 붙었는지 확인: `[...document.querySelectorAll('img')].filter(i=>i.alt=='attachment').length` 가 1, 또는 스크린샷에 썸네일. **붙기 전에 보내면 그림 없이 간다.**
+4. 글: `const ed=document.querySelector('div[contenteditable="true"]'); ed.focus(); document.execCommand('insertText',false, <글>)`.
+5. 보내기: ① `find "메시지 보내기"` → ref 클릭 ② 안 먹으면 `getSelection().selectAllChildren(ed); getSelection().collapseToEnd()` 뒤 `key Return` ③ 그래도 안 되면 스크린샷을 보고 보내기 버튼 좌표 클릭. **두 번 누르면 생성이 취소된다.**
+6. 보냈는지: `document.querySelectorAll('user-query').length`가 늘었는가. 생성 중인지: `button[aria-label*="중지"]`가 있는가. 끝났는지: 그림 수와 **크기**(`naturalWidth×naturalHeight`)가 바뀌었는가(규칙 39-c).
+- 구역 편집은 **탭을 여러 개 열어 동시에**(각각 새 채팅). Gemini 페이지에서 `innerHTML` 대입은 TrustedHTML 오류 — 오버레이는 부록 A처럼 `createElement`로만.
+
+**캡처 — 원본 화소로 내려받기** (Gemini는 다운로드가 막혀 있다)
+1. 그 탭에서 부록 A(`gemini_capture.js`)를 `javascript_tool`로 실행 → `window.__setup()`(마지막 생성 그림; 특정 그림은 `__setup(i)`) → 돌려준 **W×H**를 적는다.
+2. `python3 zone_kit.py plan W H [--scale 2]`가 찍어 주는 `__show2(...)` 호출 순서대로:
+   - **먼저 `screenshot` 한 번** — 좌표계를 1456×816으로 고정한다(한 탭이 1164×652로 흔들린 적이 있다 — 그때 영역이 틀어진다).
+   - `__show2(tx,ty,tw,th)` → `zoom region [0,0,820,800], save_to_disk:true, scale:0.9`.
+   - 결과에 찍힌 「Screenshot saved to: <경로>」를 `SHOT_i` 자리에 그대로 쓴다(복사 불필요).
+   - **찍힌 그림 오른쪽과 아래에 마젠타 띠가 보여야** 한다. 안 보이면 영역이 그림보다 작은 것 — 스크린샷으로 좌표계를 다시 고정하고 영역을 키운다(뷰포트 1456×816을 넘으면 오류). 확인 한 줄:
+     `python3 -c "import numpy as np;from PIL import Image;a=np.asarray(Image.open('<SHOT>').convert('RGB')).astype(int);m=(a[:,:,0]>170)&(a[:,:,1]<100)&(a[:,:,2]>170);print('magenta 오른쪽',m[10].any(),'아래',m[:,10].any())"`
+   - 마지막에 `__show2(-1)`.
+3. `plan`이 찍어 준 `tile_stitch2.py` 줄을 그대로 돌린다. 출력의 `offset`이 0~1, `mse`가 한 자리~십여면 정상.
+
+---
+
+## 7. 실패 사례 — 증상 → 원인 → 대처
+
+| 증상 | 원인 | 대처 |
+|---|---|---|
+| 소품 6개를 더하자 그림이 통째로 다시 그려지고 구역이 사라짐 | 소품 많은 판에 큰 전체 편집 | 구역 편집으로 |
+| 「네 번째 사람 곁에」 넣으라 했는데 엉뚱한 곳에 붙음 | 서수 지칭 | 생김새로 지칭 + 구역 잘라내기 |
+| 3개 중 1개만 들어감 | 전체 그림을 보여 준 편집 — 주의 분산 | 구역 편집 |
+| 코피·종기가 거의 안 보임 | 파노라마라 얼굴이 작다 | 「멀리서도 보일 만큼 뚜렷하게」 |
+| 업로드 메뉴 첫 클릭 무반응 / file input이 안 잡힘 | 메뉴 로딩 지연 | 스크린샷 → 다시 클릭 → find |
+| 첨부 없이 글만 전송됨 | 업로드 반영 전에 전송 | 썸네일 확인 후 전송 |
+| zoom 캡처에 마젠타 띠가 없음 | 좌표계가 1164↔1456으로 흔들림 | 스크린샷으로 고정 후 영역 820×800 |
+| 확대본에 타일 이음매가 2~3px 어긋나 보임 | 맞닿기 스티치 + 가장자리 깎기 | 겹침 캡처 + `tile_stitch2.py` |
+| 이웃 구역 소품이 띠 경계에서 반쪽 | 두 구역 소품의 x 범위가 겹침 | 설계에서 층을 나누거나 `patches` |
+| 합성 정합 mse가 300을 넘음 | 편집이 구도를 바꿨거나, 정합 띠에 새 소품 | 구도가 바뀌었으면 재편집 / 띠 소품이면 `band` 조정 또는 |dx|,|dy|≤5 확인 후 통과 |
+| 판독자가 「흰 부채」「곰팡이」 뜻을 못 읽음 | 다른 판의 전담 기호를 빌린 소품이 통합판에선 홀로 남음 | 직접 읽히는 소품으로 교체(다음 손질) |
+
+---
+
+## 8. 六淫에서 남은 잔결 (다음 손질 후보)
+- 燥의 찢긴 흰 부채(易傷肺 — 肺 재상의 소지품이라는 다리가 안 읽힘) · 濕 뒤 곰팡이(阻遏氣機) — 둘 다 판독자 둘이 「뜻 미상」.
+- 모닥불·물동이가 이웃 인물 사이에 있어 소속이 모호 / 오른쪽 끝 화로가 프레임에 잘림.
+
+---
+
+## 9. 남은 단원 계획 (2026-10-13 기준 · 그림판 87장 → 약 24장 · 사실 수는 틀 행 제외)
+
+| 통합판 | 지금 낱장 | 사실 수 | 판정 |
+|---|---|---|---|
+| **六淫** | s15p01~06 (6) | 24 | ✅ `s15u01` 완료 |
+| 五行 왕국 | s09p01~05 (5) | 20 | 한 장 |
+| 八卦 마주봄 | s10p02~05 (4) | 13 | 한 장 |
+| 宣明五氣 오장 방 | s11p01~05 (5) | 25 | 한 장 |
+| 望色 五色 | s12p01~06 (6) | 24 | 한 장 — 틀 소실 s12p01 포함 |
+| 問診·切診 | s12p07·09·10 (3) | 14 | 한 장 |
+| 六經 | s13p01~06 (6) | 24 | 한 장 — 틀 소실 s13p04·05 포함 |
+| 溫病 衛氣營血 | s13p07~10 (4) | 17 | 한 장 — 틀 소실 s13p08 포함 |
+| 本草 ① 補·溫 / ② 瀉·毒·修治 | s14p01·02·04·05 / s14p03·06·10 | 21 / 14 | 두 장 |
+| 方劑 | s14p07~09 (3) | 14 | 한 장 |
+| 七情·병리산물·飮食勞逸 | s15p07~10 (4) | 17 | 한 장 |
+| 邪正盛衰 / 陰陽失調 / 氣血·內生五邪 | s16p01·02 / 03~06 / 07~10 | 14 / 25 / 26 | 세 장 — 틀 소실 s16p10 포함 |
+| 舍岩鍼法 / 八會穴 | s18p09·10 / s18p11·12 | 17 / 12 | 두 장 — 틀 소실 s18p10·s18p11 포함 |
+| 藏象 오장 | s20p01~05 (+쌍둥이 s20p08) | 20 (+9) | 한 장 + 쌍둥이 판 별도 |
+| 의학사 | s01~s08 (14) | 98 | 5~6장 |
+| 도해(D) 23장 | — | — | **그대로 둔다**(글자 허용 트랙) |
+
+---
+
+## 부록 E — `library.json` · `scenes.json` 실제 항목 (s15u01)
+
+새 패널(틀 행 + 구역 행 하나만 발췌):
+```json
+{"id": "s15u01", "title": "六淫 — 담 밖 계절 길 (風·暑·火·濕·燥·寒)", "tag": "병인·六淫", "track": "B",
+ "rows": [
+  {"prop": "마을 흙담 바깥 길 — 왼쪽 봄에서 한여름 둘·장마·가을을 지나 오른쪽 겨울로 계절이 바뀌고, 그 위에 같은 생김새 여섯 사람",
+   "fact": "六淫 = 外感 病因 — 四時의 六氣가 太過·不及·非時하면 邪가 된다 · 계절 순서가 主氣 배속(風春·暑火夏·濕長夏·燥秋·寒冬)",
+   "trap": false,
+   "why": "담 바깥(外)의 길 = 밖에서 들어오는 外感. … ▸ 단원 통합(2026-10-13) — s15p01~p06 여섯 낱장을 한 장으로 합쳤다. … blind13: 판 표제어 六淫 95% · 95%, 여섯 인물 표제어 6/6 · 6/6."},
+  {"prop": "[風·봄] 머리에서 벗겨져 날아가는 밀짚모자 + 옆으로 흩날리는 소매·꽃잎",
+   "fact": "輕揚開泄 · 易襲陽位 — 가볍게 떠올라 위·바깥을 친다",
+   "trap": false,
+   "why": "모든 것이 위로·바깥으로 날리는 방향이 곧 성질. … ▸ 단원 통합(2026-10-13) — s15p01[1]에서 옮김."}
+ ],
+ "quiz": []}
+```
+보관한 낱장(`retired` 배열의 한 항목 — rows는 원래 그대로):
+```json
+{"id": "s15p01", "title": "六淫 ① 風邪 — 百病之長", "tag": "병인·六淫", "track": "B", "rows": […], "quiz": [], "merged_into": "s15u01"}
+```
+`scenes.json` 변경:
+```json
+{"title": "장면 15 · 병인 — 六淫·七情·병리산물·飮食勞逸", "ids": ["s15u01", "s15p07", "s15p08", "s15p09", "s15p10"]}
+"chips": [ …, ["s15u01", "장면 15"], … ]      // 전에는 ["s15p01", "장면 15"]
+```
+
+## 부록 A — `src/coverage/gemini_capture.js` (오버레이 캡처 도우미)
+```js
+// Gemini 결과 그림을 원본 화소로 내려받기 위한 오버레이 캡처 도우미 (2026-10-13)
+// Gemini 페이지는 TrustedHTML 정책이라 innerHTML 을 못 쓴다 → createElement 로만 만든다.
+// 사용: javascript_tool 로 이 파일 내용을 한 번 실행 → window.__setup() → window.__show2(tx,ty,tw,th) → zoom 캡처 → window.__show2(-1)
+window.__setup = function (idx) {
+  // idx 생략 시 화면의 마지막 생성 그림(사용자 첨부 썸네일 제외)
+  const ims = [...document.querySelectorAll('img')].filter(i => i.naturalWidth > 400 && !i.closest('user-query'));
+  const im = idx === undefined ? ims[ims.length - 1] : ims[idx];
+  window.__src = im.src; window.__W = im.naturalWidth; window.__H = im.naturalHeight;
+  return window.__W + 'x' + window.__H + ' (생성 그림 ' + ims.length + '장 중 ' + (idx === undefined ? ims.length - 1 : idx) + '번)';
+};
+window.__show2 = function (tx, ty, tw, th) {
+  // 그림의 (tx,ty)부터 tw×th CSS px 를 화면 왼쪽 위에 원본 배율로 띄우고, 오른쪽·아래 24px 를 마젠타로 두른다.
+  let d = document.getElementById('__ov'); if (d) d.remove();
+  if (tx < 0) return 'off';
+  d = document.createElement('div'); d.id = '__ov';
+  d.style.cssText = 'position:fixed;left:0;top:0;width:' + (tw + 24) + 'px;height:' + (th + 24) + 'px;background:#ff00ff;z-index:2147483647;';
+  document.body.appendChild(d);
+  const inner = document.createElement('div');
+  inner.style.cssText = 'position:absolute;left:0;top:0;width:' + tw + 'px;height:' + th + 'px;overflow:hidden;background:#ff00ff';
+  const im = document.createElement('img'); im.src = window.__src;
+  im.style.cssText = 'position:absolute;left:' + (-tx) + 'px;top:' + (-ty) + 'px;width:' + window.__W + 'px;height:' + window.__H + 'px;max-width:none;display:block';
+  inner.appendChild(im); d.appendChild(inner);
+  return [tx, ty, tw, th].join(':');
+};
+```
+
+## 부록 B — `src/coverage/tile_stitch.py` (타일 자르기 공용 함수 · 맞닿기 스티치)
+```python
+import sys, numpy as np
+from PIL import Image
+def _magenta(a):
+    return (a[:,:,0]>170)&(a[:,:,1]<100)&(a[:,:,2]>170)
+def crop_tile(path, probe=10):
+    """타일은 왼쪽 위 모서리에 닿아 있다 — 오른쪽·아래의 마젠타 테두리 바로 앞까지 자른다.
+       (2026-10-13 개정) 예전엔 4px 안쪽을 잘라 늘렸는데, 그만큼 타일이 늘어나 이음매가 2~3px 어긋났다.
+       이제는 경계에서 정확히 자르고, 경계에 번진 마젠타 한두 줄은 붙일 때 안쪽 줄로 덮는다."""
+    im=Image.open(path).convert('RGB'); a=np.asarray(im).astype(int)
+    mag=_magenta(a); h,w=mag.shape
+    ys=np.where(mag[:, probe])[0]; xs=np.where(mag[probe, :])[0]
+    y1=int(ys[0]) if len(ys) else h; x1=int(xs[0]) if len(xs) else w
+    return im.crop((0,0,x1,y1))
+def _defringe(t, n=2):
+    a=np.asarray(t).astype(int).copy()
+    for _ in range(n):
+        h,w,_=a.shape
+        tint=lambda px: (px[...,0]-px[...,1]>60)&(px[...,2]-px[...,1]>60)
+        if tint(a[:,-1]).mean()>0.02: a[:,-1]=a[:,-2]
+        if tint(a[-1,:]).mean()>0.02: a[-1,:]=a[-2,:]
+    # 경계 한 줄은 늘 안쪽과 같게 — 반올림으로 섞인 색 제거
+    a[:,-1]=a[:,-2]; a[-1,:]=a[-2,:]
+    return Image.fromarray(a.astype('uint8'))
+def stitch(files, out, W=1024, H=1024, T=512):
+    """files: 타일 순서 (0,0),(T,0),(0,T),(T,T)… 행 우선. 각 타일을 CSS 크기로 되돌려 붙인다."""
+    cv=Image.new('RGB',(W,H)); k=0
+    for ty in range(0,H,T):
+        for tx in range(0,W,T):
+            tw=min(T,W-tx); th=min(T,H-ty)
+            c=crop_tile(files[k]); print(files[k][-12:], c.size, '->', (tw,th))
+            cv.paste(_defringe(c.resize((tw,th),Image.LANCZOS)), (tx,ty)); k+=1
+    cv.save(out); return cv
+if __name__=='__main__':
+    # usage: tile_stitch.py out.png W H tile1 tile2 ...
+    out=sys.argv[1]; W=int(sys.argv[2]); H=int(sys.argv[3])
+    stitch(sys.argv[4:], out, W, H)
+```
+
+## 부록 C — `src/coverage/tile_stitch2.py` (겹침 타일 정합 붙이기)
+```python
+"""겹치는 타일 캡처를 정합(registration)해 붙인다 — 2026-10-13.
+   tile_stitch.py 는 타일 경계가 맞닿기만 해서, 캡처 배율의 1~2px 오차가 2배 확대 뒤 이음매로 보였다.
+   여기서는 타일을 겹치게 찍고(겹침 ≥ 64px), 겹친 띠에서 ±6px 탐색으로 어긋남을 찾아 맞춘 뒤 페더로 섞는다.
+   usage: tile_stitch2.py out.png W H  file:tx:ty:tw:th  file:tx:ty:tw:th ..."""
+import sys, numpy as np
+from PIL import Image
+from tile_stitch import crop_tile, _defringe
+
+def place(files, W, H, out):
+    cv=np.zeros((H,W,3)); wt=np.zeros((H,W))
+    for spec in files:
+        f,tx,ty,tw,th=spec.split(':'); tx,ty,tw,th=map(int,(tx,ty,tw,th))
+        t=np.asarray(_defringe(crop_tile(f).resize((tw,th),Image.LANCZOS))).astype(float)
+        # 이미 놓인 부분과 겹치는 곳에서 어긋남 찾기
+        best=(None,0,0)
+        if wt[ty:ty+th, tx:tx+tw].sum()>0:
+            for dy in range(-6,7):
+                for dx in range(-6,7):
+                    y0,x0=ty+dy,tx+dx
+                    ys=slice(max(y0,0),min(y0+th,H)); xs=slice(max(x0,0),min(x0+tw,W))
+                    m=wt[ys,xs]>0.99
+                    if m.sum()<2000: continue
+                    a=cv[ys,xs][m]; b=t[ys.start-y0:ys.stop-y0, xs.start-x0:xs.stop-x0][m]
+                    e=np.mean((a-b)**2)
+                    if best[0] is None or e<best[0]: best=(e,dx,dy)
+        e,dx,dy=best; y0,x0=ty+dy,tx+dx
+        print(f[-14:], 'offset', dx, dy, 'mse', None if e is None else round(e,1))
+        # 페더 가중: 타일 가장자리 24px 에서 0→1
+        yy=np.arange(th)[:,None]; xx=np.arange(tw)[None,:]
+        F=24.0
+        w=np.minimum(np.minimum((yy+1)/F,(th-yy)/F),np.minimum((xx+1)/F,(tw-xx)/F)).clip(0,1)
+        # 그림 바깥 가장자리(0 또는 W/H에 닿는 변)는 페더하지 않음
+        ys=slice(max(y0,0),min(y0+th,H)); xs=slice(max(x0,0),min(x0+tw,W))
+        tt=t[ys.start-y0:ys.stop-y0, xs.start-x0:xs.stop-x0]; ww=w[ys.start-y0:ys.stop-y0, xs.start-x0:xs.stop-x0]
+        cv[ys,xs]+=tt*ww[...,None]; wt[ys,xs]+=ww
+    # 가장자리에서 가중이 0인 곳 보정
+    cv=cv/np.maximum(wt,1e-6)[...,None]
+    Image.fromarray(np.clip(cv,0,255).astype('uint8')).save(out)
+
+if __name__=='__main__':
+    out=sys.argv[1]; W=int(sys.argv[2]); H=int(sys.argv[3])
+    place(sys.argv[4:], W, H, out)
+```
+
+## 부록 D — `src/coverage/zone_kit.py` (plan · crop · compose · finish)
+```python
+"""구역 편집 키트 — 단원 통합판을 「바탕 한 장 + 구역별 편집 + 다시 붙이기」로 만드는 도구 (2026-10-13).
+
+  python3 zone_kit.py crop    base.png  out_dir  --centers 530,660,810,955  [--cssw 1024]
+      바탕 그림(CSS 1024 폭 기준 좌표)에서 구역 중심마다 9:16 세로 조각을 잘라 2배로 키워 저장한다.
+      → out_dir/crop_<i>.png  +  out_dir/crops.json  (조각의 CSS 좌표 상자)
+
+  python3 zone_kit.py compose config.json out.png
+      config 예:
+      {"base": "base2x.png", "cssw": 1024,
+       "crops": "crops.json",
+       "zones": [ {"crop": 0, "img": "Z0.png", "own": [440, 600]},     # own = 이 구역이 소유하는 CSS x 범위
+                  {"crop": 1, "img": "Z1.png", "own": [600, 738]},
+                  {"crop": 3, "img": "Z3.png", "own": [905, 1024]} ],
+       "patches": [ {"zone": 2, "ellipse": [1467, 738, 60, 58], "shift": [18, 0]} ],   # 바탕 픽셀 좌표
+       "feather": 14, "search": 12}
+      - 각 구역 편집본을 바탕 위 제자리에 자동 정합(±search px, 하늘·담 띠로 오차 최소)한다.
+      - 소유 범위(own) 바깥은 바탕 그대로, 경계는 feather px 로 섞는다.
+      - 이웃 구역과 x 범위가 겹치는 소품은 patches 로 타원째 옮겨 붙인다(shift 로 살짝 비켜 놓을 수 있다).
+        patches.zone = zones 배열 순번(0부터) · ellipse = 편집본 속 소품의 원래 중심·반지름(바탕 픽셀) · shift 만큼 옮겨 붙인다.
+      - band(선택, 기본 [0.07,0.38]) = 정합에 쓰는 조각 높이 비율 띠. 소품이 없는 하늘·담 높이로.
+
+  python3 zone_kit.py plan W H [--scale 2]     캡처 타일 계획(__show2 호출 + tile_stitch2 인자)을 찍는다
+  python3 zone_kit.py finish comp.png out.webp [--wm x0,y0,x1,y1 ...]   워터마크 메우기 + 언샤프 + webp
+"""
+import sys, json, argparse
+import numpy as np
+from PIL import Image
+from scipy.ndimage import binary_erosion, gaussian_filter
+
+def cmd_crop(a):
+    base=Image.open(a.base).convert('RGB'); s=base.width/a.cssw
+    H=round(base.height/s); cw=round(H*9/16)
+    boxes=[]
+    for i,c in enumerate(int(v) for v in a.centers.split(',')):
+        x0=max(0,min(a.cssw-cw,c-cw//2)); box=(x0,0,x0+cw,H); boxes.append(box)
+        px=tuple(round(v*s) for v in box)
+        base.crop(px).resize((2*cw,2*H),Image.LANCZOS).save(f'{a.out_dir}/crop_{i}.png')
+    json.dump(boxes,open(f'{a.out_dir}/crops.json','w')); print('crops',boxes,'(CSS 좌표, 업로드 크기',2*cw,'x',2*H,')')
+
+def cmd_compose(a):
+    cfg=json.load(open(a.config)); B=np.asarray(Image.open(cfg['base']).convert('RGB')).astype(float)
+    H,W,_=B.shape; s=W/cfg.get('cssw',1024); crops=json.load(open(cfg['crops']))
+    F=cfg.get('feather',14); R=cfg.get('search',12); C=B.copy(); x=np.arange(W); L=[]; COV=[]
+    for zi,z in enumerate(cfg['zones']):
+        x0,y0,x1,y1=[round(v*s) for v in crops[z['crop']]]; zw,zh=x1-x0,y1-y0
+        Z=np.asarray(Image.open(z['img']).convert('RGB').resize((zw,zh),Image.LANCZOS)).astype(float)
+        # 정합: 위쪽 띠(하늘·담) 7%~38% 높이, 좌우 4% 안쪽
+        band=cfg.get('band',[0.07,0.38]); ya,yb=int(zh*band[0]),int(zh*band[1]); xa,xb=int(zw*.04),int(zw*.96); best=None
+        for dy in range(-R,R+1):
+            for dx in range(-R,R+1):
+                b=B[ya+dy+y0:yb+dy+y0, x0+xa+dx:x0+xb+dx]
+                if b.shape!=(yb-ya,xb-xa,3): continue
+                e=np.mean((Z[ya:yb,xa:xb]-b)**2)
+                if best is None or e<best[0]: best=(e,dx,dy)
+        e,dx,dy=best; print(f"zone {zi} ({z['img']}): 정합 dx={dx} dy={dy} mse={e:.1f}" + ("  ⚠ mse 큼 — 편집이 구도를 바꿨는지 확인" if e>300 else ""))
+        l=np.zeros_like(B); c=np.zeros((H,W))
+        ys=np.arange(zh)+y0+dy; xs=np.arange(zw)+x0+dx; vy=(ys>=0)&(ys<H); vx=(xs>=0)&(xs<W)
+        l[np.ix_(ys[vy],xs[vx])]=Z[np.ix_(np.where(vy)[0],np.where(vx)[0])]; c[np.ix_(ys[vy],xs[vx])]=1
+        cov=binary_erosion(c>0,iterations=6).astype(float)
+        cov[:8,:]=c[:8,:]; cov[-8:,:]=c[-8:,:]; cov[:,:8]=c[:,:8]; cov[:,-8:]=c[:,-8:]   # 그림 바깥 테두리 변은 깎지 않음
+        L.append(l); COV.append(cov)
+        oa,ob=[round(v*s) for v in z['own']]
+        left=np.ones(W) if oa<=0 else np.clip((x-(oa-F))/(2*F),0,1)
+        right=np.ones(W) if ob>=W else np.clip(((ob+F)-x)/(2*F),0,1)
+        M=np.tile(left*right,(H,1))*cov
+        C=C*(1-M[...,None])+l*M[...,None]
+    yy,xx=np.mgrid[0:H,0:W]
+    for p in cfg.get('patches',[]):
+        cx,cy,rx,ry=p['ellipse']; sx,sy=p.get('shift',[0,0])
+        m=((((xx-cx-sx)/rx)**2+((yy-cy-sy)/ry)**2)<=1).astype(float); m=gaussian_filter(m,4)
+        src=np.roll(np.roll(L[p['zone']],sx,axis=1),sy,axis=0)
+        C=C*(1-m[...,None])+src*m[...,None]
+    Image.fromarray(np.clip(C,0,255).astype('uint8')).save(a.out); print('saved',a.out,(W,H))
+
+def cmd_plan(a):
+    """캡처 타일 계획 — W×H(__setup() 이 돌려준 값) 그림을 576×≤560 타일로 겹쳐 덮는 __show2 호출과 tile_stitch2 인자를 찍는다."""
+    W,H,k=a.W,a.H,a.scale; TW,TH,OV=576,560,96
+    def starts(L,T):
+        if L<=T: return [0],L
+        n=1; 
+        while (L-T)/n>T-OV: n+=1
+        return [round(i*(L-T)/n) for i in range(n+1)],T
+    xs,tw=starts(W,TW); ys,th=starts(H,TH)
+    print(f'# {W}x{H} → 타일 {len(xs)*len(ys)}장 ({tw}x{th}), zoom 영역 [0,0,820,800] (스크린샷으로 좌표계 1456x816 고정 뒤)')
+    specs=[]
+    for ty in ys:
+        for tx in xs:
+            print(f'window.__show2({tx},{ty},{tw},{th})   → zoom → 저장 경로를 아래 SHOT_{len(specs)} 자리에')
+            specs.append(f'SHOT_{len(specs)}:{k*tx}:{k*ty}:{k*tw}:{k*th}')
+    print('window.__show2(-1)')
+    print(f'python3 tile_stitch2.py OUT.png {k*W} {k*H} '+' '.join(specs))
+
+def cmd_finish(a):
+    """마무리 — (선택) 워터마크 ✦ 메우기 → 약한 언샤프 → webp.  --wm x0,y0,x1,y1 는 ✦ 를 둘러싼 상자(합성본 픽셀)."""
+    from PIL import ImageFilter
+    from scipy.ndimage import median_filter, binary_dilation, label
+    im=np.asarray(Image.open(a.inp).convert('RGB')).astype(float)
+    for box in a.wm or []:
+        # --wm 상자는 눈으로 ✦ 를 확인하고 그것만 감싸게 잡는다(자동 탐지는 하지 않는다 — 불빛·눈송이를 지운다).
+        # 상자에 내접한 타원 안에서, 주변 중앙값보다 밝은(+6) 덩어리 중 가운데에 가장 가까운 것을 메운다.
+        x0,y0,x1,y1=map(int,box.split(',')); sub=im[y0:y1,x0:x1].copy(); lum=sub.mean(2)
+        h,w=lum.shape; yy,xx=np.mgrid[0:h,0:w]
+        ell=(((xx-w/2)/(w/2))**2+((yy-h/2)/(h/2))**2)<=1
+        m=((lum-median_filter(lum,size=31))>6)&ell; lab,n=label(m)
+        cand=[i for i in range(1,n+1) if (lab==i).sum()>=30]
+        if not cand: print('wm',box,'밝은 덩어리 없음 — 건너뜀'); continue
+        def dist(i):
+            ys,xs=np.where(lab==i); return (ys.mean()-h/2)**2+(xs.mean()-w/2)**2
+        best=min(cand,key=dist); mm=binary_dilation(lab==best,iterations=2)
+        Image.fromarray(np.clip(np.concatenate([sub,np.where(mm[...,None],[255,0,255],sub)],1),0,255).astype('uint8')).resize((4*w,2*h)).save(a.out+f'.wm_{x0}_{y0}.png')
+        o1=sub.copy(); o2=sub.copy()
+        for y in range(mm.shape[0]):
+            if mm[y].any():
+                k=np.where(~mm[y])[0]
+                for c in range(3): o1[y,:,c]=np.interp(np.arange(mm.shape[1]),k,sub[y,k,c])
+        for x in range(mm.shape[1]):
+            if mm[:,x].any():
+                k=np.where(~mm[:,x])[0]
+                for c in range(3): o2[:,x,c]=np.interp(np.arange(mm.shape[0]),k,sub[k,x,c])
+        f=(o1+o2)/2+np.random.default_rng(1).normal(0,1.2,sub.shape); sub[mm]=f[mm]; im[y0:y1,x0:x1]=sub
+        print('wm',box,'메움',int(mm.sum()),'px')
+    out=Image.fromarray(np.clip(im,0,255).astype('uint8')).filter(ImageFilter.UnsharpMask(radius=1.2,percent=60,threshold=2))
+    out.save(a.out,quality=84,method=6); print('saved',a.out,out.size)
+
+if __name__=='__main__':
+    ap=argparse.ArgumentParser(); sp=ap.add_subparsers(dest='cmd',required=True)
+    p=sp.add_parser('crop'); p.add_argument('base'); p.add_argument('out_dir'); p.add_argument('--centers',required=True); p.add_argument('--cssw',type=int,default=1024)
+    p=sp.add_parser('compose'); p.add_argument('config'); p.add_argument('out')
+    p=sp.add_parser('plan'); p.add_argument('W',type=int); p.add_argument('H',type=int); p.add_argument('--scale',type=int,default=1)
+    p=sp.add_parser('finish'); p.add_argument('inp'); p.add_argument('out'); p.add_argument('--wm',action='append')
+    a=ap.parse_args(); {'crop':cmd_crop,'compose':cmd_compose,'plan':cmd_plan,'finish':cmd_finish}[a.cmd](a)
+```
+
+> 검산(2026-10-13): 부록 코드만 따로 떼어 六淫의 실제 입력으로 돌리면 — 바탕 스티치는 원본과 화소 평균차 0.0, `compose`는 수작업 합성본과 0.003, `crop`은 원래 조각 상자와 동일, `finish --wm`은 실제 ✦(s01p02 재작도본)를 701px 정확히 메움.

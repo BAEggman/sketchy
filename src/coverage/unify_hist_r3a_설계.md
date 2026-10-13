@@ -42,3 +42,4 @@
 - **워터마크**: Z5 결과에 ✦ 하나(2배 1885–1942 × 1368–1420). `finish --wm`의 자동 채움이 반만 칠해 → 흰 벽 판의 중앙값 색으로 별 모양만 덮음.
 - **판독 1차 12~13/15 → 재편집 3곳 → 2차 15/15 ×2** (blind14_report.md).
 - 결과: `src/board_hist/r3a.webp`(2048×1530) · 편집용 `r3a_master.webp` · 행 `rows_r3a.json`(16행 = 틀 1 + 15).
+- Gemini 채팅(다시 열어 손질할 때): 바탕 `app/0a64d1323cefd46d` · Z1 `app/d3964c7428b88aee` · Z2 `app/87e87884acc3f2e4` · Z3 `app/ba7353d0e4902db5` · Z4 `app/46c606f2f703555f` · Z5A `app/1193a6cacb627566` · Z5B `app/afd12eccc5d5a031`

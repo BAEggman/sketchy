@@ -4,3 +4,5 @@ src/coverage/blind12/*.png
 src/coverage/blind13/*.png
 src/coverage/blind13/crop_*/
 __pycache__/
+src/coverage/blind14/*.png
+src/coverage/blind14/crop_*/

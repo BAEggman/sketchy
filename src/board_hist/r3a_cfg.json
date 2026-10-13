@@ -1,0 +1,81 @@
+{
+ "base": "base2x.png",
+ "cssw": 1024,
+ "crops": "crops.json",
+ "zones": [
+  {
+   "crop": 0,
+   "img": "Z1.png",
+   "own": [
+    0,
+    230
+   ]
+  },
+  {
+   "crop": 1,
+   "img": "Z2.png",
+   "own": [
+    230,
+    370
+   ]
+  },
+  {
+   "crop": 2,
+   "img": "Z3.png",
+   "own": [
+    370,
+    568
+   ]
+  },
+  {
+   "crop": 3,
+   "img": "Z4.png",
+   "own": [
+    568,
+    790
+   ]
+  },
+  {
+   "crop": 5,
+   "img": "Z5.png",
+   "own": [
+    790,
+    1024
+   ]
+  }
+ ],
+ "patches": [
+  {
+   "zone": 1,
+   "ellipse": [
+    480,
+    924,
+    110,
+    100
+   ],
+   "shift": [
+    0,
+    0
+   ]
+  },
+  {
+   "zone": 4,
+   "ellipse": [
+    1594,
+    226,
+    132,
+    84
+   ],
+   "shift": [
+    0,
+    0
+   ]
+  }
+ ],
+ "feather": 14,
+ "search": 12,
+ "band": [
+  0.12,
+  0.47
+ ]
+}

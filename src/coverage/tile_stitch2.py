@@ -20,7 +20,7 @@ def place(files, W, H, out):
                     ys=slice(max(y0,0),min(y0+th,H)); xs=slice(max(x0,0),min(x0+tw,W))
                     m=wt[ys,xs]>0.99
                     if m.sum()<2000: continue
-                    a=cv[ys,xs][m]; b=t[ys.start-y0:ys.stop-y0, xs.start-x0:xs.stop-x0][m]
+                    a=cv[ys,xs][m]/wt[ys,xs][m][:,None]; b=t[ys.start-y0:ys.stop-y0, xs.start-x0:xs.stop-x0][m]
                     e=np.mean((a-b)**2)
                     if best[0] is None or e<best[0]: best=(e,dx,dy)
         e,dx,dy=best; y0,x0=ty+dy,tx+dx

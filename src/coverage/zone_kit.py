@@ -60,15 +60,26 @@ def cmd_compose(a):
         cov[:8,:]=c[:8,:]; cov[-8:,:]=c[-8:,:]; cov[:,:8]=c[:,:8]; cov[:,-8:]=c[:,-8:]   # 그림 바깥 테두리 변은 깎지 않음
         L.append(l); COV.append(cov)
         oa,ob=[round(v*s) for v in z['own']]
-        left=np.ones(W) if oa<=0 else np.clip((x-(oa-F))/(2*F),0,1)
-        right=np.ones(W) if ob>=W else np.clip(((ob+F)-x)/(2*F),0,1)
-        M=np.tile(left*right,(H,1))*cov
+        def lr(Fz):
+            left=np.ones(W) if oa<=0 else np.clip((x-(oa-Fz))/(2*Fz),0,1)
+            right=np.ones(W) if ob>=W else np.clip(((ob+Fz)-x)/(2*Fz),0,1)
+            return left*right
+        M=np.tile(lr(F),(H,1))
+        # 2026-10-13 띠별 페더 — 하늘처럼 넓게 번지는 바탕은 경계를 넓게 섞는다: cfg['band_feather']=[[y0,y1,F2],..] (합성본 픽셀)
+        for y0b,y1b,F2 in cfg.get('band_feather',[]):
+            M[y0b:y1b]=lr(F2)
+        M=M*cov
         C=C*(1-M[...,None])+l*M[...,None]
     yy,xx=np.mgrid[0:H,0:W]
     for p in cfg.get('patches',[]):
-        cx,cy,rx,ry=p['ellipse']; sx,sy=p.get('shift',[0,0])
-        m=((((xx-cx-sx)/rx)**2+((yy-cy-sy)/ry)**2)<=1).astype(float); m=gaussian_filter(m,4)
-        src=np.roll(np.roll(L[p['zone']],sx,axis=1),sy,axis=0)
+        sx,sy=p.get('shift',[0,0])
+        if 'rect' in p:   # 2026-10-13 직사각 띠 소유(레인 하나만 다른 구역에서 가져올 때) — 가장자리 페더 p['feather'](기본 10)
+            x0r,y0r,x1r,y1r=p['rect']
+            m=((xx>=x0r)&(xx<x1r)&(yy>=y0r)&(yy<y1r)).astype(float); m=gaussian_filter(m,p.get('feather',10))
+        else:
+            cx,cy,rx,ry=p['ellipse']
+            m=((((xx-cx-sx)/rx)**2+((yy-cy-sy)/ry)**2)<=1).astype(float); m=gaussian_filter(m,4)
+        src=np.roll(np.roll(B if p.get('base') else L[p['zone']],sx,axis=1),sy,axis=0)   # base:true = 바탕 원본에서 가져옴(워터마크 ✦ 지우기 등)
         C=C*(1-m[...,None])+src*m[...,None]
     Image.fromarray(np.clip(C,0,255).astype('uint8')).save(a.out); print('saved',a.out,(W,H))
 

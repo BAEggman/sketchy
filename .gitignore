@@ -6,3 +6,7 @@ src/coverage/blind13/crop_*/
 __pycache__/
 src/coverage/blind14/*.png
 src/coverage/blind14/crop_*/
+src/coverage/blind15z/*.png
+src/coverage/blind15z/crop_*/
+src/coverage/blind15/*.png
+src/coverage/blind15/crop_*/

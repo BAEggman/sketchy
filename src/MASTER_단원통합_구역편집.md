@@ -142,6 +142,15 @@ python3 zone_kit.py crop base2x.png <scratch>/u13 --centers 530,660,810,955 --cs
 
 구역 그림마다 `zone_kit.py plan 576 1024`가 찍어 주는 대로 캡처 → `tile_stitch2.py`로 `Z0.png…`(576×1024)를 만든다.
 
+### ⑦-b 구역 판독 1세션 (2026-10-13 사용자 지시 — 「매번 그릴 때마다 블라인드테스트를 1세션」)
+
+- 구역 편집본을 하나 받을 때마다(같은 채팅 고침 포함) **새 하위 에이전트 하나**에 그 구역 그림만 보여 준다: `blind<N>z/z<두 자리>.png`(번호는 섞어서 — 구역 순서가 드러나지 않게), 대응표는 `blind<N>z_map.json`.
+- 프롬프트는 `coverage/blind15z_prompt.txt`(§5-4를 「말판 한 줄의 세로 띠 하나」로 줄인 것). 생판 → 사전 2단계, 보고는 레인·표제어·사실 한 줄씩.
+- **판정**: 그 구역이 진 행의 표제어와 사실이 **2단계에서** 나오면 복원. 안 나오면 오독 원인(옷 색·모자·소품 재질이 다른 글자를 부르는지)을 보고 **같은 채팅에서** 고친 뒤 다시 1세션. 이웃 띠에 걸친 사람·소품은 채점하지 않는다.
+- 사전에 없는 기호가 원인이면(예: 말 = 馬) 역검색(규칙 173) 후 `glyph_dict.py`와 `blind6_사전요약.md`에 **신설**로 등재하고 다시 읽힌다.
+- 세 번 고쳐도 안 읽히면 잔결로 적고 넘어간다(③줄 元 診脈圖訣 — 3회 실패).
+- 구간을 다 합친 뒤의 2인 최종 판독(⑪)은 그대로 한다.
+
 ### ⑧ 합성
 
 ```
@@ -159,6 +168,10 @@ python3 zone_kit.py compose cfg.json comp.png
 ```
 - `crop` = `crops.json`의 순번. `own` = 그 구역 편집본이 차지할 **1024 기준 x 범위** — 경계는 **사람과 사람 사이 빈 땅**에 둔다. 왼쪽 끝 구역이 아니면 첫 구역의 시작은 ③에서 끝낸 구역과의 경계다(六淫 440 = 暑와 火 사이).
 - 정합은 `band` 높이 띠로 ±`search` px 자동 탐색. 출력의 `mse`가 300을 넘으면 그 구역 편집이 구도를 바꾼 것 — 다시 편집. **단, 띠 안에 새 소품을 넣은 구역은 mse가 높아도 `|dx|,|dy| ≤ 5`이고 눈으로 어긋남이 없으면 통과.**
+- ⚠ **`own`은 그 구역 crop 안에서 끝낸다** — crop 밖으로 나간 자리는 편집본이 없어 바탕이 비친다(③줄 元: own 708 > crop 끝 670 → 흙더미에 이음선).
+- `patches[].rect: [x0,y0,x1,y1]`(+`feather`) — 레인 하나만 다른 구역에서 가져올 때(③줄 元: 길 레인은 YC, 하늘·강·거리는 YD). 그 구역의 `own`은 `[1100,1100]`처럼 화면 밖으로 두어 띠 소유를 끈다.
+- `patches[].base: true` — 바탕 원본에서 타원을 가져온다(다른 구역의 ✦ 워터마크가 남은 자리, 지웠어야 할 판).
+- `band_feather: [[y0,y1,F]]` — 하늘처럼 넓은 색 띠는 그 행들만 페더를 넓힌다(③줄 元 하늘 x=362 이음 → `[[0,170,120]]`).
 - `patches`: 이웃 구역 소품과 x가 겹쳐 띠 경계로는 살릴 수 없는 소품을 타원째 옮겨 붙인다.
   `zone` = **zones 배열 순번**(0부터) · `ellipse` = 그 소품이 **편집본에 있던 자리**의 중심·반지름(**바탕 2배 픽셀**) · `shift` = 옮길 거리. 六淫: 燥의 물동이가 濕의 화로와 x가 겹쳐 18px 오른쪽으로 옮겨 붙였다.
 
@@ -309,6 +322,13 @@ python3 zone_kit.py finish comp.png <repo>/images/s13u01.webp --wm 1210,760,1260
 | 이웃 구역 소품이 띠 경계에서 반쪽 | 두 구역 소품의 x 범위가 겹침 | 설계에서 층을 나누거나 `patches` |
 | 합성 정합 mse가 300을 넘음 | 편집이 구도를 바꿨거나, 정합 띠에 새 소품 | 구도가 바뀌었으면 재편집 / 띠 소품이면 `band` 조정 또는 |dx|,|dy|≤5 확인 후 통과 |
 | 판독자가 「흰 부채」「곰팡이」 뜻을 못 읽음 | 다른 판의 전담 기호를 빌린 소품이 통합판에선 홀로 남음 | 직접 읽히는 소품으로 교체(다음 손질) |
+| 좌표계가 1400×845로 잡힌 탭에서 마젠타 없음 (2026-10-13 ③줄 元) | 1164·1456 말고 셋째 좌표계 | 1400이면 zoom **[0,0,800,790]**. 캡처 전 스크린샷의 「coordinate frame」을 읽고 영역을 고른다 |
+| 저장된 캡처가 332×328처럼 작음 | zoom에 `scale`<1을 줬다 — 저장 파일도 그 배율 | 실제 캡처는 **scale 1**. 눈으로만 볼 때만 줄인다 |
+| `tile_stitch2` mse가 수천인데 offset은 0 | 겹친 곳의 누적합을 가중치로 안 나눈 채 비교(버그) | 고침(2026-10-13) — 정상 mse 한 자리~30 |
+| 빨간 소방관이 朱震亨으로 · 사모 챙·소방 모자가 太로 읽힘 (blind15z) | 옷 색(붉음=朱)·테 넓은 모자(=太 큰 갓)가 다른 글자를 부름 | 붉은 옷은 朱 아닌 인물에 쓰지 않는다 · 모자는 챙 없는 것으로. 구역 판독 1세션에서 바로 잡혔다 |
+| 「족자 하나를 더 걸어」 했더니 원래 족자를 바꿔 버림 | Gemini가 「더하기」를 「바꾸기」로 처리 | 더할 자리를 비어 있는 다른 벽·물건 위로 지정. 바뀐 것은 합성 때 바탕·행별 중앙값으로 메운다 |
+| 「한도가 재설정되는 대로 이미지를 더 생성할 수 있습니다」 | Gemini 이미지 생성 한도 | 그날은 합성·판독·기록으로 넘어가고, 고칠 것은 채팅 URL과 함께 적어 둔다 |
+| 합성본에 ✦ 워터마크가 남음 (구역마다 하나) | 구역 출력 오른쪽 아래(폭 0.85·높이 0.87)에 생긴 ✦가 그 구역 own 안 | 깨끗한 이웃 구역·바탕에서 타원 패치. 가로로 고른 벽은 행별 중앙값으로. cv2 inpaint는 큰 ✦에서 실패 |
 
 ---
 
@@ -460,7 +480,7 @@ def place(files, W, H, out):
                     ys=slice(max(y0,0),min(y0+th,H)); xs=slice(max(x0,0),min(x0+tw,W))
                     m=wt[ys,xs]>0.99
                     if m.sum()<2000: continue
-                    a=cv[ys,xs][m]; b=t[ys.start-y0:ys.stop-y0, xs.start-x0:xs.stop-x0][m]
+                    a=cv[ys,xs][m]/wt[ys,xs][m][:,None]; b=t[ys.start-y0:ys.stop-y0, xs.start-x0:xs.stop-x0][m]
                     e=np.mean((a-b)**2)
                     if best[0] is None or e<best[0]: best=(e,dx,dy)
         e,dx,dy=best; y0,x0=ty+dy,tx+dx
@@ -546,15 +566,26 @@ def cmd_compose(a):
         cov[:8,:]=c[:8,:]; cov[-8:,:]=c[-8:,:]; cov[:,:8]=c[:,:8]; cov[:,-8:]=c[:,-8:]   # 그림 바깥 테두리 변은 깎지 않음
         L.append(l); COV.append(cov)
         oa,ob=[round(v*s) for v in z['own']]
-        left=np.ones(W) if oa<=0 else np.clip((x-(oa-F))/(2*F),0,1)
-        right=np.ones(W) if ob>=W else np.clip(((ob+F)-x)/(2*F),0,1)
-        M=np.tile(left*right,(H,1))*cov
+        def lr(Fz):
+            left=np.ones(W) if oa<=0 else np.clip((x-(oa-Fz))/(2*Fz),0,1)
+            right=np.ones(W) if ob>=W else np.clip(((ob+Fz)-x)/(2*Fz),0,1)
+            return left*right
+        M=np.tile(lr(F),(H,1))
+        # 2026-10-13 띠별 페더 — 하늘처럼 넓게 번지는 바탕은 경계를 넓게 섞는다: cfg['band_feather']=[[y0,y1,F2],..] (합성본 픽셀)
+        for y0b,y1b,F2 in cfg.get('band_feather',[]):
+            M[y0b:y1b]=lr(F2)
+        M=M*cov
         C=C*(1-M[...,None])+l*M[...,None]
     yy,xx=np.mgrid[0:H,0:W]
     for p in cfg.get('patches',[]):
-        cx,cy,rx,ry=p['ellipse']; sx,sy=p.get('shift',[0,0])
-        m=((((xx-cx-sx)/rx)**2+((yy-cy-sy)/ry)**2)<=1).astype(float); m=gaussian_filter(m,4)
-        src=np.roll(np.roll(L[p['zone']],sx,axis=1),sy,axis=0)
+        sx,sy=p.get('shift',[0,0])
+        if 'rect' in p:   # 2026-10-13 직사각 띠 소유(레인 하나만 다른 구역에서 가져올 때) — 가장자리 페더 p['feather'](기본 10)
+            x0r,y0r,x1r,y1r=p['rect']
+            m=((xx>=x0r)&(xx<x1r)&(yy>=y0r)&(yy<y1r)).astype(float); m=gaussian_filter(m,p.get('feather',10))
+        else:
+            cx,cy,rx,ry=p['ellipse']
+            m=((((xx-cx-sx)/rx)**2+((yy-cy-sy)/ry)**2)<=1).astype(float); m=gaussian_filter(m,4)
+        src=np.roll(np.roll(B if p.get('base') else L[p['zone']],sx,axis=1),sy,axis=0)   # base:true = 바탕 원본에서 가져옴(워터마크 ✦ 지우기 등)
         C=C*(1-m[...,None])+src*m[...,None]
     Image.fromarray(np.clip(C,0,255).astype('uint8')).save(a.out); print('saved',a.out,(W,H))
 

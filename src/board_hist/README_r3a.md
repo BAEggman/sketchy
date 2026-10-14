@@ -29,4 +29,4 @@
 - 맨 아래 1~2px 분홍 띠(바탕 캡처 경계) → 최종본에서 지움.
 
 ## v2·v3 — 기괴함 설계 적용 (2026-10-14)
-`coverage/bizarre/기괴함_설계_20261013.md`. v1은 `prev/r3a_v1*.webp`. S 5행(SA·SB·SC 채팅) + A 4행(PA·PB) 구역 편집, 구역 판독 z33·z45·z14·z29 모두 ✓. 政和·方書(PC)와 최종 2인 판독은 Gemini 한도 뒤. 기록: `coverage/unify_hist_r3bc_설계.md` · `coverage/blind16_report.md`.
+`coverage/bizarre/기괴함_설계_20261013.md`. v1은 `prev/r3a_v1*.webp`. S 5행(SA·SB·SC 채팅) + A 6행(PA·PB·PC·PC2) 구역 편집 + 陳無擇 S→B(PD, 무 셋 → 세발 받침), 구역 판독 z33·z45·z14·z29·z63 ✓. 최종 2인(blind16 C·D): 13/15 · 13.5/15. 합성 설정 `r3a_cfg.json`(v5) + `r3a_cfg_v6_陳無擇.json`. 기록: `coverage/unify_hist_r3bc_설계.md` · `coverage/blind16_report.md`.

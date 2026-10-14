@@ -1,0 +1,74 @@
+{
+ "base": "base2x.png",
+ "cssw": 1024,
+ "crops": "crops.json",
+ "zones": [
+  {
+   "crop": 0,
+   "img": "SA.png",
+   "own": [
+    0,
+    210
+   ]
+  },
+  {
+   "crop": 1,
+   "img": "SB.png",
+   "own": [
+    400,
+    700
+   ]
+  },
+  {
+   "crop": 2,
+   "img": "SC.png",
+   "own": [
+    700,
+    1015
+   ]
+  },
+  {
+   "crop": 2,
+   "img": "SC1.png",
+   "own": [
+    1100,
+    1100
+   ]
+  }
+ ],
+ "patches": [
+  {
+   "zone": 3,
+   "rect": [
+    1720,
+    0,
+    2048,
+    520
+   ],
+   "feather": 16
+  },
+  {
+   "zone": -1,
+   "base": true,
+   "ellipse": [
+    1882,
+    1392,
+    66,
+    52
+   ]
+  }
+ ],
+ "feather": 14,
+ "search": 12,
+ "band": [
+  0.07,
+  0.38
+ ],
+ "band_feather": [
+  [
+   0,
+   170,
+   120
+  ]
+ ]
+}

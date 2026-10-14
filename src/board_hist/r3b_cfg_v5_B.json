@@ -1,0 +1,6 @@
+{"base":"base2x.png","cssw":1024,"crops":"crops.json",
+ "zones":[{"crop":0,"img":"ZJ.png","own":[1100,1100]},
+          {"crop":1,"img":"ZK3.png","own":[1100,1100]}],
+ "patches":[{"zone":0,"rect":[1400,480,1720,1420],"feather":10},
+            {"zone":1,"rect":[900,1225,1262,1510],"feather":8}],
+ "feather":14,"search":12,"band":[0.07,0.38]}

@@ -1,113 +1,50 @@
 {
  "base": "base2x.png",
  "cssw": 1024,
- "crops": "z/crops.json",
+ "crops": "crops.json",
  "zones": [
   {
    "crop": 0,
-   "img": "out/ZA.png",
+   "img": "MA.png",
    "own": [
     0,
-    190
+    200
    ]
   },
   {
    "crop": 1,
-   "img": "out/ZB3.png",
+   "img": "MB.png",
    "own": [
-    190,
-    488
+    200,
+    470
    ]
   },
   {
    "crop": 2,
-   "img": "out/ZC4.png",
+   "img": "MC.png",
    "own": [
-    488,
-    712
+    470,
+    650
    ]
   },
   {
    "crop": 3,
-   "img": "out/ZD.png",
+   "img": "MD.png",
    "own": [
-    712,
-    800
-   ]
-  },
-  {
-   "crop": 4,
-   "img": "out/ZE3.png",
-   "own": [
-    800,
-    1024
+    650,
+    1015
    ]
   }
  ],
  "patches": [
   {
-   "zone": 1,
+   "zone": -1,
+   "base": true,
    "ellipse": [
-    302,
-    540,
-    36,
-    60
-   ],
-   "shift": [
-    0,
-    0
-   ]
-  },
-  {
-   "zone": 2,
-   "ellipse": [
-    1394,
-    872,
-    92,
-    168
-   ],
-   "shift": [
-    0,
-    0
-   ]
-  },
-  {
-   "zone": 4,
-   "ellipse": [
-    1460,
-    300,
-    180,
-    200
-   ],
-   "shift": [
-    0,
-    0
-   ]
-  },
-  {
-   "zone": 3,
-   "ellipse": [
-    1430,
-    530,
-    58,
-    52
-   ],
-   "shift": [
-    0,
-    0
-   ]
-  },
-  {
-   "zone": 2,
-   "ellipse": [
-    940,
-    1392,
-    46,
-    42
-   ],
-   "shift": [
-    0,
-    0
+    1895,
+    1398,
+    56,
+    50
    ]
   }
  ],
@@ -116,5 +53,12 @@
  "band": [
   0.07,
   0.38
+ ],
+ "band_feather": [
+  [
+   0,
+   170,
+   120
+  ]
  ]
 }

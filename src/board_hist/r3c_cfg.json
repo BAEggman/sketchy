@@ -1,60 +1,80 @@
 {
  "base": "base2x.png",
  "cssw": 1024,
- "crops": "z/crops.json",
+ "crops": "crops.json",
  "zones": [
   {
    "crop": 0,
-   "img": "out/YA2.png",
+   "img": "YA.png",
    "own": [
     0,
-    362
+    245
    ]
   },
   {
    "crop": 1,
-   "img": "out/YB3.png",
+   "img": "YB.png",
    "own": [
-    362,
-    666
+    245,
+    590
    ]
   },
   {
    "crop": 2,
-   "img": "out/YC3.png",
+   "img": "YC.png",
    "own": [
-    1100,
-    1100
+    590,
+    1015
    ]
   },
   {
-   "crop": 3,
-   "img": "out/YD5.png",
+   "crop": 2,
+   "img": "YD.png",
    "own": [
-    666,
-    1024
+    1100,
+    1100
    ]
   }
  ],
  "patches": [
   {
-   "zone": 2,
+   "zone": 0,
    "rect": [
-    1332,
-    500,
-    2006,
-    1050
+    480,
+    0,
+    780,
+    500
    ],
-   "feather": 8
+   "feather": 16
+  },
+  {
+   "zone": 3,
+   "rect": [
+    1380,
+    1010,
+    1800,
+    1530
+   ],
+   "feather": 40
   },
   {
    "zone": -1,
    "base": true,
    "ellipse": [
-    1205,
+    1090,
     1395,
-    44,
-    40
+    46,
+    42
+   ]
+  },
+  {
+   "zone": -1,
+   "base": true,
+   "ellipse": [
+    1888,
+    1393,
+    54,
+    48
    ]
   }
  ],

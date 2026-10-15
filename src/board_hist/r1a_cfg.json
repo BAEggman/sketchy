@@ -1,0 +1,79 @@
+{
+ "base": "base2x.png",
+ "cssw": 1024,
+ "crops": "crops.json",
+ "zones": [
+  {
+   "crop": 0,
+   "img": "WA2t.png",
+   "own": [
+    1100,
+    1100
+   ]
+  },
+  {
+   "crop": 1,
+   "img": "WBt.png",
+   "own": [
+    1100,
+    1100
+   ]
+  },
+  {
+   "crop": 2,
+   "img": "WCt.png",
+   "own": [
+    1100,
+    1100
+   ]
+  }
+ ],
+ "patches": [
+  {
+   "zone": 0,
+   "rect": [
+    0,
+    0,
+    700,
+    500
+   ],
+   "feather": 16
+  },
+  {
+   "zone": 0,
+   "rect": [
+    0,
+    500,
+    620,
+    1060
+   ],
+   "feather": 20
+  },
+  {
+   "zone": 1,
+   "rect": [
+    620,
+    500,
+    1400,
+    1060
+   ],
+   "feather": 20
+  },
+  {
+   "zone": 2,
+   "rect": [
+    1296,
+    500,
+    2048,
+    1360
+   ],
+   "feather": 14
+  }
+ ],
+ "feather": 14,
+ "search": 12,
+ "band": [
+  0.07,
+  0.38
+ ]
+}

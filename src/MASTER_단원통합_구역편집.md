@@ -351,6 +351,15 @@ python3 zone_kit.py finish comp.png <repo>/images/s13u01.webp --wm 1210,760,1260
 | Argon이 그림 대신 「이미지 생성 AI용 프롬프트(영문)」를 써 줌 (①줄 r1a 바탕) — 같은 시각 다른 탭의 r1b 바탕은 Argon이 그림 | 새 채팅 기본 모델이 Argon으로 돌아와 있을 때 바탕 생성은 통과하기도 하고 안 하기도 한다(편집은 계속 거부) | 바탕은 Argon을 한 번 시도해 볼 만하다. 글이 오면 바로 Flash-Lite 새 채팅. 모델 칩은 `[data-test-id="bard-mode-menu-button"]` 클릭 → 메뉴에서 「Flash-Lite」 항목 클릭으로 바꾼다 |
 | 입력창 「+」를 좌표로 눌렀더니 **동영상 모드 칩**이 붙음(상단에 동영상 템플릿) | 메뉴가 이미 열린 상태에서 같은 좌표를 다시 누르면 두 번째 항목(동영상 만들기)이 눌린다 | `find "동영상 선택 해제"` → 그 버튼 클릭으로 뗀다(첨부도 함께 사라지니 다시 업로드). 「+」는 스크린샷으로 메뉴가 닫힌 것을 보고 한 번만 누른다 |
 | 첨부 썸네일이 늦게 떠서 `img[src^=blob:]` 가 0 → 두 번 올려 썸네일 둘 | 업로드 반영이 5~15초 걸린다 | 1.5초×10회 폴링 후에도 0이면 스크린샷으로 회색 자리표시자를 본다 — 있으면 기다리고, 없으면 다시 올린다. 둘이 붙으면 썸네일 hover → ✕ 로 하나 뗀다 |
+| **창이 가려진(hidden) 크롬**에서 업로드 메뉴가 안 열리고(`+` 클릭·JS 클릭 모두), 글을 넣고 보냈는데 **그림만 가거나**(Argon이 「한자 암기 일러스트 분석」으로 답함) 「생성 중」에 멈춘 채 URL이 안 생김 (2026-10-16 ④줄) | 두 탭 모두 `document.visibilityState=='hidden'`(사용자 창이 가려짐) — 타이머·rAF가 멈춰 Quill 입력이 Angular 모델로 안 넘어감 · 오래 열린 페이지는 세션도 낡음 | ① 요청마다 `navigate`로 **새로 고친 /app** 에서 ② 첨부는 메뉴 대신 **숨은 file input + 붙여넣기**: JS로 `<input type=file aria-label="__claude_file_input">`를 body에 붙임 → `find` → `file_upload` → `ed.dispatchEvent(new ClipboardEvent('paste',{clipboardData:dt}))`(dt에 그 File) → 스크린샷 한 번 뒤 `첨부파일 닫기` 버튼으로 확인 ③ 글은 `insertText` + `InputEvent('input')` 뒤 **스크린샷 한 번**(프레임을 강제로 돌림) → 보내기 클릭 → `user-query` 글자 수 >0 확인 ④ JS 안 await 폴링은 25초 이하(숨은 탭 타이머가 느려 CDP 45초 제한에 걸림) — 기다림은 `computer wait` + 스크린샷으로 |
+| zoom 캡처 영역이 맞지 않음(새 좌표계 1288×952·1316×906, innerWidth 1000) | 좌표계/CSS 비가 탭마다 다름(1.40~1.45) | 오버레이를 띄운 채 `zoom [0,0,1000,900] scale 0.3`으로 한 번 보고 마젠타 경계를 읽어 영역을 고른다 — 1288×952 → **[0,0,828,802]**, 1316×906 → **[0,0,850,825]** |
+| 「뗏목만 한 옥새」를 Flash-Lite가 **부처 얼굴 금메달**로 그림 (④줄 RB 政和本草) | 「금빛 도장」이 금메달 쪽으로 평균회귀 | 금메달(= 최초)과 충돌하므로 버림. 옥새를 꼭 쓰려면 「네모 상자 + 거북 손잡이, 바닥이 네모」로 모양을 못 박는다 |
+| 「간판엔 침통 그림만」 → 간판에 한글 **「침통」 글자**를 써 넣음 / 다른 구역에선 빈 간판 | Flash-Lite가 「~ 그림」의 이름을 글자로 씀 | 간판 그림은 PIL로 그린다(`board_hist/r4a_post.py sign`·`r4b_post.py`) — 작은 침통+침 셋 아이콘 |
+| 구역 편집본의 **길 레인만 세로로 0.93배 눌림**(④줄 RA) — 자동 정합 mse 1107, 거리 레인은 맞음 | Flash-Lite가 레인마다 다르게 늘였다 줄임 | 레인별로 맞춘다: 지붕 줄(흔들리지 않은 띠)로 세로 배율·dy를 찾아(1.08·−16) 그 레인만 보정본(RAat)으로, 거리는 원본. `zone_kit compose`의 zone에 **`"fixed":[dx,dy]`** 를 주면 자동 정합을 건너뛴다(2026-10-16 추가) |
+| 합성본에 조각 경계를 따라 **세로 이음선**(④줄 r4a x=530·r4b x=110 — 판독자가 「따로 붙인 띠」로 지적) | `patches` 사각의 가우스 페더가 조각 바깥(값 0)까지 번져 검게/희게 섞임 | `zone_kit.py` 고침(2026-10-16) — 패치 마스크에 그 조각의 덮개(COV)를 곱한다. 사각도 조각 경계에서 페더×2.5 이상 안쪽에 둔다 |
+| 같은 사람을 두 구역이 다르게 그림 — 방 안 SB가 문지방 **어른에게도 붉은 항아리**(아이 것과 중복) | 「아이가 안은 항아리」를 옆 어른에게도 복사 | 다음 구역(SC)을 **합성본에서 잘라** 편집하고 「안고 있던 항아리는 없애고 그 대신 판목」으로 **바꾸기** 지시 — 바꾸기는 지우기보다 잘 통한다 |
+| 「한 칸에만 검은 동그라미 + 쑥뜸」 → 동그라미 둘 + 회색 덩이 → 판독 「月令」 | Flash-Lite가 강조를 겹쳐 그림 | PIL로 칸을 지우고 격자선·검은 점·뜸봉(붉은 불씨)을 다시 그림(`r4a_post.py cal`) → 최종 둘 다 鍼灸擇日編 |
+| 봉황 꼬리 고리에 침을 빙 둘러 꽂음 → 「지네 다리」 → 龔廷賢 | 침이 몸에 붙으면 다리로 보인다 | 침은 **손잡이 달린 은빛 침**으로, 몸이 아니라 **땅에 원으로** 꽂는다(RA2) → 徐鳳 鍼灸大全 1단계 정답. 「공작처럼 화려한」은 쓰지 말 것(공작 깃이 됨) |
 
 ---
 
@@ -580,7 +589,10 @@ def cmd_compose(a):
                 if b.shape!=(yb-ya,xb-xa,3): continue
                 e=np.mean((Z[ya:yb,xa:xb]-b)**2)
                 if best is None or e<best[0]: best=(e,dx,dy)
-        e,dx,dy=best; print(f"zone {zi} ({z['img']}): 정합 dx={dx} dy={dy} mse={e:.1f}" + ("  ⚠ mse 큼 — 편집이 구도를 바꿨는지 확인" if e>300 else ""))
+        e,dx,dy=best
+        if 'fixed' in z:   # 2026-10-16 정합 띠에 편집이 걸려 자동 정합이 틀릴 때 — 오프셋을 직접 준다 [dx,dy]
+            dx,dy=z['fixed']; e=float(np.mean((Z[ya:yb,xa:xb]-B[ya+dy+y0:yb+dy+y0, x0+xa+dx:x0+xb+dx])**2))
+        print(f"zone {zi} ({z['img']}): 정합 dx={dx} dy={dy} mse={e:.1f}" + (" (고정)" if 'fixed' in z else "") + ("  ⚠ mse 큼 — 편집이 구도를 바꿨는지 확인" if e>300 else ""))
         l=np.zeros_like(B); c=np.zeros((H,W))
         ys=np.arange(zh)+y0+dy; xs=np.arange(zw)+x0+dx; vy=(ys>=0)&(ys<H); vx=(xs>=0)&(xs<W)
         l[np.ix_(ys[vy],xs[vx])]=Z[np.ix_(np.where(vy)[0],np.where(vx)[0])]; c[np.ix_(ys[vy],xs[vx])]=1
@@ -607,6 +619,8 @@ def cmd_compose(a):
         else:
             cx,cy,rx,ry=p['ellipse']
             m=((((xx-cx-sx)/rx)**2+((yy-cy-sy)/ry)**2)<=1).astype(float); m=gaussian_filter(m,4)
+        if not p.get('base'):   # 2026-10-16 페더가 조각 바깥(검은 0)까지 번져 이음선이 생기던 것 — 조각이 덮는 곳으로만 제한
+            m=m*np.roll(np.roll(COV[p['zone']],sx,axis=1),sy,axis=0)
         src=np.roll(np.roll(B if p.get('base') else L[p['zone']],sx,axis=1),sy,axis=0)   # base:true = 바탕 원본에서 가져옴(워터마크 ✦ 지우기 등)
         C=C*(1-m[...,None])+src*m[...,None]
     Image.fromarray(np.clip(C,0,255).astype('uint8')).save(a.out); print('saved',a.out,(W,H))

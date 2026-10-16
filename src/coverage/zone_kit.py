@@ -52,7 +52,10 @@ def cmd_compose(a):
                 if b.shape!=(yb-ya,xb-xa,3): continue
                 e=np.mean((Z[ya:yb,xa:xb]-b)**2)
                 if best is None or e<best[0]: best=(e,dx,dy)
-        e,dx,dy=best; print(f"zone {zi} ({z['img']}): 정합 dx={dx} dy={dy} mse={e:.1f}" + ("  ⚠ mse 큼 — 편집이 구도를 바꿨는지 확인" if e>300 else ""))
+        e,dx,dy=best
+        if 'fixed' in z:   # 2026-10-16 정합 띠에 편집이 걸려 자동 정합이 틀릴 때 — 오프셋을 직접 준다 [dx,dy]
+            dx,dy=z['fixed']; e=float(np.mean((Z[ya:yb,xa:xb]-B[ya+dy+y0:yb+dy+y0, x0+xa+dx:x0+xb+dx])**2))
+        print(f"zone {zi} ({z['img']}): 정합 dx={dx} dy={dy} mse={e:.1f}" + (" (고정)" if 'fixed' in z else "") + ("  ⚠ mse 큼 — 편집이 구도를 바꿨는지 확인" if e>300 else ""))
         l=np.zeros_like(B); c=np.zeros((H,W))
         ys=np.arange(zh)+y0+dy; xs=np.arange(zw)+x0+dx; vy=(ys>=0)&(ys<H); vx=(xs>=0)&(xs<W)
         l[np.ix_(ys[vy],xs[vx])]=Z[np.ix_(np.where(vy)[0],np.where(vx)[0])]; c[np.ix_(ys[vy],xs[vx])]=1
@@ -79,6 +82,8 @@ def cmd_compose(a):
         else:
             cx,cy,rx,ry=p['ellipse']
             m=((((xx-cx-sx)/rx)**2+((yy-cy-sy)/ry)**2)<=1).astype(float); m=gaussian_filter(m,4)
+        if not p.get('base'):   # 2026-10-16 페더가 조각 바깥(검은 0)까지 번져 이음선이 생기던 것 — 조각이 덮는 곳으로만 제한
+            m=m*np.roll(np.roll(COV[p['zone']],sx,axis=1),sy,axis=0)
         src=np.roll(np.roll(B if p.get('base') else L[p['zone']],sx,axis=1),sy,axis=0)   # base:true = 바탕 원본에서 가져옴(워터마크 ✦ 지우기 등)
         C=C*(1-m[...,None])+src*m[...,None]
     Image.fromarray(np.clip(C,0,255).astype('uint8')).save(a.out); print('saved',a.out,(W,H))

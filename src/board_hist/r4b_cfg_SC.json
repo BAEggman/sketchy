@@ -1,0 +1,1 @@
+{"base": "../comp_v1.png", "cssw": 1024, "crops": "crops.json", "zones": [{"crop": 0, "img": "SCt.png", "own": [1100, 1100]}], "patches": [{"zone": 0, "rect": [1180, 520, 1560, 1060], "feather": 16}, {"zone": 0, "rect": [1180, 1050, 1990, 1530], "feather": 20}], "feather": 14, "search": 12, "band": [0.07, 0.38], "_note": "img 는 스크래치 톤 보정본(*t.png) — 저장소에는 마감본만 둔다"}

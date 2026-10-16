@@ -18,3 +18,5 @@ src/coverage/blind17/*.png
 src/coverage/blind17/crop_*/
 src/coverage/blind18/*.png
 src/coverage/blind18/crop_*/
+src/coverage/blind19/*.png
+src/coverage/blind19/crop_*/

@@ -1,0 +1,53 @@
+{
+ "board": "s11u01",
+ "date": "2026-10-17",
+ "model": "Gemini 4 Argon",
+ "reference": "ref5.png — 낱장 s11p01~05 다섯 칸을 나란히 붙인 띠",
+ "base": {
+  "prompt": "첨부한 다섯 칸 그림의 화풍(잉크 선 + 부드러운 수채, 오프화이트 바탕)과 다섯 인물의 생김새·옷·자세를 그대로 써서, 칸 나눔 없이 한 장으로 이어진 가로로 긴 16:9 파노라마를 새로 그려줘. 그림 전체에 얇은 검은 테두리 하나만 두르고, 그 안에는 칸을 나누는 테두리 선이 없다.\n\n무대: 앞벽을 걷어낸 긴 한옥 한 채를 정면에서 들여다본 단면. 낮은 기와지붕 하나 아래에 얇은 칸막이벽으로 나뉜 방 다섯 칸이 왼쪽 끝에서 오른쪽 끝까지 한 줄로 붙어 있고, 방마다 사람이 하나씩 있다. 방마다 세 벽과 천장이 그 방의 색으로 칠해져 있다. 다섯 방의 바닥은 모두 아무 자국·얼룩도 없는 맨 나무 마루다.\n\n1) 맨 왼쪽, 옅고 흐린 초록 방 — a Korean general in green lamellar scale armour of small overlapping plates with shoulder guards, wearing a conical Korean helmet with a small spike on top, East Asian face, black hair, black beard trimmed short. The armour is a strong deep green, never grey; everything he wears under it is plain undyed grey hemp. He is a man in his forties with a broad square face, two thick straight black eyebrows, a black moustache and a SHORT SQUARE-CUT black beard on the point of his chin only.\n 그는 방 안을 걸어가는 자세로 한 발을 내디뎠고, 신은 짚신은 성하다. 두 눈에서 뺨으로 눈물이 줄줄 흐른다. 그의 뒤 뒷벽 창에는 나무 덧문 한 짝이 닫혀 있고, 덧문 틈새로 바람에 날린 잎 몇 장이 옆으로 비껴 들어온다. 그의 발치 옆 바닥에 밑창 한가운데에 구멍이 뚫린 헌 짚신 세 짝이 계단처럼 어긋나게 포개져 있다.\n2) 옅은 붉은 방 — a Korean king in a scarlet red dragon robe with round gold dragon roundels on the chest and both shoulders, wearing a SOLID INK BLACK ikseongwan court hat with two tall narrow black wings standing straight up from the back. No belt, no sash, no crown. He is a man in his forties with a rounded face, a small round patch of pink on each cheek, a black moustache and a LONG pointed black chin beard.\n 그는 방석 없이 맨 마루에 무릎 꿇고 앉아, 낮은 서안 위에 펼친 책 한 권에 얼굴을 바싹 대고 들여다본다. 두 눈 흰자가 충혈되어 붉고, 이마와 관자놀이에 땀방울이 맺혔다. 서안 곁 바닥에는 모서리가 파이고 실이 끊겨 낱장이 벌어진 글자 없는 헌 백지 책들이 셀 수 없이 제각각 흐트러진 무더기로 쌓여 있다. 그의 다른 쪽 곁 바닥에는 숯불이 활활 타는 질화로가 있고, 화로와 임금 사이에 한 장짜리 통널이 세워져 있는데 불 쪽 면만 새카맣게 그을렸다.\n3) 옅은 노란 방 — a Korean farmer in a wide round yellow straw hat, plain hemp jacket and loose hemp trousers in a strong warm ochre yellow, bare feet, East Asian face, black hair. He is a YOUNG man in his late twenties with a smooth oval face and NO beard and NO moustache.\n 그는 성한 방석 위에 양반다리로 앉아 한 손으로 기름종이 우산을 받쳐 든다. 천장의 검은 습기 얼룩에서 빗물이 한 줄기 떨어져 우산 위에 떨어진다. 입가에서 턱으로 맑은 침이 가는 실처럼 흘러내린다. 그의 곁 바닥에 가운데가 터져 때 묻은 회색 솜이 삐져나온 납작한 방석 세 장이 포개져 있다.\n4) 따뜻한 회색 회벽 방(흰 도포보다 확실히 어두운 벽) — a Korean prime minister in a long plain white robe crossed over the chest with a wide cloth sash, East Asian face, black hair, a man in his fifties with two clear lines from his nose past the corners of his mouth, a black moustache and a THIN WISPY pointed black beard. 그는 검은 갓을 벗어 자기 발치 바닥에 놓았고, 머리에는 이마를 두른 검은 망건과 상투만 있다.\n 그는 바닥에 편 요 위에 옆으로 누워 얼굴이 우리 쪽을 향하고, 눈을 반쯤 감고 입은 꼭 다물었다. 한쪽 콧구멍에서 맑은 콧물 한 줄기가 요까지 길게 늘어져 끝에 물방울이 맺혔다. 목 밑에 성한 베개 하나를 베었고, 머리맡 바닥에 눌려 터져 진갈색 메밀껍질이 쏟아져 나온 납작한 베개 세 개가 포개져 있다. 그의 뒤 뒷벽의 나무 문은 틈이 벌어져 그 틈으로 눈송이가 들이치고, 그 문틈을 흰 솜뭉치로 틀어막았다.\n5) 맨 오른쪽, 아주 밝은 흰 회벽 방 — a diver in a plain matte black one piece wetsuit with a hood covering the hair and ONE WIDE OVAL swimming goggle lens spanning both eyes, East Asian face; only his nose, mouth and chin are bare skin. The suit is true black, the darkest thing in the picture. No beard. Barefoot.\n 그는 두 팔을 몸에서 조금 떼고 꼿꼿이 선 부동자세다. 두 겨드랑이 아래 삼각과 머리 위에서 뒷벽까지 옅은 회색 가는 실의 거미줄 세 개가 쳐져 있다(거미는 없다). 그는 입에서 침 한 줄기를 포물선으로 뱉어 발치의 작은 놋 타구 안에 떨어뜨린다(침은 턱에 닿지 않는다). 그의 곁 벽의 회벽이 쩍쩍 갈라져 들떠 있고, 그 갈라진 벽에 젖은 무명 수건을 붙여 두었으며 그 아래 바닥에 물이 담긴 그릇이 있다.\n\nExactly five people in the scene. 다섯 사람은 머리부터 발끝까지 다 보이고, 서 있는 사람은 그림 높이의 절반쯤이다. No ordinary villagers, no modern objects. 그림 안에 글자·숫자는 절대 넣지 마.\n",
+  "chats": {
+   "A": "f05ba4ad8ac247f3 — 사람이 크고 오른쪽 방·바닥 소품이 잘림 → 버림",
+   "B": "9ca3b3af21aedaa4 — 다섯 방·소품 거의 전부 → 채택"
+  }
+ },
+ "zones_prepared_not_run": {
+  "ZA": "첨부 이미지를 편집해서 새 이미지를 생성해줘. 첨부한 그림은 긴 가로 그림의 한 조각이야. 비율·구도·확대 정도, 사람의 자세·위치·크기, 방·벽·지붕과 화풍을 그대로 두고, 다시 그리지 말고 덧그리기만 해줘. 이 조각은 그림의 왼쪽 끝이야. 오른쪽 가장자리(폭의 3분의 1 — 붉은 방과 임금)는 손대지 마. 초록 방의 초록 갑옷 장군에게만 아래 두 가지:\n1) 장군의 두 눈에서 맑은 눈물이 흘러 뺨을 타고 턱까지 내려오는 눈물 줄기 두 줄 — 멀리서도 보일 만큼 뚜렷하게, 물방울이 반짝이게\n2) 장군 왼쪽 벽의 닫힌 나무 덧문 틈새로 들이치는 바람을 더 또렷하게 — 잎 여러 장과 바람결 선이 옆으로 비껴 길게 흘러 날린다\n그 밖의 사람과 물건은 하나도 바꾸지 마. 사람을 키우거나 옮기지 마. 글자·숫자는 절대 넣지 마.\n",
+  "ZB": "첨부 이미지를 편집해서 새 이미지를 생성해줘. 첨부한 그림은 긴 가로 그림의 한 조각이야. 비율·구도·확대 정도, 사람의 자세·위치·크기, 방·벽·지붕과 화풍을 그대로 두고, 다시 그리지 말고 덧그리기만 해줘. 왼쪽 가장자리(초록 방의 장군)와 오른쪽 가장자리(노란 방)는 손대지 마. 가운데 붉은 방의 임금 둘레에만 아래 세 가지:\n1) 통널 오른쪽 바닥의 질화로에서 붉고 노란 불꽃이 활활 타오른다 — 불꽃은 화로 위에만, 통널을 넘지 않는다\n2) 임금의 두 눈 흰자를 붉게 충혈시킨다 — 멀리서도 붉은 눈이 보이게\n3) 임금의 이마와 관자놀이에 맺힌 땀방울을 더 크고 또렷하게 여러 방울\n흩어진 헌 책 무더기와 그을린 통널은 그대로 둔다. 그 밖의 사람과 물건은 하나도 바꾸지 마. 사람을 키우거나 옮기지 마. 글자·숫자는 절대 넣지 마.\n",
+  "ZC": "첨부 이미지를 편집해서 새 이미지를 생성해줘. 첨부한 그림은 긴 가로 그림의 한 조각이야. 비율·구도·확대 정도, 사람의 자세·위치·크기, 방·벽·지붕과 화풍을 그대로 두고, 다시 그리지 말고 덧그리기만 해줘. 왼쪽 가장자리(붉은 방)와 오른쪽 가장자리(회색 방)는 손대지 마. 가운데 노란 방의 농부에게만 아래 두 가지:\n1) 농부의 입꼬리 한쪽에서 맑은 침이 가는 실처럼 흘러 턱 아래까지 길게 늘어지고 끝에 작은 물방울이 맺힌다 — 멀리서도 보일 만큼 뚜렷하게\n2) 천장의 검은 습기 얼룩에서 떨어지는 빗물 줄기가 우산 위에 떨어져 작은 물방울이 튄다\n그 밖의 사람과 물건은 하나도 바꾸지 마. 사람을 키우거나 옮기지 마. 글자·숫자는 절대 넣지 마.\n",
+  "ZD": "첨부 이미지를 편집해서 새 이미지를 생성해줘. 첨부한 그림은 긴 가로 그림의 한 조각이야. 비율·구도·확대 정도, 사람의 자세·위치·크기, 방·벽·지붕과 화풍을 그대로 두고, 다시 그리지 말고 덧그리기만 해줘. 왼쪽 가장자리(노란 방)와 오른쪽 가장자리(흰 방의 잠수부)는 손대지 마. 가운데 회색 방에 누운 흰 도포 재상 둘레에만 아래 세 가지:\n1) 재상의 콧구멍에서 맑은 콧물 한 줄기가 길게 늘어져 요까지 닿고 끝에 물방울이 맺힌다 — 멀리서도 보일 만큼 뚜렷하게. 입은 꼭 다문 채\n2) 그의 머리맡 오른쪽 나무 문의 벌어진 틈으로 하얀 눈송이 여러 개가 방 안으로 들이친다\n3) 그 문틈 가운데를 흰 솜뭉치 하나로 꾹 틀어막았다\n머리맡의 터진 베개 셋과 바닥의 검은 갓은 그대로 둔다. 그 밖의 사람과 물건은 하나도 바꾸지 마. 사람을 키우거나 옮기지 마. 글자·숫자는 절대 넣지 마.\n",
+  "ZE": "첨부 이미지를 편집해서 새 이미지를 생성해줘. 첨부한 그림은 긴 가로 그림의 한 조각이야. 비율·구도·확대 정도, 사람의 자세·위치·크기, 방·벽·지붕과 화풍을 그대로 두고, 다시 그리지 말고 덧그리기만 해줘. 이 조각은 그림의 오른쪽 끝이야. 왼쪽 가장자리(폭의 3분의 1 — 회색 방과 누운 사람)는 손대지 마. 흰 방의 검은 잠수부에게만 아래 한 가지:\n1) 지금 잠수부의 입에서 몸 옆을 따라 아래로 내려가는 가는 선을 지우고, 대신 그의 입에서 나온 침 한 줄기가 몸에서 멀리 앞쪽으로 둥근 아치(포물선)를 그리며 날아가 발치 옆 놋 타구 안에 떨어지게 해줘. 침 줄기는 턱·가슴·팔·몸 어디에도 닿지 않고, 손 근처를 지나지 않는다\n거미줄·갈라진 벽·젖은 수건·물그릇은 그대로 둔다. 그 밖의 사람과 물건은 하나도 바꾸지 마. 사람을 키우거나 옮기지 마. 글자·숫자는 절대 넣지 마.\n"
+ },
+ "crops_css": [
+  [
+   0,
+   0,
+   322,
+   572
+  ],
+  [
+   152,
+   0,
+   474,
+   572
+  ],
+  [
+   351,
+   0,
+   673,
+   572
+  ],
+  [
+   551,
+   0,
+   873,
+   572
+  ],
+  [
+   702,
+   0,
+   1024,
+   572
+  ]
+ ],
+ "blocked": "2026-10-17 구역 편집 5탭 동시 첨부 → 업로드 오류, /app 새로 고침이 google.com/sorry(reCAPTCHA)로. 사용자 해제 대기 30분 넘어 PIL 덧그림으로 대체(board_hist/s11u01_post.py)."
+}

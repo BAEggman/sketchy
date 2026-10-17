@@ -1,0 +1,70 @@
+{
+ "base": "base2x.png",
+ "cssw": 1024,
+ "crops": "crops.json",
+ "zones": [
+  {
+   "crop": 0,
+   "img": "ZW2.png",
+   "own": [
+    200,
+    518
+   ]
+  },
+  {
+   "crop": 1,
+   "img": "ZC2.png",
+   "own": [
+    628,
+    812
+   ]
+  },
+  {
+   "crop": 2,
+   "img": "ZD3.png",
+   "own": [
+    812,
+    1024
+   ]
+  }
+ ],
+ "patches": [
+  {
+   "base": true,
+   "rect": [
+    190,
+    560,
+    520,
+    1130
+   ],
+   "feather": 10
+  }
+ ],
+ "feather": 30,
+ "search": 12,
+ "band": [
+  0.07,
+  0.38
+ ],
+ "crops_px": [
+  [
+   197,
+   0,
+   519,
+   572
+  ],
+  [
+   566,
+   0,
+   888,
+   572
+  ],
+  [
+   702,
+   0,
+   1024,
+   572
+  ]
+ ],
+ "note": "zone 0 = ZW2(같은 채팅 손질본), 1 = ZC2, 2 = ZD3. patches base = 앞 의사 둘레(ZW 편집이 의사 손을 잿빛으로 바꿈). 이어서 board_hist/s12u02_post.py(惡色 색 맞춤) → finish."
+}

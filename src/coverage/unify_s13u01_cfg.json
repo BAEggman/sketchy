@@ -1,0 +1,23 @@
+{
+ "base": "base2x.png",
+ "cssw": 1024,
+ "crops": "crops.json",
+ "zones": [
+  {
+   "crop": 0,
+   "img": "ZA.png",
+   "own": [
+    74,
+    396
+   ]
+  }
+ ],
+ "patches": [],
+ "feather": 20,
+ "search": 12,
+ "band": [
+  0.07,
+  0.38
+ ],
+ "note": "scratchpad u16. 구역 하나(ZA)만 편집. 합성 뒤 PIL 없음 → zone_kit finish"
+}

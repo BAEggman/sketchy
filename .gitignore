@@ -60,3 +60,7 @@ src/coverage/blind36z/*.png
 src/coverage/blind36z/crop_*/
 src/coverage/blind37/*.png
 src/coverage/blind37/crop_*/
+src/coverage/blind38z/*.png
+src/coverage/blind38z/crop_*/
+src/coverage/blind39/*.png
+src/coverage/blind39/crop_*/

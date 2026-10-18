@@ -1,0 +1,39 @@
+{
+ "base": "base2x.png",
+ "cssw": 1024,
+ "crops": "crops.json",
+ "zones": [
+  {
+   "crop": 0,
+   "img": "ZA.png",
+   "own": [
+    180,
+    330
+   ]
+  },
+  {
+   "crop": 1,
+   "img": "ZB.png",
+   "own": [
+    380,
+    660
+   ]
+  },
+  {
+   "crop": 2,
+   "img": "ZC2.png",
+   "own": [
+    660,
+    961
+   ]
+  }
+ ],
+ "patches": [],
+ "feather": 20,
+ "search": 12,
+ "band": [
+  0.07,
+  0.38
+ ],
+ "note": "scratchpad u14. ZC2 = 虛實 홈통 재편집본(ZC 출력을 644로 줄여 다시 편집). 합성 뒤 board_hist/s12u03_post.py(테두리·징검돌·살색) → zone_kit finish"
+}

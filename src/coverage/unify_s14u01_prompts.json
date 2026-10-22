@@ -1,0 +1,52 @@
+{
+ "board": "s14u01",
+ "date": "2026-10-22",
+ "model": "Gemini 4 Argon",
+ "reference": "s09u01 완성본(1024 축소) — 다섯 인물 생김새·옷, 장소는 글로",
+ "base": {
+  "prompt": "첨부한 그림의 화풍(잉크 선 + 부드러운 수채, 오프화이트 바탕)과 다섯 인물(초록 갑옷 장군 · 붉은 곤룡포 임금 · 노란 밀짚모자 농부 · 흰 도포 재상 · 검은 잠수복 잠수부)의 생김새·옷을 그대로 써서, 완전히 새로운 장소의 가로로 긴 16:9 그림을 그려줘. 첨부 그림의 들판·계절·소품은 가져오지 않는다.\n\n무대: 옛 한약방 안. 긴 나무 진열대(계산대)가 그림 왼쪽 끝에서 오른쪽 끝까지 가로지르고, 그 뒤 벽은 작은 서랍이 빼곡한 나무 약장이다. 진열대는 세로 나무 칸막이로 같은 폭의 네 칸으로 나뉜다. 칸마다 그 칸을 맡은 사람들이 진열대 뒤에 서 있어 허리 위가 보이고, 진열대 위에는 그 칸의 약재와 물건이 놓여 있다. 진열대 앞 바닥(손님 쪽)은 나무 마루. 진열대 한가운데 바로 위, 약장에 달린 작은 선반 하나에 김이 모락모락 오르는 따뜻한 국물 사발 하나와 김이 오르는 따뜻한 천 한 장이 걸려 있다.\n\n사람은 모두 열 명 — 진열대 뒤에만 아홉, 진열대 앞 바닥에 하나. 인물은 아래 다섯 종류뿐이고 같은 인물이 여러 칸에 나올 수 있다:\n- 농부(脾): a Korean farmer in a wide round yellow straw hat, plain hemp jacket and loose hemp trousers in a strong warm ochre yellow, East Asian face, black hair, a YOUNG man in his late twenties with a smooth oval face and NO beard and NO moustache.\n- 재상(肺): a Korean prime minister in a long plain white robe crossed over the chest with a wide cloth sash, a true black horsehair gat hat, East Asian face, a man in his fifties with two lines from his nose past the corners of his mouth, a black moustache and a THIN WISPY pointed black beard.\n- 임금(心): a Korean king in a scarlet red dragon robe with round gold dragon roundels on the chest and both shoulders, wearing a SOLID INK BLACK ikseongwan court hat with two tall narrow black wings standing straight up from the back; no crown, no jewels. A man in his forties with a rounded face, a small round patch of pink on each cheek, a black moustache and a LONG pointed black chin beard.\n- 장군(肝): a Korean general in green lamellar scale armour of small overlapping plates with shoulder guards, wearing a conical Korean helmet with a small spike on top; the armour is a strong deep green, never grey; everything under it is plain undyed grey hemp. A man in his forties with a broad square face, two thick straight black eyebrows, a black moustache and a SHORT SQUARE-CUT black beard on the point of his chin only.\n- 잠수부(腎): a diver in a plain matte black one piece wetsuit with a hood covering the hair and ONE WIDE OVAL swimming goggle lens spanning both eyes, East Asian face, only his nose, mouth and chin bare; the suit is a deep true black, the darkest thing in the picture.\n\n왼쪽부터 네 칸:\n\n1) 첫째 칸 — 진열대 뒤에 농부·재상·임금 셋이 나란히 서서 저마다 큼직한 인삼 조각 하나를 손에 들어 보인다. 진열대 위에는 팔다리가 달린 사람 모양의 큰 인삼 뿌리 하나, 나무 국자가 꽂힌 꿀단지 하나, 손잡이 없는 질그릇 잔에 담긴 김이 전혀 나지 않는 새까만 커피 한 잔. 진열대 앞쪽 끝에는 검은 연기가 피어오르는 검은 뿌리 하나 위에 굵은 붉은 X가 그어져 있고, 그 곁에 작은 날다람쥐 한 마리와 그 밑의 검은 배설물 몇 알을 굵은 붉은 고리 하나가 에워싸고 있다.\n2) 둘째 칸 — 진열대 뒤에 임금 혼자 서서 부자 조각 하나를 들고 있다. 진열대 위에는 검은 물방울이 송골송골 맺힌 검은 덩이뿌리 하나, 그리고 작은 화로 위에서 김을 뿜으며 오래 끓고 있는 솥 하나 — 솥 곁에 다 타 버린 땔감의 재가 수북이 쌓여 있다. 이 칸의 진열대 앞 바닥에는 흰 눈이 깔려 있고, 그 눈밭 위에 잠수부가 엎드려 쓰러져 있는데 두 손과 두 발 끝에 붉은 기운이 돌아오고 있다(손발 끝만 붉게 달아오름).\n3) 셋째 칸 — 진열대 뒤에 장군·임금·농부 셋이 나란히 서서 저마다 당귀 뿌리를 들고 있다. 진열대 위에는 당귀 한 뿌리를 세 토막으로 나누어 왼쪽부터 차례로 놓았다: 짧고 굵은 머리 토막(그 바로 앞 진열대 위에 붉은 핏방울 하나), 통통한 몸통 토막(그 앞에 붉은 액체가 가득 찬 그릇 하나), 가늘게 갈라진 잔뿌리 토막(그 앞에 가운데가 터져 물이 콸콸 쏟아지는 대나무 물관 하나). 이 칸 뒤 약장에는 작은 쪽문 하나가 열려 있고, 진열대 앞 마루 바닥에 그 문 쪽으로 이어지는 맨발 발자국 줄이 찍혀 있다.\n4) 넷째 칸 — 칸 한가운데에 세로 칸막이가 하나 더 있어 좌우로 갈린다. 왼쪽 반: 재상이 제 몸 둘레에 둘러 세운 작은 나무 울타리 안에 서 있고, 그 앞 진열대 위에 흙이 묻은 생 뿌리 하나. 오른쪽 반: 농부가 천장 도르래에 걸린 줄을 두 손으로 당겨 자루 하나를 위로 끌어올리고 있고, 그 앞 진열대 위에 꿀을 발라 구워 윤기 나는 갈색 뿌리 하나와 꿀이 묻은 나무 숟가락 하나.\n\n사람들의 머리는 그림 위쪽 삼분의 일 높이에 오고, 진열대 위 물건들은 멀리서도 보일 만큼 크다. 사람·물건이 서로 겹치지 않는다. No modern objects. 그림 안에 글자·숫자는 절대 넣지 마.\n",
+  "chat": "6fc0c0ba85b75483",
+  "note": "1차 채택 — 진열대 네 칸·약장·補溫 간판·소품 전부가 한 번에 섬. 어긋난 것: 人蔘 칸에 임금 없음(農·肺 둘) · 附子 덩이뿌리가 밋밋 · 잠수부 둘레 붉은 빛무리 · 炙黃芪가 검붉은 광택(地黃 꼴)"
+ },
+ "crops": [
+  [
+   14,
+   0,
+   336,
+   572
+  ],
+  [
+   259,
+   0,
+   581,
+   572
+  ],
+  [
+   489,
+   0,
+   811,
+   572
+  ],
+  [
+   702,
+   0,
+   1024,
+   572
+  ]
+ ],
+ "zones": {
+  "ZA": {
+   "prompt": "첨부 이미지를 편집해서 새 이미지를 생성해줘. 첨부한 그림은 긴 가로 그림의 한 조각이야. 비율·구도·확대 정도, 진열대·약장·바닥, 진열대 위 물건들(사람 모양 인삼 뿌리·꿀단지·검은 커피 잔)과 바닥의 물건들(붉은 X가 그어진 검은 뿌리·붉은 고리 안의 날다람쥐)과 화풍을 그대로 두고, 다시 그리지 말고 덧그리기만 해줘. 이 조각은 그림의 왼쪽 끝이야. 오른쪽 가장자리(세로 칸막이 너머)는 손대지 마. 첫째 칸의 진열대 뒤에서 딱 한 가지만 바꾼다:\n1) 지금 진열대 뒤에는 노란 밀짚모자 농부와 흰 도포 재상 둘이 큼직한 인삼 조각을 들고 서 있다. 이 둘을 왼쪽으로 조금 좁혀 세우고, 재상의 오른쪽(세로 칸막이 바로 앞)에 조선 임금 한 사람을 더 세운다 — 가슴과 양어깨에 둥근 금빛 용무늬가 있는 새빨간 곤룡포, 뒤쪽에 가늘고 긴 검은 날개 두 개가 곧게 선 새까만 익선관(왕관·보석 없음), 마흔 살쯤의 둥근 얼굴에 양 볼에 작은 분홍 홍조, 검은 콧수염과 턱 아래로 길게 뾰족한 검은 턱수염. 그도 똑같이 큼직한 인삼 조각 하나를 손에 들어 보인다. 세 사람의 키와 크기는 같고, 모두 허리 위만 진열대 위로 보인다.\n그 밖의 사람과 물건은 하나도 바꾸지 마. 글자·숫자는 절대 넣지 마.\n",
+   "chat": "f5c37b040c25fff0",
+   "crop": 0,
+   "result": "임금 추가 ✓(영문 CANON 블록을 넣은 1차 825001427b0efba8은 「이미지 생성 미지원」 글로 거절 → 한국어로 다시 써서 성공)"
+  },
+  "ZB": {
+   "prompt": "첨부 이미지를 편집해서 새 이미지를 생성해줘. 첨부한 그림은 긴 가로 그림의 한 조각이야. 비율·구도·확대 정도, 진열대·약장·칸막이·바닥, 사람들의 자세·위치·크기와 화풍을 그대로 두고, 다시 그리지 말고 덧그리기만 해줘. 왼쪽 가장자리와 오른쪽 가장자리의 사람·물건은 손대지 마. 가운데 칸(붉은 곤룡포 임금이 선 칸)에서만 아래 세 가지:\n1) 진열대 위의 검은 덩이뿌리를, 팽이처럼 위가 둥글고 아래가 뾰족한 원뿔꼴의 회흑색 덩이뿌리(어린아이 주먹만 함)로 바꾼다. 겉면에 새까만 물방울이 송골송골 맺혀 있다. 임금이 손에 든 것도 그 뿌리를 얇게 저민 반투명한 호박빛 조각 한 장으로 바꾼다.\n2) 그 덩이뿌리 곁 진열대 위에 붉은 고추 두 개가 놓인 작은 접시 하나를 더한다.\n3) 진열대 앞 눈밭에 엎드린 검은 옷 사람의 두 손과 두 발을 이렇게 칠한다: 손가락 끝과 발가락 끝은 푸르스름하고, 손목과 발목 쪽은 발그스름하게 — 붉은 기운이 손목에서 손끝 쪽으로 번져 가는 중처럼 한 손 안에 두 색이 함께 보이게. 몸 둘레의 붉은 빛무리는 지운다.\n솥과 재 더미, 그 밖의 사람과 물건은 하나도 바꾸지 마. 글자·숫자는 절대 넣지 마.\n",
+   "chat": "471e6e5180c687ae",
+   "crop": 1,
+   "result": "원뿔 附子 ✓ · 호박빛 附片 ✓ · 고추 접시 ✓ · 잠수부 손끝 靑→赤 번짐 ✓ · 빛무리 지움 ✓ (1차 85a4bcf6f3f80fae는 「청색증·독 방울」 낱말에 글로 거절 → 순화해 성공)"
+  }
+ },
+ "pil": "board_hist/s14u01_post.py — 炙黃芪 검붉은 광택을 HSV 색상 회전으로 꿀빛 황토(地黃 사전 충돌 해소)"
+}

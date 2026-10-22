@@ -1,0 +1,31 @@
+{
+ "base": "base2x.png",
+ "cssw": 1024,
+ "crops": "crops.json",
+ "zones": [
+  {
+   "crop": 0,
+   "img": "ZA.png",
+   "own": [
+    14,
+    330
+   ]
+  },
+  {
+   "crop": 1,
+   "img": "ZB.png",
+   "own": [
+    330,
+    560
+   ]
+  }
+ ],
+ "patches": [],
+ "feather": 20,
+ "search": 12,
+ "band": [
+  0.07,
+  0.38
+ ],
+ "note": "scratchpad u19. ZA own [14,330] · ZB own [330,560], 페더 20. 합성 뒤 s14u01_post.py → zone_kit finish"
+}

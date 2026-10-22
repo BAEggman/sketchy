@@ -68,3 +68,7 @@ src/coverage/blind40z/*.png
 src/coverage/blind40z/crop_*/
 src/coverage/blind41/*.png
 src/coverage/blind41/crop_*/
+src/coverage/blind42z/*.png
+src/coverage/blind42z/crop_*/
+src/coverage/blind43/*.png
+src/coverage/blind43/crop_*/

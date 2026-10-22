@@ -1,0 +1,23 @@
+{
+ "base": "comp.png",
+ "cssw": 1024,
+ "crops": "c2/crops.json",
+ "zones": [
+  {
+   "crop": 0,
+   "img": "ZB.png",
+   "own": [
+    300,
+    540
+   ]
+  }
+ ],
+ "patches": [],
+ "feather": 20,
+ "search": 12,
+ "band": [
+  0.07,
+  0.38
+ ],
+ "note": "2단계: ZA 합성본(comp.png)을 바탕으로 ZB(半夏 칸: 둥근 덩이 넷·검은 액체 방울·생강 접시) own [300,540]"
+}

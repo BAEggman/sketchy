@@ -1,0 +1,31 @@
+{
+ "base": "board_hist/wip/s16u04_base_v1.png",
+ "cssw": 1024,
+ "crops": "unify_s16u04_crops.json",
+ "zones": [
+  {
+   "crop": 0,
+   "img": "ZA.png",
+   "own": [
+    0,
+    250
+   ]
+  },
+  {
+   "crop": 1,
+   "img": "ZC.png",
+   "own": [
+    700,
+    1006
+   ]
+  }
+ ],
+ "patches": [],
+ "feather": 20,
+ "search": 12,
+ "band": [
+  0.07,
+  0.38
+ ],
+ "note": "u27 s16u04 — 바탕 Argon 7880a5e3bfe1d3c4(허용 카드) + ZA(87305948cbda9b97: 끈·술 한쪽, 얼굴 처짐, 짚신) · ZC(3187e2bd424639b5: 마른 수건, 잠수복 서리)"
+}

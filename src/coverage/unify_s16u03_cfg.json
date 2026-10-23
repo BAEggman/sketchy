@@ -1,0 +1,31 @@
+{
+ "base": "board_hist/wip/s16u03_base_v1.png",
+ "cssw": 1024,
+ "crops": "unify_s16u03_crops.json",
+ "zones": [
+  {
+   "crop": 0,
+   "img": "ZA.png",
+   "own": [
+    392,
+    548
+   ]
+  },
+  {
+   "crop": 1,
+   "img": "ZB.png",
+   "own": [
+    716,
+    1011
+   ]
+  }
+ ],
+ "patches": [],
+ "feather": 20,
+ "search": 12,
+ "band": [
+  0.07,
+  0.38
+ ],
+ "note": "u26 s16u03 — 바탕 Argon a21512d6cb84d82c + ZA(185a6d9d455f3dd6 — 「도구 허용」 카드 뒤) 氣陷 김 아래로·배 받침 · ZB(2e48494d1c832e64) 血瘀 쇠못·血熱 넘침"
+}

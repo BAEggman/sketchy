@@ -1,0 +1,23 @@
+{
+ "base": "(unify_s16u03_cfg.json 결과)",
+ "cssw": 1024,
+ "crops": "unify_s16u03_crops2.json",
+ "zones": [
+  {
+   "crop": 0,
+   "img": "ZC.png",
+   "own": [
+    716,
+    1024
+   ]
+  }
+ ],
+ "patches": [],
+ "feather": 20,
+ "search": 12,
+ "band": [
+  0.07,
+  0.38
+ ],
+ "note": "u26 — compF 위에 ZC(Argon 7e1e0b18314bdd77, 「도구 허용」 카드 뒤): 흙항아리 → 놋요강 붉은 오줌 · 넘친 웅덩이 오른쪽 끝까지"
+}

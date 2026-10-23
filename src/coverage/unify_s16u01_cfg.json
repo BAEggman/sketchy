@@ -1,0 +1,23 @@
+{
+ "base": "base2x.png",
+ "cssw": 1024,
+ "crops": "crops.json",
+ "zones": [
+  {
+   "crop": 0,
+   "img": "ZA.png",
+   "own": [
+    560,
+    800
+   ]
+  }
+ ],
+ "patches": [],
+ "feather": 20,
+ "search": 12,
+ "band": [
+  0.07,
+  0.38
+ ],
+ "note": "scratchpad u24. 바탕 Argon e2356f196cb668d7 · ZA(Argon 1c7432fdc5fbb36f) 셋째 남자 拒按 몸짓, own [560,800]"
+}

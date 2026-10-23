@@ -84,3 +84,7 @@ src/coverage/blind48z/*.png
 src/coverage/blind48z/crop_*/
 src/coverage/blind49/*.png
 src/coverage/blind49/crop_*/
+src/coverage/blind50z/*.png
+src/coverage/blind50z/crop_*/
+src/coverage/blind51/*.png
+src/coverage/blind51/crop_*/

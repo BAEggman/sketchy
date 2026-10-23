@@ -1,0 +1,47 @@
+{
+ "base": "board_hist/wip/s16u02_base_v1.png",
+ "cssw": 1024,
+ "crops": "unify_s16u02_crops.json",
+ "zones": [
+  {
+   "crop": 0,
+   "img": "ZA3.png",
+   "own": [
+    0,
+    278
+   ]
+  },
+  {
+   "crop": 1,
+   "img": "ZB2.png",
+   "own": [
+    288,
+    514
+   ]
+  },
+  {
+   "crop": 2,
+   "img": "ZC3.png",
+   "own": [
+    521,
+    770
+   ]
+  },
+  {
+   "crop": 3,
+   "img": "ZD.png",
+   "own": [
+    776,
+    1024
+   ]
+  }
+ ],
+ "patches": [],
+ "feather": 20,
+ "search": 12,
+ "band": [
+  0.07,
+  0.38
+ ],
+ "note": "u25 s16u02 최종 — 바탕 Argon 1d3624a8a65ab4cf + ZA3(50290cb7d5391fe2 셋째) · ZB2(77a39df99dd6549b 둘째) · ZC3(2604a0515262ee92 셋째) · ZD(cf6cdc11abb3dae2)"
+}

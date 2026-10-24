@@ -1,0 +1,23 @@
+{
+ "base": "board_hist/wip/s18u02_base_v1.png",
+ "cssw": 1024,
+ "crops": "unify_s18u02_crops.json",
+ "zones": [
+  {
+   "crop": 0,
+   "img": "ZA.png",
+   "own": [
+    300,
+    470
+   ]
+  }
+ ],
+ "patches": [],
+ "feather": 20,
+ "search": 12,
+ "band": [
+  0.07,
+  0.38
+ ],
+ "note": "u29 s18u02 — 바탕 Argon e281a65eaf899f2d + ZA2(Argon 543a82a6f9ff927f: 문간을 옆구리로 · 항아리 셋 세로 + 가운데 대롱). ZA 1차(4aa2eab26ce6d8ea)는 문간 보퉁이가 사라짐 → 버림"
+}

@@ -1,0 +1,24 @@
+{
+ "base": "board_hist/wip/s18u01_base_v1.png",
+ "cssw": 1024,
+ "crops": "unify_s18u01_crops.json",
+ "zones": [
+  {
+   "crop": 1,
+   "img": "ZB.png",
+   "own": [
+    338,
+    540
+   ]
+  }
+ ],
+ "patches": [],
+ "feather": 20,
+ "search": 12,
+ "band": [
+  0.07,
+  0.38
+ ],
+ "note": "u28 s18u01 — 바탕 Argon 486d408f1d511505 + ZB(Argon a18b76e4724027aa: 正格 칸에 3층 선반장 — 위 국물·가운데 빈 그릇+빗자루). ZA(7cf041fe3f733024)는 두 번 다 선반 안이 안 바뀜 → s18u01_post.py(PIL)",
+ "post": "board_hist/s18u01_post.py"
+}

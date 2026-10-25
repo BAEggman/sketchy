@@ -1,0 +1,22 @@
+{
+ "base": "comp_post.png",
+ "cssw": 1024,
+ "crops": "unify_s20u01_crops2.json",
+ "zones": [
+  {
+   "crop": 0,
+   "img": "ZE.png",
+   "own": [
+    822,
+    1024
+   ]
+  }
+ ],
+ "feather": 20,
+ "search": 12,
+ "band": [
+  0.07,
+  0.38
+ ],
+ "note": "base = unify_s20u01_cfg.json 합성 → 아래 2줄·오른 2열 덮음 → board_hist/s20u01_post.py(임금 손톱). 이 위에 ZE(腎 두 귀). 마무리 전 맨 아래 4줄 덮음."
+}

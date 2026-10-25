@@ -23,6 +23,7 @@
 | 장면 순서·칩 | `<repo>/src/panels/scenes.json` |
 | 그림 | `<repo>/images/<id>.webp` |
 | 글자 사전 요약(판독자에게 주는 것) | `<repo>/src/coverage/blind6_사전요약.md` |
+| 회상 훈련 페이지(사용자 회상 측정) | `<repo>/recall.html` ← `src/build_recall.py`(library A·B 35판 + 사전 요약 내장, 그림은 images/ 링크) · 라이브 `baeggman.github.io/sketchy/recall.html` · 결과는 localStorage `sketchy_recall_v1` → JSON 내보내기 |
 | 도구 | `<repo>/src/coverage/zone_kit.py` · `tile_stitch.py` · `tile_stitch2.py` · `gemini_capture.js` (없으면 부록에서 만든다) |
 | 허브 빌더 | `<repo>/src/build_local.py` |
 | 작업 파일 | **세션 scratchpad** 안에 단원 폴더를 만든다(예: `<scratch>/u13/`). Chrome `file_upload`는 scratchpad 경로만 받는다(`/mnt/user-data/outputs`는 거부) |

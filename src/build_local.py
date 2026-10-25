@@ -127,7 +127,8 @@ def run():
          '<header><h1>한의학 Sketchy 허브 <small>v2.2 · 패널 %d · 함정 %d · 도해 문항 %d</small></h1>'
          % (npan, ntrap, nquiz),
          '<span class="btn" id="bTest">자가테스트</span><span class="btn" id="bWhy">다리 전체</span>'
-         '<span class="btn" id="bTrap">함정만</span><span class="btn" id="bQuiz">도해 문항</span>',
+         '<span class="btn" id="bTrap">함정만</span><span class="btn" id="bQuiz">도해 문항</span>'
+         '<a class="btn" href="recall.html" style="text-decoration:none">회상 훈련 →</a>',
          '<div class="chips">%s</div></header>' % chips,
          '<main>']
     for sc in SCENES['scenes']:

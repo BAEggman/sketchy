@@ -1,0 +1,18 @@
+{
+  "tool": "built-in image_gen",
+  "date": "2026-11-06",
+  "briefs": [
+    {
+      "id": "s02u02",
+      "prompt": "Use case: precise-object-edit. Edit target: the supplied traditional East Asian medical mnemonic illustration. Preserve the original entire three-lane composition, every person, clothing, objects, color palette and watercolor/ink style. Change ONLY the rolled scrolls on the ICE TABLE next to the crowned brown-robed man on the middle-right. Remove the existing scroll piles completely. Put exactly SEVEN separate scrolls on that same ice tabletop: a clearly separated group of FOUR rolls on its left (2 by 2), and THREE rolls on its right in one row. All SEVEN circular scroll ends must be visible and individually countable, with space between the two groups. No scroll anywhere else added. This is an educational counting mnemonic; exactly 4+3=7 is essential. Do not add any lettering, numbers or labels. Keep the original framing and all other existing mnemonic props intact."
+    },
+    {
+      "id": "s14u01",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied medical mnemonic illustration of a traditional herbal pharmacy. Preserve the entire composition, all characters, all original mnemonic objects and color palette except for the following TWO tightly localized changes. (1) In the ANGELICA area (third counter section, green armored general and red emperor), replace ONLY the bleeding cut root head with a clearly sealed cut root head: a small wooden stopper/plughole at the cut face holds back a red liquid channel visible inside the cut face. The red liquid visibly ends flush at the stopper. NO free blood drops below the root, NO blood puddle. This must communicate stopped flow/hemostasis, not active bleeding. Preserve the adjacent bowl full of red liquid and broken bamboo pipe with flowing water, as they are distinct other mnemonic facts. (2) In the ACONITE area (second counter section with black toxic root, boiling pot, red emperor and collapsed black diver below), add ONE yellow-clothed farmer wearing a straw hat standing next to that emperor behind the counter, clearly within that second section, holding the same dark aconite slice as the emperor. This restores the spleen character for that specific medicine. Leave the other yellow farmers in first, third and fourth sections intact. No other edits. No labels, letters, numbers. Maintain original drawing style, exact scene layout, count of sections, and wide aspect ratio."
+    },
+    {
+      "id": "s15u02",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied medical mnemonic illustration of SIX East Asian men in a row, showing six emotions and white qi vapor. Preserve all six faces, clothes, positions, background wall, all other vapor symbols, composition and style. Change ONLY the vapor associated with the THIRD man from the left, the sad crying man. Remove the long vertical ribbon of white vapor running down his torso and legs entirely. Instead, at HIS CHEST LEVEL ONLY, show a short white wisp that disintegrates horizontally into progressively smaller, fainter tiny wisps, ending in empty air nearby. No long downward stream, no vapor below his waist, no solid knotted cloud. This depicts DISSIPATION / vanishing, not DOWNWARD movement. Preserve the downward vapor between the legs of the FOURTH fearful crouching man exactly, so the two mechanisms look clearly different. Preserve the first man's upward jet, second's relaxed outward vapor, fifth's radial exploding wisps, sixth's knotted cloud. No added words, numbers or symbols."
+    }
+  ]
+}

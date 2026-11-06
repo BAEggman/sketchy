@@ -7,8 +7,10 @@
 """
 import base64, io, json, os, re, sys
 from PIL import Image
+from reading import fact_html, memory_html
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(HERE)
 LIB    = json.load(open(os.path.join(HERE, 'panels/library.json'), encoding='utf-8'))
 SCENES = json.load(open(os.path.join(HERE, 'panels/scenes.json'), encoding='utf-8'))
 CSS    = open(os.path.join(HERE, 'panels/_css.txt'), encoding='utf-8').read()
@@ -26,8 +28,11 @@ _PICK = {'mode': 'passthrough', 'recode': {}}
 
 
 def img_path(pid):
+    panel = next(p for p in LIB['panels'] if p['id'] == pid)
+    if panel.get('image'):
+        return os.path.join(ROOT, panel['image'])
     for ext in ('webp', 'png', 'jpg', 'jpeg'):
-        p = os.path.join(HERE, 'images', '%s.%s' % (pid, ext))
+        p = os.path.join(ROOT, 'images', '%s.%s' % (pid, ext))
         if os.path.exists(p):
             return p
     return None
@@ -77,7 +82,7 @@ def panel_html(p):
     ip = img_path(pid)
     if ip:
         if EXTERNAL:
-            o.append('<img loading="lazy" decoding="async" src="images/%s.webp" alt="">' % pid)
+            o.append('<img loading="lazy" decoding="async" src="%s" alt="">' % p.get('image', 'images/%s.webp' % pid))
         else:
             o.append('<img loading="lazy" src="data:image/webp;base64,%s">' % b64(ip))
     o.append('<table><thead><tr><th>소품</th>'
@@ -85,7 +90,7 @@ def panel_html(p):
     for r in p['rows']:
         tc = ' class="trap"' if r['trap'] else ''
         o.append('<tr%s><td class="prop">%s <span class="why">왜?</span></td>'
-                 '<td class="fact">%s</td></tr>' % (tc, esc(r['prop']), esc(r['fact'])))
+                 '<td class="fact">%s%s</td></tr>' % (tc, esc(r['prop']), fact_html(r['fact']), memory_html(r.get('memory'))))
         if r['why']:
             rc = 'reason trap' if r['trap'] else 'reason'
             o.append('<tr class="%s"><td colspan="2" class="rz">다리 — %s</td></tr>'
@@ -97,7 +102,7 @@ def panel_html(p):
         for i, q in enumerate(p['quiz'], 1):
             src = '<span class="qsrc">%s</span>' % q['src'] if q['src'] else ''
             o.append('<tr><td class="qq">%d. %s</td><td class="fact qa">%s%s</td></tr>'
-                     % (i, esc(q['q']), esc(q['a']), src))
+                     % (i, esc(q['q']), fact_html(q['a']), src))
         o.append('</tbody></table></div>')
     o.append('</div>')
     return '\n'.join(o)
@@ -122,12 +127,13 @@ def run():
     chips = ''.join('<a class="chip" href="#%s">%s</a>' % (a, t) for a, t in SCENES['chips'])
     o = ['<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8">',
          '<meta name="viewport" content="width=device-width, initial-scale=1">',
-         '<title>한의학 Sketchy 허브 v2.1</title>',
+         '<title>한의학 Sketchy 허브 v2.3</title>',
          '<style>%s</style></head><body>' % CSS,
-         '<header><h1>한의학 Sketchy 허브 <small>v2.2 · 패널 %d · 함정 %d · 도해 문항 %d</small></h1>'
+         '<header><h1>한의학 Sketchy 허브 <small>v2.3 · 패널 %d · 함정 %d · 도해 문항 %d</small></h1>'
          % (npan, ntrap, nquiz),
          '<span class="btn" id="bTest">자가테스트</span><span class="btn" id="bWhy">다리 전체</span>'
          '<span class="btn" id="bTrap">함정만</span><span class="btn" id="bQuiz">도해 문항</span>'
+         '<button type="button" class="btn" id="bReading" aria-pressed="true">한글 독음 켜짐</button>'
          '<a class="btn" href="recall.html" style="text-decoration:none">회상 훈련 →</a>',
          '<div class="chips">%s</div></header>' % chips,
          '<main>']
@@ -149,7 +155,7 @@ def run():
     o.append('<script>%s</script></body></html>' % SCRIPT)
 
     html = '\n'.join(o)
-    out = os.path.join(HERE, 'index.html')
+    out = os.path.join(ROOT, 'index.html')
     open(out, 'w', encoding='utf-8').write(html)
     sz = os.path.getsize(out)
     print('written index.html %.2f MB, panels %d traps %d | 도해 문항 %d 개 / %d 판 | 화질 %s'

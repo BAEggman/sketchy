@@ -10,7 +10,8 @@ body.test #bTest,body.traps #bTrap,body.rall #bWhy,body.qall #bQuiz{background:v
 .chip{display:inline-block;font-size:12px;border:1px solid var(--line);border-radius:12px;padding:3px 10px;margin-right:6px;color:var(--ink);text-decoration:none;background:#fff}
 main{max-width:960px;margin:0 auto;padding:12px}
 h2{font-size:16px;border-left:5px solid var(--acc);padding-left:8px;margin:26px 0 10px}
-.panel{background:#fff;border:1px solid var(--line);border-radius:12px;padding:12px;margin-bottom:18px;scroll-margin-top:110px}
+.panel{background:#fff;border:1px solid var(--line);border-radius:12px;padding:12px;margin-bottom:18px;scroll-margin-top:180px}
+h2{scroll-margin-top:180px}
 .panel h3{font-size:15px;margin:0 0 8px}
 .panel h3 a{text-decoration:none}
 .tag{font-size:11px;background:#eef4ee;border-radius:8px;padding:2px 8px;margin-left:6px;color:#345}
@@ -45,3 +46,12 @@ body.test td.fact.open{filter:none}
 body.traps .panel:not(:has(tr.trap)){display:none}
 body.traps tbody tr:not(.trap){display:none}
 footer{color:#999;font-size:12px;text-align:center;padding:20px}
+.reading{font-size:.88em;color:#52675a;margin-left:.15em;overflow-wrap:anywhere}
+body.hide-readings .reading{display:none}
+#bReading{font-family:inherit;line-height:inherit}
+#bReading[aria-pressed="true"]{border-color:var(--acc);color:var(--acc);background:#eef4ee}
+.memory-scope{border-left:2px solid #c9d8cc;padding-left:8px;margin-top:8px;font-size:12.5px;color:#626b65}
+.memory-note + .memory-note{margin-top:4px}
+.memory-note strong{font-size:11px;color:#3f644b;margin-right:4px}
+td{overflow-wrap:anywhere}
+@media(max-width:600px){header .btn{padding:4px 9px;margin-bottom:5px;font-size:12px}.panel,h2{scroll-margin-top:210px}}

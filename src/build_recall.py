@@ -9,6 +9,8 @@
   usage:  cd src && python3 build_recall.py   → ../recall.html
 """
 import json, os, re, datetime
+from reading import fact_html, memory_html
+from zoneinfo import ZoneInfo
 HERE = os.path.dirname(os.path.abspath(__file__))
 LIB = json.load(open(os.path.join(HERE, 'panels/library.json'), encoding='utf-8'))
 SC  = json.load(open(os.path.join(HERE, 'panels/scenes.json'), encoding='utf-8'))
@@ -23,8 +25,8 @@ panels = []
 for p in LIB['panels']:
     if p.get('track') == 'D':
         continue
-    panels.append({'id': p['id'], 'title': p['title'], 'tag': p.get('tag', ''), 'scene': scene_of.get(p['id'], ''),
-                   'rows': [{'prop': r['prop'], 'fact': r['fact'], 'trap': bool(r.get('trap')), 'why': r.get('why', '')}
+    panels.append({'id': p['id'], 'title': p['title'], 'tag': p.get('tag', ''), 'scene': scene_of.get(p['id'], ''), 'image': p.get('image', 'images/'+p['id']+'.webp'),
+                   'rows': [{'prop': r['prop'], 'fact': r['fact'], 'factHtml': fact_html(r['fact'])+memory_html(r.get('memory')), 'trap': bool(r.get('trap')), 'why': r.get('why', '')}
                             for r in p['rows']]})
 
 def md_to_html(md):
@@ -50,7 +52,7 @@ def md_to_html(md):
 
 data_js = json.dumps(panels, ensure_ascii=False).replace('</', '<\\/')
 dict_html = md_to_html(DICT)
-today = datetime.date.today().isoformat()
+today = datetime.datetime.now(ZoneInfo('Asia/Seoul')).date().isoformat()
 n_rows = sum(len(p['rows']) for p in panels)
 
 HTML = r'''<!doctype html>
@@ -104,6 +106,14 @@ tr.reason.open td{display:table-cell}
 #dq{width:100%;font:inherit;padding:6px 8px;border:1.5px solid var(--line);border-radius:8px;margin-bottom:8px}
 .res td,.res th{font-size:13px}
 .note{font-size:12.5px;color:#666}
+.reading{font-size:.88em;margin-left:.15em;overflow-wrap:anywhere}
+.hide-readings .reading{display:none}
+.memory-scope{border-left:2px solid #c9d8cc;padding-left:8px;margin-top:8px;font-size:12.5px}
+.memory-note + .memory-note{margin-top:4px}
+.memory-note strong{font-size:11px;margin-right:4px}
+tr.hid td.fact{filter:blur(7px)}
+#bReading{font:inherit;font-size:14px}
+#bReading[aria-pressed="true"]{border-color:var(--acc);color:var(--acc);background:#eef4ee}
 footer{font-size:12px;color:#888;padding:20px 14px}
 @media (max-width:600px){table.g,table.g tbody,table.g tr,table.g td{display:block;width:auto}table.g thead{display:none}table.g td.prop{border-top:1px solid var(--line);padding-bottom:2px;font-weight:600}table.g td.fact{border-top:0;padding-top:0;color:#333}table.g td.mk{border-top:0;padding-top:2px;padding-bottom:10px}table.g tr.reason td{border-top:0}table.g tr.reason:not(.open) td{display:none}}
 </style></head><body>
@@ -115,6 +125,7 @@ footer{font-size:12px;color:#888;padding:20px 14px}
   <span class="btn" id="st2" data-st="2">2단계 — 사전 읽고</span>
   <span class="btn" id="bDict">사전</span>
   <span class="btn" id="bRes">결과</span>
+  <button type="button" class="btn" id="bReading" aria-pressed="true">한글 독음 켜짐</button>
  </div>
 </header>
 <main>
@@ -160,7 +171,7 @@ function fmt(s){return Math.floor(s/60)+':'+String(s%60).padStart(2,'0')}
 (function(){let last='';let html='';P.forEach((p,i)=>{if(p.scene!==last){if(last)html+='</optgroup>';html+='<optgroup label="'+esc(p.scene)+'">';last=p.scene}html+='<option value="'+i+'">'+esc(p.title.length>46?p.title.slice(0,46)+'…':p.title)+'</option>'});if(last)html+='</optgroup>';$('sel').innerHTML=html})();
 function show(i){cur=i;const p=P[i];$('sel').value=i;location.hash=p.id;
  $('ttl').innerHTML=esc(p.title)+'<span class="tag">'+esc(p.tag)+'</span><span class="tag">#'+p.id+'</span>';
- $('img').src='images/'+p.id+'.webp';$('img').onclick=()=>window.open('images/'+p.id+'.webp');
+ $('img').src=p.image;$('img').onclick=()=>window.open(p.image);
  $('free').value='';$('gradeCard').classList.add('hidden');$('freeCard').classList.remove('hidden');$('saveNote').textContent='';
  marks=p.rows.map(()=>null);secs=0;$('timer').textContent='0:00';clearInterval(tick);t0=Date.now();tick=setInterval(()=>{secs=Math.round((Date.now()-t0)/1000);$('timer').textContent=fmt(secs)},500);
  window.scrollTo(0,0)}
@@ -170,7 +181,7 @@ $('bDict').onclick=()=>$('dictCard').classList.toggle('hidden');
 $('bRes').onclick=()=>{renderRes();$('resCard').classList.toggle('hidden')};
 $('dq').oninput=e=>{const q=e.target.value.trim();document.querySelectorAll('#dict .de').forEach(d=>{d.style.display=(!q||d.textContent.includes(q))?'':'none'})};
 function grade(){clearInterval(tick);secs=Math.round((Date.now()-t0)/1000);$('timer').textContent=fmt(secs);
- const p=P[cur];let h='';p.rows.forEach((r,i)=>{h+='<tr class="'+(r.trap?'trap ':'')+(i?'':'r0')+'" data-i="'+i+'"><td class="prop">'+esc(r.prop)+(r.why?' <span class="why">왜?</span>':'')+'</td><td class="fact">'+esc(r.fact)+'</td><td class="mk"><span class="o" data-m="o">○</span><span class="h" data-m="h">△</span><span class="x" data-m="x">✗</span></td></tr>';
+ const p=P[cur];let h='';p.rows.forEach((r,i)=>{h+='<tr class="'+(r.trap?'trap ':'')+(i?'':'r0')+'" data-i="'+i+'"><td class="prop">'+esc(r.prop)+(r.why?' <span class="why">왜?</span>':'')+'</td><td class="fact">'+r.factHtml+'</td><td class="mk"><span class="o" data-m="o">○</span><span class="h" data-m="h">△</span><span class="x" data-m="x">✗</span></td></tr>';
   if(r.why)h+='<tr class="reason"><td colspan="3">다리 — '+esc(r.why)+'</td></tr>'});
  $('rows').innerHTML=h;$('gradeCard').classList.remove('hidden');$('freeCard').classList.add('hidden');calc();
  $('rows').querySelectorAll('.mk span').forEach(s=>s.onclick=()=>{const tr=s.closest('tr'),i=+tr.dataset.i;tr.querySelectorAll('.mk span').forEach(x=>x.classList.remove('on'));s.classList.add('on');marks[i]=s.dataset.m;calc()});
@@ -188,6 +199,9 @@ function renderRes(){const a=load();$('resBody').innerHTML=a.slice().reverse().m
 function payload(){return JSON.stringify({exported:new Date().toISOString(),build:'__TODAY__',attempts:load()},null,1)}
 $('bExport').onclick=()=>{const b=new Blob([payload()],{type:'application/json'});const u=URL.createObjectURL(b);const l=document.createElement('a');l.href=u;l.download='sketchy_recall_'+new Date().toISOString().slice(0,10)+'.json';document.body.appendChild(l);l.click();l.remove();setTimeout(()=>URL.revokeObjectURL(u),2000)};
 $('bCopy').onclick=()=>{navigator.clipboard&&navigator.clipboard.writeText(payload()).then(()=>$('resNote').textContent='복사됨').catch(()=>$('resNote').textContent='복사 실패 — 내보내기를 쓰세요')};
+function setReadings(show){document.body.classList.toggle('hide-readings',!show);$('bReading').setAttribute('aria-pressed',String(show));$('bReading').textContent='한글 독음 '+(show?'켜짐':'꺼짐');}
+try{setReadings(localStorage.getItem('sketchy.readings.v1')!=='off');}catch(_){setReadings(true);}
+$('bReading').onclick=()=>{const show=document.body.classList.contains('hide-readings');setReadings(show);try{localStorage.setItem('sketchy.readings.v1',show?'on':'off');}catch(_){}};
 $('bClear').onclick=()=>{if(confirm('저장된 결과를 모두 지울까요? (내보내기 먼저)')){store([]);renderRes()}};
 (function(){const h=location.hash.slice(1);const i=P.findIndex(p=>p.id===h);show(i>=0?i:0)})();
 </script></body></html>

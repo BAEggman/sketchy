@@ -1,14 +1,16 @@
 # src — Sketchy 소스 트리
 
-## 현재 빌드: v2.4 (2026-11-06)
+## 현재 빌드: v2.4.1 (2026-11-06)
 
 저장소 루트에서 실행한다. 파일을 복사하거나 작업 위치를 바꿀 필요가 없다.
 
 ```bash
 EXTERNAL=1 python3 src/build_local.py
 python3 src/build_recall.py
+python3 src/build_bagua.py
 python3 qa/verify_v23.py
 python3 qa/verify_v24.py
+python3 qa/verify_bagua.py
 ```
 
 Python 3.9 이상과 Pillow가 필요하다. 현재 패널 79개, 사실 740행, 도해 문항 467개다.
@@ -17,7 +19,9 @@ Python 3.9 이상과 Pillow가 필요하다. 현재 패널 79개, 사실 740행,
 독음도 함께 등록해야 한다. 누락하면 빌드를 중단한다. 브라우저에서는 외부 사전을 호출하지 않는다.
 
 수정 그림 세 장은 `images/*-v2.3.png`이며 원본 WebP는 보존했다.
-변경 범위와 이전 버전 복원법은 루트의 `RELEASE-v2.4.md`와 앞선 릴리스 기록을 따른다.
+변경 범위와 이전 버전 복원법은 루트의 `RELEASE-v2.4.1.md`와 앞선 릴리스 기록을 따른다.
+팔괘 방위 암기·빈칸 연습은 `bagua.html`이다. 원본은 `panels/bagua-memory.json`,
+`bagua-template.html`, `bagua.js`이며 `build_bagua.py`로 다시 만든다.
 음양오행 보완판만 편집·재생성할 때는 다음 명령을 일반 빌드 전에 실행한다.
 기존 패널의 JSON과 그림은 그대로 보존한다.
 

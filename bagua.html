@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>팔괘 방위 기억방 · Sketchy v2.4.1</title>
+<style>
+:root{--paper:#faf8f2;--ink:#233d35;--muted:#61766c;--line:#d8e0d7;--green:#2d7159;--warm:#a86b32;--light:#edf3e9}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font-family:'Apple SD Gothic Neo','Malgun Gothic',sans-serif;line-height:1.65}button,a,summary{touch-action:manipulation}button{font:inherit;color:inherit;cursor:pointer}button:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid #b27a33;outline-offset:4px}button{border:1px solid var(--line);background:#fffdf8;border-radius:12px;padding:9px 15px}button[aria-pressed=true],button.primary{background:var(--green);color:white;border-color:var(--green)}button:hover{box-shadow:0 2px 8px #253d3515}a{color:var(--green);text-underline-offset:4px}header,main,footer{max-width:1080px;margin:auto;padding:20px 28px}header{padding-bottom:0}.back{font-size:13px}.eyebrow{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:24px 0 4px}h1{font-size:clamp(26px,5vw,42px);letter-spacing:-.04em;line-height:1.2;margin:0 0 12px}.lead{margin:0;color:var(--muted)}h2{font-size:22px;margin:0 0 10px}.toolbar{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin:20px 0}.tabs{display:flex;gap:6px}.tabs button{min-width:100px;font-weight:700}.orientation{font-size:13px}.layout{display:grid;grid-template-columns:1.08fr 1fr;gap:26px;align-items:start}.map-wrap{background:#fffdf8;border:1px solid var(--line);padding:18px;border-radius:22px}.map-top{display:flex;justify-content:space-between;gap:10px;align-items:center;margin-bottom:13px}.map-top strong{font-size:18px}.orientation-note{font-size:12px;color:var(--muted);text-align:right}.board{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:9px}.place{min-width:0;min-height:130px;padding:7px 5px;border:1px solid var(--line);border-radius:12px;background:#f4f6ef;text-align:center;display:flex;flex-direction:column;justify-content:center;align-items:center;line-height:1.35}.place.corner{background:#faf1e3;border-color:#e5d7be}.direction{font-weight:700;font-size:13px;color:var(--muted)}.place .name{font-size:20px;font-weight:700}.trigram{width:42px;height:28px;display:block;margin:4px auto;color:var(--ink)}.cue{font-size:12px;color:#77552b;margin-top:5px}.emoji{font-size:20px;margin-right:3px}.center{display:flex;align-items:center;justify-content:center;flex-direction:column;text-align:center;color:var(--muted);font-size:12px;line-height:1.6}.center strong{font-size:22px;color:var(--ink)}.map-note{font-size:12px;color:var(--muted);margin:12px 0 0}.chant{font-size:28px;font-weight:800;letter-spacing:-.02em;line-height:1.35;margin:10px 0}.subchant{font-size:17px;font-weight:700;color:var(--warm);line-height:1.6;margin:0 0 14px}.intro{font-size:14px;color:var(--muted)}.story{background:#f1e8d7;padding:16px 18px;border-radius:14px;font-size:16px;font-weight:700;margin:16px 0}.story small{display:block;font-size:11px;color:#79674a;margin-bottom:5px;letter-spacing:.06em}.groups{display:grid;gap:9px;margin-top:16px}.group{padding:12px 15px;border:1px solid var(--line);border-radius:13px;background:#fffdf8}.group small{font-size:11px;color:var(--green);font-weight:700}.group strong{display:block;font-size:16px}.group p{font-size:13px;color:var(--muted);margin:4px 0 0}.check{font-size:13px;padding:12px 14px;border-left:3px solid var(--green);background:var(--light);margin:15px 0}.actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}.bank{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:7px;margin:14px 0}.bank button{min-width:0;padding:7px 2px;line-height:1.35;font-size:17px;font-weight:700}.bank button.used{border-style:dashed}.bank button small{display:block;min-height:16px;font-size:10px;font-weight:400}.bank button .trigram{width:32px;height:22px}.bank button[aria-pressed=true] .trigram{color:white}.prompt{background:var(--light);padding:16px;border-radius:15px}.prompt h2{font-size:20px}.prompt p{font-size:14px;margin:7px 0}.practice .place{cursor:pointer;background:#fff}.practice .place:hover{border-color:var(--green)}.practice .place.correct{border:2px solid var(--green);background:#e7f1e6}.practice .place.incorrect{border:2px solid #b36635;background:#fff0e0}.mark{font-size:11px;min-height:15px;margin-top:5px}.result{min-height:34px;font-size:14px;font-weight:700;padding-top:9px}.selection{font-size:15px;font-weight:700}.empty{font-size:25px;color:#9eafa2;margin:8px 0}.practice-note{font-size:12px;color:var(--muted)}.source-box{border-top:1px solid var(--line);margin-top:25px;padding-top:18px;font-size:13px;color:var(--muted)}.bridges{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:12px 0}.bridges p{margin:0;padding:10px;background:#fffdf8;border:1px solid var(--line);border-radius:10px}.source-box summary{cursor:pointer;font-weight:700}footer{font-size:12px;color:var(--muted);padding-top:0;padding-bottom:30px}[hidden]{display:none!important}
+@media(max-width:800px){.layout{grid-template-columns:1fr}.map-wrap{max-width:550px;width:100%;margin:auto}.memory{max-width:550px;margin:auto}.layout .memory{width:100%}}
+@media(max-width:430px){header,main,footer{padding-left:16px;padding-right:16px}.map-wrap{padding:12px}.board{gap:6px}.place{min-height:112px}.place .name{font-size:18px}.cue{font-size:11px}.emoji{font-size:17px}.chant{font-size:25px}.bridges{grid-template-columns:1fr}.tabs button{min-width:86px}.toolbar{gap:9px}.orientation{padding:7px 10px}}
+</style>
+</head>
+<body>
+<header><a class="back" href="index.html#s10p01">← Sketchy 팔괘로 돌아가기</a><p class="eyebrow">Sketchy · 방향을 떠올리는 연습</p><h1>팔괘 방위 기억방</h1><p class="lead">십자 먼저, 모서리 다음. 마지막엔 빈칸 여덟 개.</p></header>
+<main>
+ <div class="toolbar"><div class="tabs" role="group" aria-label="팔괘 체계"><button data-system="early" aria-pressed="true">선천팔괘</button><button data-system="late" aria-pressed="false">후천팔괘</button></div><button class="orientation" id="orientation">북쪽 위로 바꾸기</button></div>
+ <div class="layout" id="learning">
+  <section class="map-wrap" aria-label="방위판"><div class="map-top"><strong id="map-title"></strong><span class="orientation-note" id="orientation-note"></span></div><div class="board" id="board"></div><p class="map-note" id="map-note"></p><div id="practice-controls" hidden><p class="selection" id="selection" aria-live="polite">괘 하나를 골라줘.</p><div class="bank" id="bank" role="group" aria-label="놓을 괘 고르기"></div><div class="actions"><button class="primary" id="grade">채점하기</button><button id="reset">빈칸으로 다시</button></div><p class="result" id="result" role="status" aria-live="polite"></p></div></section>
+  <section class="memory">
+   <div id="study"><p class="eyebrow" style="margin-top:0">01 십자 → 02 모서리</p><h2 id="subtitle"></h2><p class="chant" id="chant"></p><p class="subchant" id="subchant"></p><p class="intro" id="intro"></p><div class="story"><small>장면을 한 번 떠올려 봐</small><span id="corner-story"></span></div><div class="groups" id="groups"></div><p class="check" id="check"></p></div>
+   <div id="practice" hidden><div class="prompt"><h2>빈 방위판을 채워 봐</h2><p>① 괘를 고르고<br>② 방위 칸을 눌러 놓으면 돼.</p></div><p class="practice-note">같은 괘를 다시 놓으면 이전 자리에서 이동해. 방향을 바꿔도 네 답은 유지돼.</p></div>
+   <div class="actions"><button class="primary" id="mode">빈 방위판 채우기</button></div>
+  </section>
+ </div>
+ <div class="source-box"><details id="bridges-details"><summary>소품이 괘 이름으로 이어지는 이유</summary><p>건배·곤잠·리모컨·감자·태권도·간식·진동벨·손님은 이번에 붙인 소리 연상이야. 방위 자체의 고전적 유래를 설명하는 이야기는 아니야.</p><div class="bridges" id="bridges"></div></details><details><summary>방위 확인 자료</summary><ul id="sources"></ul></details></div>
+ <noscript>빈 방위판 연습은 자바스크립트가 필요합니다. 기존 <a href="index.html#s10p01">선천·후천 비교도</a>에서 방위를 확인할 수 있습니다.</noscript>
+</main><footer>v2.4.1 · 기존 그림과 말장난은 보존하고 추가한 방위 연습. 같은 괘의 획은 유지되고 자리만 달라져.</footer>
+<script id="bagua-data" type="application/json">{"version": "2.4.1", "trigrams": {"건": {"han": "乾", "lines": [1, 1, 1], "icon": "🥂", "cue": "건배", "bridge": "건배의 첫소리 건 → 乾(건)."}, "곤": {"han": "坤", "lines": [0, 0, 0], "icon": "🛌", "cue": "곤잠", "bridge": "곤히 잠든 모습의 곤 → 坤(곤)."}, "리": {"han": "離", "lines": [1, 0, 1], "icon": "🎛️", "cue": "리모컨", "bridge": "리모컨의 첫소리 리 → 離(리). 불을 켜는 장면으로 火(화)도 연결."}, "감": {"han": "坎", "lines": [0, 1, 0], "icon": "🥔", "cue": "감자", "bridge": "감자의 첫소리 감 → 坎(감). 물에 씻는 장면으로 水(수)도 연결."}, "태": {"han": "兌", "lines": [0, 1, 1], "icon": "🥋", "cue": "태권도", "bridge": "태권도의 첫소리 태 → 兌(태)."}, "간": {"han": "艮", "lines": [1, 0, 0], "icon": "🥪", "cue": "간식", "bridge": "간식의 첫소리 간 → 艮(간)."}, "진": {"han": "震", "lines": [0, 0, 1], "icon": "🔔", "cue": "진동벨", "bridge": "진동의 첫소리 진 → 震(진). 울리고 흔들리는 모습도 함께 연결."}, "손": {"han": "巽", "lines": [1, 1, 0], "icon": "🙋", "cue": "손님", "bridge": "손님의 첫소리 손 → 巽(손). 손이라는 신체 배속을 뜻하지 않는다."}}, "systems": {"early": {"name": "선천", "subtitle": "네 쌍이 서로 마주 보는 집", "chant": "남건북곤 · 동리서감", "subchant": "동남 태 ↔ 서북 간 / 동북 진 ↔ 서남 손", "intro": "먼저 남·북과 동·서의 십자를 놓고, 대각선 두 쌍을 채운다. 한 자리를 떠올렸으면 바로 맞은편까지 말해 본다.", "positions": {"S": "건", "N": "곤", "E": "리", "W": "감", "SE": "태", "NW": "간", "NE": "진", "SW": "손"}, "groups": [{"label": "남 ↔ 북", "title": "남쪽 건배, 북쪽 곤잠", "text": "남쪽에서 건배를 하자, 맞은편 북쪽 사람은 곤히 잠든다.", "directions": ["S", "N"]}, {"label": "동 ↔ 서", "title": "동쪽 리모컨, 서쪽 감자", "text": "동쪽 리모컨으로 불을 켜고, 맞은편 서쪽에서는 감자를 물에 씻는다.", "directions": ["E", "W"]}, {"label": "동남 ↔ 서북", "title": "동남 태권도, 서북 간식", "text": "동남 태권도장에서 발차기! 맞은편 서북 간식집까지 날아간다.", "directions": ["SE", "NW"]}, {"label": "동북 ↔ 서남", "title": "동북 진동벨, 서남 손님", "text": "동북 진동벨이 울리면, 맞은편 서남 손님이 달려온다.", "directions": ["NE", "SW"]}], "check": "선천만의 검산: 건↔곤, 리↔감, 태↔간, 진↔손. 맞은편 괘는 세 효가 모두 반대다.", "cornerStory": "태권도 ↔ 간식, 진동벨 ↔ 손님. 대각선은 두 장면을 짝으로 떠올린다."}, "late": {"name": "후천", "subtitle": "손님이 오면 집들이 한 바퀴", "chant": "동진서태 · 남리북감", "subchant": "동남 손님 → 서남 곤잠 → 서북 건배 → 동북 간식", "intro": "십자는 동쪽 진동벨·서쪽 태권도, 남쪽 불(리)·북쪽 물(감). 네 모서리는 집들이 이야기 한 문장으로 이어 붙인다.", "positions": {"S": "리", "N": "감", "E": "진", "W": "태", "SE": "손", "SW": "곤", "NW": "건", "NE": "간"}, "groups": [{"label": "동 ↔ 서", "title": "동쪽 진동벨, 서쪽 태권도", "text": "동쪽의 진동벨이 울리자 서쪽 태권도 선수가 발차기를 멈춘다.", "directions": ["E", "W"]}, {"label": "남 ↔ 북", "title": "남쪽 불 켜기, 북쪽 물 씻기", "text": "따뜻한 남쪽에서 리모컨으로 불을 켜고, 차가운 북쪽에서 감자를 물에 씻는다. 리=불, 감=물.", "directions": ["S", "N"]}, {"label": "동남 → 서남", "title": "손님 오니 곤잠에서 번쩍", "text": "동남에서 손님이 오자, 서남에서 곤히 자던 주인이 일어난다.", "directions": ["SE", "SW"]}, {"label": "서북 → 동북", "title": "건배한 뒤 간식 먹기", "text": "함께 서북에서 건배한 뒤, 동북에서 간식을 먹는다.", "directions": ["NW", "NE"]}], "check": "후천 한 바퀴: 동 진 → 동남 손 → 남 리 → 서남 곤 → 서 태 → 서북 건 → 북 감 → 동북 간. 선천의 맞은편 짝 규칙을 적용하지 않는다.", "cornerStory": "동남에서 손님이 오자 → 서남에서 곤잠을 깨고 → 서북에서 건배 → 동북에서 간식!"}}, "sources": [{"title": "기존 Sketchy 선천·후천 비교도", "url": "index.html#s10p01"}, {"title": "주역석의 · 선천팔괘 방위도 원문", "url": "https://www.shidianguji.com/zh/mid-page/7534563636280492070"}, {"title": "선천·후천 방위 원문 대조", "url": "https://www.shidianguji.com/zh/mid-page/7596072205743718450"}]}</script>
+<script>
+'use strict';
+const baguaData=JSON.parse(document.getElementById('bagua-data').textContent);
+const directionNames={N:'북',NE:'동북',E:'동',SE:'동남',S:'남',SW:'서남',W:'서',NW:'서북'};
+const southUp=['SE','S','SW','E',null,'W','NE','N','NW'];
+const northUp=['NW','N','NE','W',null,'E','SW','S','SE'];
+const bankOrder=['건','곤','진','손','감','리','간','태'];
+let activeSystem='early',northOnTop=false,practicing=false,selected=null,answers={},graded=false;
+const byId=id=>document.getElementById(id);
+const escapeText=value=>String(value).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function trigram(name){
+ const lines=baguaData.trigrams[name].lines;
+ return '<svg class="trigram" viewBox="0 0 42 28" aria-hidden="true">'+lines.map((solid,i)=>solid?`<path d="M2 ${4+i*10}H40" stroke="currentColor" stroke-width="5"/>`:`<path d="M2 ${4+i*10}H17 M25 ${4+i*10}H40" stroke="currentColor" stroke-width="5"/>`).join('')+'</svg>';
+}
+function displayName(name){return `${baguaData.trigrams[name].han}(${name})`;}
+function renderBoard(){
+ const system=baguaData.systems[activeSystem];
+ byId('map-title').textContent=system.name+' 방위판';
+ byId('orientation-note').textContent=northOnTop?'북 ↑ · 동 →':'남 ↑ · 동 ←';
+ byId('orientation').textContent=northOnTop?'전통 방위로 바꾸기':'북쪽 위로 바꾸기';
+ byId('map-note').textContent=practicing?'방위 이름을 보고 채워 봐. 화면의 좌우만 외우지 않기.':northOnTop?'익숙한 지도 방향. 전통도 전체를 180° 돌렸어.':'전통 방위도: 위 남 · 아래 북 · 왼쪽 동 · 오른쪽 서.';
+ byId('learning').classList.toggle('practice',practicing);
+ byId('board').innerHTML=(northOnTop?northUp:southUp).map(dir=>{
+  if(!dir)return `<div class="center"><strong>${system.name}</strong><span>${northOnTop?'북쪽이 위':'남쪽이 위'}</span><span>${practicing?'빈칸 복원':'십자 + 모서리'}</span></div>`;
+  const name=practicing?answers[dir]:system.positions[dir];
+  const correct=name===system.positions[dir],mark=practicing&&graded&&name?(correct?'✓ 맞음':'↺ 다시'):'';
+  const content=`<span class="direction">${directionNames[dir]}</span>`+(name?trigram(name)+`<span class="name">${displayName(name)}</span>`:'<span class="empty">?</span>')+(practicing?`<span class="mark">${mark}</span>`:`<span class="cue"><span class="emoji" aria-hidden="true">${baguaData.trigrams[name].icon}</span>${baguaData.trigrams[name].cue}</span>`);
+  const classes='place'+(dir.length===2?' corner':'')+(practicing&&graded&&name?(correct?' correct':' incorrect'):'');
+  return practicing?`<button class="${classes}" data-dir="${dir}" aria-label="${directionNames[dir]}: ${name?displayName(name):'빈칸'}${mark?', '+mark:''}">${content}</button>`:`<div class="${classes}" data-dir="${dir}">${content}</div>`;
+ }).join('');
+}
+function renderBank(){
+ byId('bank').innerHTML=bankOrder.map(name=>{
+  const used=Object.keys(answers).find(dir=>answers[dir]===name);
+  return `<button data-name="${name}" aria-pressed="${selected===name}" class="${used?'used':''}">${trigram(name)}${displayName(name)}<small>${used?directionNames[used]+'에 놓음':'아직 안 놓음'}</small></button>`;
+ }).join('');
+ byId('selection').textContent=selected?displayName(selected)+' 선택 · 놓을 방위를 눌러줘.':'괘 하나를 골라줘.';
+}
+function render(){
+ const system=baguaData.systems[activeSystem];
+ document.querySelectorAll('[data-system]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.system===activeSystem)));
+ ['subtitle','chant','subchant','intro','check'].forEach(key=>byId(key).textContent=system[key]);
+ byId('corner-story').textContent=system.cornerStory;
+ byId('groups').innerHTML=system.groups.map(group=>`<div class="group"><small>${escapeText(group.label)}</small><strong>${escapeText(group.title)}</strong><p>${escapeText(group.text)}</p></div>`).join('');
+ byId('study').hidden=practicing;byId('practice').hidden=!practicing;byId('practice-controls').hidden=!practicing;
+ byId('bridges-details').hidden=practicing;
+ byId('mode').textContent=practicing?'정답·암기 장면 보기':'빈 방위판 채우기';
+ renderBoard();renderBank();
+}
+function clearAnswers(){answers={};selected=null;graded=false;byId('result').textContent='';}
+document.querySelectorAll('[data-system]').forEach(button=>button.addEventListener('click',()=>{
+ if(activeSystem===button.dataset.system)return;
+ activeSystem=button.dataset.system;clearAnswers();render();
+}));
+byId('orientation').addEventListener('click',()=>{northOnTop=!northOnTop;renderBoard();});
+byId('mode').addEventListener('click',()=>{practicing=!practicing;clearAnswers();render();document.querySelector('main').scrollIntoView({block:'start'});});
+byId('reset').addEventListener('click',()=>{clearAnswers();renderBoard();renderBank();});
+byId('bank').addEventListener('click',event=>{
+ const button=event.target.closest('[data-name]');if(!button)return;
+ selected=button.dataset.name;renderBank();byId('bank').querySelector('[aria-pressed="true"]').focus({preventScroll:true});
+});
+byId('board').addEventListener('click',event=>{
+ if(!practicing)return;
+ const button=event.target.closest('[data-dir]');if(!button)return;
+ if(!selected){byId('result').textContent='먼저 괘 하나를 골라줘.';return;}
+ for(const dir of Object.keys(answers))if(answers[dir]===selected)delete answers[dir];
+ const destination=button.dataset.dir;
+ answers[destination]=selected;selected=null;graded=false;byId('result').textContent='';renderBoard();renderBank();
+ byId('board').querySelector('[data-dir="'+destination+'"]').focus({preventScroll:true});
+});
+byId('grade').addEventListener('click',()=>{
+ const target=baguaData.systems[activeSystem].positions;
+ const filled=Object.keys(answers).length,correct=Object.keys(target).filter(dir=>answers[dir]===target[dir]).length;
+ graded=true;renderBoard();
+ byId('result').textContent=correct===8?'8 / 8 · 모두 맞았어! 빈칸으로 다시 누르고, 지도를 뒤집어 한 번 더 해 봐.':`${correct} / 8 맞음 · ${8-filled}칸 비어 있음. `+(filled?'표시된 칸을 다시 떠올려 봐.':'먼저 괘를 놓아 봐.');
+});
+byId('bridges').innerHTML=bankOrder.map(name=>`<p><strong>${baguaData.trigrams[name].icon} ${baguaData.trigrams[name].cue} → ${displayName(name)}</strong><br>${escapeText(baguaData.trigrams[name].bridge)}</p>`).join('');
+byId('sources').innerHTML=baguaData.sources.map(source=>`<li><a href="${escapeText(source.url)}" ${source.url.startsWith('https:')?'target="_blank" rel="noopener"':''}>${escapeText(source.title)}</a></li>`).join('');
+render();
+
+</script>
+</body></html>

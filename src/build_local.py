@@ -80,6 +80,8 @@ def panel_html(p):
     o = ['<div class="panel%s" id="%s" data-track="%s">' % (diag, pid, p['track'])]
     o.append('<h3><a href="#%s">🔗</a> %s <span class="tag">%s</span> %s<span class="pid">#%s</span></h3>'
              % (pid, p['title'], p['tag'], badge, pid))
+    if pid == 's10p01':
+        o.append('<p class="study-note"><a href="bagua.html"><b>팔괘 방위 기억방 →</b></a> 남건북곤·동리서감 / 동남 손님·서남 곤잠·서북 건배·동북 간식 — 말장난으로 연결하고 빈 방위판을 채워 보세요.</p>')
     ip = img_path(pid)
     if ip:
         is_extension = bool(p.get('extension'))
@@ -154,6 +156,7 @@ def run():
          '<span class="btn" id="bTrap">함정만</span><span class="btn" id="bQuiz">도해 문항</span>'
          '<button type="button" class="btn" id="bReading" aria-pressed="true">한글 독음 켜짐</button>'
          '<a class="btn" href="recall.html" style="text-decoration:none">회상 훈련 →</a>',
+         '<a class="btn" href="bagua.html" style="text-decoration:none">팔괘 방위 암기 →</a>',
          '<div class="chips">%s</div></header>' % chips,
          '<main>']
     for sc in SCENES['scenes']:

@@ -11969,9 +11969,9 @@
   }
  ],
  "release": {
-  "version": "2.4",
+  "version": "2.4.1",
   "date": "2026-11-06",
-  "baseline": "bd0e22619d976e1b1d529aed60a8da31ba29a816",
-  "scope": "음양오행 17개 보완 주제 · 기존 말장난·그림·행 보존"
+  "baseline": "7d48e9fae35f6c568ce52ddb48181b26cd8290b3",
+  "scope": "팔괘 방위 소리 연상·빈 방위판 연습 추가; 기존 79개 패널 보존"
  }
 }

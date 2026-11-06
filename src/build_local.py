@@ -12,6 +12,7 @@ from reading import fact_html, memory_html
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 LIB    = json.load(open(os.path.join(HERE, 'panels/library.json'), encoding='utf-8'))
+VERSION = LIB.get('release', {}).get('version', '2.3')
 SCENES = json.load(open(os.path.join(HERE, 'panels/scenes.json'), encoding='utf-8'))
 CSS    = open(os.path.join(HERE, 'panels/_css.txt'), encoding='utf-8').read()
 SCRIPT = open(os.path.join(HERE, 'panels/_script.txt'), encoding='utf-8').read()
@@ -127,10 +128,10 @@ def run():
     chips = ''.join('<a class="chip" href="#%s">%s</a>' % (a, t) for a, t in SCENES['chips'])
     o = ['<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8">',
          '<meta name="viewport" content="width=device-width, initial-scale=1">',
-         '<title>한의학 Sketchy 허브 v2.3</title>',
+         '<title>한의학 Sketchy 허브 v%s</title>' % VERSION,
          '<style>%s</style></head><body>' % CSS,
-         '<header><h1>한의학 Sketchy 허브 <small>v2.3 · 패널 %d · 함정 %d · 도해 문항 %d</small></h1>'
-         % (npan, ntrap, nquiz),
+         '<header><h1>한의학 Sketchy 허브 <small>v%s · 패널 %d · 함정 %d · 도해 문항 %d</small></h1>'
+         % (VERSION, npan, ntrap, nquiz),
          '<span class="btn" id="bTest">자가테스트</span><span class="btn" id="bWhy">다리 전체</span>'
          '<span class="btn" id="bTrap">함정만</span><span class="btn" id="bQuiz">도해 문항</span>'
          '<button type="button" class="btn" id="bReading" aria-pressed="true">한글 독음 켜짐</button>'

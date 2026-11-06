@@ -51,7 +51,7 @@ recall = (ROOT / 'recall.html').read_text()
 assert len(re.findall(r'<td class="fact(?: qa)?">', index)) == 948
 assert len(re.findall(r'id="bReading"', index)) == 1
 assert len(re.findall(r'id="bReading"', recall)) == 1
-assert '<title>한의학 Sketchy 허브 v2.3</title>' in index
+assert '<title>한의학 Sketchy 허브 v' + lib['release']['version'] + '</title>' in index
 for pid in ['s02u02', 's14u01', 's15u02']:
     for page in [index, recall]:
         assert 'images/' + pid + '-v2.3.png' in page

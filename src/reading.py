@@ -33,7 +33,7 @@ def memory_html(memory):
     if not memory:
         return ''
     parts = []
-    for key, label in [('image', '그림으로 회상'), ('extra', '별도 암기')]:
+    for key, label in [('bridge', '연결 이유'), ('image', '그림으로 회상'), ('extra', '별도 암기')]:
         if memory.get(key):
             parts.append('<div class="memory-note"><strong>' + label + '</strong> ' + fact_html(memory[key]) + '</div>')
     return '<div class="memory-scope">' + ''.join(parts) + '</div>'

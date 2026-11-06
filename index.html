@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="ko"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>한의학 Sketchy 허브 v2.3.1</title>
+<title>한의학 Sketchy 허브 v2.4</title>
 <style>
 :root{--ink:#222;--line:#ddd;--acc:#2c7a4b;--trap:#c02020}
 *{box-sizing:border-box}
@@ -57,11 +57,27 @@ body.hide-readings .reading{display:none}
 .memory-note + .memory-note{margin-top:4px}
 .memory-note strong{font-size:11px;color:#3f644b;margin-right:4px}
 td{overflow-wrap:anywhere}
+.extension-tools{display:flex;align-items:center;flex-wrap:wrap;gap:14px;margin:12px 0;font-size:13px}
+.extension-tools a{color:var(--acc);text-underline-offset:3px}
+.figure-toggle{font:inherit;color:var(--acc);border:1px solid #7d9d7c;border-radius:15px;background:#f0f6eb;padding:5px 12px;cursor:pointer}
+.extension-figure{overflow-x:auto;border-radius:8px}
+.extension-figure img{min-width:740px;display:block}
+.figure-hint{display:none;font-size:12px;color:#657261;margin:5px 0 12px}
+.study-note{font-size:13px;color:#5c6a5f;line-height:1.7;background:#f0f4ec;padding:10px 14px;border-radius:8px}
+.source-details{margin:12px 0 0;border-top:1px solid #dfdfd0;padding-top:10px;font-size:12px;color:#657261}
+.source-details summary{cursor:pointer}.source-details a{color:var(--acc)}
+.panel.practice .extension-figure,.panel.practice>table{display:none}
+.panel.practice .qtab{display:table}
+.panel.practice .qtoggle,.panel.practice .figure-hint,.panel.practice .study-note{display:none}
+.panel.practice td.qa:not(.open){filter:blur(7px);cursor:pointer;user-select:none}
+.panel.practice td.qa.open{filter:none;cursor:pointer}
+.quiz{scroll-margin-top:210px}
 @media(max-width:600px){header .btn{padding:4px 9px;margin-bottom:5px;font-size:12px}.panel,h2{scroll-margin-top:210px}}
+@media(max-width:800px){.figure-hint{display:block}}
 </style></head><body>
-<header><h1>한의학 Sketchy 허브 <small>v2.3.1 · 패널 58 · 함정 162 · 도해 문항 335</small></h1>
+<header><h1>한의학 Sketchy 허브 <small>v2.4 · 패널 79 · 함정 195 · 도해 문항 467</small></h1>
 <span class="btn" id="bTest">자가테스트</span><span class="btn" id="bWhy">다리 전체</span><span class="btn" id="bTrap">함정만</span><span class="btn" id="bQuiz">도해 문항</span><button type="button" class="btn" id="bReading" aria-pressed="true">한글 독음 켜짐</button><a class="btn" href="recall.html" style="text-decoration:none">회상 훈련 →</a>
-<div class="chips"><a class="chip" href="#s01u01">장면 1</a><a class="chip" href="#s02u01">장면 2</a><a class="chip" href="#s03u01">장면 3</a><a class="chip" href="#s04u01">장면 4</a><a class="chip" href="#s05u01">장면 5</a><a class="chip" href="#s09u01">장면 9</a><a class="chip" href="#s10d02">장면 10</a><a class="chip" href="#s11u01">장면 11</a><a class="chip" href="#s12u01">장면 12</a><a class="chip" href="#s13u01">장면 13</a><a class="chip" href="#s14u01">장면 14</a><a class="chip" href="#s15u01">장면 15</a><a class="chip" href="#s16u01">장면 16</a><a class="chip" href="#s17p01">장면 17</a><a class="chip" href="#s18d01">장면 18</a><a class="chip" href="#s20d01">장면 20</a><a class="chip" href="#s21d01">장면 21</a></div></header>
+<div class="chips"><a class="chip" href="#s01u01">장면 1</a><a class="chip" href="#s02u01">장면 2</a><a class="chip" href="#s03u01">장면 3</a><a class="chip" href="#s04u01">장면 4</a><a class="chip" href="#s05u01">장면 5</a><a class="chip" href="#s09u01">장면 9</a><a class="chip" href="#s09x01">음양오행 보완</a><a class="chip" href="#s10d02">장면 10</a><a class="chip" href="#s11u01">장면 11</a><a class="chip" href="#s12u01">장면 12</a><a class="chip" href="#s13u01">장면 13</a><a class="chip" href="#s14u01">장면 14</a><a class="chip" href="#s15u01">장면 15</a><a class="chip" href="#s16u01">장면 16</a><a class="chip" href="#s17p01">장면 17</a><a class="chip" href="#s18d01">장면 18</a><a class="chip" href="#s20d01">장면 20</a><a class="chip" href="#s21d01">장면 21</a></div></header>
 <main>
 <h2>장면 1 · 의학사 말판 ①줄 先秦·漢·晉</h2>
 <div class="panel" id="s01u01" data-track="A">
@@ -426,11 +442,639 @@ td{overflow-wrap:anywhere}
 <tr><td class="prop">두 그림의 자리 뜻이 다르다 <span class="why">왜?</span></td><td class="fact">相生<span class="reading">(상생)</span>은 이웃 · 相剋<span class="reading">(상극)</span>은 하나 건너 — 관계도의 자리에는 방위의 뜻이 없다</td></tr>
 <tr class="reason"><td colspan="2" class="rz">다리 — 도해는 자가테스트·역방향 판독의 대상이 아니다(CANON 74). 범례를 그림 안에 갖고 있다. 　▸ 정산(2026-08-22, 규칙 111) — 무대 자리: 五行 인물 s09p01(→s09u01)~s09p05(→s09u01) · 相生相剋의 쓰임 s18p09(舍岩 補瀉)</td></tr>
 </tbody></table>
-<div class="quiz"><div class="qhead">도해 문항 3  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<div class="quiz" id="quiz-s09p06"><div class="qhead">도해 문항 3  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
 <tr><td class="qq">1. 五方 배치는?</td><td class="fact qa">木東<span class="reading">(목동)</span> · 火南<span class="reading">(화남)</span> · 土中央<span class="reading">(토중앙)</span> · 金西<span class="reading">(금서)</span> · 水北<span class="reading">(수북)</span> (上南下北<span class="reading">(상남하북)</span>·左東右西<span class="reading">(좌동우서)</span>)<span class="qsrc">素問·金匱眞言論</span></td></tr>
 <tr><td class="qq">2. 相生의 차례는?</td><td class="fact qa">木<span class="reading">(목)</span>→火<span class="reading">(화)</span>→土<span class="reading">(토)</span>→金<span class="reading">(금)</span>→水<span class="reading">(수)</span>→木<span class="reading">(목)</span> — 이웃끼리 낳는다<span class="qsrc">董仲舒 『春秋繁露』 五行相生 · 『白虎通』 五行 — ⚠ 『尙書·洪範』은 水火木金土 차례와 潤下·炎上 같은 성질만 주고 相生 서열은 주지 않는다</span></td></tr>
 <tr><td class="qq">3. 相剋의 차례는?</td><td class="fact qa">木剋土<span class="reading">(목극토)</span> · 土剋水<span class="reading">(토극수)</span> · 水剋火<span class="reading">(수극화)</span> · 火剋金<span class="reading">(화극금)</span> · 金剋木<span class="reading">(금극목)</span> — 하나 건너 이긴다<span class="qsrc">五行 相剋</span></td></tr>
 </tbody></table></div>
+</div>
+<div class="panel diag" id="s09x01" data-track="D">
+<h3><a href="#s09x01">🔗</a> 천인상응 — 자연의 시간과 몸의 시간 <span class="tag">음양오행·보완</span> <span class="dbadge">도해 · 문항 5</span> <span class="pid">#s09x01</span></h3>
+<div class="extension-tools"><button type="button" class="figure-toggle" aria-expanded="true" aria-controls="figure-s09x01">도해 가리고 회상</button> <a href="images/s09x01.svg" target="_blank" rel="noopener">도해 크게 보기 ↗</a> <a class="practice-link" href="#quiz-s09x01">회상 문제로 ↓</a></div>
+<div class="extension-figure" id="figure-s09x01" tabindex="0" role="region" aria-label="천인상응 — 자연의 시간과 몸의 시간 도해">
+<img loading="lazy" decoding="async" src="images/s09x01.svg" alt="천인상응 — 자연의 시간과 몸의 시간">
+</div><p class="figure-hint">작은 화면에서는 도해를 좌우로 밀어 보세요.</p>
+<p class="study-note">고전의 자연·인체 대응을 배우는 판이다. 하루를 사계절에 비유한 순서를 따라 읽는다.</p>
+<table><thead><tr><th>도해의 연결</th><th>잠그는 사실 (테스트 모드: 탭하여 확인)</th></tr></thead><tbody>
+<tr><td class="prop">바깥의 계절 고리와 안쪽의 인체 고리 <span class="why">왜?</span></td><td class="fact">天人相應<span class="reading">(천인상응)</span>: 자연과 인체를 하나의 통일체로 보고, 기후·시간의 변화와 인체 생리·병리의 상응을 설명한다.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 두 고리를 같은 시간축에 놓았다. 자연의 변화와 몸의 변화가 함께 움직인다는 관계를 기억한다.</td></tr>
+<tr><td class="prop">자연과 인체 고리를 잇는 같은 간격의 네 연결선 <span class="why">왜?</span></td><td class="fact">天人共通<span class="reading">(천인공통)</span>: 자연과 인체의 현상에 공통된 변화 규율이 있다고 본다.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 상응은 서로 응하는 관계, 공통은 양쪽에서 읽을 수 있는 공통 규율에 초점을 둔다.</td></tr>
+<tr><td class="prop">아침 → 한낮 → 저녁 → 밤의 네 자리 <span class="why">왜?</span></td><td class="fact">하루의 사시: 아침=봄, 한낮=여름, 저녁=가을, 밤=겨울.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 사계절의 발생·왕성·수렴·잠장을 하루의 네 시점에 겹쳐 놓는다.</td></tr>
+<tr><td class="prop">각 시간 아래의 맑음 → 안정 → 가중 → 심함 <span class="why">왜?</span></td><td class="fact">旦慧晝安夕加夜甚<span class="reading">(단혜주안석가야심)</span>: 아침에는 맑아지고, 낮에는 안정되며, 저녁에는 더해지고, 밤에는 심해진다는 고전의 병세 변화 설명.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 慧는 맑음, 安은 안정, 加는 더해짐, 甚은 심함이다. 원문은 많은 병에서의 경향을 말하며 모든 병에 적용하는 절대 시간표는 아니다.</td></tr>
+<tr><td class="prop">낮에는 바깥 고리, 밤에는 안쪽 고리 <span class="why">왜?</span></td><td class="fact">衛氣<span class="reading">(위기)</span>는 낮에 양분, 밤에 음분을 운행한다. 天有晝夜人有臥起<span class="reading">(천유주야인유와기)</span>: 하늘의 주야에 사람의 잠듦·일어남을 대응한다.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 바깥·안쪽은 위기의 주야 운행을 나타낸다. 상세 경로와 횟수는 정기신혈진액 단원에서 다룬다.</td></tr>
+</tbody></table>
+<div class="quiz" id="quiz-s09x01"><div class="qhead">도해 문항 5  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<tr><td class="qq">1. 천인상응은 자연과 인체를 어떤 관계로 보는가?</td><td class="fact qa">天人相應<span class="reading">(천인상응)</span>: 자연과 인체를 하나의 통일체로 보고, 기후·시간의 변화와 인체 생리·병리의 상응을 설명한다.<span class="qsrc">D09 의학사 정리 P303–317</span></td></tr>
+<tr><td class="qq">2. 천인공통에서 강조하는 것은 무엇인가?</td><td class="fact qa">天人共通<span class="reading">(천인공통)</span>: 자연과 인체의 현상에 공통된 변화 규율이 있다고 본다.<span class="qsrc">D09 의학사 정리 P303–317</span></td></tr>
+<tr><td class="qq">3. 하루를 사시로 나누면 아침·한낮·저녁·밤은 각각 무엇인가?</td><td class="fact qa">하루의 사시: 아침=봄, 한낮=여름, 저녁=가을, 밤=겨울.<span class="qsrc">D09 의학사 정리 P303–317</span></td></tr>
+<tr><td class="qq">4. 단혜·주안·석가·야심을 시간과 뜻으로 풀어라.</td><td class="fact qa">旦慧晝安夕加夜甚<span class="reading">(단혜주안석가야심)</span>: 아침에는 맑아지고, 낮에는 안정되며, 저녁에는 더해지고, 밤에는 심해진다는 고전의 병세 변화 설명.<span class="qsrc">D09 의학사 정리 P303–317</span></td></tr>
+<tr><td class="qq">5. 위기의 낮·밤 운행과 천유주야인유와기의 뜻은?</td><td class="fact qa">衛氣<span class="reading">(위기)</span>는 낮에 양분, 밤에 음분을 운행한다. 天有晝夜人有臥起<span class="reading">(천유주야인유와기)</span>: 하늘의 주야에 사람의 잠듦·일어남을 대응한다.<span class="qsrc">D09 의학사 정리 P303–317</span></td></tr>
+</tbody></table></div>
+<details class="source-details"><summary>정리 자료와 원문 출처</summary><ul>
+<li>D09 의학사 정리 P303–317</li>
+</ul></details>
+</div>
+<div class="panel diag" id="s09x02" data-track="D">
+<h3><a href="#s09x02">🔗</a> 이법방의론 — 다섯 지역, 다섯 치료 도구 <span class="tag">음양오행·보완</span> <span class="dbadge">도해 · 문항 5</span> <span class="pid">#s09x02</span></h3>
+<div class="extension-tools"><button type="button" class="figure-toggle" aria-expanded="true" aria-controls="figure-s09x02">도해 가리고 회상</button> <a href="images/s09x02.svg" target="_blank" rel="noopener">도해 크게 보기 ↗</a> <a class="practice-link" href="#quiz-s09x02">회상 문제로 ↓</a></div>
+<div class="extension-figure" id="figure-s09x02" tabindex="0" role="region" aria-label="이법방의론 — 다섯 지역, 다섯 치료 도구 도해">
+<img loading="lazy" decoding="async" src="images/s09x02.svg" alt="이법방의론 — 다섯 지역, 다섯 치료 도구">
+</div><p class="figure-hint">작은 화면에서는 도해를 좌우로 밀어 보세요.</p>
+<p class="study-note">위가 남쪽, 아래가 북쪽인 전통 방위도. 각 지역의 환경 → 생활 → 병증 → 치법을 한 줄로 연결한다.</p>
+<table><thead><tr><th>도해의 연결</th><th>잠그는 사실 (테스트 모드: 탭하여 확인)</th></tr></thead><tbody>
+<tr><td class="prop">동방 칸의 해변·어염 → 옹양 → 폄석 <span class="why">왜?</span></td><td class="fact">동방: 시생의 땅·바닷가·어염 → 물고기와 짠맛 → 癰瘍<span class="reading">(옹양)</span> → 砭石<span class="reading">(폄석)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 동쪽의 바다와 어염은 지역 조건이고, 돌 도구는 폄석이다. 색과 방향만으로 병증까지 회상했다고 보지 않고 네 단계를 확인한다.</td></tr>
+<tr><td class="prop">서방 칸의 금옥·사석 → 병생어내 → 독약 <span class="why">왜?</span></td><td class="fact">서방: 수인의 땅·금옥·사석 → 기름진 음식 → 병이 안에서 생김 → 毒藥<span class="reading">(독약)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 독약은 이 고전 문맥에서 약물 치료를 가리키는 표현이다. 서방의 내생병과 약물의 짝으로 외운다.</td></tr>
+<tr><td class="prop">북방 칸의 고릉·풍한·젖 음식 → 구설 <span class="why">왜?</span></td><td class="fact">북방: 폐장의 땅·고릉·풍한 → 乳食<span class="reading">(유식)</span> → 藏寒生滿病<span class="reading">(장한생만병)</span> → 灸焫<span class="reading">(구설)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 유식은 젖을 먹는 생활이다. 차가운 장과 만병을 뜸의 온열에 연결한다. 정리본의 화식 표기는 원문의 유식으로 바로잡았다.</td></tr>
+<tr><td class="prop">남방 칸의 낮은 땅·산미 → 연비 → 미침 <span class="why">왜?</span></td><td class="fact">남방: 장양·양성·낮은 지세와 무로 → 산미·발효 음식 → 攣痺<span class="reading">(연비)</span> → 微鍼<span class="reading">(미침)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 연비를 단순 경련 하나로 줄이지 않고 원문 병명으로 묶었다. 미침은 가는 침이다.</td></tr>
+<tr><td class="prop">중앙 칸의 평습·식잡이불로 → 도인안교 <span class="why">왜?</span></td><td class="fact">중앙: 생만물·평습 → 食雜而不勞<span class="reading">(식잡이불로)</span> → 痿厥寒熱<span class="reading">(위궐한열)</span> → 導引按蹻<span class="reading">(도인안교)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 잡다하게 먹고 덜 움직이는 생활과, 몸을 움직이고 누르는 도인안교를 연결한다.</td></tr>
+</tbody></table>
+<div class="quiz" id="quiz-s09x02"><div class="qhead">도해 문항 5  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<tr><td class="qq">1. 이법방의론의 동방은 환경·생활·병증·치법이 어떻게 연결되는가?</td><td class="fact qa">동방: 시생의 땅·바닷가·어염 → 물고기와 짠맛 → 癰瘍<span class="reading">(옹양)</span> → 砭石<span class="reading">(폄석)</span>.<span class="qsrc">D11 천인상응과 의역 2 T1R2–T1R6</span></td></tr>
+<tr><td class="qq">2. 서방의 환경과 병이 생기는 곳, 치법은?</td><td class="fact qa">서방: 수인의 땅·금옥·사석 → 기름진 음식 → 병이 안에서 생김 → 毒藥<span class="reading">(독약)</span>.<span class="qsrc">D11 천인상응과 의역 2 T1R2–T1R6</span></td></tr>
+<tr><td class="qq">3. 북방의 생활·병증·치법을 말하라.</td><td class="fact qa">북방: 폐장의 땅·고릉·풍한 → 乳食<span class="reading">(유식)</span> → 藏寒生滿病<span class="reading">(장한생만병)</span> → 灸焫<span class="reading">(구설)</span>.<span class="qsrc">D11 천인상응과 의역 2 T1R2–T1R6</span></td></tr>
+<tr><td class="qq">4. 남방의 환경·식생활·병증·치법은?</td><td class="fact qa">남방: 장양·양성·낮은 지세와 무로 → 산미·발효 음식 → 攣痺<span class="reading">(연비)</span> → 微鍼<span class="reading">(미침)</span>.<span class="qsrc">D11 천인상응과 의역 2 T1R2–T1R6</span></td></tr>
+<tr><td class="qq">5. 중앙의 생활 조건과 병증·치법은?</td><td class="fact qa">중앙: 생만물·평습 → 食雜而不勞<span class="reading">(식잡이불로)</span> → 痿厥寒熱<span class="reading">(위궐한열)</span> → 導引按蹻<span class="reading">(도인안교)</span>.<span class="qsrc">D11 천인상응과 의역 2 T1R2–T1R6</span></td></tr>
+</tbody></table></div>
+<details class="source-details"><summary>정리 자료와 원문 출처</summary><ul>
+<li>D11 천인상응과 의역 2 T1R2–T1R6</li>
+<li><a href="https://ctext.org/huangdi-neijing/yi-fa-fang-yi-lun/zh" target="_blank" rel="noopener">소문 이법방의론 원문</a></li>
+</ul></details>
+</div>
+<div class="panel diag" id="s09x03" data-track="D">
+<h3><a href="#s09x03">🔗</a> 의역의 생성 순서 — 무역초시소극 248 <span class="tag">음양오행·보완</span> <span class="dbadge">도해 · 문항 3</span> <span class="pid">#s09x03</span></h3>
+<div class="extension-tools"><button type="button" class="figure-toggle" aria-expanded="true" aria-controls="figure-s09x03">도해 가리고 회상</button> <a href="images/s09x03.svg" target="_blank" rel="noopener">도해 크게 보기 ↗</a> <a class="practice-link" href="#quiz-s09x03">회상 문제로 ↓</a></div>
+<div class="extension-figure" id="figure-s09x03" tabindex="0" role="region" aria-label="의역의 생성 순서 — 무역초시소극 248 도해">
+<img loading="lazy" decoding="async" src="images/s09x03.svg" alt="의역의 생성 순서 — 무역초시소극 248">
+</div><p class="figure-hint">작은 화면에서는 도해를 좌우로 밀어 보세요.</p>
+<p class="study-note">사용자 노트의 암기구절 “무역초시소극248”을 그대로 살린 순서판이다.</p>
+<table><thead><tr><th>도해의 연결</th><th>잠그는 사실 (테스트 모드: 탭하여 확인)</th></tr></thead><tbody>
+<tr><td class="prop">여섯 앞칸과 마지막 2 → 4 → 8의 숫자 <span class="why">왜?</span></td><td class="fact">無極<span class="reading">(무극)</span> → 太易<span class="reading">(태역)</span> → 太初<span class="reading">(태초)</span> → 太始<span class="reading">(태시)</span> → 太素<span class="reading">(태소)</span> → 太極<span class="reading">(태극)</span> → 陰陽<span class="reading">(음양)</span> → 四象<span class="reading">(사상)</span> → 八卦<span class="reading">(팔괘)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 무·역·초·시·소·극은 앞 여섯 표제의 마지막 핵심 음절이다. 2·4·8은 음양·사상·팔괘의 수를 잇는다. 이 판은 정리노트의 합성된 암기 순서이며 한 고전의 단일 문장으로 표시하지 않는다.</td></tr>
+</tbody></table>
+<div class="quiz" id="quiz-s09x03"><div class="qhead">도해 문항 3  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<tr><td class="qq">1. 무역초시소극248을 전체 용어로 펼쳐라.</td><td class="fact qa">無極<span class="reading">(무극)</span> → 太易<span class="reading">(태역)</span> → 太初<span class="reading">(태초)</span> → 太始<span class="reading">(태시)</span> → 太素<span class="reading">(태소)</span> → 太極<span class="reading">(태극)</span> → 陰陽<span class="reading">(음양)</span> → 四象<span class="reading">(사상)</span> → 八卦<span class="reading">(팔괘)</span>.<span class="qsrc">D12 천인상응 다이제스트 P7–P8</span></td></tr>
+<tr><td class="qq">2. 태초와 태소 사이의 단계는?</td><td class="fact qa">太始<span class="reading">(태시)</span>.<span class="qsrc">D12 천인상응 다이제스트 P7–P8</span></td></tr>
+<tr><td class="qq">3. 태극 뒤의 2·4·8은 각각 무엇인가?</td><td class="fact qa">陰陽<span class="reading">(음양)</span> · 四象<span class="reading">(사상)</span> · 八卦<span class="reading">(팔괘)</span>.<span class="qsrc">D12 천인상응 다이제스트 P7–P8</span></td></tr>
+</tbody></table></div>
+<details class="source-details"><summary>정리 자료와 원문 출처</summary><ul>
+<li>D12 천인상응 다이제스트 P7–P8</li>
+</ul></details>
+</div>
+<div class="panel diag" id="s09x04" data-track="D">
+<h3><a href="#s09x04">🔗</a> 음양의 속성 — 한 전체, 상대, 같은 뿌리 <span class="tag">음양오행·보완</span> <span class="dbadge">도해 · 문항 6</span> <span class="pid">#s09x04</span></h3>
+<div class="extension-tools"><button type="button" class="figure-toggle" aria-expanded="true" aria-controls="figure-s09x04">도해 가리고 회상</button> <a href="images/s09x04.svg" target="_blank" rel="noopener">도해 크게 보기 ↗</a> <a class="practice-link" href="#quiz-s09x04">회상 문제로 ↓</a></div>
+<div class="extension-figure" id="figure-s09x04" tabindex="0" role="region" aria-label="음양의 속성 — 한 전체, 상대, 같은 뿌리 도해">
+<img loading="lazy" decoding="async" src="images/s09x04.svg" alt="음양의 속성 — 한 전체, 상대, 같은 뿌리">
+</div><p class="figure-hint">작은 화면에서는 도해를 좌우로 밀어 보세요.</p>
+<table><thead><tr><th>도해의 연결</th><th>잠그는 사실 (테스트 모드: 탭하여 확인)</th></tr></thead><tbody>
+<tr><td class="prop">맞물려 하나가 되는 두 조각 <span class="why">왜?</span></td><td class="fact">全一<span class="reading">(전일)</span>: 음과 양의 두 부분이 합쳐 하나의 완전한 전체를 이룬다.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 둘을 세는 데서 끝나지 않고 두 조각을 맞춰 전체를 복원한다.</td></tr>
+<tr><td class="prop">서로 마주 보는 두 쪽과 비교선 <span class="why">왜?</span></td><td class="fact">對待<span class="reading">(대대)</span>: 음양의 속성은 상대와의 비교 속에서 정해진다.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 같은 대상도 무엇과 비교하느냐에 따라 음·양의 상대적 위치가 달라진다.</td></tr>
+<tr><td class="prop">두 가지가 하나의 밑동으로 연결된 모양 <span class="why">왜?</span></td><td class="fact">統一<span class="reading">(통일)</span>: 대립하는 음과 양은 같은 바탕을 가진 하나의 통일체다.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 표면의 두 가지보다 아래의 한 밑동을 본다.</td></tr>
+<tr><td class="prop">각 반쪽 안에서 다시 나뉜 작은 두 칸 <span class="why">왜?</span></td><td class="fact">分化<span class="reading">(분화)</span>: 음 속에 다시 음양이 있고, 양 속에도 다시 음양이 있다.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 큰 두 칸을 각각 다시 나누는 모양이 분화다.</td></tr>
+<tr><td class="prop">시간을 따라 높이가 바뀌는 두 막대 <span class="why">왜?</span></td><td class="fact">消長<span class="reading">(소장)</span>: 음과 양의 양적 성쇠·진퇴가 계속 변한다.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 정지된 배속과 시간에 따른 증감은 다른 질문이다.</td></tr>
+<tr class="trap"><td class="prop">윗줄 세 칸과 아랫줄 두 칸 <span class="why">왜?</span></td><td class="fact">속성: 전일·대대·통일. 발전 변화의 속성: 분화·소장.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 3칸과 2칸으로 묶어 분류 문제에서 항목이 섞이는 것을 막는다.</td></tr>
+</tbody></table>
+<div class="quiz" id="quiz-s09x04"><div class="qhead">도해 문항 6  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<tr><td class="qq">1. 전일의 뜻과 도해의 연결은?</td><td class="fact qa">全一<span class="reading">(전일)</span>: 음과 양의 두 부분이 합쳐 하나의 완전한 전체를 이룬다.<span class="qsrc">D11 P8–P21</span></td></tr>
+<tr><td class="qq">2. 대대의 뜻과 도해의 연결은?</td><td class="fact qa">對待<span class="reading">(대대)</span>: 음양의 속성은 상대와의 비교 속에서 정해진다.<span class="qsrc">D11 P8–P21</span></td></tr>
+<tr><td class="qq">3. 통일의 뜻과 도해의 연결은?</td><td class="fact qa">統一<span class="reading">(통일)</span>: 대립하는 음과 양은 같은 바탕을 가진 하나의 통일체다.<span class="qsrc">D11 P8–P21</span></td></tr>
+<tr><td class="qq">4. 분화의 뜻과 도해의 연결은?</td><td class="fact qa">分化<span class="reading">(분화)</span>: 음 속에 다시 음양이 있고, 양 속에도 다시 음양이 있다.<span class="qsrc">D11 P8–P21</span></td></tr>
+<tr><td class="qq">5. 소장의 뜻과 도해의 연결은?</td><td class="fact qa">消長<span class="reading">(소장)</span>: 음과 양의 양적 성쇠·진퇴가 계속 변한다.<span class="qsrc">D11 P8–P21</span></td></tr>
+<tr><td class="qq">6. 음양의 속성 세 가지와 발전 변화 두 가지를 구별하라.</td><td class="fact qa">속성: 전일·대대·통일. 발전 변화의 속성: 분화·소장.<span class="qsrc">D11 P8–P21</span></td></tr>
+</tbody></table></div>
+<details class="source-details"><summary>정리 자료와 원문 출처</summary><ul>
+<li>D11 P8–P21</li>
+</ul></details>
+</div>
+<div class="panel diag" id="s09x05" data-track="D">
+<h3><a href="#s09x05">🔗</a> 음양의 네 관계 — 의지·제약·증감·전환 <span class="tag">음양오행·보완</span> <span class="dbadge">도해 · 문항 6</span> <span class="pid">#s09x05</span></h3>
+<div class="extension-tools"><button type="button" class="figure-toggle" aria-expanded="true" aria-controls="figure-s09x05">도해 가리고 회상</button> <a href="images/s09x05.svg" target="_blank" rel="noopener">도해 크게 보기 ↗</a> <a class="practice-link" href="#quiz-s09x05">회상 문제로 ↓</a></div>
+<div class="extension-figure" id="figure-s09x05" tabindex="0" role="region" aria-label="음양의 네 관계 — 의지·제약·증감·전환 도해">
+<img loading="lazy" decoding="async" src="images/s09x05.svg" alt="음양의 네 관계 — 의지·제약·증감·전환">
+</div><p class="figure-hint">작은 화면에서는 도해를 좌우로 밀어 보세요.</p>
+<table><thead><tr><th>도해의 연결</th><th>잠그는 사실 (테스트 모드: 탭하여 확인)</th></tr></thead><tbody>
+<tr><td class="prop">서로 받쳐 주는 두 기둥 <span class="why">왜?</span></td><td class="fact">陰陽互根<span class="reading">(음양호근)</span>: 음양은 서로 의지하고 서로 쓰임이 된다. 獨陰不生孤陽不長<span class="reading">(독음불생고양불장)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 각 기둥의 받침이 상대 기둥에 이어져 있어 하나만으로는 구조를 유지할 수 없다.</td></tr>
+<tr><td class="prop">양쪽에서 밀어 균형을 잡는 멈춤대 <span class="why">왜?</span></td><td class="fact">對立制約<span class="reading">(대립제약)</span>: 상반된 작용이 서로 제한하여 상대적 평형을 이룬다. 陰勝則陽病陽勝則陰病<span class="reading">(음승즉양병양승즉음병)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 한쪽이 과하면 다른 쪽이 손상되는 관계다. 정상적인 제약과 과도한 편승을 구별한다.</td></tr>
+<tr class="trap"><td class="prop">색은 같고 높이만 변하는 두 막대 <span class="why">왜?</span></td><td class="fact">消長<span class="reading">(소장)</span>: 음양의 양이 줄거나 늘어나는 변화. 陽長陰消<span class="reading">(양장음소)</span> · 陰長陽消<span class="reading">(음장양소)</span>.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 소장은 양적 변화라 막대의 높이를 바꾼다. 색을 뒤집는 전화와 구별한다.</td></tr>
+<tr class="trap"><td class="prop">조건·극점을 거쳐 흑백이 바뀌는 화살표 <span class="why">왜?</span></td><td class="fact">轉化<span class="reading">(전화)</span>: 일정 조건에서 음양의 성질이 서로 전환된다. 物極必反<span class="reading">(물극필반)</span> · 寒極生熱熱極生寒<span class="reading">(한극생열열극생한)</span> · 重陰必陽重陽必陰<span class="reading">(중음필양중양필음)</span>.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 극점과 조건을 함께 표시했다. 단순히 양이 조금 줄었다는 것만으로 전화라고 부르지 않는다.</td></tr>
+<tr><td class="prop">호근 칸의 서로 향하는 두 화살표와 연결해 확인 <span class="why">왜?</span></td><td class="fact">陰在內陽之守也陽在外陰之使也<span class="reading">(음재내양지수야양재외음지사야)</span>: 음은 안에서 양을 지키는 바탕, 양은 밖에서 음의 작용을 수행한다.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 안쪽 음과 바깥 양의 의존 관계다. 소유·주체를 뒤집어 읽지 않도록 양을 지키는 음, 음을 위해 작용하는 양으로 풀었다.</td></tr>
+<tr><td class="prop">대립제약 칸의 중앙 멈춤대와 연결해 확인 <span class="why">왜?</span></td><td class="fact">陰平陽秘精神乃治<span class="reading">(음평양비정신내치)</span> / 陰陽離決精氣乃絶<span class="reading">(음양이결정기내절)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 정상은 음양의 상대적 평형과 양의 견고한 보호다. 고정된 절반씩의 양을 뜻하지 않는다.</td></tr>
+</tbody></table>
+<div class="quiz" id="quiz-s09x05"><div class="qhead">도해 문항 6  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<tr><td class="qq">1. 호근의 뜻과 독음불생고양불장을 설명하라.</td><td class="fact qa">陰陽互根<span class="reading">(음양호근)</span>: 음양은 서로 의지하고 서로 쓰임이 된다. 獨陰不生孤陽不長<span class="reading">(독음불생고양불장)</span>.<span class="qsrc">D11 P24–P71</span></td></tr>
+<tr><td class="qq">2. 대립제약과 음승즉양병·양승즉음병의 관계는?</td><td class="fact qa">對立制約<span class="reading">(대립제약)</span>: 상반된 작용이 서로 제한하여 상대적 평형을 이룬다. 陰勝則陽病陽勝則陰病<span class="reading">(음승즉양병양승즉음병)</span>.<span class="qsrc">D11 P24–P71</span></td></tr>
+<tr><td class="qq">3. 소장과 전화는 무엇이 달라지는가?</td><td class="fact qa">消長<span class="reading">(소장)</span>: 음양의 양이 줄거나 늘어나는 변화. 陽長陰消<span class="reading">(양장음소)</span> · 陰長陽消<span class="reading">(음장양소)</span>.<span class="qsrc">D11 P24–P71</span></td></tr>
+<tr><td class="qq">4. 음양전화의 조건과 대표 원문은?</td><td class="fact qa">轉化<span class="reading">(전화)</span>: 일정 조건에서 음양의 성질이 서로 전환된다. 物極必反<span class="reading">(물극필반)</span> · 寒極生熱熱極生寒<span class="reading">(한극생열열극생한)</span> · 重陰必陽重陽必陰<span class="reading">(중음필양중양필음)</span>.<span class="qsrc">D11 P24–P71</span></td></tr>
+<tr><td class="qq">5. 음재내양지수야·양재외음지사야의 주체를 풀어라.</td><td class="fact qa">陰在內陽之守也陽在外陰之使也<span class="reading">(음재내양지수야양재외음지사야)</span>: 음은 안에서 양을 지키는 바탕, 양은 밖에서 음의 작용을 수행한다.<span class="qsrc">D11 P24–P71</span></td></tr>
+<tr><td class="qq">6. 음평양비와 음양이결의 원문 결과는?</td><td class="fact qa">陰平陽秘精神乃治<span class="reading">(음평양비정신내치)</span> / 陰陽離決精氣乃絶<span class="reading">(음양이결정기내절)</span>.<span class="qsrc">D11 P24–P71</span></td></tr>
+</tbody></table></div>
+<details class="source-details"><summary>정리 자료와 원문 출처</summary><ul>
+<li>D11 P24–P71</li>
+</ul></details>
+</div>
+<div class="panel diag" id="s09x06" data-track="D">
+<h3><a href="#s09x06">🔗</a> 소장의 네 모양 — 하나만·엇갈림·함께 증가·함께 감소 <span class="tag">음양오행·보완</span> <span class="dbadge">도해 · 문항 4</span> <span class="pid">#s09x06</span></h3>
+<div class="extension-tools"><button type="button" class="figure-toggle" aria-expanded="true" aria-controls="figure-s09x06">도해 가리고 회상</button> <a href="images/s09x06.svg" target="_blank" rel="noopener">도해 크게 보기 ↗</a> <a class="practice-link" href="#quiz-s09x06">회상 문제로 ↓</a></div>
+<div class="extension-figure" id="figure-s09x06" tabindex="0" role="region" aria-label="소장의 네 모양 — 하나만·엇갈림·함께 증가·함께 감소 도해">
+<img loading="lazy" decoding="async" src="images/s09x06.svg" alt="소장의 네 모양 — 하나만·엇갈림·함께 증가·함께 감소">
+</div><p class="figure-hint">작은 화면에서는 도해를 좌우로 밀어 보세요.</p>
+<table><thead><tr><th>도해의 연결</th><th>잠그는 사실 (테스트 모드: 탭하여 확인)</th></tr></thead><tbody>
+<tr><td class="prop">한쪽 높이만 바뀌는 그래프 <span class="why">왜?</span></td><td class="fact">한쪽만 소장: 음 또는 양 어느 한쪽이 주로 증감한다.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 다른 쪽이 반드시 같은 크기로 반대 변화해야 하는 것은 아니다.</td></tr>
+<tr><td class="prop">하나는 오르고 하나는 내리는 그래프 <span class="why">왜?</span></td><td class="fact">상호 소장: 陽長陰消<span class="reading">(양장음소)</span> · 陰長陽消<span class="reading">(음장양소)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 서로 반대 방향으로 높이가 움직이는 것이 상호 제약을 드러낸다.</td></tr>
+<tr><td class="prop">두 막대가 함께 자라는 그래프 <span class="why">왜?</span></td><td class="fact">互長<span class="reading">(호장)</span>: 함께 자람. 陽生陰長<span class="reading">(양생음장)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 두 막대의 동반 증가는 상호 의존의 양적 표현이다.</td></tr>
+<tr><td class="prop">두 막대가 함께 낮아지는 그래프 <span class="why">왜?</span></td><td class="fact">互消<span class="reading">(호소)</span>: 함께 줄어듦. 陽殺陰藏<span class="reading">(양살음장)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 노트의 네 양식을 한 틀로 비교한다. 호소의 藏은 감추고 저장함의 의미로 읽는다.</td></tr>
+</tbody></table>
+<div class="quiz" id="quiz-s09x06"><div class="qhead">도해 문항 4  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<tr><td class="qq">1. 음양소장은 항상 한쪽이 늘어난 만큼 다른 쪽이 줄어드는가?</td><td class="fact qa">한쪽만 소장: 음 또는 양 어느 한쪽이 주로 증감한다.<span class="qsrc">D11 P58–P71</span></td></tr>
+<tr><td class="qq">2. 엇갈리는 두 막대에 해당하는 소장 양식은?</td><td class="fact qa">상호 소장: 陽長陰消<span class="reading">(양장음소)</span> · 陰長陽消<span class="reading">(음장양소)</span>.<span class="qsrc">D11 P58–P71</span></td></tr>
+<tr><td class="qq">3. 호장의 대표 원문과 그래프는?</td><td class="fact qa">互長<span class="reading">(호장)</span>: 함께 자람. 陽生陰長<span class="reading">(양생음장)</span>.<span class="qsrc">D11 P58–P71</span></td></tr>
+<tr><td class="qq">4. 호소의 대표 원문과 그래프는?</td><td class="fact qa">互消<span class="reading">(호소)</span>: 함께 줄어듦. 陽殺陰藏<span class="reading">(양살음장)</span>.<span class="qsrc">D11 P58–P71</span></td></tr>
+</tbody></table></div>
+<details class="source-details"><summary>정리 자료와 원문 출처</summary><ul>
+<li>D11 P58–P71</li>
+</ul></details>
+</div>
+<div class="panel diag" id="s09x07" data-track="D">
+<h3><a href="#s09x07">🔗</a> 오행의 성질 — 굽고 펴짐·타오름·심고 거둠·바뀜·적시며 내림 <span class="tag">음양오행·보완</span> <span class="dbadge">도해 · 문항 5</span> <span class="pid">#s09x07</span></h3>
+<div class="extension-tools"><button type="button" class="figure-toggle" aria-expanded="true" aria-controls="figure-s09x07">도해 가리고 회상</button> <a href="images/s09x07.svg" target="_blank" rel="noopener">도해 크게 보기 ↗</a> <a class="practice-link" href="#quiz-s09x07">회상 문제로 ↓</a></div>
+<div class="extension-figure" id="figure-s09x07" tabindex="0" role="region" aria-label="오행의 성질 — 굽고 펴짐·타오름·심고 거둠·바뀜·적시며 내림 도해">
+<img loading="lazy" decoding="async" src="images/s09x07.svg" alt="오행의 성질 — 굽고 펴짐·타오름·심고 거둠·바뀜·적시며 내림">
+</div><p class="figure-hint">작은 화면에서는 도해를 좌우로 밀어 보세요.</p>
+<table><thead><tr><th>도해의 연결</th><th>잠그는 사실 (테스트 모드: 탭하여 확인)</th></tr></thead><tbody>
+<tr><td class="prop">휘었다 펴지는 가지 <span class="why">왜?</span></td><td class="fact">木曰曲直<span class="reading">(목왈곡직)</span>: 생장·승발·조달·서창 → 간의 소설에 비유.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 曲은 굽음, 直은 펴짐이다. 가지가 뻗는 성질을 막힘 없이 펼쳐지는 소설에 연결한다.</td></tr>
+<tr><td class="prop">위로 타오르는 불꽃 <span class="why">왜?</span></td><td class="fact">火曰炎上<span class="reading">(화왈염상)</span>: 온열·상승 → 심의 온후·추동 작용에 비유.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 불의 열과 위로 향하는 방향을 함께 기억한다.</td></tr>
+<tr><td class="prop">씨앗을 심고 곡식을 거두는 밭 <span class="why">왜?</span></td><td class="fact">土爰稼穡<span class="reading">(토원가색)</span>: 파종·수확, 화생·승재 → 비의 운화에 비유.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 稼는 심기, 穡은 거두기다. 밭에서 먹을 것이 만들어지는 과정을 운화와 연결한다.</td></tr>
+<tr><td class="prop">틀에 따라 모양이 바뀐 금속 <span class="why">왜?</span></td><td class="fact">金曰從革<span class="reading">(금왈종혁)</span>: 변혁·숙살·수렴·하강 → 폐의 청숙·숙강에 비유.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 從은 따름, 革은 바뀜이다. 금속의 변화 가능성과 수렴·숙강의 추상 배속을 함께 구별해 익힌다.</td></tr>
+<tr><td class="prop">아래로 굽어 흐르는 물길 <span class="why">왜?</span></td><td class="fact">水曰潤下<span class="reading">(수왈윤하)</span>: 자윤·하행·한랭·저장 → 신의 장정에 비유.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 潤은 적심, 下는 아래다. 방향과 기능이 모두 보이게 물길을 그린다.</td></tr>
+</tbody></table>
+<div class="quiz" id="quiz-s09x07"><div class="qhead">도해 문항 5  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<tr><td class="qq">1. 곡직의 뜻과 추상 성질·장부 연결은?</td><td class="fact qa">木曰曲直<span class="reading">(목왈곡직)</span>: 생장·승발·조달·서창 → 간의 소설에 비유.<span class="qsrc">D11 T2R2–T2R6</span></td></tr>
+<tr><td class="qq">2. 염상의 뜻과 방향·장부 연결은?</td><td class="fact qa">火曰炎上<span class="reading">(화왈염상)</span>: 온열·상승 → 심의 온후·추동 작용에 비유.<span class="qsrc">D11 T2R2–T2R6</span></td></tr>
+<tr><td class="qq">3. 가색의 두 동작과 장부 연결은?</td><td class="fact qa">土爰稼穡<span class="reading">(토원가색)</span>: 파종·수확, 화생·승재 → 비의 운화에 비유.<span class="qsrc">D11 T2R2–T2R6</span></td></tr>
+<tr><td class="qq">4. 종혁의 뜻과 추상 성질·장부 연결은?</td><td class="fact qa">金曰從革<span class="reading">(금왈종혁)</span>: 변혁·숙살·수렴·하강 → 폐의 청숙·숙강에 비유.<span class="qsrc">D11 T2R2–T2R6</span></td></tr>
+<tr><td class="qq">5. 윤하의 뜻과 추상 성질·장부 연결은?</td><td class="fact qa">水曰潤下<span class="reading">(수왈윤하)</span>: 자윤·하행·한랭·저장 → 신의 장정에 비유.<span class="qsrc">D11 T2R2–T2R6</span></td></tr>
+</tbody></table></div>
+<details class="source-details"><summary>정리 자료와 원문 출처</summary><ul>
+<li>D11 T2R2–T2R6</li>
+<li>D33 T7R9</li>
+</ul></details>
+</div>
+<div class="panel diag" id="s09x08" data-track="D">
+<h3><a href="#s09x08">🔗</a> 생성 순서와 생성수 — 수화목금토 <span class="tag">음양오행·보완</span> <span class="dbadge">도해 · 문항 6</span> <span class="pid">#s09x08</span></h3>
+<div class="extension-tools"><button type="button" class="figure-toggle" aria-expanded="true" aria-controls="figure-s09x08">도해 가리고 회상</button> <a href="images/s09x08.svg" target="_blank" rel="noopener">도해 크게 보기 ↗</a> <a class="practice-link" href="#quiz-s09x08">회상 문제로 ↓</a></div>
+<div class="extension-figure" id="figure-s09x08" tabindex="0" role="region" aria-label="생성 순서와 생성수 — 수화목금토 도해">
+<img loading="lazy" decoding="async" src="images/s09x08.svg" alt="생성 순서와 생성수 — 수화목금토">
+</div><p class="figure-hint">작은 화면에서는 도해를 좌우로 밀어 보세요.</p>
+<table><thead><tr><th>도해의 연결</th><th>잠그는 사실 (테스트 모드: 탭하여 확인)</th></tr></thead><tbody>
+<tr><td class="prop">1개와 6개 구슬의 짝 <span class="why">왜?</span></td><td class="fact">水<span class="reading">(수)</span>: 생수 1, 성수 6.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 작은 묶음 1개에 중앙의 5를 더하면 큰 묶음 6개가 된다.</td></tr>
+<tr><td class="prop">2개와 7개 구슬의 짝 <span class="why">왜?</span></td><td class="fact">火<span class="reading">(화)</span>: 생수 2, 성수 7.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 작은 묶음 2개에 중앙의 5를 더하면 큰 묶음 7개가 된다.</td></tr>
+<tr><td class="prop">3개와 8개 구슬의 짝 <span class="why">왜?</span></td><td class="fact">木<span class="reading">(목)</span>: 생수 3, 성수 8.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 작은 묶음 3개에 중앙의 5를 더하면 큰 묶음 8개가 된다.</td></tr>
+<tr><td class="prop">4개와 9개 구슬의 짝 <span class="why">왜?</span></td><td class="fact">金<span class="reading">(금)</span>: 생수 4, 성수 9.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 작은 묶음 4개에 중앙의 5를 더하면 큰 묶음 9개가 된다.</td></tr>
+<tr><td class="prop">5개와 10개 구슬의 짝 <span class="why">왜?</span></td><td class="fact">土<span class="reading">(토)</span>: 생수 5, 성수 10.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 작은 묶음 5개에 중앙의 5를 더하면 큰 묶음 10개가 된다.</td></tr>
+<tr class="trap"><td class="prop">맨 아래 생성 순서와 상생 순서를 비교 <span class="why">왜?</span></td><td class="fact">생성 순서=水火木金土<span class="reading">(수화목금토)</span>. 상생 순서=木火土金水<span class="reading">(목화토금수)</span>.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 생성 순서는 1·2·3·4·5의 순서이고, 상생은 서로 낳는 관계의 고리다. 숫자의 줄을 상생 화살표로 읽지 않는다.</td></tr>
+</tbody></table>
+<div class="quiz" id="quiz-s09x08"><div class="qhead">도해 문항 6  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<tr><td class="qq">1. 수의 생수·성수는?</td><td class="fact qa">水<span class="reading">(수)</span>: 생수 1, 성수 6.<span class="qsrc">D11 P77–P80</span></td></tr>
+<tr><td class="qq">2. 화의 생수·성수는?</td><td class="fact qa">火<span class="reading">(화)</span>: 생수 2, 성수 7.<span class="qsrc">D11 P77–P80</span></td></tr>
+<tr><td class="qq">3. 목의 생수·성수는?</td><td class="fact qa">木<span class="reading">(목)</span>: 생수 3, 성수 8.<span class="qsrc">D11 P77–P80</span></td></tr>
+<tr><td class="qq">4. 금의 생수·성수는?</td><td class="fact qa">金<span class="reading">(금)</span>: 생수 4, 성수 9.<span class="qsrc">D11 P77–P80</span></td></tr>
+<tr><td class="qq">5. 토의 생수·성수는?</td><td class="fact qa">土<span class="reading">(토)</span>: 생수 5, 성수 10.<span class="qsrc">D11 P77–P80</span></td></tr>
+<tr><td class="qq">6. 수화목금토와 목화토금수는 각각 무슨 순서인가?</td><td class="fact qa">생성 순서=水火木金土<span class="reading">(수화목금토)</span>. 상생 순서=木火土金水<span class="reading">(목화토금수)</span>.<span class="qsrc">D11 P77–P80</span></td></tr>
+</tbody></table></div>
+<details class="source-details"><summary>정리 자료와 원문 출처</summary><ul>
+<li>D11 P77–P80</li>
+<li>D33 P14</li>
+</ul></details>
+</div>
+<div class="panel diag" id="s09x09" data-track="D">
+<h3><a href="#s09x09">🔗</a> 왕상휴수사 — 계절이 바뀌면 주역이 바뀐다 <span class="tag">음양오행·보완</span> <span class="dbadge">도해 · 문항 7</span> <span class="pid">#s09x09</span></h3>
+<div class="extension-tools"><button type="button" class="figure-toggle" aria-expanded="true" aria-controls="figure-s09x09">도해 가리고 회상</button> <a href="images/s09x09.svg" target="_blank" rel="noopener">도해 크게 보기 ↗</a> <a class="practice-link" href="#quiz-s09x09">회상 문제로 ↓</a></div>
+<div class="extension-figure" id="figure-s09x09" tabindex="0" role="region" aria-label="왕상휴수사 — 계절이 바뀌면 주역이 바뀐다 도해">
+<img loading="lazy" decoding="async" src="images/s09x09.svg" alt="왕상휴수사 — 계절이 바뀌면 주역이 바뀐다">
+</div><p class="figure-hint">작은 화면에서는 도해를 좌우로 밀어 보세요.</p>
+<table><thead><tr><th>도해의 연결</th><th>잠그는 사실 (테스트 모드: 탭하여 확인)</th></tr></thead><tbody>
+<tr><td class="prop">봄의 행을 가로로 읽기 <span class="why">왜?</span></td><td class="fact">봄: 木<span class="reading">(목)</span> 旺<span class="reading">(왕)</span> · 火<span class="reading">(화)</span> 相<span class="reading">(상)</span> · 水<span class="reading">(수)</span> 休<span class="reading">(휴)</span> · 金<span class="reading">(금)</span> 囚<span class="reading">(수)</span> · 土<span class="reading">(토)</span> 死<span class="reading">(사)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 제철이 왕, 제철이 낳는 자식이 상, 제철을 낳은 어미가 휴, 제철을 극하는 쪽이 수, 제철에 극받는 쪽이 사다.</td></tr>
+<tr><td class="prop">여름의 행을 가로로 읽기 <span class="why">왜?</span></td><td class="fact">여름: 火<span class="reading">(화)</span> 旺<span class="reading">(왕)</span> · 土<span class="reading">(토)</span> 相<span class="reading">(상)</span> · 木<span class="reading">(목)</span> 休<span class="reading">(휴)</span> · 水<span class="reading">(수)</span> 囚<span class="reading">(수)</span> · 金<span class="reading">(금)</span> 死<span class="reading">(사)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 제철이 왕, 제철이 낳는 자식이 상, 제철을 낳은 어미가 휴, 제철을 극하는 쪽이 수, 제철에 극받는 쪽이 사다.</td></tr>
+<tr><td class="prop">장하의 행을 가로로 읽기 <span class="why">왜?</span></td><td class="fact">장하: 土<span class="reading">(토)</span> 旺<span class="reading">(왕)</span> · 金<span class="reading">(금)</span> 相<span class="reading">(상)</span> · 火<span class="reading">(화)</span> 休<span class="reading">(휴)</span> · 木<span class="reading">(목)</span> 囚<span class="reading">(수)</span> · 水<span class="reading">(수)</span> 死<span class="reading">(사)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 제철이 왕, 제철이 낳는 자식이 상, 제철을 낳은 어미가 휴, 제철을 극하는 쪽이 수, 제철에 극받는 쪽이 사다.</td></tr>
+<tr><td class="prop">가을의 행을 가로로 읽기 <span class="why">왜?</span></td><td class="fact">가을: 金<span class="reading">(금)</span> 旺<span class="reading">(왕)</span> · 水<span class="reading">(수)</span> 相<span class="reading">(상)</span> · 土<span class="reading">(토)</span> 休<span class="reading">(휴)</span> · 火<span class="reading">(화)</span> 囚<span class="reading">(수)</span> · 木<span class="reading">(목)</span> 死<span class="reading">(사)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 제철이 왕, 제철이 낳는 자식이 상, 제철을 낳은 어미가 휴, 제철을 극하는 쪽이 수, 제철에 극받는 쪽이 사다.</td></tr>
+<tr><td class="prop">겨울의 행을 가로로 읽기 <span class="why">왜?</span></td><td class="fact">겨울: 水<span class="reading">(수)</span> 旺<span class="reading">(왕)</span> · 木<span class="reading">(목)</span> 相<span class="reading">(상)</span> · 金<span class="reading">(금)</span> 休<span class="reading">(휴)</span> · 土<span class="reading">(토)</span> 囚<span class="reading">(수)</span> · 火<span class="reading">(화)</span> 死<span class="reading">(사)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 제철이 왕, 제철이 낳는 자식이 상, 제철을 낳은 어미가 휴, 제철을 극하는 쪽이 수, 제철에 극받는 쪽이 사다.</td></tr>
+<tr class="trap"><td class="prop">각 행의 왕을 기준으로 나머지 네 열을 해석 <span class="why">왜?</span></td><td class="fact">旺<span class="reading">(왕)</span>=제철 / 相<span class="reading">(상)</span>=제철의 자식 / 休<span class="reading">(휴)</span>=제철의 어미 / 囚<span class="reading">(수)</span>=제철을 극함 / 死<span class="reading">(사)</span>=제철에 극받음.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 어느 계절을 기준으로 삼는지 먼저 정한다. 자신을 기준으로 계절을 바꿔 묻는 문제에서는 행과 열을 뒤집어 읽는다.</td></tr>
+</tbody></table>
+<div class="quiz" id="quiz-s09x09"><div class="qhead">도해 문항 7  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<tr><td class="qq">1. 봄에 왕·상·휴·수·사는 각각 어느 오행인가?</td><td class="fact qa">봄: 木<span class="reading">(목)</span> 旺<span class="reading">(왕)</span> · 火<span class="reading">(화)</span> 相<span class="reading">(상)</span> · 水<span class="reading">(수)</span> 休<span class="reading">(휴)</span> · 金<span class="reading">(금)</span> 囚<span class="reading">(수)</span> · 土<span class="reading">(토)</span> 死<span class="reading">(사)</span>.<span class="qsrc">D11 T3R1–T3R6 · P98–P99</span></td></tr>
+<tr><td class="qq">2. 여름에 왕·상·휴·수·사는 각각 어느 오행인가?</td><td class="fact qa">여름: 火<span class="reading">(화)</span> 旺<span class="reading">(왕)</span> · 土<span class="reading">(토)</span> 相<span class="reading">(상)</span> · 木<span class="reading">(목)</span> 休<span class="reading">(휴)</span> · 水<span class="reading">(수)</span> 囚<span class="reading">(수)</span> · 金<span class="reading">(금)</span> 死<span class="reading">(사)</span>.<span class="qsrc">D11 T3R1–T3R6 · P98–P99</span></td></tr>
+<tr><td class="qq">3. 장하에 왕·상·휴·수·사는 각각 어느 오행인가?</td><td class="fact qa">장하: 土<span class="reading">(토)</span> 旺<span class="reading">(왕)</span> · 金<span class="reading">(금)</span> 相<span class="reading">(상)</span> · 火<span class="reading">(화)</span> 休<span class="reading">(휴)</span> · 木<span class="reading">(목)</span> 囚<span class="reading">(수)</span> · 水<span class="reading">(수)</span> 死<span class="reading">(사)</span>.<span class="qsrc">D11 T3R1–T3R6 · P98–P99</span></td></tr>
+<tr><td class="qq">4. 가을에 왕·상·휴·수·사는 각각 어느 오행인가?</td><td class="fact qa">가을: 金<span class="reading">(금)</span> 旺<span class="reading">(왕)</span> · 水<span class="reading">(수)</span> 相<span class="reading">(상)</span> · 土<span class="reading">(토)</span> 休<span class="reading">(휴)</span> · 火<span class="reading">(화)</span> 囚<span class="reading">(수)</span> · 木<span class="reading">(목)</span> 死<span class="reading">(사)</span>.<span class="qsrc">D11 T3R1–T3R6 · P98–P99</span></td></tr>
+<tr><td class="qq">5. 겨울에 왕·상·휴·수·사는 각각 어느 오행인가?</td><td class="fact qa">겨울: 水<span class="reading">(수)</span> 旺<span class="reading">(왕)</span> · 木<span class="reading">(목)</span> 相<span class="reading">(상)</span> · 金<span class="reading">(금)</span> 休<span class="reading">(휴)</span> · 土<span class="reading">(토)</span> 囚<span class="reading">(수)</span> · 火<span class="reading">(화)</span> 死<span class="reading">(사)</span>.<span class="qsrc">D11 T3R1–T3R6 · P98–P99</span></td></tr>
+<tr><td class="qq">6. 제철 오행을 기준으로 왕상휴수사의 관계를 설명하라.</td><td class="fact qa">旺<span class="reading">(왕)</span>=제철 / 相<span class="reading">(상)</span>=제철의 자식 / 休<span class="reading">(휴)</span>=제철의 어미 / 囚<span class="reading">(수)</span>=제철을 극함 / 死<span class="reading">(사)</span>=제철에 극받음.<span class="qsrc">D11 T3R1–T3R6 · P98–P99</span></td></tr>
+<tr><td class="qq">7. 목은 봄·여름·장하·가을·겨울에 각각 어떤 상태인가?</td><td class="fact qa">旺休囚死相<span class="reading">(왕휴수사상)</span>.<span class="qsrc">D11 T3R1–T3R6 · P98–P99</span></td></tr>
+</tbody></table></div>
+<details class="source-details"><summary>정리 자료와 원문 출처</summary><ul>
+<li>D11 T3R1–T3R6 · P98–P99</li>
+</ul></details>
+</div>
+<div class="panel diag" id="s09x10" data-track="D">
+<h3><a href="#s09x10">🔗</a> 오사 — 병을 받는 나를 가운데에 놓는다 <span class="tag">음양오행·보완</span> <span class="dbadge">도해 · 문항 8</span> <span class="pid">#s09x10</span></h3>
+<div class="extension-tools"><button type="button" class="figure-toggle" aria-expanded="true" aria-controls="figure-s09x10">도해 가리고 회상</button> <a href="images/s09x10.svg" target="_blank" rel="noopener">도해 크게 보기 ↗</a> <a class="practice-link" href="#quiz-s09x10">회상 문제로 ↓</a></div>
+<div class="extension-figure" id="figure-s09x10" tabindex="0" role="region" aria-label="오사 — 병을 받는 나를 가운데에 놓는다 도해">
+<img loading="lazy" decoding="async" src="images/s09x10.svg" alt="오사 — 병을 받는 나를 가운데에 놓는다">
+</div><p class="figure-hint">작은 화면에서는 도해를 좌우로 밀어 보세요.</p>
+<table><thead><tr><th>도해의 연결</th><th>잠그는 사실 (테스트 모드: 탭하여 확인)</th></tr></thead><tbody>
+<tr class="trap"><td class="prop">나를 낳는 어미에서 들어오는 선 <span class="why">왜?</span></td><td class="fact">虛邪<span class="reading">(허사)</span>=從後來者<span class="reading">(종후래자)</span>. 나를 생하는 쪽에서 옴. 심화 기준 간목 → 심화.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 상생 고리의 뒤, 즉 나를 낳아 주는 어미에서 온다.</td></tr>
+<tr class="trap"><td class="prop">내가 낳은 자식에서 돌아오는 선 <span class="why">왜?</span></td><td class="fact">實邪<span class="reading">(실사)</span>=從前來者<span class="reading">(종전래자)</span>. 내가 생하는 쪽에서 옴. 심화 기준 비토 → 심화.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 앞에 있는 자식에게서 되돌아오므로 생하는 정상 방향과 반대다.</td></tr>
+<tr class="trap"><td class="prop">나를 이기는 쪽에서 들어오는 굵은 선 <span class="why">왜?</span></td><td class="fact">賊邪<span class="reading">(적사)</span>=從所不勝來者<span class="reading">(종소불승래자)</span>. 나를 극하는 쪽에서 옴. 심화 기준 신수 → 심화.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 所不勝은 내가 이기지 못하는 상대다. 노트의 일부 아극 표기를 극아로 바로잡았다.</td></tr>
+<tr class="trap"><td class="prop">내가 이기던 쪽에서 거슬러 들어오는 선 <span class="why">왜?</span></td><td class="fact">微邪<span class="reading">(미사)</span>=從所勝來者<span class="reading">(종소승래자)</span>. 내가 극하는 쪽에서 옴. 심화 기준 폐금 → 심화.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 所勝은 내가 이기는 상대다. 그 상대가 거꾸로 나를 침범하는 방향을 본다.</td></tr>
+<tr class="trap"><td class="prop">중앙의 자기 고리 <span class="why">왜?</span></td><td class="fact">正邪<span class="reading">(정사)</span>=自病者<span class="reading">(자병자)</span>. 본장의 병, 자기와 같은 계통. 심화 기준 심화 자체.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 정사는 여기서 정상적이거나 무해한 사기라는 뜻이 아니다. 다섯 전래 관계 중 자기 자리를 뜻한다.</td></tr>
+<tr class="trap"><td class="prop">추가 확인: 난경 오십난의 심병 사례 <span class="why">왜?</span></td><td class="fact">난경 오십난의 심병 예: 중풍=허사, 상서=정사, 음식노권=실사, 상한=미사, 중습=적사.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 이 예의 병인 이름을 곧바로 풍목·한수·습토로 치환하면 오답이 된다. 원문의 장부 관계로 해석하는 사례군을 별도로 외운다.</td></tr>
+</tbody></table>
+<div class="quiz" id="quiz-s09x10"><div class="qhead">도해 문항 8  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<tr><td class="qq">1. 허사의 원문·방향과 심화 기준 예는?</td><td class="fact qa">虛邪<span class="reading">(허사)</span>=從後來者<span class="reading">(종후래자)</span>. 나를 생하는 쪽에서 옴. 심화 기준 간목 → 심화.<span class="qsrc">D11 P101–P130</span></td></tr>
+<tr><td class="qq">2. 실사의 원문·방향과 심화 기준 예는?</td><td class="fact qa">實邪<span class="reading">(실사)</span>=從前來者<span class="reading">(종전래자)</span>. 내가 생하는 쪽에서 옴. 심화 기준 비토 → 심화.<span class="qsrc">D11 P101–P130</span></td></tr>
+<tr><td class="qq">3. 적사에서 소불승은 내가 극하는 쪽인가, 나를 극하는 쪽인가?</td><td class="fact qa">賊邪<span class="reading">(적사)</span>=從所不勝來者<span class="reading">(종소불승래자)</span>. 나를 극하는 쪽에서 옴. 심화 기준 신수 → 심화.<span class="qsrc">D11 P101–P130</span></td></tr>
+<tr><td class="qq">4. 미사의 원문·방향과 심화 기준 예는?</td><td class="fact qa">微邪<span class="reading">(미사)</span>=從所勝來者<span class="reading">(종소승래자)</span>. 내가 극하는 쪽에서 옴. 심화 기준 폐금 → 심화.<span class="qsrc">D11 P101–P130</span></td></tr>
+<tr><td class="qq">5. 오사에서 정사는 무엇을 뜻하는가?</td><td class="fact qa">正邪<span class="reading">(정사)</span>=自病者<span class="reading">(자병자)</span>. 본장의 병, 자기와 같은 계통. 심화 기준 심화 자체.<span class="qsrc">D11 P101–P130</span></td></tr>
+<tr><td class="qq">6. 난경 오십난의 심병 사례에서 상한·중습은 각각 무슨 사인가?</td><td class="fact qa">난경 오십난의 심병 예: 중풍=허사, 상서=정사, 음식노권=실사, 상한=미사, 중습=적사.<span class="qsrc">D11 P101–P130</span></td></tr>
+<tr><td class="qq">7. 심화 기준 신수에서 병이 오면?</td><td class="fact qa">賊邪<span class="reading">(적사)</span>.<span class="qsrc">D11 P101–P130</span></td></tr>
+<tr><td class="qq">8. 심화 기준 폐금에서 병이 오면?</td><td class="fact qa">微邪<span class="reading">(미사)</span>.<span class="qsrc">D11 P101–P130</span></td></tr>
+</tbody></table></div>
+<details class="source-details"><summary>정리 자료와 원문 출처</summary><ul>
+<li>D11 P101–P130</li>
+<li>D55 정오표 T1R3–T1R5</li>
+<li><a href="https://ctext.org/wiki.pl?chapter=897212&amp;if=gb" target="_blank" rel="noopener">난경 오십난 원문</a></li>
+</ul></details>
+</div>
+<div class="panel diag" id="s09x11" data-track="D">
+<h3><a href="#s09x11">🔗</a> 제화·항해승제·승복 — 지나침을 되돌리는 관계 <span class="tag">음양오행·보완</span> <span class="dbadge">도해 · 문항 4</span> <span class="pid">#s09x11</span></h3>
+<div class="extension-tools"><button type="button" class="figure-toggle" aria-expanded="true" aria-controls="figure-s09x11">도해 가리고 회상</button> <a href="images/s09x11.svg" target="_blank" rel="noopener">도해 크게 보기 ↗</a> <a class="practice-link" href="#quiz-s09x11">회상 문제로 ↓</a></div>
+<div class="extension-figure" id="figure-s09x11" tabindex="0" role="region" aria-label="제화·항해승제·승복 — 지나침을 되돌리는 관계 도해">
+<img loading="lazy" decoding="async" src="images/s09x11.svg" alt="제화·항해승제·승복 — 지나침을 되돌리는 관계">
+</div><p class="figure-hint">작은 화면에서는 도해를 좌우로 밀어 보세요.</p>
+<table><thead><tr><th>도해의 연결</th><th>잠그는 사실 (테스트 모드: 탭하여 확인)</th></tr></thead><tbody>
+<tr><td class="prop">둘째 줄의 토 → 금 → 목에서 생·극을 구별 <span class="why">왜?</span></td><td class="fact">制化<span class="reading">(제화)</span>: 생화와 극제가 함께 작용하여 협조·평형을 유지한다.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 생만 있으면 한쪽으로 커지고, 극만 있으면 자라지 못한다. 두 선이 한 계통에 공존하는 것이 제화다.</td></tr>
+<tr><td class="prop">목이 커져 토를 누르면 금의 제약선이 작용 <span class="why">왜?</span></td><td class="fact">亢害承制<span class="reading">(항해승제)</span>: 지나치게 항성하면 해가 되므로, 이를 제약하는 기가 작용해 평형을 지킨다. 亢則害承乃制<span class="reading">(항즉해승내제)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 금이 목을 제한하는 선을 통해 항성한 목이 토에 미치는 과도한 영향을 줄이는 관계를 읽는다.</td></tr>
+<tr><td class="prop">먼저 이긴 기와 뒤따르는 회복 반응의 두 단계 <span class="why">왜?</span></td><td class="fact">勝復<span class="reading">(승복)</span>: 지나친 승기에 뒤이어 이를 제약하는 복기가 나타나는 관계.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 승은 먼저 우세해진 기, 복은 그에 대한 회복·보복 반응이다. 모든 해에 상반기·하반기로 기계적으로 고정하지 않는다.</td></tr>
+<tr class="trap"><td class="prop">목 → 토 다음, 토의 자식 금 → 목 <span class="why">왜?</span></td><td class="fact">子復母仇<span class="reading">(자복모구)</span>(子復母讎<span class="reading">(자복모수)</span>): 자식이 어미의 원수를 갚음. 목이 토를 해치면, 토가 낳는 금이 목을 제약하는 예.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 노트의 자복모구 표현을 유지했다. 仇와 讎는 여기서 원수를 뜻한다. 토의 자식 금이 누구를 제약하는지 화살표를 따라간다.</td></tr>
+</tbody></table>
+<div class="quiz" id="quiz-s09x11"><div class="qhead">도해 문항 4  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<tr><td class="qq">1. 제화는 어떤 두 작용의 협력인가?</td><td class="fact qa">制化<span class="reading">(제화)</span>: 생화와 극제가 함께 작용하여 협조·평형을 유지한다.<span class="qsrc">D11 T4R2–T4R4 · T4R9</span></td></tr>
+<tr><td class="qq">2. 항해승제에서 항·해·제는 무엇을 뜻하는가?</td><td class="fact qa">亢害承制<span class="reading">(항해승제)</span>: 지나치게 항성하면 해가 되므로, 이를 제약하는 기가 작용해 평형을 지킨다. 亢則害承乃制<span class="reading">(항즉해승내제)</span>.<span class="qsrc">D11 T4R2–T4R4 · T4R9</span></td></tr>
+<tr><td class="qq">3. 승기와 복기의 선후 관계를 말하라.</td><td class="fact qa">勝復<span class="reading">(승복)</span>: 지나친 승기에 뒤이어 이를 제약하는 복기가 나타나는 관계.<span class="qsrc">D11 T4R2–T4R4 · T4R9</span></td></tr>
+<tr><td class="qq">4. 목이 토를 지나치게 이긴 예에서 자복모구의 복기는 무엇인가?</td><td class="fact qa">子復母仇<span class="reading">(자복모구)</span>(子復母讎<span class="reading">(자복모수)</span>): 자식이 어미의 원수를 갚음. 목이 토를 해치면, 토가 낳는 금이 목을 제약하는 예.<span class="qsrc">D11 T4R2–T4R4 · T4R9</span></td></tr>
+</tbody></table></div>
+<details class="source-details"><summary>정리 자료와 원문 출처</summary><ul>
+<li>D11 T4R2–T4R4 · T4R9</li>
+<li><a href="https://www.cntcm.org/shu/336-16-4.html" target="_blank" rel="noopener">고금의통대전의 항즉해 승내제론</a></li>
+</ul></details>
+</div>
+<div class="panel diag" id="s09x12" data-track="D">
+<h3><a href="#s09x12">🔗</a> 병리 전변 — 생의 방향과 극의 방향을 구분한다 <span class="tag">음양오행·보완</span> <span class="dbadge">도해 · 문항 6</span> <span class="pid">#s09x12</span></h3>
+<div class="extension-tools"><button type="button" class="figure-toggle" aria-expanded="true" aria-controls="figure-s09x12">도해 가리고 회상</button> <a href="images/s09x12.svg" target="_blank" rel="noopener">도해 크게 보기 ↗</a> <a class="practice-link" href="#quiz-s09x12">회상 문제로 ↓</a></div>
+<div class="extension-figure" id="figure-s09x12" tabindex="0" role="region" aria-label="병리 전변 — 생의 방향과 극의 방향을 구분한다 도해">
+<img loading="lazy" decoding="async" src="images/s09x12.svg" alt="병리 전변 — 생의 방향과 극의 방향을 구분한다">
+</div><p class="figure-hint">작은 화면에서는 도해를 좌우로 밀어 보세요.</p>
+<table><thead><tr><th>도해의 연결</th><th>잠그는 사실 (테스트 모드: 탭하여 확인)</th></tr></thead><tbody>
+<tr class="trap"><td class="prop">어미 수에서 자식 목으로 향하는 선 <span class="why">왜?</span></td><td class="fact">母病及子<span class="reading">(모병급자)</span>: 모장에서 자장으로 병이 미침. 예: 신수 → 간목.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 상생의 정상 진행 방향과 같다. 수가 목을 낳는 관계 위에서 병이 전해진다.</td></tr>
+<tr class="trap"><td class="prop">자식 화에서 어미 목으로 돌아가는 선 <span class="why">왜?</span></td><td class="fact">子病及母<span class="reading">(자병급모)</span>: 자장에서 모장으로 병이 미침. 子盜母氣<span class="reading">(자도모기)</span>는 자식이 어미의 기를 소모하는 양상.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 목이 화를 낳지만 병의 화살표는 화에서 목으로 되돌아온다.</td></tr>
+<tr class="trap"><td class="prop">정상 목극토와 같은 방향의 굵은 선 <span class="why">왜?</span></td><td class="fact">相乘<span class="reading">(상승)</span>: 정상 상극 방향의 제약이 지나침. 木乘土<span class="reading">(목승토)</span>.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 정상 선과 방향은 같고 강도가 다르다. 목의 태과뿐 아니라 토의 불급으로도 생길 수 있다.</td></tr>
+<tr class="trap"><td class="prop">정상 금극목을 거슬러 목에서 금으로 가는 선 <span class="why">왜?</span></td><td class="fact">相侮<span class="reading">(상모)</span>: 상극의 반대 방향으로 침범함. 木侮金<span class="reading">(목모금)</span>.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 금이 목을 극하는 정상 방향을 먼저 짚고 뒤집는다. 목의 태과 또는 금의 불급으로 설명할 수 있다.</td></tr>
+<tr class="trap"><td class="prop">상승·상모 두 칸을 목태과로 함께 해석 <span class="why">왜?</span></td><td class="fact">목이 태과하면 목승토와 목모금이 함께 나타날 수 있다.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 내가 극하는 쪽을 지나치게 누르고, 나를 극하는 쪽에도 거슬러 오르는 두 방향이다.</td></tr>
+<tr class="trap"><td class="prop">추가 확인: 목불급일 때 금·토에서 오는 병변 <span class="why">왜?</span></td><td class="fact">목이 불급하면 금승목과 토모목이 함께 나타날 수 있다.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 나를 극하던 금의 상대적 우세와 내가 극하던 토의 역침범을 나누어 본다.</td></tr>
+</tbody></table>
+<div class="quiz" id="quiz-s09x12"><div class="qhead">도해 문항 6  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<tr><td class="qq">1. 모병급자의 방향과 예는?</td><td class="fact qa">母病及子<span class="reading">(모병급자)</span>: 모장에서 자장으로 병이 미침. 예: 신수 → 간목.<span class="qsrc">D11 T4R5–T4R8 · P149–P178</span></td></tr>
+<tr><td class="qq">2. 자병급모와 자도모기의 방향은?</td><td class="fact qa">子病及母<span class="reading">(자병급모)</span>: 자장에서 모장으로 병이 미침. 子盜母氣<span class="reading">(자도모기)</span>는 자식이 어미의 기를 소모하는 양상.<span class="qsrc">D11 T4R5–T4R8 · P149–P178</span></td></tr>
+<tr><td class="qq">3. 상승은 상극과 방향이 같은가? 발생 조건 두 가지는?</td><td class="fact qa">相乘<span class="reading">(상승)</span>: 정상 상극 방향의 제약이 지나침. 木乘土<span class="reading">(목승토)</span>.<span class="qsrc">D11 T4R5–T4R8 · P149–P178</span></td></tr>
+<tr><td class="qq">4. 목모금은 어떤 정상 관계를 거스르는가?</td><td class="fact qa">相侮<span class="reading">(상모)</span>: 상극의 반대 방향으로 침범함. 木侮金<span class="reading">(목모금)</span>.<span class="qsrc">D11 T4R5–T4R8 · P149–P178</span></td></tr>
+<tr><td class="qq">5. 상승과 상모가 동시에 생기는 목태과의 예는?</td><td class="fact qa">목이 태과하면 목승토와 목모금이 함께 나타날 수 있다.<span class="qsrc">D11 T4R5–T4R8 · P149–P178</span></td></tr>
+<tr><td class="qq">6. 목이 불급할 때 나타날 수 있는 상승·상모의 예는?</td><td class="fact qa">목이 불급하면 금승목과 토모목이 함께 나타날 수 있다.<span class="qsrc">D11 T4R5–T4R8 · P149–P178</span></td></tr>
+</tbody></table></div>
+<details class="source-details"><summary>정리 자료와 원문 출처</summary><ul>
+<li>D11 T4R5–T4R8 · P149–P178</li>
+<li>D55 정오표 T1R3 · T1R5</li>
+</ul></details>
+</div>
+<div class="panel diag" id="s09x13" data-track="D">
+<h3><a href="#s09x13">🔗</a> 색·맥·계절 — 무엇과 무엇을 비교하는가 <span class="tag">음양오행·보완</span> <span class="dbadge">도해 · 문항 6</span> <span class="pid">#s09x13</span></h3>
+<div class="extension-tools"><button type="button" class="figure-toggle" aria-expanded="true" aria-controls="figure-s09x13">도해 가리고 회상</button> <a href="images/s09x13.svg" target="_blank" rel="noopener">도해 크게 보기 ↗</a> <a class="practice-link" href="#quiz-s09x13">회상 문제로 ↓</a></div>
+<div class="extension-figure" id="figure-s09x13" tabindex="0" role="region" aria-label="색·맥·계절 — 무엇과 무엇을 비교하는가 도해">
+<img loading="lazy" decoding="async" src="images/s09x13.svg" alt="색·맥·계절 — 무엇과 무엇을 비교하는가">
+</div><p class="figure-hint">작은 화면에서는 도해를 좌우로 밀어 보세요.</p>
+<p class="study-note">장색·시색의 주객 구분은 이 정리노트의 문맥이다. 일반 망진에서 말하는 개인의 바탕색·일시 변화의 주객 구분과 문맥을 확인한다.</p>
+<table><thead><tr><th>도해의 연결</th><th>잠그는 사실 (테스트 모드: 탭하여 확인)</th></tr></thead><tbody>
+<tr><td class="prop">장색 ↔ 시색 칸의 주색·객색 두 설명 <span class="why">왜?</span></td><td class="fact">主色<span class="reading">(주색)</span>=장부의 본색, 客色<span class="reading">(객색)</span>=시기에 응하는 時色<span class="reading">(시색)</span>이라는 노트의 구분. 간청·심적·비황·폐백·신흑 / 춘청·하적·장하황·추백·동흑.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 장부를 기준으로 고정한 색과 계절에 따라 바뀌는 색을 구별한다. 같은 색표라도 질문의 기준이 다르다.</td></tr>
+<tr><td class="prop">청색 ↔ 현맥 칸의 목과 목 <span class="why">왜?</span></td><td class="fact">色脈相得<span class="reading">(색맥상득)</span>: 청색과 현맥처럼 색과 맥의 오행이 상응함.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 색과 맥을 함께 읽는 색맥합참이다. 얼굴색 하나만으로 판정하는 문제가 아니다.</td></tr>
+<tr><td class="prop">청색 ↔ 침맥 칸의 수생목 <span class="why">왜?</span></td><td class="fact">청색과 침맥: 수생목의 상생 관계로 읽는 예.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 맥의 오행과 색의 오행을 각각 정한 뒤 두 오행의 관계를 판단한다.</td></tr>
+<tr class="trap"><td class="prop">청색 ↔ 부맥 칸의 금극목 <span class="why">왜?</span></td><td class="fact">청색과 부맥: 금극목의 상극 관계로 읽는 예.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 노트의 병정 순역 설명을 익히는 비교이다. 상생의 예와 상극의 예를 서로 바꾸지 않는다.</td></tr>
+<tr class="trap"><td class="prop">청적 ↔ 청황 칸의 목생화·목극토 <span class="why">왜?</span></td><td class="fact">청·적=목화의 상생, 청·황=목토의 상극. 고전적 순역 비교에서 상생과 상극을 구별한다.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 노트에 있는 청황의 토극목 표기는 목극토로 바로잡았다. 색 두 개가 제시되면 먼저 실제 생극 방향을 확인한다.</td></tr>
+<tr><td class="prop">장색 ↔ 시색 칸에서 주객의 기준을 다시 확인 <span class="why">왜?</span></td><td class="fact">노트의 주객 설명: 객이 주를 이김은 계절을 따르는 쪽, 주가 객을 이김은 계절에 순응하지 못하는 쪽으로 설명한다.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 운기에서의 주기·객기와 망진의 주색·객색은 비교 대상이 다르다. 이 표의 용어 범위를 먼저 읽는다.</td></tr>
+</tbody></table>
+<div class="quiz" id="quiz-s09x13"><div class="qhead">도해 문항 6  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<tr><td class="qq">1. 이 노트에서 장색과 시색은 각각 어느 주객에 해당하는가?</td><td class="fact qa">主色<span class="reading">(주색)</span>=장부의 본색, 客色<span class="reading">(객색)</span>=시기에 응하는 時色<span class="reading">(시색)</span>이라는 노트의 구분. 간청·심적·비황·폐백·신흑 / 춘청·하적·장하황·추백·동흑.<span class="qsrc">D11 P183–P192</span></td></tr>
+<tr><td class="qq">2. 청색과 현맥의 관계를 무엇이라 하는가?</td><td class="fact qa">色脈相得<span class="reading">(색맥상득)</span>: 청색과 현맥처럼 색과 맥의 오행이 상응함.<span class="qsrc">D11 P183–P192</span></td></tr>
+<tr><td class="qq">3. 청색과 침맥은 오행으로 어떻게 연결되는가?</td><td class="fact qa">청색과 침맥: 수생목의 상생 관계로 읽는 예.<span class="qsrc">D11 P183–P192</span></td></tr>
+<tr><td class="qq">4. 청색과 부맥은 오행으로 어떻게 연결되는가?</td><td class="fact qa">청색과 부맥: 금극목의 상극 관계로 읽는 예.<span class="qsrc">D11 P183–P192</span></td></tr>
+<tr><td class="qq">5. 청적과 청황의 생극 관계는 각각 무엇인가?</td><td class="fact qa">청·적=목화의 상생, 청·황=목토의 상극. 고전적 순역 비교에서 상생과 상극을 구별한다.<span class="qsrc">D11 P183–P192</span></td></tr>
+<tr><td class="qq">6. 노트의 장색·시색 비교에서 객승주와 주승객은 어떻게 설명되는가?</td><td class="fact qa">노트의 주객 설명: 객이 주를 이김은 계절을 따르는 쪽, 주가 객을 이김은 계절에 순응하지 못하는 쪽으로 설명한다.<span class="qsrc">D11 P183–P192</span></td></tr>
+</tbody></table></div>
+<details class="source-details"><summary>정리 자료와 원문 출처</summary><ul>
+<li>D11 P183–P192</li>
+<li><a href="https://ctext.org/wiki.pl?chapter=4508127&amp;if=en" target="_blank" rel="noopener">맥관 권구의 색맥합참 인용</a></li>
+</ul></details>
+</div>
+<div class="panel diag" id="s09x14" data-track="D">
+<h3><a href="#s09x14">🔗</a> 오행을 응용한 여덟 치법 — 생하는 네 짝, 제약하는 네 짝 <span class="tag">음양오행·보완</span> <span class="dbadge">도해 · 문항 8</span> <span class="pid">#s09x14</span></h3>
+<div class="extension-tools"><button type="button" class="figure-toggle" aria-expanded="true" aria-controls="figure-s09x14">도해 가리고 회상</button> <a href="images/s09x14.svg" target="_blank" rel="noopener">도해 크게 보기 ↗</a> <a class="practice-link" href="#quiz-s09x14">회상 문제로 ↓</a></div>
+<div class="extension-figure" id="figure-s09x14" tabindex="0" role="region" aria-label="오행을 응용한 여덟 치법 — 생하는 네 짝, 제약하는 네 짝 도해">
+<img loading="lazy" decoding="async" src="images/s09x14.svg" alt="오행을 응용한 여덟 치법 — 생하는 네 짝, 제약하는 네 짝">
+</div><p class="figure-hint">작은 화면에서는 도해를 좌우로 밀어 보세요.</p>
+<p class="study-note">치법 명칭과 오행 관계의 학습표. 개별 처방이나 약물 용량은 다루지 않는다.</p>
+<table><thead><tr><th>도해의 연결</th><th>잠그는 사실 (테스트 모드: 탭하여 확인)</th></tr></thead><tbody>
+<tr><td class="prop">수 → 목의 자양선 <span class="why">왜?</span></td><td class="fact">滋水涵木<span class="reading">(자수함목)</span>: 신음을 자양하여 간을 기름.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 涵은 적셔 기른다는 뜻이다. 신수에서 간목으로 가는 생의 방향을 읽는다.</td></tr>
+<tr><td class="prop">화 → 토의 온후선 <span class="why">왜?</span></td><td class="fact">益火生土<span class="reading">(익화생토)</span>: 화를 보익하여 비토를 도움. 노트의 온신건비 문맥에서는 명문화·신양을 뜻한다.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 여기의 화를 늘 심화 하나로 고정하면 문맥이 어긋난다. 온신건비와 연결해 읽는다.</td></tr>
+<tr><td class="prop">토 → 금의 생화선 <span class="why">왜?</span></td><td class="fact">培土生金<span class="reading">(배토생금)</span>: 비위를 보익하여 폐를 도움.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 培는 흙을 북돋움이다. 비토를 북돋아 폐금의 바탕을 돕는다.</td></tr>
+<tr><td class="prop">금 ↔ 수의 자양선 <span class="why">왜?</span></td><td class="fact">金水相生<span class="reading">(금수상생)</span>: 폐·신을 함께 자양하는 치법. 자양폐신으로 연결한다.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 금생수의 관계와 폐신의 상호 자양을 묶는다. 폐만·신만 한쪽으로 줄여 외우지 않는다.</td></tr>
+<tr><td class="prop">억목부토 칸의 목·토와 억제 / 지지 문구 <span class="why">왜?</span></td><td class="fact">抑木扶土<span class="reading">(억목부토)</span>: 소간·사간과 건비를 함께 고려함.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 抑은 강한 목을 누름, 扶는 약한 토를 받침이다. 무엇이 주원인인지에 따라 주차를 구별한다.</td></tr>
+<tr><td class="prop">배토제수 칸의 토 → 수 <span class="why">왜?</span></td><td class="fact">培土制水<span class="reading">(배토제수)</span>: 비의 운화를 도와 수습을 조절함.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 토극수의 관계에서 토를 북돋는 쪽에 초점이 있다.</td></tr>
+<tr><td class="prop">금의 숙강이 목의 과항을 평정하는 선 <span class="why">왜?</span></td><td class="fact">佐金平木<span class="reading">(좌금평목)</span>: 폐금의 청숙과 간목의 평정을 연결함.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 佐金은 금을 돕는 것, 平木은 목의 과항을 평정하는 것이다.</td></tr>
+<tr><td class="prop">남쪽 화를 덜고 북쪽 수를 보충하는 두 표시 <span class="why">왜?</span></td><td class="fact">瀉南補北<span class="reading">(사남보북)</span>: 심화를 사하고 신수를 보함.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 남=화·심, 북=수·신이다. 사남과 보북은 서로 반대 방향의 두 조작이다.</td></tr>
+</tbody></table>
+<div class="quiz" id="quiz-s09x14"><div class="qhead">도해 문항 8  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<tr><td class="qq">1. 자수함목의 장부·방향은?</td><td class="fact qa">滋水涵木<span class="reading">(자수함목)</span>: 신음을 자양하여 간을 기름.<span class="qsrc">D11 T6R2–T6R9</span></td></tr>
+<tr><td class="qq">2. 익화생토의 온신건비 문맥에서 화는 무엇인가?</td><td class="fact qa">益火生土<span class="reading">(익화생토)</span>: 화를 보익하여 비토를 도움. 노트의 온신건비 문맥에서는 명문화·신양을 뜻한다.<span class="qsrc">D11 T6R2–T6R9</span></td></tr>
+<tr><td class="qq">3. 배토생금의 두 장부는?</td><td class="fact qa">培土生金<span class="reading">(배토생금)</span>: 비위를 보익하여 폐를 도움.<span class="qsrc">D11 T6R2–T6R9</span></td></tr>
+<tr><td class="qq">4. 금수상생은 어떤 두 장부의 자양인가?</td><td class="fact qa">金水相生<span class="reading">(금수상생)</span>: 폐·신을 함께 자양하는 치법. 자양폐신으로 연결한다.<span class="qsrc">D11 T6R2–T6R9</span></td></tr>
+<tr><td class="qq">5. 억목부토의 억과 부는 각각 어느 쪽인가?</td><td class="fact qa">抑木扶土<span class="reading">(억목부토)</span>: 소간·사간과 건비를 함께 고려함.<span class="qsrc">D11 T6R2–T6R9</span></td></tr>
+<tr><td class="qq">6. 배토제수의 생극 관계와 중심 장부는?</td><td class="fact qa">培土制水<span class="reading">(배토제수)</span>: 비의 운화를 도와 수습을 조절함.<span class="qsrc">D11 T6R2–T6R9</span></td></tr>
+<tr><td class="qq">7. 좌금평목은 어느 생극 관계를 쓰는가?</td><td class="fact qa">佐金平木<span class="reading">(좌금평목)</span>: 폐금의 청숙과 간목의 평정을 연결함.<span class="qsrc">D11 T6R2–T6R9</span></td></tr>
+<tr><td class="qq">8. 사남보북의 남·북과 사·보를 각각 풀어라.</td><td class="fact qa">瀉南補北<span class="reading">(사남보북)</span>: 심화를 사하고 신수를 보함.<span class="qsrc">D11 T6R2–T6R9</span></td></tr>
+</tbody></table></div>
+<details class="source-details"><summary>정리 자료와 원문 출처</summary><ul>
+<li>D11 T6R2–T6R9</li>
+</ul></details>
+</div>
+<div class="panel diag" id="s09x15" data-track="D">
+<h3><a href="#s09x15">🔗</a> 전변 예방과 모자 보사 — 먼저 방향, 다음 강약 <span class="tag">음양오행·보완</span> <span class="dbadge">도해 · 문항 4</span> <span class="pid">#s09x15</span></h3>
+<div class="extension-tools"><button type="button" class="figure-toggle" aria-expanded="true" aria-controls="figure-s09x15">도해 가리고 회상</button> <a href="images/s09x15.svg" target="_blank" rel="noopener">도해 크게 보기 ↗</a> <a class="practice-link" href="#quiz-s09x15">회상 문제로 ↓</a></div>
+<div class="extension-figure" id="figure-s09x15" tabindex="0" role="region" aria-label="전변 예방과 모자 보사 — 먼저 방향, 다음 강약 도해">
+<img loading="lazy" decoding="async" src="images/s09x15.svg" alt="전변 예방과 모자 보사 — 먼저 방향, 다음 강약">
+</div><p class="figure-hint">작은 화면에서는 도해를 좌우로 밀어 보세요.</p>
+<table><thead><tr><th>도해의 연결</th><th>잠그는 사실 (테스트 모드: 탭하여 확인)</th></tr></thead><tbody>
+<tr><td class="prop">간병 칸의 간목 → 비토와 전변 전 비를 받침 <span class="why">왜?</span></td><td class="fact">見肝之病知肝傳脾當先實脾<span class="reading">(견간지병지간전비당선실비)</span>: 간병이 비에 전해질 수 있음을 알고 먼저 비를 충실하게 하는 전변 예방의 원칙.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 간에서 비로 넘어가는 길목의 비를 받친다는 뜻이다. 모든 간병에서 무조건 비를 보한다는 지시로 넓히지 않는다.</td></tr>
+<tr><td class="prop">허 칸의 폐금의 어미 = 비토 <span class="why">왜?</span></td><td class="fact">虛則補其母<span class="reading">(허즉보기모)</span>: 허하면 그 어미를 보한다. 예: 폐금의 어미 비토.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 기존 사암침법의 모자 원칙과 같은 상생 관계다. 새 사실처럼 중복 세지 않고 응용 맥락을 연결한다.</td></tr>
+<tr><td class="prop">실 칸의 간목의 자식 = 심화 <span class="why">왜?</span></td><td class="fact">實則瀉其子<span class="reading">(실즉사기자)</span>: 실하면 그 자식을 사한다. 예: 간목의 자식 심화.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 낳는 화살표의 앞쪽이 자식이다. 허의 어미와 실의 자식을 뒤바꾸지 않는다.</td></tr>
+<tr class="trap"><td class="prop">강함이 원인인 칸과 약함이 원인인 칸 <span class="why">왜?</span></td><td class="fact">抑強扶弱<span class="reading">(억강부약)</span>: 태과가 주원인이면 억강을 중심으로, 불급이 주원인이면 부약을 중심으로 주차를 정한다.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 같은 목승토도 목태과와 토허는 출발점이 다르다. 화살표만 외운 뒤 원인을 놓치지 않는다.</td></tr>
+</tbody></table>
+<div class="quiz" id="quiz-s09x15"><div class="qhead">도해 문항 4  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<tr><td class="qq">1. 간병에서 선실비를 말하는 이유는?</td><td class="fact qa">見肝之病知肝傳脾當先實脾<span class="reading">(견간지병지간전비당선실비)</span>: 간병이 비에 전해질 수 있음을 알고 먼저 비를 충실하게 하는 전변 예방의 원칙.<span class="qsrc">D11 P198–P205</span></td></tr>
+<tr><td class="qq">2. 폐금의 허를 모자 보사로 생각할 때 어미는?</td><td class="fact qa">虛則補其母<span class="reading">(허즉보기모)</span>: 허하면 그 어미를 보한다. 예: 폐금의 어미 비토.<span class="qsrc">D11 P198–P205</span></td></tr>
+<tr><td class="qq">3. 간목의 실을 모자 보사로 생각할 때 자식은?</td><td class="fact qa">實則瀉其子<span class="reading">(실즉사기자)</span>: 실하면 그 자식을 사한다. 예: 간목의 자식 심화.<span class="qsrc">D11 P198–P205</span></td></tr>
+<tr><td class="qq">4. 목태과와 토허에서 억강·부약의 중심은 어떻게 달라지는가?</td><td class="fact qa">抑強扶弱<span class="reading">(억강부약)</span>: 태과가 주원인이면 억강을 중심으로, 불급이 주원인이면 부약을 중심으로 주차를 정한다.<span class="qsrc">D11 P198–P205</span></td></tr>
+</tbody></table></div>
+<details class="source-details"><summary>정리 자료와 원문 출처</summary><ul>
+<li>D11 P198–P205</li>
+</ul></details>
+</div>
+<div class="panel diag" id="s09x16" data-track="D">
+<h3><a href="#s09x16">🔗</a> 오행귀류 확장 ① — 소리·냄새·수·별 <span class="tag">음양오행·보완</span> <span class="dbadge">도해 · 문항 10</span> <span class="pid">#s09x16</span></h3>
+<div class="extension-tools"><button type="button" class="figure-toggle" aria-expanded="true" aria-controls="figure-s09x16">도해 가리고 회상</button> <a href="images/s09x16.svg" target="_blank" rel="noopener">도해 크게 보기 ↗</a> <a class="practice-link" href="#quiz-s09x16">회상 문제로 ↓</a></div>
+<div class="extension-figure" id="figure-s09x16" tabindex="0" role="region" aria-label="오행귀류 확장 ① — 소리·냄새·수·별 도해">
+<img loading="lazy" decoding="async" src="images/s09x16.svg" alt="오행귀류 확장 ① — 소리·냄새·수·별">
+</div><p class="figure-hint">작은 화면에서는 도해를 좌우로 밀어 보세요.</p>
+<table><thead><tr><th>도해의 연결</th><th>잠그는 사실 (테스트 모드: 탭하여 확인)</th></tr></thead><tbody>
+<tr><td class="prop">오음 행의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 오음: 角<span class="reading">(각)</span> · 徵<span class="reading">(치)</span> · 宮<span class="reading">(궁)</span> · 商<span class="reading">(상)</span> · 羽<span class="reading">(우)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 오행 순서를 고정하고 행을 바꾸어 읽는다. 출전·체계: 금궤진언론·음양응상대론.</td></tr>
+<tr><td class="prop">오취 행의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 오취: 臊<span class="reading">(조)</span> · 焦<span class="reading">(초)</span> · 香<span class="reading">(향)</span> · 腥<span class="reading">(성)</span> · 腐<span class="reading">(부)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 오행 순서를 고정하고 행을 바꾸어 읽는다. 출전·체계: 금궤진언론.</td></tr>
+<tr><td class="prop">오성의 소리 행의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 오성의 소리: 呼<span class="reading">(호)</span> · 笑<span class="reading">(소)</span> · 歌<span class="reading">(가)</span> · 哭<span class="reading">(곡)</span> · 呻<span class="reading">(신)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 오행 순서를 고정하고 행을 바꾸어 읽는다. 출전·체계: 음양응상대론.</td></tr>
+<tr><td class="prop">오맥 행의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 오맥: 弦<span class="reading">(현)</span> · 鉤<span class="reading">(구)</span> · 代<span class="reading">(대)</span> · 毛<span class="reading">(모)</span> · 石<span class="reading">(석)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 오행 순서를 고정하고 행을 바꾸어 읽는다. 출전·체계: 선명오기.</td></tr>
+<tr><td class="prop">금궤진언론의 수 행의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 금궤진언론의 수: 8 · 7 · 5 · 9 · 6.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 오행 순서를 고정하고 행을 바꾸어 읽는다. 출전·체계: 금궤진언론.</td></tr>
+<tr><td class="prop">오성의 별 행의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 오성의 별: 歲星<span class="reading">(세성)</span> · 熒惑<span class="reading">(형혹)</span> · 鎮星<span class="reading">(진성)</span> · 太白<span class="reading">(태백)</span> · 辰星<span class="reading">(진성)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 오행 순서를 고정하고 행을 바꾸어 읽는다. 출전·체계: 금궤진언론.</td></tr>
+<tr><td class="prop">천간의 형체 배속 행의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 천간의 형체 배속: 甲乙<span class="reading">(갑을)</span> · 丙丁<span class="reading">(병정)</span> · 戊己<span class="reading">(무기)</span> · 庚辛<span class="reading">(경신)</span> · 壬癸<span class="reading">(임계)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 오행 순서를 고정하고 행을 바꾸어 읽는다. 출전·체계: 방위 배속.</td></tr>
+<tr><td class="prop">지지 배속 행의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 지지 배속: 寅卯<span class="reading">(인묘)</span> · 巳午<span class="reading">(사오)</span> · 辰戌丑未<span class="reading">(진술축미)</span> · 申酉<span class="reading">(신유)</span> · 亥子<span class="reading">(해자)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 오행 순서를 고정하고 행을 바꾸어 읽는다. 출전·체계: 방위 배속.</td></tr>
+<tr class="trap"><td class="prop">수 행의 토 5를 하도 패널의 5·10과 비교 <span class="why">왜?</span></td><td class="fact">금궤진언론의 토 수는 5. 하도의 토 생성수는 5·10.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 표의 체계가 다르다. 금궤진언론의 다섯 수를 하도의 성수 다섯 개라고 단정하지 않는다.</td></tr>
+<tr class="trap"><td class="prop">별 행의 토성·수성에 해당하는 한자를 확인 <span class="why">왜?</span></td><td class="fact">토의 별=鎮星<span class="reading">(진성)</span>, 수의 별=辰星<span class="reading">(진성)</span>.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 소리가 같으므로 한자의 차이를 함께 가린 뒤 복원한다.</td></tr>
+</tbody></table>
+<div class="quiz" id="quiz-s09x16"><div class="qhead">도해 문항 10  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<tr><td class="qq">1. 오음을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 오음: 角<span class="reading">(각)</span> · 徵<span class="reading">(치)</span> · 宮<span class="reading">(궁)</span> · 商<span class="reading">(상)</span> · 羽<span class="reading">(우)</span>.<span class="qsrc">D33 T1R9–T1R18 · P13–P14</span></td></tr>
+<tr><td class="qq">2. 오취을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 오취: 臊<span class="reading">(조)</span> · 焦<span class="reading">(초)</span> · 香<span class="reading">(향)</span> · 腥<span class="reading">(성)</span> · 腐<span class="reading">(부)</span>.<span class="qsrc">D33 T1R9–T1R18 · P13–P14</span></td></tr>
+<tr><td class="qq">3. 오성의 소리을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 오성의 소리: 呼<span class="reading">(호)</span> · 笑<span class="reading">(소)</span> · 歌<span class="reading">(가)</span> · 哭<span class="reading">(곡)</span> · 呻<span class="reading">(신)</span>.<span class="qsrc">D33 T1R9–T1R18 · P13–P14</span></td></tr>
+<tr><td class="qq">4. 오맥을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 오맥: 弦<span class="reading">(현)</span> · 鉤<span class="reading">(구)</span> · 代<span class="reading">(대)</span> · 毛<span class="reading">(모)</span> · 石<span class="reading">(석)</span>.<span class="qsrc">D33 T1R9–T1R18 · P13–P14</span></td></tr>
+<tr><td class="qq">5. 금궤진언론의 수을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 금궤진언론의 수: 8 · 7 · 5 · 9 · 6.<span class="qsrc">D33 T1R9–T1R18 · P13–P14</span></td></tr>
+<tr><td class="qq">6. 오성의 별을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 오성의 별: 歲星<span class="reading">(세성)</span> · 熒惑<span class="reading">(형혹)</span> · 鎮星<span class="reading">(진성)</span> · 太白<span class="reading">(태백)</span> · 辰星<span class="reading">(진성)</span>.<span class="qsrc">D33 T1R9–T1R18 · P13–P14</span></td></tr>
+<tr><td class="qq">7. 천간의 형체 배속을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 천간의 형체 배속: 甲乙<span class="reading">(갑을)</span> · 丙丁<span class="reading">(병정)</span> · 戊己<span class="reading">(무기)</span> · 庚辛<span class="reading">(경신)</span> · 壬癸<span class="reading">(임계)</span>.<span class="qsrc">D33 T1R9–T1R18 · P13–P14</span></td></tr>
+<tr><td class="qq">8. 지지 배속을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 지지 배속: 寅卯<span class="reading">(인묘)</span> · 巳午<span class="reading">(사오)</span> · 辰戌丑未<span class="reading">(진술축미)</span> · 申酉<span class="reading">(신유)</span> · 亥子<span class="reading">(해자)</span>.<span class="qsrc">D33 T1R9–T1R18 · P13–P14</span></td></tr>
+<tr><td class="qq">9. 금궤진언론의 토 수와 하도의 토 생성수는?</td><td class="fact qa">금궤진언론의 토 수는 5. 하도의 토 생성수는 5·10.<span class="qsrc">D33 T1R9–T1R18 · P13–P14</span></td></tr>
+<tr><td class="qq">10. 토성과 수성은 모두 진성이라 읽는데 한자는 어떻게 다른가?</td><td class="fact qa">토의 별=鎮星<span class="reading">(진성)</span>, 수의 별=辰星<span class="reading">(진성)</span>.<span class="qsrc">D33 T1R9–T1R18 · P13–P14</span></td></tr>
+</tbody></table></div>
+<details class="source-details"><summary>정리 자료와 원문 출처</summary><ul>
+<li>D33 T1R9–T1R18 · P13–P14</li>
+<li><a href="https://www.donglishuzhai.net/chapter/5177.html" target="_blank" rel="noopener">소문 금궤진언론 주석 원문</a></li>
+</ul></details>
+</div>
+<div class="panel diag" id="s09x17" data-track="D">
+<h3><a href="#s09x17">🔗</a> 오행귀류 확장 ② — 식이 배속은 출전을 먼저 읽는다 <span class="tag">음양오행·보완</span> <span class="dbadge">도해 · 문항 8</span> <span class="pid">#s09x17</span></h3>
+<div class="extension-tools"><button type="button" class="figure-toggle" aria-expanded="true" aria-controls="figure-s09x17">도해 가리고 회상</button> <a href="images/s09x17.svg" target="_blank" rel="noopener">도해 크게 보기 ↗</a> <a class="practice-link" href="#quiz-s09x17">회상 문제로 ↓</a></div>
+<div class="extension-figure" id="figure-s09x17" tabindex="0" role="region" aria-label="오행귀류 확장 ② — 식이 배속은 출전을 먼저 읽는다 도해">
+<img loading="lazy" decoding="async" src="images/s09x17.svg" alt="오행귀류 확장 ② — 식이 배속은 출전을 먼저 읽는다">
+</div><p class="figure-hint">작은 화면에서는 도해를 좌우로 밀어 보세요.</p>
+<table><thead><tr><th>도해의 연결</th><th>잠그는 사실 (테스트 모드: 탭하여 확인)</th></tr></thead><tbody>
+<tr><td class="prop">금궤·오축의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 금궤·오축: 雞<span class="reading">(계)</span> · 羊<span class="reading">(양)</span> · 牛<span class="reading">(우)</span> · 馬<span class="reading">(마)</span> · 彘<span class="reading">(체)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 금궤진언론은 방위에 붙인 배속, 영추 오미는 맛과 장부를 잇는 배속이다. 두 표의 제목을 지운 채 섞어 외우지 않는다.</td></tr>
+<tr><td class="prop">영추·오축의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 영추·오축: 犬<span class="reading">(견)</span> · 羊<span class="reading">(양)</span> · 牛<span class="reading">(우)</span> · 雞<span class="reading">(계)</span> · 豬<span class="reading">(저)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 금궤진언론은 방위에 붙인 배속, 영추 오미는 맛과 장부를 잇는 배속이다. 두 표의 제목을 지운 채 섞어 외우지 않는다.</td></tr>
+<tr><td class="prop">금궤·오곡의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 금궤·오곡: 麥<span class="reading">(맥)</span> · 黍<span class="reading">(서)</span> · 稷<span class="reading">(직)</span> · 稻<span class="reading">(도)</span> · 豆<span class="reading">(두)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 금궤진언론은 방위에 붙인 배속, 영추 오미는 맛과 장부를 잇는 배속이다. 두 표의 제목을 지운 채 섞어 외우지 않는다.</td></tr>
+<tr><td class="prop">영추·오곡의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 영추·오곡: 麻<span class="reading">(마)</span> · 麥<span class="reading">(맥)</span> · 粳米<span class="reading">(갱미)</span> · 黃黍<span class="reading">(황서)</span> · 大豆<span class="reading">(대두)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 금궤진언론은 방위에 붙인 배속, 영추 오미는 맛과 장부를 잇는 배속이다. 두 표의 제목을 지운 채 섞어 외우지 않는다.</td></tr>
+<tr><td class="prop">영추·오과의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 영추·오과: 李<span class="reading">(이)</span> · 杏<span class="reading">(행)</span> · 棗<span class="reading">(조)</span> · 桃<span class="reading">(도)</span> · 栗<span class="reading">(율)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 금궤진언론은 방위에 붙인 배속, 영추 오미는 맛과 장부를 잇는 배속이다. 두 표의 제목을 지운 채 섞어 외우지 않는다.</td></tr>
+<tr><td class="prop">영추·오채의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 영추·오채: 韭<span class="reading">(구)</span> · 薤<span class="reading">(해)</span> · 葵<span class="reading">(규)</span> · 蔥<span class="reading">(총)</span> · 藿<span class="reading">(곽)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 금궤진언론은 방위에 붙인 배속, 영추 오미는 맛과 장부를 잇는 배속이다. 두 표의 제목을 지운 채 섞어 외우지 않는다.</td></tr>
+<tr class="trap"><td class="prop">오축 두 행에서 달라지는 목·금 칸 <span class="why">왜?</span></td><td class="fact">오축의 목: 금궤=닭, 영추=개. 오축의 금: 금궤=말, 영추=닭.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 닭이 목에서 금으로 옮겨간다는 차이를 두 행의 같은 세로 칸으로 비교한다.</td></tr>
+<tr><td class="prop">추가 확인: 곡·과·축·채의 역할 <span class="why">왜?</span></td><td class="fact">五穀爲養五果爲助五畜爲益五菜爲充<span class="reading">(오곡위양오과위조오축위익오채위충)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 곡은 양, 과는 조, 축은 익, 채는 충으로 역할을 구별한다. 식품의 현대 영양학 분류와 동일시하지 않고 원문 대응을 외운다.</td></tr>
+</tbody></table>
+<div class="quiz" id="quiz-s09x17"><div class="qhead">도해 문항 8  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<tr><td class="qq">1. 금궤·오축을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 금궤·오축: 雞<span class="reading">(계)</span> · 羊<span class="reading">(양)</span> · 牛<span class="reading">(우)</span> · 馬<span class="reading">(마)</span> · 彘<span class="reading">(체)</span>.<span class="qsrc">D33 T6R2–T6R7 · P44–P47</span></td></tr>
+<tr><td class="qq">2. 영추·오축을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 영추·오축: 犬<span class="reading">(견)</span> · 羊<span class="reading">(양)</span> · 牛<span class="reading">(우)</span> · 雞<span class="reading">(계)</span> · 豬<span class="reading">(저)</span>.<span class="qsrc">D33 T6R2–T6R7 · P44–P47</span></td></tr>
+<tr><td class="qq">3. 금궤·오곡을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 금궤·오곡: 麥<span class="reading">(맥)</span> · 黍<span class="reading">(서)</span> · 稷<span class="reading">(직)</span> · 稻<span class="reading">(도)</span> · 豆<span class="reading">(두)</span>.<span class="qsrc">D33 T6R2–T6R7 · P44–P47</span></td></tr>
+<tr><td class="qq">4. 영추·오곡을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 영추·오곡: 麻<span class="reading">(마)</span> · 麥<span class="reading">(맥)</span> · 粳米<span class="reading">(갱미)</span> · 黃黍<span class="reading">(황서)</span> · 大豆<span class="reading">(대두)</span>.<span class="qsrc">D33 T6R2–T6R7 · P44–P47</span></td></tr>
+<tr><td class="qq">5. 영추·오과을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 영추·오과: 李<span class="reading">(이)</span> · 杏<span class="reading">(행)</span> · 棗<span class="reading">(조)</span> · 桃<span class="reading">(도)</span> · 栗<span class="reading">(율)</span>.<span class="qsrc">D33 T6R2–T6R7 · P44–P47</span></td></tr>
+<tr><td class="qq">6. 영추·오채을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 영추·오채: 韭<span class="reading">(구)</span> · 薤<span class="reading">(해)</span> · 葵<span class="reading">(규)</span> · 蔥<span class="reading">(총)</span> · 藿<span class="reading">(곽)</span>.<span class="qsrc">D33 T6R2–T6R7 · P44–P47</span></td></tr>
+<tr><td class="qq">7. 금궤와 영추에서 목·금의 오축 배속은 어떻게 달라지는가?</td><td class="fact qa">오축의 목: 금궤=닭, 영추=개. 오축의 금: 금궤=말, 영추=닭.<span class="qsrc">D33 T6R2–T6R7 · P44–P47</span></td></tr>
+<tr><td class="qq">8. 오곡·오과·오축·오채의 역할 원문은?</td><td class="fact qa">五穀爲養五果爲助五畜爲益五菜爲充<span class="reading">(오곡위양오과위조오축위익오채위충)</span>.<span class="qsrc">D33 T6R2–T6R7 · P44–P47</span></td></tr>
+</tbody></table></div>
+<details class="source-details"><summary>정리 자료와 원문 출처</summary><ul>
+<li>D33 T6R2–T6R7 · P44–P47</li>
+<li><a href="https://ctext.org/huangdi-neijing/wu-wei/zhs" target="_blank" rel="noopener">영추 오미 원문</a></li>
+<li><a href="https://www.donglishuzhai.net/chapter/5177.html" target="_blank" rel="noopener">금궤진언론 주석 원문</a></li>
+</ul></details>
+</div>
+<div class="panel diag" id="s09x18" data-track="D">
+<h3><a href="#s09x18">🔗</a> 오행귀류 확장 ③ — 인체의 출전별 갈림 <span class="tag">음양오행·보완</span> <span class="dbadge">도해 · 문항 7</span> <span class="pid">#s09x18</span></h3>
+<div class="extension-tools"><button type="button" class="figure-toggle" aria-expanded="true" aria-controls="figure-s09x18">도해 가리고 회상</button> <a href="images/s09x18.svg" target="_blank" rel="noopener">도해 크게 보기 ↗</a> <a class="practice-link" href="#quiz-s09x18">회상 문제로 ↓</a></div>
+<div class="extension-figure" id="figure-s09x18" tabindex="0" role="region" aria-label="오행귀류 확장 ③ — 인체의 출전별 갈림 도해">
+<img loading="lazy" decoding="async" src="images/s09x18.svg" alt="오행귀류 확장 ③ — 인체의 출전별 갈림">
+</div><p class="figure-hint">작은 화면에서는 도해를 좌우로 밀어 보세요.</p>
+<table><thead><tr><th>도해의 연결</th><th>잠그는 사실 (테스트 모드: 탭하여 확인)</th></tr></thead><tbody>
+<tr class="trap"><td class="prop">일반 오규의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 일반 오규: 目<span class="reading">(목)</span> · 舌<span class="reading">(설)</span> · 口<span class="reading">(구)</span> · 鼻<span class="reading">(비)</span> · 耳<span class="reading">(이)</span>.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 출전·문맥: 영추 맥도 계통. 다른 행의 익숙한 배속을 끌어와 바꾸지 않는다.</td></tr>
+<tr class="trap"><td class="prop">금궤 오규의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 금궤 오규: 目<span class="reading">(목)</span> · 耳<span class="reading">(이)</span> · 口<span class="reading">(구)</span> · 鼻<span class="reading">(비)</span> · 二陰<span class="reading">(이음)</span>.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 출전·문맥: 금궤진언론. 다른 행의 익숙한 배속을 끌어와 바꾸지 않는다.</td></tr>
+<tr class="trap"><td class="prop">오변동의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 오변동: 握<span class="reading">(악)</span> · 憂<span class="reading">(우)</span> · 噦<span class="reading">(얼)</span> · 咳<span class="reading">(해)</span> · 慄<span class="reading">(율)</span>.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 출전·문맥: 음양응상대론. 다른 행의 익숙한 배속을 끌어와 바꾸지 않는다.</td></tr>
+<tr class="trap"><td class="prop">오정소병의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 오정소병: 憂<span class="reading">(우)</span> · 喜<span class="reading">(희)</span> · 畏<span class="reading">(외)</span> · 悲<span class="reading">(비)</span> · 恐<span class="reading">(공)</span>.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 출전·문맥: 선명오기: 오정이 각 장에 병합함. 다른 행의 익숙한 배속을 끌어와 바꾸지 않는다.</td></tr>
+<tr class="trap"><td class="prop">오장소오의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 오장소오: 風<span class="reading">(풍)</span> · 熱<span class="reading">(열)</span> · 濕<span class="reading">(습)</span> · 寒<span class="reading">(한)</span> · 燥<span class="reading">(조)</span>.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 출전·문맥: 선명오기: 각 장이 싫어하는 것. 다른 행의 익숙한 배속을 끌어와 바꾸지 않는다.</td></tr>
+<tr class="trap"><td class="prop">추가 확인: 선명오기·구침론의 고·함 목적지 <span class="why">왜?</span></td><td class="fact">선명오기: 苦走骨<span class="reading">(고주골)</span> · 鹹走血<span class="reading">(함주혈)</span>. 구침론의 오주: 苦走血<span class="reading">(고주혈)</span> · 鹹走骨<span class="reading">(함주골)</span>.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 고와 함의 목적지가 출전에서 갈린다. 산→근, 신→기, 감→육은 공통이다.</td></tr>
+<tr><td class="prop">추가 확인: 오미소입과 오미소주의 구별 <span class="why">왜?</span></td><td class="fact">오미소입: 산간·고심·감비·신폐·함신. 오미소주·소금은 그 표와 별도로 외운다.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 入은 들어가는 장부, 走는 향하는 조직이다. “쓴맛=심”을 “고주혈”의 유일한 근거로 쓰면 선명오기 문항에서 틀린다.</td></tr>
+</tbody></table>
+<div class="quiz" id="quiz-s09x18"><div class="qhead">도해 문항 7  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<tr><td class="qq">1. 일반 오규을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 일반 오규: 目<span class="reading">(목)</span> · 舌<span class="reading">(설)</span> · 口<span class="reading">(구)</span> · 鼻<span class="reading">(비)</span> · 耳<span class="reading">(이)</span>.<span class="qsrc">D33 T4R4–T4R5 · T4R11 · T5R3–T5R6 · T8</span></td></tr>
+<tr><td class="qq">2. 금궤 오규을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 금궤 오규: 目<span class="reading">(목)</span> · 耳<span class="reading">(이)</span> · 口<span class="reading">(구)</span> · 鼻<span class="reading">(비)</span> · 二陰<span class="reading">(이음)</span>.<span class="qsrc">D33 T4R4–T4R5 · T4R11 · T5R3–T5R6 · T8</span></td></tr>
+<tr><td class="qq">3. 오변동을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 오변동: 握<span class="reading">(악)</span> · 憂<span class="reading">(우)</span> · 噦<span class="reading">(얼)</span> · 咳<span class="reading">(해)</span> · 慄<span class="reading">(율)</span>.<span class="qsrc">D33 T4R4–T4R5 · T4R11 · T5R3–T5R6 · T8</span></td></tr>
+<tr><td class="qq">4. 오정소병을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 오정소병: 憂<span class="reading">(우)</span> · 喜<span class="reading">(희)</span> · 畏<span class="reading">(외)</span> · 悲<span class="reading">(비)</span> · 恐<span class="reading">(공)</span>.<span class="qsrc">D33 T4R4–T4R5 · T4R11 · T5R3–T5R6 · T8</span></td></tr>
+<tr><td class="qq">5. 오장소오을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 오장소오: 風<span class="reading">(풍)</span> · 熱<span class="reading">(열)</span> · 濕<span class="reading">(습)</span> · 寒<span class="reading">(한)</span> · 燥<span class="reading">(조)</span>.<span class="qsrc">D33 T4R4–T4R5 · T4R11 · T5R3–T5R6 · T8</span></td></tr>
+<tr><td class="qq">6. 선명오기와 구침론에서 고·함의 소주는 어떻게 다른가?</td><td class="fact qa">선명오기: 苦走骨<span class="reading">(고주골)</span> · 鹹走血<span class="reading">(함주혈)</span>. 구침론의 오주: 苦走血<span class="reading">(고주혈)</span> · 鹹走骨<span class="reading">(함주골)</span>.<span class="qsrc">D33 T4R4–T4R5 · T4R11 · T5R3–T5R6 · T8</span></td></tr>
+<tr><td class="qq">7. 오미소입과 오미소주를 같은 표로 외우면 안 되는 이유는?</td><td class="fact qa">오미소입: 산간·고심·감비·신폐·함신. 오미소주·소금은 그 표와 별도로 외운다.<span class="qsrc">D33 T4R4–T4R5 · T4R11 · T5R3–T5R6 · T8</span></td></tr>
+</tbody></table></div>
+<details class="source-details"><summary>정리 자료와 원문 출처</summary><ul>
+<li>D33 T4R4–T4R5 · T4R11 · T5R3–T5R6 · T8</li>
+<li><a href="https://ctext.org/huangdi-neijing/xuan-ming-wu-qi/zhs" target="_blank" rel="noopener">소문 선명오기</a></li>
+<li><a href="https://ctext.org/huangdi-neijing/jiu-zhen-lun/zh" target="_blank" rel="noopener">영추 구침론</a></li>
+</ul></details>
+</div>
+<div class="panel diag" id="s09x19" data-track="D">
+<h3><a href="#s09x19">🔗</a> 오행귀류 확장 ④ — 의가와 월령의 동물·신·덕 <span class="tag">음양오행·보완</span> <span class="dbadge">도해 · 문항 10</span> <span class="pid">#s09x19</span></h3>
+<div class="extension-tools"><button type="button" class="figure-toggle" aria-expanded="true" aria-controls="figure-s09x19">도해 가리고 회상</button> <a href="images/s09x19.svg" target="_blank" rel="noopener">도해 크게 보기 ↗</a> <a class="practice-link" href="#quiz-s09x19">회상 문제로 ↓</a></div>
+<div class="extension-figure" id="figure-s09x19" tabindex="0" role="region" aria-label="오행귀류 확장 ④ — 의가와 월령의 동물·신·덕 도해">
+<img loading="lazy" decoding="async" src="images/s09x19.svg" alt="오행귀류 확장 ④ — 의가와 월령의 동물·신·덕">
+</div><p class="figure-hint">작은 화면에서는 도해를 좌우로 밀어 보세요.</p>
+<table><thead><tr><th>도해의 연결</th><th>잠그는 사실 (테스트 모드: 탭하여 확인)</th></tr></thead><tbody>
+<tr><td class="prop">오상의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 오상: 仁<span class="reading">(인)</span> · 禮<span class="reading">(례)</span> · 信<span class="reading">(신)</span> · 義<span class="reading">(의)</span> · 智<span class="reading">(지)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 분류 이름 앞의 의가·월령 표지를 함께 기억한다. 같은 오행표라도 전거가 바뀌면 배속이 달라진다.</td></tr>
+<tr><td class="prop">월령 오제의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 월령 오제: 太昊<span class="reading">(태호)</span> · 炎帝<span class="reading">(염제)</span> · 黃帝<span class="reading">(황제)</span> · 少昊<span class="reading">(소호)</span> · 顓頊<span class="reading">(전욱)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 분류 이름 앞의 의가·월령 표지를 함께 기억한다. 같은 오행표라도 전거가 바뀌면 배속이 달라진다.</td></tr>
+<tr><td class="prop">월령 오좌의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 월령 오좌: 句芒<span class="reading">(구망)</span> · 祝融<span class="reading">(축융)</span> · 后土<span class="reading">(후토)</span> · 蓐收<span class="reading">(욕수)</span> · 玄冥<span class="reading">(현명)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 분류 이름 앞의 의가·월령 표지를 함께 기억한다. 같은 오행표라도 전거가 바뀌면 배속이 달라진다.</td></tr>
+<tr><td class="prop">의가 오충의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 의가 오충: 毛<span class="reading">(모)</span> · 羽<span class="reading">(우)</span> · 倮<span class="reading">(라)</span> · 介<span class="reading">(개)</span> · 鱗<span class="reading">(린)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 분류 이름 앞의 의가·월령 표지를 함께 기억한다. 같은 오행표라도 전거가 바뀌면 배속이 달라진다.</td></tr>
+<tr><td class="prop">월령 오충의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 월령 오충: 鱗<span class="reading">(린)</span> · 羽<span class="reading">(우)</span> · 倮<span class="reading">(라)</span> · 毛<span class="reading">(모)</span> · 介<span class="reading">(개)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 분류 이름 앞의 의가·월령 표지를 함께 기억한다. 같은 오행표라도 전거가 바뀌면 배속이 달라진다.</td></tr>
+<tr><td class="prop">오수의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 오수: 靑龍<span class="reading">(청룡)</span> · 朱雀<span class="reading">(주작)</span> · 黃龍<span class="reading">(황룡)</span> · 白虎<span class="reading">(백호)</span> · 玄武<span class="reading">(현무)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 분류 이름 앞의 의가·월령 표지를 함께 기억한다. 같은 오행표라도 전거가 바뀌면 배속이 달라진다.</td></tr>
+<tr><td class="prop">홍범 오사의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 홍범 오사: 貌<span class="reading">(모)</span> · 視<span class="reading">(시)</span> · 思<span class="reading">(사)</span> · 言<span class="reading">(언)</span> · 聽<span class="reading">(청)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 분류 이름 앞의 의가·월령 표지를 함께 기억한다. 같은 오행표라도 전거가 바뀌면 배속이 달라진다.</td></tr>
+<tr><td class="prop">월령 오사의 다섯 칸 <span class="why">왜?</span></td><td class="fact">목·화·토·금·수 순 월령 오사: 戶<span class="reading">(호)</span> · 灶<span class="reading">(조)</span> · 中霤<span class="reading">(중류)</span> · 門<span class="reading">(문)</span> · 行<span class="reading">(행)</span>.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 분류 이름 앞의 의가·월령 표지를 함께 기억한다. 같은 오행표라도 전거가 바뀌면 배속이 달라진다.</td></tr>
+<tr class="trap"><td class="prop">의가·월령 오충의 목·금·수 세 칸 <span class="why">왜?</span></td><td class="fact">의가 오충은 모·우·라·개·린, 월령 오충은 린·우·라·모·개. 달라지는 칸은 목·금·수다.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 화와 토는 공통, 나머지 세 칸만 돌려 비교한다.</td></tr>
+<tr class="trap"><td class="prop">추가 확인: 금궤·월령 오취의 목·수 차이 <span class="why">왜?</span></td><td class="fact">금궤 오취: 조·초·향·성·부. 월령 계통: 羶<span class="reading">(전)</span>·초·향·성·朽<span class="reading">(후)</span>.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 목과 수의 글자가 달라지는 출전 차이다. 금궤의 조·부와 월령의 전·후를 짝지어 비교한다.</td></tr>
+</tbody></table>
+<div class="quiz" id="quiz-s09x19"><div class="qhead">도해 문항 10  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<tr><td class="qq">1. 오상을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 오상: 仁<span class="reading">(인)</span> · 禮<span class="reading">(례)</span> · 信<span class="reading">(신)</span> · 義<span class="reading">(의)</span> · 智<span class="reading">(지)</span>.<span class="qsrc">D33 T7R2–T7R8 · P52–P53 · T8R7 · T8R13</span></td></tr>
+<tr><td class="qq">2. 월령 오제을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 월령 오제: 太昊<span class="reading">(태호)</span> · 炎帝<span class="reading">(염제)</span> · 黃帝<span class="reading">(황제)</span> · 少昊<span class="reading">(소호)</span> · 顓頊<span class="reading">(전욱)</span>.<span class="qsrc">D33 T7R2–T7R8 · P52–P53 · T8R7 · T8R13</span></td></tr>
+<tr><td class="qq">3. 월령 오좌을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 월령 오좌: 句芒<span class="reading">(구망)</span> · 祝融<span class="reading">(축융)</span> · 后土<span class="reading">(후토)</span> · 蓐收<span class="reading">(욕수)</span> · 玄冥<span class="reading">(현명)</span>.<span class="qsrc">D33 T7R2–T7R8 · P52–P53 · T8R7 · T8R13</span></td></tr>
+<tr><td class="qq">4. 의가 오충을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 의가 오충: 毛<span class="reading">(모)</span> · 羽<span class="reading">(우)</span> · 倮<span class="reading">(라)</span> · 介<span class="reading">(개)</span> · 鱗<span class="reading">(린)</span>.<span class="qsrc">D33 T7R2–T7R8 · P52–P53 · T8R7 · T8R13</span></td></tr>
+<tr><td class="qq">5. 월령 오충을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 월령 오충: 鱗<span class="reading">(린)</span> · 羽<span class="reading">(우)</span> · 倮<span class="reading">(라)</span> · 毛<span class="reading">(모)</span> · 介<span class="reading">(개)</span>.<span class="qsrc">D33 T7R2–T7R8 · P52–P53 · T8R7 · T8R13</span></td></tr>
+<tr><td class="qq">6. 오수을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 오수: 靑龍<span class="reading">(청룡)</span> · 朱雀<span class="reading">(주작)</span> · 黃龍<span class="reading">(황룡)</span> · 白虎<span class="reading">(백호)</span> · 玄武<span class="reading">(현무)</span>.<span class="qsrc">D33 T7R2–T7R8 · P52–P53 · T8R7 · T8R13</span></td></tr>
+<tr><td class="qq">7. 홍범 오사을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 홍범 오사: 貌<span class="reading">(모)</span> · 視<span class="reading">(시)</span> · 思<span class="reading">(사)</span> · 言<span class="reading">(언)</span> · 聽<span class="reading">(청)</span>.<span class="qsrc">D33 T7R2–T7R8 · P52–P53 · T8R7 · T8R13</span></td></tr>
+<tr><td class="qq">8. 월령 오사을 목·화·토·금·수 순으로 말하라.</td><td class="fact qa">목·화·토·금·수 순 월령 오사: 戶<span class="reading">(호)</span> · 灶<span class="reading">(조)</span> · 中霤<span class="reading">(중류)</span> · 門<span class="reading">(문)</span> · 行<span class="reading">(행)</span>.<span class="qsrc">D33 T7R2–T7R8 · P52–P53 · T8R7 · T8R13</span></td></tr>
+<tr><td class="qq">9. 의가와 월령의 오충 중 달라지는 세 오행은?</td><td class="fact qa">의가 오충은 모·우·라·개·린, 월령 오충은 린·우·라·모·개. 달라지는 칸은 목·금·수다.<span class="qsrc">D33 T7R2–T7R8 · P52–P53 · T8R7 · T8R13</span></td></tr>
+<tr><td class="qq">10. 금궤와 월령의 오취에서 달라지는 목·수의 글자는?</td><td class="fact qa">금궤 오취: 조·초·향·성·부. 월령 계통: 羶<span class="reading">(전)</span>·초·향·성·朽<span class="reading">(후)</span>.<span class="qsrc">D33 T7R2–T7R8 · P52–P53 · T8R7 · T8R13</span></td></tr>
+</tbody></table></div>
+<details class="source-details"><summary>정리 자료와 원문 출처</summary><ul>
+<li>D33 T7R2–T7R8 · P52–P53 · T8R7 · T8R13</li>
+</ul></details>
 </div>
 <h2>장면 10 · 팔괘</h2>
 <div class="panel diag" id="s10d02" data-track="D">
@@ -454,7 +1098,7 @@ td{overflow-wrap:anywhere}
 <tr><td class="prop">신체 초록 글자 — 首腹耳目手口足股 <span class="why">왜?</span></td><td class="fact">近取諸身<span class="reading">(근취제신)</span>. 乾首<span class="reading">(건수)</span> 坤腹<span class="reading">(곤복)</span> 坎耳<span class="reading">(감이)</span> 離目<span class="reading">(이목)</span> 艮手<span class="reading">(간수)</span> 兌口<span class="reading">(태구)</span> 震足<span class="reading">(진족)</span> 巽股<span class="reading">(손고)</span>. 무대 s10p02(→s10u01)~p05가 「두 배 큰 신체 부위」로 이미 그리고 있다</td></tr>
 <tr class="reason"><td colspan="2" class="rz">다리 — 도해는 자가테스트·역방향 판독의 대상이 아니다(CANON 74). 범례를 그림 안에 갖고 있다. 　▸ 정산(2026-08-22, 규칙 111) — 무대 자리: 자연물·가족·신체·마주봄 네 쌍 → s10p02(→s10u01)~s10p05(→s10u01) · 선천후천 자리 → s10p01. **획(三爻)·별칭·先天數는 무대 자리가 없다** — 그러나 이 판의 **문항 29개**가 그 셋을 전부 묻는다(규칙 108-b). ⚠ 2026-08-22 2차 정산 정정 — 1차에 적었던 「s10p02~p05에 획 축을 증축한다」는 **철회한다.** 제3자 설계 감사가 다섯 이유로 막았다: ⓐ s10p04[2](→s10u01)가 「끊기지 않은 한 줄기 = 通氣」로 **선의 연속성을 이미 쓰고 있어** 「끊긴 막대 = 陰爻」를 얹으면 兌가 정반대로 읽힌다 ⓑ 3층 시렁은 s18p09[4] 「3층 선반장 = 母·官·子」의 복제이고, 그 빈 층은 s18p09[9]가 「안 읽힌다」로 이미 닫아 놓은 도형이다(규칙 49) ⓒ 「통나무」는 s02p01[6] 抱朴子, 「장대 셋」은 s03p01[3] 三因說이 전담한다(규칙 51) ⓓ 막대 24개의 끊김 패턴은 규칙 100·101이 두 번 실패로 실측한 「소품 안의 구조 지시」 범주다 ⓔ 획을 빼면 이 판의 [1](별칭이 곧 획)·[3](짝은 획이 뒤집힘)이 성립 불가다. ★ 대신 그림 0장으로 얻은 것 — **「連이 왼쪽」 4/4, 예외 0** (乾三連·坎中連·艮上連·震下連이 전부 왼쪽).</td></tr>
 </tbody></table>
-<div class="quiz"><div class="qhead">도해 문항 39  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<div class="quiz" id="quiz-s10d02"><div class="qhead">도해 문항 39  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
 <tr><td class="qq">1. 乾의 획(三爻)은 위에서 아래로 어떻게 되는가?</td><td class="fact qa">이어짐(陽<span class="reading">(양)</span>) / 이어짐(陽<span class="reading">(양)</span>) / 이어짐(陽<span class="reading">(양)</span>) — 별칭 三連<span class="reading">(삼련)</span><span class="qsrc">周易 說卦傳 · 伏羲八卦次序</span></td></tr>
 <tr><td class="qq">2. 별칭 「三連」은 어느 괘인가?</td><td class="fact qa">乾<span class="reading">(건)</span> — 天<span class="reading">(천)</span> · 首<span class="reading">(수)</span><span class="qsrc">周易 說卦傳 · 伏羲八卦次序</span></td></tr>
 <tr><td class="qq">3. 乾의 先天數와 四象은?</td><td class="fact qa">先天數<span class="reading">(선천수)</span> 1 · 太陽<span class="reading">(태양)</span><span class="qsrc">周易 說卦傳 · 伏羲八卦次序</span></td></tr>
@@ -511,7 +1155,7 @@ td{overflow-wrap:anywhere}
 <tr><td class="prop">두 원에서 괘의 획(3효)은 변하지 않는다 <span class="why">왜?</span></td><td class="fact">같은 괘가 자리만 바꾼다 — 바뀌는 것은 자리뿐</td></tr>
 <tr class="reason"><td colspan="2" class="rz">다리 — 도해는 자가테스트·역방향 판독의 대상이 아니다(CANON 74). 범례를 그림 안에 갖고 있다. 　▸ 정산(2026-08-22, 규칙 111) — 무대 자리: 마주봄 네 쌍 s10p02(→s10u01)~s10p05(→s10u01) · 원 위의 자리는 도해가 전담(자리가 곧 사실)</td></tr>
 </tbody></table>
-<div class="quiz"><div class="qhead">도해 문항 4  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<div class="quiz" id="quiz-s10p01"><div class="qhead">도해 문항 4  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
 <tr><td class="qq">1. 先天(伏羲) 팔괘의 자리는?</td><td class="fact qa">乾南<span class="reading">(건남)</span> · 兌東南<span class="reading">(태동남)</span> · 離東<span class="reading">(이동)</span> · 震東北<span class="reading">(진동북)</span> · 巽西南<span class="reading">(손서남)</span> · 坎西<span class="reading">(감서)</span> · 艮西北<span class="reading">(간서북)</span> · 坤北<span class="reading">(곤북)</span> — 對待<span class="reading">(대대)</span>, 네 쌍이 마주 본다<span class="qsrc">周易 說卦傳</span></td></tr>
 <tr><td class="qq">2. 後天(文王) 팔괘의 자리는?</td><td class="fact qa">離南<span class="reading">(이남)</span> · 坤西南<span class="reading">(곤서남)</span> · 兌西<span class="reading">(태서)</span> · 乾西北<span class="reading">(건서북)</span> · 坎北<span class="reading">(감북)</span> · 艮東北<span class="reading">(간동북)</span> · 震東<span class="reading">(진동)</span> · 巽東南<span class="reading">(손동남)</span> — 流行<span class="reading">(유행)</span>, 도는 차례가 사실<span class="qsrc">周易 說卦傳</span></td></tr>
 <tr><td class="qq">3. 先天 마주봄 네 쌍과 그 원문은?</td><td class="fact qa">乾<span class="reading">(건)</span>↔坤<span class="reading">(곤)</span> 天地定位<span class="reading">(천지정위)</span> · 坎<span class="reading">(감)</span>↔離<span class="reading">(이)</span> 水火不相射<span class="reading">(수화불상사)</span> · 艮<span class="reading">(간)</span>↔兌<span class="reading">(태)</span> 山澤通氣<span class="reading">(산택통기)</span> · 震<span class="reading">(진)</span>↔巽<span class="reading">(손)</span> 雷風相薄<span class="reading">(뇌풍상박)</span><span class="qsrc">周易 說卦傳</span></td></tr>
@@ -551,6 +1195,78 @@ td{overflow-wrap:anywhere}
 <tr class="trap"><td class="prop">[④雷風相薄] 청년 발밑 충격파와 처녀의 회오리가 둘 사이에서 맞부딪친다 <span class="why">왜?</span></td><td class="fact">雷風相薄<span class="reading">(뇌풍상박)</span> (對待<span class="reading">(대대)</span> ④) — 자리는 비교도 s10p01 담당</td></tr>
 <tr class="reason trap"><td colspan="2" class="rz">다리 — 相薄="서로 부딪힘"을 사건으로: 발 구르기 충격파와 부채 돌풍이 연못 위 한가운데서 정면 충돌해 소용돌이로 터짐.<br>▸ 단원 통합(2026-10-16) — s10p05[2]에서 옮김.</td></tr>
 </tbody></table>
+</div>
+<div class="panel diag" id="s10x01" data-track="D">
+<h3><a href="#s10x01">🔗</a> 하도·낙서 — 생성의 짝과 합 15의 구궁 <span class="tag">음양오행·보완</span> <span class="dbadge">도해 · 문항 5</span> <span class="pid">#s10x01</span></h3>
+<div class="extension-tools"><button type="button" class="figure-toggle" aria-expanded="true" aria-controls="figure-s10x01">도해 가리고 회상</button> <a href="images/s10x01.svg" target="_blank" rel="noopener">도해 크게 보기 ↗</a> <a class="practice-link" href="#quiz-s10x01">회상 문제로 ↓</a></div>
+<div class="extension-figure" id="figure-s10x01" tabindex="0" role="region" aria-label="하도·낙서 — 생성의 짝과 합 15의 구궁 도해">
+<img loading="lazy" decoding="async" src="images/s10x01.svg" alt="하도·낙서 — 생성의 짝과 합 15의 구궁">
+</div><p class="figure-hint">작은 화면에서는 도해를 좌우로 밀어 보세요.</p>
+<table><thead><tr><th>도해의 연결</th><th>잠그는 사실 (테스트 모드: 탭하여 확인)</th></tr></thead><tbody>
+<tr><td class="prop">하도의 남·북·동·서·중앙에 놓인 두 수의 짝 <span class="why">왜?</span></td><td class="fact">하도: 북 수 1·6, 남 화 2·7, 동 목 3·8, 서 금 4·9, 중앙 토 5·10.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 위=남, 아래=북, 왼쪽=동, 오른쪽=서다. 같은 자리의 두 수는 생수와 성수의 짝이다.</td></tr>
+<tr><td class="prop">홀수의 흰 구슬과 짝수의 검은 구슬 <span class="why">왜?</span></td><td class="fact">하도: 1–10의 수, 합 55. 홀수는 백점, 짝수는 흑점으로 표시한다.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 1·3·5·7·9의 합 25와 2·4·6·8·10의 합 30을 더하면 55다. 점의 총수까지 확인할 수 있다.</td></tr>
+<tr><td class="prop">낙서의 아홉 칸 <span class="why">왜?</span></td><td class="fact">낙서: 위 4·9·2 / 가운데 3·5·7 / 아래 8·1·6.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 남쪽이 위인 그림에서 9가 위, 1이 아래, 3이 왼쪽, 7이 오른쪽이다.</td></tr>
+<tr><td class="prop">낙서 제목의 합 15와 아홉 칸의 수를 검산 <span class="why">왜?</span></td><td class="fact">낙서: 1–9, 전체 합 45. 각 가로·세로·대각선의 합은 15.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 각 줄의 합이 같아 잘못 놓은 수를 스스로 찾아낼 수 있다.</td></tr>
+<tr class="trap"><td class="prop">9를 머리, 1을 발, 3·7을 양옆으로 놓은 구궁 <span class="why">왜?</span></td><td class="fact">戴九履一左三右七<span class="reading">(대구리일좌삼우칠)</span>: 9를 이고 1을 밟으며, 왼쪽 3·오른쪽 7. 2·4는 어깨, 6·8은 발, 5는 중앙.</td></tr>
+<tr class="reason trap"><td colspan="2" class="rz">다리 — 문장의 좌우는 종이 위 도형의 좌우다. 북쪽이 위인 현대 지도와 섞지 않는다.</td></tr>
+</tbody></table>
+<div class="quiz" id="quiz-s10x01"><div class="qhead">도해 문항 5  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<tr><td class="qq">1. 하도의 방위별 생성수 다섯 짝은?</td><td class="fact qa">하도: 북 수 1·6, 남 화 2·7, 동 목 3·8, 서 금 4·9, 중앙 토 5·10.<span class="qsrc">D11 마지막 삽입 그림 · D33 P14</span></td></tr>
+<tr><td class="qq">2. 하도의 전체 수 범위·합·흑백 구분은?</td><td class="fact qa">하도: 1–10의 수, 합 55. 홀수는 백점, 짝수는 흑점으로 표시한다.<span class="qsrc">D11 마지막 삽입 그림 · D33 P14</span></td></tr>
+<tr><td class="qq">3. 낙서의 구궁 배치를 세 줄로 복원하라.</td><td class="fact qa">낙서: 위 4·9·2 / 가운데 3·5·7 / 아래 8·1·6.<span class="qsrc">D11 마지막 삽입 그림 · D33 P14</span></td></tr>
+<tr><td class="qq">4. 낙서의 전체 합과 각 가로·세로·대각선 합은?</td><td class="fact qa">낙서: 1–9, 전체 합 45. 각 가로·세로·대각선의 합은 15.<span class="qsrc">D11 마지막 삽입 그림 · D33 P14</span></td></tr>
+<tr><td class="qq">5. 대구리일좌삼우칠과 어깨·발·중앙의 수를 풀어라.</td><td class="fact qa">戴九履一左三右七<span class="reading">(대구리일좌삼우칠)</span>: 9를 이고 1을 밟으며, 왼쪽 3·오른쪽 7. 2·4는 어깨, 6·8은 발, 5는 중앙.<span class="qsrc">D11 마지막 삽입 그림 · D33 P14</span></td></tr>
+</tbody></table></div>
+<details class="source-details"><summary>정리 자료와 원문 출처</summary><ul>
+<li>D11 마지막 삽입 그림 · D33 P14</li>
+<li><a href="https://www.shidianguji.com/mid-page/7352635408255270922" target="_blank" rel="noopener">낙서 수 배치 고전 구절</a></li>
+</ul></details>
+</div>
+<div class="panel diag" id="s10x02" data-track="D">
+<h3><a href="#s10x02">🔗</a> 후천팔괘 — 만물의 한 해를 여덟 동작으로 <span class="tag">음양오행·보완</span> <span class="dbadge">도해 · 문항 9</span> <span class="pid">#s10x02</span></h3>
+<div class="extension-tools"><button type="button" class="figure-toggle" aria-expanded="true" aria-controls="figure-s10x02">도해 가리고 회상</button> <a href="images/s10x02.svg" target="_blank" rel="noopener">도해 크게 보기 ↗</a> <a class="practice-link" href="#quiz-s10x02">회상 문제로 ↓</a></div>
+<div class="extension-figure" id="figure-s10x02" tabindex="0" role="region" aria-label="후천팔괘 — 만물의 한 해를 여덟 동작으로 도해">
+<img loading="lazy" decoding="async" src="images/s10x02.svg" alt="후천팔괘 — 만물의 한 해를 여덟 동작으로">
+</div><p class="figure-hint">작은 화면에서는 도해를 좌우로 밀어 보세요.</p>
+<table><thead><tr><th>도해의 연결</th><th>잠그는 사실 (테스트 모드: 탭하여 확인)</th></tr></thead><tbody>
+<tr><td class="prop">1번 동쪽 칸의 진·나옴 <span class="why">왜?</span></td><td class="fact">帝出乎震<span class="reading">(제출호진)</span>: 진·동방, 만물이 나온다.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 시작점을 동쪽 진에 고정한다. 기존 팔괘 방위판에서 같은 자리를 찾아 연결한다.</td></tr>
+<tr><td class="prop">2번 동남쪽 칸의 손·가지런함 <span class="why">왜?</span></td><td class="fact">齊乎巽<span class="reading">(제호손)</span>: 손·동남, 만물이 가지런해진다.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 齊는 가지런함이다. 나오는 단계 다음에 정리되는 단계를 놓는다.</td></tr>
+<tr><td class="prop">3번 남쪽 칸의 리·서로 보임 <span class="why">왜?</span></td><td class="fact">相見乎離<span class="reading">(상견호리)</span>: 리·남방, 밝아 서로 보인다.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 리의 불·밝음 배속을 서로 보임이라는 작용에 연결한다.</td></tr>
+<tr><td class="prop">4번 서남쪽 칸의 곤·기름 <span class="why">왜?</span></td><td class="fact">致役乎坤<span class="reading">(치역호곤)</span>: 곤·서남, 땅에서 만물이 양육된다.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 곤의 땅은 일을 받쳐 주고 만물을 기르는 바탕이다.</td></tr>
+<tr><td class="prop">5번 서쪽 칸의 태·기뻐함 <span class="why">왜?</span></td><td class="fact">說言乎兌<span class="reading">(열언호태)</span>: 태·서방·정추, 만물이 기뻐한다.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 이 구절의 說은 기뻐할 열로 읽는다. 말할 설로 기계적으로 읽지 않는다.</td></tr>
+<tr><td class="prop">6번 서북쪽 칸의 건·부딪침 <span class="why">왜?</span></td><td class="fact">戰乎乾<span class="reading">(전호건)</span>: 건·서북, 음양이 서로 부딪친다.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 가을에서 겨울로 넘어가는 자리에서 음양의 접촉·상박을 기억한다.</td></tr>
+<tr><td class="prop">7번 북쪽 칸의 감·수고를 위로함 <span class="why">왜?</span></td><td class="fact">勞乎坎<span class="reading">(노호감)</span>: 감·정북, 수고를 위로하고 만물이 돌아간다.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 고단한 한 주기를 마치고 물·겨울의 자리로 돌아간다.</td></tr>
+<tr><td class="prop">8번 동북쪽 칸의 간·마치고 다시 시작 <span class="why">왜?</span></td><td class="fact">成言乎艮<span class="reading">(성언호간)</span>: 간·동북, 끝을 이루고 다시 시작한다.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 간은 한 바퀴의 끝이면서 진의 다음 시작으로 이어지는 경계다.</td></tr>
+<tr><td class="prop">진에서 간까지 한 바퀴 도는 순서 <span class="why">왜?</span></td><td class="fact">후천 단계: 진 → 손 → 리 → 곤 → 태 → 건 → 감 → 간.</td></tr>
+<tr class="reason"><td colspan="2" class="rz">다리 — 기존의 팔괘 획·선천수는 그대로 두고 후천의 시간적 작용을 덧붙인다.</td></tr>
+</tbody></table>
+<div class="quiz" id="quiz-s10x02"><div class="qhead">도해 문항 9  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<tr><td class="qq">1. 진괘의 단계 원문·방위·뜻은?</td><td class="fact qa">帝出乎震<span class="reading">(제출호진)</span>: 진·동방, 만물이 나온다.<span class="qsrc">D11 P239–P241</span></td></tr>
+<tr><td class="qq">2. 손괘의 단계 원문·방위·뜻은?</td><td class="fact qa">齊乎巽<span class="reading">(제호손)</span>: 손·동남, 만물이 가지런해진다.<span class="qsrc">D11 P239–P241</span></td></tr>
+<tr><td class="qq">3. 리괘의 단계 원문·방위·뜻은?</td><td class="fact qa">相見乎離<span class="reading">(상견호리)</span>: 리·남방, 밝아 서로 보인다.<span class="qsrc">D11 P239–P241</span></td></tr>
+<tr><td class="qq">4. 곤괘의 단계 원문·방위·뜻은?</td><td class="fact qa">致役乎坤<span class="reading">(치역호곤)</span>: 곤·서남, 땅에서 만물이 양육된다.<span class="qsrc">D11 P239–P241</span></td></tr>
+<tr><td class="qq">5. 태괘의 단계 원문 독음·계절·뜻은?</td><td class="fact qa">說言乎兌<span class="reading">(열언호태)</span>: 태·서방·정추, 만물이 기뻐한다.<span class="qsrc">D11 P239–P241</span></td></tr>
+<tr><td class="qq">6. 건괘의 단계 원문·방위·뜻은?</td><td class="fact qa">戰乎乾<span class="reading">(전호건)</span>: 건·서북, 음양이 서로 부딪친다.<span class="qsrc">D11 P239–P241</span></td></tr>
+<tr><td class="qq">7. 감괘의 단계 원문·방위·뜻은?</td><td class="fact qa">勞乎坎<span class="reading">(노호감)</span>: 감·정북, 수고를 위로하고 만물이 돌아간다.<span class="qsrc">D11 P239–P241</span></td></tr>
+<tr><td class="qq">8. 간괘의 단계 원문·방위·뜻은?</td><td class="fact qa">成言乎艮<span class="reading">(성언호간)</span>: 간·동북, 끝을 이루고 다시 시작한다.<span class="qsrc">D11 P239–P241</span></td></tr>
+<tr><td class="qq">9. 후천팔괘의 여덟 단계 순서를 말하라.</td><td class="fact qa">후천 단계: 진 → 손 → 리 → 곤 → 태 → 건 → 감 → 간.<span class="qsrc">D11 P239–P241</span></td></tr>
+</tbody></table></div>
+<details class="source-details"><summary>정리 자료와 원문 출처</summary><ul>
+<li>D11 P239–P241</li>
+<li><a href="https://db.cyberseodang.or.kr/front/sabuList/BookMain.do?bnCode=jti_1a0202&amp;titleId=C78" target="_blank" rel="noopener">주역 설괘전 원문·국역</a></li>
+</ul></details>
 </div>
 <h2>장면 11 · 오장 다섯 방(宣明五氣)</h2>
 <div class="panel" id="s11u01" data-track="B">
@@ -719,7 +1435,7 @@ td{overflow-wrap:anywhere}
 <tr><td class="prop">출전 <span class="why">왜?</span></td><td class="fact">出典<span class="reading">(출전)</span> — ⚠ 두 판을 갈라야 한다. **張景岳<span class="reading">(장경악)</span> 『景岳全書<span class="reading">(경악전서)</span>』 十問篇<span class="reading">(십문편)</span> 원문**은 「一問寒熱二問汗<span class="reading">(일문한열이문한)</span>，三問頭身四問便<span class="reading">(삼문두신사문변)</span>，五問飲食六問胸<span class="reading">(오문음식육문흉)</span>，七聾八渴俱當辨<span class="reading">(칠롱팔갈구당변)</span>。**九因脈色察陰陽<span class="reading">(구인맥색찰음양)</span>，十從氣味章神見<span class="reading">(십종기미장신견)</span>**」이다. 지금 통용되는 「九問舊病十問因<span class="reading">(구문구병십문인)</span> / 再兼服藥參機變<span class="reading">(재겸복약참기변)</span> / 婦人尤必問經期<span class="reading">(부인우필문경기)</span>…」 판은 **陳修園<span class="reading">(진수원)</span> 『醫學實在易<span class="reading">(의학실재이)</span>』 問證詩<span class="reading">(문증시)</span>**의 고침이다</td></tr>
 <tr class="reason"><td colspan="2" class="rz">다리 — 도해는 자가테스트·역방향 판독의 대상이 아니다(CANON 74). 범례를 그림 안에 갖고 있다. 　▸ 정산(2026-08-22, 규칙 111) — 무대 자리: 一問 寒熱·七問 聾 → s12p07(→s12u03). 나머지 여덟은 도해 전담 — 규칙 110의 원형이다(순서는 도해, 새는 항목만 무대로)  ▸ 2026-08-22 원문 대조 — 醫砭 景岳全書 十問篇(sid=67717) 실측. 張景岳은 s01p02 「경악! 산더미 책 두 짐」 전담이다</td></tr>
 </tbody></table>
-<div class="quiz"><div class="qhead">도해 문항 14  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<div class="quiz" id="quiz-s12p08"><div class="qhead">도해 문항 14  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
 <tr><td class="qq">1. 十問歌 열 구절을 차례로?</td><td class="fact qa">一問寒熱<span class="reading">(일문한열)</span> · 二問汗<span class="reading">(이문한)</span> · 三問頭身<span class="reading">(삼문두신)</span> · 四問便<span class="reading">(사문변)</span> · 五問飮食<span class="reading">(오문음식)</span> · 六問胸<span class="reading">(육문흉)</span> · 七問聾<span class="reading">(칠문롱)</span> · 八問渴<span class="reading">(팔문갈)</span> · 九問舊病<span class="reading">(구문구병)</span> · 十問因<span class="reading">(십문인)</span>   (노랫말은 「一問寒熱二問汗<span class="reading">(일문한열이문한)</span> / 三問頭身四問便<span class="reading">(삼문두신사문변)</span> / 五問飮食六問胸<span class="reading">(오문음식육문흉)</span> / 七聾八渴俱當辨<span class="reading">(칠롱팔갈구당변)</span> / 九問舊病十問因<span class="reading">(구문구병십문인)</span>」)<span class="qsrc">陳修園 『醫學實在易』 問證詩 — ⚠ **「九問舊病十問因」 이하는 景岳의 글이 아니다.** 『景岳全書』十問篇 원문은 「一問寒熱二問汗，三問頭身四問便，五問飲食六問胸，七聾八渴俱當辨。**九因脈色察陰陽，十從氣味章神見**」이다(醫砭 sid=67717 확인). 지금 통용되는 十問歌는 陳修園이 뒤 두 구를 고쳐 놓은 판이다</span></td></tr>
 <tr><td class="qq">2. 十問歌의 1번째는 무엇을 묻는가?</td><td class="fact qa">一問寒熱<span class="reading">(일문한열)</span><span class="qsrc">陳修園 『醫學實在易』 問證詩 — ⚠ **「九問舊病十問因」 이하는 景岳의 글이 아니다.** 『景岳全書』十問篇 원문은 「一問寒熱二問汗，三問頭身四問便，五問飲食六問胸，七聾八渴俱當辨。**九因脈色察陰陽，十從氣味章神見**」이다(醫砭 sid=67717 확인). 지금 통용되는 十問歌는 陳修園이 뒤 두 구를 고쳐 놓은 판이다</span></td></tr>
 <tr><td class="qq">3. 十問歌의 2번째는 무엇을 묻는가?</td><td class="fact qa">二問汗<span class="reading">(이문한)</span><span class="qsrc">陳修園 『醫學實在易』 問證詩 — ⚠ **「九問舊病十問因」 이하는 景岳의 글이 아니다.** 『景岳全書』十問篇 원문은 「一問寒熱二問汗，三問頭身四問便，五問飲食六問胸，七聾八渴俱當辨。**九因脈色察陰陽，十從氣味章神見**」이다(醫砭 sid=67717 확인). 지금 통용되는 十問歌는 陳修園이 뒤 두 구를 고쳐 놓은 판이다</span></td></tr>
@@ -852,7 +1568,7 @@ td{overflow-wrap:anywhere}
 <tr><td class="prop">자리의 깊이가 곧 단계 <span class="why">왜?</span></td><td class="fact">무대 트랙 s13 열 칸이 같은 사실을 성의 여섯 겹으로 진다</td></tr>
 <tr class="reason"><td colspan="2" class="rz">다리 — 도해는 자가테스트·역방향 판독의 대상이 아니다(CANON 74). 범례를 그림 안에 갖고 있다. 　▸ 정산(2026-08-22, 규칙 111) — 무대 자리: 六經 각 단계 s13p01(→s13u01)~s13p06(→s13u02). 전변 방식(循經·越經·直中·合病·倂病)은 순서라 도해가 전담</td></tr>
 </tbody></table>
-<div class="quiz"><div class="qhead">도해 문항 4  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<div class="quiz" id="quiz-s13p11"><div class="qhead">도해 문항 4  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
 <tr><td class="qq">1. 循經傳의 차례는?</td><td class="fact qa">太陽<span class="reading">(태양)</span> → 陽明<span class="reading">(양명)</span> → 少陽<span class="reading">(소양)</span> → 太陰<span class="reading">(태음)</span> → 少陰<span class="reading">(소음)</span> → 厥陰<span class="reading">(궐음)</span> (겉에서 속으로)<span class="qsrc">傷寒論</span></td></tr>
 <tr><td class="qq">2. 越經傳이란?</td><td class="fact qa">차례를 건너뛰어 전해지는 것<span class="qsrc">傷寒論</span></td></tr>
 <tr><td class="qq">3. 直中이란?</td><td class="fact qa">三陽<span class="reading">(삼양)</span>을 아예 거치지 않고 邪<span class="reading">(사)</span>가 三陰<span class="reading">(삼음)</span>으로 바로 드는 것<span class="qsrc">傷寒論</span></td></tr>
@@ -999,7 +1715,7 @@ td{overflow-wrap:anywhere}
 <tr><td class="prop">배합 금기는 七情의 相畏와 글자만 같고 뜻이 다르다 <span class="why">왜?</span></td><td class="fact">相反<span class="reading">(상반)</span>=十八反<span class="reading">(십팔반)</span>(붉은 X) · 相畏<span class="reading">(상외)</span>(금기)=十九畏<span class="reading">(십구외)</span>(붉은 고리) — 카드 트랙 s14p01(→s14u01)·s14p06(→s14u02)이 진다</td></tr>
 <tr class="reason"><td colspan="2" class="rz">다리 — 도해는 자가테스트·역방향 판독의 대상이 아니다(CANON 74). 범례를 그림 안에 갖고 있다. 　▸ 정산(2026-08-22, 규칙 111) — 무대 자리: 相畏(十九畏)·相反(十八反) → s14p01(→s14u01)·s14p06(→s14u02). 相須·相使·相惡·單行은 아직 자리 없음 — 오답 기록 0회라 후순위</td></tr>
 </tbody></table>
-<div class="quiz"><div class="qhead">도해 문항 9  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<div class="quiz" id="quiz-s14p11"><div class="qhead">도해 문항 9  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
 <tr><td class="qq">1. 七情의 「單行」이란?</td><td class="fact qa">한 가지만 쓴다<span class="qsrc">本草 총론 七情 / 神農本草經 序例</span></td></tr>
 <tr><td class="qq">2. 七情의 「相須」이란?</td><td class="fact qa">성질이 비슷한 둘이 서로 키운다 — 양방향<span class="qsrc">本草 총론 七情 / 神農本草經 序例</span></td></tr>
 <tr><td class="qq">3. 七情의 「相使」이란?</td><td class="fact qa">주된 약 A를 딸린 약 B가 돕는다 — 한 방향<span class="qsrc">本草 총론 七情 / 神農本草經 序例</span></td></tr>
@@ -1026,7 +1742,7 @@ td{overflow-wrap:anywhere}
 <tr><td class="prop">축은 平을 가운데 두고 좌우 대칭 <span class="why">왜?</span></td><td class="fact">四氣<span class="reading">(사기)</span> = 寒<span class="reading">(한)</span>·熱<span class="reading">(열)</span>·溫<span class="reading">(온)</span>·涼<span class="reading">(양)</span> (涼<span class="reading">(양)</span> = 微寒<span class="reading">(미한)</span>). 「微<span class="reading">(미)</span>」는 소품이 아니라 자리가 진다</td></tr>
 <tr class="reason"><td colspan="2" class="rz">다리 — 도해는 자가테스트·역방향 판독의 대상이 아니다(CANON 74). 범례를 그림 안에 갖고 있다. 　▸ 정산(2026-08-22, 규칙 111) — 무대 자리: 五味 다섯 → s09p01(→s09u01)~s09p05(→s09u01)(오미 음식 사전). 四氣 일곱 칸은 좌표라 도해가 전담</td></tr>
 </tbody></table>
-<div class="quiz"><div class="qhead">도해 문항 2  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<div class="quiz" id="quiz-s14p12"><div class="qhead">도해 문항 2  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
 <tr><td class="qq">1. 四氣 일곱 칸을 찬 것부터?</td><td class="fact qa">大寒<span class="reading">(대한)</span> · 寒<span class="reading">(한)</span> · 涼<span class="reading">(양)</span> · 平<span class="reading">(평)</span> · 溫<span class="reading">(온)</span> · 熱<span class="reading">(열)</span> · 大熱<span class="reading">(대열)</span> (涼<span class="reading">(양)</span> = 微寒<span class="reading">(미한)</span>)<span class="qsrc">本草 총론 四氣</span></td></tr>
 <tr><td class="qq">2. 五味의 작용 다섯은?</td><td class="fact qa">통용 서술은 酸收<span class="reading">(산수)</span> · 苦泄<span class="reading">(고설)</span> · 甘補<span class="reading">(감보)</span> · 辛散<span class="reading">(신산)</span> · 鹹軟<span class="reading">(함연)</span>이다. ⚠ 素問<span class="reading">(소문)</span>·藏氣法時論<span class="reading">(장기법시론)</span> **원문 글자는 「辛散<span class="reading">(신산)</span>，酸收<span class="reading">(산수)</span>，甘緩<span class="reading">(감완)</span>，苦堅<span class="reading">(고견)</span>，鹹耎<span class="reading">(함연)</span>」** — 甘<span class="reading">(감)</span>은 補<span class="reading">(보)</span>가 아니라 **緩<span class="reading">(완)</span>**, 苦<span class="reading">(고)</span>는 泄<span class="reading">(설)</span>이 아니라 **堅<span class="reading">(견)</span>**이다. 두 판을 갈라 적는다<span class="qsrc">素問·藏氣法時論</span></td></tr>
 </tbody></table></div>
@@ -1046,7 +1762,7 @@ td{overflow-wrap:anywhere}
 <tr><td class="prop">炮製로 방향이 바뀐다 <span class="why">왜?</span></td><td class="fact">酒炒則升<span class="reading">(주초즉승)</span> · 薑汁炒則散<span class="reading">(강즙초즉산)</span> · 醋炒則斂<span class="reading">(초초즉렴)</span> · 鹽水炒則下行<span class="reading">(염수초즉하행)</span></td></tr>
 <tr class="reason"><td colspan="2" class="rz">다리 — 도해는 자가테스트·역방향 판독의 대상이 아니다(CANON 74). 범례를 그림 안에 갖고 있다. 　▸ 정산(2026-08-22, 규칙 111) — 무대 자리 없음. 판이 [0]에 「출제 보류」라고 적어 놓고 멈춰 있었다 — 2026-08-22 **문항 5개**로 갚았다(규칙 108-b·109). 무대가 못 지는 까닭: 「올라간다/내려간다」는 몸짓이라 규칙 106에 걸린다</td></tr>
 </tbody></table>
-<div class="quiz"><div class="qhead">도해 문항 5  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<div class="quiz" id="quiz-s14p13"><div class="qhead">도해 문항 5  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
 <tr><td class="qq">1. 升浮와 沈降은 각각 어디로 가는가?</td><td class="fact qa">升浮<span class="reading">(승부)</span> = 올라가 밖으로 / 沈降<span class="reading">(침강)</span> = 내려가 안으로<span class="qsrc">本草 총론 — 升降浮沈</span></td></tr>
 <tr><td class="qq">2. 氣味로 升降浮沈을 어떻게 가르는가?</td><td class="fact qa">溫熱<span class="reading">(온열)</span>·辛甘<span class="reading">(신감)</span> = 升浮<span class="reading">(승부)</span> / 寒凉<span class="reading">(한량)</span>·酸苦鹹<span class="reading">(산고함)</span> = 沈降<span class="reading">(침강)</span><span class="qsrc">本草 총론 — 升降浮沈</span></td></tr>
 <tr><td class="qq">3. 質地로 升降浮沈을 어떻게 가르는가?</td><td class="fact qa">꽃·잎(가볍다) = 升浮<span class="reading">(승부)</span> / 열매·씨·광물(무겁다) = 沈降<span class="reading">(침강)</span> — 「諸花皆升<span class="reading">(제화개승)</span> 諸子皆降<span class="reading">(제자개강)</span>」<span class="qsrc">本草 총론 — 升降浮沈</span></td></tr>
@@ -1069,7 +1785,7 @@ td{overflow-wrap:anywhere}
 <tr><td class="prop">아래 실례 <span class="why">왜?</span></td><td class="fact">麻黃湯<span class="reading">(마황탕)</span> — 君<span class="reading">(군)</span> 麻黃<span class="reading">(마황)</span> / 臣<span class="reading">(신)</span> 桂枝<span class="reading">(계지)</span> / 佐<span class="reading">(좌)</span> 杏仁<span class="reading">(행인)</span> / 使<span class="reading">(사)</span> 甘草<span class="reading">(감초)</span></td></tr>
 <tr class="reason"><td colspan="2" class="rz">다리 — 도해는 자가테스트·역방향 판독의 대상이 아니다(CANON 74). 범례를 그림 안에 갖고 있다. 　▸ 정산(2026-08-22, 규칙 111) — 무대 자리 없음 — **문항 5개**가 진다. 麻黃湯 실례가 있어 무대 한 칸이 가능하나 오답 기록 0회라 후순위</td></tr>
 </tbody></table>
-<div class="quiz"><div class="qhead">도해 문항 5  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<div class="quiz" id="quiz-s14p14"><div class="qhead">도해 문항 5  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
 <tr><td class="qq">1. 君藥은 무엇인가?</td><td class="fact qa">主病<span class="reading">(주병)</span>·主證<span class="reading">(주증)</span>을 곧바로 겨냥한다. 힘이 가장 크고 양이 가장 많다<span class="qsrc">方劑 총론 — 君臣佐使 / 素問·至眞要大論 「主病之謂君 佐君之謂臣 應臣之謂使」</span></td></tr>
 <tr><td class="qq">2. 臣藥의 구실 둘은?</td><td class="fact qa">① 君<span class="reading">(군)</span>을 도와 主證<span class="reading">(주증)</span>을 친다 ② 兼證<span class="reading">(겸증)</span>·兼病<span class="reading">(겸병)</span>을 맡는다<span class="qsrc">方劑 총론 — 君臣佐使 / 素問·至眞要大論 「主病之謂君 佐君之謂臣 應臣之謂使」</span></td></tr>
 <tr><td class="qq">3. 佐藥의 구실 셋은?</td><td class="fact qa">① 佐助<span class="reading">(좌조)</span> ② 佐制<span class="reading">(좌제)</span>(君臣<span class="reading">(군신)</span>의 독·맹렬함을 누른다) ③ 反佐<span class="reading">(반좌)</span>(반대 성질을 조금 넣는다)<span class="qsrc">方劑 총론 — 君臣佐使 / 素問·至眞要大論 「主病之謂君 佐君之謂臣 應臣之謂使」</span></td></tr>
@@ -1361,7 +2077,7 @@ td{overflow-wrap:anywhere}
 <tr><td class="prop">맨 아래 — 이 판의 왼쪽 줄은 전부 陰, 오른쪽 줄은 전부 陽 <span class="why">왜?</span></td><td class="fact">陽<span class="reading">(양)</span>에 드는 것 表<span class="reading">(표)</span>·熱<span class="reading">(열)</span>·實<span class="reading">(실)</span> / 陰<span class="reading">(음)</span>에 드는 것 裏<span class="reading">(이)</span>·寒<span class="reading">(한)</span>·虛<span class="reading">(허)</span> — 자리와 색이 곧 배속이다 (무대 자리: s16p01·s16p03에 배속 행을 얹었다)</td></tr>
 <tr class="reason"><td colspan="2" class="rz">다리 — 도해는 자가테스트·역방향 판독의 대상이 아니다(CANON 74). 범례를 그림 안에 갖고 있다. 　▸ 정산(2026-08-22, 규칙 111) — ★ 이 판이 규칙 111의 원형이다 — 행마다 무대 자리를 이미 적어 놓았다. 정산에서 통째로 통과한 유일한 판</td></tr>
 </tbody></table>
-<div class="quiz"><div class="qhead">도해 문항 1  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<div class="quiz" id="quiz-s17p01"><div class="qhead">도해 문항 1  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
 <tr><td class="qq">1. 八綱 여덟과 總綱은?</td><td class="fact qa">陰陽<span class="reading">(음양)</span>이 總綱<span class="reading">(총강)</span>이고 表裏<span class="reading">(표리)</span>(어디) · 寒熱<span class="reading">(한열)</span>(성질) · 虛實<span class="reading">(허실)</span>(누가 이기나) 세 쌍이 그 아래 든다. 陽<span class="reading">(양)</span>에 드는 것 表<span class="reading">(표)</span>·熱<span class="reading">(열)</span>·實<span class="reading">(실)</span> / 陰<span class="reading">(음)</span>에 드는 것 裏<span class="reading">(이)</span>·寒<span class="reading">(한)</span>·虛<span class="reading">(허)</span><span class="qsrc">八綱辨證 — 景岳全書 二綱六變 계통</span></td></tr>
 </tbody></table></div>
 </div>
@@ -1381,7 +2097,7 @@ td{overflow-wrap:anywhere}
 <tr class="trap"><td class="prop">바닥의 붉은 경고 줄 <span class="why">왜?</span></td><td class="fact">⚠ 349를 정한 사람 = 皇甫謐<span class="reading">(황보밀)</span> · 天然色<span class="reading">(천연색)</span> 經絡圖譜<span class="reading">(경락도보)</span>를 처음 그린 사람 = 滑伯仁<span class="reading">(활백인)</span>(滑壽<span class="reading">(활수)</span>)</td></tr>
 <tr class="reason trap"><td colspan="2" class="rz">다리 — 기출 242번 정답 皇甫謐(오답지 滑伯仁·楊繼洲·孫思邈·王燾) · 기출 239번 정답 滑伯仁.<br>◆ **색을 처음 넣은 것은 孫思邈(唐), 天然色 圖譜를 처음 그린 것은 滑壽(元)** — 둘을 갈라 외운다.<br>  기본서 요약표는 「경맥 길에 색을 넣었다」를 孫思邈에 적어 두어 헷갈리기 쉽다.<br>◆ 361혈은 吳謙 『醫宗金鑑』, 이설은 李學川 『鍼灸逢源』 — 허브 오답 1위(s04p02). 　▸ 정산(2026-08-22, 규칙 111) — 무대 자리: 皇甫謐 s02p01 · 王惟一 s03p01 · 楊繼洲 s04p01 · 吳謙 s04p02 · 銅人 s03p01. ⚠ 王執中 한 사람만 구멍이다</td></tr>
 </tbody></table>
-<div class="quiz"><div class="qhead">도해 문항 4  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<div class="quiz" id="quiz-s18d01"><div class="qhead">도해 문항 4  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
 <tr><td class="qq">1. 수혈 개수의 계보를 차례로?</td><td class="fact qa">349(皇甫謐<span class="reading">(황보밀)</span> 晉<span class="reading">(진)</span> 針灸甲乙經<span class="reading">(침구갑을경)</span>) → 354(王惟一<span class="reading">(왕유일)</span> 宋<span class="reading">(송)</span> 銅人腧穴針灸圖經<span class="reading">(동인수혈침구도경)</span>) → 359(王執中<span class="reading">(왕집중)</span> 宋<span class="reading">(송)</span> 針灸資生經<span class="reading">(침구자생경)</span>) → 359(楊繼洲<span class="reading">(양계주)</span> 明<span class="reading">(명)</span> 針灸大成<span class="reading">(침구대성)</span>) → **360(吳謙<span class="reading">(오겸)</span> 淸<span class="reading">(청)</span> 醫宗金鑑<span class="reading">(의종금감)</span>)** → **361(李學川<span class="reading">(이학천)</span> 淸<span class="reading">(청)</span> 針灸逢源<span class="reading">(침구봉원)</span>)**<span class="qsrc">針灸甲乙經~針灸逢源</span></td></tr>
 <tr><td class="qq">2. 十四經은 무엇을 합친 수인가?</td><td class="fact qa">**十二正經<span class="reading">(십이정경)</span> + 任脈<span class="reading">(임맥)</span>·督脈<span class="reading">(독맥)</span> = 14.** 기경팔맥 중 任<span class="reading">(임)</span>·督<span class="reading">(독)</span> 둘만 전속 혈을 가져 정경과 나란히 세운다 — 나머지 여섯 기경은 남의 혈을 빌려 쓴다<span class="qsrc">滑壽 『十四經發揮』(元)</span></td></tr>
 <tr><td class="qq">3. 『十四經發揮』를 지은 사람과 그 소리 다리는?</td><td class="fact qa">**滑壽<span class="reading">(활수)</span>(활수, 元<span class="reading">(원)</span>)** — 滑<span class="reading">(활)</span>=미끄러울 활 → 국숫집 앞 미끄러지는 아이들(s03p01[7]). 암기송 토막은 「원활사」(元<span class="reading">(원)</span>·滑壽<span class="reading">(활수)</span>·十四經發揮<span class="reading">(십사경발휘)</span>)<span class="qsrc">기본서 경락학 발전사 요약표</span></td></tr>
@@ -1405,7 +2121,7 @@ td{overflow-wrap:anywhere}
 <tr><td class="prop">같은 緣의 두 점이 놓인 자리 <span class="why">왜?</span></td><td class="fact">表裏<span class="reading">(표리)</span> 짝은 前<span class="reading">(전)</span>·後緣<span class="reading">(후연)</span>에서 같은 가장자리에 붙고, 中線<span class="reading">(중선)</span>에서만 지름을 사이에 두고 마주 본다</td></tr>
 <tr class="reason"><td colspan="2" class="rz">다리 — 표리 여섯 쌍 모두 성립 — 무대가 표리를 한 칸에 넣는 근거 　▸ 정산(2026-08-22, 규칙 111) — 무대 자리 없음 — 「사지 단면 위의 자리」가 곧 사실이라 도해가 맞다(RULES §0). **문항 14개**가 대응을 묻는다. 六經 이름 자체는 s13p01(→s13u01)~s13p06(→s13u02)이 진다</td></tr>
 </tbody></table>
-<div class="quiz"><div class="qhead">도해 문항 14  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<div class="quiz" id="quiz-s18d02"><div class="qhead">도해 문항 14  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
 <tr><td class="qq">1. 手太陰肺經은 사지의 어느 면 어느 가장자리를 타는가?</td><td class="fact qa">手<span class="reading">(수)</span> · 內面<span class="reading">(내면)</span>(陰<span class="reading">(음)</span>) · 前緣<span class="reading">(전연)</span><span class="qsrc">靈樞·經脈 · WHO/WPRO 표준경혈부위</span></td></tr>
 <tr><td class="qq">2. 手陽明大腸經은 사지의 어느 면 어느 가장자리를 타는가?</td><td class="fact qa">手<span class="reading">(수)</span> · 外面<span class="reading">(외면)</span>(陽<span class="reading">(양)</span>) · 前緣<span class="reading">(전연)</span><span class="qsrc">靈樞·經脈 · WHO/WPRO 표준경혈부위</span></td></tr>
 <tr><td class="qq">3. 足陽明胃經은 사지의 어느 면 어느 가장자리를 타는가?</td><td class="fact qa">足<span class="reading">(족)</span> · 外面<span class="reading">(외면)</span>(陽<span class="reading">(양)</span>) · 前緣<span class="reading">(전연)</span><span class="qsrc">靈樞·經脈 · WHO/WPRO 표준경혈부위</span></td></tr>
@@ -1441,7 +2157,7 @@ td{overflow-wrap:anywhere}
 <tr><td class="prop">바닥 줄 — 규칙 78의 짝 <span class="why">왜?</span></td><td class="fact">무대가 규칙을 지고 이 판이 이름을 진다</td></tr>
 <tr class="reason"><td colspan="2" class="rz">다리 — s18p09(正格 補母瀉官 · 勝格 補官瀉子)와 s18p10(寒格 補火瀉水 · 熱格 補水)이 **규칙**을 지고,<br>이 도해가 **혈 이름 60개**를 진다. 舍岩 네 격이 쓰는 54혈이 전부 이 60 안에 있다(검산).<br>◆ **둘이 있어야 「肺正格은?」에 답이 나온다.** 하나만으로는 안 된다. 　▸ 정산(2026-08-22, 규칙 111) — 무대 자리 없음 — 순서(井滎兪經合)는 도해가 맞고, 「所出爲井」 대응은 **문항 28개**가 진다(오답 7회 상환)</td></tr>
 </tbody></table>
-<div class="quiz"><div class="qhead">도해 문항 28  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<div class="quiz" id="quiz-s18d03"><div class="qhead">도해 문항 28  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
 <tr><td class="qq">1. 肺經의 五輸穴 다섯은 井부터 차례로?</td><td class="fact qa">井<span class="reading">(정)</span> 少商<span class="reading">(소상)</span> · 滎<span class="reading">(형)</span> 魚際<span class="reading">(어제)</span> · 兪<span class="reading">(수)</span> 太淵<span class="reading">(태연)</span> · 經<span class="reading">(경)</span> 經渠<span class="reading">(경거)</span> · 合<span class="reading">(합)</span> 尺澤<span class="reading">(척택)</span><span class="qsrc">靈樞·本輸 / 難經 六十四難(오행 배속) · 六十八難(主治)</span></td></tr>
 <tr><td class="qq">2. 肺經의 井穴은?</td><td class="fact qa">少商<span class="reading">(소상)</span> (陰<span class="reading">(음)</span>의 木<span class="reading">(목)</span>)<span class="qsrc">靈樞·本輸 / 難經 六十四難(오행 배속) · 六十八難(主治)</span></td></tr>
 <tr><td class="qq">3. 脾經의 五輸穴 다섯은 井부터 차례로?</td><td class="fact qa">井<span class="reading">(정)</span> 隱白<span class="reading">(은백)</span> · 滎<span class="reading">(형)</span> 大都<span class="reading">(대도)</span> · 兪<span class="reading">(수)</span> 太白<span class="reading">(태백)</span> · 經<span class="reading">(경)</span> 商丘<span class="reading">(상구)</span> · 合<span class="reading">(합)</span> 陰陵泉<span class="reading">(음릉천)</span><span class="qsrc">靈樞·本輸 / 難經 六十四難(오행 배속) · 六十八難(主治)</span></td></tr>
@@ -1491,7 +2207,7 @@ td{overflow-wrap:anywhere}
 <tr><td class="prop">왼쪽은 등, 오른쪽은 배 — 두 세로선이 마주 봄 <span class="why">왜?</span></td><td class="fact">難經<span class="reading">(난경)</span> 六十七難<span class="reading">(육십칠난)</span> 五藏募皆在陰而俞在陽<span class="reading">(오장모개재음이수재양)</span> — 募<span class="reading">(모)</span>는 몸 앞(陰<span class="reading">(음)</span>), 兪<span class="reading">(수)</span>는 몸 뒤(陽<span class="reading">(양)</span>)</td></tr>
 <tr class="reason"><td colspan="2" class="rz">다리 — 한 장부의 두 혈이 앞뒤로 마주 본다 　▸ 정산(2026-08-22, 규칙 111) — 무대 자리: 背兪穴·募穴의 개념과 中脘 → s18p11. 열두 쌍의 개별 혈은 **문항 26개**가 진다(天樞 오답 5회 상환)</td></tr>
 </tbody></table>
-<div class="quiz"><div class="qhead">도해 문항 26  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<div class="quiz" id="quiz-s18d04"><div class="qhead">도해 문항 26  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
 <tr><td class="qq">1. 肺의 背兪穴과 募穴은?</td><td class="fact qa">背兪<span class="reading">(배수)</span> 肺兪<span class="reading">(폐수)</span>(T3) · 募<span class="reading">(모)</span> 中府<span class="reading">(중부)</span>(肺經<span class="reading">(폐경)</span> — 가슴 위 바깥 · 제1늑간)<span class="qsrc">靈樞·背腧 / 脈經 · 針灸甲乙經</span></td></tr>
 <tr><td class="qq">2. 中府는 어느 장부의 募穴인가?</td><td class="fact qa">肺<span class="reading">(폐)</span> — 肺經<span class="reading">(폐경)</span>에 있다 (가슴 위 바깥 · 제1늑간)<span class="qsrc">靈樞·背腧 / 脈經 · 針灸甲乙經</span></td></tr>
 <tr><td class="qq">3. 心包의 背兪穴과 募穴은?</td><td class="fact qa">背兪<span class="reading">(배수)</span> 厥陰兪<span class="reading">(궐음수)</span>(T4) · 募<span class="reading">(모)</span> 膻中<span class="reading">(전중)</span>(任脈<span class="reading">(임맥)</span> — 가슴 한가운데 · 두 젖 사이)<span class="qsrc">靈樞·背腧 / 脈經 · 針灸甲乙經</span></td></tr>
@@ -1543,7 +2259,7 @@ td{overflow-wrap:anywhere}
 <tr class="trap"><td class="prop">맨 아래 붉은 주석 셋째 줄 <span class="why">왜?</span></td><td class="fact">心<span class="reading">(심)</span>의 原穴<span class="reading">(원혈)</span> — 고전은 大陵<span class="reading">(대릉)</span>, 현행은 神門<span class="reading">(신문)</span></td></tr>
 <tr class="reason trap"><td colspan="2" class="rz">다리 — 靈樞·九鍼十二原 「陽中之太陽 心也 其原出於大陵」이고 難經 六十六難도 「心之原出於大陵」이라 한다. 그런데 六十六難은 같은 자리에 「少陰之原出於兌骨(神門)」도 싣는다. 지금 쓰는 心 原穴 = 神門은 후대 정리이고 기출도 神門으로 묻는다. 원문을 직접 읽을 때 헷갈리는 유일한 자리다. 　▸ 정산(2026-08-22, 규칙 111) — 무대 자리 없음 — **문항 28개**가 진다(오답 21회 상환: 膀胱7·心包6·肺4·大腸4). ⚠ 무대화는 막혀 있다 — 혈 이름 형태화 축에서 淵·鍾·陵 셋이 s18p12 팔회혈 소품과 충돌한다(규칙 51). ⚠ 원문 주의 — 「主客原絡」이라는 짝짓기와 용어는 『針灸大成』卷五 「十二經治症主客原絡」이 세운 것이다. 原穴은 難經 六十六난, 絡穴은 靈樞 十五絡이 따로 준다</td></tr>
 </tbody></table>
-<div class="quiz"><div class="qhead">도해 문항 28  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<div class="quiz" id="quiz-s18d05"><div class="qhead">도해 문항 28  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
 <tr><td class="qq">1. 肺經이 병들면 主와 客은?</td><td class="fact qa">主<span class="reading">(주)</span> = 太淵<span class="reading">(태연)</span>(肺<span class="reading">(폐)</span>의 原穴<span class="reading">(원혈)</span>) · 客<span class="reading">(객)</span> = 偏歷<span class="reading">(편력)</span>(표리경 大腸<span class="reading">(대장)</span>의 絡穴<span class="reading">(낙혈)</span>)<span class="qsrc">『針灸大成』卷五 「十二經治症主客原絡」 — **「主客原絡」이라는 짝짓기와 용어 자체는 楊繼洲가 세운 것**이다. 原穴은 難經 六十六難, 絡穴은 靈樞·經脈 十五絡이 각각 따로 준다</span></td></tr>
 <tr><td class="qq">2. 大腸經이 병들면 主와 客은?</td><td class="fact qa">主<span class="reading">(주)</span> = 合谷<span class="reading">(합곡)</span>(大腸<span class="reading">(대장)</span>의 原穴<span class="reading">(원혈)</span>) · 客<span class="reading">(객)</span> = 列缺<span class="reading">(열결)</span>(표리경 肺<span class="reading">(폐)</span>의 絡穴<span class="reading">(낙혈)</span>)<span class="qsrc">『針灸大成』卷五 「十二經治症主客原絡」 — **「主客原絡」이라는 짝짓기와 용어 자체는 楊繼洲가 세운 것**이다. 原穴은 難經 六十六難, 絡穴은 靈樞·經脈 十五絡이 각각 따로 준다</span></td></tr>
 <tr><td class="qq">3. 脾經이 병들면 主와 客은?</td><td class="fact qa">主<span class="reading">(주)</span> = 太白<span class="reading">(태백)</span>(脾<span class="reading">(비)</span>의 原穴<span class="reading">(원혈)</span>) · 客<span class="reading">(객)</span> = 豊隆<span class="reading">(풍륭)</span>(표리경 胃<span class="reading">(위)</span>의 絡穴<span class="reading">(낙혈)</span>)<span class="qsrc">『針灸大成』卷五 「十二經治症主客原絡」 — **「主客原絡」이라는 짝짓기와 용어 자체는 楊繼洲가 세운 것**이다. 原穴은 難經 六十六難, 絡穴은 靈樞·經脈 十五絡이 각각 따로 준다</span></td></tr>
@@ -1589,7 +2305,7 @@ td{overflow-wrap:anywhere}
 <tr><td class="prop">예 — 肺(金) <span class="why">왜?</span></td><td class="fact">正格<span class="reading">(정격)</span> 補<span class="reading">(보)</span> 태백·태연(土<span class="reading">(토)</span>=母<span class="reading">(모)</span>) 瀉<span class="reading">(사)</span> 소부·어제(火<span class="reading">(화)</span>=官<span class="reading">(관)</span>) / 勝格<span class="reading">(승격)</span> 補<span class="reading">(보)</span> 소부·어제(火<span class="reading">(화)</span>) 瀉<span class="reading">(사)</span> 음곡·척택(水<span class="reading">(수)</span>=子<span class="reading">(자)</span>)</td></tr>
 <tr class="reason"><td colspan="2" class="rz">다리 — 도해는 자가테스트·역방향 판독의 대상이 아니다(CANON 74). 범례를 그림 안에 갖고 있다. 　▸ 정산(2026-08-22, 규칙 111) — 무대 자리: 正格·勝格 → s18p09·s18p10. 오답 38회를 무대 둘이 상환했다 — 도해가 옳게 쓰인 본보기</td></tr>
 </tbody></table>
-<div class="quiz"><div class="qhead">도해 문항 1  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<div class="quiz" id="quiz-s18d06"><div class="qhead">도해 문항 1  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
 <tr><td class="qq">1. 正格과 勝格의 뼈대는?</td><td class="fact qa">正格<span class="reading">(정격)</span> = 그 경이 虛<span class="reading">(허)</span>할 때 — 나를 낳는 것(母<span class="reading">(모)</span>)을 補<span class="reading">(보)</span>하고 나를 이기는 것을 瀉<span class="reading">(사)</span>한다. 勝格<span class="reading">(승격)</span> = 그 경이 實<span class="reading">(실)</span>할 때 — 나를 이기는 것을 補<span class="reading">(보)</span>하고 나 자신(또는 내가 낳는 것)을 瀉<span class="reading">(사)</span>한다<span class="qsrc">舍岩道人鍼灸要訣</span></td></tr>
 </tbody></table></div>
 </div>
@@ -1606,7 +2322,7 @@ td{overflow-wrap:anywhere}
 <tr><td class="prop">예 — 肺 <span class="why">왜?</span></td><td class="fact">寒格<span class="reading">(한격)</span> 補<span class="reading">(보)</span> 소부·어제(火<span class="reading">(화)</span>) 瀉<span class="reading">(사)</span> 척택·음곡(水<span class="reading">(수)</span>) / 熱格<span class="reading">(열격)</span> 補<span class="reading">(보)</span> 척택·음곡(水<span class="reading">(수)</span>) 瀉<span class="reading">(사)</span> 태백·태연(土<span class="reading">(토)</span>)</td></tr>
 <tr class="reason"><td colspan="2" class="rz">다리 — 도해는 자가테스트·역방향 판독의 대상이 아니다(CANON 74). 범례를 그림 안에 갖고 있다. 　▸ 정산(2026-08-22, 규칙 111) — 무대 자리: 寒格·熱格 → s18p09·s18p10</td></tr>
 </tbody></table>
-<div class="quiz"><div class="qhead">도해 문항 3  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<div class="quiz" id="quiz-s18d07"><div class="qhead">도해 문항 3  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
 <tr><td class="qq">1. 寒格과 熱格의 뼈대는?</td><td class="fact qa">寒格<span class="reading">(한격)</span> = 寒證<span class="reading">(한증)</span>에 火<span class="reading">(화)</span>를 補<span class="reading">(보)</span>하고 水<span class="reading">(수)</span>를 瀉<span class="reading">(사)</span>한다 / 熱格<span class="reading">(열격)</span> = 熱證<span class="reading">(열증)</span>에 水<span class="reading">(수)</span>를 補<span class="reading">(보)</span>하고 火<span class="reading">(화)</span>를 瀉<span class="reading">(사)</span>한다<span class="qsrc">舍岩道人鍼灸要訣</span></td></tr>
 <tr><td class="qq">2. 熱格의 瀉는 왜 한 가지로 못 짓는가?</td><td class="fact qa">熱格<span class="reading">(열격)</span>은 열두 경 전부 **補水<span class="reading">(보수)</span>**로 같지만 **瀉<span class="reading">(사)</span>는 경마다 갈린다** — 열두 경 중 **아홉 경이 土<span class="reading">(토)</span>를 瀉<span class="reading">(사)</span>하고 세 경(脾<span class="reading">(비)</span>·胃<span class="reading">(위)</span>·心包<span class="reading">(심포)</span>)이 火<span class="reading">(화)</span>를 瀉<span class="reading">(사)</span>한다.** 그래서 「熱格<span class="reading">(열격)</span> = 補水瀉火<span class="reading">(보수사화)</span>」라는 한 줄 암기는 세 경에서 어긋난다. 이에 견주어 **寒格<span class="reading">(한격)</span>은 열두 경 전부 補火<span class="reading">(보화)</span>·瀉水<span class="reading">(사수)</span>로 예외가 없다**<span class="qsrc">舍岩道人鍼灸要訣</span></td></tr>
 <tr><td class="qq">3. 寒格에서 처방이 완전히 같아지는 짝은?</td><td class="fact qa">**心<span class="reading">(심)</span>과 腎<span class="reading">(신)</span> · 小腸<span class="reading">(소장)</span>과 膀胱<span class="reading">(방광)</span>** — 寒格<span class="reading">(한격)</span>에서만 두 짝의 처방이 겹친다. 熱格<span class="reading">(열격)</span>에서는 갈린다<span class="qsrc">舍岩道人鍼灸要訣</span></td></tr>
@@ -1631,7 +2347,7 @@ td{overflow-wrap:anywhere}
 <tr><td class="prop">⚠ 氣會에 「膻中」이라는 글자는 원문에 없다 <span class="why">왜?</span></td><td class="fact">원문은 위치 묘사 「三焦外一筋直兩乳內也<span class="reading">(삼초외일근직양유내야)</span>」뿐이고 膻中<span class="reading">(전중)</span>은 후대 비정이다. 게다가 그 구절 자체가 원래 注<span class="reading">(주)</span>였다가 후대에 본문으로 흡수됐다 — 『八十一難經<span class="reading">(팔십일난경)</span>』에 편집자 주 「前注或作正文<span class="reading">(전주혹작정문)</span>」이 그대로 붙어 있다</td></tr>
 <tr class="reason"><td colspan="2" class="rz">다리 — 도해는 자가테스트·역방향 판독의 대상이 아니다(CANON 74). 범례를 그림 안에 갖고 있다. 　▸ 정산(2026-08-22, 규칙 111) — 무대 자리: 여덟 전부 → s18p11(臟腑氣血 넷)·s18p12(骨脈筋髓 넷). 새는 자리 0 — 정산 만점 판</td></tr>
 </tbody></table>
-<div class="quiz"><div class="qhead">도해 문항 21  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<div class="quiz" id="quiz-s18d08"><div class="qhead">도해 문항 21  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
 <tr><td class="qq">1. 臟會는 어느 혈인가?</td><td class="fact qa">章門<span class="reading">(장문)</span> — 足厥陰肝經<span class="reading">(족궐음간경)</span>에 있다. 겸직 — 脾<span class="reading">(비)</span>의 募穴<span class="reading">(모혈)</span>. 글자 다리: 문(門<span class="reading">(문)</span>)<span class="qsrc">難經 四十五難</span></td></tr>
 <tr><td class="qq">2. 章門는 무엇의 會인가?</td><td class="fact qa">臟會<span class="reading">(장회)</span><span class="qsrc">難經 四十五難</span></td></tr>
 <tr><td class="qq">3. 腑會는 어느 혈인가?</td><td class="fact qa">中脘<span class="reading">(중완)</span> — 任脈<span class="reading">(임맥)</span>에 있다. 겸직 — 胃<span class="reading">(위)</span>의 募穴<span class="reading">(모혈)</span>. 글자 다리: 밥통 한가운데(脘<span class="reading">(완)</span>)<span class="qsrc">難經 四十五難</span></td></tr>
@@ -1674,7 +2390,7 @@ td{overflow-wrap:anywhere}
 <tr><td class="prop">⚠ 大腸 是動 頸腫 — 판본이 갈린다 <span class="why">왜?</span></td><td class="fact">『靈樞<span class="reading">(영추)</span>』 통행본 頸腫<span class="reading">(경종)</span> ↔ 『甲乙經<span class="reading">(갑을경)</span>』 頰腫<span class="reading">(협종)</span> ↔ 『太素<span class="reading">(태소)</span>』 仁和寺<span class="reading">(인화사)</span> 사본은 결자(□腫<span class="reading">(종)</span>)</td></tr>
 <tr class="reason"><td colspan="2" class="rz">다리 — 도해는 자가테스트·역방향 판독의 대상이 아니다(CANON 74). 범례를 그림 안에 갖고 있다. 　▸ 정산(2026-08-22, 규칙 111) — 무대 자리 없음 — **문항 61개**가 진다(오답 20회 상환: 是動7·유주6·連屬4·所生3). ⚠ 유주 **무대**는 2026-08-18 사용자 판단으로 폐기했다 — 문항만 남긴다. 是動↔所生을 가르는 것은 難經 二十二難 「是動者氣也 所生病者血也 … 故先爲是動 後所生病也」이고, 이 氣血 해석은 **難經의 풀이**이지 靈樞·經脈 원문에는 없다</td></tr>
 </tbody></table>
-<div class="quiz"><div class="qhead">도해 문항 73  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<div class="quiz" id="quiz-s18d09"><div class="qhead">도해 문항 73  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
 <tr><td class="qq">1. 手太陰肺經의 是主는 무엇인가?</td><td class="fact qa">是主<span class="reading">(시주)</span> 肺所生病者<span class="reading">(폐소생병자)</span><span class="qsrc">靈樞·經脈</span></td></tr>
 <tr><td class="qq">2. 手陽明大腸經의 是主는 무엇인가?</td><td class="fact qa">是主<span class="reading">(시주)</span> 津液所生病者<span class="reading">(진액소생병자)</span><span class="qsrc">靈樞·經脈</span></td></tr>
 <tr><td class="qq">3. 足陽明胃經의 是主는 무엇인가?</td><td class="fact qa">是主<span class="reading">(시주)</span> 血所生病者<span class="reading">(혈소생병자)</span><span class="qsrc">靈樞·經脈</span></td></tr>
@@ -1842,7 +2558,7 @@ td{overflow-wrap:anywhere}
 <tr><td class="prop">⚠ 藏 열의 출전만 다르다 — 素問·宣明五氣 <span class="why">왜?</span></td><td class="fact">六節藏象論<span class="reading">(육절장상론)</span> 자신의 소장은 神<span class="reading">(신)</span>·魄<span class="reading">(백)</span>·**精<span class="reading">(정)</span>**·魂<span class="reading">(혼)</span>·**營<span class="reading">(영)</span>**이다. 腎<span class="reading">(신)</span>이 志<span class="reading">(지)</span>가 아니라 精<span class="reading">(정)</span>, 脾<span class="reading">(비)</span>가 意<span class="reading">(의)</span>가 아니라 營<span class="reading">(영)</span>이다. 六節藏象論<span class="reading">(육절장상론)</span>에는 意<span class="reading">(의)</span>도 志<span class="reading">(지)</span>도 아예 나오지 않는다 — 두 편을 섞지 않는다</td></tr>
 <tr class="reason"><td colspan="2" class="rz">다리 — 도해는 자가테스트·역방향 판독의 대상이 아니다(CANON 74). 범례를 그림 안에 갖고 있다. 　▸ 정산(2026-08-22, 규칙 111) — 무대 자리: 其華在·其充在·開竅 → s20p01~s20p05 다섯 무대가 상환했다. ⚠ 〜之本·藏 두 열만 자리 없음 — 오답 기록 0회다. 규칙 109에 따라 카드(트랙 C)로 보낸다</td></tr>
 </tbody></table>
-<div class="quiz"><div class="qhead">도해 문항 2  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<div class="quiz" id="quiz-s20d01"><div class="qhead">도해 문항 2  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
 <tr><td class="qq">1. 六節藏象論이 오장을 무엇의 本이라 하는가?</td><td class="fact qa">肝<span class="reading">(간)</span> 罷極之本<span class="reading">(피극지본)</span> · 心<span class="reading">(심)</span> 生之本<span class="reading">(생지본)</span> · 脾<span class="reading">(비)</span> 倉廩之本<span class="reading">(창름지본)</span> · 肺<span class="reading">(폐)</span> 氣之本<span class="reading">(기지본)</span> · 腎<span class="reading">(신)</span> 封藏之本<span class="reading">(봉장지본)</span>  ⚠ 脾<span class="reading">(비)</span> 한 줄만 주어가 다르다 — 원문은 「脾胃大腸小腸三焦膀胱者<span class="reading">(비위대장소장삼초방광자)</span> 倉廩之本<span class="reading">(창름지본)</span>」으로 여섯을 함께 든다<span class="qsrc">素問·六節藏象論</span></td></tr>
 <tr><td class="qq">2. 六節藏象論 자신의 「藏(소장)」 다섯은 宣明五氣와 어떻게 다른가?</td><td class="fact qa">六節藏象論<span class="reading">(육절장상론)</span> 神<span class="reading">(신)</span>·魄<span class="reading">(백)</span>·**精<span class="reading">(정)</span>**·魂<span class="reading">(혼)</span>·**營<span class="reading">(영)</span>** / 宣明五氣<span class="reading">(선명오기)</span> 神<span class="reading">(신)</span>·魄<span class="reading">(백)</span>·**志<span class="reading">(지)</span>**·魂<span class="reading">(혼)</span>·**意<span class="reading">(의)</span>**. 六節藏象論<span class="reading">(육절장상론)</span>에는 意<span class="reading">(의)</span>도 志<span class="reading">(지)</span>도 나오지 않는다 — 두 편을 섞지 않는다<span class="qsrc">素問·六節藏象論 + 素問·宣明五氣</span></td></tr>
 </tbody></table></div>
@@ -1862,7 +2578,7 @@ td{overflow-wrap:anywhere}
 <tr><td class="prop">⚠ 開竅도 갈린다 — 갈리는 자리는 心과 腎 **둘**이다 <span class="why">왜?</span></td><td class="fact">陰陽應象大論<span class="reading">(음양응상대론)</span> 「在竅爲<span class="reading">(재규위)</span>」와 金匱眞言論<span class="reading">(금궤진언론)</span> 「開竅於<span class="reading">(개규어)</span>」가 **각각 다섯을 전부 든다**. 心<span class="reading">(심)</span> 舌<span class="reading">(설)</span>↔耳<span class="reading">(이)</span> · 腎<span class="reading">(신)</span> 耳<span class="reading">(이)</span>↔二陰<span class="reading">(이음)</span>. 「心寄竅於耳<span class="reading">(심기규어이)</span>」의 출전은 新校正<span class="reading">(신교정)</span>이다 — 陰陽應象大論<span class="reading">(음양응상대론)</span> 「在竅爲耳<span class="reading">(재규위이)</span>」 아래 붙은 주</td></tr>
 <tr class="reason"><td colspan="2" class="rz">다리 — 도해는 자가테스트·역방향 판독의 대상이 아니다(CANON 74). 범례를 그림 안에 갖고 있다. 　▸ 정산(2026-08-22, 규칙 111) — 무대 자리: 판본이 갈리는 축이라 무대가 못 진다(규칙 78) — 도해가 옳다. 갈리지 않는 心(陽中之太陽)·脾(至陰之類)는 s20p02·s20p03이 진다</td></tr>
 </tbody></table>
-<div class="quiz"><div class="qhead">도해 문항 8  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<div class="quiz" id="quiz-s20d02"><div class="qhead">도해 문항 8  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
 <tr><td class="qq">1. 「心의 開竅」 — 판본이 어떻게 갈리는가?</td><td class="fact qa">陰陽應象大論<span class="reading">(음양응상대론)</span> 舌<span class="reading">(설)</span> ↔ 金匱眞言論<span class="reading">(금궤진언론)</span> 耳<span class="reading">(이)</span>.  陰陽應象大論<span class="reading">(음양응상대론)</span> 「南方生熱<span class="reading">(남방생열)</span> … 在竅爲舌<span class="reading">(재규위설)</span>」·「心主舌<span class="reading">(심주설)</span>」 / 金匱眞言論<span class="reading">(금궤진언론)</span> 「南方赤色<span class="reading">(남방적색)</span> 入通於心<span class="reading">(입통어심)</span> 開竅於耳<span class="reading">(개규어이)</span>」. 현행 교과서·국시는 **舌<span class="reading">(설)</span>**을 쓰고, 耳<span class="reading">(이)</span>는 「心寄竅於耳<span class="reading">(심기규어이)</span>」로 부기한다<span class="qsrc">素問·陰陽應象大論 ↔ 素問·金匱眞言論</span></td></tr>
 <tr><td class="qq">2. 「肝의 陰陽 배속」 — 판본이 어떻게 갈리는가?</td><td class="fact qa">王冰本<span class="reading">(왕빙본)</span> 六節藏象論<span class="reading">(육절장상론)</span> 陽中之少陽<span class="reading">(양중지소양)</span> ↔ 陰中之少陽<span class="reading">(음중지소양)</span>.  ★ 六節藏象論<span class="reading">(육절장상론)</span> 王冰本<span class="reading">(왕빙본)</span>만 「此爲陽中之少陽<span class="reading">(차위양중지소양)</span>」이고, **같은 책에 인쇄된 新校正<span class="reading">(신교정)</span>이 오자로 판정한다** — 「按全元起本并甲乙經<span class="reading">(안전원기본병갑을경)</span>·太素作陰中之少陽<span class="reading">(태소작음중지소양)</span> 當作陰中之少陽<span class="reading">(당작음중지소양)</span>」. 靈樞<span class="reading">(영추)</span> 九針十二原<span class="reading">(구침십이원)</span>도 「陰中之少陽<span class="reading">(음중지소양)</span> 肝也<span class="reading">(간야)</span>」<span class="qsrc">素問·六節藏象論 + 新校正</span></td></tr>
 <tr><td class="qq">3. 「肺의 陰陽 배속」 — 판본이 어떻게 갈리는가?</td><td class="fact qa">王冰本<span class="reading">(왕빙본)</span> 六節藏象論<span class="reading">(육절장상론)</span> 陽中之太陰<span class="reading">(양중지태음)</span> ↔ 陽中之少陰<span class="reading">(양중지소음)</span>.  ★ 新校正<span class="reading">(신교정)</span> 「按太陰<span class="reading">(안태음)</span> 甲乙經并太素作少陰<span class="reading">(갑을경병태소작소음)</span> 當作少陰<span class="reading">(당작소음)</span> — 肺在十二經雖爲太陰<span class="reading">(폐재십이경수위태음)</span> 然在陽分之中當爲少陰也<span class="reading">(연재양분지중당위소음야)</span>」. 靈樞<span class="reading">(영추)</span> 九針十二原<span class="reading">(구침십이원)</span> 「陽中之少陰<span class="reading">(양중지소음)</span> 肺也<span class="reading">(폐야)</span>」<span class="qsrc">素問·六節藏象論 + 新校正</span></td></tr>
@@ -1892,7 +2608,7 @@ td{overflow-wrap:anywhere}
 <tr><td class="prop">⚠ 心腎不交는 이 판에 짝으로 못 실었다 <span class="why">왜?</span></td><td class="fact">心腎相交<span class="reading">(심신상교)</span>는 病證<span class="reading">(병증)</span>이 아니라 **생리 상태**라 증상 목록이 없다 — 뒤집을 반대쪽이 없다. 主症<span class="reading">(주증)</span>은 心煩<span class="reading">(심번)</span>·不得臥<span class="reading">(불득와)</span>이고 원형은 『傷寒論<span class="reading">(상한론)</span>』少陰病篇<span class="reading">(소음병편)</span> 「少陰病<span class="reading">(소음병)</span> 得之二三日以上<span class="reading">(득지이삼일이상)</span> 心中煩<span class="reading">(심중번)</span> 不得臥<span class="reading">(불득와)</span> 黃連阿膠湯主之<span class="reading">(황련아교탕주지)</span>」. ⚠ **「心火下降<span class="reading">(심화하강)</span>·腎水上濟<span class="reading">(신수상제)</span>」는 원문이 아니라 현대 요약어**다 — 원문은 『慎齋遺書<span class="reading">(신재유서)</span>』卷一<span class="reading">(권일)</span> 「心腎相交<span class="reading">(심신상교)</span> 全憑升降<span class="reading">(전빙승강)</span>…」. ⚠ **水火旣濟<span class="reading">(수화기제)</span>·未濟<span class="reading">(미제)</span>는 醫書<span class="reading">(의서)</span>가 아니라 『周易<span class="reading">(주역)</span>』 63·64괘 이름**이다</td></tr>
 <tr class="reason"><td colspan="2" class="rz">다리 — 도해는 자가테스트·역방향 판독의 대상이 아니다(CANON 74). 범례를 그림 안에 갖고 있다. 　▸ 정산(2026-08-22, 규칙 111) — 무대 자리: 腎陽虛·腎陰虛 → s16p04·s16p09 · 心腎不交 → s12p02(→s12u01)·s13p05(→s13u02)·s16p10 · 肝陽上亢 → s16p09. ⚠ 心火亢盛(오답 6회)·肝火上炎은 자리 없음 — s20p08 진행 중</td></tr>
 </tbody></table>
-<div class="quiz"><div class="qhead">도해 문항 9  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<div class="quiz" id="quiz-s20d03"><div class="qhead">도해 문항 9  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
 <tr><td class="qq">1. 黃色主病 셋(萎黃·陽黃·陰黃)은 무엇으로 갈리는가?</td><td class="fact qa">**눈 흰자와 명도 둘이다.** 萎黃<span class="reading">(위황)</span> = 흰자 **순백**(황달이 아니다) · 마른 종이빛 옅은 노랑 → 脾虛<span class="reading">(비허)</span>(기혈 부족) / 陰黃<span class="reading">(음황)</span> = 흰자 **탁한 옅은 노랑** · 그을음 낀 진흙빛(晦暗如烟熏<span class="reading">(회암여연훈)</span>) → 寒濕<span class="reading">(한습)</span> / 陽黃<span class="reading">(양황)</span> = 흰자 **전체가 선명한 주황**(目黃<span class="reading">(목황)</span>) · 귤껍질빛(鮮明如橘子色<span class="reading">(선명여귤자색)</span>) → 濕熱<span class="reading">(습열)</span>. **황달은 피부보다 공막에 먼저·확실히 나타난다** — 그래서 흰자가 첫 갈림이다<span class="qsrc">한의진단학 望色 · 『景岳全書』 「陽黃鮮明如橘子色, 陰黃晦暗如烟熏」</span></td></tr>
 <tr><td class="qq">2. 陰黃과 黑色主病은 무엇으로 갈리는가?</td><td class="fact qa">둘 다 얼굴이 어둡고 칙칙하다. 갈림은 **눈 흰자** 하나다 — 陰黃<span class="reading">(음황)</span>은 흰자에 **탁한 노랑이 배어** 있고(황달), 黑色主病<span class="reading">(흑색주병)</span>은 흰자가 **희다**(腎虛<span class="reading">(신허)</span>·寒證<span class="reading">(한증)</span>·水飮<span class="reading">(수음)</span>·瘀血<span class="reading">(어혈)</span>의 어두운 낯빛일 뿐 황달이 아니다)<span class="qsrc">한의진단학 望色</span></td></tr>
 <tr><td class="qq">3. 萎黃(脾虛)에 함께 오는 몸 증상은?</td><td class="fact qa">**食少<span class="reading">(식소)</span> · 倦怠乏力<span class="reading">(권태핍력)</span> · 腹脹便溏<span class="reading">(복창변당)</span> · 少氣懶言<span class="reading">(소기나언)</span>.** 얼굴이 마른 종이빛으로 누렇게 뜨는 것은 脾<span class="reading">(비)</span>가 運化<span class="reading">(운화)</span>를 못해 **기혈이 만들어지지 않아서**다 — 黃疸<span class="reading">(황달)</span>의 노랑(濕熱<span class="reading">(습열)</span>·寒濕<span class="reading">(한습)</span>이 밖으로 배는 것)과 기전이 아예 다르다. ⚠ 그림(s12p03)은 **명도·건조도와 흰자만** 지고 食少<span class="reading">(식소)</span>는 이 문항이 진다<span class="qsrc">한의진단학 望色 · 『素問·玉機眞藏論』</span></td></tr>
@@ -2000,7 +2716,7 @@ td{overflow-wrap:anywhere}
 <tr><td class="prop">⚠ 「運氣同化」라는 범주어는 內經에 없다 <span class="why">왜?</span></td><td class="fact">원문에 있는 것은 「同<span class="reading">(동)</span>**天<span class="reading">(천)</span>**化<span class="reading">(화)</span>」와 「同<span class="reading">(동)</span>**地<span class="reading">(지)</span>**化<span class="reading">(화)</span>」다 — 「五運行同天化者<span class="reading">(오운행동천화자)</span> 命曰天符<span class="reading">(명왈천부)</span>…願聞同地化者<span class="reading">(원문동지화자)</span>」. 다섯을 묶는 「同化<span class="reading">(동화)</span>(運氣同化<span class="reading">(운기동화)</span>)」는 현대 교재의 술어이고, 최초 출전은 이번 조사에서 확인하지 못했다</td></tr>
 <tr class="reason"><td colspan="2" class="rz">다리 — 도해는 자가테스트·역방향 판독의 대상이 아니다(CANON 74). 범례를 그림 안에 갖고 있다. 　▸ 정산(2026-08-22, 규칙 111) — 무대 자리 없음 — 六十甲子 예순 자리는 무대가 못 진다. **문항 32개**가 진다(오답 8회 상환)</td></tr>
 </tbody></table>
-<div class="quiz"><div class="qhead">도해 문항 32  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
+<div class="quiz" id="quiz-s21d01"><div class="qhead">도해 문항 32  <span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>
 <tr><td class="qq">1. 丁卯년은 무엇에 드는가?</td><td class="fact qa">歲會<span class="reading">(세회)</span>   (中運<span class="reading">(중운)</span> 木<span class="reading">(목)</span> · 司天<span class="reading">(사천)</span> 金<span class="reading">(금)</span> · 在泉<span class="reading">(재천)</span> 火<span class="reading">(화)</span> · 年支<span class="reading">(연지)</span> 木<span class="reading">(목)</span> · 不及<span class="reading">(불급)</span>)<span class="qsrc">素問·六微旨大論</span></td></tr>
 <tr><td class="qq">2. 庚午년은 무엇에 드는가?</td><td class="fact qa">同天符<span class="reading">(동천부)</span>   (中運<span class="reading">(중운)</span> 金<span class="reading">(금)</span> · 司天<span class="reading">(사천)</span> 火<span class="reading">(화)</span> · 在泉<span class="reading">(재천)</span> 金<span class="reading">(금)</span> · 年支<span class="reading">(연지)</span> 火<span class="reading">(화)</span> · 太過<span class="reading">(태과)</span>)<span class="qsrc">素問·六元正紀大論</span></td></tr>
 <tr><td class="qq">3. 辛未년은 무엇에 드는가?</td><td class="fact qa">同歲會<span class="reading">(동세회)</span>   (中運<span class="reading">(중운)</span> 水<span class="reading">(수)</span> · 司天<span class="reading">(사천)</span> 土<span class="reading">(토)</span> · 在泉<span class="reading">(재천)</span> 水<span class="reading">(수)</span> · 年支<span class="reading">(연지)</span> 土<span class="reading">(토)</span> · 不及<span class="reading">(불급)</span>)<span class="qsrc">素問·六元正紀大論</span></td></tr>
@@ -2036,7 +2752,7 @@ td{overflow-wrap:anywhere}
 </tbody></table></div>
 </div>
 </main>
-<footer>자가테스트: 사실 칸 blur, 탭하여 확인 · <b>왜?</b>: 행별 다리 펼침 · 다리 전체: 일괄 펼침 · 함정만: ⚠ 행만 · <b>도해 문항</b>: 도해 판의 문항 일괄 펼침(자가테스트와 함께 켜면 답이 가려진다) · 딥링크: #id<br>수록 58패널 — 서사 12 · 무대 20 · 카드 3 · 도해 23 · 장면 17 · 함정 162행 · <b>도해 문항 335개 / 23판</b><br>도해의 rows는 답이 그림에 인쇄돼 있어 자가테스트에서 빠진다(CANON 74). 그 자리를 데이터에서 뽑은 문항이 대신 진다(규칙 108 · diagrams/quiz.py)</footer>
+<footer>자가테스트: 사실 칸 blur, 탭하여 확인 · <b>왜?</b>: 행별 다리 펼침 · 다리 전체: 일괄 펼침 · 함정만: ⚠ 행만 · <b>도해 문항</b>: 도해 판의 문항 일괄 펼침(자가테스트와 함께 켜면 답이 가려진다) · 딥링크: #id<br>수록 79패널 — 서사 12 · 무대 20 · 카드 3 · 도해 44 · 장면 17 · 함정 195행 · <b>도해 문항 467개 / 44판</b><br>도해의 rows는 답이 그림에 인쇄돼 있어 자가테스트에서 빠진다(CANON 74). 그 자리를 데이터에서 뽑은 문항이 대신 진다(규칙 108 · diagrams/quiz.py)</footer>
 <script>
 document.getElementById('bTest').onclick=()=>document.body.classList.toggle('test');
 document.getElementById('bTrap').onclick=()=>document.body.classList.toggle('traps');
@@ -2051,11 +2767,20 @@ function setReadings(show){
 try{setReadings(localStorage.getItem('sketchy.readings.v1')!=='off');}catch(_){setReadings(true);}
 readingButton.onclick=()=>{const show=document.body.classList.contains('hide-readings');setReadings(show);try{localStorage.setItem('sketchy.readings.v1',show?'on':'off');}catch(_){}};
 document.addEventListener('click',e=>{
+ const figure=e.target.closest('.figure-toggle'),practiceLink=e.target.closest('.practice-link');
+ if(figure||practiceLink){
+  const panel=(figure||practiceLink).closest('.panel'),button=panel.querySelector('.figure-toggle');
+  const hidden=practiceLink?true:!panel.classList.contains('practice');
+  panel.classList.toggle('practice',hidden);button.setAttribute('aria-expanded',String(!hidden));
+  button.textContent=hidden?'도해 다시 보기':'도해 가리고 회상';
+  if(hidden)panel.querySelectorAll('td.qa.open').forEach(td=>td.classList.remove('open'));
+  return;
+ }
  const q=e.target.closest('.qtoggle');
  if(q){q.closest('.quiz').classList.toggle('open');return;}
  const w=e.target.closest('.why');
  if(w){const tr=w.closest('tr');const nx=tr.nextElementSibling;if(nx&&nx.classList.contains('reason'))nx.classList.toggle('open');return;}
  const td=e.target.closest('td.fact');
- if(td&&document.body.classList.contains('test'))td.classList.toggle('open');
+ if(td&&(document.body.classList.contains('test')||td.closest('.panel.practice')))td.classList.toggle('open');
 });
 </script></body></html>

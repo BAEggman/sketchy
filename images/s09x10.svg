@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="850" viewBox="0 0 1280 850" role="img" aria-labelledby="title desc"><title id="title">오사 — 병을 받는 나를 가운데에 놓는다</title><desc id="desc">어미 → 나·허사 / 자식 → 나·실사 / 나를 극함 → 나·적사 / 내가 극함 → 나·미사 / 나 자신·정사</desc><defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="context-stroke"/></marker></defs><style>text{font-family:"Apple SD Gothic Neo","Noto Sans CJK KR",sans-serif;fill:#253b39}.small{fill:#65766d}.han{font-family:"Apple SD Gothic Neo","Noto Serif CJK KR",serif}</style><rect width="1280" height="850" fill="#faf7ef"/>
+<text x="44" y="44" font-size="18" text-anchor="start" font-weight="400" style="fill:#64776d">음양오행  /  연결 도해</text>
+<text x="44" y="91" font-size="34" text-anchor="start" font-weight="700">오사</text>
+<line x1="44" y1="116" x2="1236" y2="116" stroke="#d8dfd7" stroke-width="2"/>
+<circle cx="640" cy="440" r="72" fill="#fffdf8" stroke="#bc5546" stroke-width="3" />
+<text x="640" y="449" font-size="28" text-anchor="middle" font-weight="700" style="fill:#bc5546">나·심화</text>
+<line x1="640.0" y1="292.0" x2="640.0" y2="354.0" stroke="#387758" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="485" y="165" width="310" height="112" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="640" y="210" font-size="30" text-anchor="middle" font-weight="700" style="fill:#387758">허사</text>
+<text x="640" y="250" font-size="23" text-anchor="middle" font-weight="400">어미·간목</text>
+<line x1="640.0" y1="603.0" x2="640.0" y2="526.0" stroke="#b18a36" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="485" y="620" width="310" height="112" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="640" y="665" font-size="30" text-anchor="middle" font-weight="700" style="fill:#b18a36">실사</text>
+<text x="640" y="705" font-size="23" text-anchor="middle" font-weight="400">자식·비토</text>
+<line x1="332.0" y1="440.0" x2="554.0" y2="440.0" stroke="#344f72" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="105" y="385" width="310" height="112" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="260" y="430" font-size="30" text-anchor="middle" font-weight="700" style="fill:#344f72">적사</text>
+<text x="260" y="470" font-size="23" text-anchor="middle" font-weight="400">나를 극함·신수</text>
+<line x1="948.0" y1="440.0" x2="726.0" y2="440.0" stroke="#707f88" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="865" y="385" width="310" height="112" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="1020" y="430" font-size="30" text-anchor="middle" font-weight="700" style="fill:#707f88">미사</text>
+<text x="1020" y="470" font-size="23" text-anchor="middle" font-weight="400">내가 극함·폐금</text>
+<text x="640" y="478" font-size="18" text-anchor="middle" font-weight="400">정사 = 자기</text>
+<text x="60" y="760" font-size="26" text-anchor="start" font-weight="700">들어오는 출발점을 묻는다. 병을 받는 장부를 항상 가운데에 고정한다.</text>
+<text x="44" y="820" font-size="20" text-anchor="start" font-weight="400" style="fill:#6d7b73">연결을 읽은 뒤 아래 문항에서 답을 가리고 복원하세요.</text>
+</svg>

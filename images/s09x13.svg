@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="850" viewBox="0 0 1280 850" role="img" aria-labelledby="title desc"><title id="title">색·맥·계절 — 무엇과 무엇을 비교하는가</title><desc id="desc">장색 ↔ 시색 / 청색 ↔ 현맥 / 청색 ↔ 침맥 / 청색 ↔ 부맥 / 청적 ↔ 청황</desc><defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="context-stroke"/></marker></defs><style>text{font-family:"Apple SD Gothic Neo","Noto Sans CJK KR",sans-serif;fill:#253b39}.small{fill:#65766d}.han{font-family:"Apple SD Gothic Neo","Noto Serif CJK KR",serif}</style><rect width="1280" height="850" fill="#faf7ef"/>
+<text x="44" y="44" font-size="18" text-anchor="start" font-weight="400" style="fill:#64776d">음양오행  /  연결 도해</text>
+<text x="44" y="91" font-size="34" text-anchor="start" font-weight="700">색·맥·계절</text>
+<line x1="44" y1="116" x2="1236" y2="116" stroke="#d8dfd7" stroke-width="2"/>
+<rect x="55.0" y="165" width="382.6666666666667" height="270" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="80.0" y="210" font-size="25" text-anchor="start" font-weight="400">장색 ↔ 시색</text>
+<text x="80.0" y="325" font-size="23" text-anchor="start" font-weight="400">주색: 장부의 본색</text>
+<text x="80.0" y="370" font-size="23" text-anchor="start" font-weight="400">객색: 계절의 시색</text>
+<rect x="453.6666666666667" y="165" width="382.6666666666667" height="270" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="478.6666666666667" y="210" font-size="25" text-anchor="start" font-weight="400">청색 ↔ 현맥</text>
+<text x="478.6666666666667" y="325" font-size="23" text-anchor="start" font-weight="400">목의 청색 ↔ 목의 현맥</text>
+<text x="478.6666666666667" y="370" font-size="23" text-anchor="start" font-weight="400">색맥상득</text>
+<rect x="852.3333333333334" y="165" width="382.6666666666667" height="270" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="877.3333333333334" y="210" font-size="25" text-anchor="start" font-weight="400">청색 ↔ 침맥</text>
+<text x="877.3333333333334" y="325" font-size="23" text-anchor="start" font-weight="400">수의 침맥 → 목의 청색</text>
+<text x="877.3333333333334" y="370" font-size="23" text-anchor="start" font-weight="400">수생목</text>
+<rect x="55.0" y="467" width="382.6666666666667" height="270" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="80.0" y="512" font-size="25" text-anchor="start" font-weight="400">청색 ↔ 부맥</text>
+<text x="80.0" y="627" font-size="23" text-anchor="start" font-weight="400">금의 부맥 → 목의 청색</text>
+<text x="80.0" y="672" font-size="23" text-anchor="start" font-weight="400">금극목</text>
+<rect x="453.6666666666667" y="467" width="382.6666666666667" height="270" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="478.6666666666667" y="512" font-size="25" text-anchor="start" font-weight="400">청적 ↔ 청황</text>
+<text x="478.6666666666667" y="627" font-size="23" text-anchor="start" font-weight="400">청·적: 목생화</text>
+<text x="478.6666666666667" y="672" font-size="23" text-anchor="start" font-weight="400">청·황: 목극토</text>
+<text x="44" y="820" font-size="20" text-anchor="start" font-weight="400" style="fill:#6d7b73">연결을 읽은 뒤 아래 문항에서 답을 가리고 복원하세요.</text>
+</svg>

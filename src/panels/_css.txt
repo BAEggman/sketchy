@@ -54,4 +54,20 @@ body.hide-readings .reading{display:none}
 .memory-note + .memory-note{margin-top:4px}
 .memory-note strong{font-size:11px;color:#3f644b;margin-right:4px}
 td{overflow-wrap:anywhere}
+.extension-tools{display:flex;align-items:center;flex-wrap:wrap;gap:14px;margin:12px 0;font-size:13px}
+.extension-tools a{color:var(--acc);text-underline-offset:3px}
+.figure-toggle{font:inherit;color:var(--acc);border:1px solid #7d9d7c;border-radius:15px;background:#f0f6eb;padding:5px 12px;cursor:pointer}
+.extension-figure{overflow-x:auto;border-radius:8px}
+.extension-figure img{min-width:740px;display:block}
+.figure-hint{display:none;font-size:12px;color:#657261;margin:5px 0 12px}
+.study-note{font-size:13px;color:#5c6a5f;line-height:1.7;background:#f0f4ec;padding:10px 14px;border-radius:8px}
+.source-details{margin:12px 0 0;border-top:1px solid #dfdfd0;padding-top:10px;font-size:12px;color:#657261}
+.source-details summary{cursor:pointer}.source-details a{color:var(--acc)}
+.panel.practice .extension-figure,.panel.practice>table{display:none}
+.panel.practice .qtab{display:table}
+.panel.practice .qtoggle,.panel.practice .figure-hint,.panel.practice .study-note{display:none}
+.panel.practice td.qa:not(.open){filter:blur(7px);cursor:pointer;user-select:none}
+.panel.practice td.qa.open{filter:none;cursor:pointer}
+.quiz{scroll-margin-top:210px}
 @media(max-width:600px){header .btn{padding:4px 9px;margin-bottom:5px;font-size:12px}.panel,h2{scroll-margin-top:210px}}
+@media(max-width:800px){.figure-hint{display:block}}

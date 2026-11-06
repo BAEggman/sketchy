@@ -15,13 +15,15 @@ from reading import CJK, READINGS, fact_html
 BASE = '893de62e9600985db33d0b35633e9a62258443c5'
 lib = json.loads((ROOT / 'src/panels/library.json').read_text())
 old = json.loads(subprocess.check_output(['git', 'show', BASE + ':src/panels/library.json'], cwd=ROOT))
-assert [p['id'] for p in lib['panels']] == [p['id'] for p in old['panels']]
-assert len(lib['panels']) == 58
-assert sum(len(p['rows']) for p in lib['panels']) == 613
-assert sum(len(p.get('quiz', [])) for p in lib['panels']) == 335
+original_ids = {p['id'] for p in old['panels']}
+original_panels = [p for p in lib['panels'] if p['id'] in original_ids]
+assert [p['id'] for p in original_panels] == [p['id'] for p in old['panels']]
+assert len(original_panels) == 58
+assert sum(len(p['rows']) for p in original_panels) == 613
+assert sum(len(p.get('quiz', [])) for p in original_panels) == 335
 changed_facts = []
 terms = set()
-for p, before in zip(lib['panels'], old['panels']):
+for p, before in zip(original_panels, old['panels']):
     assert p.get('quiz', []) == before.get('quiz', [])
     assert len(p['rows']) == len(before['rows'])
     for i, (row, previous) in enumerate(zip(p['rows'], before['rows'])):
@@ -48,7 +50,7 @@ assert fact_html('<>&\n') == '&lt;&gt;&amp;<br>'
 
 index = (ROOT / 'index.html').read_text()
 recall = (ROOT / 'recall.html').read_text()
-assert len(re.findall(r'<td class="fact(?: qa)?">', index)) == 948
+assert len(re.findall(r'<td class="fact(?: qa)?">', index)) == sum(len(p['rows']) + len(p.get('quiz', [])) for p in lib['panels'])
 assert len(re.findall(r'id="bReading"', index)) == 1
 assert len(re.findall(r'id="bReading"', recall)) == 1
 assert '<title>한의학 Sketchy 허브 v' + lib['release']['version'] + '</title>' in index

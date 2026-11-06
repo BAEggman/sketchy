@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="850" viewBox="0 0 1280 850" role="img" aria-labelledby="title desc"><title id="title">음양의 속성 — 한 전체, 상대, 같은 뿌리</title><desc id="desc">전일·두 부분의 전체 / 대대·상대에 따라 대비 / 통일·같은 뿌리 / 분화·안에서 다시 둘 / 소장·시간에 따른 양의 변화</desc><defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="context-stroke"/></marker></defs><style>text{font-family:"Apple SD Gothic Neo","Noto Sans CJK KR",sans-serif;fill:#253b39}.small{fill:#65766d}.han{font-family:"Apple SD Gothic Neo","Noto Serif CJK KR",serif}</style><rect width="1280" height="850" fill="#faf7ef"/>
+<text x="44" y="44" font-size="18" text-anchor="start" font-weight="400" style="fill:#64776d">음양오행  /  연결 도해</text>
+<text x="44" y="91" font-size="34" text-anchor="start" font-weight="700">음양의 속성</text>
+<line x1="44" y1="116" x2="1236" y2="116" stroke="#d8dfd7" stroke-width="2"/>
+<rect x="55.0" y="165" width="382.6666666666667" height="270" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="80.0" y="210" font-size="25" text-anchor="start" font-weight="400">전일·두 부분의 전체</text>
+<circle cx="205.8" cy="320" r="48" fill="#dae7d7" stroke="#4d6558" stroke-width="2" />
+<circle cx="290.8666666666667" cy="320" r="48" fill="#728d7c" stroke="#4d6558" stroke-width="2" />
+<line x1="171.0" y1="385" x2="325.6666666666667" y2="385" stroke="#426f60" stroke-width="7"/>
+<rect x="453.6666666666667" y="165" width="382.6666666666667" height="270" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="478.6666666666667" y="210" font-size="25" text-anchor="start" font-weight="400">대대·상대에 따라 대비</text>
+<line x1="518.6666666666667" y1="335" x2="775.3333333333334" y2="335" stroke="#426f60" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="775.3333333333334" y1="370" x2="518.6666666666667" y2="370" stroke="#426f60" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="852.3333333333334" y="165" width="382.6666666666667" height="270" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="877.3333333333334" y="210" font-size="25" text-anchor="start" font-weight="400">통일·같은 뿌리</text>
+<circle cx="1003.1333333333334" cy="320" r="48" fill="#dae7d7" stroke="#4d6558" stroke-width="2" />
+<circle cx="1088.2" cy="320" r="48" fill="#728d7c" stroke="#4d6558" stroke-width="2" />
+<line x1="968.3333333333334" y1="385" x2="1123.0" y2="385" stroke="#426f60" stroke-width="7"/>
+<rect x="55.0" y="467" width="382.6666666666667" height="270" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="80.0" y="512" font-size="25" text-anchor="start" font-weight="400">분화·안에서 다시 둘</text>
+<rect x="125.0" y="577" width="100" height="110" rx="18" fill="#dce7da" stroke="#d8dfd7" stroke-width="2"/>
+<line x1="175.0" y1="582" x2="175.0" y2="682" stroke="#426f60" stroke-width="4"/>
+<rect x="255.0" y="577" width="100" height="110" rx="18" fill="#dce7da" stroke="#d8dfd7" stroke-width="2"/>
+<line x1="305.0" y1="582" x2="305.0" y2="682" stroke="#426f60" stroke-width="4"/>
+<rect x="453.6666666666667" y="467" width="382.6666666666667" height="270" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="478.6666666666667" y="512" font-size="25" text-anchor="start" font-weight="400">소장·시간에 따른 양의 변화</text>
+<rect x="518.6666666666667" y="627" width="35" height="65" rx="18" fill="#6c8b78" stroke="#d8dfd7" stroke-width="2"/>
+<rect x="583.6666666666667" y="587" width="35" height="105" rx="18" fill="#6c8b78" stroke="#d8dfd7" stroke-width="2"/>
+<rect x="673.6666666666667" y="587" width="35" height="105" rx="18" fill="#6c8b78" stroke="#d8dfd7" stroke-width="2"/>
+<rect x="738.6666666666667" y="627" width="35" height="65" rx="18" fill="#6c8b78" stroke="#d8dfd7" stroke-width="2"/>
+<text x="44" y="820" font-size="20" text-anchor="start" font-weight="400" style="fill:#6d7b73">연결을 읽은 뒤 아래 문항에서 답을 가리고 복원하세요.</text>
+</svg>

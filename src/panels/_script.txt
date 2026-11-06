@@ -12,10 +12,19 @@ function setReadings(show){
 try{setReadings(localStorage.getItem('sketchy.readings.v1')!=='off');}catch(_){setReadings(true);}
 readingButton.onclick=()=>{const show=document.body.classList.contains('hide-readings');setReadings(show);try{localStorage.setItem('sketchy.readings.v1',show?'on':'off');}catch(_){}};
 document.addEventListener('click',e=>{
+ const figure=e.target.closest('.figure-toggle'),practiceLink=e.target.closest('.practice-link');
+ if(figure||practiceLink){
+  const panel=(figure||practiceLink).closest('.panel'),button=panel.querySelector('.figure-toggle');
+  const hidden=practiceLink?true:!panel.classList.contains('practice');
+  panel.classList.toggle('practice',hidden);button.setAttribute('aria-expanded',String(!hidden));
+  button.textContent=hidden?'도해 다시 보기':'도해 가리고 회상';
+  if(hidden)panel.querySelectorAll('td.qa.open').forEach(td=>td.classList.remove('open'));
+  return;
+ }
  const q=e.target.closest('.qtoggle');
  if(q){q.closest('.quiz').classList.toggle('open');return;}
  const w=e.target.closest('.why');
  if(w){const tr=w.closest('tr');const nx=tr.nextElementSibling;if(nx&&nx.classList.contains('reason'))nx.classList.toggle('open');return;}
  const td=e.target.closest('td.fact');
- if(td&&document.body.classList.contains('test'))td.classList.toggle('open');
+ if(td&&(document.body.classList.contains('test')||td.closest('.panel.practice')))td.classList.toggle('open');
 });

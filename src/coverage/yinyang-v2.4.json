@@ -1,0 +1,175 @@
+{
+  "release": "2.4",
+  "baseline": "bd0e22619d976e1b1d529aed60a8da31ba29a816",
+  "scope": "음양오행 점검표 A01–A15 및 B04–B05",
+  "panels": 21,
+  "facts": 127,
+  "questions": 132,
+  "items": [
+    {
+      "id": "A01",
+      "topic": "이법방의론의 오방과 치료법",
+      "previous_status": "미반영",
+      "status": "보완판 반영",
+      "panels": [
+        "s09x02"
+      ]
+    },
+    {
+      "id": "A02",
+      "topic": "무극에서 음양까지의 생성 단계",
+      "previous_status": "미반영",
+      "status": "보완판 반영",
+      "panels": [
+        "s09x03"
+      ]
+    },
+    {
+      "id": "A03",
+      "topic": "음양의 속성과 발전 변화",
+      "previous_status": "미반영",
+      "status": "보완판 반영",
+      "panels": [
+        "s09x04"
+      ]
+    },
+    {
+      "id": "A04",
+      "topic": "음양학설의 네 기본 관계와 원문",
+      "previous_status": "부분 반영",
+      "status": "보완판 반영",
+      "panels": [
+        "s09x05",
+        "s09x06"
+      ]
+    },
+    {
+      "id": "A05",
+      "topic": "오행의 다섯 고유 성질",
+      "previous_status": "부분 반영",
+      "status": "보완판 반영",
+      "panels": [
+        "s09x07"
+      ]
+    },
+    {
+      "id": "A06",
+      "topic": "오행 생성 순서와 수의 배정",
+      "previous_status": "미반영",
+      "status": "보완판 반영",
+      "panels": [
+        "s09x08"
+      ]
+    },
+    {
+      "id": "A07",
+      "topic": "왕상휴수사",
+      "previous_status": "미반영",
+      "status": "보완판 반영",
+      "panels": [
+        "s09x09"
+      ]
+    },
+    {
+      "id": "A08",
+      "topic": "오사의 다섯 분류",
+      "previous_status": "미반영",
+      "status": "보완판 반영",
+      "panels": [
+        "s09x10"
+      ]
+    },
+    {
+      "id": "A09",
+      "topic": "제화와 항해승제 및 승복",
+      "previous_status": "미반영",
+      "status": "보완판 반영",
+      "panels": [
+        "s09x11"
+      ]
+    },
+    {
+      "id": "A10",
+      "topic": "오행에 따른 장부 병리 전변",
+      "previous_status": "미반영",
+      "status": "보완판 반영",
+      "panels": [
+        "s09x12"
+      ]
+    },
+    {
+      "id": "A11",
+      "topic": "오행의 진단 응용",
+      "previous_status": "부분 반영",
+      "status": "보완판 반영",
+      "panels": [
+        "s09x13"
+      ]
+    },
+    {
+      "id": "A12",
+      "topic": "오행을 응용한 여덟 치법",
+      "previous_status": "미반영",
+      "status": "보완판 반영",
+      "panels": [
+        "s09x14"
+      ]
+    },
+    {
+      "id": "A13",
+      "topic": "전변 예방과 모자 보사 원칙",
+      "previous_status": "부분 반영",
+      "status": "보완판 반영",
+      "panels": [
+        "s09x15"
+      ]
+    },
+    {
+      "id": "A14",
+      "topic": "하도와 낙서",
+      "previous_status": "미반영",
+      "status": "보완판 반영",
+      "panels": [
+        "s10x01"
+      ]
+    },
+    {
+      "id": "A15",
+      "topic": "후천팔괘의 여덟 단계 의미",
+      "previous_status": "부분 반영",
+      "status": "보완판 반영",
+      "panels": [
+        "s10x02"
+      ]
+    },
+    {
+      "id": "B04",
+      "topic": "천인상응·천인공통과 하루의 사시",
+      "previous_status": "미반영",
+      "status": "보완판 반영",
+      "panels": [
+        "s09x01"
+      ]
+    },
+    {
+      "id": "B05",
+      "topic": "오행귀류 확장표와 출전별 차이",
+      "previous_status": "부분 반영",
+      "status": "보완판 반영",
+      "panels": [
+        "s09x16",
+        "s09x17",
+        "s09x18",
+        "s09x19"
+      ]
+    }
+  ],
+  "deferred": [
+    "오운육기의 상세 귀류·오운삼기",
+    "학습자의 실제 회상률 검증"
+  ],
+  "interpretation_notes": [
+    "A11 주색·객색의 장색·시색 구분은 사용자 정리노트의 문맥으로 한정한다.",
+    "B05는 기존 귀류를 보존하며 출전별 식이·인체·자연·월령 차이를 보완한다. 운기 세부표는 별도 단원 범위다."
+  ]
+}

@@ -5,7 +5,7 @@
    GitHub 의 index.html 을 역산해 다시 썼다. 산출물이 이전 판과 같은 구조가 되도록 맞췄다.
    CSS·스크립트는 panels/_css.txt · panels/_script.txt 에 원본 그대로 떼어 두었다.
 """
-import base64, io, json, os, re, sys
+import base64, io, json, os, re, sys, html as html_module
 from PIL import Image
 from reading import fact_html, memory_html
 
@@ -82,12 +82,23 @@ def panel_html(p):
              % (pid, p['title'], p['tag'], badge, pid))
     ip = img_path(pid)
     if ip:
+        is_extension = bool(p.get('extension'))
+        if is_extension:
+            o.append('<div class="extension-tools"><button type="button" class="figure-toggle" aria-expanded="true" aria-controls="figure-%s">도해 가리고 회상</button> <a href="%s" target="_blank" rel="noopener">도해 크게 보기 ↗</a> <a class="practice-link" href="#quiz-%s">회상 문제로 ↓</a></div>' % (pid, p['image'], pid))
+            o.append('<div class="extension-figure" id="figure-%s" tabindex="0" role="region" aria-label="%s 도해">' % (pid, html_module.escape(p['title'], quote=True)))
         if EXTERNAL:
-            o.append('<img loading="lazy" decoding="async" src="%s" alt="">' % p.get('image', 'images/%s.webp' % pid))
+            o.append('<img loading="lazy" decoding="async" src="%s" alt="%s">' % (p.get('image', 'images/%s.webp' % pid), html_module.escape(p['title'], quote=True) if is_extension else ''))
+        elif ip.endswith('.svg'):
+            o.append('<img loading="lazy" src="data:image/svg+xml;base64,%s" alt="%s">' % (base64.b64encode(open(ip,'rb').read()).decode(), html_module.escape(p['title'],quote=True)))
         else:
             o.append('<img loading="lazy" src="data:image/webp;base64,%s">' % b64(ip))
-    o.append('<table><thead><tr><th>소품</th>'
+        if is_extension:
+            o.append('</div><p class="figure-hint">작은 화면에서는 도해를 좌우로 밀어 보세요.</p>')
+            if p.get('study_note'):
+                o.append('<p class="study-note">%s</p>' % html_module.escape(p['study_note']))
+    o.append('<table><thead><tr><th>%s</th>'
              '<th>잠그는 사실 (테스트 모드: 탭하여 확인)</th></tr></thead><tbody>')
+    o[-1] = o[-1] % ('도해의 연결' if p.get('extension') else '소품')
     for r in p['rows']:
         tc = ' class="trap"' if r['trap'] else ''
         o.append('<tr%s><td class="prop">%s <span class="why">왜?</span></td>'
@@ -98,13 +109,20 @@ def panel_html(p):
                      % (rc, esc(r['why'])))
     o.append('</tbody></table>')
     if p['quiz']:
-        o.append('<div class="quiz"><div class="qhead">도해 문항 %d  '
-                 '<span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>' % nq)
+        o.append('<div class="quiz" id="quiz-%s"><div class="qhead">도해 문항 %d  '
+                 '<span class="qtoggle">펼치기</span></div><table class="qtab"><tbody>' % (pid,nq))
         for i, q in enumerate(p['quiz'], 1):
             src = '<span class="qsrc">%s</span>' % q['src'] if q['src'] else ''
             o.append('<tr><td class="qq">%d. %s</td><td class="fact qa">%s%s</td></tr>'
                      % (i, esc(q['q']), fact_html(q['a']), src))
         o.append('</tbody></table></div>')
+    if p.get('extension'):
+        o.append('<details class="source-details"><summary>정리 자료와 원문 출처</summary><ul>')
+        for note in p.get('source_notes',[]):
+            o.append('<li>%s</li>' % html_module.escape(note))
+        for source in p.get('sources',[]):
+            o.append('<li><a href="%s" target="_blank" rel="noopener">%s</a></li>' % (html_module.escape(source['url'],quote=True), html_module.escape(source['title'])))
+        o.append('</ul></details>')
     o.append('</div>')
     return '\n'.join(o)
 

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="850" viewBox="0 0 1280 850" role="img" aria-labelledby="title desc"><title id="title">천인상응 — 자연의 시간과 몸의 시간</title><desc id="desc">아침·봄 / 한낮·여름 / 저녁·가을 / 밤·겨울</desc><defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="context-stroke"/></marker></defs><style>text{font-family:"Apple SD Gothic Neo","Noto Sans CJK KR",sans-serif;fill:#253b39}.small{fill:#65766d}.han{font-family:"Apple SD Gothic Neo","Noto Serif CJK KR",serif}</style><rect width="1280" height="850" fill="#faf7ef"/>
+<text x="44" y="44" font-size="18" text-anchor="start" font-weight="400" style="fill:#64776d">음양오행  /  연결 도해</text>
+<text x="44" y="91" font-size="34" text-anchor="start" font-weight="700">천인상응</text>
+<line x1="44" y1="116" x2="1236" y2="116" stroke="#d8dfd7" stroke-width="2"/>
+<circle cx="640" cy="435" r="235" fill="none" stroke="#9dac8f" stroke-width="4" />
+<circle cx="640" cy="435" r="125" fill="none" stroke="#a4b8aa" stroke-width="3" />
+<line x1="505.25" y1="435.0" x2="395" y2="435" stroke="#9dac8f" stroke-width="2"/>
+<rect x="265" y="388" width="260" height="110" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="395" y="427" font-size="27" text-anchor="middle" font-weight="700">아침 / 봄</text>
+<text x="395" y="468" font-size="23" text-anchor="middle" font-weight="400">단혜 · 맑아짐</text>
+<line x1="640.0" y1="305.75" x2="640" y2="200" stroke="#9dac8f" stroke-width="2"/>
+<rect x="510" y="153" width="260" height="110" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="640" y="192" font-size="27" text-anchor="middle" font-weight="700">한낮 / 여름</text>
+<text x="640" y="233" font-size="23" text-anchor="middle" font-weight="400">주안 · 안정</text>
+<line x1="774.75" y1="435.0" x2="885" y2="435" stroke="#9dac8f" stroke-width="2"/>
+<rect x="755" y="388" width="260" height="110" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="885" y="427" font-size="27" text-anchor="middle" font-weight="700">저녁 / 가을</text>
+<text x="885" y="468" font-size="23" text-anchor="middle" font-weight="400">석가 · 더해짐</text>
+<line x1="640.0" y1="564.25" x2="640" y2="670" stroke="#9dac8f" stroke-width="2"/>
+<rect x="510" y="623" width="260" height="110" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="640" y="662" font-size="27" text-anchor="middle" font-weight="700">밤 / 겨울</text>
+<text x="640" y="703" font-size="23" text-anchor="middle" font-weight="400">야심 · 심함</text>
+<text x="640" y="420" font-size="30" text-anchor="middle" font-weight="700">천인상응</text>
+<text x="640" y="463" font-size="26" text-anchor="middle" font-weight="400">자연 ↔ 인체</text>
+<text x="70" y="270" font-size="23" text-anchor="start" font-weight="400">바깥: 계절·주야</text>
+<text x="70" y="310" font-size="23" text-anchor="start" font-weight="400">안쪽: 생리·병리</text>
+<text x="70" y="600" font-size="23" text-anchor="start" font-weight="400">위기: 낮은 양분</text>
+<text x="70" y="636" font-size="23" text-anchor="start" font-weight="400">밤은 음분</text>
+<text x="44" y="820" font-size="20" text-anchor="start" font-weight="400" style="fill:#6d7b73">연결을 읽은 뒤 아래 문항에서 답을 가리고 복원하세요.</text>
+</svg>

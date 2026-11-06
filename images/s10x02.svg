@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="1040" viewBox="0 0 1280 1040" role="img" aria-labelledby="title desc"><title id="title">후천팔괘 — 만물의 한 해를 여덟 동작으로</title><desc id="desc">진·나옴 / 손·가지런함 / 리·서로 보임 / 곤·기름 / 태·기뻐함 / 건·부딪침 / 감·수고를 위로함 / 간·마치고 다시 시작</desc><defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="context-stroke"/></marker></defs><style>text{font-family:"Apple SD Gothic Neo","Noto Sans CJK KR",sans-serif;fill:#253b39}.small{fill:#65766d}.han{font-family:"Apple SD Gothic Neo","Noto Serif CJK KR",serif}</style><rect width="1280" height="1040" fill="#faf7ef"/>
+<text x="44" y="44" font-size="18" text-anchor="start" font-weight="400" style="fill:#64776d">음양오행  /  연결 도해</text>
+<text x="44" y="91" font-size="34" text-anchor="start" font-weight="700">후천팔괘</text>
+<line x1="44" y1="116" x2="1236" y2="116" stroke="#d8dfd7" stroke-width="2"/>
+<line x1="318.86464308911434" y1="524.4567228049323" x2="380.71905130745944" y2="375.12697159164156" stroke="#879d88" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="501.6955140865653" y1="287.2875938023833" x2="537.8881803100084" y2="272.29610059419053" stroke="#879d88" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="742.1118196899915" y1="272.29610059419053" x2="778.3044859134344" y2="287.28759380238324" stroke="#879d88" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="899.2809486925404" y1="375.1269715916415" x2="961.1353569108857" y2="524.4567228049322" stroke="#879d88" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="961.1353569108857" y1="615.5432771950676" x2="899.2809486925406" y2="764.8730284083583" stroke="#879d88" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="778.3044859134349" y1="852.7124061976166" x2="742.1118196899915" y2="867.7038994058095" stroke="#879d88" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="537.8881803100084" y1="867.7038994058095" x2="501.69551408656594" y2="852.712406197617" stroke="#879d88" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="380.7190513074597" y1="764.8730284083588" x2="318.8646430891144" y2="615.5432771950678" stroke="#879d88" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="170.0" y="530.0" width="260" height="80" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="300.0" y="558.0" font-size="21" text-anchor="middle" font-weight="400" style="fill:#667f70">1 · 동</text>
+<text x="300.0" y="592.0" font-size="23" text-anchor="middle" font-weight="700">진·나옴</text>
+<rect x="269.5836943965738" y="289.58369439657383" width="260" height="80" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="399.5836943965738" y="317.58369439657383" font-size="21" text-anchor="middle" font-weight="400" style="fill:#667f70">2 · 동남</text>
+<text x="399.5836943965738" y="351.58369439657383" font-size="23" text-anchor="middle" font-weight="700">손·가지런함</text>
+<rect x="509.9999999999999" y="190.0" width="260" height="80" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="639.9999999999999" y="218.0" font-size="21" text-anchor="middle" font-weight="400" style="fill:#667f70">3 · 남</text>
+<text x="639.9999999999999" y="252.0" font-size="23" text-anchor="middle" font-weight="700">리·서로 보임</text>
+<rect x="750.416305603426" y="289.5836943965738" width="260" height="80" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="880.416305603426" y="317.5836943965738" font-size="21" text-anchor="middle" font-weight="400" style="fill:#667f70">4 · 서남</text>
+<text x="880.416305603426" y="351.5836943965738" font-size="23" text-anchor="middle" font-weight="700">곤·기름</text>
+<rect x="850.0" y="530.0" width="260" height="80" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="980.0" y="558.0" font-size="21" text-anchor="middle" font-weight="400" style="fill:#667f70">5 · 서</text>
+<text x="980.0" y="592.0" font-size="23" text-anchor="middle" font-weight="700">태·기뻐함</text>
+<rect x="750.4163056034262" y="770.4163056034262" width="260" height="80" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="880.4163056034262" y="798.4163056034262" font-size="21" text-anchor="middle" font-weight="400" style="fill:#667f70">6 · 서북</text>
+<text x="880.4163056034262" y="832.4163056034262" font-size="23" text-anchor="middle" font-weight="700">건·부딪침</text>
+<rect x="510.0" y="870.0" width="260" height="80" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="640.0" y="898.0" font-size="21" text-anchor="middle" font-weight="400" style="fill:#667f70">7 · 북</text>
+<text x="640.0" y="932.0" font-size="23" text-anchor="middle" font-weight="700">감·수고를 위로함</text>
+<rect x="269.58369439657383" y="770.4163056034262" width="260" height="80" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="399.58369439657383" y="798.4163056034262" font-size="21" text-anchor="middle" font-weight="400" style="fill:#667f70">8 · 동북</text>
+<text x="399.58369439657383" y="832.4163056034262" font-size="23" text-anchor="middle" font-weight="700">간·마치고 다시 시작</text>
+<text x="640" y="558" font-size="34" text-anchor="middle" font-weight="700">후천팔괘</text>
+<text x="640" y="604" font-size="25" text-anchor="middle" font-weight="400">끝 → 다시 시작</text>
+<text x="44" y="1010" font-size="20" text-anchor="start" font-weight="400" style="fill:#6d7b73">연결을 읽은 뒤 아래 문항에서 답을 가리고 복원하세요.</text>
+</svg>

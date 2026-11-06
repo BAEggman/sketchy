@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="850" viewBox="0 0 1280 850" role="img" aria-labelledby="title desc"><title id="title">오행을 응용한 여덟 치법 — 생하는 네 짝, 제약하는 네 짝</title><desc id="desc">자수함목 / 익화생토 / 배토생금 / 금수상생 / 억목부토 / 배토제수 / 좌금평목 / 사남보북</desc><defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="context-stroke"/></marker></defs><style>text{font-family:"Apple SD Gothic Neo","Noto Sans CJK KR",sans-serif;fill:#253b39}.small{fill:#65766d}.han{font-family:"Apple SD Gothic Neo","Noto Serif CJK KR",serif}</style><rect width="1280" height="850" fill="#faf7ef"/>
+<text x="44" y="44" font-size="18" text-anchor="start" font-weight="400" style="fill:#64776d">음양오행  /  연결 도해</text>
+<text x="44" y="91" font-size="34" text-anchor="start" font-weight="700">오행을 응용한 여덟 치법</text>
+<line x1="44" y1="116" x2="1236" y2="116" stroke="#d8dfd7" stroke-width="2"/>
+<rect x="40" y="165" width="288" height="275" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="184" y="210" font-size="28" text-anchor="middle" font-weight="700">자수함목</text>
+<circle cx="105" cy="295" r="34" fill="#fffdf8" stroke="#344f72" stroke-width="3" />
+<text x="105" y="304" font-size="28" text-anchor="middle" font-weight="700" style="fill:#344f72">수</text>
+<circle cx="265" cy="295" r="34" fill="#fffdf8" stroke="#387758" stroke-width="3" />
+<text x="265" y="304" font-size="28" text-anchor="middle" font-weight="700" style="fill:#387758">목</text>
+<line x1="145" y1="295" x2="221" y2="295" stroke="#667f70" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="184" y="391" font-size="22" text-anchor="middle" font-weight="400">보하여 기름</text>
+<rect x="350" y="165" width="288" height="275" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="494" y="210" font-size="28" text-anchor="middle" font-weight="700">익화생토</text>
+<circle cx="415" cy="295" r="34" fill="#fffdf8" stroke="#bc5546" stroke-width="3" />
+<text x="415" y="304" font-size="28" text-anchor="middle" font-weight="700" style="fill:#bc5546">화</text>
+<circle cx="575" cy="295" r="34" fill="#fffdf8" stroke="#b18a36" stroke-width="3" />
+<text x="575" y="304" font-size="28" text-anchor="middle" font-weight="700" style="fill:#b18a36">토</text>
+<line x1="455" y1="295" x2="531" y2="295" stroke="#667f70" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="494" y="391" font-size="22" text-anchor="middle" font-weight="400">보하여 도움</text>
+<rect x="660" y="165" width="288" height="275" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="804" y="210" font-size="28" text-anchor="middle" font-weight="700">배토생금</text>
+<circle cx="725" cy="295" r="34" fill="#fffdf8" stroke="#b18a36" stroke-width="3" />
+<text x="725" y="304" font-size="28" text-anchor="middle" font-weight="700" style="fill:#b18a36">토</text>
+<circle cx="885" cy="295" r="34" fill="#fffdf8" stroke="#707f88" stroke-width="3" />
+<text x="885" y="304" font-size="28" text-anchor="middle" font-weight="700" style="fill:#707f88">금</text>
+<line x1="765" y1="295" x2="841" y2="295" stroke="#667f70" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="804" y="391" font-size="22" text-anchor="middle" font-weight="400">북돋아 도움</text>
+<rect x="970" y="165" width="288" height="275" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="1114" y="210" font-size="28" text-anchor="middle" font-weight="700">금수상생</text>
+<circle cx="1035" cy="295" r="34" fill="#fffdf8" stroke="#707f88" stroke-width="3" />
+<text x="1035" y="304" font-size="28" text-anchor="middle" font-weight="700" style="fill:#707f88">금</text>
+<circle cx="1195" cy="295" r="34" fill="#fffdf8" stroke="#344f72" stroke-width="3" />
+<text x="1195" y="304" font-size="28" text-anchor="middle" font-weight="700" style="fill:#344f72">수</text>
+<line x1="1075" y1="295" x2="1151" y2="295" stroke="#667f70" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="1151" y1="295" x2="1075" y2="295" stroke="#667f70" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="1114" y="391" font-size="22" text-anchor="middle" font-weight="400">함께 자양</text>
+<rect x="40" y="470" width="288" height="275" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="184" y="515" font-size="28" text-anchor="middle" font-weight="700">억목부토</text>
+<circle cx="105" cy="600" r="34" fill="#fffdf8" stroke="#387758" stroke-width="3" />
+<text x="105" y="609" font-size="28" text-anchor="middle" font-weight="700" style="fill:#387758">목</text>
+<circle cx="265" cy="600" r="34" fill="#fffdf8" stroke="#b18a36" stroke-width="3" />
+<text x="265" y="609" font-size="28" text-anchor="middle" font-weight="700" style="fill:#b18a36">토</text>
+<line x1="145" y1="600" x2="221" y2="600" stroke="#667f70" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="184" y="696" font-size="22" text-anchor="middle" font-weight="400">억제 / 지지</text>
+<rect x="350" y="470" width="288" height="275" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="494" y="515" font-size="28" text-anchor="middle" font-weight="700">배토제수</text>
+<circle cx="415" cy="600" r="34" fill="#fffdf8" stroke="#b18a36" stroke-width="3" />
+<text x="415" y="609" font-size="28" text-anchor="middle" font-weight="700" style="fill:#b18a36">토</text>
+<circle cx="575" cy="600" r="34" fill="#fffdf8" stroke="#344f72" stroke-width="3" />
+<text x="575" y="609" font-size="28" text-anchor="middle" font-weight="700" style="fill:#344f72">수</text>
+<line x1="455" y1="600" x2="531" y2="600" stroke="#667f70" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="494" y="696" font-size="22" text-anchor="middle" font-weight="400">북돋아 제수</text>
+<rect x="660" y="470" width="288" height="275" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="804" y="515" font-size="28" text-anchor="middle" font-weight="700">좌금평목</text>
+<circle cx="725" cy="600" r="34" fill="#fffdf8" stroke="#707f88" stroke-width="3" />
+<text x="725" y="609" font-size="28" text-anchor="middle" font-weight="700" style="fill:#707f88">금</text>
+<circle cx="885" cy="600" r="34" fill="#fffdf8" stroke="#387758" stroke-width="3" />
+<text x="885" y="609" font-size="28" text-anchor="middle" font-weight="700" style="fill:#387758">목</text>
+<line x1="765" y1="600" x2="841" y2="600" stroke="#667f70" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="804" y="696" font-size="22" text-anchor="middle" font-weight="400">돕고 평정</text>
+<rect x="970" y="470" width="288" height="275" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="1114" y="515" font-size="28" text-anchor="middle" font-weight="700">사남보북</text>
+<circle cx="1035" cy="600" r="34" fill="#fffdf8" stroke="#bc5546" stroke-width="3" />
+<text x="1035" y="609" font-size="28" text-anchor="middle" font-weight="700" style="fill:#bc5546">화</text>
+<circle cx="1195" cy="600" r="34" fill="#fffdf8" stroke="#344f72" stroke-width="3" />
+<text x="1195" y="609" font-size="28" text-anchor="middle" font-weight="700" style="fill:#344f72">수</text>
+<text x="1035" y="658" font-size="32" text-anchor="middle" font-weight="400">−</text>
+<text x="1195" y="658" font-size="32" text-anchor="middle" font-weight="400">+</text>
+<text x="1114" y="696" font-size="22" text-anchor="middle" font-weight="400">사남 / 보북</text>
+<text x="44" y="820" font-size="20" text-anchor="start" font-weight="400" style="fill:#6d7b73">연결을 읽은 뒤 아래 문항에서 답을 가리고 복원하세요.</text>
+</svg>

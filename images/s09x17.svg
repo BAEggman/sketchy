@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="708" viewBox="0 0 1280 708" role="img" aria-labelledby="title desc"><title id="title">오행귀류 확장 ② — 식이 배속은 출전을 먼저 읽는다</title><desc id="desc">목 / 화 / 토 / 금 / 수</desc><defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="context-stroke"/></marker></defs><style>text{font-family:"Apple SD Gothic Neo","Noto Sans CJK KR",sans-serif;fill:#253b39}.small{fill:#65766d}.han{font-family:"Apple SD Gothic Neo","Noto Serif CJK KR",serif}</style><rect width="1280" height="708" fill="#faf7ef"/>
+<text x="44" y="44" font-size="18" text-anchor="start" font-weight="400" style="fill:#64776d">음양오행  /  연결 도해</text>
+<text x="44" y="91" font-size="34" text-anchor="start" font-weight="700">오행귀류 확장 ②</text>
+<line x1="44" y1="116" x2="1236" y2="116" stroke="#d8dfd7" stroke-width="2"/>
+<rect x="50" y="145" width="260" height="72" rx="0" fill="#edf2eb" stroke="#d8dfd7" stroke-width="2"/>
+<text x="180.0" y="191" font-size="23" text-anchor="middle" font-weight="700">출전·분류</text>
+<rect x="310" y="145" width="180" height="72" rx="0" fill="#edf2eb" stroke="#d8dfd7" stroke-width="2"/>
+<text x="400.0" y="191" font-size="28" text-anchor="middle" font-weight="700">목</text>
+<rect x="490" y="145" width="180" height="72" rx="0" fill="#edf2eb" stroke="#d8dfd7" stroke-width="2"/>
+<text x="580.0" y="191" font-size="28" text-anchor="middle" font-weight="700">화</text>
+<rect x="670" y="145" width="180" height="72" rx="0" fill="#edf2eb" stroke="#d8dfd7" stroke-width="2"/>
+<text x="760.0" y="191" font-size="28" text-anchor="middle" font-weight="700">토</text>
+<rect x="850" y="145" width="180" height="72" rx="0" fill="#edf2eb" stroke="#d8dfd7" stroke-width="2"/>
+<text x="940.0" y="191" font-size="28" text-anchor="middle" font-weight="700">금</text>
+<rect x="1030" y="145" width="180" height="72" rx="0" fill="#edf2eb" stroke="#d8dfd7" stroke-width="2"/>
+<text x="1120.0" y="191" font-size="28" text-anchor="middle" font-weight="700">수</text>
+<rect x="50" y="217" width="260" height="72" rx="0" fill="#f1f5ee" stroke="#d8dfd7" stroke-width="2"/>
+<text x="180.0" y="263" font-size="23" text-anchor="middle" font-weight="400">금궤·오축</text>
+<rect x="310" y="217" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="400.0" y="263" font-size="28" text-anchor="middle" font-weight="400">닭</text>
+<rect x="490" y="217" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="580.0" y="263" font-size="28" text-anchor="middle" font-weight="400">양</text>
+<rect x="670" y="217" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="760.0" y="263" font-size="28" text-anchor="middle" font-weight="400">소</text>
+<rect x="850" y="217" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="940.0" y="263" font-size="28" text-anchor="middle" font-weight="400">말</text>
+<rect x="1030" y="217" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="1120.0" y="263" font-size="28" text-anchor="middle" font-weight="400">돼지</text>
+<rect x="50" y="289" width="260" height="72" rx="0" fill="#f1f5ee" stroke="#d8dfd7" stroke-width="2"/>
+<text x="180.0" y="335" font-size="23" text-anchor="middle" font-weight="400">영추·오축</text>
+<rect x="310" y="289" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="400.0" y="335" font-size="28" text-anchor="middle" font-weight="400">개</text>
+<rect x="490" y="289" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="580.0" y="335" font-size="28" text-anchor="middle" font-weight="400">양</text>
+<rect x="670" y="289" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="760.0" y="335" font-size="28" text-anchor="middle" font-weight="400">소</text>
+<rect x="850" y="289" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="940.0" y="335" font-size="28" text-anchor="middle" font-weight="400">닭</text>
+<rect x="1030" y="289" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="1120.0" y="335" font-size="28" text-anchor="middle" font-weight="400">돼지</text>
+<rect x="50" y="361" width="260" height="72" rx="0" fill="#f1f5ee" stroke="#d8dfd7" stroke-width="2"/>
+<text x="180.0" y="407" font-size="23" text-anchor="middle" font-weight="400">금궤·오곡</text>
+<rect x="310" y="361" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="400.0" y="407" font-size="28" text-anchor="middle" font-weight="400">맥</text>
+<rect x="490" y="361" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="580.0" y="407" font-size="28" text-anchor="middle" font-weight="400">서</text>
+<rect x="670" y="361" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="760.0" y="407" font-size="28" text-anchor="middle" font-weight="400">직</text>
+<rect x="850" y="361" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="940.0" y="407" font-size="28" text-anchor="middle" font-weight="400">도</text>
+<rect x="1030" y="361" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="1120.0" y="407" font-size="28" text-anchor="middle" font-weight="400">두</text>
+<rect x="50" y="433" width="260" height="72" rx="0" fill="#f1f5ee" stroke="#d8dfd7" stroke-width="2"/>
+<text x="180.0" y="479" font-size="23" text-anchor="middle" font-weight="400">영추·오곡</text>
+<rect x="310" y="433" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="400.0" y="479" font-size="28" text-anchor="middle" font-weight="400">삼</text>
+<rect x="490" y="433" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="580.0" y="479" font-size="28" text-anchor="middle" font-weight="400">보리</text>
+<rect x="670" y="433" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="760.0" y="479" font-size="28" text-anchor="middle" font-weight="400">멥쌀</text>
+<rect x="850" y="433" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="940.0" y="479" font-size="28" text-anchor="middle" font-weight="400">황서</text>
+<rect x="1030" y="433" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="1120.0" y="479" font-size="28" text-anchor="middle" font-weight="400">콩</text>
+<rect x="50" y="505" width="260" height="72" rx="0" fill="#f1f5ee" stroke="#d8dfd7" stroke-width="2"/>
+<text x="180.0" y="551" font-size="23" text-anchor="middle" font-weight="400">영추·오과</text>
+<rect x="310" y="505" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="400.0" y="551" font-size="28" text-anchor="middle" font-weight="400">오얏</text>
+<rect x="490" y="505" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="580.0" y="551" font-size="28" text-anchor="middle" font-weight="400">살구</text>
+<rect x="670" y="505" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="760.0" y="551" font-size="28" text-anchor="middle" font-weight="400">대추</text>
+<rect x="850" y="505" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="940.0" y="551" font-size="28" text-anchor="middle" font-weight="400">복숭아</text>
+<rect x="1030" y="505" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="1120.0" y="551" font-size="28" text-anchor="middle" font-weight="400">밤</text>
+<rect x="50" y="577" width="260" height="72" rx="0" fill="#f1f5ee" stroke="#d8dfd7" stroke-width="2"/>
+<text x="180.0" y="623" font-size="23" text-anchor="middle" font-weight="400">영추·오채</text>
+<rect x="310" y="577" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="400.0" y="623" font-size="28" text-anchor="middle" font-weight="400">부추</text>
+<rect x="490" y="577" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="580.0" y="623" font-size="28" text-anchor="middle" font-weight="400">염교</text>
+<rect x="670" y="577" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="760.0" y="623" font-size="28" text-anchor="middle" font-weight="400">아욱</text>
+<rect x="850" y="577" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="940.0" y="623" font-size="28" text-anchor="middle" font-weight="400">파</text>
+<rect x="1030" y="577" width="180" height="72" rx="0" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="1120.0" y="623" font-size="28" text-anchor="middle" font-weight="400">콩잎</text>
+<text x="44" y="678" font-size="20" text-anchor="start" font-weight="400" style="fill:#6d7b73">연결을 읽은 뒤 아래 문항에서 답을 가리고 복원하세요.</text>
+</svg>

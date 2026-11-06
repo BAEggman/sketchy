@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="850" viewBox="0 0 1280 850" role="img" aria-labelledby="title desc"><title id="title">생성 순서와 생성수 — 수화목금토</title><desc id="desc">수 1·6 / 화 2·7 / 목 3·8 / 금 4·9 / 토 5·10</desc><defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="context-stroke"/></marker></defs><style>text{font-family:"Apple SD Gothic Neo","Noto Sans CJK KR",sans-serif;fill:#253b39}.small{fill:#65766d}.han{font-family:"Apple SD Gothic Neo","Noto Serif CJK KR",serif}</style><rect width="1280" height="850" fill="#faf7ef"/>
+<text x="44" y="44" font-size="18" text-anchor="start" font-weight="400" style="fill:#64776d">음양오행  /  연결 도해</text>
+<text x="44" y="91" font-size="34" text-anchor="start" font-weight="700">생성 순서와 생성수</text>
+<line x1="44" y1="116" x2="1236" y2="116" stroke="#d8dfd7" stroke-width="2"/>
+<rect x="40" y="180" width="224" height="490" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="152" y="232" font-size="28" text-anchor="middle" font-weight="700">수 1·6</text>
+<circle cx="84" cy="320" r="10" fill="#fff" stroke="#4d6558" stroke-width="2" data-number="1"/>
+<text x="152" y="410" font-size="30" text-anchor="middle" font-weight="400">1</text>
+<circle cx="84" cy="485" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="6"/>
+<circle cx="118" cy="485" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="6"/>
+<circle cx="152" cy="485" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="6"/>
+<circle cx="186" cy="485" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="6"/>
+<circle cx="220" cy="485" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="6"/>
+<circle cx="84" cy="520" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="6"/>
+<text x="152" y="575" font-size="30" text-anchor="middle" font-weight="400">6</text>
+<text x="152" y="450" font-size="24" text-anchor="middle" font-weight="400" style="fill:#8a6c2e">+ 5</text>
+<rect x="286" y="180" width="224" height="490" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="398" y="232" font-size="28" text-anchor="middle" font-weight="700">화 2·7</text>
+<circle cx="330" cy="320" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="2"/>
+<circle cx="364" cy="320" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="2"/>
+<text x="398" y="410" font-size="30" text-anchor="middle" font-weight="400">2</text>
+<circle cx="330" cy="485" r="10" fill="#fff" stroke="#4d6558" stroke-width="2" data-number="7"/>
+<circle cx="364" cy="485" r="10" fill="#fff" stroke="#4d6558" stroke-width="2" data-number="7"/>
+<circle cx="398" cy="485" r="10" fill="#fff" stroke="#4d6558" stroke-width="2" data-number="7"/>
+<circle cx="432" cy="485" r="10" fill="#fff" stroke="#4d6558" stroke-width="2" data-number="7"/>
+<circle cx="466" cy="485" r="10" fill="#fff" stroke="#4d6558" stroke-width="2" data-number="7"/>
+<circle cx="330" cy="520" r="10" fill="#fff" stroke="#4d6558" stroke-width="2" data-number="7"/>
+<circle cx="364" cy="520" r="10" fill="#fff" stroke="#4d6558" stroke-width="2" data-number="7"/>
+<text x="398" y="575" font-size="30" text-anchor="middle" font-weight="400">7</text>
+<text x="398" y="450" font-size="24" text-anchor="middle" font-weight="400" style="fill:#8a6c2e">+ 5</text>
+<rect x="532" y="180" width="224" height="490" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="644" y="232" font-size="28" text-anchor="middle" font-weight="700">목 3·8</text>
+<circle cx="576" cy="320" r="10" fill="#fff" stroke="#4d6558" stroke-width="2" data-number="3"/>
+<circle cx="610" cy="320" r="10" fill="#fff" stroke="#4d6558" stroke-width="2" data-number="3"/>
+<circle cx="644" cy="320" r="10" fill="#fff" stroke="#4d6558" stroke-width="2" data-number="3"/>
+<text x="644" y="410" font-size="30" text-anchor="middle" font-weight="400">3</text>
+<circle cx="576" cy="485" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="8"/>
+<circle cx="610" cy="485" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="8"/>
+<circle cx="644" cy="485" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="8"/>
+<circle cx="678" cy="485" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="8"/>
+<circle cx="712" cy="485" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="8"/>
+<circle cx="576" cy="520" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="8"/>
+<circle cx="610" cy="520" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="8"/>
+<circle cx="644" cy="520" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="8"/>
+<text x="644" y="575" font-size="30" text-anchor="middle" font-weight="400">8</text>
+<text x="644" y="450" font-size="24" text-anchor="middle" font-weight="400" style="fill:#8a6c2e">+ 5</text>
+<rect x="778" y="180" width="224" height="490" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="890" y="232" font-size="28" text-anchor="middle" font-weight="700">금 4·9</text>
+<circle cx="822" cy="320" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="4"/>
+<circle cx="856" cy="320" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="4"/>
+<circle cx="890" cy="320" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="4"/>
+<circle cx="924" cy="320" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="4"/>
+<text x="890" y="410" font-size="30" text-anchor="middle" font-weight="400">4</text>
+<circle cx="822" cy="485" r="10" fill="#fff" stroke="#4d6558" stroke-width="2" data-number="9"/>
+<circle cx="856" cy="485" r="10" fill="#fff" stroke="#4d6558" stroke-width="2" data-number="9"/>
+<circle cx="890" cy="485" r="10" fill="#fff" stroke="#4d6558" stroke-width="2" data-number="9"/>
+<circle cx="924" cy="485" r="10" fill="#fff" stroke="#4d6558" stroke-width="2" data-number="9"/>
+<circle cx="958" cy="485" r="10" fill="#fff" stroke="#4d6558" stroke-width="2" data-number="9"/>
+<circle cx="822" cy="520" r="10" fill="#fff" stroke="#4d6558" stroke-width="2" data-number="9"/>
+<circle cx="856" cy="520" r="10" fill="#fff" stroke="#4d6558" stroke-width="2" data-number="9"/>
+<circle cx="890" cy="520" r="10" fill="#fff" stroke="#4d6558" stroke-width="2" data-number="9"/>
+<circle cx="924" cy="520" r="10" fill="#fff" stroke="#4d6558" stroke-width="2" data-number="9"/>
+<text x="890" y="575" font-size="30" text-anchor="middle" font-weight="400">9</text>
+<text x="890" y="450" font-size="24" text-anchor="middle" font-weight="400" style="fill:#8a6c2e">+ 5</text>
+<rect x="1024" y="180" width="224" height="490" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="1136" y="232" font-size="28" text-anchor="middle" font-weight="700">토 5·10</text>
+<circle cx="1068" cy="320" r="10" fill="#fff" stroke="#4d6558" stroke-width="2" data-number="5"/>
+<circle cx="1102" cy="320" r="10" fill="#fff" stroke="#4d6558" stroke-width="2" data-number="5"/>
+<circle cx="1136" cy="320" r="10" fill="#fff" stroke="#4d6558" stroke-width="2" data-number="5"/>
+<circle cx="1170" cy="320" r="10" fill="#fff" stroke="#4d6558" stroke-width="2" data-number="5"/>
+<circle cx="1204" cy="320" r="10" fill="#fff" stroke="#4d6558" stroke-width="2" data-number="5"/>
+<text x="1136" y="410" font-size="30" text-anchor="middle" font-weight="400">5</text>
+<circle cx="1068" cy="485" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="10"/>
+<circle cx="1102" cy="485" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="10"/>
+<circle cx="1136" cy="485" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="10"/>
+<circle cx="1170" cy="485" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="10"/>
+<circle cx="1204" cy="485" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="10"/>
+<circle cx="1068" cy="520" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="10"/>
+<circle cx="1102" cy="520" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="10"/>
+<circle cx="1136" cy="520" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="10"/>
+<circle cx="1170" cy="520" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="10"/>
+<circle cx="1204" cy="520" r="10" fill="#34463d" stroke="#4d6558" stroke-width="2" data-number="10"/>
+<text x="1136" y="575" font-size="30" text-anchor="middle" font-weight="400">10</text>
+<text x="1136" y="450" font-size="24" text-anchor="middle" font-weight="400" style="fill:#8a6c2e">+ 5</text>
+<text x="640" y="735" font-size="25" text-anchor="middle" font-weight="400">생성: 수 → 화 → 목 → 금 → 토    /    상생: 목 → 화 → 토 → 금 → 수</text>
+<text x="44" y="820" font-size="20" text-anchor="start" font-weight="400" style="fill:#6d7b73">연결을 읽은 뒤 아래 문항에서 답을 가리고 복원하세요.</text>
+</svg>

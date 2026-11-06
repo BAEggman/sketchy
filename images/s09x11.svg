@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="850" viewBox="0 0 1280 850" role="img" aria-labelledby="title desc"><title id="title">제화·항해승제·승복 — 지나침을 되돌리는 관계</title><desc id="desc">생·길러 줌 / 극·제약함 / 항성·해로움 / 승복·평형 회복</desc><defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="context-stroke"/></marker></defs><style>text{font-family:"Apple SD Gothic Neo","Noto Sans CJK KR",sans-serif;fill:#253b39}.small{fill:#65766d}.han{font-family:"Apple SD Gothic Neo","Noto Serif CJK KR",serif}</style><rect width="1280" height="850" fill="#faf7ef"/>
+<text x="44" y="44" font-size="18" text-anchor="start" font-weight="400" style="fill:#64776d">음양오행  /  연결 도해</text>
+<text x="44" y="91" font-size="34" text-anchor="start" font-weight="700">제화·항해승제·승복</text>
+<line x1="44" y1="116" x2="1236" y2="116" stroke="#d8dfd7" stroke-width="2"/>
+<text x="70" y="175" font-size="27" text-anchor="start" font-weight="700">① 항성한 목이 토를 지나치게 누름</text>
+<circle cx="220" cy="285" r="45" fill="#fffdf8" stroke="#387758" stroke-width="3" />
+<text x="220" y="294" font-size="28" text-anchor="middle" font-weight="700" style="fill:#387758">목</text>
+<circle cx="660" cy="285" r="45" fill="#fffdf8" stroke="#b18a36" stroke-width="3" />
+<text x="660" y="294" font-size="28" text-anchor="middle" font-weight="700" style="fill:#b18a36">토</text>
+<line x1="280" y1="285" x2="600" y2="285" stroke="#387758" stroke-width="10" marker-end="url(#arrow)"/>
+<text x="440" y="255" font-size="25" text-anchor="middle" font-weight="400">승 · 과도한 제약</text>
+<text x="70" y="415" font-size="27" text-anchor="start" font-weight="700">② 토가 낳는 금이 목을 제약함</text>
+<circle cx="220" cy="540" r="45" fill="#fffdf8" stroke="#b18a36" stroke-width="3" />
+<text x="220" y="549" font-size="28" text-anchor="middle" font-weight="700" style="fill:#b18a36">토</text>
+<circle cx="660" cy="540" r="45" fill="#fffdf8" stroke="#707f88" stroke-width="3" />
+<text x="660" y="549" font-size="28" text-anchor="middle" font-weight="700" style="fill:#707f88">금</text>
+<circle cx="1080" cy="540" r="45" fill="#fffdf8" stroke="#387758" stroke-width="3" />
+<text x="1080" y="549" font-size="28" text-anchor="middle" font-weight="700" style="fill:#387758">목</text>
+<line x1="280" y1="540" x2="600" y2="540" stroke="#b18a36" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="720" y1="540" x2="1020" y2="540" stroke="#707f88" stroke-width="7" marker-end="url(#arrow)"/>
+<text x="440" y="505" font-size="25" text-anchor="middle" font-weight="400">생</text>
+<text x="870" y="505" font-size="25" text-anchor="middle" font-weight="400">복 · 제약</text>
+<text x="640" y="710" font-size="24" text-anchor="middle" font-weight="400">제화: 생화 + 극제   /   항해승제: 지나침을 제한   /   승복: 반응의 선후</text>
+<text x="44" y="820" font-size="20" text-anchor="start" font-weight="400" style="fill:#6d7b73">연결을 읽은 뒤 아래 문항에서 답을 가리고 복원하세요.</text>
+</svg>

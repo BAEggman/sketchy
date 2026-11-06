@@ -1,6 +1,6 @@
 # src — Sketchy 소스 트리
 
-## 현재 빌드: v2.3.1 (2026-11-06)
+## 현재 빌드: v2.4 (2026-11-06)
 
 저장소 루트에서 실행한다. 파일을 복사하거나 작업 위치를 바꿀 필요가 없다.
 
@@ -8,15 +8,28 @@
 EXTERNAL=1 python3 src/build_local.py
 python3 src/build_recall.py
 python3 qa/verify_v23.py
+python3 qa/verify_v24.py
 ```
 
-Python 3.9 이상과 Pillow가 필요하다. 현재 패널 58개, 사실 613행, 도해 문항 335개다.
+Python 3.9 이상과 Pillow가 필요하다. 현재 패널 79개, 사실 740행, 도해 문항 467개다.
 산출물은 루트의 `index.html`, `recall.html`이다. 독음은 `panels/readings.json`에
 검토 가능한 구절별로 저장하며 `reading.py`가 사실 뒤에 병기한다. 새 한자 구절을 추가할 때
 독음도 함께 등록해야 한다. 누락하면 빌드를 중단한다. 브라우저에서는 외부 사전을 호출하지 않는다.
 
 수정 그림 세 장은 `images/*-v2.3.png`이며 원본 WebP는 보존했다.
-변경 범위와 이전 버전 복원법은 루트의 `RELEASE-v2.3.md`, `RELEASE-v2.3.1.md`를 따른다.
+변경 범위와 이전 버전 복원법은 루트의 `RELEASE-v2.4.md`와 앞선 릴리스 기록을 따른다.
+음양오행 보완판만 편집·재생성할 때는 다음 명령을 일반 빌드 전에 실행한다.
+기존 패널의 JSON과 그림은 그대로 보존한다.
+
+```bash
+python3 src/expand_yinyang.py
+python3 src/draw_yinyang.py
+python3 src/apply_yinyang.py
+```
+
+`expand_yinyang.py`가 사실·독음·문항 원본, `draw_yinyang.py`가 SVG 도해 원본이다.
+`panels/yinyang-v2.4.json`과 SVG는 생성 파일이다. 자료의 반영 범위는
+`coverage/yinyang-v2.4.json`에 기록한다. 새 도해 문항은 허브의 패널별 회상 버튼에서 연습한다.
 아래 내용은 이전 작업 이력이다. 예전 파일 수·용량·복사 방식 대신 위 빌드 명령을 사용한다.
 
 ## 왜 저장소에 넣었나

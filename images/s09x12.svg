@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="850" viewBox="0 0 1280 850" role="img" aria-labelledby="title desc"><title id="title">병리 전변 — 생의 방향과 극의 방향을 구분한다</title><desc id="desc">모병급자·수 → 목 / 자병급모·화 → 목 / 상승·목 → 토 / 상모·목 → 금</desc><defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="context-stroke"/></marker></defs><style>text{font-family:"Apple SD Gothic Neo","Noto Sans CJK KR",sans-serif;fill:#253b39}.small{fill:#65766d}.han{font-family:"Apple SD Gothic Neo","Noto Serif CJK KR",serif}</style><rect width="1280" height="850" fill="#faf7ef"/>
+<text x="44" y="44" font-size="18" text-anchor="start" font-weight="400" style="fill:#64776d">음양오행  /  연결 도해</text>
+<text x="44" y="91" font-size="34" text-anchor="start" font-weight="700">병리 전변</text>
+<line x1="44" y1="116" x2="1236" y2="116" stroke="#d8dfd7" stroke-width="2"/>
+<rect x="55" y="160" width="570" height="270" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="79" y="205" font-size="28" text-anchor="start" font-weight="700">모병급자</text>
+<circle cx="180" cy="290" r="45" fill="#fffdf8" stroke="#344f72" stroke-width="3" />
+<text x="180" y="299" font-size="28" text-anchor="middle" font-weight="700" style="fill:#344f72">수</text>
+<circle cx="500" cy="290" r="45" fill="#fffdf8" stroke="#387758" stroke-width="3" />
+<text x="500" y="299" font-size="28" text-anchor="middle" font-weight="700" style="fill:#387758">목</text>
+<line x1="240" y1="290" x2="440" y2="290" stroke="#344f72" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="340" y="385" font-size="24" text-anchor="middle" font-weight="400">생의 방향</text>
+<rect x="665" y="160" width="570" height="270" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="689" y="205" font-size="28" text-anchor="start" font-weight="700">자병급모</text>
+<circle cx="790" cy="290" r="45" fill="#fffdf8" stroke="#bc5546" stroke-width="3" />
+<text x="790" y="299" font-size="28" text-anchor="middle" font-weight="700" style="fill:#bc5546">화</text>
+<circle cx="1110" cy="290" r="45" fill="#fffdf8" stroke="#387758" stroke-width="3" />
+<text x="1110" y="299" font-size="28" text-anchor="middle" font-weight="700" style="fill:#387758">목</text>
+<line x1="850" y1="290" x2="1050" y2="290" stroke="#bc5546" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="950" y="385" font-size="24" text-anchor="middle" font-weight="400">생의 역방향</text>
+<rect x="55" y="460" width="570" height="270" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="79" y="505" font-size="28" text-anchor="start" font-weight="700">상승</text>
+<circle cx="180" cy="590" r="45" fill="#fffdf8" stroke="#387758" stroke-width="3" />
+<text x="180" y="599" font-size="28" text-anchor="middle" font-weight="700" style="fill:#387758">목</text>
+<circle cx="500" cy="590" r="45" fill="#fffdf8" stroke="#b18a36" stroke-width="3" />
+<text x="500" y="599" font-size="28" text-anchor="middle" font-weight="700" style="fill:#b18a36">토</text>
+<line x1="240" y1="590" x2="440" y2="590" stroke="#387758" stroke-width="8" marker-end="url(#arrow)"/>
+<text x="340" y="685" font-size="24" text-anchor="middle" font-weight="400">극의 같은 방향·과도</text>
+<rect x="665" y="460" width="570" height="270" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="689" y="505" font-size="28" text-anchor="start" font-weight="700">상모</text>
+<circle cx="790" cy="590" r="45" fill="#fffdf8" stroke="#387758" stroke-width="3" />
+<text x="790" y="599" font-size="28" text-anchor="middle" font-weight="700" style="fill:#387758">목</text>
+<circle cx="1110" cy="590" r="45" fill="#fffdf8" stroke="#707f88" stroke-width="3" />
+<text x="1110" y="599" font-size="28" text-anchor="middle" font-weight="700" style="fill:#707f88">금</text>
+<line x1="850" y1="590" x2="1050" y2="590" stroke="#387758" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="950" y="685" font-size="24" text-anchor="middle" font-weight="400">극의 반대 방향</text>
+<text x="44" y="820" font-size="20" text-anchor="start" font-weight="400" style="fill:#6d7b73">연결을 읽은 뒤 아래 문항에서 답을 가리고 복원하세요.</text>
+</svg>

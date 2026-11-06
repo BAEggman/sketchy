@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="850" viewBox="0 0 1280 850" role="img" aria-labelledby="title desc"><title id="title">오행의 성질 — 굽고 펴짐·타오름·심고 거둠·바뀜·적시며 내림</title><desc id="desc">목·곡직 / 화·염상 / 토·가색 / 금·종혁 / 수·윤하</desc><defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="context-stroke"/></marker></defs><style>text{font-family:"Apple SD Gothic Neo","Noto Sans CJK KR",sans-serif;fill:#253b39}.small{fill:#65766d}.han{font-family:"Apple SD Gothic Neo","Noto Serif CJK KR",serif}</style><rect width="1280" height="850" fill="#faf7ef"/>
+<text x="44" y="44" font-size="18" text-anchor="start" font-weight="400" style="fill:#64776d">음양오행  /  연결 도해</text>
+<text x="44" y="91" font-size="34" text-anchor="start" font-weight="700">오행의 성질</text>
+<line x1="44" y1="116" x2="1236" y2="116" stroke="#d8dfd7" stroke-width="2"/>
+<rect x="40" y="175" width="224" height="530" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="152" y="220" font-size="27" text-anchor="middle" font-weight="700" style="fill:#387758">목·곡직</text>
+<line x1="152" y1="490" x2="152" y2="305" stroke="#387758" stroke-width="12"/>
+<line x1="152" y1="380" x2="100" y2="330" stroke="#387758" stroke-width="8"/>
+<line x1="152" y1="405" x2="210" y2="348" stroke="#387758" stroke-width="8"/>
+<circle cx="100" cy="320" r="22" fill="#95b89c" stroke="#387758" stroke-width="2" />
+<circle cx="210" cy="338" r="22" fill="#95b89c" stroke="#387758" stroke-width="2" />
+<text x="152" y="570" font-size="25" text-anchor="middle" font-weight="400">가지</text>
+<text x="60" y="620" font-size="22" text-anchor="start" font-weight="400">생장 · 승발 · 조달</text>
+<rect x="286" y="175" width="224" height="530" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="398" y="220" font-size="27" text-anchor="middle" font-weight="700" style="fill:#bc5546">화·염상</text>
+<path d="M398 280 C361 360 456 345 436 410 C506 490 314 510 341 410 C381 370 381 330 398 280" fill="#bc5546"/>
+<line x1="398" y1="290" x2="398" y2="250" stroke="#bc5546" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="398" y="570" font-size="25" text-anchor="middle" font-weight="400">불꽃</text>
+<text x="306" y="620" font-size="22" text-anchor="start" font-weight="400">온열 · 상승</text>
+<rect x="532" y="175" width="224" height="530" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="644" y="220" font-size="27" text-anchor="middle" font-weight="700" style="fill:#b18a36">토·가색</text>
+<line x1="567" y1="375" x2="722" y2="375" stroke="#b18a36" stroke-width="9"/>
+<line x1="567" y1="413" x2="722" y2="413" stroke="#b18a36" stroke-width="9"/>
+<line x1="567" y1="451" x2="722" y2="451" stroke="#b18a36" stroke-width="9"/>
+<circle cx="597" cy="350" r="10" fill="#b18a36" stroke="#4d6558" stroke-width="2" />
+<line x1="682" y1="370" x2="682" y2="285" stroke="#b18a36" stroke-width="5"/>
+<line x1="682" y1="320" x2="707" y2="295" stroke="#b18a36" stroke-width="7"/>
+<line x1="682" y1="340" x2="657" y2="315" stroke="#b18a36" stroke-width="7"/>
+<text x="644" y="570" font-size="25" text-anchor="middle" font-weight="400">밭</text>
+<text x="552" y="620" font-size="22" text-anchor="start" font-weight="400">파종 · 수확 · 화생</text>
+<rect x="778" y="175" width="224" height="530" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="890" y="220" font-size="27" text-anchor="middle" font-weight="700" style="fill:#707f88">금·종혁</text>
+<rect x="820" y="295" width="140" height="150" rx="2" fill="#dce3e4" stroke="#707f88" stroke-width="2"/>
+<rect x="851" y="330" width="80" height="84" rx="10" fill="#faf7ef" stroke="#707f88" stroke-width="2"/>
+<text x="890" y="495" font-size="21" text-anchor="middle" font-weight="400">재료 → 새 모양</text>
+<text x="890" y="570" font-size="25" text-anchor="middle" font-weight="400">금속 틀</text>
+<text x="798" y="620" font-size="22" text-anchor="start" font-weight="400">변혁 · 수렴 · 숙강</text>
+<rect x="1024" y="175" width="224" height="530" rx="18" fill="#fffdf8" stroke="#d8dfd7" stroke-width="2"/>
+<text x="1136" y="220" font-size="27" text-anchor="middle" font-weight="700" style="fill:#344f72">수·윤하</text>
+<path d="M1119 280 C1204 355 1059 400 1149 470" stroke="#344f72" fill="none" stroke-width="20"/>
+<line x1="1149" y1="470" x2="1169" y2="510" stroke="#344f72" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="1136" y="570" font-size="25" text-anchor="middle" font-weight="400">물길</text>
+<text x="1044" y="620" font-size="22" text-anchor="start" font-weight="400">자윤 · 하행 · 저장</text>
+<text x="44" y="820" font-size="20" text-anchor="start" font-weight="400" style="fill:#6d7b73">연결을 읽은 뒤 아래 문항에서 답을 가리고 복원하세요.</text>
+</svg>

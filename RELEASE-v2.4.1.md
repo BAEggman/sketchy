@@ -40,7 +40,8 @@
 
 직전 버전 보존 태그는 `backup/v2.4-before-bagua-memory-20261106`이고,
 이번 브랜치는 `codex/bagua-direction-memory-v2.4.1`이다.
-완료 태그는 `v2.4.1-bagua-memory-20261106`. 공개 사이트에는 아직 배포하지 않았다.
+완료 태그는 `v2.4.1-bagua-memory-20261106`.
+음양오행 보완판과 함께 공개 반영한다. 공개 배포와 직전 공개 버전 복원은 `DEPLOY-v2.4.1.md`를 따른다.
 
 작업 중인 변경을 저장한 다음 직전 버전을 보려면
 `git switch --detach backup/v2.4-before-bagua-memory-20261106`을 사용한다.

@@ -15,7 +15,7 @@ function hasBatchim(s) { const c = s.charCodeAt(s.length - 1); return c >= 0xac0
 function rieul(s) { const c = s.charCodeAt(s.length - 1); return c >= 0xac00 && c <= 0xd7a3 && (c - 0xac00) % 28 === 8; }
 // 앞말에 맞춰 붙인 조사를 새 앞말(독음)에 맞게 바꾼다
 // 사전 독음과 다르게 읽는 고유명사·용어(성씨 葉=섭 등) — ②보다 먼저 바꿔 둔다
-const PRE = [['葉天士', '섭천사'], ['葉桂', '섭계'], ['戾氣', '려기'], ['沈金鰲', '심금오'], ['沈氏', '심씨']];
+const PRE = [['葉天士', '섭천사'], ['葉桂', '섭계'], ['戾氣', '려기'], ['沈金鰲', '심금오'], ['沈氏', '심씨'], ['金永碩', '김영석'], ['醫方類聚', '의방유취']];
 // 두음법칙 때문에 낱말 끝 소리(「신 리」)와 독음(「이」)이 어긋나도 같은 소리로 본다
 function sameSound(w, r) {
   if (w.endsWith(r)) return true;

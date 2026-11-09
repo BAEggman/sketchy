@@ -2,16 +2,20 @@
 
 「Sketchy와의 차이 33가지 없애는 법」 지침(2026-11-09)에 따라 허브 79판 740행을 진짜 Sketchy 꼴로 다시 짜는 작업. 허브(index.html)는 그대로 두고 새 덱은 여기서 따로 만든다.
 
-## 과 지도 v1 (2026-11-09)
-- `lesson_map.json` — 76과 · 정거장 751 · 정거장 행 488 · 틀 55 · dropped 197. 과마다 `title` · `place`(장소 후보) · `frame_rows` · `stations`(행 · 카드 id · split · note) · `n_stations`. 끝에 `dropped`(이유) · `gaps`(카드는 있는데 판이 없는 주제 41) · `flags`(사실·카드 충돌, 카드 오류 의심) · `coverage`(장별 카드 수 / 정거장에 걸린 수).
-- 한 과 = 한 주제 · 한 장소 · 16:9 한 장 · 정거장 6~14(틀 · 되짚기 포함). 정거장은 시험 카드가 걸린 행에서 고른다(카드 없는 행은 흐름에 꼭 필요할 때만 `no_card`).
-- 시험 카드 = 인출훈련 SRS 덱(BAEggman/qoaq `한의학_인출훈련_학습과학.html`의 FULLDECK 2016장). 한자어 자동 매칭 뒤 영역별로 손으로 확인했다(자동 매칭은 절반 가까이 틀리거나 빠졌다).
-- 만든 방법: `map_brief_20261109.md`(영역별 작업 지시) — 의학사 · 음양오행 · 장상진단상한 · 본초방제병인병기 · 경락 다섯 영역을 따로 짜서 합쳤다. 검토 문서: Claude Docs 「한의학 Sketchy 과 지도」.
+## 과 지도 v2.1 (2026-11-09)
+- `lesson_map.json` — **191과 · 정거장 1815**. 시험 카드 2016장 중 2006장이 정거장에 걸리고 10장은 뺐다(`skipped_cards`).
+  - 허브 행 과 75개(`hist` · `yyox` · `zds` · `hp` · `mer`) — 허브 79판 740행을 다시 묶음. 과마다 `title` · `place`(장소 후보) · `frame_rows` · `stations`(행 · 카드 id · split · note) · `n_stations`.
+  - 새 과 116개(`new-jq` 23 · `new-gr` 18 · `new-zj` 29 · `new-uk` 15 · `new-etc` 31) — 허브에 판이 없던 주제의 카드로 짠 과. 정거장은 `row: null, card_only: true, fact, cards`(사실은 카드 답에서만). 기존 과 정거장에 붙인 카드는 `attach_log`.
+  - 끝에 `dropped`(188행, 이유) · `held`(약재 각론 11행 보류) · `flags`(사실·카드 충돌, 풀린 것은 `resolved`) · `decisions` · `coverage`(장별 카드 · 정거장 · 뺀 카드).
+- 결정(2026-11-09): 361혈 = 李學川 『針灸逢源』(醫宗金鑑 360) · hist-07(鍼灸書 계보)과 mer-01(經絡學 발전사)을 hist-07 한 과로 · 약재 각론 행 보류 · 허브 그림은 모두 새 과 꼴로 다시 그림(허브는 새 덱이 다 설 때까지 그대로).
+- 한 과 = 한 주제 · 한 장소 · 16:9 한 장 · 정거장 6~14(틀 · 되짚기 포함).
+- 시험 카드 = 인출훈련 SRS 덱(BAEggman/qoaq `한의학_인출훈련_학습과학.html`의 FULLDECK 2016장). 이 지도를 짜며 찾은 카드 오류 54건은 qoaq에서 고쳤다(교정 1~3차).
+- 만든 방법: `map_brief_20261109.md`(허브 행 다섯 영역) · `newmap_brief_20261109.md`(새 과 다섯 그룹). 검토 문서: Claude Docs 「한의학 Sketchy 과 지도」(탭 「새 과 116」).
 
 ## 도구
 - `tools/fetch_deck.sh` — qoaq에서 덱을 받아 `.cache/deck.json`(커밋 안 함).
 - `tools/cards.py '<정규식>' [장]` — 카드 검색.
-- `tools/check_map.py` — 740행이 정확히 한 번씩 배정됐는지 · 정거장 6~14 · 카드 id(덱이 있으면).
+- `tools/check_map.py` — 740행이 정확히 한 번씩(과 · dropped · held) · 정거장 6~14 · 카드 id · 모든 카드가 정거장이나 skipped에 한 번씩(덱이 있으면) · 장소 겹침.
 
 ## 재생기
 - 빌드: `python3 src/lessons/build_player.py` → 저장소 루트 `lessons.html`(단일 파일 · 외부 라이브러리/폰트/CDN 없음). 원본은 `player-template.html` + `player.js`, 과는 `l/*.json`에서 읽어 인라인한다. 그림은 `images/lessons/<id>.webp`를 링크하고, 없으면 회색 자리표시.
@@ -29,4 +33,4 @@
 - `l/_demo.json`(+ `images/lessons/_demo.webp`)은 재생기 시험용 자리표시 과다(한의학 내용 없음). 진짜 과가 들어오면 지워도 된다.
 
 ## 다음
-시범 과 `hist-02`(南北朝·隋) — 설계(정거장마다 60자 사실 · 물건 · 고리, 예약표 첫 줄) → 재생기(투어 · 복습 · 시험) → 바탕 그림 → 판독 · 조각 고침 → 일치 검사 → 사용자 유지 시험.
+시범 과 `hist-02`(南北朝·隋)는 끝났다(설계 · 그림 `images/lessons/hist-02.webp` · 재생기 · 일치 검사). 사용자 유지 시험(하루 뒤 · 일주일 뒤 시험 모드 점수)을 받은 뒤 나머지 190과를 같은 걸음으로 그린다. 예약표는 `reserved.md`.

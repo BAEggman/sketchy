@@ -14,6 +14,16 @@ const HAN = /[㐀-鿿豈-﫿]/;
 function hasBatchim(s) { const c = s.charCodeAt(s.length - 1); return c >= 0xac00 && c <= 0xd7a3 && (c - 0xac00) % 28 !== 0; }
 function rieul(s) { const c = s.charCodeAt(s.length - 1); return c >= 0xac00 && c <= 0xd7a3 && (c - 0xac00) % 28 === 8; }
 // 앞말에 맞춰 붙인 조사를 새 앞말(독음)에 맞게 바꾼다
+// 사전 독음과 다르게 읽는 고유명사·용어(성씨 葉=섭 등) — ②보다 먼저 바꿔 둔다
+const PRE = [['葉天士', '섭천사'], ['葉桂', '섭계'], ['戾氣', '려기']];
+// 두음법칙 때문에 낱말 끝 소리(「신 리」)와 독음(「이」)이 어긋나도 같은 소리로 본다
+function sameSound(w, r) {
+  if (w.endsWith(r)) return true;
+  const c = r.charCodeAt(0) - 0xac00;
+  if (c < 0 || c > 11171 || Math.floor(c / 588) !== 11) return false; // 첫소리 ㅇ일 때만
+  const rest = c % 588;
+  return [5, 2].some(ini => w.endsWith(String.fromCharCode(0xac00 + ini * 588 + rest) + r.slice(1))); // ㄹ·ㄴ
+}
 function fixParticle(r, p) {
   const b = hasBatchim(r);
   const pairs = [['으로', '로'], ['을', '를'], ['은', '는'], ['과', '와'], ['이다', '다'], ['이', '가'], ['아', '야']];
@@ -39,9 +49,10 @@ setTimeout(() => {
       // ① 「한글 낱말(漢字)조사」 꼴의 뜻 풀이 → 「낱말 음조사」 (같은 소리면 겹치지 않게 지움)
       s = s.replace(/([가-힣]+)\(([㐀-鿿豈-﫿]+)\)([가-힣]*)/g, (m, w, h, p) => {
         const r = rd(h).text;
-        if (w.endsWith(r)) return w + p;
+        if (sameSound(w, r)) return w + p;
         return w + ' ' + r + fixParticle(r, p);
       });
+      for (const [k, v] of PRE) s = s.split(k).join(v);
       // ② 나머지 한자 → 독음
       const out = rd(s);
       if (out.unknown && out.unknown.length) { bad++; console.log(`${L.id} #${st.n}: 독음 모름 ${out.unknown.join('')}`); }

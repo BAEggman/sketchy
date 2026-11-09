@@ -8,6 +8,7 @@
 꼴이 틀리면(필수 칸·상자 꼴·중복 id) 멈추고, 권고 위반(정거장 6~14·사실 60자·상자 범위)은 경고만 한다.
 """
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -62,6 +63,11 @@ def check(L, path, errors, warns):
         for k in ('fact',):
             if not st.get(k):
                 warns.append(f'{tag} #{n}: 「{k}」가 비었다')
+        tts_txt = st.get('tts')
+        if not tts_txt:
+            warns.append(f'{tag} #{n}: 읽기 대본 tts가 없다(브라우저가 한자를 중국어로 읽는다 — tools/make_tts.js)')
+        elif re.search('[\u3400-\u9fff\uf900-\ufaff]', tts_txt):
+            warns.append(f'{tag} #{n}: tts에 한자가 남았다')
         try:
             bs = boxes(st)
         except ValueError as e:

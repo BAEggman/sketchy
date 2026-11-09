@@ -15,17 +15,18 @@
 ## 도구
 - `tools/fetch_deck.sh` — qoaq에서 덱을 받아 `.cache/deck.json`(커밋 안 함).
 - `tools/cards.py '<정규식>' [장]` — 카드 검색.
+- `tools/make_tts.js <qoaq html> <l/과.json>…` — 내레이션(say)을 한글 독음 읽기 대본(tts)으로 바꿔 넣는다(qoaq `HanjaSong.toReading` · `npm i jsdom` 필요). 「꽃(華)을」 꼴은 「꽃 화를」처럼 뜻+음으로, 기호는 쉼표로. 새 과를 만들 때마다 돌린다.
 - `tools/check_map.py` — 740행이 정확히 한 번씩(과 · dropped · held) · 정거장 6~14 · 카드 id · 모든 카드가 정거장이나 skipped에 한 번씩(덱이 있으면) · 장소 겹침.
 
 ## 재생기
 - 빌드: `python3 src/lessons/build_player.py` → 저장소 루트 `lessons.html`(단일 파일 · 외부 라이브러리/폰트/CDN 없음). 원본은 `player-template.html` + `player.js`, 과는 `l/*.json`에서 읽어 인라인한다. 그림은 `images/lessons/<id>.webp`를 링크하고, 없으면 회색 자리표시.
-- 화면: 과 목록(`lessons.html?l=<id>`로 바로, `&m=review|test`) · 투어(상자만 밝힘 · ko-KR TTS 0.8~1.4 · 자동 넘김) · 복습(그림을 누르면 사실·고리) · 시험(순서대로, 틀·되짚기 제외 → 점수·틀린 정거장). 시험 기록은 localStorage `sketchy_lessons_v1` = `{과id: [{date, score, total, wrong:[n…]}]}`, JSON 내보내기. 키: ←/→ · 스페이스.
+- 화면: 과 목록(`lessons.html?l=<id>`로 바로, `&m=review|test`) · 투어(상자만 밝힘 · ko-KR TTS 0.8~1.4 · 자동 넘김 — 음성은 tts 대본을 읽는다. 브라우저 음성이 한자를 중국어로 읽기 때문) · 복습(그림을 누르면 사실·고리) · 시험(순서대로, 틀·되짚기 제외 → 점수·틀린 정거장). 시험 기록은 localStorage `sketchy_lessons_v1` = `{과id: [{date, score, total, wrong:[n…]}]}`, JSON 내보내기. 키: ←/→ · 스페이스.
 - 과 JSON 꼴(`l/<과id>.json`):
   ```json
   {"id": "hist-02", "title": "…", "place": "…", "image": "images/lessons/hist-02.webp", "w": 2048, "h": 1144,
    "stations": [
     {"n": 0, "kind": "frame", "obj": "장소 전체", "fact": "…", "hook": "…", "say": "…", "box": null, "src": []},
-    {"n": 1, "obj": "…", "fact": "60자 이내", "hook": "…", "say": "2~4문장", "box": [x, y, w, h], "src": ["카드 id"]},
+    {"n": 1, "obj": "…", "fact": "60자 이내", "hook": "…", "say": "2~4문장(화면용, 한자 그대로)", "tts": "say의 한글 독음 대본(읽어 주기용)", "box": [x, y, w, h], "src": ["카드 id"]},
     {"n": 9, "kind": "review", "obj": "되짚기", "fact": "…", "hook": "…", "say": "…", "box": [[x, y, w, h], [x, y, w, h]], "src": []}
    ]}
   ```

@@ -315,7 +315,8 @@
     clearTimers(); tts.stop(); setSpeaking(false);
     if (S.mode !== 'tour') return;
     var st = S.L.stations[S.i];
-    var text = st.say || st.fact || '', at = S.i;
+    // 읽어 주기는 한글 독음 대본(tts)을 쓴다 — 브라우저 음성이 한자를 중국어로 읽기 때문. 화면에는 한자가 든 say가 그대로 보인다.
+    var text = st.tts || st.say || st.fact || '', at = S.i;
     if (tts.ok && (prefs.voice || force) && activated() && text) {
       setSpeaking(true);
       tts.speak(text, prefs.rate, function () { S.heard = at; setSpeaking(false); afterStation(); });

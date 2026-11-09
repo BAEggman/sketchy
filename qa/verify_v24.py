@@ -23,7 +23,8 @@ lib = read('src/panels/library.json')
 added = read('src/panels/yinyang-v2.4.json')
 panels = {p['id']: p for p in lib['panels']}
 assert len(panels) == len(lib['panels']) == 79
-assert lib['panels'][:58] == before['panels'], 'Original panel changed'
+# 2026-11-09: s18d07 熱格 문항 정정(火를 瀉하는 세 경 = 大腸·心·三焦) — 비교 전에 되돌려 본다
+assert json.loads(json.dumps(lib['panels'][:58], ensure_ascii=False).replace('세 경(大腸·心·三焦)이 火를', '세 경(脾·胃·心包)이 火를')) == before['panels'], 'Original panel changed'
 for key in before.keys() - {'panels', 'release'}:
     assert lib[key] == before[key], key
 assert lib['panels'][58:] == added

@@ -24,7 +24,9 @@ assert sum(len(p.get('quiz', [])) for p in original_panels) == 335
 changed_facts = []
 terms = set()
 for p, before in zip(original_panels, old['panels']):
-    assert p.get('quiz', []) == before.get('quiz', [])
+    # 2026-11-09: s18d07 熱格 문항 정정(火를 瀉하는 세 경 = 大腸·心·三焦 — 행·카드 HUBGR-0222/0234/0254와 맞춤)
+    fix = lambda qs: [dict(q, a=q['a'].replace('세 경(大腸·心·三焦)이 火를', '세 경(脾·胃·心包)이 火를')) for q in qs]
+    assert fix(p.get('quiz', [])) == before.get('quiz', [])
     assert len(p['rows']) == len(before['rows'])
     for i, (row, previous) in enumerate(zip(p['rows'], before['rows'])):
         if row['fact'] != previous['fact']:

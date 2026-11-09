@@ -30,7 +30,8 @@ for element_id in ['board','bank','selection','practice-controls','mode','orient
 baseline='v2.4-yinyang-20261106'
 previous=json.loads(subprocess.check_output(['git','show',baseline+':src/panels/library.json'],cwd=ROOT))
 current=json.loads((ROOT/'src/panels/library.json').read_text())
-assert current['panels']==previous['panels']
+# 2026-11-09: s18d07 熱格 문항 정정(火를 瀉하는 세 경 = 大腸·心·三焦) — 비교 전에 되돌려 본다
+assert json.loads(json.dumps(current['panels'], ensure_ascii=False).replace('세 경(大腸·心·三焦)이 火를', '세 경(脾·胃·心包)이 火를'))==previous['panels']
 assert not subprocess.check_output(['git','diff',baseline,'--','images/','src/panels/readings.json','recall.html'],cwd=ROOT)
 assert (ROOT/'index.html').read_text().count('href="bagua.html"')==2
 print('PASS: 16 directions / 8 trigram patterns / 4 opposite pairs / offline page / 79 existing panels preserved')

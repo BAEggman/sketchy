@@ -24,5 +24,15 @@ if deck.exists():
     ids = {c['id'] for c in json.load(open(deck))}
     bad = {c for x in M['lessons'] for c in x['cards'] if c not in ids}
     if bad: err.append(f'덱에 없는 카드 {sorted(bad)[:10]}')
+if deck.exists():
+    allc = {c['id'] for c in json.load(open(deck))}
+    linked = {c for x in M['lessons'] for s in x['stations'] for c in s.get('cards', [])}
+    sk = {x['card'] for x in M.get('skipped_cards', [])}
+    un = allc - linked - sk
+    if un: err.append(f'어디에도 없는 카드 {len(un)}: {sorted(un)[:10]}')
+    if linked & sk: err.append(f'정거장과 skip에 함께 있는 카드 {sorted(linked & sk)[:10]}')
+import collections as _c
+pl = _c.Counter(x['place'].split(' — ')[0].strip() for x in M['lessons'])
+if [k for k, v in pl.items() if v > 1]: err.append(f'장소 중복 {[k for k, v in pl.items() if v > 1]}')
 print(f"과 {len(M['lessons'])} · 정거장 {sum(x['n_stations'] for x in M['lessons'])} · 정거장 행 {sum(len(x['stations']) for x in M['lessons'])} · dropped {len(M['dropped'])} · held {len(M.get('held', []))} · 행 {len(want)}")
 print('\n'.join(err) if err else 'PASS'); sys.exit(1 if err else 0)

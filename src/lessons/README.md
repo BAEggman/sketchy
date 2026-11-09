@@ -13,5 +13,20 @@
 - `tools/cards.py '<정규식>' [장]` — 카드 검색.
 - `tools/check_map.py` — 740행이 정확히 한 번씩 배정됐는지 · 정거장 6~14 · 카드 id(덱이 있으면).
 
+## 재생기
+- 빌드: `python3 src/lessons/build_player.py` → 저장소 루트 `lessons.html`(단일 파일 · 외부 라이브러리/폰트/CDN 없음). 원본은 `player-template.html` + `player.js`, 과는 `l/*.json`에서 읽어 인라인한다. 그림은 `images/lessons/<id>.webp`를 링크하고, 없으면 회색 자리표시.
+- 화면: 과 목록(`lessons.html?l=<id>`로 바로, `&m=review|test`) · 투어(상자만 밝힘 · ko-KR TTS 0.8~1.4 · 자동 넘김) · 복습(그림을 누르면 사실·고리) · 시험(순서대로, 틀·되짚기 제외 → 점수·틀린 정거장). 시험 기록은 localStorage `sketchy_lessons_v1` = `{과id: [{date, score, total, wrong:[n…]}]}`, JSON 내보내기. 키: ←/→ · 스페이스.
+- 과 JSON 꼴(`l/<과id>.json`):
+  ```json
+  {"id": "hist-02", "title": "…", "place": "…", "image": "images/lessons/hist-02.webp", "w": 2048, "h": 1144,
+   "stations": [
+    {"n": 0, "kind": "frame", "obj": "장소 전체", "fact": "…", "hook": "…", "say": "…", "box": null, "src": []},
+    {"n": 1, "obj": "…", "fact": "60자 이내", "hook": "…", "say": "2~4문장", "box": [x, y, w, h], "src": ["카드 id"]},
+    {"n": 9, "kind": "review", "obj": "되짚기", "fact": "…", "hook": "…", "say": "…", "box": [[x, y, w, h], [x, y, w, h]], "src": []}
+   ]}
+  ```
+  box는 w×h(보통 2048×1144) 기준 픽셀. 빌드는 꼴 오류(필수 칸 · 상자 꼴 · 번호/과 id 겹침)에서 멈추고, 정거장 6~14 · 사실 60자 · 상자 범위는 경고만.
+- `l/_demo.json`(+ `images/lessons/_demo.webp`)은 재생기 시험용 자리표시 과다(한의학 내용 없음). 진짜 과가 들어오면 지워도 된다.
+
 ## 다음
 시범 과 `hist-02`(南北朝·隋) — 설계(정거장마다 60자 사실 · 물건 · 고리, 예약표 첫 줄) → 재생기(투어 · 복습 · 시험) → 바탕 그림 → 판독 · 조각 고침 → 일치 검사 → 사용자 유지 시험.

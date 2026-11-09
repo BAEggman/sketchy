@@ -1,0 +1,254 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>한의학 Sketchy 과</title>
+<style>
+:root{
+  --bg:#f5f3ee; --fg:#1c1c1f; --muted:#5d5d66; --card:#ffffff; --line:#dcd8cf; --chip:#ece8df;
+  --accent:#a8500f; --accent-fg:#ffffff; --stage:#2a2c30; --ring:#ffcf3f;
+  --good:#1d7a3a; --bad:#b3261e;
+  --sans:'Noto Sans CJK KR','Noto Serif CJK KR','Apple SD Gothic Neo','Malgun Gothic','맑은 고딕',sans-serif;
+  --serif:'Noto Serif CJK KR','Noto Sans CJK KR','Apple SD Gothic Neo','Malgun Gothic','맑은 고딕',serif;
+  --gut:16px; --vh:100vh; --chrome:330px;
+  color-scheme:light dark;
+}
+@supports (height:100dvh){ :root{ --vh:100dvh; } }
+@media (prefers-color-scheme:dark){
+  :root{ --bg:#141518; --fg:#ececef; --muted:#a4a4ae; --card:#1e2024; --line:#34373d; --chip:#2a2c31;
+    --accent:#f0a35e; --accent-fg:#1a1205; --stage:#0c0d0f; --good:#5cc47c; --bad:#ff8a80; }
+}
+*{ box-sizing:border-box; }
+html{ -webkit-text-size-adjust:100%; }
+body{ margin:0; background:var(--bg); color:var(--fg); font-family:var(--sans); line-height:1.55; font-size:16px; }
+button,input{ font:inherit; color:inherit; }
+[hidden]{ display:none !important; }
+a{ color:var(--accent); }
+
+.top{ display:flex; align-items:center; gap:12px; padding:10px var(--gut); border-bottom:1px solid var(--line); min-height:52px; }
+.top h1{ font-size:1rem; margin:0; font-weight:700; letter-spacing:-.01em; }
+.top .home{ text-decoration:none; font-size:.92rem; padding:6px 10px; border:1px solid var(--line); border-radius:8px; color:var(--fg); white-space:nowrap; }
+.top .home:hover{ border-color:var(--accent); }
+main{ padding:14px var(--gut) 40px; max-width:1360px; margin:0 auto; }
+
+/* 과 목록 */
+.lead{ color:var(--muted); margin:4px 0 16px; font-size:.95rem; }
+.notice{ background:var(--chip); border-radius:8px; padding:8px 12px; margin:0 0 14px; font-size:.92rem; }
+.lessons{ list-style:none; margin:0; padding:0; display:grid; gap:10px; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); }
+.lcard{ display:flex; flex-direction:column; gap:4px; padding:14px 16px; border:1px solid var(--line); border-radius:12px; background:var(--card); text-decoration:none; color:var(--fg); height:100%; }
+.lcard:hover,.lcard:focus-visible{ border-color:var(--accent); }
+.lc-title{ font-family:var(--serif); font-weight:700; font-size:1.05rem; }
+.lc-place{ color:var(--muted); font-size:.9rem; }
+.lc-meta{ display:flex; flex-wrap:wrap; gap:6px 12px; font-size:.85rem; margin-top:4px; }
+.lc-meta .rec{ color:var(--accent); font-weight:600; }
+.lc-meta .none{ color:var(--muted); }
+.tag{ display:inline-block; font-size:.75rem; padding:1px 7px; border-radius:99px; background:var(--chip); color:var(--muted); margin-left:6px; vertical-align:2px; font-family:var(--sans); font-weight:600; }
+.tools{ margin-top:18px; display:flex; gap:10px; flex-wrap:wrap; align-items:center; font-size:.9rem; color:var(--muted); }
+
+/* 과 화면 */
+.lhead{ display:flex; flex-wrap:wrap; align-items:flex-end; justify-content:space-between; gap:10px 16px; margin-bottom:12px; }
+.lhead h2{ font-family:var(--serif); font-size:1.2rem; margin:0; line-height:1.35; }
+.lhead p{ margin:2px 0 0; color:var(--muted); font-size:.9rem; }
+.modes{ display:inline-flex; border:1px solid var(--line); border-radius:10px; overflow:hidden; background:var(--card); }
+.modes button{ border:0; background:none; padding:8px 16px; cursor:pointer; min-height:40px; font-weight:600; color:var(--muted); }
+.modes button + button{ border-left:1px solid var(--line); }
+.modes button[aria-pressed="true"]{ background:var(--accent); color:var(--accent-fg); }
+
+.lbody{ display:grid; grid-template-columns:minmax(0,1fr); gap:12px; }
+.stagecol{ min-width:0; }
+.stagewrap{ background:var(--stage); border-radius:10px; overflow:hidden; display:flex; justify-content:center; }
+.stage{ position:relative; width:min(100%, calc(max(200px, var(--vh) - var(--chrome)) * var(--w,16) / var(--h,9))); aspect-ratio:var(--w,16) / var(--h,9); background:#8b8e94; user-select:none; -webkit-user-select:none; }
+.stage img{ position:absolute; inset:0; width:100%; height:100%; object-fit:fill; display:block; }
+.ph{ position:absolute; inset:0; display:flex; align-items:center; justify-content:center; text-align:center; padding:12px; color:#f3f3f3; font-size:.9rem;
+  background:repeating-linear-gradient(135deg,#8b8e94 0 18px,#83868c 18px 36px); }
+.stage svg{ position:absolute; inset:0; width:100%; height:100%; pointer-events:none; overflow:visible; }
+.shade{ fill:rgba(8,9,12,.68); transition:opacity .22s ease; opacity:0; }
+.stage.dim .shade{ opacity:1; }
+.ring-o{ fill:none; stroke:rgba(0,0,0,.55); stroke-width:7px; }
+.ring{ fill:none; stroke:var(--ring); stroke-width:3px; }
+.rings{ animation:pop .35s ease-out; }
+@keyframes pop{ from{ opacity:0; } to{ opacity:1; } }
+.hots{ position:absolute; inset:0; }
+.hot{ position:absolute; display:block; margin:0; padding:0; background:transparent; border:2px solid transparent; border-radius:6px; cursor:pointer; -webkit-tap-highlight-color:transparent; }
+.hot:hover{ border-color:rgba(255,255,255,.38); background:rgba(255,255,255,.05); }
+.hot:focus-visible{ outline:none; border-color:rgba(255,255,255,.7); }
+.hot.sel{ border-color:var(--ring); box-shadow:0 0 0 2px rgba(0,0,0,.45); }
+
+.ctrl{ margin-top:10px; display:flex; flex-direction:column; gap:8px; }
+.row{ display:flex; align-items:center; gap:8px; flex-wrap:wrap; }
+.row.nav{ justify-content:space-between; flex-wrap:nowrap; }
+.btn{ border:1px solid var(--line); background:var(--card); border-radius:9px; padding:8px 14px; min-height:42px; cursor:pointer; font-weight:600; white-space:nowrap; }
+.btn:hover:not(:disabled){ border-color:var(--accent); }
+.btn:disabled{ opacity:.4; cursor:default; }
+.btn.primary{ background:var(--accent); color:var(--accent-fg); border-color:var(--accent); }
+.btn.good{ background:var(--good); border-color:var(--good); color:#fff; }
+.btn.bad{ background:var(--bad); border-color:var(--bad); color:#fff; }
+.btn[aria-pressed="true"]{ background:var(--chip); border-color:var(--accent); color:var(--accent); }
+.btn.grow{ flex:1 1 0; }
+.btn kbd{ font-family:var(--sans); font-size:.72rem; opacity:.75; font-weight:500; margin-left:4px; }
+.count{ font-variant-numeric:tabular-nums; color:var(--muted); font-size:.92rem; white-space:nowrap; }
+.dots{ display:flex; flex-wrap:wrap; gap:4px; justify-content:center; }
+.dot{ width:22px; height:22px; border-radius:50%; border:1.5px solid var(--line); background:var(--card); padding:0; cursor:pointer; font-size:.66rem; line-height:1; color:var(--muted); font-variant-numeric:tabular-nums; }
+.dot.frame{ border-radius:5px; }
+.dot.review{ border-style:dashed; }
+.dot[aria-current="true"]{ background:var(--accent); border-color:var(--accent); color:var(--accent-fg); }
+.keys{ font-size:.78rem; color:var(--muted); text-align:center; }
+
+.side{ display:flex; flex-direction:column; gap:10px; min-width:0; }
+.card{ background:var(--card); border:1px solid var(--line); border-radius:12px; padding:14px 16px; }
+.meta{ display:flex; align-items:baseline; gap:8px; flex-wrap:wrap; font-size:.88rem; color:var(--muted); margin-bottom:6px; }
+.badge{ display:inline-block; font-size:.78rem; font-weight:700; padding:2px 9px; border-radius:99px; background:var(--chip); color:var(--fg); white-space:nowrap; }
+.badge.station{ background:var(--accent); color:var(--accent-fg); }
+.fact{ font-family:var(--serif); font-weight:700; font-size:1.12rem; line-height:1.5; margin:0 0 8px; word-break:keep-all; overflow-wrap:anywhere; }
+.hook{ margin:0 0 8px; font-size:.95rem; word-break:keep-all; overflow-wrap:anywhere; }
+.hook b{ font-size:.75rem; background:var(--chip); padding:1px 7px; border-radius:99px; margin-right:6px; color:var(--muted); vertical-align:1px; }
+.say{ margin:0; color:var(--muted); font-size:.92rem; word-break:keep-all; overflow-wrap:anywhere; }
+.src{ margin:8px 0 0; font-size:.75rem; color:var(--muted); }
+.opts{ display:flex; flex-wrap:wrap; gap:8px; align-items:center; }
+.rate{ display:flex; align-items:center; gap:8px; font-size:.88rem; color:var(--muted); flex:1 1 200px; }
+.rate input{ flex:1; min-width:90px; accent-color:var(--accent); }
+.rate output{ font-variant-numeric:tabular-nums; min-width:3.2em; color:var(--fg); }
+.hint{ color:var(--muted); font-size:.92rem; margin:0; }
+.score{ font-size:2rem; font-weight:800; margin:0 0 4px; font-variant-numeric:tabular-nums; }
+.wrong{ list-style:none; padding:0; margin:8px 0 0; display:flex; flex-direction:column; gap:6px; }
+.wrong button{ width:100%; text-align:left; border:1px solid var(--line); background:var(--bg); border-radius:8px; padding:8px 10px; cursor:pointer; }
+.wrong button:hover{ border-color:var(--accent); }
+.wrong .wf{ display:block; font-family:var(--serif); font-weight:700; font-size:.95rem; }
+.wrong .wo{ display:block; font-size:.8rem; line-height:1.45; color:var(--muted); margin-top:2px; }
+.past{ font-size:.82rem; color:var(--muted); margin:10px 0 0; }
+
+@media (max-width:599px){
+  .stagewrap{ margin:0 calc(-1 * var(--gut)); border-radius:0; }
+  .lhead .modes{ width:100%; }
+  .modes button{ flex:1; }
+}
+@media (min-width:1000px){
+  :root{ --chrome:250px; --gut:24px; }
+  .lbody{ grid-template-columns:minmax(0,1fr) 340px; gap:20px; align-items:start; }
+}
+@media (prefers-reduced-motion:reduce){ .rings{ animation:none; } .shade{ transition:none; } }
+</style>
+</head>
+<body>
+<header class="top">
+  <a class="home" id="homeLink" href="?" hidden>← 과 목록</a>
+  <h1 id="pageTitle">한의학 Sketchy 과</h1>
+</header>
+<main>
+  <section id="listView" hidden>
+    <p class="lead">과마다 그림 한 장. 투어로 정거장을 차례로 듣고, 복습에서 그림을 짚어 보고, 시험으로 떠올려 본다.</p>
+    <p class="notice" id="listNotice" hidden></p>
+    <ul class="lessons" id="lessonList"></ul>
+    <div class="tools">
+      <button type="button" class="btn" data-act="export">시험 기록 내보내기 (JSON)</button>
+      <span id="storeNote"></span>
+    </div>
+  </section>
+
+  <section id="lessonView" hidden>
+    <div class="lhead">
+      <div><h2 id="lTitle"></h2><p id="lPlace"></p></div>
+      <div class="modes" role="group" aria-label="보기 방식">
+        <button type="button" data-mode="tour" aria-pressed="true">투어</button>
+        <button type="button" data-mode="review" aria-pressed="false">복습</button>
+        <button type="button" data-mode="test" aria-pressed="false">시험</button>
+      </div>
+    </div>
+    <div class="lbody">
+      <div class="stagecol">
+        <div class="stagewrap">
+          <div class="stage" id="stage">
+            <img id="pic" alt="" decoding="async" draggable="false">
+            <div class="ph" id="ph" hidden></div>
+            <svg id="dim" viewBox="0 0 16 9" preserveAspectRatio="none" aria-hidden="true">
+              <defs><mask id="holes" maskUnits="userSpaceOnUse" x="0" y="0" width="16" height="9">
+                <rect id="maskBase" x="0" y="0" width="16" height="9" fill="#fff"/><g id="holeG"></g>
+              </mask></defs>
+              <rect class="shade" id="shade" x="0" y="0" width="16" height="9" mask="url(#holes)"/>
+              <g class="rings" id="ringG"></g>
+            </svg>
+            <div class="hots" id="hots" hidden></div>
+          </div>
+        </div>
+
+        <div class="ctrl" id="tourCtrl">
+          <div class="row nav">
+            <button type="button" class="btn" data-act="prev">← 이전</button>
+            <span class="count" id="tCount"></span>
+            <button type="button" class="btn primary" data-act="next">다음 →</button>
+          </div>
+          <div class="dots" id="tDots"></div>
+          <div class="keys">←/→ 정거장 · 스페이스 자동 넘김</div>
+        </div>
+        <div class="ctrl" id="reviewCtrl" hidden>
+          <div class="row nav">
+            <button type="button" class="btn" data-act="rprev">← 앞 물건</button>
+            <span class="count" id="rCount"></span>
+            <button type="button" class="btn" data-act="rnext">뒤 물건 →</button>
+          </div>
+          <div class="keys">그림에서 물건을 누르면 사실이 뜬다 · ←/→ 차례로</div>
+        </div>
+        <div class="ctrl" id="testCtrl" hidden>
+          <div class="row" id="tsAsk"><button type="button" class="btn primary grow" data-act="reveal">떠올렸으면 보기 <kbd>스페이스</kbd></button></div>
+          <div class="row" id="tsJudge" hidden>
+            <button type="button" class="btn bad grow" data-act="wrong">틀렸다 <kbd>←</kbd></button>
+            <button type="button" class="btn good grow" data-act="right">맞았다 <kbd>→</kbd></button>
+          </div>
+          <div class="row" id="tsDone" hidden>
+            <button type="button" class="btn primary grow" data-act="retest">다시 시험</button>
+            <button type="button" class="btn grow" data-act="export">기록 내보내기 (JSON)</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="side">
+        <article class="card" id="tourCard">
+          <div class="meta"><span class="badge" id="tBadge"></span><span id="tObj"></span></div>
+          <p class="fact" id="tFact"></p>
+          <p class="hook" id="tHook"><b>고리</b><span></span></p>
+          <p class="say" id="tSay"></p>
+          <p class="src" id="tSrc" hidden></p>
+        </article>
+        <div class="card opts" id="tourOpts">
+          <button type="button" class="btn" data-act="auto" aria-pressed="false">자동 넘김</button>
+          <button type="button" class="btn" data-act="voice" aria-pressed="true">내레이션</button>
+          <button type="button" class="btn" data-act="replay" id="replayBtn">다시 듣기</button>
+          <label class="rate">속도 <input id="rate" type="range" min="0.8" max="1.4" step="0.1" value="1"><output id="rateOut">1.0×</output></label>
+          <p class="hint" id="ttsNote" hidden>이 브라우저는 읽어 주기(speechSynthesis)를 지원하지 않는다.</p>
+        </div>
+
+        <article class="card" id="reviewCard" hidden>
+          <p class="hint" id="rHint">그림에서 물건을 눌러 보세요. 상자 테두리는 숨겨져 있다.</p>
+          <div id="rBody" hidden>
+            <div class="meta"><span class="badge station" id="rBadge"></span><span id="rObj"></span></div>
+            <p class="fact" id="rFact"></p>
+            <p class="hook" id="rHook"><b>고리</b><span></span></p>
+          </div>
+        </article>
+
+        <article class="card" id="testCard" hidden>
+          <div class="meta"><span class="badge station" id="sBadge"></span><span id="sProg"></span></div>
+          <div id="sAsk"><p class="hint">밝혀진 자리에 무엇이 있었나? 사실을 떠올린 뒤 「보기」를 누른다.</p></div>
+          <div id="sShow" hidden>
+            <p class="meta" id="sObj"></p>
+            <p class="fact" id="sFact"></p>
+            <p class="hook" id="sHook"><b>고리</b><span></span></p>
+          </div>
+          <div id="sDone" hidden>
+            <p class="score" id="sScore"></p>
+            <p class="hint" id="sSaved"></p>
+            <ul class="wrong" id="sWrong"></ul>
+            <p class="past" id="sPast"></p>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+</main>
+<script id="lessons-data" type="application/json">__LESSONS_DATA__</script>
+<script>
+__PLAYER_SCRIPT__
+</script>
+</body>
+</html>

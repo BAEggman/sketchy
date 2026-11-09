@@ -6,4 +6,4 @@
   2. 일치 검사 △ 둘 — 부엌칼 → 은색 외과 메스 · 쪽지 위 금메달에 붉은 리본(동전으로 읽힘)
 - 캡처: 1024×572 원본을 화면에 1:1로 띄워 zoom 캡처(1456×828) → 1421×793 잘라 2048×1144 LANCZOS.
 - 일치 검사(별도 검사자): 1차 ○8 · △2(5 칼, 10 쪽지 메달) → 고친 뒤 ○10. 오독 위험 기록: 웍 속은 채소볶음처럼 보임 · 학생들 팔 든 모습은 환호로도 읽힘 · 흰 천은 빨래로도 읽힘 — 내레이션이 잡는다.
-- 파일: base_v1(첫 턴) · base_v2(편집 1) · base_v3(최종 = images/lessons/hist-02.webp) · boxes.json · check_list.md
+- 파일: base_v1(첫 턴) · base_v2(편집 1) · base_v3(최종 = images/lessons/hist-02.webp) — 모두 webp q80(2026-11-09 png에서 바꿈) · boxes.json · check_list.md

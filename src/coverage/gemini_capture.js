@@ -8,7 +8,9 @@ window.__setup = function (idx) {
   window.__src = im.src; window.__W = im.naturalWidth; window.__H = im.naturalHeight;
   return window.__W + 'x' + window.__H + ' (생성 그림 ' + ims.length + '장 중 ' + (idx === undefined ? ims.length - 1 : idx) + '번)';
 };
-window.__show2 = function (tx, ty, tw, th) {
+window.__show2 = function (tx, ty, tw, th, sc) {
+  // sc: 그림 배율(생략 시 1). 원본이 화면보다 크면 0.5 등으로 줄여 띄운다.
+  sc = sc || 1;
   // 그림의 (tx,ty)부터 tw×th CSS px 를 화면 왼쪽 위에 원본 배율로 띄우고, 오른쪽·아래 24px 를 마젠타로 두른다.
   let d = document.getElementById('__ov'); if (d) d.remove();
   if (tx < 0) return 'off';
@@ -18,7 +20,7 @@ window.__show2 = function (tx, ty, tw, th) {
   const inner = document.createElement('div');
   inner.style.cssText = 'position:absolute;left:0;top:0;width:' + tw + 'px;height:' + th + 'px;overflow:hidden;background:#ff00ff';
   const im = document.createElement('img'); im.src = window.__src;
-  im.style.cssText = 'position:absolute;left:' + (-tx) + 'px;top:' + (-ty) + 'px;width:' + window.__W + 'px;height:' + window.__H + 'px;max-width:none;display:block';
+  im.style.cssText = 'position:absolute;left:' + (-tx) + 'px;top:' + (-ty) + 'px;width:' + (window.__W * sc) + 'px;height:' + (window.__H * sc) + 'px;max-width:none;display:block';
   inner.appendChild(im); d.appendChild(inner);
   return [tx, ty, tw, th].join(':');
 };

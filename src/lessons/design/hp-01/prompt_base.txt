@@ -1,0 +1,18 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes. Absolutely no text, no letters, no numbers, no writing anywhere.
+Scene: inside a small, cosy Korean street-food snack bar, seen from the front.
+BACK WALL, top centre: a huge round half-circle dial gauge, like a speedometer, with a big black needle. Its arc is divided into FOUR colored zones from LEFT to RIGHT: (1) dark blue zone with a BIG snowflake, (2) pale light-blue zone with a SMALL snowflake, (3) orange zone with a SMALL flame, (4) bright red zone with a BIG flame. A bright beam of sunlight from a small high window on the right falls on the RIGHT half of the dial (orange and red zones glow warmly); the LEFT half (the two blue zones) is in cool shadow.
+MIDDLE: one long counter across the whole width, divided into FIVE little stalls side by side, LEFT to RIGHT:
+STALL 1: a basket of cut yellow lemons; next to it a round cloth pouch full of water, its drawstring pulled TIGHTLY shut so that not a single drop leaks out.
+STALL 2: a steaming cup of black coffee; above it a paper drip filter with dark coffee dripping straight DOWN into a glass pot; next to it a kitchen rag that has dried out completely and stands stiff and hard as a board.
+STALL 3 (exact centre): a big golden honey pot tilted on a stand, thick honey pouring VERY slowly in one long stretchy string into an empty bowl below, filling it up.
+STALL 4: a pile of bright red chili peppers; a burst of red chili powder spreading out SIDEWAYS in a wide horizontal fan to the left and right.
+STALL 5: a heap of white salt; a wooden tub in which a whole napa cabbage is being salted: its upper leaves are still stiff, its lower leaves have gone soft and limp and sunk DOWN to the bottom of the tub.
+FOREGROUND LEFT: at a small table, a man shivering in a thick padded winter coat with frost on his eyebrows, eagerly eating a bowl of hot soup that is bubbling over a small portable gas burner flame.
+FOREGROUND RIGHT: at a small table, a man in a sleeveless shirt, red-faced and dripping with sweat, eating a big bowl of shaved ice piled with ice cubes.
+Only these two people. No cooks. No signboards, no menus, no text, letters or numbers anywhere.
+
+(v1 → 편집 1: 배추를 절여 늘어지게(v2) → 편집 2: 행주가 종이봉투로 읽혀 흰 행주로 + 햇빛 넓히기(v3 — 행주 여전히 봉투, 햇빛 불변) → 편집 3: 마른 노란 스펀지로 바꿈(v4 최종))
+edit 1: Change ONLY the napa cabbage in the wooden tub on the far right: make it clearly half-salted and wilted — outer and lower leaves soft, limp, drooping over the rim and sagging DOWN into salty water.
+edit 2: (1) paper bag → WHITE kitchen cloth rag dried stiff like a board; (2) make the sunbeam wider so it lights BOTH orange and red zones.
+edit 3: replace the white standing bag-like object with a yellow kitchen SPONGE lying on the counter, dried out completely: shrunken, stiff, hard as a rock, deep dry cracks.
+edit 4: make the yellow sponge unmistakably a kitchen dish sponge: dark GREEN scrubbing pad layer on top, shrunken, warped, bone-dry with cracks. (v5 최종 — 햇빛 넓히기는 실패, 글을 맞춤: 볕은 빨강 칸 쪽)

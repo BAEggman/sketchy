@@ -57,7 +57,7 @@ def commit(msg):
     subprocess.run(['cp',R+'tools/make_tts.js','/home/claude/s7/jsd/make_tts.js'])
     r=subprocess.run(['python3','src/lessons/build_player.py'],cwd=w,capture_output=True,text=True); print(r.stdout.strip().splitlines()[-3:])
     subprocess.run(['git','add','-A','src/lessons','images/lessons','lessons.html'],cwd=w)
-    full=msg.rstrip()+'\n\nCo-Authored-By: Claude Fable 5.2 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01H8LcZK4WVLkMjSUBUXBg6J\n'
+    full=msg.rstrip()+'\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01H8LcZK4WVLkMjSUBUXBg6J\n'
     r=subprocess.run(['git','commit','-q','-m',full],cwd=w,capture_output=True,text=True); print(r.stdout[-200:],r.stderr[-200:])
     print(subprocess.run(['git','log','--oneline','-1'],cwd=w,capture_output=True,text=True).stdout.strip())
 

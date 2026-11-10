@@ -1,0 +1,16 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes. Absolutely no text, no letters, no numbers, no writing anywhere.
+Scene: looking straight down from above onto a big OCTAGONAL wooden mill wheel that lies flat in a pool of rippling blue water and fills the picture. The wheel is divided like a pie into EIGHT equal wedge-shaped painted scenes around a round hub. A round brass compass with a needle is fixed on the hub. In every wedge the SAME small emperor appears, a man in a purple robe with a small gold crown, doing a different thing; every scene is drawn upright as the viewer sees it. At the outer edge of every wedge there is one BLANK square cream-colored plaque with a dark wooden frame. Every plaque is completely empty, nothing drawn on it.
+The eight wedges, by position:
+- LEFT wedge (9 o'clock): sunrise. The emperor steps OUT through an open wooden gate; green sprouts push out of the ground at his feet.
+- UPPER-LEFT wedge: morning. The emperor uses a long ruler to line up a perfectly neat, even row of seedlings.
+- TOP wedge (12 o'clock): blazing noon sun. The emperor and his reflection look at each other in a big bright mirror.
+- UPPER-RIGHT wedge: afternoon. The emperor guides an ox pulling a plow across a brown field.
+- RIGHT wedge (3 o'clock): autumn sunset with red maple leaves. The emperor laughs with his mouth wide open, hugging a basket of ripe fruit.
+- LOWER-RIGHT wedge: dusk. The emperor fights with a sword against a black shadow warrior.
+- BOTTOM wedge (6 o'clock): midnight with a crescent moon over dark water. The exhausted emperor sits slumped, wiping sweat from his forehead, his tools laid down beside him.
+- LOWER-LEFT wedge: just before dawn, on a mountain. The emperor sets the last stone on top of a finished stone tower.
+Around the wheel: blue water with white splashes in the four corners. No other people. No text, letters, numbers or symbols anywhere.
+
+[편집 1] TOP wedge: remove the mirror and the reflection; the emperor stands face to face with a big colorful PHEASANT with a long tail, staring into each other's wide-open eyes.
+[덧그림] 현판의 세 줄 획 여덟은 코드(lk.overlay)로 그려 넣는다.
+[버린 첫 시도 base_v1] "a giant wooden WATER WHEEL seen straight from the front … eight spokes" — 살이 위·아래·좌우로 놓여 칸이 방위 사이에 끼었다. 「OCTAGONAL … divided like a pie」로 써야 칸이 정방위에 온다.

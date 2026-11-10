@@ -1,3 +1,24 @@
+[다시 그림 2026-11-10 — base_v4 이후. 앉은 줄이 병풍보다 넓어 딸 셋이 제 폭에서 밀려 앉던 약점을 없앰]
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes. Absolutely no text, no letters, no numbers, no writing anywhere.
+Scene: a family banquet in a traditional Korean hall, seen from the front. EIGHT family members sit in ONE straight row on cushions, evenly spaced across the FULL width of the picture, from the left edge to the right edge. Directly behind EACH person stands that person's OWN small single-panel standing screen: a narrow upright wooden frame with one painted picture, exactly as wide as that person's cushion and centred on that person, so every screen belongs clearly to the one person sitting in front of it. Eight people, eight screens, one-to-one. Each person has ONE body part drawn COMICALLY HUGE, two or three times normal size, so it is the first thing you notice. From left to right:
+1. the youngest son, a small boy: two HUGE HANDS resting on his knees, each hand bigger than his head. His screen: a tall green mountain.
+2. the middle son, a teenage boy: two HUGE EARS sticking out like fans. His screen: winding blue river water with waves.
+3. the eldest son, a young man: two HUGE bare FEET stretched forward, soles facing us. His screen: a dark thundercloud with a yellow lightning bolt.
+4. the father, an old man with a white beard and a topknot: a HUGE round HEAD like a giant balloon. His screen: blue sky with a golden sun and white clouds.
+5. the mother, an old woman with grey hair: a HUGE round BELLY like a giant ball under her red skirt. Her screen: a brown plowed field with furrows.
+6. the eldest daughter, a young woman: two HUGE thick bare THIGHS like logs. Her screen: green trees bending in a strong wind with wind lines.
+7. the middle daughter, a teenage girl: two HUGE round EYES, each as big as her mouth. Her screen: bright red-orange fire flames.
+8. the youngest daughter, a small girl: a HUGE wide-open laughing MOUTH. Her screen: a calm lake with reeds.
+The four males sit on the left half and the four females on the right half, the two parents in the middle; the children get smaller toward the two ends. One long low banquet table with a few bowls in front of them, low enough that every huge body part stays fully visible.
+Only these eight people. No hats. No signboards. No text, letters or numbers anywhere.
+
+[편집 1 → v5] mother's belly a giant ball; eldest daughter's thighs like two giant logs → 넓적다리가 진짜 통나무(나이테)로 그려짐
+[편집 2 → v6] the logs must become her own bare skin-colored thighs, no wood; belly even bigger → 맨살 넓적다리로 돌아옴
+[편집 3 → v7] father wears a BROWN vest over a light grey jacket (흰 옷 흰 수염 = 肺 노인과 겹치지 않게)
+[편집 4 → v8 최종] eldest daughter: bare thighs three times thicker, each as wide as her whole torso; hide her feet under the skirt hem (검사 △ 「그냥 통통한 다리」 → 넓적다리가 양옆으로 크게 벌어짐. 발 하나는 조금 보임)
+교훈: 「like logs」는 통나무를 그려 버린다 — 굵기 비유에 물건 이름을 쓰지 말 것.
+
+[첫 그림 v1~v3 — 여덟 폭 병풍 하나]
 A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes. Absolutely no text, no letters, no numbers, no writing anywhere.
 Scene: a family banquet in a traditional Korean hall. Behind the family stands one long folding screen with EIGHT panels, each panel showing one nature picture. EIGHT family members sit in one row on cushions, one person in front of each panel. Each person has ONE body part drawn comically huge. From left to right:
 1. the youngest son, a small boy, with HUGE HANDS. Panel behind him: a tall mountain.

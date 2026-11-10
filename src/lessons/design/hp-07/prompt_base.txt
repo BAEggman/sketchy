@@ -1,0 +1,10 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes. Absolutely no text, no letters, no numbers, no writing anywhere.
+Scene: inside a Korean Joseon scholar's study room (sarangbang) with a warm yellow oiled-paper floor, seen from the front. Objects arranged from LEFT to RIGHT:
+FAR LEFT: a FOUR-panel folding screen; each panel is painted with one plant: plum blossoms, orchids, chrysanthemums, bamboo. In front of the screen, on a low wooden table, FOUR items in a row: a ginseng root shaped like a little person, a white knobbly rhizome, a round white fungus ball, and a brown licorice stick.
+CENTRE-LEFT: a black lacquered tray divided into FOUR square compartments, one item in each: a sticky jet-black steamed root, a brown forked root, a white root, and a knobbly brown rhizome.
+CENTRE: an open treasure chest glowing with exactly EIGHT shining jewels.
+CENTRE-RIGHT, side by side on a low shelf: (a) a plain white dish with SIX round dark pills next to a blue jug of cool water; (b) a small chest with a shiny GOLD rim, holding the same dark pills plus a cinnamon stick and a dark knobbly root, warmed by a little glowing brazier beneath it.
+FAR RIGHT: the paper sliding door stands open onto a wooden veranda; a bundle of brushwood tied with straw lies exactly ACROSS the wooden door-sill, half inside the room and half outside.
+No people. No signboards, no calligraphy, no text, letters or numbers anywhere.
+
+(v1 → v2 최종은 코드 손질: 접시의 환약 일곱 → 오른쪽 한 알을 지워 여섯(cv2 inpaint) · 보석 일곱 → 파란 보석 하나를 복사해 여덟)

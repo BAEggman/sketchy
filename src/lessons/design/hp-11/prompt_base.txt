@@ -1,0 +1,13 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes. Absolutely no text, no letters, no numbers, no writing anywhere.
+Scene: a small theater stage seen from the audience, red velvet curtains at the sides and top. SIX actors stand in a row across the stage, LEFT to RIGHT, all wearing the same plain white costume. Each actor holds the string of one round light-blue balloon, and the balloon shows what happens to it:
+(1) ANGRY actor, face bright red, veins popping, steam from his ears, standing on a stage LIFT platform that shoots him UP toward the ceiling; his balloon rockets straight UP with speed lines.
+(2) LAUGHING actor, doubled over with joy; his balloon is soft and half-limp, drifting lazily on a long SLACK, loose string.
+(3) CRYING actor, tears streaming; her balloon is shrinking and deflating, almost gone, with a little puff of escaping air.
+(4) TERRIFIED actor, trembling, sinking DOWN through an open stage TRAPDOOR in the floor; his balloon is being pulled down with him.
+(5) STARTLED actor, jumping in fright with hair standing on end; his balloon string is tangled and the balloon zigzags wildly in every direction.
+(6) THINKING actor, chin on fist, deep in worry, sitting on a stool; his balloon string is tied up in a big tight KNOT.
+No audience members, no other people. No signboards, no text, letters or numbers anywhere.
+
+(v1 → 편집 1(v2): 우는 배우 풍선을 작게 쭈글쭈글 · 뚜껑 문 배우의 풍선을 구멍으로 끌려 내려가게 — 위 풍선이 남아 둘이 됨 → 편집 2(v3 최종): 위 풍선 지움)
+edit 1: (1) terrified actor sinking DOWN into the trapdoor, balloon dragged DOWN to the trapdoor edge with downward speed lines; (2) crying woman's balloon clearly SHRIVELLED, one third size, air escaping.
+edit 2: remove the upper balloon above the trapdoor actor (and its string and speed lines); keep only the low balloon being dragged into the hole.

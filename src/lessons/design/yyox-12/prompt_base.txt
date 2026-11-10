@@ -1,0 +1,16 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes. Absolutely no text, no letters, no numbers, no writing anywhere.
+Scene: looking straight down from above onto the big OCTAGONAL wooden floor of an open garden pavilion, which fills the picture. The floor is divided like a pie into EIGHT equal wedge-shaped painted panels around a small round center. Every wedge has one painted nature picture, and at its outer edge one BLANK square cream-colored plaque with a dark wooden frame. Every plaque is completely empty, nothing drawn on it.
+The eight wedges, by position:
+- TOP wedge (12 o'clock): open blue sky with a golden sun and white clouds.
+- UPPER-LEFT wedge: a calm lake with reeds; white mist rises from the lake.
+- LEFT wedge (9 o'clock): bright red-orange fire flames; an unused bow and a quiver full of arrows lie on the ground beside the fire.
+- LOWER-LEFT wedge: a dark thundercloud shooting a yellow lightning bolt toward the center.
+- UPPER-RIGHT wedge: trees bending in a strong wind, the wind lines blowing toward the center.
+- RIGHT wedge (3 o'clock): deep blue water with waves; an unused bow and a quiver full of arrows lie beside the water.
+- LOWER-RIGHT wedge: a tall green mountain whose peak is wrapped in the same white mist as the lake.
+- BOTTOM wedge (6 o'clock): brown plowed earth with furrows.
+In the round center stands ONE man: an ancient sage with long black hair and a cape of leaves, whose lower body is a coiled green snake tail. He points one hand straight UP toward the sky wedge and the other hand straight DOWN toward the earth wedge. A white dove sits on his shoulder.
+Around the pavilion: plain green garden grass in the four corners. No other people. No hats. No text, letters, numbers or symbols anywhere.
+
+[편집 1] remove the white dove; a small WHITE FOX with a big fan of many fluffy white tails (a nine-tailed fox) sits at his side inside the round center.
+[덧그림] 현판의 세 줄 획 여덟과 흰 점 타일 여덟은 코드(lk.overlay)로 그려 넣는다 — Gemini에 시키지 않는다.

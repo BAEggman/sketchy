@@ -1,0 +1,12 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes. Absolutely no text, no letters, no numbers, no writing anywhere.
+Scene: a cut-away dollhouse view of an apartment, seen from the front. At the FAR LEFT, the front door is firmly LOCKED with a big chain and a deadbolt — nothing comes in from outside. Then FIVE small rooms side by side, LEFT to RIGHT; all windows are shut, and each room has its own trouble that started INSIDE:
+ROOM 1: the windows are shut, yet the curtains flap wildly and the ceiling lamp swings in a whirling indoor wind; a man sits trembling, his hands shaking, one side of his mouth and one eye drooping.
+ROOM 2: a bedroom at night (a moon outside the window); a man lies wide awake in bed with eyes open, restless and sweating; on the nightstand a candle burns with a huge roaring flame.
+ROOM 3: a bathroom whose floor drain is clogged; murky water floods the floor, mould and little mushrooms grow on the damp walls; a man sits on a stool with swollen puffy feet, looking heavy and sluggish.
+ROOM 4: a bone-dry room with cracked walls, a dead dried-up plant and an EMPTY upside-down water-cooler bottle; a man with cracked lips and dry flaky skin coughs a dry cough.
+ROOM 5: a cold room whose wall-mounted boiler has its pilot light gone OUT; frost and icicles inside; a man curls up in bed under thick blankets, clutching his lower back and knees.
+Only these five people. No signboards, no text, letters or numbers anywhere.
+
+(v1 → 편집 1(v2): 현관문을 닫힌 채로 · 정수기 물통 비우기 → 편집 2(v3): 보일러 둥근 창에 꺼진 버너와 연기 · 1번 방 얼굴 한쪽 처짐 · 배수구 막힘 — 이 편집이 v1을 바탕으로 해 문이 다시 열림 → v4 최종 = v3에 v2의 닫힌 문 부분을 코드로 덧붙임)
+edit 1: (1) front door fully CLOSED, flat in its frame, chain and padlock across; (2) room 4 water-cooler bottle completely EMPTY and dry.
+edit 2: (1) room 5 boiler: small round glass window, dark EMPTY burner, NO flame, thin curl of grey smoke; (2) room 1 face droops on ONE side; (3) room 3 floor drain CLOGGED with a plug of hair and grey gunk.

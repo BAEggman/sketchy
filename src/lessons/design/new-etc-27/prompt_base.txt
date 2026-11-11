@@ -1,0 +1,15 @@
+Please generate an image. A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor, no one hurt. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: a busy FIRE STATION and the small town street around it, seen from slightly above, firefighters in red helmets.
+TOP LEFT: a firefighter calmly inspects a smoke alarm in a quiet house that is NOT burning. Next to it a GREEN house has a small fire, and firefighters are spraying water on the YELLOW house NEXT DOOR to protect it before the fire spreads.
+TOP CENTRE: a house cut away: big flames on the roof, and in the basement a frayed sparking electric wire that started it. One truck blasts the roof flames at full speed (urgent); in a second, calm house with only a little smoke, an electrician slowly replaces the frayed wire; in a third house two firefighters work at the same time, one hosing the flames, one fixing the wire.
+TOP RIGHT: in a snowstorm a pale, thin, shivering man: one firefighter wraps him in a glowing heated blanket while another brushes the snow off his coat at the same time.
+MIDDLE RIGHT: two small houses side by side: one where a huge fire has burned the house down to a weak pile of grey ash; the other a neglected, crumbling old house whose rooms are piled with junk, garbage bags, water puddles and sticky sludge.
+BOTTOM LEFT: a wobbly, leaning, weak building: firefighters first prop it up with strong wooden buttress beams, and only then start spraying water at the small fire inside.
+BOTTOM CENTRE: at the edge of a forest wildfire, firefighters calmly light a small controlled BACKFIRE with a drip torch, so the two fires meet and burn out.
+BOTTOM RIGHT: a clogged drain with water overflowing all around it; a firefighter shoves a big plunger and flushes the blockage right THROUGH the pipe, so the clog of debris shoots out the far end and the water drains away.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat) ---
+v1: fire station town with all nine vignettes. Checker: the green house was hosed too, so "yellow house FIRST" was weak; the backfire firefighter held a red extinguisher with a hose (read as putting out fire).
+v2: edit — two firefighters soak only the yellow house; two firefighters with long drip torches at the forest edge. Side effect: the smoke-alarm inspector in the top-left house disappeared.
+v3 (final, code, inspector_v3.py): the inspector pasted back from v1 (only differing pixels inside the house box).

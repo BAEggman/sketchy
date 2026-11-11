@@ -1,0 +1,17 @@
+Please generate an image. A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor, nothing gory (only small cartoon scrapes). Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: a summer night in the yard of a Korean countryside GRANDMOTHER'S house, lit by a hanging lantern and a full moon. A big wooden pyeongsang platform stands in the middle of the yard.
+ON THE PLATFORM, LEFT: grandma waves a big round paper fan; a boy lying beside her with a puffed, stuffy tummy feels the breeze push the trapped air away and smiles; on a round bamboo tray next to her, dried orange tangerine peels and small GREEN unripe tangerines.
+ON THE PLATFORM, RIGHT: a chubby boy who ate too much watermelon holds his round, bulging belly; next to him a skewer of shiny red candied hawthorn berries, a big white radish, a bundle of sprouted barley, and a hen pecking at the ground below the platform.
+BACK LEFT: a green spiral mosquito coil sends up smoke and a swarm of mosquitoes flees; beside it a bowl of brown nuts and a small round ball crackling with a tiny lightning bolt.
+FRONT ROW, four children each with a small scrape being cared for:
+1. a girl whose knee scrape is pressed tight with a bandage; a white CRANE stands next to her, and a plate of lotus root slices sits nearby;
+2. a boy with a nosebleed tilting forward with an ice pack on his forehead, purple spiky THISTLE flowers growing beside him;
+3. a boy with a dark clotted scrape on his arm being dusted with yellow pollen from a CATTAIL plant growing in a little pond;
+4. by an old clay kitchen fire-hole (agungi) with warm glowing earth, a pale cold girl gets a warm mugwort moxa bundle held near her belly.
+FAR RIGHT: grandpa rubs red safflower oil on a big blue BRUISE on a boy's shin; behind them a peach tree with peaches, and a brown COW lying down with its knees bent.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat) ---
+v1: yard, platform, all groups present. Checker: no watermelon for "ate too much watermelon"; the barley bundle had no sprouts (read as straw); the pond boy's scrape was open red (not clotted) and he sprinkled the pollen himself; grandpa's safflower oil fell as red drops (looked like blood).
+v2: edit — watermelon rinds; green sprouts on the barley; dark crusted scrape with pollen drifting from the cattail spikes; orange glowing oil. But the blue bruise on the boy's shin vanished, leaving a small scribble mark.
+v3 (final, code, bruise_v3.py): the v1 bruise pasted back in place (only where v1 had skin/bruise), feathered 2px, with a 25% orange oil tint; the scribble lies under it.

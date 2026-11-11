@@ -1,0 +1,19 @@
+Please generate an image. A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no price tags, no display screens with digits, no sound-effect words, no writing anywhere.
+Scene: a bright HOME-APPLIANCE STORE showroom with a shiny floor.
+LEFT: a tall CLOTHES-CARE CABINET (steam closet) with two open doors: in the LEFT door a coat is shaken in RED warm steam, with green ephedra stems and cinnamon sticks hanging inside; in the RIGHT door a coat is shaken in a cool BLUE breeze, with fresh mint leaves and yellow chrysanthemum flowers hanging inside. Dust flies off both coats.
+TOP CENTRE: FIVE wall-mounted AIR CONDITIONERS in a row, each blowing cool blue air down onto its own little display:
+1. a big flame being put out, next to a block of white chalky stone;
+2. three yellow roots on a steamy damp patch that dries up;
+3. a red drop of blood cooling down, next to a dark red root;
+4. gold-and-silver flowers (honeysuckle) next to a little green germ blob that shrinks away;
+5. a feathery green herb sprig under a small crescent moon, with faint low wisps of heat.
+CENTRE BOTTOM: two DRAIN PUMPS: a small gentle pump with an oil can dripping oil and a pile of small round seeds, easing a sticky pipe so it flows smoothly; and a HUGE roaring pump blasting a flood of water out of a pipe with great force, while a frail old man with a cane and a pregnant woman stand back behind a rope.
+RIGHT: three DEHUMIDIFIERS:
+- one next to an old man rubbing his wet, achy knees in a little swirl of wind and rain, with a yellow quince fruit on top;
+- one puffing out a fragrant aroma swirl, with fragrant green leaves and small cardamom pods on top;
+- one whose clear water tank fills up and drains into a bucket, with a white round mushroom-like lump and pearly grains on top.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat) ---
+v1: steam closet (red/blue), five ACs with displays, small oil pump and big pump behind a rope, three dehumidifiers — all present. Checker: AC 1 flame still big (not "put out"); AC 2 root smooth like ginger/turmeric (clashed with 生薑 of 辛溫); the quince was pear-shaped.
+v2 (final): edit — dying flame with smoke; a knobbly bird's-claw yellow rhizome; a bumpy long-oval quince; a wind swirl added to the rain cloud.

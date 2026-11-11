@@ -1,0 +1,18 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no book titles, no speech bubbles, no sound-effect words, no writing anywhere.
+Scene: a hushed library READING ROOM with tall wooden bookshelves at the back and warm desk lamps. A stern librarian with glasses stands at the back with her hands on her hips, frowning. Across the room, SEVEN readers sit side by side behind one long wooden reading table, all facing us, each with an open book, and each one is making a different embarrassing noise in the silence. Draw any sound only as plain curved sound-wave arcs, never with letters.
+From left to right:
+1. a KING with a golden crown and red robe: a big round bubble of air pops out of his mouth as he BURPS; he pats his chest, embarrassed.
+2. a thin OLD MAN in a white robe with a white beard: COUGHING hard into a white handkerchief, small puffs of air bursting out.
+3. a GENERAL in green armour: asleep with his head on the table and eyes closed, yet TALKING in his sleep — a long ribbon of plain curved sound-wave arcs streams from his moving mouth.
+4. a FARMER in a straw hat: holding his throat and GULPING hard, a visible lump sliding down his neck, his face puckered and sour; half a lemon lies on his book.
+5. a BALD muscular STRONGMAN dressed all in black: stretching both arms up in a HUGE YAWN, eyes watering; in front of him a tissue box and a big pile of crumpled used tissues, and a fine spray from his nose shows he is about to SNEEZE.
+6. a COOK in a yellow apron and white cook's hat: jolting with a HICCUP, a small puff of air shooting straight UP out of his mouth, his eyes wide and FRIGHTENED, clutching his stomach.
+7. a JUDGE in a green robe with a small brass weighing scale on the table: FURIOUS, face bright red, steam puffing from his ears, slamming his fist on the table so the scale jumps.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat) ---
+v1 (not kept): king's burp drawn as a big empty bubble with a tail (read as a speech bubble); general's sleep-talk drawn as a white smoke ribbon.
+v2: three small bubbles for the king; general redrawn asleep with drool and sound arcs. Checker: bubbles read as soap bubbles, arcs behind the head (snoring?), strongman's raised fists read as a victory shout, cook's puff not from the mouth.
+v3 (not kept): king puffed cheeks + puff from mouth OK; strongman redrawn (sleepy yawn, hand at chin, fan-shaped sneeze spray from the nose into a tissue) OK; cook puff from mouth OK; general's arcs landed on his chest and around his book.
+v4: general only — erase chest/book lines, three bold arcs from the mouth side up over the shoulder (they sit upper-right of the head).
+v5 (code, drool_v5.py): general's mint-teal drool → clear whitish.

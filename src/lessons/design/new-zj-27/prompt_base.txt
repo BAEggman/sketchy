@@ -1,0 +1,22 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor, nothing gory. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: a FISHING POND shown in CROSS-SECTION: the top part shows the grassy bank and the water SURFACE, the lower part shows clear water down to the muddy BOTTOM. Anglers sit on a wooden dock along the top.
+WATER SURFACE, left to right:
+1. a fishing float made from a hollow green SCALLION stalk; an angler presses it down with one finger and the middle of the stalk is visibly EMPTY and hollow inside; on the dock beside him a bucket tips over and a lot of RED liquid pours out;
+2. a fishing float that has fallen apart into many loose little pieces SCATTERED and drifting apart on the surface; on the dock beside it a king with a gold crown and red robe slumps weakly, his small red heart-shaped lantern almost going out.
+MIDDLE WATER, left to right:
+3. a plump crucian carp swimming slowly and calmly in a gentle relaxed curve, smiling; the angler above it smiles peacefully;
+4. a skinny fish racing extremely FAST with many speed lines in a SHRINKING, drying puddle-pool that is almost empty, the cracked dry mud showing around it, a red warning light flashing beside it.
+BOTTOM, left to right:
+5. a lead sinker hidden DEEP down, lying pressed against a big white fish BONE on the very bottom, half buried under a rock, with a shadowy creature's eyes peeking out from a hole beneath it;
+6. a big heavy IRON trap cage sitting firmly on the bottom, solid and hard, covered with ice and frost, with a hard round boulder lump locked inside it.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+(Gemini 카본 · 사고 수준 높음)
+
+--- 편집 1 (v1 → v2, 같은 대화) ---
+Edit this same picture with two small changes only. (1) The round stone basin in the middle-right with the fast fish and the red warning light: make its water almost completely DRIED UP — only a thin shallow puddle left at the very bottom, with dry CRACKED mud showing all around the inner walls, the fast skinny fish still racing with speed lines in that tiny puddle. (2) The red heart lantern beside the slumped king on the dock: make it very DIM, its flame almost out, no bright glow. Keep everything else exactly the same. No text, letters or numbers anywhere; no labels, no sound-effect words.
+→ 결과: 웅덩이 마름 · 등불 어둡게 성공. 고기 속도선이 흐려짐.
+
+--- 편집 2 (v2 → v3) ---
+Edit this same picture with two small changes only. (1) In the nearly dried-up stone basin: make the skinny fish clearly DASHING at top speed — its body bent in a swift S-curve, thick bold speed lines streaming behind its tail and little splashes of water flying up around it. (2) Bottom left: move the grey lead sinker so it lies pressed tightly right ON the white fish bone (touching the ribs), under the edge of the rock. Keep everything else exactly the same. No text, letters or numbers anywhere; no labels, no sound-effect words.
+→ 결과: 둘 다 성공.

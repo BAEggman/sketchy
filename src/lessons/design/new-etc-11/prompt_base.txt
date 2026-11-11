@@ -1,0 +1,17 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor, nothing gory. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: inside a colorful BALLOON SHOP with a wooden floor, a counter and a big display wall.
+LEFT (at the counter): a huge round balloon whose neck is clamped tightly shut with a big clothes peg: it swells enormous, stretched shiny and about to burst. Beside it a balloon-shop clerk has fainted stiffly backward: eyes squeezed shut, jaw clenched tight, both fists tightly clenched, face red.
+CENTRE-LEFT (on the floor): a balloon that has lost ALL its air, completely deflated, wrinkled and limp on the floor, a last puff of air leaking out of a hole. Above it, a GOLD balloon and a dark NAVY balloon whose shared string has just SNAPPED: they drift apart in opposite directions, one up-left and one up-right.
+CENTRE (in front of a small hot stove): a big clear WATER balloon, filled with water with an air bubble at its top, hangs over the hot stove; it is sweating drops, and its bottom has burst: water GUSHES out, and the air bubble rushes out too, so the whole balloon shrinks and collapses.
+RIGHT: the display wall with FIVE pairs of TWIN balloons, each pair = one WHITE air balloon tied by a short string to one RED water balloon:
+- pair 1: the white balloon's string is tangled into a tight knot, and the red balloon underneath is dark with clumpy dark clots inside.
+- pair 2: the white balloon is weak and droopy, and the red balloon is leaking red drips from its bottom into a cup.
+- pair 3: the red balloon has burst and red water gushes out, and the white balloon tied to it is deflating at the same moment.
+- pair 4: both the white balloon and the red balloon are tiny, shriveled and pale.
+- pair 5: the two balloons turn away from each other with a slack string, and their skins are dry, rough and scaly like fish scales.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat) ---
+v1: shop, clamped orange balloon, deflated floor balloon, snapped gold/navy pair, water balloon over the stove and the five twin pairs all right. Problems: the clerk stood upright with fists raised (looked angry, not fainting); the water balloon lost water but not air.
+v2: edit — clerk falling backward, feet sliding; the water balloon's top wrinkles and white puffs of air rush out with the water. Checker: one fist still raised (read as "angry flailing"); pair 2's white balloon as taut as pair 1's (no "droop").
+v3 (final): edit (first try returned an empty answer, re-sent in the same chat) — both arms pressed stiff along his sides, fists down; pair 2's white balloon half-deflated and sagging.

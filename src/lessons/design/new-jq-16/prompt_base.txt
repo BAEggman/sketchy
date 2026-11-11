@@ -1,0 +1,13 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes. Absolutely no text, no letters, no numbers, no writing anywhere.
+Scene: inside a big old DYE WORKSHOP, the work flows from LEFT to RIGHT.
+FAR LEFT: a stone water well; a bald muscular strongman in black pumps clear water out of it into a wooden trough.
+LEFT: a big wooden juice PRESS. A farmer in a straw hat pours grain into it and a cook in a yellow apron pours clear water into it; pale juice drips out of the press into a pipe.
+CENTRE: an old man in a white robe works a big bellows that pushes the pale juice along the pipe into a huge iron CAULDRON over a roaring fire. A king with a golden crown stokes the fire; inside the cauldron the juice turns bright RED and steams.
+Beside the cauldron stands a big glass jar of red liquid with little flames dancing on its surface.
+From the cauldron, long RED threads come out and run all around the workshop over wooden pegs on the walls in one big closed loop, coming back into the cauldron.
+RIGHT: under the red threads a gardener pours red dye from a watering can onto wilted potted plants; the plants on that side are lush, green and glossy.
+TOP RIGHT: along the red thread a little basket of glittering grain slides to a general in green armour who catches it.
+No text, letters or numbers anywhere.
+
+(v1 → v2 편집, 같은 대화) "Keep the whole picture exactly the same, and ADD only one thing: the red threads now form one CLOSED LOOP. From the top-right wooden beam, the red threads continue back to the LEFT along the top of the picture, over a wooden peg above the cauldron, and hang straight DOWN back into the cauldron ..." → 들보 말뚝에서 솥으로 내려오는 실 다발이 생김('더하기' 편집은 됨).
+(v3 최종 = v2 + 코드 dice_v3.py: 벽에 주사위 1·4 = 十四經脈)

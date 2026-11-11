@@ -1,0 +1,15 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor, nothing gory. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no dials with numbers, no sound-effect words, no writing anywhere.
+LEFT 60% of the picture: a CUT-AWAY two-story house seen from the front (front wall removed), with a BASEMENT below the ground line.
+UPPER FLOOR, two rooms side by side:
+- LEFT ROOM: a man with a bright red face, sweating heavily, sits on a bed surrounded by three electric fans blowing at him, an ice pack on his head, holding a bowl of ice cubes — he is STILL red and sweating.
+- RIGHT ROOM: a man with a pale blue face, shivering, wrapped in a scarf, sits surrounded by two glowing electric heaters and a hot-water bottle, holding a steaming cup of hot tea — he is STILL blue and shivering.
+BASEMENT (boiler room), under the two rooms:
+- on the left a big glass WATER TANK that is almost EMPTY, only a little water at the bottom; next to it a small water pump powered by a tiny steady flame underneath, pumping water from a well up into the tank. A blue pipe runs from the tank straight up into the LEFT room above.
+- on the right a big iron FURNACE whose fire is almost out, just a few weak embers. A red pipe runs from the furnace straight up into the RIGHT room above.
+- between them a bald muscular strongman dressed all in black kneels and pours golden oil from a jug into the furnace's fuel opening; the furnace fire is starting to flare up.
+RIGHT 40% of the picture: a calm acupuncture clinic room. A patient lies FACE-DOWN on a treatment table. A doctor in a white coat places thin acupuncture needles in a neat row along both sides of the patient's spine on his BACK. The patient's body is drawn slightly see-through, so under the back we can see five small, cute, simple cartoon organs glowing softly inside (a red heart, two pink lungs, a green liver, a yellow spleen, two dark kidneys); a thin golden thread of light runs from each back needle down to one glowing organ. One more needle sits on the TOP of the patient's head, and a thin golden thread runs from it all the way down to the patient's FOOT, which glows warmly.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음) ---
+v1: base prompt above, accepted. Gemini added a middle living-room floor (pipes pass through it; harmless).
+v2 (code, organs_v2.py): back view showed organs in front-view layout (liver on the patient's left) → organ group mirrored about the spine thread (x≈1690, y 410–700, 14px feathered edges).

@@ -1,0 +1,17 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: a long guesthouse dormitory room with SIX wooden BUNK BEDS standing in one row from left to right, plus one small extra bunk bed in the far right corner. The LOWER bunks are home to permanent RESIDENTS in striped pyjamas, with their slippers and potted plants (they live here). The UPPER bunks hold visiting GUESTS with suitcases and travel hats (they change every year). Every person has a round picture plaque on the headboard. At the foot of each of the six beds hangs a small picture tag: bed 1 a SNOWFLAKE, bed 2 a CHERRY BLOSSOM, bed 3 a green BARLEY SPROUT, bed 4 a BLAZING SUN, bed 5 a red MAPLE LEAF, bed 6 small SNOWFLAKES on a pine twig.
+BED 1: lower resident, plaque BLACK CIRCLE, holds a pinwheel and a small potted sprout; upper guest, plaque BIG SUN, leans down and waters the resident's sprout from a bottle.
+BED 2: lower resident = a small KING with a crown, plaque CRESCENT MOON, holds a candle; upper guest, plaque BLACK CIRCLE, drops a bundle of firewood down to the king's candle.
+BED 3: lower resident = a MINISTER with an official's black hat, plaque SMALL SUN, holding a lantern, bowing politely upward; upper guest = a KING with a golden crown, plaque CRESCENT MOON, sitting proudly on top.
+BED 4: lower resident and upper guest are identical TWINS, both with FULL MOON plaques and damp towels on their heads, giving each other a high five.
+BED 5: lower resident, plaque SUN-AND-CRESCENT, holds a metal bucket; upper guest, plaque SMALL SUN, leans down and gently presses the resident's head down with one hand, the resident calmly accepting.
+BED 6: lower resident, plaque BIG SUN, holds an empty cup; upper guest, plaque SUN-AND-CRESCENT, pours water into the cup from a shiny metal jug.
+EXTRA CORNER BUNK (far right): the lower resident is a KING with a crown and the upper guest is a MINISTER in an official's hat; the angry king kicks the upper bunk from below so the minister bounces up in alarm.
+On the wall above beds 1 to 3 hangs a big RED boxing glove punching to the right; on the wall above beds 4 to 6 hangs a big BLUE boxing glove punching back to the left.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat; viewport became 1388×868 → capture crop 1410×787, C() k=1.008) ---
+v1: all plaques/tags/gloves/corner bunk right; bed 4 had four twins (two up, two down), bed 5's presser came from the side.
+v2: erase twins + arm; bed 4 one twin up / one down reaching; bed 5 adventurer guest — but his legs came down through the bunk onto the resident's head. Checker: legs through the bed; bed-6 resident drawn with a smiling sun for a head.
+v3 (not kept): bed 5 adventurer redrawn wholly on the upper bunk (arm stopped short); bed 6 resident redrawn with a normal face.
+v4 (final): bed 5 only — arm stretched down so the palm rests on the resident's head.

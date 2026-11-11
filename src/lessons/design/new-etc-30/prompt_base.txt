@@ -1,0 +1,16 @@
+Please generate an image. A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor, nobody hurt badly. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: a COUPLE DANCE STUDIO with a wooden floor, a mirror wall and a dance teacher clapping the rhythm. Every dancer wears a big round picture BADGE on the chest showing ONE symbol: a BIG SUN, a SMALL SUN, a SUN WITH A CRESCENT beside it, a FULL MOON, a thin CRESCENT MOON, or a solid BLACK CIRCLE with a thin yellow ring.
+LEFT-CENTRE, a trio: in the middle a dancer with a SMALL SUN badge holds hands with two partners at once:
+- on her left a dancer with a BIG SUN badge; together they hold a small bundle of firewood sticks and a cinnamon branch;
+- on her right a dancer with a SUN-AND-CRESCENT badge, who has a full round belly; together they hold a HUGE bundle of firewood sticks.
+RIGHT-CENTRE: three couples in a row doing a hand-off move, in each couple one dancer spins and passes a glowing ball to the partner:
+- BIG SUN passes to THIN CRESCENT MOON;
+- SUN-AND-CRESCENT passes to FULL MOON;
+- SMALL SUN passes to BLACK CIRCLE.
+FAR RIGHT: a couple (BIG SUN with THIN CRESCENT MOON) who BOTH trip and fall down at the very same moment, tangled together on the floor, dizzy; the teacher rushes over in alarm with a first-aid kit (plain, no symbols).
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat) ---
+v1: studio, trio, three passing couples, falling couple, teacher with plain kit. Problems: the round-bellied dancer and the middle back passer wore only a CRESCENT (needed sun+crescent); the left man's bundle was as big as the right one.
+v2: edit — both badges now sun+crescent; left man smaller sticks. Checker: the left pair held a leafy branch instead of hands; the big sun was half hidden; "? ?" marks above the fallen man.
+v3 (final): edit — clear hand-holding, big sun fully visible, a few logs + a cinnamon bark roll, dizzy stars instead of question marks.

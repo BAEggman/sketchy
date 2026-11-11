@@ -1,0 +1,12 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes. Absolutely no text, no letters, no numbers, no characters on scrolls or paintings, no writing anywhere.
+Scene: an ARCHAEOLOGICAL DIG at an ancient Chinese tomb on a sunny day.
+LEFT: a big grassy burial MOUND cut open by a trench; on top of the mound stand a stone HORSE statue and a stone statue of a crowned KING. In the trench two archaeologists unroll two long SILK scrolls: one scroll is painted with a foot and an arm and red lines, the other has a black half and a white half with red lines.
+CENTRE-LEFT: inside the trench wall, a row of small niches holding clay figurines; one niche is EMPTY except for a small round red wooden shield lying in it.
+CENTRE: a big clay statue of a man; a worker lays a long smoking line of burning moxa straight along a red line painted on its arm, from shoulder to hand (the line has two open ends, it is not a loop).
+CENTRE-FRONT: on a cloth on the ground, a colourful painted silk showing many small people doing stretching exercises, next to an opened wooden medicine box.
+RIGHT: a field tent; inside, an old Tang-dynasty scholar in a long robe paints coloured lines (red, green, blue) on three big posters of a human body seen from the front, the side and the back. Beside him an open chest overflowing with gold coins. With his other hand he presses a thumb on a worker's shoulder, and the worker jumps with his mouth wide open in pain.
+No text, letters or numbers anywhere.
+
+(v2 = v1 + 코드 dice_v2.py: 참호 벽 주사위 1·1(十一脈) · 약상자 곁 5·2(五十二病方))
+(v1 → v3 편집, 같은 대화) "Keep the whole picture exactly the same, with only one change on the big clay statue in the middle: put a row of small burning MOXA CONES with glowing orange tips standing directly ON the red line along its arm, from shoulder to wrist, each with a little curl of grey smoke rising; the worker holds a lit incense stick touching one of the cones."
+(v4 최종 = v3 + dice_v2.py 다시 적용. 검사 v2에서 뜸이 솔기처럼 보임 → '더하기' 편집으로 뜸봉 줄)

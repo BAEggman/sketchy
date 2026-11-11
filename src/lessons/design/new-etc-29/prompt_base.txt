@@ -1,0 +1,18 @@
+Please generate an image. A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor, nothing gory. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no red cross symbols, no sound-effect words, no writing anywhere.
+Scene: a sunny BEACH under a big blazing sun, with a wooden LIFEGUARD STATION tower in the middle and lifeguards in red swimsuits helping people.
+LEFT, two swimmers side by side:
+- one swimmer swallowed too much sea water: his belly is round and sloshing with water, he is very thirsty and drinks, but water spurts right back out of his mouth; he stands at a beach toilet unable to pee; a lifeguard hands him a tray with FIVE little cups;
+- the other swimmer acts wild and crazy, jumping and shouting with wild eyes, his lower belly glowing dark red, while he pees easily without any trouble; a lifeguard hands him a big PEACH.
+CENTRE, three sunbathers each with a big inflatable HEART-SHAPED pool float stuck tight on their upper belly, bloated but not in pain:
+- the first is red and hot, with yellow roots on the sand beside him;
+- the second is half sunburnt and half pale, beside him a pot of ginger tea with ginger slices and a half watermelon;
+- the third is cold and shivering with a little baby clinging tightly to his back.
+RIGHT-CENTRE: a man whose chest has turned into a HARD ROCK; when a lifeguard presses it he winces in pain; the lifeguard pushes the rock down into a deep pit dug in the sand.
+RIGHT: the tide floods up over a pale, trembling man's sandcastle; he is dizzy, his heart pounds, his legs shake so much he is about to fall to the ground; a big BLACK TORTOISE with a SNAKE coiled around it stands guard in front of him and holds back the waves; a little warm fire glows beside the tortoise.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat) ---
+v1: beach, lifeguard tower, water-belly and raving swimmers, three heart-float sunbathers, rock chest, black tortoise with snake — all present. Problems: the tide did not reach the sandcastle/man; an odd red object near the trembling man.
+v2: edit — sea floods up around the man's ankles, tortoise faces the waves; red object removed. Checker: seven cups on the tray (hook needs five); sandcastle flag looked like an "F".
+v3: edit — triangle pennant; tray now six cups.
+v4 (final): edit — far-right cup removed, exactly five.

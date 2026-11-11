@@ -1,0 +1,18 @@
+Please generate an image. A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no Chinese characters, no signs, no logos, no labels, no sound-effect words, no writing anywhere (the papers on the desk are blank).
+Scene: a traditional Korean NAMING HOUSE (a fortune-teller's naming office): an old sage in a hanbok and black gat hat with a long white beard sits at a low desk with an ink stone, a brush and blank paper, ready to give names.
+BEHIND HIM: a tall FOLDING SCREEN of SIX panels in a row, each panel showing one picture:
+1. a light white FEATHER fan blowing a crowd of tiny grey bandits out of an open door; green ephedra stems at the bottom;
+2. a heavy black iron WEIGHT resting on the lap of a trembling scared cat, which now sits calm; a red cinnabar stone beside it;
+3. a golden PADLOCK locking the lid of a leaking jar so it stops dripping;
+4. an oil can oiling a stuck sled so it slides smoothly down a slope; a few small hemp seeds;
+5. a bright SUN drying a soaking wet towel on a line; mulberry root bark and small red beans below;
+6. a watering can reviving a withered dry plant; beside it a jar of shiny jade-green jelly and white and purple crystals.
+FRONT LEFT: a customer holds a balance scale that is level: on one pan SIX white chalky stones, on the other pan ONE yellow licorice root stick.
+FRONT CENTRE: two very OLD grandpas with long white beards and canes sit side by side, one holding a round pinellia tuber, the other holding curly dried orange tangerine peel.
+FRONT RIGHT: three waiting customers: one holds his lower belly in discomfort with little drips falling from him; one carries a tall stack of heavy blocks on his back; one sits under several small gloomy grey rain clouds.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat) ---
+v1: sage, six-panel screen, scale, two old men, three customers — all right; the licorice pan held two sticks.
+v2: edit asking for one stick — no visible change (still two). Checker also: 桑白皮 drawn as brown logs; only a purple crystal (white one read as a base stone).
+v3 (final): edit — one licorice stick alone in the pan; white root-bark strips with the red beans; separate white and purple crystal clusters.

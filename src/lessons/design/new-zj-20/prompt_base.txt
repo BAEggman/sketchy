@@ -1,0 +1,15 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no signs, no plaques, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: inside a zoo REPTILE HOUSE. A wall of SIX glass terrariums in TWO rows of THREE, each lit from inside. In each terrarium one reptile sticks out its long pink TONGUE, each tongue doing something different:
+TOP ROW, left to right:
+1. a green lizard whose tongue sticks straight out STIFF and rigid like a wooden ruler; inside the tank a small red round shield glows hot with little flames, and green wind swirls blow around;
+2. a sleepy lizard whose tongue hangs out LIMP and floppy like a wet noodle, drooping down; beside it a deflated blue balloon and an empty glass bottle;
+3. a small snake whose tongue TREMBLES and shivers (small shaky motion lines around the tongue), in front of a tiny, weak, wobbly little fan giving only a faint breeze.
+BOTTOM ROW, left to right:
+4. a lizard whose tongue is BENT crookedly to ONE side, while a strong green wind gust blows from that side;
+5. a playful snake that FLICKS its tongue in and out and licks all around its lips, under a glowing red-hot heat lamp, with a small whirl of wind;
+6. a weak lizard lying flat whose tongue is pulled back SHORT and curled up, barely visible at the mouth; a red warning siren light flashes on top of this tank.
+No people. No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- 편집 1 (v1 → v2, 같은 대화) ---
+Edit this same picture with two small changes only. (1) Bottom-LEFT tank: erase the lizard and redraw it FACING THE VIEWER (front view, looking straight at us), with its tongue coming out of the middle of its mouth and then BENT sharply sideways to the RIGHT like a crooked hook, clearly askew; keep the green wind swirls blowing from the left. (2) Bottom-MIDDLE tank: make the snake's long tongue curl around and LICK its own upper lip, with a few small curved motion lines around the tongue to show it flicking in and out; keep the red heat lamp and the wind whirl. Keep everything else exactly the same. No text, letters or numbers anywhere; no labels, no sound-effect words.
+→ 결과: 둘 다 성공(옆모습의 「휜 혀」는 곧은 혀와 구별이 안 됨 → 정면 + 갈고리 꺾임).

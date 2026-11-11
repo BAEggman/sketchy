@@ -1,0 +1,8 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes. Absolutely no text, no letters, no numbers, no signs with writing anywhere.
+Scene: a power plant that sends electricity across the countryside to a village, left to right.
+LEFT: a big white power-plant DOME shown in cut-away, so we see its glowing core inside. A bald muscular strongman in black overalls pours a big sack of shining WHITE RICE into the glowing core. At the foot of the dome is a big round RED vault door, wide open: inside that little room glow a few paper lanterns beside white rice sacks. A thick golden rope ties the glowing core to the red door.
+MIDDLE: THREE tall steel transmission towers in a row carry thick power lines from the dome to the right. A worker in ORANGE overalls with a shovel strapped on his back climbs the middle tower.
+RIGHT: a small village where the power lines arrive: FIVE little houses in a row, painted green, red, yellow, white and black, all with brightly lit windows; a winding road in front lined with lit street lamps; and a small glass greenhouse full of young green sprouts growing tall under bright lamps.
+No other people. No text, letters or numbers anywhere.
+
+(v1 Gemini 한 턴 — 편집 없음. v2 = 코드 dice_v2.py: 송전탑 발치 주사위 6·6(66難) · 붉은 문 옆 돔 벽 주사위 3·6(36難))

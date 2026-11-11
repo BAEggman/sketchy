@@ -1,0 +1,19 @@
+Please generate an image. A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor, nothing gross. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: a cosy traditional Korean GRANDMOTHER'S SEWING ROOM with a sewing machine, spools of thread, fabric scraps and a low table.
+BACK LEFT: grandma mends a torn winter coat with a warm thick RED woollen patch; a small DEER ANTLER in velvet is used as a button; on the table a caterpillar with a green grass sprout growing from its head, and strips of tree bark that stretch silky white threads when pulled apart.
+BACK CENTRE: grandma's helper mends a thin, worn silk blouse with cool, moist BLUE silk thread; a TURTLE SHELL is used as a pincushion; a little dish of red GOJI berries.
+BACK RIGHT, three funny mistakes:
+(a) a young apprentice with eyes fixed only on his pile of patches slaps a big patch onto a strong man's brand-new shirt without looking at the man at all; the man looks confused;
+(b) someone sews a torn sack shut while a little grey MOUSE is still inside it, wriggling and trapped;
+(c) a very thin, rotten, see-through cloth tears even more when a heavy thick leather patch is sewn onto it.
+FRONT LEFT: a sweaty man dripping sweat; beside him a bowl of water with WHEAT grains floating on top and a bundle of thin brown roots.
+FRONT CENTRE-LEFT: a leaking sack of beans being stitched tight at the bottom; beside it a dish of black smoked PLUMS, brown nutmegs, wrinkled dried fruits and a reddish clay stone.
+FRONT CENTRE-RIGHT: a small cloth pouch whose drawstring is pulled tight shut; beside it clusters of little red berries, white lotus seeds, a twig with a foamy MANTIS egg case, and spiky orange rose hips.
+FRONT RIGHT: a little boy who swallowed a button bends over a bowl and coughs the button back up, grandma patting his back; next to them a melon with its long STALK and a bright blue crystal.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat) ---
+v1: all groups present, but the word "BEANS" was written on the burlap sack, and the thin cloth had no leather patch.
+v2: edit — word removed; a heavy leather patch half sewn on the thin cloth, which tears around it. Checker: the antler was smooth white (鹿角, not velvet 鹿茸); the apprentice looked at the man (not at his scraps); the melon was a netted melon (not chamoe).
+v3: edit — brown blunt young antler (no visible fuzz); apprentice's head bowed to his scraps; yellow striped chamoe with a curly stalk. The blue crystal vanished.
+v4 (final, code, crystal_v4.py): the v2 blue crystal pasted back in place.

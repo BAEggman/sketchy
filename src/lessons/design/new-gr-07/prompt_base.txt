@@ -1,0 +1,12 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes. Absolutely no text, no letters, no numbers, no signs, no writing anywhere.
+Scene: a sunny WATER PARK. In the centre of a big round pool stands a GIANT sand-coloured statue of a man, standing upright, with BOTH ARMS raised straight UP above his head, hands reaching for the sky. A shallow blue water channel runs over the statue's body in one loop: from the CHEST up the inner arms to the FINGERTIPS, from the fingertips down the outer arms to the HEAD, from the head down the outer sides of the body and legs to the TOES, and from the toes up the inner legs back to the CHEST. Little white swirls show the flow.
+Four small wooden platforms are attached to the statue, one at each turning point, and on each platform two people pass a big striped inner tube from one to the other:
+TOP, at the raised FINGERTIPS: an old man with a white beard in a white robe hands the tube to a man in white overalls holding a long pipe brush.
+At the FACE: the SAME man in white overalls with the pipe brush hands the tube to a cook in a yellow apron holding a ladle.
+BOTTOM, at the TOES: the SAME cook in the yellow apron hands the tube to a farmer in a straw hat.
+At the CHEST: the SAME farmer in the straw hat hands the tube to a king with a golden crown and a red robe.
+Palm trees and sun loungers around the pool, only a few small swimmers.
+No text, letters or numbers anywhere.
+
+(첫 대화 prompt_v1_lying.txt — 누운 거인: 한 팔만 위로, 쌍 자리가 몸과 어긋남 · 같은 역 인물이 다른 모습. 편집 둘(v2 얼굴 곁 다시 그리기 · v3 덤 요리사 지우기)로도 가슴 쌍 자리 못 고침 → 폐기)
+(새 대화 위 프롬프트 = v4 최종 — 선 거인 · 두 팔 위 · 네 발판이 손끝 · 얼굴 · 발 · 가슴 높이. 'the SAME man/cook/farmer'로 인물 일관성 얻음)

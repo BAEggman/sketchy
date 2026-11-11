@@ -1,0 +1,14 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no signs with writing, no logos, no labels, no red cross symbols, no sound-effect words, no writing anywhere.
+Scene: a big outdoor RELIEF SUPPLY distribution yard with tents and crates, seen from the front. Six stations from left to right:
+1. FAR LEFT: an old-fashioned clerk buried waist-deep in a HUGE heap of loose paper prescription slips pouring out of baskets; behind him a dusty old desk with a cobweb-covered stethoscope and a stopped clock; beside him a man in an ancient robe proudly swallowing a small grey STONE like a pill.
+2. A stern, strict-faced relief worker with a red-and-white LIFEBUOY ring hanging on his crate hands a steaming bowl straight PAST a straw-hat farmer, who reaches out but is skipped, to a bald muscular strongman dressed in black who receives it happily.
+3. A first-aid TENT standing on the very edge of a crumbling CLIFF: inside, a doctor pulls and straightens a patient's broken leg back into line and wraps it in a plaster cast, while the patient sleeps peacefully with a small cloth over his nose (numbed).
+4. The BIGGEST pile in the whole yard: a towering mountain of crates covered by a VERMILION-RED tarp, far taller than everything else; at its foot, several open sacks overflowing with wild green edible leaves and herbs gathered from the fields, handed to hungry villagers.
+5. A tall wooden cabinet with exactly SEVEN little doors in a row, all open, every compartment stuffed full of tiny prescription slips; a scholar in glasses studies them thoughtfully.
+6. FAR RIGHT: a modern-era doctor in a Chinese long gown holds a big brown herbal medicine pot in front of his chest as the main thing, and with his other hand adds a small Western stethoscope and a little glass pill bottle into the same pot.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat) ---
+v1: no skipped farmer at the lifebuoy crate (the bowl went straight to the strongman); a straw-hat boy among the greens villagers; cabinet with mixed doors and drawers.
+v2 (not kept): farmer added but HE held the bowl and handed it to the strongman (wrong reading); greens boy bare-headed; cabinet → 4 tall compartments (7 not achieved).
+v3 (final): worker himself lifts the bowl over the empty-handed, sad farmer to the strongman.

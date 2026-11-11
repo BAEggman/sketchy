@@ -1,0 +1,17 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor, nothing gross. Absolutely no text, no letters, no numbers, no signs with writing, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: a tall WEATHER OBSERVATORY TOWER on a hill, shown in CUT-AWAY view (front wall removed) so we see three floors stacked, with a weather vane and antennas on the roof. Each room has one ROUND PLAQUE with a simple picture (no writing) on its back wall, and one observer inside.
+TOP FLOOR, two rooms:
+- TOP-LEFT = DRY room. Plaque: a SUN and a CRESCENT MOON side by side. Inside: crisp bone-dry laundry, a cracked dry flower pot, dry leaves crumbling; the observer has cracked dry lips and dry flaky skin, licking his lips.
+- TOP-RIGHT = HOT STEAM room like a sauna. Plaque: a single thin CRESCENT MOON. Inside: thick hot steam rising from hot stones; the observer is red and sweating, with one cheek swollen up red and puffy.
+MIDDLE FLOOR, one wide room:
+- DAMP room. Plaque: a big FULL MOON. Inside: thick wet mist, water dripping down the walls, moss growing, a soaked sponge; the observer clutches his belly and hurries toward a small toilet door.
+BOTTOM FLOOR, two rooms:
+- BOTTOM-LEFT = WIND room. Plaque: a plain solid BLACK CIRCLE. Inside: a pinwheel spinning fast, curtains flapping, papers flying; the observer trembles and shakes all over with wobble lines.
+- BOTTOM-RIGHT = COLD room. Plaque: a big bright SUN. Inside: water frozen into rock-hard ice blocks, icicles; the observer looks pale and puffy, swollen up like a soft marshmallow.
+RIGHT SIDE of the tower: a glass ELEVATOR shaft running from the bottom floor to the top floor. Inside the elevator car rides a glowing, warm iron BRAZIER of fire with a small SUN plaque on it; motion lines above and below the car show it travelling up and down between all the floors, spreading gentle warmth.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat) ---
+(Note: with the Gemini sidebar open, the send helper's click opened the usage page; the prompt still went through. Keep the sidebar closed.)
+v1: base prompt above. Checker: all rooms/plaques/observers right; the damp room's ceiling drips looked like blue icicles (confusable with the cold room).
+v2 (final): damp room only — icicle-like drips → round droplets dripping and falling.

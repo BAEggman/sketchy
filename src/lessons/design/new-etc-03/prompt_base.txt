@@ -1,0 +1,11 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: an ANTARCTIC research base in a snowstorm: orange domes, an ice field, a low sun shining from the RIGHT side of the sky. FOUR expedition members work in four spots from left to right, each beside a patient or object wrapped in a grey wool BLANKET (frozen by the cold).
+1. A big expedition member in a bright VERMILION-RED parka with huge muscular upper arms carries a frozen man wrapped in a blanket out of the snow toward the warm sunshine; the frozen man's body shows SIX coloured lines running from his hands and feet up along his limbs, like channels on a body map, and he is coming back to life, smiling.
+2. A member sits patching a torn grey blanket that has several missing holes; she sews in FOUR new patches, each with a picture: a pink blossom, a summer sun, a red maple leaf and a snowflake.
+3. A member standing beside a willow tree in a snow pot points straight ahead with one finger; in front of him a white BALLOON wearing a small general's helmet floats forward, and behind it a neat marching line of round RED drops follows the balloon in single file.
+4. A member sits on a golden treasure chest that has a red HEART emblem on its lid, threading shiny ice PEARLS one by one onto a long string; a small open notebook rests on her knee showing only scribble-free blank lines.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat) ---
+v1: base prompt above. Checker: the four season patches encode 四時溫病, which the textbook gives to 龐安時 (郭雍 = 五種 斑疹); pointer wore a red parka too (clash with 朱肱's red).
+v2 (final): season patches + plain orange patch → five round patches each with a different red-spot pattern; pointer's parka → blue.

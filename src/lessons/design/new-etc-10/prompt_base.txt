@@ -1,0 +1,17 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no currency symbols, no sound-effect words, no writing anywhere. All coins, bills and gold bars are plain with no marks.
+Scene: a grand BANK HEAD OFFICE hall shown in cut-away, with an UNDERGROUND VAULT visible below the floor.
+TOP-LEFT: on the back wall a row of FOUR small branch teller windows, each with its metal shutter half pulled down: window 1 bursting with far too much cash spraying out; window 2 with an empty open drawer and cobwebs; window 3 with a tired old teller dozing beside cracked walls; window 4 with a balance scale tipped badly to one side.
+CENTRE-LEFT: a cheerful teller in a RED uniform: a glowing heater beside him warms everything, he pushes a heavy cash cart UP a ramp, and balloons float upward around him.
+CENTRE: a calm teller in a BLUE uniform: she waters green potted plants with a watering can, holds one finger to her lips for quiet, and with the other hand presses a big lever DOWN.
+FRONT-LEFT: a deposit window where a FARMER in a straw hat pours sacks of rice and grain into a slot; out of the other side shining plain coins flow into pipes.
+UNDERGROUND VAULT (cut-away below the floor, centre): a huge round vault door stands open, inside are piles of red gold bars and blue silver bars side by side; a BALD muscular STRONGMAN dressed all in black guards it; pipes run from the vault up to every teller window above. A long crack runs across the vault wall.
+FRONT-RIGHT: the bank's glass front door: on the doorstep a guard in red armour wrestles a masked thief, both steaming and glowing hot, and the door frame glows red-hot. Next to it, behind the counter, a small back room is packed with ice and snow and frozen inside, and a red guard stands outside its door unable to get in.
+FAR RIGHT: two shelves, each holding one RED piggy bank and one BLUE piggy bank joined by a tube:
+- upper shelf: the BLUE piggy bank is cracked and completely EMPTY, and through the tube it sucks coins out of the RED piggy bank, which is now half empty.
+- lower shelf: the RED piggy bank is EMPTY, cold and covered in frost, water leaks out of it into a puddle, and through the tube it sucks coins out of the BLUE piggy bank, which is now half empty.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat) ---
+v1: hall, branch windows, red/blue tellers, farmer deposit, vault, hot door and frozen back room all right. Problems: the window-4 balance scale was level; THREE piggy-bank shelves (the third a duplicate of the second); the top red piggy bank looked full.
+v2: edit — scale tipped hard; lowest shelf removed (floor puddle kept); top red piggy see-through and half full. Checker: coins ran down the pipe off the bottom edge instead of into the vault; piggy tubes showed no flow direction.
+v3 (final): edit — coins pour through the pipe into the vault onto the bar piles; each tube end bends over the EMPTY piggy's slot with coins dropping in. Text-only fixes: 陰盛則內寒 (not 陰勝), 調經論 mechanisms added, the back-room guard read as "trying to leave" = 溫氣去.

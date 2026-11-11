@@ -1,0 +1,16 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no banners with writing, no sound-effect words, no writing anywhere.
+Scene: a big festive WEDDING HALL holding a joint wedding of FIVE couples. Across the hall, FIVE round banquet tables stand in one row from left to right, each with one wedding couple seated behind it facing us and one wedding cake on it. In every couple the GROOM is BIG, puffed-up and beaming, with a round golden SUN badge on his chest; the BRIDE is SMALL, pale and shrinking, with a silver crescent-MOON badge on her chest. High above the whole hall hangs one huge round chandelier ring carrying TEN small lamps.
+Each table has its own little weather above it:
+TABLE 1: cake = a brown-yellow cake shaped like a mound of EARTH. Groom on the LEFT, bride on the right. Above it a heavy grey DAMP cloud with drizzle and damp fog; little mushrooms and mould grow on the tablecloth; a straw-hat FARMER guest at the side sits heavily, holding his swollen belly, looking sluggish.
+TABLE 2: cake = a shiny SILVER METAL cake like stacked silver bowls. Bride on the LEFT, groom on the right. On the groom's side the tablecloth is DRY and cracked like parched ground, with wilted dry flowers and dust. On the small bride's side a little red FLAME licks at the silver cake and is melting its edge.
+TABLE 3: cake = a blue cake shaped like a WATER wave. Groom on the LEFT, bride on the right. Above it SNOW falls and icicles hang from the table edge; the couple's breath shows in the cold.
+TABLE 4: cake = a green cake shaped like a little TREE. Bride on the LEFT, groom on the right. A strong WIND blows across it: napkins, leaves and petals fly sideways; a straw-hat FARMER guest at the side clutches his rumbling stomach with wavy lines around it.
+TABLE 5: cake = a red cake topped with real FLAMES. Groom on the LEFT, bride on the right. Above it shimmering HEAT waves; the candles blaze up high and the guests sweat.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat; 사고 수준이 「낮음」으로 돌아가 있어 다시 높음으로 맞춤) ---
+v1 (not kept): all good except the second farmer sat at the far right beside table 5.
+v2: "erase farmer, redraw in front of table 4" → he landed between tables 4 and 5. Checker: table 2 dryness and flames spread over both halves; farmer's table unclear.
+v3: table 2 fixed (left half plain white cloth, right half cracked + wilted flowers, one flame at the cake's left edge only); farmer unchanged.
+v4 (not kept as final): "shift the farmer left" → overshot to between tables 3 and 4.
+v5 (code, farmer_v5.py): v4 base; farmer's old spot restored from v3 (pixel-aligned); farmer cut out of v4 (largest diff component, background-equal pixels and blue table-3 scraps above the belt removed), scaled 0.78 at the feet, pasted at table 4's centre front.

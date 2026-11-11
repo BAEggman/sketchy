@@ -1,0 +1,14 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes. Absolutely no text, no letters, no numbers, no writing anywhere.
+Scene: a cartoon steam train on a track through green countryside, seen from the side. The train runs from LEFT to RIGHT; the LOCOMOTIVE is at the RIGHT front.
+LOCOMOTIVE (right): big white STEAM clouds puff from its chimney; its PISTON rods visibly push the big driving wheels; a hatch is open showing the glowing orange FIREBOX, and the driver in the cab warms his hands at it; a round silver BOILER on top with a water gauge; at the very front a red COWCATCHER shoves a fallen branch and some rocks off the rails.
+Behind it the TENDER, piled high with black coal; a coal shovel lifts coal toward the firebox.
+Then FIVE wagons follow toward the LEFT, each hooked to the next by a coupling chain:
+1. a RED tank wagon leaking red liquid from a crack, dripping onto the rails;
+2. a clear WATER tank wagon leaking water from two loose taps;
+3. an open wagon full of shining white PEARLS, pearls spilling out of a loose side door;
+4. a BLACK wagon with a big round air-intake funnel on top: big gusts of air blow OUT of it, only a tiny wisp is drawn in;
+5. the LAST wagon (far left): its floor sags and bulges down below the axles, sacks dropping out through the bottom; its coupling chain to the wagon in front is loose and stretched.
+No people except the train driver. No text, letters or numbers anywhere.
+
+(v1 → v2 편집, 같은 대화) "Keep the whole picture exactly the same, only change the LAST wooden wagon at the far left: erase it and draw it again in the same place, but now its wooden floor is broken and SAGS DOWN in a deep U-shaped bulge that hangs low below the axles, almost touching the rails, and brown sacks fall out through the torn sagging bottom. Its coupling chain to the black wagon hangs long and loose. No text, letters or numbers."
+(v2 최종 — v1은 끝 화차 바닥이 처지지 않음. 지우고 다시 그리기 편집으로 부서져 처진 바닥 · 늘어진 사슬이 나옴)

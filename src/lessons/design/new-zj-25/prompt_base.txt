@@ -1,0 +1,19 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor, clean and NOT gross (no poop, no visible waste). Absolutely no text, no letters, no numbers, no signs, no pictograms, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: a clean public RESTROOM with a tiled floor and a row of SIX stall doors along the back wall. In front of each stall one little scene, left to right:
+1. a man RUNNING desperately toward his stall clutching his belly with both hands, while a heavy iron ball on a chain drags behind from the seat of his pants;
+2. a farmer in a straw hat stands with a drooping face; the balloon tied to his belt is sinking DOWN toward the floor like a heavy weight, pulling the seat of his pants downward;
+3. inside an open stall a toilet tank with a broken flush keeps water slipping and gushing out by itself non-stop; in front, a farmer in a straw hat and a bald muscular strongman in black stand shivering with frost on their shoulders beside a small COLD stove whose fire has gone out;
+4. a man comes out of his stall with a red-hot glowing belly, pinching his nose; YELLOW wavy smell lines with little LEMONS floating in them drift out of the stall;
+5. a man comes out of a FROSTY stall with icicles, hugging his cold belly; pale blue wavy smell lines with little FISH floating in them drift out of the stall;
+6. at the end, a water carrier in black with two buckets on a shoulder pole: both buckets are full of CLOUDY, murky, steaming hot yellowish water with wavy smell lines rising.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+(Gemini 카본 · 사고 수준 높음)
+
+--- 편집 1 (v1 → v2, 같은 대화) ---
+Edit this same picture with two small changes only. (1) Far left running man: change his striped shirt to a plain light-blue shirt, and attach the chain of the heavy iron ball to the SEAT of his PANTS (his bottom) instead of his ankle, so the heavy ball drags from his bottom. (2) The standing farmer in the straw hat (second from left): erase the brown sack hanging from his belt and draw instead a round pale BALLOON on a string tied to his belt that is sinking DOWN low to the floor like a heavy weight, pulling the seat of his pants down. Keep everything else exactly the same. No text, letters or numbers anywhere; no labels, no sound-effect words.
+→ 결과: 줄무늬 셔츠 · 풍선 성공. 사슬이 여전히 발목 고리로 읽힘(죄수).
+
+--- 편집 2 (v2 → v3) ---
+Edit this same picture with two small changes only. (1) Far left running man: erase the iron ball, the chain and the ankle ring completely. Instead, a big heavy grey STONE weight hangs from the BACK of his BELT on a short thick rope and drags heavily on the floor behind his bottom. Nothing on his ankles. (2) The standing farmer in the straw hat with the pink balloon: erase the small grey object he holds by his hip, so his hand is empty; keep the pink balloon on the floor. Keep everything else exactly the same. No text, letters or numbers anywhere; no labels, no sound-effect words.
+→ 결과: 둘 다 성공.

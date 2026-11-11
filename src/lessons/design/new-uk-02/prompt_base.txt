@@ -1,0 +1,20 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor, nothing gory. Absolutely no text, no letters, no numbers, no signs, no plaques, no logos, no labels, no sound-effect words, no scale markings, no writing anywhere.
+Scene: inside a MUSEUM OF WEIGHTS AND MEASURES, wooden floor, glass display cases.
+TOP ROW: SIX glass display cases in a row, left to right:
+1. a long glass PIPE filled with RED liquid, like a storage tank of red liquid;
+2. a mannequin whose HEAD droops forward and whose eyes are sunk deep, with a dim little light inside its head;
+3. a mannequin with a badly HUNCHED back and drooping shoulders; a small window in its chest shows a red heart and two pink lungs sagging;
+4. a mannequin whose WAIST is a rusty stuck swivel joint that cannot turn, with a tiny tired bald strongman in black sitting inside the waist;
+5. a mannequin whose KNEES are wrapped with green cords; it cannot bend them and walks bent over leaning on a cane;
+6. a mannequin made of white BONE pillars with soft marrow inside, its legs trembling and wobbling, unable to stand still.
+BOTTOM LEFT: one big display case with FOUR old measuring tools in a row: a drawing COMPASS among pink cherry blossoms; a carpenter's SQUARE (L-shaped ruler) under a little summer sun; a balance BEAM held level among red autumn leaves; a heavy hanging WEIGHT sinking down among snowflakes.
+BOTTOM MIDDLE: two mannequins of a general in green armour among cherry blossoms: the LEFT one is over-strong and rigid, muscles bulging, with dizzy swirls around the top of his head; the RIGHT one is thin and weak, hugging his chest with one hand and his swollen side ribs with the other.
+BOTTOM RIGHT: a round table diorama: a general in green armour stands in the middle; a king with a gold crown hands him a small gift box; he hands a gift box on to a farmer in a straw hat; behind him a bald strongman in black offers him a pillow to rest; and in front of an old man in a white robe with a long white beard, the general kneels holding a white flag of surrender.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+(Gemini 카본 · 사고 수준 높음)
+
+--- 편집 1 (v1 → v2) --- 허리 진열장을 녹슨 쇠고리 + 근육질 장사로(성공), 디오라마에 베개 베고 누운 장군 더하기 → 큰 장사가 하나 더 생김.
+--- 편집 2 (v2 → 버림) --- 큰 장사 지우고 누운 장군을 작은 장사 앞으로 → 누운 장군이 둘이 됨.
+--- 편집 3 (→ v3) --- 가운데 누운 장군 지우기 → 누운 장군 둘 다 지워져 디오라마는 v1과 같아짐(허리 진열장 고친 것은 남음). 글을 「장사가 베개를 들고 섬」으로 맞춤.
+배운 것: 디오라마처럼 작은 인물이 많은 곳에 사람을 「더하기」는 덤 인물을 부른다. 「지우기」는 이웃의 비슷한 인물까지 지운다.

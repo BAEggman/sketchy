@@ -1,0 +1,27 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes. Absolutely no text, no letters, no numbers, no writing anywhere.
+Scene: ONE river seen from the side and slightly above, flowing from LEFT to RIGHT across the whole picture and getting wider as it goes, in FIVE stretches:
+STRETCH 1 (far LEFT): an old round stone WELL; water bubbles up and spills over its rim.
+STRETCH 2: a thin trickle of a stream.
+STRETCH 3: the water pours down a small rocky waterfall into a round pool.
+STRETCH 4: a broad, calm river.
+STRETCH 5 (far RIGHT): the river mouth opening into the blue sea.
+The river has two banks. The FAR bank (the upper half of the picture) lies in cool blue SHADOW under a tall dark cliff. The NEAR bank (the lower half) is in bright warm SUNLIGHT.
+On each bank, at each of the five stretches, stands ONE big object, with one or two people beside it:
+FAR shady bank, from left to right:
+1. a small green tree; beside it a general in green armour.
+2. a campfire; beside it a king in a red royal robe with a small gold crown, and a guard in red armour holding a shield.
+3. a mound of yellow earth; beside it a farmer in yellow clothes with a straw hat.
+4. a pile of gold ingots; beside it an old man in a white robe with a long white beard.
+5. a small dark hill with a big spring of water gushing out at its foot; beside it a bald strongman in black clothes. A small YELLOW pennant is stuck on top of that little hill. A small RED rowing boat with a gold crown on its prow is tied to this bank.
+NEAR sunny bank, from left to right:
+1. a pile of gold ingots; beside it a worker in white overalls holding a long pipe brush.
+2. a big round jar full of blue water; beside it a water carrier in black with two buckets on a shoulder pole.
+3. a small green tree; beside it a judge in a green official robe holding a balance scale.
+4. a campfire; beside it a worker in a red apron holding a round sieve, and a worker in orange clothes holding a shovel.
+5. a big hill of yellow earth with a little spring trickling from its side; beside it a cook in a yellow apron holding a ladle. A small GREEN pennant is stuck on top of that hill. A small RED rowing boat with a round sieve on its prow is tied to this bank.
+No other people. No signboards, no text, letters or numbers anywhere.
+
+(v1 — 첫 판. 사람 열둘 · 물건 열 · 배 둘 · 깃발 둘이 제자리. 위 둑이 그늘로 약하고 강이 왼쪽 끝에서 흘러 들어와 우물이 시작점으로 안 읽힘)
+편집 1 (v2, 버림): 「위 둑 전체를 절벽 그늘의 짙은 푸른 그늘로」 → 그늘은 약하고 흙더미가 올리브색으로 변함.
+편집 2 (v4): 「강은 우물에서 시작 — 왼쪽 끝에서 들어오는 물줄기를 지우고 풀밭으로, 우물에서 넘친 물이 가늘게 흘러 강이 됨 / 농부 곁 흙더미는 다시 밝은 노랑」 → 둘 다 됨.
+코드 (v4g · v5): ground_v4g.py — 위 둑 땅의 두 색(초록 · 민트)과 절벽 밑 파란 띠를 한 초록으로 고름(색 거리 + 구역 제한, 인물 보호) / shade_v5.py — 위 둑 다각형에 푸른 그늘을 0.36 섞음. v5 최종.

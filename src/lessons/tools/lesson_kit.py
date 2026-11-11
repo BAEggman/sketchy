@@ -13,7 +13,12 @@ def latest():
 def shot(lid,v,src=None,final=True,crops=None):
     """캡처(1456×828)를 잘라 2048×1144로 — design/<id>/base_v<v>.webp, 스크래치 PNG, (final이면) images/lessons"""
     src=src or latest(); os.makedirs(R+'design/'+lid,exist_ok=True); os.makedirs(SP+lid,exist_ok=True)
-    c=Image.open(src).crop((0,0,1421,793)).resize((2048,1144),Image.LANCZOS)
+    im0=Image.open(src).convert('RGB'); import numpy as np
+    a=np.asarray(im0).astype(int); mag=(a[:,:,0]>235)&(a[:,:,1]<30)&(a[:,:,2]>235)
+    rows=np.where((~mag).mean(1)>0.5)[0]; cols=np.where((~mag).mean(0)>0.5)[0]
+    box=(int(cols.min()),int(rows.min()),int(cols.max())-1,int(rows.max())-1)  # 가장자리 분홍 섞인 줄 1~2px 버림
+    print('crop',box,im0.size)
+    c=im0.crop(box).resize((2048,1144),Image.LANCZOS)
     c.save(R+f'design/{lid}/base_v{v}.webp',quality=80); c.save(SP+f'{lid}/v{v}.png')
     if final: c.save(IMG+lid+'.webp',quality=82); c.save(SP+f'{lid}/final.png')
     for name,(x0,y0,x1,y1),z in (crops or []):

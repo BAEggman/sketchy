@@ -1,0 +1,19 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no price tags with writing, no sound-effect words, no writing anywhere.
+Scene: inside a cosy neighbourhood LAUNDRY SHOP. A long horizontal clothes RAIL runs across the upper part of the picture, holding SIX big wooden HANGERS in THREE PAIRS (a small gap between pairs; the two hangers of each pair are tied together by a ribbon). Every hanger has three parts, top to bottom: a metal HOOK with a small picture charm on it, a GARMENT hanging in the middle, and a round picture TAG dangling at the bottom.
+Left to right:
+PAIR 1
+1. Hook charm: a blue SNOWFLAKE. Garment: a cosy RED sweater with a little flame pattern. Bottom tag: a BIG SUN.
+2. Hook charm: a red-hot glowing EMBER. Garment: an icy BLUE raincoat covered in frost. Bottom tag: a CRESCENT MOON.
+PAIR 2
+3. Hook charm: a small FLAME. Garment: a GREEN shirt flapping in a gust of WIND. Bottom tag: a SMALL SUN.
+4. Hook charm: a WIND SWIRL. Garment: a HUGE OVERSIZED orange shirt with a flame pattern that covers almost the whole hanger. Bottom tag: a solid BLACK CIRCLE.
+PAIR 3
+5. Hook charm: a DRY cracked brown LEAF. Garment: a HUGE OVERSIZED soaking-WET towel dripping water into a bucket, covering almost the whole hanger. Bottom tag: a SUN and a CRESCENT MOON side by side.
+6. Hook charm: a WATER DROP. Garment: a stiff, DRY, crinkled pale linen shirt. Bottom tag: a FULL MOON.
+RIGHT EDGE of the shop: a small laundry lift: a basket with a FULL MOON tag is being pulled UP on a pulley rope towards the ceiling, and next to it a laundry bag with a SUN-AND-CRESCENT tag slides DOWN a chute to the floor.
+BOTTOM LEFT: a friendly clerk behind the counter.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음) ---
+v1: base prompt above, accepted (all six hook charms, garments, tags, ribbons, lift and chute right).
+v2 (code, moon_v2.py): a crescent moon painted on hanger 2's wooden shoulder (a 標 symbol on the 本 level) inpainted to plain wood.

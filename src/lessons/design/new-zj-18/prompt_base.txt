@@ -1,0 +1,18 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: a rice-seedling NURSERY in the countryside, seen from slightly above. In the CENTER of the picture lies one big raised seedbed shaped exactly like a giant TONGUE: its rounded TIP points DOWN toward the viewer at the bottom center, its wide ROOT end is at the top center. The soil of the bed is soft light PINK-RED, and rows of small green rice seedlings grow all over it. Many thin RED water channels branch through the pink soil like little veins. A very thin, see-through WHITE cover, like a thin white gauze, lies lightly over the middle and back part of the bed.
+Around and on the tongue-shaped bed, seven people work, each in his own costume:
+- At the TIP (bottom center): a KING with a gold crown and red robe pours red water from a watering can into the red channels; beside him an OLD MAN in a white robe with a long white beard gently fans the seedlings.
+- In the MIDDLE of the bed, standing on a narrow wooden plank: a FARMER in a straw hat tastes a spoonful of rice from a bowl, and a COOK in a yellow apron holds a steaming pot of rice whose white steam drifts down and settles as the thin white cover on the bed.
+- On the LEFT EDGE of the bed: a GENERAL in green armour trims the left edge with garden shears.
+- On the RIGHT EDGE of the bed: a JUDGE in a green robe holding a balance scale trims the right edge.
+- At the ROOT (top center): a BALD MUSCULAR STRONGMAN in black stands beside a thick wooden stake driven into the root end of the bed. Four ropes are tied to this stake: a red rope runs to the king, a yellow rope to the farmer, a green rope to the general, and a black rope to the strongman's own belt.
+Background: green paddy fields and low hills.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- 편집 1 (v1 → v2, 같은 대화) ---
+Edit this same picture with one small change only: there are two GREEN ropes tied to the wooden stake; erase the green rope that runs down to the RIGHT side of the bed (toward the judge), so only FOUR ropes remain on the stake: the red one, the yellow one, the green one going to the LEFT (toward the general), and the black one going to the right. Keep everything else exactly the same. No text, letters or numbers anywhere; no labels, no sound-effect words.
+→ 결과: 밧줄 다섯 → 넷(붉은 · 노란 · 초록 · 검은).
+
+--- 편집 2 (v2 → v3) ---
+Edit this same picture with one small change only: erase the long white steam band that curves down from the cook's pot toward the old man's fan at the bottom. Instead, the steam from the cook's pot rises only a little and then spreads out sideways and backward, flowing into and joining the thin white see-through cover over the back half of the bed, so it is clear that the steam forms that white cover. Nothing white should reach the old man. Keep everything else exactly the same. No text, letters or numbers anywhere; no labels, no sound-effect words.
+→ 결과: 김이 덮개로 이어짐.

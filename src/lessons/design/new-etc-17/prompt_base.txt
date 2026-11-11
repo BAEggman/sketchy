@@ -1,0 +1,14 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor, nothing gross. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no menus with writing, no sound-effect words, no writing anywhere.
+Scene: inside a cosy traditional Korean TEA HOUSE with wooden beams and a long low tea counter. In the CENTRE, a calm tea master in a grey hanbok pours tea. The tea LIQUID always sinks down, the STEAM always rises up.
+LEFT side, lower: a customer drinks from a cup of very THICK, DARK, heavy tea with heavy dregs sinking to the bottom of the cup; he clutches his belly and hurries toward a little toilet door at the far left.
+LEFT side, upper: a customer drinks very LIGHT, pale golden tea; the light tea flows smoothly and freely through a long winding clear glass pipe along the wall, with nothing blocking it.
+RIGHT side, upper: a customer leans over a teapot that puffs out a THICK, heavy, billowing cloud of hot steam; his face is bright red and hot, he fans himself, sweating from the heat.
+RIGHT side, middle: a customer sniffs a THIN, light wisp of minty green steam from a small cup; he loosens his collar, a few light sweat drops fly off, and the window behind him swings open to the breeze.
+FRONT LEFT corner: a glass of PLAIN WATER on a little table next to a white round mushroom-like lump, a jar of shiny pearl-like grains and a potted water plant; the plain water trickles down through a sand filter and drains away through a little drain.
+FRONT RIGHT corner: a customer has just sipped tea made from an unripe persimmon: his mouth is puckered tight shut; beside him a dripping tap is being turned tightly shut with a wrench; on the table a fossil dragon bone ornament and a small bowl of wrinkled brown dried fruits.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음) ---
+chat 1: no image — Gemini answered "I am a language model, that is beyond what I can do."
+chat 2: same prompt with "Please generate an image." in front and "toilet" softened to "restroom" (text above is the chat-1 wording).
+v1 (final): all six scenes right. Checker: the glass pipe of light tea passes behind the drinker and ends at the counter teapot (not into his cup) — fixed in the text only ("the same tea flows freely down the pipe beside him").

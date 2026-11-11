@@ -1,0 +1,15 @@
+Please generate an image. A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: a cosy CANDLE-MAKING WORKSHOP. In the CENTRE stands one GIANT candle built as a THREE-TIER tower (like a three-layer cake), each tier cut open like a little room with small figures inside. The FLAME burns on top; melted wax drips down from the top tier, runs over the middle tier and reaches the bottom tier. The top tier is already half melted, the middle tier is hot and glowing, the bottom tier is just starting to glow at the very end.
+Each figure wears a small round picture plaque on the chest.
+TOP TIER (wearing GLOVES): an OLD MAN in a white robe, plaque = FULL MOON, coughing; next to him a big red HEART wrapped in a purple velvet cloth, plaque = solid BLACK CIRCLE with a thin yellow ring.
+MIDDLE TIER (wearing BOOTS), split in two halves:
+- left half bone-dry and hot: a COOK in a yellow apron, plaque = SUN WITH A CRESCENT, sweating with a cracked dry floor, a white TIGER lying beside him;
+- right half damp and foggy: a FARMER in a straw hat, plaque = FULL MOON, wrapped in a soggy wet blanket in a muggy mist; through a small window the low AFTERNOON sun shines in and the steam around him rises stronger.
+BOTTOM TIER (wearing BOOTS): a BALD muscular STRONGMAN in black, plaque = thin CRESCENT MOON, and a GENERAL in green armour, plaque = solid BLACK CIRCLE with a thin yellow ring; the wax drips have just reached them.
+Around the giant candle: candle-maker tools, wax blocks, a pot of melting wax, shelves of colourful candles.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat) ---
+v1: three-tier candle with the six figures, plaques, gloves/boots, tiger, fog, drips — right except the cook's plaque was a plain sun (needed sun+crescent) and the stove knobs looked like letters "D O I".
+v2: edit — cook plaque sun+crescent; plain round knobs; a low orange afternoon sun in the farmer's window with stronger steam. Side effect: the farmer's FULL MOON plaque turned into a crescent.
+v3 (final, code, plaque_v3.py): the v1 full-moon plaque pasted back (feathered disc).

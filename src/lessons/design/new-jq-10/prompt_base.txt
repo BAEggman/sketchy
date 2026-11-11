@@ -1,0 +1,9 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes. Absolutely no text, no letters, no numbers, no writing anywhere.
+Scene: a grand traditional Korean house (hanok) with a tiled roof and deep curved eaves, seen from the front yard.
+CENTRE: the big open wooden main hall (daecheong) on a raised floor. Inside it, on the left, an old man in a white robe pumps a big bellows that blows a stream of fresh pale-blue breeze; on the right, a farmer in a straw hat carries a tray of steaming white rice, its steam rising. The blue breeze and the rice steam swirl together into one big glowing golden cloud gathered in the middle of the hall.
+RIGHT: under the corner of the eaves hangs a big bronze temple BELL. A man swings a wooden log on ropes to strike the bell, and visible sound rings spread from the bell. Next to the bell a boy sings loudly with his mouth wide open, musical notes floating up. A woman in a green dress presses her palm flat on the LOWER LEFT side of the big bell's body, feeling it vibrate gently.
+Beside the big bell hangs a SMALL old dusty bell, silent, with no sound rings at all; a second woman touches it and frowns because she feels nothing.
+LEFT: from the hall floor a stream of red water flows down the stone steps and out through the gate into the village street below.
+No text, letters or numbers anywhere.
+
+(v1 Gemini 한 턴 — 편집 없음. 바람은 풀무가 아니라 노인 입에서 나옴(肺 呼則出로 씀). v2 = 코드 still_v2.py: 작은 종(不及) 오른쪽 떨림 표시 두 무리를 벽 색으로 지움)

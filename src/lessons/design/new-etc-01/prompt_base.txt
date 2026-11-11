@@ -1,0 +1,17 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no Chinese characters, no signs, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: a big historical-drama FILM LOT with FIVE stage sets side by side from left to right, oldest on the left; a film camera on a tripod in the front left corner.
+SET 1 (far left), a PREHISTORIC village: cave people in fur use stone tools, roast meat at a fire and chew wild herbs; a masked SHAMAN with a drum dances over a sick man lying on a mat; four costumed SAGES stand in a row: a god in a cape of green leaves chewing a herb, a man with a long snake tail and a leaf cape leading two sheep, a man spinning a stick to make fire, and an emperor in a yellow robe beside a white-bearded sage holding a long acupuncture needle and a scroll.
+SET 2, an ancient bronze-age court: a diviner holds a cracked TURTLE SHELL over a fire; beside him a sick man LEANS against the side of a bed; on a stand, a wooden cut-out figure shows only four organs: a heart, a belly, kidneys and coiled intestines.
+SET 3, an old government hall: EIGHT doctors sit on eight stools in one row: a cook-doctor with a soup bowl, a doctor feeling a patient's wrist, a surgeon with a small knife, a doctor treating a horse, a doctor holding a fine needle, a doctor burning a smoking moxa cone, a doctor massaging a back, and a doctor holding up a paper charm.
+SET 4, a busy market street: a man flies a KITE whose face is a black-and-white yin-yang circle and which trails FIVE coloured ribbons (green, red, yellow, white, black), with a heavy iron weight tied to its string; under a roof where a MAGPIE lies completely FLAT, a doctor feels a patient's pulse, looks at his face, listens with a cupped ear, and sketches the patient's body on a board; at the side a hooded figure with NO face holds out a map scroll of mountains and seas, and the flat magpie turns its head away from it.
+SET 5 (far right), a Han-dynasty tomb and library: a grassy burial MOUND with a stone HORSE and a stone KING on top, two unrolled SILK scrolls in front showing only plain wavy lines with no dots; next to it a tall bookcase with a hanging GOLD MEDAL on it, a DRUM cut exactly in HALF used as a bookend, and bundles of bamboo-slip books tied with yellow ribbons.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음) ---
+v1 (chat 1): good layout, but the magpie stood upright (not flat), the doctor only sketched (no pulse), the drum was whole.
+(v2: two edit requests in chat 1 returned empty responses — no image.)
+v3 (chat 2, prompt_v3.txt = base prompt + flat magpie / pulse-taking doctor with patient / half-drum wording): magpie flat, doctor takes the pulse beside an easel sketch; drum still whole; sick man lying down.
+v4: drum edit → a split line down the middle.
+v5: sick man sits up leaning on the bed; iron weight hangs from the kite string (the "304/30kg"-like marks gone); drum split into two halves pulled apart. Kite still four colours.
+v6: request to add a separate moxa doctor → a smoking moxa stick appeared in the bare-backed patient's hand instead (people stay seven; text counts eight props).
+v7 (code, ribbon_v7.py): a white fifth ribbon drawn to the right of the black one (3rd-order fit of the black ribbon's centre line, +18 px).

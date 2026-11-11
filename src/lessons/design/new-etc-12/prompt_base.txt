@@ -1,0 +1,14 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: a cut-away view of a small SEMI-BASEMENT rented flat during the monsoon rainy season. Heavy rain falls outside at street level along the top of the picture. Below street level are three small rooms side by side, all partly flooded with water.
+TOP-LEFT (outside at street level): four small water problems in a row along the pavement: (1) a rain barrel whose tap gives only a few slow drops; (2) a kettle boiling away in big clouds of steam next to a garden hose spraying out of many holes; (3) a water pipe twisted into a tight knot so water cannot pass; (4) a drain grate clogged with leaves, the water overflowing and pouring down the outside stairs into the flat.
+ROOM 1 (left, under a small half-window at street level): the floor is flooded; an OLD MAN in a white robe sits bolt upright on his soaked bed, propped against the wall, coughing hard, his chest puffed up and full, unable to lie down; rainwater drips in through the half-window above him.
+ROOM 2 (middle, a tiny kitchen): a FARMER in a straw hat stands in water up to his knees by the stove, his belly bloated round and swollen, with dizzy spiral eyes, holding his head.
+ROOM 3 (right, the inner room): a small KING with a golden crown and red robe sits on a chair while water rises around his feet, clutching his chest with a tight face, a big pounding red heart shape glowing on his chest.
+In ROOM 1's wall: a small ventilation fan half under the water, its blades stuck and not turning, with stale greenish air hanging still in the room.
+FAR RIGHT: a separate sunny scene AFTER the rain, on a small rooftop balcony under a scorching sun: two flower pots. Pot 1: bone-dry cracked soil and a withered red flower whose petals crumble into dry red flakes. Pot 2: a drip bottle of red liquid that is almost empty feeds the plant through a thin tube clogged with dark sludgy lumps; the plant droops.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat) ---
+v1: street with four water problems, flooded three rooms (old man, farmer, king), stale-air fan and the sunny balcony pots all right. Problem: the drip bottle was half full with tick marks; the blocked tube was not clear.
+v2: edit — bottle almost empty, no tick marks, dark clumps stuck inside the tube. Checker: the hose sprayed only from its nozzle (no leaks along it); pot 1's cracks were on the clay pot, not the soil; a dark stain/blob on pot 2 looked like dirt; the fan's "stopped" read weakly.
+v3 (final): edit — small jets leak along the hose body; pot 1 smooth, its soil surface cracked like a drought field; stain and blob removed; cobweb across the fan blades.

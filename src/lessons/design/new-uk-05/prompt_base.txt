@@ -1,0 +1,18 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: a snowy mountainside with FOUR small wooden MOUNTAIN HUTS in a row, each shown in CUT-AWAY view (front wall removed so we see inside). Inside every hut stand a little iron STOVE and a WATER TANK.
+HUT 1 (left): the stove is TINY with a weak little flame; the hut's OUTER walls and roof are covered with thick frost and icicles; the man inside is wrapped in a blanket, shivering, his skin pale blue.
+HUT 2: the water tank is EMPTY and dry and cracked; the roof vent at the top is blocked; inside, the man sweats in hot red air trapped in the room, fanning himself.
+HUT 3: the stove is HUGE and roaring with big flames; every window and door is shut tight and nailed closed; a brown dog inside scratches at the closed door, unable to get out; the hut's outer walls glow red-hot.
+HUT 4 (right): the water tank is HUGE, overflowing and frozen; a pile of ice blocks fills the middle of the room; a red pipe running along the wall is frozen solid; the man inside hugs his chest, shivering.
+IN FRONT of the huts, two teams of workers:
+- in front of HUT 1 a worker in a BLUE cap adds a big log to the tiny stove; in front of HUT 2 another BLUE-cap worker pours a bucket of water into the empty tank. Both blue-cap workers are bringing things IN.
+- in front of HUT 3 a worker in a RED cap pours cold water from a hose onto the huge fire and carries away extra logs in a wheelbarrow; in front of HUT 4 another RED-cap worker sets up a portable heater and shovels away the extra ice. Both red-cap workers are taking extra things OUT.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat) ---
+v1: base prompt above. Hut-2 worker poured water onto the snow, not into the tank.
+v2 (not kept): "pour INTO the empty tank" → arcing stream looked like water gushing OUT of the tank.
+v3: erase tall tank + stream; short dry cracked barrel at hut-2 front, bucket tipped into it. Checker: barrel looked full, dog outside on snow scratching to get IN, sweating man's hand touching the bucket.
+v4 (not kept): dog redraw inside / barrel dry / man's hand on hip → hand OK, barrel dry, but stream missed the barrel and dog still on snow.
+v5 (final): ERASE dog; dog's face + paws peek from INSIDE the boarded left window of hut 3. ERASE barrel; redraw dry cracked barrel directly UNDER the tipped bucket.
+v6 (code, stove_v6.py): hut-3 stove window flame strokes read as digits '14:04' → smooth orange glow with three soft yellow flame blobs.

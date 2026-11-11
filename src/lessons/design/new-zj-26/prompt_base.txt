@@ -1,0 +1,19 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no signs with writing, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: the ENTRANCE of a traditional Korean village, a wooden village gate in the back center, thatched houses beyond it.
+TOP of the gate: FOUR flagpoles each with one RED ribbon: (a) a very LONG red ribbon waving calmly and gracefully; (b) a very SHORT stubby red ribbon drooping, with a deflated balloon hanging beside it; (c) a red ribbon flapping extremely FAST with many motion lines; (d) a HUGE wide red ribbon swelling bigger and bigger, with a dark storm cloud rolling in behind it.
+LEFT: a tall wooden village guardian totem pole (jangseung) divided clearly into THREE sections — head, body, legs — and each section has THREE small glowing round knobs (nine knobs in total). Beside it a gatekeeper in a grey robe puts one hand on a traveler's NECK and the other hand on the same traveler's WRIST at the same time, comparing them.
+CENTER, under the gate: an old man in a white robe with a long white beard and a farmer in a straw hat stand side by side, both wearing a round FULL-MOON badge on the chest; MANY small paths from every direction converge to the spot where they stand. In front of them a second gatekeeper holds ONLY a traveler's WRIST with three fingers.
+CENTER FRONT: a stone WELL shown in cross-section with clear water: a leaf floats on the SURFACE, a small fish swims in the MIDDLE, a little treasure box sits on the BOTTOM. Three gatekeepers reach in: the first barely touches the surface lightly, the second reaches to the middle, the third presses down to the bottom.
+RIGHT: a huge old village tree with very deep strong ROOTS visible under the ground, a glowing lantern hanging from a branch, and a cook in a yellow apron resting calmly and contentedly against its trunk.
+FAR RIGHT: a fork in the road with TWO signposts pointing different ways: one is a solid wooden signpost, the other is a flimsy CARDBOARD fake signpost falling over; a traveler walks the way the solid signpost points.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+(Gemini 카본 · 사고 수준 높음)
+
+--- 편집 1 (v1 → v2, 같은 대화) ---
+Edit this same picture with two small changes only. (1) The red balloon beside the short red ribbon on the second flagpole: make it clearly DEFLATED — shrunken, wrinkled and limp, hanging down. (2) The wooden totem pole on the left: erase all its glowing knobs and put back EXACTLY THREE glowing knobs in a vertical row on EACH of its three sections — three on the head, three on the body, three on the legs — nine knobs in total, evenly spaced. Keep everything else exactly the same. No text, letters or numbers anywhere; no labels, no sound-effect words.
+→ 결과: 풍선 성공. 혹은 머리 넷 · 몸 셋 · 다리 셋 → knob_v3.py(코 혹 지움, v3).
+
+--- 편집 2 (v2 → v4, v3 코드 수정은 버림) ---
+Edit this same picture with three small changes only. (1) Totem pole on the left: erase the glowing knob on its NOSE and its yellow glow, so the nose is plain brown wood; keep the other knobs exactly as they are. (2) The gatekeeper standing next to the totem pole: move his hand that is on the traveler's SHOULDER up to the SIDE of the traveler's NECK, two fingers touching the neck, while his other hand still holds the traveler's wrist. (3) Far right fork: replace the tilted blank board with a flimsy, bent CARDBOARD arrow sign pointing to the RIGHT (the opposite way from the solid wooden arrow), crumpling and falling over. Keep everything else exactly the same. No text, letters or numbers anywhere; no labels, no sound-effect words.
+→ 결과: 코 얼룩 사라짐 · 판지 팻말 성공. 머리 혹이 둘로 줄어 knob_v5.py로 위 혹을 오려 미간에 붙임(v5). 손 위치는 거의 그대로(자세 편집은 잘 안 됨) → 글을 「목 아래, 손가락이 목 옆에 닿을 듯」으로.

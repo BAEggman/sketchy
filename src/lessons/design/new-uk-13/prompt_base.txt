@@ -1,0 +1,18 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor, nothing violent or gory. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: a HEAVENLY COURTHOUSE floating on white clouds.
+TOP HALF: FOUR small courtrooms side by side, left to right, shown in cut-away. In each one a JUDGE in a white robe sits HIGH UP on a bench made of cloud, and a DEFENDANT in a simple tunic stands LOW in a wooden dock below him.
+1. The judge leans down and kindly hands a bouquet of flowers and a small watering can to the smiling defendant; a white dove flies; sunny and calm.
+2. Dark storm: the judge slams a giant gavel and a lightning bolt strikes the dock right next to the frightened defendant, whose hair stands on end.
+3. The defendant climbs up on a little ladder and offers a gift basket of fruit UP to the judge, who looks awkward and surprised.
+4. The defendant angrily throws a shoe UP at the judge, who ducks behind his bench.
+BOTTOM HALF, a cloud plaza:
+- CENTRE: a big golden BALANCE SCALE with both pans perfectly level.
+- LEFT of the scale: a HUGE puffed-up red fire-giant defendant, swollen too big; a giant hand from a cloud above presses down on his head and pours a bucket of cold water over him, shrinking him back to normal size.
+- RIGHT of the scale: a TINY, weak, pale-blue water-drop defendant; a helping hand from a cloud above pours water into him from a shiny metal jug, and a little pale-blue friend of the same colour holds him up from the side; he grows back to normal size.
+- FAR RIGHT: a snowy gate in falling snow, where a gatekeeper and a traveller fit together two halves of a broken wooden tally stick; their jagged edges match perfectly, both smiling.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음) ---
+v1: base prompt above, accepted (courts, scale, water drops, tally gate right). A tiny crying red figure beside the fire giant read as 不及 (a shrunken child).
+(An edit asking Gemini to redraw him at half size was sent, but the Chrome connection dropped before the result came back; not used.)
+v2 (code, tiny_v2.py): tiny figure, steam, drops and puddles removed; sky filled by row interpolation, cloud filled white, the cloud's round outline re-drawn through the detected outline points.

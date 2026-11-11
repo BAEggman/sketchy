@@ -1,0 +1,18 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: a Japanese-style MOSS GARDEN with raked white gravel. On the LEFT three quarters of the picture, EIGHT big round flat stones in TWO rows of FOUR, each stone covered with a different kind of moss:
+TOP ROW, left to right (moss TEXTURE):
+1. fresh green moss shining WET with dew drops, a small puddle of water at its foot;
+2. DRY, brittle, cracked brown moss, scorched by a small blazing brazier fire next to it;
+3. thick, STICKY, greasy, slimy moss like glue, pressing down on a tiny glowing lantern that is half buried and struggling under it;
+4. loose, CRUMBLY moss that looks like lumps of crumbled tofu curds, with warm steam rising from it and a plate of leftover food beside it.
+BOTTOM ROW, left to right (moss COLOUR):
+5. WHITE moss covered with frost and little icicles;
+6. YELLOW moss with a small flame flickering on top;
+7. GREY moss inside a deep dark stone hollow, one half frosty and one half with a tiny flame;
+8. BLACK moss with a red warning siren light flashing beside it.
+RIGHT quarter of the picture: a flat smooth stone slab where ALL the moss has peeled off, leaving a glossy, shiny RED surface as smooth as a MIRROR reflecting the sky; peeled moss scraps lie around its edge; beside it a cook in a yellow apron sadly holds an EMPTY, dry, cracked rice pot.
+No people except the cook. No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- 편집 1 (v1 → v2, 같은 대화) ---
+Edit this same picture with small changes only, on the right side: (1) erase the woman in the kimono and draw in her place a male COOK with a tall white chef hat and a yellow apron, looking sad, holding an EMPTY metal cooking POT that is dry and cracked. (2) On the shiny red mirror slab, erase the small pointed tail at its lower right edge so the slab is a clean round shape. Keep the eight mossy stones and everything else exactly the same. No text, letters or numbers anywhere; no labels, no sound-effect words.
+→ 결과: 둘 다 성공.

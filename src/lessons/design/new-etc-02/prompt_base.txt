@@ -1,0 +1,11 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: a bright children's ART ACADEMY classroom.
+LEFT WALL: a big open PURPLE crayon box on a shelf; its lid shows a single empty purple cloud; inside, crayons stand in exactly FOUR neat rows of SEVEN, each a different colour.
+BACK WALL: a big board covered with small drawings pinned in exactly THREE rows of ELEVEN; every drawing shows a different wavy pulse-like line (some tall waves, some flat, some jagged, some dotted). A teacher stands in front of it holding up a large brass COMPASS whose needle points at the drawings.
+RIGHT-CENTRE: the MOTHERS' table: several mothers in aprons paint together, using one HUGE, thick, complete paint set with every colour.
+FRONT RIGHT: the CHILDREN's table: one little child has many round colourful paint SPOTS all over his face and arms; a teacher hurries over carrying a red FIRST-AID box. Next to him another child makes a finger-painting: one big print of an INDEX FINGER pressed on paper, showing its three finger sections as three clear bands.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat) ---
+v1: base prompt above. Crayons ~25 and drawings ~30 (not 28 / 33 — the text does not ask to count). The boy at bottom right was painting with a brush.
+v2 (final): boy puts down the brush and presses his painted index finger; a three-band finger print beside his hand.

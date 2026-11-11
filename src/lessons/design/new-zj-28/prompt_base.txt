@@ -1,0 +1,20 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no musical notes, no signs, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: inside a STRING-INSTRUMENT SHOP. The LEFT two thirds is the bright shop; the RIGHT third is a dim back storeroom seen through an open door.
+SHOP, TOP ROW on a long counter, left to right:
+1. a small guitar with ONE very THIN thread-like string; beside it a deflated balloon, an empty glass bottle and a few water drops;
+2. a glass WATER TANK: one thin limp floppy string FLOATS on the water SURFACE, and another thin limp floppy string lies SUNK on the BOTTOM of the tank next to a deflated balloon;
+3. a big double bass whose very THICK string vibrates in huge wide WAVES, with flames around it;
+4. a long Korean zither lying flat: a general in green armour presses one finger on a long, straight, TAUT string, and a judge in a green robe with a balance scale stands beside him;
+5. a violin whose tuning peg is being twisted TIGHTER and TIGHTER by a frosty hand covered with ice crystals, the string pulled very tight, and the violinist wincing in pain.
+SHOP, BOTTOM ROW on the wall: THREE metronomes, each with a long horizontal wire of round beads running to its right, like a row of an abacus:
+6. beads in neat groups with the SAME long empty gap repeating regularly; beside it a tired king with a gold crown leaning on the metronome;
+7. beads packed tightly and FAST with a few random gaps; little flames above this wire;
+8. beads spread far apart, SLOW, with a few random gaps; frost and icicles on this wire.
+BACK STOREROOM (dim), on shelves, SEVEN strange things, each separate: a fish in a bowl whose head stays still while only its tail flutters; a little shrimp hopping up out of water; a pot boiling over with big bubbles; a rope unravelling loose at its end; a small sparrow pecking hard at a board; a leaking roof dripping slow drops into a bucket; a finger flicking a hard pebble. A dark cloud hangs over the storeroom.
+No text, letters, numbers or musical notes anywhere; no labels, no sound-effect words.
+
+(Gemini 카본 · 사고 수준 높음)
+
+--- 편집 1 (v1 → v2, 같은 대화) ---
+Edit this same picture with small changes only. (1) In the glass water tank: make the blue balloon clearly DEFLATED (shrunken, wrinkled, limp) lying on the bottom, and erase the thin string that hangs down in the middle of the water, so only the strings floating on the surface and the strings lying on the bottom remain. (2) The middle metronome with flames: on BOTH of its bead wires, remove a few beads at TWO irregular places so each wire shows two empty gaps of different sizes at uneven positions, while the other beads stay packed tightly together. Keep everything else exactly the same. No text, letters, numbers or musical notes anywhere; no labels, no sound-effect words.
+→ 결과: 둘 다 성공. 어항 물고기 몸의 「$」 같은 S자 무늬 → fish_v3.py로 지움(v3).

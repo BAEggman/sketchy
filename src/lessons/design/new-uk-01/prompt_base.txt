@@ -1,0 +1,19 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor, nothing gory. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: a KITE-FLYING FESTIVAL on a grassy riverbank. Each kite flyer's kite string is tied to ONE particular part of his body.
+LEFT HALF, five kite flyers arranged like a compass:
+- CENTER: a farmer in a straw hat; his kite string is tied to the middle of his BACK (his spine); he hugs his cold belly, which is covered with icicles; the air around him is humid and steamy.
+- RIGHT of the farmer, in a wind full of pink cherry blossoms: a general in green armour; his kite string is tied around his NECK; a tiny drop of blood drips from his nose; he happily lets out his string so his kite soars high and free.
+- ABOVE the farmer, under a blazing hot sun: a king with a gold crown and red robe; his kite string is tied around his CHEST and ribs; he holds his side ribs in discomfort.
+- LEFT of the farmer, in a wind of falling red maple leaves: an old man in a white robe with a long white beard; his kite string is tied across his SHOULDERS and upper back; his face is half red-hot and half blue-cold as he shivers with fever; he quietly reels his kite in and sits down calmly.
+- BELOW the farmer, in a snowstorm: a bald muscular strongman in black; his kite string is tied around his WAIST and thighs; his legs are stiff and icy; he crouches hidden in a snow hollow.
+BOTTOM LEFT corner: a clay jar full of white rice with its lid tied tightly shut, and beside it a fresh spring flower blooming calmly.
+BOTTOM MIDDLE: a row of FOUR flowerpots; in each pot something buried in the soil grows into something above: (1) a buried snowflake grows into a red FLAME flower; (2) a buried wind swirl grows into a little fountain gushing water and undigested rice grains; (3) a buried little sun grows into a flower that is half ice and half flame; (4) a buried water drop grows into a flower that is coughing out puffs.
+RIGHT HALF: a GIANT stone statue of a man standing on the riverbank: a perfectly ROUND head like the sky and SQUARE stone feet like the earth; his two eyes are a sun and a moon; twelve little rivers run down his body like veins; at his feet a small spring bubbles and a brown dog guards it. Beside the statue a husband and wife hold hands, the husband under a sun, the wife under a moon.
+BOTTOM RIGHT: a resting bench where five people sit with white bandages: a king with a gold crown with a bandage on his ELBOW, an old man in a white robe with a bandage on his ELBOW, a general in green armour with a bandage in his ARMPIT, a farmer in a straw hat with a bandage on his upper THIGH, a bald strongman in black with a bandage on the BACK of his KNEE.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+(Gemini 카본 · 사고 수준 높음)
+
+--- 편집 1 (v1 → v2, 같은 대화) ---
+Edit this same picture with small changes only. (1) The farmer in the centre of the left half (cone hat, hugging his icy belly): erase him and redraw him in the same spot seen from BEHIND at a three-quarter angle, so we clearly see his BACK, with his kite string tied in a knot right on the MIDDLE of his SPINE; he still hugs his belly, with icicles hanging from his belly visible at his sides, and humid steam around him. (2) On the bench at the bottom right: add a white bandage wrapped around the ARMPIT of the general in green armour (his arm slightly raised so the bandage shows). (3) The giant stone statue: make his two feet big flat SQUARE stone blocks, like square pedestals. (4) Add falling snowflakes around the bald strongman crouching in the ice hollow. Keep everything else exactly the same. No text, letters or numbers anywhere; no labels, no sound-effect words.
+→ 결과: 네 곳 모두 성공(뒷모습이라 배 끌어안기는 안 보임 — 글을 「웅크려 떪」으로).

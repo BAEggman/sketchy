@@ -1,0 +1,10 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes. Absolutely no text, no letters, no numbers, no writing anywhere.
+Scene: inside an old TEXTILE MILL, seen from the front.
+CENTRE: a huge wooden LOOM. Thick DARK BLUE threads run straight UP and DOWN deep at the back of the loom; thin RED threads run SIDEWAYS and slanting across the front surface, tying the blue threads together; from the red threads branch out many very fine, hair-thin PINK fibres.
+On the floor in front of the loom a little GRANDCHILD plays happily with a fluffy ball of the finest pink fibres.
+FRONT CENTRE: the finished woven cloth rolls out of the loom; a few loose red threads float on TOP of the cloth surface, clearly visible.
+LEFT: two storage places side by side: (1) a shelf of DARK BLUE thread spools of three kinds — big thick spools, spools whose thread dips into the wall and comes out again, and eight odd-shaped golden spools; (2) a wicker basket of RED yarn balls, a puff of pink fluff, and a red thread floating above it.
+RIGHT: a tailor's mannequin dressed in the finished cloth: the cloth is cut into panels like patches of skin all over it, and stretchy elastic bands run along its arms and legs like tendons. Behind it, deep inside the mill, a big round spinning machine that feeds the loom.
+No text, letters or numbers anywhere.
+
+(v1 Gemini 한 턴 — 편집 없음. v2 = 코드 latch_v2.py: 방적기 옆판의 'D'처럼 읽히는 걸쇠를 판 색으로 지움)

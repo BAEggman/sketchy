@@ -1,0 +1,16 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no musical notes, no signs, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: a traditional Korean music practice room with a wooden floor.
+BACK WALL, along the top: one long fixed painted wall scroll showing six simple pictures in a row from left to right: a big SNOWFLAKE, then a green TREE, a red FLAME, a yellow MOUND of earth, a white METAL BELL, and a blue WATER WAVE. Thick nails hold the scroll firmly to the wall.
+FRONT LEFT corner: a teacher spins a round colourful SPINNING WHEEL divided into five coloured slices (green, red, yellow, white, blue), with a pointer at the top.
+MIDDLE: FIVE musicians sit in a row, left to right, each in a robe of one colour, and each has a THREE-TIER wooden stand beside him holding three versions of his instrument: a BIG one on the top tier, a MEDIUM one on the middle tier, and a TINY one on the bottom tier.
+1. GREEN robe — wooden zithers: the BIG zither bursts with fresh green sprouts growing out of it; the MEDIUM zither has leafy branches spread gently over it; the TINY zither has drooping wilted brown leaves.
+2. RED robe — red drums: the BIG drum blazes with a huge bright sun on it; the MEDIUM drum has a steady flame rising straight up from it; the TINY drum's little flame is hidden under grey ash, only a faint glow.
+3. YELLOW robe — round clay pot drums: the BIG pot is piled high with a thick heaped mound of earth; the MEDIUM pot is neat and full, ready; the TINY pot sits sunk low in a hole in the floor.
+4. WHITE robe — bronze gongs: the BIG gong is thick, heavy and rock-solid; the MEDIUM gong hangs perfectly level on a balanced frame; the TINY gong is soft and bent, being hammered into a new shape.
+5. BLUE robe — water bowls with floating gourd (water drum): the BIG bowl overflows with water spilling onto the floor; the MEDIUM bowl holds calm, still water; the TINY bowl is dried up and cracked.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat) ---
+v1 (not kept): all tiers right; spinning wheel had SIX slices (two reds); tiny bowl still held water.
+v2: wheel redrawn with exactly five slices; tiny bowl empty and cracked.
+v3 (code, wheel_v3.py): swapped the blue and white slice colours so the wheel reads clockwise green→red→yellow→white→blue (木火土金水 相生).

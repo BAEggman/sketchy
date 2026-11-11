@@ -1,0 +1,16 @@
+Please generate an image. A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no dates, no signs with writing, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: inside a bright TRAVEL AGENCY that makes custom tours.
+LEFT WALL: a big four-season picture calendar (spring blossoms, summer sun, autumn leaves, winter snow, no numbers). Under the SUMMER picture a clerk offers a customer an iced drink and pushes away a steaming hot pot; under the WINTER picture another clerk offers a warm hot-spring trip and pushes away an ice cream.
+CENTRE WALL: a big MAP with three regions: snowy mountains, a sunny seaside, a dry desert. Three customers with the SAME bandaged sore arm each take a DIFFERENT tour (a mountain hike with warm tea, a beach with cool fish, a desert camel ride with water) and all three come back healthy and happy.
+RIGHT WALL: a poster of three tour routes: a bus driving UP and OVER a high mountain pass; a river sluice gate at the bottom of a valley opened so water drains away downstream; an overstuffed suitcase in the middle being unpacked.
+BACK WALL, a row of EIGHT small picture boards: a steamy sauna; a bucket; a slide going down; two hands shaking; a warm heater; an ice fan; a sculptor chipping a big rock; a full dinner table.
+FRONT LEFT: a patient sculptor slowly chips away a hard boulder bit by bit and gently unties a big knotted rope, while a separate small dynamite blast is happening far behind in the background.
+FRONT RIGHT: a clerk about to blast a customer with a big ice-cold fan stops and hesitates: the customer has red cheeks BUT is shivering inside a blanket with blue icy hands and feet; next to them a thin old customer with a flushed face at night is given a cup of soothing milk instead of the ice fan.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat) ---
+v1: calendar, map, poster, eight boards, sculptor, hesitating fan clerk — present; but speech bubbles with "NO" (×2) and a "?" mark.
+v2 (code, text_v2.py): the letters inpainted out. Checker: the summer customer held a hot steaming cup and the hot pot stayed put; the winter customer ate ice cream — both read backwards.
+v3: edit (first try refused "I am a language model", re-sent) — iced drinks at desk 1 with the hot pot slid to the desk edge; the letters also vanished. But desk 2 read as "refusing the brochure" (ice cream gone).
+v4: edit — desk-2 customer holds and reads the brochure, ice cream plate pushed to the clerk. Side effect: a tipped ice cream plate appeared in front of the summer customer.
+v5 (final, code, icecream_v5.py): that area restored from v3.

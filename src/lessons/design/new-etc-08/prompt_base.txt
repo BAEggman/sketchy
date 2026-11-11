@@ -1,0 +1,12 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor, nothing gory. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: a FARM with a red HAY BARN, shown partly in cut-away so we can also see an UNDERGROUND CELLAR beneath the barn.
+LEFT: in a field a SCARECROW is being shaken violently by a strong gust of wind: its body trembles with wobble lines, its arms jerk and twitch, its head spins with spiral dizzy eyes rolled upward, its neck is stiff, and its whole back is bent BACKWARD like a drawn bow.
+CENTRE-TOP: the barn's big front door: only the OUTSIDE surface of the door is covered with a thin layer of frost; a brown guard DOG at the doorway shivers, its fur bristling, but inside the barn above ground it is still warm with a glowing lamp.
+CENTRE-BOTTOM: the cut-away CELLAR under the barn: a long sharp ICICLE spear has shot straight down from the sky through a hole into the cellar, and everything deep inside the cellar is frozen solid to the core: frozen barrels, frozen jars, a frozen lantern, thick ice everywhere.
+RIGHT-FRONT: a big pile of WET, soggy hay, dripping water, pressed tight under a tarp; from deep inside it, hot steam rises and small orange flames and smoke start to poke out.
+FAR RIGHT: a straw bale left out for a long time under a blazing sun: completely dry, cracked and crumbling, with no moisture left, and it suddenly bursts into flames.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat) ---
+v1: all scenes right. Checker: icicle pointed UP out of the barn floor (rising, not piercing); a broken hole with ice in the barn wall above the door (clashed with "only the surface froze").
+v2 (final): wall hole erased; the icicle now flies down from the upper left, piercing through the soil into the cellar among the frozen barrels.

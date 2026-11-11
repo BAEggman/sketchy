@@ -1,0 +1,16 @@
+Please generate an image. A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no dials with numbers, no sound-effect words, no writing anywhere.
+Scene: a busy traditional Korean HERBAL DECOCTION SHOP (tangjewon) with a long row of clay decoction pots steaming on burners.
+LEFT: a patient rushing in through the door holding his head with a sudden fever; the herbalist hands him a steaming cup of brown decoction straight from the pot, and the patient feels better at once; a herbalist easily adds or removes a handful of herbs from an open pot.
+CENTRE-LEFT: a pot in which a small GAUZE POUCH tied with string holds tiny sticky seeds and fuzzy hairy flowers, so the soup stays clear.
+CENTRE: a SEPARATE little golden pot on its own small burner, off to the side, simmering ONE precious ginseng root alone; a tiny rhinoceros-horn ornament beside it.
+CENTRE-RIGHT: a herbalist drops a pinch of fine shiny powder (red cinnabar powder, golden amber powder) from a small spoon straight into a finished cup of decoction and stirs it, without boiling; a little dish with a reddish root.
+RIGHT: a DOUBLE BOILER pot where dark glossy glue blocks and white crystals slowly MELT into the hot decoction; a little jar of golden syrup beside it.
+FRONT ROW, two burners:
+- front left: a ROARING BIG flame under a pot, a herbalist quickly boiling green ephedra stems, adding fragrant mint leaves at the very end, steam shooting up;
+- front right: a tiny GENTLE low flame under a pot, a patient old herbalist slowly simmering ginseng and jujubes for a long time with a snail and an hourglass beside him; heavy stones go into the pot first.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat) ---
+v1: shop, fever patient, pouch pot, golden pot, powder, double boiler, roaring and gentle burners — present. Problems: the gauze pouch hung outside the pot; the golden pot was a teapot with the ginseng lying on a cushion beside it; the gentle flame was orange and the stones sat outside the pot.
+v2: edit (first try came back empty, re-sent) — pouch floating in the soup; ginseng simmering alone in an open golden pot; tiny blue flame, old man dropping a stone in. Checker: no fever sign on the patient; empty red cushion; the stone went in after the jujubes ("last", not "first").
+v3 (final): edit — red cheeks and heat steam; a horn put on the cushion (now two horn ornaments); cut-away pot showing stones already at the bottom, old man stirring.

@@ -1,0 +1,18 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes. Absolutely no text, no letters, no numbers, no writing anywhere.
+Scene: the yard of a small weather observatory on a grassy hill. A grey rain cloud above drops rain.
+In the CENTRE stand two very tall, plain, clear glass RAIN-GAUGE tubes side by side, from the ground almost to the top of the picture: the LEFT tube has a PINK cap ring, the RIGHT tube has a BLUE cap ring. The tubes have NO markings at all. Rain falls into both tubes.
+LEFT of the pink tube, a wooden staircase of THREE steps rises from bottom to top, one woman on each step:
+- lowest step: a teenage girl smiling, holding a fresh red flower;
+- middle step: a middle-aged woman with a tired, dull face, a few strands of hair falling from her head into her hand;
+- top step: an old grey-haired woman beside a dry, cracked, empty flower pot.
+RIGHT of the blue tube, a wooden staircase of FIVE steps rises from bottom to top, one man on each step:
+- 1st (lowest): a teenage boy holding a water jug that overflows;
+- 2nd: a strong young man flexing his arm muscles and grinning wide, showing big healthy new back teeth;
+- 3rd: a middle-aged man with thinning hair, a few hairs falling, and dull greyish teeth;
+- 4th: an older man standing stiffly, leaning on a cane, holding an almost empty jug;
+- 5th (top): a very old, completely bald man smiling with no teeth at all.
+No other people. No text, letters or numbers anywhere.
+
+(v1 버림 — 계단 구도: 남자 다섯 중 넷째 · 다섯째가 한 사람으로 합쳐지고, 편집으로 다섯째를 더하라 해도 안 됨)
+v2 = prompt_v2.txt(새 대화창): 「계단 대신 두 줄 길 — 위 분홍 길 여자 셋, 아래 파란 길 남자 다섯, 모두 다른 사람」 → 여덟 모두 제자리.
+코드 (v3 최종): ticks_v3.py — 분홍 관 눈금 7(사건 2·5·7 길게 + 점), 파란 관 눈금 8(사건 2·3·5·7·8). 숫자는 Gemini에 맡기지 않는다.

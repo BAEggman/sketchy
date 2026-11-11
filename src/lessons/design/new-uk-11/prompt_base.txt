@@ -1,0 +1,13 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: one big FERRIS WHEEL fills the centre of the picture. It carries exactly SIX round cabins, evenly spaced like a clock at 12, 2, 4, 6, 8 and 10 o'clock. The cabins alternate in colour: GOLD, SILVER, GOLD, SILVER, GOLD, SILVER. Each cabin has one round picture plaque on its side and carries a pair of cute cartoon animals:
+- 12 o'clock (very TOP), GOLD cabin: plaque = a CRESCENT MOON; the cabin glows warm red; riders = a RAT and a HORSE. The rat stubbornly hugs the top beam of the wheel with both arms, refusing to move on.
+- 2 o'clock, SILVER cabin: plaque = a FULL MOON; the cabin drips with water; riders = an OX and a SHEEP, looking up impatiently, stuck and waiting to rise.
+- 4 o'clock, GOLD cabin: plaque = a SMALL SUN; a little flame flickers on its roof; riders = a TIGER and a MONKEY.
+- 6 o'clock (very BOTTOM), SILVER cabin: plaque = a SUN and a CRESCENT MOON side by side; riders = a RABBIT and a ROOSTER. This bottom cabin dips into a round SPRING POND below the wheel; the pond has floating autumn leaves and a few snowflakes.
+- 8 o'clock, GOLD cabin: plaque = a BIG SUN; frost and small icicles on it; riders = a DRAGON and a DOG.
+- 10 o'clock, SILVER cabin: plaque = a solid BLACK CIRCLE; wind swirls around it; riders = a SNAKE and a PIG.
+The sky above the top of the wheel shows spring blossoms on the left and a bright summer sun on the right. Grass and a small amusement park around the base.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음) ---
+v1: base prompt above, accepted (all six cabins, colours, plaques and animal pairs right; clockwise from 8 o'clock = 子午年 客氣 六步). The rat hangs on the top cabin's roof edge rather than hugging the top — text adjusted.

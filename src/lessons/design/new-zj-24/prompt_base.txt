@@ -1,0 +1,24 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor, nothing gory. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: an old-fashioned BARBERSHOP. Along the back wall, FIVE barber chairs in a row, each with a mirror; on the wall ABOVE each mirror hangs one round emblem (plain picture, no writing). In each chair a customer in a white barber cape holds the ONE spot of his head that hurts, and that spot glows a little red:
+1. emblem: a BIG SUN — the customer clutches the BACK of his head and the back of his NECK;
+2. emblem: a SUN and a MOON side by side — the customer clutches his FOREHEAD;
+3. emblem: a SMALL SUN — the customer clutches the SIDES of his head (both temples);
+4. emblem: a BLACK CIRCLE — the customer clutches the very TOP (crown) of his head;
+5. emblem: a CRESCENT MOON — the customer clutches his head AND his JAW, the ache running down into his TEETH.
+FRONT (a waiting bench along the bottom of the picture), four more customers:
+6. a man twisting a wet towel extremely hard into a tight wrung spiral, his face in agony; ice crystals and little pebbles drop out of the towel;
+7. a man on whose shoulders and back a small electric hair clipper runs around BY ITSELF along a zigzag dotted path, so the itch-ache keeps moving from place to place;
+8. a man with a little hinged lid on top of his head, opened to show his head is HOLLOW and EMPTY inside; beside him an empty rice sack and an empty glass bottle;
+9. a pale slouching man with a faint, dull, lingering frown; beside him a nearly-out dim lantern and a deflated balloon.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+(이 과부터 Gemini 모델: 카본 · 사고 수준 높음 — 새 대화마다 사고 수준이 「낮음」으로 돌아가므로 매번 「높음」을 다시 고름)
+
+--- 편집 1 (v1 → v2, 같은 대화) ---
+Edit this same picture with one small change only, at the far right of the waiting bench (the pale slouching grey-haired man): make his purple balloon clearly DEFLATED — a shrunken, wrinkled, flat limp rubber balloon lying on the bench; and make the lantern beside him very DIM, its flame almost out. Keep everything else exactly the same. No text, letters or numbers anywhere; no labels, no sound-effect words.
+→ 결과: 성공.
+
+--- 편집 2 (v2 → v3) ---
+Edit this same picture with two small changes only. (1) THIRD barber chair (under the small sun emblem, both hands on the temples): remove the red glow from his forehead, and keep the red glow ONLY on the two SIDES of his head at the temples, under his hands. (2) FIFTH barber chair (under the crescent moon emblem, holding his cheek and jaw): add a red glow on the SIDE of his HEAD too, and a thin red glowing streak running down from that spot on his head to his jaw and teeth, so the headache clearly reaches down into his teeth; if possible put his other hand on the side of his head. Keep everything else exactly the same. No text, letters or numbers anywhere; no labels, no sound-effect words.
+→ 결과: 다섯째는 머리 → 턱 빛이 생겼으나 피 같은 짙은 줄. 셋째 이마 빛은 조금만 줄어듦.
+→ 코드: glow_v4.py(셋째 이마 가운데 붉은 빛을 살색으로, v4) · glow5_v5.py(다섯째의 짙은 붉은 줄을 번지는 빛으로, v5).

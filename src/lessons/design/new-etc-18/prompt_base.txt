@@ -1,0 +1,19 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no skull symbols, no warning signs, no sound-effect words, no writing anywhere.
+Scene: a busy traditional HERBAL PHARMACY DISPENSING ROOM with wooden drawer cabinets, a long dispensing counter and a pharmacist in a white coat.
+BACK WALL, LEFT: a big hanging balance scale tipped STRONGLY to one side: one pan holding a dark purple spiky herb sinks all the way down, the other pan flies up.
+BACK WALL, CENTRE: on a shelf, a dark spiky potion bottle rides on a racing HARE with speed lines, and a gentle round teapot rides on a slow TORTOISE.
+COUNTER, LEFT TO RIGHT (three small dispensing stations):
+- station A: a BIG scoop heaped with fluffy mild green herbs, and next to it tweezers holding just ONE tiny pinch of a dark purple spiky herb.
+- station B: a little scale with only a few light flower petals and leaves, and another scale piled HIGH with heavy stones and seashells.
+- station C: a BIG clay decoction pot bubbling with a large pile of herbs going in, and next to it a tiny jar with only a few small pills.
+FRONT LEFT: three patients waiting: a patient on a stretcher with a flashing red emergency lamp being handed a BIG bowl of medicine; an old man in a rocking chair, knitting slowly, with a SMALL cup; a little child with a TINY spoon.
+FRONT CENTRE: a smiling PREGNANT woman; the pharmacist stands in front of her with both arms spread wide to block, keeping away a tray behind him holding a drop of silvery mercury, a musk pod, small red beans and a sharp three-edged blade.
+FRONT RIGHT: two big glass processing jars on a shelf:
+- jar 1: white knobby roots soaking with slices of yellow GINGER and white ALUM crystals; a tiny grumpy face on a root turns calm and smiling, and a little broom sweeps away a swirl of wind and a blob of sticky phlegm.
+- jar 2: roots with a STAR shape on them soaking in dark GREEN bile liquid from a small bottle; above the jar a red flame turns into a cool blue snowflake.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat; prompt sent with "Please generate an image." in front) ---
+v1: every vignette right (tipped scale, hare/tortoise, three counter stations, three patients, pharmacist blocking the pregnant woman, two processing jars). A red cross on the nurse's cap.
+v2 (code, cross_v2.py): the red cross painted over with cap white. Checker: on the tray the musk pod looked like a cocoa pod, the "small beans" were red (clashed with 赤小豆 in etc-13), the knife was serrated (not three-edged).
+v3 (final): edit from v1 — furry brown musk pouch, grey-brown beans, triangular-section spike; nurse cap asked plain white (so the code fix was no longer needed). The flame→snowflake arrow kept (a direction mark, not a letter).

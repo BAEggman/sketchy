@@ -1,0 +1,14 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no menus with writing, no sound-effect words, no writing anywhere.
+Scene: a cosy Korean street-food TENT BAR (pojangmacha) at night, orange tent walls, warm light bulbs. A long counter runs across the picture. Behind the counter in the middle, a kind middle-aged owner lady in an apron listens and serves.
+FIVE customers sit on stools along the counter, left to right. Above each customer floats a round THOUGHT BUBBLE showing a picture of what he wishes for. On the counter in front of each customer are TWO things the owner just served.
+1. A GENERAL in green armour: his whole body is tense and cramped, fists clenched, veins popping, jaw tight. Thought bubble: a wide open green meadow with arms spread free. In front of him: a jar of golden HONEY and a red CHILI pepper.
+2. A KING with a golden crown and red robe: he is slack and floppy, slumping, his crown slipping, robe hanging loose, melting like jelly. Thought bubble: a big soft fluffy pillow. In front of him: a yellow LEMON and a SALT shaker.
+3. A FARMER in a straw hat: he is soaking wet, dripping water, with a tiny rain cloud over his head. Thought bubble: himself lying relaxed in a hammock. In front of him: a cup of black COFFEE and a jar of golden HONEY.
+4. An OLD MAN in a white robe: he coughs hard, puffs of air shooting straight UP from his mouth, his hat flying up off his head. Thought bubble: a small pouch with its drawstring pulled tight shut. In front of him: a cup of black COFFEE and a yellow LEMON.
+5. A BALD muscular STRONGMAN dressed in black: his skin and lips are dry and cracked, a dry cracked patch of earth under his stool. Thought bubble: a solid hard grey rock. In front of him: a red CHILI pepper and a cup of black COFFEE.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat) ---
+v1: tent bar, owner, five customers with conditions, thought bubbles and two items each — all right except the hammock bubble also had a rain cloud and rain in it (clashed with "wants to relax").
+v2: edit — hammock bubble made dry and sunny. Checker: the king read as dozing/drunk (eyes shut), not "slack"; the pillow bubble's trail pointed between the king and the owner; the old man's coffee sat right next to the farmer's honey.
+v3 (final): edit — king eyes open, melting and dripping down like jelly; pillow bubble trail leads to the king's crown. The old man's items were not moved by Gemini — the text says "right of the farmer's honey jar" instead.

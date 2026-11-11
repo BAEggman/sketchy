@@ -1,0 +1,16 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no recycling symbols, no signs, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: a big neighbourhood RECYCLING-SORTING YARD.
+LEFT HALF: two huge sorting bins side by side: a bright orange bin with a big SUN emblem, and a dark navy bin with a big MOON emblem. Workers sort things into them:
+- a worker opens a box-in-a-box: he throws the OUTER box shell into the sun bin and the INNER box into the moon bin; on a two-level shelf behind him, things on the TOP shelf go to the sun bin and things on the BOTTOM shelf to the moon bin.
+- into the SUN bin also fly: a little cart being pushed forward, a small glowing heater, a rising balloon, a bursting firework; into the MOON bin: a brake pad, an ice pack, a watering can, a sinking anchor.
+- food scraps: a red hot pepper, a candy and a cup of plain water, all steaming hot, go into the sun bin; a sour lemon, a bitter melon and a lump of salt, all icy cold, go into the moon bin.
+MIDDLE: a conveyor belt of rubber balls: big balls bouncing HIGH and FAST roll off into the sun bin; small balls that SINK low and roll SLOWLY drop into the moon bin. Beside the belt a tired man wearing a DIM sun badge holds a small limp ball that sinks slowly in his hand.
+TOP WALL: a big round wall dial divided into FOUR quarters showing the sky through a day, no numbers: morning sun climbing up to noon (brightest); afternoon sun going down to dusk; late night with a moon in the darkest sky; a rooster crowing under the moon with a faint glow of dawn.
+RIGHT THIRD: FIVE smaller bins in a row coloured green, red, yellow, white and black. One worker looks at a tree through a magnifying glass and drops a green leaf into the GREEN bin; another worker pulls a long CHAIN of linked green things (a leaf, then a green eyeball model, then a green rope) and feeds the whole chain into the same green bin.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+(Gemini 카본 · 사고 수준 높음)
+
+--- 편집 1 (v1 → v2, 같은 대화) ---
+Edit this same picture with small changes only. (1) Erase the big orange basketballs flying above and falling into the navy MOON bin. Instead, two big bright orange bouncy balls bounce HIGH in a big arc with motion lines and land inside the orange SUN bin. Two small dark blue balls drop slowly straight down into the navy MOON bin. (2) The tired man beside the conveyor: make his sun badge dull GREY and faded, and make the thing in his hand a small DEFLATED rubber ball, limp and drooping. (3) Move the anchor so it is sinking down into the navy MOON bin. (4) Erase all the curved arrows and dotted arrows near the boxes and the shelf. Keep everything else exactly the same. No text, letters or numbers anywhere; no labels, no sound-effect words.
+→ 결과: 해 통 속 큰 공 · 잿빛 배지 · 처진 공 · 닻 · 화살표 지움 성공. 달 통 위 높은 큰 공 하나가 남음 → ball_v3.py로 지움(v3).

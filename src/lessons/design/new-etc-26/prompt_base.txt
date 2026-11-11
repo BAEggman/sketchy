@@ -1,0 +1,15 @@
+Please generate an image. A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no NUMBERS, no numerals on any clock face (clock faces only have plain dots), no signs, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: a cosy old CLOCK SHOP. A kindly clockmaker with a magnifying loupe stands behind the counter in the middle. On the walls hang SEVEN different clocks in a row, and under each clock is a small shelf with a little scene of a customer taking medicine:
+1. a round wall clock: a customer holding his throat and chest, drinking his medicine right after finishing a meal (an EMPTY licked-clean plate beside him);
+2. a square wall clock: a customer holding his round belly, drinking medicine BEFORE eating (a FULL untouched plate of food beside him);
+3. a sunrise clock with a rising sun on top: at dawn a customer stretches his arms and legs and drinks medicine on an empty stomach, an empty bowl, a rooster crowing;
+4. a moon clock with a crescent moon on top: at night after a big dinner a customer with a full round belly holds his aching knee bones and drinks medicine, a pile of empty dinner dishes beside him;
+5. a pendulum clock: a skinny customer drinks a ginseng tonic on an empty stomach, empty plate, rubbing his empty growling tummy;
+6. a ringing ALARM clock with a big mosquito on top: a customer drinks medicine early, while a shivering-and-sweating fit is still waiting far away down a path;
+7. a cuckoo clock with a sleeping owl: a customer in pyjamas and nightcap drinks medicine next to his pillow and bed, yawning.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat) ---
+v1: seven numberless clocks with a customer scene under each, clockmaker in the middle — all right. Checker: ④ man held his waist, not his knee; ⑤ drank from the same brown bottle (no ginseng); ⑥ the shivering fit stood close by, not far away.
+v2: edit — ④ clutches his knee; ⑤ a glass bottle with a ginseng root; ⑥ the fit tiny at the far end of the path. Side effects: a red blood-like smear on ④'s knee; a ginseng picture spread onto the pendulum disk.
+v3 (final, code, fix_v3.py): pendulum disk restored from v1 (glass bottle kept); knee smear painted with the leg's own trouser colour.

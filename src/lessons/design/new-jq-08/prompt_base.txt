@@ -1,0 +1,15 @@
+A wide 16:9 landscape cartoon illustration of a busy airport seen from a high side angle. Bold black ink outlines, flat bright colors, simple clear shapes. Absolutely no text, no letters, no numbers, no signs with writing anywhere.
+TOP HALF: a long runway across the picture with a control tower. On the LEFT end a white plane takes off, nose up, climbing into the blue sky. On the RIGHT end another white plane comes in to land, nose down, descending with its wheels out. In the middle a glass terminal building with two open doors: out of the left door a line of travellers with suitcases walks OUT toward a parked plane; through the right door a line of travellers walks IN from the plane.
+BOTTOM HALF: five separate scenes side by side on the grey apron, from left to right, clearly spaced:
+1. a jam: five small planes stuck nose to tail in a tight queue on a taxiway, and a ground marshal in an orange vest waves two orange wands to get them moving.
+2. a plane shooting steeply straight up, nose to the sky, and three ground crew pull it back DOWN with a long rope tied to its tail.
+3. a plane whose belly has sunk deep into a muddy hole in the tarmac, and a big yellow crane lifts it UP out of the hole with straps.
+4. a plane with yellow emergency slides out of every door, passengers sliding out and scattering in all directions, and staff hold a big rope net all around the plane to keep them together.
+5. a big hangar with its doors shut, wrapped in heavy chains and a big padlock; a worker cuts the chain with bolt cutters and swings the doors open, and a big puff of stale grey air bursts out.
+No text, letters or numbers anywhere.
+
+(v1 → v2 편집 실패) "...(1) Erase the plane at the top RIGHT and draw it again ... as a plane coming in to LAND: its nose clearly tilted DOWN ... (2) The line of travellers at the RIGHT terminal door: all of them face the door and walk INTO the terminal ..." → 거의 그대로(오른쪽 비행기 여전히 기수 들림). v2 = 코드: tilt_v2.py로 오른쪽 비행기를 24° 숙이고 35px 내림.
+(검사: 왼쪽 줄도 문으로 들어가는 쪽을 봄 → 出이 없음)
+(v3 편집 실패) "Erase all the travellers in front of the LEFT terminal door and draw them again as people LEAVING ... every face and body turned to the LEFT ..." → 다시 그렸으나 여전히 문 쪽을 봄.
+(v4 편집) "Keep everything else exactly the same. Change only the area in front of the LEFT terminal door: erase the travellers there. Draw a big yellow airport shuttle BUS parked on the apron at the left, its door open. Travellers come OUT of the left terminal door with their backs to the terminal and walk away to the bus; the first ones are already climbing up the steps into the bus. The line at the RIGHT door stays as it is." → 버스와 버스에 오르는 셋은 나옴, 나머지 여섯은 여전히 문으로 들어감.
+(v5 최종 = v4 + tilt_v2.py 착륙기 기울이기·속도선 지움. 글은 "버스에 오르는 셋 = 出, 두 문으로 들어가는 줄 = 入"으로 맞춤)

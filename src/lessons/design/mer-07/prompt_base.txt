@@ -1,0 +1,23 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes. Absolutely no text, no letters, no numbers, no writing anywhere.
+Scene: a GIANT man lying face down on a very long wooden bed, seen from above at a slight angle, filling the whole picture: his head at the far LEFT, his bare back stretching across the picture, his hips at the far RIGHT (his legs are cut off by the right edge). He wears plain grey shorts whose waistband sits low, just below the flat triangular bone at the base of his spine. On his back these are clearly drawn: the two shoulder blades with their bony ridges, the bottom ends of the lowest ribs, the tops of the two hip bones, and the flat triangular bone at the base of the spine.
+A thin blue stream of water runs along his back, parallel to his spine and just two finger-widths beside it, from the neck down to the waistband.
+TWELVE tiny people stand in ONE line along that stream, from LEFT to RIGHT:
+1. an old man in a white robe with a long white beard, level with the inner end of the bony ridge of the shoulder blade;
+2. a guard in red armour holding a shield;
+3. a king in a red royal robe with a small gold crown;
+then a long RED cloth lies straight across the back, exactly level with the lower tips of the two shoulder blades;
+then one small traffic cone, with nobody beside it;
+4. a general in green armour;
+5. a judge in a green official robe holding a balance scale;
+6. a farmer in yellow clothes with a straw hat;
+7. a cook in a yellow apron holding a ladle;
+8. a worker in orange clothes holding a shovel;
+9. a bald strongman in black clothes, level with the ends of the lowest ribs;
+then one small traffic cone, with nobody beside it;
+10. a worker in white overalls holding a long pipe brush, standing exactly on the line that joins the tops of the two hip bones;
+then one small traffic cone, with nobody beside it;
+11. a worker in a red apron holding a round sieve, and 12. a water carrier in black with two buckets on a shoulder pole — both standing on the flat triangular bone at the base of the spine.
+No other people. No text, letters or numbers anywhere.
+
+(v1 버림 — 같은 장면을 위 프롬프트로: 사람들이 등 윗부분에 몰리고 견갑골이 날개처럼, 小腸 · 膀胱이 한 사람으로 합쳐짐, 갈비뼈 · 엉덩뼈 안 보임)
+v2 = prompt_v2.txt(새 대화창): 「위에서 내려다본 가로 몸 · 뼈 표지 넷을 단순한 모양으로 · 열두 사람을 등 전체에 고르게 · 11과 12는 다른 사람」 → 열둘 · 붉은 천 · 원뿔 셋 순서 모두 맞음. 편집 없음, v2 최종.

@@ -1,0 +1,19 @@
+A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no signs, no logos, no labels, no stickers with writing, no sound-effect words, no writing anywhere.
+Scene: a big FRUIT SORTING WAREHOUSE.
+LEFT: three packing tables, each with a wooden box:
+- table 1: a doctor in a traditional Korean robe and black horsehair gat hat carefully packs neatly sliced and dried herb pieces into the box, beside him a small herb-slicing knife and a roasting pan.
+- table 2: a village grandmother in a headscarf hands a woven basket of wild herbs to her little granddaughter, who puts them into the box.
+- table 3: a scientist in a white lab coat and goggles looks through a microscope at a fruit slice and squeezes one glowing drop from it into a test tube.
+CENTRE: a big SORTING MACHINE with THREE conveyor rails stacked one above another:
+- TOP rail: shining GOLDEN fruits roll UPWARD toward a sunny sky window, where a KING with a golden crown receives them on a throne; next to him a happy, healthy very old man with a long white beard eats one golden fruit every day from a big bowl.
+- MIDDLE rail: ordinary red and green fruits roll straight across to a MINISTER in a black official's hat; among them a few fruits have small purple spots.
+- BOTTOM rail: dark purple SPIKY fruits dripping green slime roll DOWN a chute into the ground, where a little servant boy catches just ONE in tongs and runs it to a sick man lying in bed who recovers; a big pile of the spiky fruits behind is fenced off.
+RIGHT: the back storehouse: in the dim, dusty corner hang long strings of dried orange TANGERINE PEELS and dried persimmons covered in dust and cobwebs, and an old man sniffs them happily (the older, the better). By the bright open door in the sunshine, a fresh basket of just-picked dewy flowers and green leaves (chrysanthemums, peach blossoms, mint leaves, perilla leaves) and a scoop of shiny red beans.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat) ---
+v1: packing tables, three-tier sorter, storehouse and fresh basket all right. A tiny letter-like scribble on the side of the lower chute.
+v2 (code, mark.py 1 2): the scribble painted over with the chute's side colour (only dark pixels inside the band between the panel line and the outer edge).
+Checker on v2: the knife was a kitchen knife (not a 작두), the tray an oven tray; 3 of 5 strings were persimmons (not in the 六陳 list); perilla leaves green like mint.
+v3: edit — hinged chopper-like blade, long-handled iron pan, purple perilla leaves; strings now 3 tangerine peel + 2 persimmon (asked for 4 + 1). The scribble came back (edit was based on v1).
+v4 (final, code, mark.py 3 4): same scribble fix applied to v3.

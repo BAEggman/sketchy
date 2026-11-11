@@ -1,0 +1,17 @@
+Please generate an image. A wide 16:9 landscape cartoon illustration. Bold black ink outlines, flat bright colors, simple clear shapes, gentle humor. Absolutely no text, no letters, no numbers, no signs, no door numbers, no logos, no labels, no sound-effect words, no writing anywhere.
+Scene: an ESCAPE-ROOM CAFE shown as a cut-away building with TWO FLOORS of themed rooms, plus a lobby on the left.
+LEFT LOBBY: a game master in a long cloak holds an old rolled scroll (blank) and a lantern; a staircase connects the two floors.
+UPPER FLOOR, three small rooms, left to right:
+1. a TINY room: one little ghost, one team leader with just two helpers, sipping from tiny cups again and again;
+2. a SLOW room: a snail, a rocking chair, a player calmly knitting under a gentle lamp;
+3. an ODD room: one single player holding ONE big ginseng root in front of a door with three locks; he gives up and walks out toward the stairs.
+LOWER FLOOR, three rooms, left to right:
+4. a HUGE room: a giant fierce monster fills the room; a big crowd of players with a king, three captains and nine helpers attack it with buckets full of many keys;
+5. an URGENT room: a red alarm lamp flashes, a player with icy blue hands and feet has collapsed and a rescuer rushes in with a steaming hot pot of soup;
+6. an EVEN room: two players in matching outfits each holding a pair of keys, opening a double door; the ginseng player from upstairs comes in to join them.
+RIGHT END: a TALL MERGED room spanning both floors where the wall between two rooms has been knocked down: two different puzzle boxes are combined into one; inside, a bundle of firewood tied together with a cinnamon branch, and a big friendly BLUE DRAGON toy curled on the floor.
+No text, letters or numbers anywhere; no labels, no sound-effect words.
+
+--- edit history (Gemini 카본 · 사고 수준 높음, one chat; the thinking level needed a second click this time) ---
+v1: lobby, six themed rooms on two floors and the merged room all right. Checker: the even-room pair wore black-and-white striped outfits with striped caps (read as prisoners/escape); a second scroll-holder on the stair landing confused who the game master was; letter-like "AI" marks inside a gear on the upper puzzle box.
+v2 (final): edit — twins in plain teal tracksuits; the red-sweater ginseng man walks down the lobby stairs instead of the extra scroll-holder; plain gears (the upper box became grey metal).

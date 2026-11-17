@@ -118,3 +118,8 @@ src/coverage/blind65/*.png
 src/coverage/blind65/crop_*/
 src/coverage/blind66z/*.png
 src/coverage/blind66z/crop_*/
+carbon/blind/raw/
+.env
+masters/
+_trash/
+.venv/

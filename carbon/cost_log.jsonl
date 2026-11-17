@@ -1,0 +1,7 @@
+{"kind": "image", "time": "2026-11-17T21:34:07", "model": "antigravity-image-generator", "out": "masters/_test/base.png", "size": [1376, 768], "refs": 0, "aspect": "16:9", "tag": "stage-A-test-base", "ok": true}
+{"kind": "image", "time": "2026-11-17T21:36:36", "model": "antigravity-image-generator", "out": "masters/_test/edit_a.png", "size": [1376, 768], "refs": 1, "aspect": "16:9", "tag": "stage-A-test-edit-a", "ok": true}
+{"kind": "image", "time": "2026-11-17T21:36:36", "model": "antigravity-image-generator", "out": "masters/_test/edit_b_pasted.png", "size": [1024, 1024], "refs": 1, "aspect": "1:1", "tag": "stage-A-test-edit-b", "ok": true}
+{"kind": "image", "time": "2026-11-17T21:36:36", "model": "antigravity-image-generator", "out": "masters/_codes/numbers.png", "size": [1376, 768], "refs": 0, "aspect": "16:9", "tag": "stage-A-numbers-code-sheet", "ok": true}
+{"kind": "reader", "time": "2026-11-17T21:39:23", "model": "antigravity-blind-reader", "image": "images/lessons/hist-02.webp", "out": "sketchy/carbon/blind/hist-02_base.json"}
+{"kind": "reader", "time": "2026-11-17T21:39:47", "model": "antigravity-blind-reader", "image": "images/lessons/hist-07.webp", "out": "sketchy/carbon/blind/hist-07_base.json"}
+{"kind": "reader", "time": "2026-11-17T21:39:52", "model": "antigravity-blind-reader", "image": "images/lessons/hist-06.webp", "out": "sketchy/carbon/blind/hist-06_base.json"}

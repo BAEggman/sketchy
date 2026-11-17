@@ -1,0 +1,18 @@
+{
+  "stage": "B",
+  "done": [
+    "stage-A"
+  ],
+  "in_progress": "stage-B-ledgers-and-schema",
+  "next": [
+    "stage-B",
+    "stage-C",
+    "stage-D",
+    "stage-E",
+    "stage-F",
+    "stage-G"
+  ],
+  "image_calls": 4,
+  "est_usd": 0.32,
+  "updated": "2026-11-17T21:42:30+09:00"
+}

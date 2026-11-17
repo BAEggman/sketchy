@@ -192,6 +192,21 @@
   // ---------- 화면 전환 ----------
   function setText(el, t) { el.textContent = t == null ? '' : String(t); }
   function setHook(el, t) { el.hidden = !t; setText(el.querySelector('span'), t); }
+  function setAttrs(el, attrs) {
+    if (!el) return;
+    el.textContent = '';
+    if (!Array.isArray(attrs) || !attrs.length) { el.hidden = true; return; }
+    el.hidden = false;
+    attrs.forEach(function (a) {
+      var li = document.createElement('li');
+      var sl = document.createElement('span'); sl.className = 'aslot'; sl.textContent = a.slot || '속성';
+      var fc = document.createElement('span'); fc.className = 'afact'; fc.textContent = a.fact || '';
+      var ob = document.createElement('span'); ob.className = 'aobj';
+      ob.textContent = (a.obj ? '← ' + a.obj : '') + (a.link ? ' (' + a.link + ')' : '');
+      li.appendChild(sl); li.appendChild(fc); if (a.obj || a.link) li.appendChild(ob);
+      el.appendChild(li);
+    });
+  }
 
   function showList(missing) {
     stopAll(); setAuto(false);
@@ -283,6 +298,7 @@
     setText($('tObj'), obj === bd.textContent ? '' : obj);    // 「되짚기 되짚기」 겹침 피하기
     setText($('tFact'), st.fact);
     setHook($('tHook'), st.hook);
+    setAttrs($('tAttrs'), st.attrs);
     setText($('tSay'), st.say);
     var src = $('tSrc'), cards = Array.isArray(st.src) ? st.src : [];
     src.hidden = !cards.length; src.textContent = cards.length ? '카드 ' + cards.join(' · ') : '';
@@ -352,6 +368,7 @@
     setText($('rObj'), st.obj);
     setText($('rFact'), st.fact);
     setHook($('rHook'), st.hook);
+    setAttrs($('rAttrs'), st.attrs);
   }
   function stepReview(d) {
     var idx = contentIdx(S.L);
@@ -408,6 +425,7 @@
       setText($('sObj'), st.obj);
       setText($('sFact'), st.fact);
       setHook($('sHook'), st.hook);
+      setAttrs($('sAttrs'), st.attrs);
     }
   }
   function judge(ok) {

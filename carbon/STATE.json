@@ -1,12 +1,17 @@
 {
-  "stage": "B",
+  "stage": "C",
   "done": [
-    "stage-A"
+    "stage-A",
+    "stage-B"
   ],
-  "in_progress": "stage-B-ledgers-and-schema",
+  "in_progress": "stage-C-pilot-6",
   "next": [
-    "stage-B",
-    "stage-C",
+    "hist-02a",
+    "hist-06b",
+    "hist-07a",
+    "new-gr-19",
+    "new-gr-31",
+    "new-gr-33",
     "stage-D",
     "stage-E",
     "stage-F",
@@ -14,5 +19,5 @@
   ],
   "image_calls": 4,
   "est_usd": 0.32,
-  "updated": "2026-11-17T21:42:30+09:00"
+  "updated": "2026-11-17T22:06:30+09:00"
 }

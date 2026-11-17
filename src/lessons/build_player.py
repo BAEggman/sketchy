@@ -82,6 +82,24 @@ def check(L, path, errors, warns):
         for x, y, w, h in bs:
             if w <= 0 or h <= 0 or x < 0 or y < 0 or x + w > W or y + h > H:
                 warns.append(f'{tag} #{n}: 상자 {[x, y, w, h]}가 그림({W}×{H}) 밖으로 나간다')
+        attrs = st.get('attrs')
+        if attrs is not None:
+            if not isinstance(attrs, list):
+                errors.append(f'{tag} #{n}: attrs는 목록이어야 한다')
+            else:
+                num_codes = ('공룡', '일렉기타', '이층 버스', '삼지창', '사과', '오징어', '육각 너트', '칠면조', '팔레트', '구미호', '사계절 바퀴', '둘', '두 ', '셋', '세 ', '하나', '3단', '2구', '2具')
+                for a in attrs:
+                    slot = a.get('slot', '?')
+                    vessel = a.get('vessel')
+                    if not vessel or not isinstance(vessel, list) or vessel == ['그림']:
+                        warns.append(f'{tag} #{n} [{slot}]: attrs 칸에 그릇(vessel)이 없거나 「그림」만 있다(문항 필요)')
+                    if slot == '수':
+                        a_obj = a.get('obj') or ''
+                        if not any(nc in a_obj for nc in num_codes):
+                            warns.append(f'{tag} #{n} [수]: 숫자 물건 표기 {a_obj!r}가 공용 부호표와 다르다')
+                    ab = a.get('box')
+                    if ab is not None and not is_box(ab):
+                        errors.append(f'{tag} #{n} [{slot}]: attr box는 [x,y,w,h]여야 한다 — {ab!r}')
 
 
 def main():

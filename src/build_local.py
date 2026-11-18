@@ -82,6 +82,19 @@ def panel_html(p):
              % (pid, p['title'], p['tag'], badge, pid))
     if pid == 's10p01':
         o.append('<p class="study-note"><a href="bagua.html"><b>팔괘 방위 기억방 →</b></a> 남건북곤·동리서감 / 동남 손님·서남 곤잠·서북 건배·동북 간식 — 말장난으로 연결하고 빈 방위판을 채워 보세요.</p>')
+    v7_links = {
+        's02u01': ('hist-02a', 'Carbon v7 개편 판본 보기: hist-02a (陶弘景 梁=양 · 弘景=안경 홍학 · 365+365=730 · 集注=집 주전자) · hist-02b →', 'images/lessons/hist-02a.webp'),
+        's03u02': ('hist-06b', 'Carbon v7 개편 판본 보기: hist-06a (金元四大家) · hist-06b (成無己 ★金 · 杜本 元 36종) →', 'images/lessons/hist-06b.webp'),
+        's03u03': ('hist-06b', 'Carbon v7 개편 판본 보기: hist-06b (杜本 두더지+뿌리 · 오이씨=敖氏 · 삼지창+너트=36종) →', 'images/lessons/hist-06b.webp'),
+        's18d01': ('hist-07a', 'Carbon v7 개편 판본 보기: hist-07a 혈 수 계보 (349→354→359→359→361 숫자 물건 부호) →', 'images/lessons/hist-07a.webp'),
+        's18d06': ('new-gr-19', 'Carbon v7 개편 판본 보기: new-gr-19~30 (舍岩鍼法 12경 전담 과 · 肺經 4격) →', 'images/lessons/new-gr-19.webp'),
+        's18d07': ('new-gr-19', 'Carbon v7 교정 반영: 大腸 寒格 補火 · 熱格 瀉火 = 양곡 · 양계(陽谿) / new-gr-19~30 열기 →', None),
+        's18u01': ('new-gr-19', 'Carbon v7 신설 과 보기: new-gr-19(舍岩 肺) · new-gr-31(경혈 수) · new-gr-33(16극혈) →', 'images/lessons/new-gr-31.webp'),
+    }
+    if pid in v7_links:
+        lid, ltxt, limg = v7_links[pid]
+        img_tag = ('<br><a href="lessons.html?l=%s"><img loading="lazy" src="%s" alt="%s" style="margin-top:6px"></a>' % (lid, limg, lid)) if limg else ''
+        o.append('<p class="study-note" style="border:1.5px solid var(--acc)"><b><a href="lessons.html?l=%s">★ %s</a></b>%s</p>' % (lid, ltxt, img_tag))
     ip = img_path(pid)
     if ip:
         is_extension = bool(p.get('extension'))
@@ -145,20 +158,42 @@ def run():
     from collections import Counter
     tc = Counter(p['track'] for p in LIB['panels'])
 
-    chips = ''.join('<a class="chip" href="#%s">%s</a>' % (a, t) for a, t in SCENES['chips'])
+    chips = '<a class="chip" href="#carbon-v7" style="border-color:var(--acc);color:var(--acc);font-weight:700">★ Carbon v7 개선판</a>' + ''.join('<a class="chip" href="#%s">%s</a>' % (a, t) for a, t in SCENES['chips'])
+    carbon_sec = [
+        '<h2 id="carbon-v7">★ Carbon v7 개선판 — 227과 재생기 · 시범 6과 · 신규 도해 4장</h2>',
+        '<div class="panel" style="border:2px solid var(--acc);background:#f7fbf8">',
+        '<h3><a href="lessons.html" style="color:var(--acc)">▶ 한의학 Sketchy 과 재생기 열기 (227과 · 정거장 2,067개 · 속성 attrs 완비) →</a> <span class="tag">Carbon v7</span></h3>',
+        '<p class="study-note" style="margin:6px 0 12px">의학사 인물 묶음(왕조 터·字號·서명·기여·의의·수 부호) 개편, 혈 수 계보(349→354→359→359→361) 숫자 물건 부호화, 舍岩鍼法 12경 전담 과 및 경락 신규 과(227과), 신규 코드 도해 4장(s18d10~s18d13)이 반영되었습니다. 전체 투어·복습·회상 시험은 <a href="lessons.html"><b>과 재생기(lessons.html)</b></a>에서 실행합니다.</p>',
+        '<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px">',
+        '<div style="border:1px solid var(--line);border-radius:8px;padding:8px;background:#fff"><b><a href="lessons.html?l=hist-02a">hist-02a · 南北朝 本草와 製藥 (재생기 열기 →)</a></b><br><small>陶弘景(梁=흰 양, 弘景=안경 홍학, 365+365=730, 集注=집 주전자) · 雷斅 · 徐之才</small><a href="lessons.html?l=hist-02a"><img loading="lazy" src="images/lessons/hist-02a.webp" alt="hist-02a" style="margin-top:6px"></a></div>',
+        '<div style="border:1px solid var(--line);border-radius:8px;padding:8px;background:#fff"><b><a href="lessons.html?l=hist-06b">hist-06b · 成無己(★金) · 杜本(元) (재생기 열기 →)</a></b><br><small>성문+무기(成無己, 최초 전면 주해) · 두더지+뿌리(杜本) · 오이씨(敖氏) · 삼지창+너트(36종)</small><a href="lessons.html?l=hist-06b"><img loading="lazy" src="images/lessons/hist-06b.webp" alt="hist-06b" style="margin-top:6px"></a></div>',
+        '<div style="border:1px solid var(--line);border-radius:8px;padding:8px;background:#fff"><b><a href="lessons.html?l=hist-07a">hist-07a · 혈 수 계보 349→354→359→359→361 (재생기 열기 →)</a></b><br><small>어귀 삼지창(300) · 사과+구미호(349) · 오징어+사과(354) · 오징어+구미호 둘(359·359) · 너트+일렉기타(361)</small><a href="lessons.html?l=hist-07a"><img loading="lazy" src="images/lessons/hist-07a.webp" alt="hist-07a" style="margin-top:6px"></a></div>',
+        '<div style="border:1px solid var(--line);border-radius:8px;padding:8px;background:#fff"><b><a href="lessons.html?l=new-gr-19">new-gr-19 · 舍岩 ① 手太陰肺經 4격 (재생기 열기 →)</a></b><br><small>正格(太白·太淵 補, 少府·魚際 瀉) · 勝格(少府·魚際 補, 尺澤·陰谷 瀉) · 寒格 · 熱格</small><a href="lessons.html?l=new-gr-19"><img loading="lazy" src="images/lessons/new-gr-19.webp" alt="new-gr-19" style="margin-top:6px"></a></div>',
+        '<div style="border:1px solid var(--line);border-radius:8px;padding:8px;background:#fff"><b><a href="lessons.html?l=new-gr-31">new-gr-31 · 경맥별 經穴 수 ① 手六經 (재생기 열기 →)</a></b><br><small>肺 11(기타+기타) · 大腸 20(버스+공룡) · 心 9(구미호) · 小腸 19(기타+구미호) · 心包 9 · 三焦 23(버스+삼지창)</small><a href="lessons.html?l=new-gr-31"><img loading="lazy" src="images/lessons/new-gr-31.webp" alt="new-gr-31" style="margin-top:6px"></a></div>',
+        '<div style="border:1px solid var(--line);border-radius:8px;padding:8px;background:#fff"><b><a href="lessons.html?l=new-gr-33">new-gr-33 · 十六郄穴 ① 手六經 (재생기 열기 →)</a></b><br><small>肺 孔最 · 大腸 溫溜 · 心 陰郄 · 小腸 養老 · 心包 郄門 · 三焦 會宗</small><a href="lessons.html?l=new-gr-33"><img loading="lazy" src="images/lessons/new-gr-33.webp" alt="new-gr-33" style="margin-top:6px"></a></div>',
+        '</div>',
+        '<details style="margin-top:12px"><summary style="cursor:pointer;font-weight:700;color:var(--acc)">▼ Carbon v7 신규 코드 도해 4장 펼치기 (s18d10 骨度 · s18d11 子午流注 · s18d12 經穴 수 361 · s18d13 標本根結)</summary>',
+        '<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(360px,1fr));gap:12px;margin-top:10px">',
+        '<div><b>#s18d10 · 骨度分寸法 전신 치수 대조표</b><img loading="lazy" src="images/s18d10.webp" alt="s18d10"></div>',
+        '<div><b>#s18d11 · 子午流注 12시진 시계 · 氣血多少 · 脈長</b><img loading="lazy" src="images/s18d11.webp" alt="s18d11"></div>',
+        '<div><b>#s18d12 · 十四經 경맥별 經穴 수 대조표 (361혈)</b><img loading="lazy" src="images/s18d12.webp" alt="s18d12"></div>',
+        '<div><b>#s18d13 · 十二經 標本 · 六經 根結 대조표</b><img loading="lazy" src="images/s18d13.webp" alt="s18d13"></div>',
+        '</div></details></div>',
+    ]
     o = ['<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8">',
          '<meta name="viewport" content="width=device-width, initial-scale=1">',
          '<title>한의학 Sketchy 허브 v%s</title>' % VERSION,
          '<style>%s</style></head><body>' % CSS,
-         '<header><h1>한의학 Sketchy 허브 <small>v%s · 패널 %d · 함정 %d · 도해 문항 %d</small></h1>'
-         % (VERSION, npan, ntrap, nquiz),
+         '<header><h1>한의학 Sketchy 허브 <small>v%s · 패널 %d · 과 재생기 227과(Carbon v7)</small></h1>'
+         % (VERSION, npan),
+         '<a class="btn" href="lessons.html" style="text-decoration:none;border-color:var(--acc);color:var(--acc);font-weight:700">과 재생기 (227과 · Carbon v7) →</a>'
          '<span class="btn" id="bTest">자가테스트</span><span class="btn" id="bWhy">다리 전체</span>'
          '<span class="btn" id="bTrap">함정만</span><span class="btn" id="bQuiz">도해 문항</span>'
          '<button type="button" class="btn" id="bReading" aria-pressed="true">한글 독음 켜짐</button>'
          '<a class="btn" href="recall.html" style="text-decoration:none">회상 훈련 →</a>',
          '<a class="btn" href="bagua.html" style="text-decoration:none">팔괘 방위 암기 →</a>',
          '<div class="chips">%s</div></header>' % chips,
-         '<main>']
+         '<main>'] + carbon_sec
     for sc in SCENES['scenes']:
         o.append('<h2>%s</h2>' % sc['title'])
         for pid in sc['ids']:

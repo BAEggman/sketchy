@@ -61,7 +61,7 @@ footer{font-size:12px;color:#888;padding:20px 14px}
 @media (max-width:600px){table.g,table.g tbody,table.g tr,table.g td{display:block;width:auto}table.g thead{display:none}table.g td.prop{border-top:1px solid var(--line);padding-bottom:2px;font-weight:600}table.g td.fact{border-top:0;padding-top:0;color:#333}table.g td.mk{border-top:0;padding-top:2px;padding-bottom:10px}table.g tr.reason td{border-top:0}table.g tr.reason:not(.open) td{display:none}}
 </style></head><body>
 <header>
- <h1>Sketchy 회상 훈련 <small>판 35 · 행 475 · 2026-11-06 빌드</small></h1>
+ <h1>Sketchy 회상 훈련 <small>판 35 · 행 475 · 2026-11-18 빌드</small></h1>
  <div class="row">
   <select id="sel"></select>
   <span class="btn on" id="st1" data-st="1">1단계 — 사전 없이</span>
@@ -252,7 +252,7 @@ $('bNext').onclick=()=>show((cur+1)%P.length);
 $('bRedo').onclick=()=>show(cur);
 function renderRes(){const a=load();$('resBody').innerHTML=a.slice().reverse().map(r=>'<tr><td>'+r.date+'</td><td>'+esc(r.title.slice(0,28))+' <span class="note">#'+r.id+'</span></td><td>'+r.stage+'</td><td>'+r.o+'</td><td>'+r.h+'</td><td>'+r.x+'</td><td><b>'+r.score+'%</b></td><td>'+fmt(r.secs)+'</td></tr>').join('')||'<tr><td colspan="8" class="note">아직 저장된 결과가 없다.</td></tr>';
  const s1=a.filter(r=>r.stage===1),s2=a.filter(r=>r.stage===2);const avg=l=>l.length?(l.reduce((t,r)=>t+r.score,0)/l.length).toFixed(0)+'%':'—';$('resNote').textContent='1단계 평균 '+avg(s1)+' ('+s1.length+'건) · 2단계 평균 '+avg(s2)+' ('+s2.length+'건)'}
-function payload(){return JSON.stringify({exported:new Date().toISOString(),build:'2026-11-06',attempts:load()},null,1)}
+function payload(){return JSON.stringify({exported:new Date().toISOString(),build:'2026-11-18',attempts:load()},null,1)}
 $('bExport').onclick=()=>{const b=new Blob([payload()],{type:'application/json'});const u=URL.createObjectURL(b);const l=document.createElement('a');l.href=u;l.download='sketchy_recall_'+new Date().toISOString().slice(0,10)+'.json';document.body.appendChild(l);l.click();l.remove();setTimeout(()=>URL.revokeObjectURL(u),2000)};
 $('bCopy').onclick=()=>{navigator.clipboard&&navigator.clipboard.writeText(payload()).then(()=>$('resNote').textContent='복사됨').catch(()=>$('resNote').textContent='복사 실패 — 내보내기를 쓰세요')};
 function setReadings(show){document.body.classList.toggle('hide-readings',!show);$('bReading').setAttribute('aria-pressed',String(show));$('bReading').textContent='한글 독음 '+(show?'켜짐':'꺼짐');}

@@ -455,11 +455,12 @@
   }
   function route() {
     var q = new URLSearchParams(location.search);
-    var id = q.get('l');
+    var id = q.get('l') || (location.hash ? location.hash.slice(1) : '');
     if (id && byId[id]) openLesson(id, q.get('m') || 'tour');
     else showList(id || null);
   }
   window.addEventListener('popstate', route);
+  window.addEventListener('hashchange', route);
 
   // ---------- 입력 ----------
   document.addEventListener('click', function (e) {

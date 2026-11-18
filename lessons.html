@@ -137,8 +137,9 @@ main{ padding:14px var(--gut) 40px; max-width:1360px; margin:0 auto; }
 </head>
 <body>
 <header class="top">
-  <a class="home" id="homeLink" href="?" hidden>← 과 목록</a>
-  <h1 id="pageTitle">한의학 Sketchy 과</h1>
+  <a class="home" href="index.html">← 허브(index.html)</a>
+  <a class="home" id="homeLink" href="?" hidden>← 과 목록(227과)</a>
+  <h1 id="pageTitle">한의학 Sketchy 과 (Carbon v7 · 227과)</h1>
 </header>
 <main>
   <section id="listView" hidden>
@@ -713,11 +714,12 @@ main{ padding:14px var(--gut) 40px; max-width:1360px; margin:0 auto; }
   }
   function route() {
     var q = new URLSearchParams(location.search);
-    var id = q.get('l');
+    var id = q.get('l') || (location.hash ? location.hash.slice(1) : '');
     if (id && byId[id]) openLesson(id, q.get('m') || 'tour');
     else showList(id || null);
   }
   window.addEventListener('popstate', route);
+  window.addEventListener('hashchange', route);
 
   // ---------- 입력 ----------
   document.addEventListener('click', function (e) {

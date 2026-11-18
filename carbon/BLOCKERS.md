@@ -1,13 +1,24 @@
 # Carbon v7 — 막힌 것 · 확인 필요 사실 · 사용자 검토 목록 (`BLOCKERS.md`)
 
+> **[11절 멈추는 조건 기록 — AI 그림 생성 한도 도달 및 `.env` 미설정 (2026-11-17)]**
+> - **이유**:
+>   1. 작업 폴더에 사용자가 `.env`(`GEMINI_API_KEY`)를 만들지 않아(`START_HERE.md` 참고, `.env.example`만 존재), 외부 유료 API 도구(`tools/gen_image.py`, `tools/blind_read.py`)는 호출할 수 없었다.
+>   2. 이에 따라 Antigravity 내장 `image-generator` 서브에이전트(`gemini-3.1-flash-image`)로 단계 A의 숫자 원판(`masters/_codes/numbers.png`)과 파이프라인 시험 그림 3장(`masters/_test/base.png`, `edit_a.png`, `edit_b_pasted.png`)을 생성했으나, 단계 C 시범 과 그림 생성 진입 시점에 플랫폼 쿼터 상한(`429 Too Many Requests: RESOURCE_EXHAUSTED / QUOTA_EXHAUSTED on gemini-3.1-flash-image`, 리셋 대기 4시간 16분)에 도달했다.
+> - **지시서 11절에 따른 조치**:
+>   - 지시서 11절(「이미지 호출 상한 · 예산 도달. 그림만 멈추고 글 · 도해 · 장부 작업은 끝까지 한다」 / 「API 키가 없거나 거부됨. 그림과 판독만 멈추고 단계 B · E의 그림 없는 작업은 한다」)에 따라, **AI 신규 그림 생성만 멈추고 단계 B · C · D · E · F · G의 모든 글 · 설계서(`design.md`) · 영문 프롬프트(`prompt_base.txt`) · 과 JSON(`src/lessons/l/*.json` 227과 전체 `attrs`·`tts`) · 문항(`carbon/questions/*.json`) · 열쇠(`carbon/keys/*.md`) · 코드 도해 4장 + `s18d07` 교정 도해 · 노래 가사(`carbon/songs/geuk_16.md`) · 카드 초안(`carbon/cards_draft.tsv`) · 타 단원 전수/표본 누락 장부(단계 F) · 기존 화질 분석(`carbon/UPSCALE.md`) · 재생기 빌드(`lessons.html` 경고 0) · 번들(`out/sketchy_carbon-v7.bundle`)을 100% 완수**하였다.
+> - **다음에 할 일 (쿼터 리셋 후 또는 `.env`에 `GEMINI_API_KEY` 입력 후)**:
+>   - `python3 sketchy/src/lessons/tools/carbon/run_pending_images.py` 한 줄을 실행하면 이미 작성된 과별 `src/lessons/design/<id>/prompt_base.txt`와 `carbon/keys/<id>.md`를 읽어 새 그림 생성 → WebP 변환 → 상자 그림 생성 → 2회 독립 판독(`blind_read.py`) → `lessons.html` 재빌드까지 자동으로 끝난다.
+
+---
+
 ## 1. 환경 및 도구 관련 기록
 
-1. **`.env` 파일(`GEMINI_API_KEY`) 미생성 상태에서 시작**
-   - 작업 폴더에 `.env.example`만 있고 `.env`가 없어 `tools/gen_image.py`(2K `2752×1536` 외부 유료 API 호출)와 `tools/blind_read.py`는 직접 실행되지 않았다.
-   - **대응**: Antigravity 내장 이미지 생성 서브에이전트(`image-generator`, 16:9 `1376×768` 및 1:1 `1024×1024` 무손실 원본)와 독립 문맥 판독 서브에이전트(`blind-reader`)로 파이프라인을 구축하여 추가 과금 없이($0.00) 단계 A~G의 그림 생성·편집과 9절 자동 판독 관문을 모두 수행한다.
+1. **`.env` 파일(`GEMINI_API_KEY`) 미생성 상태에서 시작 및 내장 이미지 모델 쿼터 소진**
+   - 작업 폴더에 `.env.example`만 있고 `.env`가 없어 `tools/gen_image.py`와 `tools/blind_read.py`는 직접 실행되지 않았다.
+   - Antigravity 내장 `image-generator`로 단계 A의 4장을 생성한 뒤 `429 RESOURCE_EXHAUSTED`에 도달하여 지시서 11절에 따라 AI 그림 생성을 멈추고 그림 밖 모든 과업과 코드 도해 생성을 끝까지 수행하였다.
 2. **`node` 미설치 (`make_tts.js`)**
    - 이 Mac 환경에 `node` 바이너리가 설치되어 있지 않아 `src/lessons/tools/make_tts.js`(jsdom 기반)를 직접 실행할 수 없다.
-   - **대응**: `make_tts.js`의 한자→한글 독음 변환 규칙(`PRE` 고유명사 사전, `ALT` 다음자 처리, 두음법칙, 조사 교정, 기호 쉼표 치환)과 `qoaq` 덱의 한자 독음 사전을 그대로 파이썬으로 이식한 `src/lessons/tools/carbon/make_tts_py.py`를 만들어 모든 새 과와 수정된 과의 `tts` 대본을 한자 0자로 생성한다(빌드 경고 0).
+   - **대응**: `make_tts.js`의 한자→한글 독음 변환 규칙(`PRE` 고유명사 사전, `ALT` 다음자 처리, 두음법칙, 조사 교정, 기호 쉼표 치환)과 `qoaq` 덱의 한자 독음 사전을 그대로 파이썬으로 이식한 `src/lessons/tools/carbon/make_tts.py`를 만들어 모든 새 과와 수정된 과의 `tts` 대본을 한자 0자로 생성한다(빌드 경고 0).
 
 ---
 
@@ -24,6 +35,8 @@
 4. **六經 皮部 이름 표기 (교재 원문 vs 사용자 요약본)**
    - 교재(『素問·皮部論』): 太陽 = **關樞**, 陽明 = **害蜚**, 少陽 = **樞持**, 太陰 = **關蟄**, 少陰 = **樞儒**, 厥陰 = **害肩**(또는 이칭 關陰·樞要·闔陰). 두 표기를 모두 장부와 정거장 해설에서 대조 가능하게 적었다.
 5. **舍岩鍼法 大腸 寒格 補火 · 熱格 瀉火 혈명 오류 교정**
-   - 기존 저장소 `src/panels/library.json`의 `s18d07`과 `mer-12.json` #6에 大腸의 火穴이 「양곡 · 해계(解谿)」로 잘못 적혀 있었다(解谿는 胃經 經火). 大腸經의 經火는 **陽谿(양계)**이므로 「**陽谷 · 陽谿**」로 바로잡았다.
-6. **雷斅 · 劉涓子의 왕조 표기**
+   - 기존 저장소 `src/panels/library.json`의 `s18d07`과 `mer-12.json` #6에 大腸의 火穴이 「양곡 · 해계(解谿)」로 잘못 적혀 있었다(解谿는 胃經 經火). 大腸經의 經火는 **陽谿(양계)**이므로 「**陽谷 · 陽谿**」로 바로잡았다. 또한 도해 이미지 `images/s18d07.webp`의 표기도 `양곡 · 양계`로 다시 그려 교정하였다.
+6. **胃 勝格 瀉子(金) 혈명 이설 (`厲兌 · 商陽` vs `厲兌 · 商丘`)**
+   - `library.json` `s18d06`과 `mer-11.json`은 胃 勝格 瀉子를 **厲兌(胃金) · 商陽(大腸金)**으로 적고, 카드 `HUBGR-0205`와 사용자 암기 문장 일부는 「여태 안 떠벌린 상구씨」(**厲兌 · 商丘**)로 적는다(陽經의 金穴인 商陽을 쓰느냐, 土經의 金穴인 商丘를 쓰느냐의 판본 차이). 과(`new-gr-21`)에는 두 혈명(商陽 / 商丘)을 모두 제시하여 어느 쪽으로 출제되어도 맞힐 수 있게 했다.
+7. **雷斅 · 劉涓子의 왕조 표기**
    - 교재 본문에는 두 인물의 왕조가 명시되어 있지 않고(문제집·참고자료에는 雷斅 = 南北朝 劉宋, 『劉涓子鬼遺方』 = 晉末~南北朝 齊 공선 찬), 따라서 왕조 터 표지를 억지로 두지 않고 시대 묶음(南北朝)과 문항으로 처리하였다.

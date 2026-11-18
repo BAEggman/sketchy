@@ -1,23 +1,21 @@
 {
-  "stage": "C",
+  "stage": "DONE",
   "done": [
     "stage-A",
-    "stage-B"
+    "stage-B",
+    "stage-C-pilot-6 (6/6 PASS, 100.0% recall)",
+    "stage-D-json-designs-prompts",
+    "stage-E-diagrams-song-cards",
+    "stage-F-other-chapters-audit-and-luju-6",
+    "stage-G-upscale-build-bundle-report"
   ],
-  "in_progress": "stage-C-pilot-6",
+  "in_progress": null,
   "next": [
-    "hist-02a",
-    "hist-06b",
-    "hist-07a",
-    "new-gr-19",
-    "new-gr-31",
-    "new-gr-33",
-    "stage-D",
-    "stage-E",
-    "stage-F",
-    "stage-G"
+    "optional: run python3 sketchy/src/lessons/tools/carbon/run_pending_images.py after setting .env or quota reset for remaining 37 new lesson images"
   ],
-  "image_calls": 4,
-  "est_usd": 0.32,
-  "updated": "2026-11-17T22:06:30+09:00"
+  "image_calls": 17,
+  "blind_read_calls": 15,
+  "est_usd": 1.51,
+  "actual_api_usd": 0.0,
+  "updated": "2026-11-18T09:44:30+09:00"
 }

@@ -1,0 +1,5180 @@
+{
+  "version": "carbon-v7-stage-F",
+  "sample_size_per_chapter": 30,
+  "threshold_full_ledger_pct": 15.0,
+  "chapters": [
+    {
+      "chapter_id": "ch02_특징",
+      "title": "제2장 한의학의 특징 (整體觀·辨證論治)",
+      "sampled_lines": 30,
+      "before": {
+        "있음": 24,
+        "약함": 1,
+        "글로만": 2,
+        "없음": 3
+      },
+      "omission_rate_pct": 10.0,
+      "requires_full_ledger": false,
+      "after": {
+        "있음": 30,
+        "약함": 0,
+        "글로만": 0,
+        "없음": 0
+      },
+      "items": [
+        {
+          "sample_idx": 1,
+          "line_excerpt": "4) 表裏辨證 : 病變이 존재하는 부위를 구별하는 兩綱",
+          "key_terms": [
+            "表裏辨證",
+            "病變",
+            "兩綱"
+          ],
+          "before_status": "약함",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 2,
+          "line_excerpt": "※ (2) 辨證觀 : 標本緩急, 正治反治, 異法方宜, 病治異同",
+          "key_terms": [
+            "辨證觀",
+            "標本緩急",
+            "正治反治"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 3,
+          "line_excerpt": "4) <神農本草經>(東漢)-원래 365종·梁 陶弘景 [名醫別錄] 병합 730종·上品(養命)·中品(養性)·下品(질병치료)·\"五味\" 외 \"四氣\" 강조 5) 華佗 <<中藏經>>-'麻沸散' 痲醉後 開腹手術",
+          "key_terms": [
+            "神農本草經",
+            "東漢",
+            "陶弘景"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 4,
+          "line_excerpt": "1) 개념 : 三焦로서 溫熱病의 傳變을 구별하는 溫熱病 辨證의 한 방법",
+          "key_terms": [
+            "三焦",
+            "溫熱病",
+            "傳變"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 5,
+          "line_excerpt": "① 因時制宜(四時季節·'必先歲氣 無伐天和'·'用寒遠凉 用溫遠溫'·春善病鼽衄·仲夏善病胸脇·長夏善病洞泄寒中·秋善病風瘧·冬善病痺厥) ② 因地制宜(지리·환경·西北之氣 散而寒之·東南之氣 收而溫之·所謂同病異治",
+          "key_terms": [
+            "因時制宜",
+            "四時季節",
+            "必先歲氣"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 6,
+          "line_excerpt": "그러므로 吳氏는 독창적으로 疫病의 원인이 天地의 癘氣에 感하기 때문이라고 지적하였을 뿐만 아니라 疫邪와 인체 正氣의 發病 中에 있어서의 辨證關係를 지적하였다. 吳氏의 疫癘病의 論述은 대단히 과학적이",
+          "key_terms": [
+            "吳氏",
+            "疫病",
+            "天地"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 7,
+          "line_excerpt": "用”으로 지적되지만 太過와 不及은 모두 병리 狀態에 속한다. 임상에 반드시 신중하게 辨證 分析해야 하며, 通法을 지나치게 강조해서는 안 된다.",
+          "key_terms": [
+            "太過",
+            "不及",
+            "狀態"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 8,
+          "line_excerpt": "따라서 癰瘍이 많고 비교적 外感에 걸리기 쉽다. 그러므로 《素問·五常政大論》에서 “地有高下, 氣有溫凉, 高者氣寒, 下者氣熱.(地理에는 높고 낮음이 있고 그에 따라 氣에는 寒熱溫凉이 있으니, 높은 지",
+          "key_terms": [
+            "癰瘍",
+            "外感",
+            "素問"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 9,
+          "line_excerpt": "고대인들이 瘀血의 形成과 辨證 치료에 대한 풍부한 내용은 오늘날에 活血化瘀의 이론 연구와 임상 응용을 발전에 큰 토대가 되었다. 최근에는 活血化瘀에 대한 연구가 깊어지며 임상 응용의 범위가 확대되면",
+          "key_terms": [
+            "瘀血",
+            "形成",
+            "辨證"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 10,
+          "line_excerpt": "• 症狀 : 裏證의 범위는 매우 넓다. 그러므로 臟腑氣血과 寒熱虛實을 결합하여 辨證한다. 대체적으로 裏寒證, 裏熱證, 裏虛證, 裏實證으로 구분한다.",
+          "key_terms": [
+            "症狀",
+            "裏證",
+            "臟腑氣血"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 11,
+          "line_excerpt": "- 吳瑭(鞠通) <溫病條辨> : 溫熱病의 三焦辨證論治理論을 발전시킴",
+          "key_terms": [
+            "吳瑭",
+            "鞠通",
+            "溫病條辨"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 12,
+          "line_excerpt": "人體觀 | 細胞가 단위, 物質로 인식. 細胞·組織·器官의 유기적 결합관계 인체의 물질적 현상을 重視 | 人自體(個體가 단위) => 小宇宙(整體觀) 氣一元論的 인식 인체의 動態的 생명현상을 重視",
+          "key_terms": [
+            "人體觀",
+            "細胞",
+            "物質"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 13,
+          "line_excerpt": "제 1단계는 질병의 발생, 발전, 변화와 결과의 基本規律을 整體에 따라 硏究하는 것으로 예를 들면 正邪의 盛衰, 陰陽失調, 氣血의 不和, 津液失常 등이다.",
+          "key_terms": [
+            "基本規律",
+            "整體",
+            "硏究"
+          ],
+          "before_status": "없음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 14,
+          "line_excerpt": "中焦의 部位는 일반적으로 橫膈膜 以下, 臍 以上의 中上腹部를 가리키는 것으로 脾와 胃의 두 臟腑를 의미한다. 解剖 部位에 따라 말하면, 肝은 마땅히 中焦에 속한다. 晋代 王叔和의 《脈經》에서는 肝은",
+          "key_terms": [
+            "中焦",
+            "部位",
+            "橫膈膜"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 15,
+          "line_excerpt": "明代의 醫家인 薛立齊, 張介賓, 孫一奎 등도 역시 모두 肝의 성질은 條達을 좋아하고, 抑鬱됨을 싫어한다고 생각하였다. 淸代에 이르러 葉天士, 王泰林, 費伯雄, 唐宗海 등 여러 醫家들은 임상의 辨證論",
+          "key_terms": [
+            "明代",
+            "醫家",
+            "薛立齊"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 16,
+          "line_excerpt": "六經과 衛氣營血, 三焦辨證은 비록 개념은 같지 않으나, 실질 정신은 일치하는 것으로, 모두 외감질병에 대한 病因, 病機의 분석과 病證 성질의 진단 및 치료 방법의 확립에 이용된다. 또한 모두 陰陽,",
+          "key_terms": [
+            "六經",
+            "衛氣營血",
+            "三焦辨證"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 17,
+          "line_excerpt": "㉡ 五臟과 形體諸竅의 整體性",
+          "key_terms": [
+            "五臟",
+            "形體諸竅",
+            "整體性"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 18,
+          "line_excerpt": "問診의 目的은 其他三診에서 取得하지 못한 辨證과 關係가 密接한 資料를 얻지 못한 것을 充分히 收集하는데 있다. 예를 들어 疾病 發生의 時間 場所 原因 或은 誘因 그리고 治療經過, 自覺症狀, 住居狀況",
+          "key_terms": [
+            "問診",
+            "目的",
+            "其他三診"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 19,
+          "line_excerpt": "따라서 八綱辨證의 각 症候는 각기 특징을 가지고 있기 때문에 정확한 파악을 해야 하고 서로간의 연계도 주의 깊게 보아야 할 필요가 있다.",
+          "key_terms": [
+            "八綱辨證",
+            "症候"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 20,
+          "line_excerpt": "한의학총강 스캔본 · contextual OCR  |  제8장 辨證槪要 · 제1절 八綱辨證 · 2)裏證 (3)裏虛證 (4)裏實證 + 3)表證과 裏證의 關係 (1)表裏傳變 ①表邪入裏 ②裏邪出表 + (",
+          "key_terms": [
+            "辨證槪要",
+            "八綱辨證",
+            "裏證"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 21,
+          "line_excerpt": "外感熱病은 外邪가 人體를 侵入하여 發熱을 주로 發生시키는 疾病. 傷寒과 溫病을 包括 : ① 傷寒 - 寒病因에 의한 六經辨證을 바탕 ② 溫病 - 熱病因에 의한 衛氣營血辨證을 基礎",
+          "key_terms": [
+            "外感熱病",
+            "外邪",
+            "人體"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 22,
+          "line_excerpt": "제 2 장   天人相應과 醫易",
+          "key_terms": [
+            "天人相應",
+            "醫易"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 23,
+          "line_excerpt": "5) 寒熱辨證 : 病狀에 나타나는 두 종류의 다른 증후를 판별하는 兩綱",
+          "key_terms": [
+            "寒熱辨證",
+            "病狀",
+            "兩綱"
+          ],
+          "before_status": "없음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 24,
+          "line_excerpt": "六淫邪氣는 모두 밖으로부터 받으니 外感六淫이라 한다. 六淫致病은 현대 임상에서 볼 때 氣候要素 외에도 생물을 포함한 각종 病因要素에 의해 일어나는 증상이다. 六淫邪氣는 비교적 추상적인 부분이 있어서",
+          "key_terms": [
+            "六淫邪氣",
+            "外感六淫",
+            "六淫致病"
+          ],
+          "before_status": "글로만",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 25,
+          "line_excerpt": "火(熱)의 邪氣가 血로 침입하여 局部에 모이면 癰·腫·瘡·瘍을 發生하게 할 수 있다. 그러므로 《靈樞·癰疽》에서 “大熱不止, 熱勝則肉腐, 肉腐則爲膿, 故名曰癰.(大熱이 그치지 않아 熱이 성하면 肌肉",
+          "key_terms": [
+            "邪氣",
+            "局部",
+            "發生"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 26,
+          "line_excerpt": "五臟의 생리활동과 精神情志活動의 관계는 먼저 《靈樞·本藏》에서 볼 수 있다. “五臟者, 所以藏精神血氣魂魄.(五臟은 精神·血氣·魂魄을 저장한다.)”과 《素問·陰陽應象大論》의 “人有五臟化五氣, 以生喜怒",
+          "key_terms": [
+            "五臟",
+            "精神情志活動",
+            "靈樞"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 27,
+          "line_excerpt": "明代의 醫家인 薛立齊, 張介賓, 孫一奎 등도 역시 모두 肝의 성질은 條達을 좋아하고, 抑鬱됨을 싫어한다고 생각하였다. 淸代에 이르러 葉天士, 王泰林, 費伯雄, 唐宗海 등 여러 醫家들은 임상의 辨證論",
+          "key_terms": [
+            "明代",
+            "醫家",
+            "薛立齊"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 28,
+          "line_excerpt": "寒과 熱은 疾病의 성질을 말하는 것으로서 寒熱辨證은 疾病의 성질을 辨別하는데 있어서 두 개의 綱領이 된다. 그리고 疾病의 변화 과정에서 陰陽의 偏盛과 偏衰를 辨別하는 중요한 辨證方法이라고 할 수 있",
+          "key_terms": [
+            "疾病",
+            "寒熱辨證",
+            "疾病"
+          ],
+          "before_status": "글로만",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 29,
+          "line_excerpt": "위의 서술을 종합하면 藏象學說은 五臟을 중심으로 인체의 內臟, 形體, 諸竅와 精神意識思惟 活動 등을 모두 五臟에 귀속시켰다. 그리고 五臟 생리기능 간의 상호 촉진, 제약에 의한 인체내 환경의 협조와",
+          "key_terms": [
+            "藏象學說",
+            "五臟",
+            "內臟"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 30,
+          "line_excerpt": "• 裏證分析에 중점을 둘 것 : 寒熱眞仮의 症狀表現은 表裏가 일치하지 않는 경우가 많은데 外에 나타나는 疾病의 象은 대부분 仮象이고 內部에 감춰져 있는 것이 疾病의 本質이다. 그리하여 辨證時에는 마",
+          "key_terms": [
+            "裏證分析",
+            "寒熱眞仮",
+            "症狀表現"
+          ],
+          "before_status": "없음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-01",
+            "cards_draft.tsv"
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": "ch03_음양오행",
+      "title": "제3장 陰陽五行 · 八卦 · 五運六氣",
+      "sampled_lines": 30,
+      "before": {
+        "있음": 24,
+        "약함": 1,
+        "글로만": 1,
+        "없음": 4
+      },
+      "omission_rate_pct": 13.3,
+      "requires_full_ledger": false,
+      "after": {
+        "있음": 30,
+        "약함": 0,
+        "글로만": 0,
+        "없음": 0
+      },
+      "items": [
+        {
+          "sample_idx": 1,
+          "line_excerpt": "② 發病時 五臟間 상호영향 및 病機傳變 | 相克關係的 傳變 (相乘·相侮) | [相乘] * 發病한 장이 我克의 臟에 영향 * 太過/不及의 轉變 * 賊邪에 의함. [相侮] * 發病한 臟이 克我의 臟에 ",
+          "key_terms": [
+            "發病時",
+            "五臟間",
+            "病機傳變"
+          ],
+          "before_status": "없음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 2,
+          "line_excerpt": "● 平氣 (五運의 氣가 和平, 큰 변화 없으며 太過도 不及도 아님) | ● 平氣 (五運의 氣가 和平, 큰 변화 없으며 太過도 不及도 아님) | ● 平氣 (五運의 氣가 和平, 큰 변화 없으며 太過도 ",
+          "key_terms": [
+            "平氣",
+            "五運",
+            "和平"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 3,
+          "line_excerpt": "虛證의 범위는 매우 넓어서 陰陽·表裏·寒熱과 氣血 등을 함께 고려해야 하는데 陰虛와 陽虛, 表虛와 裏虛, 虛寒과 虛熱, 氣虛와 血虛등을 확실하게 분별해야 한다.",
+          "key_terms": [
+            "虛證",
+            "陰陽",
+            "表裏"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 4,
+          "line_excerpt": "② 夫婦五行配屬(化五運)에 의해 결정되며 陽干(甲丙戊庚壬)은 太過年(本氣가 流行), 陰干은 不及年(克己의 氣가 流行)에 해당",
+          "key_terms": [
+            "夫婦五行配屬",
+            "化五運",
+            "陽干"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 5,
+          "line_excerpt": "邪氣가 盛하고 實하여 형성되는 각종 질병에 주로 활용되며, 비록 正氣가 손상받았더라도 손상이 심하지 않고 邪氣가 盛한 각종 病證에 활용되기도 한다. 예를 들어 外邪襲表, 表邪盛實한 경우는 發汗解表法",
+          "key_terms": [
+            "邪氣",
+            "正氣",
+            "邪氣"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 6,
+          "line_excerpt": "(⇒ 六步를 동시에 나누어 加臨할 수 있지만, 司天之氣를 主氣의 三之氣에 加臨한 것을 爲主)",
+          "key_terms": [
+            "六步",
+            "加臨",
+            "司天之氣"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 7,
+          "line_excerpt": "陰과 陽, 氣와 血은 心主血脈과 主神志 등의 생리기능에 대하여 서로 다른 작용을 나타내므로, 心의 陰陽, 氣血 등의 病機는 서로 다른 병리 양상을 나타낼 수 있다.",
+          "key_terms": [
+            "心主血脈",
+            "主神志",
+            "陰陽"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 8,
+          "line_excerpt": "① 相生 : 黃河의 龍馬의 등에 있던 數學的 그림에서 기원 ⇒ 河圖",
+          "key_terms": [
+            "相生",
+            "黃河",
+            "龍馬"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 9,
+          "line_excerpt": "■ 韓醫學에서 五行學說의 응용 (해부, 생리, 병리, 진단, 치료)",
+          "key_terms": [
+            "韓醫學",
+            "五行學說"
+          ],
+          "before_status": "글로만",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 10,
+          "line_excerpt": "陰陽偏勝 | 陰勝則寒, 陰勝卽陽病 | 寒實證 | 面白形寒 脘腹冷痛 瀉下淸稀 舌淡 脈沈 | 寒者熱之",
+          "key_terms": [
+            "陰陽偏勝",
+            "陰勝則寒",
+            "陰勝卽陽病"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 11,
+          "line_excerpt": "※ 八綱辨證 : 陰陽이 八綱의 總綱이 됨",
+          "key_terms": [
+            "八綱辨證",
+            "陰陽",
+            "八綱"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 12,
+          "line_excerpt": "1. 五行의 형성 : 書經 [洪範九疇] - 오행에 대한 상세한 설명",
+          "key_terms": [
+            "五行",
+            "書經",
+            "洪範九疇"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 13,
+          "line_excerpt": "③ 相乘 : 相克이 太過하여 정상적인 제약의 정도를 超過하는 것으로 病理정황하의 비정상적인 “相克”관계",
+          "key_terms": [
+            "相乘",
+            "相克",
+            "太過"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 14,
+          "line_excerpt": "b. 相克關係 傳變 : - 相乘의 전변 : 賊邪에 의함,  - 相侮의 전변 : 微邪에 의함",
+          "key_terms": [
+            "相克關係",
+            "傳變",
+            "相乘"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 15,
+          "line_excerpt": "陰盛格陽은 陰陽의 內外格拒이다. 陰寒의 邪氣가 안에서 極盛하여 陽氣를 逼迫하여 밖으로 浮越하게 되니 相互 格拒·排斥하는 일종의 병리상태를 의미한다. 그 질병의 본질은 비록 陰寒內盛이지만, 陰이 陽을",
+          "key_terms": [
+            "陰盛格陽",
+            "陰陽",
+            "內外格拒"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 16,
+          "line_excerpt": "① 매년 기후의 異常變化 또는 特殊한 情況을 해석하고 설명하는 데 활용. 매년 각 節氣를 주관하는 이외에 全年의 변화를 槪括(司天, 在泉之氣)",
+          "key_terms": [
+            "異常變化",
+            "特殊",
+            "情況"
+          ],
+          "before_status": "없음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 17,
+          "line_excerpt": "*** 五行의 相生·相克 : 臟腑器官의 相互支援과 制約의 生理的 현상을 설명 --- 五行의 制化",
+          "key_terms": [
+            "五行",
+            "相生",
+            "相克"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 18,
+          "line_excerpt": "주된 증상은 消渴, 氣上撞心, 心中疼熱, 饑而不欲食, 食則吐蛔 등이며 심하면 蛔厥이 발생하기도 한다. 이는 모두 肝木이 土를 克한 上熱下寒의 證候이다. 肝胃에 熱이 鬱滯되어 津液을 灼傷하면 消渴이 ",
+          "key_terms": [
+            "消渴",
+            "氣上撞心",
+            "心中疼熱"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 19,
+          "line_excerpt": "■ 病機學說 절 구성 : 제1절 邪正盛衰 / 제2절 陰陽失調 / 제3절 氣血失調 / 제4절 津液代謝失調 / 제5절 內生五邪病機 / 제6절 臟腑病機",
+          "key_terms": [
+            "病機學說",
+            "邪正盛衰",
+            "陰陽失調"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 20,
+          "line_excerpt": "또한, 《素問·陰陽應象大論》에서 말하기를 “善診者, 察色按脈, 先別陰陽”이라 하여 診察을 잘하는 者는 색을 관찰하고 脈을 按하여 우선 陰陽을 구별한다고 했다. 또 張景岳이 《景岳全書》 1卷 陰陽篇에",
+          "key_terms": [
+            "素問",
+            "陰陽應象大論",
+            "善診者"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 21,
+          "line_excerpt": "■ 陰陽과 氣血病機의 기초상식",
+          "key_terms": [
+            "陰陽",
+            "氣血病機"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 22,
+          "line_excerpt": "1) 選穴法(臟腑經絡辨證選穴·體質別 選穴·疾病有效穴·阿是穴·納支選穴[時間別]) 2) 配列法(前後配列法[募穴·兪穴]·表裏配列法[陰陽經 表裏]·上下配列法[咽喉痛에 合谷·內庭]·左右配列法·遠近配列法[胃病",
+          "key_terms": [
+            "選穴法",
+            "臟腑經絡辨證選穴",
+            "體質別"
+          ],
+          "before_status": "없음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 23,
+          "line_excerpt": "*** 陰陽格拒 : 陰陽이 相互對立制約하므로 한쪽이 지극히 偏盛, 偏衰하여 相互格拒",
+          "key_terms": [
+            "陰陽格拒",
+            "陰陽",
+            "相互對立制約"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 24,
+          "line_excerpt": "陰陽偏衰 | 陰虛(則熱) 虛熱 | 虛熱證 | 潮熱 盜汗 五心煩熱 顴紅 口舌乾燥(舌紅少津) 心煩 眩暈 不眠 脈細數 (陰虛發熱, 乾燥, 陰虛不靜而動이 辨證要點) | 滋補한 寒凉法 壯水制陽",
+          "key_terms": [
+            "陰陽偏衰",
+            "陰虛",
+            "則熱"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 25,
+          "line_excerpt": "땀은 津液이 化生되어진 것으로 즉, 體內에서는 津液이며 이것이 肌表로 外泄되면 汗液이 된다. 汗液은 水穀의 精微로운 物質로부터 來源한 것으로 中焦의 脾胃에 依賴하여 化生되며 이것이 體內의 陽氣가 陰",
+          "key_terms": [
+            "津液",
+            "化生",
+            "體內"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 26,
+          "line_excerpt": "① 一年 中의 五運季(一年을 5단계로 나눔)의 기후변화의 常規를 설명함",
+          "key_terms": [
+            "一年",
+            "五運季",
+            "一年"
+          ],
+          "before_status": "약함",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 27,
+          "line_excerpt": "정상적인 상황에서는 脾氣升淸하면 血氣生化之源이 있게 되어 비로소 인체는 生機를 가지게 된다. 만약 脾氣虛弱하여 升淸하지 못하면 氣血生化之源이 없게 되어 神疲乏力, 頭昏目眩, 腹脹, 泄瀉 등의 증상이",
+          "key_terms": [
+            "脾氣升淸",
+            "血氣生化之源",
+            "生機"
+          ],
+          "before_status": "없음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 28,
+          "line_excerpt": "肺가 一身의 氣를 주관한다는 것은 두 개의 방면으로 나누어 볼 수 있다. 첫째, 《素問·陰陽應象大論》에서 말한 “肺氣通於天”에 근거하여 肺가 흡입한 淸氣는 인체가 생명 활동을 유지하는데 없어서는 안",
+          "key_terms": [
+            "一身",
+            "素問",
+            "陰陽應象大論"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 29,
+          "line_excerpt": "■ 五行의 相生相克원리를 응용한 표준치료법",
+          "key_terms": [
+            "五行",
+            "相生相克"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 30,
+          "line_excerpt": "- 手足의 名稱은 臟을 기준으로 陰陽上下 部域에 따라 相應함. (예) 肝은 下焦 즉 足經, 心은 上焦 즉 手經.",
+          "key_terms": [
+            "手足",
+            "名稱",
+            "陰陽上下"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "yyox-02",
+            "deck.json"
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": "ch04_장상",
+      "title": "제4장 藏象 (五臟·六腑·奇恒之腑·장부상관)",
+      "sampled_lines": 30,
+      "before": {
+        "있음": 24,
+        "약함": 0,
+        "글로만": 3,
+        "없음": 3
+      },
+      "omission_rate_pct": 10.0,
+      "requires_full_ledger": false,
+      "after": {
+        "있음": 30,
+        "약함": 0,
+        "글로만": 0,
+        "없음": 0
+      },
+      "items": [
+        {
+          "sample_idx": 1,
+          "line_excerpt": "腎陽은 인체 陽氣의 근본이 된다. 그러므로 腎陽虛損하면 脾陽을 溫煦하지 못하여 脾의 運化機能도 약해지게 되어 下利淸穀, 五更泄瀉 등의 증상이 나타난다. 또한 腎陽虛하여 心陽을 溫煦하지 못하면 心主血",
+          "key_terms": [
+            "腎陽",
+            "陽氣",
+            "腎陽虛損"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 2,
+          "line_excerpt": "《難經·二十五難》에서 提出한 “心主與三焦爲表裏, 俱有名而無形.(手厥陰心包經과 手少陽三焦經은 표리를 이루는데, 둘 다 經脈의 이름은 있지만 실체적인 장기 형태는 없다.)”의 論點은 後世의 적지 않은 ",
+          "key_terms": [
+            "難經",
+            "二十五難",
+            "提出"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 3,
+          "line_excerpt": "明, 虞搏 <醫學正傳> : 兩腎總命門說 ← 원 滑壽가 선도적 역할을 했었음",
+          "key_terms": [
+            "虞搏",
+            "醫學正傳",
+            "兩腎總命門說"
+          ],
+          "before_status": "글로만",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 4,
+          "line_excerpt": "② 病理表現 : 嬰兒幼兒시기 생장발육 영향 → 發育不良 / 靑年時期 天癸 생성 영향 → 性腺發育成熟 장애 / 壯年時期 早衰 → 性機能減退·滑泄·陽痿 / 腎主骨而生髓하므로 腎精不足 → 骨格痿軟·兩足軟",
+          "key_terms": [
+            "病理表現",
+            "嬰兒幼兒",
+            "發育不良"
+          ],
+          "before_status": "글로만",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 5,
+          "line_excerpt": "고대 醫家들은 비록 腦의 생리, 병리에 대해서 일정한 인식이 있었지만, 藏象學",
+          "key_terms": [
+            "醫家",
+            "藏象學"
+          ],
+          "before_status": "글로만",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 6,
+          "line_excerpt": "것이다. 患者가 滑泄을 하되 낮과 밤을 가리지 않고 飮食이 減少되고 形瘦畏冷 倦怠乏力등의 症狀이 있으면 이것은 脾의 陽虛에서 發生된 것으로 脾陽이 虛衰하면 水濕을 運化하지 못하여 濕이 大腸으로 下注",
+          "key_terms": [
+            "患者",
+            "滑泄",
+            "飮食"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 7,
+          "line_excerpt": "腎主水는 腎臟이 인체 水液代謝의 생리기능을 調節하고 주관함을 의미한다. 그러므로 腎을 또한 “水臟”이라고 한다. 《素問·逆調論》에서는 “腎者水臟, 主津液.(腎은 水臟으로서 津液을 主管한다.)”이라고",
+          "key_terms": [
+            "腎主水",
+            "腎臟",
+            "水液代謝"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 8,
+          "line_excerpt": "命門相火는 命門의 火를 말하며, 실제로는 腎陽과는 같은 종류지만 이름이 다를 뿐이다. 腎의 陽虛와 命門火의 衰弱은 비록 輕重의 차이는 있으나 모두 火의 不及에 속한다. 命門의 火가 過亢하면 相火가 ",
+          "key_terms": [
+            "命門相火",
+            "命門",
+            "腎陽"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 9,
+          "line_excerpt": "《內經》이후 역대 醫家들은 《內經》, 《難經》이론과 임상경험을 토대로 藏象學說을 발전시키고 충실하게 향상시켰다. 그 내용은 다음과 같다.",
+          "key_terms": [
+            "內經",
+            "醫家",
+            "內經"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 10,
+          "line_excerpt": "▌附▌  天癸와 命門에 대한 現代 硏究",
+          "key_terms": [
+            "天癸",
+            "命門",
+            "現代"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 11,
+          "line_excerpt": "☆ 命門者 諸神精之所舍, 原氣之所係也(難經 36난) / 命門爲元氣之本(景岳全書)",
+          "key_terms": [
+            "命門者",
+            "諸神精之所舍",
+            "原氣之所係也"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 12,
+          "line_excerpt": "三焦를 “有名無形”이라 보는 見解는 《難經》에서 시작한다. 《難經·二十五難》에서 “心主與三焦爲表裏, 俱有名而無形(手厥陰心包經과 手少陽三焦經은 表裏를 이루는데, 둘 다 經脈의 이름은 있지만 실체적인 ",
+          "key_terms": [
+            "三焦",
+            "有名無形",
+            "見解"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 13,
+          "line_excerpt": "歸納하여 보면 論爭의 焦點은 실제 형태의 有無에 있으며, 단 三焦 생리기능의 인식에 대하여는 일치한다. 三焦의 주요 생리기능은 첫째, 모든 氣를 主持하는 것이고, 둘째, 水穀運行의 道路라는 것이다.",
+          "key_terms": [
+            "歸納",
+            "論爭",
+            "焦點"
+          ],
+          "before_status": "없음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 14,
+          "line_excerpt": "葉桂(天士)<溫熱論><臨證指南>(\"溫邪上受 首先犯肺 逆傳心包\"·衛氣營血辨證)·薛雪<溫熱病論><醫經原旨>·吳塘(鞠通)<溫病條辨>(三焦辨證)·喩昌(嘉言)<醫門法律><尙論篇><寓意草>·張璐(石頑)<張氏醫",
+          "key_terms": [
+            "葉桂",
+            "天士",
+            "溫熱論"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 15,
+          "line_excerpt": "十二經脈 중 陰經과 陽經은 뚜렷하게 나누어지지 않고, 經別, 別絡의 經路를 통과하여 相互連繫하여 여섯 가지의 “表裏相合” 관계를 조성한다. 《素問·血氣形志篇》에서 “足太陽與少陰爲表裏, 少陽與厥陰爲表",
+          "key_terms": [
+            "十二經脈",
+            "陰經",
+            "陽經"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 16,
+          "line_excerpt": "이 “七衝門” 중의 각각의 “門” 자의 명칭은 淸代 葉霖의 《難經正義》중에 비교적 상세한 注釋이 있는데, “衝者, 通要之地. 門者, 戶也. … 脣爲飛門者, ‘飛’, 古與‘扉’通(衝이라는 것은 중요한",
+          "key_terms": [
+            "七衝門",
+            "淸代",
+            "葉霖"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 17,
+          "line_excerpt": "이것은 水穀精氣의 運行方向을 서술하고 있는데, 原文 가운데 水穀精氣가 脈中으로 진입하여 運行한다는 것이 명확하게 제시되어 있으므로 이로써 血行에 대한 서술을 파악할 수 있다. 여기에 대한 역대 醫家",
+          "key_terms": [
+            "水穀精氣",
+            "運行方向",
+            "原文"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 18,
+          "line_excerpt": "手厥陰(心主)經筋은 가운데 손가락에서 시작하여 手太陰經筋과 幷行하여 위로 올라가 팔꿈치 안쪽에 맺혔다가, 臂陰으로 올라가 겨드랑이 아래에 맺혔다가, 내려와",
+          "key_terms": [
+            "手厥陰",
+            "心主",
+            "經筋"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 19,
+          "line_excerpt": "羅天益 <衛生寶鑑> : 氣分, 血分, 三焦熱의 治療를 論",
+          "key_terms": [
+            "羅天益",
+            "衛生寶鑑",
+            "氣分"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 20,
+          "line_excerpt": "津液과 血液이 땀의 원천이 되는데, 땀의 정상적인 배출은 營衛의 정상운행과 관련되고, 營氣의 內守, 衛氣의 腠理開闔의 생리기능과도 관련된다. 예를 들어 張介賓의 《景岳全書·雜證謨·汗證》에는 “汗由血",
+          "key_terms": [
+            "津液",
+            "血液",
+            "營衛"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 21,
+          "line_excerpt": "脾主肌肉, 主四肢는 인체의 肌肉이 풍부하여 健壯함과 四肢의 정상활동이 모두 脾의 運化機能과 밀접한 관계가 있음을 의미한다. 이는 脾가 運化를 主하고 ‘氣血生化之源’이기 때문이다. 脾의 運化機能이 旺",
+          "key_terms": [
+            "脾主肌肉",
+            "主四肢",
+            "肌肉"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 22,
+          "line_excerpt": "統은 統攝, 制御의 의의가 있다. 脾統血은 脾가 血液이 脈中에서 정상 運行하는 것을 統攝하여 脈外로 溢出하지 못하게 하는 기능이다. 《難經·四十二難》에서는 “主裹血, 溫五臟.(血液을 둘러싸고 있으며",
+          "key_terms": [
+            "統攝",
+            "制御",
+            "脾統血"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 23,
+          "line_excerpt": "(2) 四肢 望診 : ① 胸腹背腰(藏象·經絡的 관련성) ② 四肢(手足 皮膚色·形態·痛症·掌腕 色澤[朱砂처럼 검붉으면 肝經 血脈凝滯]·指甲[肝膽 外候·筋肉 餘分]) ③ 皮膚(色澤·形態·肺와 內合·斑疹",
+          "key_terms": [
+            "四肢",
+            "望診",
+            "胸腹背腰"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 24,
+          "line_excerpt": "口渴이 있는지 혹은 없는지, 食慾은 있는지 혹은 없는지, 飮食物攝取量은 얼마나 되는지, 찬 것을 좋아하는지, 따뜻한 것을 좋아하는 지와 입맛에 異狀이 있는지 혹은 없는지 등을 묻는 것을 根據로 이것",
+          "key_terms": [
+            "口渴",
+            "食慾",
+            "飮食物攝取量"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 25,
+          "line_excerpt": "① 三焦의 氣機不利·氣化失調 - 臟腑의 氣機調暢에 영향 → 心行血·肺司呼吸과 宣發肅降·脾胃運化·肝膽疏泄·腎膀胱氣化 失調 / ② 上焦 氣化失調(肺通調水道失常) · 中焦(脾胃水液運化失調) · 下焦(腎과",
+          "key_terms": [
+            "三焦",
+            "氣機不利",
+            "氣化失調"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 26,
+          "line_excerpt": "- 有名而無形說 : 難經. 心主與三焦爲表裏 俱有名而無形(25難) / 所以腑有六者 謂三焦也 有原氣之別焉 主持諸氣 有名而無形(34難)",
+          "key_terms": [
+            "有名而無形說",
+            "難經",
+            "心主與三焦爲表裏"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 27,
+          "line_excerpt": "飮食은 胃主受納과 脾主運化에 의하여 소화가 되므로 食欲의 정상여부는 脾胃機能의 중요한 標識인 것이다. 問診時 食欲이나 食事量 및 喜·惡한 음식 등으로 脾胃의 功能과 病程의 輕重 및 轉歸 등을 파악할",
+          "key_terms": [
+            "飮食",
+            "胃主受納",
+            "脾主運化"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 28,
+          "line_excerpt": "疏는 《說文解字》에서는 “通”으로 해석하며, 즉 疏導, 開通의 의미이다. 泄은 發泄, 發散의 의미가 있는데, 예를 들어 《呂氏春秋·季春記》에서는 “生氣方盛, 陽氣發泄.(生氣가 盛하니 陽氣가 發泄된다",
+          "key_terms": [
+            "說文解字",
+            "疏導",
+            "開通"
+          ],
+          "before_status": "없음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 29,
+          "line_excerpt": "- 武之望 <濟陰綱目> ‘血生于脾 故曰脾統血 : 氣血生化의 來源(←脾主運化水穀精微가 생리적 이유가 됨), - 裹血機能",
+          "key_terms": [
+            "武之望",
+            "濟陰綱目",
+            "血生于脾"
+          ],
+          "before_status": "없음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 30,
+          "line_excerpt": "陳氏는 命門이 先天의 火이고, 命門(“一陽”)은 兩腎(“二陰”)의 사이에 있다고 인식하였으며, 그 기본 논점은 趙氏와 일치한다.",
+          "key_terms": [
+            "陳氏",
+            "命門",
+            "先天"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-01",
+            "deck.json"
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": "ch06_정신기혈",
+      "title": "제6장 精·神·氣·血·津液",
+      "sampled_lines": 30,
+      "before": {
+        "있음": 27,
+        "약함": 0,
+        "글로만": 2,
+        "없음": 1
+      },
+      "omission_rate_pct": 3.3,
+      "requires_full_ledger": false,
+      "after": {
+        "있음": 30,
+        "약함": 0,
+        "글로만": 0,
+        "없음": 0
+      },
+      "items": [
+        {
+          "sample_idx": 1,
+          "line_excerpt": "만약 火熱이 蘊結하고, 다만 津液이 아직 傷하지 않아서 症으로 發熱口渴, 舌苔黃厚하거나 혹은 濕熱이 쌓여 막히고 熱痢로 下重이 나타나는 경우에는 黃連解毒湯 혹은 白頭翁湯을 使用하여 苦寒瀉熱하고, 淸",
+          "key_terms": [
+            "火熱",
+            "蘊結",
+            "津液"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 2,
+          "line_excerpt": "→ 營氣는 水穀 中의 津液을 吸收하여 脈中으로 滲注入하는 기능이 있음",
+          "key_terms": [
+            "營氣",
+            "水穀",
+            "津液"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 3,
+          "line_excerpt": "(1) 原因 ⇒ 飮食勞倦이나 情志過度로 脾胃의 元氣가 虛弱하여져 발생",
+          "key_terms": [
+            "原因",
+            "飮食勞倦",
+            "情志過度"
+          ],
+          "before_status": "없음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 4,
+          "line_excerpt": "肺와 大腸은 經脈을 통과하여 서로 絡屬 관계에 있어 서로 表裏關係를 구성한다. 肺氣의 肅降이 大腸의 傳導 機能의 發揮를 도우며, 또한 大腸의 정상적인 傳導機能은 肺氣의 肅降을 돕는다. 병리방면에서 ",
+          "key_terms": [
+            "大腸",
+            "經脈",
+            "絡屬"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 5,
+          "line_excerpt": "血과 津液의 來源에 대해 살펴보면, 血과 津液은 모두 脾胃의 運化로부터 生成된 水穀精微로부터 나왔으므로 “津血同源”이라고 하였다. 性狀과 機能에 대해 살펴보면, 血과 津液은 모두 有形이며 靜하므로 ",
+          "key_terms": [
+            "津液",
+            "來源",
+            "津液"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 6,
+          "line_excerpt": "營氣는 水穀의 精微로운 氣로 脈中을 運行하는데 그 시작은 胃에서 일어나 먼저 手太陰肺經으로 모여진다. 手太陰肺經은 胃腸으로부터 橫膈膜을 꿰뚫어 肺에 속하니 아래에서 위로 향하는 “升”이 된다. 肺에",
+          "key_terms": [
+            "營氣",
+            "水穀",
+            "精微"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 7,
+          "line_excerpt": "이후에 또 그는 더 나아가 《景岳全書·傳忠錄·命門餘義》 중에서 “命門爲元氣之根, 爲水火之宅. 五臟之陰氣, 非此不能滋: 五臟之陽氣, 非此不能發.(命門은 元氣의 근본이 되며, 水火가 있는 곳이다. 五臟",
+          "key_terms": [
+            "景岳全書",
+            "傳忠錄",
+            "命門餘義"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 8,
+          "line_excerpt": "問·陰陽應象大論》에서 “壯火食氣.(壯火는 元氣를 손상시킨다.)”라고 지적하고 있으니, 壯火란 陽熱이 亢盛된 實火로서 가장 쉽게 인체의 正氣를 손상시키며 환자에게 全身性 機能減退를 일으키게 한다.",
+          "key_terms": [
+            "陰陽應象大論",
+            "壯火食氣",
+            "壯火"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 9,
+          "line_excerpt": "③ 營氣(營血, 營陰) : ‘脈中에 행하는 氣’",
+          "key_terms": [
+            "營氣",
+            "營血",
+            "營陰"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 10,
+          "line_excerpt": "의 방어선처럼 外來의 邪氣에 대해 저항하여 邪氣가 인체에 침입하지 못하도록 한다. 이에 대하여, 孫一奎는 《醫旨緖餘·宗氣營氣衛氣》에서 “衛氣者, 爲言護衛周身, … 不使外邪侵犯也.(衛氣는 전신을 보호",
+          "key_terms": [
+            "外來",
+            "邪氣",
+            "邪氣"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 11,
+          "line_excerpt": "《靈樞·刺節眞邪》의 “眞氣者, 所受於天, 與穀氣幷而充身也.(眞氣란 선천적으로 부여받은 元氣와 후천적인 穀氣와 함께 전신을 充養하는 것이다.)”, 《素問·離合眞邪論》의 “眞氣者, 經氣也. 經氣太虛, ",
+          "key_terms": [
+            "靈樞",
+            "刺節眞邪",
+            "眞氣者"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 12,
+          "line_excerpt": "㉠ 飮食物에서 化生한 津液을 全身에 輸送하여 血液量을 補充하고 臟腑組織器官 滋養",
+          "key_terms": [
+            "飮食物",
+            "化生",
+            "津液"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 13,
+          "line_excerpt": "무릇 人體의 물이 나오는 源流가 阻滯되는 것으로 因해 尿量의 減少를 가져오며 혹은 陽氣虛衰로 氣化가 無權해지면 水濕이 膀胱으로 下流하지 못하고 肌膚로 넘쳐 흐르게 되어 小便量이 줄어든다. 만약 患者",
+          "key_terms": [
+            "人體",
+            "源流",
+            "阻滯"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 14,
+          "line_excerpt": "項部에서 背部까지 빳빳하고 당기며 앞으로 숙이거나 뒤로 젖히는 것이 자유롭지 못한 것을 말하는 것으로, 頭項强痛에 비하여 범위가 넓다. 이것은 風寒이 表를 침범하여 太陽經輸가 不利해지고 筋脈이 濡養",
+          "key_terms": [
+            "項部",
+            "背部",
+            "頭項强痛"
+          ],
+          "before_status": "글로만",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 15,
+          "line_excerpt": "※ 淸代의 葉天士는 《溫熱論》에서 衛氣營血辨證이 溫病 辨證施治의 大綱임을 밝힘",
+          "key_terms": [
+            "淸代",
+            "葉天士",
+            "溫熱論"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 16,
+          "line_excerpt": "이러한 종류의 관점은 《靈樞·營衛生會》에서 “營在脈中, 衛在脈外.(營氣는 經脈 속으로 흐르고, 衛氣는 經脈 밖으로 흐른다.)”라고 한 것과 《靈樞·癰疽》에서 “余聞腸胃受穀, … 中焦出氣如露, 上注溪",
+          "key_terms": [
+            "靈樞",
+            "營衛生會",
+            "營在脈中"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 17,
+          "line_excerpt": "어 便秘 등이 발생하는 것은 陽明經의 實熱이 燥結하여 胃氣가 下降하지 않고, 肺氣가 아래에서 壅盛하여 淸肅기능을 상실하거나, 또는 陽虛不運으로 인하여 中氣虛弱하고 腸液枯涸하기 때문이다. 만약 大腸의",
+          "key_terms": [
+            "便秘",
+            "陽明經",
+            "實熱"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 18,
+          "line_excerpt": "그러므로 고대 醫家들은 失血된 病人에게는 ‘不可再行發汗’해야 하며, 津液損失된 病人에게는 ‘不可再放血’해야 한다고 강조하고 있다. 《靈樞·營衛生會》에 말한 “奪血者無汗, 脫汗者無血.(血이 과도하게 ",
+          "key_terms": [
+            "醫家",
+            "失血",
+            "病人"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 19,
+          "line_excerpt": "津 | 淸而稀薄者 流動性 大 (固體에 가까워 유동하지 못함) | 衛氣와 體表로 운행 | 三焦로 代射가 이루어짐 (三焦는 水道, 즉 津液운행의 通道) | 肌表·皮膚·孔竅·‘血脈’에서 滋潤작용 | 滋潤",
+          "key_terms": [
+            "淸而稀薄者",
+            "流動性",
+            "固體"
+          ],
+          "before_status": "글로만",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 20,
+          "line_excerpt": "제 4 절.    氣, 血, 津液의 相互關係",
+          "key_terms": [
+            "津液",
+            "相互關係"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 21,
+          "line_excerpt": "한의학총강 스캔본 · contextual OCR  |  제7장 病機學說 · 제4절 津液代謝失常 · ▌3.津液과 氣血의 機能 失調 1)水停氣阻 2)氣隨液脫 3)津枯血燥 4)津虧血瘀  |  책 p.58",
+          "key_terms": [
+            "病機學說",
+            "津液代謝失常",
+            "津液"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 22,
+          "line_excerpt": "(2) 病機 ⇒ 脾胃元氣虛弱則升降失司 淸陽不升濁陰不降 阻塞中焦. 陽氣不能升發敷布至陽分 則下陷陰分 化而爲火 則形成陰火內熾",
+          "key_terms": [
+            "病機",
+            "脾胃元氣虛弱則升降失司",
+            "淸陽不升濁陰不降"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 23,
+          "line_excerpt": "㉣ 元氣, 陽氣, 營氣, 衛氣, 穀氣 등을 포괄하는 人體의 正氣",
+          "key_terms": [
+            "元氣",
+            "陽氣",
+            "營氣"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 24,
+          "line_excerpt": "그래서 《素問·五藏別論》에서 “所謂五臟者，藏精氣而不瀉也, 故滿而不能實. 六腑者, 傳化物而不藏, 故實而不能滿也.(이른바 五臟은 精氣를 藏하고 瀉하지 아니하므로 滿하나 능히 實하지 못하며, 六腑는 음식",
+          "key_terms": [
+            "素問",
+            "五藏別論",
+            "所謂五臟者"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 25,
+          "line_excerpt": "2. 血의 生成 : 血의 주요 組成은 ‘營氣와 津液’",
+          "key_terms": [
+            "生成",
+            "組成",
+            "營氣"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 26,
+          "line_excerpt": "한의학총강 스캔본 · contextual OCR  |  제9장 外感熱病 · 제2절 溫病 · ▌4.濕溫 도입(三禁) + 1)濕重于熱 (1)邪遏衛氣(三仁湯) (2)邪在膜原(達原飮) (3)邪在中焦 + 2",
+          "key_terms": [
+            "外感熱病",
+            "溫病",
+            "濕溫"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 27,
+          "line_excerpt": "營氣는 血의 主要 組成部分이 되며, 血液 生成을 促進하는 불가결한 요소이다.",
+          "key_terms": [
+            "營氣",
+            "主要",
+            "組成部分"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 28,
+          "line_excerpt": "따라서 天地 사이의 萬物은 氣로부터 化生한 것이다. 王充의 《論衡·言毒》 중에는 “萬物之生, 皆稟元氣.”라고 하였다. 즉, 古代에는 氣化하여 萬物이 生하는 理致를 “陰陽交感”의 이론으로 해석한 것이",
+          "key_terms": [
+            "天地",
+            "萬物",
+            "化生"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 29,
+          "line_excerpt": "총괄하면, 營氣와 津液은 血液化生의 주요한 물질적 기초가 된다. 營氣와 津液 모두 脾胃가 음식물을 運化하여 생성한 水穀精微에서 來源한 것이므로, 飮食營養의 優劣과 脾胃의 運化機能의 强弱이 血液의 化",
+          "key_terms": [
+            "營氣",
+            "津液",
+            "血液化生"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 30,
+          "line_excerpt": "津液은 체중의 약 2/3 이상을 차지하며 臟腑, 組織器官, 形體, 九竅 등의 내부와 그 사이에 광범위하게 존재하여 滋潤과 濡養作用을 한다. 또 津液은 氣의 중요한 載體이다. 元氣는 三焦를 순환하여 ",
+          "key_terms": [
+            "津液",
+            "臟腑",
+            "組織器官"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-jq-01",
+            "deck.json"
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": "ch07_병인",
+      "title": "제7장 病因 (六淫·七情·飮食·勞倦·痰飮·瘀血)",
+      "sampled_lines": 30,
+      "before": {
+        "있음": 27,
+        "약함": 1,
+        "글로만": 1,
+        "없음": 1
+      },
+      "omission_rate_pct": 3.3,
+      "requires_full_ledger": false,
+      "after": {
+        "있음": 30,
+        "약함": 0,
+        "글로만": 0,
+        "없음": 0
+      },
+      "items": [
+        {
+          "sample_idx": 1,
+          "line_excerpt": "氣는 血을 통솔하므로, 氣가 行하면 血이 비로소 운행하게 된다. 따라서 氣虛나 氣滯하게 되면 血液의 正常 運行을 推動하지 못하게 되어 瘀血을 형성하게 된다. 예를 들어 《靈樞·營衛生會》에서 “壯者之",
+          "key_terms": [
+            "氣虛",
+            "氣滯",
+            "血液"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 2,
+          "line_excerpt": "邪鬱化火는 실질적으로는 두 가지 방면의 내용을 포함하는데, 하나는 六淫(風, 寒暑, 燥, 火, 濕) 등의 病邪에 外感되어, 寒鬱化熱, 濕鬱化火와 같이 病邪가 體內로 침입하여 鬱滯되어 化熱化火한 경우",
+          "key_terms": [
+            "邪鬱化火",
+            "六淫",
+            "寒暑"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 3,
+          "line_excerpt": "風邪가 인체를 침범하는 경우에 대하여, 《素問·風論》에서 “風氣藏于皮膚之間, 內不得通, 外不得泄. 腠理開則洒然寒, 閉則熱而悶.(風氣는 皮膚의 사이에 藏하여 안으로 通하지 못하고 밖으로 泄越되지 않는",
+          "key_terms": [
+            "風邪",
+            "素問",
+            "風論"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 4,
+          "line_excerpt": "氣機郁滯의 病証에 적용한다. 脾胃가 氣滯되면 脘腹脹滿, 噯氣呑酸, 食少嘔惡 등이 나타나는데 常用方으로 越鞠丸이 있다. 肝氣가 郁滯되면 胸脇脹痛, 疝氣作痛, 痛經 등이 나타나는데 常用方으로 柴胡疏肝散",
+          "key_terms": [
+            "氣機郁滯",
+            "病証",
+            "脾胃"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 5,
+          "line_excerpt": "이것은 風寒濕邪가 經絡, 肌肉, 關節에 침범하여 氣血運行으로 하여금 阻碍시켜 발생된다. 四肢痛의 부위와 성질을 자세히 물어서 병의 원인, 부위를 판단할 수 있다. 만약 四肢關節痛이 있으면서 串痛이 ",
+          "key_terms": [
+            "風寒濕邪",
+            "經絡",
+            "肌肉"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 6,
+          "line_excerpt": "② 內因 : 七情 人之常性 動之則先自臟腑鬱發 外形於肢體 爲內所因",
+          "key_terms": [
+            "內因",
+            "七情",
+            "人之常性"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 7,
+          "line_excerpt": "한의학총강 스캔본 · contextual OCR  |  제6장 病因學說 및 發病 · 제1절 病因(도입 ~ ▌1.六淫: 一般特徵·風·寒)  |  책 p.485–494 (청크 15)",
+          "key_terms": [
+            "病因學說",
+            "發病",
+            "病因"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 8,
+          "line_excerpt": "③ 暑邪는 대부분 濕邪와 挾한다.",
+          "key_terms": [
+            "暑邪",
+            "濕邪"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 9,
+          "line_excerpt": "예를 들면 환자의 체질이 陰虛에 속하는데 外邪에 感受되어 症이 表證이 나타나면 마땅히 땀을 내야 하지만 땀은 陰液이 변화된 것이기 때문에 만약 강력하게 發汗을 시키면 단지 병을 제거하지 못할 뿐만 ",
+          "key_terms": [
+            "陰虛",
+            "外邪",
+            "感受"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 10,
+          "line_excerpt": "《素問·擧痛論》에서는 “怒則氣上, 喜則氣緩, 悲則氣消, 恐則氣下, … 驚則氣亂 … 思則氣結.(怒하면 氣가 올라가고, 기뻐하면 氣가 弛緩되며, 슬퍼하면 氣가 消散하고, 두려워하면 氣가 내려가고, … ",
+          "key_terms": [
+            "素問",
+            "擧痛論",
+            "怒則氣上"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 11,
+          "line_excerpt": "外感六淫邪氣중 風邪가 表를 侵襲하거나, 衛陽이 不足하여 肌表가 不固하여 나타나는 땀은 多量이나 대부분 냄새는 나지 않는다. 氣分에 實熱이 壅滯하거나, 오랜 病으로 陰虛火旺인 患者에게서 나는 땀의 量",
+          "key_terms": [
+            "外感六淫邪氣",
+            "風邪",
+            "侵襲"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 12,
+          "line_excerpt": "콧등이 무너지거나 흐물거리면 痲風이거나 혹은 梅毒의 徵兆이다. 콧날이 煽動하는 것이 外感初期에 보이면 風火邪熱이 肺氣를 壅塞한 것으로 實證이 많다. 久病에서 鼻煽이나 喘과 汗이 있으면 肺氣가 끊어지",
+          "key_terms": [
+            "痲風",
+            "梅毒",
+            "徵兆"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 13,
+          "line_excerpt": "燥邪는 쉽게 津液을 손상하므로 본 병의 치료는 滋潤을 원칙으로 하여야 하는데, 溫燥 초기에는 辛凉甘潤으로, 凉燥 초기에는 辛溫甘潤으로 치료하는 것이 마땅하다. 燥邪가 熱로 化하여 傳裏하면 더욱 주의",
+          "key_terms": [
+            "燥邪",
+            "津液",
+            "滋潤"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 14,
+          "line_excerpt": "表虛自汗에 活用하는 玉屛風散에서 黃芪는 防風, 白朮 등과 配伍되면 補氣固表作用으로 衛氣를 補强하고 風寒邪를 막아주며 止汗作用을 하게 한다. 이 경우 龍骨 牡蠣 浮小麥 등 收斂作用이 있는 藥物을 配伍",
+          "key_terms": [
+            "表虛自汗",
+            "活用",
+            "玉屛風散"
+          ],
+          "before_status": "약함",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 15,
+          "line_excerpt": "肺는 皮毛를 주관한다. 이는 肺가 호흡을 주관한다는 지식의 기초 위에서 인체 體表가 寒邪를 받을 때 코가 막히고, 재채기, 咳嗽 등의 호흡계통의 증상이 나타난다는 것이다. 따라서 肺가 “外合皮毛”한",
+          "key_terms": [
+            "皮毛",
+            "體表",
+            "寒邪"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 16,
+          "line_excerpt": "두 가지 이상의 藥物이 配伍될 때 相輔하는 作用이 있어 그 藥效를 增大시킨다는 學說 을 말하며 藥物의 七情配伍中 相須나 相使와 같은 類型이 여기에 해당된다.",
+          "key_terms": [
+            "藥物",
+            "配伍",
+            "相輔"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 17,
+          "line_excerpt": "병변에 속한다. 外邪가 침입하거나 內傷七情 飮食등에 의해 飮邪停留 氣滯不舒 肝膽火盛 濕熱郁阻 氣滯血瘀 등의 病變이 造成되고 이것들에 의하여 脇痛을 일으킬 수 있다. 脇痛의 성질이 서로 다른 것은 동",
+          "key_terms": [
+            "外邪",
+            "內傷七情",
+            "飮食"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 18,
+          "line_excerpt": "② 陽虛卽外寒 : 寒邪가 外感하여 肺衛에 머물러 陽氣가 外達못함 → 惡寒戰慄",
+          "key_terms": [
+            "陽虛卽外寒",
+            "寒邪",
+            "外感"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 19,
+          "line_excerpt": "① 病機 : ㉠ 脾陽氣不足·運化無權 → 水穀이 精微로 不化, 혹 水液代謝障碍 ㉡ 脾虛濕滯 → 痰飮形成·水腫 ㉢ 脾陽虛로 쉽게 外濕 感受 ㉣ 生冷物 함부로 먹음·술과 肥甘厚味 過食",
+          "key_terms": [
+            "病機",
+            "脾陽氣不足",
+            "運化無權"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 20,
+          "line_excerpt": "※ 氣虛 혹 氣滯流通不暢 ⇒ 水(腫)·濕·痰·飮 등의 병리산물 形成 = 氣不行(化)水 / 水濕痰飮의 有形의 邪로 인하여 氣機不利 ⇒ 水停氣滯",
+          "key_terms": [
+            "氣虛",
+            "氣滯流通不暢",
+            "形成"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 21,
+          "line_excerpt": "邪氣 : 外因(六淫外感) / 內因(七情內傷) / 不內外因(飮食所傷·勞逸過度·蟲獸所傷)  + 條件 → 發病",
+          "key_terms": [
+            "邪氣",
+            "外因",
+            "六淫外感"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 22,
+          "line_excerpt": "• 主病 : 寒證을 주재한다. 脈이 浮緊하면 寒邪가 表部에 沈緊하면 寒邪가 裏部에 있는 것이다.",
+          "key_terms": [
+            "主病",
+            "寒證",
+            "浮緊"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 23,
+          "line_excerpt": "② 病理表現 : 肺氣虛 → 宣發肅降減弱 → 體內外氣體交換기능감퇴 → 呼吸氣短 / 津液 輸布代謝失調 → 水津이 氣化되지 못함 → 痰飮형성·水腫 / 衛氣虛弱 → 腠理疏松 → 自汗·易患感冒",
+          "key_terms": [
+            "病理表現",
+            "肺氣虛",
+            "宣發肅降減弱"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 24,
+          "line_excerpt": "收引은 收縮牽引하는 성질을 의미한다. 寒邪가 인체에 침입하면 氣機가 수렴되고 腠理, 經絡, 筋脈, 肌肉 등이 수축되고 攣急하게 된다. 만약 寒邪가 肌表에 侵襲하면 毛竅와 腠理가 閉塞되고 衛陽이 鬱結",
+          "key_terms": [
+            "收引",
+            "收縮牽引",
+            "寒邪"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 25,
+          "line_excerpt": "活血祛瘀法을 運用할 때는 마땅히 주의하여 理氣藥物과 더불어 配伍하여 活血作用을 더욱 강화해야 한다. 이것이 이른바 “氣行하게 되면 血行하게 된다.”는 것이다. 또한 本類의 方藥은 月經過多, 孕婦 및",
+          "key_terms": [
+            "活血祛瘀法",
+            "運用",
+            "理氣藥物"
+          ],
+          "before_status": "없음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 26,
+          "line_excerpt": "한의학총강 스캔본 · contextual OCR  |  제6장 病因學說 및 發病 · 제1절 病因 · 附 現代研究: 2.六淫致病에 관한 새로운 見解  |  책 p.537–538 (청크 31)",
+          "key_terms": [
+            "病因學說",
+            "發病",
+            "病因"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 27,
+          "line_excerpt": "한의학총강 스캔본 · contextual OCR  |  제11장 方劑 · 제3절 方劑의 構成과 變化 · 佐藥 종료(服用反佐) 使藥(引經作用·調和作用 글머리표) + ▌2.方劑構成變化 도입(師其法而不泥",
+          "key_terms": [
+            "方劑",
+            "方劑",
+            "構成"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 28,
+          "line_excerpt": "重은 沈重의 뜻이다. 따라서 濕邪에 感受하면 頭重如裹, 周身困重, 四肢沈重 등의 증상이 나타난다. 《素問·生氣通天論》에 “因于濕, 首如裹.(濕邪에 손상되면 머리를 싸맨 것처럼 아프다.)”라고 하였는",
+          "key_terms": [
+            "沈重",
+            "濕邪",
+            "感受"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 29,
+          "line_excerpt": "濕邪에는 內濕, 外濕의 구분이 있고, 또한 寒化, 熱化의 차이가 있으므로 治療方法도 또한 芳香化濕, 利水滲濕, 淸熱祛濕, 溫化水濕, 宣散濕邪 등과 같이 여러 종류가 있다. 芳香化濕法은 濕濁이 內阻하",
+          "key_terms": [
+            "濕邪",
+            "內濕",
+            "外濕"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 30,
+          "line_excerpt": "一切의 血行不暢, 瘀血內阻, 跌打損傷, 瘀血作痛, 月經不調, 産後惡露不暢, 腫塊癥積 등의 症候에 適用한다. 常用하는 處方으로는 血府逐瘀湯, 復元活血湯이 있다. 瘀血病變의 性質이 하나가 아니기 때문에",
+          "key_terms": [
+            "一切",
+            "血行不暢",
+            "瘀血內阻"
+          ],
+          "before_status": "글로만",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-08",
+            "deck.json"
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": "ch08_병기",
+      "title": "제8장 病機 (邪正盛衰·陰陽失調·氣血失常·內生五邪·病機十九條)",
+      "sampled_lines": 30,
+      "before": {
+        "있음": 28,
+        "약함": 0,
+        "글로만": 0,
+        "없음": 2
+      },
+      "omission_rate_pct": 6.7,
+      "requires_full_ledger": false,
+      "after": {
+        "있음": 30,
+        "약함": 0,
+        "글로만": 0,
+        "없음": 0
+      },
+      "items": [
+        {
+          "sample_idx": 1,
+          "line_excerpt": "- 陰盛格陽 -- 眞寒假熱 → cf) 戴陽 : 下焦가 虛寒(陽虛陰盛)하여",
+          "key_terms": [
+            "陰盛格陽",
+            "眞寒假熱",
+            "戴陽"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 2,
+          "line_excerpt": "따라서 “內生五邪”는 致病 要素가 아니고 氣血津液, 臟腑 등의 생리기능의 失調로 인하여 발생한 것으로, 風·寒·濕·燥·火 등의 外邪致病과 유사하며, 종합적으로 분석해야할 病機變化라고 할 수 있다.",
+          "key_terms": [
+            "內生五邪",
+            "致病",
+            "要素"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 3,
+          "line_excerpt": "亡陰은 신체의 陰液이 大量으로 消耗되거나 脫失되어 全身의 기능이 심하게 衰竭하는 일종의 병리상태를 의미한다. 일반적으로 亡陰은 대부분 熱邪가 盛하거나 邪熱이 오래 머물러 陰液을 태워 버리거나, 慢性",
+          "key_terms": [
+            "亡陰",
+            "陰液",
+            "大量"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 4,
+          "line_excerpt": "宋·陳無擇의 《三因極一病證方論》에서는 각종 病證을 세 가지 要因(三因)으로 분류하였고, 方論을 덧붙였다. 金元時期의 劉河間은 《素問玄機原病式》에서 《素問·至眞要大論》의 “病機十九條”를 重視하여, “",
+          "key_terms": [
+            "陳無擇",
+            "三因極一病證方論",
+            "病證"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 5,
+          "line_excerpt": "“內生五邪”라는 것은 질병의 발전과정 중에서 氣血津液과 臟腑 등의 생리기능이 변화하여 생긴 風寒濕燥火의 外邪致病과 비슷한 다섯 가지의 병리상태를 의미한다. 病이 내부에서 유발되고, 外邪에서 유발된 ",
+          "key_terms": [
+            "內生五邪",
+            "氣血津液",
+            "臟腑"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 6,
+          "line_excerpt": "祛邪는 體內의 邪氣를 제거하는 것을 일컫는다. 각종 病邪의 성질과 특성은 서로 다르고 인체에 침범하는 부위가 다름으로 인하여 祛邪의 치료방법도 다르다. 예를 들면 發汗解表, 辛散祛風, 涌吐痰涎, 攻",
+          "key_terms": [
+            "祛邪",
+            "體內",
+            "邪氣"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 7,
+          "line_excerpt": "한의학총강 스캔본 · contextual OCR  |  제7장 病機學說 · 제5절 內生五邪病機 · ▌4.津傷化燥 + ▌5.火熱內生 도입 1)陽氣過盛化火  |  책 p.592–593 (청크 62)",
+          "key_terms": [
+            "病機學說",
+            "內生五邪病機",
+            "津傷化燥"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 8,
+          "line_excerpt": "한의학총강 스캔본 · contextual OCR  |  제11장 方劑 · 제2절 治療原則 · ▌4.扶正과 祛邪 도입(精氣奪則虛·邪氣盛則實) 1)扶正과 祛邪의 槪念 및 相互 關係(素問·通評虛實論·三部",
+          "key_terms": [
+            "方劑",
+            "治療原則",
+            "扶正"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 9,
+          "line_excerpt": "亡陰과 亡陽은 대부분 高熱, 大汗 및 出血과 吐瀉가 過多하여 陽氣나 陰液이 急速히 亡失된 상태에서 나타나는 危重한 症候이다.",
+          "key_terms": [
+            "亡陰",
+            "亡陽",
+            "高熱"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 10,
+          "line_excerpt": "한의학총강 스캔본 · contextual OCR  |  제7장 病機學說 · 제5절 內生五邪病機 · ▌1.風氣內動 2)肝陽化風 3)陰虛風動 4)血虛生風 + ▌2.寒從中生  |  책 p.588–589 ",
+          "key_terms": [
+            "病機學說",
+            "內生五邪病機",
+            "風氣內動"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 11,
+          "line_excerpt": "제 8 장  病機學說 ; 基本病機(十九病機·陰陽失調病機·氣血失調病機·內生五邪病機)",
+          "key_terms": [
+            "病機學說",
+            "基本病機",
+            "十九病機"
+          ],
+          "before_status": "없음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 12,
+          "line_excerpt": "5) 溫法(治寒以熱·寒者熱之·沈寒痼冷 제거) : 回陽救逆法(眞陽衰微·寒邪 三陰 直中→四逆湯·乾薑·附子·肉桂)·溫中散寒法(平素 陽虛→理中湯·乾薑·吳茱萸·蜀椒·人蔘·白朮)·溫經散寒法(陽氣不足 經脈 寒→",
+          "key_terms": [
+            "溫法",
+            "治寒以熱",
+            "寒者熱之"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 13,
+          "line_excerpt": "• 만약 잘못 사용하면 過汗으로 인한 亡陽의 變證을 초래할 수 있다.",
+          "key_terms": [
+            "過汗",
+            "亡陽",
+            "變證"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 14,
+          "line_excerpt": "※ 眞寒假熱 : '陽虛內寒'이 발전·轉變 → 元陽衰微로 陰寒內盛하여 格陽于外 → 外熱의 假象(面色潮紅·頭汗出·脈虛大)",
+          "key_terms": [
+            "眞寒假熱",
+            "陽虛內寒",
+            "轉變"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 15,
+          "line_excerpt": "① 陰盛格陽 : 久病陽衰 → 陰寒盛極·深伏于裏·陰寒內結(眞寒), 格陽于外(假熱)·格陽于上(戴陽) ② 陽盛格陰 : 眞熱假寒證, 陽證似陰 → 이런 종류의 厥症을 陽厥 또는 熱厥이라 함",
+          "key_terms": [
+            "陰盛格陽",
+            "久病陽衰",
+            "陰寒盛極"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 16,
+          "line_excerpt": "⑤ 與肝相應 ; 腹泄腹脹(←乘克脾土), 肝病易出. cf) 內風(肝風) : 體內陽氣升動過多로 발생 ⇒ 內生五邪病機 참조(肝陽化風·熱極動風·血虛生風·陰虛風動·血燥生風 등)",
+          "key_terms": [
+            "與肝相應",
+            "腹泄腹脹",
+            "乘克脾土"
+          ],
+          "before_status": "없음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 17,
+          "line_excerpt": "D0|7. 溫裏藥(祛寒藥) : 裏寒證候(寒邪內侵·陽氣困·臟寒證·心腎陽虛 亡陽證)",
+          "key_terms": [
+            "溫裏藥",
+            "祛寒藥",
+            "裏寒證候"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 18,
+          "line_excerpt": "한의학총강 스캔본 · contextual OCR  |  제7장 病機學說 · 제2절 陰陽失調 · ▌5.陰陽亡失 1)亡陽 2)亡陰 + 총괄  |  책 p.570–571 (청크 51)",
+          "key_terms": [
+            "病機學說",
+            "陰陽失調",
+            "陰陽亡失"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 19,
+          "line_excerpt": "因虛致實은 본래 “正氣奪則虛”를 가리키니, 虛한 것이 오래되어 회복하지 못하여 臟腑, 經絡 등의 생리기능이 減退됨으로 인해서 氣·血·津液 등의 운동이 遲延되고 代謝가 失調되어 食積, 痰, 水濕, 瘀",
+          "key_terms": [
+            "因虛致實",
+            "正氣奪則虛",
+            "臟腑"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 20,
+          "line_excerpt": "虛實이란 正氣와 邪氣의 盛衰상태를 말하는 것으로서 正氣가 虛한 것이 虛이고 邪氣가 實한 것이 實이다. 즉 《素問·通評虛實論》에서 말하기를 “邪氣盛則實이요, 正氣奪則虛”라고 하여 분명히 밝히고 있다.",
+          "key_terms": [
+            "虛實",
+            "正氣",
+            "邪氣"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 21,
+          "line_excerpt": "※ 亡陰/亡陽 비교 — 亡陰 : 症狀(身熱·氣粗·渴喜冷飮·口舌乾燥)·汗液(汗熱而粘)·四肢(溫和)·舌(紅乾)·脈象(浮而細數) / 亡陽 : 症狀(身冷·息微·不渴 或 渴喜熱飮)·汗液(汗冷淸稀)·四肢(厥冷",
+          "key_terms": [
+            "亡陰",
+            "亡陽",
+            "亡陰"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 22,
+          "line_excerpt": "內生五邪의 의미 : 外邪에서 비롯된 外感病이 아니면서도, 질병의 발전과정 중에서 氣血津液과 臟腑의 생리기능 失調로 생기는 병리상태가 六淫外邪에 의한 질병과 유사하여 內風·內寒·內濕·內燥·內火라 칭함",
+          "key_terms": [
+            "內生五邪",
+            "外邪",
+            "外感病"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 23,
+          "line_excerpt": "陽盛格陰은 熱邪가 內盛하여 속으로 깊이 들어가 陽氣가 안에서 鬱滯되어 막히니 陰을 밖으로 格하는 일종의 병리상태를 의미한다. 熱病의 熱盛이 極에 이를 때 많이 나타나며, “熱極似寒”의 四肢厥冷, 脈",
+          "key_terms": [
+            "陽盛格陰",
+            "熱邪",
+            "內盛"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 24,
+          "line_excerpt": "한의학총강 스캔본 · contextual OCR  |  제7장 病機學說 · 제5절 內生五邪病機 · ▌5.火熱內生 2)邪鬱化火 3)五志過極化火 4)陰虛火旺 + 제5절 총괄  |  책 p.594–595",
+          "key_terms": [
+            "病機學說",
+            "內生五邪病機",
+            "火熱內生"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 25,
+          "line_excerpt": "또한, 《素問·陰陽應象大論》에서 말하기를 “善診者, 察色按脈, 先別陰陽”이라 하여 診察을 잘하는 者는 색을 관찰하고 脈을 按하여 우선 陰陽을 구별한다고 했다. 또 張景岳이 《景岳全書》 1卷 陰陽篇에",
+          "key_terms": [
+            "素問",
+            "陰陽應象大論",
+            "善診者"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 26,
+          "line_excerpt": "邪正盛衰와 病機虛實의 관계는 《素問·通評虛實論》중의 “邪氣盛則實, 正氣奪則虛.(邪氣가 왕성한 것은 實證이고, 正氣를 빼앗겨 부족한 것은 虛證이다.)”에서 처음으로 볼 수 있다. 이에 의하면 實한 病",
+          "key_terms": [
+            "邪正盛衰",
+            "病機虛實",
+            "素問"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 27,
+          "line_excerpt": "(2) 陰陽偏衰 : \"精氣奪則虛\"의 虛證 — ③ 陽虛則寒(外寒) : 虛寒과 水濕證('畏寒'肢冷·水腫·倦臥神疲·下利淸穀·溲淸·脈沈遲) ④ 陰虛則熱(內熱) : 陰虧 및 虛熱(機能虛性亢進)(形體消瘦·口乾",
+          "key_terms": [
+            "陰陽偏衰",
+            "精氣奪則虛",
+            "虛證"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 28,
+          "line_excerpt": "① 無汗(衛氣 調節作用 喪失[肺失宣發]·津液 不足) ② 有汗(實熱證=面赤·口渴冷飮 / 亡陽陰竭證=冷汗淋漓·油脂狀[脫汗·絶汗] / ㉠ 自汗[活動後 甚]=氣虛/陽虛 / ㉡ 盜汗[자면서 땀·깨면 그침]=",
+          "key_terms": [
+            "無汗",
+            "衛氣",
+            "調節作用"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 29,
+          "line_excerpt": "陰이나 陽의 偏盛은 주로 “邪氣盛則實”의 實證을 의미한다. 만약 陽邪가 인체에 侵入하면 邪氣가 陽分으로 들어가므로 인체에 陽偏勝을 형성하게 되며, 반대로 陰邪가 인체에 침입하면 邪氣가 陰分으로 들어",
+          "key_terms": [
+            "偏盛",
+            "邪氣盛則實",
+            "實證"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 30,
+          "line_excerpt": "- 劉完素 : 運氣學說의 영향, 內經 至眞要大論의 病機十九條의 이론에 근거",
+          "key_terms": [
+            "劉完素",
+            "運氣學說",
+            "內經"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-14",
+            "deck.json"
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": "ch11_사진",
+      "title": "제11장 四診 (望·聞·問·切診)",
+      "sampled_lines": 30,
+      "before": {
+        "있음": 27,
+        "약함": 1,
+        "글로만": 1,
+        "없음": 1
+      },
+      "omission_rate_pct": 3.3,
+      "requires_full_ledger": false,
+      "after": {
+        "있음": 30,
+        "약함": 0,
+        "글로만": 0,
+        "없음": 0
+      },
+      "items": [
+        {
+          "sample_idx": 1,
+          "line_excerpt": "望色에 응용 | 五色간의 生克/相兼合和에 근거하여 病情의 順逆을 추측 | 靑赤合化 → 相生變 → 病情 順 / 靑黃兼化 → 相克變 → 病情 逆",
+          "key_terms": [
+            "望色",
+            "五色",
+            "生克"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 2,
+          "line_excerpt": "因實致虛는 본래 “邪氣盛則實”을 가리키니, 시기적절하게 치료하지 못하였거나, 치료가 마땅치 않거나, 老年의 體力이 허약하여 病邪의 侵入을 견디지 못하거나, 大汗·大吐·大瀉·大出血 등으로 인체의 氣·",
+          "key_terms": [
+            "因實致虛",
+            "邪氣盛則實",
+            "老年"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 3,
+          "line_excerpt": "주요 증상은 發熱, 微惡寒, 頭痛, 無汗 或 少汗, 口乾不甚渴飮, 心煩躁擾, 舌紅少苔, 脈浮細而數 등이다. 본 증은 伏暑가 營分에서 發하고 表를 겸한 증후이다. 치료는 解表淸營泄熱하여야 하며, 銀翹",
+          "key_terms": [
+            "發熱",
+            "微惡寒",
+            "頭痛"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 4,
+          "line_excerpt": "• 紅色은 주로 熱證을 나타내 주기 때문에 만약에 얼굴 가득한 紅赤色이 外感初期에 출현하는 者는 陽氣의 怫鬱이 表部에 있고 汗出이 끊이지 않는 風熱表證에 속하며 만약에 面紅에 高熱 煩燥 譫語 등이 ",
+          "key_terms": [
+            "紅色",
+            "熱證",
+            "紅赤色"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 5,
+          "line_excerpt": "• 症狀 : 先憎寒, 後壯熱, 頭痛身疼, 舌紅, 苔白厚如積粉, 脈은 數하다.",
+          "key_terms": [
+            "症狀",
+            "先憎寒",
+            "後壯熱"
+          ],
+          "before_status": "글로만",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 6,
+          "line_excerpt": "渴, 苔黃은 裏熱壅盛의 반영이다. 치료는 泄熱消痞하는 大黃黃連瀉心湯이 대표적인 처방이다.",
+          "key_terms": [
+            "苔黃",
+            "裏熱壅盛",
+            "泄熱消痞"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 7,
+          "line_excerpt": "② 濕溫 : 發熱持續·胸悶惡心·食慾減退·腹脹·便秘或腹瀉·舌苔膩 등의 濕熱阻滯證 發生(發病·傳變이 緩慢). cf) 暑溫 : 여름철 발생 急性熱病",
+          "key_terms": [
+            "濕溫",
+            "發熱持續",
+            "胸悶惡心"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 8,
+          "line_excerpt": "身熱, 大便不通, 小便이 不暢하여 방울처럼 나오고, 排尿時 疼痛하고, 小便色은 黃赤하며 때때로 煩渴이 심하고, 舌苔는 黃燥하거나 灰黑하면서 乾燥하다.",
+          "key_terms": [
+            "身熱",
+            "大便不通",
+            "小便"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 9,
+          "line_excerpt": "한의학총강 스캔본 · contextual OCR  |  제10장 診斷法 · 제1절 望診 · ①面部五色診(靑色·黑色) ②얼굴의 外形변화 + (4)目 ①眼神 ②目形 ③目色 ④目態 + (5)鼻 + (6)",
+          "key_terms": [
+            "診斷法",
+            "望診",
+            "面部五色診"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 10,
+          "line_excerpt": "身熱不已, 煩躁不安하고, 胸膈이 타는 듯이 灼熱하며 脣焦, 咽燥, 口渴, 大便秘結, 舌紅苔黃, 脈數有力 등의 증상이 나타난다. 본 증은 邪熱이 火로 변화하여 上焦氣分을 灼傷하고 腑實不通을 겸한 것이",
+          "key_terms": [
+            "身熱不已",
+            "煩躁不安",
+            "胸膈"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 11,
+          "line_excerpt": "㉠ 熱極生風(熱甚動風) : 熱性病 極盛期 ⇒ 痙厥·抽搐·頸項强直·角弓反張·目睛上弔·高熱·神昏·譫語",
+          "key_terms": [
+            "熱極生風",
+            "熱甚動風",
+            "熱性病"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 12,
+          "line_excerpt": "身熱汗出, 口渴不欲多飮, 胸痞嘔惡, 心中煩悶, 小便短赤, 舌苔黃膩, 脈濡數 或 滑數 등의 증상이 나타난다. 본 증은 濕熱이 모두 盛하여 서로 交蒸한 證候로서, 대개 邪在中焦 濕重于熱에서 발전하여 형",
+          "key_terms": [
+            "身熱汗出",
+            "口渴不欲多飮",
+            "胸痞嘔惡"
+          ],
+          "before_status": "없음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 13,
+          "line_excerpt": "■ 寸口脈診의 原理 : 주요근거 i. 肺朝百脈(寸口=手太陰肺經·經脈 모두 모임·五臟六腑氣血 肺에 모임) ii. 肺經 中焦 시작·脾經과 太陰(脾胃=後天之本·臟腑 氣血 經絡 根源). 意義 : 臟腑經脈 ",
+          "key_terms": [
+            "寸口脈診",
+            "原理",
+            "肺朝百脈"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 14,
+          "line_excerpt": "② 寸口脈의 寸關尺 區分과 主宰하는 臟腑",
+          "key_terms": [
+            "寸口脈",
+            "寸關尺",
+            "區分"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 15,
+          "line_excerpt": "본증과 앞의 證은 모두 春溫初起에 나타나는 것이지만, 病位와 病機가 다르기 때문에 주의해서 辨別해야 한다. 氣分에서 발생한 것은 苔黃하면서 神志가 명료하고, 營分에서 발생한 것은 舌質이 紅絳하고 苔",
+          "key_terms": [
+            "春溫初起",
+            "病位",
+            "病機"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 16,
+          "line_excerpt": "胃陰虧虛는 주로 胃의 陰液이 枯渴되어 水穀을 受納, 腐熟하는 기능이 심하게 감퇴한 것을 말한다. 胃陰虛는 주로 熱病後期에 熱邪가 오래 머물러 陰液을 심하게 灼耗되거나, 久病이 회복되지 않아서 全身 ",
+          "key_terms": [
+            "胃陰虧虛",
+            "陰液",
+            "枯渴"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 17,
+          "line_excerpt": "小便이 臊臭하고 色은 黃色으로 混濁하게 나타나면서 尿頻 尿急 尿痛 口苦 身熱 舌紅苔黃 등의 症狀이 同伴되어 나타나면 이것은 膀胱에 濕熱이 內盛하여 發生된 것이다. 만약에 小便이 淸長하면서 輕微한 腥",
+          "key_terms": [
+            "小便",
+            "臊臭",
+            "黃色"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 18,
+          "line_excerpt": "본 증과 熱盛動風證은 비록 같은 肝風內動이지만 證情에 虛實의 차이가 있다. 熱盛動風證은 溫病의 극성기에 많이 나타나는 “熱極生風”으로 實에 속하여 手足抽搐이 有力하고 高熱, 肢厥, 神昏, 苔燥, 渴",
+          "key_terms": [
+            "熱盛動風證",
+            "肝風內動",
+            "證情"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 19,
+          "line_excerpt": "(2) 脈診하는 部位 : ① 遍診法(內經 三部九候法<素問 三部九候論>·全身 診脈·머리[上]·손[中]·발[下] 三部·天地人 三候. 『人有三部 部有三候 以決死生 以處百病 以調虛實 以除邪疾』) ② 三部診",
+          "key_terms": [
+            "脈診",
+            "部位",
+            "遍診法"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 20,
+          "line_excerpt": "《素問·六節藏象論》에서는 “五氣入鼻, 藏於心肺, 上使五色修明, 音聲能彰.(五氣는 코로 들어와 心肺에 貯藏되고, 그 氣가 위로 상승하여 五色으로 하여금 修明하게 하고, 音聲이 능히 通彰하게 한다.)”",
+          "key_terms": [
+            "素問",
+            "六節藏象論",
+            "五氣入鼻"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 21,
+          "line_excerpt": "白, 舌苔는 濕潤, 脈 微細欲絶 등 기본적으로 陽虛의 범주에 속하지만 陽虛보다 위중한 상태로 발전된 것이며 특히 大汗淋漓, 汗淸而稀. 冷汗 등이 특징이다.",
+          "key_terms": [
+            "舌苔",
+            "濕潤",
+            "微細欲絶"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 22,
+          "line_excerpt": "燥濕化痰法은 濕痰에 적용되는데 症으로 咳嗽痰多하고 痰이 희며 쉽게 뱉어내고 가슴이 답답하고 미식거리며 舌苔가 白膩한 증상이 나타난다. 病因이 濕이기 때문에 治療上 항상 苦溫燥濕, 淡滲利濕하는 藥인 ",
+          "key_terms": [
+            "燥濕化痰法",
+            "濕痰",
+            "咳嗽痰多"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 23,
+          "line_excerpt": "淸氣不昇致濁氣不降 → 食欲不振, 脘腹脹滿, 惡心, 噯氣 / 濁氣不降致淸氣不昇 → 消化不良, 腹瀉舌苔厚膩",
+          "key_terms": [
+            "淸氣不昇致濁氣不降",
+            "食欲不振",
+            "脘腹脹滿"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 24,
+          "line_excerpt": "胸腹灼熱, 嘔惡, 便溏不爽, 色黃赤如醬, 苔黃垢膩, 脈濡數이 나타난다. 본 증은 대개 邪在少陽에서 발전하여 형성되는 것으로 暑濕이 鬱蒸하여 積滯와 겸한 것이다. 치료는 淸熱化濕하고 導滯通下하여야 하",
+          "key_terms": [
+            "胸腹灼熱",
+            "嘔惡",
+            "便溏不爽"
+          ],
+          "before_status": "약함",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 25,
+          "line_excerpt": "• 症狀 : 惡寒(風), 有汗, 發熱 또는 無汗, 頭身疼痛, 咳嗽, 鼻塞, 舌苔薄白하고 脈浮하다.",
+          "key_terms": [
+            "症狀",
+            "惡寒",
+            "有汗"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 26,
+          "line_excerpt": "D0|5. 芳香化濕藥 (芳香性·溫燥-化濕健脾. 脘腹痞悶·嘔吐泛酸·大便溏薄·少食體倦·口甘多涎·舌苔白膩)",
+          "key_terms": [
+            "芳香化濕藥",
+            "芳香性",
+            "溫燥"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 27,
+          "line_excerpt": "● 醫家와 醫書 : 皇甫謐(晉)<黃帝針灸甲乙經>(現存 최초 鍼灸學) / 王叔和(晉)<脈經>(24종 脈象·寸關尺 臟腑 配合·獨取寸口脈診) / 葛洪<肘後備急方><抱朴子><玉函方> / 魏陽伯<周易參同契>",
+          "key_terms": [
+            "醫家",
+            "醫書",
+            "皇甫謐"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 28,
+          "line_excerpt": "病機의 본질은 實이지만, 임상에서는 虛로 표현되는 假象이다. 假虛 현상의 주요 원인은 熱結腸胃, 痰食壅滯, 濕熱內蘊과 大積大聚 등의 實邪가 結聚됨으로 인하여 經絡이 막히고, 氣血이 외로 暢達되지 못",
+          "key_terms": [
+            "病機",
+            "假象",
+            "假虛"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 29,
+          "line_excerpt": "이는 鼻腔에서 숨을 내쉴 때 나는 고약한 냄새를 뜻한다. 그 原因은 세가지 있는데, 첫 번째는 콧물 때문이고, 두 번째는 코부위가 헐어서 생기는 것이며 세 번째는 內臟의 病變 때문이다. 淸한 콧물을",
+          "key_terms": [
+            "鼻腔",
+            "原因",
+            "內臟"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 30,
+          "line_excerpt": "한의학총강 스캔본 · contextual OCR  |  제10장 診斷法 · 제1절 望診 · (나)苔色(黃苔·白苔·灰苔·黑苔) + ▌4.望排出物 1)痰涎(가래) 2)嘔吐物 — 제1절 望診 완결  | ",
+          "key_terms": [
+            "診斷法",
+            "望診",
+            "苔色"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-zj-16",
+            "deck.json"
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": "ch12_예방치칙",
+      "title": "제12장 豫防과 治則 · 八法",
+      "sampled_lines": 30,
+      "before": {
+        "있음": 28,
+        "약함": 1,
+        "글로만": 0,
+        "없음": 1
+      },
+      "omission_rate_pct": 3.3,
+      "requires_full_ledger": false,
+      "after": {
+        "있음": 30,
+        "약함": 0,
+        "글로만": 0,
+        "없음": 0
+      },
+      "items": [
+        {
+          "sample_idx": 1,
+          "line_excerpt": "는 “正治”가 되어 하나의 “治病求本” 법칙이 된다. 비록 질병이 표현되는 임상적인 仮象은 다양하지만 反治法을 분석하여 보면, 주로 熱因熱用, 寒因寒用, 塞因塞用, 通因通用 등이 있다.",
+          "key_terms": [
+            "正治",
+            "治病求本",
+            "仮象"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 2,
+          "line_excerpt": "“反治”는 “從治”라고도 한다. 反治는 질병의 임상증상의 성질과 질병의 본질이 서로 반대로 나타나는 상황에서 그 증상의 성질에 따라서 치료하는 방법이다. 이른바 “從”이란 治法의 성질이 증상의 성질",
+          "key_terms": [
+            "反治",
+            "從治",
+            "反治"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 3,
+          "line_excerpt": "“正治”는 “逆治”라고도 한다. 正治는 질병의 임상증상 성질과 질병의 본질이 서로 일치하는 경우에 그 症候의 성질과 반대로 치료하는 방법이다. 이른바 “逆”이란 症候 성질에 서로 반대되게 治法을 쓰",
+          "key_terms": [
+            "正治",
+            "逆治",
+            "正治"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 4,
+          "line_excerpt": "1) 外治法 : 鍼灸·推拿·外用藥物 / 2) 內治法 : 汗·吐·下·和·溫·淸·消·補法 → 八法",
+          "key_terms": [
+            "外治法",
+            "鍼灸",
+            "推拿"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 5,
+          "line_excerpt": "- 三陰 三陽이 이용됨(標本中氣論의 臟腑配合原則 참조) / 心包가 포함됨 / 經絡은 각각 좌우대칭",
+          "key_terms": [
+            "三陰",
+            "三陽",
+            "標本中氣論"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 6,
+          "line_excerpt": "治標와 治本에 관한 내용은 《素問·標本病傳論》에 처음 나타나 있다. 標와 本의 개념은 상대적이며, 治標와 治本은 실제로 모두 “治病必求于本(病을 治療함에는 반드시 根本에서 찾아야 한다.)”의 목적에",
+          "key_terms": [
+            "治標",
+            "治本",
+            "素問"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 7,
+          "line_excerpt": "한의학총강 스캔본 · contextual OCR  |  제11장 方劑 · 제3절 · (1)君藥이 바뀌는 경우 종료(平胃散/對金飮子) (2)藥物使用量이 다른 경우(柴胡·紅花) 4)劑型의 變化 — 제3",
+          "key_terms": [
+            "方劑",
+            "君藥",
+            "平胃散"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 8,
+          "line_excerpt": "“治病求本”을 구체적으로 운용할 때는 반드시 정확한 辨證을 해야 하며, 치료원칙을 확정할 때는 반드시 “正治”와 “反治”, “治標와 治本”의 정확한 選用方法을 명확하게 해야 한다.",
+          "key_terms": [
+            "治病求本",
+            "辨證",
+            "正治"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 9,
+          "line_excerpt": "한의학총강 스캔본 · contextual OCR  |  제11장 方劑 · 제4절 治療의 八法 · 9)摩擦法 종료(外治壽世方初編) 10)撲粉法(驗方溫粉方·玉女英) 11)起泡法(疫疹草·異功散·外治壽世方",
+          "key_terms": [
+            "方劑",
+            "治療",
+            "八法"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 10,
+          "line_excerpt": "한의학총강 스캔본 · contextual OCR  |  제11장 方劑 · 제4절 治療의 八法 · (2)消法 계속(保和丸·枳朮湯(丸)·消蟲化積/消痰散結/消散瘡瘍) (3)消法 주의(①②③④) + 8)補",
+          "key_terms": [
+            "方劑",
+            "治療",
+            "八法"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 11,
+          "line_excerpt": "한의학총강 스캔본 · contextual OCR  |  제11장 方劑 · 제4절 治療의 八法 · (3)補法 注意點(補湯欲熟) + 9)理氣法 (1)意義와 作用 (2)分類와 運用 ①行氣解郁(越鞠丸·柴胡",
+          "key_terms": [
+            "方劑",
+            "治療",
+            "八法"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 12,
+          "line_excerpt": "한의학총강 스캔본 · contextual OCR  |  제11장 方劑 · 제4절 治療의 八法 · (3)治風法 注意 종료(平息內風法 石質重鎭/滋膩呆胃) + 14)開竅法 (1)意義와 作用 (2)分類와 ",
+          "key_terms": [
+            "方劑",
+            "治療",
+            "八法"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 13,
+          "line_excerpt": "④ 標本은 일정한 조건하에서 서로 轉化性이 있다. 『素問·標本病傳論』에는 “標本相移”라 하여 轉化性을 표현 — 病證의 發展變化過程을 파악하고 복잡한 病證을 辨證하는데 중요한 요점.",
+          "key_terms": [
+            "標本",
+            "轉化性",
+            "素問"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 14,
+          "line_excerpt": "2) 標本中氣의 從化規律 : 天之六氣와 人體 三陰三陽 사이의 氣化生理와 病理變化의 규율을 나타냄.",
+          "key_terms": [
+            "標本中氣",
+            "從化規律",
+            "天之六氣"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 15,
+          "line_excerpt": "한의학총강 스캔본 · contextual OCR  |  제11장 方劑 · 제4절 治療의 八法 · 3)攻補幷用(陶氏黃龍湯·增液承氣湯) 4)消補幷用(枳實消痞丸) + 配合運用 총괄(滋陰解表·助陽解表·淸上",
+          "key_terms": [
+            "方劑",
+            "治療",
+            "八法"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 16,
+          "line_excerpt": "“塞因塞用”은 임상적으로 나타나는 閉塞不通의 “仮實” 證候에 補益法, 收澁法을 사용하여 치료하는 것을 말한다. 그러므로 “補以開塞”, “塞以通痞”라고 한다. 이는 “仮實眞虛”한 閉塞不通 證候에 運用",
+          "key_terms": [
+            "塞因塞用",
+            "閉塞不通",
+            "仮實"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 17,
+          "line_excerpt": "② 緩則治其本(本質·原因→原因根本治療·先丙·內病·慢性疾病·急性疾病 恢復期 중요) ③ 標本同治(① 虛人感冒 ② 邪氣亢盛+正氣受傷[熱盛傷陰] ③ 表證未解+裏證 ④ 標本 모두 危重)",
+          "key_terms": [
+            "緩則治其本",
+            "本質",
+            "原因"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 18,
+          "line_excerpt": "陽在外 陰在內 : 자연계에서 음양을 구분할 때 가장 중요한 標本 - “內外”",
+          "key_terms": [
+            "陽在外",
+            "陰在內",
+            "標本"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 19,
+          "line_excerpt": "- 張元素(潔古) : 易水學派, 補土派 <珍珠囊> <醫學啓源> <臟腑標本藥式>",
+          "key_terms": [
+            "張元素",
+            "潔古",
+            "易水學派"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 20,
+          "line_excerpt": "少陽相火는 本인 火와 標인 少陽이 모두 陽으로 標本이 同氣로서 從本化(少陽病은 火熱이 主). 太陰濕土는 本은 濕, 標는 陰으로 標本이 同氣로 從本化(太陰病은 濕가 主).",
+          "key_terms": [
+            "少陽相火",
+            "少陽",
+            "標本"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 21,
+          "line_excerpt": "것이 重要하다. 그러므로 標本의 輕重, 緩急, 先後를 구별하는 것은 단지 “治病必求于本”을 실현하는 조치나 수단일 뿐이다.",
+          "key_terms": [
+            "重要",
+            "標本",
+            "輕重"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 22,
+          "line_excerpt": "한의학총강 스캔본 · contextual OCR  |  제11장 方劑 · 제4절 治療의 八法 · 6)淸法 (1)意義와 作用 (2)分類와 運用(淸氣 白虎湯·黃連解毒湯/白頭翁湯·淸營湯·凉血 犀角地黃湯·",
+          "key_terms": [
+            "方劑",
+            "治療",
+            "八法"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 23,
+          "line_excerpt": "⑤ 標本의 從化性은 運氣學說과 관련이 있어 六氣變化의 理論 중에서 表出된 것이다. 『素問·至眞要大論』에 “六氣標本, 所從不同”이라 하였는데 六氣의 太過不及이 원인이 되어 標本의 從化性을 형성한다.",
+          "key_terms": [
+            "標本",
+            "從化性",
+            "運氣學說"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 24,
+          "line_excerpt": "何若愚·閻明廣 <子午流注鍼經> / 王國瑞 <扁鵲神應鍼灸玉龍經>-'飛騰八法'(八脈交會穴을 九宮八卦 숫자와 배합·日時 干支에 따라 治療穴 選定) / <針經指南> 竇默(竇杰·竇漢卿)-八脈交會穴 重視·燒山",
+          "key_terms": [
+            "何若愚",
+            "閻明廣",
+            "子午流注鍼經"
+          ],
+          "before_status": "약함",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 25,
+          "line_excerpt": "“熱因熱用”은 임상적으로 나타나는 “仮熱” 證候에 溫熱法을 사용하여 치료하는 경우를 말하므로 “以熱治熱”이라고도 한다. 이는 주로 “陰寒內盛”하여 體外에 格陽된 “眞寒仮熱” 증상에 운용된다. 예를 ",
+          "key_terms": [
+            "熱因熱用",
+            "仮熱",
+            "證候"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 26,
+          "line_excerpt": "4. 標本, 根結과 氣街 理論",
+          "key_terms": [
+            "標本",
+            "根結",
+            "氣街"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 27,
+          "line_excerpt": "D0|1. 常用 治療方法 ── ■ 治療八法(汗吐下和溫淸補消) 爲主",
+          "key_terms": [
+            "常用",
+            "治療方法",
+            "治療八法"
+          ],
+          "before_status": "없음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 28,
+          "line_excerpt": "《素問·標本病傳論》에서는 標本, 先後, 緩急의 구별에 대해 언급하고 있다. 예를 들면 “先熱而後中滿者, 治其標(먼저 熱이 나고서 뒤에 中滿을 生하면, 그 標를 다스린다.)”, “先病而後生中滿者, 治",
+          "key_terms": [
+            "素問",
+            "標本病傳論",
+            "標本"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 29,
+          "line_excerpt": "(從本 : 標와 本이 같을 때, 從本從標 : 標本이 다를 때)",
+          "key_terms": [
+            "從本",
+            "從本從標",
+            "標本"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 30,
+          "line_excerpt": "여 치료할 수 있다. 그러므로 “治病求本”이라고 하며, 이는 臨床 辨證論治에서 반드시 지켜야 하는 기본적인 표준이 된다.",
+          "key_terms": [
+            "治病求本",
+            "臨床",
+            "辨證論治"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "new-etc-27",
+            "deck.json"
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": "ch_본초방제",
+      "title": "본초 · 방제 (四氣五味·升降浮沈·七情·十八反·炮製·君臣佐使·十劑)",
+      "sampled_lines": 30,
+      "before": {
+        "있음": 29,
+        "약함": 0,
+        "글로만": 0,
+        "없음": 1
+      },
+      "omission_rate_pct": 3.3,
+      "requires_full_ledger": false,
+      "after": {
+        "있음": 30,
+        "약함": 0,
+        "글로만": 0,
+        "없음": 0
+      },
+      "items": [
+        {
+          "sample_idx": 1,
+          "line_excerpt": "2) 相須 : 效能 유사 藥物 配合 → 協同작용·功效 增加(君臣, 둘다 主). 예) 石膏+知母·柴胡+黃芩·知母+黃柏·人參+甘草·當歸+川芎·蓮子肉+山藥",
+          "key_terms": [
+            "相須",
+            "效能",
+            "藥物"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 2,
+          "line_excerpt": "※ 藥性 강해짐 : 相須·相使 / 藥性 약해짐 : 相惡 / 毒性 약해짐 : 相畏·相殺 / 毒性 강해짐 : 相反",
+          "key_terms": [
+            "藥性",
+            "相須",
+            "相使"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 3,
+          "line_excerpt": "⇒ 苦欲補瀉란? 五味와 五臟의 고유한 性質을 파악하여 臟腑 好惡에 따라 用藥. 苦는 주로 臟腑機能 太過(實證)·欲은 주로 五臟機能 부족(虛證). ※五臟補瀉 : 脾는 中央으로 그대로, 散↔收·軟↔堅이",
+          "key_terms": [
+            "苦欲補瀉",
+            "五味",
+            "五臟"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 4,
+          "line_excerpt": "1) 止汗藥(固表收斂) : ▶ 浮小麥·麻黃根·糯稻根. ※ 氣虛·脾虛 自汗-黃芪·白朮 益氣固表 / 陰虛·血虛 盜汗-當歸·白芍藥·生地黃 養血滋陰 / 燥熱盜汗 虛熱證-地骨皮·知母 / 2) 止瀉藥(久瀉·久",
+          "key_terms": [
+            "止汗藥",
+            "固表收斂",
+            "浮小麥"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 5,
+          "line_excerpt": "① 相互 協助作用을 한다(相須, 相使).",
+          "key_terms": [
+            "相互",
+            "協助作用",
+            "相須"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 6,
+          "line_excerpt": "2) 十劑 : 唐代 陳藏器 <本草拾遺>에서 처음 제창",
+          "key_terms": [
+            "十劑",
+            "唐代",
+            "陳藏器"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 7,
+          "line_excerpt": "두 가지 이상의 藥物이 配伍될 때 相輔하는 作用이 있어 그 藥效를 增大시킨다는 學說 을 말하며 藥物의 七情配伍中 相須나 相使와 같은 類型이 여기에 해당된다.",
+          "key_terms": [
+            "藥物",
+            "配伍",
+            "相輔"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 8,
+          "line_excerpt": "④ 肺苦氣逆 : 急食苦以泄之(訶子) / 欲收 急食酸以收之(白芍藥) / ※瀉 以辛瀉之(桑白皮) / ※補 以酸補之(五味子)",
+          "key_terms": [
+            "肺苦氣逆",
+            "急食苦以泄之",
+            "訶子"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 9,
+          "line_excerpt": "따라서 飮食五味는 적절해야 하고, 평상시 飮食을 偏食해서는 안되며, 病이 있을 때는 더욱 飮食에 주의해야 한다. 飮食은 병변과 밀접한 연관성이 있어서 적절하면 치료에 도움이 되고 질병을 好轉시킬 수",
+          "key_terms": [
+            "飮食五味",
+            "飮食",
+            "偏食"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 10,
+          "line_excerpt": "D0|2. 修治(炮製)의 目的",
+          "key_terms": [
+            "修治",
+            "炮製",
+            "目的"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 11,
+          "line_excerpt": "《靈樞·五味》에 “穀始入於胃, 其精微者, 先出於胃之兩焦, 以漑五藏, 別出兩行營衛之道.(음식물이 처음 胃로 들어가면 그 精微는 胃에서 나와 上·中焦로 들어감으로써 五臟을 적셔 주고, 두 갈래로 나뉘어",
+          "key_terms": [
+            "靈樞",
+            "五味",
+            "穀始入於胃"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 12,
+          "line_excerpt": "《靈樞·脈度》에서는 “脾氣通于口, 脾和則口能知五穀矣.(脾氣는 입으로 통하는데 脾氣가 조화로우면 입으로 五穀의 맛을 변별할 수 있다.)”라고 하였다. 일상생활 중에서 脾氣가 健旺하면 食慾旺盛, 口味正",
+          "key_terms": [
+            "靈樞",
+            "脈度",
+            "脾氣通于口"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 13,
+          "line_excerpt": "3) 藥物毒性 影響 要素 : ① 品種 ② 炮製(毒性減-半夏·甘遂 / 毒性增-雄黃) ③ 配伍(毒性減[相畏·相殺]-甘草·附子, 大黃·巴豆 / 毒性增-十八反) ④ 劑型 ⑤ 煎法 ⑥ 服法 ⑦ 體質",
+          "key_terms": [
+            "藥物毒性",
+            "影響",
+            "要素"
+          ],
+          "before_status": "없음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 14,
+          "line_excerpt": "《靈樞·玉版》에서는 “人之所受氣者, 穀也. 穀之所注者, 胃也. 胃者, 水穀氣血之海也.(인체가 氣를 받는 곳이 水穀이다. 水穀이 모이는 곳이 胃이다. 胃는 水穀(에서 化生된) 氣血이 모여 있는 바다와",
+          "key_terms": [
+            "靈樞",
+            "玉版",
+            "人之所受氣者"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 15,
+          "line_excerpt": "2) 配伍禁忌 ── (1) 十八反 : 烏頭 反 半夏·瓜蔞·貝母·白斂(혹 白芨) / 甘草 反 大戟·芫花·甘遂·海藻 / 藜蘆 反 五參(人參·丹參·玄參·沙參·苦參)·細辛·芍藥 / (2) 十九畏 : 硫黃畏",
+          "key_terms": [
+            "配伍禁忌",
+            "十八反",
+            "烏頭"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 16,
+          "line_excerpt": "■ 五臟의 五味補瀉法 (苦欲補瀉)",
+          "key_terms": [
+            "五臟",
+            "五味補瀉法",
+            "苦欲補瀉"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 17,
+          "line_excerpt": "張從正²⁷²⁾은 劉完素에게서 醫學을 傳受받고 “治病重在攻邪, 邪去則正安 不可畏邪而養病”을 인식하여 단지 “脈脫下虛, 無邪無積之人”에 있어서만 補法을 사용할 수 있다고 했다. 治病에 있어 汗, 吐, ",
+          "key_terms": [
+            "張從正",
+            "劉完素",
+            "醫學"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 18,
+          "line_excerpt": "그는 《醫貫·內經十二官論》 중에서 말하기를 “命門卽在兩腎各一寸五分之間. 當一身之中, 《易》所謂一陽陷於二陰之中. 《內經》曰: ‘七節之旁, 中有小心’是也. 名曰命門, 是爲眞君眞主, 乃一身之太極, 無形可",
+          "key_terms": [
+            "醫貫",
+            "內經十二官論",
+            "命門卽在兩腎各一寸五分之間"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 19,
+          "line_excerpt": "3) 相使 : 配伍 시 한 藥物이 다른 藥物 主作用 補助(主從). 예) 黃芪(主)+茯笭·艾葉+香附子·黃芩(主)+大黃·前胡+半夏",
+          "key_terms": [
+            "相使",
+            "配伍",
+            "藥物"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 20,
+          "line_excerpt": "6) 相殺 : 한 藥物이 다른 藥物 毒性 없앰(生薑殺半夏). 예) 防風+附子·白芷+石雄黃·石葦+丹砂",
+          "key_terms": [
+            "相殺",
+            "藥物",
+            "藥物"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 21,
+          "line_excerpt": "脾는 中焦에 위치하고 좌측 가슴 아래에 위치하며 칼이나 낫과 같은 모양이다. 《素問·太陰陽明論》에서는 “脾與胃以膜相連.(脾와 胃는 膜으로써 서로 連할 따름이다.)”이라고 하였고, 《難經·四十二難》에",
+          "key_terms": [
+            "中焦",
+            "素問",
+            "太陰陽明論"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 22,
+          "line_excerpt": "內經에 方劑에 대한 최초의 見解로써 君臣佐使論이 언급된 이후 醫學者들에 의하여 많은 發展을 이룩하여 지금에 이르고 있다.",
+          "key_terms": [
+            "內經",
+            "方劑",
+            "見解"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 23,
+          "line_excerpt": "初氣~三氣까지 司天이 지배할 때 異常氣候가 발생하면 勝氣라 칭하고, 四氣~終氣까지 在泉이 지배할 때 異常氣候가 발생하면 復氣라 칭함.",
+          "key_terms": [
+            "初氣",
+            "三氣",
+            "司天"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 24,
+          "line_excerpt": "(1) 望舌 診斷學的 根據 : ① 舌爲心之苗(心氣通於舌·心和則舌能知五味·心主血脈·舌에 脈絡 豊富·心血 上榮) ② 舌爲脾胃之外候(脾氣通於口·脾和則口能知五穀·脾胃 運化狀況 反映) ③ 舌은 經絡과 相互聯",
+          "key_terms": [
+            "望舌",
+            "診斷學的",
+            "根據"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 25,
+          "line_excerpt": "《素問·骨空論》에 “衝脈者, 起于氣街, 幷少陰之經251), 挾臍上行, 至胸中而散.(衝脈이라는 것은 氣街에서 일어나고 少陰의 經과 나란히 행하여 배꼽을 끼고 위로 행함에 胸中에 이르러 흩어진다.)”이",
+          "key_terms": [
+            "素問",
+            "骨空論",
+            "衝脈者"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 26,
+          "line_excerpt": "그러나 飮食, 起居, 情志 등의 要因에 의하여 正氣를 虛弱하게 할 수 있고, 抗病 能力이 떨어지면 邪氣가 날로 盛하여 邪勝正負하여 發病하게 된다. 예를 들어 王履는 “且夫傷于四氣, 有當時發病者, 有",
+          "key_terms": [
+            "飮食",
+            "起居",
+            "情志"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 27,
+          "line_excerpt": "- 陳藏器 : <本草拾遺> - “十劑說” 제시 : 宣 通 補 泄 輕 重 滑 澁 燥 濕",
+          "key_terms": [
+            "陳藏器",
+            "本草拾遺",
+            "十劑說"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 28,
+          "line_excerpt": "따라서 《脾胃論·脾胃虛則九竅不通論》에서는 “眞氣又名元氣, 乃先身生之精氣也, 非胃氣不能滋之.(眞氣는 元氣라고 하는데, 신체가 형성되기 전에 생성되는 精氣이다. 이는 胃氣가 아니면 滋養을 할 수가 없다",
+          "key_terms": [
+            "脾胃論",
+            "脾胃虛則九竅不通論",
+            "眞氣又名元氣"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 29,
+          "line_excerpt": "③ 飮食偏嗜 : ㉠ 飮食偏寒·偏熱 - 久而增氣 物化之常也 氣增而久 夭之由也 ㉡ 飮食五味偏嗜 :",
+          "key_terms": [
+            "飮食偏嗜",
+            "飮食偏寒",
+            "偏熱"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 30,
+          "line_excerpt": "四氣란 陰陽에 입각한 藥性의 分類體系로, 人體에 影響을 미치는 生理活動度를 대별하여 4가지로 표현한 것",
+          "key_terms": [
+            "四氣",
+            "陰陽",
+            "藥性"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "hp-01",
+            "deck.json"
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": "ch_상한온병",
+      "title": "상한 · 온병 (六經辨證·傳變·衛氣營血·三焦辨證)",
+      "sampled_lines": 30,
+      "before": {
+        "있음": 28,
+        "약함": 1,
+        "글로만": 0,
+        "없음": 1
+      },
+      "omission_rate_pct": 3.3,
+      "requires_full_ledger": false,
+      "after": {
+        "있음": 30,
+        "약함": 0,
+        "글로만": 0,
+        "없음": 0
+      },
+      "items": [
+        {
+          "sample_idx": 1,
+          "line_excerpt": "또한 寒邪가 肌表를 침습하면 衛陽이 저해되어 惡寒이 나타난다. 이것은 《傷寒論》의 太陽傷寒表實證과 같다. 寒邪가 직접 脾胃에 直中하면 腹脹, 脘腹冷痛, 嘔吐, 腹瀉 등이 나타나는데, 이것은 《傷寒論",
+          "key_terms": [
+            "寒邪",
+            "肌表",
+            "衛陽"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 2,
+          "line_excerpt": "무릇 調和와 和解작용을 총칭해서 和法이라고 한다. 주로 少陽病이 肝脾(胃)不和 등의 병증에 영향을 미친 것에 적용한다. 少陽病증은 邪가 半表半裏에 있어서 發汗과 攻下가 모두 서로 마땅한 치료법이 되",
+          "key_terms": [
+            "調和",
+            "和解",
+            "和法"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 3,
+          "line_excerpt": "韓醫學에서의 辨證方法은 다양하지만 임상적으로 주로 활용하는 것으로 八綱辨證, 臟腑辨證, 氣血津液辨證, 六經辨證, 衛氣營血辨證, 三焦辨證 등이 있으며 이들 辨證방법들은 각각 특징이 있고 診斷에서도 다",
+          "key_terms": [
+            "韓醫學",
+            "辨證方法",
+            "八綱辨證"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 4,
+          "line_excerpt": "- 吳瑭(鞠通) <溫病條辨> : 溫熱病의 三焦辨證論治理論을 발전시킴",
+          "key_terms": [
+            "吳瑭",
+            "鞠通",
+            "溫病條辨"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 5,
+          "line_excerpt": "少陽病은 太陽病의 表證과 다르고 陽明病의 裏證과 다른 中間類型으로 半表半裏證이다. 대개 太陽表邪가 外解하지 않고 表에서 裏로 들어가고, 寒에서 熱로 변화하여 半表半裏의 少陽病이 형성된다. 이른바 半",
+          "key_terms": [
+            "少陽病",
+            "太陽病",
+            "表證"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 6,
+          "line_excerpt": "少陰病은 주로 心腎의 陽氣가 虛衰하여 전신 기능이 극도로 쇠퇴한 虛寒證이다. 腎陽이 원래 虛하여 寒邪가 直中하거나, 혹은 他經 병변을 잘못 치료하거나 치료시기를 놓쳐서 心腎의 陽氣를 손상시키면 모두",
+          "key_terms": [
+            "少陰病",
+            "心腎",
+            "陽氣"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 7,
+          "line_excerpt": "2) 溫病學說 형성 (溫病=外感急性傳染性熱病·淵源 內經·難經·傷寒雜病論) : (1) 戾氣致病設-吳有性<溫疫論>(\"非風非寒非暑非濕乃天地間別有一種異氣所感\"·口鼻 감염·\"一病一氣說\") (2) 溫病學說-葉",
+          "key_terms": [
+            "溫病學說",
+            "溫病",
+            "外感急性傳染性熱病"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 8,
+          "line_excerpt": "太陽病 : 太陽之爲病 其脈浮 頭項强痛 而惡寒",
+          "key_terms": [
+            "太陽病",
+            "太陽之爲病",
+            "其脈浮"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 9,
+          "line_excerpt": "六經病證의 特點 : ① 太陽病(表寒 : 正氣旺盛·抵抗力 강한 발병 초기 단계) / 陽明病(裏熱裏實 : 正邪의 相爭이 亢盛한 상태) / 少陽病(邪가 半表半裏 : 太陽·陽明病의 중간 類型) / 太陰病(",
+          "key_terms": [
+            "六經病證",
+            "特點",
+            "太陽病"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 10,
+          "line_excerpt": "中焦의 部位는 일반적으로 橫膈膜 以下, 臍 以上의 中上腹部를 가리키는 것으로 脾와 胃의 두 臟腑를 의미한다. 解剖 部位에 따라 말하면, 肝은 마땅히 中焦에 속한다. 晋代 王叔和의 《脈經》에서는 肝은",
+          "key_terms": [
+            "中焦",
+            "部位",
+            "橫膈膜"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 11,
+          "line_excerpt": "한의학총강 스캔본 · contextual OCR  |  제9장 外感熱病 · 제1절 傷寒 · ▌3.陽明病 1)陽明熱證(白虎湯) 2)陽明實證(承氣湯類)·下法禁忌 3)陽明虛寒證(吳茱萸湯)  |  책 p.",
+          "key_terms": [
+            "外感熱病",
+            "傷寒",
+            "陽明病"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 12,
+          "line_excerpt": "예를 들면 太陽病 有汗일 때 活用하는 桂枝湯에서의 桂枝의 溫經散寒하는 作用이나 太陽病 無汗일 때 活用하는 麻黃湯에서의 麻黃의 發汗解表하는 作用이 여기에 속한다. 君藥을 處方構成 藥物中 藥量이 最多인",
+          "key_terms": [
+            "太陽病",
+            "有汗",
+            "活用"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 13,
+          "line_excerpt": "厥陰病 : 厥陰之爲病 消渴 氣上撞心 心中疼熱 飢而不欲食 食則吐蛔 下之利不止",
+          "key_terms": [
+            "厥陰病",
+            "厥陰之爲病",
+            "消渴"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 14,
+          "line_excerpt": "陽明病 : 陽明之爲病 胃家實也",
+          "key_terms": [
+            "陽明病",
+            "陽明之爲病",
+            "胃家實也"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 15,
+          "line_excerpt": "- 辨證방법 : 四診, 八綱, 氣血辨證, 臟腑辨證, 外感熱病辨證(六經, 衛氣營血, 三焦) 등",
+          "key_terms": [
+            "辨證",
+            "四診",
+            "八綱"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 16,
+          "line_excerpt": "少陰病은 보편적으로 병세가 심하고 寒化證은 더욱 危急하여 陽氣虛損이 심한 경우는 종종 예후가 불량하므로 옛사람들은 “陽存者生, 陽亡者死”라고 하였다. 少陰寒化證을 치료할 때에는 回陽救逆을 첫째로 하",
+          "key_terms": [
+            "少陰病",
+            "寒化證",
+            "危急"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 17,
+          "line_excerpt": "太陽病은 表證이다. 太陽經은 인체의 肌表를 주관하고, 營衛를 統攝하며 皮毛에 應한다. 外邪가 來襲하면 太陽經이 먼저 병을 받아서 惡寒發熱, 頭項强痛, 脈浮 등의 증상이 생기는데, 모두 太陽經의 병리",
+          "key_terms": [
+            "太陽病",
+            "表證",
+            "太陽經"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 18,
+          "line_excerpt": "⑤ 寒則氣收 ⇒ 寒則腠理閉(玄府寒) 氣不行 故氣收矣 ⇒ 寒氣가 傷皮하면 閉腠理하여 陽氣不通→表實無汗, 寒氣 直中하면 中陽不振→腹脹痛. -治法:寒者熱之(散寒·溫補). ※表寒-辛溫解表·發散風寒(桂枝湯)",
+          "key_terms": [
+            "寒則氣收",
+            "寒則腠理閉",
+            "玄府寒"
+          ],
+          "before_status": "약함",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 19,
+          "line_excerpt": "• 太陽病이 外解하지 않고 邪氣가 熱로 변화하여 안으로 들어가서, 하초에서 瘀血과 결합하면 蓄血證이 발생된다. 주요 證은 如狂 혹 심하면 發狂, 小便自利, 小腹急結 혹은 硬滿, 脈沈結 혹 微而沈 등",
+          "key_terms": [
+            "太陽病",
+            "外解",
+            "邪氣"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 20,
+          "line_excerpt": "혹은 寒邪가 過盛하여 裏部로 直中하여 양기를 損傷시키면 肌表를 따뜻하게 할 힘이 없어서 怕冷한 感覺이 나타나는 것이다. 이러한 때에 만약 옷을 더 입고, 불을 가까이 하여 陽氣가 耗散되는 것을 防止",
+          "key_terms": [
+            "寒邪",
+            "過盛",
+            "裏部"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 21,
+          "line_excerpt": "한의학총강 스캔본 · contextual OCR  |  제9장 外感熱病 · 제1절 傷寒 도입 + ▌1.太陽病 1)太陽中風(表虛)證 2)太陽傷寒(表實)證 3)兼證 (1)兼項背强直證  |  책 p.65",
+          "key_terms": [
+            "外感熱病",
+            "傷寒",
+            "太陽病"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 22,
+          "line_excerpt": "三焦辨證은 濕邪의 特性 및 三焦의 通調水道하는 기능적 특징에 의하여 확정",
+          "key_terms": [
+            "三焦辨證",
+            "濕邪",
+            "特性"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 23,
+          "line_excerpt": "제 3단계는 질병의 발생과 발전, 변화와 그 결과가 되는 기본규율을 硏究하는 것으로 예를 들면 六經傳變病機, 衛氣營血傳變病機, 三焦傳變病機 등이다.",
+          "key_terms": [
+            "硏究",
+            "六經傳變病機",
+            "衛氣營血傳變病機"
+          ],
+          "before_status": "없음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 24,
+          "line_excerpt": "少陰病 : 少陰之爲病 脈微細 但欲寐也",
+          "key_terms": [
+            "少陰病",
+            "少陰之爲病",
+            "脈微細"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 25,
+          "line_excerpt": "寒은 겨울의 주된 氣運으로, 氣溫이 비교적 낮은 겨울철이나 기온이 매우 낮을 경우, 인체의 防寒保溫能力이 충분하지 못하면 寒邪가 쉽게 침습하게 된다. 寒邪의 病은 傷寒과 中寒으로 나뉜다. 寒邪가 외",
+          "key_terms": [
+            "氣運",
+            "氣溫",
+            "防寒保溫能力"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 26,
+          "line_excerpt": "● 溫病의 一般特徵 : 1. 病因은 外感邪 / 2. 特殊한 臨床表現 - ① 熱象偏盛 ② 易化燥傷陰 ③ 易內陷營血 ④ 易發斑疹白㾆 ⑤ 易動風痙 / 3. 一定한 規律性 - ① 發病·傳變變化 ② 衛氣營血",
+          "key_terms": [
+            "溫病",
+            "一般特徵",
+            "病因"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 27,
+          "line_excerpt": "太陰病은 脾虛寒證이다. 三陽病의 치료가 적절치 못하여 脾陽이 손상되었거나, 체질적으로 脾陽이 不振한 경우에 寒邪가 직접 침범하여 太陰病이 발생한다. 주요 증후는 腹滿而吐, 食不下, 自利口不渴, 腹滿",
+          "key_terms": [
+            "太陰病",
+            "脾虛寒證",
+            "三陽病"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 28,
+          "line_excerpt": "또한 《傷寒論·太陽病脈症幷治》에서 이르기를 “病常自汗出者, 此爲營氣和. 營氣",
+          "key_terms": [
+            "傷寒論",
+            "太陽病脈症幷治",
+            "病常自汗出者"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 29,
+          "line_excerpt": "한의학에서의 外感病에 대한 인식과 치료는 각자의 처한 시대적 배경과 임상경험의 차이로 말미암아 크게 두 가지 관점으로 발전해 왔다. 첫째는 漢代 張仲景이 傷寒의 특징에 근거하고 前人의 경험 기초 위",
+          "key_terms": [
+            "外感病",
+            "漢代",
+            "張仲景"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 30,
+          "line_excerpt": "太陰病 : 太陰之爲病 腹滿而吐 食不下 自利益甚 時腹自痛 若下之 必胸下結硬",
+          "key_terms": [
+            "太陰病",
+            "太陰之爲病",
+            "腹滿而吐"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-14",
+            "deck.json"
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_id": "ch_변증",
+      "title": "변증 (八綱辨證·氣血津液辨證·臟腑辨證)",
+      "sampled_lines": 30,
+      "before": {
+        "있음": 28,
+        "약함": 0,
+        "글로만": 0,
+        "없음": 2
+      },
+      "omission_rate_pct": 6.7,
+      "requires_full_ledger": false,
+      "after": {
+        "있음": 30,
+        "약함": 0,
+        "글로만": 0,
+        "없음": 0
+      },
+      "items": [
+        {
+          "sample_idx": 1,
+          "line_excerpt": "《素問·陰陽應象大論》에서 肺를 “在志爲憂”라고 하여, 憂는 肺의 志가 된다고 하였다. 《素問·陰陽應象大論》과 《天元紀大論》에 기재되어 있는 것을 근거로 보면 悲憂는 모두 肺의 志에 속한다. 悲는 슬",
+          "key_terms": [
+            "素問",
+            "陰陽應象大論",
+            "在志爲憂"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 2,
+          "line_excerpt": "• 便閉 : 腑熱液燥로 大腸의 傳導가 難澁하거나, 氣虛하여 大腸의 傳導가 無力하여 발생한다.",
+          "key_terms": [
+            "便閉",
+            "腑熱液燥",
+            "大腸"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 3,
+          "line_excerpt": "D0|7) 瘀血 : 體內의 一定部位에 非生理的인 血液이 停滯 ⇒ 血瘀의 病理産物",
+          "key_terms": [
+            "瘀血",
+            "體內",
+            "一定部位"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 4,
+          "line_excerpt": "消法은 비록 下法처럼 峻猛하지는 않지만, 적절히 使用하지 못하거나, 혹은 잘못하여 病機를 위태롭게 하여 극단적으로 변화할 수 있으므로 臨床에서 應用함에 있어 아래의 몇 가지 사항에 주의하여야 한다.",
+          "key_terms": [
+            "消法",
+            "下法",
+            "峻猛"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 5,
+          "line_excerpt": "氣虛 | 神疲乏力, 少氣懶言, 氣短聲低, 自汗, 脈軟無力 | 推動 및 固攝기능 감퇴(氣不足) | 陽虛는 溫煦機能감퇴 (氣虛가 甚해진 상태)",
+          "key_terms": [
+            "氣虛",
+            "神疲乏力",
+            "少氣懶言"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 6,
+          "line_excerpt": "心의 주요 생리기능은 《素問·痿論》의 “心主身之血脈.(心은 몸의 血脈을 主管한다.)”과 《素問·靈蘭秘典論》의 “心者, 君主之官, 神明出焉”에 나타나 있다. 지금까지 계속되어 온 心의 생리기능은 다음",
+          "key_terms": [
+            "素問",
+            "痿論",
+            "心主身之血脈"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 7,
+          "line_excerpt": "脣은 脾의 外候로 陽明經이 口脣을 에워싸고 유주하기 때문에 脣을 望診함으로써 脾와 胃의 病變을 관찰 할 수 있다. 望脣時에 色이나 潤燥의 有無 및 形態 등의 변화를 주의하여 관찰해야 한다. 예를 들",
+          "key_terms": [
+            "外候",
+            "陽明經",
+            "口脣"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 8,
+          "line_excerpt": "血熱로 인하여 肝不藏血하거나 疏泄이 太過하게 되면 熱이 血海를 어지럽히고 血을 追動시켜 妄行하게 된다. 또는 氣虛로 脾不統血하여 衝任脈이 固攝機能을 잃게 되면, 月經이 빨리 오고 血量이 과다하게 되",
+          "key_terms": [
+            "血熱",
+            "肝不藏血",
+            "疏泄"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 9,
+          "line_excerpt": "1) 汗下倂用(內外壅實·表裏 모두 急) 2) 溫淸倂用(上熱下寒·上寒下熱) 3) 攻補倂用(下法 제때 못 써 正氣虛 邪氣實) 4) 消補倂用(消導法+補益法·脾胃虛 消化不良·食積停滯→枳實消痞丸)",
+          "key_terms": [
+            "汗下倂用",
+            "內外壅實",
+            "表裏"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 10,
+          "line_excerpt": "(2) 氣病의 實證病機 (氣鬱 - 氣滯 - 氣逆 - 氣陷 와 氣閉·氣脫) — 氣逆은 肺胃肝에서 많이 보임 : 肺氣上逆(咳喘)·胃氣上逆(呃逆·噯氣·嘔吐)·肝氣上逆(頭痛·眩暈·吐血·昏厥 ; 情志刺戟이나",
+          "key_terms": [
+            "氣病",
+            "實證病機",
+            "氣鬱"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 11,
+          "line_excerpt": "● 腎病의 분류 : ① 腎의 精氣不足 - 腎精虧虛·腎氣不固 ② 腎의 陰陽失調 - 腎陰虧虛·腎陽虛損·命門相火의 過亢",
+          "key_terms": [
+            "腎病",
+            "精氣不足",
+            "腎精虧虛"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 12,
+          "line_excerpt": "③ 氣滯證 : 인체 氣機가 鬱滯하여 운행이 不暢한 證候",
+          "key_terms": [
+            "氣滯證",
+            "氣機",
+            "鬱滯"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 13,
+          "line_excerpt": "함께 나타나면 脾虛頭痛 이다. 무릇 두통이 찌르는 것과 같으면서, 일정한 부위에만 나타나면 血瘀頭痛이고, 頭痛이 머리를 싸맨 듯 하고 구토와 眩暈증상이 있으면 痰濁頭痛이다. 頭部에 脹痛이 있으면서 ",
+          "key_terms": [
+            "脾虛頭痛",
+            "血瘀頭痛",
+            "頭痛"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 14,
+          "line_excerpt": "① 氣滯 : 어느 부위에 氣機가 失暢, 阻滯됨 ⇒ 疏通",
+          "key_terms": [
+            "氣滯",
+            "氣機",
+            "失暢"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 15,
+          "line_excerpt": "孫一奎는 心包를 하나의 독립된 臟器로 인식하지 않았고, 《醫旨緒餘·問心包絡何以不得爲臟》에서 “心包絡乃包心之脂膜, 實不離乎心也. … 以其質無特形, 是故不得爲特臟也.(心包絡은 心을 둘러싸고 있는 脂膜이",
+          "key_terms": [
+            "孫一奎",
+            "心包",
+            "臟器"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 16,
+          "line_excerpt": "└ 絡 : 十二經脈이 각기 表裏를 이루는 臟腑와 이어지는 것",
+          "key_terms": [
+            "十二經脈",
+            "表裏",
+            "臟腑"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 17,
+          "line_excerpt": "즉 腹水로 인해 腹部가 膨滿하고 정맥류 현상과 大小便不利등의 氣血이 鬱結된 實證이 나타나고 身瘦, 食欲滅退와 함께 원기부족으로 懶言하며 脈은 細한 脾氣虛弱證이 함께 나타난다.",
+          "key_terms": [
+            "腹水",
+            "腹部",
+            "膨滿"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 18,
+          "line_excerpt": "(1) 氣病의 虛證病機 (氣虛 - 氣陷 - 氣脫)",
+          "key_terms": [
+            "氣病",
+            "虛證病機",
+            "氣虛"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 19,
+          "line_excerpt": "[陽] 氣(溫凉寒熱) / 氣厚者 陽中之陽 → 發熱(浮) / 氣薄者 陽中之陰 → 發泄(降) / 辛甘(發散) / 淡(滲泄) / 輕淸升浮 / 陽氣出上竅 / 淸陽發腠理 / 淸陽實四肢",
+          "key_terms": [
+            "溫凉寒熱",
+            "氣厚者",
+            "陽中之陽"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 20,
+          "line_excerpt": "대부분 生冷한 것을 과식하여 胃腑의 陽氣가 損傷되거나, 脾陽이 虛하여 胃腑에 영향을 미치거나, 원래 몸이 陽虛한데 寒에 中되어 陽虛하게 되는 등의 원인에 의하여 胃寒이 나타난다. 胃寒하면 水穀을 腐",
+          "key_terms": [
+            "生冷",
+            "胃腑",
+            "陽氣"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 21,
+          "line_excerpt": "血瘀는 血液循環이 느리고 流通이 막혀 不暢된 것을 가리키는 것으로 심하면 血液이 凝結되어서 血瘀를 形成시킨다. 이것은 氣機가 鬱滯되어 血行이 障碍를 받거나, 氣虛하여 行血이 無力하거나, 痰濁이 脈道",
+          "key_terms": [
+            "血瘀",
+            "血液循環",
+            "流通"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 22,
+          "line_excerpt": "참고) 胃腸病은 表裏가 없다(이미 裏證만이 존재) : 寒(消化 잘 안 됨·飮食物 節制) / 熱(消化 잘 됨·胃의 津液이 熱에 마름) / 虛(만져주면 便安) / 實(胃 그득함·눌러주면 아픔)",
+          "key_terms": [
+            "胃腸病",
+            "表裏",
+            "裏證"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 23,
+          "line_excerpt": "정상적인 상황에서는 脾氣升淸하면 血氣生化之源이 있게 되어 비로소 인체는 生機를 가지게 된다. 만약 脾氣虛弱하여 升淸하지 못하면 氣血生化之源이 없게 되어 神疲乏力, 頭昏目眩, 腹脹, 泄瀉 등의 증상이",
+          "key_terms": [
+            "脾氣升淸",
+            "血氣生化之源",
+            "生機"
+          ],
+          "before_status": "없음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 24,
+          "line_excerpt": "心下痞硬, 嘔逆, 腸鳴, 下利 등이 주요 임상표현으로 나타난다. 脾胃가 虛弱한데다 邪熱이 壅滯하여 心下痞硬하고, 胃氣가 不和하여 升降이 정상적이지 못하므로써 嘔逆, 腸鳴, 下利가 생긴다. 또한 邪熱",
+          "key_terms": [
+            "心下痞硬",
+            "嘔逆",
+            "腸鳴"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 25,
+          "line_excerpt": "한의학총강 스캔본 · contextual OCR  |  제7장 病機學說 · 제3절 氣血失調 · (3)氣陷(계속) (4)氣閉와 氣脫 + ▌2.血의 失常 1)血虛 2)血瘀  |  책 p.576–577 ",
+          "key_terms": [
+            "病機學說",
+            "氣血失調",
+            "氣陷"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 26,
+          "line_excerpt": "心血瘀阻는 “心脈痺阻”라고도 한다. 이것은 血液運行이 停滯되고 心脈이 막히는 병변을 의미한다. 心血瘀阻는 心陽, 心氣의 虛衰로 血脈이 막혀 형성되고 心血瘀阻를 초래한다. 또한 痰濁凝聚하여 血脈이 鬱",
+          "key_terms": [
+            "心血瘀阻",
+            "心脈痺阻",
+            "血液運行"
+          ],
+          "before_status": "없음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "cards_draft.tsv"
+          ]
+        },
+        {
+          "sample_idx": 27,
+          "line_excerpt": "※ 虛火上浮 : 虛火有四 陽虛·氣虛·血虛·陰虛也",
+          "key_terms": [
+            "虛火上浮",
+            "虛火有四",
+            "陽虛"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 28,
+          "line_excerpt": "奇經과 正經의 차이는 주로 분포와 작용에 있다. 奇經의 분포는 十二正經 양상의 규칙과 비슷하지 않고, 五臟六腑에도 직접적인 絡屬이 없다(겨우 督脈이 “屬腎”, “貫心”하고 있음). 또한 상호 表裏關",
+          "key_terms": [
+            "奇經",
+            "正經",
+            "奇經"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 29,
+          "line_excerpt": "특히 “宗氣”의 생성은 肺가 흡입한 淸氣와 밀접한 관련이 있다. 그러므로 만약 肺의 호흡 기능이 失常 되었을 때는 宗氣의 생성뿐만 아니라 全身의 각종 氣의 생성에 영향을 미쳐 氣虛의 병변에 이르게 ",
+          "key_terms": [
+            "宗氣",
+            "淸氣",
+            "失常"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        },
+        {
+          "sample_idx": 30,
+          "line_excerpt": "※ 表證의 가장 주요한 症狀은? 惡寒發熱. cf) 半表半裏證 : 口苦·咽乾·目眩·寒熱往來·胸脇苦滿·心煩喜嘔·默默不欲飮食 = '正邪相持'",
+          "key_terms": [
+            "表證",
+            "症狀",
+            "惡寒發熱"
+          ],
+          "before_status": "있음",
+          "after_status": "있음",
+          "assigned_vessel": [
+            "zds-13",
+            "deck.json"
+          ]
+        }
+      ]
+    }
+  ]
+}

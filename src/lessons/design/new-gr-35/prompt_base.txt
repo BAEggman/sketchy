@@ -1,0 +1,8 @@
+A wide 16:9 landscape 2D cartoon illustration in the style of Sketchy Medical: bold black ink outlines, flat bright colors, simple clear shapes, plenty of empty space between objects. Every object is drawn LARGE.
+Scene: 열두 띠 해시계 광장 — 방석 위 띠 짐승 열둘과 경락 인물이 만나는 시계 광장.
+1. (Zone 1): 구역 #1의 경락 정본 인물과 상징 소품 (寅(3~5시) 肺 → 卯(5~7시) 大腸 → 辰(7~9시) 胃 → 巳(9~11시) 脾).
+2. (Zone 2): 구역 #2의 경락 정본 인물과 상징 소품 (午(11~13시) 心 → 未(13~15시) 小腸 → 申(15~17시) 膀胱 → 酉(17~19시) 腎).
+3. (Zone 3): 구역 #3의 경락 정본 인물과 상징 소품 (戌(19~21시) 心包 → 亥(21~23시) 三焦 → 子(23~1시) 膽 → 丑(1~3시) 肝).
+4. (Zone 4): 구역 #4의 경락 정본 인물과 상징 소품 (脈長: 手三陰 3尺5寸(가장 짧음) · 手三陽 5尺 · 足三陰 6尺5寸 · 足三陽 8尺(가장 긺)).
+5. (Zone 5): 구역 #5의 경락 정본 인물과 상징 소품 (氣血多少: 多氣多血 = 陽明(大腸·胃) / 少氣多血 = 太陽(小腸·膀胱)·厥陰(心包·肝) / 多氣少血 = 太陰(肺·脾)·少陰(心·腎)·少陽(三焦·膽)).
+No text, no letters, no numbers, no signs, no labels, no writing anywhere in the image.

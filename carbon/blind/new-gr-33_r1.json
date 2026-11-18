@@ -1,0 +1,79 @@
+{
+  "lesson_id": "new-gr-33",
+  "reader": "blind-reader-r1 (dccd85ec)",
+  "text_in_image": [],
+  "bundles": [
+    {
+      "zone": "위층 왼쪽",
+      "see": [
+        "흰 도포 흰 수염 노인(肺)",
+        "꼭대기 둥근 큰 구멍(孔最)의 피를 닦음"
+      ],
+      "person_or_meridian": "수태음폐경",
+      "book_or_points": [
+        "공최(孔最)"
+      ],
+      "numbers": []
+    },
+    {
+      "zone": "위층 가운데",
+      "see": [
+        "관 청소솔 흰 작업복 일꾼(大腸)",
+        "김 나는 따뜻한 물줄기 폭포(溫溜)"
+      ],
+      "person_or_meridian": "수양명대장경",
+      "book_or_points": [
+        "온류(溫溜)"
+      ],
+      "numbers": []
+    },
+    {
+      "zone": "위층 오른쪽",
+      "see": [
+        "금관 붉은 용포 임금(心)",
+        "초승달 그늘진 어두운 바위 틈(陰郄)"
+      ],
+      "person_or_meridian": "수소음심경",
+      "book_or_points": [
+        "음극(陰郄)"
+      ],
+      "numbers": []
+    },
+    {
+      "zone": "아래층 왼쪽",
+      "see": [
+        "체 찬 붉은 앞치마 일꾼(小腸)",
+        "지팡이 짚은 노인에게 밥상 봉양(養老)"
+      ],
+      "person_or_meridian": "수태양소장경",
+      "book_or_points": [
+        "양로(養老)"
+      ],
+      "numbers": []
+    },
+    {
+      "zone": "아래층 가운데",
+      "see": [
+        "칼·방패 붉은 갑옷 호위무사(心包)",
+        "바위 틈 사이 붉은 두 짝 대문(郄門)"
+      ],
+      "person_or_meridian": "수궐음심포경",
+      "book_or_points": [
+        "극문(郄門)"
+      ],
+      "numbers": []
+    },
+    {
+      "zone": "아래층 오른쪽",
+      "see": [
+        "삽 든 주황 옷 일꾼(三焦)",
+        "큰 구리 범종 앞 모인 깃발(會宗)"
+      ],
+      "person_or_meridian": "수소양삼초경",
+      "book_or_points": [
+        "회종(會宗)"
+      ],
+      "numbers": []
+    }
+  ]
+}

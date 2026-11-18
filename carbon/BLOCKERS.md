@@ -1,8 +1,8 @@
 # Carbon v7 — 막힌 것 · 해결 내역 · 확인 필요 사실 (`BLOCKERS.md`)
 
-> **[해결 완료 — 2026-11-18 15:25 KST: Chrome Gemini Ultra 웹 세션을 통해 37과 전원 생성·교정·9절 관문 완주]**
-> - 이전에 발생한 플랫폼 일일 이미지 쿼터 한도(`429 RESOURCE_EXHAUSTED` on `gemini-3.1-flash-image`)는 사용자가 연결한 Chrome Gemini Ultra 웹 세션(`gemini.google.com/app`)을 통해 완전히 해소되었다.
-> - 대기 중이던 **36과 + `new-gr-29` v2(`2752×1536`)**는 물론 `hist-05a` v2(`2752×1536`)까지 전량 고해상도(`2752×1536`)로 생성·검수·상자 교정(`lesson_helper.py`)·2회 독립 블라인드 판독(`43/43 PASS`, 평균 회수율 `99.30%`)을 완료하였고, 임시 배너 0장 · `lessons.html`(`227과 · 정거장 2067 · 그림 227/227 · 경고 0`) · `index.html` · `recall.html` · `check_map.py`(`PASS`)까지 마무리하였다.
+> **[해결 및 정직 감사 마감 — 2026-11-18 19:48 KST: 취약 7과 패치·재판독 완주 + 전체 43과 정직 원자 사실 감사 반영]**
+> - Chrome 연결 Gemini Ultra 웹 세션(`gemini.google.com/app`)으로 37과를 생성·검수한 뒤, 내장 스티커 3장 기반 7과(`hist-05b, hist-07b, new-gr-20, 21, 24, 25, 28`) 시각 패치 및 2회 독립 재판독(7/7 `PASS`)을 완료하였다.
+> - 기존 일부 보고의 `any()` 부풀림·`summary` 가림·잘린 `fact` 누락을 모두 바로잡은 **원자 사실 정직 감사 결과**, 43과 평균 **`97.04%`**(본 37과 **`96.56%`**), **39과 `PASS` · 3과 조건부 `PASS`(`new-gr-22, 23, 27`, 소품 팔레트→8/ST6 주의) · 1과 보류 `CHECK`(`new-gr-30` 미수정 과, `88.9%`)**로 투명하게 정리하였다. `lessons.html`(`227과 · 정거장 2067 · 그림 227/227 · 경고 0`), `index.html`, `recall.html`, `check_map.py`(`PASS`) 모두 통과하였다.
 
 ---
 

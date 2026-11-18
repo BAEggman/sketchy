@@ -65,3 +65,9 @@
   3. 단계 E 16극혈 노래 가사(`carbon/songs/geuk_16.md`) 및 그림 밖 사실 빈칸 카드 초안 58장(`carbon/cards_draft.tsv`) 작성.
   4. 단계 F 타 단원 11개 장 무작위 30줄 표본(330줄) 감사(`carbon/ledger/other_chapters_audit.json`) 완료 — 전 장 누락률 15% 미만(3.3%~13.3%, 평균 6.1%) 확인 및 미수록 표본 항목 전수 카드 초안 보강(`after` 누락 0).
   5. 단계 G 화질 보고서(`carbon/UPSCALE.md`), `build_player.py`(`227과 · 정거장 2067 · 경고 0`), `check_map.py`(`PASS`), Git 번들(`out/sketchy_carbon-v7.bundle`), 사용자 안내서 2종(`out/올리는법.md`, `out/사용자_시험안내.md`), 최종 보고서(`carbon/CARBON_REPORT.md`) 작성 완료.
+
+---
+
+## [2026-11-18 12:22 KST] 쿼터 전환 후 재개 점검 — `new-gr-29` v1 생성 및 `keys` 보강
+- **완료**: 舍岩 ⑪ 足少陽膽經(`new-gr-29`) v1 전용 일러스트(`1376×768`)를 `masters/new-gr-29/final.png` · `images/lessons/new-gr-29.webp`(189KB)로 반영하고, 정거장 상자 6개(모두 짧은 변 ≥ 240px) 및 단서 크롭·2회 독립 판독(`96ee3dd4`, `bf6a81a4`: 글자/숫자 0건, 정본 膽 판관 확정)을 마쳤다. 아울러 `carbon/keys/new-gr-20..30.md`에 공용 사암 찬장 부호표를, `keys/{mer-10,new-gr-07,new-gr-13}.md`를 추가 보완하고 `lessons.html`과 `index.html`을 재빌드하였다.
+- **중단 사유**: 이어서 호출한 사암 10과+`new-gr-32` 배치(`image-generator` 4개)에서 내장 `gemini-3.1-flash-image` 429 쿼터 상한에 재도달(`quotaResetTimeStamp: 2026-11-18T05:25:59Z` = **한국 시간 14:25:59**, `.env` 미생성). 리셋 이후 또는 `.env` 설정 뒤 남은 36과 + `new-gr-29` v2 구역 편집을 이어서 생성한다.

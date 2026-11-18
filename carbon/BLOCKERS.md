@@ -1,13 +1,16 @@
 # Carbon v7 — 막힌 것 · 확인 필요 사실 · 사용자 검토 목록 (`BLOCKERS.md`)
 
-> **[11절 멈추는 조건 기록 — AI 그림 생성 한도 도달 및 `.env` 미설정 (2026-11-17)]**
+> **[11절 멈추는 조건 기록 — 쿼터 전환 후 `new-gr-29` 1장 생성 뒤 `gemini-3.1-flash-image` 429 재도달 (2026-11-18 12:18 KST)]**
 > - **이유**:
->   1. 작업 폴더에 사용자가 `.env`(`GEMINI_API_KEY`)를 만들지 않아(`START_HERE.md` 참고, `.env.example`만 존재), 외부 유료 API 도구(`tools/gen_image.py`, `tools/blind_read.py`)는 호출할 수 없었다.
->   2. 이에 따라 Antigravity 내장 `image-generator` 서브에이전트(`gemini-3.1-flash-image`)로 단계 A의 숫자 원판(`masters/_codes/numbers.png`)과 파이프라인 시험 그림 3장(`masters/_test/base.png`, `edit_a.png`, `edit_b_pasted.png`)을 생성했으나, 단계 C 시범 과 그림 생성 진입 시점에 플랫폼 쿼터 상한(`429 Too Many Requests: RESOURCE_EXHAUSTED / QUOTA_EXHAUSTED on gemini-3.1-flash-image`, 리셋 대기 4시간 16분)에 도달했다.
-> - **지시서 11절에 따른 조치**:
->   - 지시서 11절(「이미지 호출 상한 · 예산 도달. 그림만 멈추고 글 · 도해 · 장부 작업은 끝까지 한다」 / 「API 키가 없거나 거부됨. 그림과 판독만 멈추고 단계 B · E의 그림 없는 작업은 한다」)에 따라, **AI 신규 그림 생성만 멈추고 단계 B · C · D · E · F · G의 모든 글 · 설계서(`design.md`) · 영문 프롬프트(`prompt_base.txt`) · 과 JSON(`src/lessons/l/*.json` 227과 전체 `attrs`·`tts`) · 문항(`carbon/questions/*.json`) · 열쇠(`carbon/keys/*.md`) · 코드 도해 4장 + `s18d07` 교정 도해 · 노래 가사(`carbon/songs/geuk_16.md`) · 카드 초안(`carbon/cards_draft.tsv`) · 타 단원 전수/표본 누락 장부(단계 F) · 기존 화질 분석(`carbon/UPSCALE.md`) · 재생기 빌드(`lessons.html` 경고 0) · 번들(`out/sketchy_carbon-v7.bundle`)을 100% 완수**하였다.
-> - **다음에 할 일 (쿼터 리셋 후 또는 `.env`에 `GEMINI_API_KEY` 입력 후)**:
->   - `python3 sketchy/src/lessons/tools/carbon/run_pending_images.py` 한 줄을 실행하면 이미 작성된 과별 `src/lessons/design/<id>/prompt_base.txt`와 `carbon/keys/<id>.md`를 읽어 새 그림 생성 → WebP 변환 → 상자 그림 생성 → 2회 독립 판독(`blind_read.py`) → `lessons.html` 재빌드까지 자동으로 끝난다.
+>   1. 작업 폴더에 사용자가 `.env`(`GEMINI_API_KEY`)를 아직 두지 않아(`START_HERE.md` 참고, `.env.example`만 존재), 외부 API 도구(`tools/gen_image.py`, `tools/blind_read.py`)는 호출할 수 없었다.
+>   2. 사용자가 내장 모델 쿼터를 전환한 직후 **舍岩 ⑪ 足少陽膽經(`new-gr-29`) v1 그림 1장(`1376×768`)**을 새로 생성해 `masters/new-gr-29/final.png` · `images/lessons/new-gr-29.webp` · 상자 교정(6개 정거장 모두 짧은 변 ≥ 240px) · 2회 독립 판독(`96ee3dd4`, `bf6a81a4`)까지 완료했으나, 곧바로 이어진 사암 20~30 · `new-gr-32` 생성 호출(병렬 4개 서브에이전트)에서 다시 플랫폼 쿼터 상한(`429 RESOURCE_EXHAUSTED on gemini-3.1-flash-image`, 리셋 시각 **`2026-11-18T05:25:59Z` = 한국 시간 14:25:59**)에 도달하였다.
+> - **이번 재개에서 추가로 완료한 작업**:
+>   - `new-gr-29` v1 전용 그림 반영(기존 회색 임시 배너 대체) 및 상자·단서 크롭(`images/cues/new-gr-29/*.webp`) 갱신
+>   - 사암 전체 열쇠 파일(`carbon/keys/new-gr-20..30.md`)에 공용 **舍岩 찬장·대장간 부호** 보완
+>   - `mer-10`, `new-gr-07`, `new-gr-13` 열쇠 파일(`carbon/keys/*.md`) 생성
+>   - `lessons.html`(227과 · 정거장 2,067 · 그림 227/227 · 경고 0) 및 허브(`index.html`) 재빌드
+> - **다음에 할 일 (한국 시간 14:26 이후 쿼터 리셋 뒤 또는 `.env`에 `GEMINI_API_KEY` 입력 후)**:
+>   - 남은 **36개 임시 배너 과** + `new-gr-29` v2 구역 편집(왼쪽 가운데 `商陽` 봇짐·오른쪽 가운데 해 보완)을 이어서 생성하고 9절 자동 판독을 완료한다.(`.env`가 있으면 `python3 sketchy/src/lessons/tools/carbon/run_pending_images.py` 한 줄로 자동 완주 가능)
 
 ---
 

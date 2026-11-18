@@ -1,5 +1,5 @@
 {
-  "stage": "DONE",
+  "stage": "PAUSED_ON_IMAGE_QUOTA_RESET_1426KST",
   "done": [
     "stage-A",
     "stage-B",
@@ -7,15 +7,16 @@
     "stage-D-json-designs-prompts",
     "stage-E-diagrams-song-cards",
     "stage-F-other-chapters-audit-and-luju-6",
-    "stage-G-upscale-build-bundle-report"
+    "stage-G-upscale-build-bundle-report",
+    "new-gr-29-v1-generated-boxed-blindread"
   ],
-  "in_progress": null,
+  "in_progress": "remaining 36 placeholder lessons + new-gr-29 v2 polish (gemini-3.1-flash-image resets 2026-11-18T05:25:59Z / 14:25:59 KST)",
   "next": [
-    "optional: run python3 sketchy/src/lessons/tools/carbon/run_pending_images.py after setting .env or quota reset for remaining 37 new lesson images"
+    "Resume batch image-generator for new-gr-20..28,30, new-gr-29 v2 edit, hist-01a..08b, new-gr-32, 34..47 after 14:26 KST reset or after setting .env GEMINI_API_KEY"
   ],
-  "image_calls": 17,
-  "blind_read_calls": 15,
-  "est_usd": 1.51,
+  "image_calls": 18,
+  "blind_read_calls": 17,
+  "est_usd": 1.59,
   "actual_api_usd": 0.0,
-  "updated": "2026-11-18T09:44:30+09:00"
+  "updated": "2026-11-18T12:22:00+09:00"
 }

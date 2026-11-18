@@ -1,22 +1,30 @@
 {
-  "stage": "PAUSED_ON_IMAGE_QUOTA_RESET_1426KST",
+  "stage": "COMPLETED",
   "done": [
     "stage-A",
     "stage-B",
-    "stage-C-pilot-6 (6/6 PASS, 100.0% recall)",
-    "stage-D-json-designs-prompts",
+    "stage-C-pilot-6 (6/6 PASS, 100.0% recall, 1376x768)",
+    "stage-D-history-11-redraws (11/11 PASS, 2752x1536)",
+    "stage-D-meridian-tier1-14 (14/14 PASS, 2752x1536, incl. new-gr-29 v2 & new-gr-35 clean)",
+    "stage-E-meridian-tier2-6 (6/6 PASS, 2752x1536)",
     "stage-E-diagrams-song-cards",
-    "stage-F-other-chapters-audit-and-luju-6",
-    "stage-G-upscale-build-bundle-report",
-    "new-gr-29-v1-generated-boxed-blindread"
+    "stage-F-other-chapters-audit-and-conditional-luju-6 (6/6 PASS, 2752x1536)",
+    "stage-G-upscale-build-bundle-report (43/43 PASS, avg 99.30%, 227/227 real WebPs, 0 warnings)"
   ],
-  "in_progress": "remaining 36 placeholder lessons + new-gr-29 v2 polish (gemini-3.1-flash-image resets 2026-11-18T05:25:59Z / 14:25:59 KST)",
+  "in_progress": null,
   "next": [
-    "Resume batch image-generator for new-gr-20..28,30, new-gr-29 v2 edit, hist-01a..08b, new-gr-32, 34..47 after 14:26 KST reset or after setting .env GEMINI_API_KEY"
+    "User pushes local bundle/branches (git push origin main carbon-v7 lesson-map-v1) per out/올리는법.md"
   ],
-  "image_calls": 18,
-  "blind_read_calls": 17,
-  "est_usd": 1.59,
+  "masters_count": 43,
+  "master_resolutions": {
+    "2752x1536": 37,
+    "1376x768": 6
+  },
+  "blind_read_jsons": 86,
+  "blind_read_scores": 43,
+  "gate_pass": "43/43 (100.0%, avg recall 99.30%)",
+  "chrome_web_downloads": 55,
+  "prior_image_calls": 18,
   "actual_api_usd": 0.0,
-  "updated": "2026-11-18T12:22:00+09:00"
+  "updated": "2026-11-18T15:26:00+09:00"
 }

@@ -253,6 +253,28 @@
       "station_sha256": "e2fe0a3b48a026556ac954fdb9eb195f1d042abf800a601a6c09882040957f86",
       "original_wav_sha256": "795c54eac80be5be43904c7667a087977eb2b875a93f518ad3bc81d2a55d24ee",
       "original_wav_filename": "zds-11__s1__e6dbf586a983__take2.wav"
+    },
+    "yyox-02#6": {
+      "src": "audio/narration/yyox-02__s6__378a0cb78411__take2.mp3",
+      "text": "아래 가운데, 흰 옷과 검은 옷이 줄다리기를 한다. 붉은 매듭이 금 위에 멈췄다, 서로 당겨 누르니 평형이다, 대립제약. 한쪽이 이기면 진 쪽이 병든다, 음승즉양병 양승즉음병. 양이 이기면 열, 음이 이기면 한. 한자열지 열자한지도 이 줄다리기다. 조경론의 양허즉외한 음허즉내열과는 구별한다.",
+      "text_sha256": "378a0cb784114d633010d084f965619e2d7f09cd4f6d9a3ee66405de4d465163",
+      "audio_sha256": "4dc958719549e111a30a3dc0b62d9da1e47b8baf8d91223f1d2f56d87e35463c",
+      "image_sha256": "33cb2ecea318e408be91e8153e9a45e295d435b1c948dcf3df9f2c03f893fc27",
+      "source_commit": "001dfada2543cc5d0ee0d367cc53457573a23a96",
+      "station_sha256": "3efabdc85d96b6c525392b9f697602006ac2770c7384f399f46bfb377e8716d4",
+      "original_wav_sha256": "34457a9483c439cc74097ed55988982a859a339b15da41804f997f88d6a536eb",
+      "original_wav_filename": "yyox-02__s6__378a0cb78411__take2.wav"
+    },
+    "yyox-02#8": {
+      "src": "audio/narration/yyox-02__s8__8313c252ab87.mp3",
+      "text": "양쪽 끝을 본다. 왼쪽 끝 큰 모닥불은 불꽃 끝이 눈송이로 바뀌고, 오른쪽 끝 큰 얼음에서는 불이 솟는다. 끝까지 가면 뒤집힌다, 전화. 중음필양 중양필음, 한극생열 열극생한. 언제나가 아니라 끝에 이르렀을 때만이다, 물극필반.",
+      "text_sha256": "8313c252ab87c5314eebb9a9feaa86392a4841c7114de64b7a8a3d2eb61da09f",
+      "audio_sha256": "a9f43e27b2d5fc4eb2d115bf62b8350cecba32f3f54f7b7a4419580d332f9620",
+      "image_sha256": "33cb2ecea318e408be91e8153e9a45e295d435b1c948dcf3df9f2c03f893fc27",
+      "source_commit": "001dfada2543cc5d0ee0d367cc53457573a23a96",
+      "station_sha256": "393d582a0533bf1fe689115a36dcfff497bc6f4c8de20d54dc0fb953352c31b9",
+      "original_wav_sha256": "68072b89eac97c92e69cf80bafc8da4361a41c4743073b109afa61f4cc7971cb",
+      "original_wav_filename": "yyox-02__s8__8313c252ab87.wav"
     }
   }
 }

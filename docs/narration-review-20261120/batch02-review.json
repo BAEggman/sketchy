@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-20",
+  "base_commit": "001dfada2543cc5d0ee0d367cc53457573a23a96",
+  "existing_recordings_verified": 23,
+  "existing_hash_checks": "pass",
+  "build": "227 lessons, 2067 stations, 227 images; see build output",
+  "sources": [
+    "https://contents.kocw.net/KOCW/document/2015/pusan/lyujeongah/10.pdf",
+    "https://ctext.org/wiki.pl?chapter=994030&if=gb",
+    "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001769866"
+  ],
+  "records": [
+    {
+      "card_id": "yyox-02#0",
+      "narration": "언덕 하나가 가운데 금으로 갈렸다. 왼쪽 볕 든 쪽이 양, 오른쪽 그늘진 쪽이 음, 글자부터 언덕의 볕과 그늘이다. 이 언덕에서 음양의 속성 셋, 발전변화 속성 둘, 그리고 네 관계인 호근, 제약, 소장, 전화를 차례로 본다.",
+      "spoken_text_sha256": "79bfdaea7f76acb2d610f11946a9c1bc0e237114d930a3c6b2923ac5627bd55f",
+      "image_sha256": "33cb2ecea318e408be91e8153e9a45e295d435b1c948dcf3df9f2c03f893fc27",
+      "visual_checked": true,
+      "status": "source_review_pending",
+      "note": "그림 주요 단서는 확인했으나 분류/이체자/인용의 출전 확인을 마치지 못함. 오류 확정이 아니며 기존 원문과 니모닉 보존."
+    },
+    {
+      "card_id": "yyox-02#1",
+      "narration": "언덕 꼭대기, 둥근 바위 하나가 금 위에 앉았다. 반은 볕, 반은 그늘이지만 바위는 하나다, 음과 양이 합쳐 온전한 하나, 전일이다. 온전할 전으로도, 오로지 전으로도 적는다, 본디 한 기운, 한 근원이라는 뜻. 대대, 통일과 함께 음양의 속성 셋이다.",
+      "spoken_text_sha256": "ad91753a27e843290f385c2da2f1778c6d1fd9f53a5410cc61043665ad49eec5",
+      "image_sha256": "33cb2ecea318e408be91e8153e9a45e295d435b1c948dcf3df9f2c03f893fc27",
+      "visual_checked": true,
+      "status": "source_review_pending",
+      "note": "그림 주요 단서는 확인했으나 분류/이체자/인용의 출전 확인을 마치지 못함. 오류 확정이 아니며 기존 원문과 니모닉 보존."
+    },
+    {
+      "card_id": "yyox-02#4",
+      "narration": "그늘 쪽 가운데, 큰 인형에서 작은 인형이 차례로 나온다. 인형마다 반은 희고 반은 검다, 음 속에 또 음양, 양 속에 또 음양. 끝없이 나뉘는 분화다. 분화와 소장 둘은 발전변화 속성이라 부른다, 속성 셋인 전일, 대대, 통일과 다른 갈래이니 섞지 말 것.",
+      "spoken_text_sha256": "a255ba4ff540ff97180411dd182ebda538f79810a1cf9621ce125e63c1f742c9",
+      "image_sha256": "33cb2ecea318e408be91e8153e9a45e295d435b1c948dcf3df9f2c03f893fc27",
+      "visual_checked": true,
+      "status": "source_review_pending",
+      "note": "그림 주요 단서는 확인했으나 분류/이체자/인용의 출전 확인을 마치지 못함. 오류 확정이 아니며 기존 원문과 니모닉 보존."
+    },
+    {
+      "card_id": "yyox-02#5",
+      "narration": "한가운데, 볕 쪽 나무와 그늘 쪽 나무가 금 양쪽에 밑동을 맞대고 섰다. 땅속을 보면 뿌리가 금을 넘어 서로의 땅에 박혔다, 뿌리 근, 음양호근. 양은 음에 뿌리박고 음은 양에 뿌리박는다. 그래서 음만으로는 나지 못하고 양만으로는 자라지 못한다, 독음불생 고양부장. 음손급양, 음중구양도 이 뿌리 이야기다.",
+      "spoken_text_sha256": "cee1b59459fb649af89f5c96d6260e51c6fcefc1eee5af559b42604de2ae8f4b",
+      "image_sha256": "33cb2ecea318e408be91e8153e9a45e295d435b1c948dcf3df9f2c03f893fc27",
+      "visual_checked": true,
+      "status": "source_review_pending",
+      "note": "그림 주요 단서는 확인했으나 분류/이체자/인용의 출전 확인을 마치지 못함. 오류 확정이 아니며 기존 원문과 니모닉 보존."
+    },
+    {
+      "card_id": "yyox-02#6",
+      "narration": "아래 가운데, 흰 옷과 검은 옷이 줄다리기를 한다. 붉은 매듭이 금 위에 멈췄다, 서로 당겨 누르니 평형이다, 대립제약. 한쪽이 이기면 진 쪽이 병든다, 음승즉양병 양승즉음병. 양이 이기면 열, 음이 이기면 한. 한자열지 열자한지도 이 줄다리기다. 조경론의 양허즉외한 음허즉내열과는 구별한다.",
+      "spoken_text_sha256": "378a0cb784114d633010d084f965619e2d7f09cd4f6d9a3ee66405de4d465163",
+      "image_sha256": "33cb2ecea318e408be91e8153e9a45e295d435b1c948dcf3df9f2c03f893fc27",
+      "visual_checked": true,
+      "status": "integrated",
+      "note": "기존 그림·대본 보존. 사용자 첨부 원본의 해시·길이·PCM 형식·대본을 직접 검증하고 MP3로 변환해 허브에 연결.",
+      "original_wav_filename": "yyox-02__s6__378a0cb78411__take2.wav",
+      "reported_wav_sha256": "34457a9483c439cc74097ed55988982a859a339b15da41804f997f88d6a536eb",
+      "reported_duration_seconds": 33.12,
+      "reported_size_bytes": 1589804,
+      "qc_note": "별도 Gemini 오디오 검수에서 take2 전체와 대립제약 구간 확인 후 통과. 반환 전사를 승인 대본과 대조. 경미한 연음은 허용. Codex 직접 청취 판정은 아님.",
+      "local_bytes_verified": true
+    },
+    {
+      "card_id": "yyox-02#8",
+      "narration": "양쪽 끝을 본다. 왼쪽 끝 큰 모닥불은 불꽃 끝이 눈송이로 바뀌고, 오른쪽 끝 큰 얼음에서는 불이 솟는다. 끝까지 가면 뒤집힌다, 전화. 중음필양 중양필음, 한극생열 열극생한. 언제나가 아니라 끝에 이르렀을 때만이다, 물극필반.",
+      "spoken_text_sha256": "8313c252ab87c5314eebb9a9feaa86392a4841c7114de64b7a8a3d2eb61da09f",
+      "image_sha256": "33cb2ecea318e408be91e8153e9a45e295d435b1c948dcf3df9f2c03f893fc27",
+      "visual_checked": true,
+      "status": "integrated",
+      "note": "기존 그림·대본 보존. 사용자 첨부 원본의 해시·길이·PCM 형식·대본을 직접 검증하고 MP3로 변환해 허브에 연결.",
+      "original_wav_filename": "yyox-02__s8__8313c252ab87.wav",
+      "reported_wav_sha256": "68072b89eac97c92e69cf80bafc8da4361a41c4743073b109afa61f4cc7971cb",
+      "reported_duration_seconds": 24.48,
+      "reported_size_bytes": 1175084,
+      "qc_note": "별도 Gemini 실제 오디오 입력 보고와 반환 전사를 승인 대본과 대조. 핵심 누락/심각한 발음 오류 없음. 경미한 연음 차이 허용. Codex 직접 청취 및 바이트 검증은 아님.",
+      "local_bytes_verified": true
+    },
+    {
+      "card_id": "yyox-02#11",
+      "narration": "그림을 다시 보면서 연결을 정리해 보자. 속성 셋, 바위 하나 전일, 키 다른 세 사람 대대, 멜대 하나 통일. 발전변화 속성 둘, 인형 분화, 칠장이 소장. 기본내용 넷, 뿌리 얽힌 두 나무 호근, 줄다리기 대립제약, 칠장이 소장, 불과 얼음 전화. 소장은 두 갈래에 다 든다.",
+      "spoken_text_sha256": "e3d3a88f2a208cb8b5512c75727ea56422a63b7473e1b806dcaec3022a35c9f8",
+      "image_sha256": "33cb2ecea318e408be91e8153e9a45e295d435b1c948dcf3df9f2c03f893fc27",
+      "visual_checked": true,
+      "status": "source_review_pending",
+      "note": "그림 주요 단서는 확인했으나 분류/이체자/인용의 출전 확인을 마치지 못함. 오류 확정이 아니며 기존 원문과 니모닉 보존."
+    }
+  ],
+  "new_audio_local_bytes": "verified_from_user_upload",
+  "new_audio_integrated": 2,
+  "transfer_blocker": null,
+  "total_integrated": 25
+}

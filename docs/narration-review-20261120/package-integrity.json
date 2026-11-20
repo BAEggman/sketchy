@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "lesson_ids": 227,
+  "station_ids": 2067,
+  "panel_rows": 740,
+  "excluded_metadata_rows": 3,
+  "bagua_scripts": 2,
+  "html_cards": 2809,
+  "original_tts_preserved": true,
+  "spoken_text_hashes_match": true,
+  "user_45_year_mnemonic_restored": true,
+  "scope": "구조·개수·원본 보존·해시 확인. 모든 문장의 의미 동일성·발음·그림 일치를 증명하는 검사가 아님."
+}

@@ -1,0 +1,1334 @@
+[
+  {
+    "id": "H001",
+    "hanzi": "半夏",
+    "name": "반하",
+    "old_group": "청소기 가운(온화한담)",
+    "old_cue": "반바지 하마",
+    "old_context": "복제·인경·십팔반·임신·육진",
+    "source_line": 273
+  },
+  {
+    "id": "H002",
+    "hanzi": "甘草",
+    "name": "감초",
+    "old_group": "금박 곤룡포(보기)",
+    "old_cue": "단감 풀잎 요정",
+    "old_context": "밀자·십팔반·칠정·보료",
+    "source_line": 274
+  },
+  {
+    "id": "H003",
+    "hanzi": "人參",
+    "name": "인삼",
+    "old_group": "금박 곤룡포(보기)",
+    "old_cue": "왕관 쓴 인삼",
+    "old_context": "십팔반·십구외·칠정",
+    "source_line": 275
+  },
+  {
+    "id": "H004",
+    "hanzi": "川芎",
+    "name": "천궁",
+    "old_group": "혈관 드릴 슈트(활혈)",
+    "old_cue": "천사 궁수",
+    "old_context": "주자·인경·두통필수·칠정",
+    "source_line": 276
+  },
+  {
+    "id": "H005",
+    "hanzi": "柴胡",
+    "name": "시호",
+    "old_group": "청색 우비(발산풍열)",
+    "old_cue": "시계 호랑이",
+    "old_context": "초자·4경인경·승부·칠정",
+    "source_line": 277
+  },
+  {
+    "id": "H006",
+    "hanzi": "黃連",
+    "name": "황련",
+    "old_group": "얼음 소방복(청열조습)",
+    "old_cue": "노란 연꽃 요정",
+    "old_context": "주자·강자·인경·칠정",
+    "source_line": 278
+  },
+  {
+    "id": "H007",
+    "hanzi": "大黃",
+    "name": "대황",
+    "old_group": "뚫어뻥 작업복(공하)",
+    "old_cue": "대왕 누런 황소",
+    "old_context": "주자·증법·칠정·임신신용",
+    "source_line": 279
+  },
+  {
+    "id": "H008",
+    "hanzi": "附子",
+    "name": "부자",
+    "old_group": "용광로 털코트(온리)",
+    "old_cue": "불꽃 부자 도련님",
+    "old_context": "인경·칠정·임신신용",
+    "source_line": 280
+  },
+  {
+    "id": "H009",
+    "hanzi": "細辛",
+    "name": "세신",
+    "old_group": "적색 우비(발산풍한)",
+    "old_cue": "세 발 매운 신발",
+    "old_context": "인경·소음두통·십팔반·칠정",
+    "source_line": 281
+  },
+  {
+    "id": "H010",
+    "hanzi": "白芍藥",
+    "name": "백작약",
+    "old_group": "금박 곤룡포(보혈)",
+    "old_cue": "하얀 백작 약사",
+    "old_context": "인경·십팔반·칠정",
+    "source_line": 282
+  },
+  {
+    "id": "H011",
+    "hanzi": "麻黃",
+    "name": "마황",
+    "old_group": "적색 우비(발산풍한)",
+    "old_cue": "노란 야생마",
+    "old_context": "밀자·육진·폐인경",
+    "source_line": 283
+  },
+  {
+    "id": "H012",
+    "hanzi": "知母",
+    "name": "지모",
+    "old_group": "얼음 소방복(청열사화)",
+    "old_cue": "지우개 모자 엄마",
+    "old_context": "염자·인경·칠정",
+    "source_line": 284
+  },
+  {
+    "id": "H013",
+    "hanzi": "靑皮",
+    "name": "청피",
+    "old_group": "바람개비 조끼(이기)",
+    "old_cue": "청피망 복면",
+    "old_context": "초자·3경인경·미성숙채집",
+    "source_line": 296
+  },
+  {
+    "id": "H014",
+    "hanzi": "吳茱萸",
+    "name": "오수유",
+    "old_group": "용광로 털코트(온리)",
+    "old_cue": "오리 수유병",
+    "old_context": "인경·궐음두통·육진",
+    "source_line": 297
+  },
+  {
+    "id": "H015",
+    "hanzi": "黃柏",
+    "name": "황백",
+    "old_group": "얼음 소방복(청열조습)",
+    "old_cue": "노란 잣나무 장군",
+    "old_context": "염자·2경인경·칠정",
+    "source_line": 298
+  },
+  {
+    "id": "H016",
+    "hanzi": "枳實",
+    "name": "지실",
+    "old_group": "바람개비 조끼(이기)",
+    "old_cue": "지퍼 달린 탱자",
+    "old_context": "부초·임신신용·육진",
+    "source_line": 299
+  },
+  {
+    "id": "H017",
+    "hanzi": "蒼朮",
+    "name": "창출",
+    "old_group": "향주머니 앞치마(화습)",
+    "old_cue": "창 든 배추",
+    "old_context": "부초·2경인경",
+    "source_line": 300
+  },
+  {
+    "id": "H018",
+    "hanzi": "白朮",
+    "name": "백출",
+    "old_group": "금박 곤룡포(보기)",
+    "old_cue": "하얀 백배추",
+    "old_context": "부초·토초",
+    "source_line": 301
+  },
+  {
+    "id": "H019",
+    "hanzi": "山藥",
+    "name": "산약",
+    "old_group": "금박 곤룡포(보기)",
+    "old_cue": "산신령 마 도령",
+    "old_context": "부초·토초·칠정",
+    "source_line": 302
+  },
+  {
+    "id": "H020",
+    "hanzi": "乾薑",
+    "name": "건강",
+    "old_group": "용광로 털코트(온리)",
+    "old_cue": "마른 생강 근육맨",
+    "old_context": "초탄·칠정·임신신용",
+    "source_line": 303
+  },
+  {
+    "id": "H021",
+    "hanzi": "肉桂",
+    "name": "육계",
+    "old_group": "용광로 털코트(온리)",
+    "old_cue": "육중한 계피 통나무",
+    "old_context": "십구외·인경·임신신용",
+    "source_line": 304
+  },
+  {
+    "id": "H022",
+    "hanzi": "當歸",
+    "name": "당귀",
+    "old_group": "금박 곤룡포(보혈)",
+    "old_cue": "당나귀 귀부인",
+    "old_context": "주자·칠정",
+    "source_line": 305
+  },
+  {
+    "id": "H023",
+    "hanzi": "厚朴",
+    "name": "후박",
+    "old_group": "향주머니 앞치마(화습)",
+    "old_cue": "두꺼운 박 바가지",
+    "old_context": "강자·칠정",
+    "source_line": 306
+  },
+  {
+    "id": "H024",
+    "hanzi": "黃芩",
+    "name": "황금",
+    "old_group": "얼음 소방복(청열조습)",
+    "old_cue": "번쩍이는 황금괴",
+    "old_context": "증법·침강·칠정",
+    "source_line": 307
+  },
+  {
+    "id": "H025",
+    "hanzi": "川烏",
+    "name": "천오",
+    "old_group": "용광로 털코트(온리)",
+    "old_cue": "시냇물 대장 까마귀",
+    "old_context": "자법·십팔반·십구외·임신금용",
+    "source_line": 319
+  },
+  {
+    "id": "H026",
+    "hanzi": "草烏",
+    "name": "초오",
+    "old_group": "제습 관절갑옷(거풍습)",
+    "old_cue": "풀숲 까마귀",
+    "old_context": "증제·십팔반·십구외·임신금용",
+    "source_line": 320
+  },
+  {
+    "id": "H027",
+    "hanzi": "甘遂",
+    "name": "감수",
+    "old_group": "해골 뚫어뻥복(준하)",
+    "old_cue": "단감 든 죄수",
+    "old_context": "초자·십팔반·칠정·임신금용",
+    "source_line": 321
+  },
+  {
+    "id": "H028",
+    "hanzi": "大戟",
+    "name": "대극",
+    "old_group": "해골 뚫어뻥복(준하)",
+    "old_cue": "대왕 삼지창",
+    "old_context": "초자·십팔반·칠정·임신금용",
+    "source_line": 322
+  },
+  {
+    "id": "H029",
+    "hanzi": "芫花",
+    "name": "원화",
+    "old_group": "해골 뚫어뻥복(준하)",
+    "old_cue": "원화 지폐 꽃",
+    "old_context": "초자·십팔반·임신금용",
+    "source_line": 323
+  },
+  {
+    "id": "H030",
+    "hanzi": "商陸",
+    "name": "상륙",
+    "old_group": "해골 뚫어뻥복(준하)",
+    "old_cue": "상륙정 탄 상어",
+    "old_context": "초자·임신금용",
+    "source_line": 324
+  },
+  {
+    "id": "H031",
+    "hanzi": "三稜",
+    "name": "삼릉",
+    "old_group": "혈관 드릴 슈트(활혈)",
+    "old_cue": "세모 왕릉 거인",
+    "old_context": "초자·십구외·임신금용",
+    "source_line": 325
+  },
+  {
+    "id": "H032",
+    "hanzi": "莪朮",
+    "name": "아출",
+    "old_group": "혈관 드릴 슈트(활혈)",
+    "old_cue": "아기 배추",
+    "old_context": "초자·임신금용",
+    "source_line": 326
+  },
+  {
+    "id": "H033",
+    "hanzi": "藜蘆",
+    "name": "여로",
+    "old_group": "구토 나팔 조끼(용토)",
+    "old_cue": "구토 연기 여우화로",
+    "old_context": "십팔반·임신금용",
+    "source_line": 327
+  },
+  {
+    "id": "H034",
+    "hanzi": "五靈脂",
+    "name": "오령지",
+    "old_group": "혈관 드릴 슈트(활혈)",
+    "old_cue": "오색 영혼 기름단지",
+    "old_context": "십구외·칠정·임신신용",
+    "source_line": 328
+  },
+  {
+    "id": "H035",
+    "hanzi": "赤石脂",
+    "name": "적석지",
+    "old_group": "자물쇠 조끼(지사)",
+    "old_cue": "붉은 돌기름 벽돌",
+    "old_context": "명단·십구외",
+    "source_line": 329
+  },
+  {
+    "id": "H036",
+    "hanzi": "代赭石",
+    "name": "대자석",
+    "old_group": "중력 닻 헬멧(평간잠양)",
+    "old_cue": "대왕 붉은 자갈",
+    "old_context": "명단·단쉬·임신신용",
+    "source_line": 330
+  },
+  {
+    "id": "H037",
+    "hanzi": "乳香",
+    "name": "유향",
+    "old_group": "혈관 드릴 슈트(활혈)",
+    "old_cue": "우유 향수병",
+    "old_context": "초자·임신신용",
+    "source_line": 342
+  },
+  {
+    "id": "H038",
+    "hanzi": "沒藥",
+    "name": "몰약",
+    "old_group": "혈관 드릴 슈트(활혈)",
+    "old_cue": "검은 물약병",
+    "old_context": "초자·임신신용",
+    "source_line": 343
+  },
+  {
+    "id": "H039",
+    "hanzi": "香附子",
+    "name": "향부자",
+    "old_group": "바람개비 조끼(이기)",
+    "old_cue": "향수 뿌리는 부자",
+    "old_context": "초자·신미행기",
+    "source_line": 344
+  },
+  {
+    "id": "H040",
+    "hanzi": "玄胡索",
+    "name": "현호색",
+    "old_group": "혈관 드릴 슈트(활혈)",
+    "old_cue": "현관 호박색 밧줄",
+    "old_context": "초자",
+    "source_line": 345
+  },
+  {
+    "id": "H041",
+    "hanzi": "牡丹皮",
+    "name": "목단피",
+    "old_group": "얼음 소방복(청열양혈)",
+    "old_cue": "모란 나무단추 망토",
+    "old_context": "인경·임신신용·경험저장",
+    "source_line": 346
+  },
+  {
+    "id": "H042",
+    "hanzi": "槐角",
+    "name": "괴각",
+    "old_group": "얼음 소방복(청열사화)",
+    "old_cue": "괴물 뿔",
+    "old_context": "초탄·임신신용",
+    "source_line": 347
+  },
+  {
+    "id": "H043",
+    "hanzi": "白礬",
+    "name": "백번",
+    "old_group": "자물쇠 조끼(삽정축뇨)",
+    "old_cue": "백번 절하는 스님",
+    "old_context": "명단·복제보료·칠정",
+    "source_line": 348
+  },
+  {
+    "id": "H044",
+    "hanzi": "牡蠣",
+    "name": "모려",
+    "old_group": "납조끼 잠옷+중력 헬멧",
+    "old_cue": "모래 굴 장군",
+    "old_context": "명단·이중본적·함미연견",
+    "source_line": 349
+  },
+  {
+    "id": "H045",
+    "hanzi": "白附子",
+    "name": "백부자",
+    "old_group": "청소기 가운(온화한담)",
+    "old_cue": "백분 바른 하얀 부자",
+    "old_context": "복제법(생강·백번)",
+    "source_line": 350
+  },
+  {
+    "id": "H046",
+    "hanzi": "天南星",
+    "name": "천남성",
+    "old_group": "청소기 가운(온화한담)",
+    "old_cue": "하늘 남쪽 별장군",
+    "old_context": "복제법(담즙·성미변화)",
+    "source_line": 351
+  },
+  {
+    "id": "H047",
+    "hanzi": "巴豆",
+    "name": "파두",
+    "old_group": "해골 뚫어뻥복(준하)",
+    "old_cue": "파란 두부 폭탄",
+    "old_context": "십구외·임신금용",
+    "source_line": 352
+  },
+  {
+    "id": "H048",
+    "hanzi": "硫黃",
+    "name": "유황",
+    "old_group": "독극물 연고복(외용)",
+    "old_cue": "유황 지옥불 괴물",
+    "old_context": "십구외(유향과 분리)",
+    "source_line": 353
+  },
+  {
+    "id": "H049",
+    "hanzi": "桔梗",
+    "name": "길경",
+    "old_group": "청소기 가운(청화열담)",
+    "old_cue": "길쭉한 도라지 경비병",
+    "old_context": "폐·신 인경",
+    "source_line": 407
+  },
+  {
+    "id": "H050",
+    "hanzi": "升麻",
+    "name": "승마",
+    "old_group": "청색 우비(발산풍열)",
+    "old_cue": "승강기 탄 조랑말",
+    "old_context": "폐·비·대장·위 인경",
+    "source_line": 408
+  },
+  {
+    "id": "H051",
+    "hanzi": "葛根",
+    "name": "갈근",
+    "old_group": "청색 우비(발산풍열)",
+    "old_cue": "갈색 칡뿌리 밧줄맨",
+    "old_context": "폐·비·위 인경",
+    "source_line": 409
+  },
+  {
+    "id": "H052",
+    "hanzi": "白芷",
+    "name": "백지",
+    "old_group": "적색 우비(발산풍한)",
+    "old_cue": "하얀 백지 두루마리",
+    "old_context": "폐·양명·양명두통",
+    "source_line": 410
+  },
+  {
+    "id": "H053",
+    "hanzi": "葱白",
+    "name": "총백",
+    "old_group": "적색 우비(발산풍한)",
+    "old_cue": "흰 대파 총잡이",
+    "old_context": "수태음폐 인경",
+    "source_line": 411
+  },
+  {
+    "id": "H054",
+    "hanzi": "羌活",
+    "name": "강활",
+    "old_group": "적색 우비(발산풍한)",
+    "old_cue": "강물 물총 활 사냥꾼",
+    "old_context": "태양·신·태양두통",
+    "source_line": 412
+  },
+  {
+    "id": "H055",
+    "hanzi": "藁本",
+    "name": "고본",
+    "old_group": "적색 우비(발산풍한)",
+    "old_cue": "고깔모자 본부 대장",
+    "old_context": "폐·소장·전정두통",
+    "source_line": 413
+  },
+  {
+    "id": "H056",
+    "hanzi": "桂枝",
+    "name": "계지",
+    "old_group": "적색 우비(발산풍한)",
+    "old_cue": "계피 나뭇가지 지팡이",
+    "old_context": "태양경·신온해표",
+    "source_line": 414
+  },
+  {
+    "id": "H057",
+    "hanzi": "獨活",
+    "name": "독활",
+    "old_group": "제습 관절갑옷(거풍습)",
+    "old_cue": "독수리 활 사냥꾼",
+    "old_context": "심·신 소음 인경",
+    "source_line": 415
+  },
+  {
+    "id": "H058",
+    "hanzi": "石膏",
+    "name": "석고",
+    "old_group": "얼음 소방복(청열사화)",
+    "old_cue": "하얀 석고 조각상",
+    "old_context": "대장·위 인경·상수",
+    "source_line": 416
+  },
+  {
+    "id": "H059",
+    "hanzi": "連翹",
+    "name": "연교",
+    "old_group": "얼음 소방복(청열해독)",
+    "old_cue": "연결 구름다리 종",
+    "old_context": "수소양삼초 인경",
+    "source_line": 417
+  },
+  {
+    "id": "H060",
+    "hanzi": "地骨皮",
+    "name": "지골피",
+    "old_group": "얼음 소방복(청허열)",
+    "old_cue": "땅속 해골 가죽방패",
+    "old_context": "수소양삼초 인경",
+    "source_line": 418
+  },
+  {
+    "id": "H061",
+    "hanzi": "瓜蔞",
+    "name": "과루",
+    "old_group": "청소기 가운(청화열담)",
+    "old_cue": "참외 누각 초롱불",
+    "old_context": "십팔반(오두 반)",
+    "source_line": 430
+  },
+  {
+    "id": "H062",
+    "hanzi": "貝母",
+    "name": "패모",
+    "old_group": "청소기 가운(청화열담)",
+    "old_cue": "진주조개 엄마",
+    "old_context": "십팔반(오두 반)",
+    "source_line": 431
+  },
+  {
+    "id": "H063",
+    "hanzi": "白蘞",
+    "name": "백렴",
+    "old_group": "얼음 소방복(청열해독)",
+    "old_cue": "하얀 염소",
+    "old_context": "십팔반(오두 반)",
+    "source_line": 432
+  },
+  {
+    "id": "H064",
+    "hanzi": "白及",
+    "name": "백급",
+    "old_group": "압박붕대 망토(수렴지혈)",
+    "old_cue": "백구 구급상자",
+    "old_context": "십팔반(오두 반)",
+    "source_line": 433
+  },
+  {
+    "id": "H065",
+    "hanzi": "海藻",
+    "name": "해조",
+    "old_group": "청소기 가운(청화열담)",
+    "old_cue": "바다 해초 새",
+    "old_context": "십팔반(감초 반)",
+    "source_line": 434
+  },
+  {
+    "id": "H066",
+    "hanzi": "丹參",
+    "name": "단삼",
+    "old_group": "혈관 드릴 슈트(활혈)",
+    "old_cue": "단검 든 붉은 삼 인형",
+    "old_context": "십팔반(여로 반)",
+    "source_line": 435
+  },
+  {
+    "id": "H067",
+    "hanzi": "玄參",
+    "name": "현삼",
+    "old_group": "얼음 소방복(청열양혈)",
+    "old_cue": "현무암 검은 삼 인형",
+    "old_context": "십팔반(여로 반)",
+    "source_line": 436
+  },
+  {
+    "id": "H068",
+    "hanzi": "沙參",
+    "name": "사삼",
+    "old_group": "금박 곤룡포(보음)",
+    "old_cue": "모래성 삼 인형",
+    "old_context": "십팔반(여로 반)",
+    "source_line": 437
+  },
+  {
+    "id": "H069",
+    "hanzi": "苦參",
+    "name": "고삼",
+    "old_group": "얼음 소방복(청열조습)",
+    "old_cue": "쓴 고추 삼 인형",
+    "old_context": "십팔반·상외",
+    "source_line": 438
+  },
+  {
+    "id": "H070",
+    "hanzi": "赤芍藥",
+    "name": "적작약",
+    "old_group": "얼음 소방복(청열양혈)",
+    "old_cue": "붉은 적작 약사",
+    "old_context": "십팔반(여로 반)",
+    "source_line": 439
+  },
+  {
+    "id": "H071",
+    "hanzi": "朴硝",
+    "name": "박초",
+    "old_group": "뚫어뻥 작업복(공하)",
+    "old_cue": "박 바가지 망치 결정",
+    "old_context": "십구외(망초 계)",
+    "source_line": 440
+  },
+  {
+    "id": "H072",
+    "hanzi": "牙硝",
+    "name": "아초",
+    "old_group": "뚫어뻥 작업복(공하)",
+    "old_cue": "뾰족 어금니 결정",
+    "old_context": "십구외(삼릉 외)",
+    "source_line": 441
+  },
+  {
+    "id": "H073",
+    "hanzi": "水銀",
+    "name": "수은",
+    "old_group": "독극물 연고복(외용)",
+    "old_cue": "물방울 은구슬 로봇",
+    "old_context": "십구외·임신금용",
+    "source_line": 442
+  },
+  {
+    "id": "H074",
+    "hanzi": "砒霜",
+    "name": "비상",
+    "old_group": "독극물 연고복(외용)",
+    "old_cue": "비수 서리 해골돌",
+    "old_context": "십구외(비석)·금용",
+    "source_line": 443
+  },
+  {
+    "id": "H075",
+    "hanzi": "狼毒",
+    "name": "낭독",
+    "old_group": "독극물 연고복(외용)",
+    "old_cue": "독약병 문 늑대",
+    "old_context": "십구외·육진약",
+    "source_line": 444
+  },
+  {
+    "id": "H076",
+    "hanzi": "密陀僧",
+    "name": "밀타승",
+    "old_group": "독극물 연고복(외용)",
+    "old_cue": "꿀단지 낙타 탄 스님",
+    "old_context": "십구외(낭독 외)",
+    "source_line": 445
+  },
+  {
+    "id": "H077",
+    "hanzi": "牽牛子",
+    "name": "견우자",
+    "old_group": "해골 뚫어뻥복(준하)",
+    "old_cue": "소 끄는 견우 목동",
+    "old_context": "십구외·임신금용",
+    "source_line": 446
+  },
+  {
+    "id": "H078",
+    "hanzi": "丁香",
+    "name": "정향",
+    "old_group": "용광로 털코트(온리)",
+    "old_cue": "T자 쇠못 향초",
+    "old_context": "십구외(울금 외)",
+    "source_line": 447
+  },
+  {
+    "id": "H079",
+    "hanzi": "鬱金",
+    "name": "울금",
+    "old_group": "혈관 드릴 슈트(활혈)",
+    "old_cue": "울보 황금 종",
+    "old_context": "십구외(정향 외)",
+    "source_line": 448
+  },
+  {
+    "id": "H080",
+    "hanzi": "犀角",
+    "name": "서각",
+    "old_group": "얼음 소방복(청열양혈)",
+    "old_cue": "코뿔소 외뿔 투구",
+    "old_context": "십구외(오두 외)",
+    "source_line": 449
+  },
+  {
+    "id": "H081",
+    "hanzi": "山楂",
+    "name": "산사",
+    "old_group": "믹서기 요리사복(소식)",
+    "old_cue": "산사나무 빨간 사과곰",
+    "old_context": "초초법",
+    "source_line": 461
+  },
+  {
+    "id": "H082",
+    "hanzi": "川楝子",
+    "name": "천련자",
+    "old_group": "바람개비 조끼(이기)",
+    "old_cue": "시냇물 도련님 열매",
+    "old_context": "초초법",
+    "source_line": 462
+  },
+  {
+    "id": "H083",
+    "hanzi": "梔子",
+    "name": "치자",
+    "old_group": "얼음 소방복(청열사화)",
+    "old_cue": "노란 치즈 자",
+    "old_context": "초초·미성숙채집",
+    "source_line": 463
+  },
+  {
+    "id": "H084",
+    "hanzi": "檳榔",
+    "name": "빈랑",
+    "old_group": "방역 살충복(구충)",
+    "old_cue": "빈 도시락 든 신랑",
+    "old_context": "초초법",
+    "source_line": 464
+  },
+  {
+    "id": "H085",
+    "hanzi": "大薊",
+    "name": "대계",
+    "old_group": "압박붕대 망토(양혈지혈)",
+    "old_cue": "대왕 닭벼슬 기사",
+    "old_context": "초탄법",
+    "source_line": 465
+  },
+  {
+    "id": "H086",
+    "hanzi": "小薊",
+    "name": "소계",
+    "old_group": "압박붕대 망토(양혈지혈)",
+    "old_cue": "꼬마 닭벼슬 소년",
+    "old_context": "초탄법",
+    "source_line": 466
+  },
+  {
+    "id": "H087",
+    "hanzi": "白茅根",
+    "name": "백모근",
+    "old_group": "압박붕대 망토(양혈지혈)",
+    "old_cue": "하얀 털모자 뿌리",
+    "old_context": "초탄법",
+    "source_line": 467
+  },
+  {
+    "id": "H088",
+    "hanzi": "荊芥",
+    "name": "형개",
+    "old_group": "적색 우비(발산풍한)",
+    "old_cue": "형님 겨자개",
+    "old_context": "초탄(형개탄)·승부",
+    "source_line": 468
+  },
+  {
+    "id": "H089",
+    "hanzi": "側柏葉",
+    "name": "측백엽",
+    "old_group": "압박붕대 망토(양혈지혈)",
+    "old_cue": "옆으로 누운 잣나무잎",
+    "old_context": "초탄법",
+    "source_line": 469
+  },
+  {
+    "id": "H090",
+    "hanzi": "川椒",
+    "name": "천초",
+    "old_group": "용광로 털코트(온리)",
+    "old_cue": "시냇물 불꽃 산초알",
+    "old_context": "초탄법(화초)",
+    "source_line": 470
+  },
+  {
+    "id": "H091",
+    "hanzi": "烏梅",
+    "name": "오매",
+    "old_group": "자물쇠 조끼(지사)",
+    "old_cue": "까마귀 검은 매실",
+    "old_context": "초탄법·산미",
+    "source_line": 471
+  },
+  {
+    "id": "H092",
+    "hanzi": "地楡",
+    "name": "지유",
+    "old_group": "압박붕대 망토(양혈지혈)",
+    "old_cue": "땅속 빨간 주유기",
+    "old_context": "초탄법",
+    "source_line": 472
+  },
+  {
+    "id": "H093",
+    "hanzi": "蒲黃",
+    "name": "포황",
+    "old_group": "압박붕대 망토(화어지혈)",
+    "old_cue": "노란 부들 포대자루",
+    "old_context": "초탄법",
+    "source_line": 473
+  },
+  {
+    "id": "H094",
+    "hanzi": "卷柏",
+    "name": "권백",
+    "old_group": "혈관 드릴 슈트(활혈)",
+    "old_cue": "권투글러브 잣나무",
+    "old_context": "초탄법",
+    "source_line": 474
+  },
+  {
+    "id": "H095",
+    "hanzi": "白殭蠶",
+    "name": "백강잠",
+    "old_group": "중력 닻 헬멧(평간식풍)",
+    "old_cue": "하얀 강시 누에",
+    "old_context": "부초법",
+    "source_line": 475
+  },
+  {
+    "id": "H096",
+    "hanzi": "黨參",
+    "name": "당삼",
+    "old_group": "금박 곤룡포(보기)",
+    "old_cue": "사탕 든 당삼 인형",
+    "old_context": "미초법",
+    "source_line": 476
+  },
+  {
+    "id": "H097",
+    "hanzi": "斑蝥",
+    "name": "반모",
+    "old_group": "독극물 연고복(독약)",
+    "old_cue": "반점 털모자 가뢰벌레",
+    "old_context": "미초·임신금용",
+    "source_line": 477
+  },
+  {
+    "id": "H098",
+    "hanzi": "狗脊",
+    "name": "구척",
+    "old_group": "금박 곤룡포(보양)",
+    "old_cue": "황금 강아지 척추뼈",
+    "old_context": "사초법",
+    "source_line": 478
+  },
+  {
+    "id": "H099",
+    "hanzi": "穿山甲",
+    "name": "천산갑",
+    "old_group": "혈관 드릴 슈트(활혈)",
+    "old_cue": "산 뚫는 천산갑 드릴러",
+    "old_context": "사초법",
+    "source_line": 479
+  },
+  {
+    "id": "H100",
+    "hanzi": "虎骨",
+    "name": "호골",
+    "old_group": "제습 관절갑옷(강근골)",
+    "old_cue": "호랑이 통뼈 방망이",
+    "old_context": "사초법·유자법",
+    "source_line": 480
+  },
+  {
+    "id": "H101",
+    "hanzi": "馬錢子",
+    "name": "마전자",
+    "old_group": "제습 관절갑옷(지비통)",
+    "old_cue": "말발굽 엽전 원반",
+    "old_context": "사초·임신금용",
+    "source_line": 481
+  },
+  {
+    "id": "H102",
+    "hanzi": "骨碎補",
+    "name": "골쇄보",
+    "old_group": "금박 곤룡포(보양)",
+    "old_cue": "뼈 쇄기 보수 스패너",
+    "old_context": "사초법",
+    "source_line": 482
+  },
+  {
+    "id": "H103",
+    "hanzi": "象皮",
+    "name": "상피",
+    "old_group": "압박붕대 망토(지혈생기)",
+    "old_cue": "코끼리 가죽 조끼",
+    "old_context": "활석분초",
+    "source_line": 483
+  },
+  {
+    "id": "H104",
+    "hanzi": "黃狗腎",
+    "name": "황구신",
+    "old_group": "금박 곤룡포(보양)",
+    "old_cue": "누렁개 콩팥 벨트",
+    "old_context": "활석분초",
+    "source_line": 484
+  },
+  {
+    "id": "H105",
+    "hanzi": "水蛭",
+    "name": "수질",
+    "old_group": "혈관 드릴 슈트(활혈)",
+    "old_cue": "물속 거머리 빨대",
+    "old_context": "활석분초",
+    "source_line": 485
+  },
+  {
+    "id": "H106",
+    "hanzi": "杜仲",
+    "name": "두충",
+    "old_group": "금박 곤룡포(보양)",
+    "old_cue": "두꺼비 중사",
+    "old_context": "염자법",
+    "source_line": 497
+  },
+  {
+    "id": "H107",
+    "hanzi": "巴戟天",
+    "name": "파극천",
+    "old_group": "금박 곤룡포(보양)",
+    "old_cue": "파란 번개창 하늘장군",
+    "old_context": "염자법",
+    "source_line": 498
+  },
+  {
+    "id": "H108",
+    "hanzi": "補骨脂",
+    "name": "보골지",
+    "old_group": "금박 곤룡포(보양)",
+    "old_cue": "보석 골반 기름병",
+    "old_context": "염자법",
+    "source_line": 499
+  },
+  {
+    "id": "H109",
+    "hanzi": "小茴香",
+    "name": "소회향",
+    "old_group": "용광로 털코트(온리)",
+    "old_cue": "작은 회오리 향주머니",
+    "old_context": "염자법",
+    "source_line": 500
+  },
+  {
+    "id": "H110",
+    "hanzi": "橘核",
+    "name": "귤핵",
+    "old_group": "바람개비 조끼(이기치산)",
+    "old_cue": "주황 귤 핵폭탄 씨앗",
+    "old_context": "염자법",
+    "source_line": 501
+  },
+  {
+    "id": "H111",
+    "hanzi": "荔枝核",
+    "name": "여지핵",
+    "old_group": "바람개비 조끼(이기)",
+    "old_cue": "여자 반지 핵폭탄 씨앗",
+    "old_context": "염자법",
+    "source_line": 502
+  },
+  {
+    "id": "H112",
+    "hanzi": "車前子",
+    "name": "차전자",
+    "old_group": "배수관 잠수복(이뇨통림)",
+    "old_cue": "수레바퀴 앞 전조등",
+    "old_context": "염자법",
+    "source_line": 503
+  },
+  {
+    "id": "H113",
+    "hanzi": "竹茹",
+    "name": "죽여",
+    "old_group": "청소기 가운(청화열담)",
+    "old_cue": "대나무 수세미 여사님",
+    "old_context": "강자법",
+    "source_line": 504
+  },
+  {
+    "id": "H114",
+    "hanzi": "百部根",
+    "name": "백부근",
+    "old_group": "청소기 가운(지해평천)",
+    "old_cue": "백 살 노인 뿌리 지팡이",
+    "old_context": "밀자법",
+    "source_line": 505
+  },
+  {
+    "id": "H115",
+    "hanzi": "款冬花",
+    "name": "관동화",
+    "old_group": "청소기 가운(지해평천)",
+    "old_cue": "왕관 쓴 겨울꽃",
+    "old_context": "밀자법·팔신약",
+    "source_line": 506
+  },
+  {
+    "id": "H116",
+    "hanzi": "紫菀",
+    "name": "자완",
+    "old_group": "청소기 가운(지해평천)",
+    "old_cue": "보라색 왕관 사발",
+    "old_context": "밀자법",
+    "source_line": 507
+  },
+  {
+    "id": "H117",
+    "hanzi": "枇杷葉",
+    "name": "비파엽",
+    "old_group": "청소기 가운(청화열담)",
+    "old_cue": "비파 악기 나뭇잎",
+    "old_context": "밀자법",
+    "source_line": 508
+  },
+  {
+    "id": "H118",
+    "hanzi": "黃芪",
+    "name": "황기",
+    "old_group": "금박 곤룡포(보기)",
+    "old_cue": "노란 황금 깃발",
+    "old_context": "밀자·승부·상사",
+    "source_line": 509
+  },
+  {
+    "id": "H119",
+    "hanzi": "馬兜鈴",
+    "name": "마두령",
+    "old_group": "청소기 가운(지해평천)",
+    "old_cue": "말 머리 방울",
+    "old_context": "밀자법",
+    "source_line": 510
+  },
+  {
+    "id": "H120",
+    "hanzi": "蛤蚧",
+    "name": "합개",
+    "old_group": "금박 곤룡포(보양)",
+    "old_cue": "조개 문 도마뱀",
+    "old_context": "유자법·함미",
+    "source_line": 511
+  },
+  {
+    "id": "H121",
+    "hanzi": "豹骨",
+    "name": "표골",
+    "old_group": "제습 관절갑옷(강근골)",
+    "old_cue": "표범 무늬 통뼈",
+    "old_context": "유자법",
+    "source_line": 512
+  },
+  {
+    "id": "H122",
+    "hanzi": "石決明",
+    "name": "석결명",
+    "old_group": "중력 닻 헬멧(평간잠양)",
+    "old_cue": "보석 안경 전복껍데기",
+    "old_context": "명단법",
+    "source_line": 524
+  },
+  {
+    "id": "H123",
+    "hanzi": "龍骨",
+    "name": "용골",
+    "old_group": "납조끼 잠옷(중진안신)",
+    "old_cue": "공룡 뼈대 화석",
+    "old_context": "명단법·삽미",
+    "source_line": 525
+  },
+  {
+    "id": "H124",
+    "hanzi": "磁石",
+    "name": "자석",
+    "old_group": "납조끼 잠옷(중진안신)",
+    "old_cue": "U자 말굽자석",
+    "old_context": "단쉬법",
+    "source_line": 526
+  },
+  {
+    "id": "H125",
+    "hanzi": "自然銅",
+    "name": "자연동",
+    "old_group": "혈관 드릴 슈트(활혈)",
+    "old_cue": "자연산 구리 주사위",
+    "old_context": "단쉬법",
+    "source_line": 527
+  },
+  {
+    "id": "H126",
+    "hanzi": "爐甘石",
+    "name": "노감석",
+    "old_group": "독극물 연고복(외용)",
+    "old_cue": "화로 위 단감 돌멩이",
+    "old_context": "단쉬법",
+    "source_line": 528
+  },
+  {
+    "id": "H127",
+    "hanzi": "血餘炭",
+    "name": "혈여탄",
+    "old_group": "압박붕대 망토(지혈)",
+    "old_cue": "피 묻은 머리카락 숯",
+    "old_context": "민단법",
+    "source_line": 529
+  },
+  {
+    "id": "H128",
+    "hanzi": "乾漆",
+    "name": "건칠",
+    "old_group": "혈관 드릴 슈트(활혈)",
+    "old_cue": "마른 검은 옻칠통",
+    "old_context": "민단·임신금용",
+    "source_line": 530
+  },
+  {
+    "id": "H129",
+    "hanzi": "熟地黃",
+    "name": "숙지황",
+    "old_group": "금박 곤룡포(보혈)",
+    "old_cue": "푹 익은 검은 땅황제",
+    "old_context": "증법",
+    "source_line": 531
+  },
+  {
+    "id": "H130",
+    "hanzi": "黃精",
+    "name": "황정",
+    "old_group": "금박 곤룡포(보음)",
+    "old_cue": "노란 수정 구슬 요정",
+    "old_context": "증법",
+    "source_line": 532
+  },
+  {
+    "id": "H131",
+    "hanzi": "桑螵蛸",
+    "name": "상표초",
+    "old_group": "자물쇠 조끼(삽정축뇨)",
+    "old_cue": "뽕나무 표범 사마귀집",
+    "old_context": "증법",
+    "source_line": 533
+  },
+  {
+    "id": "H132",
+    "hanzi": "木瓜",
+    "name": "목과",
+    "old_group": "제습 관절갑옷(서근활락)",
+    "old_cue": "나무 모과 아령",
+    "old_context": "증법",
+    "source_line": 534
+  },
+  {
+    "id": "H133",
+    "hanzi": "遠志",
+    "name": "원지",
+    "old_group": "달빛 잠옷(자양안신)",
+    "old_cue": "망원경 든 지도 소년",
+    "old_context": "자법(삶기)",
+    "source_line": 535
+  },
+  {
+    "id": "H134",
+    "hanzi": "珍珠",
+    "name": "진주",
+    "old_group": "중력 닻 헬멧(평간잠양)",
+    "old_cue": "영롱한 진주알",
+    "old_context": "자법(삶기)",
+    "source_line": 536
+  },
+  {
+    "id": "H135",
+    "hanzi": "杏仁",
+    "name": "행인",
+    "old_group": "청소기 가운(지해평천)",
+    "old_cue": "행군하는 살구씨 병정",
+    "old_context": "수탕(단법)",
+    "source_line": 537
+  },
+  {
+    "id": "H136",
+    "hanzi": "白扁豆",
+    "name": "백편두",
+    "old_group": "금박 곤룡포(보기)",
+    "old_cue": "하얀 납작콩 방패",
+    "old_context": "수탕(편두)",
+    "source_line": 538
+  },
+  {
+    "id": "H137",
+    "hanzi": "陳皮",
+    "name": "진피",
+    "old_group": "바람개비 조끼(이기)",
+    "old_cue": "묵은 귤껍질 가죽조끼",
+    "old_context": "육진약·신미",
+    "source_line": 550
+  },
+  {
+    "id": "H138",
+    "hanzi": "紫蘇葉",
+    "name": "자소엽",
+    "old_group": "적색 우비(발산풍한)",
+    "old_cue": "보라 소 뿔 깻잎",
+    "old_context": "팔신약",
+    "source_line": 551
+  },
+  {
+    "id": "H139",
+    "hanzi": "薄荷",
+    "name": "박하",
+    "old_group": "청색 우비(발산풍열)",
+    "old_cue": "민트 박하사탕 잎사귀",
+    "old_context": "팔신약(박하엽)",
+    "source_line": 552
+  },
+  {
+    "id": "H140",
+    "hanzi": "菊花",
+    "name": "국화",
+    "old_group": "청색 우비(발산풍열)",
+    "old_cue": "노란 국화꽃 선글라스",
+    "old_context": "팔신약·양약",
+    "source_line": 553
+  },
+  {
+    "id": "H141",
+    "hanzi": "桃花",
+    "name": "도화",
+    "old_group": "뚫어뻥 작업복(사하계)",
+    "old_cue": "분홍 복숭아꽃 부채",
+    "old_context": "팔신약",
+    "source_line": 554
+  },
+  {
+    "id": "H142",
+    "hanzi": "赤小豆",
+    "name": "적소두",
+    "old_group": "배수관 잠수복(이수퇴종)",
+    "old_cue": "붉은 꼬마 팥알",
+    "old_context": "팔신약",
+    "source_line": 555
+  },
+  {
+    "id": "H143",
+    "hanzi": "澤蘭",
+    "name": "택란",
+    "old_group": "혈관 드릴 슈트(활혈)",
+    "old_cue": "연못 보라 난초",
+    "old_context": "팔신약",
+    "source_line": 556
+  },
+  {
+    "id": "H144",
+    "hanzi": "槐花",
+    "name": "괴화",
+    "old_group": "압박붕대 망토(양혈지혈)",
+    "old_cue": "괴물 꽃다발",
+    "old_context": "팔신약·양약",
+    "source_line": 557
+  },
+  {
+    "id": "H145",
+    "hanzi": "生薑",
+    "name": "생강",
+    "old_group": "적색 우비(발산풍한)",
+    "old_cue": "싱싱한 날생강 개구리",
+    "old_context": "보료·상외·상살",
+    "source_line": 558
+  },
+  {
+    "id": "H146",
+    "hanzi": "防風",
+    "name": "방풍",
+    "old_group": "적색 우비(발산풍한)",
+    "old_cue": "방풍 방패 기사",
+    "old_context": "상살(부자독)",
+    "source_line": 559
+  },
+  {
+    "id": "H147",
+    "hanzi": "雄黃",
+    "name": "웅황",
+    "old_group": "독극물 연고복(외용)",
+    "old_cue": "수컷 곰 노란 유황돌",
+    "old_context": "상살·임신금용",
+    "source_line": 560
+  },
+  {
+    "id": "H148",
+    "hanzi": "澤瀉",
+    "name": "택사",
+    "old_group": "배수관 잠수복(이수퇴종)",
+    "old_cue": "연못 물대포 사수",
+    "old_context": "경험저장(목단피 짝)",
+    "source_line": 561
+  }
+]

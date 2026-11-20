@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "짧은 이름 덩어리와 사건 연결",
+    "name_recall": 31,
+    "visual": 17,
+    "confusion": 12,
+    "humor": 12,
+    "reuse": 8,
+    "adopted": "간단한 두 단위 우선, 마스터 ID·버전 원칙, 몰약 근접음 시험",
+    "rejected": "원화 지폐·현호색 호박색은 목표명을 안정적으로 좁히기 어렵다",
+    "total": 80
+  },
+  {
+    "id": 2,
+    "title": "소품의 자충수 코미디",
+    "name_recall": 34,
+    "visual": 18,
+    "confusion": 12,
+    "humor": 14,
+    "reuse": 9,
+    "adopted": "세신사·지퍼실·상표초·유모차 황소·웅크린 황소, 이름 보존형 사고",
+    "rejected": "과도한 역할 역전은 정확한 동사를 흐릴 수 있어 승마는 1안으로 교체",
+    "total": 87
+  },
+  {
+    "id": 3,
+    "title": "일상어와 물체의 상호작용",
+    "name_recall": 32,
+    "visual": 17,
+    "confusion": 13,
+    "humor": 12,
+    "reuse": 8,
+    "adopted": "파+두부, 몰래 나오는 물약, 건빵 칠, 아기의 탈출",
+    "rejected": "원화 지폐와 현관 호랑이의 추가 색연필은 더 짧은 대안으로 교체",
+    "total": 82
+  },
+  {
+    "id": 4,
+    "title": "새 조합으로 빈 음절 메우기",
+    "name_recall": 34,
+    "visual": 17,
+    "confusion": 12,
+    "humor": 14,
+    "reuse": 9,
+    "adopted": "원숭이 화장, 소의 회+향수, 당구 인삼, 황소 정장, 조건부 세 단위 사건",
+    "rejected": "대걸레 연극은 대극장보다 복잡해 배제. 연어·피에로 등 명명 부담은 조건으로 남김",
+    "total": 86
+  },
+  {
+    "id": 5,
+    "title": "동작을 고정한 장난감",
+    "name_recall": 32,
+    "visual": 17,
+    "confusion": 13,
+    "humor": 13,
+    "reuse": 8,
+    "adopted": "백반 한 상, 반바지 하마의 자충수, 수은 액적, 택시 계란 승객",
+    "rejected": "자연 원물이나 무문자 지폐만으로 이름이 확정된다는 가정은 채택하지 않음",
+    "total": 83
+  },
+  {
+    "id": 6,
+    "title": "단순한 몸체와 큰 사고",
+    "name_recall": 32,
+    "visual": 18,
+    "confusion": 13,
+    "humor": 12,
+    "reuse": 9,
+    "adopted": "대극장 건물, 정장 향수병, 다섯 유령과 지도, 과밀 군단을 소구역으로 나누는 원칙",
+    "rejected": "정상 말타기를 역전이라고 부르는 서술 및 이름 조각 식별이 약한 보류안은 미채택",
+    "total": 84
+  }
+]

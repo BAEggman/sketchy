@@ -1,0 +1,15 @@
+{
+  "plan": "docs/overhaul/PLAN_20261120.md",
+  "base_commit": "0e16b7c",
+  "branch": "overhaul-20261120",
+  "phase": "P0",
+  "done": ["P0.repo", "P0.handoff_archive", "P0.facts"],
+  "in_progress": [],
+  "held": [
+    {"id": "saam.胃.勝格.瀉", "why": "사용자 문장 상구 ≠ 표 商陽 — 사용자 결정 대기"},
+    {"id": "saam.寒熱格.大腸", "why": "노래 s07·s10 해계 ≠ 표 陽谿 — 원표 확인·재제작 여부 사용자 결정 대기"},
+    {"id": "hist.杜本.12+24", "why": "교재·총강에 갈래 근거 없음 — 확인 필요"}
+  ],
+  "next": ["P0.ask_download", "P1.curriculum", "P1.hub", "P1.test"],
+  "user_checks": {"gemini_download": null, "p2_pilot_review": null}
+}

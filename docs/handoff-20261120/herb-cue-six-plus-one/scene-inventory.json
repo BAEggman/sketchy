@@ -1,0 +1,2424 @@
+[
+  {
+    "section": "1-1",
+    "name": "발산풍한약",
+    "old_scene": "얼음 성문 해자 돌파전",
+    "declared_count": 15,
+    "visible_target_groups": 15,
+    "pairs": [
+      {
+        "cue": "노란 야생마",
+        "target_text": "마황",
+        "unregistered": false
+      },
+      {
+        "cue": "계피 지팡이",
+        "target_text": "계지",
+        "unregistered": false
+      },
+      {
+        "cue": "보라 소 깻잎",
+        "target_text": "자소엽",
+        "unregistered": false
+      },
+      {
+        "cue": "형님 겨자개",
+        "target_text": "형개",
+        "unregistered": false
+      },
+      {
+        "cue": "물총 활 사냥꾼",
+        "target_text": "강활",
+        "unregistered": false
+      },
+      {
+        "cue": "백지 두루마리",
+        "target_text": "백지",
+        "unregistered": false
+      },
+      {
+        "cue": "고깔모자 대장",
+        "target_text": "고본",
+        "unregistered": false
+      },
+      {
+        "cue": "매운 신발",
+        "target_text": "세신",
+        "unregistered": false
+      },
+      {
+        "cue": "날생강 개구리",
+        "target_text": "생강",
+        "unregistered": false
+      },
+      {
+        "cue": "흰 대파 총잡이",
+        "target_text": "총백",
+        "unregistered": false
+      },
+      {
+        "cue": "호수 고수풀",
+        "target_text": "호수",
+        "unregistered": true
+      },
+      {
+        "cue": "향기 노 유람선",
+        "target_text": "향유",
+        "unregistered": true
+      },
+      {
+        "cue": "방풍 방패 기사",
+        "target_text": "방풍",
+        "unregistered": false
+      },
+      {
+        "cue": "목련봉오리 귀마개",
+        "target_text": "신이",
+        "unregistered": true
+      },
+      {
+        "cue": "도꼬마리 귀걸이",
+        "target_text": "창이자",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "1-2",
+    "name": "발산풍열약",
+    "old_scene": "열풍 유리온실 지붕 개방전",
+    "declared_count": 12,
+    "visible_target_groups": 12,
+    "pairs": [
+      {
+        "cue": "박하사탕 잎사귀",
+        "target_text": "박하",
+        "unregistered": false
+      },
+      {
+        "cue": "국화꽃 선글라스",
+        "target_text": "국화",
+        "unregistered": false
+      },
+      {
+        "cue": "칡뿌리 밧줄맨",
+        "target_text": "갈근",
+        "unregistered": false
+      },
+      {
+        "cue": "시계 호랑이",
+        "target_text": "시호",
+        "unregistered": false
+      },
+      {
+        "cue": "승강기 조랑말",
+        "target_text": "승마",
+        "unregistered": false
+      },
+      {
+        "cue": "우엉씨 방망이",
+        "target_text": "우방자",
+        "unregistered": true
+      },
+      {
+        "cue": "뽕잎 부채",
+        "target_text": "상엽",
+        "unregistered": true
+      },
+      {
+        "cue": "만 갈래 형님 열매",
+        "target_text": "만형자",
+        "unregistered": true
+      },
+      {
+        "cue": "발효 메주콩",
+        "target_text": "담두시",
+        "unregistered": true
+      },
+      {
+        "cue": "개구리밥 부표",
+        "target_text": "부평",
+        "unregistered": true
+      },
+      {
+        "cue": "매미 허물 갑옷",
+        "target_text": "선퇴",
+        "unregistered": true
+      },
+      {
+        "cue": "나무 도둑 속새풀",
+        "target_text": "목적",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "2-1",
+    "name": "청열사화약",
+    "old_scene": "화염 광장 분수대 진화전",
+    "declared_count": 14,
+    "visible_target_groups": 14,
+    "pairs": [
+      {
+        "cue": "하얀 석고 조각상",
+        "target_text": "석고",
+        "unregistered": false
+      },
+      {
+        "cue": "지우개 모자 엄마",
+        "target_text": "지모",
+        "unregistered": false
+      },
+      {
+        "cue": "노란 치즈 자",
+        "target_text": "치자",
+        "unregistered": false
+      },
+      {
+        "cue": "괴물 뿔",
+        "target_text": "괴각",
+        "unregistered": false
+      },
+      {
+        "cue": "갈대 뿌리 호스",
+        "target_text": "노근",
+        "unregistered": true
+      },
+      {
+        "cue": "꽃가루 분무기",
+        "target_text": "천화분",
+        "unregistered": true
+      },
+      {
+        "cue": "대나무 잎 부채",
+        "target_text": "죽엽",
+        "unregistered": true
+      },
+      {
+        "cue": "조릿대 잎",
+        "target_text": "담죽엽",
+        "unregistered": true
+      },
+      {
+        "cue": "차가운 얼음물 돌",
+        "target_text": "한수석",
+        "unregistered": true
+      },
+      {
+        "cue": "오리 발자국 달개비",
+        "target_text": "압척초",
+        "unregistered": true
+      },
+      {
+        "cue": "여름 마른 꿀풀",
+        "target_text": "하고초",
+        "unregistered": true
+      },
+      {
+        "cue": "곡식 정령 별꽃",
+        "target_text": "곡정초",
+        "unregistered": true
+      },
+      {
+        "cue": "빽빽한 안개꽃",
+        "target_text": "밀몽화",
+        "unregistered": true
+      },
+      {
+        "cue": "푸른 상자 맨드라미씨",
+        "target_text": "청상자",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "2-2",
+    "name": "청열조습약",
+    "old_scene": "습열 진흙 늪 냉동 건조전",
+    "declared_count": 7,
+    "visible_target_groups": 7,
+    "pairs": [
+      {
+        "cue": "번쩍이는 황금괴",
+        "target_text": "황금",
+        "unregistered": false
+      },
+      {
+        "cue": "노란 연꽃 요정",
+        "target_text": "황련",
+        "unregistered": false
+      },
+      {
+        "cue": "노란 잣나무 장군",
+        "target_text": "황백",
+        "unregistered": false
+      },
+      {
+        "cue": "용 쓸개 풀",
+        "target_text": "용담초",
+        "unregistered": true
+      },
+      {
+        "cue": "쓴 고추 삼",
+        "target_text": "고삼",
+        "unregistered": false
+      },
+      {
+        "cue": "생선 비늘가죽",
+        "target_text": "백선피",
+        "unregistered": true
+      },
+      {
+        "cue": "노란 콩나물",
+        "target_text": "대두황권",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "2-3",
+    "name": "청열양혈약",
+    "old_scene": "끓는 적색 강물 냉각전",
+    "declared_count": 6,
+    "visible_target_groups": 6,
+    "pairs": [
+      {
+        "cue": "모란 나무단추 망토",
+        "target_text": "목단피",
+        "unregistered": false
+      },
+      {
+        "cue": "코뿔소 외뿔 투구",
+        "target_text": "서각·수우각",
+        "unregistered": true
+      },
+      {
+        "cue": "날것 노란 땅뿌리",
+        "target_text": "생지황",
+        "unregistered": true
+      },
+      {
+        "cue": "현무암 검은 삼",
+        "target_text": "현삼",
+        "unregistered": false
+      },
+      {
+        "cue": "붉은 적작 약사",
+        "target_text": "적작약",
+        "unregistered": false
+      },
+      {
+        "cue": "보라색 지치풀",
+        "target_text": "자초",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "2-4",
+    "name": "청열해독약",
+    "old_scene": "맹독 화산 성채 전방위 진압전",
+    "declared_count": 30,
+    "visible_target_groups": 30,
+    "pairs": [
+      {
+        "cue": "연결 구름다리 종",
+        "target_text": "연교",
+        "unregistered": false
+      },
+      {
+        "cue": "금·은 쌍둥이 꽃",
+        "target_text": "금은화",
+        "unregistered": true
+      },
+      {
+        "cue": "민들레 공",
+        "target_text": "포공영",
+        "unregistered": true
+      },
+      {
+        "cue": "보라 꽃 압정",
+        "target_text": "자화지정",
+        "unregistered": true
+      },
+      {
+        "cue": "큰 푸른 잎",
+        "target_text": "대청엽",
+        "unregistered": true
+      },
+      {
+        "cue": "쪽빛 나무뿌리",
+        "target_text": "판람근",
+        "unregistered": true
+      },
+      {
+        "cue": "푸른 눈썹물감",
+        "target_text": "청대",
+        "unregistered": true
+      },
+      {
+        "cue": "소 노란 구슬",
+        "target_text": "우황",
+        "unregistered": true
+      },
+      {
+        "cue": "범부채 화살 방패",
+        "target_text": "사간",
+        "unregistered": true
+      },
+      {
+        "cue": "산콩 뿌리",
+        "target_text": "산두근",
+        "unregistered": true
+      },
+      {
+        "cue": "말 발굽 먼지버섯",
+        "target_text": "마발",
+        "unregistered": true
+      },
+      {
+        "cue": "물고기 비린내 풀",
+        "target_text": "어성초",
+        "unregistered": true
+      },
+      {
+        "cue": "흙 복령버섯",
+        "target_text": "토복령",
+        "unregistered": true
+      },
+      {
+        "cue": "벼룩 휴게소 풀",
+        "target_text": "조휴",
+        "unregistered": true
+      },
+      {
+        "cue": "반쪽 연꽃",
+        "target_text": "반변련",
+        "unregistered": true
+      },
+      {
+        "cue": "하얀 꽃 뱀혀풀",
+        "target_text": "백화사설초",
+        "unregistered": true
+      },
+      {
+        "cue": "곰 쓸개",
+        "target_text": "웅담",
+        "unregistered": true
+      },
+      {
+        "cue": "하얀 염소",
+        "target_text": "백렴",
+        "unregistered": false
+      },
+      {
+        "cue": "새는 화로 뻐꾹채",
+        "target_text": "누로",
+        "unregistered": true
+      },
+      {
+        "cue": "산 약난초",
+        "target_text": "산자고",
+        "unregistered": true
+      },
+      {
+        "cue": "초록 녹두알",
+        "target_text": "녹두",
+        "unregistered": true
+      },
+      {
+        "cue": "쟁반 돌나물",
+        "target_text": "수분초",
+        "unregistered": true
+      },
+      {
+        "cue": "노란 들국화",
+        "target_text": "야국화",
+        "unregistered": true
+      },
+      {
+        "cue": "인동덩굴",
+        "target_text": "인동등",
+        "unregistered": true
+      },
+      {
+        "cue": "쇠비름 말 이빨",
+        "target_text": "마치현",
+        "unregistered": true
+      },
+      {
+        "cue": "백발 할아버지 새",
+        "target_text": "백두옹",
+        "unregistered": true
+      },
+      {
+        "cue": "물푸레 진피",
+        "target_text": "진피",
+        "unregistered": false
+      },
+      {
+        "cue": "관통 방패 고사리",
+        "target_text": "관중",
+        "unregistered": true
+      },
+      {
+        "cue": "썩은 된장 마타리",
+        "target_text": "패장초",
+        "unregistered": true
+      },
+      {
+        "cue": "까마귀 쓸개씨",
+        "target_text": "아담자",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "2-5",
+    "name": "청허열약",
+    "old_scene": "밤 사막 해골 모래 냉각전",
+    "declared_count": 5,
+    "visible_target_groups": 5,
+    "pairs": [
+      {
+        "cue": "땅속 해골 가죽방패",
+        "target_text": "지골피",
+        "unregistered": false
+      },
+      {
+        "cue": "푸른 개똥쑥 부채",
+        "target_text": "청호",
+        "unregistered": true
+      },
+      {
+        "cue": "하얀 미인 장미뿌리",
+        "target_text": "백미",
+        "unregistered": true
+      },
+      {
+        "cue": "은빛 시계 아기호랑이",
+        "target_text": "은시호",
+        "unregistered": true
+      },
+      {
+        "cue": "호랑이 노란 연꽃",
+        "target_text": "호황련",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "3-1",
+    "name": "공하약",
+    "old_scene": "건조 암벽 장관 격파전",
+    "declared_count": 3,
+    "visible_target_groups": 3,
+    "pairs": [
+      {
+        "cue": "대왕 누런 황소",
+        "target_text": "대황",
+        "unregistered": false
+      },
+      {
+        "cue": "그물 망치 결정",
+        "target_text": "망초",
+        "unregistered": true
+      },
+      {
+        "cue": "검은 노회 알로에젤",
+        "target_text": "노회",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "3-2",
+    "name": "윤하약",
+    "old_scene": "메마른 나선 미끄럼틀 급유전",
+    "declared_count": 2,
+    "visible_target_groups": 2,
+    "pairs": [
+      {
+        "cue": "불꽃 삼씨 기름병",
+        "target_text": "화마인",
+        "unregistered": true
+      },
+      {
+        "cue": "울창한 자두씨 기름알",
+        "target_text": "욱리인",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "3-3",
+    "name": "준하축수약",
+    "old_scene": "흉복수 거대 댐 일제 폭파전",
+    "declared_count": 7,
+    "visible_target_groups": 7,
+    "pairs": [
+      {
+        "cue": "단감 든 죄수",
+        "target_text": "감수",
+        "unregistered": false
+      },
+      {
+        "cue": "대왕 삼지창",
+        "target_text": "대극",
+        "unregistered": false
+      },
+      {
+        "cue": "원화 지폐 꽃",
+        "target_text": "원화",
+        "unregistered": false
+      },
+      {
+        "cue": "견우 목동",
+        "target_text": "견우자",
+        "unregistered": false
+      },
+      {
+        "cue": "상륙정 탄 상어",
+        "target_text": "상륙",
+        "unregistered": false
+      },
+      {
+        "cue": "파란 두부 폭탄",
+        "target_text": "파두",
+        "unregistered": false
+      },
+      {
+        "cue": "연속 씨앗총",
+        "target_text": "속수자",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "4-1",
+    "name": "거풍습지비통약",
+    "old_scene": "냉습 얼음 무릎교 해방전",
+    "declared_count": 9,
+    "visible_target_groups": 9,
+    "pairs": [
+      {
+        "cue": "독수리 활 사냥꾼",
+        "target_text": "독활",
+        "unregistered": false
+      },
+      {
+        "cue": "풀숲 까마귀",
+        "target_text": "초오",
+        "unregistered": false
+      },
+      {
+        "cue": "말발굽 엽전 원반",
+        "target_text": "마전자",
+        "unregistered": false
+      },
+      {
+        "cue": "신선 지팡이",
+        "target_text": "위령선",
+        "unregistered": true
+      },
+      {
+        "cue": "방어 기왓장",
+        "target_text": "방기",
+        "unregistered": true
+      },
+      {
+        "cue": "진시황 교각",
+        "target_text": "진교",
+        "unregistered": true
+      },
+      {
+        "cue": "오동 가시껍질",
+        "target_text": "해동피",
+        "unregistered": true
+      },
+      {
+        "cue": "누에 똥 모래주머니",
+        "target_text": "잠사",
+        "unregistered": true
+      },
+      {
+        "cue": "깃발 문 살모사",
+        "target_text": "기사",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "4-2",
+    "name": "서근활락약",
+    "old_scene": "꼬인 근육 현수교 이완전",
+    "declared_count": 10,
+    "visible_target_groups": 10,
+    "pairs": [
+      {
+        "cue": "나무 모과 아령",
+        "target_text": "목과",
+        "unregistered": false
+      },
+      {
+        "cue": "돌 감는 낙석덩굴",
+        "target_text": "낙석등",
+        "unregistered": true
+      },
+      {
+        "cue": "뽕나무 가지",
+        "target_text": "상지",
+        "unregistered": true
+      },
+      {
+        "cue": "하얀 꽃무늬 뱀",
+        "target_text": "백화사",
+        "unregistered": true
+      },
+      {
+        "cue": "검은 회초리 뱀",
+        "target_text": "오초사",
+        "unregistered": true
+      },
+      {
+        "cue": "진득한 진흙풀",
+        "target_text": "희렴초",
+        "unregistered": true
+      },
+      {
+        "cue": "서씨 장관 지팡이",
+        "target_text": "서장경",
+        "unregistered": true
+      },
+      {
+        "cue": "수세미 그물망",
+        "target_text": "사과락",
+        "unregistered": true
+      },
+      {
+        "cue": "냄새 나는 오동잎",
+        "target_text": "취오동",
+        "unregistered": true
+      },
+      {
+        "cue": "바다 바람 덩굴",
+        "target_text": "해풍등",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "4-3",
+    "name": "거풍습강근골약",
+    "old_scene": "기운 석탑 허리 기둥 보강전",
+    "declared_count": 4,
+    "visible_target_groups": 4,
+    "pairs": [
+      {
+        "cue": "호랑이 통뼈 방망이",
+        "target_text": "호골",
+        "unregistered": false
+      },
+      {
+        "cue": "다섯 겹 가죽갑옷",
+        "target_text": "오가피",
+        "unregistered": true
+      },
+      {
+        "cue": "참나무 겨우살이",
+        "target_text": "곡기생",
+        "unregistered": true
+      },
+      {
+        "cue": "뽕나무 기생충초",
+        "target_text": "상기생",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "5",
+    "name": "방향화습약",
+    "old_scene": "비위 안개 주방 아로마 환기전",
+    "declared_count": 8,
+    "visible_target_groups": 8,
+    "pairs": [
+      {
+        "cue": "창 든 배추",
+        "target_text": "창출",
+        "unregistered": false
+      },
+      {
+        "cue": "두꺼운 박 바가지",
+        "target_text": "후박",
+        "unregistered": false
+      },
+      {
+        "cue": "넓은 곽향 향수통",
+        "target_text": "광곽향",
+        "unregistered": true
+      },
+      {
+        "cue": "모래알 씨앗 방울",
+        "target_text": "사인",
+        "unregistered": true
+      },
+      {
+        "cue": "하얀 콩구슬",
+        "target_text": "백두구",
+        "unregistered": true
+      },
+      {
+        "cue": "풀잎 콩구슬",
+        "target_text": "초두구",
+        "unregistered": true
+      },
+      {
+        "cue": "큰 풀사과 열매",
+        "target_text": "초과",
+        "unregistered": true
+      },
+      {
+        "cue": "패물 난초 노리개",
+        "target_text": "패란",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "6-1",
+    "name": "이수퇴종약",
+    "old_scene": "침수 평야 대형 배수장 가동전",
+    "declared_count": 9,
+    "visible_target_groups": 9,
+    "pairs": [
+      {
+        "cue": "소나무 복령",
+        "target_text": "복령",
+        "unregistered": true
+      },
+      {
+        "cue": "연못 물대포 사수",
+        "target_text": "택사",
+        "unregistered": false
+      },
+      {
+        "cue": "율무 진주알",
+        "target_text": "의이인",
+        "unregistered": true
+      },
+      {
+        "cue": "붉은 꼬마 팥알",
+        "target_text": "적소두",
+        "unregistered": false
+      },
+      {
+        "cue": "겨울 참외 껍질보트",
+        "target_text": "동과피",
+        "unregistered": true
+      },
+      {
+        "cue": "멧돼지 검은 버섯",
+        "target_text": "저령",
+        "unregistered": true
+      },
+      {
+        "cue": "표주박 호리병",
+        "target_text": "호로",
+        "unregistered": true
+      },
+      {
+        "cue": "옥수수 수염 빗자루",
+        "target_text": "옥미수",
+        "unregistered": true
+      },
+      {
+        "cue": "연못 옻칠 대극초",
+        "target_text": "택칠",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "6-2",
+    "name": "이뇨통림약",
+    "old_scene": "지하 요도 터널 일렬 세척전",
+    "declared_count": 13,
+    "visible_target_groups": 13,
+    "pairs": [
+      {
+        "cue": "나무 통나무 파이프",
+        "target_text": "목통",
+        "unregistered": true
+      },
+      {
+        "cue": "수레바퀴 전조등",
+        "target_text": "차전자",
+        "unregistered": false
+      },
+      {
+        "cue": "미끄러운 활석 비누",
+        "target_text": "활석",
+        "unregistered": true
+      },
+      {
+        "cue": "구멍 뚫린 통초 빨대",
+        "target_text": "통초",
+        "unregistered": true
+      },
+      {
+        "cue": "바다 황금 모래가루",
+        "target_text": "해금사",
+        "unregistered": true
+      },
+      {
+        "cue": "돌 가죽 석위잎",
+        "target_text": "석위",
+        "unregistered": true
+      },
+      {
+        "cue": "도롱이 마뿌리",
+        "target_text": "비해",
+        "unregistered": true
+      },
+      {
+        "cue": "땅 피부 댑싸리빗",
+        "target_text": "지부자",
+        "unregistered": true
+      },
+      {
+        "cue": "납작 마디풀",
+        "target_text": "편축",
+        "unregistered": true
+      },
+      {
+        "cue": "패랭이꽃 갈퀴",
+        "target_text": "구맥",
+        "unregistered": true
+      },
+      {
+        "cue": "겨울 아욱씨",
+        "target_text": "동규자",
+        "unregistered": true
+      },
+      {
+        "cue": "등불 심지 골풀",
+        "target_text": "등심초",
+        "unregistered": true
+      },
+      {
+        "cue": "삼백초",
+        "target_text": "삼백초",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "6-3",
+    "name": "이습퇴황약",
+    "old_scene": "누런 황달 운하 여과전",
+    "declared_count": 2,
+    "visible_target_groups": 2,
+    "pairs": [
+      {
+        "cue": "인조 잔디 사철쑥",
+        "target_text": "인진호",
+        "unregistered": true
+      },
+      {
+        "cue": "황금 동전 풀",
+        "target_text": "금전초",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "7",
+    "name": "온리약",
+    "old_scene": "빙하 동굴 중앙 용광로 점화전",
+    "declared_count": 12,
+    "visible_target_groups": 12,
+    "pairs": [
+      {
+        "cue": "불꽃 부자 도련님",
+        "target_text": "부자",
+        "unregistered": false
+      },
+      {
+        "cue": "시냇물 대장 까마귀",
+        "target_text": "천오",
+        "unregistered": false
+      },
+      {
+        "cue": "생강 근육맨",
+        "target_text": "건강",
+        "unregistered": false
+      },
+      {
+        "cue": "육중한 계피 통나무",
+        "target_text": "육계",
+        "unregistered": false
+      },
+      {
+        "cue": "오리 수유병",
+        "target_text": "오수유",
+        "unregistered": false
+      },
+      {
+        "cue": "불꽃 산초알",
+        "target_text": "천초·화초",
+        "unregistered": true
+      },
+      {
+        "cue": "필발 후추 피리",
+        "target_text": "필발",
+        "unregistered": true
+      },
+      {
+        "cue": "방울 후추열매",
+        "target_text": "필징가",
+        "unregistered": true
+      },
+      {
+        "cue": "T자 쇠못 향초",
+        "target_text": "정향",
+        "unregistered": false
+      },
+      {
+        "cue": "고구려 어진 생강",
+        "target_text": "고량강",
+        "unregistered": true
+      },
+      {
+        "cue": "회오리 향주머니",
+        "target_text": "소회향",
+        "unregistered": false
+      },
+      {
+        "cue": "검은 후추알 총",
+        "target_text": "호초",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "8",
+    "name": "이기약",
+    "old_scene": "꽉 막힌 협곡 대형 풍차 개통전",
+    "declared_count": 18,
+    "visible_target_groups": 18,
+    "pairs": [
+      {
+        "cue": "묵은 귤껍질 조끼",
+        "target_text": "진피",
+        "unregistered": false
+      },
+      {
+        "cue": "청피망 복면",
+        "target_text": "청피",
+        "unregistered": false
+      },
+      {
+        "cue": "지퍼 달린 탱자",
+        "target_text": "지실",
+        "unregistered": false
+      },
+      {
+        "cue": "탱자껍질 방패",
+        "target_text": "지각",
+        "unregistered": true
+      },
+      {
+        "cue": "시냇물 도련님 열매",
+        "target_text": "천련자",
+        "unregistered": false
+      },
+      {
+        "cue": "나무 향수통",
+        "target_text": "목향",
+        "unregistered": true
+      },
+      {
+        "cue": "푸른 나무 향수통",
+        "target_text": "청목향",
+        "unregistered": true
+      },
+      {
+        "cue": "흙 묻은 나무 향수통",
+        "target_text": "토목향",
+        "unregistered": true
+      },
+      {
+        "cue": "향수 뿌리는 부자",
+        "target_text": "향부자",
+        "unregistered": false
+      },
+      {
+        "cue": "검은 까마귀 약뿌리",
+        "target_text": "오약",
+        "unregistered": true
+      },
+      {
+        "cue": "침향나무",
+        "target_text": "침향",
+        "unregistered": true
+      },
+      {
+        "cue": "여자 반지 핵폭탄 씨앗",
+        "target_text": "여지핵",
+        "unregistered": false
+      },
+      {
+        "cue": "하얀 부추 염교알",
+        "target_text": "해백",
+        "unregistered": true
+      },
+      {
+        "cue": "박달나무 향부채",
+        "target_text": "단향",
+        "unregistered": true
+      },
+      {
+        "cue": "감꼭지 모자",
+        "target_text": "시체",
+        "unregistered": true
+      },
+      {
+        "cue": "붉은 해당화 장미",
+        "target_text": "매괴화",
+        "unregistered": true
+      },
+      {
+        "cue": "배불뚝이 빈랑껍질",
+        "target_text": "대복피",
+        "unregistered": true
+      },
+      {
+        "cue": "달콤한 소나무 향초",
+        "target_text": "감송향",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "9",
+    "name": "소식약",
+    "old_scene": "투명 위장 믹서기 식적 분쇄전",
+    "declared_count": 6,
+    "visible_target_groups": 6,
+    "pairs": [
+      {
+        "cue": "빨간 사과곰",
+        "target_text": "산사",
+        "unregistered": false
+      },
+      {
+        "cue": "무씨 폭탄",
+        "target_text": "내복자",
+        "unregistered": true
+      },
+      {
+        "cue": "신선 누룩 벽돌",
+        "target_text": "신곡",
+        "unregistered": true
+      },
+      {
+        "cue": "보리 싹 갈퀴",
+        "target_text": "맥아",
+        "unregistered": true
+      },
+      {
+        "cue": "벼 싹 갈퀴",
+        "target_text": "곡아",
+        "unregistered": true
+      },
+      {
+        "cue": "닭 모래주머니 황금내막",
+        "target_text": "계내금",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "10",
+    "name": "구충약",
+    "old_scene": "기생충 지하 벙커 일제 방역전",
+    "declared_count": 8,
+    "visible_target_groups": 8,
+    "pairs": [
+      {
+        "cue": "빈 도시락 든 신랑",
+        "target_text": "빈랑",
+        "unregistered": false
+      },
+      {
+        "cue": "사신 도련님 열매",
+        "target_text": "사군자",
+        "unregistered": true
+      },
+      {
+        "cue": "쓴 멀구슬 껍질창",
+        "target_text": "고련피",
+        "unregistered": true
+      },
+      {
+        "cue": "천둥 알약 버섯",
+        "target_text": "뇌환",
+        "unregistered": true
+      },
+      {
+        "cue": "학 이빨 벼룩씨",
+        "target_text": "학슬",
+        "unregistered": true
+      },
+      {
+        "cue": "비자나무 총알씨",
+        "target_text": "비자",
+        "unregistered": true
+      },
+      {
+        "cue": "거친 느릅나무 전병",
+        "target_text": "무이",
+        "unregistered": true
+      },
+      {
+        "cue": "열매 죄수 방망이",
+        "target_text": "실죄",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "11-1",
+    "name": "수렴지혈약",
+    "old_scene": "파열 파이프 압박 봉합전",
+    "declared_count": 4,
+    "visible_target_groups": 4,
+    "pairs": [
+      {
+        "cue": "신선 학 풀",
+        "target_text": "선학초",
+        "unregistered": true
+      },
+      {
+        "cue": "백구 구급상자",
+        "target_text": "백급",
+        "unregistered": false
+      },
+      {
+        "cue": "종려나무 털가죽 밧줄",
+        "target_text": "종려피",
+        "unregistered": true
+      },
+      {
+        "cue": "연근 마디 코르크",
+        "target_text": "우절",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "11-2",
+    "name": "온경지혈약",
+    "old_scene": "얼어 터진 하초 제방 온열 보수전",
+    "declared_count": 2,
+    "visible_target_groups": 2,
+    "pairs": [
+      {
+        "cue": "쑥잎 뜸봉",
+        "target_text": "애엽",
+        "unregistered": true
+      },
+      {
+        "cue": "엎드린 용 아궁이 황토간",
+        "target_text": "복룡간",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "11-3",
+    "name": "양혈지혈약",
+    "old_scene": "과열 분출 혈관 냉각 지혈전",
+    "declared_count": 7,
+    "visible_target_groups": 7,
+    "pairs": [
+      {
+        "cue": "대왕 닭벼슬 기사",
+        "target_text": "대계",
+        "unregistered": false
+      },
+      {
+        "cue": "꼬마 닭벼슬 소년",
+        "target_text": "소계",
+        "unregistered": false
+      },
+      {
+        "cue": "땅속 빨간 주유기",
+        "target_text": "지유",
+        "unregistered": false
+      },
+      {
+        "cue": "괴물 꽃다발",
+        "target_text": "괴화",
+        "unregistered": false
+      },
+      {
+        "cue": "옆으로 누운 잣나무잎",
+        "target_text": "측백엽",
+        "unregistered": false
+      },
+      {
+        "cue": "하얀 털모자 뿌리",
+        "target_text": "백모근",
+        "unregistered": false
+      },
+      {
+        "cue": "모시풀 뿌리 붕대",
+        "target_text": "저마근",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "11-4",
+    "name": "화어지혈약",
+    "old_scene": "어혈 혈전 제거 겸 지혈전",
+    "declared_count": 4,
+    "visible_target_groups": 4,
+    "pairs": [
+      {
+        "cue": "노란 부들 포대자루",
+        "target_text": "포황",
+        "unregistered": false
+      },
+      {
+        "cue": "천 개의 빨간 풀뿌리",
+        "target_text": "천초근",
+        "unregistered": true
+      },
+      {
+        "cue": "세 번 칠한 전칠삼",
+        "target_text": "삼칠근",
+        "unregistered": true
+      },
+      {
+        "cue": "꽃술 무늬 대리석",
+        "target_text": "화예석",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "12",
+    "name": "활혈거어약",
+    "old_scene": "대동맥 어혈 암벽 터널 일직선 관통전",
+    "declared_count": 32,
+    "visible_target_groups": 32,
+    "pairs": [
+      {
+        "cue": "천사 궁수",
+        "target_text": "천궁",
+        "unregistered": false
+      },
+      {
+        "cue": "우유 향수병",
+        "target_text": "유향",
+        "unregistered": false
+      },
+      {
+        "cue": "검은 물약병",
+        "target_text": "몰약",
+        "unregistered": false
+      },
+      {
+        "cue": "영혼 기름단지",
+        "target_text": "오령지",
+        "unregistered": false
+      },
+      {
+        "cue": "복숭아씨 인형",
+        "target_text": "도인",
+        "unregistered": true
+      },
+      {
+        "cue": "붉은 잇꽃 바람개비",
+        "target_text": "홍화",
+        "unregistered": true
+      },
+      {
+        "cue": "익모초",
+        "target_text": "익모초",
+        "unregistered": true
+      },
+      {
+        "cue": "소 무릎 해머",
+        "target_text": "우슬",
+        "unregistered": true
+      },
+      {
+        "cue": "왕불류행 행군씨앗",
+        "target_text": "왕불류행",
+        "unregistered": true
+      },
+      {
+        "cue": "조각자 가시침",
+        "target_text": "조각자",
+        "unregistered": true
+      },
+      {
+        "cue": "붉은 소목 물감나무",
+        "target_text": "소목",
+        "unregistered": true
+      },
+      {
+        "cue": "천산갑 드릴러",
+        "target_text": "천산갑",
+        "unregistered": false
+      },
+      {
+        "cue": "연못 보라 난초",
+        "target_text": "택란",
+        "unregistered": false
+      },
+      {
+        "cue": "권투글러브 잣나무",
+        "target_text": "권백",
+        "unregistered": false
+      },
+      {
+        "cue": "현관 호박색 밧줄",
+        "target_text": "현호색",
+        "unregistered": false
+      },
+      {
+        "cue": "울보 황금 종",
+        "target_text": "울금",
+        "unregistered": false
+      },
+      {
+        "cue": "강황뿌리",
+        "target_text": "강황",
+        "unregistered": true
+      },
+      {
+        "cue": "아기 배추",
+        "target_text": "아출",
+        "unregistered": false
+      },
+      {
+        "cue": "세모 왕릉 거인",
+        "target_text": "삼릉",
+        "unregistered": false
+      },
+      {
+        "cue": "단검 든 붉은 삼",
+        "target_text": "단삼",
+        "unregistered": false
+      },
+      {
+        "cue": "호랑이 지팡이 뿌리",
+        "target_text": "호장근",
+        "unregistered": true
+      },
+      {
+        "cue": "바퀴벌레 장갑차",
+        "target_text": "자충",
+        "unregistered": true
+      },
+      {
+        "cue": "거머리 빨대",
+        "target_text": "수질",
+        "unregistered": false
+      },
+      {
+        "cue": "등에 흡혈벌레",
+        "target_text": "맹충",
+        "unregistered": true
+      },
+      {
+        "cue": "능소화 나팔꽃",
+        "target_text": "능소화",
+        "unregistered": true
+      },
+      {
+        "cue": "마른 검은 옻칠통",
+        "target_text": "건칠",
+        "unregistered": false
+      },
+      {
+        "cue": "자연산 구리 주사위",
+        "target_text": "자연동",
+        "unregistered": false
+      },
+      {
+        "cue": "유기노 장군 약초",
+        "target_text": "유기노",
+        "unregistered": true
+      },
+      {
+        "cue": "붉은 피 기린수지",
+        "target_text": "혈갈",
+        "unregistered": true
+      },
+      {
+        "cue": "말 채찍 풀",
+        "target_text": "마편초",
+        "unregistered": true
+      },
+      {
+        "cue": "익모초 씨앗 구슬",
+        "target_text": "충위자",
+        "unregistered": true
+      },
+      {
+        "cue": "닭 피 덩굴밧줄",
+        "target_text": "계혈등",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "13-1",
+    "name": "온화한담약",
+    "old_scene": "냉담 고드름 기관지 온풍 석션전",
+    "declared_count": 7,
+    "visible_target_groups": 7,
+    "pairs": [
+      {
+        "cue": "반바지 하마",
+        "target_text": "반하",
+        "unregistered": false
+      },
+      {
+        "cue": "하늘 남쪽 별장군",
+        "target_text": "천남성",
+        "unregistered": false
+      },
+      {
+        "cue": "하얀 부자",
+        "target_text": "백부자",
+        "unregistered": false
+      },
+      {
+        "cue": "하얀 겨자씨 총알",
+        "target_text": "백개자",
+        "unregistered": true
+      },
+      {
+        "cue": "주엽나무 비누 꼬투리",
+        "target_text": "조각",
+        "unregistered": true
+      },
+      {
+        "cue": "선풍기 금불초꽃",
+        "target_text": "선복화",
+        "unregistered": true
+      },
+      {
+        "cue": "하얀 전선 코드",
+        "target_text": "백전",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "13-2",
+    "name": "청화열담약",
+    "old_scene": "열담 산호초 해저 기관지 세척전",
+    "declared_count": 17,
+    "visible_target_groups": 17,
+    "pairs": [
+      {
+        "cue": "전방 호루라기",
+        "target_text": "전호",
+        "unregistered": true
+      },
+      {
+        "cue": "도라지 경비병",
+        "target_text": "길경",
+        "unregistered": false
+      },
+      {
+        "cue": "참외 누각 초롱불",
+        "target_text": "과루",
+        "unregistered": false
+      },
+      {
+        "cue": "참외 누각 씨앗탄",
+        "target_text": "과루자",
+        "unregistered": true
+      },
+      {
+        "cue": "시냇물 조개 엄마",
+        "target_text": "천패모",
+        "unregistered": true
+      },
+      {
+        "cue": "절벽 큰 조개 엄마",
+        "target_text": "절패모",
+        "unregistered": true
+      },
+      {
+        "cue": "피조개껍질",
+        "target_text": "와릉자",
+        "unregistered": true
+      },
+      {
+        "cue": "바다 부석스펀지",
+        "target_text": "해부석",
+        "unregistered": true
+      },
+      {
+        "cue": "바다 해초 새",
+        "target_text": "해조",
+        "unregistered": false
+      },
+      {
+        "cue": "다시마 띠 방패",
+        "target_text": "곤포",
+        "unregistered": true
+      },
+      {
+        "cue": "뚱뚱한 큰 바다열매",
+        "target_text": "방대해",
+        "unregistered": true
+      },
+      {
+        "cue": "대나무 노란 결정",
+        "target_text": "천축황",
+        "unregistered": true
+      },
+      {
+        "cue": "대나무 수세미 여사님",
+        "target_text": "죽여",
+        "unregistered": false
+      },
+      {
+        "cue": "구운 대나무 수액병",
+        "target_text": "죽력",
+        "unregistered": true
+      },
+      {
+        "cue": "푸른 번개 운모돌",
+        "target_text": "청몽석",
+        "unregistered": true
+      },
+      {
+        "cue": "금빛 번개 운모돌",
+        "target_text": "몽석",
+        "unregistered": true
+      },
+      {
+        "cue": "비파 악기 나뭇잎",
+        "target_text": "비파엽",
+        "unregistered": false
+      }
+    ]
+  },
+  {
+    "section": "13-3",
+    "name": "지해평천약",
+    "old_scene": "역류하는 폐 풀무 진정전",
+    "declared_count": 9,
+    "visible_target_groups": 9,
+    "pairs": [
+      {
+        "cue": "살구씨 병정",
+        "target_text": "행인",
+        "unregistered": false
+      },
+      {
+        "cue": "왕관 쓴 겨울꽃",
+        "target_text": "관동화",
+        "unregistered": false
+      },
+      {
+        "cue": "백 살 노인 지팡이",
+        "target_text": "백부근",
+        "unregistered": false
+      },
+      {
+        "cue": "보라색 왕관 사발",
+        "target_text": "자완",
+        "unregistered": false
+      },
+      {
+        "cue": "들깨 씨앗 구슬",
+        "target_text": "소자",
+        "unregistered": true
+      },
+      {
+        "cue": "뽕나무 하얀 뿌리껍질",
+        "target_text": "상백피",
+        "unregistered": true
+      },
+      {
+        "cue": "꽃다지씨 달력",
+        "target_text": "정력자",
+        "unregistered": true
+      },
+      {
+        "cue": "말 머리 방울",
+        "target_text": "마두령",
+        "unregistered": false
+      },
+      {
+        "cue": "하얀 은행알",
+        "target_text": "백과",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "14-1",
+    "name": "중진안신약",
+    "old_scene": "불안 유령 납추 침실 제압전",
+    "declared_count": 4,
+    "visible_target_groups": 4,
+    "pairs": [
+      {
+        "cue": "붉은 주사 모래주머니",
+        "target_text": "주사",
+        "unregistered": true
+      },
+      {
+        "cue": "U자 말굽자석",
+        "target_text": "자석",
+        "unregistered": false
+      },
+      {
+        "cue": "공룡 뼈대 화석",
+        "target_text": "용골",
+        "unregistered": false
+      },
+      {
+        "cue": "모래 굴 장군",
+        "target_text": "모려",
+        "unregistered": false
+      }
+    ]
+  },
+  {
+    "section": "14-2",
+    "name": "자양안신약",
+    "old_scene": "달빛 자장가 침대 숙면전",
+    "declared_count": 6,
+    "visible_target_groups": 6,
+    "pairs": [
+      {
+        "cue": "망원경 든 지도 소년",
+        "target_text": "원지",
+        "unregistered": false
+      },
+      {
+        "cue": "영지버섯 등불",
+        "target_text": "영지",
+        "unregistered": true
+      },
+      {
+        "cue": "신 대추씨 베개",
+        "target_text": "산조인",
+        "unregistered": true
+      },
+      {
+        "cue": "측백 씨앗 인형",
+        "target_text": "백자인",
+        "unregistered": true
+      },
+      {
+        "cue": "자귀나무 이불껍질",
+        "target_text": "합환피",
+        "unregistered": true
+      },
+      {
+        "cue": "하수오덩굴",
+        "target_text": "야교등",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "15-1",
+    "name": "평간식풍약",
+    "old_scene": "간풍 용오름 회오리 포획전",
+    "declared_count": 8,
+    "visible_target_groups": 8,
+    "pairs": [
+      {
+        "cue": "하얀 강시 누에",
+        "target_text": "백강잠",
+        "unregistered": false
+      },
+      {
+        "cue": "영양 뿔 창",
+        "target_text": "영양각",
+        "unregistered": true
+      },
+      {
+        "cue": "갈고리 등나무",
+        "target_text": "구등",
+        "unregistered": true
+      },
+      {
+        "cue": "천마뿌리",
+        "target_text": "천마",
+        "unregistered": true
+      },
+      {
+        "cue": "전갈 집게발",
+        "target_text": "전갈",
+        "unregistered": true
+      },
+      {
+        "cue": "붉은 머리 지네",
+        "target_text": "오공",
+        "unregistered": true
+      },
+      {
+        "cue": "뱀 허물 스카프",
+        "target_text": "사퇴",
+        "unregistered": true
+      },
+      {
+        "cue": "결명자 안경씨",
+        "target_text": "결명자",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "15-2",
+    "name": "평간잠양약",
+    "old_scene": "간양 열기구 중력 닻 고정전",
+    "declared_count": 7,
+    "visible_target_groups": 7,
+    "pairs": [
+      {
+        "cue": "영롱한 진주알",
+        "target_text": "진주",
+        "unregistered": false
+      },
+      {
+        "cue": "대왕 붉은 자갈",
+        "target_text": "대자석",
+        "unregistered": false
+      },
+      {
+        "cue": "보석 안경 전복껍데기",
+        "target_text": "석결명",
+        "unregistered": false
+      },
+      {
+        "cue": "모래 굴 장군",
+        "target_text": "모려",
+        "unregistered": false
+      },
+      {
+        "cue": "진주 엄마",
+        "target_text": "진주모",
+        "unregistered": true
+      },
+      {
+        "cue": "대모 거북",
+        "target_text": "대모",
+        "unregistered": true
+      },
+      {
+        "cue": "하얀 가시공",
+        "target_text": "백질려",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "16",
+    "name": "개규약",
+    "old_scene": "혼수 밀실 칠중 철문 개방전",
+    "declared_count": 7,
+    "visible_target_groups": 7,
+    "pairs": [
+      {
+        "cue": "사향노루 향기 열쇠",
+        "target_text": "사향",
+        "unregistered": true
+      },
+      {
+        "cue": "용뇌 크리스탈",
+        "target_text": "빙편",
+        "unregistered": true
+      },
+      {
+        "cue": "돌 창포 부채",
+        "target_text": "석창포",
+        "unregistered": true
+      },
+      {
+        "cue": "소합향 향유병",
+        "target_text": "소합향",
+        "unregistered": true
+      },
+      {
+        "cue": "편안한 숨결 향수지",
+        "target_text": "안식향",
+        "unregistered": true
+      },
+      {
+        "cue": "두꺼비 독우유 단지",
+        "target_text": "섬소",
+        "unregistered": true
+      },
+      {
+        "cue": "녹나무 좀약 구슬",
+        "target_text": "장뇌",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "17-1",
+    "name": "보기약",
+    "old_scene": "황실 비폐 발전소 원기 만충전",
+    "declared_count": 9,
+    "visible_target_groups": 9,
+    "pairs": [
+      {
+        "cue": "왕관 쓴 인삼",
+        "target_text": "인삼",
+        "unregistered": false
+      },
+      {
+        "cue": "노란 황금 깃발",
+        "target_text": "황기",
+        "unregistered": false
+      },
+      {
+        "cue": "하얀 백배추",
+        "target_text": "백출",
+        "unregistered": false
+      },
+      {
+        "cue": "산신령 마 도령",
+        "target_text": "산약",
+        "unregistered": false
+      },
+      {
+        "cue": "사탕 든 당삼 인형",
+        "target_text": "당삼",
+        "unregistered": false
+      },
+      {
+        "cue": "하얀 납작콩 방패",
+        "target_text": "백편두",
+        "unregistered": false
+      },
+      {
+        "cue": "단감 풀잎 요정",
+        "target_text": "감초",
+        "unregistered": false
+      },
+      {
+        "cue": "붉은 왕대추 쿠션",
+        "target_text": "대조",
+        "unregistered": true
+      },
+      {
+        "cue": "황금 벌꿀 단지",
+        "target_text": "봉밀",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "17-2",
+    "name": "보양약",
+    "old_scene": "황실 명문 태양신전 대화로 점화식",
+    "declared_count": 27,
+    "visible_target_groups": 27,
+    "pairs": [
+      {
+        "cue": "황금 강아지 척추뼈",
+        "target_text": "구척",
+        "unregistered": false
+      },
+      {
+        "cue": "뼈 쇄기 보수 스패너",
+        "target_text": "골쇄보",
+        "unregistered": false
+      },
+      {
+        "cue": "사슴 벨벳 새뿔",
+        "target_text": "녹용",
+        "unregistered": true
+      },
+      {
+        "cue": "단단한 뿔",
+        "target_text": "녹각",
+        "unregistered": true
+      },
+      {
+        "cue": "사슴뿔 아교젤리",
+        "target_text": "녹각교",
+        "unregistered": true
+      },
+      {
+        "cue": "사슴뿔 서리가루",
+        "target_text": "녹각상",
+        "unregistered": true
+      },
+      {
+        "cue": "번개창 하늘장군",
+        "target_text": "파극천",
+        "unregistered": false
+      },
+      {
+        "cue": "사막죽순",
+        "target_text": "육종용",
+        "unregistered": true
+      },
+      {
+        "cue": "신선 띠풀 창",
+        "target_text": "선모",
+        "unregistered": true
+      },
+      {
+        "cue": "삼지구엽초",
+        "target_text": "음양곽",
+        "unregistered": true
+      },
+      {
+        "cue": "호리병 무우씨",
+        "target_text": "호로파",
+        "unregistered": true
+      },
+      {
+        "cue": "두꺼비 중사",
+        "target_text": "두충",
+        "unregistered": false
+      },
+      {
+        "cue": "속단풀",
+        "target_text": "속단",
+        "unregistered": true
+      },
+      {
+        "cue": "보석 골반 기름병",
+        "target_text": "보골지",
+        "unregistered": false
+      },
+      {
+        "cue": "익지인 알",
+        "target_text": "익지인",
+        "unregistered": true
+      },
+      {
+        "cue": "동충하초",
+        "target_text": "동충하초",
+        "unregistered": true
+      },
+      {
+        "cue": "조개 문 도마뱀",
+        "target_text": "합개",
+        "unregistered": false
+      },
+      {
+        "cue": "호두 뇌모형",
+        "target_text": "호도육",
+        "unregistered": true
+      },
+      {
+        "cue": "은하수 태반 수레",
+        "target_text": "자하거",
+        "unregistered": true
+      },
+      {
+        "cue": "토끼 실 덩굴씨",
+        "target_text": "토사자",
+        "unregistered": true
+      },
+      {
+        "cue": "모래 동산 황기씨",
+        "target_text": "사원자",
+        "unregistered": true
+      },
+      {
+        "cue": "쇄양기둥",
+        "target_text": "쇄양",
+        "unregistered": true
+      },
+      {
+        "cue": "부추 씨앗 주머니",
+        "target_text": "구자",
+        "unregistered": true
+      },
+      {
+        "cue": "양기 자석돌",
+        "target_text": "양기석",
+        "unregistered": true
+      },
+      {
+        "cue": "물개 콩팥 벨트",
+        "target_text": "해구신",
+        "unregistered": true
+      },
+      {
+        "cue": "바다 해마 기사",
+        "target_text": "해마",
+        "unregistered": true
+      },
+      {
+        "cue": "사상자씨",
+        "target_text": "사상자",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "17-3",
+    "name": "보혈약",
+    "old_scene": "루비 조혈 연못 수혈 연회전",
+    "declared_count": 6,
+    "visible_target_groups": 6,
+    "pairs": [
+      {
+        "cue": "당나귀 귀부인",
+        "target_text": "당귀",
+        "unregistered": false
+      },
+      {
+        "cue": "하얀 백작 약사",
+        "target_text": "백작약",
+        "unregistered": false
+      },
+      {
+        "cue": "푹 익은 검은 땅황제",
+        "target_text": "숙지황",
+        "unregistered": false
+      },
+      {
+        "cue": "까마귀 할아버지",
+        "target_text": "하수오",
+        "unregistered": true
+      },
+      {
+        "cue": "당나귀 아교블록",
+        "target_text": "아교",
+        "unregistered": true
+      },
+      {
+        "cue": "용의 눈알 과육",
+        "target_text": "용안육",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "17-4",
+    "name": "보음약",
+    "old_scene": "달빛 감로수 죽림 연못 자윤전",
+    "declared_count": 15,
+    "visible_target_groups": 15,
+    "pairs": [
+      {
+        "cue": "황금 난초줄기",
+        "target_text": "석곡",
+        "unregistered": true
+      },
+      {
+        "cue": "모래성 삼",
+        "target_text": "사삼",
+        "unregistered": false
+      },
+      {
+        "cue": "보리 겨울아이",
+        "target_text": "맥문동",
+        "unregistered": true
+      },
+      {
+        "cue": "하늘 겨울아이",
+        "target_text": "천문동",
+        "unregistered": true
+      },
+      {
+        "cue": "옥 대나무 둥굴레",
+        "target_text": "옥죽",
+        "unregistered": true
+      },
+      {
+        "cue": "노란 수정 구슬 요정",
+        "target_text": "황정",
+        "unregistered": false
+      },
+      {
+        "cue": "하얀 백합 구근",
+        "target_text": "백합",
+        "unregistered": true
+      },
+      {
+        "cue": "붉은 구기자 보석알",
+        "target_text": "구기자",
+        "unregistered": true
+      },
+      {
+        "cue": "닥나무 붉은 열매",
+        "target_text": "저실자",
+        "unregistered": true
+      },
+      {
+        "cue": "먹물 한련초 붓",
+        "target_text": "묵한련",
+        "unregistered": true
+      },
+      {
+        "cue": "광나무열매",
+        "target_text": "여정자",
+        "unregistered": true
+      },
+      {
+        "cue": "검은 참깨 주머니",
+        "target_text": "흑지마",
+        "unregistered": true
+      },
+      {
+        "cue": "가로 열매 씨앗",
+        "target_text": "횡실자",
+        "unregistered": true
+      },
+      {
+        "cue": "거북 배딱지 방패",
+        "target_text": "구판",
+        "unregistered": true
+      },
+      {
+        "cue": "자라 등딱지 방패",
+        "target_text": "별갑",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "18-1",
+    "name": "지한약",
+    "old_scene": "피부 성벽 땀구멍 지퍼 봉인전",
+    "declared_count": 3,
+    "visible_target_groups": 3,
+    "pairs": [
+      {
+        "cue": "물에 뜨는 밀알 튜브",
+        "target_text": "부소맥",
+        "unregistered": true
+      },
+      {
+        "cue": "마황 브레이크 뿌리",
+        "target_text": "마황근",
+        "unregistered": true
+      },
+      {
+        "cue": "찰벼 수염 뿌리그물",
+        "target_text": "나도근",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "18-2",
+    "name": "지사약",
+    "old_scene": "장관 홍수 수문 구중 빗장 봉쇄전",
+    "declared_count": 9,
+    "visible_target_groups": 9,
+    "pairs": [
+      {
+        "cue": "까마귀 검은 매실",
+        "target_text": "오매",
+        "unregistered": false
+      },
+      {
+        "cue": "가자 열매자물쇠",
+        "target_text": "가자",
+        "unregistered": true
+      },
+      {
+        "cue": "양귀비 껍질자물쇠",
+        "target_text": "앵속각",
+        "unregistered": true
+      },
+      {
+        "cue": "고기 만두 콩구슬",
+        "target_text": "육두구",
+        "unregistered": true
+      },
+      {
+        "cue": "붉은 돌기름 벽돌",
+        "target_text": "적석지",
+        "unregistered": false
+      },
+      {
+        "cue": "우임금 비상식량 돌",
+        "target_text": "우여량",
+        "unregistered": true
+      },
+      {
+        "cue": "석류 껍질 벨트",
+        "target_text": "석류피",
+        "unregistered": true
+      },
+      {
+        "cue": "참죽나무 뿌리껍질",
+        "target_text": "춘피",
+        "unregistered": true
+      },
+      {
+        "cue": "붉나무 벌레집",
+        "target_text": "오배자",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "18-3",
+    "name": "삽정축뇨지대약",
+    "old_scene": "하초 보물금고 구중 잠금전",
+    "declared_count": 9,
+    "visible_target_groups": 9,
+    "pairs": [
+      {
+        "cue": "산수유 루비열매",
+        "target_text": "산수유",
+        "unregistered": true
+      },
+      {
+        "cue": "백번 스님",
+        "target_text": "백번",
+        "unregistered": false
+      },
+      {
+        "cue": "오미자 열쇠고리",
+        "target_text": "오미자",
+        "unregistered": true
+      },
+      {
+        "cue": "연꽃 씨앗",
+        "target_text": "연자육",
+        "unregistered": true
+      },
+      {
+        "cue": "가시연밥 방패",
+        "target_text": "검실",
+        "unregistered": true
+      },
+      {
+        "cue": "황금 앵두 가시열매",
+        "target_text": "금앵자",
+        "unregistered": true
+      },
+      {
+        "cue": "뽕나무 사마귀집",
+        "target_text": "상표초",
+        "unregistered": false
+      },
+      {
+        "cue": "뒤집힌 요강 딸기",
+        "target_text": "복분자",
+        "unregistered": true
+      },
+      {
+        "cue": "오징어 뼈방패",
+        "target_text": "해표초",
+        "unregistered": true
+      }
+    ]
+  },
+  {
+    "section": "19",
+    "name": "용토약",
+    "old_scene": "상초 식도 분수탑 일제 분출전",
+    "declared_count": 4,
+    "visible_target_groups": 4,
+    "pairs": [
+      {
+        "cue": "참외 꼭지 빨판",
+        "target_text": "과체",
+        "unregistered": true
+      },
+      {
+        "cue": "상산 뿌리펌프",
+        "target_text": "상산",
+        "unregistered": true
+      },
+      {
+        "cue": "파란 쓸개 반석결정",
+        "target_text": "담반",
+        "unregistered": true
+      },
+      {
+        "cue": "구토 연기 여우화로",
+        "target_text": "여로",
+        "unregistered": false
+      }
+    ]
+  },
+  {
+    "section": "20",
+    "name": "외용약",
+    "old_scene": "피부 종창 분화구 살충 연고 봉합전",
+    "declared_count": 11,
+    "visible_target_groups": 11,
+    "pairs": [
+      {
+        "cue": "노란 유황돌",
+        "target_text": "웅황",
+        "unregistered": false
+      },
+      {
+        "cue": "유황 지옥불 괴물",
+        "target_text": "유황",
+        "unregistered": false
+      },
+      {
+        "cue": "비수 서리 해골돌",
+        "target_text": "비석·비상",
+        "unregistered": true
+      },
+      {
+        "cue": "수은 하얀가루",
+        "target_text": "경분",
+        "unregistered": true
+      },
+      {
+        "cue": "붉은 납 단청가루",
+        "target_text": "연단",
+        "unregistered": true
+      },
+      {
+        "cue": "화로 위 단감 돌멩이",
+        "target_text": "노감석",
+        "unregistered": false
+      },
+      {
+        "cue": "붕대 모래 붕사결정",
+        "target_text": "붕사",
+        "unregistered": true
+      },
+      {
+        "cue": "두꺼비 독우유 단지",
+        "target_text": "섬소",
+        "unregistered": true
+      },
+      {
+        "cue": "이슬 말벌집",
+        "target_text": "노봉방",
+        "unregistered": true
+      },
+      {
+        "cue": "대풍자 기름씨",
+        "target_text": "대풍자",
+        "unregistered": true
+      },
+      {
+        "cue": "무궁화 나무껍질",
+        "target_text": "목근피",
+        "unregistered": true
+      }
+    ]
+  }
+]

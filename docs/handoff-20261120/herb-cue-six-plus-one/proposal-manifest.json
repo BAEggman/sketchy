@@ -1,0 +1,32 @@
+[
+  {
+    "proposal": 1,
+    "sha256_md": "aa57f7e928822a8c7d153a2a89cee666740873f06522bf13bb100e8e11f1d96a",
+    "sha256_json": "e815554dbc0bcc26239e6edb1ba733e676e068d390cf94589a6081b95a9c256f"
+  },
+  {
+    "proposal": 2,
+    "sha256_md": "fd750183f3cd46e8a2a3ba2871cd9bf9c466a131865e94c5104403c9f01665bf",
+    "sha256_json": "b2b829b2f6ae257d5638ee3cde35e89d37daf20f904eff3e8d51be8122b51c38"
+  },
+  {
+    "proposal": 3,
+    "sha256_md": "d36fa00c9c1fa01ae935692ed6b16aaf353534c78268b672cfd5baab2c1445ff",
+    "sha256_json": "5c58a06ec3b349217175058a13ea84a700e0ae89f9d9a283bc4117dd525a8970"
+  },
+  {
+    "proposal": 4,
+    "sha256_md": "06963696ebf54b6103ad9a85f6c49f304263214dfed28c6fb95f5d42225d3d27",
+    "sha256_json": "4066c299b76a76c58651952bf5f56c4a31e0bee927b02045b8cf67e26951d265"
+  },
+  {
+    "proposal": 5,
+    "sha256_md": "8bf4942dbe2bd9cd2aed80f113e8be39b3e86a74289fe21395d0d714eb06d867",
+    "sha256_json": "9b11f830b8f8c3f5aaad83732d458b1d518ee39709a26e672dcd2d60634fb3d8"
+  },
+  {
+    "proposal": 6,
+    "sha256_md": "195086311bd02d5b66ec1ade7f330549c37226574f2de518ab43861696292afb",
+    "sha256_json": "83d51d46ad963706f34c687a1116acc10d6adf9f3ce8fe1311a8329c4b45112e"
+  }
+]

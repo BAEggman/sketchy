@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-20",
+  "repo": "BAEggman/sketchy",
+  "commit": "539bab2a87625459874739246d0c5d8ca931d257",
+  "lesson_count": 227,
+  "image_review_scope": [
+    "hist-02a",
+    "hist-03b",
+    "hist-06b",
+    "hist-07a",
+    "new-gr-14",
+    "new-gr-19"
+  ],
+  "source_manifest_old": "/Users/mac/Documents/ChatGPT/한의학 프로젝트/sketchy-coverage-audit-20261106/manifest.json",
+  "sources": [
+    {
+      "id": "D09",
+      "path": "/Users/mac/Library/CloudStorage/OneDrive-개인/한의학 정리/1장 의학사/한의학개론_의학사_8-18쪽.docx",
+      "status": "selected_passages",
+      "sha256": "322970e11d4972a9df3c9a67b2620898d0f174411db16e9226fdad0bf7320902"
+    },
+    {
+      "id": "D18",
+      "path": "/Users/mac/Library/CloudStorage/OneDrive-개인/한의학 정리/5장 경락/5장 경락 5월 18일자 수정.docx",
+      "status": "selected_passages",
+      "sha256": "16bd1e36cb3833ab38f1717cd3591dc89a30767d1bb32afa99de044f743fd3b7"
+    },
+    {
+      "id": "D19",
+      "path": "/Users/mac/Library/CloudStorage/OneDrive-개인/한의학 정리/5장 경락/5장 경락.docx",
+      "status": "selected_passages",
+      "sha256": "cdfd8314efb00f80121dba7dfd640c45338518f0d2e063aa81905b63c1b60506"
+    },
+    {
+      "id": "D22",
+      "path": "/Users/mac/Library/CloudStorage/OneDrive-개인/한의학 정리/5장 경락/유주_마스터표_12경.docx",
+      "status": "selected_passages",
+      "sha256": "e34accec42fb6046f2ae740d2ef4821fd97406ef8bde1f0609c2ec99cf06f0cf"
+    },
+    {
+      "id": "D34",
+      "path": "/Users/mac/Library/CloudStorage/OneDrive-개인/한의학 정리/포제법_암기시트.docx",
+      "status": "selected_passages",
+      "sha256": "98e2abab8fcedbfe219edbd441c2f048cbfe67976d01fbf4d1ccf2d1621ad9ad"
+    },
+    {
+      "id": "D35",
+      "path": "/Users/mac/Library/CloudStorage/OneDrive-개인/한의학 정리/한의학개론 기출문제 모음/한의학개론_경락_정답해설_1차분.docx",
+      "status": "selected_passages",
+      "sha256": "4d0e5557195716662ba3067d3f264efe9cc18696aaf40668a132ce4f28ad066f"
+    },
+    {
+      "id": "D36",
+      "path": "/Users/mac/Library/CloudStorage/OneDrive-개인/한의학 정리/한의학개론 기출문제 모음/한의학개론_경락_정답해설_2차분.docx",
+      "status": "selected_passages",
+      "sha256": "2a04bfaa23c62746a0afb68aeb328c132ee175e988ba2a12524e972a96deacf7"
+    },
+    {
+      "id": "D37",
+      "path": "/Users/mac/Library/CloudStorage/OneDrive-개인/한의학 정리/한의학개론 기출문제 모음/한의학개론_경락_정답해설_3차분.docx",
+      "status": "selected_passages",
+      "sha256": "fc53af560cb2fe71171a07ed4d38c9d3a5f757c1664a07e444f51e80c6fb6cd4"
+    },
+    {
+      "id": "D46",
+      "path": "/Users/mac/Library/CloudStorage/OneDrive-개인/한의학 정리/한의학개론 기출문제 모음/한의학개론_의학사_정답해설_1차분.docx",
+      "status": "selected_passages",
+      "sha256": "803d2fae9276aad795a5702a8f873823ba89117a59556ef98c189e38e6182ec3"
+    },
+    {
+      "id": "D47",
+      "path": "/Users/mac/Library/CloudStorage/OneDrive-개인/한의학 정리/한의학개론 기출문제 모음/한의학개론_의학사_정답해설_2차분.docx",
+      "status": "selected_passages",
+      "sha256": "da3e9678f3adea6c37ebc676e236bb10029c108e54226af60b90634cc80e3f54"
+    },
+    {
+      "name": "한의학총강.pdf",
+      "path": "/Users/mac/Library/CloudStorage/OneDrive-개인/한의사/의학 교재/한의학총강.pdf",
+      "bytes": 80637350,
+      "status": "located_not_read",
+      "sha256": "f9911233badc3985465fc29cb6d9369083e81146bb1682b9377da71744e4c96e"
+    },
+    {
+      "name": "한의학총강_통합_제3장-제11장_p226-874.docx",
+      "path": "/Users/mac/Library/CloudStorage/OneDrive-개인/한의사/의학 교재/한의학총강_통합_제3장-제11장_p226-874.docx",
+      "bytes": 4742028,
+      "status": "paragraphs_extracted_selected_read",
+      "sha256": "c3239c1d5f74391b4073110b1cff94d7b11b33e461534d8c39d3aab67d471b0c"
+    },
+    {
+      "name": "한의학개론.pdf",
+      "path": "/Users/mac/Library/CloudStorage/OneDrive-개인/한의사/의학 교재/한의학개론.pdf",
+      "bytes": 119409339,
+      "status": "located_not_read",
+      "sha256": "9c7c4a2b30bec9f832e566d60e927f76ae577bf07521f70279d04edd313d92e2"
+    },
+    {
+      "name": "한의학총강 스캔본.pdf",
+      "path": "/Users/mac/Library/CloudStorage/OneDrive-개인/한의사/의학 교재/한의학총강 스캔본.pdf",
+      "bytes": 282465295,
+      "status": "located_not_read",
+      "sha256": "f08412ad966c596b244962b190aca50c3622dc284d86f28bbaa96bae5c11ffa5"
+    }
+  ]
+}

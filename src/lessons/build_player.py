@@ -8,6 +8,7 @@
 꼴이 틀리면(필수 칸·상자 꼴·중복 id) 멈추고, 권고 위반(정거장 6~14·사실 60자·상자 범위)은 경고만 한다.
 """
 import json
+import hashlib
 import re
 import sys
 from pathlib import Path
@@ -104,6 +105,9 @@ def check(L, path, errors, warns):
 
 def main():
     errors, warns, lessons = [], [], []
+    audio_path = ROOT / 'audio/narration/manifest.json'
+    recordings = json.loads(audio_path.read_text())['records'] if audio_path.exists() else {}
+    applied = set()
     for p in sorted(LDIR.glob('*.json')):
         try:
             L = json.loads(p.read_text(encoding='utf-8'))
@@ -111,9 +115,25 @@ def main():
             errors.append(f'{p.name}: JSON 오류 — {e}')
             continue
         check(L, p, errors, warns)
+        for st in L['stations']:
+            key = f"{L['id']}#{st['n']}"
+            if key not in recordings:
+                continue
+            a = recordings[key]
+            digest = lambda data: hashlib.sha256(data).hexdigest()
+            if digest(json.dumps(st, ensure_ascii=False, sort_keys=True).encode()) != a['station_sha256']:
+                errors.append(f'{key}: 녹음 승인 후 정거장 변경 — 재검토 필요')
+            if digest(a['text'].encode()) != a['text_sha256'] or digest((ROOT / a['src']).read_bytes()) != a['audio_sha256']:
+                errors.append(f'{key}: 대본/음성 해시 불일치')
+            if digest((ROOT / L['image']).read_bytes()) != a['image_sha256']:
+                errors.append(f'{key}: 녹음 승인 후 그림 변경 — 재검토 필요')
+            st['recording'] = {'src': a['src'], 'text': a['text']}
+            applied.add(key)
         L['has_image'] = (ROOT / L.get('image', '')).is_file() if L.get('image') else False
         lessons.append(L)
     ids = [L.get('id') for L in lessons]
+    if applied != set(recordings):
+        errors.append('녹음 연결표에 존재하지 않는 정거장이 있다')
     for i in sorted({i for i in ids if ids.count(i) > 1}):
         errors.append(f'과 id {i!r}가 겹친다')
     for w in warns:

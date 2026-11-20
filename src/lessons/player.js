@@ -123,6 +123,7 @@
   // ---------- 상태 ----------
   var S = { L: null, mode: 'tour', i: 0, auto: false, heard: -1, speaking: false, sel: -1, test: null };
   var autoTimer = 0, safetyTimer = 0;
+  var recordedAudio = null, playbackToken = 0;
 
   // ---------- 그림 · 덮개 ----------
   var stage = $('stage'), pic = $('pic'), ph = $('ph'), svg = $('dim');
@@ -320,7 +321,16 @@
     S.speaking = on;
     setText($('replayBtn'), on ? '읽기 멈춤' : '다시 듣기');
   }
-  function stopAll() { clearTimers(); tts.stop(); setSpeaking(false); }
+  function stopAll() {
+    playbackToken++;
+    clearTimers(); tts.stop();
+    if (recordedAudio) {
+      recordedAudio.onended = recordedAudio.onerror = null;
+      recordedAudio.pause(); recordedAudio.removeAttribute('src'); recordedAudio.load();
+      recordedAudio = null;
+    }
+    setSpeaking(false);
+  }
   function afterStation() {
     clearTimers();
     if (!S.auto || S.mode !== 'tour') return;
@@ -328,14 +338,37 @@
     autoTimer = setTimeout(function () { goTour(S.i + 1); }, 900);
   }
   function playStation(force) {
-    clearTimers(); tts.stop(); setSpeaking(false);
+    stopAll();
     if (S.mode !== 'tour') return;
     var st = S.L.stations[S.i];
     // 읽어 주기는 한글 독음 대본(tts)을 쓴다 — 브라우저 음성이 한자를 중국어로 읽기 때문. 화면에는 한자가 든 say가 그대로 보인다.
-    var text = st.tts || st.say || st.fact || '', at = S.i;
+    var text = st.recording ? st.recording.text : (st.tts || st.say || st.fact || ''), at = S.i;
+    var token = playbackToken;
+    if (st.recording && (prefs.voice || force) && activated() && typeof Audio !== 'undefined') {
+      var audio = recordedAudio = new Audio(st.recording.src);
+      audio.playbackRate = prefs.rate;
+      setSpeaking(true);
+      audio.onended = function () {
+        if (token !== playbackToken) return;
+        S.heard = at; stopAll(); afterStation();
+      };
+      function failed() {
+        if (token !== playbackToken) return;
+        stopAll(); setAuto(false);
+        setText($('replayBtn'), '다시 듣기 — 재생 재시도');
+      }
+      audio.onerror = failed;
+      try { var playing = audio.play(); if (playing && playing.catch) playing.catch(failed); }
+      catch (e) { failed(); }
+      return; // WAV는 추정 타이머 대신 실제 ended 이벤트로 다음 구간에 이동한다.
+    }
     if (tts.ok && (prefs.voice || force) && activated() && text) {
       setSpeaking(true);
-      tts.speak(text, prefs.rate, function () { S.heard = at; setSpeaking(false); afterStation(); });
+      tts.speak(text, prefs.rate, function (ok) {
+        if (token !== playbackToken) return;
+        clearTimers(); setSpeaking(false);
+        if (ok) { S.heard = at; afterStation(); } else setAuto(false);
+      });
       if (S.auto) safetyTimer = setTimeout(function () { stopAll(); afterStation(); }, estimateMs(text) * 2 + 4000);
     } else if (S.auto) {
       var shown = (st.fact || '') + (st.hook || '') + (st.say || '');
@@ -504,7 +537,7 @@
   rate.addEventListener('input', function () { prefs.rate = clamp(+rate.value, 0.8, 1.4); showRate(); });
   rate.addEventListener('change', function () { savePrefs(); if (S.speaking) playStation(true); });
   document.querySelector('[data-act="voice"]').setAttribute('aria-pressed', String(prefs.voice));
-  if (!tts.ok) {
+  if (!tts.ok && typeof Audio === 'undefined') {
     $('ttsNote').hidden = false;
     ['voice', 'replay'].forEach(function (a) { document.querySelector('[data-act="' + a + '"]').disabled = true; });
     rate.disabled = true;

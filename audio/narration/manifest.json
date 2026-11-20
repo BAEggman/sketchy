@@ -1,0 +1,258 @@
+{
+  "version": 1,
+  "records": {
+    "zds-11#2": {
+      "src": "audio/narration/zds-11__s2__996fbf912909.mp3",
+      "text": "윗줄 둘째 표지는 굵은 땀방울이다. 둘째로 땀을 묻는다, 이문한. 땀이 나는가, 언제, 어디서, 얼마나.",
+      "text_sha256": "996fbf9129090fb031e6210750fc1eec039e35b4ff76e4166ce51cbfbe26d861",
+      "audio_sha256": "ebd77a3196eab98359a813cd2bbfe164d43934fcb8831fba222424590703a17b",
+      "image_sha256": "69d8398262e9fc6fd49b6d80ae6b2c730535a0584cf9335daeedcde8eefe8d65",
+      "source_commit": "a635859d0108adc14865bcf82df8c686ab72ed9d",
+      "station_sha256": "fb589456a0beca847202807235b119327f5d9d52bffa3c2c339ad8d2e5457690",
+      "original_wav_sha256": "a5c0cc2b79a41a77e1b795787783a29963a991d9ae4ff7806859238ddd6b331a",
+      "original_wav_filename": "zds-11__s2__996fbf912909.wav"
+    },
+    "zds-11#4": {
+      "src": "audio/narration/zds-11__s4__d24a40c1068e.mp3",
+      "text": "윗줄 넷째 표지는 하얀 변기다. 넷째로 대변과 소변을 묻는다, 사문변.",
+      "text_sha256": "d24a40c1068ec8c19c07add6cbdbea8ae7cc9106bfd15d1677b5d3c57212c3a8",
+      "audio_sha256": "7509b7ec4097d10d89cced70d64d5add7628e075c21152eca55e6c1967693643",
+      "image_sha256": "69d8398262e9fc6fd49b6d80ae6b2c730535a0584cf9335daeedcde8eefe8d65",
+      "source_commit": "a635859d0108adc14865bcf82df8c686ab72ed9d",
+      "station_sha256": "3b4166f0158e4cd26b09d49e951e06417ac7f6c9bb482a8a1633e5efec5af772",
+      "original_wav_sha256": "b75fddd7bb0f3e1aa9cd95984b24714e898cc7e4ecd269c25367db8773150997",
+      "original_wav_filename": "zds-11__s4__d24a40c1068e.wav"
+    },
+    "zds-11#5": {
+      "src": "audio/narration/zds-11__s5__d4558a4b47b4.mp3",
+      "text": "윗줄 다섯째 표지는 김 나는 국수와 컵이다. 다섯째로 먹고 마시는 것을 묻는다, 오문음식. 입맛, 먹는 양, 좋아하는 맛.",
+      "text_sha256": "d4558a4b47b4d9e8b10349f1161df000589a93aa3cb18b9ac1e94d751b2af11a",
+      "audio_sha256": "e04e028905efdd71deceb523f1724633b4579ab576c23786100fafe771577828",
+      "image_sha256": "69d8398262e9fc6fd49b6d80ae6b2c730535a0584cf9335daeedcde8eefe8d65",
+      "source_commit": "a635859d0108adc14865bcf82df8c686ab72ed9d",
+      "station_sha256": "fac5caef58fac231c569db907240c5875a2c2eb8d228765a86f7e7223a6bb398",
+      "original_wav_sha256": "5642fa10a748d5dccbc095a0df31e11a1973f0d1e5e72f774d45cc97b89d7f1b",
+      "original_wav_filename": "zds-11__s5__d4558a4b47b4.wav"
+    },
+    "yyox-07#8": {
+      "src": "audio/narration/yyox-07__s8__80d6b5a1680c.mp3",
+      "text": "사또는 제 배를 움켜쥐고 있다, 남에게서 온 것이 아니라 제 장부가 스스로 앓는다. 자병, 정사다.",
+      "text_sha256": "80d6b5a1680c556787946246963bd51f99a8e32756b5389d194ec7a7612dcb05",
+      "audio_sha256": "8b23e32ae044d751c7823d90a8dba1e2f23867bff25b932db291be7270504786",
+      "image_sha256": "d2fb26ae04950959e5c36df6e13708bbeb8031eae4f1726c052121777c32a38e",
+      "source_commit": "a635859d0108adc14865bcf82df8c686ab72ed9d",
+      "station_sha256": "4ce51ab1d7ff0a8ada55cebd29f5f30ef736944e4ff6ffc461d78d47b862c1a0",
+      "original_wav_sha256": "f99c17a256fbaea1d42c59812815f6e8f411b64f3bb06c6474782633ccf68774",
+      "original_wav_filename": "yyox-07__s8__80d6b5a1680c.wav"
+    },
+    "zds-11#6": {
+      "src": "audio/narration/zds-11__s6__10222e621a8d.mp3",
+      "text": "아랫줄 첫째, 곧 여섯째 표지는 두 손을 댄 가슴과 명치다. 여섯째로 가슴을 묻는다, 육문흉. 가슴이 답답한가, 두근거리는가, 아픈가.",
+      "text_sha256": "10222e621a8d78d46131e2554005c5dfe74719ebe1c6a8f8ff87b6a8a9a44897",
+      "audio_sha256": "1aad4e2beb4ce795251e34560bdd9e405eb1f48c80887daabc20a6682dacffe6",
+      "image_sha256": "69d8398262e9fc6fd49b6d80ae6b2c730535a0584cf9335daeedcde8eefe8d65",
+      "source_commit": "a635859d0108adc14865bcf82df8c686ab72ed9d",
+      "station_sha256": "d06f5efd8fac989a2eb806addba72e4955e2f445dde709a278d3e1d88730b55f",
+      "original_wav_sha256": "6d6adb2a898cf5287068e64fb677fa641d88931b5cd0a80cb589aa565bece0c0",
+      "original_wav_filename": "zds-11__s6__10222e621a8d.wav"
+    },
+    "yyox-04#0": {
+      "src": "audio/narration/yyox-04__s0__b8c50f3b6b62.mp3",
+      "text": "지도처럼 내려다본 과수원이다. 위 검은 구역의 못이 북의 수, 아래 붉은 구역의 모닥불이 남의 화, 오른쪽 초록 구역의 나무가 동의 목, 왼쪽 흰 구역의 쇠 연장이 서의 금, 가운데 누런 흙이 중앙의 토. 구역마다 놓인 흰 판의 점이 그 행의 생수다.",
+      "text_sha256": "b8c50f3b6b62478435a7081571ed23b255d891d25d852e2e1c6cf64325a48527",
+      "audio_sha256": "ec4a2b3e79360771994b3803bc2716444191bdd72fe9068f025e6569e6cadb37",
+      "image_sha256": "6f58d16c20222f97b7cd24782b1305c0746745771d4b1900a4ea0e0e2460a678",
+      "source_commit": "a635859d0108adc14865bcf82df8c686ab72ed9d",
+      "station_sha256": "909952d779f3a43a16a99cbe6fa918891d85d806d7123aae1d1297ebad31ee7c",
+      "original_wav_sha256": "0002dec1099e69bdc34323b9b1019a8e4de9d935609e3fda11e9b0f85c31a8ed",
+      "original_wav_filename": "yyox-04__s0__b8c50f3b6b62.wav"
+    },
+    "yyox-04#1": {
+      "src": "audio/narration/yyox-04__s1__c2314224e1d3.mp3",
+      "text": "정원사가 못의 물을 길어 와 나무에 붓는다, 물이 나무를 낳는다, 수생목. 상생은 이렇게 다음 것을 낳아 기르는 차례다. 목은 타서 화를 낳고, 화는 재가 되어 토를 낳고, 토는 속에서 금을 낳고, 금은 물을 맺어 수를 낳고, 수는 다시 목을 기른다. 과수원으로는 오른쪽 나무에서 아래 모닥불, 가운데 흙, 왼쪽 쇠, 위쪽 못, 다시 나무다.",
+      "text_sha256": "c2314224e1d32482e5af4b4f975c361bd3b96a580aad05ee7e9b420b1d4112a6",
+      "audio_sha256": "709491bba5e7fb712443d9bf3bc9d998b4c7d92ed6a6eaa3d9c29a6ff031bd7b",
+      "image_sha256": "6f58d16c20222f97b7cd24782b1305c0746745771d4b1900a4ea0e0e2460a678",
+      "source_commit": "a635859d0108adc14865bcf82df8c686ab72ed9d",
+      "station_sha256": "076325350ee14903909e3dd6cb2e6fa3556997d67acf95dc0f45af1f62182ca4",
+      "original_wav_sha256": "c4cdf258dde6153b8bf88149633c835e5e492befe2da8bb4eaeb4ff9cf4e29ed",
+      "original_wav_filename": "yyox-04__s1__c2314224e1d3.wav"
+    },
+    "yyox-04#2": {
+      "src": "audio/narration/yyox-04__s2__183ed9299dfc.mp3",
+      "text": "나무줄기에 쇠도끼가 박혔다, 왼쪽 걸이에서 온 쇠가 나무를 이긴다, 금극목. 상극은 하나 건너 누르는 차례다. 나무뿌리가 흙을 뚫고, 흙 둑이 물을 막고, 물이 불을 끄고, 불이 쇠를 녹이고, 쇠가 나무를 찍는다, 목극토, 토극수, 수극화, 화극금, 금극목. 상생 차례 목화토금수에서 한 칸씩 건너뛰면 된다.",
+      "text_sha256": "183ed9299dfc9cf0f1527ab6a082fbde5fe11a2f58db6bf86aa1a493224badf7",
+      "audio_sha256": "b0aa537431e30845724b9762ae24c75463a0e8696a59010c78f4c2fb80941f1a",
+      "image_sha256": "6f58d16c20222f97b7cd24782b1305c0746745771d4b1900a4ea0e0e2460a678",
+      "source_commit": "a635859d0108adc14865bcf82df8c686ab72ed9d",
+      "station_sha256": "4dc6525819c0f70796da299a30a35ad939817e55d0883710d563f726ea9324e0",
+      "original_wav_sha256": "52ffdb3070ce54eb1963b0a213bf1f33fba5abb2f84610eb0d9afda4aedae6ee",
+      "original_wav_filename": "yyox-04__s2__183ed9299dfc.wav"
+    },
+    "yyox-04#3": {
+      "src": "audio/narration/yyox-04__s3__7eb6adbbfc31.mp3",
+      "text": "위쪽 검은 구역, 못 곁의 흰 판에 점이 하나, 수의 생수는 1이다. 북쪽, 검은색. 성수는 여기에 가운데 흙의 다섯을 더한다, 하나 더하기 다섯, 6. 수는 1과 6. 생수는 낳는 수, 성수는 이루는 수, 흙을 만나야 이루어진다. 생성수는 수 1, 6, 화 2, 7, 목 3, 8, 금 4, 9, 토 5, 10 차례다.",
+      "text_sha256": "7eb6adbbfc31b52d03a26b2088a79a171a0dabf5f5921135121443e79579dfcf",
+      "audio_sha256": "a69960e626238918476cc2c79217da56574658fbc1b38e2b6dd5319636b87609",
+      "image_sha256": "6f58d16c20222f97b7cd24782b1305c0746745771d4b1900a4ea0e0e2460a678",
+      "source_commit": "a635859d0108adc14865bcf82df8c686ab72ed9d",
+      "station_sha256": "4673a59f41b860a3443e7842ce9d24ab815dfaf136d2f1a9c21ff8d1fbb78e59",
+      "original_wav_sha256": "12d437d77d40ceb266c37c29a60346af347b035aa3d0fa92effd8983f109bf1f",
+      "original_wav_filename": "yyox-04__s3__7eb6adbbfc31.wav"
+    },
+    "yyox-04#4": {
+      "src": "audio/narration/yyox-04__s4__394eaf4756a4.mp3",
+      "text": "아래쪽 붉은 구역, 모닥불 곁의 판에 점이 둘, 화의 생수는 2. 남쪽, 붉은색. 다섯을 더해 성수는 7. 화는 2와 7. 성수만 물으면 목은 8, 화는 7이다.",
+      "text_sha256": "394eaf4756a41f61145be5ca94e04ba98a0371542e574927b873eb4f40260177",
+      "audio_sha256": "9e523c10ad5b60023248af52d1bdf79627bdcf5f49df6d8d8f2c8a83b122945f",
+      "image_sha256": "6f58d16c20222f97b7cd24782b1305c0746745771d4b1900a4ea0e0e2460a678",
+      "source_commit": "a635859d0108adc14865bcf82df8c686ab72ed9d",
+      "station_sha256": "f1e74d05d883738a5b3f88ced473b23f7667866ae1c29487ebcf7d4c9cf7308a",
+      "original_wav_sha256": "23fb82076f586dfe2372f451e0235d73358f649ec3e5b9b0c5a33cf8c9831707",
+      "original_wav_filename": "yyox-04__s4__394eaf4756a4.wav"
+    },
+    "yyox-04#5": {
+      "src": "audio/narration/yyox-04__s5__46d5c75ec7ea.mp3",
+      "text": "오른쪽 초록 구역, 나무 아래 판에 점이 셋, 목의 생수는 3. 동쪽, 푸른색. 다섯을 더해 성수는 8. 목은 3과 8.",
+      "text_sha256": "46d5c75ec7ea1cafd3a4229e03944c36af0719e6188d7cf879b9fa3314e08c51",
+      "audio_sha256": "52f9c0086daa5ada65835264fbe2641aa1a9a16dda917caa46903404161e5975",
+      "image_sha256": "6f58d16c20222f97b7cd24782b1305c0746745771d4b1900a4ea0e0e2460a678",
+      "source_commit": "a635859d0108adc14865bcf82df8c686ab72ed9d",
+      "station_sha256": "287a1ed9174ff4295d583887bc24c16405ca81eca37f2109d7038e9704169ffa",
+      "original_wav_sha256": "9064e0f9455795b7cc3d72cafbdcc2f7f1b515f3217499287ae9e642d288cf53",
+      "original_wav_filename": "yyox-04__s5__46d5c75ec7ea.wav"
+    },
+    "yyox-04#6": {
+      "src": "audio/narration/yyox-04__s6__3668fe336e7b.mp3",
+      "text": "왼쪽 흰 구역, 쇠 연장 걸이 곁의 판에 점이 넷, 금의 생수는 4. 서쪽, 흰색. 다섯을 더해 성수는 9. 금은 4와 9. 금궤진언론이 적는 수도 금 9, 수 6이다.",
+      "text_sha256": "3668fe336e7be0cc0f0ad8c3d23fa7f67b898a57ece39d1937755606d1036434",
+      "audio_sha256": "32464654203870fd0f2ffaebde134ef36df7a8bd5be4240f2bb9573384becbfd",
+      "image_sha256": "6f58d16c20222f97b7cd24782b1305c0746745771d4b1900a4ea0e0e2460a678",
+      "source_commit": "a635859d0108adc14865bcf82df8c686ab72ed9d",
+      "station_sha256": "bc41202616010396f8b7252607306ef2fa854f45aafa54430b27b491dfc02325",
+      "original_wav_sha256": "6a242654aa491bf51d4bf8b8d3f8b923dd521373f63b4b25eaab536e57e87744",
+      "original_wav_filename": "yyox-04__s6__3668fe336e7b.wav"
+    },
+    "yyox-04#7": {
+      "src": "audio/narration/yyox-04__s7__9eff6ea7bfc5.mp3",
+      "text": "가운데 누런 구역, 흙무더기 곁의 판에 점이 다섯, 토의 생수는 5. 가운데, 누런색. 다섯을 더해 성수는 10. 다른 넷의 성수는 모두 이 흙의 5를 얻어 이루어진다. 다만 금궤진언론은 토에만 성수 10이 아니라 생수 5를 쓴다.",
+      "text_sha256": "9eff6ea7bfc5f23e74fddad4666552e6b0703b89f7b83ebf9450c3bc8031fb26",
+      "audio_sha256": "3f395f62cb0af47b8aa91609e5760b7b9b6785a2b340a77913ad9e01bf308f61",
+      "image_sha256": "6f58d16c20222f97b7cd24782b1305c0746745771d4b1900a4ea0e0e2460a678",
+      "source_commit": "a635859d0108adc14865bcf82df8c686ab72ed9d",
+      "station_sha256": "b35ebb60173d363dbd8361f29d65fe3bc065f3fa44d5c287e1c45bd5c8701616",
+      "original_wav_sha256": "ddb6ffb0c3f537b9b83c7f15682016d295563d1c56a5f3e89227f4985b49e994",
+      "original_wav_filename": "yyox-04__s7__9eff6ea7bfc5.wav"
+    },
+    "yyox-04#8": {
+      "src": "audio/narration/yyox-04__s8__1404d52e5448.mp3",
+      "text": "흰 판의 점을 하나부터 다섯까지 세어 보자. 점 하나는 위쪽의 수, 둘은 아래쪽의 화, 셋은 오른쪽의 목, 넷은 왼쪽의 금, 다섯은 가운데의 토다. 오행이 생겨난 차례인 수, 화, 목, 금, 토를 나타낸다. 상생의 순서인 목, 화, 토, 금, 수와 구별하자. 그림에서는 위와 아래, 오른쪽과 왼쪽, 마지막으로 가운데를 짚으며 십자를 그리는 순서로 기억하면 된다.",
+      "text_sha256": "1404d52e544819d8a38866794c1ce0337cdaa1ca7797e416f2cb641834053f7d",
+      "audio_sha256": "5ff0597c093c2f44433a78677807aaec6f2bd54b497caea3e58612ba27d11669",
+      "image_sha256": "6f58d16c20222f97b7cd24782b1305c0746745771d4b1900a4ea0e0e2460a678",
+      "source_commit": "a635859d0108adc14865bcf82df8c686ab72ed9d",
+      "station_sha256": "52db68fd5473e7ce672e67aeab2f1a399b7bcc2ad48d71154dd5c09be9701c46",
+      "original_wav_sha256": "507709e419ef889efc2dc223851a3cefbaf6db145a0c71ced9faf3f665d0bff5",
+      "original_wav_filename": "yyox-04__s8__1404d52e5448.wav"
+    },
+    "yyox-04#9": {
+      "src": "audio/narration/yyox-04__s9__52f35dc3776c.mp3",
+      "text": "그림을 한 바퀴 돌며 정리해 보자. 위 못, 수 1과 6. 아래 모닥불, 화 2와 7. 오른쪽 나무, 목 3과 8. 왼쪽 쇠 연장, 금 4와 9. 가운데 흙, 토 5와 10. 물 주는 정원사는 상생, 낳는 차례 목화토금수. 나무에 박힌 도끼는 상극, 한 칸 건너 누른다. 생겨난 차례는 점 수대로 수화목금토.",
+      "text_sha256": "52f35dc3776c69ef53026b7286e31f8d934fbecd91032bc260def70a52471d54",
+      "audio_sha256": "0c9097a65384f44a86194212cc186502bf8ebb3bbc97c851f6dbd1a2dcafe432",
+      "image_sha256": "6f58d16c20222f97b7cd24782b1305c0746745771d4b1900a4ea0e0e2460a678",
+      "source_commit": "a635859d0108adc14865bcf82df8c686ab72ed9d",
+      "station_sha256": "0db1cb44864d9217c63d41966d845fd7e92a339e3dde0575d21dc7e7dde763f5",
+      "original_wav_sha256": "e1931f2445b5be45cd65e30dabfc8ec3d1cd55b0d0157d0a2845742a73934eb0",
+      "original_wav_filename": "yyox-04__s9__52f35dc3776c.wav"
+    },
+    "yyox-02#2": {
+      "src": "audio/narration/yyox-02__s2__90641db7b6be.mp3",
+      "text": "볕이 드는 쪽의 위를 보자. 키가 다른 세 사람이 있다. 가운데 사람은 큰 사람 곁에서는 작고, 작은 사람 곁에서는 크다. 음이냐 양이냐는 누구와 견주느냐로 정해진다, 마주 대할 대, 기다릴 대, 대대. 음양의 상대성이다.",
+      "text_sha256": "90641db7b6bee657b86c51a8b1f10085e6b51ac6742ff4095ac56289b46cc043",
+      "audio_sha256": "bd2041f4286ccec9e370507e3f2c30fc9eaf1a67fc568a668204a991db5c8554",
+      "image_sha256": "33cb2ecea318e408be91e8153e9a45e295d435b1c948dcf3df9f2c03f893fc27",
+      "source_commit": "a635859d0108adc14865bcf82df8c686ab72ed9d",
+      "station_sha256": "b2a488d0eb9700d1373a9b17712d80ecdd4825819ca5d877b0ab4a568da594f2",
+      "original_wav_sha256": "9df2fcccdc6674b52b6b4bf0fe8386041b2634edf6753df5342c821811210fb9",
+      "original_wav_filename": "yyox-02__s2__90641db7b6be.wav"
+    },
+    "yyox-02#3": {
+      "src": "audio/narration/yyox-02__s3__565f2690aeb8.mp3",
+      "text": "왼쪽 아래, 짐꾼이 멜대 하나에 해 물통과 달 물통을 멨다. 해와 달은 맞서지만 한 멜대에 달렸다, 맞서는 둘이 한 바탕에 묶인 통일. 한쪽이 없으면 멜대가 기운다.",
+      "text_sha256": "565f2690aeb8a3333f1282fedd067f7279477fb08b0524494b1bf03031095d81",
+      "audio_sha256": "a652118c88fb526608fd28a1373890bbfbed3e5e878ddb6a429a4a3e07b57a25",
+      "image_sha256": "33cb2ecea318e408be91e8153e9a45e295d435b1c948dcf3df9f2c03f893fc27",
+      "source_commit": "a635859d0108adc14865bcf82df8c686ab72ed9d",
+      "station_sha256": "04e4538c091993d9eadbd8e79492950fb3992180050ace81480780b45c8d52c6",
+      "original_wav_sha256": "03e9803e7cdb6ca9de22cf4fee0af17c6f6a71430feb1e6b22cffd4c66c7859d",
+      "original_wav_filename": "yyox-02__s3__565f2690aeb8.wav"
+    },
+    "yyox-02#7": {
+      "src": "audio/narration/yyox-02__s7__95f7b43c72f6.mp3",
+      "text": "볕 쪽 가운데, 칠장이가 롤러로 밝은 칠을 민다. 나무 뒤로 밝은 땅이 금을 넘어 그늘 쪽으로 번졌다, 양이 자라면 음이 사라진다, 양장음소. 거꾸로면 음장양소. 동지에서 하지까지가 음소양장이다. 성질은 그대로이고 분량만 늘고 준다, 사라질 소, 자랄 장, 소장.",
+      "text_sha256": "95f7b43c72f619fad969f14b537918ab31479d4ea94a20aa4ce4fe1a82a17412",
+      "audio_sha256": "5e32f89658232b8fc30a400255fab405e9672e5358cf826d74e19656fda3f1f5",
+      "image_sha256": "33cb2ecea318e408be91e8153e9a45e295d435b1c948dcf3df9f2c03f893fc27",
+      "source_commit": "a635859d0108adc14865bcf82df8c686ab72ed9d",
+      "station_sha256": "98a0a96ef1a638a306d0e41b77df670e05e9313093e89813ffaaf1fcfd558e45",
+      "original_wav_sha256": "4380187f4cea18c46667461f8df2da190cf5d3460592a6afbf0c8eeb3a8ef9f7",
+      "original_wav_filename": "yyox-02__s7__95f7b43c72f6.wav"
+    },
+    "yyox-02#9": {
+      "src": "audio/narration/yyox-02__s9__b8bfe10a94a1.mp3",
+      "text": "그늘진 쪽 위에 있는 집을 보자. 안에는 검은 옷 사람이 열쇠를 쥐고 궤를 지키고, 밖에는 흰 옷 사람이 편지를 들고 달린다. 음은 안에서 양의 지킴이가 되고, 양은 밖에서 음의 심부름꾼이 된다, 음재내 양지수야, 양재외 음지사야. 지킬 수, 부릴 사다. 이것도 호근의 원문이다.",
+      "text_sha256": "b8bfe10a94a191b1297b8f0e63562246e0abde303ed529a196fed9509c855245",
+      "audio_sha256": "7dcf7a07bc5ca2fab0d08cdb1bd05e75b43a353fb6aff9d4b42478ec134cb966",
+      "image_sha256": "33cb2ecea318e408be91e8153e9a45e295d435b1c948dcf3df9f2c03f893fc27",
+      "source_commit": "a635859d0108adc14865bcf82df8c686ab72ed9d",
+      "station_sha256": "66fbe20d3780544327ebf582e7ffa4ae098688a04bd2835fc9682c77f17516c3",
+      "original_wav_sha256": "914901924d99c59ac1c3b992c710c5c23f027713be4ffd1f48d12ad851051578",
+      "original_wav_filename": "yyox-02__s9__b8bfe10a94a1.wav"
+    },
+    "yyox-02#10": {
+      "src": "audio/narration/yyox-02__s10__f91a05488a84.mp3",
+      "text": "오른쪽 아래에 있는 원반 두 개를 보자. 온전한 원반은 빛난다, 음이 고르고 양이 단단히 여며지면 정신이 다스려진다, 음평양비 정신내치. 쪼개져 흩어진 원반은 빛을 잃었다, 음양이 갈라서면 정기가 끊어진다, 음양리결 정기내절. 소문, 생기통천론. 몸의 구조와 기능이 고르게 어울린 상태가 음평양비다, 오행의 항해승제와 구별한다.",
+      "text_sha256": "f91a05488a841d9d3edea4eaeb309b6ccdde6831f2fb41f5e1a168d07b017da9",
+      "audio_sha256": "813d7539758eb72a8353f7d5b2609632ad22ca0012a7462ef405545451a0f491",
+      "image_sha256": "33cb2ecea318e408be91e8153e9a45e295d435b1c948dcf3df9f2c03f893fc27",
+      "source_commit": "a635859d0108adc14865bcf82df8c686ab72ed9d",
+      "station_sha256": "b623af4a3ada64906f190d098fd125ae616c9484cabf949bd92af6e7c44dccf5",
+      "original_wav_sha256": "1d397bab7fca8e9227aef17cbb4a465e300267be7df76f80394e63b3e779f459",
+      "original_wav_filename": "yyox-02__s10__f91a05488a84.wav"
+    },
+    "yyox-03#0": {
+      "src": "audio/narration/yyox-03__s0__283b35491c03.mp3",
+      "text": "들판이 다섯 칸으로 나뉘어 봄에서 겨울로 이어진다. 왼쪽부터 목, 화, 토, 금, 수, 차례대로 낳는 상생의 순서다. 칸마다 뒤에는 그 행의 장부를 맡은 사람이 서 있고, 앞에는 그 행의 성질을 보여 주는 물건이 있다.",
+      "text_sha256": "283b35491c037c4dd4a8b00d093d6ee0ec502f20e23efe9b2e8e122f74a41961",
+      "audio_sha256": "2b55c1f56b00eaf41eb291e104a57c861edef4e5af1a2902572e5b912dd085e2",
+      "image_sha256": "c30b4af9d10f70cdd37cfd29eee7230eb0eb0e123b2137d4f4c79d5c5425821f",
+      "source_commit": "a635859d0108adc14865bcf82df8c686ab72ed9d",
+      "station_sha256": "355f2f89f56bf783b5e2b01fd6a3620e021bc9e4e39c2a830795069e47ec434a",
+      "original_wav_sha256": "de088bf7b05e78c1716503897f6254c3bf3e04d028b1ed7da1fba4ec8a5f20f0",
+      "original_wav_filename": "yyox-03__s0__283b35491c03.wav"
+    },
+    "yyox-03#11": {
+      "src": "audio/narration/yyox-03__s11__07725ac62b3d.mp3",
+      "text": "왼쪽부터 다시 연결해 보자. 굽고 곧은 묘목, 목왈곡직, 장군 간. 모닥불, 화왈염상, 임금 심. 씨와 볏단, 토원가색, 곳간 농부 비. 모루의 쇠, 금왈종혁, 재상 폐. 폭포, 수왈윤하, 장사 신. 상서, 홍범의 다섯 구절이다. 십이관에서 담은 중정지관, 결단이 나온다.",
+      "text_sha256": "07725ac62b3d2a6e251a8b07654b7ea61b2e07dd57fc29763227bf59ca40638f",
+      "audio_sha256": "cd636ddd9c8747d007fefe6ade83c01ab1793648630a03b4203ab38d1c3ee1ac",
+      "image_sha256": "c30b4af9d10f70cdd37cfd29eee7230eb0eb0e123b2137d4f4c79d5c5425821f",
+      "source_commit": "a635859d0108adc14865bcf82df8c686ab72ed9d",
+      "station_sha256": "b7ea6ae6f5db2ad7d259a57ff41dfe3f2c007dda310684b9135c6e83082992bd",
+      "original_wav_sha256": "98378f5c1ad35104ac75197c064d1b2eeac24e59c068feaf2dc03e8921e6578a",
+      "original_wav_filename": "yyox-03__s11__07725ac62b3d.wav"
+    },
+    "zds-11#1": {
+      "src": "audio/narration/zds-11__s1__e6dbf586a983__take2.mp3",
+      "text": "윗줄 첫째 표지에 얼음 조각과 불꽃이 나란하다. 첫째로 추위와 열을 묻는다, 일문한열. 추운가, 열이 나는가, 둘이 함께인가, 번갈아 오는가. 십문가의 앞 네 구는 일문한열이문한, 삼문두신사문변, 오문음식륙문흉, 칠롱팔갈구당변이다.",
+      "text_sha256": "e6dbf586a9832240e040f88ec16ccc389a79e2037d3321eaebbe0038d17e5e23",
+      "audio_sha256": "d5875d08698fe7fd36fa805f95240985bf945f326f5bdb13abcce4592b485d7b",
+      "image_sha256": "69d8398262e9fc6fd49b6d80ae6b2c730535a0584cf9335daeedcde8eefe8d65",
+      "source_commit": "a635859d0108adc14865bcf82df8c686ab72ed9d",
+      "station_sha256": "e2fe0a3b48a026556ac954fdb9eb195f1d042abf800a601a6c09882040957f86",
+      "original_wav_sha256": "795c54eac80be5be43904c7667a087977eb2b875a93f518ad3bc81d2a55d24ee",
+      "original_wav_filename": "zds-11__s1__e6dbf586a983__take2.wav"
+    }
+  }
+}

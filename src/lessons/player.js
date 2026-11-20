@@ -8,10 +8,128 @@
 
   var KEY = 'sketchy_lessons_v1';          // { <과id>: [{date, score, total, wrong:[n…]}] }
   var PKEY = 'sketchy_lessons_prefs_v1';   // { rate, voice } — 이 브라우저만의 편의 설정
+  var HKEY = 'sketchy_hub_v1';             // { stars:{id:1~3}, autoNext, repeat:{mode,a,b}, view, closed:{장id:true} }
+  var PLKEY = 'sketchy_hub_playlist_v1';   // 탭 하나의 재생 목록(sessionStorage)
   var MODES = ['tour', 'review', 'test'];
 
   function $(id) { return document.getElementById(id); }
   function clamp(v, lo, hi) { return Math.max(lo, Math.min(hi, v)); }
+
+  // ---------- 교재 목차 (curriculum.json) ----------
+  var CUR = { chapters: [], shelf: [] };
+  try { CUR = JSON.parse(document.getElementById('curriculum-data').textContent) || CUR; } catch (e) { /* 목차 없음 → 아래에서 id 순 */ }
+  CUR.chapters = CUR.chapters || []; CUR.shelf = CUR.shelf || [];
+  var PLACE = Object.create(null);   // id → { ch, sec, it } | { shelf } | { stray }
+  var BOOK = [], SHELF = [];
+  CUR.chapters.forEach(function (ch) {
+    (ch.sections || []).forEach(function (sec) {
+      (sec.items || []).forEach(function (it) {
+        if (!byId[it.lesson] || PLACE[it.lesson]) return;
+        PLACE[it.lesson] = { ch: ch, sec: sec, it: it };
+        BOOK.push(it.lesson);
+      });
+    });
+  });
+  CUR.shelf.forEach(function (x) {
+    if (!byId[x.lesson] || PLACE[x.lesson]) return;
+    PLACE[x.lesson] = { shelf: x }; SHELF.push(x.lesson);
+  });
+  LESSONS.forEach(function (L) { if (!PLACE[L.id]) { PLACE[L.id] = { stray: true }; BOOK.push(L.id); } });
+  var BOOKIDX = Object.create(null);
+  BOOK.forEach(function (id, i) { BOOKIDX[id] = i; });
+  SHELF.forEach(function (id, i) { BOOKIDX[id] = BOOK.length + i; });
+  function levelOf(id) { var p = PLACE[id]; return p && p.it && typeof p.it.level === 'number' ? p.it.level : 2; }
+  function chIds(ch) {
+    var out = [];
+    (ch.sections || []).forEach(function (s) { (s.items || []).forEach(function (it) { if (PLACE[it.lesson] && PLACE[it.lesson].it === it) out.push(it.lesson); }); });
+    return out;
+  }
+  // 추천 학습 순서: 장 안에서 같은 장의 선행을 지키며, 남은 것 가운데 level 낮은 것 → 교재 순서
+  function pathOrder(ch) {
+    var ids = chIds(ch), inCh = Object.create(null), need = Object.create(null), outs = Object.create(null);
+    ids.forEach(function (id) { inCh[id] = true; need[id] = 0; outs[id] = []; });
+    ids.forEach(function (id) {
+      (PLACE[id].it.prereq || []).forEach(function (p) { if (inCh[p]) { need[id]++; outs[p].push(id); } });
+    });
+    function key(id) { return levelOf(id) * 100000 + BOOKIDX[id]; }
+    var ready = ids.filter(function (id) { return !need[id]; }), out = [];
+    while (ready.length) {
+      ready.sort(function (a, b) { return key(a) - key(b); });
+      var n = ready.shift(); out.push(n);
+      outs[n].forEach(function (m) { if (--need[m] === 0) ready.push(m); });
+    }
+    ids.forEach(function (id) { if (out.indexOf(id) < 0) out.push(id); });   // 순환(빌드가 막는다)이면 교재 순서로
+    return out;
+  }
+
+  // ---------- 허브 설정 (별표 · 자동 넘김 · 반복 · 보기) ----------
+  var REPEATS = ['off', 'one', 'section', 'all'], VIEWS = ['book', 'path', 'stars'];
+  function normHub(o, keepClosed) {
+    var h = { stars: {}, autoNext: false, repeat: { mode: 'off', a: null, b: null }, view: 'book', closed: {} };
+    if (!o || typeof o !== 'object') return h;
+    if (o.stars && typeof o.stars === 'object') Object.keys(o.stars).forEach(function (k) {
+      var v = Math.round(+o.stars[k]);
+      if (byId[k] && v >= 1 && v <= 3) h.stars[k] = v;
+    });
+    h.autoNext = o.autoNext === true;
+    var r = o.repeat && typeof o.repeat === 'object' ? o.repeat : {};
+    if (REPEATS.indexOf(r.mode) >= 0) h.repeat.mode = r.mode;
+    h.repeat.a = byId[r.a] ? r.a : null; h.repeat.b = byId[r.b] ? r.b : null;
+    if (VIEWS.indexOf(o.view) >= 0) h.view = o.view;
+    var c = keepClosed || o.closed;
+    if (c && typeof c === 'object') Object.keys(c).forEach(function (k) { if (c[k]) h.closed[k] = true; });
+    return h;
+  }
+  var hub = normHub(null), hubBroken = false;
+  try { hub = normHub(JSON.parse(localStorage.getItem(HKEY) || 'null')); } catch (e) { hubBroken = true; }
+  function saveHub() { try { localStorage.setItem(HKEY, JSON.stringify(hub)); } catch (e) { hubBroken = true; } }
+  function starOf(id) { return hub.stars[id] || 0; }
+
+  // ---------- 재생 목록 (재생을 시작한 순간의 보기로 고정) ----------
+  var PL = { ids: BOOK.slice(), src: 'book' };
+  try {
+    var savedPl = JSON.parse(sessionStorage.getItem(PLKEY) || 'null');
+    if (savedPl && Array.isArray(savedPl.ids)) {
+      var okIds = savedPl.ids.filter(function (i) { return byId[i]; });
+      if (okIds.length) PL = { ids: okIds, src: String(savedPl.src || 'book') };
+    }
+  } catch (e) { /* 탭 저장 막힘 → 메모리 */ }
+  function setPlaylist(ids, src) {
+    PL = { ids: ids.slice(), src: src };
+    try { sessionStorage.setItem(PLKEY, JSON.stringify(PL)); } catch (e) { /* 메모리만 */ }
+  }
+  function viewIds(view) {
+    if (view === 'path') { var o = []; CUR.chapters.forEach(function (ch) { o = o.concat(pathOrder(ch)); }); return o; }
+    if (view === 'stars') return BOOK.filter(function (id) { return starOf(id) > 0; });
+    return BOOK.slice();
+  }
+  function ensurePlaylistFor(id) {
+    if (PL.ids.indexOf(id) >= 0) return;
+    if (PLACE[id] && PLACE[id].shelf) setPlaylist(SHELF, 'shelf'); else setPlaylist(BOOK, 'book');
+  }
+  function rangeIds() {
+    var a = hub.repeat.a, b = hub.repeat.b;
+    if (!a || !b) return null;
+    var base = PLACE[a] && PLACE[a].shelf ? SHELF : BOOK;
+    var i = base.indexOf(a), j = base.indexOf(b);
+    if (i < 0 || j < 0) return null;
+    if (i > j) { var t = i; i = j; j = t; }
+    return base.slice(i, j + 1);
+  }
+  // 이웃 그림: auto=그림이 끝나서 저절로(이 그림 반복이면 제자리), 아니면 사용자가 누른 이전/다음
+  function neighbor(dir, auto) {
+    if (!S.L) return null;
+    var cur = S.L.id, mode = hub.repeat.mode;
+    if (mode === 'one' && auto) return cur;
+    var list = mode === 'section' ? (rangeIds() || PL.ids) : PL.ids;
+    if (!list.length) return null;
+    var i = list.indexOf(cur);
+    if (i < 0) return mode === 'section' ? list[dir > 0 ? 0 : list.length - 1] : null;
+    var j = i + dir;
+    if (j >= 0 && j < list.length) return list[j];
+    if (mode === 'all' || mode === 'section') return list[(j + list.length) % list.length];
+    return null;
+  }
 
   // ---------- 저장소 (막혀 있어도 페이지는 돈다) ----------
   var memResults = null, storeBroken = false;
@@ -45,6 +163,15 @@
     if (isNaN(d)) return String(iso || '');
     function z(n) { return (n < 10 ? '0' : '') + n; }
     return d.getFullYear() + '-' + z(d.getMonth() + 1) + '-' + z(d.getDate());
+  }
+  function exportHub() {
+    var o = { format: HKEY, exported: new Date().toISOString(), stars: hub.stars, autoNext: hub.autoNext, repeat: hub.repeat, view: hub.view };
+    var blob = new Blob([JSON.stringify(o, null, 1) + '\n'], { type: 'application/json' });
+    var a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = 'sketchy_hub_v1_' + fmtDate(o.exported).replace(/-/g, '') + '.json';
+    document.body.appendChild(a); a.click();
+    setTimeout(function () { URL.revokeObjectURL(a.href); a.remove(); }, 0);
   }
   function exportResults() {
     var all = readResults();
@@ -121,9 +248,10 @@
   }
 
   // ---------- 상태 ----------
-  var S = { L: null, mode: 'tour', i: 0, auto: false, heard: -1, speaking: false, sel: -1, test: null };
+  var S = { L: null, mode: 'tour', i: 0, auto: false, heard: -1, speaking: false, sel: -1, test: null, lastId: null };
   var autoTimer = 0, safetyTimer = 0;
   var recordedAudio = null, playbackToken = 0;
+  var lessonTimer = 0, lessonGen = 0, paused = false;   // 다음 그림 예약 · 그림을 열 때마다 세대 +1 · 탭 숨김으로 멈춤
 
   // ---------- 그림 · 덮개 ----------
   var stage = $('stage'), pic = $('pic'), ph = $('ph'), svg = $('dim');
@@ -209,62 +337,301 @@
     });
   }
 
-  function showList(missing) {
-    stopAll(); setAuto(false);
-    S.L = null;
-    $('lessonView').hidden = true; $('listView').hidden = false; $('homeLink').hidden = true;
-    document.title = '한의학 Sketchy 과';
-    var note = $('listNotice');
-    note.hidden = !missing;
-    if (missing) note.textContent = '과 「' + missing + '」를 찾지 못했다. 아래 목록에서 고르세요.';
-    var all = readResults(), ul = $('lessonList');
-    ul.textContent = '';
-    if (!LESSONS.length) {
-      var li0 = document.createElement('li'); li0.className = 'hint';
-      li0.textContent = '과가 없다 — src/lessons/l/*.json을 넣고 build_player.py를 돌린다.';
-      ul.appendChild(li0);
+  // ---------- 목록 = 교재 목차 ----------
+  function el(tag, cls, text) {
+    var e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (text != null) e.textContent = text;
+    return e;
+  }
+  function makeStars(id) {
+    var box = el('span', 'stars'), k = starOf(id);
+    box.dataset.id = id;
+    box.setAttribute('role', 'group');
+    box.setAttribute('aria-label', '중요도 별표');
+    for (var i = 1; i <= 3; i++) {
+      var b = el('button', i <= k ? 'on' : '', i <= k ? '★' : '☆');
+      b.type = 'button'; b.dataset.star = i; b.dataset.id = id;
+      b.setAttribute('aria-label', '별 ' + i + '개' + (k === i ? ' (다시 누르면 0개)' : ''));
+      b.setAttribute('aria-pressed', String(i <= k));
+      box.appendChild(b);
     }
-    LESSONS.forEach(function (L) {
-      var li = document.createElement('li');
-      var a = document.createElement('a');
-      a.className = 'lcard'; a.href = '?l=' + encodeURIComponent(L.id); a.dataset.go = L.id;
-      var t = document.createElement('span'); t.className = 'lc-title'; t.textContent = L.title;
-      if (L.id.charAt(0) === '_') { var tg = document.createElement('span'); tg.className = 'tag'; tg.textContent = '데모'; t.appendChild(tg); }
-      if (L.has_image === false) { var tg2 = document.createElement('span'); tg2.className = 'tag'; tg2.textContent = '그림 없음'; t.appendChild(tg2); }
-      var pl = document.createElement('span'); pl.className = 'lc-place'; pl.textContent = L.place || '';
-      var m = document.createElement('span'); m.className = 'lc-meta';
-      var c = document.createElement('span'); c.textContent = '정거장 ' + L.stations.length + ' · 시험 ' + contentIdx(L).length;
-      m.appendChild(c);
-      var recs = Array.isArray(all[L.id]) ? all[L.id] : [];
-      var r = document.createElement('span');
-      if (recs.length) {
-        var last = recs[recs.length - 1];
-        r.className = 'rec';
-        r.textContent = '마지막 시험 ' + last.score + '/' + last.total + ' · ' + fmtDate(last.date) + (recs.length > 1 ? ' (' + recs.length + '회)' : '');
-      } else { r.className = 'none'; r.textContent = '시험 기록 없음'; }
-      m.appendChild(r);
-      a.appendChild(t); a.appendChild(pl); a.appendChild(m);
-      li.appendChild(a); ul.appendChild(li);
+    return box;
+  }
+  function refreshStars(id) {
+    document.querySelectorAll('.stars[data-id="' + id + '"]').forEach(function (box) {
+      box.parentNode.replaceChild(makeStars(id), box);
     });
-    $('storeNote').textContent = storeBroken ? '브라우저 저장소가 막혀 있어 기록은 이 탭에만 남는다.' : '';
+  }
+  function setStar(id, k) {
+    if (starOf(id) === k) k = 0;
+    if (k) hub.stars[id] = k; else delete hub.stars[id];
+    saveHub();
+    if (!$('listView').hidden && hub.view === 'stars') renderToc(); else refreshStars(id);
+    tocCount();
+  }
+  function lessonLink(id, cls, ctx, text) {
+    var a = el('a', cls, text == null ? id : text);
+    a.href = '?l=' + encodeURIComponent(id); a.dataset.go = id; a.dataset.ctx = ctx;
+    if (text != null && text !== id) a.title = id;
+    return a;
+  }
+  function lvlBadge(id) {
+    var lv = levelOf(id), name = { 0: '사전', 1: '총론', 3: '감별 · 원문' }[lv];
+    return name ? el('span', 'lvl l' + lv, name) : null;
+  }
+  function row(id, ctx, opts) {
+    var L = byId[id], P = PLACE[id], it = P.it || {}, li = el('li', 'lrow');
+    li.dataset.id = id;
+    if (id === S.lastId) li.classList.add('cur');
+    if (opts.inR && opts.inR[id]) li.classList.add('inrange');
+    var th = lessonLink(id, 'thumb', ctx, '');
+    th.setAttribute('aria-label', L.title + ' 그림');
+    th.tabIndex = -1;
+    if (L.thumb) {
+      var img = el('img'); img.src = L.thumb; img.alt = ''; img.loading = 'lazy'; img.decoding = 'async'; img.width = 240; img.height = 135;
+      th.appendChild(img);
+    }
+    li.appendChild(th);
+    var m = el('div', 'lmain'), t = lessonLink(id, 'lt', ctx, L.title);
+    if (opts.ord) t.insertBefore(el('span', 'ord', opts.ord + '.'), t.firstChild);
+    var b = lvlBadge(id); if (b) t.appendChild(b);
+    if (L.has_image === false) t.appendChild(el('span', 'lvl', '그림 없음'));
+    m.appendChild(t);
+    var meta = el('div', 'lmeta');
+    meta.appendChild(el('span', '', id + ' · 정거장 ' + L.stations.length));
+    var recs = Array.isArray(opts.all[id]) ? opts.all[id] : [];
+    if (recs.length) { var last = recs[recs.length - 1]; meta.appendChild(el('span', 'rec', '시험 ' + last.score + '/' + last.total + ' · ' + fmtDate(last.date))); }
+    [['prereq', '먼저: '], ['see_also', '같이 보기: ']].forEach(function (pair) {
+      var xs = (it[pair[0]] || []).filter(function (x) { return byId[x]; });
+      if (!xs.length) return;
+      var sp = el('span', '', pair[1]);
+      xs.forEach(function (x, k) { if (k) sp.appendChild(document.createTextNode(' · ')); sp.appendChild(lessonLink(x, '', ctx, x)); });
+      meta.appendChild(sp);
+    });
+    if (P.shelf && P.shelf.why) meta.appendChild(el('span', '', P.shelf.why));
+    if (it.note) meta.appendChild(el('span', '', '※ ' + it.note));
+    m.appendChild(meta);
+    li.appendChild(m);
+    var side = el('div', 'rside');
+    side.appendChild(makeStars(id));
+    if (hub.repeat.mode === 'section') {
+      var ab = el('span', 'ab');
+      [['a', '구간 시작'], ['b', '구간 끝']].forEach(function (x) {
+        var bt = el('button', '', x[0].toUpperCase());
+        bt.type = 'button'; bt.dataset.ab = x[0]; bt.dataset.id = id;
+        bt.setAttribute('aria-label', x[1] + '으로'); bt.setAttribute('aria-pressed', String(hub.repeat[x[0]] === id));
+        ab.appendChild(bt);
+      });
+      side.appendChild(ab);
+    }
+    li.appendChild(side);
+    return li;
+  }
+  function chStats(ids) {
+    var st = 0; ids.forEach(function (id) { if (starOf(id)) st++; });
+    return '그림 ' + ids.length + (st ? ' · ★' + st : '');
+  }
+  function chapterBox(key, titleText, metaText, shut) {   // shut: 기본으로 접힌 상자(보관함)
+    var det = el('details', 'ch'); det.dataset.ch = key;
+    det.open = shut ? !!hub.closed[key + ':open'] : !hub.closed[key];
+    var sum = el('summary');
+    sum.appendChild(el('span', 'ch-t', titleText));
+    sum.appendChild(el('span', 'ch-m', metaText));
+    det.appendChild(sum);
+    det.addEventListener('toggle', function () {
+      if (shut) { if (det.open) hub.closed[key + ':open'] = true; else delete hub.closed[key + ':open']; }
+      else if (det.open) delete hub.closed[key]; else hub.closed[key] = true;
+      saveHub();
+    });
+    var body = el('div', 'secs'); det.appendChild(body);
+    return { det: det, body: body };
+  }
+  function renderToc() {
+    var root = $('toc'), view = hub.view, all = readResults();
+    var range = hub.repeat.mode === 'section' ? rangeIds() : null, inR = Object.create(null);
+    (range || []).forEach(function (id) { inR[id] = true; });
+    var opts = { all: all, inR: inR };
+    root.textContent = '';
+    document.querySelectorAll('[data-view]').forEach(function (b) { b.setAttribute('aria-pressed', String(b.dataset.view === view)); });
+    var shown = 0;
+    CUR.chapters.forEach(function (ch) {
+      var ids = chIds(ch);
+      if (view === 'stars') ids = ids.filter(function (id) { return starOf(id) > 0; });
+      if (view === 'stars' && !ids.length) return;
+      var C = chapterBox(ch.id, ch.title, (ch.page ? 'p.' + ch.page + ' · ' : '') + chStats(chIds(ch)));
+      if (view === 'path') {
+        var ul = el('ul', 'rows');
+        pathOrder(ch).forEach(function (id, k) { ul.appendChild(row(id, 'path', { all: all, inR: inR, ord: k + 1 })); shown++; });
+        if (!ul.children.length) C.body.appendChild(el('p', 'empty', '그림 없음 — 감사 대상'));
+        else C.body.appendChild(ul);
+      } else {
+        (ch.sections || []).forEach(function (sec) {
+          var its = (sec.items || []).filter(function (it) { return PLACE[it.lesson] && PLACE[it.lesson].it === it; });
+          if (view === 'stars') its = its.filter(function (it) { return starOf(it.lesson) > 0; });
+          if (view === 'stars' && !its.length) return;
+          var box = el('section', 'sec'), h = el('div', 'sec-h');
+          var lone = ch.sections.length === 1 && !/^제\s*\d+\s*절/.test(sec.title);   // 절이 하나뿐이고 장 이름과 같으면 제목을 거듭 쓰지 않는다
+          if (!lone) {
+            h.appendChild(el('h3', 'sec-t', sec.title));
+            h.appendChild(el('span', 'sec-m', (sec.page ? 'p.' + sec.page + ' · ' : '') + '그림 ' + its.length));
+            box.appendChild(h);
+          }
+          if (sec.note) box.appendChild(el('p', 'sec-note', sec.note));
+          if (sec.gap && view === 'book') box.appendChild(el('p', 'gap', '빈 곳(예비 판정): ' + sec.gap));
+          if (!its.length) { box.appendChild(el('p', 'empty', '그림 없음 — 감사 대상')); C.body.appendChild(box); return; }
+          var ul = el('ul', 'rows'), lastSub = null;
+          its.forEach(function (it) {
+            if (it.sub && it.sub !== lastSub) { var sh = el('li', 'sub', it.sub); sh.setAttribute('role', 'presentation'); ul.appendChild(sh); }
+            lastSub = it.sub || null;
+            ul.appendChild(row(it.lesson, view, opts)); shown++;
+          });
+          box.appendChild(ul);
+          C.body.appendChild(box);
+        });
+      }
+      root.appendChild(C.det);
+    });
+    if (view === 'stars' && !shown) root.appendChild(el('p', 'empty', '별표한 그림이 없다. 목차의 ☆을 눌러 표시한다.'));
+    if (SHELF.length && view !== 'stars') {
+      var B = chapterBox('shelf', '보관함 — 내린 그림', chStats(SHELF), true);
+      B.det.classList.add('shelf');
+      var ul2 = el('ul', 'rows');
+      SHELF.forEach(function (id) { ul2.appendChild(row(id, 'shelf', opts)); });
+      B.body.appendChild(ul2);
+      root.appendChild(B.det);
+    } else if (SHELF.length) {
+      var sIds = SHELF.filter(function (id) { return starOf(id) > 0; });
+      if (sIds.length) {
+        var B2 = chapterBox('shelf', '보관함 — 별표한 것', chStats(sIds)), ul3 = el('ul', 'rows');
+        sIds.forEach(function (id) { ul3.appendChild(row(id, 'shelf', opts)); });
+        B2.body.appendChild(ul3); root.appendChild(B2.det);
+      }
+    }
+    tocCount();
+  }
+  function tocCount() {
+    var n = Object.keys(hub.stars).length;
+    setText($('tocCount'), '목차 ' + BOOK.length + '과 · 보관함 ' + SHELF.length + ' · 별표 ' + n);
+  }
+  function syncHubControls() {
+    document.querySelectorAll('[data-act="autonext"]').forEach(function (b) { b.setAttribute('aria-pressed', String(hub.autoNext)); });
+    document.querySelectorAll('select[data-role="repeat"]').forEach(function (sel) { sel.value = hub.repeat.mode; });
+    var r = rangeIds();
+    document.querySelectorAll('[data-role="rangenote"]').forEach(function (n) {
+      n.hidden = hub.repeat.mode !== 'section';
+      n.textContent = '';
+      if (hub.repeat.mode !== 'section') return;
+      if (!r) { n.textContent = '구간: 목차 줄 오른쪽의 A(시작) · B(끝)로 고른다'; return; }
+      n.appendChild(document.createTextNode('구간: '));
+      n.appendChild(el('b', '', hub.repeat.a)); n.appendChild(document.createTextNode(' → '));
+      n.appendChild(el('b', '', hub.repeat.b)); n.appendChild(document.createTextNode(' (' + r.length + '개)'));
+    });
   }
 
-  function openLesson(id, mode) {
+  function showList(missing) {
+    stopAll(); setAuto(false); clearTimeout(lessonTimer); lessonGen++; hideErr();
+    if (S.L) S.lastId = S.L.id;
+    S.L = null;
+    $('lessonView').hidden = true; $('listView').hidden = false; $('homeLink').hidden = true;
+    document.title = '한의학 Sketchy 과 — 교재 목차';
+    var note = $('listNotice');
+    note.hidden = !missing;
+    if (missing) note.textContent = '과 「' + missing + '」를 찾지 못했다. 아래 목차에서 고르세요.';
+    syncHubControls();
+    renderToc();
+    var msgs = [];
+    if (storeBroken) msgs.push('브라우저 저장소가 막혀 시험 기록은 이 탭에만 남는다.');
+    if (hubBroken) msgs.push('별표 · 설정도 이 탭에만 남는다 — 「별표 · 설정 내보내기」로 보관하세요.');
+    $('storeNote').textContent = msgs.join(' ');
+    if (S.lastId) {
+      var cur = document.querySelector('.lrow[data-id="' + S.lastId + '"]');
+      if (cur && cur.scrollIntoView) { try { cur.scrollIntoView({ block: 'center' }); } catch (e) { cur.scrollIntoView(); } }
+    }
+  }
+
+  function renderPlNav() {
+    var L = S.L; if (!L) return;
+    var pos = PL.ids.indexOf(L.id), src = { book: '교재 순서', path: '추천 학습 순서', stars: '별표만', shelf: '보관함' }[PL.src] || PL.src;
+    setText($('plPos'), pos < 0 ? '재생 목록 밖' : '재생 목록 ' + (pos + 1) + ' / ' + PL.ids.length + ' · ' + src);
+    var holder = $('lessonStars');
+    holder.textContent = ''; holder.appendChild(makeStars(L.id));
+    document.querySelector('[data-act="prevlesson"]').disabled = !neighbor(-1, false);
+    document.querySelector('[data-act="nextlesson"]').disabled = !neighbor(1, false);
+    var P = PLACE[L.id], tp = $('lToc');
+    tp.textContent = '';
+    if (P && P.ch) tp.appendChild(document.createTextNode(P.ch.title + ' › ' + P.sec.title + (P.it.sub ? ' › ' + P.it.sub : '')));
+    else if (P && P.shelf) tp.appendChild(document.createTextNode('보관함 — ' + (P.shelf.why || '')));
+    var pre = P && P.it ? (P.it.prereq || []).filter(function (x) { return byId[x]; }) : [];
+    if (pre.length) {
+      tp.appendChild(document.createTextNode(' · 먼저: '));
+      pre.forEach(function (x, k) { if (k) tp.appendChild(document.createTextNode(' · ')); tp.appendChild(lessonLink(x, '', 'lesson', x)); });
+    }
+    syncHubControls();
+  }
+
+  function openLesson(id, mode, keepAuto) {
     var L = byId[id];
-    if (S.L !== L) { stopAll(); setAuto(false); S.L = L; S.i = 0; S.sel = -1; S.heard = -1; mountStage(L); }
+    if (S.L !== L) {
+      var carry = keepAuto && S.auto;
+      stopAll(); setAuto(false); clearTimeout(lessonTimer); lessonGen++; paused = false; hideErr();
+      S.L = L; S.i = 0; S.sel = -1; S.heard = -1; S.lastId = id; mountStage(L);
+      if (carry) markAuto(true);
+      ensurePlaylistFor(id);
+    }
     $('listView').hidden = true; $('lessonView').hidden = false; $('homeLink').hidden = false;
     setText($('lTitle'), L.title);
     setText($('lPlace'), L.place ? '장소 · ' + L.place : '');
     document.title = L.title + ' — Sketchy 과';
     buildDots(L);
-    setMode(mode, true);
+    renderPlNav();
+    setMode(mode, true, keepAuto);
   }
+  function goLesson(id, keepAuto) {
+    if (!id || !byId[id]) return;
+    clearTimeout(lessonTimer);
+    if (S.L && S.L.id === id) {                       // 이 그림 반복 → 같은 과를 처음부터
+      var carry = keepAuto && S.auto;
+      stopAll(); lessonGen++; paused = false; hideErr(); S.heard = -1; S.i = 0;
+      if (S.mode !== 'tour') { setMode('tour', false, keepAuto); return; }
+      if (carry) markAuto(true);
+      goTour(0); return;
+    }
+    try { history.pushState(null, '', urlFor(id, 'tour')); }
+    catch (e) { location.href = urlFor(id, 'tour'); return; }
+    openLesson(id, 'tour', keepAuto);
+  }
+  function scheduleNextLesson() {
+    clearTimeout(lessonTimer);
+    if (!hub.autoNext || S.mode !== 'tour' || paused || !S.L) return;
+    var id = neighbor(1, true);
+    if (!id) { setAuto(false); note('재생 목록 끝 — 반복이 꺼져 있어 멈췄다.'); return; }
+    var gen = lessonGen;
+    note('다음 그림으로 넘어간다 — ' + byId[id].title);
+    lessonTimer = setTimeout(function () {
+      lessonTimer = 0;
+      if (gen !== lessonGen || !hub.autoNext || S.mode !== 'tour' || paused || document.hidden) return;
+      goLesson(id, true);
+    }, 1500);
+  }
+  function note(t) { var n = $('autoNote'); n.hidden = !t; setText(n, t || ''); }
+  function showErr(msg, kind) {
+    var bar = $('playErr');
+    setText($('playErrMsg'), msg);
+    bar.querySelector('[data-act="replay"]').hidden = kind === 'resume';
+    bar.querySelector('[data-act="skip"]').hidden = kind === 'resume';
+    bar.querySelector('[data-act="resume"]').hidden = kind !== 'resume';
+    bar.hidden = false;
+  }
+  function hideErr() { $('playErr').hidden = true; note(''); }
 
-  function setMode(mode, fromRoute) {
+  function setMode(mode, fromRoute, keepAuto) {
     if (MODES.indexOf(mode) < 0) mode = 'tour';
-    stopAll(); setAuto(false);
+    var carry = keepAuto && S.auto && mode === 'tour';
+    stopAll(); setAuto(false); clearTimeout(lessonTimer); hideErr();
+    if (carry) markAuto(true);
     S.mode = mode;
-    document.querySelectorAll('.modes button').forEach(function (b) {
+    document.querySelectorAll('.modes button[data-mode]').forEach(function (b) {
       b.setAttribute('aria-pressed', String(b.dataset.mode === mode));
     });
     $('tourCtrl').hidden = $('tourCard').hidden = $('tourOpts').hidden = mode !== 'tour';
@@ -311,6 +678,7 @@
     });
   }
   function goTour(i) {
+    clearTimeout(lessonTimer);
     S.i = clamp(i, 0, S.L.stations.length - 1);
     renderTour();
     playStation(false);
@@ -333,14 +701,20 @@
   }
   function afterStation() {
     clearTimers();
-    if (!S.auto || S.mode !== 'tour') return;
-    if (S.i >= S.L.stations.length - 1) { setAuto(false); return; }
+    if (S.mode !== 'tour' || !S.L || paused) return;
+    if (S.i >= S.L.stations.length - 1) {          // 되짚기까지 끝 → 다음 그림(켜져 있을 때만)
+      if (hub.autoNext) { scheduleNextLesson(); return; }
+      if (S.auto) setAuto(false);
+      return;
+    }
+    if (!S.auto) return;
     autoTimer = setTimeout(function () { goTour(S.i + 1); }, 900);
   }
   function playStation(force) {
-    stopAll();
+    stopAll(); hideErr();
     if (S.mode !== 'tour') return;
     var st = S.L.stations[S.i];
+    var chain = S.auto || (hub.autoNext && S.i >= S.L.stations.length - 1);   // 이 정거장이 끝나면 저절로 넘어가야 하나
     // 읽어 주기는 한글 독음 대본(tts)을 쓴다 — 브라우저 음성이 한자를 중국어로 읽기 때문. 화면에는 한자가 든 say가 그대로 보인다.
     var text = st.recording ? st.recording.text : (st.tts || st.say || st.fact || ''), at = S.i;
     var token = playbackToken;
@@ -354,8 +728,9 @@
       };
       function failed() {
         if (token !== playbackToken) return;
-        stopAll(); setAuto(false);
-        setText($('replayBtn'), '다시 듣기 — 재생 재시도');
+        var was = S.auto || hub.autoNext;
+        stopAll(); setAuto(false); clearTimeout(lessonTimer);
+        showErr('녹음을 재생하지 못했다.' + (was ? ' 자동 넘김을 멈췄다.' : ''));
       }
       audio.onerror = failed;
       try { var playing = audio.play(); if (playing && playing.catch) playing.catch(failed); }
@@ -367,18 +742,28 @@
       tts.speak(text, prefs.rate, function (ok) {
         if (token !== playbackToken) return;
         clearTimers(); setSpeaking(false);
-        if (ok) { S.heard = at; afterStation(); } else setAuto(false);
+        if (ok) { S.heard = at; afterStation(); }
+        else { var was = S.auto || hub.autoNext; setAuto(false); clearTimeout(lessonTimer); showErr('읽어 주기가 실패했다.' + (was ? ' 자동 넘김을 멈췄다.' : '')); }
       });
-      if (S.auto) safetyTimer = setTimeout(function () { stopAll(); afterStation(); }, estimateMs(text) * 2 + 4000);
-    } else if (S.auto) {
+      // 끝 신호가 오지 않으면 실패로 친다(완료로 치지 않는다). 자동 넘김을 나중에 켜도 걸리도록 늘 건다.
+      safetyTimer = setTimeout(function () {
+        if (token !== playbackToken) return;
+        var wanted = S.auto || (hub.autoNext && S.i >= S.L.stations.length - 1);
+        stopAll();
+        if (wanted) { setAuto(false); clearTimeout(lessonTimer); showErr('읽어 주기가 끝나지 않았다. 자동 넘김을 멈췄다.'); }
+      }, estimateMs(text) * 2 + 4000);
+    } else if (chain) {                               // 소리 없이: 글자 수로 잡은 체류 시간 뒤
       var shown = (st.fact || '') + (st.hook || '') + (st.say || '');
       autoTimer = setTimeout(afterStation, estimateMs(shown));
     }
   }
-  function setAuto(on) {
+  function markAuto(on) {
     S.auto = !!on;
     var b = document.querySelector('[data-act="auto"]');
     if (b) b.setAttribute('aria-pressed', String(S.auto));
+  }
+  function setAuto(on) {
+    markAuto(on);
     if (!S.auto) { clearTimers(); return; }
     if (S.mode !== 'tour' || !S.L) return;
     if (S.i >= S.L.stations.length - 1) { goTour(0); return; }
@@ -497,11 +882,25 @@
 
   // ---------- 입력 ----------
   document.addEventListener('click', function (e) {
-    var t = e.target.closest('a[data-go], [data-act], [data-mode], .hot');
+    var t = e.target.closest('a[data-go], [data-act], [data-mode], [data-star], [data-ab], [data-view], .hot');
     if (!t) return;
     if (t.matches('a[data-go]')) {
       if (e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
-      e.preventDefault(); pushUrl(t.dataset.go, 'tour'); return;
+      e.preventDefault();
+      var ctx = t.dataset.ctx;
+      if (ctx === 'shelf') setPlaylist(SHELF, 'shelf');
+      else if (ctx === 'book' || ctx === 'path' || ctx === 'stars') setPlaylist(viewIds(ctx), ctx);
+      pushUrl(t.dataset.go, 'tour'); return;
+    }
+    if (t.dataset.star) { setStar(t.dataset.id, +t.dataset.star); return; }
+    if (t.dataset.ab) {
+      var k = t.dataset.ab;
+      hub.repeat[k] = hub.repeat[k] === t.dataset.id ? null : t.dataset.id;
+      saveHub(); syncHubControls(); renderToc(); return;
+    }
+    if (t.dataset.view) {
+      if (VIEWS.indexOf(t.dataset.view) >= 0) { hub.view = t.dataset.view; saveHub(); renderToc(); }
+      return;
     }
     if (t.tagName === 'BUTTON' && e.detail > 0) t.blur();   // 마우스로 누른 뒤 스페이스가 단추를 다시 누르지 않게
     if (t.classList.contains('hot')) { selectReview(+t.dataset.i); return; }
@@ -525,6 +924,58 @@
       case 'right': judge(true); break;
       case 'wrong': judge(false); break;
       case 'retest': startTest(); break;
+      case 'autonext':
+        hub.autoNext = !hub.autoNext; saveHub(); syncHubControls();
+        if (!hub.autoNext) { clearTimeout(lessonTimer); note(''); }
+        else if (S.L && S.mode === 'tour' && !S.auto) note('정거장 자동이 꺼져 있으면 되짚기까지 직접 넘긴 뒤 다음 그림으로 간다.');
+        break;
+      case 'prevlesson': goLesson(neighbor(-1, false), false); break;
+      case 'nextlesson': goLesson(neighbor(1, false), false); break;
+      case 'skip':
+        hideErr();
+        if (S.i < S.L.stations.length - 1) goTour(S.i + 1);
+        else goLesson(neighbor(1, false), true);
+        break;
+      case 'resume':
+        paused = false; hideErr();
+        if (!S.speaking) afterStation();
+        break;
+      case 'openall': case 'closeall':
+        CUR.chapters.forEach(function (ch) { if (t.dataset.act === 'openall') delete hub.closed[ch.id]; else hub.closed[ch.id] = true; });
+        saveHub(); renderToc(); break;
+      case 'hubexport': exportHub(); break;
+    }
+  });
+  document.querySelectorAll('select[data-role="repeat"]').forEach(function (sel) {
+    sel.addEventListener('change', function () {
+      if (REPEATS.indexOf(sel.value) < 0) return;
+      hub.repeat.mode = sel.value; saveHub(); syncHubControls();
+      if (!$('listView').hidden) renderToc();
+      if (S.L) renderPlNav();
+    });
+  });
+  $('hubImport').addEventListener('change', function () {
+    var f = this.files && this.files[0], input = this;
+    if (!f) return;
+    var rd = new FileReader();
+    rd.onload = function () {
+      var o = null;
+      try { o = JSON.parse(String(rd.result)); } catch (e) { o = null; }
+      if (!o || typeof o !== 'object' || !o.stars) { $('storeNote').textContent = '가져오지 못했다 — 「별표 · 설정 내보내기」로 만든 파일인지 확인하세요.'; input.value = ''; return; }
+      hub = normHub(o, hub.closed); saveHub(); syncHubControls(); renderToc();
+      $('storeNote').textContent = '가져왔다 — 별표 ' + Object.keys(hub.stars).length + '개' + (hubBroken ? ' (저장소가 막혀 이 탭에만)' : '') + '.';
+      input.value = '';
+    };
+    rd.readAsText(f);
+  });
+  document.addEventListener('visibilitychange', function () {
+    if (document.hidden) {                            // 숨기면 걸린 타이머를 지운다(재생 중인 소리는 그대로)
+      var pending = autoTimer || lessonTimer || safetyTimer;
+      clearTimers(); clearTimeout(lessonTimer); lessonTimer = 0;
+      if (S.L && S.mode === 'tour' && (S.auto || hub.autoNext) && (pending || S.speaking)) paused = true;
+    } else if (paused && S.L && S.mode === 'tour') {
+      if (S.speaking) paused = false;                 // 아직 읽는 중이면 끝 신호로 그대로 잇는다
+      else showErr('탭을 떠난 사이 자동 넘김을 멈췄다.', 'resume');
     }
   });
   $('homeLink').addEventListener('click', function (e) {

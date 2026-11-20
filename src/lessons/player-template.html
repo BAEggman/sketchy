@@ -123,7 +123,67 @@ main{ padding:14px var(--gut) 40px; max-width:1360px; margin:0 auto; }
 .wrong .wo{ display:block; font-size:.8rem; line-height:1.45; color:var(--muted); margin-top:2px; }
 .past{ font-size:.82rem; color:var(--muted); margin:10px 0 0; }
 
+/* 교재 목차 허브 */
+.hubbar{ display:flex; flex-direction:column; gap:10px; margin:0 0 14px; }
+.hubopts{ display:flex; flex-wrap:wrap; gap:8px 10px; align-items:center; }
+.btn.slim{ min-height:34px; padding:5px 11px; font-size:.88rem; }
+.rep{ display:inline-flex; align-items:center; gap:6px; font-size:.9rem; color:var(--muted); }
+.rep select{ font:inherit; color:var(--fg); background:var(--card); border:1px solid var(--line); border-radius:8px; padding:6px 8px; min-height:38px; }
+.rangenote{ font-size:.85rem; color:var(--muted); }
+.rangenote b{ color:var(--fg); }
+.filebtn{ position:relative; overflow:hidden; }
+.filebtn input{ position:absolute; inset:0; opacity:0; cursor:pointer; }
+.ch{ border:1px solid var(--line); border-radius:12px; background:var(--card); margin:0 0 10px; }
+.ch > summary{ list-style:none; cursor:pointer; padding:12px 14px; display:flex; flex-wrap:wrap; align-items:baseline; gap:4px 10px; }
+.ch > summary::-webkit-details-marker{ display:none; }
+.ch > summary::before{ content:'▸'; color:var(--muted); width:1em; flex:0 0 auto; }
+.ch[open] > summary::before{ content:'▾'; }
+.ch-t{ font-family:var(--serif); font-weight:800; font-size:1.06rem; }
+.ch-m, .sec-m{ font-size:.82rem; color:var(--muted); font-variant-numeric:tabular-nums; }
+.secs{ padding:0 10px 10px; }
+.sec{ margin:6px 0 10px; }
+.sec-h{ display:flex; flex-wrap:wrap; align-items:baseline; gap:2px 10px; margin:8px 4px 6px; }
+.sec-t{ font-family:var(--serif); font-weight:700; font-size:.98rem; margin:0; }
+.sec-note{ font-size:.8rem; color:var(--muted); margin:0 4px 6px; }
+.gap{ font-size:.82rem; color:var(--bad); margin:0 4px 6px; }
+.empty{ font-size:.85rem; color:var(--muted); border:1px dashed var(--line); border-radius:8px; padding:8px 10px; margin:0 4px; }
+.sub{ font-size:.8rem; font-weight:700; color:var(--accent); margin:10px 4px 4px; }
+.rows{ list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:6px; }
+.lrow{ display:grid; grid-template-columns:104px minmax(0,1fr) auto; gap:10px; align-items:center; padding:6px; border:1px solid var(--line); border-radius:10px; background:var(--bg); }
+.lrow.cur{ border-color:var(--accent); box-shadow:0 0 0 1px var(--accent) inset; }
+.lrow.inrange{ background:var(--chip); }
+.thumb{ display:block; width:104px; aspect-ratio:16/9; border-radius:6px; overflow:hidden; background:#8b8e94; }
+.thumb img{ width:100%; height:100%; object-fit:cover; display:block; }
+.lmain{ min-width:0; display:flex; flex-direction:column; gap:2px; }
+.lmain .lt{ font-family:var(--serif); font-weight:700; font-size:.96rem; line-height:1.4; text-decoration:none; color:var(--fg); word-break:keep-all; overflow-wrap:anywhere; }
+.lmain .lt:hover, .lmain .lt:focus-visible{ color:var(--accent); }
+.lmeta{ display:flex; flex-wrap:wrap; gap:2px 10px; font-size:.78rem; color:var(--muted); }
+.lmeta a{ color:var(--accent); }
+.lmeta .rec{ color:var(--accent); font-weight:600; }
+.lvl{ font-size:.7rem; font-weight:700; padding:0 6px; border-radius:99px; background:var(--chip); color:var(--muted); margin-left:6px; vertical-align:2px; font-family:var(--sans); white-space:nowrap; }
+.lvl.l1{ color:var(--accent); }
+.lvl.l3{ color:var(--good); }
+.ord{ font-size:.75rem; color:var(--muted); font-variant-numeric:tabular-nums; margin-right:4px; }
+.rside{ display:flex; flex-direction:column; align-items:flex-end; gap:4px; }
+.stars{ display:inline-flex; gap:0; }
+.stars button{ border:0; background:none; padding:2px 3px; min-width:30px; min-height:32px; cursor:pointer; font-size:1.25rem; line-height:1; color:var(--muted); opacity:.55; }
+.stars button.on{ color:#e0a100; opacity:1; }
+.stars button:hover{ opacity:1; }
+.stars button:focus-visible{ outline:2px solid var(--accent); border-radius:6px; }
+.ab{ display:inline-flex; gap:4px; }
+.ab button{ border:1px solid var(--line); background:var(--card); border-radius:6px; font-size:.72rem; padding:2px 6px; cursor:pointer; color:var(--muted); min-height:26px; }
+.ab button[aria-pressed="true"]{ background:var(--accent); color:var(--accent-fg); border-color:var(--accent); }
+.shelf > summary .ch-t{ color:var(--muted); }
+.plnav{ display:flex; align-items:center; justify-content:space-between; gap:8px; margin:0 0 10px; flex-wrap:wrap; }
+.plnav .stars{ margin-left:auto; }
+.tocpath{ margin:2px 0 0; font-size:.8rem; color:var(--muted); }
+.errbar{ background:var(--chip); border-radius:8px; padding:6px 10px; font-size:.9rem; }
+.errbar span{ flex:1 1 auto; }
+
 @media (max-width:599px){
+  .lrow{ grid-template-columns:72px minmax(0,1fr); }
+  .thumb{ width:72px; }
+  .rside{ grid-column:1 / -1; flex-direction:row; justify-content:space-between; align-items:center; }
   .stagewrap{ margin:0 calc(-1 * var(--gut)); border-radius:0; }
   .lhead .modes{ width:100%; }
   .modes button{ flex:1; }
@@ -138,23 +198,50 @@ main{ padding:14px var(--gut) 40px; max-width:1360px; margin:0 auto; }
 <body>
 <header class="top">
   <a class="home" href="index.html">← 허브(index.html)</a>
-  <a class="home" id="homeLink" href="?" hidden>← 과 목록(227과)</a>
-  <h1 id="pageTitle">한의학 Sketchy 과 (Carbon v7 · 227과)</h1>
+  <a class="home" id="homeLink" href="?" hidden>← 교재 목차</a>
+  <h1 id="pageTitle">한의학 Sketchy 과 — 교재 목차</h1>
 </header>
 <main>
   <section id="listView" hidden>
-    <p class="lead">과마다 그림 한 장. 투어로 정거장을 차례로 듣고, 복습에서 그림을 짚어 보고, 시험으로 떠올려 본다.</p>
+    <p class="lead">교재 『韓醫學槪論』 목차 순서로 그림을 놓았다. 왼쪽 썸네일을 보며 훑고, 제목을 누르면 그 과의 투어가 열린다. 오른쪽 별로 중요도를 표시한다.</p>
     <p class="notice" id="listNotice" hidden></p>
-    <ul class="lessons" id="lessonList"></ul>
+    <div class="hubbar">
+      <div class="modes views" role="group" aria-label="목록 보기">
+        <button type="button" data-view="book" aria-pressed="true">교재 순서</button>
+        <button type="button" data-view="path" aria-pressed="false">추천 학습 순서</button>
+        <button type="button" data-view="stars" aria-pressed="false">별표만</button>
+      </div>
+      <div class="hubopts">
+        <button type="button" class="btn" data-act="autonext" aria-pressed="false">다음 그림 자동 넘김</button>
+        <label class="rep">반복 <select data-role="repeat" aria-label="반복">
+          <option value="off">끔</option><option value="one">이 그림</option><option value="section">구간</option><option value="all">전체</option>
+        </select></label>
+        <span class="rangenote" data-role="rangenote" hidden></span>
+      </div>
+      <div class="hubopts">
+        <button type="button" class="btn slim" data-act="openall">모두 펴기</button>
+        <button type="button" class="btn slim" data-act="closeall">모두 접기</button>
+        <span class="count" id="tocCount"></span>
+      </div>
+    </div>
+    <div id="toc"></div>
     <div class="tools">
       <button type="button" class="btn" data-act="export">시험 기록 내보내기 (JSON)</button>
+      <button type="button" class="btn" data-act="hubexport">별표 · 설정 내보내기</button>
+      <label class="btn filebtn">별표 · 설정 가져오기<input type="file" id="hubImport" accept="application/json,.json"></label>
       <span id="storeNote"></span>
     </div>
   </section>
 
   <section id="lessonView" hidden>
+    <div class="plnav" id="plNav">
+      <button type="button" class="btn slim" data-act="prevlesson">← 이전 그림</button>
+      <span class="count" id="plPos"></span>
+      <span class="stars" id="lessonStars"></span>
+      <button type="button" class="btn slim" data-act="nextlesson">다음 그림 →</button>
+    </div>
     <div class="lhead">
-      <div><h2 id="lTitle"></h2><p id="lPlace"></p></div>
+      <div><h2 id="lTitle"></h2><p id="lPlace"></p><p class="tocpath" id="lToc"></p></div>
       <div class="modes" role="group" aria-label="보기 방식">
         <button type="button" data-mode="tour" aria-pressed="true">투어</button>
         <button type="button" data-mode="review" aria-pressed="false">복습</button>
@@ -184,8 +271,15 @@ main{ padding:14px var(--gut) 40px; max-width:1360px; margin:0 auto; }
             <span class="count" id="tCount"></span>
             <button type="button" class="btn primary" data-act="next">다음 →</button>
           </div>
+          <div class="row errbar" id="playErr" role="status" hidden>
+            <span id="playErrMsg">재생하지 못했다.</span>
+            <button type="button" class="btn slim" data-act="replay">다시</button>
+            <button type="button" class="btn slim" data-act="skip">건너뛰기</button>
+            <button type="button" class="btn slim" data-act="resume" hidden>이어서</button>
+          </div>
+          <p class="hint" id="autoNote" role="status" hidden></p>
           <div class="dots" id="tDots"></div>
-          <div class="keys">←/→ 정거장 · 스페이스 자동 넘김</div>
+          <div class="keys">←/→ 정거장 · 스페이스 정거장 자동</div>
         </div>
         <div class="ctrl" id="reviewCtrl" hidden>
           <div class="row nav">
@@ -218,7 +312,12 @@ main{ padding:14px var(--gut) 40px; max-width:1360px; margin:0 auto; }
           <p class="src" id="tSrc" hidden></p>
         </article>
         <div class="card opts" id="tourOpts">
-          <button type="button" class="btn" data-act="auto" aria-pressed="false">자동 넘김</button>
+          <button type="button" class="btn" data-act="auto" aria-pressed="false">정거장 자동</button>
+          <button type="button" class="btn" data-act="autonext" aria-pressed="false">다음 그림 자동</button>
+          <label class="rep">반복 <select data-role="repeat" aria-label="반복">
+            <option value="off">끔</option><option value="one">이 그림</option><option value="section">구간</option><option value="all">전체</option>
+          </select></label>
+          <span class="rangenote" data-role="rangenote" hidden></span>
           <button type="button" class="btn" data-act="voice" aria-pressed="true">내레이션</button>
           <button type="button" class="btn" data-act="replay" id="replayBtn">다시 듣기</button>
           <label class="rate">속도 <input id="rate" type="range" min="0.8" max="1.4" step="0.1" value="1"><output id="rateOut">1.0×</output></label>
@@ -255,6 +354,7 @@ main{ padding:14px var(--gut) 40px; max-width:1360px; margin:0 auto; }
     </div>
   </section>
 </main>
+<script id="curriculum-data" type="application/json">__CURRICULUM_DATA__</script>
 <script id="lessons-data" type="application/json">__LESSONS_DATA__</script>
 <script>
 __PLAYER_SCRIPT__

@@ -4,6 +4,8 @@
     python3 src/lessons/build_player.py
 
 과 JSON은 페이지에 인라인으로 들어가고, 그림은 외부 파일(images/lessons/<id>.webp)을 링크한다.
+목록은 교재 목차(src/lessons/curriculum.json)대로 그린다. 모든 과는 목차나 보관함에 꼭 한 번 있어야 한다.
+썸네일(images/thumbs/<id>.webp)은 tools/make_thumbs.py가 만든다.
 그림 파일이 없으면 has_image=false로 표시해 회색 자리표시를 그린다(요청 자체를 하지 않음).
 꼴이 틀리면(필수 칸·상자 꼴·중복 id) 멈추고, 권고 위반(정거장 6~14·사실 60자·상자 범위)은 경고만 한다.
 """
@@ -17,6 +19,7 @@ HERE = Path(__file__).resolve().parent
 ROOT = HERE.parents[1]
 LDIR = HERE / 'l'
 OUT = ROOT / 'lessons.html'
+CUR = HERE / 'curriculum.json'
 
 
 def is_box(b):
@@ -103,6 +106,52 @@ def check(L, path, errors, warns):
                         errors.append(f'{tag} #{n} [{slot}]: attr box는 [x,y,w,h]여야 한다 — {ab!r}')
 
 
+def check_curriculum(C, ids, errors, warns):
+    """목차: 과는 목차+보관함에 꼭 한 번 · 없는 id 금지 · level 0~3 · prereq/see_also 대상 존재 · prereq 순환 금지."""
+    placed, items = [], []
+    for ch in C.get('chapters', []):
+        for sec in ch.get('sections', []):
+            for it in sec.get('items', []):
+                placed.append(it.get('lesson'))
+                items.append(it)
+    placed += [x.get('lesson') for x in C.get('shelf', [])]
+    idset = set(ids)
+    for i in sorted({i for i in placed if placed.count(i) > 1}):
+        errors.append(f'목차: 과 {i!r}가 두 번 이상 놓였다')
+    for i in sorted(set(placed) - idset):
+        errors.append(f'목차: 없는 과 {i!r}')
+    for i in sorted(idset - set(placed)):
+        errors.append(f'목차: 과 {i!r}가 목차에도 보관함에도 없다')
+    prereq = {}
+    for it in items:
+        lid = it.get('lesson')
+        if it.get('level') not in (0, 1, 2, 3):
+            errors.append(f'목차: {lid} level {it.get("level")!r}는 0~3이어야 한다')
+        for k in ('prereq', 'see_also'):
+            for t in it.get(k, []) or []:
+                if t not in idset:
+                    errors.append(f'목차: {lid}의 {k} 대상 {t!r}가 없다')
+                if t == lid:
+                    errors.append(f'목차: {lid}의 {k}가 자기 자신이다')
+        prereq[lid] = [t for t in it.get('prereq', []) or [] if t in idset]
+    state = {}
+    def visit(n, path):
+        if state.get(n) == 1:
+            errors.append('목차: 선행 순환 ' + ' → '.join(path + [n]))
+            return
+        if state.get(n) == 2:
+            return
+        state[n] = 1
+        for m in prereq.get(n, []):
+            visit(m, path + [n])
+        state[n] = 2
+    for n in prereq:
+        visit(n, [])
+    empty = sum(1 for ch in C.get('chapters', []) for sec in ch.get('sections', []) if not sec.get('items'))
+    if empty:
+        warns.append(f'목차: 그림 없는 절 {empty}개(목록에 「그림 없음 — 감사 대상」으로 보인다)')
+
+
 def main():
     errors, warns, lessons = [], [], []
     audio_path = ROOT / 'audio/narration/manifest.json'
@@ -130,12 +179,22 @@ def main():
             st['recording'] = {'src': a['src'], 'text': a['text']}
             applied.add(key)
         L['has_image'] = (ROOT / L.get('image', '')).is_file() if L.get('image') else False
+        thumb = f"images/thumbs/{L['id']}.webp"
+        if (ROOT / thumb).is_file():
+            L['thumb'] = thumb
+        elif L['has_image']:
+            warns.append(f"{L['id']}: 썸네일 없음 — tools/make_thumbs.py")
         lessons.append(L)
     ids = [L.get('id') for L in lessons]
     if applied != set(recordings):
         errors.append('녹음 연결표에 존재하지 않는 정거장이 있다')
     for i in sorted({i for i in ids if ids.count(i) > 1}):
         errors.append(f'과 id {i!r}가 겹친다')
+    cur = json.loads(CUR.read_text(encoding='utf-8')) if CUR.is_file() else None
+    if cur is None:
+        errors.append('목차 src/lessons/curriculum.json이 없다')
+    else:
+        check_curriculum(cur, [L.get('id') for L in lessons], errors, warns)
     for w in warns:
         print('경고:', w, file=sys.stderr)
     if errors:
@@ -148,11 +207,14 @@ def main():
     script = (HERE / 'player.js').read_text(encoding='utf-8')
     if '</script' in script.lower():
         sys.exit('오류: player.js 안에 </script가 있다')
-    page = template.replace('__PLAYER_SCRIPT__', script).replace('__LESSONS_DATA__', data)   # 데이터는 마지막에(내용이 자리표를 건드리지 않게)
+    cdata = json.dumps(cur, ensure_ascii=False, separators=(',', ':')).replace('<', '\\u003c')
+    page = template.replace('__PLAYER_SCRIPT__', script).replace('__CURRICULUM_DATA__', cdata).replace('__LESSONS_DATA__', data)   # 데이터는 마지막에(내용이 자리표를 건드리지 않게)
     OUT.write_text(page, encoding='utf-8')
     n_st = sum(len(L['stations']) for L in lessons)
     n_img = sum(1 for L in lessons if L['has_image'])
-    print(f'written {OUT.relative_to(ROOT)} — {len(lessons)}과 · 정거장 {n_st} · 그림 {n_img}/{len(lessons)} · 경고 {len(warns)}')
+    n_th = sum(1 for L in lessons if L.get('thumb'))
+    n_shelf = len(cur.get('shelf', []))
+    print(f'written {OUT.relative_to(ROOT)} — {len(lessons)}과(목차 {len(lessons) - n_shelf} · 보관함 {n_shelf}) · 정거장 {n_st} · 그림 {n_img}/{len(lessons)} · 썸네일 {n_th}/{len(lessons)} · 경고 {len(warns)}')
 
 
 if __name__ == '__main__':

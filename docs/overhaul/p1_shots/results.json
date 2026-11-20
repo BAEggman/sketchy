@@ -1,0 +1,202 @@
+[
+ {
+  "name": "목차 줄 수 = 교재에 놓인 과",
+  "pass": true,
+  "extra": "215/215"
+ },
+ {
+  "name": "목차 순서 = curriculum.json",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "name": "보관함 줄 = 12",
+  "pass": true,
+  "extra": "12"
+ },
+ {
+  "name": "227과가 꼭 한 번씩",
+  "pass": true,
+  "extra": "227/227"
+ },
+ {
+  "name": "썸네일 227/227 파일 있음",
+  "pass": true,
+  "extra": "227 · 없음 0"
+ },
+ {
+  "name": "빈 절이 「그림 없음 — 감사 대상」으로 보임",
+  "pass": true,
+  "extra": "12"
+ },
+ {
+  "name": "페이지 오류 없음",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "name": "별 둘 누르면 2",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "name": "같은 별 다시 누르면 0",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "name": "키보드(Enter)로도 별표",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "name": "새로 열어도 별표 유지",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "name": "별표만 보기",
+  "pass": true,
+  "extra": "hist-03b,new-gr-14"
+ },
+ {
+  "name": "추천 학습 순서가 같은 장의 선행을 지킴",
+  "pass": true,
+  "extra": "위반 0"
+ },
+ {
+  "name": "별표 · 설정 내보내기",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "name": "별표 · 설정 가져오기",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "name": "?l=hist-02a 열림",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "name": "&m=test 시험 모드",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "name": "목차에 지난 시험 기록",
+  "pass": true,
+  "extra": "hist-02a · 정거장 8시험 5/8 · 2026-11-18"
+ },
+ {
+  "name": "오류 없음(주소)",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "name": "자동: 반복 끔 → 교재 다음 과",
+  "pass": true,
+  "extra": "hist-14 → yyox-01"
+ },
+ {
+  "name": "자동: 반복 끔 · 재생 목록 끝에서 멈춤",
+  "pass": true,
+  "extra": "new-etc-28"
+ },
+ {
+  "name": "자동: 이 그림 반복 → 같은 과 처음으로",
+  "pass": true,
+  "extra": "hist-11"
+ },
+ {
+  "name": "자동: 구간 반복 hist-13 → hist-14 → hist-13",
+  "pass": true,
+  "extra": "hist-13 → hist-14 → hist-13"
+ },
+ {
+  "name": "자동: 별표만 목록 · 전체 반복 → 처음으로 감김",
+  "pass": true,
+  "extra": "yyox-11 → yyox-13 → yyox-11"
+ },
+ {
+  "name": "재생 목록 표시",
+  "pass": true,
+  "extra": "재생 목록 1 / 2 · 별표만"
+ },
+ {
+  "name": "자동 넘김 끔이면 반복이 켜져도 저절로 안 넘어감",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "name": "「다음 그림」은 반복대로 처음으로 감김",
+  "pass": true,
+  "extra": "new-etc-01"
+ },
+ {
+  "name": "수동 이동은 걸린 다음 그림 예약을 지움",
+  "pass": true,
+  "extra": "armed=true · hist-12"
+ },
+ {
+  "name": "시험 모드에서는 자동으로 안 넘어감",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "name": "탭 숨김은 걸린 타이머를 지움",
+  "pass": true,
+  "extra": "1 / 9 → 1 / 9"
+ },
+ {
+  "name": "돌아오면 「이어서」를 보임",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "name": "새로 열면 설정 되살림(다음 그림 자동 켜짐 표시)",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "name": "새로 열면 저절로 넘어가지 않음",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "name": "녹음 실패 → 「다시 · 건너뛰기」",
+  "pass": true,
+  "extra": "yyox-04#0"
+ },
+ {
+  "name": "녹음 실패를 완료로 치지 않음",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "name": "읽어 주기 끝 신호가 없으면 실패로 멈춤",
+  "pass": true,
+  "extra": "읽어 주기가 끝나지 않았다. 자동 넘김을 멈췄다."
+ },
+ {
+  "name": "저장이 막혀도 돌아감(메모리)",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "name": "저장 막힘을 알림",
+  "pass": true,
+  "extra": ""
+ },
+ {
+  "name": "폭 380px 목록 가로 넘침 없음",
+  "pass": true,
+  "extra": "380"
+ },
+ {
+  "name": "폭 380px 과 화면 가로 넘침 없음",
+  "pass": true,
+  "extra": "380"
+ }
+]

@@ -9,5 +9,7 @@
   "original_tts_preserved": true,
   "spoken_text_hashes_match": true,
   "user_45_year_mnemonic_restored": true,
-  "scope": "구조·개수·원본 보존·해시 확인. 모든 문장의 의미 동일성·발음·그림 일치를 증명하는 검사가 아님."
+  "quoted_mnemonics_preserved": true,
+  "ready_to_generate": 0,
+  "scope": "구조·원본·인용 니모닉·변경 기록·문체·해시 검사. 의미 동일성이나 임상 정확성의 자동 증명이 아니다."
 }

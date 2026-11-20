@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "deterministic_rebuild": true,
+  "all_final_narrations_converter_idempotent": true,
+  "morphology_regressions_pass": true,
+  "html_ids_and_text_match_all_2809_records": true,
+  "csv_matches_2067_scripts": true,
+  "image_links_exist_227": true,
+  "diff_check": true,
+  "scope": "재생성·문체·내보내기 파일의 일치 검사. 음성 청취나 의미의 완전성 증명은 아니다.",
+  "post_conversion_review": "post-conversion-review.json",
+  "html_csv_txt_match_json": true
+}

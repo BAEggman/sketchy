@@ -1,27 +1,16 @@
-# 그림 낭독 대본 검토본 — 2026-11-20
+# 그림 낭독 대본 검토본 — 반말판
 
-[검토 페이지 열기](https://baeggman.github.io/sketchy/narration-review.html)
+[검토 페이지](https://baeggman.github.io/sketchy/narration-review.html) · [이번 검토 결과](audit-report.md)
 
-227과 2,067구간을 모두 포함합니다. 994구간을 수정하고 자연스러운 기존 원고 1,073구간은 보존했습니다. 알려진 사실·그림·출전의 충돌이 있는 339구간은 녹음 보류입니다. 보류 없는 1,728구간도 최종 그림·교재 대조와 음성 검수 전 초안입니다.
+본편 227과 2,067구간, 부록 737행, 괘도 2종의 2,806개 낭독문을 반말 서술체로 정리했다. ‘45세부터 위가 약해진다’를 포함한 사용자 니모닉, 원대본과 원문 필드, 기존 보류 이력을 보존했다.
 
-추가 79판은 740행 가운데 737행의 1차 낭독 초안을 포함하고, 제작 메모 3행은 제외합니다. 168행은 보류입니다. 괘도 2종 대본도 있습니다. 이 부록 전체의 수동 윤문과 시각 검수를 끝낸 것은 아닙니다.
+본편 주요 그림 단서 227과를 대조했고 누락 용어·연결과 위치 설명을 72개 원고에서 보완했다. 본편 녹음 보류는 464개다. 보류 없는 1603개도 초안이며 무결성이나 음성 생성 승인을 뜻하지 않는다. 부록의 실제 그림 전수 검토와 why 필드의 추가 의미 검토는 미완료다.
 
-## 검토 방법
+- [본편 TXT](narrations.txt) · [CSV](narrations.csv) · [JSON](narrations.json)
+- [부록 TXT](panel-narrations.txt) · [JSON](panel-narrations.json)
+- [그림 대조](visual-audit.json) · [수동 내용 보완 전후](narration-content-edits.json)
+- [어미와 안내말 변경 기록](plain-style-changes.json) · [보존 검사](plain-style-validation.json)
+- [반말 변환 후 재검토](post-conversion-review.md) · [추가 수정 전후](post-conversion-review-edits.json)
+- [이전 의미 검토 기록](semantic-qc.json) · [Gemini 실행계획](opus-gemini-execution-plan.md)
 
-검토 페이지에서 과 이름·한자·혈명·단서를 검색하고 카드의 ‘수정 전 낭독과 편집 이유’ 및 ‘원문·정답·연결 단서 확인’을 펼쳐 보세요. 피드백에는 `new-gr-32#1`처럼 카드 ID와 고칠 표현을 적으면 해당 원고를 찾을 수 있습니다.
-
-## 사용자 니모닉 보존
-
-‘45세부터 위가 약해진다’ 같은 사용자 이야기를 의학적 일반화로 판단해 삭제하지 않습니다. 기존 말장난·숫자 소품·보조 연결을 보존하고, 필요한 곳만 암기용 설정임을 짧게 밝힙니다. 원래 이야기와 학습 정답을 구별하되 연상 논리를 제거하지 않습니다.
-
-## 파일
-
-- [실행계획](opus-gemini-execution-plan.md): Gemini 앱 제작·다운로드·검수·캐시·호스팅·플레이어 연결
-- [주 대본 JSON](narrations.json): 수정 원고·기존 원고·원문·보류 이유·해시
-- [편집용 CSV](narrations.csv)
-- [추가판 대본 JSON](panel-narrations.json)
-- [독음 사전 초안](pronunciation-dictionary.json)
-- [구조 검사](validation.json) / [패키지 검사](package-integrity.json)
-- [독립 의미 대조 기록](semantic-qc.json): 고유 카드 73개에서 발견한 22건을 복원 확인. 전수 의미 검증은 아님.
-
-기준 소스는 `539bab2a87625459874739246d0c5d8ca931d257`입니다. 이 커밋은 검토 페이지와 원고 자료를 추가합니다. 기존 학습 플레이어의 원고 교체나 대량 음성 생성은 포함하지 않습니다. 실제 음성을 만들기 전에 보류 해결·최종 그림 대조·발음 확인을 마쳐야 합니다.
+이전 검토본 기준은 `2fe65baa180138fcd98226bb41c4b68c70c3b918`, 최초 원자료 기준은 `539bab2a87625459874739246d0c5d8ca931d257`다. `python src/lessons/tools/build_plain_narrations.py`로 이 반말판을 재생성한다. 기존 학습 플레이어 say/tts를 덮어쓰거나 음성을 생성하지 않는다.

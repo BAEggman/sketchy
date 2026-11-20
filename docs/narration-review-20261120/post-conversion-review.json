@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "baseline": "2fe65baa180138fcd98226bb41c4b68c70c3b918",
+  "all_records": 2809,
+  "spoken_scripts": 2806,
+  "changed_scripts": 1358,
+  "ending_substitutions": 4335,
+  "unique_ending_pairs": 663,
+  "followup_ambiguities_fixed": 2,
+  "inherited_punctuation_fixed": 1,
+  "independent_edit_ledger_replay": true,
+  "no_changes_outside_logged_edits": true,
+  "negation_markers_preserved_during_ending_conversion": true,
+  "punctuation_preserved_during_ending_conversion": true,
+  "numeric_literals_and_hanja_retained": true,
+  "quoted_mnemonics_preserved": true,
+  "source_fields_preserved": true,
+  "html_csv_txt_match_json": true,
+  "main_images_linked": 227,
+  "main_holds": 464,
+  "scope": "변환 전후 전문과 변경 기록·출력 대조. 의학적 정확성, 전 그림의 정밀 검증, 음성 청취를 증명하지 않는다."
+}

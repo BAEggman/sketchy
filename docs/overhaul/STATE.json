@@ -2,7 +2,7 @@
  "plan": "docs/overhaul/PLAN_20261120.md",
  "base_commit": "0e16b7c",
  "branch": "overhaul-20261120",
- "phase": "P1 끝 — P2 대기",
+ "phase": "P2 진행 중",
  "done": [
   "P0.repo",
   "P0.handoff_archive",
@@ -11,7 +11,8 @@
   "P1.curriculum",
   "P1.thumbs",
   "P1.hub",
-  "P1.test"
+  "P1.test",
+  "P2.run1-hist(6+1, judge final.json)"
  ],
  "in_progress": [],
  "held": [
@@ -29,8 +30,12 @@
   }
  ],
  "next": [
-  "사용자: P1 화면 확인 · 胃 勝格 고친 문장 확인",
-  "P2 시범 6종(陶弘景 · 王冰 · 杜本 · 혈 수 계보 · 醋 두문자 · 督脈 유주도) + 사암 트레이너 첫 판"
+  "사용자: Run 1 심사가 바꾼 보존 단서 5건 승인 여부",
+  "P2 그림: Run 1 네 장 Gemini 생성(원본 내려받기 허용됨)",
+  "P2 Run 2: 醋炙 8종 6+1",
+  "P2: 督脈 유주도(사용자 5장 docx 원문 필요)",
+  "P2: 舍岩 표 트레이너 첫 판(正格 · 勝格)",
+  "P2 끝 → 사용자 검수(문항 20)"
  ],
  "user_checks": {
   "gemini_download": "allowed 2026-11-20 (P2 pilot, Gemini app originals → ~/Downloads/sketchy_opus/gemini_raw)",
@@ -41,5 +46,8 @@
   "thumbs": "images/thumbs 227",
   "test": "qa/hub_p1_test.js 40/40 (Playwright, 2026-11-20)",
   "placement": "docs/overhaul/P1_placement.md"
+ },
+ "runs": {
+  "20261120-p2-hist": "judge 완료 — runs/20261120-p2-hist/final.json"
  }
 }

@@ -478,6 +478,7 @@
             box.appendChild(h);
           }
           if (sec.note) box.appendChild(el('p', 'sec-note', sec.note));
+          (sec.links || []).forEach(function (lk) { var a = el('a', 'sec-link', lk.label + ' →'); a.href = lk.href; var pp = el('p', 'sec-note', ''); pp.appendChild(a); box.appendChild(pp); });
           if (sec.gap && view === 'book') box.appendChild(el('p', 'gap', '빈 곳(예비 판정): ' + sec.gap));
           if (!its.length) { box.appendChild(el('p', 'empty', '그림 없음 — 감사 대상')); C.body.appendChild(box); return; }
           var ul = el('ul', 'rows'), lastSub = null;

@@ -187,7 +187,7 @@ def run():
          '<style>%s</style></head><body>' % CSS,
          '<header><h1>한의학 Sketchy 허브 <small>v%s · 패널 %d · 과 재생기 227과(Carbon v7)</small></h1>'
          % (VERSION, npan),
-         '<a class="btn" href="lessons.html" style="text-decoration:none;border-color:var(--acc);color:var(--acc);font-weight:700">과 재생기 (227과 · Carbon v7) →</a><a class="btn" href="lessons.html" style="text-decoration:none">교재 목차로 보기 →</a>'
+         '<a class="btn" href="lessons.html" style="text-decoration:none;border-color:var(--acc);color:var(--acc);font-weight:700">과 재생기 (227과 · Carbon v7) →</a><a class="btn" href="lessons.html" style="text-decoration:none">교재 목차로 보기 →</a><a class="btn" href="saam.html" style="text-decoration:none">舍岩 표 트레이너 →</a>'
          '<span class="btn" id="bTest">자가테스트</span><span class="btn" id="bWhy">다리 전체</span>'
          '<span class="btn" id="bTrap">함정만</span><span class="btn" id="bQuiz">도해 문항</span>'
          '<button type="button" class="btn" id="bReading" aria-pressed="true">한글 독음 켜짐</button>'

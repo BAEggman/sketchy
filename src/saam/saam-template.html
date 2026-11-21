@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>舍岩鍼法 표 트레이너 · 正格 · 勝格</title>
+<style>
+:root{--paper:#faf8f2;--ink:#233d35;--muted:#61766c;--line:#d8e0d7;--green:#2d7159;--warm:#a86b32;--bad:#b23b3b;--good:#2d7159;--light:#edf3e9;--hi:#fff3c4}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif;line-height:1.6}
+header,main{max-width:1080px;margin:auto;padding:14px 18px}
+header{padding-bottom:0}
+a{color:var(--green)}
+h1{font-size:clamp(22px,4.5vw,34px);margin:6px 0 2px;letter-spacing:-.03em}
+.lead{color:var(--muted);margin:0 0 8px;font-size:14px}
+nav.tabs{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0 4px}
+nav.tabs button{font-size:13px}
+button{font:inherit;color:inherit;cursor:pointer;border:1px solid var(--line);background:#fffdf8;border-radius:10px;padding:7px 12px;touch-action:manipulation}
+button[aria-pressed=true],button.primary{background:var(--green);color:#fff;border-color:var(--green)}
+button:disabled{opacity:.45;cursor:not-allowed}
+button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid #b27a33;outline-offset:2px}
+.panel{background:#fff;border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin:10px 0}
+.panel h2{font-size:19px;margin:0 0 6px}
+.muted{color:var(--muted);font-size:13px}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+input.pt{font:inherit;width:6.4em;padding:6px 8px;border:1px solid var(--line);border-radius:8px;background:#fffdf8}
+input.wide{width:9em}
+input.ok{border-color:var(--good);background:#eef7f0}
+input.no{border-color:var(--bad);background:#fbeeee}
+select{font:inherit;padding:6px 8px;border-radius:8px;border:1px solid var(--line);background:#fffdf8}
+table{border-collapse:collapse;width:100%}
+th,td{border:1px solid var(--line);padding:4px 6px;text-align:center;font-size:14px}
+th{background:var(--light);font-weight:600}
+td.l{text-align:left}
+.grid-wrap{overflow-x:auto}
+.badge{display:inline-block;font-size:12px;border-radius:999px;padding:1px 8px;border:1px solid var(--line);background:var(--light)}
+.badge.pass{background:var(--green);color:#fff;border-color:var(--green)}
+.badge.next{background:#eee;color:#888}
+.fb{margin-top:8px;padding:8px 10px;border-radius:10px;background:var(--light);font-size:14px}
+.fb.bad{background:#fbeeee}
+.fb.good{background:#eef7f0}
+.hint{margin-top:6px;padding:6px 10px;border-left:4px solid var(--warm);background:#fbf4ea;font-size:14px}
+.sent mark{background:var(--hi);padding:0 1px;border-radius:3px}
+.big{font-size:22px;font-weight:700}
+.q{font-size:18px;margin:4px 0 8px}
+.pair{display:inline-flex;gap:4px;align-items:center;margin-right:10px}
+.pair b{min-width:2em}
+.small{font-size:12px}
+.stages li{margin:3px 0}
+.notice{background:#fff3c4;border:1px solid #e6cf7a;border-radius:10px;padding:6px 10px;font-size:13px;margin:6px 0}
+@media (max-width:480px){header,main{padding:10px}input.pt{width:5.4em}th,td{font-size:12px;padding:3px}}
+</style>
+</head>
+<body>
+<header>
+  <div class="small"><a href="index.html">← 허브</a> · <a href="lessons.html">교재 목차 그림</a></div>
+  <h1>舍岩鍼法 표 트레이너 <span class="small muted">正格 · 勝格 · 첫 판</span></h1>
+  <p class="lead">24칸은 외울 것이 아니라 <b>풀 것</b>이다 — 오수혈 60칸 + 本穴 10 + 규칙 넷. 풀어 낸 답을 내 문장과 노래로 검산한다.</p>
+  <div id="storeNotice" class="notice" hidden></div>
+  <nav class="tabs" id="tabs" aria-label="단계"></nav>
+</header>
+<main id="main"></main>
+<script id="saam-data" type="application/json">__SAAM_DATA__</script>
+<script>
+__SAAM_SCRIPT__
+</script>
+</body>
+</html>

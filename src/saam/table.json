@@ -1,0 +1,2215 @@
+{
+ "version": 1,
+ "built": "2026-11-21",
+ "meta": {
+  "title": "舍岩鍼法 正格 · 勝格 표 트레이너 정본",
+  "plan": "docs/overhaul/PLAN_20261120.md 6-4 · 부록 C",
+  "next": "寒格 · 熱格은 다음 판(부록 C-2를 원표와 칸 단위로 대조한 뒤. 규칙으로 자동 생성하지 않음)",
+  "sentence_src": "사용자 기본서 「5장 경락 5월 18일자 수정.docx」 舍岩虛實補瀉法 正格 · 勝格 절(프로젝트 문서) = Mac 발췌본 5장경락_사용자요약_발췌.md 9절",
+  "song_src": "프로젝트 문서 claude/사암침법_정승격_암기송_Suno_6곡.md(가사) · 사암 도출송 saam-d01~d06(Suno 2026-09-03, 앱 「사암 補瀉」 탭)",
+  "textbook": "교재 한의학개론에는 舍岩 표가 없다(3795행 서명만, P0_facts). 노래와 사용자 표가 출전"
+ },
+ "elements": [
+  "木",
+  "火",
+  "土",
+  "金",
+  "水"
+ ],
+ "el_ko": {
+  "木": "목",
+  "火": "화",
+  "土": "토",
+  "金": "금",
+  "水": "수"
+ },
+ "pos": [
+  "井",
+  "滎",
+  "兪",
+  "經",
+  "合"
+ ],
+ "pos_ko": {
+  "井": "정",
+  "滎": "형",
+  "兪": "수",
+  "經": "경",
+  "合": "합"
+ },
+ "order": {
+  "陰": [
+   "木",
+   "火",
+   "土",
+   "金",
+   "水"
+  ],
+  "陽": [
+   "金",
+   "水",
+   "木",
+   "火",
+   "土"
+  ]
+ },
+ "rel_ko": {
+  "母": "어미(나를 낳는 것)",
+  "官": "관(나를 이기는 것)",
+  "子": "자식(내가 낳는 것)"
+ },
+ "ge": {
+  "正格": {
+   "ko": "정격",
+   "state": "虛",
+   "bu": "母",
+   "xie": "官",
+   "rule": "補 母 · 瀉 官 (虛하면 나를 낳는 것을 補하고 나를 이기는 것을 瀉한다)"
+  },
+  "勝格": {
+   "ko": "승격",
+   "state": "實",
+   "bu": "官",
+   "xie": "子",
+   "rule": "補 官 · 瀉 子 (實하면 나를 이기는 것을 補하고 내가 낳는 것을 瀉한다)"
+  }
+ },
+ "lender": {
+  "陰": {
+   "木": "LR",
+   "火": "HT",
+   "土": "SP",
+   "金": "LU",
+   "水": "KI"
+  },
+  "陽": {
+   "木": "GB",
+   "火": "SI",
+   "土": "ST",
+   "金": "LI",
+   "水": "BL"
+  }
+ },
+ "meridians": [
+  {
+   "id": "LU",
+   "hanja": "肺",
+   "ko": "폐",
+   "full": "수태음폐경",
+   "yy": "陰",
+   "el": "金",
+   "shu": [
+    {
+     "pos": "井",
+     "hanja": "少商",
+     "ko": "소상",
+     "code": "LU11",
+     "el": "木"
+    },
+    {
+     "pos": "滎",
+     "hanja": "魚際",
+     "ko": "어제",
+     "code": "LU10",
+     "el": "火"
+    },
+    {
+     "pos": "兪",
+     "hanja": "太淵",
+     "ko": "태연",
+     "code": "LU9",
+     "el": "土"
+    },
+    {
+     "pos": "經",
+     "hanja": "經渠",
+     "ko": "경거",
+     "code": "LU8",
+     "el": "金"
+    },
+    {
+     "pos": "合",
+     "hanja": "尺澤",
+     "ko": "척택",
+     "code": "LU5",
+     "el": "水"
+    }
+   ],
+   "ben": "經渠",
+   "lends": true
+  },
+  {
+   "id": "LI",
+   "hanja": "大腸",
+   "ko": "대장",
+   "full": "수양명대장경",
+   "yy": "陽",
+   "el": "金",
+   "shu": [
+    {
+     "pos": "井",
+     "hanja": "商陽",
+     "ko": "상양",
+     "code": "LI1",
+     "el": "金"
+    },
+    {
+     "pos": "滎",
+     "hanja": "二間",
+     "ko": "이간",
+     "code": "LI2",
+     "el": "水"
+    },
+    {
+     "pos": "兪",
+     "hanja": "三間",
+     "ko": "삼간",
+     "code": "LI3",
+     "el": "木"
+    },
+    {
+     "pos": "經",
+     "hanja": "陽谿",
+     "ko": "양계",
+     "code": "LI5",
+     "el": "火"
+    },
+    {
+     "pos": "合",
+     "hanja": "曲池",
+     "ko": "곡지",
+     "code": "LI11",
+     "el": "土"
+    }
+   ],
+   "ben": "商陽",
+   "lends": true
+  },
+  {
+   "id": "ST",
+   "hanja": "胃",
+   "ko": "위",
+   "full": "족양명위경",
+   "yy": "陽",
+   "el": "土",
+   "shu": [
+    {
+     "pos": "井",
+     "hanja": "厲兌",
+     "ko": "여태",
+     "code": "ST45",
+     "el": "金"
+    },
+    {
+     "pos": "滎",
+     "hanja": "內庭",
+     "ko": "내정",
+     "code": "ST44",
+     "el": "水"
+    },
+    {
+     "pos": "兪",
+     "hanja": "陷谷",
+     "ko": "함곡",
+     "code": "ST43",
+     "el": "木"
+    },
+    {
+     "pos": "經",
+     "hanja": "解谿",
+     "ko": "해계",
+     "code": "ST41",
+     "el": "火"
+    },
+    {
+     "pos": "合",
+     "hanja": "足三里",
+     "ko": "족삼리",
+     "code": "ST36",
+     "el": "土"
+    }
+   ],
+   "ben": "足三里",
+   "lends": true
+  },
+  {
+   "id": "SP",
+   "hanja": "脾",
+   "ko": "비",
+   "full": "족태음비경",
+   "yy": "陰",
+   "el": "土",
+   "shu": [
+    {
+     "pos": "井",
+     "hanja": "隱白",
+     "ko": "은백",
+     "code": "SP1",
+     "el": "木"
+    },
+    {
+     "pos": "滎",
+     "hanja": "大都",
+     "ko": "대도",
+     "code": "SP2",
+     "el": "火"
+    },
+    {
+     "pos": "兪",
+     "hanja": "太白",
+     "ko": "태백",
+     "code": "SP3",
+     "el": "土"
+    },
+    {
+     "pos": "經",
+     "hanja": "商丘",
+     "ko": "상구",
+     "code": "SP5",
+     "el": "金"
+    },
+    {
+     "pos": "合",
+     "hanja": "陰陵泉",
+     "ko": "음릉천",
+     "code": "SP9",
+     "el": "水"
+    }
+   ],
+   "ben": "太白",
+   "lends": true
+  },
+  {
+   "id": "HT",
+   "hanja": "心",
+   "ko": "심",
+   "full": "수소음심경",
+   "yy": "陰",
+   "el": "火",
+   "shu": [
+    {
+     "pos": "井",
+     "hanja": "少衝",
+     "ko": "소충",
+     "code": "HT9",
+     "el": "木"
+    },
+    {
+     "pos": "滎",
+     "hanja": "少府",
+     "ko": "소부",
+     "code": "HT8",
+     "el": "火"
+    },
+    {
+     "pos": "兪",
+     "hanja": "神門",
+     "ko": "신문",
+     "code": "HT7",
+     "el": "土"
+    },
+    {
+     "pos": "經",
+     "hanja": "靈道",
+     "ko": "영도",
+     "code": "HT4",
+     "el": "金"
+    },
+    {
+     "pos": "合",
+     "hanja": "少海",
+     "ko": "소해",
+     "code": "HT3",
+     "el": "水"
+    }
+   ],
+   "ben": "少府",
+   "lends": true
+  },
+  {
+   "id": "SI",
+   "hanja": "小腸",
+   "ko": "소장",
+   "full": "수태양소장경",
+   "yy": "陽",
+   "el": "火",
+   "shu": [
+    {
+     "pos": "井",
+     "hanja": "少澤",
+     "ko": "소택",
+     "code": "SI1",
+     "el": "金"
+    },
+    {
+     "pos": "滎",
+     "hanja": "前谷",
+     "ko": "전곡",
+     "code": "SI2",
+     "el": "水"
+    },
+    {
+     "pos": "兪",
+     "hanja": "後谿",
+     "ko": "후계",
+     "code": "SI3",
+     "el": "木"
+    },
+    {
+     "pos": "經",
+     "hanja": "陽谷",
+     "ko": "양곡",
+     "code": "SI5",
+     "el": "火"
+    },
+    {
+     "pos": "合",
+     "hanja": "小海",
+     "ko": "소해",
+     "code": "SI8",
+     "el": "土"
+    }
+   ],
+   "ben": "陽谷",
+   "lends": true
+  },
+  {
+   "id": "BL",
+   "hanja": "膀胱",
+   "ko": "방광",
+   "full": "족태양방광경",
+   "yy": "陽",
+   "el": "水",
+   "shu": [
+    {
+     "pos": "井",
+     "hanja": "至陰",
+     "ko": "지음",
+     "code": "BL67",
+     "el": "金"
+    },
+    {
+     "pos": "滎",
+     "hanja": "足通谷",
+     "ko": "족통곡",
+     "code": "BL66",
+     "el": "水"
+    },
+    {
+     "pos": "兪",
+     "hanja": "束骨",
+     "ko": "속골",
+     "code": "BL65",
+     "el": "木"
+    },
+    {
+     "pos": "經",
+     "hanja": "崑崙",
+     "ko": "곤륜",
+     "code": "BL60",
+     "el": "火"
+    },
+    {
+     "pos": "合",
+     "hanja": "委中",
+     "ko": "위중",
+     "code": "BL40",
+     "el": "土"
+    }
+   ],
+   "ben": "足通谷",
+   "lends": true
+  },
+  {
+   "id": "KI",
+   "hanja": "腎",
+   "ko": "신",
+   "full": "족소음신경",
+   "yy": "陰",
+   "el": "水",
+   "shu": [
+    {
+     "pos": "井",
+     "hanja": "湧泉",
+     "ko": "용천",
+     "code": "KI1",
+     "el": "木"
+    },
+    {
+     "pos": "滎",
+     "hanja": "然谷",
+     "ko": "연곡",
+     "code": "KI2",
+     "el": "火"
+    },
+    {
+     "pos": "兪",
+     "hanja": "太谿",
+     "ko": "태계",
+     "code": "KI3",
+     "el": "土"
+    },
+    {
+     "pos": "經",
+     "hanja": "復溜",
+     "ko": "복류",
+     "code": "KI7",
+     "el": "金"
+    },
+    {
+     "pos": "合",
+     "hanja": "陰谷",
+     "ko": "음곡",
+     "code": "KI10",
+     "el": "水"
+    }
+   ],
+   "ben": "陰谷",
+   "lends": true
+  },
+  {
+   "id": "PC",
+   "hanja": "心包",
+   "ko": "심포",
+   "full": "수궐음심포경",
+   "yy": "陰",
+   "el": "火",
+   "shu": [
+    {
+     "pos": "井",
+     "hanja": "中衝",
+     "ko": "중충",
+     "code": "PC9",
+     "el": "木"
+    },
+    {
+     "pos": "滎",
+     "hanja": "勞宮",
+     "ko": "노궁",
+     "code": "PC8",
+     "el": "火"
+    },
+    {
+     "pos": "兪",
+     "hanja": "大陵",
+     "ko": "대릉",
+     "code": "PC7",
+     "el": "土"
+    },
+    {
+     "pos": "經",
+     "hanja": "間使",
+     "ko": "간사",
+     "code": "PC5",
+     "el": "金"
+    },
+    {
+     "pos": "合",
+     "hanja": "曲澤",
+     "ko": "곡택",
+     "code": "PC3",
+     "el": "水"
+    }
+   ],
+   "ben": "勞宮",
+   "lends": false
+  },
+  {
+   "id": "TE",
+   "hanja": "三焦",
+   "ko": "삼초",
+   "full": "수소양삼초경",
+   "yy": "陽",
+   "el": "火",
+   "shu": [
+    {
+     "pos": "井",
+     "hanja": "關衝",
+     "ko": "관충",
+     "code": "TE1",
+     "el": "金"
+    },
+    {
+     "pos": "滎",
+     "hanja": "液門",
+     "ko": "액문",
+     "code": "TE2",
+     "el": "水"
+    },
+    {
+     "pos": "兪",
+     "hanja": "中渚",
+     "ko": "중저",
+     "code": "TE3",
+     "el": "木"
+    },
+    {
+     "pos": "經",
+     "hanja": "支溝",
+     "ko": "지구",
+     "code": "TE6",
+     "el": "火"
+    },
+    {
+     "pos": "合",
+     "hanja": "天井",
+     "ko": "천정",
+     "code": "TE10",
+     "el": "土"
+    }
+   ],
+   "ben": "支溝",
+   "lends": false
+  },
+  {
+   "id": "GB",
+   "hanja": "膽",
+   "ko": "담",
+   "full": "족소양담경",
+   "yy": "陽",
+   "el": "木",
+   "shu": [
+    {
+     "pos": "井",
+     "hanja": "足竅陰",
+     "ko": "족규음",
+     "code": "GB44",
+     "el": "金"
+    },
+    {
+     "pos": "滎",
+     "hanja": "俠谿",
+     "ko": "협계",
+     "code": "GB43",
+     "el": "水"
+    },
+    {
+     "pos": "兪",
+     "hanja": "足臨泣",
+     "ko": "족임읍",
+     "code": "GB41",
+     "el": "木"
+    },
+    {
+     "pos": "經",
+     "hanja": "陽輔",
+     "ko": "양보",
+     "code": "GB38",
+     "el": "火"
+    },
+    {
+     "pos": "合",
+     "hanja": "陽陵泉",
+     "ko": "양릉천",
+     "code": "GB34",
+     "el": "土"
+    }
+   ],
+   "ben": "足臨泣",
+   "lends": true
+  },
+  {
+   "id": "LR",
+   "hanja": "肝",
+   "ko": "간",
+   "full": "족궐음간경",
+   "yy": "陰",
+   "el": "木",
+   "shu": [
+    {
+     "pos": "井",
+     "hanja": "大敦",
+     "ko": "대돈",
+     "code": "LR1",
+     "el": "木"
+    },
+    {
+     "pos": "滎",
+     "hanja": "行間",
+     "ko": "행간",
+     "code": "LR2",
+     "el": "火"
+    },
+    {
+     "pos": "兪",
+     "hanja": "太衝",
+     "ko": "태충",
+     "code": "LR3",
+     "el": "土"
+    },
+    {
+     "pos": "經",
+     "hanja": "中封",
+     "ko": "중봉",
+     "code": "LR4",
+     "el": "金"
+    },
+    {
+     "pos": "合",
+     "hanja": "曲泉",
+     "ko": "곡천",
+     "code": "LR8",
+     "el": "水"
+    }
+   ],
+   "ben": "大敦",
+   "lends": true
+  }
+ ],
+ "points": {
+  "少商": {
+   "hanja": "少商",
+   "ko": "소상",
+   "code": "LU11",
+   "meridian": "LU",
+   "pos": "井",
+   "el": "木",
+   "alias": []
+  },
+  "魚際": {
+   "hanja": "魚際",
+   "ko": "어제",
+   "code": "LU10",
+   "meridian": "LU",
+   "pos": "滎",
+   "el": "火",
+   "alias": []
+  },
+  "太淵": {
+   "hanja": "太淵",
+   "ko": "태연",
+   "code": "LU9",
+   "meridian": "LU",
+   "pos": "兪",
+   "el": "土",
+   "alias": []
+  },
+  "經渠": {
+   "hanja": "經渠",
+   "ko": "경거",
+   "code": "LU8",
+   "meridian": "LU",
+   "pos": "經",
+   "el": "金",
+   "alias": []
+  },
+  "尺澤": {
+   "hanja": "尺澤",
+   "ko": "척택",
+   "code": "LU5",
+   "meridian": "LU",
+   "pos": "合",
+   "el": "水",
+   "alias": []
+  },
+  "商陽": {
+   "hanja": "商陽",
+   "ko": "상양",
+   "code": "LI1",
+   "meridian": "LI",
+   "pos": "井",
+   "el": "金",
+   "alias": []
+  },
+  "二間": {
+   "hanja": "二間",
+   "ko": "이간",
+   "code": "LI2",
+   "meridian": "LI",
+   "pos": "滎",
+   "el": "水",
+   "alias": []
+  },
+  "三間": {
+   "hanja": "三間",
+   "ko": "삼간",
+   "code": "LI3",
+   "meridian": "LI",
+   "pos": "兪",
+   "el": "木",
+   "alias": []
+  },
+  "陽谿": {
+   "hanja": "陽谿",
+   "ko": "양계",
+   "code": "LI5",
+   "meridian": "LI",
+   "pos": "經",
+   "el": "火",
+   "alias": []
+  },
+  "曲池": {
+   "hanja": "曲池",
+   "ko": "곡지",
+   "code": "LI11",
+   "meridian": "LI",
+   "pos": "合",
+   "el": "土",
+   "alias": []
+  },
+  "厲兌": {
+   "hanja": "厲兌",
+   "ko": "여태",
+   "code": "ST45",
+   "meridian": "ST",
+   "pos": "井",
+   "el": "金",
+   "alias": [
+    "려태"
+   ]
+  },
+  "內庭": {
+   "hanja": "內庭",
+   "ko": "내정",
+   "code": "ST44",
+   "meridian": "ST",
+   "pos": "滎",
+   "el": "水",
+   "alias": []
+  },
+  "陷谷": {
+   "hanja": "陷谷",
+   "ko": "함곡",
+   "code": "ST43",
+   "meridian": "ST",
+   "pos": "兪",
+   "el": "木",
+   "alias": []
+  },
+  "解谿": {
+   "hanja": "解谿",
+   "ko": "해계",
+   "code": "ST41",
+   "meridian": "ST",
+   "pos": "經",
+   "el": "火",
+   "alias": []
+  },
+  "足三里": {
+   "hanja": "足三里",
+   "ko": "족삼리",
+   "code": "ST36",
+   "meridian": "ST",
+   "pos": "合",
+   "el": "土",
+   "alias": [
+    "삼리"
+   ]
+  },
+  "隱白": {
+   "hanja": "隱白",
+   "ko": "은백",
+   "code": "SP1",
+   "meridian": "SP",
+   "pos": "井",
+   "el": "木",
+   "alias": []
+  },
+  "大都": {
+   "hanja": "大都",
+   "ko": "대도",
+   "code": "SP2",
+   "meridian": "SP",
+   "pos": "滎",
+   "el": "火",
+   "alias": []
+  },
+  "太白": {
+   "hanja": "太白",
+   "ko": "태백",
+   "code": "SP3",
+   "meridian": "SP",
+   "pos": "兪",
+   "el": "土",
+   "alias": []
+  },
+  "商丘": {
+   "hanja": "商丘",
+   "ko": "상구",
+   "code": "SP5",
+   "meridian": "SP",
+   "pos": "經",
+   "el": "金",
+   "alias": []
+  },
+  "陰陵泉": {
+   "hanja": "陰陵泉",
+   "ko": "음릉천",
+   "code": "SP9",
+   "meridian": "SP",
+   "pos": "合",
+   "el": "水",
+   "alias": []
+  },
+  "少衝": {
+   "hanja": "少衝",
+   "ko": "소충",
+   "code": "HT9",
+   "meridian": "HT",
+   "pos": "井",
+   "el": "木",
+   "alias": []
+  },
+  "少府": {
+   "hanja": "少府",
+   "ko": "소부",
+   "code": "HT8",
+   "meridian": "HT",
+   "pos": "滎",
+   "el": "火",
+   "alias": []
+  },
+  "神門": {
+   "hanja": "神門",
+   "ko": "신문",
+   "code": "HT7",
+   "meridian": "HT",
+   "pos": "兪",
+   "el": "土",
+   "alias": []
+  },
+  "靈道": {
+   "hanja": "靈道",
+   "ko": "영도",
+   "code": "HT4",
+   "meridian": "HT",
+   "pos": "經",
+   "el": "金",
+   "alias": []
+  },
+  "少海": {
+   "hanja": "少海",
+   "ko": "소해",
+   "code": "HT3",
+   "meridian": "HT",
+   "pos": "合",
+   "el": "水",
+   "alias": [
+    "심소해"
+   ]
+  },
+  "少澤": {
+   "hanja": "少澤",
+   "ko": "소택",
+   "code": "SI1",
+   "meridian": "SI",
+   "pos": "井",
+   "el": "金",
+   "alias": []
+  },
+  "前谷": {
+   "hanja": "前谷",
+   "ko": "전곡",
+   "code": "SI2",
+   "meridian": "SI",
+   "pos": "滎",
+   "el": "水",
+   "alias": []
+  },
+  "後谿": {
+   "hanja": "後谿",
+   "ko": "후계",
+   "code": "SI3",
+   "meridian": "SI",
+   "pos": "兪",
+   "el": "木",
+   "alias": []
+  },
+  "陽谷": {
+   "hanja": "陽谷",
+   "ko": "양곡",
+   "code": "SI5",
+   "meridian": "SI",
+   "pos": "經",
+   "el": "火",
+   "alias": []
+  },
+  "小海": {
+   "hanja": "小海",
+   "ko": "소해",
+   "code": "SI8",
+   "meridian": "SI",
+   "pos": "合",
+   "el": "土",
+   "alias": [
+    "소장소해"
+   ]
+  },
+  "至陰": {
+   "hanja": "至陰",
+   "ko": "지음",
+   "code": "BL67",
+   "meridian": "BL",
+   "pos": "井",
+   "el": "金",
+   "alias": []
+  },
+  "足通谷": {
+   "hanja": "足通谷",
+   "ko": "족통곡",
+   "code": "BL66",
+   "meridian": "BL",
+   "pos": "滎",
+   "el": "水",
+   "alias": [
+    "통곡"
+   ]
+  },
+  "束骨": {
+   "hanja": "束骨",
+   "ko": "속골",
+   "code": "BL65",
+   "meridian": "BL",
+   "pos": "兪",
+   "el": "木",
+   "alias": []
+  },
+  "崑崙": {
+   "hanja": "崑崙",
+   "ko": "곤륜",
+   "code": "BL60",
+   "meridian": "BL",
+   "pos": "經",
+   "el": "火",
+   "alias": []
+  },
+  "委中": {
+   "hanja": "委中",
+   "ko": "위중",
+   "code": "BL40",
+   "meridian": "BL",
+   "pos": "合",
+   "el": "土",
+   "alias": []
+  },
+  "湧泉": {
+   "hanja": "湧泉",
+   "ko": "용천",
+   "code": "KI1",
+   "meridian": "KI",
+   "pos": "井",
+   "el": "木",
+   "alias": []
+  },
+  "然谷": {
+   "hanja": "然谷",
+   "ko": "연곡",
+   "code": "KI2",
+   "meridian": "KI",
+   "pos": "滎",
+   "el": "火",
+   "alias": []
+  },
+  "太谿": {
+   "hanja": "太谿",
+   "ko": "태계",
+   "code": "KI3",
+   "meridian": "KI",
+   "pos": "兪",
+   "el": "土",
+   "alias": []
+  },
+  "復溜": {
+   "hanja": "復溜",
+   "ko": "복류",
+   "code": "KI7",
+   "meridian": "KI",
+   "pos": "經",
+   "el": "金",
+   "alias": []
+  },
+  "陰谷": {
+   "hanja": "陰谷",
+   "ko": "음곡",
+   "code": "KI10",
+   "meridian": "KI",
+   "pos": "合",
+   "el": "水",
+   "alias": []
+  },
+  "中衝": {
+   "hanja": "中衝",
+   "ko": "중충",
+   "code": "PC9",
+   "meridian": "PC",
+   "pos": "井",
+   "el": "木",
+   "alias": []
+  },
+  "勞宮": {
+   "hanja": "勞宮",
+   "ko": "노궁",
+   "code": "PC8",
+   "meridian": "PC",
+   "pos": "滎",
+   "el": "火",
+   "alias": []
+  },
+  "大陵": {
+   "hanja": "大陵",
+   "ko": "대릉",
+   "code": "PC7",
+   "meridian": "PC",
+   "pos": "兪",
+   "el": "土",
+   "alias": []
+  },
+  "間使": {
+   "hanja": "間使",
+   "ko": "간사",
+   "code": "PC5",
+   "meridian": "PC",
+   "pos": "經",
+   "el": "金",
+   "alias": []
+  },
+  "曲澤": {
+   "hanja": "曲澤",
+   "ko": "곡택",
+   "code": "PC3",
+   "meridian": "PC",
+   "pos": "合",
+   "el": "水",
+   "alias": []
+  },
+  "關衝": {
+   "hanja": "關衝",
+   "ko": "관충",
+   "code": "TE1",
+   "meridian": "TE",
+   "pos": "井",
+   "el": "金",
+   "alias": []
+  },
+  "液門": {
+   "hanja": "液門",
+   "ko": "액문",
+   "code": "TE2",
+   "meridian": "TE",
+   "pos": "滎",
+   "el": "水",
+   "alias": []
+  },
+  "中渚": {
+   "hanja": "中渚",
+   "ko": "중저",
+   "code": "TE3",
+   "meridian": "TE",
+   "pos": "兪",
+   "el": "木",
+   "alias": []
+  },
+  "支溝": {
+   "hanja": "支溝",
+   "ko": "지구",
+   "code": "TE6",
+   "meridian": "TE",
+   "pos": "經",
+   "el": "火",
+   "alias": []
+  },
+  "天井": {
+   "hanja": "天井",
+   "ko": "천정",
+   "code": "TE10",
+   "meridian": "TE",
+   "pos": "合",
+   "el": "土",
+   "alias": []
+  },
+  "足竅陰": {
+   "hanja": "足竅陰",
+   "ko": "족규음",
+   "code": "GB44",
+   "meridian": "GB",
+   "pos": "井",
+   "el": "金",
+   "alias": [
+    "규음"
+   ]
+  },
+  "俠谿": {
+   "hanja": "俠谿",
+   "ko": "협계",
+   "code": "GB43",
+   "meridian": "GB",
+   "pos": "滎",
+   "el": "水",
+   "alias": []
+  },
+  "足臨泣": {
+   "hanja": "足臨泣",
+   "ko": "족임읍",
+   "code": "GB41",
+   "meridian": "GB",
+   "pos": "兪",
+   "el": "木",
+   "alias": [
+    "임읍"
+   ]
+  },
+  "陽輔": {
+   "hanja": "陽輔",
+   "ko": "양보",
+   "code": "GB38",
+   "meridian": "GB",
+   "pos": "經",
+   "el": "火",
+   "alias": []
+  },
+  "陽陵泉": {
+   "hanja": "陽陵泉",
+   "ko": "양릉천",
+   "code": "GB34",
+   "meridian": "GB",
+   "pos": "合",
+   "el": "土",
+   "alias": []
+  },
+  "大敦": {
+   "hanja": "大敦",
+   "ko": "대돈",
+   "code": "LR1",
+   "meridian": "LR",
+   "pos": "井",
+   "el": "木",
+   "alias": []
+  },
+  "行間": {
+   "hanja": "行間",
+   "ko": "행간",
+   "code": "LR2",
+   "meridian": "LR",
+   "pos": "滎",
+   "el": "火",
+   "alias": []
+  },
+  "太衝": {
+   "hanja": "太衝",
+   "ko": "태충",
+   "code": "LR3",
+   "meridian": "LR",
+   "pos": "兪",
+   "el": "土",
+   "alias": []
+  },
+  "中封": {
+   "hanja": "中封",
+   "ko": "중봉",
+   "code": "LR4",
+   "meridian": "LR",
+   "pos": "經",
+   "el": "金",
+   "alias": []
+  },
+  "曲泉": {
+   "hanja": "曲泉",
+   "ko": "곡천",
+   "code": "LR8",
+   "meridian": "LR",
+   "pos": "合",
+   "el": "水",
+   "alias": []
+  }
+ },
+ "cells": [
+  {
+   "key": "LU.正格",
+   "meridian": "LU",
+   "ge": "正格",
+   "bu": {
+    "rel": "母",
+    "el": "土",
+    "other": "太白",
+    "other_meridian": "SP",
+    "own": "太淵"
+   },
+   "xie": {
+    "rel": "官",
+    "el": "火",
+    "other": "少府",
+    "other_meridian": "HT",
+    "own": "魚際"
+   },
+   "rule_ok": true,
+   "exception": null,
+   "song": {
+    "id": "s01",
+    "title": "正格① 肺 大腸 胃 脾",
+    "line": "폐 정격, 태백 태연 보, 소부 어제 사",
+    "derive_song": "saam-d01",
+    "suno_clip": "c57b7a6a-72ff-48e5-85cb-4f6bcac9b7f0"
+   },
+   "sentence": {
+    "text": "태백산의 태연이가 어제 소부산으로 갔다.",
+    "hits": {
+     "太白": "태백",
+     "太淵": "태연",
+     "魚際": "어제",
+     "少府": "소부"
+    },
+    "note": null
+   },
+   "src": "규칙 도출(오수혈 60 + 本穴 + 母·官·子) = 노래 가사 = 사용자 문장 세 갈래 일치"
+  },
+  {
+   "key": "LI.正格",
+   "meridian": "LI",
+   "ge": "正格",
+   "bu": {
+    "rel": "母",
+    "el": "土",
+    "other": "足三里",
+    "other_meridian": "ST",
+    "own": "曲池"
+   },
+   "xie": {
+    "rel": "官",
+    "el": "火",
+    "other": "陽谷",
+    "other_meridian": "SI",
+    "own": "陽谿"
+   },
+   "rule_ok": true,
+   "exception": null,
+   "song": {
+    "id": "s01",
+    "title": "正格① 肺 大腸 胃 脾",
+    "line": "대장 정격, 삼리 곡지 보, 양곡 양계 사",
+    "derive_song": "saam-d01",
+    "suno_clip": "c57b7a6a-72ff-48e5-85cb-4f6bcac9b7f0"
+   },
+   "sentence": {
+    "text": "삼리나 걸어 꼭지가 돌았는데 양계장의 양곡도 바닥났다.",
+    "hits": {
+     "足三里": "삼리",
+     "曲池": "꼭지",
+     "陽谿": "양계",
+     "陽谷": "양곡"
+    },
+    "note": null
+   },
+   "src": "규칙 도출(오수혈 60 + 本穴 + 母·官·子) = 노래 가사 = 사용자 문장 세 갈래 일치"
+  },
+  {
+   "key": "ST.正格",
+   "meridian": "ST",
+   "ge": "正格",
+   "bu": {
+    "rel": "母",
+    "el": "火",
+    "other": "陽谷",
+    "other_meridian": "SI",
+    "own": "解谿"
+   },
+   "xie": {
+    "rel": "官",
+    "el": "木",
+    "other": "足臨泣",
+    "other_meridian": "GB",
+    "own": "陷谷"
+   },
+   "rule_ok": true,
+   "exception": null,
+   "song": {
+    "id": "s01",
+    "title": "正格① 肺 大腸 胃 脾",
+    "line": "위 정격, 양곡 해계 보, 임읍 함곡 사",
+    "derive_song": "saam-d01",
+    "suno_clip": "c57b7a6a-72ff-48e5-85cb-4f6bcac9b7f0"
+   },
+   "sentence": {
+    "text": "양곡가의 해계모니를 비판했더니 함곡령이 떨어져 임읍막음을 당했다.",
+    "hits": {
+     "陽谷": "양곡",
+     "解谿": "해계",
+     "陷谷": "함곡",
+     "足臨泣": "임읍"
+    },
+    "note": null
+   },
+   "src": "규칙 도출(오수혈 60 + 本穴 + 母·官·子) = 노래 가사 = 사용자 문장 세 갈래 일치"
+  },
+  {
+   "key": "SP.正格",
+   "meridian": "SP",
+   "ge": "正格",
+   "bu": {
+    "rel": "母",
+    "el": "火",
+    "other": "少府",
+    "other_meridian": "HT",
+    "own": "大都"
+   },
+   "xie": {
+    "rel": "官",
+    "el": "木",
+    "other": "大敦",
+    "other_meridian": "LR",
+    "own": "隱白"
+   },
+   "rule_ok": true,
+   "exception": null,
+   "song": {
+    "id": "s01",
+    "title": "正格① 肺 大腸 胃 脾",
+    "line": "비 정격, 소부 대도 보, 대돈 은백 사",
+    "derive_song": "saam-d01",
+    "suno_clip": "c57b7a6a-72ff-48e5-85cb-4f6bcac9b7f0"
+   },
+   "sentence": {
+    "text": "소부에서 대도로 가서 대돈을 주고 은백색 말을 샀다.",
+    "hits": {
+     "少府": "소부",
+     "大都": "대도",
+     "大敦": "대돈",
+     "隱白": "은백"
+    },
+    "note": null
+   },
+   "src": "규칙 도출(오수혈 60 + 本穴 + 母·官·子) = 노래 가사 = 사용자 문장 세 갈래 일치"
+  },
+  {
+   "key": "HT.正格",
+   "meridian": "HT",
+   "ge": "正格",
+   "bu": {
+    "rel": "母",
+    "el": "木",
+    "other": "大敦",
+    "other_meridian": "LR",
+    "own": "少衝"
+   },
+   "xie": {
+    "rel": "官",
+    "el": "水",
+    "other": "陰谷",
+    "other_meridian": "KI",
+    "own": "少海"
+   },
+   "rule_ok": true,
+   "exception": null,
+   "song": {
+    "id": "s02",
+    "title": "正格② 心 小腸 膀胱 腎",
+    "line": "심 정격, 대돈 소충 보, 음곡 심소해 사",
+    "derive_song": "saam-d02",
+    "suno_clip": "563999ad-c339-4cf0-94aa-a17a0a6f30da"
+   },
+   "sentence": {
+    "text": "피엑스에서 대돈 주고 소충을 샀더니 음곡에서 소해되었다.",
+    "hits": {
+     "大敦": "대돈",
+     "少衝": "소충",
+     "陰谷": "음곡",
+     "少海": "소해"
+    },
+    "note": null
+   },
+   "src": "규칙 도출(오수혈 60 + 本穴 + 母·官·子) = 노래 가사 = 사용자 문장 세 갈래 일치"
+  },
+  {
+   "key": "SI.正格",
+   "meridian": "SI",
+   "ge": "正格",
+   "bu": {
+    "rel": "母",
+    "el": "木",
+    "other": "足臨泣",
+    "other_meridian": "GB",
+    "own": "後谿"
+   },
+   "xie": {
+    "rel": "官",
+    "el": "水",
+    "other": "足通谷",
+    "other_meridian": "BL",
+    "own": "前谷"
+   },
+   "rule_ok": true,
+   "exception": null,
+   "song": {
+    "id": "s02",
+    "title": "正格② 心 小腸 膀胱 腎",
+    "line": "소장 정격, 임읍 후계 보, 통곡 전곡 사",
+    "derive_song": "saam-d02",
+    "suno_clip": "563999ad-c339-4cf0-94aa-a17a0a6f30da"
+   },
+   "sentence": {
+    "text": "후계자에 대한 정보 임읍막음 했더니 전곡 사람들이 통곡했다.",
+    "hits": {
+     "後谿": "후계",
+     "足臨泣": "임읍",
+     "前谷": "전곡",
+     "足通谷": "통곡"
+    },
+    "note": null
+   },
+   "src": "규칙 도출(오수혈 60 + 本穴 + 母·官·子) = 노래 가사 = 사용자 문장 세 갈래 일치"
+  },
+  {
+   "key": "BL.正格",
+   "meridian": "BL",
+   "ge": "正格",
+   "bu": {
+    "rel": "母",
+    "el": "金",
+    "other": "商陽",
+    "other_meridian": "LI",
+    "own": "至陰"
+   },
+   "xie": {
+    "rel": "官",
+    "el": "土",
+    "other": "足三里",
+    "other_meridian": "ST",
+    "own": "委中"
+   },
+   "rule_ok": true,
+   "exception": null,
+   "song": {
+    "id": "s02",
+    "title": "正格② 心 小腸 膀胱 腎",
+    "line": "방광 정격, 상양 지음 보, 삼리 위중 사",
+    "derive_song": "saam-d02",
+    "suno_clip": "563999ad-c339-4cf0-94aa-a17a0a6f30da"
+   },
+   "sentence": {
+    "text": "지음 상양히 위중한 삼리를 걷고 있다.",
+    "hits": {
+     "至陰": "지음",
+     "商陽": "상양",
+     "委中": "위중",
+     "足三里": "삼리"
+    },
+    "note": null
+   },
+   "src": "규칙 도출(오수혈 60 + 本穴 + 母·官·子) = 노래 가사 = 사용자 문장 세 갈래 일치"
+  },
+  {
+   "key": "KI.正格",
+   "meridian": "KI",
+   "ge": "正格",
+   "bu": {
+    "rel": "母",
+    "el": "金",
+    "other": "經渠",
+    "other_meridian": "LU",
+    "own": "復溜"
+   },
+   "xie": {
+    "rel": "官",
+    "el": "土",
+    "other": "太白",
+    "other_meridian": "SP",
+    "own": "太谿"
+   },
+   "rule_ok": true,
+   "exception": null,
+   "song": {
+    "id": "s02",
+    "title": "正格② 心 小腸 膀胱 腎",
+    "line": "신 정격, 경거 복류 보, 태백 태계 사",
+    "derive_song": "saam-d02",
+    "suno_clip": "563999ad-c339-4cf0-94aa-a17a0a6f30da"
+   },
+   "sentence": {
+    "text": "신발 신고 경거망동하게 복류이크댄스를 췄더니 태백산의 태계이황 선생님한테 꾸중들었다.",
+    "hits": {
+     "經渠": "경거",
+     "復溜": "복류",
+     "太白": "태백",
+     "太谿": "태계"
+    },
+    "note": null
+   },
+   "src": "규칙 도출(오수혈 60 + 本穴 + 母·官·子) = 노래 가사 = 사용자 문장 세 갈래 일치"
+  },
+  {
+   "key": "PC.正格",
+   "meridian": "PC",
+   "ge": "正格",
+   "bu": {
+    "rel": "母",
+    "el": "木",
+    "other": "大敦",
+    "other_meridian": "LR",
+    "own": "中衝"
+   },
+   "xie": {
+    "rel": "官",
+    "el": "水",
+    "other": "陰谷",
+    "other_meridian": "KI",
+    "own": "曲澤"
+   },
+   "rule_ok": true,
+   "exception": null,
+   "song": {
+    "id": "s03",
+    "title": "正格③ 心包 三焦 膽 肝",
+    "line": "심포 정격, 대돈 중충 보, 음곡 곡택 사",
+    "derive_song": "saam-d03",
+    "suno_clip": "7fb8498e-a02f-4343-83e2-32044a5cc08c"
+   },
+   "sentence": {
+    "text": "심뽀부려 대돈 주고 중고 충전기 샀더니 음곡에서 곡택 소리 나게 맞았다.",
+    "hits": {
+     "大敦": "대돈",
+     "中衝": "중고 충",
+     "陰谷": "음곡",
+     "曲澤": "곡택"
+    },
+    "note": null
+   },
+   "src": "규칙 도출(오수혈 60 + 本穴 + 母·官·子) = 노래 가사 = 사용자 문장 세 갈래 일치"
+  },
+  {
+   "key": "TE.正格",
+   "meridian": "TE",
+   "ge": "正格",
+   "bu": {
+    "rel": "母",
+    "el": "木",
+    "other": "足臨泣",
+    "other_meridian": "GB",
+    "own": "中渚"
+   },
+   "xie": {
+    "rel": "官",
+    "el": "水",
+    "other": "足通谷",
+    "other_meridian": "BL",
+    "own": "液門"
+   },
+   "rule_ok": true,
+   "exception": null,
+   "song": {
+    "id": "s03",
+    "title": "正格③ 心包 三焦 膽 肝",
+    "line": "삼초 정격, 임읍 중저 보, 통곡 액문 사",
+    "derive_song": "saam-d03",
+    "suno_clip": "7fb8498e-a02f-4343-83e2-32044a5cc08c"
+   },
+   "sentence": {
+    "text": "삼초 만에 임읍막음당한 다음 중저가 폰 뺏기고 액문 앞에서 통곡했다.",
+    "hits": {
+     "足臨泣": "임읍",
+     "中渚": "중저",
+     "液門": "액문",
+     "足通谷": "통곡"
+    },
+    "note": null
+   },
+   "src": "규칙 도출(오수혈 60 + 本穴 + 母·官·子) = 노래 가사 = 사용자 문장 세 갈래 일치"
+  },
+  {
+   "key": "GB.正格",
+   "meridian": "GB",
+   "ge": "正格",
+   "bu": {
+    "rel": "母",
+    "el": "水",
+    "other": "足通谷",
+    "other_meridian": "BL",
+    "own": "俠谿"
+   },
+   "xie": {
+    "rel": "官",
+    "el": "金",
+    "other": "商陽",
+    "other_meridian": "LI",
+    "own": "足竅陰"
+   },
+   "rule_ok": true,
+   "exception": null,
+   "song": {
+    "id": "s03",
+    "title": "正格③ 心包 三焦 膽 肝",
+    "line": "담 정격, 통곡 협계 보, 상양 규음 사",
+    "derive_song": "saam-d03",
+    "suno_clip": "7fb8498e-a02f-4343-83e2-32044a5cc08c"
+   },
+   "sentence": {
+    "text": "담이 작아 통곡하는 협계를 비웃다가 상양한 척 규음음척 했다.",
+    "hits": {
+     "足通谷": "통곡",
+     "俠谿": "협계",
+     "商陽": "상양",
+     "足竅陰": "규음"
+    },
+    "note": null
+   },
+   "src": "규칙 도출(오수혈 60 + 本穴 + 母·官·子) = 노래 가사 = 사용자 문장 세 갈래 일치"
+  },
+  {
+   "key": "LR.正格",
+   "meridian": "LR",
+   "ge": "正格",
+   "bu": {
+    "rel": "母",
+    "el": "水",
+    "other": "陰谷",
+    "other_meridian": "KI",
+    "own": "曲泉"
+   },
+   "xie": {
+    "rel": "官",
+    "el": "金",
+    "other": "經渠",
+    "other_meridian": "LU",
+    "own": "中封"
+   },
+   "rule_ok": true,
+   "exception": null,
+   "song": {
+    "id": "s03",
+    "title": "正格③ 心包 三焦 膽 肝",
+    "line": "간 정격, 음곡 곡천 보, 경거 중봉 사",
+    "derive_song": "saam-d03",
+    "suno_clip": "7fb8498e-a02f-4343-83e2-32044a5cc08c"
+   },
+   "sentence": {
+    "text": "음곡에서 곡천 번다고 하는 소리를 중봉 군은 경거해야 해.",
+    "hits": {
+     "陰谷": "음곡",
+     "曲泉": "곡천",
+     "中封": "중봉",
+     "經渠": "경거"
+    },
+    "note": null
+   },
+   "src": "규칙 도출(오수혈 60 + 本穴 + 母·官·子) = 노래 가사 = 사용자 문장 세 갈래 일치"
+  },
+  {
+   "key": "LU.勝格",
+   "meridian": "LU",
+   "ge": "勝格",
+   "bu": {
+    "rel": "官",
+    "el": "火",
+    "other": "少府",
+    "other_meridian": "HT",
+    "own": "魚際"
+   },
+   "xie": {
+    "rel": "子",
+    "el": "水",
+    "other": "陰谷",
+    "other_meridian": "KI",
+    "own": "尺澤"
+   },
+   "rule_ok": true,
+   "exception": null,
+   "song": {
+    "id": "s04",
+    "title": "勝格① 肺 大腸 胃 脾",
+    "line": "폐 승격, 소부 어제 보, 음곡 척택 사",
+    "derive_song": "saam-d04",
+    "suno_clip": "ca611960-a90d-46d5-a95b-11fa40a22035"
+   },
+   "sentence": {
+    "text": "어제 소부친 걸 보니 음곡에서 척택을 사라지게 해야겠다.",
+    "hits": {
+     "魚際": "어제",
+     "少府": "소부",
+     "陰谷": "음곡",
+     "尺澤": "척택"
+    },
+    "note": null
+   },
+   "src": "규칙 도출(오수혈 60 + 本穴 + 母·官·子) = 노래 가사 = 사용자 문장 세 갈래 일치"
+  },
+  {
+   "key": "LI.勝格",
+   "meridian": "LI",
+   "ge": "勝格",
+   "bu": {
+    "rel": "官",
+    "el": "火",
+    "other": "陽谷",
+    "other_meridian": "SI",
+    "own": "陽谿"
+   },
+   "xie": {
+    "rel": "子",
+    "el": "水",
+    "other": "足通谷",
+    "other_meridian": "BL",
+    "own": "二間"
+   },
+   "rule_ok": true,
+   "exception": null,
+   "song": {
+    "id": "s04",
+    "title": "勝格① 肺 大腸 胃 脾",
+    "line": "대장 승격, 양곡 양계 보, 통곡 이간 사",
+    "derive_song": "saam-d04",
+    "suno_clip": "ca611960-a90d-46d5-a95b-11fa40a22035"
+   },
+   "sentence": {
+    "text": "양계장과 양곡창고를 잘 보살피고 통곡하고 이간질하는 놈들은 사퇴해.",
+    "hits": {
+     "陽谿": "양계",
+     "陽谷": "양곡",
+     "足通谷": "통곡",
+     "二間": "이간"
+    },
+    "note": null
+   },
+   "src": "규칙 도출(오수혈 60 + 本穴 + 母·官·子) = 노래 가사 = 사용자 문장 세 갈래 일치"
+  },
+  {
+   "key": "ST.勝格",
+   "meridian": "ST",
+   "ge": "勝格",
+   "bu": {
+    "rel": "官",
+    "el": "木",
+    "other": "足臨泣",
+    "other_meridian": "GB",
+    "own": "陷谷"
+   },
+   "xie": {
+    "rel": "子",
+    "el": "金",
+    "other": "商陽",
+    "other_meridian": "LI",
+    "own": "厲兌"
+   },
+   "rule_ok": true,
+   "exception": null,
+   "song": {
+    "id": "s04",
+    "title": "勝格① 肺 大腸 胃 脾",
+    "line": "위 승격, 임읍 함곡 보, 상양 여태 사",
+    "derive_song": "saam-d04",
+    "suno_clip": "ca611960-a90d-46d5-a95b-11fa40a22035"
+   },
+   "sentence": {
+    "text": "임읍막음 함곡령이 풀리나 보네, 여태 안 떠벌린 상양씨는 사퇴시키지 마.",
+    "hits": {
+     "足臨泣": "임읍",
+     "陷谷": "함곡",
+     "厲兌": "여태",
+     "商陽": "상양"
+    },
+    "note": "원문 「상구씨」 → 2026-11-20 사용자 승인으로 「상양씨」 (한 낱말만 고침. 胃 勝格 瀉 = 商陽 · 厲兌)"
+   },
+   "src": "규칙 도출(오수혈 60 + 本穴 + 母·官·子) = 노래 가사 = 사용자 문장 세 갈래 일치"
+  },
+  {
+   "key": "SP.勝格",
+   "meridian": "SP",
+   "ge": "勝格",
+   "bu": {
+    "rel": "官",
+    "el": "木",
+    "other": "大敦",
+    "other_meridian": "LR",
+    "own": "隱白"
+   },
+   "xie": {
+    "rel": "子",
+    "el": "金",
+    "other": "經渠",
+    "other_meridian": "LU",
+    "own": "商丘"
+   },
+   "rule_ok": true,
+   "exception": null,
+   "song": {
+    "id": "s04",
+    "title": "勝格① 肺 大腸 胃 脾",
+    "line": "비 승격, 대돈 은백 보, 경거 상구 사",
+    "derive_song": "saam-d04",
+    "suno_clip": "ca611960-a90d-46d5-a95b-11fa40a22035"
+   },
+   "sentence": {
+    "text": "대돈 주고 산 은백색 말을 잘 보관해, 경거망동하는 상구씨는 사퇴시키고.",
+    "hits": {
+     "大敦": "대돈",
+     "隱白": "은백",
+     "經渠": "경거",
+     "商丘": "상구"
+    },
+    "note": null
+   },
+   "src": "규칙 도출(오수혈 60 + 本穴 + 母·官·子) = 노래 가사 = 사용자 문장 세 갈래 일치"
+  },
+  {
+   "key": "HT.勝格",
+   "meridian": "HT",
+   "ge": "勝格",
+   "bu": {
+    "rel": "官",
+    "el": "水",
+    "other": "陰谷",
+    "other_meridian": "KI",
+    "own": "少海"
+   },
+   "xie": {
+    "rel": "子",
+    "el": "土",
+    "other": "太白",
+    "other_meridian": "SP",
+    "own": "神門"
+   },
+   "rule_ok": true,
+   "exception": null,
+   "song": {
+    "id": "s05",
+    "title": "勝格② 心 小腸 膀胱 腎",
+    "line": "심 승격, 음곡 심소해 보, 태백 신문 사",
+    "derive_song": "saam-d05",
+    "suno_clip": "c5f7c995-f7de-4970-9d1f-96cd226e7ce0"
+   },
+   "sentence": {
+    "text": "음곡에서 소해되고 나서 태백산에서 신문 돌린다.",
+    "hits": {
+     "陰谷": "음곡",
+     "少海": "소해",
+     "太白": "태백",
+     "神門": "신문"
+    },
+    "note": null
+   },
+   "src": "규칙 도출(오수혈 60 + 本穴 + 母·官·子) = 노래 가사 = 사용자 문장 세 갈래 일치"
+  },
+  {
+   "key": "SI.勝格",
+   "meridian": "SI",
+   "ge": "勝格",
+   "bu": {
+    "rel": "官",
+    "el": "水",
+    "other": "足通谷",
+    "other_meridian": "BL",
+    "own": "前谷"
+   },
+   "xie": {
+    "rel": "子",
+    "el": "土",
+    "other": "足三里",
+    "other_meridian": "ST",
+    "own": "小海"
+   },
+   "rule_ok": true,
+   "exception": null,
+   "song": {
+    "id": "s05",
+    "title": "勝格② 心 小腸 膀胱 腎",
+    "line": "소장 승격, 통곡 전곡 보, 삼리 소장소해 사",
+    "derive_song": "saam-d05",
+    "suno_clip": "c5f7c995-f7de-4970-9d1f-96cd226e7ce0"
+   },
+   "sentence": {
+    "text": "통곡하는 전곡 사람들을 잘 보듬고, 삼리 걷던 소해는 사뿐히 무시해.",
+    "hits": {
+     "足通谷": "통곡",
+     "前谷": "전곡",
+     "足三里": "삼리",
+     "小海": "소해"
+    },
+    "note": null
+   },
+   "src": "규칙 도출(오수혈 60 + 本穴 + 母·官·子) = 노래 가사 = 사용자 문장 세 갈래 일치"
+  },
+  {
+   "key": "BL.勝格",
+   "meridian": "BL",
+   "ge": "勝格",
+   "bu": {
+    "rel": "官",
+    "el": "土",
+    "other": "足三里",
+    "other_meridian": "ST",
+    "own": "委中"
+   },
+   "xie": {
+    "rel": "子",
+    "el": "木",
+    "other": "足臨泣",
+    "other_meridian": "GB",
+    "own": "束骨"
+   },
+   "rule_ok": true,
+   "exception": null,
+   "song": {
+    "id": "s05",
+    "title": "勝格② 心 小腸 膀胱 腎",
+    "line": "방광 승격, 삼리 위중 보, 임읍 속골 사",
+    "derive_song": "saam-d05",
+    "suno_clip": "c5f7c995-f7de-4970-9d1f-96cd226e7ce0"
+   },
+   "sentence": {
+    "text": "삼리 걷는 위중한 길을 잘 보호하고 임읍에서 속골 썩이는 놈은 사라져라.",
+    "hits": {
+     "足三里": "삼리",
+     "委中": "위중",
+     "足臨泣": "임읍",
+     "束骨": "속골"
+    },
+    "note": null
+   },
+   "src": "규칙 도출(오수혈 60 + 本穴 + 母·官·子) = 노래 가사 = 사용자 문장 세 갈래 일치"
+  },
+  {
+   "key": "KI.勝格",
+   "meridian": "KI",
+   "ge": "勝格",
+   "bu": {
+    "rel": "官",
+    "el": "土",
+    "other": "太白",
+    "other_meridian": "SP",
+    "own": "太谿"
+   },
+   "xie": {
+    "rel": "子",
+    "el": "木",
+    "other": "大敦",
+    "other_meridian": "LR",
+    "own": "湧泉"
+   },
+   "rule_ok": true,
+   "exception": null,
+   "song": {
+    "id": "s05",
+    "title": "勝格② 心 小腸 膀胱 腎",
+    "line": "신 승격, 태백 태계 보, 대돈 용천 사",
+    "derive_song": "saam-d05",
+    "suno_clip": "c5f7c995-f7de-4970-9d1f-96cd226e7ce0"
+   },
+   "sentence": {
+    "text": "태백산 태계이황 선생님을 잘 보필하는 과정에서 대돈 주고 산 용천수를 드렸다.",
+    "hits": {
+     "太白": "태백",
+     "太谿": "태계",
+     "大敦": "대돈",
+     "湧泉": "용천"
+    },
+    "note": null
+   },
+   "src": "규칙 도출(오수혈 60 + 本穴 + 母·官·子) = 노래 가사 = 사용자 문장 세 갈래 일치"
+  },
+  {
+   "key": "PC.勝格",
+   "meridian": "PC",
+   "ge": "勝格",
+   "bu": {
+    "rel": "官",
+    "el": "水",
+    "other": "陰谷",
+    "other_meridian": "KI",
+    "own": "曲澤"
+   },
+   "xie": {
+    "rel": "子",
+    "el": "土",
+    "other": "太白",
+    "other_meridian": "SP",
+    "own": "大陵"
+   },
+   "rule_ok": true,
+   "exception": null,
+   "song": {
+    "id": "s06",
+    "title": "勝格③ 心包 三焦 膽 肝",
+    "line": "심포 승격, 음곡 곡택 보, 태백 대릉 사",
+    "derive_song": "saam-d06",
+    "suno_clip": "37c15bf3-6af8-4ac9-8ed9-5c0414d5847e"
+   },
+   "sentence": {
+    "text": "음곡에서 곡택 마련의 꿈을 꾸었지만 현실은 태백산에서 대릉만족해야 된다.",
+    "hits": {
+     "陰谷": "음곡",
+     "曲澤": "곡택",
+     "太白": "태백",
+     "大陵": "대릉"
+    },
+    "note": null
+   },
+   "src": "규칙 도출(오수혈 60 + 本穴 + 母·官·子) = 노래 가사 = 사용자 문장 세 갈래 일치"
+  },
+  {
+   "key": "TE.勝格",
+   "meridian": "TE",
+   "ge": "勝格",
+   "bu": {
+    "rel": "官",
+    "el": "水",
+    "other": "足通谷",
+    "other_meridian": "BL",
+    "own": "液門"
+   },
+   "xie": {
+    "rel": "子",
+    "el": "土",
+    "other": "足三里",
+    "other_meridian": "ST",
+    "own": "天井"
+   },
+   "rule_ok": true,
+   "exception": null,
+   "song": {
+    "id": "s06",
+    "title": "勝格③ 心包 三焦 膽 肝",
+    "line": "삼초 승격, 통곡 액문 보, 삼리 천정 사",
+    "derive_song": "saam-d06",
+    "suno_clip": "37c15bf3-6af8-4ac9-8ed9-5c0414d5847e"
+   },
+   "sentence": {
+    "text": "통곡하는 액문을 잘 보호하고 천정에서 삼리를 걸으면 사라진다.",
+    "hits": {
+     "足通谷": "통곡",
+     "液門": "액문",
+     "天井": "천정",
+     "足三里": "삼리"
+    },
+    "note": null
+   },
+   "src": "규칙 도출(오수혈 60 + 本穴 + 母·官·子) = 노래 가사 = 사용자 문장 세 갈래 일치"
+  },
+  {
+   "key": "GB.勝格",
+   "meridian": "GB",
+   "ge": "勝格",
+   "bu": {
+    "rel": "官",
+    "el": "金",
+    "other": "商陽",
+    "other_meridian": "LI",
+    "own": "足竅陰"
+   },
+   "xie": {
+    "rel": "子",
+    "el": "火",
+    "other": "陽谷",
+    "other_meridian": "SI",
+    "own": "陽輔"
+   },
+   "rule_ok": true,
+   "exception": null,
+   "song": {
+    "id": "s06",
+    "title": "勝格③ 心包 三焦 膽 肝",
+    "line": "담 승격, 상양 규음 보, 양곡 양보 사",
+    "derive_song": "saam-d06",
+    "suno_clip": "37c15bf3-6af8-4ac9-8ed9-5c0414d5847e"
+   },
+   "sentence": {
+    "text": "상양한 척 규음은 척 보살피고 양곡 양보 안 하는 형님은 사라져.",
+    "hits": {
+     "商陽": "상양",
+     "足竅陰": "규음",
+     "陽谷": "양곡",
+     "陽輔": "양보"
+    },
+    "note": null
+   },
+   "src": "규칙 도출(오수혈 60 + 本穴 + 母·官·子) = 노래 가사 = 사용자 문장 세 갈래 일치"
+  },
+  {
+   "key": "LR.勝格",
+   "meridian": "LR",
+   "ge": "勝格",
+   "bu": {
+    "rel": "官",
+    "el": "金",
+    "other": "經渠",
+    "other_meridian": "LU",
+    "own": "中封"
+   },
+   "xie": {
+    "rel": "子",
+    "el": "火",
+    "other": "少府",
+    "other_meridian": "HT",
+    "own": "行間"
+   },
+   "rule_ok": true,
+   "exception": null,
+   "song": {
+    "id": "s06",
+    "title": "勝格③ 心包 三焦 膽 肝",
+    "line": "간 승격, 경거 중봉 보, 소부 행간 사",
+    "derive_song": "saam-d06",
+    "suno_clip": "37c15bf3-6af8-4ac9-8ed9-5c0414d5847e"
+   },
+   "sentence": {
+    "text": "경거망동하지 말고 중봉 군을 잘 보살피고 소부에서 행간 띄우는 놈은 사라져.",
+    "hits": {
+     "經渠": "경거",
+     "中封": "중봉",
+     "少府": "소부",
+     "行間": "행간"
+    },
+    "note": null
+   },
+   "src": "규칙 도출(오수혈 60 + 本穴 + 母·官·子) = 노래 가사 = 사용자 문장 세 갈래 일치"
+  }
+ ],
+ "self_buxie": [
+  {
+   "meridian": "LU",
+   "bu_mother": "太淵",
+   "xie_child": "尺澤"
+  },
+  {
+   "meridian": "LI",
+   "bu_mother": "曲池",
+   "xie_child": "二間"
+  },
+  {
+   "meridian": "ST",
+   "bu_mother": "解谿",
+   "xie_child": "厲兌"
+  },
+  {
+   "meridian": "SP",
+   "bu_mother": "大都",
+   "xie_child": "商丘"
+  },
+  {
+   "meridian": "HT",
+   "bu_mother": "少衝",
+   "xie_child": "神門"
+  },
+  {
+   "meridian": "SI",
+   "bu_mother": "後谿",
+   "xie_child": "小海"
+  },
+  {
+   "meridian": "BL",
+   "bu_mother": "至陰",
+   "xie_child": "束骨"
+  },
+  {
+   "meridian": "KI",
+   "bu_mother": "復溜",
+   "xie_child": "湧泉"
+  },
+  {
+   "meridian": "PC",
+   "bu_mother": "中衝",
+   "xie_child": "大陵"
+  },
+  {
+   "meridian": "TE",
+   "bu_mother": "中渚",
+   "xie_child": "天井"
+  },
+  {
+   "meridian": "GB",
+   "bu_mother": "俠谿",
+   "xie_child": "陽輔"
+  },
+  {
+   "meridian": "LR",
+   "bu_mother": "曲泉",
+   "xie_child": "行間"
+  }
+ ]
+}

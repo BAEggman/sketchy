@@ -104,6 +104,29 @@
    "check": "앞발이 오이에 닿음(떠 있으면 실패) · 뿌리는 다른 앞발에 · 오이씨 그대로",
    "fallback": "앞발 닿기가 두 번 실패하면 p4 꼴: 'a closed book with a shiny gold cover lies on the dirt mound under the mole's free front paw' — 새 물건 1(금빛 책 = 金鏡錄)",
    "note": "11-21 재시도: 첫 결과에서 팔이 머리 뒤에서 솟음 → 두 앞발을 분명히"
+  },
+  {
+   "id": "E3b",
+   "order": 90,
+   "zone": "杜本 두더지 앞발 (E3 나눔)",
+   "crop": [
+    1440,
+    700,
+    640,
+    700
+   ],
+   "region": [
+    [
+     40,
+     200,
+     360,
+     450
+    ]
+   ],
+   "new_objects": [],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. The mole pokes out of its dirt mound and grips the thick root with one front paw. Make the mole rise a little higher out of the mound so that its chest shows, and give it a second front paw on the other side of its chest, attached at its shoulder like the first one. This second paw stretches straight up from the mole's shoulder and its claws touch the bottom of the big spoiled cucumber lying on the hut floor above it. The mole has exactly two front paws, both coming from its shoulders; nothing grows from behind its head. Keep the mole's face, the spoiled cucumber, the root, the dirt mound, the hut posts, the man's bare foot and the grass exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "두 앞발 모두 어깨에서 · 한 발은 뿌리 · 다른 발 발톱이 오이 밑에 닿음 · 머리 뒤 팔 없음",
+   "fallback": "3번째부터는 문구만 더함: 'the paw is drawn in front of the mole's body, not behind its head'"
   }
  ]
 }

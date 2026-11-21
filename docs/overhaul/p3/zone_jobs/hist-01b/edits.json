@@ -267,6 +267,63 @@
    "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. On the long grey stone step in front of the hall, place a small white plate with one old fish on it that has clearly gone bad: dull greyish-green skin, a few wavy smell lines rising above it, and one small fly hovering. It is a funny cartoon prop, not gross. Keep the step, the wooden pillars, the floor and the ground exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
    "check": "생선이 「상한」 것으로 보임 · 접시가 계단 위",
    "fallback": "거부면 fly를 빼지 말고 'a cartoon fly' 로만 바꿔 한 번 더"
+  },
+  {
+   "id": "B1a2",
+   "order": 90,
+   "zone": "1 張仲景 대청 왼쪽 (B1 나눔 · 첨부 거부 대응) · fallback crop",
+   "crop": [
+    0,
+    250,
+    1000,
+    560
+   ],
+   "region": [
+    [
+     130,
+     90,
+     170,
+     150
+    ],
+    [
+     650,
+     240,
+     150,
+     160
+    ]
+   ],
+   "new_objects": [
+    "체크 표지 두꺼운 처방 책(쪽지 대신)"
+   ],
+   "also": "육각 너트 지움",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Remove the grey hexagonal metal nut on top of the wooden ladder; the ladder's top step stays plain and empty. 2) The sheet of paper the seated doctor holds out to the patient in the plaid blanket becomes a thick closed book that he holds out in the same hand, gripped firmly. Its cover has the same brown plaid pattern as the patient's blanket, and a few small blank paper slips stick out between its pages. Keep the doctor's face, hat and robe, the patient, the desk with its gold medal, the folding screen, the ladder, the pillars and the floor exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "책이 손에 쥐어짐 · 표지가 담요와 같은 체크 · 너트 흔적 없음",
+   "fallback": "B1과 같은 거부면 crop을 [0,250,1000,560]으로 바꿔 새 이름(B1a2)"
+  },
+  {
+   "id": "B1c",
+   "order": 92,
+   "zone": "張仲景 손의 종이 → 체크 표지 책(B1a 거부 대응, 좁힌 조각)",
+   "crop": [
+    640,
+    380,
+    500,
+    400
+   ],
+   "region": [
+    [
+     0,
+     90,
+     240,
+     200
+    ]
+   ],
+   "new_objects": [
+    "체크 표지 두꺼운 처방 책(쪽지 대신)"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. The seated scholar in the black hat holds up a sheet of paper in his raised hand. Change that sheet into a thick closed book that he holds up in the same hand, his fingers gripping it firmly. The book's cover has a brown and cream plaid pattern, and a few small blank paper slips stick out between its pages. Keep the scholar's face, hat, beard and robe, the desk, the paper on the desk, the folding screen and the gold medal exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "책이 손에 쥐어짐 · 표지 체크 · 쪽지 삐져나옴",
+   "fallback": "거부면 crop을 [680,420,420,340]으로 줄여 새 이름(B1c2)"
   }
  ]
 }

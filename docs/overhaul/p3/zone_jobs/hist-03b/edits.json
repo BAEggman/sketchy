@@ -119,6 +119,28 @@
    "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Replace the treasure chest with a thick closed book of about the same size, in the same place, locked shut with a metal clasp and a small padlock; a few white notes still stick out between its pages. 2) The man's hand that holds the black cloth now presses down on the top of the locked book, holding the black cloth over it. Keep his other hand with one finger on his lips saying \"shh\", and keep his face. 3) Remove every crown from his clothes and hat: the robe now has a pattern of small golden cloud swirls in the same colors, and his black hat is plain with no ornament. 4) Put one large green-brown monitor lizard lying on the wooden floor of the platform on the right side of the book, near his knee. Keep the wooden railing, the trees and sky, the turkey, the sun flag and the edge of the ice block exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
    "check": "왕관 무늬 0 · 손이 책 위(천 너머) · 상자 꼴 없음 · 도마뱀이 마루 위 · 쉿 손 그대로",
    "fallback": "사람이 크게 다시 그려지면 3)을 빼고 1) · 2) · 4)만, 그 다음 조각에서 'remove the crown pattern on the robe' 따로. 손이 안 내려오면 p4 꼴 'the lizard lies on top of the cloth-covered book'은 쓰지 않음(손 접촉이 더 약해짐)"
+  },
+  {
+   "id": "F1",
+   "order": 95,
+   "zone": "이음매: 바닥 펼친 책 오른쪽 끝(E1 조각 경계 x=1000)",
+   "crop": [
+    760,
+    1080,
+    560,
+    456
+   ],
+   "region": [
+    [
+     140,
+     0,
+     200,
+     456
+    ]
+   ],
+   "new_objects": [],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. A straight vertical seam runs down through this picture: the old open book on the wooden floor is cut off sharply on its right side and the candies on the seam are cut in half. Repair it: finish the book's right edge naturally with its pages and cover corner, make every candy whole, and continue the wooden floor boards smoothly across, so there is no vertical line. Keep the hands, the herbs on the pages, the lollipop, the candies and the big stone bowl exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "세로 경계 없음 · 책 오른쪽 끝 자연스러움 · 사탕 온전"
   }
  ]
 }

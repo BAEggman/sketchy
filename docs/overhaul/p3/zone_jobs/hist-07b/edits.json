@@ -138,6 +138,28 @@
    "check": "서랍 하나만 열림 · 두루마리 여럿 · 손이 서랍 속 두루마리에 닿음 · 봉황 그대로",
    "fallback": "서랍이 여럿 열리면 'only one drawer is open'을 앞에 두고 다시",
    "note": "11-21 18:40 규칙 ③: 07b-E4과 07b-E5가 같은 구역이라 한 편집으로 합침"
+  },
+  {
+   "id": "F1",
+   "order": 95,
+   "zone": "미끄럼 노인 두루마리 · 메달의 흰 테두리(스티커처럼 보임)",
+   "crop": [
+    1700,
+    320,
+    600,
+    620
+   ],
+   "region": [
+    [
+     0,
+     0,
+     420,
+     560
+    ]
+   ],
+   "new_objects": [],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. The unrolled scroll held up by the old man on the slide, and the gold medal hanging from it, are surrounded by a thick white outline like a sticker. Remove that white halo so the scroll and the medal sit naturally in the scene with only their normal dark cartoon outlines, with the rainbow slide, the trees and the phoenix's feathers visible right up to their edges. Keep the scroll's body chart drawing, the medal and its red ribbon, the old man's hand holding the scroll and the phoenix exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "흰 테두리 없음 · 두루마리 · 메달 · 손 그대로"
   }
  ]
 }

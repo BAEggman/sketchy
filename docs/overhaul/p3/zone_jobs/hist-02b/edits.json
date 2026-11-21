@@ -58,6 +58,50 @@
    "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) A small white flag with a plain red plus sign on it, like a simple hospital sign, on a thin wooden pole, is stuck upright in the left side of the big nest's rim, with the bottom of the pole pushed into the woven twigs. Keep the nest, all the patterned eggs, the gold medal, the man holding the rim, the knocked-over stool and the purple hydrangeas exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
    "check": "깃발이 둥지 테두리에 꽂혀 섬 · 십자 하나 · 알 · 메달 그대로",
    "fallback": "깃발이 둥지 밖 땅에 서면 'pushed into the nest's rim' 한 번. 십자가 거절되면 'a white flag with a red heart-and-plus hospital mark'"
+  },
+  {
+   "id": "C1",
+   "order": 90,
+   "zone": "옛 그림 이음매: 왼쪽 위 나무 머리",
+   "crop": [
+    350,
+    0,
+    700,
+    600
+   ],
+   "region": [
+    [
+     180,
+     0,
+     340,
+     420
+    ]
+   ],
+   "new_objects": [],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. The leafy green crown of the tree is cut off by a straight vertical line on its right side, where it meets the roof of the building. Repair it: let the round leafy crown continue naturally with rounded edges, partly overlapping the edge of the grey tiled roof, and make the pale sky behind it the same color everywhere. Keep the tree trunk, the building, its roof, pillars and windows, the river and the man at the bottom exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "세로 직선 경계 없음 · 건물 그대로"
+  },
+  {
+   "id": "C2",
+   "order": 91,
+   "zone": "옛 그림 이음매: 버드나무 칸 배경",
+   "crop": [
+    1800,
+    0,
+    952,
+    1250
+   ],
+   "region": [
+    [
+     200,
+     0,
+     752,
+     1180
+    ]
+   ],
+   "new_objects": [],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. The area behind the willow tree on the right has a flat cream-colored background that does not match the rest of the garden, with a straight vertical edge where it meets the building on the left. Make it continuous with the rest of the scene: a pale blue sky at the top, soft green distant trees lower down, and green lawn on the ground under the willow, so there is no vertical edge. Keep the willow tree, the white cloth hanging in it with its torn strips, the young man in green pulling the cloth, the purple hydrangea bushes, the nest, the building and the man at the left exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "세로 경계 없음 · 하늘 · 잔디 이어짐 · 천 · 청년 그대로"
   }
  ]
 }

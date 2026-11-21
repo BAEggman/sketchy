@@ -1,6 +1,7 @@
 import json,re,sys
 ok=True
-for lid in ['hist-08a']:
+import sys
+for lid in (sys.argv[1:] or ['hist-08a','hist-09']):
     S=json.load(open('/home/claude/work/runs/20261121-p3-b4/built/%s.spec.json'%lid,encoding='utf-8'))
     assert len(S['questions'])==5, lid
     for s in S['stations']:

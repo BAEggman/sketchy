@@ -4,7 +4,8 @@ R='/home/claude/work/runs/20261121-p3-b2/built/'
 try: f=ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf',60)
 except: f=None
 C=[(230,25,75),(60,180,75),(0,130,200),(245,130,48),(145,30,180),(240,50,230),(0,0,0),(128,0,0),(0,128,128)]
-for lid in ['hist-01a','hist-02b']:
+import sys
+for lid in (sys.argv[1:] or ['hist-01a','hist-02a','hist-02b']):
     S=json.load(open(R+lid+'.spec.json',encoding='utf-8'))
     im=Image.open('/home/claude/zt/job/%s/cur.png'%lid).convert('RGB'); d=ImageDraw.Draw(im)
     for s in S['stations']:

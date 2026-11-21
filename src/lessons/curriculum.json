@@ -19,14 +19,6 @@
      "note": "갈아엎기 P2 시범(2026-11-21). 기존 과를 덮지 않고 새 id로 둔다. 사용자 검수 뒤 해당 절로 옮긴다",
      "items": [
       {
-       "lesson": "pilot-tao",
-       "level": 2,
-       "see_also": [
-        "hist-02a"
-       ],
-       "note": "Run 1 시범 — 기존 과 hist-02a를 덮지 않음"
-      },
-      {
        "lesson": "pilot-duben",
        "level": 2,
        "see_also": [
@@ -1962,6 +1954,10 @@
   {
    "lesson": "new-gr-30",
    "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
+  },
+  {
+   "lesson": "pilot-tao",
+   "why": "P2 시범 陶弘景 — hist-02a 구역 수정 그림(C1~C4)으로 들어감. 지우지 않고 여기서 볼 수 있다"
   },
   {
    "lesson": "pilot-wangbing",

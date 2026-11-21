@@ -147,16 +147,17 @@
   },
   {
    "id": "hao.東垣",
-   "cue": "해 뜨는 쪽 누런 흙담(보존)",
+   "cue": "해 뜨는 쪽 누런 흙담(보존) + 담 밑 상표 없는 참치캔",
    "decode": "동쪽 → 東(소리) · 담 → 垣(훈)",
    "type": "뜻 + 소리",
    "carriers": [
-    "동쪽 흙담"
+    "동쪽 흙담",
+    "참치캔(동원)"
    ],
    "score": 16,
    "status": "fixed",
    "from": "보존",
-   "note": "참치캔(동원) 안은 상표 의존이라 사용자에게 물음"
+   "note": "참치캔은 2026-11-21 사용자 승인(「참치캔도 떠오른다, 넣자」)"
   },
   {
    "id": "fact.主氣學派",
@@ -434,10 +435,11 @@
     ]
    ],
    "new_objects": [
-    "머리에 인 펼친 큰 책(흙이 쏟아짐)"
+    "머리에 인 펼친 큰 책(흙이 쏟아짐)",
+    "상표 없는 참치캔(동원 → 東垣, 사용자 승인)"
    ],
    "also": "삽 · 담 밑 책 셋 지움. 머리(얼굴 · 자두) 상자는 원본 유지",
-   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Remove the shovel. The man now carries a large open book on top of his head, holding it there with both hands, like a load carried on the head. He tips it forward, and a thick stream of yellow earth pours off the open pages down into the hole in the ground in front of him, filling it. 2) Remove the three books at the foot of the yellow wall; show plain yellow wall and ground there. Keep his face, the purple plum in his mouth, his hair bun, his green clothes and boots, the yellow wall with the rising sun behind it, the tall green sprout, the bowl of porridge and the hole exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Remove the shovel. The man now carries a large open book on top of his head, holding it there with both hands, like a load carried on the head. He tips it forward, and a thick stream of yellow earth pours off the open pages down into the hole in the ground in front of him, filling it. 2) Replace the three books at the foot of the yellow wall with one small round tuna can standing on the ground there: plain silver metal with one blue band and a simple fish shape on it, no letters, no logo. Keep his face, the purple plum in his mouth, his hair bun, his green clothes and boots, the yellow wall with the rising sun behind it, the tall green sprout, the bowl of porridge and the hole exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
    "check": "책이 머리 위 · 두 손이 책에 닿음 · 흙 줄기가 구덩이로 · 얼굴 · 자두 그대로(머리 상자 이음매)",
    "fallback": "두 번 실패하면 이고를 버리고: 'He holds a large open book with both hands at chest height, tilted down, and yellow earth pours from its pages into the hole' (p5 꼴). 이때 李杲 이름 단서는 자두로 되돌리고 「이고」는 대본으로만"
   },
@@ -713,15 +715,7 @@
    "a": "朱震亨 — 『局方發揮』(국방 + 발휘). 넷 가운데 혼자 元 · 남방(나머지 셋은 金 · 북방)"
   }
  ],
- "needs_user_ok": [
-  "진주 방패 → 선명하게 빛나는 책: 守眞을 그림에서 빼고 字號 표로. 까닭: 진주가 본초 珍珠 · hist-05b 珍珠囊에 이은 셋째 운반(낙제 조건). 守眞은 문제집 문항에 없음",
-  "李杲 자세 바꾸기: 삽질 → 펼친 책을 머리에 이고 흙 쏟기(「이고」 통째 동음). 그림에서 가장 큰 편집이고 얼굴 · 자두가 흔들릴 수 있음. 싫으면 p5 꼴(가슴 높이에서 책을 기울여 흙 쏟기)",
-  "劉完素에 빨간 완장 추가(우유 + 완장 = 유완). 소는 비워 둠",
-  "약상자 국방색(局方 = 국방) · 발로 휘두르기(發揮). 상자 색만 바뀜",
-  "걷어차는 사람 = 朱震亨의 둘째 컷으로 읽기(두 컷 모두 주홍 띠). 다른 사람으로 보이면 얼굴 · 옷을 맞추는 편집 1회 추가",
-  "(채택 안 함, 물음) 東垣 = 참치캔(동원참치). 그림에 상표를 못 넣어 「참치캔 → 동원」이 떠오르는지가 사람마다 다름. 쓰려면 E4에 「흙 담긴 참치캔을 머리에 이고」로 바꿈",
-  "기존 정거장의 戴人 · 明之 · 彦修 · 補中益氣湯(李杲 행) · 「가면 다섯」 · 수 부호(오징어 · 너트 · 기타+구미호 · 삼지창 3)를 대본에서 지움"
- ],
+ "needs_user_ok": [],
  "counts": {
   "edits": 6,
   "new_objects": 7,
@@ -737,5 +731,11 @@
    "땅의 책 둘(朱)"
   ],
   "stations": 12
+ },
+ "user_decisions": {
+  "劉完素": "진주 방패 → 빛나는 책 + 빨간 완장(승인)",
+  "李杲": "머리에 이고 흙 쏟기(승인)",
+  "朱震亨": "국방색 상자 · 주홍 띠 둘째 컷 · 격자 책 뚜껑(승인)",
+  "東垣": "참치캔 넣음(승인)"
  }
 }

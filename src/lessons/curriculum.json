@@ -27,29 +27,12 @@
        "note": "Run 1 시범 — 기존 과 hist-02a를 덮지 않음"
       },
       {
-       "lesson": "pilot-wangbing",
-       "level": 2,
-       "see_also": [
-        "hist-03b"
-       ],
-       "note": "Run 1 시범 — 기존 과 hist-03b를 덮지 않음"
-      },
-      {
        "lesson": "pilot-duben",
        "level": 2,
        "see_also": [
         "hist-06b"
        ],
        "note": "Run 1 시범 — 기존 과 hist-06b를 덮지 않음"
-      },
-      {
-       "lesson": "pilot-xue",
-       "level": 2,
-       "see_also": [
-        "hist-07a",
-        "hist-07b"
-       ],
-       "note": "Run 1 시범 — 기존 과 hist-07a · hist-07b를 덮지 않음"
       },
       {
        "lesson": "pilot-gv",
@@ -139,6 +122,11 @@
       },
       {
        "lesson": "hist-03b",
+       "level": 2,
+       "sub": "唐"
+      },
+      {
+       "lesson": "hist-03c",
        "level": 2,
        "sub": "唐"
       },
@@ -1974,6 +1962,14 @@
   {
    "lesson": "new-gr-30",
    "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
+  },
+  {
+   "lesson": "pilot-wangbing",
+   "why": "P2 시범 王冰 — hist-03c로 들어감(그림 그대로). 지우지 않고 여기서 볼 수 있다"
+  },
+  {
+   "lesson": "pilot-xue",
+   "why": "P2 시범 혈 수 계보 — hist-07a로 들어감(그림 그대로). 지우지 않고 여기서 볼 수 있다"
   }
  ]
 }

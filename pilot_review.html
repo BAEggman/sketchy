@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>P2 시범 검수 — 그림만 보고 답하기</title>
+<style>
+:root{--paper:#faf8f2;--ink:#233d35;--muted:#61766c;--line:#d8e0d7;--green:#2d7159;--bad:#b23b3b}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font-family:'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif;line-height:1.6}
+header,main{max-width:1180px;margin:auto;padding:14px 18px}h1{font-size:clamp(22px,4vw,32px);margin:6px 0}
+.score{position:sticky;top:0;background:#fffdf8;border:1px solid var(--line);border-radius:12px;padding:8px 12px;z-index:2;display:flex;gap:14px;flex-wrap:wrap;align-items:center}
+.card{background:#fff;border:1px solid var(--line);border-radius:14px;padding:12px 14px;margin:14px 0}
+.card h2{font-size:18px;margin:0 0 8px}.card img{width:100%;height:auto;border-radius:10px;border:1px solid var(--line);cursor:zoom-in}
+.q{border-top:1px dashed var(--line);padding:8px 0}.q p{margin:0 0 4px}.a{background:#eef7f0;border-radius:8px;padding:6px 10px;margin:4px 0}
+button{font:inherit;cursor:pointer;border:1px solid var(--line);background:#fffdf8;border-radius:9px;padding:5px 11px}
+button[aria-pressed=true].ok{background:var(--green);color:#fff;border-color:var(--green)}button[aria-pressed=true].no{background:var(--bad);color:#fff;border-color:var(--bad)}
+.muted{color:var(--muted);font-size:13px}.row{display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+textarea{width:100%;font:inherit;border:1px solid var(--line);border-radius:8px;padding:6px;min-height:2.4em}
+.pass{color:var(--green);font-weight:700}.fail{color:var(--bad);font-weight:700}
+</style></head><body>
+<header><div class="muted"><a href="index.html">← 허브</a> · <a href="lessons.html">교재 목차 그림</a></div>
+<h1>P2 시범 검수 — 그림만 보고 답하기</h1>
+<p class="muted">각 그림을 먼저 보고 문항에 소리 내어 답한 뒤 「답 보기」 → 맞음/틀림을 고른다. 틀리면 까닭을 고른다(소리 · 관계 · 크기 · 사실). 통과 기준: 의학사 20문항 중 16 이상 + 「넓혀도 된다」.</p></header>
+<main>
+<div class="score" id="score"></div>
+<div id="list"></div>
+<div class="card"><h2>마지막 판단</h2><div class="row"><button id="go" data-v="wide">넓혀도 된다</button><button id="fix" data-v="fix">고치고 다시</button><button id="exp">결과 내보내기(JSON)</button></div>
+<textarea id="memo" placeholder="전체 메모(선택)"></textarea></div>
+</main>
+<script>
+(function(){
+var B=[{"id": "pilot-tao", "title": "陶弘景(梁) — 本經과 別錄을 한 주전자에 쏟아 섞어 本草經集注 730(시범 · 새 문법)", "image": "images/lessons/pilot-tao.webp", "group": "hist", "qs": [{"q": "흰 양털 바닥이 말하는 陶弘景의 왕조는? 문제집이 「明」이라 내면?", "a": "梁(南北朝). 明은 틀림"}, {"q": "홍학 도공이 두 단지를 쏟아 넣은 집 모양 주전자는 무슨 책이고 몇 종인가?", "a": "\u003c本草經集注>(=神農本草經集註), 730종"}, {"q": "왼손 신난 농부 단지와 오른손 명의 별 단지는 각각 무슨 책이고 몇 종씩인가? 둘에 한 일은?", "a": "神農本草經 365종 · 名醫別錄 365종. 수집·정리해 합쳐 엮음(730종)"}, {"q": "주전자 지붕을 뚫고 일어선 약초의 금메달은 陶弘景의 무슨 칭호인가?", "a": "本草中興의 祖"}, {"q": "(거꾸로) 「肘後百一方」과 「養性延命錄」이라 들으면 그림의 어디를 봐야 하나? \u003c本草拾遺>는?", "a": "팔꿈치 뒤 백일 사진 · 다리에 줄을 맨 양성 키트 연(佛道合一論). \u003c本草拾遺>는 그림에 없음 — 唐 陳藏器"}]}, {"id": "pilot-wangbing", "title": "王冰(唐 · 啓玄子) — 열쇠로 검은 구슬을 열고 素問에 쪽지 · 運氣 七篇 補入(시범)", "image": "images/lessons/pilot-wangbing.webp", "group": "hist", "qs": [{"q": "사탕 얹은 왕빙수 위의 왕은 누구이고 어느 왕조인가?", "a": "唐 王冰"}, {"q": "왕이 열쇠로 연 검은 구슬에서 솟은 현자는 무엇을 뜻하나?", "a": "王冰의 號 啓玄子(열 啓 · 검을 玄 · 현자 玄子)"}, {"q": "귓속말하는 흰 책에 쪽지를 붙이는 동작은 무엇에 무엇을 한 것인가?", "a": "\u003c黃帝內經素問>에 全面的 注釋(과 校正)"}, {"q": "칠면조가 흰 책 옆에 밀어 넣는 파란 일곱 장은? 같은 칸의 全元起 · 楊上善과 무엇이 다른가?", "a": "運氣 7편 補入(증보). 색 다른 덧댐(보탬)은 王冰뿐"}, {"q": "(거꾸로) 「壯水之主以制陽光」이라 들으면 그림의 무엇이고, 補陽인가 補陰인가?", "a": "물뿌리개 든 장수풍뎅이 · 取之陰(補陰). 불꽃으로 그늘을 걷는 쪽(益火之源以消陰翳)이 取之陽(補陽)"}]}, {"id": "pilot-duben", "title": "杜本(元) — 敖氏傷寒金鏡錄을 땅에서 처음 뽑아 혀를 비춤 · 최초 舌診 · 舌象 36(시범)", "image": "images/lessons/pilot-duben.webp", "group": "hist", "qs": [{"q": "원두막과 뿌리 위 두더지가 말하는 왕조와 사람은?", "a": "元 杜本"}, {"q": "상한 오이 손잡이의 금 거울은 무슨 책인가?", "a": "\u003c敖氏傷寒金鏡錄> — 舌診 專門書"}, {"q": "두더지가 거울을 땅에서 처음 뽑아 올리고 거울 테에 금메달이 걸린 것은 무슨 의의인가?", "a": "최초 舌診(舌診 專門書를 지음)"}, {"q": "혀 위 체온계가 말하는 수는? 28 · 33은 각각 누구의 무엇인가?", "a": "舌象 36종. 28 = 崔嘉彦\u003c紫虛脈訣> 脈象, 33 = 施發\u003c察病指南> 脈圖"}, {"q": "(거꾸로) 「金鏡」이라 들으면 그림의 무엇이고, 「金鑑」과는 무엇으로 갈리나?", "a": "두더지의 금 거울(혀 · 36). 金鑑은 혈 수 그림 꼭대기에서 오리가 바둑판에 놓는 금감자(醫宗金鑑 361)"}]}, {"id": "pilot-xue", "title": "혈 수 계보 349 → 354 → 359 = 359 → 361 — 돌계단 다섯 자리(시범)", "image": "images/lessons/pilot-xue.webp", "group": "hist", "qs": [{"q": "진달래를 구경하며 갑옷 새를 안은 사내의 왕조 · 이름 · 책 · 혈 수 · 의의는?", "a": "晉 皇甫謐 \u003c鍼灸甲乙經> 349 · 現存 최초 鍼灸學 서적"}, {"q": "보름달을 들어 올린 구리 쌍둥이와 주조공은 누구의 무엇이고 몇 穴인가?", "a": "北宋 王維一 · 銅人 2具 주조 · \u003c銅人兪穴鍼灸圖經> 354"}, {"q": "한 끗 벌어진 고리 바통을 주고받는 두 사람의 왕조 · 책 · 수는?", "a": "南宋 王執中 \u003c鍼灸資生經> 359 → 明 楊繼洲 \u003c鍼灸大成> 359(그대로)"}, {"q": "새싹 돋은 자를 한가운데 꽉 쥐고 엄지로 재는 동작이 말하는 기여는?", "a": "同身寸 取穴 표준 확립(王執中)"}, {"q": "(거꾸로) 「醫宗金鑑 361」이라 들으면 그림의 무엇인가? 엮은 사람과 왕조는?", "a": "꼭대기 유리문 앞 흰 오리가 바둑판(19 × 19)에 놓는 금감자 · 淸 吳謙(六吉)"}]}, {"id": "pilot-gv", "title": "督脈 유주도 — 長强에서 齦交까지 28혈(시범 · 코드로 그림)", "image": "images/lessons/pilot-gv-blank.webp", "image2": "images/lessons/pilot-gv.webp", "group": "gv", "qs": [{"q": "붉은 실선이 겉으로 처음 나오는 혈(꼬리 끝 물결)과 끝나는 혈(입 안)은?", "a": "長强(GV1) → 齦交(GV28)"}, {"q": "목 아래 큰 점(대추 두 알)은 무슨 혈이고, 거기서 무엇이 모이나?", "a": "大椎 — 陽經의 經氣가 모두 大椎에서 交會(그래서 督脈 = 陽脈之海)"}, {"q": "정수리 왕관 자리 혈과, 그곳에서 督脈과 만나는 경맥은?", "a": "百會 — 足厥陰肝經(上額與足厥陰交于巔)"}, {"q": "꼬리 끝 長强은 시작 혈 말고 무슨 혈이기도 한가?", "a": "督脈之絡(15絡脈 — 靈樞 經脈篇 학설)"}, {"q": "督脈의 혈 수 · 별칭 · 병증은? (속 갈래 점선 셋은 어디로 가나?)", "a": "28혈 · 陽脈之海(諸陽之海) · 脊强而折厥 / 腦에 屬 · 腎에 絡 · 心을 貫"}]}], KEY='sketchy_pilot_review_v1', mem=false, R;
+try{R=JSON.parse(localStorage.getItem(KEY)||'null')||{marks:{},why:{},memo:'',verdict:null};}catch(e){mem=true;R={marks:{},why:{},memo:'',verdict:null};}
+function save(){if(mem)return;try{localStorage.setItem(KEY,JSON.stringify(R));}catch(e){mem=true;}}
+function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+var list=document.getElementById('list'),h='';
+B.forEach(function(b){
+  h+='<section class="card"><h2>'+esc(b.title)+'</h2><img loading="lazy" src="'+esc(b.image)+'" alt="'+esc(b.title)+'">'+
+     (b.image2?'<div class="muted">빈 판입니다. 답을 맞춘 뒤 <a href="'+esc(b.image2)+'" target="_blank">이름 있는 판</a>을 보세요.</div>':'');
+  b.qs.forEach(function(q,i){var k=b.id+'#'+i,m=R.marks[k];
+    h+='<div class="q"><p><b>'+(i+1)+'.</b> '+esc(q.q)+'</p><div class="row"><button class="show" data-k="'+k+'">답 보기</button>'+
+       '<button class="ok" data-k="'+k+'" data-m="1" aria-pressed="'+(m===1)+'">맞음</button><button class="no" data-k="'+k+'" data-m="0" aria-pressed="'+(m===0)+'">틀림</button>'+
+       '<select data-why="'+k+'"><option value="">틀린 까닭</option>'+['소리가 안 나옴','관계가 안 보임','소품이 작음','사실이 헷갈림'].map(function(w){return '<option'+(R.why[k]===w?' selected':'')+'>'+w+'</option>';}).join('')+'</select></div>'+
+       '<div class="a" hidden>'+esc(q.a)+'</div></div>';});
+  h+='</section>';});
+list.innerHTML=h;
+function score(){var hs=0,hn=0,all=0,n=0;B.forEach(function(b){b.qs.forEach(function(q,i){var m=R.marks[b.id+'#'+i];if(m!=null){n++;all+=m;if(b.group==='hist'){hn++;hs+=m;}}});});
+  var tot=B.filter(function(b){return b.group==='hist';}).reduce(function(s,b){return s+b.qs.length;},0);
+  document.getElementById('score').innerHTML='<span>의학사 <b>'+hs+'</b> / '+tot+(hn<tot?' (매긴 '+hn+')':'')+' — '+(hn===tot?(hs>=16?'<span class="pass">기준 16 넘음</span>':'<span class="fail">기준 16 미달</span>'):'채점 중')+'</span><span>전체 '+all+' / '+n+' 매김</span><span class="muted">'+(mem?'저장 막힘 — 이 창에서만 기억':'자동 저장')+'</span>'+(R.verdict?'<span>판단: <b>'+(R.verdict==='wide'?'넓혀도 된다':'고치고 다시')+'</b></span>':'');}
+list.addEventListener('click',function(e){var t=e.target;if(t.classList.contains('show')){t.parentNode.nextElementSibling.hidden=false;return;}
+  if(t.dataset.m!=null){var k=t.dataset.k;R.marks[k]=+t.dataset.m;save();Array.prototype.forEach.call(list.querySelectorAll('button[data-k="'+k+'"][data-m]'),function(x){x.setAttribute('aria-pressed',x===t);});score();}});
+list.addEventListener('change',function(e){var k=e.target.dataset.why;if(k){R.why[k]=e.target.value;save();}});
+list.addEventListener('click',function(e){if(e.target.tagName==='IMG')window.open(e.target.src,'_blank');});
+var memo=document.getElementById('memo');memo.value=R.memo||'';memo.oninput=function(){R.memo=memo.value;save();};
+['go','fix'].forEach(function(id){document.getElementById(id).onclick=function(){R.verdict=this.dataset.v;save();score();};});
+document.getElementById('exp').onclick=function(){var a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify({blocks:B.map(function(b){return {id:b.id,qs:b.qs.length};}),result:R},null,1)],{type:'application/json'}));a.download='pilot_review_'+new Date().toISOString().slice(0,10)+'.json';a.click();};
+score();
+})();
+</script></body></html>

@@ -1,0 +1,367 @@
+{
+ "batch": "B2",
+ "items": [
+  {
+   "id": "H007",
+   "hanja": "大黃",
+   "reading": "대황",
+   "cue": "왕좌에 버티고 앉은 거대한 누런 대왕 황소(왕관 없음)",
+   "draw_en": "A huge yellow bull sitting smugly on a big red-and-gold royal throne like a great king, no crown, single white-background sticker, no text.",
+   "decode": "대왕 ≈ 대황 + 황소의 황 → 대황",
+   "type": 3,
+   "carriers": [
+    "대왕",
+    "황소"
+   ],
+   "score": 23,
+   "from": "p1 · Gemini 원안 운반 유지"
+  },
+  {
+   "id": "H008",
+   "hanja": "附子",
+   "reading": "부자",
+   "cue": "머리카락이 활활 타는 불꽃인 부자 도련님(나비넥타이, 실크햇 · 돈 없음)",
+   "draw_en": "A smug rich young boy in a shiny tuxedo with a bow tie whose hair is a blazing fire, no top hat, no money, no gold ring, no text.",
+   "decode": "부자 → 附子 (부자 가족, 불꽃 = 大熱)",
+   "type": 1,
+   "carriers": [
+    "부자"
+   ],
+   "score": 24,
+   "from": "Gemini 원안 · p1 · p2 · p4 · p5 · p6"
+  },
+  {
+   "id": "H014",
+   "hanja": "吳茱萸",
+   "reading": "오수유",
+   "cue": "청둥오리가 갈색 새끼 오리에게 젖병으로 수유",
+   "draw_en": "A green-headed mallard duck (not white, not bowing) holding a baby bottle in its wing and feeding a small brown striped duckling, no text.",
+   "decode": "오리 + 수유 → 오수유",
+   "type": 4,
+   "carriers": [
+    "오리",
+    "수유"
+   ],
+   "score": 23,
+   "from": "Gemini 원안 · p1 · p3 · p6 (청둥 = p3 · p4 · p5)"
+  },
+  {
+   "id": "H017",
+   "hanja": "蒼朮",
+   "reading": "창출",
+   "cue": "외날 긴 창을 세워 든 짙은 초록 배추 전사",
+   "draw_en": "A dark green napa cabbage warrior standing upright and holding a long wooden spear with a single leaf-shaped blade (not a trident), no text.",
+   "decode": "창 + 배추(朮 가족) → 창출",
+   "type": 5,
+   "carriers": [
+    "창",
+    "배추"
+   ],
+   "score": 20,
+   "from": "Gemini 원안 · p1 · p2 · p4 · p5 · p6 (외날 = p6)"
+  },
+  {
+   "id": "H023",
+   "hanja": "厚朴",
+   "reading": "후박",
+   "cue": "후추 그라인더가 정수리에 꽂힌 둥근 박",
+   "draw_en": "A round white bottle gourd with a wooden pepper grinder stuck into its top, black pepper grains spilling down its sides, no text.",
+   "decode": "후(추) + 박 → 후박",
+   "type": 4,
+   "carriers": [
+    "후추",
+    "박"
+   ],
+   "score": 23,
+   "from": "계획서 안 · p5 · p3 · p6"
+  },
+  {
+   "id": "H026",
+   "hanja": "草烏",
+   "reading": "초오",
+   "cue": "풀을 뜯어 먹는 초록 까마귀(천 두르지 않음)",
+   "draw_en": "A bright grass-green crow pecking at and eating a tuft of grass, no cloth on it, no candle, no text.",
+   "decode": "초(록) + 까마귀(烏 가족) + 풀(草) → 초오",
+   "type": 5,
+   "carriers": [
+    "초록",
+    "까마귀"
+   ],
+   "score": 21,
+   "from": "p1 · p3 (Gemini 풀숲)"
+  },
+  {
+   "id": "H027",
+   "hanja": "甘遂",
+   "reading": "감수",
+   "cue": "감옥 쇠창살을 두 손으로 붙잡은 줄무늬 죄수",
+   "draw_en": "A prisoner in a black-and-white striped uniform gripping the iron bars of a small jail cell door with both hands, no fruit, no text.",
+   "decode": "감(옥) + (죄)수 → 감수",
+   "type": 4,
+   "carriers": [
+    "감옥",
+    "죄수"
+   ],
+   "score": 21,
+   "from": "p4 (Gemini 원안의 죄수 유지)"
+  },
+  {
+   "id": "H028",
+   "hanja": "大戟",
+   "reading": "대극",
+   "cue": "붉은 막이 걷힌 대극장 무대(간판 없음)",
+   "draw_en": "A grand theater stage front with gold columns and heavy red velvet curtains drawn open on an empty stage, no sign, no letters.",
+   "decode": "대극장 → 대극",
+   "type": 2,
+   "carriers": [
+    "대극장"
+   ],
+   "score": 21,
+   "from": "계획서 안(간판 뺌) · p1 · p2 · p4 · p5 · p6"
+  },
+  {
+   "id": "H047",
+   "hanja": "巴豆",
+   "reading": "파두",
+   "cue": "도화선 달린 파란 두부 폭탄",
+   "draw_en": "A blue block of tofu shaped like a cartoon bomb with a lit fuse sticking out of its top, no text.",
+   "decode": "파(란) + 두(부) → 파두 (폭탄 = 峻下 · 大毒)",
+   "type": 4,
+   "carriers": [
+    "파란",
+    "두부"
+   ],
+   "score": 22,
+   "from": "Gemini 원안 · p5 · p6"
+  },
+  {
+   "id": "H057",
+   "hanja": "獨活",
+   "reading": "독활",
+   "cue": "날개와 발톱으로 활을 당겨 땅 아래로 겨눈 독수리",
+   "draw_en": "A brown eagle drawing a bow with its wing and talon, aiming the arrow straight down toward the ground, no text.",
+   "decode": "독(수리) + 활 → 독활 (아래 = 下部, 羌活 위와 짝)",
+   "type": 4,
+   "carriers": [
+    "독수리",
+    "활"
+   ],
+   "score": 24,
+   "from": "p4 (계획서 안 운반 유지)"
+  },
+  {
+   "id": "H059",
+   "hanja": "連翹",
+   "reading": "연교",
+   "cue": "얼굴 달린 연고 튜브가 제 몸을 꾹 짜 연고를 냄",
+   "draw_en": "A white ointment tube with a cute face squeezing its own belly so a dab of white ointment pops out of its open cap, no text.",
+   "decode": "연고 ≈ 연교 (종기 연고 = 瘡家聖藥)",
+   "type": 3,
+   "carriers": [
+    "연고"
+   ],
+   "score": 22,
+   "from": "p1 · p2 · p3"
+  },
+  {
+   "id": "H060",
+   "hanja": "地骨皮",
+   "reading": "지골피",
+   "cue": "지구본 위에 걸터앉아 피리 부는 해골",
+   "draw_en": "A friendly cartoon skeleton sitting on top of a desk globe and playing a small wooden recorder flute, no text.",
+   "decode": "지(구본) + (해)골 + 피(리) → 지골피 (해골 = 骨)",
+   "type": 4,
+   "carriers": [
+    "지구본",
+    "해골",
+    "피리"
+   ],
+   "score": 22,
+   "from": "p3 · p5 합침"
+  },
+  {
+   "id": "H063",
+   "hanja": "白蘞",
+   "reading": "백렴",
+   "cue": "물구나무선 흰 염소(긴 수염 · 굽은 뿔, 목줄 없음)",
+   "draw_en": "A white goat with curved horns and a long beard doing a handstand on its front hooves, no leash, no collar, no text.",
+   "decode": "흰(白) + 염소(염 = 렴) → 백렴",
+   "type": 4,
+   "carriers": [
+    "염소"
+   ],
+   "score": 21,
+   "from": "p3 (Gemini 원안 운반 유지)"
+  },
+  {
+   "id": "H067",
+   "hanja": "玄參",
+   "reading": "현삼",
+   "cue": "구멍 숭숭한 검은 현무암 몸의 삼 인형",
+   "draw_en": "A small root-doll figure with a ginseng-root body and tiny root arms and legs, made of black porous basalt rock full of little holes, no text.",
+   "decode": "현(무암) + 삼 인형(參 가족) → 현삼",
+   "type": 5,
+   "carriers": [
+    "현무암",
+    "삼 인형"
+   ],
+   "score": 23,
+   "from": "Gemini 원안 · p1 · p2 · p4 · p5 · p6"
+  },
+  {
+   "id": "H070",
+   "hanja": "赤芍藥",
+   "reading": "적작약",
+   "cue": "외눈 안대 찬 빨간 옷 해적 약사(약병 듦)",
+   "draw_en": "A pirate pharmacist in a bright red long coat and tricorn hat with a black eye patch, holding up a small brown medicine bottle, no text.",
+   "decode": "(해)적 + 약사 → 적작약 (白芍藥 백작 약사의 붉은 짝)",
+   "type": 4,
+   "carriers": [
+    "해적",
+    "약사"
+   ],
+   "score": 22,
+   "from": "p2 · p5"
+  },
+  {
+   "id": "H080",
+   "hanja": "犀角",
+   "reading": "서각",
+   "cue": "외뿔이 네모난 사각 블록인 코뿔소",
+   "draw_en": "A grey rhinoceros whose single horn is a perfect square cube block, standing proudly, no text.",
+   "decode": "사각 ≈ 서각 + 코뿔소(犀) → 서각",
+   "type": 3,
+   "carriers": [
+    "사각",
+    "코뿔소"
+   ],
+   "score": 23,
+   "from": "p1"
+  },
+  {
+   "id": "H100",
+   "hanja": "虎骨",
+   "reading": "호골",
+   "cue": "통뼈 방망이를 휘두르는 줄무늬 호랑이",
+   "draw_en": "An ordinary orange tiger with bold black stripes (no clock) swinging a thick bone like a baseball bat, no text.",
+   "decode": "호랑이 + 통뼈(骨) → 호골",
+   "type": 4,
+   "carriers": [
+    "호랑이",
+    "통뼈"
+   ],
+   "score": 19,
+   "from": "Gemini 원안 · p6 (호랑이 몸 = p1)"
+  },
+  {
+   "id": "H101",
+   "hanja": "馬錢子",
+   "reading": "마전자",
+   "cue": "엽전을 문 채 뻣뻣이 굳어 옆으로 넘어진 말",
+   "draw_en": "A brown horse lying stiffly on its side with its legs rigid and straight, an old brass coin with a square hole clenched in its teeth, no text.",
+   "decode": "말(마) + 엽전(전) → 마전자 (강직 = 독성)",
+   "type": 4,
+   "carriers": [
+    "말",
+    "엽전"
+   ],
+   "score": 22,
+   "from": "p3"
+  },
+  {
+   "id": "H112",
+   "hanja": "車前子",
+   "reading": "차전자",
+   "cue": "바퀴 달린 전자레인지 자동차",
+   "draw_en": "A silver microwave oven built as a little car with round wheels, headlights and a tiny steering wheel behind its glass door, no text.",
+   "decode": "차 + 전자(레인지) → 차전자",
+   "type": 4,
+   "carriers": [
+    "차",
+    "전자레인지"
+   ],
+   "score": 24,
+   "from": "계획서 안 · p1 · p4 · p5"
+  },
+  {
+   "id": "H132",
+   "hanja": "木瓜",
+   "reading": "목과",
+   "cue": "나무 막대 양끝에 울퉁불퉁 연둣빛 모과를 꿴 아령",
+   "draw_en": "A dumbbell made of a wooden bar with a lumpy pale-green quince fruit stuck on each end, no text.",
+   "decode": "모과(= 木瓜) + 나무(木) → 목과 (아령 = 舒筋)",
+   "type": 3,
+   "carriers": [
+    "모과"
+   ],
+   "score": 24,
+   "from": "Gemini 원안 · p4"
+  },
+  {
+   "id": "H142",
+   "hanja": "赤小豆",
+   "reading": "적소두",
+   "cue": "얼굴 달린 붉은 꼬마 팥알",
+   "draw_en": "A tiny dark-red adzuki bean with a cute face and tiny arms and legs, standing alone, no text.",
+   "decode": "팥 = 赤小豆 (붉은 赤 · 꼬마 小 · 콩 豆)",
+   "type": 6,
+   "carriers": [
+    "팥"
+   ],
+   "score": 14,
+   "from": "Gemini 원안 · p1 · p2 · p5 · p6"
+  },
+  {
+   "id": "H148",
+   "hanja": "澤瀉",
+   "reading": "택사",
+   "cue": "지붕에서 물을 분수처럼 뿜는 흰 택시(지붕등 글자 없음)",
+   "draw_en": "A white taxi with a blank roof light spraying a fountain of water upward from its roof, not yellow, no letters.",
+   "decode": "택시 ≈ 택사 (물 = 利水)",
+   "type": 3,
+   "carriers": [
+    "택시"
+   ],
+   "score": 23,
+   "from": "계획서 안 · p1 · p2 · p3 · p4 · p5 · p6"
+  }
+ ],
+ "conflict_risk": [
+  "대왕: 大薊(B3) · 大黃 = 상한 둘. 다른 약이 대왕을 쓰면 셋째",
+  "왕관: 大黃은 왕좌로 그림(人參 왕관 · 款冬花 왕관 운반과 갈림). 다른 묶음이 왕좌를 쓰면 겹침",
+  "박: 朴硝(B6 박 속의 초) · 厚朴 = 상한 둘",
+  "호박: 琥珀(3597행 · 문제집 44번)과 독음이 같아 사전 어디에도 쓰지 말 것(B2 厚朴 호박 안 낙제)",
+  "초록: 草烏의 운반. 川烏(B3)는 초록 금지(천 두른 까마귀), 다른 약도 초록을 운반으로 쓰지 말 것",
+  "감: 甘草(단감) · 爐甘石(감) = 상한 둘 → 甘遂는 감옥으로. 爐甘石(B6)이 감을 버리면 甘遂 원안 복귀도 가능",
+  "감자: 의학사 醫宗金鑑 금감자와 같은 물건 — 본초에서 쓰지 않음",
+  "파란: 巴戟天(B5) · 巴豆 = 상한 둘",
+  "폭탄: 巴豆 두부 폭탄 + 橘核(B6) · 荔枝核(B3) 핵폭탄 = 폭탄 그림 셋. B3 · B6에서 하나 바꾸길",
+  "활: 羌活(B1) · 獨活 = 상한 둘. 羌活은 위로 겨누게 하면 짝이 갈림",
+  "약사: 白芍藥(고정) · 赤芍藥 = 상한 둘",
+  "호랑이: 柴胡(고정) · 虎骨 = 상한 둘",
+  "통뼈: 豹骨(B6) · 虎骨 = 상한 둘. 豹骨은 점박이 무늬로 갈려야 함",
+  "말: 馬兜鈴(B4) · 馬錢子 = 상한 둘",
+  "해골: 地骨皮 운반. 의학사 主制群徵 「해골 그림 책」 · 포제 장의 해골 = 毒 표지와 겹칠 위험",
+  "오리: 吳茱萸 청둥오리. 다른 약은 오리를 쓰지 말 것(의학사 흰 오리 포함 둘)",
+  "염소: 白蘞. 梁 「목줄 맨 흰 양」과 갈리게 목줄 없음 · 물구나무",
+  "물 뿜기: 澤瀉 하나에만. 같은 利水 무리(B3 · B4 등)가 물 뿜는 그림을 쓰면 겹침",
+  "지구본 · 피리 · 연고 · 사각 · 엽전 · 전자레인지 · 모과 · 감옥 · 죄수 · 대극장 · 현무암 · 해적 · 독수리 · 수유 · 후추: B2 전용으로 잡음"
+ ],
+ "needs_user_ok": [
+  {
+   "id": "H027",
+   "why": "B-5 원안 유지 약(甘遂). 원안 「단감 든 죄수」의 단감이 甘草 단감 · 爐甘石 감에 이어 셋째 사용(낙제) — 十八反에서 甘草와 한 줄에 서서 단감 둘이 맞붙음. 「감옥 쇠창살을 붙잡은 죄수」로 바꾸고 죄수는 유지"
+  }
+ ],
+ "check_needed": [
+  "巴豆: p3 「파도 서핑하는 두부」가 23점으로 원안(22)보다 1점 높음. B-5 원안 유지라 원안을 골랐다. 사용자가 원하면 바꿀 수 있음(폭탄 그림 셋 겹침도 풀림)",
+  "獨活: 「아래로 겨눔 = 下部」 — 羌活 上半身 · 獨活 下半身 구분이 교재 3575행 부근에 있는지 확인",
+  "連翹: 「瘡家聖藥」이 교재에 있는지 확인(없어도 연고 소리 단서는 그대로 성립)",
+  "馬錢子: 「굳어 넘어짐 = 독성 강직」 고리 — 교재가 馬錢子 독성(有大毒)을 적었는지 확인. 사실 오류는 아님",
+  "赤小豆: 묶음 최저점(14). 소리 단서 없이 팥 실물에 기댐. 소는 상한, 다른 소리 후보가 여섯 안에 없었음",
+  "虎骨: p2 「호랑이 해골」(21)이 원안(19)보다 높지만 地骨皮 해골과 겹치고 원안을 바꿔야 해서 뺌",
+  "黃 색 규칙: 택시 · 새끼 오리 · 모과 · 연고를 노랗게 그리지 않도록 draw_en에 적음. 그림 뒤 검수 때 확인",
+  "附子 · 香附子 · 白附子: 부자 가족 셋이 한 장에 설 때 불꽃 머리(附子) · 실크햇(香附子) · 흰 분(白附子)으로만 갈리는지 그림 검수에서 확인",
+  "제안 파일 p2 · p3 · p4의 \"p\" 값이 모두 3으로 적혀 있음(파일 이름 기준으로 읽음)"
+ ]
+}

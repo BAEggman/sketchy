@@ -1,0 +1,355 @@
+{
+ "batch": "B1",
+ "items": [
+  {
+   "id": "H006",
+   "hanja": "黃連",
+   "reading": "황련",
+   "cue": "쓴맛에 혀를 내밀고 찡그린 노란 연꽃",
+   "draw_en": "a yellow lotus flower with a cartoon face, scrunching its eyes and sticking its tongue out at a bitter taste, floating on a small lily pad",
+   "decode": "노랑(黃 색 부호) → 황 · 연꽃 → 련",
+   "type": 2,
+   "carriers": [
+    "연꽃"
+   ],
+   "score": 22,
+   "from": "p3 · p4"
+  },
+  {
+   "id": "H009",
+   "hanja": "細辛",
+   "reading": "세신",
+   "cue": "목욕탕 세신사 — 때수건 낀 손을 흔듦",
+   "draw_en": "a cheerful Korean bathhouse scrubber in shorts and a towel headband, waving one hand that wears a green exfoliating scrub mitt",
+   "decode": "세신사 → 세신",
+   "type": 1,
+   "carriers": [
+    "세신사"
+   ],
+   "score": 24,
+   "from": "계획서 안 · p1 · p2 · p4 · p5 · p6"
+  },
+  {
+   "id": "H011",
+   "hanja": "麻黃",
+   "reading": "마황",
+   "cue": "땀 뻘뻘 흘리며 노란 망토를 벗는 뿔 달린 마왕",
+   "draw_en": "a horned cartoon demon king dripping with sweat, pulling off his bright yellow cape",
+   "decode": "마왕 ≈ 마황 · 노랑 = 黃 · 땀 = 發汗",
+   "type": 3,
+   "carriers": [
+    "마왕"
+   ],
+   "score": 22,
+   "from": "계획서 안 · p3 (뿔: p4 · p5)"
+  },
+  {
+   "id": "H012",
+   "hanja": "知母",
+   "reading": "지모",
+   "cue": "꼭대기에 커다란 지우개가 달린 모자",
+   "draw_en": "a soft cap with a big pink pencil eraser stuck on its top like a pompom",
+   "decode": "지우개 → 지 · 모자 → 모",
+   "type": 4,
+   "carriers": [
+    "지우개",
+    "모자"
+   ],
+   "score": 22,
+   "from": "계획서 안 · p1 · p2 · p4 · p5 · p6"
+  },
+  {
+   "id": "H015",
+   "hanja": "黃柏",
+   "reading": "황백",
+   "cue": "노랑 · 하양 두 장이 포개진 황백지단(고명 달걀부침)",
+   "draw_en": "two thin round egg crepes stacked slightly offset, one bright yellow (yolk) and one pure white (egg white), with a few thin cut strips beside them",
+   "decode": "황백지단 → 황백",
+   "type": 2,
+   "carriers": [
+    "황백지단"
+   ],
+   "score": 22,
+   "from": "p1"
+  },
+  {
+   "id": "H041",
+   "hanja": "牡丹皮",
+   "reading": "목단피",
+   "cue": "목 단추를 꽉 채워 얼굴이 빨개진 피에로",
+   "draw_en": "a clown with a bright red face, choking slightly because the single huge button at his collar is fastened too tight around his neck",
+   "decode": "목 · 단추 · 피에로 → 목단피 · 붉은 얼굴 = 血熱",
+   "type": 4,
+   "carriers": [
+    "목",
+    "단추",
+    "피에로"
+   ],
+   "score": 22,
+   "from": "계획서 안 · p3 · p4 · p5"
+  },
+  {
+   "id": "H042",
+   "hanja": "槐角",
+   "reading": "괴각",
+   "cue": "뿔 자리에 반달 각도기를 단 작은 괴물",
+   "draw_en": "a small green cartoon monster with a half-moon protractor (tick marks only, no numbers) growing on its head in place of a horn",
+   "decode": "괴물 → 괴 · 각도기 → 각 (뿔 = 角)",
+   "type": 4,
+   "carriers": [
+    "괴물",
+    "각도기"
+   ],
+   "score": 23,
+   "from": "계획서 안 · p3 · p4"
+  },
+  {
+   "id": "H050",
+   "hanja": "升麻",
+   "reading": "승마",
+   "cue": "말째 위로 솟구치는 승마 선수",
+   "draw_en": "an equestrian rider in helmet and riding jacket, horse and rider leaping straight upward together into the air",
+   "decode": "승마 → 승마 · 솟구침 = 升",
+   "type": 1,
+   "carriers": [
+    "승마"
+   ],
+   "score": 25,
+   "from": "계획서 안 · p3 · p4"
+  },
+  {
+   "id": "H051",
+   "hanja": "葛根",
+   "reading": "갈근",
+   "cue": "팔 근육을 자랑하는 근육질 갈매기",
+   "draw_en": "a white seagull flexing huge bodybuilder arm muscles with its wings",
+   "decode": "갈매기 → 갈 · 근육 → 근",
+   "type": 4,
+   "carriers": [
+    "갈매기",
+    "근육"
+   ],
+   "score": 23,
+   "from": "계획서 안 · p1 · p2 · p3 · p4 · p5 · p6"
+  },
+  {
+   "id": "H052",
+   "hanja": "白芷",
+   "reading": "백지",
+   "cue": "이마에 새하얀 백지 한 장이 철썩 붙은 둥근 얼굴",
+   "draw_en": "a round cartoon face with one blank pure-white sheet of paper slapped flat onto its forehead, eyes looking up at it in surprise",
+   "decode": "백지 → 백지 · 이마 = 陽明 두통",
+   "type": 1,
+   "carriers": [
+    "백지"
+   ],
+   "score": 23,
+   "from": "p4 (원안 낱말 백지)"
+  },
+  {
+   "id": "H053",
+   "hanja": "葱白",
+   "reading": "총백",
+   "cue": "흰 대파 밑동으로 만든 권총",
+   "draw_en": "a toy pistol made from a green onion whose white bottom stalk forms the barrel and grip, green leaves sprouting from the back",
+   "decode": "총 → 총 · 흰 밑동 = 葱白 실물",
+   "type": 4,
+   "carriers": [
+    "총"
+   ],
+   "score": 21,
+   "from": "p4 · p5"
+  },
+  {
+   "id": "H054",
+   "hanja": "羌活",
+   "reading": "강활",
+   "cue": "강물 위에 둥둥 떠서 시위가 당겨진 활",
+   "draw_en": "a wooden bow with its string drawn back and an arrow nocked, floating by itself on a small patch of blue river water, no archer",
+   "decode": "강물 → 강 · 활 → 활",
+   "type": 4,
+   "carriers": [
+    "강물",
+    "활"
+   ],
+   "score": 22,
+   "from": "계획서 안 · p1"
+  },
+  {
+   "id": "H055",
+   "hanja": "藁本",
+   "reading": "고본",
+   "cue": "정수리에 산처럼 쌓은 고봉밥 그릇을 얹은 사람",
+   "draw_en": "a person balancing a rice bowl heaped mountain-high with white rice on the very top of their head, hands steadying it",
+   "decode": "고봉밥 ≈ 고본 · 정수리 = 巔頂 두통",
+   "type": 3,
+   "carriers": [
+    "고봉밥"
+   ],
+   "score": 22,
+   "from": "p4"
+  },
+  {
+   "id": "H056",
+   "hanja": "桂枝",
+   "reading": "계지",
+   "cue": "계피 나뭇가지 지팡이",
+   "draw_en": "a walking cane made from a cinnamon branch, brown rolled-bark texture, with a small knobby handle",
+   "decode": "계피 → 계 · 지팡이 → 지 (실물 = 가지)",
+   "type": 4,
+   "carriers": [
+    "계피",
+    "지팡이"
+   ],
+   "score": 22,
+   "from": "Gemini 원안 · p1 · p2 · p4 · p5 · p6"
+  },
+  {
+   "id": "H058",
+   "hanja": "石膏",
+   "reading": "석고",
+   "cue": "물을 벌컥벌컥 들이켜는 하얀 석고 조각상",
+   "draw_en": "a white plaster classical statue bust gulping water thirstily from a big glass, water splashing",
+   "decode": "석고 → 석고 · 들이켬 = 大渴",
+   "type": 1,
+   "carriers": [
+    "석고"
+   ],
+   "score": 25,
+   "from": "p3 (Gemini 원안 바탕)"
+  },
+  {
+   "id": "H069",
+   "hanja": "苦參",
+   "reading": "고삼",
+   "cue": "머리띠 맨 고3 수험생 뿌리 인형",
+   "draw_en": "a ginseng-root doll dressed as a cramming high-school senior, wearing a plain blank white headband, tired eyes",
+   "decode": "고3 → 고삼 · 뿌리 인형 = 參 가족",
+   "type": 1,
+   "carriers": [
+    "고삼"
+   ],
+   "score": 25,
+   "from": "계획서 안 · p1 · p2 · p4 · p5"
+  },
+  {
+   "id": "H088",
+   "hanja": "荊芥",
+   "reading": "형개",
+   "cue": "거대한 형광펜을 끌고 가는 개미",
+   "draw_en": "a cartoon ant dragging a giant neon-yellow-green highlighter pen behind it, straining hard",
+   "decode": "형광펜 → 형 · 개미 → 개",
+   "type": 4,
+   "carriers": [
+    "형광펜",
+    "개미"
+   ],
+   "score": 23,
+   "from": "p3"
+  },
+  {
+   "id": "H138",
+   "hanja": "紫蘇葉",
+   "reading": "자소엽",
+   "cue": "깻잎 이불을 덮고 자는 보라 소",
+   "draw_en": "a purple cow sleeping peacefully with eyes closed, tucked under one giant perilla leaf used as a blanket (no Z letters)",
+   "decode": "자는 → 자 · 소 → 소 · 잎 ≈ 엽 · 보라 = 紫",
+   "type": 4,
+   "carriers": [
+    "자는",
+    "소",
+    "깻잎"
+   ],
+   "score": 22,
+   "from": "p4"
+  },
+  {
+   "id": "H139",
+   "hanja": "薄荷",
+   "reading": "박하",
+   "cue": "찬 김을 후 뿜는 초록 박하 잎 줄기",
+   "draw_en": "a sprig of fresh green mint leaves with a little face, blowing out a puff of icy blue frosty breath",
+   "decode": "박하 → 박하 · 찬 김 = 淸涼",
+   "type": 1,
+   "carriers": [
+    "박하"
+   ],
+   "score": 21,
+   "from": "p2 · p5 · p6 (원안 낱말 박하)"
+  },
+  {
+   "id": "H140",
+   "hanja": "菊花",
+   "reading": "국화",
+   "cue": "선글라스 쓴 흰 국화꽃",
+   "draw_en": "a white chrysanthemum flower with a cool face wearing dark sunglasses",
+   "decode": "국화 → 국화 · 선글라스 = 明目",
+   "type": 1,
+   "carriers": [
+    "국화"
+   ],
+   "score": 25,
+   "from": "p4 (원안 · p2 · p6 바탕)"
+  },
+  {
+   "id": "H145",
+   "hanja": "生薑",
+   "reading": "생강",
+   "cue": "싱싱한 날생강 개구리 — 물기 반짝",
+   "draw_en": "a fresh, glistening, wet ginger root shaped like a frog crouching to jump, water droplets on its knobby skin",
+   "decode": "생강 → 생강 · 물기 = 生",
+   "type": 1,
+   "carriers": [
+    "생강"
+   ],
+   "score": 24,
+   "from": "Gemini 원안 · p6"
+  },
+  {
+   "id": "H146",
+   "hanja": "防風",
+   "reading": "방풍",
+   "cue": "바람에 빵빵하게 부푼 빈 방풍 점퍼",
+   "draw_en": "an empty zip-up windbreaker jacket puffed up like a balloon by a strong gust of wind, sleeves flapping",
+   "decode": "방풍 점퍼 → 방풍",
+   "type": 1,
+   "carriers": [
+    "방풍"
+   ],
+   "score": 22,
+   "from": "p2 · p4 · p5"
+  }
+ ],
+ "conflict_risk": [
+  "괴물: 槐角(B1) + 槐花(B3 괴물 꽃다발) — 2회 상한 도달. B3에서 더 쓰면 안 됨",
+  "근육: 葛根(B1 운반) + 百部根(B4 운반) — 운반 2회 상한 도달. 乾薑(B3) 근육 생강은 운반은 아니나 근육 피규어가 셋이 됨",
+  "활: 羌活(B1) + 獨活(B2 독수리가 쏘는 활) — 2회 상한 도달, 둘은 강물 ↔ 독수리로 갈림. 사람 궁수 금지(川芎)",
+  "소: 紫蘇葉(B1) + 小茴香(B3 회 먹고 향수 뿌리는 소) — 사전 표 안 2회. 의학사 사전 蘇敬(경례하는 소)까지 세면 셋째. 紫蘇葉의 소는 蘇敬과 같은 글자(蘇)라 일관됨 → 본체가 小茴香 쪽 소를 바꾸는 편을 권함",
+  "개: 荊芥는 개미로 바꿔 개 운반을 쓰지 않음(蛤蚧 찬합 든 개 하나만 남음). B2 · B3 · B5 · B6의 개 피규어(狗脊 · 白及 · 黃狗腎 · 白殭蠶)는 그대로 둬도 B1과 안 겹침",
+  "갈매기(葛根) ↔ 해조 바닷새(海藻, B4): 바닷새 둘 — 근육 ↔ 해초 물기로 갈리는지 그림에서 확인",
+  "고봉밥(藁本) ↔ 백반 정식 쌀밥(白礬, B5): 밥그릇 둘 — 머리 위 산더미 ↔ 밥상 한 상으로 갈리는지 확인",
+  "계피: 桂枝 지팡이 ↔ 肉桂(B3) 계피 두른 통닭 — 같은 나무라 시험에도 짝, 지팡이 ↔ 통닭으로 갈림",
+  "마왕(麻黃) ↔ 대왕 황소(大黃, B2): 마왕 · 대왕 소리가 닮음 — 뿔 달린 사람 ↔ 황소로 갈림",
+  "생강: 生薑 날생강 개구리 ↔ 乾薑(B3) 근육 생강 — 짝, 물기 ↔ 근육",
+  "점퍼(防風) ↔ 가죽 조끼(陳皮 B3 · 象皮 B6): 윗옷 피규어 셋 — 빈 바람막이 ↔ 가죽조끼",
+  "노랑: 黃連 연꽃 · 黃柏 지단 · 麻黃 망토 — 黃精(B5) 「노란 수정 구슬 요정」과 黃連 요정안을 버려 겹침을 피함"
+ ],
+ "needs_user_ok": [
+  {
+   "id": "H052",
+   "why": "白芷는 B-5 원안 유지 목록. 낱말 「백지」는 그대로지만 원안의 두루마리를 공용 부호(두루마리 노래)와 겹쳐 빼고 「이마에 붙은 백지 한 장」(陽明 두통)으로 꼴을 바꿈"
+  },
+  {
+   "id": "H139",
+   "why": "薄荷는 B-5 원안 유지 목록. 원안 「민트 박하사탕 잎사귀」의 사탕이 唐 터 부호라 빼고 「찬 김 뿜는 박하 잎」으로 바꿈(운반 낱말 박하사탕 → 박하)"
+  }
+ ],
+ "check_needed": [
+  "H015 황백지단: 사용자가 이 고명을 「황백지단」으로 부르는지. 아니면 2위 「노란 백곰」(계획서 안)으로",
+  "H140 菊花: 원안의 노란 국화를 흰 국화로 바꿈(노랑 = 黃 부호). 낱말 · 선글라스는 그대로",
+  "H058 石膏 · H050 升麻 · H011 麻黃: 원안 · 계획서 낱말은 그대로 두고 동작(들이켬 · 솟구침 · 땀)만 더함",
+  "H069 머리띠 · H042 각도기 · H138 잠: 글씨(필승) · 숫자 눈금 · Z 글자 없이 그려지는지",
+  "H052 이마 백지가 부적이나 처방 쪽지로 읽히지 않는지(빈 흰 종이)",
+  "H053 葱白: 계획서 안 「백구」를 버림(白及 백구와 둘째 사용 + 개 피규어 과다). 白及 쪽 백구는 그대로 쓸 수 있음"
+ ]
+}

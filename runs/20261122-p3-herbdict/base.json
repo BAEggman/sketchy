@@ -1,0 +1,5037 @@
+[
+ {
+  "id": "H001",
+  "hanzi": "半夏",
+  "name": "반하",
+  "old_group": "청소기 가운(온화한담)",
+  "old_cue": "반바지 하마",
+  "old_context": "복제·인경·십팔반·임신·육진",
+  "other_cue": "자기 반바지에 두 뒷발이 한꺼번에 끼어 자빠지는 하마",
+  "other_decision": "keep",
+  "other_score": "90",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3487,
+   3492,
+   3494,
+   3495,
+   3500,
+   3503,
+   3506,
+   3511,
+   3556,
+   3595,
+   3637,
+   3761
+  ],
+  "tb_n": 12,
+  "ocr_n": 12,
+  "qb_n": 10,
+  "tb_cat": [
+   "化痰止咳平喘藥 · 1) 溫化寒痰藥 (3595행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3556
+  ],
+  "fixed": [
+   "보존 목록(계획서 8절)",
+   "반바지 하마 — 원안: 반바지 하마"
+  ],
+  "batch": "고정"
+ },
+ {
+  "id": "H002",
+  "hanzi": "甘草",
+  "name": "감초",
+  "old_group": "금박 곤룡포(보기)",
+  "old_cue": "단감 풀잎 요정",
+  "old_context": "밀자·십팔반·칠정·보료",
+  "other_cue": "통감에 꽂힌 초를 감이 볼을 부풀려 끄려다 자기 몸이 촛농에 잠김",
+  "other_decision": "revise",
+  "other_score": "91",
+  "plan_cue": "단**감**에 꽂힌 양**초**",
+  "plan_note": "감 + 초",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3440,
+   3471,
+   3472,
+   3473,
+   3491,
+   3496,
+   3500,
+   3511,
+   3518,
+   3527,
+   3546,
+   3556,
+   3604,
+   3620
+  ],
+  "tb_n": 14,
+  "ocr_n": 0,
+  "qb_n": 4,
+  "tb_cat": [
+   "補益藥 · 1) 補氣藥 (3604행)",
+   "方劑의 (3620행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3518,
+   3527,
+   3546,
+   3556
+  ],
+  "fixed": null,
+  "batch": "B5"
+ },
+ {
+  "id": "H003",
+  "hanzi": "人參",
+  "name": "인삼",
+  "old_group": "금박 곤룡포(보기)",
+  "old_cue": "왕관 쓴 인삼",
+  "old_context": "십팔반·십구외·칠정",
+  "other_cue": "왕관 쓴 인삼이 제 발 뿌리에 걸려 넘어짐",
+  "other_decision": "keep",
+  "other_score": "90",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3472,
+   3491,
+   3493,
+   3500
+  ],
+  "tb_n": 4,
+  "ocr_n": 4,
+  "qb_n": 1,
+  "tb_cat": [],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B6"
+ },
+ {
+  "id": "H004",
+  "hanzi": "川芎",
+  "name": "천궁",
+  "old_group": "혈관 드릴 슈트(활혈)",
+  "old_cue": "천사 궁수",
+  "old_context": "주자·인경·두통필수·칠정",
+  "other_cue": "날개가 활시위에 끼어 당황하는 천사 궁수",
+  "other_decision": "keep",
+  "other_score": "92",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3430,
+   3442,
+   3454,
+   3471,
+   3486,
+   3487,
+   3491,
+   3493,
+   3542,
+   3593
+  ],
+  "tb_n": 10,
+  "ocr_n": 0,
+  "qb_n": 5,
+  "tb_cat": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3542
+  ],
+  "fixed": [
+   "보존 목록(계획서 8절)",
+   "천사 궁수 — 원안: 천사 궁수"
+  ],
+  "batch": "고정"
+ },
+ {
+  "id": "H005",
+  "hanzi": "柴胡",
+  "name": "시호",
+  "old_group": "청색 우비(발산풍열)",
+  "old_cue": "시계 호랑이",
+  "old_context": "초자·4경인경·승부·칠정",
+  "other_cue": "몸통이 자명종이고 수염이 시곗바늘인 호랑이",
+  "other_decision": "keep",
+  "other_score": "92",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "몸통이 자명종(숫자 없이 눈금만 있는 시계판)이고 수염이 시곗바늘인 호랑이",
+  "p2cho_status": "fixed",
+  "tb_lines": [
+   1712,
+   2855,
+   2856,
+   3432,
+   3452,
+   3485,
+   3486,
+   3491,
+   3543,
+   3563,
+   3570,
+   3620,
+   3623,
+   3639,
+   3755
+  ],
+  "tb_n": 15,
+  "ocr_n": 0,
+  "qb_n": 12,
+  "tb_cat": [
+   "解表藥 · 2) 發散風熱藥 (3563행)",
+   "淸熱藥 · 5) 淸虛熱藥 (3570행)",
+   "方劑의 (3620행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3543
+  ],
+  "fixed": [
+   "P2 Run 2 확정(사용자 결정 11-21)",
+   "몸통이 자명종(숫자 없이 눈금만 있는 시계판)이고 수염이 시곗바늘인 호랑이"
+  ],
+  "batch": "고정"
+ },
+ {
+  "id": "H006",
+  "hanzi": "黃連",
+  "name": "황련",
+  "old_group": "얼음 소방복(청열조습)",
+  "old_cue": "노란 연꽃 요정",
+  "old_context": "주자·강자·인경·칠정",
+  "other_cue": "황금 덩어리로 만든 연꽃이 너무 무거워 물속으로 가라앉음",
+  "other_decision": "revise",
+  "other_score": "79",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   2855,
+   2856,
+   3434,
+   3439,
+   3473,
+   3484,
+   3493,
+   3496,
+   3542,
+   3545,
+   3567,
+   3570,
+   3614,
+   3758,
+   3761
+  ],
+  "tb_n": 15,
+  "ocr_n": 13,
+  "qb_n": 9,
+  "tb_cat": [
+   "淸熱藥 · 2) 淸熱燥濕藥 (3567행)",
+   "淸熱藥 · 5) 淸虛熱藥 (3570행)",
+   "外用藥 (3614행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3542,
+   3545
+  ],
+  "fixed": null,
+  "batch": "B1"
+ },
+ {
+  "id": "H007",
+  "hanzi": "大黃",
+  "name": "대황",
+  "old_group": "뚫어뻥 작업복(공하)",
+  "old_cue": "대왕 누런 황소",
+  "old_context": "주자·증법·칠정·임신신용",
+  "other_cue": "대왕 황소가 작은 왕좌에 엉덩이를 구겨 넣음",
+  "other_decision": "keep",
+  "other_score": "91",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3434,
+   3439,
+   3458,
+   3492,
+   3503,
+   3511,
+   3542,
+   3552,
+   3572,
+   3614,
+   3626,
+   3754
+  ],
+  "tb_n": 12,
+  "ocr_n": 11,
+  "qb_n": 3,
+  "tb_cat": [
+   "瀉下藥 · 1) 攻下藥 (3572행)",
+   "外用藥 (3614행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3542,
+   3552
+  ],
+  "fixed": null,
+  "batch": "B2"
+ },
+ {
+  "id": "H008",
+  "hanzi": "附子",
+  "name": "부자",
+  "old_group": "용광로 털코트(온리)",
+  "old_cue": "불꽃 부자 도련님",
+  "old_context": "인경·칠정·임신신용",
+  "other_cue": "금괴 산 위의 부자가 돈방석이 너무 높아 내려오지 못한다",
+  "other_decision": "keep",
+  "other_score": "93",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   2908,
+   3431,
+   3442,
+   3458,
+   3485,
+   3492,
+   3495,
+   3503,
+   3511,
+   3543,
+   3556,
+   3560,
+   3581,
+   3583,
+   3595
+  ],
+  "tb_n": 17,
+  "ocr_n": 19,
+  "qb_n": 4,
+  "tb_cat": [
+   "溫裏藥 (3581행)",
+   "理氣藥 (3583행)",
+   "化痰止咳平喘藥 · 1) 溫化寒痰藥 (3595행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3543,
+   3556,
+   3560
+  ],
+  "fixed": null,
+  "batch": "B2"
+ },
+ {
+  "id": "H009",
+  "hanzi": "細辛",
+  "name": "세신",
+  "old_group": "적색 우비(발산풍한)",
+  "old_cue": "세 발 매운 신발",
+  "old_context": "인경·소음두통·십팔반·칠정",
+  "other_cue": "목욕탕 세신사가 자기 등까지 때를 밀려다 팔이 꼬임",
+  "other_decision": "revise",
+  "other_score": "95",
+  "plan_cue": "목욕탕 **세신**사(때수건 낀 손)",
+  "plan_note": "세신 그대로",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3471,
+   3484,
+   3487,
+   3494,
+   3500,
+   3563
+  ],
+  "tb_n": 6,
+  "ocr_n": 8,
+  "qb_n": 5,
+  "tb_cat": [
+   "解表藥 · 1) 發散風寒藥 (3563행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B1"
+ },
+ {
+  "id": "H010",
+  "hanzi": "白芍藥",
+  "name": "백작약",
+  "old_group": "금박 곤룡포(보혈)",
+  "old_cue": "하얀 백작 약사",
+  "old_context": "인경·십팔반·칠정",
+  "other_cue": "하얀 백작이 약사처럼 약을 조제하다 자기 콧수염에 약을 묻힌다",
+  "other_decision": "keep",
+  "other_score": "85",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3438,
+   3474,
+   3481,
+   3493,
+   3606,
+   3609
+  ],
+  "tb_n": 6,
+  "ocr_n": 0,
+  "qb_n": 2,
+  "tb_cat": [
+   "補益藥 · 3) 補血藥 (3606행)",
+   "收澁藥 (3609행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": [
+   "보존 목록(계획서 8절)",
+   "백작 약사 — 원안: 하얀 백작 약사"
+  ],
+  "batch": "고정"
+ },
+ {
+  "id": "H011",
+  "hanzi": "麻黃",
+  "name": "마황",
+  "old_group": "적색 우비(발산풍한)",
+  "old_cue": "노란 야생마",
+  "old_context": "밀자·육진·폐인경",
+  "other_cue": "마술사가 모자에서 황소를 꺼냈다가 황소에 끌려간다",
+  "other_decision": "revise",
+  "other_score": "83",
+  "plan_cue": "노란 망토 **마왕**",
+  "plan_note": "마황 ≈ 마왕",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   1712,
+   3430,
+   3442,
+   3458,
+   3462,
+   3506,
+   3518,
+   3546,
+   3563,
+   3609,
+   3620,
+   3626,
+   3752
+  ],
+  "tb_n": 13,
+  "ocr_n": 12,
+  "qb_n": 2,
+  "tb_cat": [
+   "解表藥 · 1) 發散風寒藥 (3563행)",
+   "收澁藥 · 1) 止汗藥 (3609행)",
+   "方劑의 (3620행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3518,
+   3546
+  ],
+  "fixed": null,
+  "batch": "B1"
+ },
+ {
+  "id": "H012",
+  "hanzi": "知母",
+  "name": "지모",
+  "old_group": "얼음 소방복(청열사화)",
+  "old_cue": "지우개 모자 엄마",
+  "old_context": "염자·인경·칠정",
+  "other_cue": "모자 챙 전체가 커다란 지우개여서 머리를 지워 버린다",
+  "other_decision": "revise",
+  "other_score": "88",
+  "plan_cue": "**지**우개 달린 **모**자",
+  "plan_note": "엄마를 뺀다. 한 덩어리",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   2855,
+   2856,
+   3434,
+   3439,
+   3475,
+   3484,
+   3491,
+   3544,
+   3566,
+   3609
+  ],
+  "tb_n": 10,
+  "ocr_n": 8,
+  "qb_n": 7,
+  "tb_cat": [
+   "淸熱藥 · 1) 淸熱瀉火藥 (3566행)",
+   "收澁藥 (3609행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3544
+  ],
+  "fixed": null,
+  "batch": "B1"
+ },
+ {
+  "id": "H013",
+  "hanzi": "靑皮",
+  "name": "청피",
+  "old_group": "바람개비 조끼(이기)",
+  "old_cue": "청피망 복면",
+  "old_context": "초자·3경인경·미성숙채집",
+  "other_cue": "청피망이 복면처럼 얼굴을 감싸 재채기할 때 씨가 튄다",
+  "other_decision": "keep",
+  "other_score": "94",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "청피망이 복면처럼 얼굴을 감싼 사람(재채기하면 씨가 튐)",
+  "p2cho_status": "fixed",
+  "tb_lines": [
+   3485,
+   3486,
+   3507,
+   3543,
+   3583,
+   3620
+  ],
+  "tb_n": 6,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "理氣藥 (3583행)",
+   "方劑의 (3620행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3543
+  ],
+  "fixed": [
+   "P2 Run 2 확정(사용자 결정 11-21)",
+   "청피망이 복면처럼 얼굴을 감싼 사람(재채기하면 씨가 튐)"
+  ],
+  "batch": "고정"
+ },
+ {
+  "id": "H014",
+  "hanzi": "吳茱萸",
+  "name": "오수유",
+  "old_group": "용광로 털코트(온리)",
+  "old_cue": "오리 수유병",
+  "old_context": "인경·궐음두통·육진",
+  "other_cue": "오리가 거대한 젖병으로 새끼에게 수유하다 젖병째 뒤로 넘어진다",
+  "other_decision": "revise",
+  "other_score": "91",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3430,
+   3486,
+   3487,
+   3506,
+   3581,
+   3756
+  ],
+  "tb_n": 6,
+  "ocr_n": 0,
+  "qb_n": 7,
+  "tb_cat": [
+   "溫裏藥 (3581행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B2"
+ },
+ {
+  "id": "H015",
+  "hanzi": "黃柏",
+  "name": "황백",
+  "old_group": "얼음 소방복(청열조습)",
+  "old_cue": "노란 잣나무 장군",
+  "old_context": "염자·2경인경·칠정",
+  "other_cue": "등보다 큰 황금 백팩이 주인을 뒤로 넘어뜨림",
+  "other_decision": "revise",
+  "other_score": "86",
+  "plan_cue": "노란 **백**곰",
+  "plan_note": "황(노랑, 가족 규칙) + 백",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   2856,
+   3434,
+   3439,
+   3475,
+   3482,
+   3491,
+   3544,
+   3567,
+   3614
+  ],
+  "tb_n": 9,
+  "ocr_n": 0,
+  "qb_n": 9,
+  "tb_cat": [
+   "淸熱藥 · 2) 淸熱燥濕藥 (3567행)",
+   "外用藥 (3614행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3544
+  ],
+  "fixed": null,
+  "batch": "B1"
+ },
+ {
+  "id": "H016",
+  "hanzi": "枳實",
+  "name": "지실",
+  "old_group": "바람개비 조끼(이기)",
+  "old_cue": "지퍼 달린 탱자",
+  "old_context": "부초·임신신용·육진",
+  "other_cue": "지퍼를 올릴수록 끝없이 실이 풀려나와 옷이 사라짐",
+  "other_decision": "revise",
+  "other_score": "94",
+  "plan_cue": "**지**퍼에서 풀려 나오는 **실**",
+  "plan_note": "지 + 실",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3503,
+   3506,
+   3507,
+   3533,
+   3583,
+   3651,
+   3765
+  ],
+  "tb_n": 7,
+  "ocr_n": 0,
+  "qb_n": 6,
+  "tb_cat": [
+   "理氣藥 (3583행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3533
+  ],
+  "fixed": null,
+  "batch": "B3"
+ },
+ {
+  "id": "H017",
+  "hanzi": "蒼朮",
+  "name": "창출",
+  "old_group": "향주머니 앞치마(화습)",
+  "old_cue": "창 든 배추",
+  "old_context": "부초·2경인경",
+  "other_cue": "창문 틀에 몸이 낀 탈출자가 바깥으로 빠져나오려 버둥댄다",
+  "other_decision": "revise",
+  "other_score": "88",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3430,
+   3439,
+   3481,
+   3533,
+   3577
+  ],
+  "tb_n": 5,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "芳香化濕藥 (3577행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3533
+  ],
+  "fixed": null,
+  "batch": "B2"
+ },
+ {
+  "id": "H018",
+  "hanzi": "白朮",
+  "name": "백출",
+  "old_group": "금박 곤룡포(보기)",
+  "old_cue": "하얀 백배추",
+  "old_context": "부초·토초",
+  "other_cue": "백조가 좁은 우리에서 탈출하다 엉덩이가 낀다",
+  "other_decision": "revise",
+  "other_score": "87",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3430,
+   3473,
+   3533,
+   3536,
+   3604,
+   3609,
+   3639,
+   3756,
+   3761
+  ],
+  "tb_n": 9,
+  "ocr_n": 0,
+  "qb_n": 3,
+  "tb_cat": [
+   "補益藥 · 1) 補氣藥 (3604행)",
+   "收澁藥 · 1) 止汗藥 (3609행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3533,
+   3536
+  ],
+  "fixed": null,
+  "batch": "B5"
+ },
+ {
+  "id": "H019",
+  "hanzi": "山藥",
+  "name": "산약",
+  "old_group": "금박 곤룡포(보기)",
+  "old_cue": "산신령 마 도령",
+  "old_context": "부초·토초·칠정",
+  "other_cue": "작은 산이 입을 벌려 커다란 알약을 삼킨다",
+  "other_decision": "revise",
+  "other_score": "89",
+  "plan_cue": "**산**꼭대기 **약**국",
+  "plan_note": "산 + 약",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3430,
+   3491,
+   3533,
+   3536,
+   3604
+  ],
+  "tb_n": 5,
+  "ocr_n": 6,
+  "qb_n": 0,
+  "tb_cat": [
+   "補益藥 · 1) 補氣藥 (3604행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3533,
+   3536
+  ],
+  "fixed": null,
+  "batch": "B5"
+ },
+ {
+  "id": "H020",
+  "hanzi": "乾薑",
+  "name": "건강",
+  "old_group": "용광로 털코트(온리)",
+  "old_cue": "마른 생강 근육맨",
+  "old_context": "초탄·칠정·임신신용",
+  "other_cue": "근육질 생강이 건강검진 체중계 위에서 힘자랑한다",
+  "other_decision": "keep",
+  "other_score": "80",
+  "plan_cue": "**건강**검진 받는 근육 생강",
+  "plan_note": "건강 그대로. 원안의 근육을 살림",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3431,
+   3493,
+   3503,
+   3531,
+   3581,
+   3756
+  ],
+  "tb_n": 6,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "溫裏藥 (3581행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3531
+  ],
+  "fixed": null,
+  "batch": "B3"
+ },
+ {
+  "id": "H021",
+  "hanzi": "肉桂",
+  "name": "육계",
+  "old_group": "용광로 털코트(온리)",
+  "old_cue": "육중한 계피 통나무",
+  "old_context": "십구외·인경·임신신용",
+  "other_cue": "정확히 여섯 개의 계란이 한 판에서 굴러 떨어진다",
+  "other_decision": "revise",
+  "other_score": "82",
+  "plan_cue": "계피 두른 **육계**(통닭)",
+  "plan_note": "육계(肉鷄) 그대로",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3431,
+   3442,
+   3484,
+   3500,
+   3503,
+   3581,
+   3756
+  ],
+  "tb_n": 7,
+  "ocr_n": 7,
+  "qb_n": 0,
+  "tb_cat": [
+   "溫裏藥 (3581행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B3"
+ },
+ {
+  "id": "H022",
+  "hanzi": "當歸",
+  "name": "당귀",
+  "old_group": "금박 곤룡포(보혈)",
+  "old_cue": "당나귀 귀부인",
+  "old_context": "주자·칠정",
+  "other_cue": "당나귀가 자기 커다란 귀로 부채질한다",
+  "other_decision": "revise",
+  "other_score": "90",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3491,
+   3542,
+   3606,
+   3609,
+   3756,
+   3759
+  ],
+  "tb_n": 6,
+  "ocr_n": 5,
+  "qb_n": 2,
+  "tb_cat": [
+   "補益藥 · 3) 補血藥 (3606행)",
+   "收澁藥 (3609행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3542
+  ],
+  "fixed": [
+   "보존 목록(계획서 8절)",
+   "당나귀 귀부인 — 원안: 당나귀 귀부인"
+  ],
+  "batch": "고정"
+ },
+ {
+  "id": "H023",
+  "hanzi": "厚朴",
+  "name": "후박",
+  "old_group": "향주머니 앞치마(화습)",
+  "old_cue": "두꺼운 박 바가지",
+  "old_context": "강자·칠정",
+  "other_cue": "후라이팬에서 박 바가지가 팝콘처럼 튀어나온다",
+  "other_decision": "revise",
+  "other_score": "77",
+  "plan_cue": "**후**추 뿌린 **박**",
+  "plan_note": "후 + 박",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3430,
+   3493,
+   3545,
+   3577
+  ],
+  "tb_n": 4,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "芳香化濕藥 (3577행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3545
+  ],
+  "fixed": null,
+  "batch": "B2"
+ },
+ {
+  "id": "H024",
+  "hanzi": "黃芩",
+  "name": "황금",
+  "old_group": "얼음 소방복(청열조습)",
+  "old_cue": "번쩍이는 황금괴",
+  "old_context": "증법·침강·칠정",
+  "other_cue": "발 달린 황금괴가 자기 몸을 광내다 눈이 부신다",
+  "other_decision": "keep",
+  "other_score": "94",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3434,
+   3453,
+   3491,
+   3492,
+   3552,
+   3567,
+   3761
+  ],
+  "tb_n": 7,
+  "ocr_n": 0,
+  "qb_n": 5,
+  "tb_cat": [
+   "淸熱藥 · 2) 淸熱燥濕藥 (3567행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3552
+  ],
+  "fixed": [
+   "보존 목록(계획서 8절)",
+   "황금괴 — 원안: 번쩍이는 황금괴"
+  ],
+  "batch": "고정"
+ },
+ {
+  "id": "H025",
+  "hanzi": "川烏",
+  "name": "천오",
+  "old_group": "용광로 털코트(온리)",
+  "old_cue": "시냇물 대장 까마귀",
+  "old_context": "자법·십팔반·십구외·임신금용",
+  "other_cue": "천사 오리가 날개와 천사 날개를 동시에 퍼덕여 뒤집힘",
+  "other_decision": "revise",
+  "other_score": "87",
+  "plan_cue": "**천**(옷감) 두른 까마귀 / 촛불(**초**) 든 까마귀",
+  "plan_note": "까마귀 가족 유지(烏頭反 ~). 앞 글자를 소리로",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3500,
+   3501,
+   3553,
+   3581
+  ],
+  "tb_n": 4,
+  "ocr_n": 2,
+  "qb_n": 0,
+  "tb_cat": [
+   "溫裏藥 (3581행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3553
+  ],
+  "fixed": null,
+  "batch": "B3"
+ },
+ {
+  "id": "H026",
+  "hanzi": "草烏",
+  "name": "초오",
+  "old_group": "제습 관절갑옷(거풍습)",
+  "old_cue": "풀숲 까마귀",
+  "old_context": "증제·십팔반·십구외·임신금용",
+  "other_cue": "오리 머리 위 생일초가 흔들려 오리가 자기 초를 부느라 목을 꺾는다",
+  "other_decision": "revise",
+  "other_score": "88",
+  "plan_cue": "**천**(옷감) 두른 까마귀 / 촛불(**초**) 든 까마귀",
+  "plan_note": "까마귀 가족 유지(烏頭反 ~). 앞 글자를 소리로",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3500,
+   3501,
+   3518,
+   3575,
+   3628
+  ],
+  "tb_n": 5,
+  "ocr_n": 5,
+  "qb_n": 0,
+  "tb_cat": [
+   "祛風濕藥 · 1) 祛風濕止痺痛藥 (3575행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3518
+  ],
+  "fixed": null,
+  "batch": "B2"
+ },
+ {
+  "id": "H027",
+  "hanzi": "甘遂",
+  "name": "감수",
+  "old_group": "해골 뚫어뻥복(준하)",
+  "old_cue": "단감 든 죄수",
+  "old_context": "초자·십팔반·칠정·임신금용",
+  "other_cue": "감 하나가 너무 커 죄수의 수갑 사슬에 끼어 움직이지 못한다",
+  "other_decision": "keep",
+  "other_score": "88",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3496,
+   3500,
+   3501,
+   3511,
+   3543,
+   3572,
+   3754
+  ],
+  "tb_n": 7,
+  "ocr_n": 0,
+  "qb_n": 1,
+  "tb_cat": [
+   "瀉下藥 · 3) 峻下逐水藥 (3572행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3543
+  ],
+  "fixed": null,
+  "batch": "B2"
+ },
+ {
+  "id": "H028",
+  "hanzi": "大戟",
+  "name": "대극",
+  "old_group": "해골 뚫어뻥복(준하)",
+  "old_cue": "대왕 삼지창",
+  "old_context": "초자·십팔반·칠정·임신금용",
+  "other_cue": "대극장 건물이 무대배우처럼 커튼 치마를 걷고 걸어 나온다",
+  "other_decision": "revise",
+  "other_score": "84",
+  "plan_cue": "**대극**장 간판(1회차 안으로 되돌림)",
+  "plan_note": "낱말 속 포함. 삼지창은 숫자 3과 겹친다",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3496,
+   3500,
+   3501,
+   3543,
+   3572,
+   3754
+  ],
+  "tb_n": 6,
+  "ocr_n": 0,
+  "qb_n": 1,
+  "tb_cat": [
+   "瀉下藥 · 3) 峻下逐水藥 (3572행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3543
+  ],
+  "fixed": null,
+  "batch": "B2"
+ },
+ {
+  "id": "H029",
+  "hanzi": "芫花",
+  "name": "원화",
+  "old_group": "해골 뚫어뻥복(준하)",
+  "old_cue": "원화 지폐 꽃",
+  "old_context": "초자·십팔반·임신금용",
+  "other_cue": "원숭이가 립스틱으로 요란하게 화장한다",
+  "other_decision": "revise",
+  "other_score": "93",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3500,
+   3501,
+   3543,
+   3553,
+   3572,
+   3754
+  ],
+  "tb_n": 6,
+  "ocr_n": 0,
+  "qb_n": 1,
+  "tb_cat": [
+   "瀉下藥 · 3) 峻下逐水藥 (3572행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3543,
+   3553
+  ],
+  "fixed": [
+   "보존 목록(계획서 8절)",
+   "원화 지폐 — 원안: 원화 지폐 꽃"
+  ],
+  "batch": "고정"
+ },
+ {
+  "id": "H030",
+  "hanzi": "商陸",
+  "name": "상륙",
+  "old_group": "해골 뚫어뻥복(준하)",
+  "old_cue": "상륙정 탄 상어",
+  "old_context": "초자·임신금용",
+  "other_cue": "상륙정에서 나온 상어가 두 지느러미로 해변에 상륙함",
+  "other_decision": "keep",
+  "other_score": "92",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3501,
+   3543,
+   3572
+  ],
+  "tb_n": 3,
+  "ocr_n": 4,
+  "qb_n": 0,
+  "tb_cat": [
+   "瀉下藥 · 3) 峻下逐水藥 (3572행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3543
+  ],
+  "fixed": [
+   "보존 목록(계획서 8절)",
+   "상륙정 상어 — 원안: 상륙정 탄 상어"
+  ],
+  "batch": "고정"
+ },
+ {
+  "id": "H031",
+  "hanzi": "三稜",
+  "name": "삼릉",
+  "old_group": "혈관 드릴 슈트(활혈)",
+  "old_cue": "세모 왕릉 거인",
+  "old_context": "초자·십구외·임신금용",
+  "other_cue": "왕릉 세 봉분이 서로 엉덩이처럼 밀어 컨베이어를 막는다",
+  "other_decision": "revise",
+  "other_score": "84",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "화면에서 가장 키 큰 굵은 세모 날 쇠침(삼릉침) — 날 모서리 셋 · 단면 세모, 얼굴 · 다리 · 피 없음",
+  "p2cho_status": "candidate",
+  "tb_lines": [
+   1710,
+   3500,
+   3501,
+   3543,
+   3593,
+   3800,
+   3801
+  ],
+  "tb_n": 7,
+  "ocr_n": 0,
+  "qb_n": 3,
+  "tb_cat": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_alias": [
+   "三棱"
+  ],
+  "suchi": [
+   3543
+  ],
+  "fixed": [
+   "P2 Run 2 확정(사용자 결정 11-21)",
+   "화면에서 가장 키 큰 굵은 세모 날 쇠침(삼릉침) — 날 모서리 셋 · 단면 세모, 얼굴 · 다리 · 피 없음"
+  ],
+  "batch": "고정"
+ },
+ {
+  "id": "H032",
+  "hanzi": "莪朮",
+  "name": "아출",
+  "old_group": "혈관 드릴 슈트(활혈)",
+  "old_cue": "아기 배추",
+  "old_context": "초자·임신금용",
+  "other_cue": "아기가 요람 난간을 넘어서 탈출하는 순간 기저귀가 난간에 걸린다",
+  "other_decision": "revise",
+  "other_score": "91",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "포대기에 싸여 쪽쪽이를 문 초록 아기 배추 인형(빈손 · 하얗지 않음) — 사용자 결정 11-21: 원안 「아기 배추 인형」 유지",
+  "p2cho_status": "candidate",
+  "tb_lines": [
+   3501,
+   3543,
+   3593
+  ],
+  "tb_n": 3,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3543
+  ],
+  "fixed": [
+   "P2 Run 2 확정(사용자 결정 11-21)",
+   "포대기에 싸여 쪽쪽이를 문 초록 아기 배추 인형(빈손 · 하얗지 않음) — 사용자 결정 11-21: 원안 「아기 배추 인형」 유지"
+  ],
+  "batch": "고정"
+ },
+ {
+  "id": "H033",
+  "hanzi": "藜蘆",
+  "name": "여로",
+  "old_group": "구토 나팔 조끼(용토)",
+  "old_cue": "구토 연기 여우화로",
+  "old_context": "십팔반·임신금용",
+  "other_cue": "여우 모양 로봇이 꼬리 플러그를 뽑고 충전하려 한다",
+  "other_decision": "revise",
+  "other_score": "82",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3434,
+   3500,
+   3501,
+   3612,
+   3635
+  ],
+  "tb_n": 5,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "湧吐藥 (3612행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B6"
+ },
+ {
+  "id": "H034",
+  "hanzi": "五靈脂",
+  "name": "오령지",
+  "old_group": "혈관 드릴 슈트(활혈)",
+  "old_cue": "오색 영혼 기름단지",
+  "old_context": "십구외·칠정·임신신용",
+  "other_cue": "다섯 유령이 한 장의 지도에 갇혀 꾸깃꾸깃 접힌다",
+  "other_decision": "revise",
+  "other_score": "78",
+  "plan_cue": "유령 붙은 **오렌지**",
+  "plan_note": "오령지 ≈ 오렌지. 유령이 「령」을 한 번 더 짚는다",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3494,
+   3500,
+   3503,
+   3543,
+   3593
+  ],
+  "tb_n": 5,
+  "ocr_n": 0,
+  "qb_n": 3,
+  "tb_cat": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3543
+  ],
+  "fixed": null,
+  "batch": "B3"
+ },
+ {
+  "id": "H035",
+  "hanzi": "赤石脂",
+  "name": "적석지",
+  "old_group": "자물쇠 조끼(지사)",
+  "old_cue": "붉은 돌기름 벽돌",
+  "old_context": "명단·십구외",
+  "other_cue": "붉은 석고상이 거대한 지우개에 깎여 지워진다",
+  "other_decision": "hold",
+  "other_score": "67",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3438,
+   3500,
+   3536,
+   3550,
+   3609,
+   3614
+  ],
+  "tb_n": 6,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "收澁藥 · 2) 止瀉藥 (3609행)",
+   "外用藥 (3614행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3536,
+   3550
+  ],
+  "fixed": null,
+  "batch": "B5"
+ },
+ {
+  "id": "H036",
+  "hanzi": "代赭石",
+  "name": "대자석",
+  "old_group": "중력 닻 헬멧(평간잠양)",
+  "old_cue": "대왕 붉은 자갈",
+  "old_context": "명단·단쉬·임신신용",
+  "other_cue": "대짜 자석이 자기보다 큰 철제 왕관에 끌려 날아감",
+  "other_decision": "revise",
+  "other_score": "80",
+  "plan_cue": "붉은 **대**형 **자석**",
+  "plan_note": "대 + 자석. 磁石(말굽자석)보다 크고 붉다",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3503,
+   3550,
+   3599
+  ],
+  "tb_n": 3,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "平肝藥 · 2) 平肝潛陽藥 (3599행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3550
+  ],
+  "fixed": null,
+  "batch": "B4"
+ },
+ {
+  "id": "H037",
+  "hanzi": "乳香",
+  "name": "유향",
+  "old_group": "혈관 드릴 슈트(활혈)",
+  "old_cue": "우유 향수병",
+  "old_context": "초자·임신신용",
+  "other_cue": "우유 팩이 향수 분무기를 달고 뿌리다가 자기 얼굴에 우유 세례",
+  "other_decision": "keep",
+  "other_score": "92",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "우유 팩에 향수 분무기가 달린 병(이 장면: 식초병을 끌어안고 기울여 붓기만 함, 향수는 뿌리지 않음)",
+  "p2cho_status": "fixed",
+  "tb_lines": [
+   3503,
+   3543,
+   3593
+  ],
+  "tb_n": 3,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3543
+  ],
+  "fixed": [
+   "P2 Run 2 확정(사용자 결정 11-21)",
+   "우유 팩에 향수 분무기가 달린 병(이 장면: 식초병을 끌어안고 기울여 붓기만 함, 향수는 뿌리지 않음)"
+  ],
+  "batch": "고정"
+ },
+ {
+  "id": "H038",
+  "hanzi": "沒藥",
+  "name": "몰약",
+  "old_group": "혈관 드릴 슈트(활혈)",
+  "old_cue": "검은 물약병",
+  "old_context": "초자·임신신용",
+  "other_cue": "검은 물약병이 약장에서 발끝으로 몰래 빠져나오며 손가락을 입에 댄다",
+  "other_decision": "revise",
+  "other_score": "86",
+  "plan_cue": "유지. **몰**래 숨는 검은 **물약**병으로 동작만 더함",
+  "plan_note": "몰약 ≈ 물약",
+  "plan_keep": false,
+  "p2cho": "코르크 막은 둥근 플라스크에 든 검은 물약(해골 · 거품 · 라벨 없음)",
+  "p2cho_status": "candidate",
+  "tb_lines": [
+   3503,
+   3543,
+   3593
+  ],
+  "tb_n": 3,
+  "ocr_n": 5,
+  "qb_n": 0,
+  "tb_cat": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3543
+  ],
+  "fixed": [
+   "P2 Run 2 확정(사용자 결정 11-21)",
+   "코르크 막은 둥근 플라스크에 든 검은 물약(해골 · 거품 · 라벨 없음)"
+  ],
+  "batch": "고정"
+ },
+ {
+  "id": "H039",
+  "hanzi": "香附子",
+  "name": "향부자",
+  "old_group": "바람개비 조끼(이기)",
+  "old_cue": "향수 뿌리는 부자",
+  "old_context": "초자·신미행기",
+  "other_cue": "돈방석 부자가 향수를 너무 뿌려 미끄러져 넘어짐",
+  "other_decision": "keep",
+  "other_score": "93",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "향수를 너무 뿌리는 부자(실크햇 · 털 깃 · 굵은 금반지, 금술 단 붉은 방석 — 지폐 없음)",
+  "p2cho_status": "fixed",
+  "tb_lines": [
+   3442,
+   3492,
+   3543,
+   3583
+  ],
+  "tb_n": 4,
+  "ocr_n": 5,
+  "qb_n": 1,
+  "tb_cat": [
+   "理氣藥 (3583행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3543
+  ],
+  "fixed": [
+   "P2 Run 2 확정(사용자 결정 11-21)",
+   "향수를 너무 뿌리는 부자(실크햇 · 털 깃 · 굵은 금반지, 금술 단 붉은 방석 — 지폐 없음)"
+  ],
+  "batch": "고정"
+ },
+ {
+  "id": "H040",
+  "hanzi": "玄胡索",
+  "name": "현호색",
+  "old_group": "혈관 드릴 슈트(활혈)",
+  "old_cue": "현관 호박색 밧줄",
+  "old_context": "초자",
+  "other_cue": "현관문을 호랑이가 색칠하다 자기 수염까지 칠한다",
+  "other_decision": "revise",
+  "other_score": "77",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "현관 문턱에 걸친 색동 줄무늬 호스, 주둥이에 얼굴",
+  "p2cho_status": "candidate",
+  "tb_lines": [
+   3543,
+   3593
+  ],
+  "tb_n": 2,
+  "ocr_n": 3,
+  "qb_n": 0,
+  "tb_cat": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3543
+  ],
+  "fixed": [
+   "P2 Run 2 확정(사용자 결정 11-21)",
+   "현관 문턱에 걸친 색동 줄무늬 호스, 주둥이에 얼굴"
+  ],
+  "batch": "고정"
+ },
+ {
+  "id": "H041",
+  "hanzi": "牡丹皮",
+  "name": "목단피",
+  "old_group": "얼음 소방복(청열양혈)",
+  "old_cue": "모란 나무단추 망토",
+  "old_context": "인경·임신신용·경험저장",
+  "other_cue": "목에 거대한 단추를 단 피에로가 단추 때문에 고개를 못 숙인다",
+  "other_decision": "revise",
+  "other_score": "80",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3503,
+   3568
+  ],
+  "tb_n": 2,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "淸熱藥 · 3) 淸熱凉血藥 (3568행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B1"
+ },
+ {
+  "id": "H042",
+  "hanzi": "槐角",
+  "name": "괴각",
+  "old_group": "얼음 소방복(청열사화)",
+  "old_cue": "괴물 뿔",
+  "old_context": "초탄·임신신용",
+  "other_cue": "괴물의 뿔이 커다란 각도기로 되어 문에 걸린다",
+  "other_decision": "revise",
+  "other_score": "83",
+  "plan_cue": "**괴**물이 든 **각**도기",
+  "plan_note": "괴 + 각",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3503,
+   3531,
+   3566
+  ],
+  "tb_n": 3,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "淸熱藥 · 1) 淸熱瀉火藥 (3566행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3531
+  ],
+  "fixed": null,
+  "batch": "B1"
+ },
+ {
+  "id": "H043",
+  "hanzi": "白礬",
+  "name": "백반",
+  "old_group": "자물쇠 조끼(삽정축뇨)",
+  "old_cue": "백번 절하는 스님",
+  "old_context": "명단·복제보료·칠정",
+  "other_cue": "밥과 여러 반찬의 백반 한 상이 너무 배불러 식탁째 뒤로 드러눕는다",
+  "other_decision": "revise",
+  "other_score": "95",
+  "plan_cue": "독음이 틀렸다. 礬은 「반」",
+  "plan_note": "**백반**. 흰 쌀밥 백반 정식 한 상",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3550,
+   3556,
+   3609,
+   3614
+  ],
+  "tb_n": 4,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "收澁藥 · 3) 澁精縮尿止帶藥 (3609행)",
+   "外用藥 (3614행)"
+  ],
+  "tb_alias": [
+   "明礬"
+  ],
+  "suchi": [
+   3550,
+   3556
+  ],
+  "fixed": null,
+  "batch": "B5"
+ },
+ {
+  "id": "H044",
+  "hanzi": "牡蠣",
+  "name": "모려",
+  "old_group": "납조끼 잠옷+중력 헬멧",
+  "old_cue": "모래 굴 장군",
+  "old_context": "명단·이중본적·함미연견",
+  "other_cue": "모래를 밀어내며 열리는 굴이라는 원안을 임시 보존",
+  "other_decision": "hold",
+  "other_score": "46",
+  "plan_cue": "유지. **모래** 속 굴",
+  "plan_note": "모려 ≈ 모래",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3443,
+   3550,
+   3599,
+   3614,
+   3626,
+   3628
+  ],
+  "tb_n": 6,
+  "ocr_n": 0,
+  "qb_n": 1,
+  "tb_cat": [
+   "平肝藥 · 2) 平肝潛陽藥 (3599행)",
+   "外用藥 (3614행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3550
+  ],
+  "fixed": null,
+  "batch": "B4"
+ },
+ {
+  "id": "H045",
+  "hanzi": "白附子",
+  "name": "백부자",
+  "old_group": "청소기 가운(온화한담)",
+  "old_cue": "백분 바른 하얀 부자",
+  "old_context": "복제법(생강·백번)",
+  "other_cue": "온몸 하얀 부자가 흰 돈방석에서 금화만 골라낸다",
+  "other_decision": "keep",
+  "other_score": "85",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3556,
+   3595
+  ],
+  "tb_n": 2,
+  "ocr_n": 3,
+  "qb_n": 0,
+  "tb_cat": [
+   "化痰止咳平喘藥 · 1) 溫化寒痰藥 (3595행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3556
+  ],
+  "fixed": null,
+  "batch": "B4"
+ },
+ {
+  "id": "H046",
+  "hanzi": "天南星",
+  "name": "천남성",
+  "old_group": "청소기 가운(온화한담)",
+  "old_cue": "하늘 남쪽 별장군",
+  "old_context": "복제법(담즙·성미변화)",
+  "other_cue": "천사인 남성이 별을 자기 턱수염처럼 달고 있음",
+  "other_decision": "revise",
+  "other_score": "78",
+  "plan_cue": "**천**하장사 **남성**, 샅바에 별",
+  "plan_note": "천 + 남성",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3556,
+   3595
+  ],
+  "tb_n": 2,
+  "ocr_n": 3,
+  "qb_n": 0,
+  "tb_cat": [
+   "化痰止咳平喘藥 · 1) 溫化寒痰藥 (3595행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3556
+  ],
+  "fixed": null,
+  "batch": "B4"
+ },
+ {
+  "id": "H047",
+  "hanzi": "巴豆",
+  "name": "파두",
+  "old_group": "해골 뚫어뻥복(준하)",
+  "old_cue": "파란 두부 폭탄",
+  "old_context": "십구외·임신금용",
+  "other_cue": "파 한 단이 두부에 다리를 꽂고 두부 스케이트를 탄다",
+  "other_decision": "revise",
+  "other_score": "91",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   2950,
+   3500,
+   3501,
+   3511,
+   3522,
+   3560,
+   3572,
+   3754
+  ],
+  "tb_n": 8,
+  "ocr_n": 4,
+  "qb_n": 0,
+  "tb_cat": [
+   "瀉下藥 · 3) 峻下逐水藥 (3572행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3522,
+   3560
+  ],
+  "fixed": null,
+  "batch": "B2"
+ },
+ {
+  "id": "H048",
+  "hanzi": "硫黃",
+  "name": "유황",
+  "old_group": "독극물 연고복(외용)",
+  "old_cue": "유황 지옥불 괴물",
+  "old_context": "십구외(유향과 분리)",
+  "other_cue": "유모차에 탄 황소가 쪽쪽이를 빨며 뿔로 지붕을 뚫음",
+  "other_decision": "revise",
+  "other_score": "82",
+  "plan_cue": "그대로 좋음. 낱말이 통째",
+  "plan_note": "유황 온천(김 나는 노란 온천)으로 줄여도 됨",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   2950,
+   3500,
+   3614,
+   3754
+  ],
+  "tb_n": 4,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "外用藥 (3614행)",
+   "外用藥 (3614행)"
+  ],
+  "tb_alias": [
+   "硫磺"
+  ],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B6"
+ },
+ {
+  "id": "H049",
+  "hanzi": "桔梗",
+  "name": "길경",
+  "old_group": "청소기 가운(청화열담)",
+  "old_cue": "길쭉한 도라지 경비병",
+  "old_context": "폐·신 인경",
+  "other_cue": "길 한복판에 경첩이 달려 길이 접히자 자동차가 샌드위치가 됨",
+  "other_decision": "revise",
+  "other_score": "88",
+  "plan_cue": "**길** 안내하는 **경**찰",
+  "plan_note": "길 + 경",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3481,
+   3484,
+   3595
+  ],
+  "tb_n": 3,
+  "ocr_n": 0,
+  "qb_n": 2,
+  "tb_cat": [
+   "化痰止咳平喘藥 · 2) 淸化熱痰藥 (3595행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B4"
+ },
+ {
+  "id": "H050",
+  "hanzi": "升麻",
+  "name": "승마",
+  "old_group": "청색 우비(발산풍열)",
+  "old_cue": "승강기 탄 조랑말",
+  "old_context": "폐·비·대장·위 인경",
+  "other_cue": "말에 올라탄 기수가 거꾸로 앉아 말을 타려 발버둥침",
+  "other_decision": "revise",
+  "other_score": "93",
+  "plan_cue": "**승마** 선수",
+  "plan_note": "승마 그대로",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3452,
+   3481,
+   3483,
+   3563
+  ],
+  "tb_n": 4,
+  "ocr_n": 7,
+  "qb_n": 1,
+  "tb_cat": [
+   "解表藥 · 2) 發散風熱藥 (3563행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B1"
+ },
+ {
+  "id": "H051",
+  "hanzi": "葛根",
+  "name": "갈근",
+  "old_group": "청색 우비(발산풍열)",
+  "old_cue": "갈색 칡뿌리 밧줄맨",
+  "old_context": "폐·비·위 인경",
+  "other_cue": "갈매기가 팔 근육을 자랑하다 날개를 못 접는다",
+  "other_decision": "revise",
+  "other_score": "84",
+  "plan_cue": "**근**육질 **갈**매기",
+  "plan_note": "갈 + 근",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3452,
+   3481,
+   3483,
+   3563,
+   3626
+  ],
+  "tb_n": 5,
+  "ocr_n": 0,
+  "qb_n": 1,
+  "tb_cat": [
+   "解表藥 · 2) 發散風熱藥 (3563행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B1"
+ },
+ {
+  "id": "H052",
+  "hanzi": "白芷",
+  "name": "백지",
+  "old_group": "적색 우비(발산풍한)",
+  "old_cue": "하얀 백지 두루마리",
+  "old_context": "폐·양명·양명두통",
+  "other_cue": "백지 두루마리가 펜을 피해 도망가며 계속 깨끗하게 남음",
+  "other_decision": "keep",
+  "other_score": "95",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3481,
+   3483,
+   3487,
+   3495,
+   3563,
+   3620
+  ],
+  "tb_n": 6,
+  "ocr_n": 0,
+  "qb_n": 5,
+  "tb_cat": [
+   "解表藥 · 1) 發散風寒藥 (3563행)",
+   "方劑의 (3620행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B1"
+ },
+ {
+  "id": "H053",
+  "hanzi": "葱白",
+  "name": "총백",
+  "old_group": "적색 우비(발산풍한)",
+  "old_cue": "흰 대파 총잡이",
+  "old_context": "수태음폐 인경",
+  "other_cue": "총이 백팩을 등에 메고 반동에 백팩으로 굴러 들어감",
+  "other_decision": "revise",
+  "other_score": "85",
+  "plan_cue": "대파 **총** 든 **백**구(흰 개)",
+  "plan_note": "총 + 백. 白及의 백구와 겹치면 「백자 항아리」로",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3430,
+   3481,
+   3563,
+   3635
+  ],
+  "tb_n": 4,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "解表藥 · 1) 發散風寒藥 (3563행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B1"
+ },
+ {
+  "id": "H054",
+  "hanzi": "羌活",
+  "name": "강활",
+  "old_group": "적색 우비(발산풍한)",
+  "old_cue": "강물 물총 활 사냥꾼",
+  "old_context": "태양·신·태양두통",
+  "other_cue": "강물 위에서 활을 쏘다가 활시위에 물고기가 걸린다",
+  "other_decision": "keep",
+  "other_score": "82",
+  "plan_cue": "**강**에서 쏘는 **활** / **독**수리가 쏘는 **활**",
+  "plan_note": "물총을 뺀다",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3482,
+   3563,
+   3643,
+   3761,
+   3859
+  ],
+  "tb_n": 5,
+  "ocr_n": 0,
+  "qb_n": 2,
+  "tb_cat": [
+   "解表藥 · 1) 發散風寒藥 (3563행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B1"
+ },
+ {
+  "id": "H055",
+  "hanzi": "藁本",
+  "name": "고본",
+  "old_group": "적색 우비(발산풍한)",
+  "old_cue": "고깔모자 본부 대장",
+  "old_context": "폐·소장·전정두통",
+  "other_cue": "고릴라가 본드를 바르다 양손이 서로 붙는다",
+  "other_decision": "revise",
+  "other_score": "87",
+  "plan_cue": "**고본**(古本) 헌책 더미",
+  "plan_note": "고본 그대로",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3482,
+   3487,
+   3563
+  ],
+  "tb_n": 3,
+  "ocr_n": 0,
+  "qb_n": 4,
+  "tb_cat": [
+   "解表藥 · 1) 發散風寒藥 (3563행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B1"
+ },
+ {
+  "id": "H056",
+  "hanzi": "桂枝",
+  "name": "계지",
+  "old_group": "적색 우비(발산풍한)",
+  "old_cue": "계피 나뭇가지 지팡이",
+  "old_context": "태양경·신온해표",
+  "other_cue": "계란으로 만든 지팡이가 깨지며 노른자가 쏟아진다",
+  "other_decision": "revise",
+  "other_score": "82",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   1712,
+   2908,
+   3430,
+   3442,
+   3563,
+   3620,
+   3623,
+   3752,
+   3756
+  ],
+  "tb_n": 9,
+  "ocr_n": 0,
+  "qb_n": 2,
+  "tb_cat": [
+   "解表藥 · 1) 發散風寒藥 (3563행)",
+   "方劑의 (3620행)",
+   "七方·十劑 (3623행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B1"
+ },
+ {
+  "id": "H057",
+  "hanzi": "獨活",
+  "name": "독활",
+  "old_group": "제습 관절갑옷(거풍습)",
+  "old_cue": "독수리 활 사냥꾼",
+  "old_context": "심·신 소음 인경",
+  "other_cue": "독수리가 날개로 활시위를 당겼다가 자기 깃털을 쏜다",
+  "other_decision": "keep",
+  "other_score": "90",
+  "plan_cue": "**강**에서 쏘는 **활** / **독**수리가 쏘는 **활**",
+  "plan_note": "물총을 뺀다",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3430,
+   3484,
+   3575
+  ],
+  "tb_n": 3,
+  "ocr_n": 5,
+  "qb_n": 0,
+  "tb_cat": [
+   "祛風濕藥 · 1) 祛風濕止痺痛藥 (3575행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B2"
+ },
+ {
+  "id": "H058",
+  "hanzi": "石膏",
+  "name": "석고",
+  "old_group": "얼음 소방복(청열사화)",
+  "old_cue": "하얀 석고 조각상",
+  "old_context": "대장·위 인경·상수",
+  "other_cue": "석고상이 자기 석고 붕대로 깨진 팔을 감는다",
+  "other_decision": "keep",
+  "other_score": "94",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3434,
+   3483,
+   3491,
+   3566,
+   3628
+  ],
+  "tb_n": 5,
+  "ocr_n": 0,
+  "qb_n": 5,
+  "tb_cat": [
+   "淸熱藥 · 1) 淸熱瀉火藥 (3566행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B1"
+ },
+ {
+  "id": "H059",
+  "hanzi": "連翹",
+  "name": "연교",
+  "old_group": "얼음 소방복(청열해독)",
+  "old_cue": "연결 구름다리 종",
+  "old_context": "수소양삼초 인경",
+  "other_cue": "연이 교복을 입고 교실 창문 밖으로 출석함",
+  "other_decision": "revise",
+  "other_score": "80",
+  "plan_cue": "**연** 날리는 **교**복 학생",
+  "plan_note": "연 + 교",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   2875,
+   2909,
+   3434,
+   3485,
+   3569
+  ],
+  "tb_n": 5,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "淸熱藥 · 4) 淸熱解毒藥 (3569행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B2"
+ },
+ {
+  "id": "H060",
+  "hanzi": "地骨皮",
+  "name": "지골피",
+  "old_group": "얼음 소방복(청허열)",
+  "old_cue": "땅속 해골 가죽방패",
+  "old_context": "수소양삼초 인경",
+  "other_cue": "지퍼가 달린 해골 피에로가 자기 몸통을 여닫는다",
+  "other_decision": "revise",
+  "other_score": "78",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   2854,
+   2855,
+   3434,
+   3485,
+   3570,
+   3609
+  ],
+  "tb_n": 6,
+  "ocr_n": 4,
+  "qb_n": 0,
+  "tb_cat": [
+   "淸熱藥 · 5) 淸虛熱藥 (3570행)",
+   "收澁藥 (3609행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B2"
+ },
+ {
+  "id": "H061",
+  "hanzi": "瓜蔞",
+  "name": "과루",
+  "old_group": "청소기 가운(청화열담)",
+  "old_cue": "참외 누각 초롱불",
+  "old_context": "십팔반(오두 반)",
+  "other_cue": "루돌프가 과자 목걸이를 걸고 자기 코 대신 과자를 밝힌다",
+  "other_decision": "revise",
+  "other_score": "77",
+  "plan_cue": "**과로**로 쓰러진 참외",
+  "plan_note": "과루 ≈ 과로",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3440,
+   3500,
+   3595,
+   3761
+  ],
+  "tb_n": 4,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "化痰止咳平喘藥 · 2) 淸化熱痰藥 (3595행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B4"
+ },
+ {
+  "id": "H062",
+  "hanzi": "貝母",
+  "name": "패모",
+  "old_group": "청소기 가운(청화열담)",
+  "old_cue": "진주조개 엄마",
+  "old_context": "십팔반(오두 반)",
+  "other_cue": "빵빵한 패딩 모자가 머리보다 커서 얼굴을 덮는다",
+  "other_decision": "revise",
+  "other_score": "87",
+  "plan_cue": "조개 든 **패**션**모**델",
+  "plan_note": "패 + 모",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3440,
+   3500,
+   3595,
+   3761
+  ],
+  "tb_n": 4,
+  "ocr_n": 4,
+  "qb_n": 0,
+  "tb_cat": [
+   "化痰止咳平喘藥 · 2) 淸化熱痰藥 (3595행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B4"
+ },
+ {
+  "id": "H063",
+  "hanzi": "白蘞",
+  "name": "백렴",
+  "old_group": "얼음 소방복(청열해독)",
+  "old_cue": "하얀 염소",
+  "old_context": "십팔반(오두 반)",
+  "other_cue": "백조가 염주를 목에 감았다가 부리에 걸린다",
+  "other_decision": "hold",
+  "other_score": "60",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3569
+  ],
+  "tb_n": 1,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "淸熱藥 · 4) 淸熱解毒藥 (3569행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B2"
+ },
+ {
+  "id": "H064",
+  "hanzi": "白及",
+  "name": "백급",
+  "old_group": "압박붕대 망토(수렴지혈)",
+  "old_cue": "백구 구급상자",
+  "old_context": "십팔반(오두 반)",
+  "other_cue": "백조가 구급상자를 들고 응급출동하다 부리에 붕대가 감긴다",
+  "other_decision": "revise",
+  "other_score": "82",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3589
+  ],
+  "tb_n": 1,
+  "ocr_n": 2,
+  "qb_n": 0,
+  "tb_cat": [
+   "止血藥 · 1) 收斂止血藥 (3589행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B3"
+ },
+ {
+  "id": "H065",
+  "hanzi": "海藻",
+  "name": "해조",
+  "old_group": "청소기 가운(청화열담)",
+  "old_cue": "바다 해초 새",
+  "old_context": "십팔반(감초 반)",
+  "other_cue": "해가 조개 안에 들어가 조개가 눈을 찡그린다",
+  "other_decision": "revise",
+  "other_score": "86",
+  "plan_cue": "해초 문 바닷새 **해조**(海鳥)",
+  "plan_note": "해조 그대로",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3500,
+   3595
+  ],
+  "tb_n": 2,
+  "ocr_n": 0,
+  "qb_n": 1,
+  "tb_cat": [
+   "化痰止咳平喘藥 · 2) 淸化熱痰藥 (3595행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B4"
+ },
+ {
+  "id": "H066",
+  "hanzi": "丹參",
+  "name": "단삼",
+  "old_group": "혈관 드릴 슈트(활혈)",
+  "old_cue": "단검 든 붉은 삼 인형",
+  "old_context": "십팔반(여로 반)",
+  "other_cue": "단검 든 인삼이 수염뿌리를 면도하다 뿌리를 잘라 놀람",
+  "other_decision": "keep",
+  "other_score": "89",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3500,
+   3593
+  ],
+  "tb_n": 2,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B3"
+ },
+ {
+  "id": "H067",
+  "hanzi": "玄參",
+  "name": "현삼",
+  "old_group": "얼음 소방복(청열양혈)",
+  "old_cue": "현무암 검은 삼 인형",
+  "old_context": "십팔반(여로 반)",
+  "other_cue": "인삼이 현악기 줄을 잔뿌리로 켠다",
+  "other_decision": "hold",
+  "other_score": "69",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3443,
+   3496,
+   3500,
+   3568
+  ],
+  "tb_n": 4,
+  "ocr_n": 4,
+  "qb_n": 0,
+  "tb_cat": [
+   "淸熱藥 · 3) 淸熱凉血藥 (3568행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B2"
+ },
+ {
+  "id": "H068",
+  "hanzi": "沙參",
+  "name": "사삼",
+  "old_group": "금박 곤룡포(보음)",
+  "old_cue": "모래성 삼 인형",
+  "old_context": "십팔반(여로 반)",
+  "other_cue": "사자가 인삼 갈기를 빗다 갈기를 먹어버림",
+  "other_decision": "revise",
+  "other_score": "89",
+  "plan_cue": "**사**자 갈기 단 삼 인형",
+  "plan_note": "사 + 삼",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3500,
+   3607
+  ],
+  "tb_n": 2,
+  "ocr_n": 2,
+  "qb_n": 0,
+  "tb_cat": [
+   "補益藥 · 4) 補陰藥 (3607행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B5"
+ },
+ {
+  "id": "H069",
+  "hanzi": "苦參",
+  "name": "고삼",
+  "old_group": "얼음 소방복(청열조습)",
+  "old_cue": "쓴 고추 삼 인형",
+  "old_context": "십팔반·상외",
+  "other_cue": "고릴라가 인삼을 바나나처럼 벗기려다 자기 수염을 벗김",
+  "other_decision": "revise",
+  "other_score": "89",
+  "plan_cue": "**고삼**(고3) 수험생 뿌리 인형. 머리띠 · 문제집",
+  "plan_note": "고삼 그대로. 삼 가족 유지",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3500,
+   3567
+  ],
+  "tb_n": 2,
+  "ocr_n": 3,
+  "qb_n": 0,
+  "tb_cat": [
+   "淸熱藥 · 2) 淸熱燥濕藥 (3567행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B1"
+ },
+ {
+  "id": "H070",
+  "hanzi": "赤芍藥",
+  "name": "적작약",
+  "old_group": "얼음 소방복(청열양혈)",
+  "old_cue": "붉은 적작 약사",
+  "old_context": "십팔반(여로 반)",
+  "other_cue": "적군 백작이 약병을 지키며 백작약과 결투한다",
+  "other_decision": "hold",
+  "other_score": "64",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3471,
+   3568
+  ],
+  "tb_n": 2,
+  "ocr_n": 0,
+  "qb_n": 2,
+  "tb_cat": [
+   "淸熱藥 · 3) 淸熱凉血藥 (3568행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B2"
+ },
+ {
+  "id": "H071",
+  "hanzi": "朴硝",
+  "name": "박초",
+  "old_group": "뚫어뻥 작업복(공하)",
+  "old_cue": "박 바가지 망치 결정",
+  "old_context": "십구외(망초 계)",
+  "other_cue": "박 바가지 속 초가 타오르자 박이 케이크처럼 생일춤을 춤",
+  "other_decision": "revise",
+  "other_score": "85",
+  "plan_cue": "**박** 속의 **초** / **망**치 든 **초** / **아**기가 든 **초**",
+  "plan_note": "硝 = 양초 가족",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3500
+  ],
+  "tb_n": 1,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B6"
+ },
+ {
+  "id": "H072",
+  "hanzi": "牙硝",
+  "name": "아초",
+  "old_group": "뚫어뻥 작업복(공하)",
+  "old_cue": "뾰족 어금니 결정",
+  "old_context": "십구외(삼릉 외)",
+  "other_cue": "아기가 초를 끄다가 초보다 얼굴이 더 부풀어 오른다",
+  "other_decision": "revise",
+  "other_score": "86",
+  "plan_cue": "**박** 속의 **초** / **망**치 든 **초** / **아**기가 든 **초**",
+  "plan_note": "硝 = 양초 가족",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3500
+  ],
+  "tb_n": 1,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B6"
+ },
+ {
+  "id": "H073",
+  "hanzi": "水銀",
+  "name": "수은",
+  "old_group": "독극물 연고복(외용)",
+  "old_cue": "물방울 은구슬 로봇",
+  "old_context": "십구외·임신금용",
+  "other_cue": "은빛 물방울 로봇이 녹아도 다시 방울로 모여 일어남",
+  "other_decision": "keep",
+  "other_score": "83",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3500,
+   3501,
+   3614
+  ],
+  "tb_n": 3,
+  "ocr_n": 3,
+  "qb_n": 0,
+  "tb_cat": [
+   "外用藥 (3614행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B6"
+ },
+ {
+  "id": "H074",
+  "hanzi": "砒霜",
+  "name": "비상",
+  "old_group": "독극물 연고복(외용)",
+  "old_cue": "비수 서리 해골돌",
+  "old_context": "십구외(비석)·금용",
+  "other_cue": "비상벨이 날개를 달고 비상하며 사람들을 깨운다",
+  "other_decision": "revise",
+  "other_score": "87",
+  "plan_cue": "**비상**벨(빨간 버튼)",
+  "plan_note": "비상 그대로",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   2950,
+   3500,
+   3501
+  ],
+  "tb_n": 3,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B6"
+ },
+ {
+  "id": "H075",
+  "hanzi": "狼毒",
+  "name": "낭독",
+  "old_group": "독극물 연고복(외용)",
+  "old_cue": "독약병 문 늑대",
+  "old_context": "십구외·육진약",
+  "other_cue": "책을 펼쳐 큰 소리로 낭독하는 늑대",
+  "other_decision": "revise",
+  "other_score": "85",
+  "plan_cue": "책을 **낭독**하는 늑대",
+  "plan_note": "낭독 그대로. 늑대는 狼의 뜻",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   2793,
+   3500,
+   3506
+  ],
+  "tb_n": 3,
+  "ocr_n": 2,
+  "qb_n": 4,
+  "tb_cat": [],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B6"
+ },
+ {
+  "id": "H076",
+  "hanzi": "密陀僧",
+  "name": "밀타승",
+  "old_group": "독극물 연고복(외용)",
+  "old_cue": "꿀단지 낙타 탄 스님",
+  "old_context": "십구외(낭독 외)",
+  "other_cue": "밀가루 포대를 멘 낙타 위에 승려가 올라타 재채기",
+  "other_decision": "revise",
+  "other_score": "80",
+  "plan_cue": "**밀** 포대 싣고 낙**타** 탄 **승**려",
+  "plan_note": "밀 · 타 · 승",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3500,
+   3614
+  ],
+  "tb_n": 2,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "外用藥 (3614행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B6"
+ },
+ {
+  "id": "H077",
+  "hanzi": "牽牛子",
+  "name": "견우자",
+  "old_group": "해골 뚫어뻥복(준하)",
+  "old_cue": "소 끄는 견우 목동",
+  "old_context": "십구외·임신금용",
+  "other_cue": "견우 목동이 커다란 자를 소 몰이 막대로 쓴다",
+  "other_decision": "hold",
+  "other_score": "70",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3572,
+   3754
+  ],
+  "tb_n": 2,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "瀉下藥 · 3) 峻下逐水藥 (3572행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": [
+   "보존 목록(계획서 8절)",
+   "견우 — 원안: 소 끄는 견우 목동"
+  ],
+  "batch": "고정"
+ },
+ {
+  "id": "H078",
+  "hanzi": "丁香",
+  "name": "정향",
+  "old_group": "용광로 털코트(온리)",
+  "old_cue": "T자 쇠못 향초",
+  "old_context": "십구외(울금 외)",
+  "other_cue": "정장을 입은 향수병이 향수를 뿌리다 넥타이가 젖는다",
+  "other_decision": "revise",
+  "other_score": "87",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3500,
+   3581,
+   3614
+  ],
+  "tb_n": 3,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "溫裏藥 (3581행)",
+   "外用藥 (3614행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B3"
+ },
+ {
+  "id": "H079",
+  "hanzi": "鬱金",
+  "name": "울금",
+  "old_group": "혈관 드릴 슈트(활혈)",
+  "old_cue": "울보 황금 종",
+  "old_context": "십구외(정향 외)",
+  "other_cue": "황금괴가 울어서 자기 눈물 웅덩이에 빠진다",
+  "other_decision": "keep",
+  "other_score": "94",
+  "plan_cue": "**울**고 있는 **금**메달",
+  "plan_note": "종을 뺀다",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3500,
+   3593
+  ],
+  "tb_n": 2,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B3"
+ },
+ {
+  "id": "H080",
+  "hanzi": "犀角",
+  "name": "서각",
+  "old_group": "얼음 소방복(청열양혈)",
+  "old_cue": "코뿔소 외뿔 투구",
+  "old_context": "십구외(오두 외)",
+  "other_cue": "서예 붓이 각도기를 부채처럼 들고 먹물을 튀긴다",
+  "other_decision": "revise",
+  "other_score": "80",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3434,
+   3443,
+   3500,
+   3525,
+   3568,
+   3628,
+   3758
+  ],
+  "tb_n": 7,
+  "ocr_n": 0,
+  "qb_n": 2,
+  "tb_cat": [
+   "淸熱藥 · 3) 淸熱凉血藥 (3568행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3525
+  ],
+  "fixed": null,
+  "batch": "B2"
+ },
+ {
+  "id": "H081",
+  "hanzi": "山楂",
+  "name": "산사",
+  "old_group": "믹서기 요리사복(소식)",
+  "old_cue": "산사나무 빨간 사과곰",
+  "old_context": "초초법",
+  "other_cue": "산 한가운데 작은 사찰이 산사태를 피해 다리를 뻗고 도망친다",
+  "other_decision": "revise",
+  "other_score": "90",
+  "plan_cue": "**산사**(산속 절) 처마의 빨간 열매",
+  "plan_note": "산사 그대로",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3531,
+   3585
+  ],
+  "tb_n": 2,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "消食藥 (3585행)"
+  ],
+  "tb_alias": [
+   "山査"
+  ],
+  "suchi": [
+   3531
+  ],
+  "fixed": null,
+  "batch": "B3"
+ },
+ {
+  "id": "H082",
+  "hanzi": "川楝子",
+  "name": "천련자",
+  "old_group": "바람개비 조끼(이기)",
+  "old_cue": "시냇물 도련님 열매",
+  "old_context": "초초법",
+  "other_cue": "천사가 연자방아를 돌리다 날개가 방아축에 감긴다",
+  "other_decision": "hold",
+  "other_score": "72",
+  "plan_cue": "**천 년** 묵은 **자**(이끼 낀 자)",
+  "plan_note": "천련자 ≈ 천년 자",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3531,
+   3583
+  ],
+  "tb_n": 2,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "理氣藥 (3583행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3531
+  ],
+  "fixed": null,
+  "batch": "B3"
+ },
+ {
+  "id": "H083",
+  "hanzi": "梔子",
+  "name": "치자",
+  "old_group": "얼음 소방복(청열사화)",
+  "old_cue": "노란 치즈 자",
+  "old_context": "초초·미성숙채집",
+  "other_cue": "치즈 자가 자기 몸을 재다 치즈가 늘어나 끝없이 길어짐",
+  "other_decision": "keep",
+  "other_score": "92",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   2855,
+   2856,
+   3439,
+   3507,
+   3531,
+   3566
+  ],
+  "tb_n": 6,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "淸熱藥 · 1) 淸熱瀉火藥 (3566행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3531
+  ],
+  "fixed": [
+   "보존 목록(계획서 8절)",
+   "치즈 자 — 원안: 노란 치즈 자"
+  ],
+  "batch": "고정"
+ },
+ {
+  "id": "H084",
+  "hanzi": "檳榔",
+  "name": "빈랑",
+  "old_group": "방역 살충복(구충)",
+  "old_cue": "빈 도시락 든 신랑",
+  "old_context": "초초법",
+  "other_cue": "빈 도시락을 든 신랑이 결혼반지 대신 뚜껑을 내밈",
+  "other_decision": "keep",
+  "other_score": "91",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3531,
+   3587
+  ],
+  "tb_n": 2,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "驅蟲藥 (3587행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3531
+  ],
+  "fixed": [
+   "보존 목록(계획서 8절)",
+   "빈 도시락 신랑 — 원안: 빈 도시락 든 신랑"
+  ],
+  "batch": "고정"
+ },
+ {
+  "id": "H085",
+  "hanzi": "大薊",
+  "name": "대계",
+  "old_group": "압박붕대 망토(양혈지혈)",
+  "old_cue": "대왕 닭벼슬 기사",
+  "old_context": "초탄법",
+  "other_cue": "대게가 계산기를 두드리다 집게로 계산기를 부숴버림",
+  "other_decision": "revise",
+  "other_score": "81",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3432,
+   3531,
+   3591
+  ],
+  "tb_n": 3,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "止血藥 · 2) 凉血止血藥 (3591행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3531
+  ],
+  "fixed": null,
+  "batch": "B3"
+ },
+ {
+  "id": "H086",
+  "hanzi": "小薊",
+  "name": "소계",
+  "old_group": "압박붕대 망토(양혈지혈)",
+  "old_cue": "꼬마 닭벼슬 소년",
+  "old_context": "초탄법",
+  "other_cue": "소가 계산기를 발굽으로 누르다 전부 눌러 버림",
+  "other_decision": "revise",
+  "other_score": "87",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3432,
+   3531,
+   3591
+  ],
+  "tb_n": 3,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "止血藥 · 2) 凉血止血藥 (3591행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3531
+  ],
+  "fixed": null,
+  "batch": "B3"
+ },
+ {
+  "id": "H087",
+  "hanzi": "白茅根",
+  "name": "백모근",
+  "old_group": "압박붕대 망토(양혈지혈)",
+  "old_cue": "하얀 털모자 뿌리",
+  "old_context": "초탄법",
+  "other_cue": "하얀 머리카락의 모근들이 뿌리째 뽑혀 도망감",
+  "other_decision": "revise",
+  "other_score": "78",
+  "plan_cue": "**백**발의 **모근**(뽑힌 흰 머리카락 뿌리)",
+  "plan_note": "백 + 모근",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3531,
+   3591
+  ],
+  "tb_n": 2,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "止血藥 · 2) 凉血止血藥 (3591행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3531
+  ],
+  "fixed": null,
+  "batch": "B3"
+ },
+ {
+  "id": "H088",
+  "hanzi": "荊芥",
+  "name": "형개",
+  "old_group": "적색 우비(발산풍한)",
+  "old_cue": "형님 겨자개",
+  "old_context": "초탄(형개탄)·승부",
+  "other_cue": "개가 형광봉처럼 온몸에서 빛나 밤길을 밝힌다",
+  "other_decision": "revise",
+  "other_score": "84",
+  "plan_cue": "**형**님이라 불리는 **개**",
+  "plan_note": "겨자를 뺀다",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3442,
+   3452,
+   3531,
+   3563
+  ],
+  "tb_n": 4,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "解表藥 · 1) 發散風寒藥 (3563행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3531
+  ],
+  "fixed": null,
+  "batch": "B1"
+ },
+ {
+  "id": "H089",
+  "hanzi": "側柏葉",
+  "name": "측백엽",
+  "old_group": "압박붕대 망토(양혈지혈)",
+  "old_cue": "옆으로 누운 잣나무잎",
+  "old_context": "초탄법",
+  "other_cue": "측면으로만 걷는 백조가 잎을 부채처럼 끼고 문을 못 통과함",
+  "other_decision": "hold",
+  "other_score": "62",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3434,
+   3531,
+   3591
+  ],
+  "tb_n": 3,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "止血藥 · 2) 凉血止血藥 (3591행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3531
+  ],
+  "fixed": null,
+  "batch": "B3"
+ },
+ {
+  "id": "H090",
+  "hanzi": "川椒",
+  "name": "천초",
+  "old_group": "용광로 털코트(온리)",
+  "old_cue": "시냇물 불꽃 산초알",
+  "old_context": "초탄법(화초)",
+  "other_cue": "천사가 생일초를 끄려다 자기 날개로 부채질해서 불이 커짐",
+  "other_decision": "revise",
+  "other_score": "88",
+  "plan_cue": "**천**(옷감) 덮은 **초**가 맵게 타오름",
+  "plan_note": "천 + 초. 硝 가족의 초와 갈리게 고추색 불꽃",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3531
+  ],
+  "tb_n": 1,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [],
+  "tb_alias": [],
+  "suchi": [
+   3531
+  ],
+  "fixed": null,
+  "batch": "B6"
+ },
+ {
+  "id": "H091",
+  "hanzi": "烏梅",
+  "name": "오매",
+  "old_group": "자물쇠 조끼(지사)",
+  "old_cue": "까마귀 검은 매실",
+  "old_context": "초탄법·산미",
+  "other_cue": "오리가 매실을 잔뜩 입에 물어 볼이 빵빵해진다",
+  "other_decision": "revise",
+  "other_score": "83",
+  "plan_cue": "「**오매**!」 놀라는 검은 매실",
+  "plan_note": "오매 그대로(감탄사)",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3438,
+   3531,
+   3609,
+   3767
+  ],
+  "tb_n": 4,
+  "ocr_n": 6,
+  "qb_n": 0,
+  "tb_cat": [
+   "收澁藥 · 2) 止瀉藥 (3609행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3531
+  ],
+  "fixed": null,
+  "batch": "B5"
+ },
+ {
+  "id": "H092",
+  "hanzi": "地楡",
+  "name": "지유",
+  "old_group": "압박붕대 망토(양혈지혈)",
+  "old_cue": "땅속 빨간 주유기",
+  "old_context": "초탄법",
+  "other_cue": "우유팩 지퍼가 열리며 우유가 새어 나온다",
+  "other_decision": "revise",
+  "other_score": "89",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3432,
+   3531,
+   3591,
+   3614
+  ],
+  "tb_n": 4,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "止血藥 · 2) 凉血止血藥 (3591행)",
+   "外用藥 (3614행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3531
+  ],
+  "fixed": null,
+  "batch": "B3"
+ },
+ {
+  "id": "H093",
+  "hanzi": "蒲黃",
+  "name": "포황",
+  "old_group": "압박붕대 망토(화어지혈)",
+  "old_cue": "노란 부들 포대자루",
+  "old_context": "초탄법",
+  "other_cue": "대포가 황소 모양 포탄을 쏘자 뿔이 포구에 걸린다",
+  "other_decision": "revise",
+  "other_score": "86",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3531,
+   3591
+  ],
+  "tb_n": 2,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "止血藥 · 3) 化瘀止血藥 (3591행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3531
+  ],
+  "fixed": null,
+  "batch": "B3"
+ },
+ {
+  "id": "H094",
+  "hanzi": "卷柏",
+  "name": "권백",
+  "old_group": "혈관 드릴 슈트(활혈)",
+  "old_cue": "권투글러브 잣나무",
+  "old_context": "초탄법",
+  "other_cue": "백팩이 권투 글러브를 끼고 주인을 때린다",
+  "other_decision": "revise",
+  "other_score": "87",
+  "plan_cue": "**권**투하는 **백**조",
+  "plan_note": "권 + 백",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3531,
+   3593
+  ],
+  "tb_n": 2,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3531
+  ],
+  "fixed": null,
+  "batch": "B3"
+ },
+ {
+  "id": "H095",
+  "hanzi": "白殭蠶",
+  "name": "백강잠",
+  "old_group": "중력 닻 헬멧(평간식풍)",
+  "old_cue": "하얀 강시 누에",
+  "old_context": "부초법",
+  "other_cue": "하얀 강시가 팔을 뻗은 채 잠들어 자기 팔을 베개로 씀",
+  "other_decision": "revise",
+  "other_score": "80",
+  "plan_cue": "**잠**자는 하얀(**백**) **강**아지",
+  "plan_note": "백 · 강 · 잠",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3533,
+   3599
+  ],
+  "tb_n": 2,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "平肝藥 · 1) 平肝息風藥 (3599행)"
+  ],
+  "tb_alias": [
+   "白彊蠶"
+  ],
+  "suchi": [
+   3533
+  ],
+  "fixed": null,
+  "batch": "B5"
+ },
+ {
+  "id": "H096",
+  "hanzi": "黨參",
+  "name": "당삼",
+  "old_group": "금박 곤룡포(보기)",
+  "old_cue": "사탕 든 당삼 인형",
+  "old_context": "미초법",
+  "other_cue": "인삼이 당구 큐대로 자기 몸을 쳐서 굴린다",
+  "other_decision": "revise",
+  "other_score": "88",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3604
+  ],
+  "tb_n": 1,
+  "ocr_n": 3,
+  "qb_n": 0,
+  "tb_cat": [
+   "補益藥 · 1) 補氣藥 (3604행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B5"
+ },
+ {
+  "id": "H097",
+  "hanzi": "斑蝥",
+  "name": "반묘",
+  "old_group": "독극물 연고복(독약)",
+  "old_cue": "반점 털모자 가뢰벌레",
+  "old_context": "미초·임신금용",
+  "other_cue": "반쪽짜리 묘비가 떨어져 나간 나머지 반쪽을 찾으러 한 발로 깡충뜀",
+  "other_decision": "revise",
+  "other_score": "89",
+  "plan_cue": "교재 표기 확인 필요(반묘로 보고됨)",
+  "plan_note": "반묘면 **반**쪽 고양이(猫)",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   2950,
+   3501,
+   3535,
+   3614
+  ],
+  "tb_n": 4,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "外用藥 (3614행)"
+  ],
+  "tb_alias": [
+   "斑猫"
+  ],
+  "suchi": [
+   3535
+  ],
+  "fixed": null,
+  "batch": "B6"
+ },
+ {
+  "id": "H098",
+  "hanzi": "狗脊",
+  "name": "구척",
+  "old_group": "금박 곤룡포(보양)",
+  "old_cue": "황금 강아지 척추뼈",
+  "old_context": "사초법",
+  "other_cue": "구두를 신은 척추가 뱀처럼 기어가 구두끈을 삼킨다",
+  "other_decision": "revise",
+  "other_score": "77",
+  "plan_cue": "**구척**장신 거인 개",
+  "plan_note": "구척 그대로",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3537,
+   3605
+  ],
+  "tb_n": 2,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "補益藥 · 2) 補陽藥 (3605행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3537
+  ],
+  "fixed": null,
+  "batch": "B5"
+ },
+ {
+  "id": "H099",
+  "hanzi": "穿山甲",
+  "name": "천산갑",
+  "old_group": "혈관 드릴 슈트(활혈)",
+  "old_cue": "산 뚫는 천산갑 드릴러",
+  "old_context": "사초법",
+  "other_cue": "천산갑이 자기 등 갑옷으로 산을 뚫다가 산을 모자처럼 씀",
+  "other_decision": "keep",
+  "other_score": "83",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3537,
+   3593
+  ],
+  "tb_n": 2,
+  "ocr_n": 2,
+  "qb_n": 0,
+  "tb_cat": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3537
+  ],
+  "fixed": null,
+  "batch": "B4"
+ },
+ {
+  "id": "H100",
+  "hanzi": "虎骨",
+  "name": "호골",
+  "old_group": "제습 관절갑옷(강근골)",
+  "old_cue": "호랑이 통뼈 방망이",
+  "old_context": "사초법·유자법",
+  "other_cue": "호랑이가 자기 뼈로 야구하다 꼬리뼈에 맞음",
+  "other_decision": "keep",
+  "other_score": "85",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3525,
+   3537,
+   3546,
+   3575
+  ],
+  "tb_n": 4,
+  "ocr_n": 5,
+  "qb_n": 0,
+  "tb_cat": [
+   "祛風濕藥 · 3) 祛風濕强筋骨藥 (3575행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3525,
+   3537,
+   3546
+  ],
+  "fixed": null,
+  "batch": "B2"
+ },
+ {
+  "id": "H101",
+  "hanzi": "馬錢子",
+  "name": "마전자",
+  "old_group": "제습 관절갑옷(지비통)",
+  "old_cue": "말발굽 엽전 원반",
+  "old_context": "사초·임신금용",
+  "other_cue": "마술사의 전자레인지가 모자 대신 토끼를 계속 뱉음",
+  "other_decision": "revise",
+  "other_score": "86",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3501,
+   3537,
+   3575
+  ],
+  "tb_n": 3,
+  "ocr_n": 5,
+  "qb_n": 0,
+  "tb_cat": [
+   "祛風濕藥 · 1) 祛風濕止痺痛藥 (3575행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3537
+  ],
+  "fixed": null,
+  "batch": "B2"
+ },
+ {
+  "id": "H102",
+  "hanzi": "骨碎補",
+  "name": "골쇄보",
+  "old_group": "금박 곤룡포(보양)",
+  "old_cue": "뼈 쇄기 보수 스패너",
+  "old_context": "사초법",
+  "other_cue": "골절된 쇄골을 보수하는 뼈 정비공이 나사를 거꾸로 끼움",
+  "other_decision": "hold",
+  "other_score": "68",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3537,
+   3605
+  ],
+  "tb_n": 2,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "補益藥 · 2) 補陽藥 (3605행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3537
+  ],
+  "fixed": null,
+  "batch": "B5"
+ },
+ {
+  "id": "H103",
+  "hanzi": "象皮",
+  "name": "상피",
+  "old_group": "압박붕대 망토(지혈생기)",
+  "old_cue": "코끼리 가죽 조끼",
+  "old_context": "활석분초",
+  "other_cue": "상어가 피리를 불다 피리를 통째로 삼킨다",
+  "other_decision": "revise",
+  "other_score": "85",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3538,
+   3614
+  ],
+  "tb_n": 2,
+  "ocr_n": 2,
+  "qb_n": 0,
+  "tb_cat": [
+   "外用藥 (3614행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3538
+  ],
+  "fixed": null,
+  "batch": "B6"
+ },
+ {
+  "id": "H104",
+  "hanzi": "黃狗腎",
+  "name": "황구신",
+  "old_group": "금박 곤룡포(보양)",
+  "old_cue": "누렁개 콩팥 벨트",
+  "old_context": "활석분초",
+  "other_cue": "황소가 구두를 신으려는데 신발이 코에 끼임",
+  "other_decision": "revise",
+  "other_score": "78",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3538
+  ],
+  "tb_n": 1,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [],
+  "tb_alias": [],
+  "suchi": [
+   3538
+  ],
+  "fixed": null,
+  "batch": "B6"
+ },
+ {
+  "id": "H105",
+  "hanzi": "水蛭",
+  "name": "수질",
+  "old_group": "혈관 드릴 슈트(활혈)",
+  "old_cue": "물속 거머리 빨대",
+  "old_context": "활석분초",
+  "other_cue": "물컵을 들여다보는 수질검사원이 더러운 물에 얼굴을 찡그린다",
+  "other_decision": "revise",
+  "other_score": "80",
+  "plan_cue": "**수질** 검사하는 거머리(시험관 든)",
+  "plan_note": "수질 그대로",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3501,
+   3538,
+   3593
+  ],
+  "tb_n": 3,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3538
+  ],
+  "fixed": null,
+  "batch": "B4"
+ },
+ {
+  "id": "H106",
+  "hanzi": "杜仲",
+  "name": "두충",
+  "old_group": "금박 곤룡포(보양)",
+  "old_cue": "두꺼비 중사",
+  "old_context": "염자법",
+  "other_cue": "두꺼비 두 마리가 서로 충돌해서 별을 봄",
+  "other_decision": "revise",
+  "other_score": "86",
+  "plan_cue": "벌레 **두** 마리(**두 충**)",
+  "plan_note": "두 + 충",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3605
+  ],
+  "tb_n": 1,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "補益藥 · 2) 補陽藥 (3605행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B5"
+ },
+ {
+  "id": "H107",
+  "hanzi": "巴戟天",
+  "name": "파극천",
+  "old_group": "금박 곤룡포(보양)",
+  "old_cue": "파란 번개창 하늘장군",
+  "old_context": "염자법",
+  "other_cue": "대파가 극장 천장을 뚫고 솟아오른다",
+  "other_decision": "revise",
+  "other_score": "77",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3605
+  ],
+  "tb_n": 1,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "補益藥 · 2) 補陽藥 (3605행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B5"
+ },
+ {
+  "id": "H108",
+  "hanzi": "補骨脂",
+  "name": "보골지",
+  "old_group": "금박 곤룡포(보양)",
+  "old_cue": "보석 골반 기름병",
+  "old_context": "염자법",
+  "other_cue": "보석 해골이 지도를 펼치자 보석이 눈에서 떨어진다",
+  "other_decision": "revise",
+  "other_score": "78",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3544,
+   3605
+  ],
+  "tb_n": 2,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "補益藥 · 2) 補陽藥 (3605행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3544
+  ],
+  "fixed": null,
+  "batch": "B5"
+ },
+ {
+  "id": "H109",
+  "hanzi": "小茴香",
+  "name": "소회향",
+  "old_group": "용광로 털코트(온리)",
+  "old_cue": "작은 회오리 향주머니",
+  "old_context": "염자법",
+  "other_cue": "소가 회 접시에 향수를 뿌리고 요리사처럼 으쓱한다",
+  "other_decision": "revise",
+  "other_score": "89",
+  "plan_cue": "**회** 먹고 **향**수 뿌리는 **소**",
+  "plan_note": "소 · 회 · 향",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3544,
+   3581
+  ],
+  "tb_n": 2,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "溫裏藥 (3581행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3544
+  ],
+  "fixed": null,
+  "batch": "B3"
+ },
+ {
+  "id": "H110",
+  "hanzi": "橘核",
+  "name": "귤핵",
+  "old_group": "바람개비 조끼(이기치산)",
+  "old_cue": "주황 귤 핵폭탄 씨앗",
+  "old_context": "염자법",
+  "other_cue": "귤 껍질을 벗기자 안에서 작은 핵폭탄 버섯구름이 핀다",
+  "other_decision": "keep",
+  "other_score": "90",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3544
+  ],
+  "tb_n": 1,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [],
+  "tb_alias": [],
+  "suchi": [
+   3544
+  ],
+  "fixed": null,
+  "batch": "B6"
+ },
+ {
+  "id": "H111",
+  "hanzi": "荔枝核",
+  "name": "여지핵",
+  "old_group": "바람개비 조끼(이기)",
+  "old_cue": "여자 반지 핵폭탄 씨앗",
+  "old_context": "염자법",
+  "other_cue": "여자가 지우개로 핵폭탄을 지운다",
+  "other_decision": "revise",
+  "other_score": "76",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3544,
+   3583
+  ],
+  "tb_n": 2,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "理氣藥 (3583행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3544
+  ],
+  "fixed": null,
+  "batch": "B3"
+ },
+ {
+  "id": "H112",
+  "hanzi": "車前子",
+  "name": "차전자",
+  "old_group": "배수관 잠수복(이뇨통림)",
+  "old_cue": "수레바퀴 앞 전조등",
+  "old_context": "염자법",
+  "other_cue": "자동차 차체가 전자레인지이고 바퀴가 돌아갈 때 안의 접시도 돈다",
+  "other_decision": "revise",
+  "other_score": "92",
+  "plan_cue": "**차** 안의 **전자**레인지",
+  "plan_note": "차 + 전자",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3544,
+   3579,
+   3628
+  ],
+  "tb_n": 3,
+  "ocr_n": 3,
+  "qb_n": 2,
+  "tb_cat": [
+   "利水滲濕藥 · 2) 利尿通淋藥 (3579행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3544
+  ],
+  "fixed": null,
+  "batch": "B2"
+ },
+ {
+  "id": "H113",
+  "hanzi": "竹茹",
+  "name": "죽여",
+  "old_group": "청소기 가운(청화열담)",
+  "old_cue": "대나무 수세미 여사님",
+  "old_context": "강자법",
+  "other_cue": "죽 한 그릇을 든 여우가 숟가락 대신 자기 꼬리로 먹는다",
+  "other_decision": "revise",
+  "other_score": "83",
+  "plan_cue": "**죽** 먹는 **여**왕",
+  "plan_note": "죽 + 여",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3545,
+   3595
+  ],
+  "tb_n": 2,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "化痰止咳平喘藥 · 2) 淸化熱痰藥 (3595행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3545
+  ],
+  "fixed": null,
+  "batch": "B4"
+ },
+ {
+  "id": "H114",
+  "hanzi": "百部根",
+  "name": "백부근",
+  "old_group": "청소기 가운(지해평천)",
+  "old_cue": "백 살 노인 뿌리 지팡이",
+  "old_context": "밀자법",
+  "other_cue": "백조가 부츠를 신고 근육을 자랑함",
+  "other_decision": "revise",
+  "other_score": "77",
+  "plan_cue": "**근**육질 **백부**(큰아버지)",
+  "plan_note": "백부 + 근",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3546,
+   3595
+  ],
+  "tb_n": 2,
+  "ocr_n": 3,
+  "qb_n": 0,
+  "tb_cat": [
+   "化痰止咳平喘藥 · 3) 止咳平喘藥 (3595행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3546
+  ],
+  "fixed": null,
+  "batch": "B4"
+ },
+ {
+  "id": "H115",
+  "hanzi": "款冬花",
+  "name": "관동화",
+  "old_group": "청소기 가운(지해평천)",
+  "old_cue": "왕관 쓴 겨울꽃",
+  "old_context": "밀자법·팔신약",
+  "other_cue": "왕관이 동화책을 펼쳐 읽자 종이 성이 솟아오른다",
+  "other_decision": "revise",
+  "other_score": "88",
+  "plan_cue": "왕**관** 쓴 **동화**책",
+  "plan_note": "관 + 동화",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3506,
+   3546,
+   3595
+  ],
+  "tb_n": 3,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "化痰止咳平喘藥 · 3) 止咳平喘藥 (3595행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3546
+  ],
+  "fixed": null,
+  "batch": "B4"
+ },
+ {
+  "id": "H116",
+  "hanzi": "紫菀",
+  "name": "자완",
+  "old_group": "청소기 가운(지해평천)",
+  "old_cue": "보라색 왕관 사발",
+  "old_context": "밀자법",
+  "other_cue": "자석이 완두콩을 끌어당겨 녹색 목걸이를 만든다",
+  "other_decision": "revise",
+  "other_score": "83",
+  "plan_cue": "**자** 든 **완**두콩",
+  "plan_note": "자 + 완",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3595
+  ],
+  "tb_n": 1,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "化痰止咳平喘藥 · 3) 止咳平喘藥 (3595행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B4"
+ },
+ {
+  "id": "H117",
+  "hanzi": "枇杷葉",
+  "name": "비파엽",
+  "old_group": "청소기 가운(청화열담)",
+  "old_cue": "비파 악기 나뭇잎",
+  "old_context": "밀자법",
+  "other_cue": "비파 악기 몸통이 커다란 잎으로 되어 연주할 때 펄럭인다",
+  "other_decision": "keep",
+  "other_score": "80",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3546,
+   3595
+  ],
+  "tb_n": 2,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "化痰止咳平喘藥 · 2) 淸化熱痰藥 (3595행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3546
+  ],
+  "fixed": [
+   "보존 목록(계획서 8절)",
+   "비파 — 원안: 비파 악기 나뭇잎"
+  ],
+  "batch": "고정"
+ },
+ {
+  "id": "H118",
+  "hanzi": "黃芪",
+  "name": "황기",
+  "old_group": "금박 곤룡포(보기)",
+  "old_cue": "노란 황금 깃발",
+  "old_context": "밀자·승부·상사",
+  "other_cue": "황금 깃발이 무거워 깃대까지 아래로 축 처짐",
+  "other_decision": "keep",
+  "other_score": "88",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3430,
+   3440,
+   3452,
+   3472,
+   3492,
+   3546,
+   3604,
+   3609
+  ],
+  "tb_n": 8,
+  "ocr_n": 0,
+  "qb_n": 2,
+  "tb_cat": [
+   "補益藥 · 1) 補氣藥 (3604행)",
+   "收澁藥 · 1) 止汗藥 (3609행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3546
+  ],
+  "fixed": null,
+  "batch": "B5"
+ },
+ {
+  "id": "H119",
+  "hanzi": "馬兜鈴",
+  "name": "마두령",
+  "old_group": "청소기 가운(지해평천)",
+  "old_cue": "말 머리 방울",
+  "old_context": "밀자법",
+  "other_cue": "말 머리가 큰 방울 안에서 딸랑거린다",
+  "other_decision": "hold",
+  "other_score": "59",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3546,
+   3595
+  ],
+  "tb_n": 2,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "化痰止咳平喘藥 · 3) 止咳平喘藥 (3595행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3546
+  ],
+  "fixed": null,
+  "batch": "B4"
+ },
+ {
+  "id": "H120",
+  "hanzi": "蛤蚧",
+  "name": "합개",
+  "old_group": "금박 곤룡포(보양)",
+  "old_cue": "조개 문 도마뱀",
+  "old_context": "유자법·함미",
+  "other_cue": "두 개가 합쳐진 쌍둥이 개가 서로 반대쪽으로 달려 못 움직임",
+  "other_decision": "revise",
+  "other_score": "84",
+  "plan_cue": "찬**합** 든 **개**",
+  "plan_note": "합 + 개",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3443,
+   3546,
+   3605
+  ],
+  "tb_n": 3,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "補益藥 · 2) 補陽藥 (3605행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3546
+  ],
+  "fixed": null,
+  "batch": "B5"
+ },
+ {
+  "id": "H121",
+  "hanzi": "豹骨",
+  "name": "표골",
+  "old_group": "제습 관절갑옷(강근골)",
+  "old_cue": "표범 무늬 통뼈",
+  "old_context": "유자법",
+  "other_cue": "표범이 뼈를 점무늬 도장처럼 찍고 다님",
+  "other_decision": "keep",
+  "other_score": "84",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3546
+  ],
+  "tb_n": 1,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [],
+  "tb_alias": [],
+  "suchi": [
+   3546
+  ],
+  "fixed": null,
+  "batch": "B6"
+ },
+ {
+  "id": "H122",
+  "hanzi": "石決明",
+  "name": "석결명",
+  "old_group": "중력 닻 헬멧(평간잠양)",
+  "old_cue": "보석 안경 전복껍데기",
+  "old_context": "명단법",
+  "other_cue": "석고상이 결혼식에서 명함을 나눠 준다",
+  "other_decision": "hold",
+  "other_score": "55",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3550,
+   3599
+  ],
+  "tb_n": 2,
+  "ocr_n": 3,
+  "qb_n": 0,
+  "tb_cat": [
+   "平肝藥 · 2) 平肝潛陽藥 (3599행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3550
+  ],
+  "fixed": null,
+  "batch": "B5"
+ },
+ {
+  "id": "H123",
+  "hanzi": "龍骨",
+  "name": "용골",
+  "old_group": "납조끼 잠옷(중진안신)",
+  "old_cue": "공룡 뼈대 화석",
+  "old_context": "명단법·삽미",
+  "other_cue": "용의 뼈대가 자기 꼬리뼈를 물고 원을 만듦",
+  "other_decision": "keep",
+  "other_score": "88",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3444,
+   3597,
+   3614,
+   3626
+  ],
+  "tb_n": 4,
+  "ocr_n": 1,
+  "qb_n": 0,
+  "tb_cat": [
+   "安神藥 · 1) 重鎭安神藥 (3597행)",
+   "外用藥 (3614행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B4"
+ },
+ {
+  "id": "H124",
+  "hanzi": "磁石",
+  "name": "자석",
+  "old_group": "납조끼 잠옷(중진안신)",
+  "old_cue": "U자 말굽자석",
+  "old_context": "단쉬법",
+  "other_cue": "말굽자석이 자기 쇠 신발에 붙어 못 걷고 있음",
+  "other_decision": "keep",
+  "other_score": "96",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3550,
+   3597,
+   3626
+  ],
+  "tb_n": 3,
+  "ocr_n": 3,
+  "qb_n": 0,
+  "tb_cat": [
+   "安神藥 · 1) 重鎭安神藥 (3597행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3550
+  ],
+  "fixed": null,
+  "batch": "B4"
+ },
+ {
+  "id": "H125",
+  "hanzi": "自然銅",
+  "name": "자연동",
+  "old_group": "혈관 드릴 슈트(활혈)",
+  "old_cue": "자연산 구리 주사위",
+  "old_context": "단쉬법",
+  "other_cue": "연어가 자전거를 타는데 바퀴가 동전이라 동전이 쏟아진다",
+  "other_decision": "revise",
+  "other_score": "76",
+  "plan_cue": "숲(**자연**) 속의 **동**메달",
+  "plan_note": "자연 + 동",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3550,
+   3593
+  ],
+  "tb_n": 2,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3550
+  ],
+  "fixed": null,
+  "batch": "B4"
+ },
+ {
+  "id": "H126",
+  "hanzi": "爐甘石",
+  "name": "노감석",
+  "old_group": "독극물 연고복(외용)",
+  "old_cue": "화로 위 단감 돌멩이",
+  "old_context": "단쉬법",
+  "other_cue": "노를 젓는 단감이 석고상 배를 타고 노질하다 넘어짐",
+  "other_decision": "revise",
+  "other_score": "78",
+  "plan_cue": "**노** 젓는 **감**이 탄 **석**(돌) 배",
+  "plan_note": "노 · 감 · 석",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3550,
+   3614
+  ],
+  "tb_n": 2,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "外用藥 (3614행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3550
+  ],
+  "fixed": null,
+  "batch": "B6"
+ },
+ {
+  "id": "H127",
+  "hanzi": "血餘炭",
+  "name": "혈여탄",
+  "old_group": "압박붕대 망토(지혈)",
+  "old_cue": "피 묻은 머리카락 숯",
+  "old_context": "민단법",
+  "other_cue": "피 묻은 여우가 연탄을 껴안다 까맣게 됨",
+  "other_decision": "revise",
+  "other_score": "76",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3550
+  ],
+  "tb_n": 1,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [],
+  "tb_alias": [],
+  "suchi": [
+   3550
+  ],
+  "fixed": null,
+  "batch": "B6"
+ },
+ {
+  "id": "H128",
+  "hanzi": "乾漆",
+  "name": "건칠",
+  "old_group": "혈관 드릴 슈트(활혈)",
+  "old_cue": "마른 검은 옻칠통",
+  "old_context": "민단·임신금용",
+  "other_cue": "건빵에 옻칠하듯 붓칠하여 건빵이 번들거리며 달아난다",
+  "other_decision": "revise",
+  "other_score": "88",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3501,
+   3550,
+   3593
+  ],
+  "tb_n": 3,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3550
+  ],
+  "fixed": null,
+  "batch": "B4"
+ },
+ {
+  "id": "H129",
+  "hanzi": "熟地黃",
+  "name": "숙지황",
+  "old_group": "금박 곤룡포(보혈)",
+  "old_cue": "푹 익은 검은 땅황제",
+  "old_context": "증법",
+  "other_cue": "숙제하던 황소가 지우개를 통째로 씹는다",
+  "other_decision": "hold",
+  "other_score": "69",
+  "plan_cue": "**숙**제하는 **지**하 **황**제 / **생**선 든 지하 황제",
+  "plan_note": "地黃 = 지하 황제로 묶고 앞 글자만 가름",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3606,
+   3756
+  ],
+  "tb_n": 2,
+  "ocr_n": 2,
+  "qb_n": 0,
+  "tb_cat": [
+   "補益藥 · 3) 補血藥 (3606행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B5"
+ },
+ {
+  "id": "H130",
+  "hanzi": "黃精",
+  "name": "황정",
+  "old_group": "금박 곤룡포(보음)",
+  "old_cue": "노란 수정 구슬 요정",
+  "old_context": "증법",
+  "other_cue": "황소가 너무 작은 정장을 입어 단추가 튀어나간다",
+  "other_decision": "revise",
+  "other_score": "89",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3552,
+   3607
+  ],
+  "tb_n": 2,
+  "ocr_n": 3,
+  "qb_n": 0,
+  "tb_cat": [
+   "補益藥 · 4) 補陰藥 (3607행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3552
+  ],
+  "fixed": null,
+  "batch": "B5"
+ },
+ {
+  "id": "H131",
+  "hanzi": "桑螵蛸",
+  "name": "상표초",
+  "old_group": "자물쇠 조끼(삽정축뇨)",
+  "old_cue": "뽕나무 표범 사마귀집",
+  "old_context": "증법",
+  "other_cue": "상표 꼬리표를 단 초가 자기 상표를 태우지 않으려 길게 몸을 휨",
+  "other_decision": "revise",
+  "other_score": "86",
+  "plan_cue": "**상표** 꼬리표 달린 **초**(양초)",
+  "plan_note": "상표 + 초",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3438,
+   3552,
+   3609
+  ],
+  "tb_n": 3,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "收澁藥 · 3) 澁精縮尿止帶藥 (3609행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3552
+  ],
+  "fixed": null,
+  "batch": "B5"
+ },
+ {
+  "id": "H132",
+  "hanzi": "木瓜",
+  "name": "목과",
+  "old_group": "제습 관절갑옷(서근활락)",
+  "old_cue": "나무 모과 아령",
+  "old_context": "증법",
+  "other_cue": "기린 목에 과자 목걸이가 걸려 고개를 숙일 때마다 부서진다",
+  "other_decision": "revise",
+  "other_score": "85",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3430,
+   3438,
+   3552,
+   3575
+  ],
+  "tb_n": 4,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "祛風濕藥 · 2) 舒筋活絡藥 (3575행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3552
+  ],
+  "fixed": null,
+  "batch": "B2"
+ },
+ {
+  "id": "H133",
+  "hanzi": "遠志",
+  "name": "원지",
+  "old_group": "달빛 잠옷(자양안신)",
+  "old_cue": "망원경 든 지도 소년",
+  "old_context": "자법(삶기)",
+  "other_cue": "원숭이가 지우개로 자기 꼬리를 지워 버린다",
+  "other_decision": "revise",
+  "other_score": "88",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3553,
+   3597
+  ],
+  "tb_n": 2,
+  "ocr_n": 3,
+  "qb_n": 0,
+  "tb_cat": [
+   "安神藥 · 2) 滋養安神藥 (3597행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3553
+  ],
+  "fixed": null,
+  "batch": "B4"
+ },
+ {
+  "id": "H134",
+  "hanzi": "珍珠",
+  "name": "진주",
+  "old_group": "중력 닻 헬멧(평간잠양)",
+  "old_cue": "영롱한 진주알",
+  "old_context": "자법(삶기)",
+  "other_cue": "진주가 너무 커 조개가 입을 다물지 못한다",
+  "other_decision": "keep",
+  "other_score": "95",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   341,
+   3420,
+   3553,
+   3599,
+   3614,
+   3859
+  ],
+  "tb_n": 6,
+  "ocr_n": 7,
+  "qb_n": 5,
+  "tb_cat": [
+   "平肝藥 · 2) 平肝潛陽藥 (3599행)",
+   "外用藥 (3614행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3553
+  ],
+  "fixed": null,
+  "batch": "B5"
+ },
+ {
+  "id": "H135",
+  "hanzi": "杏仁",
+  "name": "행인",
+  "old_group": "청소기 가운(지해평천)",
+  "old_cue": "행군하는 살구씨 병정",
+  "old_context": "수탕(단법)",
+  "other_cue": "횡단보도 행인이 거꾸로 걷다가 자기 신발을 앞질러 감",
+  "other_decision": "revise",
+  "other_score": "86",
+  "plan_cue": "횡단보도 건너는 **행인** 살구씨",
+  "plan_note": "행인 그대로",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3439,
+   3522,
+   3553,
+   3595,
+   3620,
+   3754
+  ],
+  "tb_n": 6,
+  "ocr_n": 0,
+  "qb_n": 1,
+  "tb_cat": [
+   "化痰止咳平喘藥 · 3) 止咳平喘藥 (3595행)",
+   "方劑의 (3620행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3522,
+   3553
+  ],
+  "fixed": null,
+  "batch": "B4"
+ },
+ {
+  "id": "H136",
+  "hanzi": "白扁豆",
+  "name": "백편두",
+  "old_group": "금박 곤룡포(보기)",
+  "old_cue": "하얀 납작콩 방패",
+  "old_context": "수탕(편두)",
+  "other_cue": "백조가 편지 봉투에 두부를 넣어 보내다 봉투가 젖는다",
+  "other_decision": "revise",
+  "other_score": "78",
+  "plan_cue": "흰(**백**) 붕대 감은 **편두**통 환자 콩",
+  "plan_note": "백 + 편두(통)",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3604
+  ],
+  "tb_n": 1,
+  "ocr_n": 2,
+  "qb_n": 0,
+  "tb_cat": [
+   "補益藥 · 1) 補氣藥 (3604행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B5"
+ },
+ {
+  "id": "H137",
+  "hanzi": "陳皮",
+  "name": "진피",
+  "old_group": "바람개비 조끼(이기)",
+  "old_cue": "묵은 귤껍질 가죽조끼",
+  "old_context": "육진약·신미",
+  "other_cue": "청바지 진에 피리가 허리띠처럼 꿰어져 걸을 때마다 불린다",
+  "other_decision": "hold",
+  "other_score": "70",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3442,
+   3506,
+   3583,
+   3637
+  ],
+  "tb_n": 4,
+  "ocr_n": 5,
+  "qb_n": 0,
+  "tb_cat": [
+   "理氣藥 (3583행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B3"
+ },
+ {
+  "id": "H138",
+  "hanzi": "紫蘇葉",
+  "name": "자소엽",
+  "old_group": "적색 우비(발산풍한)",
+  "old_cue": "보라 소 뿔 깻잎",
+  "old_context": "팔신약",
+  "other_cue": "자석 뿔을 단 소가 엽전을 빨아들여 등에 줄줄 붙인다",
+  "other_decision": "revise",
+  "other_score": "77",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3563
+  ],
+  "tb_n": 1,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "解表藥 · 1) 發散風寒藥 (3563행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B1"
+ },
+ {
+  "id": "H139",
+  "hanzi": "薄荷",
+  "name": "박하",
+  "old_group": "청색 우비(발산풍열)",
+  "old_cue": "민트 박하사탕 잎사귀",
+  "old_context": "팔신약(박하엽)",
+  "other_cue": "박 바가지가 하품하다 박하사탕을 입에서 떨어뜨림",
+  "other_decision": "revise",
+  "other_score": "81",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3432,
+   3442,
+   3452,
+   3506,
+   3563,
+   3628
+  ],
+  "tb_n": 6,
+  "ocr_n": 0,
+  "qb_n": 3,
+  "tb_cat": [
+   "解表藥 · 2) 發散風熱藥 (3563행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B1"
+ },
+ {
+  "id": "H140",
+  "hanzi": "菊花",
+  "name": "국화",
+  "old_group": "청색 우비(발산풍열)",
+  "old_cue": "노란 국화꽃 선글라스",
+  "old_context": "팔신약·양약",
+  "other_cue": "국화꽃이 선글라스를 쓰려다 꽃잎이 안경테에 끼임",
+  "other_decision": "keep",
+  "other_score": "92",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3432,
+   3506,
+   3563,
+   3569
+  ],
+  "tb_n": 4,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "解表藥 · 2) 發散風熱藥 (3563행)",
+   "淸熱藥 · 4) 淸熱解毒藥 (3569행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B1"
+ },
+ {
+  "id": "H141",
+  "hanzi": "桃花",
+  "name": "도화",
+  "old_group": "뚫어뻥 작업복(사하계)",
+  "old_cue": "분홍 복숭아꽃 부채",
+  "old_context": "팔신약",
+  "other_cue": "도깨비가 거울 앞에서 화장하다 뿔에 립스틱을 바른다",
+  "other_decision": "revise",
+  "other_score": "80",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3506
+  ],
+  "tb_n": 1,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B6"
+ },
+ {
+  "id": "H142",
+  "hanzi": "赤小豆",
+  "name": "적소두",
+  "old_group": "배수관 잠수복(이수퇴종)",
+  "old_cue": "붉은 꼬마 팥알",
+  "old_context": "팔신약",
+  "other_cue": "붉은 소가 두부를 포탄처럼 쏜다",
+  "other_decision": "revise",
+  "other_score": "77",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3506,
+   3579,
+   3626
+  ],
+  "tb_n": 3,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "利水滲濕藥 · 1) 利水退腫藥 (3579행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B2"
+ },
+ {
+  "id": "H143",
+  "hanzi": "澤蘭",
+  "name": "택란",
+  "old_group": "혈관 드릴 슈트(활혈)",
+  "old_cue": "연못 보라 난초",
+  "old_context": "팔신약",
+  "other_cue": "택시가 달걀을 승객 대신 태웠다가 급정거해 달걀들이 굴러감",
+  "other_decision": "revise",
+  "other_score": "84",
+  "plan_cue": "**택**배 상자 속 계**란**",
+  "plan_note": "택 + 란",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3506,
+   3593
+  ],
+  "tb_n": 2,
+  "ocr_n": 1,
+  "qb_n": 0,
+  "tb_cat": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B4"
+ },
+ {
+  "id": "H144",
+  "hanzi": "槐花",
+  "name": "괴화",
+  "old_group": "압박붕대 망토(양혈지혈)",
+  "old_cue": "괴물 꽃다발",
+  "old_context": "팔신약·양약",
+  "other_cue": "괴물이 화장 거울 앞에서 속눈썹을 붙이다 자기 뿔에 걸린다",
+  "other_decision": "revise",
+  "other_score": "87",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3432,
+   3506,
+   3591
+  ],
+  "tb_n": 3,
+  "ocr_n": 0,
+  "qb_n": 0,
+  "tb_cat": [
+   "止血藥 · 2) 凉血止血藥 (3591행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B3"
+ },
+ {
+  "id": "H145",
+  "hanzi": "生薑",
+  "name": "생강",
+  "old_group": "적색 우비(발산풍한)",
+  "old_cue": "싱싱한 날생강 개구리",
+  "old_context": "보료·상외·상살",
+  "other_cue": "생강 뿌리가 자기 울퉁불퉁한 팔에 줄넘기가 걸려 넘어짐",
+  "other_decision": "keep",
+  "other_score": "91",
+  "plan_cue": "",
+  "plan_note": "",
+  "plan_keep": true,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3430,
+   3493,
+   3494,
+   3495,
+   3527,
+   3556,
+   3560,
+   3563
+  ],
+  "tb_n": 8,
+  "ocr_n": 0,
+  "qb_n": 4,
+  "tb_cat": [
+   "解表藥 · 1) 發散風寒藥 (3563행)"
+  ],
+  "tb_alias": [],
+  "suchi": [
+   3527,
+   3556,
+   3560
+  ],
+  "fixed": null,
+  "batch": "B1"
+ },
+ {
+  "id": "H146",
+  "hanzi": "防風",
+  "name": "방풍",
+  "old_group": "적색 우비(발산풍한)",
+  "old_cue": "방풍 방패 기사",
+  "old_context": "상살(부자독)",
+  "other_cue": "방귀로 풍선을 불어 올리는 우스꽝스러운 사람",
+  "other_decision": "revise",
+  "other_score": "90",
+  "plan_cue": "**방풍** 점퍼(바람막이) 입은 기사",
+  "plan_note": "방풍 그대로",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3493,
+   3495,
+   3563
+  ],
+  "tb_n": 3,
+  "ocr_n": 4,
+  "qb_n": 0,
+  "tb_cat": [
+   "解表藥 · 1) 發散風寒藥 (3563행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B1"
+ },
+ {
+  "id": "H147",
+  "hanzi": "雄黃",
+  "name": "웅황",
+  "old_group": "독극물 연고복(외용)",
+  "old_cue": "수컷 곰 노란 유황돌",
+  "old_context": "상살·임신금용",
+  "other_cue": "웅크린 황소가 너무 작게 웅크려 자기 뿔 밑에 숨어 있음",
+  "other_decision": "revise",
+  "other_score": "81",
+  "plan_cue": "硫黃과 합쳐진다",
+  "plan_note": "**웅**변하는 **황**새(단상에서 연설하는 황새)",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3495,
+   3501,
+   3511,
+   3614
+  ],
+  "tb_n": 4,
+  "ocr_n": 5,
+  "qb_n": 0,
+  "tb_cat": [
+   "外用藥 (3614행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B6"
+ },
+ {
+  "id": "H148",
+  "hanzi": "澤瀉",
+  "name": "택사",
+  "old_group": "배수관 잠수복(이수퇴종)",
+  "old_cue": "연못 물대포 사수",
+  "old_context": "경험저장(목단피 짝)",
+  "other_cue": "택시를 운전하는 사자가 갈기 때문에 문을 못 닫는다",
+  "other_decision": "revise",
+  "other_score": "90",
+  "plan_cue": "물 뿜는 **택시**",
+  "plan_note": "택사 ≈ 택시",
+  "plan_keep": false,
+  "p2cho": "",
+  "p2cho_status": "",
+  "tb_lines": [
+   3444,
+   3458,
+   3472,
+   3475,
+   3493,
+   3507,
+   3579
+  ],
+  "tb_n": 7,
+  "ocr_n": 0,
+  "qb_n": 1,
+  "tb_cat": [
+   "利水滲濕藥 · 1) 利水退腫藥 (3579행)"
+  ],
+  "tb_alias": [],
+  "suchi": [],
+  "fixed": null,
+  "batch": "B2"
+ }
+]

@@ -1,0 +1,350 @@
+{
+ "batch": "B4",
+ "items": [
+  {
+   "id": "H036",
+   "hanja": "代赭石",
+   "reading": "대자석",
+   "cue": "대자로 뻗어 누운 붉은 막대자석",
+   "draw_en": "a red bar magnet with little arms and legs lying flat on its back, spread-eagle like a sprawled sleeper, plain red with no letters or N/S marks",
+   "decode": "대자로 + 자석 → 대자석",
+   "type": 4,
+   "carriers": [
+    "대자로",
+    "자석"
+   ],
+   "score": 22,
+   "from": "p3 · p5 (계획서 안 「대형 자석」 변형)"
+  },
+  {
+   "id": "H044",
+   "hanja": "牡蠣",
+   "reading": "모려",
+   "cue": "머리만 내놓고 모래찜질하는 굴",
+   "draw_en": "a cute oyster with a face buried up to its shell lip in a small mound of sand, eyes closed blissfully like taking a sand bath",
+   "decode": "모래 → 모려",
+   "type": 3,
+   "carriers": [
+    "모래"
+   ],
+   "score": 21,
+   "from": "p3 (계획서 안 · Gemini 원안의 모래 굴 유지)"
+  },
+  {
+   "id": "H045",
+   "hanja": "白附子",
+   "reading": "백부자",
+   "cue": "얼굴에 백분 바른 하얀 부자",
+   "draw_en": "a plump rich man in an all-white suit patting his chalk-white face with a big powder puff, white powder puffing in the air, hugging a white money sack",
+   "decode": "백분 + 부자 → 백부자",
+   "type": 5,
+   "carriers": [
+    "백분",
+    "부자(가족)"
+   ],
+   "score": 22,
+   "from": "Gemini 원안 · p1 · p2 · p5 · p6"
+  },
+  {
+   "id": "H046",
+   "hanja": "天南星",
+   "reading": "천남성",
+   "cue": "샅바에 별 단 천하장사가 큰 별을 번쩍 들어 올림",
+   "draw_en": "a burly Korean ssireum wrestler champion in a satba belt decorated with a star, triumphantly lifting a giant yellow star over his head",
+   "decode": "천하장사 + 남성 → 천남성",
+   "type": 4,
+   "carriers": [
+    "천하장사",
+    "남성"
+   ],
+   "score": 23,
+   "from": "계획서 안 · p1 · p4 · p6 + p3(동작)"
+  },
+  {
+   "id": "H049",
+   "hanja": "桔梗",
+   "reading": "길경",
+   "cue": "도라지 뿌리를 경광봉처럼 흔들며 길 안내하는 경찰",
+   "draw_en": "a Korean traffic police officer directing the way with one arm outstretched, waving a white bellflower root (doraji) like a glowing traffic baton",
+   "decode": "길 + 경찰 → 길경",
+   "type": 4,
+   "carriers": [
+    "길",
+    "경찰"
+   ],
+   "score": 22,
+   "from": "계획서 안 · p3 · p6"
+  },
+  {
+   "id": "H061",
+   "hanja": "瓜蔞",
+   "reading": "과루",
+   "cue": "넥타이 맨 채 녹초가 되어 엎어진 참외",
+   "draw_en": "an exhausted yellow Korean melon (chamoe) wearing a loose necktie, collapsed face-down with dizzy swirl eyes and a sweat drop",
+   "decode": "과로 ≈ 과루",
+   "type": 3,
+   "carriers": [
+    "과로"
+   ],
+   "score": 23,
+   "from": "계획서 안 · p1 · p2 · p4 · p6 + p5(넥타이)"
+  },
+  {
+   "id": "H062",
+   "hanja": "貝母",
+   "reading": "패모",
+   "cue": "조개껍데기 핸드백 든 패션모델",
+   "draw_en": "a glamorous fashion model striking a runway pose, swinging a handbag made of a big clam shell",
+   "decode": "패션모델 → 패·모 → 패모",
+   "type": 4,
+   "carriers": [
+    "패션모델"
+   ],
+   "score": 23,
+   "from": "계획서 안 · p2 · p3 · p5"
+  },
+  {
+   "id": "H065",
+   "hanja": "海藻",
+   "reading": "해조",
+   "cue": "춤추듯 꿈틀거리는 초록 해조류(미역) 다발",
+   "draw_en": "a bundle of wavy green-brown seaweed fronds with a happy face, wiggling and dancing as if underwater",
+   "decode": "해조류 → 해조",
+   "type": 2,
+   "carriers": [
+    "해조류"
+   ],
+   "score": 23,
+   "from": "p1 · p2 (p4 · p5 해초 다발)"
+  },
+  {
+   "id": "H099",
+   "hanja": "穿山甲",
+   "reading": "천산갑",
+   "cue": "산을 드릴처럼 뚫고 나오는 천산갑",
+   "draw_en": "a scaly pangolin spinning like a drill as it bursts out through a small rocky mountain, rubble flying",
+   "decode": "천산갑 = 천산갑",
+   "type": 1,
+   "carriers": [
+    "천산갑"
+   ],
+   "score": 24,
+   "from": "Gemini 원안 · p1 · p2 · p3 · p4 · p6"
+  },
+  {
+   "id": "H105",
+   "hanja": "水蛭",
+   "reading": "수질",
+   "cue": "시험관 물을 쪽 빨아 수질검사하는 거머리",
+   "draw_en": "a dark leech wearing tiny safety goggles, sucking water from a test tube through its mouth like a lab inspector",
+   "decode": "수질 = 수질",
+   "type": 1,
+   "carriers": [
+    "수질"
+   ],
+   "score": 24,
+   "from": "계획서 안 · p1~p6"
+  },
+  {
+   "id": "H113",
+   "hanja": "竹茹",
+   "reading": "죽여",
+   "cue": "대나무 주걱으로 죽 젓는 여사님",
+   "draw_en": "a cheerful middle-aged Korean lady in an apron stirring a big pot of rice porridge with a large bamboo paddle",
+   "decode": "죽 + 여사님 → 죽여",
+   "type": 4,
+   "carriers": [
+    "죽",
+    "여사님"
+   ],
+   "score": 22,
+   "from": "p4 (Gemini 원안 「여사님」 + 계획서 안 「죽」)"
+  },
+  {
+   "id": "H114",
+   "hanja": "百部根",
+   "reading": "백부근",
+   "cue": "알통 자랑하는 근육질 로마 백부장",
+   "draw_en": "a muscular Roman centurion in a crested helmet flexing his huge biceps",
+   "decode": "백부장 + 근육 → 백부근",
+   "type": 4,
+   "carriers": [
+    "백부장",
+    "근육"
+   ],
+   "score": 22,
+   "from": "p6"
+  },
+  {
+   "id": "H115",
+   "hanja": "款冬花",
+   "reading": "관동화",
+   "cue": "왕관 쓴 동화책이 펼쳐지며 꽃이 튀어나옴",
+   "draw_en": "an open picture storybook wearing a golden crown, flowers bursting out from its pages",
+   "decode": "왕관 + 동화(책) → 관동화",
+   "type": 4,
+   "carriers": [
+    "왕관",
+    "동화책"
+   ],
+   "score": 23,
+   "from": "계획서 안 · p1 · p4 · p5 · p6 + p3(꽃)"
+  },
+  {
+   "id": "H116",
+   "hanja": "紫菀",
+   "reading": "자완",
+   "cue": "자전거 타는 보라색 완두콩",
+   "draw_en": "a purple pea character with a face happily riding a small bicycle",
+   "decode": "자전거 + 완두콩 → 자완",
+   "type": 4,
+   "carriers": [
+    "자전거",
+    "완두콩"
+   ],
+   "score": 23,
+   "from": "p1 · p4"
+  },
+  {
+   "id": "H119",
+   "hanja": "馬兜鈴",
+   "reading": "마두령",
+   "cue": "방울 흔드는 만두 두령(산적 대장 만두)",
+   "draw_en": "a plump steamed dumpling (mandu) dressed as a bandit chief with a headband and eye patch, ringing a big brass bell",
+   "decode": "만두 + 두령 → 마두령, 방울 = 鈴",
+   "type": 4,
+   "carriers": [
+    "만두",
+    "두령"
+   ],
+   "score": 23,
+   "from": "p5(만두 · 방울) + p2 · p3 · p4(두령)"
+  },
+  {
+   "id": "H123",
+   "hanja": "龍骨",
+   "reading": "용골",
+   "cue": "뼈만 남은 용 골격(뿔 · 수염 달린 동양 용)",
+   "draw_en": "the bare white skeleton of an East Asian dragon with antlers and long whiskers on its skull and a long serpentine spine, rearing up and roaring, clearly a dragon and not a dinosaur",
+   "decode": "용 + 골격 → 용골",
+   "type": 4,
+   "carriers": [
+    "용",
+    "골격"
+   ],
+   "score": 23,
+   "from": "p2"
+  },
+  {
+   "id": "H124",
+   "hanja": "磁石",
+   "reading": "자석",
+   "cue": "쇠못이 줄줄이 붙은 은빛 U자 말굽자석",
+   "draw_en": "a shiny silver U-shaped horseshoe magnet with chains of iron nails clinging to both tips, no letters or marks",
+   "decode": "자석 = 자석",
+   "type": 1,
+   "carriers": [
+    "자석"
+   ],
+   "score": 23,
+   "from": "Gemini 원안 · p1~p6"
+  },
+  {
+   "id": "H125",
+   "hanja": "自然銅",
+   "reading": "자연동",
+   "cue": "도끼 든 채 구리 동상이 된 산속 자연인",
+   "draw_en": "a bearded mountain hermit holding an axe, entirely turned into a shiny copper-bronze statue on a small rock base",
+   "decode": "자연인 + 동상 → 자연동",
+   "type": 4,
+   "carriers": [
+    "자연인",
+    "동상"
+   ],
+   "score": 23,
+   "from": "p3 · p5"
+  },
+  {
+   "id": "H128",
+   "hanja": "乾漆",
+   "reading": "건칠",
+   "cue": "붓으로 검게 옻칠해 번들거리는 건빵",
+   "draw_en": "a hardtack biscuit (geonppang) being painted glossy black lacquer with a brush, dripping and shining",
+   "decode": "건빵 + 옻칠 → 건칠",
+   "type": 4,
+   "carriers": [
+    "건빵",
+    "옻칠"
+   ],
+   "score": 24,
+   "from": "p1 · p3 · p4 (다른 모델 안)"
+  },
+  {
+   "id": "H133",
+   "hanja": "遠志",
+   "reading": "원지",
+   "cue": "망원경 들고 지도를 펼친 소년",
+   "draw_en": "a curious boy peering through a long telescope while holding an unfolded old map with no writing on it",
+   "decode": "망원경 + 지도 → 원지 (망원경 = 멀리 遠)",
+   "type": 4,
+   "carriers": [
+    "망원경",
+    "지도"
+   ],
+   "score": 21,
+   "from": "Gemini 원안 · p2 · p3 · p4 · p6"
+  },
+  {
+   "id": "H135",
+   "hanja": "杏仁",
+   "reading": "행인",
+   "cue": "손 번쩍 들고 횡단보도 건너는 살구씨 행인",
+   "draw_en": "an apricot kernel character with a face raising one hand high while walking across a zebra crosswalk",
+   "decode": "행인 = 행인",
+   "type": 1,
+   "carriers": [
+    "행인"
+   ],
+   "score": 24,
+   "from": "계획서 안 · p1~p6 (p3 동작)"
+  },
+  {
+   "id": "H143",
+   "hanja": "澤蘭",
+   "reading": "택란",
+   "cue": "택배 상자에서 고개 내민 계란",
+   "draw_en": "a white egg with a face peeking out of an open cardboard delivery parcel box",
+   "decode": "택배 + 계란 → 택란",
+   "type": 4,
+   "carriers": [
+    "택배",
+    "계란"
+   ],
+   "score": 22,
+   "from": "계획서 안 · p1 · p4 · p6 + p5(고개 내밀기)"
+  }
+ ],
+ "conflict_risk": [
+  "근육: 葛根(B1 근육질 갈매기)과 百部根(백부장 알통)으로 두 번 — 상한. B3 乾薑 「근육 생강」은 운반 낱말이 아니어도 그림상 셋째 근육",
+  "자석: 磁石 · 代赭石으로 두 번 — 상한. 다른 묶음에서 자석 금지",
+  "지도: 遠志 원안(B-5) — B3 荔枝核 「대동여지도」 후보(p2 · p4)와 겹침",
+  "계란: 澤蘭 — B3 小茴香 「계란 품은 소」 후보(p5)와 겹침",
+  "왕관(그림): 款冬花의 운반 낱말 + 人參 왕관(B6) + B2 大黃 「왕관 쓴 황소」 후보 — 그림 왕관이 셋 이상이 될 수 있음",
+  "조개: 貝母 조개 핸드백 — B5 蛤蚧 「대합조개 · 합죽선 조개」 후보, 石決明 전복과 그림 꼴",
+  "말 탄 사람: 馬兜鈴에서 말을 뺐다(升麻 승마 선수 · 馬錢子 말발굽과 갈리게) — 다른 묶음이 말 운반을 새로 쓰면 확인",
+  "택: 澤瀉 택시(B2) · 澤蘭 택배 — 같은 澤 짝, 서로 다른 물건이라 유지",
+  "용: 龍骨이 용을 쓴다 — 뒤 사전의 龍膽 · 地龍 · 龍眼肉과 겹칠 위험",
+  "조각상 꼴: 自然銅 구리 동상 ↔ B1 石膏 하얀 석고 조각상"
+ ],
+ "needs_user_ok": [],
+ "check_needed": [
+  "龍骨: 그림이 공룡(숫자 0) 화석으로 읽히지 않는지 — 뿔 · 수염 · 뱀처럼 긴 등뼈로 동양 용임을 검수",
+  "代赭石 · 磁石: 막대 · U자 자석 도안에 흔한 N/S 글자가 그려지지 않았는지, 붉은 막대(대자) ↔ 은빛 U자로 짝이 갈리는지",
+  "代赭石 · 磁石이 같은 「자석」을 앞 글자(대자)로 가르는 방식(大薊/小薊식) — 사용자가 짝 혼동을 걱정하면 대안은 「대자로 뻗은 붉은 석상」(20점)",
+  "乾漆 · 馬兜鈴: 계획서 부록 B에 항목이 없어(원안 유지 가능으로 본 것) B-5는 아니나 원안 낱말을 바꿨다 — 알림",
+  "海藻: 계획서 안(해초 문 바닷새 해조)을 해조류 다발로 바꿨다 — 바닷새가 葛根 갈매기와 겹쳐서",
+  "竹茹: 계획서 안 「여왕」 대신 Gemini 원안의 「여사님」을 살렸다(왕관 겹침 회피)",
+  "白附子: 香附子(실크햇 · 털 깃 · 금반지 · 붉은 방석)의 소품이 섞여 그려지지 않는지",
+  "遠志: 원안(21)과 원숭이 · 지도(21) 동점 — B-5라 원안"
+ ]
+}

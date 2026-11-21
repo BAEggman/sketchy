@@ -1,0 +1,355 @@
+{
+ "batch": "B5",
+ "items": [
+  {
+   "id": "H002",
+   "hanja": "甘草",
+   "reading": "감초",
+   "cue": "약방의 감초 — 약장 서랍마다 얼굴 내민 노란 감초 뿌리",
+   "draw_en": "A small wooden Korean herbal medicine cabinet with many little drawers, and from every open drawer the same cheerful yellow licorice root pokes out its smiling face; no labels or writing anywhere.",
+   "decode": "약방의 감초 → 감초",
+   "type": 1,
+   "carriers": [
+    "약방의 감초"
+   ],
+   "score": 23,
+   "from": "p2 · p4"
+  },
+  {
+   "id": "H018",
+   "hanja": "白朮",
+   "reading": "백출",
+   "cue": "새하얀 배추 한 포기(원안 하얀 백배추)",
+   "draw_en": "One plump napa cabbage standing upright whose leaves are pure bright white, clearly white rather than green, simple and clean.",
+   "decode": "흰(백) + 배추(朮 가족) → 백출",
+   "type": 5,
+   "carriers": [
+    "배추(가족)"
+   ],
+   "score": 20,
+   "from": "Gemini 원안 · p1 · p5 · p6"
+  },
+  {
+   "id": "H019",
+   "hanja": "山藥",
+   "reading": "산약",
+   "cue": "마 뿌리를 피켈처럼 치켜든 산악인",
+   "draw_en": "A mountaineer in a climbing helmet and backpack triumphantly raising a long knobby yam root as if it were an ice axe.",
+   "decode": "산악(인) ≈ 산약 · 마 = 山藥 실물",
+   "type": 3,
+   "carriers": [
+    "산악인"
+   ],
+   "score": 23,
+   "from": "p1 · p4"
+  },
+  {
+   "id": "H035",
+   "hanja": "赤石脂",
+   "reading": "적석지",
+   "cue": "적십자 완장 찬 붉은 돌덩이",
+   "draw_en": "A chunky brick-red rock with a stubby little face, wearing a white armband that shows only a plain red cross symbol; no letters.",
+   "decode": "적십자 ≈ 적석지 (붉은 돌이 赤 · 石을 한 번 더 짚음)",
+   "type": 3,
+   "carriers": [
+    "적십자"
+   ],
+   "score": 21,
+   "from": "p1"
+  },
+  {
+   "id": "H043",
+   "hanja": "白礬",
+   "reading": "백반",
+   "cue": "밥공기 속이 하얀 결정덩이인 백반 한 상",
+   "draw_en": "A Korean home-style meal tray with a soup bowl and small side dishes, but the rice bowl holds a translucent white crystal lump instead of rice.",
+   "decode": "백반 → 백반",
+   "type": 1,
+   "carriers": [
+    "백반"
+   ],
+   "score": 24,
+   "from": "계획서 안 · p4 · p1 (p2 · p3 · p5 · p6 백반 한 상)"
+  },
+  {
+   "id": "H068",
+   "hanja": "沙參",
+   "reading": "사삼",
+   "cue": "사자 갈기 단 삼 인형",
+   "draw_en": "A little ginseng-root doll with a big fluffy lion's mane around its face, roaring proudly.",
+   "decode": "사자 + 삼 인형(參 가족) → 사삼",
+   "type": 4,
+   "carriers": [
+    "사자",
+    "삼 인형(가족)"
+   ],
+   "score": 24,
+   "from": "계획서 안 · p1 · p3 · p4 · p5 · p6"
+  },
+  {
+   "id": "H091",
+   "hanja": "烏梅",
+   "reading": "오매",
+   "cue": "신맛에 「오매!」 볼 감싼 검은 매실",
+   "draw_en": "A wrinkled black smoked plum with a shocked face, eyes squeezed shut and both hands clutching its cheeks as if from extreme sourness; no speech bubble or letters.",
+   "decode": "오매(감탄사) → 오매 · 매실이 매를 한 번 더 짚음",
+   "type": 1,
+   "carriers": [
+    "오매",
+    "매실"
+   ],
+   "score": 22,
+   "from": "계획서 안 · p2 (p1 · p3 · p4 · p5 · p6 같은 단서)"
+  },
+  {
+   "id": "H095",
+   "hanja": "白殭蠶",
+   "reading": "백강잠",
+   "cue": "팔 뻗고 선 채 잠든 하얀 강시 누에",
+   "draw_en": "A plump white silkworm dressed as a Chinese hopping vampire (jiangshi) with the official's hat, both little arms stretched stiffly forward, eyes closed asleep with a snot bubble at its nose; no talisman paper, no Z letters.",
+   "decode": "흰(백) + 강시 + 잠 → 백강잠",
+   "type": 4,
+   "carriers": [
+    "강시",
+    "잠"
+   ],
+   "score": 24,
+   "from": "Gemini 원안 · p1 · p2 · p4 · p5 · p6"
+  },
+  {
+   "id": "H096",
+   "hanja": "黨參",
+   "reading": "당삼",
+   "cue": "당구 큐대 든 삼 인형",
+   "draw_en": "A little ginseng-root doll leaning over to line up a shot with a billiard cue stick against one plain unnumbered billiard ball.",
+   "decode": "당구 + 삼 인형(參 가족) → 당삼",
+   "type": 4,
+   "carriers": [
+    "당구",
+    "삼 인형(가족)"
+   ],
+   "score": 23,
+   "from": "p2 · p3 · p4 · p6 · 다른 모델 안"
+  },
+  {
+   "id": "H098",
+   "hanja": "狗脊",
+   "reading": "구척",
+   "cue": "천장에 머리 닿는 구척장신 거인 개",
+   "draw_en": "An absurdly tall, lanky dog standing on its hind legs with a ramrod-straight spine, its head bumping against a ceiling beam.",
+   "decode": "구척(장신) → 구척",
+   "type": 2,
+   "carriers": [
+    "구척장신"
+   ],
+   "score": 22,
+   "from": "계획서 안 · p2 (p1 · p4 · p5 · p6 같은 계열)"
+  },
+  {
+   "id": "H102",
+   "hanja": "骨碎補",
+   "reading": "골쇄보",
+   "cue": "쇠 보조기를 찬 부러진 뼈다귀",
+   "draw_en": "A cartoon bone snapped in the middle and held together by a metal orthopedic brace with screws, wincing.",
+   "decode": "골(절) + 쇠 ≈ 쇄 + 보(조기) → 골쇄보",
+   "type": 4,
+   "carriers": [
+    "골절",
+    "쇠",
+    "보조기"
+   ],
+   "score": 21,
+   "from": "p2"
+  },
+  {
+   "id": "H106",
+   "hanja": "杜仲",
+   "reading": "두충",
+   "cue": "충전기 꽂고 충전 중인 두꺼비",
+   "draw_en": "A fat warty toad sitting contentedly with a phone charging cable plugged into its back and a small lightning-bolt glow; no battery numbers.",
+   "decode": "두(꺼비) + 충(전) → 두충",
+   "type": 4,
+   "carriers": [
+    "두꺼비",
+    "충전기"
+   ],
+   "score": 24,
+   "from": "p2 · p5 (두꺼비는 Gemini 원안)"
+  },
+  {
+   "id": "H107",
+   "hanja": "巴戟天",
+   "reading": "파극천",
+   "cue": "극장 천장을 뚫고 솟은 대파",
+   "draw_en": "A small theater building with red stage curtains at its open front, and a giant green leek bursting up through its roof with bits of ceiling flying; no sign or lettering.",
+   "decode": "(대)파 + 극(장) + 천(장) → 파극천",
+   "type": 4,
+   "carriers": [
+    "대파",
+    "극장",
+    "천장"
+   ],
+   "score": 21,
+   "from": "p2 · 다른 모델 안"
+  },
+  {
+   "id": "H108",
+   "hanja": "補骨脂",
+   "reading": "보골지",
+   "cue": "해골 찍힌 보물지도",
+   "draw_en": "An old unrolled pirate treasure map with a dotted path, an X mark and a small skull symbol drawn on it; no writing.",
+   "decode": "보(물) + 해골 + 지(도) → 보골지",
+   "type": 4,
+   "carriers": [
+    "보물지도",
+    "해골"
+   ],
+   "score": 22,
+   "from": "p2 · p4"
+  },
+  {
+   "id": "H118",
+   "hanja": "黃芪",
+   "reading": "황기",
+   "cue": "깃대 꼭대기까지 솟구친 노란 깃발",
+   "draw_en": "A bright yellow flag that has shot all the way up to the very top of its flagpole, flapping vigorously upward; plain cloth, no gold bar, no emblem.",
+   "decode": "노란(黃 가족) + 깃(발) → 황기",
+   "type": 2,
+   "carriers": [
+    "깃발"
+   ],
+   "score": 21,
+   "from": "p4 (p2 · p3 · p5 · p6 계열 · Gemini 원안에서 황금을 뺌)"
+  },
+  {
+   "id": "H120",
+   "hanja": "蛤蚧",
+   "reading": "합개",
+   "cue": "찬합을 메고 가는 개미",
+   "draw_en": "A single ant marching along carrying on its back a stacked Korean lacquered lunch box (chanhap) far bigger than itself.",
+   "decode": "(찬)합 + 개(미) → 합개",
+   "type": 4,
+   "carriers": [
+    "찬합",
+    "개미"
+   ],
+   "score": 23,
+   "from": "p4"
+  },
+  {
+   "id": "H122",
+   "hanja": "石決明",
+   "reading": "석결명",
+   "cue": "석쇠 위에서 안경 쓴 전복",
+   "draw_en": "An abalone in its shiny iridescent shell wearing round eyeglasses while sitting on a metal grill grate.",
+   "decode": "석(쇠) + 안경 = 明目 뜻 고리 · 전복 = 실물 → 석결명 (결은 비어 있음)",
+   "type": 4,
+   "carriers": [
+    "석쇠"
+   ],
+   "score": 18,
+   "from": "p1 · p4"
+  },
+  {
+   "id": "H129",
+   "hanja": "熟地黃",
+   "reading": "숙지황",
+   "cue": "숙제 노트 펼친 검은 지하 황제",
+   "draw_en": "A black-skinned emperor in robes and crown sitting in an underground burrow, earnestly doing homework in an open notebook with a pencil.",
+   "decode": "숙(제) + 지하 황제(地黃 가족) → 숙지황",
+   "type": 4,
+   "carriers": [
+    "숙제",
+    "지하 황제(가족)"
+   ],
+   "score": 23,
+   "from": "계획서 안 · p2 (p1 · p3 · p4 · p5 · p6 같은 단서)"
+  },
+  {
+   "id": "H130",
+   "hanja": "黃精",
+   "reading": "황정",
+   "cue": "단추가 튕겨 나가는 꽉 낀 노란 정장 마네킹",
+   "draw_en": "A dress-form mannequin squeezed into a far-too-tight bright yellow business suit, its buttons popping off.",
+   "decode": "노란(黃 가족) + 정(장) → 황정",
+   "type": 2,
+   "carriers": [
+    "정장"
+   ],
+   "score": 21,
+   "from": "p2 (p3 · p5 · 다른 모델 안 계열)"
+  },
+  {
+   "id": "H131",
+   "hanja": "桑螵蛸",
+   "reading": "상표초",
+   "cue": "상표 택 달린 초록 사마귀",
+   "draw_en": "A bright green praying mantis with a blank price tag hanging on a string from its foreleg; the tag is left blank.",
+   "decode": "상표 + 초(록) → 상표초 · 사마귀 = 螵蛸 실물 고리",
+   "type": 4,
+   "carriers": [
+    "상표",
+    "초록"
+   ],
+   "score": 23,
+   "from": "p1 · p2"
+  },
+  {
+   "id": "H134",
+   "hanja": "珍珠",
+   "reading": "진주",
+   "cue": "영롱한 진주알",
+   "draw_en": "One large lustrous pearl gleaming with soft rainbow highlights.",
+   "decode": "진주 → 진주",
+   "type": 1,
+   "carriers": [
+    "진주"
+   ],
+   "score": 23,
+   "from": "Gemini 원안 · p1 · p2 · p4 · p6"
+  },
+  {
+   "id": "H136",
+   "hanja": "白扁豆",
+   "reading": "백편두",
+   "cue": "흰 붕대로 머리 싸맨 편두통 콩",
+   "draw_en": "A flat white bean with a white bandage wrapped around its head, pressing one hand to its temple with a pained grimace.",
+   "decode": "흰(백) + 편두(통) → 백편두",
+   "type": 2,
+   "carriers": [
+    "편두통"
+   ],
+   "score": 23,
+   "from": "계획서 안 · p1 · p2 · p3 · p4 · p5 · p6"
+  }
+ ],
+ "conflict_risk": [
+  "극장: 大戟(B2) 「대극장」과 둘째 사용 · 戟을 함께 가진 大戟 ↔ 巴戟天이 섞일 수 있음 — 巴戟天은 대파로 가름",
+  "대파: 葱白(B1) 「대파 총 든 백구」와 둘째 사용",
+  "해골: 地骨皮(B2) 「땅속 해골 가죽방패」와 둘째 사용",
+  "지도: 遠志(B4) 「망원경 든 지도 소년」과 둘째 사용(補骨脂 보물지도)",
+  "적십자 · 붉은 십자: 白及(B3) 「백구 구급상자」에 십자를 그리면 赤石脂와 겹침",
+  "석쇠: 다른 묶음이 석쇠를 쓰면 둘째. 묶음 안 骨碎補 「쇠 보조기」와 형태소 쇠 공유(내는 음절은 쇄 · 석으로 다름)",
+  "개 그림 과밀: 荊芥 · 黃狗腎 · 葱白 백구 · 白及 백구 + 狗脊(운반은 구척장신). 蛤蚧는 개미로 뺌",
+  "초록: 莪朮 고정 「초록 아기 배추」의 색과 같은 낱말(莪朮 쪽은 운반 낱말 아님)",
+  "사자 · 사슴: 沙參 사자. 뒤에 鹿茸 · 鹿角을 올리면 사슴은 그쪽에 남겨 둠",
+  "黃 가족: 黃芪 노란 깃발 · 黃精 노란 정장 — 다른 묶음 黃 약도 물건으로 갈려야 함. 雄黃에 「황새」를 쓰면 黃精 후보였던 황새와는 무관(채택 안 함)",
+  "生地黃: 熟地黃 「숙제」에 맞춰 「생선 든 지하 황제」로 짝을 맞춰야 함",
+  "감: 甘遂 · 爐甘石가 이미 감 두 번이라 甘草는 감을 운반하지 않음(약방의 감초 통째)"
+ ],
+ "needs_user_ok": [
+  {
+   "id": "H118",
+   "why": "부록 B-5 원안 유지 목록(황기). 원안 「노란 황금 깃발」의 「황금」이 고정 19종 黃芩 「황금괴」의 운반 낱말이라 낙제 → 「황금」을 빼고 깃대 꼭대기까지 솟은 노란 깃발로(깃발은 원안 그대로)"
+  }
+ ],
+ "check_needed": [
+  "H122 石決明: 여섯 안 모두 「결」 음절을 못 냄. 석(석쇠) + 明(안경, 뜻 고리)뿐. 決明子와 섞이지 않게 결명을 비운 것 — 18점으로 묶음 최저, 다음 회차 후보",
+  "H018 白朮: 탈출하는 하얀 배추(p3 · p4, 21점)가 원안(20점)보다 1점 높았으나 B-5 유지와 朮 가족 일관성으로 원안. 사용자가 원하면 탈출 동작으로 바꿀 수 있음",
+  "H035 赤石脂: 적십자는 소리가 가까운 낱말(적-십-자 ≈ 적-석-지). 사용자가 적십자 → 적석지를 받아들이는지, 白及 그림과 십자가 겹치지 않는지",
+  "H107 巴戟天: B2 大戟 최종 단서가 대극장으로 남으면 극장 혼동을 그림 검수에서 확인",
+  "H096 黨參: 당구공에 숫자를 그리지 않게(숫자 부호와 충돌)",
+  "H129 熟地黃: 지하 황제가 오장 인물 「임금」(心)과 닮지 않게 그림 확인",
+  "B5/p1.json 머리의 \"p\":3은 오기로 보고 파일 이름(p1)대로 처리"
+ ]
+}

@@ -1,0 +1,305 @@
+{
+ "batch": "B6",
+ "items": [
+  {
+   "id": "H003",
+   "hanja": "人參",
+   "reading": "인삼",
+   "cue": "왕관 쓴 인삼 뿌리 인형",
+   "draw_en": "a small ginseng-root doll with forked root legs and tiny root arms, wearing a little golden crown and standing proudly",
+   "decode": "인삼 → 인삼",
+   "type": 6,
+   "carriers": [
+    "인삼"
+   ],
+   "score": 23,
+   "from": "Gemini 원안 · p1 · p2 · p4 · p5 · p6"
+  },
+  {
+   "id": "H033",
+   "hanja": "藜蘆",
+   "reading": "여로",
+   "cue": "화로를 끌어안고 토하는 여우",
+   "draw_en": "a queasy red fox with a single bushy tail hugging a small round iron charcoal brazier while throwing up a green splash",
+   "decode": "여우 + 화로 → 여로",
+   "type": 4,
+   "carriers": [
+    "여우",
+    "화로"
+   ],
+   "score": 23,
+   "from": "p1 · p3 · p5 (Gemini 원안 낱말 유지)"
+  },
+  {
+   "id": "H048",
+   "hanja": "硫黃",
+   "reading": "유황",
+   "cue": "썩은 냄새 김 뿜는 노란 유황 바위",
+   "draw_en": "a lumpy bright yellow sulfur rock giving off wavy greenish stink fumes",
+   "decode": "유황 → 유황",
+   "type": 1,
+   "carriers": [
+    "유황"
+   ],
+   "score": 24,
+   "from": "p1 · p3 · p4 · p5 (계획서 「그대로 좋음」)"
+  },
+  {
+   "id": "H071",
+   "hanja": "朴硝",
+   "reading": "박초",
+   "cue": "양초 쥐고 거꾸로 매달린 박쥐",
+   "draw_en": "a brown bat hanging upside down by its feet, clutching a lit white candle in its wings",
+   "decode": "박쥐 + 양초 → 박초",
+   "type": 4,
+   "carriers": [
+    "박쥐",
+    "양초(硝 가족)"
+   ],
+   "score": 23,
+   "from": "p1 · p4"
+  },
+  {
+   "id": "H072",
+   "hanja": "牙硝",
+   "reading": "아초",
+   "cue": "아이스크림 콘에 꽂혀 녹는 양초",
+   "draw_en": "a waffle ice cream cone with a melting scoop and a lit white candle stuck into the top, drips running down the cone",
+   "decode": "아이스크림 + 양초 → 아초",
+   "type": 4,
+   "carriers": [
+    "아이스크림",
+    "양초(硝 가족)"
+   ],
+   "score": 23,
+   "from": "p1 · p4 · p5"
+  },
+  {
+   "id": "H073",
+   "hanja": "水銀",
+   "reading": "수은",
+   "cue": "깨진 체온계에서 도망치는 수은 방울",
+   "draw_en": "a broken glass thermometer with blank tick marks only, shiny silver mercury droplets with tiny legs running away from the crack",
+   "decode": "수은 → 수은",
+   "type": 1,
+   "carriers": [
+    "수은"
+   ],
+   "score": 25,
+   "from": "p3 (p1 · p2 · p4 · p5 같은 뼈대)"
+  },
+  {
+   "id": "H074",
+   "hanja": "砒霜",
+   "reading": "비상",
+   "cue": "따르릉 울리는 빨간 비상벨",
+   "draw_en": "a round red emergency alarm bell ringing hard with shaking vibration lines",
+   "decode": "비상벨 → 비상",
+   "type": 2,
+   "carriers": [
+    "비상벨"
+   ],
+   "score": 23,
+   "from": "계획서 안 · p1 · p4 · p5 · p6"
+  },
+  {
+   "id": "H075",
+   "hanja": "狼毒",
+   "reading": "낭독",
+   "cue": "책을 펼쳐 낭독하는 늑대",
+   "draw_en": "a gray wolf standing upright holding a plain open book and reading aloud, sound lines coming from its open mouth",
+   "decode": "낭독 → 낭독 (늑대 = 狼)",
+   "type": 1,
+   "carriers": [
+    "낭독"
+   ],
+   "score": 25,
+   "from": "계획서 안 · p1~p6 공통"
+  },
+  {
+   "id": "H076",
+   "hanja": "密陀僧",
+   "reading": "밀타승",
+   "cue": "낙타를 밀어 태우는 승려",
+   "draw_en": "a bald Buddhist monk in gray robes pushing a stubborn camel from behind with both hands",
+   "decode": "밀(다) + 낙타 + 승려 → 밀타승",
+   "type": 4,
+   "carriers": [
+    "밀다",
+    "낙타",
+    "승려"
+   ],
+   "score": 22,
+   "from": "p1 (계획서 밀 · 타 · 승 뼈대)"
+  },
+  {
+   "id": "H090",
+   "hanja": "川椒",
+   "reading": "천초",
+   "cue": "천둥 구름이 초고추장 통을 쥐어짬",
+   "draw_en": "a dark thundercloud with a lightning bolt squeezing a plain red squeeze bottle of spicy sauce, red sauce spurting out",
+   "decode": "천둥 + 초고추장 → 천초",
+   "type": 4,
+   "carriers": [
+    "천둥",
+    "초고추장"
+   ],
+   "score": 23,
+   "from": "p4"
+  },
+  {
+   "id": "H097",
+   "hanja": "斑蝥",
+   "reading": "반묘",
+   "cue": "외발 물구나무 묘기하는 반점 딱정벌레",
+   "draw_en": "a black beetle with bright yellow-red spots doing a one-legged handstand trick",
+   "decode": "반점 + 묘기 → 반묘",
+   "type": 4,
+   "carriers": [
+    "반점",
+    "묘기"
+   ],
+   "score": 23,
+   "from": "p4"
+  },
+  {
+   "id": "H103",
+   "hanja": "象皮",
+   "reading": "상피",
+   "cue": "상아 대신 피리 두 개가 난 코끼리",
+   "draw_en": "an elephant whose two tusks are two wooden flutes instead of ivory",
+   "decode": "상아 + 피리 → 상피",
+   "type": 4,
+   "carriers": [
+    "상아",
+    "피리"
+   ],
+   "score": 23,
+   "from": "p2"
+  },
+  {
+   "id": "H104",
+   "hanja": "黃狗腎",
+   "reading": "황구신",
+   "cue": "네 발에 신발 신은 누렁개(황구)",
+   "draw_en": "a yellow Korean village dog wearing a shoe on each of its four paws",
+   "decode": "황구 + 신(발) → 황구신",
+   "type": 4,
+   "carriers": [
+    "황구",
+    "신발"
+   ],
+   "score": 21,
+   "from": "p1 · p5 (p3 · p4 비슷)"
+  },
+  {
+   "id": "H110",
+   "hanja": "橘核",
+   "reading": "귤핵",
+   "cue": "핵폭탄 씨를 품은 주황 귤",
+   "draw_en": "an orange mandarin cut in half, its seed is a small finned nuclear bomb with a tiny mushroom-cloud puff",
+   "decode": "귤 + 핵폭탄 → 귤핵",
+   "type": 4,
+   "carriers": [
+    "귤",
+    "핵폭탄"
+   ],
+   "score": 23,
+   "from": "Gemini 원안 · p1 · p6"
+  },
+  {
+   "id": "H121",
+   "hanja": "豹骨",
+   "reading": "표골",
+   "cue": "골키퍼 장갑 끼고 몸 날린 표범",
+   "draw_en": "a spotted leopard wearing big goalkeeper gloves, diving sideways in midair",
+   "decode": "표범 + 골키퍼 → 표골",
+   "type": 4,
+   "carriers": [
+    "표범",
+    "골키퍼"
+   ],
+   "score": 22,
+   "from": "p1 · p2 · p4"
+  },
+  {
+   "id": "H126",
+   "hanja": "爐甘石",
+   "reading": "노감석",
+   "cue": "돌로 만든 배에서 노를 젓는 주황 단감",
+   "draw_en": "A cheerful round orange persimmon with a small face sits in a little boat carved from grey stone and rows it with a wooden oar; plain white background, no text.",
+   "decode": "노(爐) + 감(甘) + 석(石, 돌배) → 노감석",
+   "type": 4,
+   "carriers": [
+    "노",
+    "단감",
+    "돌배"
+   ],
+   "score": 19,
+   "from": "계획서 안(노 젓는 감 · 돌배). 심사 안 「감자」는 의학사 醫宗金鑑 「금감자」와 겹쳐 본체가 바꿈(기본값 적용)"
+  },
+  {
+   "id": "H127",
+   "hanja": "血餘炭",
+   "reading": "혈여탄",
+   "cue": "혈압계를 팔에 찬 장발 연탄",
+   "draw_en": "a black round coal briquette with holes, long flowing hair and little arms, a blood pressure cuff with a blank dial wrapped on its arm",
+   "decode": "혈압계 + 연탄 → 혈(여)탄, 장발 = 血餘",
+   "type": 4,
+   "carriers": [
+    "혈압계",
+    "연탄"
+   ],
+   "score": 23,
+   "from": "p2"
+  },
+  {
+   "id": "H141",
+   "hanja": "桃花",
+   "reading": "도화",
+   "cue": "이젤 위 도화지에 핀 복숭아꽃",
+   "draw_en": "a sheet of drawing paper on a small wooden easel with pink peach blossoms bursting out of the paper in 3D",
+   "decode": "도화지 → 도화",
+   "type": 2,
+   "carriers": [
+    "도화지"
+   ],
+   "score": 23,
+   "from": "p5 (p1 · p2 도화지)"
+  },
+  {
+   "id": "H147",
+   "hanja": "雄黃",
+   "reading": "웅황",
+   "cue": "노란 웅덩이에서 뱀이 튀어 도망",
+   "draw_en": "a bright yellow puddle with a startled green snake leaping out of it and fleeing",
+   "decode": "웅덩이 + 노랑(黃 가족) → 웅황",
+   "type": 4,
+   "carriers": [
+    "웅덩이"
+   ],
+   "score": 23,
+   "from": "p3 (p2 웅덩이)"
+  }
+ ],
+ "conflict_risk": [
+  "양초: 硝 가족 전용(朴硝 · 牙硝, 芒硝). B5 甘草(단감+양초) · 桑螵蛸(상표+양초) 표 후보가 양초를 쓰면 가족과 섞인다",
+  "감자: 爐甘石. B5 甘草 p1(초콜릿 입힌 감자) · B2 甘遂 p3(수갑 찬 감자)가 감자를 고르면 둘째·셋째가 된다",
+  "핵폭탄: 橘核(B-5 유지)과 B3 荔枝核 → 사전 두 번(상한). 다른 약은 쓰면 안 됨. B2 巴豆 폭탄과 그림 겹침 주의",
+  "피리: 象皮. B1 牡丹皮 p2 · B2 H060 p5 · B3 陳皮 p2 후보가 피리를 씀",
+  "골키퍼 · 골대: 豹骨. B5 骨碎補 p4(골키퍼) · B4 龍骨 p3(골대)",
+  "왕관(소품): 人參(B-5). B2 大黃 후보 넷이 왕관 황소, B4 款冬花는 왕관이 운반 낱말(관)",
+  "천둥: 川椒. 천막은 B3 川烏 후보가 쓰므로 B6에서 피함",
+  "석쇠: B6는 쓰지 않음(爐甘石 2위안). B5 石決明 · 赤石脂 후보가 씀",
+  "개 피규어: 黃狗腎 누렁개. 狗脊 · 葱白 · 白及 · 荊芥 · 蛤蚧도 개라 색 · 소품으로 갈라야 함",
+  "도화지(桃花) ↔ 白芷 하얀 백지 두루마리: 종이끼리"
+ ],
+ "needs_user_ok": [],
+ "check_needed": [
+  "雄黃: 뱀이 달아나는 그림의 근거(殺蟲 · 蛇傷 解毒, 雄黃酒)를 교재 효능 줄에서 확인",
+  "川椒: 초고추장의 고추(Capsicum)는 椒(산초류)와 다른 식물 — 학습층에 '椒 = 산초/초피, 고추는 소리 · 매움 단서일 뿐'을 적을 것",
+  "斑蝥: 독음 반묘는 P0 사실 7로 확정. 원문 표기 斑猫 alias 유지",
+  "水銀 체온계 · 血餘炭 혈압계 눈금에 숫자를 그리지 않게 확인",
+  "芒硝가 사전에 들어오면 양초 가족 셋째(망치 든 양초 등)로 B6 두 피규어와 갈리는지 확인"
+ ]
+}

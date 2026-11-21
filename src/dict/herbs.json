@@ -1,0 +1,4037 @@
+[
+ {
+  "id": "herb.半夏",
+  "hid": "H001",
+  "hanja": "半夏",
+  "reading": "반하",
+  "cue": "반바지 하마 — 원안: 반바지 하마",
+  "draw_en": "",
+  "decode": "",
+  "type": "",
+  "carriers": [
+   "반바지 하마"
+  ],
+  "score": "",
+  "status": "fixed",
+  "run": "보존 목록",
+  "from": "보존 목록(계획서 8절)",
+  "category": [
+   "化痰止咳平喘藥 · 1) 溫化寒痰藥 (3595행)"
+  ],
+  "tb_lines": [
+   3487,
+   3492,
+   3494,
+   3495,
+   3500,
+   3503,
+   3506,
+   3511
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.甘草",
+  "hid": "H002",
+  "hanja": "甘草",
+  "reading": "감초",
+  "cue": "약방의 감초 — 약장 서랍마다 얼굴 내민 노란 감초 뿌리",
+  "draw_en": "A small wooden Korean herbal medicine cabinet with many little drawers, and from every open drawer the same cheerful yellow licorice root pokes out its smiling face; no labels or writing anywhere.",
+  "decode": "약방의 감초 → 감초",
+  "type": 1,
+  "carriers": [
+   "약방의 감초"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p2 · p4",
+  "category": [
+   "補益藥 · 1) 補氣藥 (3604행)"
+  ],
+  "tb_lines": [
+   3440,
+   3471,
+   3472,
+   3473,
+   3491,
+   3496,
+   3500,
+   3511
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.人參",
+  "hid": "H003",
+  "hanja": "人參",
+  "reading": "인삼",
+  "cue": "왕관 쓴 인삼 뿌리 인형",
+  "draw_en": "a small ginseng-root doll with forked root legs and tiny root arms, wearing a little golden crown and standing proudly",
+  "decode": "인삼 → 인삼",
+  "type": 6,
+  "carriers": [
+   "인삼"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "Gemini 원안 · p1 · p2 · p4 · p5 · p6",
+  "category": [],
+  "tb_lines": [
+   3472,
+   3491,
+   3493,
+   3500
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.川芎",
+  "hid": "H004",
+  "hanja": "川芎",
+  "reading": "천궁",
+  "cue": "천사 궁수 — 원안: 천사 궁수",
+  "draw_en": "",
+  "decode": "",
+  "type": "",
+  "carriers": [
+   "천사 궁수"
+  ],
+  "score": "",
+  "status": "fixed",
+  "run": "보존 목록",
+  "from": "보존 목록(계획서 8절)",
+  "category": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_lines": [
+   3430,
+   3442,
+   3454,
+   3471,
+   3486,
+   3487,
+   3491,
+   3493
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.柴胡",
+  "hid": "H005",
+  "hanja": "柴胡",
+  "reading": "시호",
+  "cue": "몸통이 자명종(숫자 없이 눈금만 있는 시계판)이고 수염이 시곗바늘인 호랑이",
+  "draw_en": "",
+  "decode": "시계의 시 + 호랑이의 호 → 시호",
+  "type": "두 낱말 잇기",
+  "carriers": [
+   "시계",
+   "호랑이"
+  ],
+  "score": "",
+  "status": "fixed",
+  "run": "20261121-p2-cho",
+  "from": "P2 Run 2 확정(사용자 결정 11-21)",
+  "category": [
+   "解表藥 · 2) 發散風熱藥 (3563행)"
+  ],
+  "tb_lines": [
+   1712,
+   2855,
+   2856,
+   3432,
+   3452,
+   3485,
+   3486,
+   3491
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.黃連",
+  "hid": "H006",
+  "hanja": "黃連",
+  "reading": "황련",
+  "cue": "쓴맛에 혀를 내밀고 찡그린 노란 연꽃",
+  "draw_en": "a yellow lotus flower with a cartoon face, scrunching its eyes and sticking its tongue out at a bitter taste, floating on a small lily pad",
+  "decode": "노랑(黃 색 부호) → 황 · 연꽃 → 련",
+  "type": 2,
+  "carriers": [
+   "연꽃"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p3 · p4",
+  "category": [
+   "淸熱藥 · 2) 淸熱燥濕藥 (3567행)"
+  ],
+  "tb_lines": [
+   2855,
+   2856,
+   3434,
+   3439,
+   3473,
+   3484,
+   3493,
+   3496
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.大黃",
+  "hid": "H007",
+  "hanja": "大黃",
+  "reading": "대황",
+  "cue": "왕좌에 버티고 앉은 거대한 누런 대왕 황소(왕관 없음)",
+  "draw_en": "A huge yellow bull sitting smugly on a big red-and-gold royal throne like a great king, no crown, single white-background sticker, no text.",
+  "decode": "대왕 ≈ 대황 + 황소의 황 → 대황",
+  "type": 3,
+  "carriers": [
+   "대왕",
+   "황소"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1 · Gemini 원안 운반 유지",
+  "category": [
+   "瀉下藥 · 1) 攻下藥 (3572행)"
+  ],
+  "tb_lines": [
+   3434,
+   3439,
+   3458,
+   3492,
+   3503,
+   3511,
+   3542,
+   3552
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.附子",
+  "hid": "H008",
+  "hanja": "附子",
+  "reading": "부자",
+  "cue": "머리카락이 활활 타는 불꽃인 부자 도련님(나비넥타이, 실크햇 · 돈 없음)",
+  "draw_en": "A smug rich young boy in a shiny tuxedo with a bow tie whose hair is a blazing fire, no top hat, no money, no gold ring, no text.",
+  "decode": "부자 → 附子 (부자 가족, 불꽃 = 大熱)",
+  "type": 1,
+  "carriers": [
+   "부자"
+  ],
+  "score": 24,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "Gemini 원안 · p1 · p2 · p4 · p5 · p6",
+  "category": [
+   "溫裏藥 (3581행)"
+  ],
+  "tb_lines": [
+   2908,
+   3431,
+   3442,
+   3458,
+   3485,
+   3492,
+   3495,
+   3503
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.細辛",
+  "hid": "H009",
+  "hanja": "細辛",
+  "reading": "세신",
+  "cue": "목욕탕 세신사 — 때수건 낀 손을 흔듦",
+  "draw_en": "a cheerful Korean bathhouse scrubber in shorts and a towel headband, waving one hand that wears a green exfoliating scrub mitt",
+  "decode": "세신사 → 세신",
+  "type": 1,
+  "carriers": [
+   "세신사"
+  ],
+  "score": 24,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p1 · p2 · p4 · p5 · p6",
+  "category": [
+   "解表藥 · 1) 發散風寒藥 (3563행)"
+  ],
+  "tb_lines": [
+   3471,
+   3484,
+   3487,
+   3494,
+   3500,
+   3563
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.白芍藥",
+  "hid": "H010",
+  "hanja": "白芍藥",
+  "reading": "백작약",
+  "cue": "백작 약사 — 원안: 하얀 백작 약사",
+  "draw_en": "",
+  "decode": "",
+  "type": "",
+  "carriers": [
+   "백작 약사"
+  ],
+  "score": "",
+  "status": "fixed",
+  "run": "보존 목록",
+  "from": "보존 목록(계획서 8절)",
+  "category": [
+   "補益藥 · 3) 補血藥 (3606행)"
+  ],
+  "tb_lines": [
+   3438,
+   3474,
+   3481,
+   3493,
+   3606,
+   3609
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.麻黃",
+  "hid": "H011",
+  "hanja": "麻黃",
+  "reading": "마황",
+  "cue": "땀 뻘뻘 흘리며 노란 망토를 벗는 뿔 달린 마왕",
+  "draw_en": "a horned cartoon demon king dripping with sweat, pulling off his bright yellow cape",
+  "decode": "마왕 ≈ 마황 · 노랑 = 黃 · 땀 = 發汗",
+  "type": 3,
+  "carriers": [
+   "마왕"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p3 (뿔: p4 · p5)",
+  "category": [
+   "解表藥 · 1) 發散風寒藥 (3563행)"
+  ],
+  "tb_lines": [
+   1712,
+   3430,
+   3442,
+   3458,
+   3462,
+   3506,
+   3518,
+   3546
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.知母",
+  "hid": "H012",
+  "hanja": "知母",
+  "reading": "지모",
+  "cue": "꼭대기에 커다란 지우개가 달린 모자",
+  "draw_en": "a soft cap with a big pink pencil eraser stuck on its top like a pompom",
+  "decode": "지우개 → 지 · 모자 → 모",
+  "type": 4,
+  "carriers": [
+   "지우개",
+   "모자"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p1 · p2 · p4 · p5 · p6",
+  "category": [
+   "淸熱藥 · 1) 淸熱瀉火藥 (3566행)"
+  ],
+  "tb_lines": [
+   2855,
+   2856,
+   3434,
+   3439,
+   3475,
+   3484,
+   3491,
+   3544
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.靑皮",
+  "hid": "H013",
+  "hanja": "靑皮",
+  "reading": "청피",
+  "cue": "청피망이 복면처럼 얼굴을 감싼 사람(재채기하면 씨가 튐)",
+  "draw_en": "",
+  "decode": "청피망 → 청피",
+  "type": "낱말 속 연속 포함",
+  "carriers": [
+   "피망"
+  ],
+  "score": "",
+  "status": "fixed",
+  "run": "20261121-p2-cho",
+  "from": "P2 Run 2 확정(사용자 결정 11-21)",
+  "category": [
+   "理氣藥 (3583행)"
+  ],
+  "tb_lines": [
+   3485,
+   3486,
+   3507,
+   3543,
+   3583,
+   3620
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.吳茱萸",
+  "hid": "H014",
+  "hanja": "吳茱萸",
+  "reading": "오수유",
+  "cue": "청둥오리가 갈색 새끼 오리에게 젖병으로 수유",
+  "draw_en": "A green-headed mallard duck (not white, not bowing) holding a baby bottle in its wing and feeding a small brown striped duckling, no text.",
+  "decode": "오리 + 수유 → 오수유",
+  "type": 4,
+  "carriers": [
+   "오리",
+   "수유"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "Gemini 원안 · p1 · p3 · p6 (청둥 = p3 · p4 · p5)",
+  "category": [
+   "溫裏藥 (3581행)"
+  ],
+  "tb_lines": [
+   3430,
+   3486,
+   3487,
+   3506,
+   3581,
+   3756
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.黃柏",
+  "hid": "H015",
+  "hanja": "黃柏",
+  "reading": "황백",
+  "cue": "노랑 · 하양 두 장이 포개진 황백지단(고명 달걀부침)",
+  "draw_en": "two thin round egg crepes stacked slightly offset, one bright yellow (yolk) and one pure white (egg white), with a few thin cut strips beside them",
+  "decode": "황백지단 → 황백",
+  "type": 2,
+  "carriers": [
+   "황백지단"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1",
+  "category": [
+   "淸熱藥 · 2) 淸熱燥濕藥 (3567행)"
+  ],
+  "tb_lines": [
+   2856,
+   3434,
+   3439,
+   3475,
+   3482,
+   3491,
+   3544,
+   3567
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.枳實",
+  "hid": "H016",
+  "hanja": "枳實",
+  "reading": "지실",
+  "cue": "지퍼에서 끝없이 풀려 나오는 실",
+  "draw_en": "a large metal zipper being yanked open while an endless tangle of thread keeps spooling out from between its teeth",
+  "decode": "지퍼 → 지 + 실 → 지실",
+  "type": 4,
+  "carriers": [
+   "지퍼",
+   "실"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p1 · p2 · p4 · p5 · p6",
+  "category": [
+   "理氣藥 (3583행)"
+  ],
+  "tb_lines": [
+   3503,
+   3506,
+   3507,
+   3533,
+   3583,
+   3651,
+   3765
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.蒼朮",
+  "hid": "H017",
+  "hanja": "蒼朮",
+  "reading": "창출",
+  "cue": "외날 긴 창을 세워 든 짙은 초록 배추 전사",
+  "draw_en": "A dark green napa cabbage warrior standing upright and holding a long wooden spear with a single leaf-shaped blade (not a trident), no text.",
+  "decode": "창 + 배추(朮 가족) → 창출",
+  "type": 5,
+  "carriers": [
+   "창",
+   "배추"
+  ],
+  "score": 20,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "Gemini 원안 · p1 · p2 · p4 · p5 · p6 (외날 = p6)",
+  "category": [
+   "芳香化濕藥 (3577행)"
+  ],
+  "tb_lines": [
+   3430,
+   3439,
+   3481,
+   3533,
+   3577
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.白朮",
+  "hid": "H018",
+  "hanja": "白朮",
+  "reading": "백출",
+  "cue": "새하얀 배추 한 포기(원안 하얀 백배추)",
+  "draw_en": "One plump napa cabbage standing upright whose leaves are pure bright white, clearly white rather than green, simple and clean.",
+  "decode": "흰(백) + 배추(朮 가족) → 백출",
+  "type": 5,
+  "carriers": [
+   "배추(가족)"
+  ],
+  "score": 20,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "Gemini 원안 · p1 · p5 · p6",
+  "category": [
+   "補益藥 · 1) 補氣藥 (3604행)"
+  ],
+  "tb_lines": [
+   3430,
+   3473,
+   3533,
+   3536,
+   3604,
+   3609,
+   3639,
+   3756
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.山藥",
+  "hid": "H019",
+  "hanja": "山藥",
+  "reading": "산약",
+  "cue": "마 뿌리를 피켈처럼 치켜든 산악인",
+  "draw_en": "A mountaineer in a climbing helmet and backpack triumphantly raising a long knobby yam root as if it were an ice axe.",
+  "decode": "산악(인) ≈ 산약 · 마 = 山藥 실물",
+  "type": 3,
+  "carriers": [
+   "산악인"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1 · p4",
+  "category": [
+   "補益藥 · 1) 補氣藥 (3604행)"
+  ],
+  "tb_lines": [
+   3430,
+   3491,
+   3533,
+   3536,
+   3604
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.乾薑",
+  "hid": "H020",
+  "hanja": "乾薑",
+  "reading": "건강",
+  "cue": "청진기를 대고 건강검진 받으며 알통 자랑하는 마른 생강",
+  "draw_en": "a shriveled dried ginger root with bulging cartoon biceps flexing proudly while a doctor's stethoscope is pressed to its chest",
+  "decode": "건강검진 → 건강",
+  "type": 1,
+  "carriers": [
+   "건강(검진)"
+  ],
+  "score": 24,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p1 · p2 · p4 · p6 (Gemini 근육 생강)",
+  "category": [
+   "溫裏藥 (3581행)"
+  ],
+  "tb_lines": [
+   3431,
+   3493,
+   3503,
+   3531,
+   3581,
+   3756
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.肉桂",
+  "hid": "H021",
+  "hanja": "肉桂",
+  "reading": "육계",
+  "cue": "계피 막대가 젓가락처럼 꽂힌 육개장 한 그릇",
+  "draw_en": "a steaming bowl of spicy red Korean beef soup with several rolled cinnamon bark sticks standing upright in it like chopsticks",
+  "decode": "육개장 → 육개 ≈ 육계",
+  "type": 3,
+  "carriers": [
+   "육개장"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p2",
+  "category": [
+   "溫裏藥 (3581행)"
+  ],
+  "tb_lines": [
+   3431,
+   3442,
+   3484,
+   3500,
+   3503,
+   3581,
+   3756
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.當歸",
+  "hid": "H022",
+  "hanja": "當歸",
+  "reading": "당귀",
+  "cue": "당나귀 귀부인 — 원안: 당나귀 귀부인",
+  "draw_en": "",
+  "decode": "",
+  "type": "",
+  "carriers": [
+   "당나귀 귀부인"
+  ],
+  "score": "",
+  "status": "fixed",
+  "run": "보존 목록",
+  "from": "보존 목록(계획서 8절)",
+  "category": [
+   "補益藥 · 3) 補血藥 (3606행)"
+  ],
+  "tb_lines": [
+   3491,
+   3542,
+   3606,
+   3609,
+   3756,
+   3759
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.厚朴",
+  "hid": "H023",
+  "hanja": "厚朴",
+  "reading": "후박",
+  "cue": "후추 그라인더가 정수리에 꽂힌 둥근 박",
+  "draw_en": "A round white bottle gourd with a wooden pepper grinder stuck into its top, black pepper grains spilling down its sides, no text.",
+  "decode": "후(추) + 박 → 후박",
+  "type": 4,
+  "carriers": [
+   "후추",
+   "박"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p5 · p3 · p6",
+  "category": [
+   "芳香化濕藥 (3577행)"
+  ],
+  "tb_lines": [
+   3430,
+   3493,
+   3545,
+   3577
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.黃芩",
+  "hid": "H024",
+  "hanja": "黃芩",
+  "reading": "황금",
+  "cue": "황금괴 — 원안: 번쩍이는 황금괴",
+  "draw_en": "",
+  "decode": "",
+  "type": "",
+  "carriers": [
+   "황금괴"
+  ],
+  "score": "",
+  "status": "fixed",
+  "run": "보존 목록",
+  "from": "보존 목록(계획서 8절)",
+  "category": [
+   "淸熱藥 · 2) 淸熱燥濕藥 (3567행)"
+  ],
+  "tb_lines": [
+   3434,
+   3453,
+   3491,
+   3492,
+   3552,
+   3567,
+   3761
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.川烏",
+  "hid": "H025",
+  "hanja": "川烏",
+  "reading": "천오",
+  "cue": "천막 자락을 뒤집어쓰고 고개만 내민 까마귀",
+  "draw_en": "a black crow wearing a small canvas camping tent over its body like a shell, only its beaked head poking out of the tent flap",
+  "decode": "천막 → 천 + 까마귀(烏 가족) → 오",
+  "type": 4,
+  "carriers": [
+   "천막"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1 · p2",
+  "category": [
+   "溫裏藥 (3581행)"
+  ],
+  "tb_lines": [
+   3500,
+   3501,
+   3553,
+   3581
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.草烏",
+  "hid": "H026",
+  "hanja": "草烏",
+  "reading": "초오",
+  "cue": "풀을 뜯어 먹는 초록 까마귀(천 두르지 않음)",
+  "draw_en": "A bright grass-green crow pecking at and eating a tuft of grass, no cloth on it, no candle, no text.",
+  "decode": "초(록) + 까마귀(烏 가족) + 풀(草) → 초오",
+  "type": 5,
+  "carriers": [
+   "초록",
+   "까마귀"
+  ],
+  "score": 21,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1 · p3 (Gemini 풀숲)",
+  "category": [
+   "祛風濕藥 · 1) 祛風濕止痺痛藥 (3575행)"
+  ],
+  "tb_lines": [
+   3500,
+   3501,
+   3518,
+   3575,
+   3628
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.甘遂",
+  "hid": "H027",
+  "hanja": "甘遂",
+  "reading": "감수",
+  "cue": "감옥 쇠창살을 두 손으로 붙잡은 줄무늬 죄수",
+  "draw_en": "A prisoner in a black-and-white striped uniform gripping the iron bars of a small jail cell door with both hands, no fruit, no text.",
+  "decode": "감(옥) + (죄)수 → 감수",
+  "type": 4,
+  "carriers": [
+   "감옥",
+   "죄수"
+  ],
+  "score": 21,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p4 (Gemini 원안의 죄수 유지)",
+  "category": [
+   "瀉下藥 · 3) 峻下逐水藥 (3572행)"
+  ],
+  "tb_lines": [
+   3496,
+   3500,
+   3501,
+   3511,
+   3543,
+   3572,
+   3754
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.大戟",
+  "hid": "H028",
+  "hanja": "大戟",
+  "reading": "대극",
+  "cue": "붉은 막이 걷힌 대극장 무대(간판 없음)",
+  "draw_en": "A grand theater stage front with gold columns and heavy red velvet curtains drawn open on an empty stage, no sign, no letters.",
+  "decode": "대극장 → 대극",
+  "type": 2,
+  "carriers": [
+   "대극장"
+  ],
+  "score": 21,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안(간판 뺌) · p1 · p2 · p4 · p5 · p6",
+  "category": [
+   "瀉下藥 · 3) 峻下逐水藥 (3572행)"
+  ],
+  "tb_lines": [
+   3496,
+   3500,
+   3501,
+   3543,
+   3572,
+   3754
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.芫花",
+  "hid": "H029",
+  "hanja": "芫花",
+  "reading": "원화",
+  "cue": "원화 지폐 — 원안: 원화 지폐 꽃",
+  "draw_en": "",
+  "decode": "",
+  "type": "",
+  "carriers": [
+   "원화 지폐"
+  ],
+  "score": "",
+  "status": "fixed",
+  "run": "보존 목록",
+  "from": "보존 목록(계획서 8절)",
+  "category": [
+   "瀉下藥 · 3) 峻下逐水藥 (3572행)"
+  ],
+  "tb_lines": [
+   3500,
+   3501,
+   3543,
+   3553,
+   3572,
+   3754
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.商陸",
+  "hid": "H030",
+  "hanja": "商陸",
+  "reading": "상륙",
+  "cue": "상륙정 상어 — 원안: 상륙정 탄 상어",
+  "draw_en": "",
+  "decode": "",
+  "type": "",
+  "carriers": [
+   "상륙정 상어"
+  ],
+  "score": "",
+  "status": "fixed",
+  "run": "보존 목록",
+  "from": "보존 목록(계획서 8절)",
+  "category": [
+   "瀉下藥 · 3) 峻下逐水藥 (3572행)"
+  ],
+  "tb_lines": [
+   3501,
+   3543,
+   3572
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.三稜",
+  "hid": "H031",
+  "hanja": "三稜",
+  "reading": "삼릉",
+  "cue": "화면에서 가장 키 큰 굵은 세모 날 쇠침(삼릉침) — 날 모서리 셋 · 단면 세모, 얼굴 · 다리 · 피 없음",
+  "draw_en": "",
+  "decode": "삼릉침 → 삼릉(三稜鍼과 같은 두 글자)",
+  "type": "낱말 속 연속 포함",
+  "carriers": [
+   "삼릉침"
+  ],
+  "score": "",
+  "status": "fixed",
+  "run": "20261121-p2-cho",
+  "from": "P2 Run 2 확정(사용자 결정 11-21)",
+  "category": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_lines": [
+   1710,
+   3500,
+   3501,
+   3543,
+   3593,
+   3800,
+   3801
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.莪朮",
+  "hid": "H032",
+  "hanja": "莪朮",
+  "reading": "아출",
+  "cue": "포대기에 싸여 쪽쪽이를 문 초록 아기 배추 인형(빈손 · 하얗지 않음) — 사용자 결정 11-21: 원안 「아기 배추 인형」 유지",
+  "draw_en": "",
+  "decode": "아기의 아 + 배추(朮 가족, 추 ≈ 출) → 아출",
+  "type": "형태소 가족",
+  "carriers": [
+   "아기",
+   "배추(朮 가족)",
+   "인형"
+  ],
+  "score": "",
+  "status": "fixed",
+  "run": "20261121-p2-cho",
+  "from": "P2 Run 2 확정(사용자 결정 11-21)",
+  "category": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_lines": [
+   3501,
+   3543,
+   3593
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.藜蘆",
+  "hid": "H033",
+  "hanja": "藜蘆",
+  "reading": "여로",
+  "cue": "화로를 끌어안고 토하는 여우",
+  "draw_en": "a queasy red fox with a single bushy tail hugging a small round iron charcoal brazier while throwing up a green splash",
+  "decode": "여우 + 화로 → 여로",
+  "type": 4,
+  "carriers": [
+   "여우",
+   "화로"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1 · p3 · p5 (Gemini 원안 낱말 유지)",
+  "category": [
+   "湧吐藥 (3612행)"
+  ],
+  "tb_lines": [
+   3434,
+   3500,
+   3501,
+   3612,
+   3635
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.五靈脂",
+  "hid": "H034",
+  "hanja": "五靈脂",
+  "reading": "오령지",
+  "cue": "유령이 들러붙은 오렌지",
+  "draw_en": "a round orange fruit with a small white cartoon ghost clinging to it and wrapping its wispy arms around it",
+  "decode": "오렌지 ≈ 오령지 (유령이 「령」을 한 번 더)",
+  "type": 3,
+  "carriers": [
+   "오렌지",
+   "유령"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p1~p6",
+  "category": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_lines": [
+   3494,
+   3500,
+   3503,
+   3543,
+   3593
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.赤石脂",
+  "hid": "H035",
+  "hanja": "赤石脂",
+  "reading": "적석지",
+  "cue": "적십자 완장 찬 붉은 돌덩이",
+  "draw_en": "A chunky brick-red rock with a stubby little face, wearing a white armband that shows only a plain red cross symbol; no letters.",
+  "decode": "적십자 ≈ 적석지 (붉은 돌이 赤 · 石을 한 번 더 짚음)",
+  "type": 3,
+  "carriers": [
+   "적십자"
+  ],
+  "score": 21,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1",
+  "category": [
+   "收澁藥 · 2) 止瀉藥 (3609행)"
+  ],
+  "tb_lines": [
+   3438,
+   3500,
+   3536,
+   3550,
+   3609,
+   3614
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.代赭石",
+  "hid": "H036",
+  "hanja": "代赭石",
+  "reading": "대자석",
+  "cue": "대자로 뻗어 누운 붉은 막대자석",
+  "draw_en": "a red bar magnet with little arms and legs lying flat on its back, spread-eagle like a sprawled sleeper, plain red with no letters or N/S marks",
+  "decode": "대자로 + 자석 → 대자석",
+  "type": 4,
+  "carriers": [
+   "대자로",
+   "자석"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p3 · p5 (계획서 안 「대형 자석」 변형)",
+  "category": [
+   "平肝藥 · 2) 平肝潛陽藥 (3599행)"
+  ],
+  "tb_lines": [
+   3503,
+   3550,
+   3599
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.乳香",
+  "hid": "H037",
+  "hanja": "乳香",
+  "reading": "유향",
+  "cue": "우유 팩에 향수 분무기가 달린 병(이 장면: 식초병을 끌어안고 기울여 붓기만 함, 향수는 뿌리지 않음)",
+  "draw_en": "",
+  "decode": "우유의 유 + 향수의 향 → 유향",
+  "type": "두 낱말 잇기",
+  "carriers": [
+   "우유",
+   "향수"
+  ],
+  "score": "",
+  "status": "fixed",
+  "run": "20261121-p2-cho",
+  "from": "P2 Run 2 확정(사용자 결정 11-21)",
+  "category": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_lines": [
+   3503,
+   3543,
+   3593
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.沒藥",
+  "hid": "H038",
+  "hanja": "沒藥",
+  "reading": "몰약",
+  "cue": "코르크 막은 둥근 플라스크에 든 검은 물약(해골 · 거품 · 라벨 없음)",
+  "draw_en": "",
+  "decode": "물약 → 몰약(물 → 몰, 한 모음 차이)",
+  "type": "가까운 소리의 한 낱말",
+  "carriers": [
+   "물약"
+  ],
+  "score": "",
+  "status": "fixed",
+  "run": "20261121-p2-cho",
+  "from": "P2 Run 2 확정(사용자 결정 11-21)",
+  "category": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_lines": [
+   3503,
+   3543,
+   3593
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.香附子",
+  "hid": "H039",
+  "hanja": "香附子",
+  "reading": "향부자",
+  "cue": "향수를 너무 뿌리는 부자(실크햇 · 털 깃 · 굵은 금반지, 금술 단 붉은 방석 — 지폐 없음)",
+  "draw_en": "",
+  "decode": "향수의 향 + 부자(附子 가족) → 향부자",
+  "type": "두 낱말 잇기 + 형태소 가족",
+  "carriers": [
+   "향수",
+   "부자(附子 가족)"
+  ],
+  "score": "",
+  "status": "fixed",
+  "run": "20261121-p2-cho",
+  "from": "P2 Run 2 확정(사용자 결정 11-21)",
+  "category": [
+   "理氣藥 (3583행)"
+  ],
+  "tb_lines": [
+   3442,
+   3492,
+   3543,
+   3583
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.玄胡索",
+  "hid": "H040",
+  "hanja": "玄胡索",
+  "reading": "현호색",
+  "cue": "현관 문턱에 걸친 색동 줄무늬 호스, 주둥이에 얼굴",
+  "draw_en": "",
+  "decode": "현관의 현 + 호스의 호 + 색동의 색 → 현호색",
+  "type": "두 낱말 잇기(세 낱말)",
+  "carriers": [
+   "현관",
+   "호스",
+   "색동"
+  ],
+  "score": "",
+  "status": "fixed",
+  "run": "20261121-p2-cho",
+  "from": "P2 Run 2 확정(사용자 결정 11-21)",
+  "category": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_lines": [
+   3543,
+   3593
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.牡丹皮",
+  "hid": "H041",
+  "hanja": "牡丹皮",
+  "reading": "목단피",
+  "cue": "목 단추를 꽉 채워 얼굴이 빨개진 피에로",
+  "draw_en": "a clown with a bright red face, choking slightly because the single huge button at his collar is fastened too tight around his neck",
+  "decode": "목 · 단추 · 피에로 → 목단피 · 붉은 얼굴 = 血熱",
+  "type": 4,
+  "carriers": [
+   "목",
+   "단추",
+   "피에로"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p3 · p4 · p5",
+  "category": [
+   "淸熱藥 · 3) 淸熱凉血藥 (3568행)"
+  ],
+  "tb_lines": [
+   3503,
+   3568
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.槐角",
+  "hid": "H042",
+  "hanja": "槐角",
+  "reading": "괴각",
+  "cue": "뿔 자리에 반달 각도기를 단 작은 괴물",
+  "draw_en": "a small green cartoon monster with a half-moon protractor (tick marks only, no numbers) growing on its head in place of a horn",
+  "decode": "괴물 → 괴 · 각도기 → 각 (뿔 = 角)",
+  "type": 4,
+  "carriers": [
+   "괴물",
+   "각도기"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p3 · p4",
+  "category": [
+   "淸熱藥 · 1) 淸熱瀉火藥 (3566행)"
+  ],
+  "tb_lines": [
+   3503,
+   3531,
+   3566
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.白礬",
+  "hid": "H043",
+  "hanja": "白礬",
+  "reading": "백반",
+  "cue": "밥공기 속이 하얀 결정덩이인 백반 한 상",
+  "draw_en": "A Korean home-style meal tray with a soup bowl and small side dishes, but the rice bowl holds a translucent white crystal lump instead of rice.",
+  "decode": "백반 → 백반",
+  "type": 1,
+  "carriers": [
+   "백반"
+  ],
+  "score": 24,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p4 · p1 (p2 · p3 · p5 · p6 백반 한 상)",
+  "category": [
+   "收澁藥 · 3) 澁精縮尿止帶藥 (3609행)"
+  ],
+  "tb_lines": [
+   3550,
+   3556,
+   3609,
+   3614
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.牡蠣",
+  "hid": "H044",
+  "hanja": "牡蠣",
+  "reading": "모려",
+  "cue": "머리만 내놓고 모래찜질하는 굴",
+  "draw_en": "a cute oyster with a face buried up to its shell lip in a small mound of sand, eyes closed blissfully like taking a sand bath",
+  "decode": "모래 → 모려",
+  "type": 3,
+  "carriers": [
+   "모래"
+  ],
+  "score": 21,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p3 (계획서 안 · Gemini 원안의 모래 굴 유지)",
+  "category": [
+   "平肝藥 · 2) 平肝潛陽藥 (3599행)"
+  ],
+  "tb_lines": [
+   3443,
+   3550,
+   3599,
+   3614,
+   3626,
+   3628
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.白附子",
+  "hid": "H045",
+  "hanja": "白附子",
+  "reading": "백부자",
+  "cue": "얼굴에 백분 바른 하얀 부자",
+  "draw_en": "a plump rich man in an all-white suit patting his chalk-white face with a big powder puff, white powder puffing in the air, hugging a white money sack",
+  "decode": "백분 + 부자 → 백부자",
+  "type": 5,
+  "carriers": [
+   "백분",
+   "부자(가족)"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "Gemini 원안 · p1 · p2 · p5 · p6",
+  "category": [
+   "化痰止咳平喘藥 · 1) 溫化寒痰藥 (3595행)"
+  ],
+  "tb_lines": [
+   3556,
+   3595
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.天南星",
+  "hid": "H046",
+  "hanja": "天南星",
+  "reading": "천남성",
+  "cue": "샅바에 별 단 천하장사가 큰 별을 번쩍 들어 올림",
+  "draw_en": "a burly Korean ssireum wrestler champion in a satba belt decorated with a star, triumphantly lifting a giant yellow star over his head",
+  "decode": "천하장사 + 남성 → 천남성",
+  "type": 4,
+  "carriers": [
+   "천하장사",
+   "남성"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p1 · p4 · p6 + p3(동작)",
+  "category": [
+   "化痰止咳平喘藥 · 1) 溫化寒痰藥 (3595행)"
+  ],
+  "tb_lines": [
+   3556,
+   3595
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.巴豆",
+  "hid": "H047",
+  "hanja": "巴豆",
+  "reading": "파두",
+  "cue": "도화선 달린 파란 두부 폭탄",
+  "draw_en": "A blue block of tofu shaped like a cartoon bomb with a lit fuse sticking out of its top, no text.",
+  "decode": "파(란) + 두(부) → 파두 (폭탄 = 峻下 · 大毒)",
+  "type": 4,
+  "carriers": [
+   "파란",
+   "두부"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "Gemini 원안 · p5 · p6",
+  "category": [
+   "瀉下藥 · 3) 峻下逐水藥 (3572행)"
+  ],
+  "tb_lines": [
+   2950,
+   3500,
+   3501,
+   3511,
+   3522,
+   3560,
+   3572,
+   3754
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.硫黃",
+  "hid": "H048",
+  "hanja": "硫黃",
+  "reading": "유황",
+  "cue": "썩은 냄새 김 뿜는 노란 유황 바위",
+  "draw_en": "a lumpy bright yellow sulfur rock giving off wavy greenish stink fumes",
+  "decode": "유황 → 유황",
+  "type": 1,
+  "carriers": [
+   "유황"
+  ],
+  "score": 24,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1 · p3 · p4 · p5 (계획서 「그대로 좋음」)",
+  "category": [
+   "外用藥 (3614행)"
+  ],
+  "tb_lines": [
+   2950,
+   3500,
+   3614,
+   3754
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.桔梗",
+  "hid": "H049",
+  "hanja": "桔梗",
+  "reading": "길경",
+  "cue": "도라지 뿌리를 경광봉처럼 흔들며 길 안내하는 경찰",
+  "draw_en": "a Korean traffic police officer directing the way with one arm outstretched, waving a white bellflower root (doraji) like a glowing traffic baton",
+  "decode": "길 + 경찰 → 길경",
+  "type": 4,
+  "carriers": [
+   "길",
+   "경찰"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p3 · p6",
+  "category": [
+   "化痰止咳平喘藥 · 2) 淸化熱痰藥 (3595행)"
+  ],
+  "tb_lines": [
+   3481,
+   3484,
+   3595
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.升麻",
+  "hid": "H050",
+  "hanja": "升麻",
+  "reading": "승마",
+  "cue": "말째 위로 솟구치는 승마 선수",
+  "draw_en": "an equestrian rider in helmet and riding jacket, horse and rider leaping straight upward together into the air",
+  "decode": "승마 → 승마 · 솟구침 = 升",
+  "type": 1,
+  "carriers": [
+   "승마"
+  ],
+  "score": 25,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p3 · p4",
+  "category": [
+   "解表藥 · 2) 發散風熱藥 (3563행)"
+  ],
+  "tb_lines": [
+   3452,
+   3481,
+   3483,
+   3563
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.葛根",
+  "hid": "H051",
+  "hanja": "葛根",
+  "reading": "갈근",
+  "cue": "팔 근육을 자랑하는 근육질 갈매기",
+  "draw_en": "a white seagull flexing huge bodybuilder arm muscles with its wings",
+  "decode": "갈매기 → 갈 · 근육 → 근",
+  "type": 4,
+  "carriers": [
+   "갈매기",
+   "근육"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p1 · p2 · p3 · p4 · p5 · p6",
+  "category": [
+   "解表藥 · 2) 發散風熱藥 (3563행)"
+  ],
+  "tb_lines": [
+   3452,
+   3481,
+   3483,
+   3563,
+   3626
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.白芷",
+  "hid": "H052",
+  "hanja": "白芷",
+  "reading": "백지",
+  "cue": "이마에 새하얀 백지 한 장이 철썩 붙은 둥근 얼굴",
+  "draw_en": "a round cartoon face with one blank pure-white sheet of paper slapped flat onto its forehead, eyes looking up at it in surprise",
+  "decode": "백지 → 백지 · 이마 = 陽明 두통",
+  "type": 1,
+  "carriers": [
+   "백지"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p4 (원안 낱말 백지)",
+  "category": [
+   "解表藥 · 1) 發散風寒藥 (3563행)"
+  ],
+  "tb_lines": [
+   3481,
+   3483,
+   3487,
+   3495,
+   3563,
+   3620
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.葱白",
+  "hid": "H053",
+  "hanja": "葱白",
+  "reading": "총백",
+  "cue": "흰 대파 밑동으로 만든 권총",
+  "draw_en": "a toy pistol made from a green onion whose white bottom stalk forms the barrel and grip, green leaves sprouting from the back",
+  "decode": "총 → 총 · 흰 밑동 = 葱白 실물",
+  "type": 4,
+  "carriers": [
+   "총"
+  ],
+  "score": 21,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p4 · p5",
+  "category": [
+   "解表藥 · 1) 發散風寒藥 (3563행)"
+  ],
+  "tb_lines": [
+   3430,
+   3481,
+   3563,
+   3635
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.羌活",
+  "hid": "H054",
+  "hanja": "羌活",
+  "reading": "강활",
+  "cue": "강물 위에 둥둥 떠서 시위가 당겨진 활",
+  "draw_en": "a wooden bow with its string drawn back and an arrow nocked, floating by itself on a small patch of blue river water, no archer",
+  "decode": "강물 → 강 · 활 → 활",
+  "type": 4,
+  "carriers": [
+   "강물",
+   "활"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p1",
+  "category": [
+   "解表藥 · 1) 發散風寒藥 (3563행)"
+  ],
+  "tb_lines": [
+   3482,
+   3563,
+   3643,
+   3761,
+   3859
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.藁本",
+  "hid": "H055",
+  "hanja": "藁本",
+  "reading": "고본",
+  "cue": "정수리에 산처럼 쌓은 고봉밥 그릇을 얹은 사람",
+  "draw_en": "a person balancing a rice bowl heaped mountain-high with white rice on the very top of their head, hands steadying it",
+  "decode": "고봉밥 ≈ 고본 · 정수리 = 巔頂 두통",
+  "type": 3,
+  "carriers": [
+   "고봉밥"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p4",
+  "category": [
+   "解表藥 · 1) 發散風寒藥 (3563행)"
+  ],
+  "tb_lines": [
+   3482,
+   3487,
+   3563
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.桂枝",
+  "hid": "H056",
+  "hanja": "桂枝",
+  "reading": "계지",
+  "cue": "계피 나뭇가지 지팡이",
+  "draw_en": "a walking cane made from a cinnamon branch, brown rolled-bark texture, with a small knobby handle",
+  "decode": "계피 → 계 · 지팡이 → 지 (실물 = 가지)",
+  "type": 4,
+  "carriers": [
+   "계피",
+   "지팡이"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "Gemini 원안 · p1 · p2 · p4 · p5 · p6",
+  "category": [
+   "解表藥 · 1) 發散風寒藥 (3563행)"
+  ],
+  "tb_lines": [
+   1712,
+   2908,
+   3430,
+   3442,
+   3563,
+   3620,
+   3623,
+   3752
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.獨活",
+  "hid": "H057",
+  "hanja": "獨活",
+  "reading": "독활",
+  "cue": "날개와 발톱으로 활을 당겨 땅 아래로 겨눈 독수리",
+  "draw_en": "A brown eagle drawing a bow with its wing and talon, aiming the arrow straight down toward the ground, no text.",
+  "decode": "독(수리) + 활 → 독활 (아래 = 下部, 羌活 위와 짝)",
+  "type": 4,
+  "carriers": [
+   "독수리",
+   "활"
+  ],
+  "score": 24,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p4 (계획서 안 운반 유지)",
+  "category": [
+   "祛風濕藥 · 1) 祛風濕止痺痛藥 (3575행)"
+  ],
+  "tb_lines": [
+   3430,
+   3484,
+   3575
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.石膏",
+  "hid": "H058",
+  "hanja": "石膏",
+  "reading": "석고",
+  "cue": "물을 벌컥벌컥 들이켜는 하얀 석고 조각상",
+  "draw_en": "a white plaster classical statue bust gulping water thirstily from a big glass, water splashing",
+  "decode": "석고 → 석고 · 들이켬 = 大渴",
+  "type": 1,
+  "carriers": [
+   "석고"
+  ],
+  "score": 25,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p3 (Gemini 원안 바탕)",
+  "category": [
+   "淸熱藥 · 1) 淸熱瀉火藥 (3566행)"
+  ],
+  "tb_lines": [
+   3434,
+   3483,
+   3491,
+   3566,
+   3628
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.連翹",
+  "hid": "H059",
+  "hanja": "連翹",
+  "reading": "연교",
+  "cue": "얼굴 달린 연고 튜브가 제 몸을 꾹 짜 연고를 냄",
+  "draw_en": "A white ointment tube with a cute face squeezing its own belly so a dab of white ointment pops out of its open cap, no text.",
+  "decode": "연고 ≈ 연교 (종기 연고 = 瘡家聖藥)",
+  "type": 3,
+  "carriers": [
+   "연고"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1 · p2 · p3",
+  "category": [
+   "淸熱藥 · 4) 淸熱解毒藥 (3569행)"
+  ],
+  "tb_lines": [
+   2875,
+   2909,
+   3434,
+   3485,
+   3569
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.地骨皮",
+  "hid": "H060",
+  "hanja": "地骨皮",
+  "reading": "지골피",
+  "cue": "지구본 위에 걸터앉아 피리 부는 해골",
+  "draw_en": "A friendly cartoon skeleton sitting on top of a desk globe and playing a small wooden recorder flute, no text.",
+  "decode": "지(구본) + (해)골 + 피(리) → 지골피 (해골 = 骨)",
+  "type": 4,
+  "carriers": [
+   "지구본",
+   "해골",
+   "피리"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p3 · p5 합침",
+  "category": [
+   "淸熱藥 · 5) 淸虛熱藥 (3570행)"
+  ],
+  "tb_lines": [
+   2854,
+   2855,
+   3434,
+   3485,
+   3570,
+   3609
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.瓜蔞",
+  "hid": "H061",
+  "hanja": "瓜蔞",
+  "reading": "과루",
+  "cue": "넥타이 맨 채 녹초가 되어 엎어진 참외",
+  "draw_en": "an exhausted yellow Korean melon (chamoe) wearing a loose necktie, collapsed face-down with dizzy swirl eyes and a sweat drop",
+  "decode": "과로 ≈ 과루",
+  "type": 3,
+  "carriers": [
+   "과로"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p1 · p2 · p4 · p6 + p5(넥타이)",
+  "category": [
+   "化痰止咳平喘藥 · 2) 淸化熱痰藥 (3595행)"
+  ],
+  "tb_lines": [
+   3440,
+   3500,
+   3595,
+   3761
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.貝母",
+  "hid": "H062",
+  "hanja": "貝母",
+  "reading": "패모",
+  "cue": "조개껍데기 핸드백 든 패션모델",
+  "draw_en": "a glamorous fashion model striking a runway pose, swinging a handbag made of a big clam shell",
+  "decode": "패션모델 → 패·모 → 패모",
+  "type": 4,
+  "carriers": [
+   "패션모델"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p2 · p3 · p5",
+  "category": [
+   "化痰止咳平喘藥 · 2) 淸化熱痰藥 (3595행)"
+  ],
+  "tb_lines": [
+   3440,
+   3500,
+   3595,
+   3761
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.白蘞",
+  "hid": "H063",
+  "hanja": "白蘞",
+  "reading": "백렴",
+  "cue": "물구나무선 흰 염소(긴 수염 · 굽은 뿔, 목줄 없음)",
+  "draw_en": "A white goat with curved horns and a long beard doing a handstand on its front hooves, no leash, no collar, no text.",
+  "decode": "흰(白) + 염소(염 = 렴) → 백렴",
+  "type": 4,
+  "carriers": [
+   "염소"
+  ],
+  "score": 21,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p3 (Gemini 원안 운반 유지)",
+  "category": [
+   "淸熱藥 · 4) 淸熱解毒藥 (3569행)"
+  ],
+  "tb_lines": [
+   3569
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.白及",
+  "hid": "H064",
+  "hanja": "白及",
+  "reading": "백급",
+  "cue": "구급상자를 입에 문 흰 개(백구)",
+  "draw_en": "a white Korean dog running with a white first-aid box with a red cross held in its mouth",
+  "decode": "백구 → 백 + 구급상자 → 급",
+  "type": 4,
+  "carriers": [
+   "백구",
+   "구급(상자)"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "Gemini 원안 · p3 · p5 · p6",
+  "category": [
+   "止血藥 · 1) 收斂止血藥 (3589행)"
+  ],
+  "tb_lines": [
+   3589
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.海藻",
+  "hid": "H065",
+  "hanja": "海藻",
+  "reading": "해조",
+  "cue": "춤추듯 꿈틀거리는 초록 해조류(미역) 다발",
+  "draw_en": "a bundle of wavy green-brown seaweed fronds with a happy face, wiggling and dancing as if underwater",
+  "decode": "해조류 → 해조",
+  "type": 2,
+  "carriers": [
+   "해조류"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1 · p2 (p4 · p5 해초 다발)",
+  "category": [
+   "化痰止咳平喘藥 · 2) 淸化熱痰藥 (3595행)"
+  ],
+  "tb_lines": [
+   3500,
+   3595
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.丹參",
+  "hid": "H066",
+  "hanja": "丹參",
+  "reading": "단삼",
+  "cue": "단검을 든 붉은 뿌리 인형",
+  "draw_en": "a red ginseng-root doll with little root arms and legs gripping a short dagger",
+  "decode": "단검 → 단 + 뿌리 인형(參 가족) → 삼",
+  "type": 4,
+  "carriers": [
+   "단검"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "Gemini 원안 · p1~p6",
+  "category": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_lines": [
+   3500,
+   3593
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.玄參",
+  "hid": "H067",
+  "hanja": "玄參",
+  "reading": "현삼",
+  "cue": "구멍 숭숭한 검은 현무암 몸의 삼 인형",
+  "draw_en": "A small root-doll figure with a ginseng-root body and tiny root arms and legs, made of black porous basalt rock full of little holes, no text.",
+  "decode": "현(무암) + 삼 인형(參 가족) → 현삼",
+  "type": 5,
+  "carriers": [
+   "현무암",
+   "삼 인형"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "Gemini 원안 · p1 · p2 · p4 · p5 · p6",
+  "category": [
+   "淸熱藥 · 3) 淸熱凉血藥 (3568행)"
+  ],
+  "tb_lines": [
+   3443,
+   3496,
+   3500,
+   3568
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.沙參",
+  "hid": "H068",
+  "hanja": "沙參",
+  "reading": "사삼",
+  "cue": "사자 갈기 단 삼 인형",
+  "draw_en": "A little ginseng-root doll with a big fluffy lion's mane around its face, roaring proudly.",
+  "decode": "사자 + 삼 인형(參 가족) → 사삼",
+  "type": 4,
+  "carriers": [
+   "사자",
+   "삼 인형(가족)"
+  ],
+  "score": 24,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p1 · p3 · p4 · p5 · p6",
+  "category": [
+   "補益藥 · 4) 補陰藥 (3607행)"
+  ],
+  "tb_lines": [
+   3500,
+   3607
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.苦參",
+  "hid": "H069",
+  "hanja": "苦參",
+  "reading": "고삼",
+  "cue": "머리띠 맨 고3 수험생 뿌리 인형",
+  "draw_en": "a ginseng-root doll dressed as a cramming high-school senior, wearing a plain blank white headband, tired eyes",
+  "decode": "고3 → 고삼 · 뿌리 인형 = 參 가족",
+  "type": 1,
+  "carriers": [
+   "고삼"
+  ],
+  "score": 25,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p1 · p2 · p4 · p5",
+  "category": [
+   "淸熱藥 · 2) 淸熱燥濕藥 (3567행)"
+  ],
+  "tb_lines": [
+   3500,
+   3567
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.赤芍藥",
+  "hid": "H070",
+  "hanja": "赤芍藥",
+  "reading": "적작약",
+  "cue": "외눈 안대 찬 빨간 옷 해적 약사(약병 듦)",
+  "draw_en": "A pirate pharmacist in a bright red long coat and tricorn hat with a black eye patch, holding up a small brown medicine bottle, no text.",
+  "decode": "(해)적 + 약사 → 적작약 (白芍藥 백작 약사의 붉은 짝)",
+  "type": 4,
+  "carriers": [
+   "해적",
+   "약사"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p2 · p5",
+  "category": [
+   "淸熱藥 · 3) 淸熱凉血藥 (3568행)"
+  ],
+  "tb_lines": [
+   3471,
+   3568
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.朴硝",
+  "hid": "H071",
+  "hanja": "朴硝",
+  "reading": "박초",
+  "cue": "양초 쥐고 거꾸로 매달린 박쥐",
+  "draw_en": "a brown bat hanging upside down by its feet, clutching a lit white candle in its wings",
+  "decode": "박쥐 + 양초 → 박초",
+  "type": 4,
+  "carriers": [
+   "박쥐",
+   "양초(硝 가족)"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1 · p4",
+  "category": [],
+  "tb_lines": [
+   3500
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.牙硝",
+  "hid": "H072",
+  "hanja": "牙硝",
+  "reading": "아초",
+  "cue": "아이스크림 콘에 꽂혀 녹는 양초",
+  "draw_en": "a waffle ice cream cone with a melting scoop and a lit white candle stuck into the top, drips running down the cone",
+  "decode": "아이스크림 + 양초 → 아초",
+  "type": 4,
+  "carriers": [
+   "아이스크림",
+   "양초(硝 가족)"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1 · p4 · p5",
+  "category": [],
+  "tb_lines": [
+   3500
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.水銀",
+  "hid": "H073",
+  "hanja": "水銀",
+  "reading": "수은",
+  "cue": "깨진 체온계에서 도망치는 수은 방울",
+  "draw_en": "a broken glass thermometer with blank tick marks only, shiny silver mercury droplets with tiny legs running away from the crack",
+  "decode": "수은 → 수은",
+  "type": 1,
+  "carriers": [
+   "수은"
+  ],
+  "score": 25,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p3 (p1 · p2 · p4 · p5 같은 뼈대)",
+  "category": [
+   "外用藥 (3614행)"
+  ],
+  "tb_lines": [
+   3500,
+   3501,
+   3614
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.砒霜",
+  "hid": "H074",
+  "hanja": "砒霜",
+  "reading": "비상",
+  "cue": "따르릉 울리는 빨간 비상벨",
+  "draw_en": "a round red emergency alarm bell ringing hard with shaking vibration lines",
+  "decode": "비상벨 → 비상",
+  "type": 2,
+  "carriers": [
+   "비상벨"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p1 · p4 · p5 · p6",
+  "category": [],
+  "tb_lines": [
+   2950,
+   3500,
+   3501
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.狼毒",
+  "hid": "H075",
+  "hanja": "狼毒",
+  "reading": "낭독",
+  "cue": "책을 펼쳐 낭독하는 늑대",
+  "draw_en": "a gray wolf standing upright holding a plain open book and reading aloud, sound lines coming from its open mouth",
+  "decode": "낭독 → 낭독 (늑대 = 狼)",
+  "type": 1,
+  "carriers": [
+   "낭독"
+  ],
+  "score": 25,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p1~p6 공통",
+  "category": [],
+  "tb_lines": [
+   2793,
+   3500,
+   3506
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.密陀僧",
+  "hid": "H076",
+  "hanja": "密陀僧",
+  "reading": "밀타승",
+  "cue": "낙타를 밀어 태우는 승려",
+  "draw_en": "a bald Buddhist monk in gray robes pushing a stubborn camel from behind with both hands",
+  "decode": "밀(다) + 낙타 + 승려 → 밀타승",
+  "type": 4,
+  "carriers": [
+   "밀다",
+   "낙타",
+   "승려"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1 (계획서 밀 · 타 · 승 뼈대)",
+  "category": [
+   "外用藥 (3614행)"
+  ],
+  "tb_lines": [
+   3500,
+   3614
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.牽牛子",
+  "hid": "H077",
+  "hanja": "牽牛子",
+  "reading": "견우자",
+  "cue": "견우 — 원안: 소 끄는 견우 목동",
+  "draw_en": "",
+  "decode": "",
+  "type": "",
+  "carriers": [
+   "견우"
+  ],
+  "score": "",
+  "status": "fixed",
+  "run": "보존 목록",
+  "from": "보존 목록(계획서 8절)",
+  "category": [
+   "瀉下藥 · 3) 峻下逐水藥 (3572행)"
+  ],
+  "tb_lines": [
+   3572,
+   3754
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.丁香",
+  "hid": "H078",
+  "hanja": "丁香",
+  "reading": "정향",
+  "cue": "정장 입고 넥타이 맨 향로가 연기를 피움",
+  "draw_en": "a small bronze incense burner wearing a black business suit jacket and necktie, a thin curl of smoke rising from its lid",
+  "decode": "정장 → 정 + 향로 → 향",
+  "type": 4,
+  "carriers": [
+   "정장",
+   "향로"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1 · p2 · p3",
+  "category": [
+   "溫裏藥 (3581행)"
+  ],
+  "tb_lines": [
+   3500,
+   3581,
+   3614
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.鬱金",
+  "hid": "H079",
+  "hanja": "鬱金",
+  "reading": "울금",
+  "cue": "엉엉 우는 울보 금붕어",
+  "draw_en": "an orange goldfish bawling with huge cartoon tears streaming from its eyes",
+  "decode": "울보 → 울 + 금붕어 → 금",
+  "type": 4,
+  "carriers": [
+   "울보",
+   "금붕어"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1~p6",
+  "category": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_lines": [
+   3500,
+   3593
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.犀角",
+  "hid": "H080",
+  "hanja": "犀角",
+  "reading": "서각",
+  "cue": "외뿔이 네모난 사각 블록인 코뿔소",
+  "draw_en": "A grey rhinoceros whose single horn is a perfect square cube block, standing proudly, no text.",
+  "decode": "사각 ≈ 서각 + 코뿔소(犀) → 서각",
+  "type": 3,
+  "carriers": [
+   "사각",
+   "코뿔소"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1",
+  "category": [
+   "淸熱藥 · 3) 淸熱凉血藥 (3568행)"
+  ],
+  "tb_lines": [
+   3434,
+   3443,
+   3500,
+   3525,
+   3568,
+   3628,
+   3758
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.山楂",
+  "hid": "H081",
+  "hanja": "山楂",
+  "reading": "산사",
+  "cue": "빨간 열매가 와르르 쏟아지는 산사태",
+  "draw_en": "a small chunk of rocky hillside with an avalanche of shiny red hawthorn berries tumbling down its slope, one berry wide-eyed in panic",
+  "decode": "산사태 → 산사",
+  "type": 2,
+  "carriers": [
+   "산사태"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p2 · p3 · p4",
+  "category": [
+   "消食藥 (3585행)"
+  ],
+  "tb_lines": [
+   3531,
+   3585
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.川楝子",
+  "hid": "H082",
+  "hanja": "川楝子",
+  "reading": "천련자",
+  "cue": "등에 이끼 끼고 흰 수염 기른 천 년 묵은 자라",
+  "draw_en": "an ancient soft-shelled turtle with moss growing on its shell and a long flowing white beard, leaning on a walking stick",
+  "decode": "천년 → 천련 + 자라 → 자",
+  "type": 4,
+  "carriers": [
+   "천년",
+   "자라"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1~p6",
+  "category": [
+   "理氣藥 (3583행)"
+  ],
+  "tb_lines": [
+   3531,
+   3583
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.梔子",
+  "hid": "H083",
+  "hanja": "梔子",
+  "reading": "치자",
+  "cue": "치즈 자 — 원안: 노란 치즈 자",
+  "draw_en": "",
+  "decode": "",
+  "type": "",
+  "carriers": [
+   "치즈 자"
+  ],
+  "score": "",
+  "status": "fixed",
+  "run": "보존 목록",
+  "from": "보존 목록(계획서 8절)",
+  "category": [
+   "淸熱藥 · 1) 淸熱瀉火藥 (3566행)"
+  ],
+  "tb_lines": [
+   2855,
+   2856,
+   3439,
+   3507,
+   3531,
+   3566
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.檳榔",
+  "hid": "H084",
+  "hanja": "檳榔",
+  "reading": "빈랑",
+  "cue": "빈 도시락 신랑 — 원안: 빈 도시락 든 신랑",
+  "draw_en": "",
+  "decode": "",
+  "type": "",
+  "carriers": [
+   "빈 도시락 신랑"
+  ],
+  "score": "",
+  "status": "fixed",
+  "run": "보존 목록",
+  "from": "보존 목록(계획서 8절)",
+  "category": [
+   "驅蟲藥 (3587행)"
+  ],
+  "tb_lines": [
+   3531,
+   3587
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.大薊",
+  "hid": "H085",
+  "hanja": "大薊",
+  "reading": "대계",
+  "cue": "집게발을 번쩍 치켜든 거대한 대게",
+  "draw_en": "a huge snow crab with very long legs raising both claws high in a triumphant pose",
+  "decode": "대게 ≈ 대계",
+  "type": 1,
+  "carriers": [
+   "대게"
+  ],
+  "score": 24,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1 · p2 · p3 · p4 · p5",
+  "category": [
+   "止血藥 · 2) 凉血止血藥 (3591행)"
+  ],
+  "tb_lines": [
+   3432,
+   3531,
+   3591
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.小薊",
+  "hid": "H086",
+  "hanja": "小薊",
+  "reading": "소계",
+  "cue": "소라 껍데기에서 빼꼼 내다보는 아주 작은 소라게",
+  "draw_en": "a tiny hermit crab peeking shyly out of a small spiral sea-snail shell",
+  "decode": "소라게 → 소 + 게 ≈ 소계",
+  "type": 4,
+  "carriers": [
+   "소라게"
+  ],
+  "score": 21,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p2 · p3",
+  "category": [
+   "止血藥 · 2) 凉血止血藥 (3591행)"
+  ],
+  "tb_lines": [
+   3432,
+   3531,
+   3591
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.白茅根",
+  "hid": "H087",
+  "hanja": "白茅根",
+  "reading": "백모근",
+  "cue": "족집게에 뽑혀 비명 지르는 흰 머리카락 한 올과 모근",
+  "draw_en": "a pair of tweezers pulling out one long white hair whose bulb-shaped root at the bottom has a tiny screaming face",
+  "decode": "백발 → 백 + 모근",
+  "type": 4,
+  "carriers": [
+   "백발",
+   "모근"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p1~p6",
+  "category": [
+   "止血藥 · 2) 凉血止血藥 (3591행)"
+  ],
+  "tb_lines": [
+   3531,
+   3591
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.荊芥",
+  "hid": "H088",
+  "hanja": "荊芥",
+  "reading": "형개",
+  "cue": "거대한 형광펜을 끌고 가는 개미",
+  "draw_en": "a cartoon ant dragging a giant neon-yellow-green highlighter pen behind it, straining hard",
+  "decode": "형광펜 → 형 · 개미 → 개",
+  "type": 4,
+  "carriers": [
+   "형광펜",
+   "개미"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p3",
+  "category": [
+   "解表藥 · 1) 發散風寒藥 (3563행)"
+  ],
+  "tb_lines": [
+   3442,
+   3452,
+   3531,
+   3563
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.側柏葉",
+  "hid": "H089",
+  "hanja": "側柏葉",
+  "reading": "측백엽",
+  "cue": "지붕 위에 측우기를 얹은 흰 백엽상",
+  "draw_en": "a small white louvered wooden weather-instrument box on four legs with a bronze cylindrical rain gauge on a stone stand sitting on its roof",
+  "decode": "측우기 → 측 + 백엽상 → 백엽",
+  "type": 4,
+  "carriers": [
+   "측우기",
+   "백엽상"
+  ],
+  "score": 21,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1",
+  "category": [
+   "止血藥 · 2) 凉血止血藥 (3591행)"
+  ],
+  "tb_lines": [
+   3434,
+   3531,
+   3591
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.川椒",
+  "hid": "H090",
+  "hanja": "川椒",
+  "reading": "천초",
+  "cue": "천둥 구름이 초고추장 통을 쥐어짬",
+  "draw_en": "a dark thundercloud with a lightning bolt squeezing a plain red squeeze bottle of spicy sauce, red sauce spurting out",
+  "decode": "천둥 + 초고추장 → 천초",
+  "type": 4,
+  "carriers": [
+   "천둥",
+   "초고추장"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p4",
+  "category": [],
+  "tb_lines": [
+   3531
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.烏梅",
+  "hid": "H091",
+  "hanja": "烏梅",
+  "reading": "오매",
+  "cue": "신맛에 「오매!」 볼 감싼 검은 매실",
+  "draw_en": "A wrinkled black smoked plum with a shocked face, eyes squeezed shut and both hands clutching its cheeks as if from extreme sourness; no speech bubble or letters.",
+  "decode": "오매(감탄사) → 오매 · 매실이 매를 한 번 더 짚음",
+  "type": 1,
+  "carriers": [
+   "오매",
+   "매실"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p2 (p1 · p3 · p4 · p5 · p6 같은 단서)",
+  "category": [
+   "收澁藥 · 2) 止瀉藥 (3609행)"
+  ],
+  "tb_lines": [
+   3438,
+   3531,
+   3609,
+   3767
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.地楡",
+  "hid": "H092",
+  "hanja": "地楡",
+  "reading": "지유",
+  "cue": "지렁이가 칭칭 감긴 빨간 주유기",
+  "draw_en": "a red gas-station fuel pump with a pink earthworm coiled around its hose, the worm hugging the nozzle",
+  "decode": "지렁이 → 지 + 주유기 → 유",
+  "type": 4,
+  "carriers": [
+   "지렁이",
+   "주유기"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1",
+  "category": [
+   "止血藥 · 2) 凉血止血藥 (3591행)"
+  ],
+  "tb_lines": [
+   3432,
+   3531,
+   3591,
+   3614
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.蒲黃",
+  "hid": "H093",
+  "hanja": "蒲黃",
+  "reading": "포황",
+  "cue": "목에 댄 노란 포환이 노란 꽃가루로 퍽 터짐",
+  "draw_en": "a shot-put athlete in throwing stance pressing a heavy yellow ball against his neck as the ball bursts into a puff of yellow pollen dust",
+  "decode": "포환 → 포 + 노란색(黃 가족) → 황",
+  "type": 4,
+  "carriers": [
+   "포환"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1 · p2 · p3 · p4",
+  "category": [
+   "止血藥 · 3) 化瘀止血藥 (3591행)"
+  ],
+  "tb_lines": [
+   3531,
+   3591
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.卷柏",
+  "hid": "H094",
+  "hanja": "卷柏",
+  "reading": "권백",
+  "cue": "권투 글러브 끼고 펀치를 날리는 백조",
+  "draw_en": "a white swan wearing red boxing gloves on its wings and throwing a punch",
+  "decode": "권투 → 권 + 백조 → 백",
+  "type": 4,
+  "carriers": [
+   "권투",
+   "백조"
+  ],
+  "score": 24,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p1~p6",
+  "category": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_lines": [
+   3531,
+   3593
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.白殭蠶",
+  "hid": "H095",
+  "hanja": "白殭蠶",
+  "reading": "백강잠",
+  "cue": "팔 뻗고 선 채 잠든 하얀 강시 누에",
+  "draw_en": "A plump white silkworm dressed as a Chinese hopping vampire (jiangshi) with the official's hat, both little arms stretched stiffly forward, eyes closed asleep with a snot bubble at its nose; no talisman paper, no Z letters.",
+  "decode": "흰(백) + 강시 + 잠 → 백강잠",
+  "type": 4,
+  "carriers": [
+   "강시",
+   "잠"
+  ],
+  "score": 24,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "Gemini 원안 · p1 · p2 · p4 · p5 · p6",
+  "category": [
+   "平肝藥 · 1) 平肝息風藥 (3599행)"
+  ],
+  "tb_lines": [
+   3533,
+   3599
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.黨參",
+  "hid": "H096",
+  "hanja": "黨參",
+  "reading": "당삼",
+  "cue": "당구 큐대 든 삼 인형",
+  "draw_en": "A little ginseng-root doll leaning over to line up a shot with a billiard cue stick against one plain unnumbered billiard ball.",
+  "decode": "당구 + 삼 인형(參 가족) → 당삼",
+  "type": 4,
+  "carriers": [
+   "당구",
+   "삼 인형(가족)"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p2 · p3 · p4 · p6 · 다른 모델 안",
+  "category": [
+   "補益藥 · 1) 補氣藥 (3604행)"
+  ],
+  "tb_lines": [
+   3604
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.斑蝥",
+  "hid": "H097",
+  "hanja": "斑蝥",
+  "reading": "반묘",
+  "cue": "외발 물구나무 묘기하는 반점 딱정벌레",
+  "draw_en": "a black beetle with bright yellow-red spots doing a one-legged handstand trick",
+  "decode": "반점 + 묘기 → 반묘",
+  "type": 4,
+  "carriers": [
+   "반점",
+   "묘기"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p4",
+  "category": [
+   "外用藥 (3614행)"
+  ],
+  "tb_lines": [
+   2950,
+   3501,
+   3535,
+   3614
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.狗脊",
+  "hid": "H098",
+  "hanja": "狗脊",
+  "reading": "구척",
+  "cue": "천장에 머리 닿는 구척장신 거인 개",
+  "draw_en": "An absurdly tall, lanky dog standing on its hind legs with a ramrod-straight spine, its head bumping against a ceiling beam.",
+  "decode": "구척(장신) → 구척",
+  "type": 2,
+  "carriers": [
+   "구척장신"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p2 (p1 · p4 · p5 · p6 같은 계열)",
+  "category": [
+   "補益藥 · 2) 補陽藥 (3605행)"
+  ],
+  "tb_lines": [
+   3537,
+   3605
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.穿山甲",
+  "hid": "H099",
+  "hanja": "穿山甲",
+  "reading": "천산갑",
+  "cue": "산을 드릴처럼 뚫고 나오는 천산갑",
+  "draw_en": "a scaly pangolin spinning like a drill as it bursts out through a small rocky mountain, rubble flying",
+  "decode": "천산갑 = 천산갑",
+  "type": 1,
+  "carriers": [
+   "천산갑"
+  ],
+  "score": 24,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "Gemini 원안 · p1 · p2 · p3 · p4 · p6",
+  "category": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_lines": [
+   3537,
+   3593
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.虎骨",
+  "hid": "H100",
+  "hanja": "虎骨",
+  "reading": "호골",
+  "cue": "통뼈 방망이를 휘두르는 줄무늬 호랑이",
+  "draw_en": "An ordinary orange tiger with bold black stripes (no clock) swinging a thick bone like a baseball bat, no text.",
+  "decode": "호랑이 + 통뼈(骨) → 호골",
+  "type": 4,
+  "carriers": [
+   "호랑이",
+   "통뼈"
+  ],
+  "score": 19,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "Gemini 원안 · p6 (호랑이 몸 = p1)",
+  "category": [
+   "祛風濕藥 · 3) 祛風濕强筋骨藥 (3575행)"
+  ],
+  "tb_lines": [
+   3525,
+   3537,
+   3546,
+   3575
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.馬錢子",
+  "hid": "H101",
+  "hanja": "馬錢子",
+  "reading": "마전자",
+  "cue": "엽전을 문 채 뻣뻣이 굳어 옆으로 넘어진 말",
+  "draw_en": "A brown horse lying stiffly on its side with its legs rigid and straight, an old brass coin with a square hole clenched in its teeth, no text.",
+  "decode": "말(마) + 엽전(전) → 마전자 (강직 = 독성)",
+  "type": 4,
+  "carriers": [
+   "말",
+   "엽전"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p3",
+  "category": [
+   "祛風濕藥 · 1) 祛風濕止痺痛藥 (3575행)"
+  ],
+  "tb_lines": [
+   3501,
+   3537,
+   3575
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.骨碎補",
+  "hid": "H102",
+  "hanja": "骨碎補",
+  "reading": "골쇄보",
+  "cue": "쇠 보조기를 찬 부러진 뼈다귀",
+  "draw_en": "A cartoon bone snapped in the middle and held together by a metal orthopedic brace with screws, wincing.",
+  "decode": "골(절) + 쇠 ≈ 쇄 + 보(조기) → 골쇄보",
+  "type": 4,
+  "carriers": [
+   "골절",
+   "쇠",
+   "보조기"
+  ],
+  "score": 21,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p2",
+  "category": [
+   "補益藥 · 2) 補陽藥 (3605행)"
+  ],
+  "tb_lines": [
+   3537,
+   3605
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.象皮",
+  "hid": "H103",
+  "hanja": "象皮",
+  "reading": "상피",
+  "cue": "상아 대신 피리 두 개가 난 코끼리",
+  "draw_en": "an elephant whose two tusks are two wooden flutes instead of ivory",
+  "decode": "상아 + 피리 → 상피",
+  "type": 4,
+  "carriers": [
+   "상아",
+   "피리"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p2",
+  "category": [
+   "外用藥 (3614행)"
+  ],
+  "tb_lines": [
+   3538,
+   3614
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.黃狗腎",
+  "hid": "H104",
+  "hanja": "黃狗腎",
+  "reading": "황구신",
+  "cue": "네 발에 신발 신은 누렁개(황구)",
+  "draw_en": "a yellow Korean village dog wearing a shoe on each of its four paws",
+  "decode": "황구 + 신(발) → 황구신",
+  "type": 4,
+  "carriers": [
+   "황구",
+   "신발"
+  ],
+  "score": 21,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1 · p5 (p3 · p4 비슷)",
+  "category": [],
+  "tb_lines": [
+   3538
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.水蛭",
+  "hid": "H105",
+  "hanja": "水蛭",
+  "reading": "수질",
+  "cue": "시험관 물을 쪽 빨아 수질검사하는 거머리",
+  "draw_en": "a dark leech wearing tiny safety goggles, sucking water from a test tube through its mouth like a lab inspector",
+  "decode": "수질 = 수질",
+  "type": 1,
+  "carriers": [
+   "수질"
+  ],
+  "score": 24,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p1~p6",
+  "category": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_lines": [
+   3501,
+   3538,
+   3593
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.杜仲",
+  "hid": "H106",
+  "hanja": "杜仲",
+  "reading": "두충",
+  "cue": "충전기 꽂고 충전 중인 두꺼비",
+  "draw_en": "A fat warty toad sitting contentedly with a phone charging cable plugged into its back and a small lightning-bolt glow; no battery numbers.",
+  "decode": "두(꺼비) + 충(전) → 두충",
+  "type": 4,
+  "carriers": [
+   "두꺼비",
+   "충전기"
+  ],
+  "score": 24,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p2 · p5 (두꺼비는 Gemini 원안)",
+  "category": [
+   "補益藥 · 2) 補陽藥 (3605행)"
+  ],
+  "tb_lines": [
+   3605
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.巴戟天",
+  "hid": "H107",
+  "hanja": "巴戟天",
+  "reading": "파극천",
+  "cue": "극장 천장을 뚫고 솟은 대파",
+  "draw_en": "A small theater building with red stage curtains at its open front, and a giant green leek bursting up through its roof with bits of ceiling flying; no sign or lettering.",
+  "decode": "(대)파 + 극(장) + 천(장) → 파극천",
+  "type": 4,
+  "carriers": [
+   "대파",
+   "극장",
+   "천장"
+  ],
+  "score": 21,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p2 · 다른 모델 안",
+  "category": [
+   "補益藥 · 2) 補陽藥 (3605행)"
+  ],
+  "tb_lines": [
+   3605
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.補骨脂",
+  "hid": "H108",
+  "hanja": "補骨脂",
+  "reading": "보골지",
+  "cue": "해골 찍힌 보물지도",
+  "draw_en": "An old unrolled pirate treasure map with a dotted path, an X mark and a small skull symbol drawn on it; no writing.",
+  "decode": "보(물) + 해골 + 지(도) → 보골지",
+  "type": 4,
+  "carriers": [
+   "보물지도",
+   "해골"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p2 · p4",
+  "category": [
+   "補益藥 · 2) 補陽藥 (3605행)"
+  ],
+  "tb_lines": [
+   3544,
+   3605
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.小茴香",
+  "hid": "H109",
+  "hanja": "小茴香",
+  "reading": "소회향",
+  "cue": "분말 대신 향 연기를 뿜는 소화기",
+  "draw_en": "a red fire extinguisher spraying swirling clouds of fragrant incense smoke out of its nozzle instead of foam",
+  "decode": "소화기 → 소화 ≈ 소회 + 향 연기 → 향",
+  "type": 3,
+  "carriers": [
+   "소화기",
+   "향(연기)"
+  ],
+  "score": 21,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1 · p5",
+  "category": [
+   "溫裏藥 (3581행)"
+  ],
+  "tb_lines": [
+   3544,
+   3581
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.橘核",
+  "hid": "H110",
+  "hanja": "橘核",
+  "reading": "귤핵",
+  "cue": "핵폭탄 씨를 품은 주황 귤",
+  "draw_en": "an orange mandarin cut in half, its seed is a small finned nuclear bomb with a tiny mushroom-cloud puff",
+  "decode": "귤 + 핵폭탄 → 귤핵",
+  "type": 4,
+  "carriers": [
+   "귤",
+   "핵폭탄"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "Gemini 원안 · p1 · p6",
+  "category": [],
+  "tb_lines": [
+   3544
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.荔枝核",
+  "hid": "H111",
+  "hanja": "荔枝核",
+  "reading": "여지핵",
+  "cue": "핵폭탄 꼴 씨앗이 박힌 반지를 자랑하는 여자",
+  "draw_en": "an elegant woman proudly holding up her hand to show off a ring whose gemstone is a small brown seed shaped like a cartoon nuclear bomb",
+  "decode": "여자 → 여 + 반지 → 지 + 핵폭탄 → 핵",
+  "type": 4,
+  "carriers": [
+   "여자",
+   "반지",
+   "핵폭탄"
+  ],
+  "score": 21,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "Gemini 원안 · p6",
+  "category": [
+   "理氣藥 (3583행)"
+  ],
+  "tb_lines": [
+   3544,
+   3583
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.車前子",
+  "hid": "H112",
+  "hanja": "車前子",
+  "reading": "차전자",
+  "cue": "바퀴 달린 전자레인지 자동차",
+  "draw_en": "A silver microwave oven built as a little car with round wheels, headlights and a tiny steering wheel behind its glass door, no text.",
+  "decode": "차 + 전자(레인지) → 차전자",
+  "type": 4,
+  "carriers": [
+   "차",
+   "전자레인지"
+  ],
+  "score": 24,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p1 · p4 · p5",
+  "category": [
+   "利水滲濕藥 · 2) 利尿通淋藥 (3579행)"
+  ],
+  "tb_lines": [
+   3544,
+   3579,
+   3628
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.竹茹",
+  "hid": "H113",
+  "hanja": "竹茹",
+  "reading": "죽여",
+  "cue": "대나무 주걱으로 죽 젓는 여사님",
+  "draw_en": "a cheerful middle-aged Korean lady in an apron stirring a big pot of rice porridge with a large bamboo paddle",
+  "decode": "죽 + 여사님 → 죽여",
+  "type": 4,
+  "carriers": [
+   "죽",
+   "여사님"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p4 (Gemini 원안 「여사님」 + 계획서 안 「죽」)",
+  "category": [
+   "化痰止咳平喘藥 · 2) 淸化熱痰藥 (3595행)"
+  ],
+  "tb_lines": [
+   3545,
+   3595
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.百部根",
+  "hid": "H114",
+  "hanja": "百部根",
+  "reading": "백부근",
+  "cue": "알통 자랑하는 근육질 로마 백부장",
+  "draw_en": "a muscular Roman centurion in a crested helmet flexing his huge biceps",
+  "decode": "백부장 + 근육 → 백부근",
+  "type": 4,
+  "carriers": [
+   "백부장",
+   "근육"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p6",
+  "category": [
+   "化痰止咳平喘藥 · 3) 止咳平喘藥 (3595행)"
+  ],
+  "tb_lines": [
+   3546,
+   3595
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.款冬花",
+  "hid": "H115",
+  "hanja": "款冬花",
+  "reading": "관동화",
+  "cue": "왕관 쓴 동화책이 펼쳐지며 꽃이 튀어나옴",
+  "draw_en": "an open picture storybook wearing a golden crown, flowers bursting out from its pages",
+  "decode": "왕관 + 동화(책) → 관동화",
+  "type": 4,
+  "carriers": [
+   "왕관",
+   "동화책"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p1 · p4 · p5 · p6 + p3(꽃)",
+  "category": [
+   "化痰止咳平喘藥 · 3) 止咳平喘藥 (3595행)"
+  ],
+  "tb_lines": [
+   3506,
+   3546,
+   3595
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.紫菀",
+  "hid": "H116",
+  "hanja": "紫菀",
+  "reading": "자완",
+  "cue": "자전거 타는 보라색 완두콩",
+  "draw_en": "a purple pea character with a face happily riding a small bicycle",
+  "decode": "자전거 + 완두콩 → 자완",
+  "type": 4,
+  "carriers": [
+   "자전거",
+   "완두콩"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1 · p4",
+  "category": [
+   "化痰止咳平喘藥 · 3) 止咳平喘藥 (3595행)"
+  ],
+  "tb_lines": [
+   3595
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.枇杷葉",
+  "hid": "H117",
+  "hanja": "枇杷葉",
+  "reading": "비파엽",
+  "cue": "비파 — 원안: 비파 악기 나뭇잎",
+  "draw_en": "",
+  "decode": "",
+  "type": "",
+  "carriers": [
+   "비파"
+  ],
+  "score": "",
+  "status": "fixed",
+  "run": "보존 목록",
+  "from": "보존 목록(계획서 8절)",
+  "category": [
+   "化痰止咳平喘藥 · 2) 淸化熱痰藥 (3595행)"
+  ],
+  "tb_lines": [
+   3546,
+   3595
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.黃芪",
+  "hid": "H118",
+  "hanja": "黃芪",
+  "reading": "황기",
+  "cue": "깃대 꼭대기까지 솟구친 노란 깃발",
+  "draw_en": "A bright yellow flag that has shot all the way up to the very top of its flagpole, flapping vigorously upward; plain cloth, no gold bar, no emblem.",
+  "decode": "노란(黃 가족) + 깃(발) → 황기",
+  "type": 2,
+  "carriers": [
+   "깃발"
+  ],
+  "score": 21,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p4 (p2 · p3 · p5 · p6 계열 · Gemini 원안에서 황금을 뺌)",
+  "category": [
+   "補益藥 · 1) 補氣藥 (3604행)"
+  ],
+  "tb_lines": [
+   3430,
+   3440,
+   3452,
+   3472,
+   3492,
+   3546,
+   3604,
+   3609
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.馬兜鈴",
+  "hid": "H119",
+  "hanja": "馬兜鈴",
+  "reading": "마두령",
+  "cue": "방울 흔드는 만두 두령(산적 대장 만두)",
+  "draw_en": "a plump steamed dumpling (mandu) dressed as a bandit chief with a headband and eye patch, ringing a big brass bell",
+  "decode": "만두 + 두령 → 마두령, 방울 = 鈴",
+  "type": 4,
+  "carriers": [
+   "만두",
+   "두령"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p5(만두 · 방울) + p2 · p3 · p4(두령)",
+  "category": [
+   "化痰止咳平喘藥 · 3) 止咳平喘藥 (3595행)"
+  ],
+  "tb_lines": [
+   3546,
+   3595
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.蛤蚧",
+  "hid": "H120",
+  "hanja": "蛤蚧",
+  "reading": "합개",
+  "cue": "찬합을 메고 가는 개미",
+  "draw_en": "A single ant marching along carrying on its back a stacked Korean lacquered lunch box (chanhap) far bigger than itself.",
+  "decode": "(찬)합 + 개(미) → 합개",
+  "type": 4,
+  "carriers": [
+   "찬합",
+   "개미"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p4",
+  "category": [
+   "補益藥 · 2) 補陽藥 (3605행)"
+  ],
+  "tb_lines": [
+   3443,
+   3546,
+   3605
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.豹骨",
+  "hid": "H121",
+  "hanja": "豹骨",
+  "reading": "표골",
+  "cue": "골키퍼 장갑 끼고 몸 날린 표범",
+  "draw_en": "a spotted leopard wearing big goalkeeper gloves, diving sideways in midair",
+  "decode": "표범 + 골키퍼 → 표골",
+  "type": 4,
+  "carriers": [
+   "표범",
+   "골키퍼"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1 · p2 · p4",
+  "category": [],
+  "tb_lines": [
+   3546
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.石決明",
+  "hid": "H122",
+  "hanja": "石決明",
+  "reading": "석결명",
+  "cue": "석쇠 위에서 안경 쓴 전복",
+  "draw_en": "An abalone in its shiny iridescent shell wearing round eyeglasses while sitting on a metal grill grate.",
+  "decode": "석(쇠) + 안경 = 明目 뜻 고리 · 전복 = 실물 → 석결명 (결은 비어 있음)",
+  "type": 4,
+  "carriers": [
+   "석쇠"
+  ],
+  "score": 18,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1 · p4",
+  "category": [
+   "平肝藥 · 2) 平肝潛陽藥 (3599행)"
+  ],
+  "tb_lines": [
+   3550,
+   3599
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.龍骨",
+  "hid": "H123",
+  "hanja": "龍骨",
+  "reading": "용골",
+  "cue": "뼈만 남은 용 골격(뿔 · 수염 달린 동양 용)",
+  "draw_en": "the bare white skeleton of an East Asian dragon with antlers and long whiskers on its skull and a long serpentine spine, rearing up and roaring, clearly a dragon and not a dinosaur",
+  "decode": "용 + 골격 → 용골",
+  "type": 4,
+  "carriers": [
+   "용",
+   "골격"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p2",
+  "category": [
+   "安神藥 · 1) 重鎭安神藥 (3597행)"
+  ],
+  "tb_lines": [
+   3444,
+   3597,
+   3614,
+   3626
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.磁石",
+  "hid": "H124",
+  "hanja": "磁石",
+  "reading": "자석",
+  "cue": "쇠못이 줄줄이 붙은 은빛 U자 말굽자석",
+  "draw_en": "a shiny silver U-shaped horseshoe magnet with chains of iron nails clinging to both tips, no letters or marks",
+  "decode": "자석 = 자석",
+  "type": 1,
+  "carriers": [
+   "자석"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "Gemini 원안 · p1~p6",
+  "category": [
+   "安神藥 · 1) 重鎭安神藥 (3597행)"
+  ],
+  "tb_lines": [
+   3550,
+   3597,
+   3626
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.自然銅",
+  "hid": "H125",
+  "hanja": "自然銅",
+  "reading": "자연동",
+  "cue": "도끼 든 채 구리 동상이 된 산속 자연인",
+  "draw_en": "a bearded mountain hermit holding an axe, entirely turned into a shiny copper-bronze statue on a small rock base",
+  "decode": "자연인 + 동상 → 자연동",
+  "type": 4,
+  "carriers": [
+   "자연인",
+   "동상"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p3 · p5",
+  "category": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_lines": [
+   3550,
+   3593
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.爐甘石",
+  "hid": "H126",
+  "hanja": "爐甘石",
+  "reading": "노감석",
+  "cue": "돌로 만든 배에서 노를 젓는 주황 단감",
+  "draw_en": "A cheerful round orange persimmon with a small face sits in a little boat carved from grey stone and rows it with a wooden oar; plain white background, no text.",
+  "decode": "노(爐) + 감(甘) + 석(石, 돌배) → 노감석",
+  "type": 4,
+  "carriers": [
+   "노",
+   "단감",
+   "돌배"
+  ],
+  "score": 19,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안(노 젓는 감 · 돌배). 심사 안 「감자」는 의학사 醫宗金鑑 「금감자」와 겹쳐 본체가 바꿈(기본값 적용)",
+  "category": [
+   "外用藥 (3614행)"
+  ],
+  "tb_lines": [
+   3550,
+   3614
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.血餘炭",
+  "hid": "H127",
+  "hanja": "血餘炭",
+  "reading": "혈여탄",
+  "cue": "혈압계를 팔에 찬 장발 연탄",
+  "draw_en": "a black round coal briquette with holes, long flowing hair and little arms, a blood pressure cuff with a blank dial wrapped on its arm",
+  "decode": "혈압계 + 연탄 → 혈(여)탄, 장발 = 血餘",
+  "type": 4,
+  "carriers": [
+   "혈압계",
+   "연탄"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p2",
+  "category": [],
+  "tb_lines": [
+   3550
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.乾漆",
+  "hid": "H128",
+  "hanja": "乾漆",
+  "reading": "건칠",
+  "cue": "붓으로 검게 옻칠해 번들거리는 건빵",
+  "draw_en": "a hardtack biscuit (geonppang) being painted glossy black lacquer with a brush, dripping and shining",
+  "decode": "건빵 + 옻칠 → 건칠",
+  "type": 4,
+  "carriers": [
+   "건빵",
+   "옻칠"
+  ],
+  "score": 24,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1 · p3 · p4 (다른 모델 안)",
+  "category": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_lines": [
+   3501,
+   3550,
+   3593
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.熟地黃",
+  "hid": "H129",
+  "hanja": "熟地黃",
+  "reading": "숙지황",
+  "cue": "숙제 노트 펼친 검은 지하 황제",
+  "draw_en": "A black-skinned emperor in robes and crown sitting in an underground burrow, earnestly doing homework in an open notebook with a pencil.",
+  "decode": "숙(제) + 지하 황제(地黃 가족) → 숙지황",
+  "type": 4,
+  "carriers": [
+   "숙제",
+   "지하 황제(가족)"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p2 (p1 · p3 · p4 · p5 · p6 같은 단서)",
+  "category": [
+   "補益藥 · 3) 補血藥 (3606행)"
+  ],
+  "tb_lines": [
+   3606,
+   3756
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.黃精",
+  "hid": "H130",
+  "hanja": "黃精",
+  "reading": "황정",
+  "cue": "단추가 튕겨 나가는 꽉 낀 노란 정장 마네킹",
+  "draw_en": "A dress-form mannequin squeezed into a far-too-tight bright yellow business suit, its buttons popping off.",
+  "decode": "노란(黃 가족) + 정(장) → 황정",
+  "type": 2,
+  "carriers": [
+   "정장"
+  ],
+  "score": 21,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p2 (p3 · p5 · 다른 모델 안 계열)",
+  "category": [
+   "補益藥 · 4) 補陰藥 (3607행)"
+  ],
+  "tb_lines": [
+   3552,
+   3607
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.桑螵蛸",
+  "hid": "H131",
+  "hanja": "桑螵蛸",
+  "reading": "상표초",
+  "cue": "상표 택 달린 초록 사마귀",
+  "draw_en": "A bright green praying mantis with a blank price tag hanging on a string from its foreleg; the tag is left blank.",
+  "decode": "상표 + 초(록) → 상표초 · 사마귀 = 螵蛸 실물 고리",
+  "type": 4,
+  "carriers": [
+   "상표",
+   "초록"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p1 · p2",
+  "category": [
+   "收澁藥 · 3) 澁精縮尿止帶藥 (3609행)"
+  ],
+  "tb_lines": [
+   3438,
+   3552,
+   3609
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.木瓜",
+  "hid": "H132",
+  "hanja": "木瓜",
+  "reading": "목과",
+  "cue": "나무 막대 양끝에 울퉁불퉁 연둣빛 모과를 꿴 아령",
+  "draw_en": "A dumbbell made of a wooden bar with a lumpy pale-green quince fruit stuck on each end, no text.",
+  "decode": "모과(= 木瓜) + 나무(木) → 목과 (아령 = 舒筋)",
+  "type": 3,
+  "carriers": [
+   "모과"
+  ],
+  "score": 24,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "Gemini 원안 · p4",
+  "category": [
+   "祛風濕藥 · 2) 舒筋活絡藥 (3575행)"
+  ],
+  "tb_lines": [
+   3430,
+   3438,
+   3552,
+   3575
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.遠志",
+  "hid": "H133",
+  "hanja": "遠志",
+  "reading": "원지",
+  "cue": "망원경 들고 지도를 펼친 소년",
+  "draw_en": "a curious boy peering through a long telescope while holding an unfolded old map with no writing on it",
+  "decode": "망원경 + 지도 → 원지 (망원경 = 멀리 遠)",
+  "type": 4,
+  "carriers": [
+   "망원경",
+   "지도"
+  ],
+  "score": 21,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "Gemini 원안 · p2 · p3 · p4 · p6",
+  "category": [
+   "安神藥 · 2) 滋養安神藥 (3597행)"
+  ],
+  "tb_lines": [
+   3553,
+   3597
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.珍珠",
+  "hid": "H134",
+  "hanja": "珍珠",
+  "reading": "진주",
+  "cue": "영롱한 진주알",
+  "draw_en": "One large lustrous pearl gleaming with soft rainbow highlights.",
+  "decode": "진주 → 진주",
+  "type": 1,
+  "carriers": [
+   "진주"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "Gemini 원안 · p1 · p2 · p4 · p6",
+  "category": [
+   "平肝藥 · 2) 平肝潛陽藥 (3599행)"
+  ],
+  "tb_lines": [
+   341,
+   3420,
+   3553,
+   3599,
+   3614,
+   3859
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.杏仁",
+  "hid": "H135",
+  "hanja": "杏仁",
+  "reading": "행인",
+  "cue": "손 번쩍 들고 횡단보도 건너는 살구씨 행인",
+  "draw_en": "an apricot kernel character with a face raising one hand high while walking across a zebra crosswalk",
+  "decode": "행인 = 행인",
+  "type": 1,
+  "carriers": [
+   "행인"
+  ],
+  "score": 24,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p1~p6 (p3 동작)",
+  "category": [
+   "化痰止咳平喘藥 · 3) 止咳平喘藥 (3595행)"
+  ],
+  "tb_lines": [
+   3439,
+   3522,
+   3553,
+   3595,
+   3620,
+   3754
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.白扁豆",
+  "hid": "H136",
+  "hanja": "白扁豆",
+  "reading": "백편두",
+  "cue": "흰 붕대로 머리 싸맨 편두통 콩",
+  "draw_en": "A flat white bean with a white bandage wrapped around its head, pressing one hand to its temple with a pained grimace.",
+  "decode": "흰(백) + 편두(통) → 백편두",
+  "type": 2,
+  "carriers": [
+   "편두통"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p1 · p2 · p3 · p4 · p5 · p6",
+  "category": [
+   "補益藥 · 1) 補氣藥 (3604행)"
+  ],
+  "tb_lines": [
+   3604
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.陳皮",
+  "hid": "H137",
+  "hanja": "陳皮",
+  "reading": "진피",
+  "cue": "거미줄이 쳐진 오래 묵은 귤껍질",
+  "draw_en": "a dried, wrinkled, very old tangerine peel curled up and covered in dusty cobwebs",
+  "decode": "묵은 귤껍질 = 진피(실물 이름 그대로)",
+  "type": 6,
+  "carriers": [
+   "귤껍질(실물)"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p4 · 계획서 B-6 (Gemini 묵은 귤껍질)",
+  "category": [
+   "理氣藥 (3583행)"
+  ],
+  "tb_lines": [
+   3442,
+   3506,
+   3583,
+   3637
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.紫蘇葉",
+  "hid": "H138",
+  "hanja": "紫蘇葉",
+  "reading": "자소엽",
+  "cue": "깻잎 이불을 덮고 자는 보라 소",
+  "draw_en": "a purple cow sleeping peacefully with eyes closed, tucked under one giant perilla leaf used as a blanket (no Z letters)",
+  "decode": "자는 → 자 · 소 → 소 · 잎 ≈ 엽 · 보라 = 紫",
+  "type": 4,
+  "carriers": [
+   "자는",
+   "소",
+   "깻잎"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p4",
+  "category": [
+   "解表藥 · 1) 發散風寒藥 (3563행)"
+  ],
+  "tb_lines": [
+   3563
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.薄荷",
+  "hid": "H139",
+  "hanja": "薄荷",
+  "reading": "박하",
+  "cue": "찬 김을 후 뿜는 초록 박하 잎 줄기",
+  "draw_en": "a sprig of fresh green mint leaves with a little face, blowing out a puff of icy blue frosty breath",
+  "decode": "박하 → 박하 · 찬 김 = 淸涼",
+  "type": 1,
+  "carriers": [
+   "박하"
+  ],
+  "score": 21,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p2 · p5 · p6 (원안 낱말 박하)",
+  "category": [
+   "解表藥 · 2) 發散風熱藥 (3563행)"
+  ],
+  "tb_lines": [
+   3432,
+   3442,
+   3452,
+   3506,
+   3563,
+   3628
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.菊花",
+  "hid": "H140",
+  "hanja": "菊花",
+  "reading": "국화",
+  "cue": "선글라스 쓴 흰 국화꽃",
+  "draw_en": "a white chrysanthemum flower with a cool face wearing dark sunglasses",
+  "decode": "국화 → 국화 · 선글라스 = 明目",
+  "type": 1,
+  "carriers": [
+   "국화"
+  ],
+  "score": 25,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p4 (원안 · p2 · p6 바탕)",
+  "category": [
+   "解表藥 · 2) 發散風熱藥 (3563행)"
+  ],
+  "tb_lines": [
+   3432,
+   3506,
+   3563,
+   3569
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.桃花",
+  "hid": "H141",
+  "hanja": "桃花",
+  "reading": "도화",
+  "cue": "이젤 위 도화지에 핀 복숭아꽃",
+  "draw_en": "a sheet of drawing paper on a small wooden easel with pink peach blossoms bursting out of the paper in 3D",
+  "decode": "도화지 → 도화",
+  "type": 2,
+  "carriers": [
+   "도화지"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p5 (p1 · p2 도화지)",
+  "category": [],
+  "tb_lines": [
+   3506
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.赤小豆",
+  "hid": "H142",
+  "hanja": "赤小豆",
+  "reading": "적소두",
+  "cue": "얼굴 달린 붉은 꼬마 팥알",
+  "draw_en": "A tiny dark-red adzuki bean with a cute face and tiny arms and legs, standing alone, no text.",
+  "decode": "팥 = 赤小豆 (붉은 赤 · 꼬마 小 · 콩 豆)",
+  "type": 6,
+  "carriers": [
+   "팥"
+  ],
+  "score": 14,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "Gemini 원안 · p1 · p2 · p5 · p6",
+  "category": [
+   "利水滲濕藥 · 1) 利水退腫藥 (3579행)"
+  ],
+  "tb_lines": [
+   3506,
+   3579,
+   3626
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.澤蘭",
+  "hid": "H143",
+  "hanja": "澤蘭",
+  "reading": "택란",
+  "cue": "택배 상자에서 고개 내민 계란",
+  "draw_en": "a white egg with a face peeking out of an open cardboard delivery parcel box",
+  "decode": "택배 + 계란 → 택란",
+  "type": 4,
+  "carriers": [
+   "택배",
+   "계란"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p1 · p4 · p6 + p5(고개 내밀기)",
+  "category": [
+   "活血祛瘀藥 (3593행)"
+  ],
+  "tb_lines": [
+   3506,
+   3593
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.槐花",
+  "hid": "H144",
+  "hanja": "槐花",
+  "reading": "괴화",
+  "cue": "꽃다발을 안고 수줍어하는 괴물",
+  "draw_en": "a shaggy green horned monster shyly holding a bouquet of small pale-yellow flowers",
+  "decode": "괴물 → 괴 + 꽃(花) → 화",
+  "type": 4,
+  "carriers": [
+   "괴물",
+   "꽃다발"
+  ],
+  "score": 21,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "Gemini 원안 · p6",
+  "category": [
+   "止血藥 · 2) 凉血止血藥 (3591행)"
+  ],
+  "tb_lines": [
+   3432,
+   3506,
+   3591
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.生薑",
+  "hid": "H145",
+  "hanja": "生薑",
+  "reading": "생강",
+  "cue": "싱싱한 날생강 개구리 — 물기 반짝",
+  "draw_en": "a fresh, glistening, wet ginger root shaped like a frog crouching to jump, water droplets on its knobby skin",
+  "decode": "생강 → 생강 · 물기 = 生",
+  "type": 1,
+  "carriers": [
+   "생강"
+  ],
+  "score": 24,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "Gemini 원안 · p6",
+  "category": [
+   "解表藥 · 1) 發散風寒藥 (3563행)"
+  ],
+  "tb_lines": [
+   3430,
+   3493,
+   3494,
+   3495,
+   3527,
+   3556,
+   3560,
+   3563
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.防風",
+  "hid": "H146",
+  "hanja": "防風",
+  "reading": "방풍",
+  "cue": "바람에 빵빵하게 부푼 빈 방풍 점퍼",
+  "draw_en": "an empty zip-up windbreaker jacket puffed up like a balloon by a strong gust of wind, sleeves flapping",
+  "decode": "방풍 점퍼 → 방풍",
+  "type": 1,
+  "carriers": [
+   "방풍"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p2 · p4 · p5",
+  "category": [
+   "解表藥 · 1) 發散風寒藥 (3563행)"
+  ],
+  "tb_lines": [
+   3493,
+   3495,
+   3563
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.雄黃",
+  "hid": "H147",
+  "hanja": "雄黃",
+  "reading": "웅황",
+  "cue": "노란 웅덩이에서 뱀이 튀어 도망",
+  "draw_en": "a bright yellow puddle with a startled green snake leaping out of it and fleeing",
+  "decode": "웅덩이 + 노랑(黃 가족) → 웅황",
+  "type": 4,
+  "carriers": [
+   "웅덩이"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "p3 (p2 웅덩이)",
+  "category": [
+   "外用藥 (3614행)"
+  ],
+  "tb_lines": [
+   3495,
+   3501,
+   3511,
+   3614
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.澤瀉",
+  "hid": "H148",
+  "hanja": "澤瀉",
+  "reading": "택사",
+  "cue": "지붕에서 물을 분수처럼 뿜는 흰 택시(지붕등 글자 없음)",
+  "draw_en": "A white taxi with a blank roof light spraying a fountain of water upward from its roof, not yellow, no letters.",
+  "decode": "택시 ≈ 택사 (물 = 利水)",
+  "type": 3,
+  "carriers": [
+   "택시"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-herbdict",
+  "from": "계획서 안 · p1 · p2 · p3 · p4 · p5 · p6",
+  "category": [
+   "利水滲濕藥 · 1) 利水退腫藥 (3579행)"
+  ],
+  "tb_lines": [
+   3444,
+   3458,
+   3472,
+   3475,
+   3493,
+   3507,
+   3579
+  ],
+  "used_in": []
+ }
+]

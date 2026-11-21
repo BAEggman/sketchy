@@ -1,0 +1,358 @@
+{
+ "batch": "B3",
+ "items": [
+  {
+   "id": "H016",
+   "hanja": "枳實",
+   "reading": "지실",
+   "cue": "지퍼에서 끝없이 풀려 나오는 실",
+   "draw_en": "a large metal zipper being yanked open while an endless tangle of thread keeps spooling out from between its teeth",
+   "decode": "지퍼 → 지 + 실 → 지실",
+   "type": 4,
+   "carriers": [
+    "지퍼",
+    "실"
+   ],
+   "score": 23,
+   "from": "계획서 안 · p1 · p2 · p4 · p5 · p6"
+  },
+  {
+   "id": "H020",
+   "hanja": "乾薑",
+   "reading": "건강",
+   "cue": "청진기를 대고 건강검진 받으며 알통 자랑하는 마른 생강",
+   "draw_en": "a shriveled dried ginger root with bulging cartoon biceps flexing proudly while a doctor's stethoscope is pressed to its chest",
+   "decode": "건강검진 → 건강",
+   "type": 1,
+   "carriers": [
+    "건강(검진)"
+   ],
+   "score": 24,
+   "from": "계획서 안 · p1 · p2 · p4 · p6 (Gemini 근육 생강)"
+  },
+  {
+   "id": "H021",
+   "hanja": "肉桂",
+   "reading": "육계",
+   "cue": "계피 막대가 젓가락처럼 꽂힌 육개장 한 그릇",
+   "draw_en": "a steaming bowl of spicy red Korean beef soup with several rolled cinnamon bark sticks standing upright in it like chopsticks",
+   "decode": "육개장 → 육개 ≈ 육계",
+   "type": 3,
+   "carriers": [
+    "육개장"
+   ],
+   "score": 22,
+   "from": "p2"
+  },
+  {
+   "id": "H025",
+   "hanja": "川烏",
+   "reading": "천오",
+   "cue": "천막 자락을 뒤집어쓰고 고개만 내민 까마귀",
+   "draw_en": "a black crow wearing a small canvas camping tent over its body like a shell, only its beaked head poking out of the tent flap",
+   "decode": "천막 → 천 + 까마귀(烏 가족) → 오",
+   "type": 4,
+   "carriers": [
+    "천막"
+   ],
+   "score": 22,
+   "from": "p1 · p2"
+  },
+  {
+   "id": "H034",
+   "hanja": "五靈脂",
+   "reading": "오령지",
+   "cue": "유령이 들러붙은 오렌지",
+   "draw_en": "a round orange fruit with a small white cartoon ghost clinging to it and wrapping its wispy arms around it",
+   "decode": "오렌지 ≈ 오령지 (유령이 「령」을 한 번 더)",
+   "type": 3,
+   "carriers": [
+    "오렌지",
+    "유령"
+   ],
+   "score": 23,
+   "from": "계획서 안 · p1~p6"
+  },
+  {
+   "id": "H064",
+   "hanja": "白及",
+   "reading": "백급",
+   "cue": "구급상자를 입에 문 흰 개(백구)",
+   "draw_en": "a white Korean dog running with a white first-aid box with a red cross held in its mouth",
+   "decode": "백구 → 백 + 구급상자 → 급",
+   "type": 4,
+   "carriers": [
+    "백구",
+    "구급(상자)"
+   ],
+   "score": 22,
+   "from": "Gemini 원안 · p3 · p5 · p6"
+  },
+  {
+   "id": "H066",
+   "hanja": "丹參",
+   "reading": "단삼",
+   "cue": "단검을 든 붉은 뿌리 인형",
+   "draw_en": "a red ginseng-root doll with little root arms and legs gripping a short dagger",
+   "decode": "단검 → 단 + 뿌리 인형(參 가족) → 삼",
+   "type": 4,
+   "carriers": [
+    "단검"
+   ],
+   "score": 23,
+   "from": "Gemini 원안 · p1~p6"
+  },
+  {
+   "id": "H078",
+   "hanja": "丁香",
+   "reading": "정향",
+   "cue": "정장 입고 넥타이 맨 향로가 연기를 피움",
+   "draw_en": "a small bronze incense burner wearing a black business suit jacket and necktie, a thin curl of smoke rising from its lid",
+   "decode": "정장 → 정 + 향로 → 향",
+   "type": 4,
+   "carriers": [
+    "정장",
+    "향로"
+   ],
+   "score": 22,
+   "from": "p1 · p2 · p3"
+  },
+  {
+   "id": "H079",
+   "hanja": "鬱金",
+   "reading": "울금",
+   "cue": "엉엉 우는 울보 금붕어",
+   "draw_en": "an orange goldfish bawling with huge cartoon tears streaming from its eyes",
+   "decode": "울보 → 울 + 금붕어 → 금",
+   "type": 4,
+   "carriers": [
+    "울보",
+    "금붕어"
+   ],
+   "score": 23,
+   "from": "p1~p6"
+  },
+  {
+   "id": "H081",
+   "hanja": "山楂",
+   "reading": "산사",
+   "cue": "빨간 열매가 와르르 쏟아지는 산사태",
+   "draw_en": "a small chunk of rocky hillside with an avalanche of shiny red hawthorn berries tumbling down its slope, one berry wide-eyed in panic",
+   "decode": "산사태 → 산사",
+   "type": 2,
+   "carriers": [
+    "산사태"
+   ],
+   "score": 22,
+   "from": "p2 · p3 · p4"
+  },
+  {
+   "id": "H082",
+   "hanja": "川楝子",
+   "reading": "천련자",
+   "cue": "등에 이끼 끼고 흰 수염 기른 천 년 묵은 자라",
+   "draw_en": "an ancient soft-shelled turtle with moss growing on its shell and a long flowing white beard, leaning on a walking stick",
+   "decode": "천년 → 천련 + 자라 → 자",
+   "type": 4,
+   "carriers": [
+    "천년",
+    "자라"
+   ],
+   "score": 22,
+   "from": "p1~p6"
+  },
+  {
+   "id": "H085",
+   "hanja": "大薊",
+   "reading": "대계",
+   "cue": "집게발을 번쩍 치켜든 거대한 대게",
+   "draw_en": "a huge snow crab with very long legs raising both claws high in a triumphant pose",
+   "decode": "대게 ≈ 대계",
+   "type": 1,
+   "carriers": [
+    "대게"
+   ],
+   "score": 24,
+   "from": "p1 · p2 · p3 · p4 · p5"
+  },
+  {
+   "id": "H086",
+   "hanja": "小薊",
+   "reading": "소계",
+   "cue": "소라 껍데기에서 빼꼼 내다보는 아주 작은 소라게",
+   "draw_en": "a tiny hermit crab peeking shyly out of a small spiral sea-snail shell",
+   "decode": "소라게 → 소 + 게 ≈ 소계",
+   "type": 4,
+   "carriers": [
+    "소라게"
+   ],
+   "score": 21,
+   "from": "p2 · p3"
+  },
+  {
+   "id": "H087",
+   "hanja": "白茅根",
+   "reading": "백모근",
+   "cue": "족집게에 뽑혀 비명 지르는 흰 머리카락 한 올과 모근",
+   "draw_en": "a pair of tweezers pulling out one long white hair whose bulb-shaped root at the bottom has a tiny screaming face",
+   "decode": "백발 → 백 + 모근",
+   "type": 4,
+   "carriers": [
+    "백발",
+    "모근"
+   ],
+   "score": 23,
+   "from": "계획서 안 · p1~p6"
+  },
+  {
+   "id": "H089",
+   "hanja": "側柏葉",
+   "reading": "측백엽",
+   "cue": "지붕 위에 측우기를 얹은 흰 백엽상",
+   "draw_en": "a small white louvered wooden weather-instrument box on four legs with a bronze cylindrical rain gauge on a stone stand sitting on its roof",
+   "decode": "측우기 → 측 + 백엽상 → 백엽",
+   "type": 4,
+   "carriers": [
+    "측우기",
+    "백엽상"
+   ],
+   "score": 21,
+   "from": "p1"
+  },
+  {
+   "id": "H092",
+   "hanja": "地楡",
+   "reading": "지유",
+   "cue": "지렁이가 칭칭 감긴 빨간 주유기",
+   "draw_en": "a red gas-station fuel pump with a pink earthworm coiled around its hose, the worm hugging the nozzle",
+   "decode": "지렁이 → 지 + 주유기 → 유",
+   "type": 4,
+   "carriers": [
+    "지렁이",
+    "주유기"
+   ],
+   "score": 22,
+   "from": "p1"
+  },
+  {
+   "id": "H093",
+   "hanja": "蒲黃",
+   "reading": "포황",
+   "cue": "목에 댄 노란 포환이 노란 꽃가루로 퍽 터짐",
+   "draw_en": "a shot-put athlete in throwing stance pressing a heavy yellow ball against his neck as the ball bursts into a puff of yellow pollen dust",
+   "decode": "포환 → 포 + 노란색(黃 가족) → 황",
+   "type": 4,
+   "carriers": [
+    "포환"
+   ],
+   "score": 23,
+   "from": "p1 · p2 · p3 · p4"
+  },
+  {
+   "id": "H094",
+   "hanja": "卷柏",
+   "reading": "권백",
+   "cue": "권투 글러브 끼고 펀치를 날리는 백조",
+   "draw_en": "a white swan wearing red boxing gloves on its wings and throwing a punch",
+   "decode": "권투 → 권 + 백조 → 백",
+   "type": 4,
+   "carriers": [
+    "권투",
+    "백조"
+   ],
+   "score": 24,
+   "from": "계획서 안 · p1~p6"
+  },
+  {
+   "id": "H109",
+   "hanja": "小茴香",
+   "reading": "소회향",
+   "cue": "분말 대신 향 연기를 뿜는 소화기",
+   "draw_en": "a red fire extinguisher spraying swirling clouds of fragrant incense smoke out of its nozzle instead of foam",
+   "decode": "소화기 → 소화 ≈ 소회 + 향 연기 → 향",
+   "type": 3,
+   "carriers": [
+    "소화기",
+    "향(연기)"
+   ],
+   "score": 21,
+   "from": "p1 · p5"
+  },
+  {
+   "id": "H111",
+   "hanja": "荔枝核",
+   "reading": "여지핵",
+   "cue": "핵폭탄 꼴 씨앗이 박힌 반지를 자랑하는 여자",
+   "draw_en": "an elegant woman proudly holding up her hand to show off a ring whose gemstone is a small brown seed shaped like a cartoon nuclear bomb",
+   "decode": "여자 → 여 + 반지 → 지 + 핵폭탄 → 핵",
+   "type": 4,
+   "carriers": [
+    "여자",
+    "반지",
+    "핵폭탄"
+   ],
+   "score": 21,
+   "from": "Gemini 원안 · p6"
+  },
+  {
+   "id": "H137",
+   "hanja": "陳皮",
+   "reading": "진피",
+   "cue": "거미줄이 쳐진 오래 묵은 귤껍질",
+   "draw_en": "a dried, wrinkled, very old tangerine peel curled up and covered in dusty cobwebs",
+   "decode": "묵은 귤껍질 = 진피(실물 이름 그대로)",
+   "type": 6,
+   "carriers": [
+    "귤껍질(실물)"
+   ],
+   "score": 22,
+   "from": "p4 · 계획서 B-6 (Gemini 묵은 귤껍질)"
+  },
+  {
+   "id": "H144",
+   "hanja": "槐花",
+   "reading": "괴화",
+   "cue": "꽃다발을 안고 수줍어하는 괴물",
+   "draw_en": "a shaggy green horned monster shyly holding a bouquet of small pale-yellow flowers",
+   "decode": "괴물 → 괴 + 꽃(花) → 화",
+   "type": 4,
+   "carriers": [
+    "괴물",
+    "꽃다발"
+   ],
+   "score": 21,
+   "from": "Gemini 원안 · p6"
+  }
+ ],
+ "conflict_risk": [
+  "백구: 白及(B3)와 葱白(B1, 대파 총 든 백구)이 둘 다 쓰면 상한 2회에 닿음 — 계획서 B-4대로 葱白을 「백자 항아리」로 옮기는 편이 안전(둘 다 흰 개라 그림 변별도 약함)",
+  "핵폭탄: 荔枝核(B3)와 橘核(B6, 귤 핵폭탄 씨앗) 2회로 상한 — 다른 약은 쓰지 말 것",
+  "괴물: 槐花(B3)와 槐角(B1, 괴물이 든 각도기) 2회로 상한",
+  "향: 乳香 · 香附子가 「향수」, 丁香 = 향로, 小茴香 = 향 연기. 낱말은 다르나 같은 「향」 소품 계열 — 본체가 사전 전체 香 약과 함께 확인",
+  "천: 川烏 = 천막(옷감 아님). 「천(옷감)」은 川椒(B6) 한 번만 남음. 川楝子 = 천년, 川芎 = 천사, 天南星 = 천하장사와 다른 낱말",
+  "자라: 川楝子(B3) — B4 紫菀 안(p6 보라 자라)이 채택되면 2회",
+  "지렁이: 地楡(B3) — B2 地骨皮 안(p2 골프채 지렁이)이 채택되면 2회",
+  "지퍼: 枳實(B3) — 地骨皮 다른 모델 안(지퍼 달린 해골)이 B2에서 채택되면 겹침",
+  "게: 大薊 대게 · 小薊 소라게(같은 게 계열, 크기로 가름) — B1 桂枝 안(p3 게 지팡이)이 채택되면 「게」 셋째",
+  "계란: 小薊에 쓰지 않음(澤蘭 B4 택배 계란 몫). 소: 小薊에 쓰지 않음(紫蘇葉 보라 소 · 蘇敬 경례하는 소)",
+  "귤: 陳皮 귤껍질(실물)과 橘核 귤 — 같은 귤 가족이라 겹쳐도 사실상 맞으나 秦皮 = 진시황 가죽옷과 陳皮 사이에 「가죽옷」을 쓰지 않음(Gemini 가죽조끼 뺌, 象皮 가죽 조끼와도 겹침)"
+ ],
+ "needs_user_ok": [
+  {
+   "id": "H085",
+   "why": "B-5 원안 유지 목록(대계). 원안 「대왕 닭벼슬 기사」(14점: 계를 닭→鷄 훈 두 걸음, 대왕은 大黃과 겹침) → 「대게」(24점, 통째 소리)"
+  },
+  {
+   "id": "H086",
+   "why": "B-5 원안 유지 목록(소계). 원안 「꼬마 닭벼슬 소년」(14점) → 「소라게」(21점). 大薊 대게와 짝으로 크기만 가름"
+  }
+ ],
+ "check_needed": [
+  "肉桂: 계획서 「통닭(육계)」을 다섯 안이 냈으나 그림 이름이 「통닭」이라 육계까지 한 걸음 더 듦 → 육개장(22) 채택. 통닭(19)을 더 좋아하면 바꿔도 겹침 없음",
+  "槐花: 「화분 인 괴물」(23)이 원안 「꽃다발」(21)보다 2점 높으나 B-5 원안 유지라 원안 채택. 바꾸려면 사용자 확인",
+  "側柏葉: 백엽상 · 측우기를 Gemini가 영어 설명만으로 알아보게 그리는지 첫 스티커에서 확인",
+  "山楂: 산사태 스티커는 흰 바탕 위 「비탈 한 조각」으로 — 배경 산 전체를 그리지 않게",
+  "陳皮: 유형 6(실물 이름 = 진피). 소리 대안은 「귤껍질 피리 부는 진돗개」(21) — 개 피규어가 이미 많아 뺌",
+  "丁香 · 小茴香: 둘 다 향 연기가 나옴. 같은 장면(十九畏 · 염자법)에 함께 서지 않는지 확인"
+ ]
+}

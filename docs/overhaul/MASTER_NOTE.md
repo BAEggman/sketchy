@@ -24,7 +24,7 @@
    - 본초 OCR `본초_185-207p_contextual_OCR.txt`
    - 교재 본문은 **저장소에 넣지 않는다**(줄 번호로만 인용).
 4. `docs/overhaul/STATE.json` · `DECISIONS.md` · `runs/`를 읽는다. 그다음 5절 「남은 일」의 첫 줄부터 한다.
-5. P2 검수는 통과했다(11-21 12:54 「넓혀도 돼」). 지금은 P3 의학사 구역 수정 중이다(5절). 구역 수정 도구 · 일꾼 안내서는 `docs/overhaul/p3/zone_jobs/`(작업장 `/home/claude/zt/`를 여기서 되살린다: `zjob.sh` · `AGENT_GUIDE.md` · 과마다 `edits.json` · `log.md`). 남은 편집의 바탕 그림 `cur.png`는 저장소에 없다 — 현재 게시 그림 `images/lessons/<id>.webp`(손질 대상) 또는 Mac `~/mnt/sketchy_opus/zone_test/`의 받은 조각에서 다시 만든다.
+5. P2 검수는 통과했다(11-21 12:54 「넓혀도 돼」). P3 의학사 구역 수정은 끝났고 사용자 검수를 기다린다(5절). 구역 수정 도구 · 일꾼 안내서는 `docs/overhaul/p3/zone_jobs/`(작업장 `/home/claude/zt/`를 여기서 되살린다: `zjob.sh` · `AGENT_GUIDE.md` · 과마다 `edits.json` · `log.md`). 남은 편집의 바탕 그림 `cur.png`는 저장소에 없다 — 현재 게시 그림 `images/lessons/<id>.webp`(손질 대상) 또는 Mac `~/mnt/sketchy_opus/zone_test/`의 받은 조각에서 다시 만든다.
 
 ---
 
@@ -85,7 +85,7 @@
 | 11-21 | 督脈 유주도(코드로 그림) | `1a33b75` · 과 `pilot-gv` · 빈 판 `images/lessons/pilot-gv-blank.webp` |
 | 11-21 | 검수 쪽 | `9fa3d6d` · `pilot_review.html`(그림만 보고 채점 · 의학사 16/20 문턱 · 내보내기) |
 | 11-21 | **P2 Run 2**: 醋炙 첫 장 6+1 · 사용자 G절 결정 · 그림 | `64865b1` · `56e04e7` · `runs/20261121-p2-cho/` · 과 `pilot-cho` |
-| 11-21 | **P2 검수 통과** · **P3 의학사 구역 수정**: 金元 시험(hist-06a) → B1~B5 6+1 · 작은 그림 9장 다시 그린 바탕 · Gemini 탭 셋 병렬 편집 · 18과 새 과 | `runs/20261121-p3-*` · `docs/overhaul/p3/zone_jobs/` · `src/lessons/tools/make_zone_lesson.py` |
+| 11-21 | **P2 검수 통과** · **P3 의학사 구역 수정**: 金元 시험(hist-06a) → B1~B5 6+1 · 작은 그림 9장 다시 그린 바탕 · Gemini 탭 셋 병렬 편집 · 의학사 22과 새 과 | `runs/20261121-p3-*` · `docs/overhaul/p3/zone_jobs/` · `src/lessons/tools/make_zone_lesson.py` |
 
 ### P0에서 확정한 것 (`docs/overhaul/P0_facts.md`)
 

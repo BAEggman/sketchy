@@ -1,0 +1,345 @@
+{
+ "perspective": "그릴 수 있음 — 사람·자리·잘 된 큰 동작(붓기·쇠스랑질·흙 메우기·걷어차기)은 한 픽셀도 다시 그리지 않고, 구역 편집 6번(구역당 1~2번, 편집당 새 물건 1개, 지우기는 「X를 지워라」 꼴)으로 숫자 부호를 걷어내고 네 사람 손에 책을 쥐여 준다.",
+ "scope": {
+  "in": [
+   "金(劉·張·李) 대 元(朱) · 북방 금광 대 남방 푸른 들(348–353)",
+   "劉完素 寒凉派·主火派 · 六氣皆從火化 · 五志過極皆爲熱甚(348·354, 문제집 Q10)",
+   "劉完素 『素問玄機原病式』(355)",
+   "張從正 子和 · 攻下派 汗吐下 · 邪去則正安(349·356, 문제집 Q12) · 『儒門事親』(357)",
+   "李杲 東垣 · 補土派=主氣學派 · 溫補脾胃 · 『脾胃論』(350·358–359, 문제집 Q3·Q9)",
+   "朱震亨 丹溪 · 滋陰派 · 陽常有餘 陰常不足 · 『格致餘論』『局方發揮』(351·360–361)",
+   "함정 짝: 張介賓 陽常不足 陰常有餘 · 陽非有餘(3862, 문제집 Q3)"
+  ],
+  "trainer": [
+   "病機十九條(19) — 4 이상 수는 그림이 못 진다(드리프트: 3→4가 가장 잦음). 至眞要大論 출처와 함께 표로",
+   "『宣明論方』『傷寒直格』『素問要旨』『內外傷辨惑論』『蘭室秘藏』 — 책은 사람 손에 하나씩만, 나머지 서명은 표",
+   "字·號(河間·戴人·明之·彦修) · 生沒年 — 글자 없는 그림으로 갈라 낼 수 없음",
+   "계보 전부(張元素→李杲→王好古·羅天益, 劉完素 一派 穆子素·馬宗素·羅知悌·葛雍, 朱震亨→王履·戴思恭) — 아래 lineage",
+   "陳自明 끼워 넣기(문제집 Q8) — 사람 없이 표의 오답 칸으로"
+  ]
+ },
+ "keep": [
+  {
+   "what": "劉完素가 얼음물 주전자를 날씨 그림 쇠통에 붓는 동작",
+   "why": "붓기는 드리프트에서 13장 모두 ✓. 寒凉을 사건으로 바로 읽힘"
+  },
+  {
+   "what": "쇠통 속 날씨 그림과 두 불꽃, 밑불",
+   "why": "六氣가 불이 됨. 다만 「육각 너트=6」 부호 풀이는 버리고 그림 그대로 읽게 함"
+  },
+  {
+   "what": "불붙은 가면 셋",
+   "why": "五志過極皆爲熱甚을 수 없이 그대로 짐(감정이 불탐)"
+  },
+  {
+   "what": "張從正 장정 · 큰 종 · 보라 자 띠 · 흰 연꽃 · 세 갈래 쇠스랑으로 검은 덩이 쫓기",
+   "why": "장정+종 = 장·정·종 세 음절 다 나옴. 갈래 3 = 汗吐下 三法(사실이 3이고 이미 정확히 그려짐)"
+  },
+  {
+   "what": "선비 집 문 앞에서 어머니께 차를 올리는 선비",
+   "why": "儒門+事親이 한 컷. 사람이 다시 그려질 위험 없도록 편집 구역 밖에 둠"
+  },
+  {
+   "what": "李杲 자두 · 해 뜨는 쪽 흙담 · 구덩이 · 따뜻한 죽 · 곧게 솟는 새싹",
+   "why": "기존 약속(자두=李, 동쪽 흙담=東垣). 죽 = 溫補脾胃"
+  },
+  {
+   "what": "붉은 시내 · 초가 원두막 · 넘치는 해 물통 · 국자로 채우는 달 물통 · 약상자 걷어차기",
+   "why": "金/元 경계와 陽有餘陰不足, 局方 비판이 모두 큰 동작으로 이미 성공"
+  }
+ ],
+ "replace": [
+  {
+   "old": "진주 방패",
+   "new": "표지 가운데 큰 흰 진주가 박힌 검은 책을 방패처럼 든 왼손",
+   "fact": "『素問玄機原病式』(玄=검음) · 守眞(진주)",
+   "ref": "교재 355",
+   "why": "손이 책에 닿음 + 守眞 단서 유지. 실루엣이 같아 그리기 쉬움"
+  },
+  {
+   "old": "주전자의 맑은 얼음물",
+   "new": "얼음 띄운 흰 우유",
+   "fact": "劉(우유의 유) · 寒凉派",
+   "ref": "교재 348",
+   "why": "정거장 말(얼음 우유)과 그림을 맞춤. 색만 바꿈"
+  },
+  {
+   "old": "오징어(5) · 일렉기타 · 구미호(19) · 바닥 책 둘",
+   "new": "지움(금광 바닥으로 메움)",
+   "fact": "수 부호 폐기 → 트레이너",
+   "ref": "교재 354",
+   "why": "부호표 없이는 안 풀림. 손 안 닿은 책은 낙제 조건"
+  },
+  {
+   "old": "張從正이 치켜든 손의 보라 자(띠와 중복)",
+   "new": "높이 치켜든 붉은 책",
+   "fact": "『儒門事親』",
+   "ref": "교재 357",
+   "why": "들어 올리기는 잘 되는 동작. 자는 띠에 이미 있음"
+  },
+  {
+   "old": "李杲의 삽 · 담장 앞 책 셋",
+   "new": "두 손으로 기울인 펼친 책에서 누런 흙이 쏟아져 구덩이를 메움",
+   "fact": "『脾胃論』 · 補土派",
+   "ref": "교재 350·359",
+   "why": "쏟아붓기는 최고 성공 동작. 책이 곧 흙(土)을 보탬 → 서명과 기여가 한 손에"
+  },
+  {
+   "old": "朱震亨 왼손의 노란 주전자(해 물통에 더 붓는 꼴 — 抑相火와 반대)",
+   "new": "가슴에 안은 초록 책",
+   "fact": "『格致餘論』 · 해 물통은 저절로 넘침=陽常有餘",
+   "ref": "교재 351·361",
+   "why": "그림이 陽을 보태는 것으로 잘못 읽히는 것을 지움"
+  },
+  {
+   "old": "오른쪽 아래 풀밭의 책 둘",
+   "new": "걷어차는 사람 손의 파란 책",
+   "fact": "『局方發揮』",
+   "ref": "교재 361",
+   "why": "손 안 닿은 책 제거, 걷어차기는 그대로"
+  }
+ ],
+ "add": [
+  {
+   "obj": "검은 책+진주",
+   "fact": "『素問玄機原病式』",
+   "ref": "355",
+   "zone": 1
+  },
+  {
+   "obj": "붉은 책(치켜듦)",
+   "fact": "『儒門事親』",
+   "ref": "357",
+   "zone": 2
+  },
+  {
+   "obj": "펼친 책에서 쏟아지는 흙",
+   "fact": "『脾胃論』 補土",
+   "ref": "350·359",
+   "zone": 3
+  },
+  {
+   "obj": "초록 책(안음)",
+   "fact": "『格致餘論』",
+   "ref": "361",
+   "zone": 4
+  },
+  {
+   "obj": "파란 책(쥠)",
+   "fact": "『局方發揮』",
+   "ref": "361",
+   "zone": 4
+  }
+ ],
+ "lineage": "그림에는 계보를 그리지 않는다. 사람을 편집으로 더하면 배경 뒤에 작게 들어가고(E3·E4), 사람 사이 연결은 62%라 「누가 누구의 스승」이 방향째 틀리기 쉽다. 표지·액자도 글자 없이 이름을 못 진다. 대신 정거장 말에 자리 순서로만 걸고(李杲 정거장: 「스승 張元素, 제자 王好古·羅天益」, 朱震亨 정거장: 「제자 王履·戴思恭」, 張從正 정거장: 「劉完素의 一派」 — 이웃 갱도), 트레이너에 계보 표 한 장(穆子素·馬宗素·羅知悌·葛雍=劉 一派를 張에 끼우는 오답 칸 포함).",
+ "edits": [
+  {
+   "zone": 1,
+   "crop": [
+    60,
+    100,
+    720,
+    700
+   ],
+   "round": 1,
+   "new_objects": [
+    "검은 책(표지에 큰 흰 진주)"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make exactly two changes. 1) Remove the round glowing pearl shield from the man's arm on the left side of the picture. In that same hand he now holds up a thick closed black book in front of his body, cover facing the viewer, with one large glowing white pearl set into the center of the black cover. 2) Change the clear water in the glass pitcher and in the pouring stream into white milk with the same ice cubes floating in it; the milk still pours from the pitcher straight down into the top of the grey hexagonal drum. Keep everything else in this picture exactly as it is: the same people, faces, clothes, poses, background, colors, thick cartoon outlines and framing. Do not add any other objects, people or animals. No text, letters or numbers anywhere. Output the same size and aspect ratio as this picture."
+  },
+  {
+   "zone": 1,
+   "crop": [
+    0,
+    800,
+    952,
+    736
+   ],
+   "round": 2,
+   "new_objects": [],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Remove the orange squid. Remove the red electric guitar. Remove the white nine-tailed fox. Remove the black book lying on the ground. Remove the open glowing book lying on the ground. Fill the places where they were with the same golden rocks and gold nuggets as the surrounding mine floor. Keep the three burning theatre masks and their flames exactly as they are. Leave the green bush and the grey wall at the right edge unchanged. Keep everything else in this picture exactly as it is: the same people, faces, clothes, poses, background, colors, thick cartoon outlines and framing. Do not add any other objects, people or animals. No text, letters or numbers anywhere. Output the same size and aspect ratio as this picture."
+  },
+  {
+   "zone": 2,
+   "crop": [
+    800,
+    100,
+    690,
+    745
+   ],
+   "round": 1,
+   "new_objects": [
+    "붉은 책(치켜듦)"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Remove the purple ruler held in the man's raised hand (the arm raised above his head on the right side of the picture). In that raised hand he now holds a closed red book high above his head, gripping its spine. Keep the purple ruler that he wears as a sash across his chest, the white lotus at his waist, the three-pronged pitchfork in his other hand knocking the black lumps away, and the big bronze bell, all exactly as they are. Keep everything else in this picture exactly as it is: the same people, faces, clothes, poses, background, colors, thick cartoon outlines and framing. Do not add any other objects, people or animals. No text, letters or numbers anywhere. Output the same size and aspect ratio as this picture."
+  },
+  {
+   "zone": 3,
+   "crop": [
+    1500,
+    300,
+    610,
+    680
+   ],
+   "round": 1,
+   "new_objects": [
+    "펼친 책",
+    "책에서 쏟아지는 누런 흙 줄기"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Remove the shovel from the man in the green jacket. Instead he holds a large open book with both hands, tilted forward over the pit, and a thick stream of yellow earth pours out from between its pages down into the pit, filling it. Keep his face, the purple plum in his mouth, his clothes and his bent-forward stance. Remove the three books standing and lying on the ledge beside the green sprout. Keep the green sprout, the steaming bowl and the yellow wall exactly as they are. Keep everything else in this picture exactly as it is: the same people, faces, clothes, poses, background, colors, thick cartoon outlines and framing. Do not add any other objects, people or animals. No text, letters or numbers anywhere. Output the same size and aspect ratio as this picture."
+  },
+  {
+   "zone": 4,
+   "crop": [
+    2230,
+    380,
+    522,
+    640
+   ],
+   "round": 1,
+   "new_objects": [
+    "초록 책(안음)"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Remove the small orange-yellow jug from the man's hand on the right side of the picture. In that hand he now holds a closed dark green book pressed flat against his chest. The yellow bucket with the sun symbol keeps overflowing by itself, golden liquid spilling over its rim onto the wooden floor. Keep the ladle in his other hand dipping into the silver bucket with the moon symbol, both buckets and the thatched hut exactly as they are. Keep everything else in this picture exactly as it is: the same people, faces, clothes, poses, background, colors, thick cartoon outlines and framing. Do not add any other objects, people or animals. No text, letters or numbers anywhere. Output the same size and aspect ratio as this picture."
+  },
+  {
+   "zone": 4,
+   "crop": [
+    2090,
+    1020,
+    662,
+    516
+   ],
+   "round": 2,
+   "new_objects": [
+    "파란 책(쥠)"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Remove the two books lying stacked on the grass in the bottom right corner, and fill that spot with the same green grass. Put a closed blue book in the kicking man's free hand on the left side of his body, gripped firmly. Keep his high kick exactly as it is: his raised foot still strikes the stack of cardboard boxes, which tilts and topples. Keep the small fallen box at the bottom left. Keep everything else in this picture exactly as it is: the same people, faces, clothes, poses, background, colors, thick cartoon outlines and framing. Do not add any other objects, people or animals. No text, letters or numbers anywhere. Output the same size and aspect ratio as this picture."
+  }
+ ],
+ "stations": [
+  {
+   "n": 0,
+   "kind": "frame",
+   "obj": "왼쪽 메마른 금광 갱도 셋 · 붉은 시내 건너 푸른 들의 초가 원두막",
+   "fact": "金의 劉完素·張從正·李杲(북방) / 元의 朱震亨(남방, 物産豊富)",
+   "hook": "금광=金 · 원두막=元 · 메마른 북 대 푸른 남",
+   "say": "金과 元. 왼쪽 금광 셋은 金나라 북방 세 사람, 시내 건너 푸른 들 원두막은 元나라 남방의 朱震亨 한 사람.",
+   "tts": "금과 원. 왼쪽 금광 셋은 금나라 북방 세 사람, 시내 건너 푸른 들 원두막은 원나라 남방의 주진형 한 사람."
+  },
+  {
+   "n": 1,
+   "obj": "진주 박힌 검은 책을 든 사람이 얼음 우유를 불붙은 날씨 통에 부음",
+   "fact": "劉完素(守眞) 寒凉派·主火派 — 六氣皆從火化 / 『素問玄機原病式』",
+   "hook": "우유=劉 · 진주 지킴=守眞 · 검은 책=玄機 · 날씨가 불탐=六氣皆從火化",
+   "say": "우유의 「유」, 劉完素. 여섯 기운이 다 불이 되니(六氣皆從火化) 찬 것으로 끈다 — 寒凉派. 진주를 지키는(守眞) 검은(玄) 책은 『素問玄機原病式』.",
+   "tts": "우유의 유, 유완소. 여섯 기운이 다 불이 되니 육기개종화화, 찬 것으로 끈다, 한량파. 진주를 지키는 검은 책은 소문현기원병식."
+  },
+  {
+   "n": 2,
+   "obj": "그 아래 불타는 감정 가면들",
+   "fact": "劉完素 — 五志過極皆爲熱甚 (病機十九條는 표)",
+   "hook": "감정 가면이 불탐=五志過極皆爲熱甚",
+   "say": "감정이 지나치면 모두 열이 된다 — 五志過極皆爲熱甚. 內經 病機十九條를 중시한 것은 표에서.",
+   "tts": "감정이 지나치면 모두 열이 된다, 오지과극개위열심. 내경 병기십구조를 중시한 것은 표에서."
+  },
+  {
+   "n": 3,
+   "obj": "장정이 종 아래서 세 갈래 쇠스랑으로 검은 덩이를 쫓아냄 · 자 띠 · 연꽃",
+   "fact": "張從正(子和) 攻下派 — 汗吐下 三法, 邪去則正安 · 劉完素의 一派",
+   "hook": "장정+종=張從正 · 자+연화=子和 · 세 갈래=汗吐下",
+   "say": "장정이 종 아래서 — 張從正. 자와 연화, 子和. 세 갈래 쇠스랑으로 邪를 몰아내면 바른 기운이 편해진다(邪去則正安) — 攻下派. 옆 갱도 劉完素의 一派.",
+   "tts": "장정이 종 아래서, 장종정. 자와 연화, 자화. 세 갈래 쇠스랑으로 사기를 몰아내면 정기가 편해진다, 사거즉정안, 공하파. 옆 갱도 유완소의 일파."
+  },
+  {
+   "n": 4,
+   "obj": "치켜든 붉은 책 · 아래 선비가 어머니께 차를 올림",
+   "fact": "張從正 『儒門事親』",
+   "hook": "선비 집 문(儒門)+어버이 모심(事親)",
+   "say": "張從正이 치켜든 책은 바로 아래 장면 — 선비 집 문에서 어버이를 모신다, 『儒門事親』.",
+   "tts": "장종정이 치켜든 책은 바로 아래 장면, 선비 집 문에서 어버이를 모신다, 유문사친."
+  },
+  {
+   "n": 5,
+   "obj": "자두 문 사람이 해 뜨는 동쪽 흙담 곁에서 펼친 책의 누런 흙을 구덩이에 쏟음",
+   "fact": "李杲(東垣) 補土派=主氣學派 — 內傷脾胃 百病由生 / 『脾胃論』",
+   "hook": "자두=李 · 동쪽 흙담=東垣 · 책에서 흙(土)을 쏟아 메움=補土·脾胃論",
+   "say": "자두(李)를 문 李杲, 해 뜨는 동쪽 흙담 東垣. 책에서 흙을 쏟아 빈 데를 메운다 — 補土派이자 主氣學派, 『脾胃論』. 스승 張元素, 제자 王好古·羅天益.",
+   "tts": "자두를 문 이고, 해 뜨는 동쪽 흙담 동원. 책에서 흙을 쏟아 빈 데를 메운다, 보토파이자 주기학파, 비위론. 스승 장원소, 제자 왕호고, 나천익."
+  },
+  {
+   "n": 6,
+   "obj": "구덩이 옆 김 나는 따뜻한 죽",
+   "fact": "李杲 — 百病皆由脾胃衰而生也 · 溫補脾胃하여 抑火",
+   "hook": "따뜻한 죽=溫補脾胃",
+   "say": "모든 병은 脾胃가 쇠해 생긴다. 그래서 따뜻하게 脾胃를 보해 불을 누른다.",
+   "tts": "모든 병은 비위가 쇠해 생긴다. 그래서 따뜻하게 비위를 보해 불을 누른다."
+  },
+  {
+   "n": 7,
+   "obj": "붉은 시내 원두막에서 해 물통은 넘치고 달 물통엔 국자로 채움 · 가슴에 초록 책",
+   "fact": "朱震亨(丹溪) 滋陰派 — 陽常有餘 陰常不足, 補陰精而抑相火 / 『格致餘論』",
+   "hook": "붉은(朱·丹) 시내(溪) · 넘치는 해, 모자란 달 · 달을 채움=滋陰",
+   "say": "붉은 시내 丹溪의 朱震亨, 혼자 元. 해는 늘 넘치고 달은 늘 모자라니 달을 채운다 — 滋陰派. 가슴의 책은 『格致餘論』. 제자 王履·戴思恭.",
+   "tts": "붉은 시내 단계의 주진형, 혼자 원. 해는 늘 넘치고 달은 늘 모자라니 달을 채운다, 자음파. 가슴의 책은 격치여론. 제자 왕리, 대사공."
+  },
+  {
+   "n": 8,
+   "obj": "파란 책을 쥐고 약상자 더미를 걷어차는 사람",
+   "fact": "朱震亨 『局方發揮』 — 『和劑局方』 남용 비판",
+   "hook": "기성 약상자(局方)를 걷어참=局方發揮",
+   "say": "만들어 둔 약상자 처방을 걷어찬다 — 『局方發揮』.",
+   "tts": "만들어 둔 약상자 처방을 걷어찬다, 국방발휘."
+  },
+  {
+   "n": 9,
+   "kind": "trap",
+   "obj": "넘치는 해 물통과 모자란 달 물통",
+   "fact": "함정: 明 張介賓은 반대 — 陽常不足 陰常有餘 · 陽非有餘",
+   "hook": "그림대로 해가 넘치면 朱震亨, 뒤집히면 張介賓",
+   "say": "물통을 뒤집어 보라. 해가 모자라다는 것은 明의 張介賓이다. 朱震亨에 「陽非有餘」를 붙이면 틀린 보기.",
+   "tts": "물통을 뒤집어 보라. 해가 모자라다는 것은 명의 장개빈이다. 주진형에 양비유여를 붙이면 틀린 보기."
+  },
+  {
+   "n": 10,
+   "kind": "review",
+   "obj": "왼쪽→오른쪽 네 사람의 손",
+   "fact": "寒凉 · 攻下 · 補土 · 滋陰 — 劉·張·李·朱",
+   "hook": "붓고 · 쫓고 · 메우고 · 채운다",
+   "say": "우유를 붓고, 邪를 쫓고, 흙을 메우고, 달을 채운다 — 寒凉, 攻下, 補土, 滋陰.",
+   "tts": "우유를 붓고, 사기를 쫓고, 흙을 메우고, 달을 채운다. 한량, 공하, 보토, 자음."
+  }
+ ],
+ "questions": [
+  {
+   "q": "얼음 우유를 불붙은 날씨 통에 붓는 사람의 학파와 명제는?",
+   "a": "劉完素 · 寒凉派(主火派) · 六氣皆從火化"
+  },
+  {
+   "q": "세 갈래 쇠스랑으로 검은 덩이를 쫓는 장정이 치켜든 책은?",
+   "a": "張從正 『儒門事親』(攻下派 汗吐下)"
+  },
+  {
+   "q": "책에서 누런 흙을 쏟아 구덩이를 메우는 사람의 학파 두 이름은?",
+   "a": "李杲 · 補土派 = 主氣學派(『脾胃論』)"
+  },
+  {
+   "q": "해 물통이 넘치고 달 물통을 채우는 사람이 金元四大家 중 혼자 다른 점과 명제는?",
+   "a": "朱震亨 · 元(남방) · 陽常有餘 陰常不足 → 滋陰派"
+  },
+  {
+   "q": "그림의 물통을 뒤집은 명제(陽常不足 陰常有餘)를 말한 사람은?",
+   "a": "明 張介賓(朱震亨 아님)"
+  }
+ ],
+ "risks": [
+  "E4(李杲) 연장 바꾸기는 두 손 자세가 함께 바뀌어 얼굴·자두가 흔들릴 수 있다. 2번 실패하면 원본으로 되돌리고 대안 프롬프트: 삽은 그대로, 담장 앞 책 셋 지우고 「a closed yellow book tucked firmly in his armpit」 — 이 경우 손 접촉은 약함.",
+  "E2는 지우기 다섯 개라 흔적(여우 꼬리 끝, 기타 목)이 남을 수 있다. 오른쪽 끝 x 952 바로 옆이 선비의 발이라 crop을 넓히지 말 것. 남으면 같은 crop으로 「Remove the remaining white fur」 한 번 더.",
+  "붙일 때 Gemini 출력은 crop 크기로 LANCZOS 축소 후 원위치에, 가장자리 16px 깃털 마스크로 붙인다. 선 굵기·채도가 바뀌었으면 가장자리 띠 차이를 보고 다시 뽑는다.",
+  "편집마다 요청 안 한 소품(상자·의자)이 생기는 버릇(드리프트 extra 다수) — 결과에서 새 물건이 하나 넘으면 폐기.",
+  "朱震亨이 원두막 위·아래 두 번 나온다(기존). 같은 흰 옷이라 한 사람의 두 장면으로 정거장에서 밝힘.",
+  "쇠통 속 날씨 그림은 風·暑·寒·濕+불꽃 둘(燥 없음) — 「여섯」을 세게 하지 않고 「날씨가 불탄다」로만 읽게 함.",
+  "이름 단서는 그대로라 약하다(李杲 자두·朱震亨 붉은 시내는 뜻 2걸음). 통음 개선은 이 안의 범위 밖 — 다른 안의 이름 단서를 소품 1개로 얹을 때도 편집당 3 한도 안에서."
+ ],
+ "self_score": "사실·출처 18/20(교재 줄 다 달림, 문제집 명제는 문제집 표기) · 단서 합 17/30(장정+종 25점급, 우유·자두·붉은 시내는 1음절·뜻 고리라 약함) · 손에서 일어남 19/20(네 사람 모두 책을 쥠, 걷어차기·붓기·쏟기 유지) · 범위·혼동 쌍 8/10(張介賓 함정 정거장, 계보는 표) · 소품 수·그릴 수 있음 10/10(새 물건 그림 전체 5, 편집당 1~2, 사람 추가 0, 실패율 높은 꽂기·방향·4 이상 수 없음) · 기존 약속 10/10 → 약 82/100"
+}

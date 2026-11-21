@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
 """포제 장면 명세 도구.
   python3 spec_tools.py boxes Pxx   → runs/20261122-p3-suchi/built/Pxx_boxes.jpg (상자 번호 그림)
-  python3 spec_tools.py check Pxx…  → 명세 검사(OK/FAIL)
+  python3 spec_tools.py check Pxx… [--run RUN] → 명세 검사(OK/FAIL)
+  python3 spec_tools.py boxes Pxx [RUN]
 명세: runs/20261122-p3-suchi/built/Pxx.spec.json"""
 import json,re,sys
 from PIL import Image, ImageDraw, ImageFont
 R='/home/claude/work/runs/20261122-p3-suchi/'
+def setrun(r):
+    global R; R='/home/claude/work/runs/%s/'%r
 W,H=2752,1536
 C=[(230,25,75),(60,180,75),(0,130,200),(245,130,48),(145,30,180),(240,50,230),(0,0,0),(128,0,0),(0,128,128)]
 def load(p): return json.load(open(R+'built/%s.spec.json'%p,encoding='utf-8'))
@@ -43,5 +46,10 @@ def check(ps):
                 ok=False; print(p,s['n'],'box 잘못',b)
     print('OK' if ok else 'FAIL')
 if __name__=='__main__':
-    if sys.argv[1]=='boxes': boxes(sys.argv[2])
-    else: check(sys.argv[2:])
+    a=sys.argv[2:]
+    if '--run' in a:
+        i=a.index('--run'); setrun(a[i+1]); a=a[:i]+a[i+2:]
+    if sys.argv[1]=='boxes':
+        if len(a)>1: setrun(a[1])
+        boxes(a[0])
+    else: check(a)

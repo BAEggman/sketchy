@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
-"""포제 장면 참조판: python3 scene_ref.py P07 → /home/claude/zt/scene/P07_ref.jpg, P07_prompt.txt
+"""장면 참조판: python3 scene_ref.py P07 [run(기본 20261122-p3-suchi)] → /home/claude/zt/scene/P07_ref.jpg, P07_prompt.txt
 스티커(images/herbs/Hxxx.webp)를 장면 순서(왼→오)대로 한 줄로 붙인 참조 그림 + 보낼 프롬프트.
 스티커가 없으면 MISSING을 찍고 끝낸다."""
 import json,sys,os
 from PIL import Image
 ROOT='/home/claude/work'; OUT='/home/claude/zt/scene'
 pid=sys.argv[1]
-job={x['id']:x for x in json.load(open(f'{ROOT}/runs/20261122-p3-suchi/scene_jobs.json'))}[pid]
-sh={x['id']:x for x in json.load(open(f'{ROOT}/runs/20261122-p3-suchi/merged.json'))['sheets']}[pid]
+RUN=sys.argv[2] if len(sys.argv)>2 else '20261122-p3-suchi'
+job={x['id']:x for x in json.load(open(f'{ROOT}/runs/{RUN}/scene_jobs.json'))}[pid]
+sh={x['id']:x for x in json.load(open(f'{ROOT}/runs/{RUN}/merged.json'))['sheets']}[pid]
 seen=[];[seen.append(h) for h in job['stickers'] if h not in seen]
 miss=[h for h in seen if not os.path.exists(f'{ROOT}/images/herbs/{h}.webp')]
 if miss: print('MISSING',' '.join(miss)); sys.exit(1)

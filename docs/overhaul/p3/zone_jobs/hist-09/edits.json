@@ -68,7 +68,7 @@
    "fallback": "초롱이 서양 램프로 나오면 'Chinese round red paper lantern with a gold tassel'"
   },
   {
-   "id": "E3",
+   "id": "E3+E3b",
    "zone": "3 葉桂 · 금메달",
    "order": 3,
    "crop": [
@@ -89,28 +89,7 @@
      60,
      150,
      340
-    ]
-   ],
-   "new_objects": [
-    "가슴에 댄 초록 책"
-   ],
-   "also": "금메달 · 리본 · 갈고리 지움",
-   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below, in the same flat cartoon style with the same soft outlines and flat colors, and keep everything else exactly as it is: the same people, animals, faces, hair, clothes, poses, background, colors, outlines and framing. 1) The man under the big leaf now holds a closed green book against his chest with his free hand, the hand on the right side of the picture. His fingers clearly grip the book. 2) Remove the gold medal, its ribbon and the hook it hangs from. Fill their place by continuing the clear blue glass wall and its frame lines around it. Keep his face, brown hair, red T-shirt and jeans, the big green leaf he holds up like an umbrella with his other hand, the round blue, green and red fences with the red flower, and the plants exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
-   "check": "책이 손 · 가슴에 닿음 · 메달 흔적 없음 · 잎 우산 그대로",
-   "fallback": "책이 등 뒤로 숨으면 'held in front of his chest, clearly visible'"
-  },
-  {
-   "id": "E3b",
-   "status": "사용자 승인 11-21 17:55",
-   "zone": "3 葉桂 — 天士 = 천사 날개",
-   "order": 3.5,
-   "crop": [
-    1240,
-    150,
-    760,
-    850
-   ],
-   "region": [
+    ],
     [
      40,
      220,
@@ -119,11 +98,14 @@
     ]
    ],
    "new_objects": [
+    "가슴에 댄 초록 책",
     "등의 흰 깃털 천사 날개"
    ],
-   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below, in the same flat cartoon style with the same soft outlines and flat colors, and keep everything else exactly as it is: the same people, animals, faces, hair, clothes, poses, background, colors, outlines and framing. 1) Give the man under the big leaf a pair of white feathered angel wings on his back, spreading out a little on both sides of his body. Keep his face, brown hair, red T-shirt and jeans, the big green leaf he holds up like an umbrella, the green book at his chest, the fences and the glass wall exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
-   "check": "날개가 등에서 · 잎 실루엣 가리지 않음",
-   "why": "葉天士 = 잎 + 천사(21점). B-6 「천궁 = 천사(이것 하나만)」 승인 뒤에만"
+   "also": "금메달 · 리본 · 갈고리 지움",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below, in the same flat cartoon style with the same soft outlines and flat colors, and keep everything else exactly as it is: the same people, animals, faces, hair, clothes, poses, background, colors, outlines and framing. 1) The man under the big leaf now holds a closed green book against his chest with his free hand, the hand on the right side of the picture. His fingers clearly grip the book. 2) Remove the gold medal, its ribbon and the hook it hangs from. Fill their place by continuing the clear blue glass wall and its frame lines around it. 3) Give the man under the big leaf a pair of white feathered angel wings on his back, spreading out a little on both sides of his body. Keep his face, brown hair, red T-shirt and jeans, the big green leaf he holds up like an umbrella with his other hand, the round blue, green and red fences with the red flower, and the plants exactly as they are. Also keep his face, brown hair, red T-shirt and jeans, the big green leaf he holds up like an umbrella, the green book at his chest, the fences and the glass wall exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "책이 손 · 가슴에 닿음 · 메달 흔적 없음 · 잎 우산 그대로",
+   "fallback": "책이 등 뒤로 숨으면 'held in front of his chest, clearly visible'",
+   "note": "11-21 18:40 규칙 ③: E3과 E3b가 같은 구역이라 한 편집으로 합침"
   },
   {
    "id": "E4",

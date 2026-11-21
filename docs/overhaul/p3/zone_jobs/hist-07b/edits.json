@@ -100,66 +100,44 @@
    "fallback": "두 손에 다른 물건이 어색하면(약한 꼴) 2)를 'he holds the unrolled scroll open with both hands above his head, the white egg is gone'로 — 伯仁의 알은 대본에서만"
   },
   {
-   "id": "07b-E4",
+   "id": "07b-E4+E5",
    "zone": "5 徐鳳",
    "order": 4,
    "crop": [
     1900,
-    480,
-    620,
-    620
-   ],
-   "region": [
-    [
-     220,
-     220,
-     300,
-     200
-    ]
-   ],
-   "new_objects": [
-    "작은 두루마리가 꽉 찬 열린 서랍"
-   ],
-   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Pull out one drawer of the wooden medicine cabinet, the one right next to the singing man: the open drawer is packed full of small rolled paper scrolls. 2) The singing man now pushes his own rolled scroll into that open drawer with one hand, adding it to the others, while still singing. Keep the phoenix perched on top of the cabinet, all the other closed drawers, the man's face, hair and blue robe, and the floating musical notes exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
-   "check": "서랍 하나만 열림 · 두루마리 여럿 · 손이 서랍 속 두루마리에 닿음 · 봉황 그대로",
-   "fallback": "서랍이 여럿 열리면 'only one drawer is open'을 앞에 두고 다시"
-  },
-  {
-   "id": "07b-E5",
-   "zone": "6 高武 · 汪機",
-   "order": 5,
-   "crop": [
-    2060,
     40,
-    692,
+    852,
     1450
    ],
    "region": [
     [
-     260,
+     220,
+     660,
+     300,
+     200
+    ],
+    [
+     420,
      230,
      432,
      330
     ],
     [
-     120,
+     280,
      1040,
      370,
      330
     ]
    ],
    "new_objects": [
+    "작은 두루마리가 꽉 찬 열린 서랍",
     "분홍 고무장갑(무사 두 손)",
     "꽃이 솟는 두꺼운 책"
    ],
-   "moved": [
-    "돗자리 위 책 → 초록 옷 사람 손"
-   ],
-   "also": "금빛 사람 상 셋 · 따로 든 꽃다발 지움",
-   "chain": "07b-E4를 붙인 그림에서 자른다(x 2060–2520 겹침)",
-   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The tall warrior in the helmet and scale armor: remove the three small golden human statues and the separate bouquet. With both hands he now holds a thick book in front of his chest, and a big bunch of pink flowers bursts up out from between its pages. He wears bright pink rubber kitchen gloves on both hands. 2) In the lower part, the man in the green robe now holds the open book from the mat up in both hands in front of his chest, showing its pages to the man in blue as he answers him; remove the book from the mat. Keep the warrior's face, helmet, armor and red cape, the red lanterns, the man in blue and his asking gesture, the loom, the stream and the grass exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
-   "check": "금빛 상 · 흰 테 흔적 없음 · 장갑이 분홍 · 꽃이 책에서 솟음 · 초록 옷 두 손이 책 · 돗자리 빈 곳 메움",
-   "fallback": "장갑이 안 보이면 같은 조각으로 'bright pink rubber gloves' 한 줄. 汪機 손이 안 되면 p1 꼴 'the man in green rests his hand flat on the open book on the mat'"
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Pull out one drawer of the wooden medicine cabinet, the one right next to the singing man: the open drawer is packed full of small rolled paper scrolls. 2) The singing man now pushes his own rolled scroll into that open drawer with one hand, adding it to the others, while still singing. 3) The tall warrior in the helmet and scale armor: remove the three small golden human statues and the separate bouquet. With both hands he now holds a thick book in front of his chest, and a big bunch of pink flowers bursts up out from between its pages. He wears bright pink rubber kitchen gloves on both hands. 4) In the lower part, the man in the green robe now holds the open book from the mat up in both hands in front of his chest, showing its pages to the man in blue as he answers him; remove the book from the mat. Keep the phoenix perched on top of the cabinet, all the other closed drawers, the man's face, hair and blue robe, and the floating musical notes exactly as they are. Also keep the warrior's face, helmet, armor and red cape, the red lanterns, the man in blue and his asking gesture, the loom, the stream and the grass exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "서랍 하나만 열림 · 두루마리 여럿 · 손이 서랍 속 두루마리에 닿음 · 봉황 그대로",
+   "fallback": "서랍이 여럿 열리면 'only one drawer is open'을 앞에 두고 다시",
+   "note": "11-21 18:40 규칙 ③: 07b-E4과 07b-E5가 같은 구역이라 한 편집으로 합침"
   }
  ]
 }

@@ -4,7 +4,7 @@
  "base": "/home/claude/zt/b4/base_hist-10.png",
  "edits": [
   {
-   "id": "E1",
+   "id": "E1+E1b",
    "zone": "1 馬蒔",
    "order": 1,
    "crop": [
@@ -25,29 +25,7 @@
      530,
      650,
      180
-    ]
-   ],
-   "new_objects": [
-    "붉은 종이 초롱(걸이 막대 자리)",
-    "책장에 붙인 빈 노란 쪽지 몇 장"
-   ],
-   "also": "금메달을 막대에서 두 책 위로 옮김 · 책 면 글자 같은 줄 지움",
-   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below, in the same flat cartoon style with the same soft outlines and flat colors, and keep everything else exactly as it is: the same people, animals, faces, hair, clothes, poses, background, colors, outlines and framing. 1) Remove the grey metal rod and the gold medal hanging from it. In that same place hang one round red paper lantern from above. 2) Lay that gold medal on its ribbon across the two open books on the table, the ribbon draped over both books. 3) Make the pages of both open books blank cream paper with no writing lines, and stick a few small blank yellow sticky notes onto the pages; the tip of the quill touches one of the notes. Keep the horse's head, face, ears and mane, its front hoof resting on the right-hand book, the quill held in its other hoof, the chair, the wooden table, the window and the sunlight exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
-   "check": "막대 없음 · 초롱이 매달림 · 메달이 두 책에 걸침(허공이면 실패) · 쪽지에 글자 없음 · 펜 끝이 쪽지에",
-   "fallback": "쪽지가 글씨로 채워지면 3)만 'blank, empty yellow notes' 다시. 메달이 한 책에만 놓이면 'across both books' 한 번"
-  },
-  {
-   "id": "E1b",
-   "status": "사용자 승인 11-21 17:55",
-   "zone": "1 馬蒔 — 마시는 말",
-   "order": 1.5,
-   "crop": [
-    0,
-    420,
-    900,
-    1116
-   ],
-   "region": [
+    ],
     [
      290,
      280,
@@ -56,11 +34,15 @@
     ]
    ],
    "new_objects": [
+    "붉은 종이 초롱(걸이 막대 자리)",
+    "책장에 붙인 빈 노란 쪽지 몇 장",
     "빨대 꽂힌 작은 잉크 컵"
    ],
-   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below, in the same flat cartoon style with the same soft outlines and flat colors, and keep everything else exactly as it is: the same people, animals, faces, hair, clothes, poses, background, colors, outlines and framing. 1) Put a small cup of ink with a drinking straw on the table near the horse's muzzle; the horse sips from the straw with its lips. Keep the horse's head shape, eyes, ears and mane, the quill in its hoof, the two open books with the yellow notes and the gold medal, the red lantern and the table exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
-   "check": "입이 빨대에 · 얼굴 모양 그대로",
-   "why": "馬蒔 = 마시(다) 통째 동음(25점). 낭독 인계문 hist-10#7(동사로 들리게 하지 않음)과 부딪힘 — 승인 뒤에만, tts는 인계문 문장 유지"
+   "also": "금메달을 막대에서 두 책 위로 옮김 · 책 면 글자 같은 줄 지움",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below, in the same flat cartoon style with the same soft outlines and flat colors, and keep everything else exactly as it is: the same people, animals, faces, hair, clothes, poses, background, colors, outlines and framing. 1) Remove the grey metal rod and the gold medal hanging from it. In that same place hang one round red paper lantern from above. 2) Lay that gold medal on its ribbon across the two open books on the table, the ribbon draped over both books. 3) Make the pages of both open books blank cream paper with no writing lines, and stick a few small blank yellow sticky notes onto the pages; the tip of the quill touches one of the notes. 4) Put a small cup of ink with a drinking straw on the table near the horse's muzzle; the horse sips from the straw with its lips. Keep the horse's head, face, ears and mane, its front hoof resting on the right-hand book, the quill held in its other hoof, the chair, the wooden table, the window and the sunlight exactly as they are. Also keep the horse's head shape, eyes, ears and mane, the quill in its hoof, the two open books with the yellow notes and the gold medal, the red lantern and the table exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "막대 없음 · 초롱이 매달림 · 메달이 두 책에 걸침(허공이면 실패) · 쪽지에 글자 없음 · 펜 끝이 쪽지에",
+   "fallback": "쪽지가 글씨로 채워지면 3)만 'blank, empty yellow notes' 다시. 메달이 한 책에만 놓이면 'across both books' 한 번",
+   "note": "11-21 18:40 규칙 ③: E1과 E1b가 같은 구역이라 한 편집으로 합침"
   },
   {
    "id": "E2",

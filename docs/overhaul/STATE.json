@@ -2,7 +2,7 @@
  "plan": "docs/overhaul/PLAN_20261120.md",
  "base_commit": "0e16b7c",
  "branch": "overhaul-20261120",
- "phase": "P2 시범 여섯 완료 — 사용자 검수 대기(멈춤)",
+ "phase": "P3 확대 — 의학사 21과부터",
  "done": [
   "P0.repo",
   "P0.handoff_archive",
@@ -43,14 +43,15 @@
   }
  ],
  "next": [
-  "멈춤: 사용자 검수 — pilot_review.html(의학사 20 · 督脈 5 · 醋 5) + saam.html",
-  "합격선: 의학사 20 중 16 이상 + 사용자 「넓혀도 된다」 → 그 전에는 대량으로 그리지 않음",
-  "검수 뒤: 시범 과를 원래 절로 옮길지 · 기존 과를 덮을지 사용자에게 묻기",
-  "舍岩 트레이너 v2 = 寒熱格 · 醋炙 둘째 장(② 毒性 감소 · ③ 五靈脂)"
+  "P3-1 의학사 21과: 속성 장부(hist_attrs) 교재·부록 대조 → 인물·서명 사전 6+1 → 장면 6+1 → 그림",
+  "P3-2 본초 148 사전 · 포제 · 금기",
+  "P3-3 유주도 20",
+  "P3-4 舍岩 寒熱格",
+  "P3-5 본초 분류 무대"
  ],
  "user_checks": {
   "gemini_download": "allowed 2026-11-20, 다시 확인 2026-11-21 → ~/Downloads/sketchy_opus/gemini_raw",
-  "p2_pilot_review": "대기",
+  "p2_pilot_review": "통과(2026-11-21 사용자: 합격선 · 넓혀도 됨)",
   "run1_cue_changes": "5건 모두 승인 2026-11-21"
  },
  "p1": {

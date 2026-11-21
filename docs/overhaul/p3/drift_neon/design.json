@@ -1,0 +1,193 @@
+{
+ "purpose": "Gemini 4 Neon 그림 drift 시험 — 한 장에 인물·소품·사건(손 접촉·방향)·개수·도미노 연결을 몇 묶음까지 오류 없이 그리나. 의학사 그림 분량(한 장 인물 수) 판단용",
+ "date": "2026-11-21",
+ "bundles": [
+  {
+   "id": "B1",
+   "person": "a fisherman in a bright yellow raincoat and yellow rain hat",
+   "act": "he pours blue water from a green teapot into a big red-and-white striped jar; the blue stream visibly goes into the jar",
+   "count": "on his back he carries a wicker basket holding exactly three fish",
+   "checks": [
+    "노란 우비 어부(모자까지 노랑)",
+    "초록 주전자",
+    "빨강·흰 줄무늬 큰 독",
+    "주전자→독으로 파란 물이 들어감(접촉/방향)",
+    "등 바구니 물고기 정확히 3"
+   ]
+  },
+  {
+   "id": "B2",
+   "person": "a bald baker in a red apron",
+   "act": "he presses a yellow sticky note onto the front cover of a big purple book that he holds against his chest",
+   "count": "beside her stands a tray with exactly two loaves of bread",
+   "checks": [
+    "대머리 + 빨간 앞치마 제빵사",
+    "보라색 큰 책",
+    "노란 쪽지가 책 표지에 붙음(손이 닿음)",
+    "쟁반 빵 정확히 2"
+   ]
+  },
+  {
+   "id": "B3",
+   "person": "an old man with a long white beard in a green robe",
+   "act": "he turns a golden key in the lock of a small black box on his knees, and a tiny glowing star rises out of the opened box",
+   "count": "next to him burn exactly three white candles",
+   "checks": [
+    "흰 수염 + 초록 두루마기 노인",
+    "무릎 위 검은 상자",
+    "금 열쇠가 자물쇠에 꽂혀 돌아감(손이 열쇠)",
+    "상자에서 빛나는 작은 별이 솟음",
+    "흰 초 정확히 3"
+   ]
+  },
+  {
+   "id": "B4",
+   "person": "a knight in shiny silver armor without a helmet plume",
+   "act": "he pulls a round golden hand mirror up out of the ground with clumps of soil falling from it, holding it toward a small brown dog",
+   "count": "exactly two shovels stand stuck in the ground behind him",
+   "checks": [
+    "은색 갑옷 기사",
+    "둥근 금 손거울이 흙 속에서 뽑혀 나옴(흙덩이)",
+    "거울이 갈색 강아지 쪽을 향함",
+    "삽 정확히 2"
+   ]
+  },
+  {
+   "id": "B5",
+   "person": "a girl with two pigtails in a purple dress",
+   "act": "holding an orange umbrella in one hand, she waters a giant sunflower with a pink watering can in the other hand",
+   "count": "exactly three bees fly around the sunflower",
+   "checks": [
+    "양 갈래 + 보라 원피스 소녀",
+    "주황 우산을 듦",
+    "분홍 물뿌리개로 해바라기에 물(물줄기가 꽃에 닿음)",
+    "벌 정확히 3"
+   ]
+  },
+  {
+   "id": "B6",
+   "person": "a mechanic in blue overalls with a red cap",
+   "act": "he tightens a giant red bolt on a wooden cart wheel with a big silver wrench",
+   "count": "exactly two gears lie on the ground by his feet",
+   "checks": [
+    "파란 작업복 + 빨간 모자 정비공",
+    "나무 수레바퀴의 큰 빨간 볼트",
+    "스패너가 볼트를 물고 조임",
+    "톱니바퀴 정확히 2"
+   ]
+  }
+ ],
+ "chains": [
+  {
+   "id": "L12",
+   "text": "Water overflowing from the striped jar runs across the ground and soaks the baker's shoes.",
+   "check": "독에서 넘친 물이 제빵사 신발을 적심"
+  },
+  {
+   "id": "L23",
+   "text": "A second yellow sticky note slips from the baker's purple book and flutters down onto the old man's black box.",
+   "check": "제빵사 책에서 떨어진 노란 쪽지가 노인 상자 위로"
+  },
+  {
+   "id": "L34",
+   "text": "The glowing star from the box flies over and lands on the knight's silver shoulder.",
+   "check": "상자의 별이 기사 어깨에 내려앉음"
+  },
+  {
+   "id": "L45",
+   "text": "A sunbeam reflected by the golden mirror shines onto the girl's sunflower.",
+   "check": "금 거울의 반사 햇빛이 해바라기에 닿음"
+  },
+  {
+   "id": "L56",
+   "text": "Spray from the girl's watering can splashes onto the mechanic's wrench.",
+   "check": "물뿌리개 물보라가 정비공 스패너에 튐"
+  }
+ ],
+ "conditions": [
+  {
+   "id": "N1",
+   "model": "Neon",
+   "n": 1,
+   "prompt": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Setting: one sunny village riverside square. Absolutely no text, no letters, no numbers, no signs and no labels anywhere. Draw every character and object listed below exactly as described, each only once, and nothing else of importance. Characters from left to right:\n1. A fisherman in a bright yellow raincoat and yellow rain hat: he pours blue water from a green teapot into a big red-and-white striped jar; the blue stream visibly goes into the jar; on his back he carries a wicker basket holding exactly three fish.\nNo text, no letters, no numbers."
+  },
+  {
+   "id": "N2",
+   "model": "Neon",
+   "n": 2,
+   "prompt": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Setting: one sunny village riverside square. Absolutely no text, no letters, no numbers, no signs and no labels anywhere. Draw every character and object listed below exactly as described, each only once, and nothing else of importance. Characters from left to right:\n1. A fisherman in a bright yellow raincoat and yellow rain hat: he pours blue water from a green teapot into a big red-and-white striped jar; the blue stream visibly goes into the jar; on his back he carries a wicker basket holding exactly three fish.\n2. A bald baker in a red apron: he presses a yellow sticky note onto the front cover of a big purple book that he holds against his chest; beside him stands a tray with exactly two loaves of bread.\nNo text, no letters, no numbers."
+  },
+  {
+   "id": "N3a",
+   "model": "Neon",
+   "n": 3,
+   "prompt": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Setting: one sunny village riverside square. Absolutely no text, no letters, no numbers, no signs and no labels anywhere. Draw every character and object listed below exactly as described, each only once, and nothing else of importance. Characters from left to right:\n1. A fisherman in a bright yellow raincoat and yellow rain hat: he pours blue water from a green teapot into a big red-and-white striped jar; the blue stream visibly goes into the jar; on his back he carries a wicker basket holding exactly three fish.\n2. A bald baker in a red apron: he presses a yellow sticky note onto the front cover of a big purple book that he holds against his chest; beside him stands a tray with exactly two loaves of bread.\n3. An old man with a long white beard in a green robe: he turns a golden key in the lock of a small black box on his knees, and a tiny glowing star rises out of the opened box; next to him burn exactly three white candles.\nNo text, no letters, no numbers."
+  },
+  {
+   "id": "N3b",
+   "model": "Neon",
+   "n": 3,
+   "prompt": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Setting: one sunny village riverside square. Absolutely no text, no letters, no numbers, no signs and no labels anywhere. Draw every character and object listed below exactly as described, each only once, and nothing else of importance. Characters from left to right:\n1. A fisherman in a bright yellow raincoat and yellow rain hat: he pours blue water from a green teapot into a big red-and-white striped jar; the blue stream visibly goes into the jar; on his back he carries a wicker basket holding exactly three fish.\n2. A bald baker in a red apron: he presses a yellow sticky note onto the front cover of a big purple book that he holds against his chest; beside him stands a tray with exactly two loaves of bread.\n3. An old man with a long white beard in a green robe: he turns a golden key in the lock of a small black box on his knees, and a tiny glowing star rises out of the opened box; next to him burn exactly three white candles.\nNo text, no letters, no numbers."
+  },
+  {
+   "id": "N4a",
+   "model": "Neon",
+   "n": 4,
+   "prompt": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Setting: one sunny village riverside square. Absolutely no text, no letters, no numbers, no signs and no labels anywhere. Draw every character and object listed below exactly as described, each only once, and nothing else of importance. Characters from left to right:\n1. A fisherman in a bright yellow raincoat and yellow rain hat: he pours blue water from a green teapot into a big red-and-white striped jar; the blue stream visibly goes into the jar; on his back he carries a wicker basket holding exactly three fish.\n2. A bald baker in a red apron: he presses a yellow sticky note onto the front cover of a big purple book that he holds against his chest; beside him stands a tray with exactly two loaves of bread.\n3. An old man with a long white beard in a green robe: he turns a golden key in the lock of a small black box on his knees, and a tiny glowing star rises out of the opened box; next to him burn exactly three white candles.\n4. A knight in shiny silver armor without a helmet plume: he pulls a round golden hand mirror up out of the ground with clumps of soil falling from it, holding it toward a small brown dog; exactly two shovels stand stuck in the ground behind him.\nNo text, no letters, no numbers."
+  },
+  {
+   "id": "N4b",
+   "model": "Neon",
+   "n": 4,
+   "prompt": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Setting: one sunny village riverside square. Absolutely no text, no letters, no numbers, no signs and no labels anywhere. Draw every character and object listed below exactly as described, each only once, and nothing else of importance. Characters from left to right:\n1. A fisherman in a bright yellow raincoat and yellow rain hat: he pours blue water from a green teapot into a big red-and-white striped jar; the blue stream visibly goes into the jar; on his back he carries a wicker basket holding exactly three fish.\n2. A bald baker in a red apron: he presses a yellow sticky note onto the front cover of a big purple book that he holds against his chest; beside him stands a tray with exactly two loaves of bread.\n3. An old man with a long white beard in a green robe: he turns a golden key in the lock of a small black box on his knees, and a tiny glowing star rises out of the opened box; next to him burn exactly three white candles.\n4. A knight in shiny silver armor without a helmet plume: he pulls a round golden hand mirror up out of the ground with clumps of soil falling from it, holding it toward a small brown dog; exactly two shovels stand stuck in the ground behind him.\nNo text, no letters, no numbers."
+  },
+  {
+   "id": "N6",
+   "model": "Neon",
+   "n": 6,
+   "prompt": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Setting: one sunny village riverside square. Absolutely no text, no letters, no numbers, no signs and no labels anywhere. Draw every character and object listed below exactly as described, each only once, and nothing else of importance. Characters from left to right:\n1. A fisherman in a bright yellow raincoat and yellow rain hat: he pours blue water from a green teapot into a big red-and-white striped jar; the blue stream visibly goes into the jar; on his back he carries a wicker basket holding exactly three fish.\n2. A bald baker in a red apron: he presses a yellow sticky note onto the front cover of a big purple book that he holds against his chest; beside him stands a tray with exactly two loaves of bread.\n3. An old man with a long white beard in a green robe: he turns a golden key in the lock of a small black box on his knees, and a tiny glowing star rises out of the opened box; next to him burn exactly three white candles.\n4. A knight in shiny silver armor without a helmet plume: he pulls a round golden hand mirror up out of the ground with clumps of soil falling from it, holding it toward a small brown dog; exactly two shovels stand stuck in the ground behind him.\n5. A girl with two pigtails in a purple dress: holding an orange umbrella in one hand, she waters a giant sunflower with a pink watering can in the other hand; exactly three bees fly around the sunflower.\n6. A mechanic in blue overalls with a red cap: he tightens a giant red bolt on a wooden cart wheel with a big silver wrench; exactly two gears lie on the ground by his feet.\nNo text, no letters, no numbers."
+  },
+  {
+   "id": "C4",
+   "model": "Neon",
+   "n": 4,
+   "chain": true,
+   "prompt": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Setting: one sunny village riverside square. Absolutely no text, no letters, no numbers, no signs and no labels anywhere. Draw every character and object listed below exactly as described, each only once, and nothing else of importance. Characters from left to right:\n1. A fisherman in a bright yellow raincoat and yellow rain hat: he pours blue water from a green teapot into a big red-and-white striped jar; the blue stream visibly goes into the jar; on his back he carries a wicker basket holding exactly three fish.\n2. A bald baker in a red apron: he presses a yellow sticky note onto the front cover of a big purple book that he holds against his chest; beside him stands a tray with exactly two loaves of bread.\n3. An old man with a long white beard in a green robe: he turns a golden key in the lock of a small black box on his knees, and a tiny glowing star rises out of the opened box; next to him burn exactly three white candles.\n4. A knight in shiny silver armor without a helmet plume: he pulls a round golden hand mirror up out of the ground with clumps of soil falling from it, holding it toward a small brown dog; exactly two shovels stand stuck in the ground behind him.\nThese moments are linked like dominoes from left to right:\n- Water overflowing from the striped jar runs across the ground and soaks the baker's shoes.\n- A second yellow sticky note slips from the baker's purple book and flutters down onto the old man's black box.\n- The glowing star from the box flies over and lands on the knight's silver shoulder.\nNo text, no letters, no numbers."
+  },
+  {
+   "id": "C6",
+   "model": "Neon",
+   "n": 6,
+   "chain": true,
+   "prompt": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Setting: one sunny village riverside square. Absolutely no text, no letters, no numbers, no signs and no labels anywhere. Draw every character and object listed below exactly as described, each only once, and nothing else of importance. Characters from left to right:\n1. A fisherman in a bright yellow raincoat and yellow rain hat: he pours blue water from a green teapot into a big red-and-white striped jar; the blue stream visibly goes into the jar; on his back he carries a wicker basket holding exactly three fish.\n2. A bald baker in a red apron: he presses a yellow sticky note onto the front cover of a big purple book that he holds against his chest; beside him stands a tray with exactly two loaves of bread.\n3. An old man with a long white beard in a green robe: he turns a golden key in the lock of a small black box on his knees, and a tiny glowing star rises out of the opened box; next to him burn exactly three white candles.\n4. A knight in shiny silver armor without a helmet plume: he pulls a round golden hand mirror up out of the ground with clumps of soil falling from it, holding it toward a small brown dog; exactly two shovels stand stuck in the ground behind him.\n5. A girl with two pigtails in a purple dress: holding an orange umbrella in one hand, she waters a giant sunflower with a pink watering can in the other hand; exactly three bees fly around the sunflower.\n6. A mechanic in blue overalls with a red cap: he tightens a giant red bolt on a wooden cart wheel with a big silver wrench; exactly two gears lie on the ground by his feet.\nThese moments are linked like dominoes from left to right:\n- Water overflowing from the striped jar runs across the ground and soaks the baker's shoes.\n- A second yellow sticky note slips from the baker's purple book and flutters down onto the old man's black box.\n- The glowing star from the box flies over and lands on the knight's silver shoulder.\n- A sunbeam reflected by the golden mirror shines onto the girl's sunflower.\n- Spray from the girl's watering can splashes onto the mechanic's wrench.\nNo text, no letters, no numbers."
+  },
+  {
+   "id": "E3",
+   "model": "Neon",
+   "n": 3,
+   "from": "N2 같은 대화에서 편집 +B3",
+   "prompt": "Edit this image. Keep everything that is already there exactly as it is. Add exactly one new character at the right side, in empty space: an old man with a long white beard in a green robe: he turns a golden key in the lock of a small black box on his knees, and a tiny glowing star rises out of the opened box; next to him burn exactly three white candles. Add nothing else. No text, no letters, no numbers."
+  },
+  {
+   "id": "E4",
+   "model": "Neon",
+   "n": 4,
+   "from": "E3 같은 대화에서 편집 +B4",
+   "prompt": "Edit this image. Keep everything that is already there exactly as it is. Add exactly one new character at the right side, in empty space: a knight in shiny silver armor without a helmet plume: he pulls a round golden hand mirror up out of the ground with clumps of soil falling from it, holding it toward a small brown dog; exactly two shovels stand stuck in the ground behind him. Add nothing else. No text, no letters, no numbers."
+  },
+  {
+   "id": "K4",
+   "model": "Carbon",
+   "n": 4,
+   "prompt": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Setting: one sunny village riverside square. Absolutely no text, no letters, no numbers, no signs and no labels anywhere. Draw every character and object listed below exactly as described, each only once, and nothing else of importance. Characters from left to right:\n1. A fisherman in a bright yellow raincoat and yellow rain hat: he pours blue water from a green teapot into a big red-and-white striped jar; the blue stream visibly goes into the jar; on his back he carries a wicker basket holding exactly three fish.\n2. A bald baker in a red apron: he presses a yellow sticky note onto the front cover of a big purple book that he holds against his chest; beside him stands a tray with exactly two loaves of bread.\n3. An old man with a long white beard in a green robe: he turns a golden key in the lock of a small black box on his knees, and a tiny glowing star rises out of the opened box; next to him burn exactly three white candles.\n4. A knight in shiny silver armor without a helmet plume: he pulls a round golden hand mirror up out of the ground with clumps of soil falling from it, holding it toward a small brown dog; exactly two shovels stand stuck in the ground behind him.\nNo text, no letters, no numbers."
+  },
+  {
+   "id": "KC4",
+   "model": "Carbon",
+   "n": 4,
+   "chain": true,
+   "prompt": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Setting: one sunny village riverside square. Absolutely no text, no letters, no numbers, no signs and no labels anywhere. Draw every character and object listed below exactly as described, each only once, and nothing else of importance. Characters from left to right:\n1. A fisherman in a bright yellow raincoat and yellow rain hat: he pours blue water from a green teapot into a big red-and-white striped jar; the blue stream visibly goes into the jar; on his back he carries a wicker basket holding exactly three fish.\n2. A bald baker in a red apron: he presses a yellow sticky note onto the front cover of a big purple book that he holds against his chest; beside him stands a tray with exactly two loaves of bread.\n3. An old man with a long white beard in a green robe: he turns a golden key in the lock of a small black box on his knees, and a tiny glowing star rises out of the opened box; next to him burn exactly three white candles.\n4. A knight in shiny silver armor without a helmet plume: he pulls a round golden hand mirror up out of the ground with clumps of soil falling from it, holding it toward a small brown dog; exactly two shovels stand stuck in the ground behind him.\nThese moments are linked like dominoes from left to right:\n- Water overflowing from the striped jar runs across the ground and soaks the baker's shoes.\n- A second yellow sticky note slips from the baker's purple book and flutters down onto the old man's black box.\n- The glowing star from the box flies over and lands on the knight's silver shoulder.\nNo text, no letters, no numbers."
+  }
+ ],
+ "scoring": "판독자 둘(서로 모름)이 원본만 보고 check마다 ✓(정확)/△(있으나 속성·접촉·수 틀림)/✗(없음). 그 밖에 중복 인물·소품, 글자·숫자, 엉뚱한 섞임(남의 소품을 듦)을 센다."
+}

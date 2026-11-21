@@ -10,7 +10,7 @@
 
 1. **이 노트를 끝까지 읽는다.** 그다음 계획서 `claude/Sketchy_갈아엎기_Opus_실행계획서_20261120.md`(저장소 `docs/overhaul/PLAN_20261120.md`)를 읽는다. 계획서가 다른 인계문보다 위다.
 2. **저장소를 되살린다.** 클라우드 작업장은 대화가 끝나면 사라진다. 이 가지의 커밋은 GitHub에 아직 없다(사용자가 올림).
-   - Mac `~/Downloads/sketchy_opus/` 안의 가장 새 꾸러미(지금은 `sketchy_overhaul_20261122a.bundle`; 이후 것이 있으면 그것)를 스테이징하고 아래를 실행한다. 앞선 `…20261121.bundle` · `b` · `c` · `e`는 옛 끝이다.
+   - Mac `~/Downloads/sketchy_opus/` 안의 가장 새 꾸러미(지금은 `sketchy_overhaul_20261122a.bundle`; 이후 것이 있으면 그것)를 스테이징하고 아래를 실행한다. 앞선 `…20261121.bundle` · `b` · `c` · `e`는 옛 끝이다. **`20261122a`는 덧붙임 꾸러미**(968fe0a 위) — `e`를 먼저 fetch한 뒤 `a`를 fetch한다.
      ```
      git clone https://github.com/BAEggman/sketchy.git work && cd work
      git fetch <bundle경로> overhaul-20261120:overhaul-20261120 && git switch overhaul-20261120

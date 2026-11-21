@@ -1,0 +1,1020 @@
+{
+ "run": "20261122-p3-banwe",
+ "sheets": [
+  {
+   "id": "F1",
+   "method": "十八反 烏頭 — 烏頭 反 半夏 · 瓜蔞 · 貝母 · 白斂(혹 白芨)",
+   "lyric": "오두방정 반과 | 패백",
+   "setting": "맨벽 · 바닥선 하나. 烏頭는 왼쪽 끝 홀로, 무리는 오른쪽 한 줄(서로 닿지 않음), 瓜蔞와 貝母 사이 틈을 넓힘 = 두문자 쉼. 새 물건 일곱: 피규어 여섯 + 보라 독구름",
+   "stations": [
+    {
+     "herb": "烏頭",
+     "where": "왼쪽 끝 홀로",
+     "action": "먹구름 모자를 쓰고 오두방정 날개를 퍼덕임 → 바람 소용돌이 선이 오른쪽 넷(다섯)에 하나씩 닿음",
+     "touches": "半夏 · 瓜蔞 · 貝母 · 白蘞(白及)"
+    },
+    {
+     "herb": "半夏",
+     "where": "무리 첫째",
+     "action": "바람을 맞은 자리에서 보라 독구름 터짐(반바지에 두 다리 낀 채 넘어지는 꼴 그대로)",
+     "touches": "烏頭"
+    },
+    {
+     "herb": "瓜蔞",
+     "where": "둘째(뒤에 넓은 틈)",
+     "action": "엎어진 참외 위 바람 닿은 자리에서 터짐",
+     "touches": "烏頭"
+    },
+    {
+     "herb": "貝母",
+     "where": "셋째",
+     "action": "런웨이 포즈 그대로, 바람 닿은 자리에서 터짐",
+     "touches": "烏頭"
+    },
+    {
+     "herb": "白蘞",
+     "where": "넷째",
+     "action": "물구나무 염소, 바람 닿은 자리에서 터짐",
+     "touches": "烏頭"
+    },
+    {
+     "herb": "白及",
+     "where": "염소 바로 뒤, 작게 · 고개만",
+     "action": "염소와 같은 터짐 안에 함께 들어감(교재 「혹 白芨」 = 白斂 자리의 대안)",
+     "touches": "烏頭"
+    }
+   ],
+   "aux": "보라 독구름 「터짐」(뾰족 · 커짐 = 毒性 강해짐, 포제 「흩어짐」의 반대). 바람 선은 물건이 아닌 동작선. 깃털 날림 없음(예약 yyox-05 羽 · new-etc-24 輕)",
+   "boundaries": "무리끼리는 닿지 않음 — 터짐은 烏頭의 바람이 닿는 자리에서만(무리끼리 反이 아님). 瓜蔞 | 貝母 사이 넓은 틈 = 「반과 | 패백」. 白及은 白蘞 뒤 한 몸 = 「혹」. 학습층: 교재 白斂 = 사전 白蘞, 白芨 = 사전 白及. 烏頭 = 川烏 · 草烏의 우두머리(十九畏에서는 川烏 · 草烏로 나뉘어 犀角을 畏)",
+   "prompt_en": "16:9 wide cartoon illustration, bright cheerful Sketchy-style mnemonic scene, flat clean colors, bold outlines. Background: a plain empty light wall and one simple floor line only — no shelves, no bottles, no appliances, no notes, no signs. Read strictly left to right. Every character keeps exactly its own normal shape and colors. LEFT END, alone: A frantic plain black crow with no clothing, no tent and no grass, flapping both wings wildly and stamping its feet in a silly fuss, with a small dark-grey rain cloud (no lightning) sitting right on top of its head like a hat, no loose feathers, no text. Its wild flapping sends a fan of dark swirling gust lines (just motion lines) blowing to the right. To its right, in one row: (1) A grey hippo wearing bright shorts, both hind legs stuck in one leg of the shorts, toppling over with a surprised face; (2) an exhausted yellow Korean melon (chamoe) wearing a loose necktie, collapsed face-down with dizzy swirl eyes and a sweat drop; then a slightly wider gap; (3) a glamorous fashion model striking a runway pose, swinging a handbag made of a big clam shell; (4) A white goat with curved horns and a long beard doing a handstand on its front hooves, no leash, no collar, no text; and (5), smaller and half hidden just behind the goat, peeking out: a white Korean dog running with a white first-aid box with a red cross held in its mouth. One gust line ends on each of these characters, and exactly where each gust hits, a small spiky dark-purple poison cloud bursting outward and growing (exploding, not fading); the dog behind the goat is inside the same burst as the goat. The figures in the row stand apart with small gaps and never touch each other; poison bursts appear only where the left character's action reaches them. Only these characters and the purple poison bursts; no other objects. Absolutely no text, letters, numbers, labels, signs or speech bubbles anywhere.",
+   "score": 92,
+   "from": "p6 · p1(쉼 틈) · p2(닿는 자리마다 터짐) · p5(왼쪽 고정)",
+   "batch": "R1"
+  },
+  {
+   "id": "F2",
+   "method": "十八反 甘草 — 甘草 反 大戟 · 芫花 · 甘遂 · 海藻",
+   "lyric": "감초 대원 | 감해",
+   "setting": "F1과 같은 맨벽 · 바닥선 · 같은 자리. 甘草 약장 왼쪽 끝, 무리 오른쪽 한 줄(大戟은 다른 피규어 키로 줄인 무대 앞면), 芫花와 甘遂 사이 틈을 넓힘. 새 물건 여섯: 피규어 다섯 + 보라 독구름",
+   "stations": [
+    {
+     "herb": "甘草",
+     "where": "왼쪽 끝 홀로",
+     "action": "서랍 넷에서 노란 감초 뿌리가 팔처럼 뻗어 넷을 하나씩 찌름(약방의 감초가 어디나 끼어듦)",
+     "touches": "大戟 · 芫花 · 甘遂 · 海藻"
+    },
+    {
+     "herb": "大戟",
+     "where": "무리 첫째(작은 무대 앞면)",
+     "action": "뿌리가 막자락에 닿은 자리에서 큰 터짐(두 배)",
+     "touches": "甘草"
+    },
+    {
+     "herb": "芫花",
+     "where": "둘째(뒤에 넓은 틈)",
+     "action": "지폐 꽃잎에 뿌리가 닿아 터짐",
+     "touches": "甘草"
+    },
+    {
+     "herb": "甘遂",
+     "where": "셋째",
+     "action": "쇠창살 쥔 죄수에게 뿌리가 닿아 큰 터짐(두 배)",
+     "touches": "甘草"
+    },
+    {
+     "herb": "海藻",
+     "where": "넷째",
+     "action": "춤추는 미역 다발에 뿌리가 닿아 터짐",
+     "touches": "甘草"
+    }
+   ],
+   "aux": "보라 독구름 「터짐」. 大戟 · 甘遂 두 곳만 두 배 크기 = 七情 相反(甘草+大戟/甘遂, R4 S10)에도 나오는 짝 표지",
+   "boundaries": "무리끼리 닿지 않음. 芫花 | 甘遂 사이 넓은 틈 = 「대원 | 감해」. 큰 터짐 둘 = 十八反이면서 七情 相反. 학습층: 포제(醋製)에서 같은 넷 위 독구름이 「흩어짐」이었던 것과 반대 꼴",
+   "prompt_en": "16:9 wide cartoon illustration, bright cheerful Sketchy-style mnemonic scene, flat clean colors, bold outlines. Background: a plain empty light wall and one simple floor line only — no shelves, no bottles, no appliances, no notes, no signs. Read strictly left to right. Every character keeps exactly its own normal shape and colors. LEFT END, alone: A small wooden Korean herbal medicine cabinet with many little drawers, and from every open drawer the same cheerful yellow licorice root pokes out its smiling face; no labels or writing anywhere. From four of its drawers, four long yellow licorice roots stretch out to the right like reaching arms. To its right, in one row: (1) A grand theater stage front with gold columns and heavy red velvet curtains drawn open on an empty stage, no sign, no letters — drawn small, about as tall as the other characters, standing in the row like an object; (2) A flower whose petals are plain green paper banknotes with no numbers, no text and no portraits; then a slightly wider gap; (3) A prisoner in a black-and-white striped uniform gripping the iron bars of a small jail cell door with both hands, no fruit, no text; (4) a bundle of wavy green-brown seaweed fronds with a happy face, wiggling and dancing as if underwater. Each licorice root tip pokes one of these four, and exactly where each root touches, a small spiky dark-purple poison cloud bursting outward and growing (exploding, not fading); the bursts at the theater stage and at the prisoner are twice as big as the other two. The figures in the row stand apart with small gaps and never touch each other; poison bursts appear only where the left character's action reaches them. Only these characters and the purple poison bursts; no other objects. Absolutely no text, letters, numbers, labels, signs or speech bubbles anywhere.",
+   "score": 92,
+   "from": "p6 · p2(S10과 같은 꼴) · p1(쉼 틈 · 큰 터짐)",
+   "batch": "R1"
+  },
+  {
+   "id": "F3",
+   "method": "十八反 藜蘆 ① — 藜蘆 反 五參(人參 · 丹參 · 玄參 · 沙參 · 苦參)",
+   "lyric": "여로 인단현 | 사고",
+   "setting": "같은 맨벽 · 바닥선 · 같은 자리. 藜蘆 여우 왼쪽 끝, 키 같은 뿌리 인형 다섯 오른쪽 한 줄, 玄參과 沙參 사이 틈을 넓힘. 새 물건 일곱: 피규어 여섯 + 보라 독구름",
+   "stations": [
+    {
+     "herb": "藜蘆",
+     "where": "왼쪽 끝 홀로",
+     "action": "화로를 안고 토한 초록 물줄기가 다섯 갈래로 갈라져 인형마다 떨어짐",
+     "touches": "人參 · 丹參 · 玄參 · 沙參 · 苦參"
+    },
+    {
+     "herb": "人參",
+     "where": "첫째",
+     "action": "왕관 인형에 물줄기가 닿아 터짐",
+     "touches": "藜蘆"
+    },
+    {
+     "herb": "丹參",
+     "where": "둘째",
+     "action": "단검 든 붉은 인형에 닿아 터짐",
+     "touches": "藜蘆"
+    },
+    {
+     "herb": "玄參",
+     "where": "셋째(뒤에 넓은 틈)",
+     "action": "현무암 인형에 닿아 터짐",
+     "touches": "藜蘆"
+    },
+    {
+     "herb": "沙參",
+     "where": "넷째",
+     "action": "사자 갈기 인형에 닿아 터짐",
+     "touches": "藜蘆"
+    },
+    {
+     "herb": "苦參",
+     "where": "다섯째",
+     "action": "머리띠 고3 인형에 닿아 터짐",
+     "touches": "藜蘆"
+    }
+   ],
+   "aux": "보라 독구름 「터짐」. 뿌리 인형 다섯 = 參 가족이 한 줄 = 五參",
+   "boundaries": "인형끼리 닿지 않음. 玄參 | 沙參 사이 넓은 틈 = 「인단현 | 사고」. 人參은 十九畏(人參畏五靈脂) · 七情 相惡 · 相畏 장에도 나옴 — 이 장은 터짐(反)으로만",
+   "prompt_en": "16:9 wide cartoon illustration, bright cheerful Sketchy-style mnemonic scene, flat clean colors, bold outlines. Background: a plain empty light wall and one simple floor line only — no shelves, no bottles, no appliances, no notes, no signs. Read strictly left to right. Every character keeps exactly its own normal shape and colors. LEFT END, alone: a queasy red fox with a single bushy tail hugging a small round iron charcoal brazier while throwing up a green splash. The green splash it throws up arcs to the right and splits into five streams. To its right, in one row, five root dolls of the same height: (1) a small ginseng-root doll with forked root legs and tiny root arms, wearing a little golden crown and standing proudly; (2) a red ginseng-root doll with little root arms and legs gripping a short dagger; (3) A small root-doll figure with a ginseng-root body and tiny root arms and legs, made of black porous basalt rock full of little holes, no text; then a slightly wider gap; (4) A little ginseng-root doll with a big fluffy lion's mane around its face, roaring proudly; (5) a ginseng-root doll dressed as a cramming high-school senior, wearing a plain blank white headband, tired eyes. Each green stream lands on one doll, and exactly where each stream lands, a small spiky dark-purple poison cloud bursting outward and growing (exploding, not fading). The figures in the row stand apart with small gaps and never touch each other; poison bursts appear only where the left character's action reaches them. Only these characters and the purple poison bursts; no other objects. Absolutely no text, letters, numbers, labels, signs or speech bubbles anywhere.",
+   "score": 91,
+   "from": "p1 · p2",
+   "batch": "R1"
+  },
+  {
+   "id": "F4",
+   "method": "十八反 藜蘆 ② — 藜蘆 反 細辛 · 芍藥",
+   "lyric": "여로 세작",
+   "setting": "F3과 같은 여우가 같은 자리 · 같은 자세(같은 우두머리 둘째 장). 細辛은 여우 바로 옆, 白 · 赤芍藥은 오른쪽에 어깨를 맞대고 나란히. 새 물건 다섯: 피규어 넷 + 보라 독구름",
+   "stations": [
+    {
+     "herb": "藜蘆",
+     "where": "왼쪽 끝(F3과 같은 자리)",
+     "action": "등을 밀리자 다시 토함 → 물줄기가 오른쪽 두 약사를 함께 덮음",
+     "touches": "細辛 · 白芍藥 · 赤芍藥"
+    },
+    {
+     "herb": "細辛",
+     "where": "여우 바로 오른쪽",
+     "action": "때수건 낀 손으로 여우 등을 밂 — 때수건이 닿은 자리에서 터짐",
+     "touches": "藜蘆"
+    },
+    {
+     "herb": "白芍藥",
+     "where": "오른쪽, 赤芍藥과 어깨 맞댐",
+     "action": "토사물을 맞아 赤芍藥과 함께 큰 터짐 하나 안에 듦",
+     "touches": "藜蘆"
+    },
+    {
+     "herb": "赤芍藥",
+     "where": "오른쪽 끝, 白芍藥 곁",
+     "action": "白芍藥과 같은 터짐 하나 안",
+     "touches": "藜蘆"
+    }
+   ],
+   "aux": "보라 독구름 「터짐」 둘(때수건 자리 · 두 약사를 덮는 큰 것 하나)",
+   "boundaries": "白 · 赤 둘을 구름 하나가 덮음 = 교재 「芍藥」은 白 · 赤을 가르지 않음(한 무리 한 자리). 細辛과 약사들은 닿지 않음. 학습층: 細辛은 七情 相畏(細辛+滑石)에도, 白芍藥은 相惡(白芍藥+石斛)에도 나옴",
+   "prompt_en": "16:9 wide cartoon illustration, bright cheerful Sketchy-style mnemonic scene, flat clean colors, bold outlines. Background: a plain empty light wall and one simple floor line only — no shelves, no bottles, no appliances, no notes, no signs. Read strictly left to right. Every character keeps exactly its own normal shape and colors. LEFT END, alone: a queasy red fox with a single bushy tail hugging a small round iron charcoal brazier while throwing up a green splash. Right beside it, leaning over: a cheerful Korean bathhouse scrubber in shorts and a towel headband, waving one hand that wears a green exfoliating scrub mitt — he scrubs the fox's back with that green scrub mitt, and exactly where the mitt touches the fox, a small spiky dark-purple poison cloud bursting outward and growing (exploding, not fading). The scrubbing makes the fox throw up again: its green splash flies to the right past the scrubber and lands on two pharmacists standing shoulder to shoulder: An elegant count (European nobleman with a monocle) dressed all in white: a white suit and a white cape, who is a pharmacist holding a small medicine bottle, and next to him A pirate pharmacist in a bright red long coat and tricorn hat with a black eye patch, holding up a small brown medicine bottle, no text. Their medicine bottles have no labels. One single bigger spiky dark-purple poison cloud bursting outward and growing (exploding, not fading) covers both pharmacists together. The scrubber and the pharmacists do not touch each other. Only these characters and the purple poison bursts; no other objects. Absolutely no text, letters, numbers, labels, signs or speech bubbles anywhere.",
+   "score": 92,
+   "from": "p2 · p3(때수건 등 밀기) · p6",
+   "batch": "R1"
+  },
+  {
+   "id": "G1",
+   "method": "十九畏 硫黃畏朴硝 · 水銀畏砒霜 · 狼毒畏密陀僧",
+   "lyric": "유박 · 수비 · 낭밀",
+   "setting": "맨벽 · 맨바닥. 짝마다 빨강·흰 줄무늬 A자 바리케이드 하나(十九畏 공용 표지). 짝 셋 왼→오, 짝 사이 빈 간격 = 두문자 쉼. 독구름 없음",
+   "stations": [
+    {
+     "herb": "硫黃",
+     "where": "첫 짝 왼쪽",
+     "action": "바리케이드에 등을 두고 왼쪽을 향함, 썩은 냄새 김이 왼쪽으로만 흘러감",
+     "touches": "없음(바리케이드로 막힘)"
+    },
+    {
+     "herb": "朴硝",
+     "where": "첫 짝 오른쪽",
+     "action": "바리케이드 윗가로대 오른쪽 끝에 발로 거꾸로 매달려 오른쪽을 봄, 켠 양초는 그대로 보임",
+     "touches": "바리케이드만"
+    },
+    {
+     "herb": "水銀",
+     "where": "둘째 짝 왼쪽",
+     "action": "깨진 체온계에서 수은 방울들이 왼쪽으로 달아남(사전 동작 그대로)",
+     "touches": "없음"
+    },
+    {
+     "herb": "砒霜",
+     "where": "둘째 짝 오른쪽",
+     "action": "오른쪽 벽 낮은 곳에 달린 빨간 비상벨이 따르릉 울림",
+     "touches": "없음"
+    },
+    {
+     "herb": "狼毒",
+     "where": "셋째 짝 왼쪽",
+     "action": "바리케이드에 등 돌리고 왼쪽을 보며 펼친 책을 소리 내어 낭독",
+     "touches": "없음"
+    },
+    {
+     "herb": "密陀僧",
+     "where": "셋째 짝 오른쪽",
+     "action": "승려가 고집 센 낙타를 뒤에서 두 손으로 밀어 오른쪽으로 멀어짐",
+     "touches": "없음(낙타와만 맞닿음 = 피규어 자체)"
+    }
+   ],
+   "aux": "빨강·흰 줄무늬 A자 바리케이드 ×3(한 종류) = 十九畏 「함께 쓰지 않는 짝」. 畏하는 앞 약 = 늘 왼쪽",
+   "boundaries": "독구름 · 해골 · 겁먹은 표정 없음 → 七情 相畏(독약 겁먹음 · 보라 독구름 흩어짐) · 十八反/相反(독구름 터짐)과 가름. 그림 밖: 교재 3500행 硫黃畏朴硝 · 水銀畏砒霜 · 狼毒畏密陀僧, 十九畏歌 「硫黃原是火中精 朴硝一見便相爭 水銀莫與砒霜見 狼毒最怕密陀僧」(학습층 참고 — 원문 대조 필요)",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Background: a plain empty pale wall and plain floor only - no shelves, no bottles, no appliances, no notes, no posters. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. No purple clouds, no poison smoke, no skulls. Every character keeps exactly its own normal shape, colors and expression. Separator prop: a small plain red-and-white striped A-frame road barricade (sawhorse barricade) with stripes only - no words, no lights. Characters stand in pairs from left to right. In each pair the two characters stand back to back on either side of one barricade, the left one facing left and the right one facing right, ignoring each other; they never touch each other. Leave a clear empty gap between one pair and the next. Pair 1 (left): on the left of a small red-and-white striped A-frame barricade, a lumpy bright yellow sulfur rock giving off wavy greenish stink fumes, the fumes drifting only to the left; on the right, a brown bat hanging upside down by its feet from the right end of the barricade's top rail, clutching a lit white candle in its wings, the candle clearly visible, the bat facing right. Pair 2 (middle): on the left of a small red-and-white striped A-frame barricade, a broken glass thermometer with blank tick marks only, shiny silver mercury droplets with tiny legs running away from the crack toward the left; on the right, mounted low on the wall, a round red emergency alarm bell ringing hard with shaking vibration lines. Pair 3 (right): on the left of a small red-and-white striped A-frame barricade, a gray wolf standing upright holding a plain open book and reading aloud, sound lines coming from its open mouth, its back to the barricade and facing left; on the right, a bald Buddhist monk in gray robes pushing a stubborn camel from behind with both hands, moving away to the right.",
+   "score": 93,
+   "from": "p6 · p2 · p5 · p1",
+   "batch": "R2"
+  },
+  {
+   "id": "G2",
+   "method": "十九畏 巴豆畏牽牛 · 丁香畏鬱金 · 牙硝畏三稜",
+   "lyric": "파견 · 정울 · 아삼",
+   "setting": "G1과 같은 맨벽 · 같은 바리케이드 문법. 짝 셋 왼→오. 三稜만 화면에서 가장 키 큼",
+   "stations": [
+    {
+     "herb": "巴豆",
+     "where": "첫 짝 왼쪽",
+     "action": "도화선이 타는 파란 두부 폭탄이 바리케이드 왼쪽에 놓임",
+     "touches": "없음"
+    },
+    {
+     "herb": "牽牛子",
+     "where": "첫 짝 오른쪽",
+     "action": "견우 목동이 고삐를 당겨 소를 바리케이드 반대쪽(오른쪽)으로 끌고 감",
+     "touches": "없음"
+    },
+    {
+     "herb": "丁香",
+     "where": "둘째 짝 왼쪽",
+     "action": "정장 · 넥타이 향로의 연기가 왼쪽(제 쪽)으로만 피어오름",
+     "touches": "없음"
+    },
+    {
+     "herb": "鬱金",
+     "where": "둘째 짝 오른쪽",
+     "action": "금붕어가 오른쪽을 보고 엉엉 울며 눈물을 쏟음",
+     "touches": "없음"
+    },
+    {
+     "herb": "牙硝",
+     "where": "셋째 짝 왼쪽",
+     "action": "콘에 꽂혀 녹는 양초가 몸을 왼쪽으로 젖혀 쇠침 쪽에서 멀어짐",
+     "touches": "없음"
+    },
+    {
+     "herb": "三稜",
+     "where": "셋째 짝 오른쪽",
+     "action": "화면에서 가장 키 큰 세모 날 쇠침이 곧게 서 있음(날끝은 위로)",
+     "touches": "없음"
+    }
+   ],
+   "aux": "바리케이드 ×3(한 종류). 牙硝의 「양초」 = 硝 가족(G1 朴硝 박쥐의 양초와 이어짐)",
+   "boundaries": "독구름 없음 · 닿음 없음. 교재 표기 牽牛 = 사전 牽牛子(같은 약). 그림 밖: 「巴豆性烈最爲上 偏與牽牛不順情 丁香莫與鬱金見 牙硝難合京三稜」(학습층 참고 — 원문 대조 필요)",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Background: a plain empty pale wall and plain floor only - no shelves, no bottles, no appliances, no notes, no posters. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. No purple clouds, no poison smoke, no skulls. Every character keeps exactly its own normal shape, colors and expression. Separator prop: a small plain red-and-white striped A-frame road barricade (sawhorse barricade) with stripes only - no words, no lights. Characters stand in pairs from left to right. In each pair the two characters stand back to back on either side of one barricade, the left one facing left and the right one facing right, ignoring each other; they never touch each other. Leave a clear empty gap between one pair and the next. Pair 1 (left): on the left of a small red-and-white striped A-frame barricade, a blue block of tofu shaped like a cartoon bomb with a lit fuse sticking out of its top; on the right, a young cowherd boy leading a cow by a rope, pulling the cow away toward the right, his back to the barricade. Pair 2 (middle): on the left of a small red-and-white striped A-frame barricade, a small bronze incense burner wearing a black business suit jacket and necktie, a thin curl of smoke rising from its lid and drifting only to the left; on the right, an orange goldfish floating in the air like a cartoon character, facing right, bawling with huge cartoon tears streaming from its eyes. Pair 3 (right): on the left of a small red-and-white striped A-frame barricade, a waffle ice cream cone with a melting scoop and a lit white candle stuck into the top, drips running down the cone, the whole cone leaning back toward the left; on the right, a giant thick steel needle standing upright with a sharp three-edged tip pointing straight up, triangular cross-section clearly visible, no face, no blood - it is the tallest thing in the whole picture.",
+   "score": 94,
+   "from": "p6 · p1",
+   "batch": "R2"
+  },
+  {
+   "id": "G3",
+   "method": "十九畏 川烏草烏畏犀角",
+   "lyric": "천초서",
+   "setting": "같은 맨벽 · 바리케이드 하나. 2:1 — 바리케이드 왼쪽에 까마귀 둘이 나란히, 오른쪽에 코뿔소 하나. 화면 가운데에 넉넉히",
+   "stations": [
+    {
+     "herb": "川烏",
+     "where": "바리케이드 왼쪽 앞",
+     "action": "천막을 뒤집어쓰고 고개만 내민 까마귀가 꼬리를 바리케이드 쪽으로 두고 왼쪽을 봄",
+     "touches": "草烏와 나란히(같은 쪽 · 같은 무리)"
+    },
+    {
+     "herb": "草烏",
+     "where": "川烏 옆",
+     "action": "초록 까마귀가 왼쪽 풀 다발을 쪼아 먹음, 꼬리는 바리케이드 쪽",
+     "touches": "川烏와 나란히"
+    },
+    {
+     "herb": "犀角",
+     "where": "바리케이드 오른쪽",
+     "action": "정육면체 사각 블록 외뿔 코뿔소가 오른쪽을 보고 당당히 섬",
+     "touches": "없음"
+    }
+   ],
+   "aux": "바리케이드 ×1. 까마귀 둘이 한쪽 = 川烏 · 草烏 둘 다 畏하는 쪽(교재가 한 짝으로 묶음)",
+   "boundaries": "烏 가족 = 까마귀(十八反 F1 烏頭와 같은 가족 — 烏頭 피규어는 이 장에 넣지 않음). 犀角의 뿔은 사각 블록(각뿔 아님). 그림 밖: 「川烏草烏不順犀」(학습층 참고 — 원문 대조 필요)",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Background: a plain empty pale wall and plain floor only - no shelves, no bottles, no appliances, no notes, no posters. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. No purple clouds, no poison smoke, no skulls. Every character keeps exactly its own normal shape, colors and expression. Separator prop: a small plain red-and-white striped A-frame road barricade (sawhorse barricade) with stripes only - no words, no lights. Characters stand in pairs from left to right. In each pair the two characters stand back to back on either side of one barricade, the left one facing left and the right one facing right, ignoring each other; they never touch each other. Leave a clear empty gap between one pair and the next. This picture has only one pair, placed in the center with generous empty space around it. On the left of a small red-and-white striped A-frame barricade, two crows stand side by side, both with their tails toward the barricade and facing left: a black crow wearing a small canvas camping tent over its body like a shell, only its beaked head poking out of the tent flap; and next to it a bright grass-green crow pecking at and eating a tuft of grass, no cloth on it, no candle. On the right of the barricade, a grey rhinoceros whose single horn is a perfect square cube block (a cube, not a pyramid), standing proudly and facing right.",
+   "score": 91,
+   "from": "p2 · p6(꼬리 돌림만)",
+   "batch": "R2"
+  },
+  {
+   "id": "G4",
+   "method": "十九畏 人參畏五靈脂 · 肉桂畏赤石脂",
+   "lyric": "인오 · 육적",
+   "setting": "같은 맨벽 · 바리케이드 문법. 짝 둘 왼→오",
+   "stations": [
+    {
+     "herb": "人參",
+     "where": "첫 짝 왼쪽",
+     "action": "왕관 쓴 인삼 뿌리 인형이 바리케이드에 등 돌리고 왼쪽을 향해 당당히 섬",
+     "touches": "없음"
+    },
+    {
+     "herb": "五靈脂",
+     "where": "첫 짝 오른쪽",
+     "action": "유령이 들러붙은 오렌지가 오른쪽을 봄 — 보라 독구름 없음",
+     "touches": "없음"
+    },
+    {
+     "herb": "肉桂",
+     "where": "둘째 짝 왼쪽",
+     "action": "계피 젓가락 꽂힌 육개장 그릇의 김이 왼쪽으로만 피어오름",
+     "touches": "없음"
+    },
+    {
+     "herb": "赤石脂",
+     "where": "둘째 짝 오른쪽",
+     "action": "적십자 완장 찬 붉은 돌덩이가 오른쪽을 봄",
+     "touches": "없음"
+    }
+   ],
+   "aux": "바리케이드 ×2(한 종류)",
+   "boundaries": "人參畏五靈脂는 七情 相畏 괄호(3492행)에도 나옴 — 그 장(R4 相畏)은 같은 짝을 보라 독구름 흩어짐으로, 이 장은 바리케이드 · 외면 · 독구름 없음으로 그려 뜻을 가름(회수 문항: 「같은 人參–五靈脂, 이 장은 독을 덜어 주나?」 → 아니오, 함께 쓰지 않음). 교재 人蔘 = 사전 人參. 그림 밖: 「人參最怕五靈脂 官桂善能調冷氣 若逢石脂便相欺」(학습층 참고 — 원문 대조 필요)",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Background: a plain empty pale wall and plain floor only - no shelves, no bottles, no appliances, no notes, no posters. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. No purple clouds, no poison smoke, no skulls. Every character keeps exactly its own normal shape, colors and expression. Separator prop: a small plain red-and-white striped A-frame road barricade (sawhorse barricade) with stripes only - no words, no lights. Characters stand in pairs from left to right. In each pair the two characters stand back to back on either side of one barricade, the left one facing left and the right one facing right, ignoring each other; they never touch each other. Leave a clear empty gap between one pair and the next. Pair 1 (left): on the left of a small red-and-white striped A-frame barricade, a small ginseng-root doll with forked root legs and tiny root arms, wearing a little golden crown and standing proudly, its back to the barricade and facing left; on the right, a round orange fruit with a small white cartoon ghost clinging to it and wrapping its wispy arms around it, facing right. There is no cloud or smoke between them. Pair 2 (right): on the left of a small red-and-white striped A-frame barricade, a steaming bowl of spicy red Korean beef soup with several rolled cinnamon bark sticks standing upright in it like chopsticks, its steam drifting only to the left; on the right, a chunky brick-red rock with a stubby little face, wearing a white armband that shows only a plain red cross symbol, no letters, facing right.",
+   "score": 94,
+   "from": "p6 · p2",
+   "batch": "R2"
+  },
+  {
+   "id": "S1",
+   "method": "七情 單行",
+   "lyric": "독삼 독부",
+   "setting": "七情 체육관(맨벽 + 회색 매트). 가운데 높은 칸막이로 1인 칸 둘. 칸마다 1인 욕조(독탕 = 獨…湯) 하나와 아령 하나(hp-03 單行 아령). 빛 · 구름 없음",
+   "stations": [
+    {
+     "herb": "人參",
+     "where": "왼쪽 칸",
+     "action": "제 1인 욕조에 혼자 앉아 우러나며(물이 옅은 금빛) 뿌리팔로 아령 하나를 듦, 칸막이 쪽으로 등을 돌림",
+     "touches": "없음(칸막이)"
+    },
+    {
+     "herb": "附子",
+     "where": "오른쪽 칸",
+     "action": "제 1인 욕조에 혼자 앉아 아령 하나를 듦, 칸막이 쪽으로 등을 돌림",
+     "touches": "없음(끝)"
+    }
+   ],
+   "aux": "1인 욕조(같은 물건 둘) · 아령 · 칸막이. 표지: 짝 없음 · 빛 없음 · 등 돌림 = 單行",
+   "boundaries": "칸막이를 넘는 것이 없다(人參 · 附子는 서로 닿지 않음). 그림 밖: 單行 = 한 가지 약으로 치료, 獨蔘湯 · 獨附湯(3488행대). 人參은 S3 相須(人參+甘草)에 다시 나옴 — 혼자 ↔ 둘 대비",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. Setting: a bare gym hall seen from the front: a plain light wall with nothing on it (no shelves, no posters, no doors, no machines, no mirrors, no bottles) and a light wooden floor; each pair (or each single character) stands on its own round blue floor mat, with clear empty gaps between the mats. Every character keeps exactly its own shape, size, colors and expression as described; do not add arms or legs to characters that have none. A tall plain partition wall divides the mat into two separate one-person stalls. Left stall: a small one-person wooden bathtub filled with warm water tinted pale gold; sitting in it all alone is — a small ginseng-root doll with forked root legs and tiny root arms, wearing a little golden crown and standing proudly —, happily steeping in the water and lifting one dumbbell with one root arm, its back turned to the partition. Right stall: an identical small one-person wooden bathtub with warm water; sitting in it all alone is — a smug rich young boy in a shiny tuxedo with a bow tie whose hair is a blazing fire, no top hat, no money, no gold ring, no text —, lifting one dumbbell, his back turned to the partition. The two cannot see each other over the partition and nothing reaches across it. No glow, no clouds.",
+   "score": 92,
+   "from": "p3 · p6(hp-03 아령) · p1(독탕)",
+   "batch": "R3"
+  },
+  {
+   "id": "S2",
+   "method": "七情 相須 ①",
+   "lyric": "석지 시황",
+   "setting": "七情 체육관. 相須 문법: 짝 둘이 나란히 같은 높이로 맞닿고, 노란 빛 하나가 둘을 함께 감싸 크게 부풂(둘 다 主 · 藥性 강해짐). 짝 사이 빈 틈 = 쉼",
+   "stations": [
+    {
+     "herb": "石膏",
+     "where": "왼쪽 짝 왼",
+     "action": "물을 벌컥 들이켜며 옆의 모자에 어깨를 댐",
+     "touches": "知母"
+    },
+    {
+     "herb": "知母",
+     "where": "왼쪽 짝 오른",
+     "action": "매트 위에 놓여 석고상 옆구리에 기대 맞닿음(머리에 쓰지 않음)",
+     "touches": "石膏"
+    },
+    {
+     "herb": "柴胡",
+     "where": "오른쪽 짝 왼",
+     "action": "황금괴를 끌어안고 볼을 비빔(시계 + 금 = 시간은 금)",
+     "touches": "黃芩"
+    },
+    {
+     "herb": "黃芩",
+     "where": "오른쪽 짝 오른",
+     "action": "호랑이 품에서 함께 번쩍이며 활짝 웃음",
+     "touches": "柴胡"
+    }
+   ],
+   "aux": "없음. 표지 = 짝마다 함께 감싼 노란 빛 하나",
+   "boundaries": "相須 ↔ 相使: 나란히 · 빛 하나(相須) ↔ 위아래 · 빛은 主만(相使, S5 · S6). 黃芩은 S6에서 相使 主로 다시 나옴. 모자를 석고상 머리에 씌우지 않음(위아래 = 相使로 읽힘). 그림 밖: 相須 = 效能 유사 → 協同 · 功效 增加, 君臣(둘 다 主), 石膏+知母 · 柴胡+黃芩(3489행대)",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. Setting: a bare gym hall seen from the front: a plain light wall with nothing on it (no shelves, no posters, no doors, no machines, no mirrors, no bottles) and a light wooden floor; each pair (or each single character) stands on its own round blue floor mat, with clear empty gaps between the mats. Every character keeps exactly its own shape, size, colors and expression as described; do not add arms or legs to characters that have none. The picture shows two pairs from left to right with a wide empty gap between the pairs. Within each pair the two characters stand side by side at the same height on the mat, touching each other, and ONE single soft warm yellow glow wraps around both of them together and swells big above their heads (one shared glow per pair, not two). No purple clouds. Left pair: on the left, — a white plaster classical statue bust gulping water thirstily from a big glass, water splashing —; right beside it, resting on the mat and leaning against the statue's side so they touch, — a soft cap with a big pink pencil eraser stuck on its top like a pompom — (the cap is NOT on the statue's head). Right pair: on the left, — a tiger whose round body is an alarm clock with a plain dial (tick marks only, no numbers) and whose whiskers are the clock hands —, hugging cheek to cheek with, on the right, — a big shining gold bar (gold ingot) with a happy face —; both beaming together.",
+   "score": 88,
+   "from": "p5 · p4(공동 빛) · p3(柴胡 · 黃芩 볼 비빔)",
+   "batch": "R3"
+  },
+  {
+   "id": "S3",
+   "method": "七情 相須 ②",
+   "lyric": "지백 인감",
+   "setting": "S2와 같은 相須 문법(나란히 · 빛 하나)",
+   "stations": [
+    {
+     "herb": "知母",
+     "where": "왼쪽 짝 왼",
+     "action": "지단 더미 옆에 기대 맞닿음",
+     "touches": "黃柏"
+    },
+    {
+     "herb": "黃柏",
+     "where": "왼쪽 짝 오른",
+     "action": "모자에 기댄 채 나란히 놓임",
+     "touches": "知母"
+    },
+    {
+     "herb": "人參",
+     "where": "오른쪽 짝 왼",
+     "action": "뿌리팔로 감초 약장 옆구리를 끌어안음(S1에서 혼자이던 인삼이 여기선 둘)",
+     "touches": "甘草"
+    },
+    {
+     "herb": "甘草",
+     "where": "오른쪽 짝 오른",
+     "action": "가장 가까운 서랍의 감초 얼굴이 몸을 내밀어 인삼 인형 볼에 볼을 댐",
+     "touches": "人參"
+    }
+   ],
+   "aux": "없음. 표지 = 짝마다 함께 감싼 노란 빛 하나",
+   "boundaries": "知母는 S2 · S3 두 짝에 나옴(교재 순서대로 따로 그림). 두문자는 知柏 = 「지백」(地黃과 겹치지 않게). 모자를 지단 위에 얹지 않음(위아래 금지). 甘草는 R4 相反 · R1 十八反에 다시 나옴. 그림 밖: 知母+黃柏 · 人參+甘草",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. Setting: a bare gym hall seen from the front: a plain light wall with nothing on it (no shelves, no posters, no doors, no machines, no mirrors, no bottles) and a light wooden floor; each pair (or each single character) stands on its own round blue floor mat, with clear empty gaps between the mats. Every character keeps exactly its own shape, size, colors and expression as described; do not add arms or legs to characters that have none. The picture shows two pairs from left to right with a wide empty gap between the pairs. Within each pair the two characters stand side by side at the same height on the mat, touching each other, and ONE single soft warm yellow glow wraps around both of them together and swells big above their heads (one shared glow per pair, not two). No purple clouds. Left pair: on the left, — a soft cap with a big pink pencil eraser stuck on its top like a pompom —, resting on the mat and leaning against, on the right, — two thin round egg crepes stacked slightly offset, one bright yellow (yolk) and one pure white (egg white), with a few thin cut strips beside them —, so they touch side by side (the cap is NOT on top of the crepes). Right pair: on the left, — a small ginseng-root doll with forked root legs and tiny root arms, wearing a little golden crown and standing proudly —, throwing one root arm around the side of the cabinet beside it; on the right, — a small wooden Korean herbal medicine cabinet with many little drawers, and from every open drawer the same cheerful yellow licorice root pokes out its smiling face; no labels or writing anywhere —; the licorice root in the nearest drawer leans out and presses its cheek against the ginseng doll's cheek, both grinning. The doll's whole body and crown stay fully visible.",
+   "score": 88,
+   "from": "p5 · p3(인삼 · 감초 약장)",
+   "batch": "R3"
+  },
+  {
+   "id": "S4",
+   "method": "七情 相須 ③",
+   "lyric": "당천 연산",
+   "setting": "S2와 같은 相須 문법(나란히 · 빛 하나)",
+   "stations": [
+    {
+     "herb": "當歸",
+     "where": "왼쪽 짝 왼",
+     "action": "천사 궁수와 팔짱을 낌",
+     "touches": "川芎"
+    },
+    {
+     "herb": "川芎",
+     "where": "왼쪽 짝 오른",
+     "action": "날개가 활시위에 낀 채 귀부인과 팔짱",
+     "touches": "當歸"
+    },
+    {
+     "herb": "蓮子肉",
+     "where": "오른쪽 짝 왼",
+     "action": "연자방아 막대를 밀어 돌바퀴를 굴림",
+     "touches": "山藥"
+    },
+    {
+     "herb": "山藥",
+     "where": "오른쪽 짝 오른",
+     "action": "한 손으로 같은 막대를 육포와 나란히 함께 밀고, 다른 손은 마 뿌리를 치켜듦",
+     "touches": "蓮子肉"
+    }
+   ],
+   "aux": "없음(연자방아는 蓮子肉 피규어의 일부). 표지 = 짝마다 함께 감싼 노란 빛 하나",
+   "boundaries": "蓮子肉 · 山藥은 같은 막대를 나란히 밂(뒤에서 밀기 = 相使 문법이 아님). 그림 밖: 當歸+川芎 · 蓮子肉+山藥, 교재 七情 相須 여섯 짝 끝",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. Setting: a bare gym hall seen from the front: a plain light wall with nothing on it (no shelves, no posters, no doors, no machines, no mirrors, no bottles) and a light wooden floor; each pair (or each single character) stands on its own round blue floor mat, with clear empty gaps between the mats. Every character keeps exactly its own shape, size, colors and expression as described; do not add arms or legs to characters that have none. The picture shows two pairs from left to right with a wide empty gap between the pairs. Within each pair the two characters stand side by side at the same height on the mat, touching each other, and ONE single soft warm yellow glow wraps around both of them together and swells big above their heads (one shared glow per pair, not two). No purple clouds. Left pair: on the left, — a donkey dressed as a noble lady with a pearl necklace and a fan —, walking arm in arm with, on the right, — a small winged angel archer whose wing is caught in the bowstring, looking flustered —. Right pair: on the left, — a thick, chewy strip of brown beef jerky with a determined cartoon face and two small arms, leaning into a wooden pole to roll a big upright round stone wheel around a wide flat round millstone base (a traditional Korean stone mill normally turned by an ox) —; on the right, — a mountaineer in a climbing helmet and backpack triumphantly raising a long knobby yam root as if it were an ice axe —, who stands shoulder to shoulder with the jerky and pushes the very same wooden pole with one hand while still raising his yam root high with the other, both pushing side by side in the same direction.",
+   "score": 87,
+   "from": "p5 · p3(연자방아 함께 밀기) · p3 · p5(팔짱)",
+   "batch": "R3"
+  },
+  {
+   "id": "S5",
+   "method": "七情 相使 ①",
+   "lyric": "황복 애향",
+   "setting": "七情 체육관. 相使 문법: 從이 아래에서 主를 받쳐 올리고, 노란 빛은 위의 主에게만(主從 · 藥性 강해짐). 위 → 아래로 읽음. 짝 사이 빈 틈",
+   "stations": [
+    {
+     "herb": "黃芪",
+     "where": "왼쪽 짝 위",
+     "action": "깃대가 볼링공 손가락 구멍에 꽂혀 우뚝, 깃발이 꼭대기까지 솟구쳐 빛남(主)",
+     "touches": "茯苓"
+    },
+    {
+     "herb": "茯苓",
+     "where": "왼쪽 짝 아래",
+     "action": "매트에 앉아 깃발 받침이 되어 웃음, 빛 없음(從 — hp-03 비서의 흰 공)",
+     "touches": "黃芪"
+    },
+    {
+     "herb": "艾葉",
+     "where": "오른쪽 짝 위",
+     "action": "부자 손바닥 위에 높이 들려 아기를 업은 채 빛남(主 — 교재 표기 없음, 앞 약을 主로 둔 가정)",
+     "touches": "香附子"
+    },
+    {
+     "herb": "香附子",
+     "where": "오른쪽 짝 아래",
+     "action": "한 손으로 향수를 뿌리며 다른 손으로 쑥 잎을 머리 위로 받쳐 듦, 빛 없음(從)",
+     "touches": "艾葉"
+    }
+   ],
+   "aux": "없음. 표지 = 主에게만 노란 빛",
+   "boundaries": "相使 ↔ 相須: 위아래 · 빛 主만 ↔ 나란히 · 빛 하나. 크기가 아니라 자리(위)가 主. 그림 밖: 相使 = 한 약이 다른 약 主作用 補助(主從), 黃芪(主)+茯苓(교재 茯笭) · 艾葉+香附子(3490행대)",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. Setting: a bare gym hall seen from the front: a plain light wall with nothing on it (no shelves, no posters, no doors, no machines, no mirrors, no bottles) and a light wooden floor; each pair (or each single character) stands on its own round blue floor mat, with clear empty gaps between the mats. Every character keeps exactly its own shape, size, colors and expression as described; do not add arms or legs to characters that have none. The picture shows two pairs from left to right with a wide empty gap between the pairs. In each pair one character is at the bottom and holds or carries the other one up high above it; ONE soft warm yellow glow surrounds ONLY the upper character, and the lower helper has no glow at all. No purple clouds. Left pair: at the bottom, sitting on the mat, — a glossy pure-white bowling ball with a cheerful cartoon face (two eyes and a smile drawn on its side) and its three finger holes on top; no arms, no pins, no numbers —, acting as a flag stand; planted upright in one of the ball's finger holes stands the pole of — a bright yellow flag that has shot all the way up to the very top of its flagpole, flapping vigorously upward; plain cloth, no gold bar, no emblem —, glowing; the ball has no glow. Right pair: at the bottom, — a plump rich man in a silk top hat, fur collar and big gold ring, spraying far too much pink perfume from a bottle; no money —, still spraying perfume with one hand while with the other hand he holds up high above his head — a big green serrated mugwort leaf with a friendly cartoon face, giving a piggyback ride to a smiling human baby in a plain light-blue onesie who clings to the leaf's back (no swaddling blanket, no pacifier) —, which glows; the rich man has no glow.",
+   "score": 87,
+   "from": "p5 · p4(빛 主만) · p6(흰 볼링공)",
+   "batch": "R3"
+  },
+  {
+   "id": "S6",
+   "method": "七情 相使 ②",
+   "lyric": "황대 전반",
+   "setting": "S5와 같은 相使 문법(아래 從이 위 主를 받쳐 듦 · 빛은 主만)",
+   "stations": [
+    {
+     "herb": "黃芩",
+     "where": "왼쪽 짝 위",
+     "action": "황소 앞발에 들려 머리 위에서 번쩍 빛남(主)",
+     "touches": "大黃"
+    },
+    {
+     "herb": "大黃",
+     "where": "왼쪽 짝 아래",
+     "action": "왕좌에 앉은 채 두 앞발로 황금괴를 머리 위로 받쳐 듦, 빛 없음(덩치가 커도 從)",
+     "touches": "黃芩"
+    },
+    {
+     "herb": "前胡",
+     "where": "오른쪽 짝 위",
+     "action": "하마 앞발 위에서 태평하게 통화하며 빛남(主 — 교재 표기 없음, 가정)",
+     "touches": "半夏"
+    },
+    {
+     "herb": "半夏",
+     "where": "오른쪽 짝 아래",
+     "action": "두 뒷다리가 반바지 한쪽에 끼어 넘어지면서도 두 앞발로 호빵을 머리 위로 받쳐 듦, 빛 없음(從)",
+     "touches": "前胡"
+    }
+   ],
+   "aux": "없음. 표지 = 主에게만 노란 빛",
+   "boundaries": "黃芩은 S2에서 相須(나란히), 여기서 相使 主(위) — 같은 피규어 다른 문법. 半夏는 R4 相畏 · R1 十八反에 다시 나옴. 그림 밖: 黃芩(主)+大黃 · 前胡+半夏",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. Setting: a bare gym hall seen from the front: a plain light wall with nothing on it (no shelves, no posters, no doors, no machines, no mirrors, no bottles) and a light wooden floor; each pair (or each single character) stands on its own round blue floor mat, with clear empty gaps between the mats. Every character keeps exactly its own shape, size, colors and expression as described; do not add arms or legs to characters that have none. The picture shows two pairs from left to right with a wide empty gap between the pairs. In each pair one character is at the bottom and holds or carries the other one up high above it; ONE soft warm yellow glow surrounds ONLY the upper character, and the lower helper has no glow at all. No purple clouds. Left pair: at the bottom, — a huge yellow bull sitting smugly on a big red-and-gold royal throne like a great king, no crown —; still seated on his throne, the bull raises with both front hooves, high above his head, — a big shining gold bar (gold ingot) with a happy face —, which glows; the bull has no glow. Right pair: at the bottom, — a grey hippo wearing bright shorts, both hind legs stuck in one leg of the shorts, toppling over with a surprised face —; even while toppling over, the hippo holds up high above its head with both front legs — a round, steaming white Korean steamed bun (hoppang) with a calm cartoon face, holding an old corded telephone handset to its side with one tiny hand and chatting happily; the curly cord leads to a plain telephone body with no buttons, no dial and no numbers —, which glows and keeps calmly chatting on the phone; the hippo has no glow.",
+   "score": 88,
+   "from": "p5 · p4(자리가 主) · p3(넘어지며 받쳐 든 하마 · 통화하는 호빵)",
+   "batch": "R3"
+  },
+  {
+   "id": "S7",
+   "method": "七情 相惡 ①(藥性 약해짐)",
+   "lyric": "황생 방건 인나",
+   "setting": "七情 공용 체육관(맨벽 · 밝은 나무 바닥) · 둥근 파란 매트 셋, 짝 하나 = 매트 하나 · 교재 순서 왼→오, 짝의 앞 약이 왼쪽 · 相惡 = 마주 밀어붙인 무승부, 둘 다 주저앉고 둘의 노란 빛이 꺼져 회색 김(대칭 = 상호 견제)",
+   "stations": [
+    {
+     "herb": "黃連",
+     "where": "매트1 왼",
+     "action": "혀 내민 연꽃이 몸통으로 生薑을 밀어붙임, 빛 꺼짐",
+     "touches": "生薑"
+    },
+    {
+     "herb": "生薑",
+     "where": "매트1 오",
+     "action": "물기 반짝 개구리가 맞밀다 주저앉음, 빛 꺼짐",
+     "touches": "黃連"
+    },
+    {
+     "herb": "防風",
+     "where": "매트2 왼",
+     "action": "부푼 점퍼가 소매로 乾薑을 밀어붙임(점퍼는 부푼 그대로), 빛 꺼짐",
+     "touches": "乾薑"
+    },
+    {
+     "herb": "乾薑",
+     "where": "매트2 오",
+     "action": "알통 자랑하던 마른 생강이 손바닥으로 맞밀다 주저앉음, 빛 꺼짐",
+     "touches": "防風"
+    },
+    {
+     "herb": "人參",
+     "where": "매트3 왼",
+     "action": "왕관 인삼 인형이 손바닥으로 무를 밀어붙임(왕관 그대로), 빛 꺼짐",
+     "touches": "萊菔子"
+    },
+    {
+     "herb": "萊菔子",
+     "where": "매트3 오",
+     "action": "성난 흰 무(난폭자)가 씨를 퉤 뱉으며 맞밀다 주저앉음, 빛 꺼짐",
+     "touches": "人參"
+    }
+   ],
+   "aux": "매트 1종(새 물건) · 노란 빛 → 회색 김(※ 藥性 약해짐 표지, 효과)",
+   "boundaries": "相惡 = 藥性↓(노란 빛 꺼짐) ↔ 相畏 · 相殺 = 毒性↓(보라 구름 흩어짐) ↔ 相反 = 毒性↑(구름 터짐). 人蔘惡萊菔子(교재 괄호)는 매트3. 萊菔子는 S10 相反(地黃)에도 나옴 — 같은 무, 다른 관계. 生薑은 S8 相畏 · 防風은 S9 相殺에 다시 나옴(학습층 회수 문항). 교재 표기 人蔘 = 사전 人參.",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. Setting: a bare gym hall seen from the front: a plain light wall with nothing on it (no shelves, no posters, no doors) and a light wooden floor. Three round blue floor mats lie in a row from left to right with clear empty gaps between them; each mat holds one pair of characters. On every mat the two partners face each other and push hard against each other in a stalemate — palm to palm if they have hands, body to body if they do not; both are exhausted and sagging at the knees, with sweat drops flying. Above each partner's head a soft warm yellow glow (a cloud-like aura, NOT a ring halo) is going out and fading into thin grey wisps of smoke. No purple cloud anywhere. Every character keeps exactly its own colors and shape as described; do not deflate, recolor or remove any part of any character. Mat 1 (left): [a yellow lotus flower with a cartoon face, scrunching its eyes and sticking its tongue out at a bitter taste, floating on a small lily pad] pushing against [a fresh, glistening, wet ginger root shaped like a frog crouching to jump, water droplets on its knobby skin]. Mat 2 (middle): [an empty zip-up windbreaker jacket puffed up like a balloon by a strong gust of wind, sleeves flapping], still fully puffed up, pushing with its sleeves against [a shriveled dried ginger root with bulging cartoon biceps flexing proudly while a doctor's stethoscope is pressed to its chest]. Mat 3 (right): [a small ginseng-root doll with forked root legs and tiny root arms, wearing a little golden crown and standing proudly], crown still on, pushing palm to palm against [An angry white daikon radish with a leafy green top and a furious cartoon face, stomping like a hooligan with clenched little fists and spitting small brown seeds out of its mouth; no text].",
+   "score": 95,
+   "from": "p2 · p5(몸통 밀기) · p4(萊菔子)",
+   "batch": "R4"
+  },
+  {
+   "id": "S8",
+   "method": "七情 相惡 ②(藥性 약해짐)",
+   "lyric": "백석 천황 후택",
+   "setting": "七情 공용 체육관(맨벽 · 밝은 나무 바닥) · 둥근 파란 매트 셋, 짝 하나 = 매트 하나 · 교재 순서 왼→오, 짝의 앞 약이 왼쪽 · S6과 같은 相惡 문법",
+   "stations": [
+    {
+     "herb": "白芍藥",
+     "where": "매트1 왼",
+     "action": "백작 약사가 약병 든 채 손바닥으로 밀어붙임, 빛 꺼짐",
+     "touches": "石斛"
+    },
+    {
+     "herb": "石斛",
+     "where": "매트1 오",
+     "action": "곡괭이 멘 석류가 맞밀다 주저앉음, 빛 꺼짐",
+     "touches": "白芍藥"
+    },
+    {
+     "herb": "川芎",
+     "where": "매트2 왼",
+     "action": "날개가 시위에 걸린 천사 궁수가 몸으로 밀어붙임, 빛 꺼짐",
+     "touches": "黃連"
+    },
+    {
+     "herb": "黃連",
+     "where": "매트2 오",
+     "action": "혀 내민 연꽃이 맞밀다 주저앉음(S6에 이어 두 번째 相惡), 빛 꺼짐",
+     "touches": "川芎"
+    },
+    {
+     "herb": "厚朴",
+     "where": "매트3 왼",
+     "action": "후추 그라인더 꽂힌 박이 몸통으로 밀어붙임, 빛 꺼짐",
+     "touches": "澤瀉"
+    },
+    {
+     "herb": "澤瀉",
+     "where": "매트3 오",
+     "action": "분수 뿜는 흰 택시(분수 그대로)가 범퍼로 맞밀다 주저앉듯 내려앉음, 빛 꺼짐",
+     "touches": "厚朴"
+    }
+   ],
+   "aux": "매트 1종 · 노란 빛 → 회색 김",
+   "boundaries": "S6과 같은 장치. 두문자 「백석」은 S9의 白芷+石雄黃(교재 표기)과 겹치므로 S9는 「백웅」으로 씀. 黃連은 相惡 두 짝(生薑 · 川芎).",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. Setting: a bare gym hall seen from the front: a plain light wall with nothing on it (no shelves, no posters, no doors) and a light wooden floor. Three round blue floor mats lie in a row from left to right with clear empty gaps between them; each mat holds one pair of characters. On every mat the two partners face each other and push hard against each other in a stalemate — palm to palm if they have hands, body to body if they do not; both are exhausted and sagging at the knees, with sweat drops flying. Above each partner's head a soft warm yellow glow (a cloud-like aura, NOT a ring halo) is going out and fading into thin grey wisps of smoke. No purple cloud anywhere. Every character keeps exactly its own colors and shape as described; do not deflate, recolor or remove any part of any character. Mat 1 (left): [An elegant count (European nobleman with a monocle) dressed all in white: a white suit and a white cape, who is a pharmacist holding a small medicine bottle] pushing palm to palm against [A round red pomegranate with a cartoon face and small arms, carrying a miner's pickaxe over its shoulder, a crack in its skin showing shiny red seeds; no hat, no text]. Mat 2 (middle): [A small winged angel archer whose wing is caught in the bowstring, looking flustered] pushing body to body against [a yellow lotus flower with a cartoon face, scrunching its eyes and sticking its tongue out at a bitter taste, floating on a small lily pad]. Mat 3 (right): [A round white bottle gourd with a wooden pepper grinder stuck into its top, black pepper grains spilling down its sides, no text] pushing body to body against [A white taxi with a blank roof light spraying a fountain of water upward from its roof, not yellow, no letters], whose roof fountain keeps spraying.",
+   "score": 95,
+   "from": "p2 · p5 · p3/p4(石斛)",
+   "batch": "R4"
+  },
+  {
+   "id": "S9",
+   "method": "七情 相畏(毒性 약해짐 · 수동)",
+   "lyric": "반생 세활 맥고",
+   "setting": "七情 공용 체육관(맨벽 · 밝은 나무 바닥) · 둥근 파란 매트 셋, 짝 하나 = 매트 하나 · 교재 순서 왼→오, 짝의 앞 약이 왼쪽 · 相畏 = 독 · 烈性 있는 앞 약(畏하는 쪽) 머리 위 보라 독구름, 뒤 약을 보고 움찔 움츠리자 제 구름이 흩어짐(포제 공용 표지). 뒤 약은 가만히 바라봄",
+   "stations": [
+    {
+     "herb": "半夏",
+     "where": "매트1 왼",
+     "action": "반바지에 두 발 낀 하마가 머리 위 독구름을 인 채 生薑을 보고 움찔, 구름 흩어짐",
+     "touches": "生薑"
+    },
+    {
+     "herb": "生薑",
+     "where": "매트1 오",
+     "action": "물기 반짝 개구리가 가만히 바라봄(닿지 않음)",
+     "touches": "半夏"
+    },
+    {
+     "herb": "細辛",
+     "where": "매트2 왼",
+     "action": "세신사가 독구름을 인 채 파우더 통을 보고 움찔, 구름 흩어짐",
+     "touches": "滑石"
+    },
+    {
+     "herb": "滑石",
+     "where": "매트2 오",
+     "action": "활짝 웃는 베이비파우더 통 — 흰 가루는 제 위로만 솟음(細辛에 닿지 않음)",
+     "touches": "細辛"
+    },
+    {
+     "herb": "麥門冬",
+     "where": "매트3 왼",
+     "action": "맥주병 문 언 동태가 구름을 인 채 고3 인형을 보고 움찔, 구름 흩어짐",
+     "touches": "苦參"
+    },
+    {
+     "herb": "苦參",
+     "where": "매트3 오",
+     "action": "머리띠 고3 인형이 피곤한 눈으로 가만히 바라봄",
+     "touches": "麥門冬"
+    }
+   ],
+   "aux": "매트 1종 · 보라 독구름 흩어짐(포제 공용 표지 그대로)",
+   "boundaries": "相畏(앞 약이 움츠림 · 제 구름) ↔ 相殺 S9(앞 약이 남의 구름을 흩음). 半夏畏生薑 = 生薑殺半夏(hp-03 「같은 사건 두 이름」) — 학습층. 人蔘畏五靈脂(교재 相畏 괄호 3492)는 그림에 넣지 않고 학습층에서 R2 G3 十九畏(함께 쓰지 않음 · 구름 없음)와 대조. 구름 = 교재 ※ 「毒性 약해짐」 칸 표지(麥門冬 · 細辛 등에 대해 독약이라 말하지 않음 — 교재 정의 毒性 · 烈性). 十九畏는 이 꼴을 쓰지 않음.",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. Setting: a bare gym hall seen from the front: a plain light wall with nothing on it (no shelves, no posters, no doors) and a light wooden floor. Three round blue floor mats lie in a row from left to right with clear empty gaps between them; each mat holds one pair of characters. On every mat the LEFT character has a small purple poison cloud hovering over its own head; it looks at its RIGHT partner, flinches and cowers back in fear, and its own purple cloud is breaking apart into scattered wisps and fading away. The RIGHT partner just stands calmly and looks at it, not moving toward it and not touching it or the cloud. No yellow glow anywhere. Every character keeps exactly its own colors and shape as described; do not deflate, recolor or remove any part of any character. Mat 1 (left): [A grey hippo wearing bright shorts, both hind legs stuck in one leg of the shorts, toppling over with a surprised face] cowering under its fading purple cloud, facing [a fresh, glistening, wet ginger root shaped like a frog crouching to jump, water droplets on its knobby skin]. Mat 2 (middle): [a cheerful Korean bathhouse scrubber in shorts and a towel headband, waving one hand that wears a green exfoliating scrub mitt] cowering under its fading purple cloud, facing [A plain white baby-powder bottle with no label, with a big wide-open grinning cartoon face, puffing a soft cloud of fine white powder straight up out of its open top; no text] — the white powder rises straight up from the bottle only and never reaches the scrubber or the purple cloud. Mat 3 (right): [A frozen pollack fish, stiff and frosted with ice crystals, standing upright on its tail and clenching an unlabeled brown beer bottle in its mouth; no text] cowering under its fading purple cloud, facing [a ginseng-root doll dressed as a cramming high-school senior, wearing a plain blank white headband, tired eyes].",
+   "score": 96,
+   "from": "p2 · p6",
+   "batch": "R4"
+  },
+  {
+   "id": "S10",
+   "method": "七情 相殺(毒性 약해짐 · 능동)",
+   "lyric": "방부 백웅 석단",
+   "setting": "七情 공용 체육관(맨벽 · 밝은 나무 바닥) · 둥근 파란 매트 셋, 짝 하나 = 매트 하나 · 교재 순서 왼→오, 짝의 앞 약이 왼쪽 · 相殺 = 독 있는 뒤 약 머리 위 보라 독구름을 앞 약(殺하는 쪽)이 불거나 휘저어 흩뜨림. 뒤 약은 멀뚱",
+   "stations": [
+    {
+     "herb": "防風",
+     "where": "매트1 왼",
+     "action": "부푼 점퍼가 소매를 펄럭여 돌풍을 일으켜 附子 머리 위 구름을 날려 흩음",
+     "touches": "附子"
+    },
+    {
+     "herb": "附子",
+     "where": "매트1 오",
+     "action": "불꽃 머리 도련님이 멀뚱, 머리 위 구름 흩어짐",
+     "touches": "防風"
+    },
+    {
+     "herb": "白芷",
+     "where": "매트2 왼",
+     "action": "이마에 백지 붙은 얼굴(백지 그대로)이 후 불어 웅덩이 위 구름을 흩음",
+     "touches": "雄黃"
+    },
+    {
+     "herb": "雄黃",
+     "where": "매트2 오",
+     "action": "노란 웅덩이에서 뱀이 튀어 도망, 웅덩이 위 구름 흩어짐",
+     "touches": "白芷"
+    },
+    {
+     "herb": "石葦",
+     "where": "매트3 왼",
+     "action": "석유통 위 가죽 잎이 두 팔로 휘저어 댄서 머리 위 구름을 흩음",
+     "touches": "丹砂"
+    },
+    {
+     "herb": "丹砂",
+     "where": "매트3 오",
+     "action": "붉은 모래 댄서가 돌다 멈춰 멀뚱, 구름 흩어짐",
+     "touches": "石葦"
+    }
+   ],
+   "aux": "매트 1종 · 보라 독구름 흩어짐(공용 표지)",
+   "boundaries": "相殺(앞 약이 남의 구름을 흩음) ↔ 相畏 S8(앞 약이 제 구름 · 움츠림). 生薑殺半夏 = 半夏畏生薑은 S8 학습층. 防風은 S6 相惡(乾薑)에도. 교재 표기 石雄黃 = 피규어 雄黃(확인 필요). 두문자는 교재 첫 음절이면 「백석」이나 S7과 겹쳐 「백웅」.",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. Setting: a bare gym hall seen from the front: a plain light wall with nothing on it (no shelves, no posters, no doors) and a light wooden floor. Three round blue floor mats lie in a row from left to right with clear empty gaps between them; each mat holds one pair of characters. On every mat the RIGHT character has a small purple poison cloud hovering over its head and looks blank and unaware; the LEFT partner actively scatters that cloud — blowing it away or swatting it — so the purple cloud breaks apart into wisps and fades away. The left character has no cloud. No yellow glow anywhere. Every character keeps exactly its own colors and shape as described; do not deflate, recolor or remove any part of any character. Mat 1 (left): [an empty zip-up windbreaker jacket puffed up like a balloon by a strong gust of wind, sleeves flapping] flapping its sleeves to whip up a gust that blows away the purple cloud above [A smug rich young boy in a shiny tuxedo with a bow tie whose hair is a blazing fire, no top hat, no money, no gold ring, no text]. Mat 2 (middle): [a round cartoon face with one blank pure-white sheet of paper slapped flat onto its forehead, eyes looking up at it in surprise] — the paper stays stuck on its forehead — blowing a strong puff of breath that scatters the purple cloud hovering above [a bright yellow puddle with a startled green snake leaping out of it and fleeing]. Mat 3 (right): [A single thick, leathery dark-green leaf with a cartoon face and two small arms, standing proudly on top of a black oil drum whose lid glistens with spilled black oil; no label, no text] waving both arms to swat away the purple cloud above [A dancer whose whole body is made of bright red sand, caught mid-twirl with arms raised gracefully, red sand grains trickling from its fingertips and skirt; no text].",
+   "score": 96,
+   "from": "p2 · p5(불기) · p4(防風 바람) · p1(石葦) · p2(丹砂)",
+   "batch": "R4"
+  },
+  {
+   "id": "S11",
+   "method": "七情 相反 ①(毒性 강해짐)",
+   "lyric": "지나 호현",
+   "setting": "七情 공용 체육관(맨벽 · 밝은 나무 바닥) · 둥근 파란 매트 둘, 짝 하나 = 매트 하나 · 교재 순서 왼→오, 짝의 앞 약이 왼쪽 · 相反 = 짝이 하이파이브하는 순간 맞닿은 손에서 보라 독구름이 펑 부풀어 터짐, 둘 다 튕겨 남",
+   "stations": [
+    {
+     "herb": "地黃",
+     "where": "매트1 왼",
+     "action": "땅을 뚫고 솟은 노란 옷 황제가 손을 뻗어 하이파이브 → 펑, 뒤로 튕김",
+     "touches": "萊菔子"
+    },
+    {
+     "herb": "萊菔子",
+     "where": "매트1 오",
+     "action": "성난 흰 무가 하이파이브 → 펑(S6에선 人參과 相惡)",
+     "touches": "地黃"
+    },
+    {
+     "herb": "胡黃連",
+     "where": "매트2 왼",
+     "action": "호루라기 문 연꽃이 잎으로 하이파이브 → 펑",
+     "touches": "玄參"
+    },
+    {
+     "herb": "玄參",
+     "where": "매트2 오",
+     "action": "현무암 삼 인형이 하이파이브 → 펑, 뒤로 튕김",
+     "touches": "胡黃連"
+    }
+   ],
+   "aux": "매트 1종 · 보라 독구름 터짐(※ 毒性 강해짐, 해골 없음)",
+   "boundaries": "相反 ↔ 相惡: 萊菔子가 S6(人參 · 빛 꺼짐)과 S10(地黃 · 구름 터짐)에 다 나옴. 교재 地黃 = 새 피규어(熟地黃 = 검은 옷 · 숙제와 가름). 甘草+大戟/甘遂는 피규어 여섯 한도로 S11.",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. Setting: a bare gym hall seen from the front: a plain light wall with nothing on it (no shelves, no posters, no doors) and a light wooden floor. Two round blue floor mats lie in a row from left to right with clear empty gaps between them; each mat holds one pair of characters. On every mat the two partners give each other a high-five; at the very moment their hands (or leaves) meet, a big purple poison cloud bursts out of the touching point with jagged burst lines, puffing up larger than both of them, and both are knocked backward in shock. No skull in the cloud. No yellow glow anywhere. Every character keeps exactly its own colors and shape as described; do not deflate, recolor or remove any part of any character. Mat 1 (left): [An emperor in an earth-stained bright yellow robe and a yellow crown (his skin an ordinary cartoon tone, young face, no beard), bursting up out of a hole in the ground to his waist with clumps of soil flying, both hands empty; no notebook, no text] — rising out of a hole in the floor at the edge of the mat — high-fives [An angry white daikon radish with a leafy green top and a furious cartoon face, stomping like a hooligan with clenched little fists and spitting small brown seeds out of its mouth; no text]. Mat 2 (right): [A yellow lotus flower with a cartoon face, cheeks puffed, blowing hard on a silver whistle held in its mouth (no tongue showing), floating on a small lily pad; no text] high-fives with one leaf [A small root-doll figure with a ginseng-root body and tiny root arms and legs, made of black porous basalt rock full of little holes, no text].",
+   "score": 96,
+   "from": "p5 · p4",
+   "batch": "R4"
+  },
+  {
+   "id": "S12",
+   "method": "七情 相反 ②(毒性 강해짐) = 十八反 甘草 무리 다리",
+   "lyric": "감대감",
+   "setting": "七情 공용 체육관 · 큰 둥근 파란 매트 하나 · 왼쪽 甘草 약장, 오른쪽 大戟 무대 위에 甘遂 감옥 · 같은 相反 문법(맞닿는 점 하나에서 펑)",
+   "stations": [
+    {
+     "herb": "甘草",
+     "where": "왼쪽",
+     "action": "서랍에서 얼굴 내민 감초 뿌리 하나가 팔처럼 길게 뻗어 甘遂와 하이파이브 → 펑",
+     "touches": "甘遂"
+    },
+    {
+     "herb": "大戟",
+     "where": "오른쪽 바닥",
+     "action": "붉은 막 걷힌 빈 대극장 무대 — 甘遂 감옥이 그 위에 놓임, 막이 독구름에 휩싸임",
+     "touches": "甘遂"
+    },
+    {
+     "herb": "甘遂",
+     "where": "무대 위",
+     "action": "줄무늬 죄수가 쇠창살 사이로 한 손을 내밀어 하이파이브 → 펑",
+     "touches": "甘草"
+    }
+   ],
+   "aux": "매트 1종 · 보라 독구름 터짐",
+   "boundaries": "七情 相反 甘草+大戟/甘遂 = 十八反 甘草 反 大戟 · 芫花 · 甘遂 · 海藻(R1 F2)의 일부 — 학습층 다리. R1 F2가 같은 相反 터짐을 쓰면 이 장을 F2에 접을 수 있음(메인 결정). 芫花 · 海藻는 七情 相反 예가 아니므로 이 장에 세우지 않음.",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. Setting: a bare gym hall seen from the front: a plain light wall with nothing on it (no shelves, no posters, no doors) and a light wooden floor. One large round blue floor mat in the middle. Exactly three characters. The left one gives a high-five to the right one; at the very moment they touch, a big purple poison cloud bursts out of the touching point with jagged burst lines and billows over the stage, and both are knocked back in shock. No skull in the cloud. No yellow glow. Every character keeps exactly its own colors and shape as described; do not deflate, recolor or remove any part of any character. Left: [A small wooden Korean herbal medicine cabinet with many little drawers, and from every open drawer the same cheerful yellow licorice root pokes out its smiling face; no labels or writing anywhere]; one of the smiling licorice roots stretches far out of its drawer like a long arm. Right: [A grand theater stage front with gold columns and heavy red velvet curtains drawn open on an empty stage, no sign, no letters], and standing on that stage is [A prisoner in a black-and-white striped uniform gripping the iron bars of a small jail cell door with both hands, no fruit, no text], who pushes one hand out between the bars to meet the licorice root in a high-five.",
+   "score": 96,
+   "from": "p3 · p5",
+   "batch": "R4"
+  }
+ ],
+ "new_dict": [
+  {
+   "hanja": "烏頭",
+   "reading": "오두",
+   "cue": "먹구름 모자를 쓰고 오두방정 떠는 맨몸 검은 까마귀(천막 · 풀 · 깃털 날림 없음)",
+   "draw_en": "A frantic plain black crow with no clothing, no tent and no grass, flapping both wings wildly and stamping its feet in a silly fuss, with a small dark-grey rain cloud (no lightning) sitting right on top of its head like a hat, no loose feathers, no text.",
+   "decode": "오두방정(굳은 표현 속 연속 포함) → 오두 + 까마귀(烏 가족) → 烏頭. 먹구름 = hp-03 十八反 烏頭 축 표지 계승 · 烏(검다). 川烏 = 천막, 草烏 = 초록 · 풀과 몸 꼴로 가름",
+   "carriers": [
+    "오두방정",
+    "까마귀(가족 — 草烏에 이어 둘째)"
+   ],
+   "type": 2,
+   "score": 24,
+   "batch": "R1"
+  },
+  {
+   "hanja": "蓮子肉",
+   "reading": "연자육",
+   "cue": "연자방아 돌바퀴를 막대 밀어 굴리는 두툼한 육포",
+   "draw_en": "A thick, chewy strip of brown beef jerky with a determined cartoon face and two small arms, leaning into a wooden pole to roll a big upright round stone wheel around a wide flat round millstone base (a traditional Korean stone mill normally turned by an ox).",
+   "decode": "연자방아의 「연자」(낱말 속 연속 포함) + 육포의 「육」 → 연자육",
+   "carriers": [
+    "연자방아",
+    "육포"
+   ],
+   "type": 4,
+   "score": 22,
+   "batch": "R3"
+  },
+  {
+   "hanja": "茯苓",
+   "reading": "복령",
+   "cue": "얼굴 그린 흰 볼링공(hp-03 相使 비서의 흰 공)",
+   "draw_en": "A glossy pure-white bowling ball with a cheerful cartoon face (two eyes and a smile drawn on its side) and its three finger holes on top; no arms, no pins, no numbers.",
+   "decode": "볼링 ≈ 복령(가까운 소리 한 낱말). 흰 공 = hp-03 相使(黃芪+茯苓) 비서",
+   "carriers": [
+    "볼링공"
+   ],
+   "type": 3,
+   "score": 21.5,
+   "batch": "R3"
+  },
+  {
+   "hanja": "艾葉",
+   "reading": "애엽",
+   "cue": "아기를 업은 큰 쑥 잎",
+   "draw_en": "A big green serrated mugwort leaf with a friendly cartoon face, giving a piggyback ride to a smiling human baby in a plain light-blue onesie who clings to the leaf's back (no swaddling blanket, no pacifier).",
+   "decode": "애 업(은) ≈ 애엽(가까운 소리 굳은 말). 쑥 잎 = 艾葉 실물",
+   "carriers": [
+    "애 업기"
+   ],
+   "type": 3,
+   "score": 22,
+   "batch": "R3"
+  },
+  {
+   "hanja": "前胡",
+   "reading": "전호",
+   "cue": "김 나는 호빵이 수화기를 귀에 대고 통화",
+   "draw_en": "A round, steaming white Korean steamed bun (hoppang) with a calm cartoon face, holding an old corded telephone handset to its side with one tiny hand and chatting happily; the curly cord leads to a plain telephone body with no buttons, no dial and no numbers.",
+   "decode": "전화의 「전」 + 호빵의 「호」 → 전호",
+   "carriers": [
+    "전화",
+    "호빵"
+   ],
+   "type": 4,
+   "score": 23.5,
+   "batch": "R3"
+  },
+  {
+   "hanja": "萊菔子",
+   "reading": "나복자",
+   "cue": "씨를 퉤퉤 뱉는 성난 흰 무 — 「난폭자」",
+   "draw_en": "An angry white daikon radish with a leafy green top and a furious cartoon face, stomping like a hooligan with clenched little fists and spitting small brown seeds out of its mouth; no text",
+   "decode": "난폭자 ≈ 나복자 (+ 무 · 무씨 = 萊菔子 실물)",
+   "carriers": [
+    "난폭자"
+   ],
+   "type": 3,
+   "score": 23,
+   "batch": "R4"
+  },
+  {
+   "hanja": "石斛",
+   "reading": "석곡",
+   "cue": "곡괭이를 멘 석류(모자 없음)",
+   "draw_en": "A round red pomegranate with a cartoon face and small arms, carrying a miner's pickaxe over its shoulder, a crack in its skin showing shiny red seeds; no hat, no text",
+   "decode": "석(류) + 곡(괭이) → 석곡",
+   "carriers": [
+    "석류",
+    "곡괭이"
+   ],
+   "type": 4,
+   "score": 23,
+   "batch": "R4"
+  },
+  {
+   "hanja": "滑石",
+   "reading": "활석",
+   "cue": "활짝 웃으며 흰 가루 뿜는 라벨 없는 베이비파우더 통(포제 P08 보료 승격)",
+   "draw_en": "A plain white baby-powder bottle with no label, with a big wide-open grinning cartoon face, puffing a soft cloud of fine white powder straight up out of its open top; no text",
+   "decode": "활(짝) + 베이비파우더 = talc = 활석 실물",
+   "carriers": [
+    "활짝",
+    "베이비파우더"
+   ],
+   "type": 4,
+   "score": 20,
+   "batch": "R4"
+  },
+  {
+   "hanja": "麥門冬",
+   "reading": "맥문동",
+   "cue": "맥주병을 입에 문 꽁꽁 언 동태",
+   "draw_en": "A frozen pollack fish, stiff and frosted with ice crystals, standing upright on its tail and clenching an unlabeled brown beer bottle in its mouth; no text",
+   "decode": "맥(주병) 문 동(태) → 맥문동 (꽁꽁 = 冬 덤)",
+   "carriers": [
+    "맥주",
+    "동태"
+   ],
+   "type": 4,
+   "score": 22,
+   "batch": "R4"
+  },
+  {
+   "hanja": "石葦",
+   "reading": "석위",
+   "cue": "석유 드럼통 위에 올라선 가죽 같은 잎",
+   "draw_en": "A single thick, leathery dark-green leaf with a cartoon face and two small arms, standing proudly on top of a black oil drum whose lid glistens with spilled black oil; no label, no text",
+   "decode": "석유(통) + 위 → 석위 (가죽 잎 = 石韋 실물 덤)",
+   "carriers": [
+    "석유"
+   ],
+   "type": 4,
+   "score": 21,
+   "batch": "R4"
+  },
+  {
+   "hanja": "丹砂",
+   "reading": "단사",
+   "cue": "붉은 모래로 빚은 댄서",
+   "draw_en": "A dancer whose whole body is made of bright red sand, caught mid-twirl with arms raised gracefully, red sand grains trickling from its fingertips and skirt; no text",
+   "decode": "댄서 ≈ 단사 (붉은 모래 = 朱砂 실물)",
+   "carriers": [
+    "댄서"
+   ],
+   "type": 3,
+   "score": 23,
+   "batch": "R4"
+  },
+  {
+   "hanja": "地黃",
+   "reading": "지황",
+   "cue": "흙 묻은 노란 곤룡포 · 노란 관의 지하 황제가 땅을 뚫고 상반신을 내밂(빈손 · 숙제 없음)",
+   "draw_en": "An emperor in an earth-stained bright yellow robe and a yellow crown (his skin an ordinary cartoon tone, young face, no beard), bursting up out of a hole in the ground to his waist with clumps of soil flying, both hands empty; no notebook, no text",
+   "decode": "지하 황제(地黃 가족 맨 꼴) → 지황. 熟地黃 = 검은 옷 + 숙제",
+   "carriers": [
+    "지하 황제(가족)"
+   ],
+   "type": 5,
+   "score": 22,
+   "batch": "R4"
+  },
+  {
+   "hanja": "胡黃連",
+   "reading": "호황련",
+   "cue": "혀 대신 호루라기를 문 노란 연꽃(黃連 가족)",
+   "draw_en": "A yellow lotus flower with a cartoon face, cheeks puffed, blowing hard on a silver whistle held in its mouth (no tongue showing), floating on a small lily pad; no text",
+   "decode": "호(루라기) + 노란 연꽃(黃連) → 호황련",
+   "carriers": [
+    "호루라기"
+   ],
+   "type": 5,
+   "score": 23,
+   "batch": "R4"
+  }
+ ]
+}

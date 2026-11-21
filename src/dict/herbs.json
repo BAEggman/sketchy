@@ -4163,5 +4163,331 @@
    3606
   ],
   "used_in": []
+ },
+ {
+  "id": "herb.烏頭",
+  "hid": "H154",
+  "hanja": "烏頭",
+  "reading": "오두",
+  "cue": "먹구름 모자를 쓰고 오두방정 떠는 맨몸 검은 까마귀(천막 · 풀 · 깃털 날림 없음)",
+  "draw_en": "A frantic plain black crow with no clothing, no tent and no grass, flapping both wings wildly and stamping its feet in a silly fuss, with a small dark-grey rain cloud (no lightning) sitting right on top of its head like a hat, no loose feathers, no text.",
+  "decode": "오두방정(굳은 표현 속 연속 포함) → 오두 + 까마귀(烏 가족) → 烏頭. 먹구름 = hp-03 十八反 烏頭 축 표지 계승 · 烏(검다). 川烏 = 천막, 草烏 = 초록 · 풀과 몸 꼴로 가름",
+  "type": 2,
+  "carriers": [
+   "오두방정",
+   "까마귀(가족 — 草烏에 이어 둘째)"
+  ],
+  "score": 24,
+  "status": "candidate",
+  "run": "20261122-p3-banwe",
+  "from": "R1 심판",
+  "category": [],
+  "tb_lines": [
+   3500,
+   3553,
+   3581
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.蓮子肉",
+  "hid": "H155",
+  "hanja": "蓮子肉",
+  "reading": "연자육",
+  "cue": "연자방아 돌바퀴를 막대 밀어 굴리는 두툼한 육포",
+  "draw_en": "A thick, chewy strip of brown beef jerky with a determined cartoon face and two small arms, leaning into a wooden pole to roll a big upright round stone wheel around a wide flat round millstone base (a traditional Korean stone mill normally turned by an ox).",
+  "decode": "연자방아의 「연자」(낱말 속 연속 포함) + 육포의 「육」 → 연자육",
+  "type": 4,
+  "carriers": [
+   "연자방아",
+   "육포"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-banwe",
+  "from": "R3 심판",
+  "category": [],
+  "tb_lines": [
+   3491,
+   3609
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.茯苓",
+  "hid": "H156",
+  "hanja": "茯苓",
+  "reading": "복령",
+  "cue": "얼굴 그린 흰 볼링공(hp-03 相使 비서의 흰 공)",
+  "draw_en": "A glossy pure-white bowling ball with a cheerful cartoon face (two eyes and a smile drawn on its side) and its three finger holes on top; no arms, no pins, no numbers.",
+  "decode": "볼링 ≈ 복령(가까운 소리 한 낱말). 흰 공 = hp-03 相使(黃芪+茯苓) 비서",
+  "type": 3,
+  "carriers": [
+   "볼링공"
+  ],
+  "score": 21.5,
+  "status": "candidate",
+  "run": "20261122-p3-banwe",
+  "from": "R3 심판",
+  "category": [],
+  "tb_lines": [
+   3444,
+   3492,
+   3569,
+   3579
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.艾葉",
+  "hid": "H157",
+  "hanja": "艾葉",
+  "reading": "애엽",
+  "cue": "아기를 업은 큰 쑥 잎",
+  "draw_en": "A big green serrated mugwort leaf with a friendly cartoon face, giving a piggyback ride to a smiling human baby in a plain light-blue onesie who clings to the leaf's back (no swaddling blanket, no pacifier).",
+  "decode": "애 업(은) ≈ 애엽(가까운 소리 굳은 말). 쑥 잎 = 艾葉 실물",
+  "type": 3,
+  "carriers": [
+   "애 업기"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-banwe",
+  "from": "R3 심판",
+  "category": [],
+  "tb_lines": [
+   3492,
+   3591
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.前胡",
+  "hid": "H158",
+  "hanja": "前胡",
+  "reading": "전호",
+  "cue": "김 나는 호빵이 수화기를 귀에 대고 통화",
+  "draw_en": "A round, steaming white Korean steamed bun (hoppang) with a calm cartoon face, holding an old corded telephone handset to its side with one tiny hand and chatting happily; the curly cord leads to a plain telephone body with no buttons, no dial and no numbers.",
+  "decode": "전화의 「전」 + 호빵의 「호」 → 전호",
+  "type": 4,
+  "carriers": [
+   "전화",
+   "호빵"
+  ],
+  "score": 23.5,
+  "status": "candidate",
+  "run": "20261122-p3-banwe",
+  "from": "R3 심판",
+  "category": [],
+  "tb_lines": [
+   3492,
+   3595
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.萊菔子",
+  "hid": "H159",
+  "hanja": "萊菔子",
+  "reading": "나복자",
+  "cue": "씨를 퉤퉤 뱉는 성난 흰 무 — 「난폭자」",
+  "draw_en": "An angry white daikon radish with a leafy green top and a furious cartoon face, stomping like a hooligan with clenched little fists and spitting small brown seeds out of its mouth; no text",
+  "decode": "난폭자 ≈ 나복자 (+ 무 · 무씨 = 萊菔子 실물)",
+  "type": 3,
+  "carriers": [
+   "난폭자"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-banwe",
+  "from": "R4 심판",
+  "category": [],
+  "tb_lines": [
+   3493,
+   3496,
+   3585
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.石斛",
+  "hid": "H160",
+  "hanja": "石斛",
+  "reading": "석곡",
+  "cue": "곡괭이를 멘 석류(모자 없음)",
+  "draw_en": "A round red pomegranate with a cartoon face and small arms, carrying a miner's pickaxe over its shoulder, a crack in its skin showing shiny red seeds; no hat, no text",
+  "decode": "석(류) + 곡(괭이) → 석곡",
+  "type": 4,
+  "carriers": [
+   "석류",
+   "곡괭이"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-banwe",
+  "from": "R4 심판",
+  "category": [],
+  "tb_lines": [
+   3440,
+   3493,
+   3607
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.滑石",
+  "hid": "H161",
+  "hanja": "滑石",
+  "reading": "활석",
+  "cue": "활짝 웃으며 흰 가루 뿜는 라벨 없는 베이비파우더 통(포제 P08 보료 승격)",
+  "draw_en": "A plain white baby-powder bottle with no label, with a big wide-open grinning cartoon face, puffing a soft cloud of fine white powder straight up out of its open top; no text",
+  "decode": "활(짝) + 베이비파우더 = talc = 활석 실물",
+  "type": 4,
+  "carriers": [
+   "활짝",
+   "베이비파우더"
+  ],
+  "score": 20,
+  "status": "candidate",
+  "run": "20261122-p3-banwe",
+  "from": "R4 심판",
+  "category": [],
+  "tb_lines": [
+   3494,
+   3527,
+   3533,
+   3538,
+   3560,
+   3579,
+   3614
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.麥門冬",
+  "hid": "H162",
+  "hanja": "麥門冬",
+  "reading": "맥문동",
+  "cue": "맥주병을 입에 문 꽁꽁 언 동태",
+  "draw_en": "A frozen pollack fish, stiff and frosted with ice crystals, standing upright on its tail and clenching an unlabeled brown beer bottle in its mouth; no text",
+  "decode": "맥(주병) 문 동(태) → 맥문동 (꽁꽁 = 冬 덤)",
+  "type": 4,
+  "carriers": [
+   "맥주",
+   "동태"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-banwe",
+  "from": "R4 심판",
+  "category": [],
+  "tb_lines": [
+   3432,
+   3440,
+   3494,
+   3607
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.石葦",
+  "hid": "H163",
+  "hanja": "石葦",
+  "reading": "석위",
+  "cue": "석유 드럼통 위에 올라선 가죽 같은 잎",
+  "draw_en": "A single thick, leathery dark-green leaf with a cartoon face and two small arms, standing proudly on top of a black oil drum whose lid glistens with spilled black oil; no label, no text",
+  "decode": "석유(통) + 위 → 석위 (가죽 잎 = 石韋 실물 덤)",
+  "type": 4,
+  "carriers": [
+   "석유"
+  ],
+  "score": 21,
+  "status": "candidate",
+  "run": "20261122-p3-banwe",
+  "from": "R4 심판",
+  "category": [],
+  "tb_lines": [
+   3495,
+   3579
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.丹砂",
+  "hid": "H164",
+  "hanja": "丹砂",
+  "reading": "단사",
+  "cue": "붉은 모래로 빚은 댄서",
+  "draw_en": "A dancer whose whole body is made of bright red sand, caught mid-twirl with arms raised gracefully, red sand grains trickling from its fingertips and skirt; no text",
+  "decode": "댄서 ≈ 단사 (붉은 모래 = 朱砂 실물)",
+  "type": 3,
+  "carriers": [
+   "댄서"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-banwe",
+  "from": "R4 심판",
+  "category": [],
+  "tb_lines": [
+   3495
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.地黃",
+  "hid": "H165",
+  "hanja": "地黃",
+  "reading": "지황",
+  "cue": "흙 묻은 노란 곤룡포 · 노란 관의 지하 황제가 땅을 뚫고 상반신을 내밂(빈손 · 숙제 없음)",
+  "draw_en": "An emperor in an earth-stained bright yellow robe and a yellow crown (his skin an ordinary cartoon tone, young face, no beard), bursting up out of a hole in the ground to his waist with clumps of soil flying, both hands empty; no notebook, no text",
+  "decode": "지하 황제(地黃 가족 맨 꼴) → 지황. 熟地黃 = 검은 옷 + 숙제",
+  "type": 5,
+  "carriers": [
+   "지하 황제(가족)"
+  ],
+  "score": 22,
+  "status": "candidate",
+  "run": "20261122-p3-banwe",
+  "from": "R4 심판",
+  "category": [],
+  "tb_lines": [
+   2875,
+   2909,
+   3336,
+   3434,
+   3496,
+   3552,
+   3568,
+   3606,
+   3609,
+   3629,
+   3637,
+   3756
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.胡黃連",
+  "hid": "H166",
+  "hanja": "胡黃連",
+  "reading": "호황련",
+  "cue": "혀 대신 호루라기를 문 노란 연꽃(黃連 가족)",
+  "draw_en": "A yellow lotus flower with a cartoon face, cheeks puffed, blowing hard on a silver whistle held in its mouth (no tongue showing), floating on a small lily pad; no text",
+  "decode": "호(루라기) + 노란 연꽃(黃連) → 호황련",
+  "type": 5,
+  "carriers": [
+   "호루라기"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-banwe",
+  "from": "R4 심판",
+  "category": [],
+  "tb_lines": [
+   3496,
+   3570
+  ],
+  "used_in": []
  }
 ]

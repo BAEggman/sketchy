@@ -1,0 +1,212 @@
+{
+ "batch": "R1",
+ "sheets": [
+  {
+   "id": "F1",
+   "method": "十八反 烏頭 — 烏頭 反 半夏 · 瓜蔞 · 貝母 · 白斂(혹 白芨)",
+   "lyric": "오두방정 반과 | 패백",
+   "setting": "맨벽 · 바닥선 하나. 烏頭는 왼쪽 끝 홀로, 무리는 오른쪽 한 줄(서로 닿지 않음), 瓜蔞와 貝母 사이 틈을 넓힘 = 두문자 쉼. 새 물건 일곱: 피규어 여섯 + 보라 독구름",
+   "stations": [
+    {
+     "herb": "烏頭",
+     "where": "왼쪽 끝 홀로",
+     "action": "먹구름 모자를 쓰고 오두방정 날개를 퍼덕임 → 바람 소용돌이 선이 오른쪽 넷(다섯)에 하나씩 닿음",
+     "touches": "半夏 · 瓜蔞 · 貝母 · 白蘞(白及)"
+    },
+    {
+     "herb": "半夏",
+     "where": "무리 첫째",
+     "action": "바람을 맞은 자리에서 보라 독구름 터짐(반바지에 두 다리 낀 채 넘어지는 꼴 그대로)",
+     "touches": "烏頭"
+    },
+    {
+     "herb": "瓜蔞",
+     "where": "둘째(뒤에 넓은 틈)",
+     "action": "엎어진 참외 위 바람 닿은 자리에서 터짐",
+     "touches": "烏頭"
+    },
+    {
+     "herb": "貝母",
+     "where": "셋째",
+     "action": "런웨이 포즈 그대로, 바람 닿은 자리에서 터짐",
+     "touches": "烏頭"
+    },
+    {
+     "herb": "白蘞",
+     "where": "넷째",
+     "action": "물구나무 염소, 바람 닿은 자리에서 터짐",
+     "touches": "烏頭"
+    },
+    {
+     "herb": "白及",
+     "where": "염소 바로 뒤, 작게 · 고개만",
+     "action": "염소와 같은 터짐 안에 함께 들어감(교재 「혹 白芨」 = 白斂 자리의 대안)",
+     "touches": "烏頭"
+    }
+   ],
+   "aux": "보라 독구름 「터짐」(뾰족 · 커짐 = 毒性 강해짐, 포제 「흩어짐」의 반대). 바람 선은 물건이 아닌 동작선. 깃털 날림 없음(예약 yyox-05 羽 · new-etc-24 輕)",
+   "boundaries": "무리끼리는 닿지 않음 — 터짐은 烏頭의 바람이 닿는 자리에서만(무리끼리 反이 아님). 瓜蔞 | 貝母 사이 넓은 틈 = 「반과 | 패백」. 白及은 白蘞 뒤 한 몸 = 「혹」. 학습층: 교재 白斂 = 사전 白蘞, 白芨 = 사전 白及. 烏頭 = 川烏 · 草烏의 우두머리(十九畏에서는 川烏 · 草烏로 나뉘어 犀角을 畏)",
+   "prompt_en": "16:9 wide cartoon illustration, bright cheerful Sketchy-style mnemonic scene, flat clean colors, bold outlines. Background: a plain empty light wall and one simple floor line only — no shelves, no bottles, no appliances, no notes, no signs. Read strictly left to right. Every character keeps exactly its own normal shape and colors. LEFT END, alone: A frantic plain black crow with no clothing, no tent and no grass, flapping both wings wildly and stamping its feet in a silly fuss, with a small dark-grey rain cloud (no lightning) sitting right on top of its head like a hat, no loose feathers, no text. Its wild flapping sends a fan of dark swirling gust lines (just motion lines) blowing to the right. To its right, in one row: (1) A grey hippo wearing bright shorts, both hind legs stuck in one leg of the shorts, toppling over with a surprised face; (2) an exhausted yellow Korean melon (chamoe) wearing a loose necktie, collapsed face-down with dizzy swirl eyes and a sweat drop; then a slightly wider gap; (3) a glamorous fashion model striking a runway pose, swinging a handbag made of a big clam shell; (4) A white goat with curved horns and a long beard doing a handstand on its front hooves, no leash, no collar, no text; and (5), smaller and half hidden just behind the goat, peeking out: a white Korean dog running with a white first-aid box with a red cross held in its mouth. One gust line ends on each of these characters, and exactly where each gust hits, a small spiky dark-purple poison cloud bursting outward and growing (exploding, not fading); the dog behind the goat is inside the same burst as the goat. The figures in the row stand apart with small gaps and never touch each other; poison bursts appear only where the left character's action reaches them. Only these characters and the purple poison bursts; no other objects. Absolutely no text, letters, numbers, labels, signs or speech bubbles anywhere.",
+   "score": 92,
+   "from": "p6 · p1(쉼 틈) · p2(닿는 자리마다 터짐) · p5(왼쪽 고정)"
+  },
+  {
+   "id": "F2",
+   "method": "十八反 甘草 — 甘草 反 大戟 · 芫花 · 甘遂 · 海藻",
+   "lyric": "감초 대원 | 감해",
+   "setting": "F1과 같은 맨벽 · 바닥선 · 같은 자리. 甘草 약장 왼쪽 끝, 무리 오른쪽 한 줄(大戟은 다른 피규어 키로 줄인 무대 앞면), 芫花와 甘遂 사이 틈을 넓힘. 새 물건 여섯: 피규어 다섯 + 보라 독구름",
+   "stations": [
+    {
+     "herb": "甘草",
+     "where": "왼쪽 끝 홀로",
+     "action": "서랍 넷에서 노란 감초 뿌리가 팔처럼 뻗어 넷을 하나씩 찌름(약방의 감초가 어디나 끼어듦)",
+     "touches": "大戟 · 芫花 · 甘遂 · 海藻"
+    },
+    {
+     "herb": "大戟",
+     "where": "무리 첫째(작은 무대 앞면)",
+     "action": "뿌리가 막자락에 닿은 자리에서 큰 터짐(두 배)",
+     "touches": "甘草"
+    },
+    {
+     "herb": "芫花",
+     "where": "둘째(뒤에 넓은 틈)",
+     "action": "지폐 꽃잎에 뿌리가 닿아 터짐",
+     "touches": "甘草"
+    },
+    {
+     "herb": "甘遂",
+     "where": "셋째",
+     "action": "쇠창살 쥔 죄수에게 뿌리가 닿아 큰 터짐(두 배)",
+     "touches": "甘草"
+    },
+    {
+     "herb": "海藻",
+     "where": "넷째",
+     "action": "춤추는 미역 다발에 뿌리가 닿아 터짐",
+     "touches": "甘草"
+    }
+   ],
+   "aux": "보라 독구름 「터짐」. 大戟 · 甘遂 두 곳만 두 배 크기 = 七情 相反(甘草+大戟/甘遂, R4 S10)에도 나오는 짝 표지",
+   "boundaries": "무리끼리 닿지 않음. 芫花 | 甘遂 사이 넓은 틈 = 「대원 | 감해」. 큰 터짐 둘 = 十八反이면서 七情 相反. 학습층: 포제(醋製)에서 같은 넷 위 독구름이 「흩어짐」이었던 것과 반대 꼴",
+   "prompt_en": "16:9 wide cartoon illustration, bright cheerful Sketchy-style mnemonic scene, flat clean colors, bold outlines. Background: a plain empty light wall and one simple floor line only — no shelves, no bottles, no appliances, no notes, no signs. Read strictly left to right. Every character keeps exactly its own normal shape and colors. LEFT END, alone: A small wooden Korean herbal medicine cabinet with many little drawers, and from every open drawer the same cheerful yellow licorice root pokes out its smiling face; no labels or writing anywhere. From four of its drawers, four long yellow licorice roots stretch out to the right like reaching arms. To its right, in one row: (1) A grand theater stage front with gold columns and heavy red velvet curtains drawn open on an empty stage, no sign, no letters — drawn small, about as tall as the other characters, standing in the row like an object; (2) A flower whose petals are plain green paper banknotes with no numbers, no text and no portraits; then a slightly wider gap; (3) A prisoner in a black-and-white striped uniform gripping the iron bars of a small jail cell door with both hands, no fruit, no text; (4) a bundle of wavy green-brown seaweed fronds with a happy face, wiggling and dancing as if underwater. Each licorice root tip pokes one of these four, and exactly where each root touches, a small spiky dark-purple poison cloud bursting outward and growing (exploding, not fading); the bursts at the theater stage and at the prisoner are twice as big as the other two. The figures in the row stand apart with small gaps and never touch each other; poison bursts appear only where the left character's action reaches them. Only these characters and the purple poison bursts; no other objects. Absolutely no text, letters, numbers, labels, signs or speech bubbles anywhere.",
+   "score": 92,
+   "from": "p6 · p2(S10과 같은 꼴) · p1(쉼 틈 · 큰 터짐)"
+  },
+  {
+   "id": "F3",
+   "method": "十八反 藜蘆 ① — 藜蘆 反 五參(人參 · 丹參 · 玄參 · 沙參 · 苦參)",
+   "lyric": "여로 인단현 | 사고",
+   "setting": "같은 맨벽 · 바닥선 · 같은 자리. 藜蘆 여우 왼쪽 끝, 키 같은 뿌리 인형 다섯 오른쪽 한 줄, 玄參과 沙參 사이 틈을 넓힘. 새 물건 일곱: 피규어 여섯 + 보라 독구름",
+   "stations": [
+    {
+     "herb": "藜蘆",
+     "where": "왼쪽 끝 홀로",
+     "action": "화로를 안고 토한 초록 물줄기가 다섯 갈래로 갈라져 인형마다 떨어짐",
+     "touches": "人參 · 丹參 · 玄參 · 沙參 · 苦參"
+    },
+    {
+     "herb": "人參",
+     "where": "첫째",
+     "action": "왕관 인형에 물줄기가 닿아 터짐",
+     "touches": "藜蘆"
+    },
+    {
+     "herb": "丹參",
+     "where": "둘째",
+     "action": "단검 든 붉은 인형에 닿아 터짐",
+     "touches": "藜蘆"
+    },
+    {
+     "herb": "玄參",
+     "where": "셋째(뒤에 넓은 틈)",
+     "action": "현무암 인형에 닿아 터짐",
+     "touches": "藜蘆"
+    },
+    {
+     "herb": "沙參",
+     "where": "넷째",
+     "action": "사자 갈기 인형에 닿아 터짐",
+     "touches": "藜蘆"
+    },
+    {
+     "herb": "苦參",
+     "where": "다섯째",
+     "action": "머리띠 고3 인형에 닿아 터짐",
+     "touches": "藜蘆"
+    }
+   ],
+   "aux": "보라 독구름 「터짐」. 뿌리 인형 다섯 = 參 가족이 한 줄 = 五參",
+   "boundaries": "인형끼리 닿지 않음. 玄參 | 沙參 사이 넓은 틈 = 「인단현 | 사고」. 人參은 十九畏(人參畏五靈脂) · 七情 相惡 · 相畏 장에도 나옴 — 이 장은 터짐(反)으로만",
+   "prompt_en": "16:9 wide cartoon illustration, bright cheerful Sketchy-style mnemonic scene, flat clean colors, bold outlines. Background: a plain empty light wall and one simple floor line only — no shelves, no bottles, no appliances, no notes, no signs. Read strictly left to right. Every character keeps exactly its own normal shape and colors. LEFT END, alone: a queasy red fox with a single bushy tail hugging a small round iron charcoal brazier while throwing up a green splash. The green splash it throws up arcs to the right and splits into five streams. To its right, in one row, five root dolls of the same height: (1) a small ginseng-root doll with forked root legs and tiny root arms, wearing a little golden crown and standing proudly; (2) a red ginseng-root doll with little root arms and legs gripping a short dagger; (3) A small root-doll figure with a ginseng-root body and tiny root arms and legs, made of black porous basalt rock full of little holes, no text; then a slightly wider gap; (4) A little ginseng-root doll with a big fluffy lion's mane around its face, roaring proudly; (5) a ginseng-root doll dressed as a cramming high-school senior, wearing a plain blank white headband, tired eyes. Each green stream lands on one doll, and exactly where each stream lands, a small spiky dark-purple poison cloud bursting outward and growing (exploding, not fading). The figures in the row stand apart with small gaps and never touch each other; poison bursts appear only where the left character's action reaches them. Only these characters and the purple poison bursts; no other objects. Absolutely no text, letters, numbers, labels, signs or speech bubbles anywhere.",
+   "score": 91,
+   "from": "p1 · p2"
+  },
+  {
+   "id": "F4",
+   "method": "十八反 藜蘆 ② — 藜蘆 反 細辛 · 芍藥",
+   "lyric": "여로 세작",
+   "setting": "F3과 같은 여우가 같은 자리 · 같은 자세(같은 우두머리 둘째 장). 細辛은 여우 바로 옆, 白 · 赤芍藥은 오른쪽에 어깨를 맞대고 나란히. 새 물건 다섯: 피규어 넷 + 보라 독구름",
+   "stations": [
+    {
+     "herb": "藜蘆",
+     "where": "왼쪽 끝(F3과 같은 자리)",
+     "action": "등을 밀리자 다시 토함 → 물줄기가 오른쪽 두 약사를 함께 덮음",
+     "touches": "細辛 · 白芍藥 · 赤芍藥"
+    },
+    {
+     "herb": "細辛",
+     "where": "여우 바로 오른쪽",
+     "action": "때수건 낀 손으로 여우 등을 밂 — 때수건이 닿은 자리에서 터짐",
+     "touches": "藜蘆"
+    },
+    {
+     "herb": "白芍藥",
+     "where": "오른쪽, 赤芍藥과 어깨 맞댐",
+     "action": "토사물을 맞아 赤芍藥과 함께 큰 터짐 하나 안에 듦",
+     "touches": "藜蘆"
+    },
+    {
+     "herb": "赤芍藥",
+     "where": "오른쪽 끝, 白芍藥 곁",
+     "action": "白芍藥과 같은 터짐 하나 안",
+     "touches": "藜蘆"
+    }
+   ],
+   "aux": "보라 독구름 「터짐」 둘(때수건 자리 · 두 약사를 덮는 큰 것 하나)",
+   "boundaries": "白 · 赤 둘을 구름 하나가 덮음 = 교재 「芍藥」은 白 · 赤을 가르지 않음(한 무리 한 자리). 細辛과 약사들은 닿지 않음. 학습층: 細辛은 七情 相畏(細辛+滑石)에도, 白芍藥은 相惡(白芍藥+石斛)에도 나옴",
+   "prompt_en": "16:9 wide cartoon illustration, bright cheerful Sketchy-style mnemonic scene, flat clean colors, bold outlines. Background: a plain empty light wall and one simple floor line only — no shelves, no bottles, no appliances, no notes, no signs. Read strictly left to right. Every character keeps exactly its own normal shape and colors. LEFT END, alone: a queasy red fox with a single bushy tail hugging a small round iron charcoal brazier while throwing up a green splash. Right beside it, leaning over: a cheerful Korean bathhouse scrubber in shorts and a towel headband, waving one hand that wears a green exfoliating scrub mitt — he scrubs the fox's back with that green scrub mitt, and exactly where the mitt touches the fox, a small spiky dark-purple poison cloud bursting outward and growing (exploding, not fading). The scrubbing makes the fox throw up again: its green splash flies to the right past the scrubber and lands on two pharmacists standing shoulder to shoulder: An elegant count (European nobleman with a monocle) dressed all in white: a white suit and a white cape, who is a pharmacist holding a small medicine bottle, and next to him A pirate pharmacist in a bright red long coat and tricorn hat with a black eye patch, holding up a small brown medicine bottle, no text. Their medicine bottles have no labels. One single bigger spiky dark-purple poison cloud bursting outward and growing (exploding, not fading) covers both pharmacists together. The scrubber and the pharmacists do not touch each other. Only these characters and the purple poison bursts; no other objects. Absolutely no text, letters, numbers, labels, signs or speech bubbles anywhere.",
+   "score": 92,
+   "from": "p2 · p3(때수건 등 밀기) · p6"
+  }
+ ],
+ "new_dict": [
+  {
+   "hanja": "烏頭",
+   "reading": "오두",
+   "cue": "먹구름 모자를 쓰고 오두방정 떠는 맨몸 검은 까마귀(천막 · 풀 · 깃털 날림 없음)",
+   "draw_en": "A frantic plain black crow with no clothing, no tent and no grass, flapping both wings wildly and stamping its feet in a silly fuss, with a small dark-grey rain cloud (no lightning) sitting right on top of its head like a hat, no loose feathers, no text.",
+   "decode": "오두방정(굳은 표현 속 연속 포함) → 오두 + 까마귀(烏 가족) → 烏頭. 먹구름 = hp-03 十八反 烏頭 축 표지 계승 · 烏(검다). 川烏 = 천막, 草烏 = 초록 · 풀과 몸 꼴로 가름",
+   "carriers": [
+    "오두방정",
+    "까마귀(가족 — 草烏에 이어 둘째)"
+   ],
+   "type": 2,
+   "score": 24
+  }
+ ],
+ "needs_user_ok": [
+  "烏頭 새 단서 「먹구름 모자를 쓰고 오두방정 떠는 맨몸 검은 까마귀」 채택(p6 꼴, p1 · p3 · p5도 같은 계열). 오두막 안(p2 · p4)은 예약표 new-uk-05 오두막 · 굳은 물건 원두막 · 川烏 천막과 겹쳐 버림",
+  "hp-03 十八反 축 표지 처리: 먹구름 → 烏頭 피규어 머리 위로 흡수(계승), 까마귀 가면 → 진짜 까마귀 피규어, 갈대 든 남자 → 버리고 사전 藜蘆 여우로 대체. p6의 「화로 땔감을 갈대로」 안은 불변 피규어를 고치므로 채택하지 않음 — 갈대를 꼭 살리려면 藜蘆 피규어 자체를 고치는 결정이 따로 필요",
+  "十八反 芍藥 자리에 赤芍藥을 白芍藥과 함께 세움(교재는 「芍藥」만 적고 白 · 赤을 가르지 않음 — 구름 하나로 덮어 한 자리로 보임). p1처럼 赤芍藥을 학습층에만 둘지 확인"
+ ],
+ "check_needed": [
+  "R4 S10 七情 相反(甘草+大戟/甘遂 · 地黃+萊菔子 · 胡黃連+玄參)이 같은 「보라 독구름 터짐」 꼴인지, F2의 大戟 · 甘遂 큰 터짐과 맞는지 R4 심사와 맞출 것. hp-03 相反 표지는 「해골 독구름」이었으나 포제 Q2가 補骨脂와 겹친다며 해골을 뺐으므로 여기서도 해골 없음 — 두 장 통일 확인",
+  "R2 十九畏가 구름 없는 「막음 · 등 돌림」 문법인지 확인(十八反 터짐 · 포제 흩어짐과 셋이 갈려야 함). R2에 川烏 · 草烏가 나오므로 烏頭(먹구름 · 맨몸 검정)와 나란히 볼 때 셋이 갈리는지 그림에서 검수",
+  "大戟 피규어를 다른 피규어 키로 줄여 줄에 세움(꼴은 draw_en 그대로) — 그림에서 무대가 배경으로 커지지 않았는지 검수",
+  "甘草 서랍의 감초 뿌리가 팔처럼 뻗는 것은 피규어 동작 범위로 봄 — 약장 꼴(서랍마다 웃는 감초 얼굴)이 남았는지 검수",
+  "F4 細辛 draw_en은 「손을 흔듦」이고 장면에서는 같은 손으로 여우 등을 밂 — 피규어 꼴(반바지 · 수건 머리띠 · 초록 때수건)이 그대로인지 검수",
+  "교재 표기 白斂 ↔ 사전 白蘞, 白芨 ↔ 사전 白及, 人蔘 ↔ 人參 — 학습층에 교재 글자대로 적음",
+  "烏頭 먹구름이 보라 독구름과 섞여 보이지 않는지(회색 · 번개 없음) 그림에서 검수"
+ ]
+}

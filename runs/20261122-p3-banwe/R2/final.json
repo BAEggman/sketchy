@@ -1,0 +1,182 @@
+{
+ "batch": "R2",
+ "sheets": [
+  {
+   "id": "G1",
+   "method": "十九畏 硫黃畏朴硝 · 水銀畏砒霜 · 狼毒畏密陀僧",
+   "lyric": "유박 · 수비 · 낭밀",
+   "setting": "맨벽 · 맨바닥. 짝마다 빨강·흰 줄무늬 A자 바리케이드 하나(十九畏 공용 표지). 짝 셋 왼→오, 짝 사이 빈 간격 = 두문자 쉼. 독구름 없음",
+   "stations": [
+    {
+     "herb": "硫黃",
+     "where": "첫 짝 왼쪽",
+     "action": "바리케이드에 등을 두고 왼쪽을 향함, 썩은 냄새 김이 왼쪽으로만 흘러감",
+     "touches": "없음(바리케이드로 막힘)"
+    },
+    {
+     "herb": "朴硝",
+     "where": "첫 짝 오른쪽",
+     "action": "바리케이드 윗가로대 오른쪽 끝에 발로 거꾸로 매달려 오른쪽을 봄, 켠 양초는 그대로 보임",
+     "touches": "바리케이드만"
+    },
+    {
+     "herb": "水銀",
+     "where": "둘째 짝 왼쪽",
+     "action": "깨진 체온계에서 수은 방울들이 왼쪽으로 달아남(사전 동작 그대로)",
+     "touches": "없음"
+    },
+    {
+     "herb": "砒霜",
+     "where": "둘째 짝 오른쪽",
+     "action": "오른쪽 벽 낮은 곳에 달린 빨간 비상벨이 따르릉 울림",
+     "touches": "없음"
+    },
+    {
+     "herb": "狼毒",
+     "where": "셋째 짝 왼쪽",
+     "action": "바리케이드에 등 돌리고 왼쪽을 보며 펼친 책을 소리 내어 낭독",
+     "touches": "없음"
+    },
+    {
+     "herb": "密陀僧",
+     "where": "셋째 짝 오른쪽",
+     "action": "승려가 고집 센 낙타를 뒤에서 두 손으로 밀어 오른쪽으로 멀어짐",
+     "touches": "없음(낙타와만 맞닿음 = 피규어 자체)"
+    }
+   ],
+   "aux": "빨강·흰 줄무늬 A자 바리케이드 ×3(한 종류) = 十九畏 「함께 쓰지 않는 짝」. 畏하는 앞 약 = 늘 왼쪽",
+   "boundaries": "독구름 · 해골 · 겁먹은 표정 없음 → 七情 相畏(독약 겁먹음 · 보라 독구름 흩어짐) · 十八反/相反(독구름 터짐)과 가름. 그림 밖: 교재 3500행 硫黃畏朴硝 · 水銀畏砒霜 · 狼毒畏密陀僧, 十九畏歌 「硫黃原是火中精 朴硝一見便相爭 水銀莫與砒霜見 狼毒最怕密陀僧」(학습층 참고 — 원문 대조 필요)",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Background: a plain empty pale wall and plain floor only - no shelves, no bottles, no appliances, no notes, no posters. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. No purple clouds, no poison smoke, no skulls. Every character keeps exactly its own normal shape, colors and expression. Separator prop: a small plain red-and-white striped A-frame road barricade (sawhorse barricade) with stripes only - no words, no lights. Characters stand in pairs from left to right. In each pair the two characters stand back to back on either side of one barricade, the left one facing left and the right one facing right, ignoring each other; they never touch each other. Leave a clear empty gap between one pair and the next. Pair 1 (left): on the left of a small red-and-white striped A-frame barricade, a lumpy bright yellow sulfur rock giving off wavy greenish stink fumes, the fumes drifting only to the left; on the right, a brown bat hanging upside down by its feet from the right end of the barricade's top rail, clutching a lit white candle in its wings, the candle clearly visible, the bat facing right. Pair 2 (middle): on the left of a small red-and-white striped A-frame barricade, a broken glass thermometer with blank tick marks only, shiny silver mercury droplets with tiny legs running away from the crack toward the left; on the right, mounted low on the wall, a round red emergency alarm bell ringing hard with shaking vibration lines. Pair 3 (right): on the left of a small red-and-white striped A-frame barricade, a gray wolf standing upright holding a plain open book and reading aloud, sound lines coming from its open mouth, its back to the barricade and facing left; on the right, a bald Buddhist monk in gray robes pushing a stubborn camel from behind with both hands, moving away to the right.",
+   "score": 93,
+   "from": "p6 · p2 · p5 · p1"
+  },
+  {
+   "id": "G2",
+   "method": "十九畏 巴豆畏牽牛 · 丁香畏鬱金 · 牙硝畏三稜",
+   "lyric": "파견 · 정울 · 아삼",
+   "setting": "G1과 같은 맨벽 · 같은 바리케이드 문법. 짝 셋 왼→오. 三稜만 화면에서 가장 키 큼",
+   "stations": [
+    {
+     "herb": "巴豆",
+     "where": "첫 짝 왼쪽",
+     "action": "도화선이 타는 파란 두부 폭탄이 바리케이드 왼쪽에 놓임",
+     "touches": "없음"
+    },
+    {
+     "herb": "牽牛子",
+     "where": "첫 짝 오른쪽",
+     "action": "견우 목동이 고삐를 당겨 소를 바리케이드 반대쪽(오른쪽)으로 끌고 감",
+     "touches": "없음"
+    },
+    {
+     "herb": "丁香",
+     "where": "둘째 짝 왼쪽",
+     "action": "정장 · 넥타이 향로의 연기가 왼쪽(제 쪽)으로만 피어오름",
+     "touches": "없음"
+    },
+    {
+     "herb": "鬱金",
+     "where": "둘째 짝 오른쪽",
+     "action": "금붕어가 오른쪽을 보고 엉엉 울며 눈물을 쏟음",
+     "touches": "없음"
+    },
+    {
+     "herb": "牙硝",
+     "where": "셋째 짝 왼쪽",
+     "action": "콘에 꽂혀 녹는 양초가 몸을 왼쪽으로 젖혀 쇠침 쪽에서 멀어짐",
+     "touches": "없음"
+    },
+    {
+     "herb": "三稜",
+     "where": "셋째 짝 오른쪽",
+     "action": "화면에서 가장 키 큰 세모 날 쇠침이 곧게 서 있음(날끝은 위로)",
+     "touches": "없음"
+    }
+   ],
+   "aux": "바리케이드 ×3(한 종류). 牙硝의 「양초」 = 硝 가족(G1 朴硝 박쥐의 양초와 이어짐)",
+   "boundaries": "독구름 없음 · 닿음 없음. 교재 표기 牽牛 = 사전 牽牛子(같은 약). 그림 밖: 「巴豆性烈最爲上 偏與牽牛不順情 丁香莫與鬱金見 牙硝難合京三稜」(학습층 참고 — 원문 대조 필요)",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Background: a plain empty pale wall and plain floor only - no shelves, no bottles, no appliances, no notes, no posters. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. No purple clouds, no poison smoke, no skulls. Every character keeps exactly its own normal shape, colors and expression. Separator prop: a small plain red-and-white striped A-frame road barricade (sawhorse barricade) with stripes only - no words, no lights. Characters stand in pairs from left to right. In each pair the two characters stand back to back on either side of one barricade, the left one facing left and the right one facing right, ignoring each other; they never touch each other. Leave a clear empty gap between one pair and the next. Pair 1 (left): on the left of a small red-and-white striped A-frame barricade, a blue block of tofu shaped like a cartoon bomb with a lit fuse sticking out of its top; on the right, a young cowherd boy leading a cow by a rope, pulling the cow away toward the right, his back to the barricade. Pair 2 (middle): on the left of a small red-and-white striped A-frame barricade, a small bronze incense burner wearing a black business suit jacket and necktie, a thin curl of smoke rising from its lid and drifting only to the left; on the right, an orange goldfish floating in the air like a cartoon character, facing right, bawling with huge cartoon tears streaming from its eyes. Pair 3 (right): on the left of a small red-and-white striped A-frame barricade, a waffle ice cream cone with a melting scoop and a lit white candle stuck into the top, drips running down the cone, the whole cone leaning back toward the left; on the right, a giant thick steel needle standing upright with a sharp three-edged tip pointing straight up, triangular cross-section clearly visible, no face, no blood - it is the tallest thing in the whole picture.",
+   "score": 94,
+   "from": "p6 · p1"
+  },
+  {
+   "id": "G3",
+   "method": "十九畏 川烏草烏畏犀角",
+   "lyric": "천초서",
+   "setting": "같은 맨벽 · 바리케이드 하나. 2:1 — 바리케이드 왼쪽에 까마귀 둘이 나란히, 오른쪽에 코뿔소 하나. 화면 가운데에 넉넉히",
+   "stations": [
+    {
+     "herb": "川烏",
+     "where": "바리케이드 왼쪽 앞",
+     "action": "천막을 뒤집어쓰고 고개만 내민 까마귀가 꼬리를 바리케이드 쪽으로 두고 왼쪽을 봄",
+     "touches": "草烏와 나란히(같은 쪽 · 같은 무리)"
+    },
+    {
+     "herb": "草烏",
+     "where": "川烏 옆",
+     "action": "초록 까마귀가 왼쪽 풀 다발을 쪼아 먹음, 꼬리는 바리케이드 쪽",
+     "touches": "川烏와 나란히"
+    },
+    {
+     "herb": "犀角",
+     "where": "바리케이드 오른쪽",
+     "action": "정육면체 사각 블록 외뿔 코뿔소가 오른쪽을 보고 당당히 섬",
+     "touches": "없음"
+    }
+   ],
+   "aux": "바리케이드 ×1. 까마귀 둘이 한쪽 = 川烏 · 草烏 둘 다 畏하는 쪽(교재가 한 짝으로 묶음)",
+   "boundaries": "烏 가족 = 까마귀(十八反 F1 烏頭와 같은 가족 — 烏頭 피규어는 이 장에 넣지 않음). 犀角의 뿔은 사각 블록(각뿔 아님). 그림 밖: 「川烏草烏不順犀」(학습층 참고 — 원문 대조 필요)",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Background: a plain empty pale wall and plain floor only - no shelves, no bottles, no appliances, no notes, no posters. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. No purple clouds, no poison smoke, no skulls. Every character keeps exactly its own normal shape, colors and expression. Separator prop: a small plain red-and-white striped A-frame road barricade (sawhorse barricade) with stripes only - no words, no lights. Characters stand in pairs from left to right. In each pair the two characters stand back to back on either side of one barricade, the left one facing left and the right one facing right, ignoring each other; they never touch each other. Leave a clear empty gap between one pair and the next. This picture has only one pair, placed in the center with generous empty space around it. On the left of a small red-and-white striped A-frame barricade, two crows stand side by side, both with their tails toward the barricade and facing left: a black crow wearing a small canvas camping tent over its body like a shell, only its beaked head poking out of the tent flap; and next to it a bright grass-green crow pecking at and eating a tuft of grass, no cloth on it, no candle. On the right of the barricade, a grey rhinoceros whose single horn is a perfect square cube block (a cube, not a pyramid), standing proudly and facing right.",
+   "score": 91,
+   "from": "p2 · p6(꼬리 돌림만)"
+  },
+  {
+   "id": "G4",
+   "method": "十九畏 人參畏五靈脂 · 肉桂畏赤石脂",
+   "lyric": "인오 · 육적",
+   "setting": "같은 맨벽 · 바리케이드 문법. 짝 둘 왼→오",
+   "stations": [
+    {
+     "herb": "人參",
+     "where": "첫 짝 왼쪽",
+     "action": "왕관 쓴 인삼 뿌리 인형이 바리케이드에 등 돌리고 왼쪽을 향해 당당히 섬",
+     "touches": "없음"
+    },
+    {
+     "herb": "五靈脂",
+     "where": "첫 짝 오른쪽",
+     "action": "유령이 들러붙은 오렌지가 오른쪽을 봄 — 보라 독구름 없음",
+     "touches": "없음"
+    },
+    {
+     "herb": "肉桂",
+     "where": "둘째 짝 왼쪽",
+     "action": "계피 젓가락 꽂힌 육개장 그릇의 김이 왼쪽으로만 피어오름",
+     "touches": "없음"
+    },
+    {
+     "herb": "赤石脂",
+     "where": "둘째 짝 오른쪽",
+     "action": "적십자 완장 찬 붉은 돌덩이가 오른쪽을 봄",
+     "touches": "없음"
+    }
+   ],
+   "aux": "바리케이드 ×2(한 종류)",
+   "boundaries": "人參畏五靈脂는 七情 相畏 괄호(3492행)에도 나옴 — 그 장(R4 相畏)은 같은 짝을 보라 독구름 흩어짐으로, 이 장은 바리케이드 · 외면 · 독구름 없음으로 그려 뜻을 가름(회수 문항: 「같은 人參–五靈脂, 이 장은 독을 덜어 주나?」 → 아니오, 함께 쓰지 않음). 교재 人蔘 = 사전 人參. 그림 밖: 「人參最怕五靈脂 官桂善能調冷氣 若逢石脂便相欺」(학습층 참고 — 원문 대조 필요)",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines. Background: a plain empty pale wall and plain floor only - no shelves, no bottles, no appliances, no notes, no posters. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. No purple clouds, no poison smoke, no skulls. Every character keeps exactly its own normal shape, colors and expression. Separator prop: a small plain red-and-white striped A-frame road barricade (sawhorse barricade) with stripes only - no words, no lights. Characters stand in pairs from left to right. In each pair the two characters stand back to back on either side of one barricade, the left one facing left and the right one facing right, ignoring each other; they never touch each other. Leave a clear empty gap between one pair and the next. Pair 1 (left): on the left of a small red-and-white striped A-frame barricade, a small ginseng-root doll with forked root legs and tiny root arms, wearing a little golden crown and standing proudly, its back to the barricade and facing left; on the right, a round orange fruit with a small white cartoon ghost clinging to it and wrapping its wispy arms around it, facing right. There is no cloud or smoke between them. Pair 2 (right): on the left of a small red-and-white striped A-frame barricade, a steaming bowl of spicy red Korean beef soup with several rolled cinnamon bark sticks standing upright in it like chopsticks, its steam drifting only to the left; on the right, a chunky brick-red rock with a stubby little face, wearing a white armband that shows only a plain red cross symbol, no letters, facing right.",
+   "score": 94,
+   "from": "p6 · p2"
+  }
+ ],
+ "new_dict": [],
+ "needs_user_ok": [
+  "hp-03의 十九畏 표지 「날다람쥐와 그 똥 = 五靈脂(人蔘畏五靈脂)」를 이번 장면에서 잇지 않고 사전 피규어 「유령이 들러붙은 오렌지」로 대신함 — 날다람쥐를 소품으로 곁들이면 五靈脂가 둘이 됨. hp-03 개정 때 유령 오렌지로 통일할지 확인"
+ ],
+ "check_needed": [
+  "새 공용 표지 「빨강·흰 줄무늬 A자 바리케이드 = 十九畏(함께 쓰지 않는 짝)」를 예약표 src/lessons/reserved.md에 올릴 것(玄胡索 색동 줄무늬 호스와 다른 물건)",
+  "묶음 간 문법 맞춤: R4 相畏 = 「독약이 겁먹음 + 보라 독구름 흩어짐」, R1 十八反 안 일부가 「등 맞대고 반대로 달아남」을 씀 — 十九畏의 「바리케이드 사이 등 맞댐 · 외면」과 겹치지 않게 R1 · R4 심판 결과와 대조",
+  "그림 밖 학습층에 넣을 十九畏歌 구절(相爭 · 莫見 · 最怕 · 不順情 · 難合 · 相欺)은 교재 밖 — 원문 사이트에서 글자 대조 후 넣을 것",
+  "교재 표기 ↔ 사전 표기: 牽牛 = 牽牛子, 人蔘 = 人參 (같은 약으로 처리)",
+  "川烏草烏畏犀角: 교재가 한 짝으로 묶어 피규어 셋 2:1로 그림 — R1에서 새로 짓는 烏頭 피규어와 까마귀 가족 꼴이 겹치지 않는지 확인"
+ ]
+}

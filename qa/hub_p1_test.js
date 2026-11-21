@@ -42,11 +42,12 @@ async function tick(page, ms) { await page.clock.runFor(ms); }
     const shelf = await page.$$eval('#toc .ch.shelf .lrow', els => els.map(e => e.dataset.id));
     ok('보관함 줄 = 12', shelf.length === SHELF.length, String(shelf.length));
     const all = rows.concat(shelf), uniq = new Set(all);
-    ok('227과가 꼭 한 번씩', all.length === 227 && uniq.size === 227, `${all.length}/${uniq.size}`);
+    const NL = fs.readdirSync(path.join(ROOT, 'src/lessons/l')).filter(f => f.endsWith('.json')).length;
+    ok(`${NL}과(src/lessons/l 전부)가 꼭 한 번씩`, all.length === NL && uniq.size === NL, `${all.length}/${uniq.size}`);
     const thumbs = await page.$$eval('#toc .lrow .thumb img', els => els.map(e => e.getAttribute('src')));
     let missing = 0;
     for (const t of thumbs) if (!fs.existsSync(path.join(ROOT, t))) missing++;
-    ok('썸네일 227/227 파일 있음', thumbs.length === 227 && missing === 0, `${thumbs.length} · 없음 ${missing}`);
+    ok(`썸네일 ${NL}/${NL} 파일 있음`, thumbs.length === NL && missing === 0, `${thumbs.length} · 없음 ${missing}`);
     const empties = await page.$$eval('#toc .empty', els => els.length);
     ok('빈 절이 「그림 없음 — 감사 대상」으로 보임', empties >= 10, String(empties));
     ok('페이지 오류 없음', errs.length === 0, errs.join(' | '));

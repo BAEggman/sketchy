@@ -19,6 +19,39 @@
      "note": "갈아엎기 P2 시범(2026-11-21). 기존 과를 덮지 않고 새 id로 둔다. 사용자 검수 뒤 해당 절로 옮긴다",
      "items": [
       {
+       "lesson": "pilot-tao",
+       "level": 2,
+       "see_also": [
+        "hist-02a"
+       ],
+       "note": "Run 1 시범 — 기존 과 hist-02a를 덮지 않음"
+      },
+      {
+       "lesson": "pilot-wangbing",
+       "level": 2,
+       "see_also": [
+        "hist-03b"
+       ],
+       "note": "Run 1 시범 — 기존 과 hist-03b를 덮지 않음"
+      },
+      {
+       "lesson": "pilot-duben",
+       "level": 2,
+       "see_also": [
+        "hist-06b"
+       ],
+       "note": "Run 1 시범 — 기존 과 hist-06b를 덮지 않음"
+      },
+      {
+       "lesson": "pilot-xue",
+       "level": 2,
+       "see_also": [
+        "hist-07a",
+        "hist-07b"
+       ],
+       "note": "Run 1 시범 — 기존 과 hist-07a · hist-07b를 덮지 않음"
+      },
+      {
        "lesson": "pilot-gv",
        "level": 2,
        "prereq": [

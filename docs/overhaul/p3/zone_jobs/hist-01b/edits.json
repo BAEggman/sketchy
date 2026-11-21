@@ -324,6 +324,54 @@
    "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. The seated scholar in the black hat holds up a sheet of paper in his raised hand. Change that sheet into a thick closed book that he holds up in the same hand, his fingers gripping it firmly. The book's cover has a brown and cream plaid pattern, and a few small blank paper slips stick out between its pages. Keep the scholar's face, hat, beard and robe, the desk, the paper on the desk, the folding screen and the gold medal exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
    "check": "책이 손에 쥐어짐 · 표지 체크 · 쪽지 삐져나옴",
    "fallback": "거부면 crop을 [680,420,420,340]으로 줄여 새 이름(B1c2)"
+  },
+  {
+   "id": "B1c2",
+   "order": 93,
+   "zone": "張仲景 손의 종이 → 체크 표지 책(B1a 거부 대응, 좁힌 조각) (fallback 좁힘)",
+   "crop": [
+    680,
+    420,
+    420,
+    340
+   ],
+   "region": [
+    [
+     0,
+     50,
+     200,
+     200
+    ]
+   ],
+   "new_objects": [
+    "체크 표지 두꺼운 처방 책(쪽지 대신)"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. The seated scholar in the black hat holds up a sheet of paper in his raised hand. Change that sheet into a thick closed book that he holds up in the same hand, his fingers gripping it firmly. The book's cover has a brown and cream plaid pattern, and a few small blank paper slips stick out between its pages. Keep the scholar's face, hat, beard and robe, the desk, the paper on the desk, the folding screen and the gold medal exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "책이 손에 쥐어짐 · 표지 체크 · 쪽지 삐져나옴"
+  },
+  {
+   "id": "B1d",
+   "order": 93,
+   "zone": "張仲景 손의 종이 → 체크 책(얼굴 없는 아주 좁은 조각)",
+   "crop": [
+    650,
+    470,
+    260,
+    195
+   ],
+   "region": [
+    [
+     0,
+     0,
+     160,
+     185
+    ]
+   ],
+   "new_objects": [
+    "체크 표지 두꺼운 처방 책(쪽지 대신)"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same clothes, background, colors, thick cartoon outlines and framing. A hand in a white sleeve holds up a sheet of paper. Change the sheet of paper into a thick closed book held in the same hand, the fingers gripping it firmly. The book cover has a brown and cream plaid pattern, and a few small blank paper slips stick out between its pages. Keep the sleeve, the wooden desk, the small dark tray and the paper lying on the desk exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "책이 손에 쥐어짐 · 표지 체크 · 쪽지"
   }
  ]
 }

@@ -22,3 +22,9 @@ E1 · 3:4 · 첨부 거부 · 끝 20:09 · 이번 차례: 새 prep E1n.jpg(새 �
 == 탭C hist-06b 끝 20:09: E3b accept / E1 첨부 거부
 == 탭C 일꾼 멈춤 20:12 (입력칸에 사용자 한국어 글)
 == 탭C 20:29 멈춤: Gemini 1095 전면(글만 보내도 실패). E4·E1 이번 차례 시도 못 함
+== 탭A hist-06b E1 시작 21:24 (직접 올리기)
+  E1 시도1 21:24–21:28 · 직접 올리기로 처음으로 그림이 나옴(첨부 거부 풀림) · 메달이 책 아래 붉은 끈에 매달림·성벽 메달 자리 벽돌로 메움·땅의 책 지우고 길 이음 통과, 그러나 책을 쥔 손이 안 보임(책이 소매 앞에 떠 있음), 책 왼쪽 끝이 흐릿 → 불합격, 같은 편집문 새 채팅
+  E1 시도2 21:29–21:31 · 새 채팅 · Gemini가 글로만 「텍스트 기반 AI라 도울 수 없다」(그림 없음) → 불합격. 셋째부터 덧붙인 문장: "The doctor's hand is clearly visible: his fingers wrap around the lower edge of the open book and grip it firmly."
+  E1 시도3 21:32–21:37 · 첫 보내기 1095(첨부 떨어짐) → 같은 채팅에 다시 올려 통과 · 메달·벽·땅 통과, 그러나 손이 또 책 뒤로 숨음(소매 위에 책이 얹힌 꼴), 책 왼쪽 위가 흐릿(구역 밖으로 넘침) → 불합격. 넷째 덧붙인 문장(셋째 문장 대신): "The doctor's hand stays where it is now and is clearly visible in front of the book: his thumb presses on the open pages and his four fingers grip the book's lower edge from below. The book is small enough to fit inside the area where the sheet of paper was."
+- E1 · 3:4 · accept · 시작 21:24 · 끝 21:33 (가장 오래: 재시도 4회, 1095 1번) · 시도4(덧붙인 문장 위 넷째 것) · 직접 올리기로 첨부 거부 풀림 · 종이 → 노란 쪽지 빼곡한 두꺼운 펼친 책(엄지가 책장 위에 보임, 네 손가락은 책 뒤라 안 보임 — 약한 흠), 메달이 책 아래 붉은 끈에 매달림, 성벽 메달 자리 벽돌로 메움, 땅의 책 지우고 노란 길 이음, 환자·담요·성문 그대로. paste에 --region 300,560,220,140(메달 아래가 구역 밖) · --region 250,320,300,60(책 윗변) 더함
+== hist-06b 끝(탭A 21:33): E1 accept. cur.png = E2·E3b·E1

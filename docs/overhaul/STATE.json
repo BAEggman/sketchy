@@ -2,7 +2,7 @@
  "plan": "docs/overhaul/PLAN_20261120.md",
  "base_commit": "0e16b7c",
  "branch": "overhaul-20261120",
- "phase": "P3 확대 — 의학사 구역 수정(B1~B5)",
+ "phase": "P3 확대 — 의학사 구역 수정 끝(사용자 검수 대기), 다음 P3-2 본초",
  "done": [
   "P0.repo",
   "P0.handoff_archive",
@@ -21,13 +21,11 @@
   "P2.review-page(pilot_review.html)",
   "P2.run2-cho-judge(final.json · 사용자 G절 결정)",
   "P2.run2-cho-draw(pilot-cho, Gemini 바탕+편집 3)",
-  "P2.review-page+cho(30문항)"
+  "P2.review-page+cho(30문항)",
+  "P3-1 의학사 구역 수정: 23과 새 과(hist-01a · 01b · 02a · 02b · 03a · 03b · 03c · 04 · 05a · 05b · 06a · 06b · 07a · 07b · 08a · 08b · 09 · 10 · 11 · 12 · 13 · 14) · 판독자 둘 · 손질 편집"
  ],
  "in_progress": [
-  "P3-1 의학사 구역 수정: 새 과로 덮음 18과 — hist-01a · 02a · 02b · 03a · 03b · 03c(새 과) · 04 · 05a · 05b · 06a · 07a · 07b · 08a · 09 · 10 · 11 · 13 · 14 (+ 05a 글자 줄 정리)",
-  "남은 Gemini 편집(11-21 20:30 계정 전체 1095로 멈춤): 01b B1c(張仲景 체크 책; 너트는 코드로 지움, 생선 B1b 완료) · 08b E2a · E2b · 12 E4 · 06b E1 · 02b C1 · C2(옛 이음매) · 03b F1 · 07b F1(판독자 지적 흠)",
-  "과 만들기 남음: hist-01b · 06b · 08b · 12 (남은 편집 뒤). 03b · 07b · 02b는 손질 뒤 그림만 교체",
-  "두 판독자: B1 · B2/B3/B5 일부 · 9과 완료(runs/*/blind/). 01b · 06b · 08b · 12는 완성 뒤"
+  "P3-1 의학사: 사용자 검수 대기(검수 결과 파일은 나중에 한 번에). 물을 것 모음은 마스터노트 5절"
  ],
  "held": [
   {

@@ -2,7 +2,7 @@
  "plan": "docs/overhaul/PLAN_20261120.md",
  "base_commit": "0e16b7c",
  "branch": "overhaul-20261120",
- "phase": "P3 확대 — 의학사 구역 수정 끝(사용자 검수 대기), 다음 P3-2 본초",
+ "phase": "P3 확대 — P3-2 본초: 사전 166 · 스티커 166 · 포제 22장 · 十八反/十九畏/七情 20장 그림과 과 명세 끝(과 등록은 사용자 답 대기), 다음 P3-5 분류 무대 준비",
  "done": [
   "P0.repo",
   "P0.handoff_archive",
@@ -22,10 +22,12 @@
   "P2.run2-cho-judge(final.json · 사용자 G절 결정)",
   "P2.run2-cho-draw(pilot-cho, Gemini 바탕+편집 3)",
   "P2.review-page+cho(30문항)",
-  "P3-1 의학사 구역 수정: 22과 새 과(hist-01a · 01b · 02a · 02b · 03a · 03b · 03c · 04 · 05a · 05b · 06a · 06b · 07a · 07b · 08a · 08b · 09 · 10 · 11 · 12 · 13 · 14) · 판독자 둘 · 손질 편집"
+  "P3-1 의학사 구역 수정: 22과 새 과(hist-01a · 01b · 02a · 02b · 03a · 03b · 03c · 04 · 05a · 05b · 06a · 06b · 07a · 07b · 08a · 08b · 09 · 10 · 11 · 12 · 13 · 14) · 판독자 둘 · 손질 편집",
+  "P3-2 본초: 사전 148+18(src/dict/herbs.json, H001~H166) · 스티커 166(images/herbs) · 포제 22장(runs/20261122-p3-suchi: 6+1 · scenes · built/P01~P22.spec.json · blind) · 十八反/十九畏/七情 20장(runs/20261122-p3-banwe: 6+1 · scenes · built/F1~S12.spec.json)"
  ],
  "in_progress": [
-  "P3-1 의학사: 사용자 검수 대기(검수 결과 파일은 나중에 한 번에). 물을 것 모음은 마스터노트 5절"
+  "P3-1 의학사: 사용자 검수 대기(검수 결과 파일은 나중에 한 번에). 물을 것 모음은 마스터노트 5절",
+  "P3-2 본초: 과 등록(suchi-01~22 · 반외 20) 사용자 답 대기 · banwe 판독자 결과 정리"
  ],
  "held": [
   {

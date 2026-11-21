@@ -10,6 +10,31 @@
  },
  "chapters": [
   {
+   "id": "pilot",
+   "title": "P2 시범 — 검수용(넓히기 전 · 새 문법)",
+   "sections": [
+    {
+     "id": "pilot-s1",
+     "title": "시범 그림 · 유주도",
+     "note": "갈아엎기 P2 시범(2026-11-21). 기존 과를 덮지 않고 새 id로 둔다. 사용자 검수 뒤 해당 절로 옮긴다",
+     "items": [
+      {
+       "lesson": "pilot-gv",
+       "level": 2,
+       "prereq": [
+        "new-gr-13"
+       ],
+       "see_also": [
+        "new-gr-12",
+        "new-gr-14"
+       ],
+       "note": "코드로 그린 유주도 · 빈 판 images/lessons/pilot-gv-blank.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "base",
    "title": "韓醫學槪論을 위한 基本常識",
    "page": 6,

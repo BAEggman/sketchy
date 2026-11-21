@@ -14,7 +14,7 @@
      ```
      git clone https://github.com/BAEggman/sketchy.git work && cd work
      git fetch <bundle경로> overhaul-20261120:overhaul-20261120 && git switch overhaul-20261120
-     git log --oneline -5   # 마스터노트 커밋 · 6b3ede5 · a8af045 · f18394d · 0e16b7c
+     git log --oneline -7   # 맨 위가 이 노트를 담은 커밋 · 1f174d4 · 053206f · 6b3ede5 · a8af045 · f18394d · 0e16b7c
      ```
    - 사용자가 이미 올렸으면 `git fetch origin`만 하면 된다. `origin/main`이 `0e16b7c`보다 앞서 있으면 그 위에 다시 얹는다(다른 작업자의 커밋을 덮지 않는다).
 3. **교재 추출본을 다시 가져온다.** Mac `~/Downloads/sketchy_carbon/refs/교재/_txt/`의 txt 35개와 `5장경락_사용자요약_발췌.md`를 `device_stage_files`로 받는다. 핵심 파일:
@@ -187,6 +187,8 @@
 | `f18394d` | P0: 인계 보관 · 계획서 · 사실 여덟 · 상태 · runs 틀 |
 | `a8af045` | P1: 교재 목차 허브 · 썸네일 227 · 별표 · 자동 넘김 · 반복 · 시험 40/40 |
 | `6b3ede5` | P2 Run 1: 의학사 시범 6+1(여섯 안 · 심사 · 명세) · 기준서 · 배치 도구 |
-| (끝) | 이 마스터노트 — 꾸러미 `sketchy_overhaul_20261121.bundle`의 맨 끝 커밋 |
+| `053206f` | 마스터노트 첫 판 |
+| `1f174d4` | Run 1 보고서(`docs/overhaul/RUN1_REPORT.md` = 프로젝트 `claude/Sketchy_6+1_Run1_의학사시범_20261120.md`) |
+| (맨 끝) | 마스터노트 고침 — 꾸러미 `sketchy_overhaul_20261121.bundle`의 끝 |
 
 가지 `overhaul-20261120`. 아직 GitHub에 없다.

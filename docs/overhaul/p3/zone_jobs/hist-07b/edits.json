@@ -1,0 +1,165 @@
+{
+ "lesson": "hist-07b",
+ "batch": "b3",
+ "base": "images/lessons/hist-07b.webp",
+ "edits": [
+  {
+   "id": "07b-E1",
+   "zone": "1 河若愚",
+   "order": 1,
+   "crop": [
+    0,
+    60,
+    800,
+    1180
+   ],
+   "region": [
+    [
+     90,
+     200,
+     270,
+     260
+    ],
+    [
+     440,
+     330,
+     330,
+     800
+    ]
+   ],
+   "new_objects": [
+    "물방울 받는 펼친 두루마리(河若愚 손)"
+   ],
+   "also": "금광 옆 이름 없는 노래꾼 · 음표 지움",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Remove the two thin sticks from the hands of the man standing next to the water clock. He now holds an open paper scroll stretched between both hands right under the funnel, so the falling water drops land on the scroll. 2) Remove completely the young singer who holds a scroll in the middle of the picture, together with the musical notes floating above him. Fill his place by continuing what is around him: the golden rocks, the dirt ground, the green bushes and the wooden pavilion behind. Keep the water clock, the tiny mouse and horse figures on top of it, the water bowl, the man's face and robe, and the old man holding the small house model at the right edge exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "두 손이 두루마리 양 끝 · 물방울이 두루마리에 떨어짐 · 노래꾼 · 음표 흔적 없음 · 竇默 그대로",
+   "fallback": "노래꾼 자리가 비어 어색하면 금광 바위로 메우는 말만 다시. 두루마리가 손에서 뜨면 'he holds the scroll open in front of him under the dripping funnel'"
+  },
+  {
+   "id": "07b-E2",
+   "zone": "2 竇默",
+   "order": 2,
+   "crop": [
+    740,
+    480,
+    560,
+    920
+   ],
+   "region": [
+    [
+     290,
+     220,
+     200,
+     320
+    ]
+   ],
+   "new_objects": [],
+   "also": "금빛 홀 지움 · 손이 나침반 침 머리를 쥠",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Remove the golden scepter from the old man's hand. With that same hand he now reaches over and firmly grips the round top ring of the long needle that stands in the big compass, like holding the top of a walking stick. Keep his other hand holding the small house model, his finger-on-lips \"shh\" gesture, his face, hair and grey robes, and the big compass with its star and arrow exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "손가락이 침 꼭대기 고리를 감쌈 · 홀 없음 · 나침반 그대로. 원본부터 손이 셋으로 보임(한옥 밑 · 쉿 · 홀) — 이번에 손이 하나 줄어 둘로 읽히는지 확인",
+   "fallback": "쥐기가 안 되면 p5 꼴: 'the golden scepter becomes a closed book with a simple compass picture on its cover, held in the same hand'"
+  },
+  {
+   "id": "07b-E3",
+   "zone": "4 滑壽 · 기타",
+   "order": 3,
+   "crop": [
+    1180,
+    40,
+    840,
+    1480
+   ],
+   "region": [
+    [
+     500,
+     60,
+     200,
+     230
+    ],
+    [
+     580,
+     290,
+     200,
+     200
+    ],
+    [
+     30,
+     1160,
+     680,
+     290
+    ]
+   ],
+   "new_objects": [],
+   "moved": [
+    "색 경락도 두루마리 + 금메달: 미끄럼틀 꼭대기 → 滑壽 손"
+   ],
+   "also": "일렉기타 · 사과 지움",
+   "chain": "07b-E2를 붙인 그림에서 자른다(x 1180–1300 겹침)",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Remove the colored body-chart scroll and the gold medal from the top of the rainbow slide, and fill that place with the slide and the sky. 2) The smiling old man's raised hand on the right side of the picture no longer holds a white egg; it now holds that same scroll, unrolled and fluttering, showing a human body with lines in many colors, with the gold medal hanging from the scroll's bottom rod. His other raised hand keeps its white egg. 3) Remove the red electric guitar and the red apple from the ground completely; fill with the sandy ground and grass. Keep the old man's face, white beard, teal vest, his sliding pose, the rainbow slide, the pavilion and the singer on it exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "두루마리가 손에 · 메달이 두루마리에 · 다른 손 흰 알 하나 · 미끄럼 꼭대기 비움 · 기타 흔적 없음",
+   "fallback": "두 손에 다른 물건이 어색하면(약한 꼴) 2)를 'he holds the unrolled scroll open with both hands above his head, the white egg is gone'로 — 伯仁의 알은 대본에서만"
+  },
+  {
+   "id": "07b-E4",
+   "zone": "5 徐鳳",
+   "order": 4,
+   "crop": [
+    1900,
+    480,
+    620,
+    620
+   ],
+   "region": [
+    [
+     220,
+     220,
+     300,
+     200
+    ]
+   ],
+   "new_objects": [
+    "작은 두루마리가 꽉 찬 열린 서랍"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Pull out one drawer of the wooden medicine cabinet, the one right next to the singing man: the open drawer is packed full of small rolled paper scrolls. 2) The singing man now pushes his own rolled scroll into that open drawer with one hand, adding it to the others, while still singing. Keep the phoenix perched on top of the cabinet, all the other closed drawers, the man's face, hair and blue robe, and the floating musical notes exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "서랍 하나만 열림 · 두루마리 여럿 · 손이 서랍 속 두루마리에 닿음 · 봉황 그대로",
+   "fallback": "서랍이 여럿 열리면 'only one drawer is open'을 앞에 두고 다시"
+  },
+  {
+   "id": "07b-E5",
+   "zone": "6 高武 · 汪機",
+   "order": 5,
+   "crop": [
+    2060,
+    40,
+    692,
+    1450
+   ],
+   "region": [
+    [
+     260,
+     230,
+     432,
+     330
+    ],
+    [
+     120,
+     1040,
+     370,
+     330
+    ]
+   ],
+   "new_objects": [
+    "분홍 고무장갑(무사 두 손)",
+    "꽃이 솟는 두꺼운 책"
+   ],
+   "moved": [
+    "돗자리 위 책 → 초록 옷 사람 손"
+   ],
+   "also": "금빛 사람 상 셋 · 따로 든 꽃다발 지움",
+   "chain": "07b-E4를 붙인 그림에서 자른다(x 2060–2520 겹침)",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The tall warrior in the helmet and scale armor: remove the three small golden human statues and the separate bouquet. With both hands he now holds a thick book in front of his chest, and a big bunch of pink flowers bursts up out from between its pages. He wears bright pink rubber kitchen gloves on both hands. 2) In the lower part, the man in the green robe now holds the open book from the mat up in both hands in front of his chest, showing its pages to the man in blue as he answers him; remove the book from the mat. Keep the warrior's face, helmet, armor and red cape, the red lanterns, the man in blue and his asking gesture, the loom, the stream and the grass exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "금빛 상 · 흰 테 흔적 없음 · 장갑이 분홍 · 꽃이 책에서 솟음 · 초록 옷 두 손이 책 · 돗자리 빈 곳 메움",
+   "fallback": "장갑이 안 보이면 같은 조각으로 'bright pink rubber gloves' 한 줄. 汪機 손이 안 되면 p1 꼴 'the man in green rests his hand flat on the open book on the mat'"
+  }
+ ]
+}

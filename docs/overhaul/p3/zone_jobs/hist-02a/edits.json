@@ -1,0 +1,163 @@
+{
+ "lesson": "hist-02a",
+ "batch": "b2",
+ "base": "/home/claude/zt/b2/base_hist-02a.png",
+ "edits": [
+  {
+   "id": "C1",
+   "order": 1,
+   "zone": "1 陶弘景 그릇",
+   "crop": [
+    560,
+    160,
+    1020,
+    1300
+   ],
+   "region": [
+    [
+     65,
+     400,
+     835,
+     530
+    ],
+    [
+     60,
+     930,
+     270,
+     50
+    ],
+    [
+     320,
+     930,
+     280,
+     180
+    ],
+    [
+     590,
+     930,
+     420,
+     340
+    ],
+    [
+     280,
+     90,
+     260,
+     330
+    ],
+    [
+     480,
+     80,
+     340,
+     430
+    ]
+   ],
+   "new_objects": [
+    "초록 · 금 두 줄무늬 집 모양 큰 주전자(줄무늬 독 자리)",
+    "주전자 지붕을 뚫고 일어선 약초 + 금메달"
+   ],
+   "also": "뒤의 검은 큰 독 · 땅의 작은 집 주전자 · 큰 독 배지 지움, 별 단지가 주전자 지붕에 얹힘",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Remove the big round jar with wide red and black stripes, together with its round badge, and remove the tall black jar standing behind it, together with its round badge and its big gold star. In their place, in the same spot and at the same size as the big striped jar, stands one big teapot shaped like a little house: a tiled roof with an open hatch on top, a small door and windows on its body, a spout on its right side and a handle on its left side, right next to the potter. Its body is painted with two broad equal stripes, one green and one gold. 2) The leaves still pouring down from the two small jars above now fall as two streams, one green and one gold, that twist together and pour into the open hatch on the teapot's roof. The small dark jar with the star, which used to sit on the tall black jar, now sits tilted on the right edge of the teapot's roof, still tipped by its little white-robed figure. 3) A tall green herb pushes up through the teapot's roof, standing straight and proud, with a gold medal on a red ribbon hanging around its stem. 4) Remove the small house-shaped teapot on the ground; fill its place with the sandy path and the grass. Keep the potter, the pink flamingo, the white sheep with its rope, the red jar with its little leaf-clad figure, the blue thunder god at the right edge, the wall and the roof exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "if_user_keeps_red_black": "1)의 'one green and one gold'를 'the same broad red and black stripes'로, 2)의 'one green and one gold'를 'two streams of leaves'로 바꿈",
+   "check": "주전자가 독만큼 큼 · 손잡이가 왼쪽(도공 쪽) · 두 줄기가 지붕 구멍으로 · 별 단지가 지붕 위에 얹힘(떠 있지 않음) · 약초 메달 · 땅의 작은 주전자 없음",
+   "fallback": "주전자가 작으면 'as big as the striped jar was' 붙여 다시. 별 단지가 뜨면 'resting on the roof's right edge' 한 번"
+  },
+  {
+   "id": "C2",
+   "order": 2,
+   "zone": "1 두 단지",
+   "crop": [
+    560,
+    180,
+    860,
+    520
+   ],
+   "region": [
+    [
+     20,
+     40,
+     330,
+     410
+    ],
+    [
+     470,
+     40,
+     380,
+     460
+    ]
+   ],
+   "new_objects": [
+    "명의 인형의 청진기"
+   ],
+   "also": "붉은 단지 → 초록(배지 지움, 인형 신난 얼굴) · 검은 단지 → 금빛 별 모양(배지 지움). C1을 붙인 그림에서 자른다",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The small red jar on the left becomes a plain green jar of the same shape, with green herb leaves spilling from its mouth; remove the round badge from it. The little leaf-caped farmer figure tipping it keeps his pose and his hands on the jar, but now has a big excited grin. 2) The small dark jar on the right becomes a golden-yellow jar shaped like a big five-pointed star, tilted the same way and still pouring; the little white-robed doctor figure keeps his hands on it and now wears a stethoscope around his neck. Keep the two streams (green and gold), the house-shaped teapot with its herb and gold medal, the wall and the roof exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "if_user_keeps_red_black": "1) · 2)의 색 바꿈을 빼고 배지 지움 · 신난 얼굴 · 청진기만",
+   "check": "배지 둘 없음 · 초록 단지 · 별 모양 금빛 단지 · 인형 손이 단지에 · 청진기",
+   "fallback": "별 모양이 무너지면 'a round golden-yellow jar with a big white star painted on it'"
+  },
+  {
+   "id": "C3",
+   "order": 3,
+   "zone": "1 도공",
+   "crop": [
+    0,
+    380,
+    1000,
+    1156
+   ],
+   "region": [
+    [
+     100,
+     60,
+     480,
+     180
+    ],
+    [
+     100,
+     240,
+     620,
+     460
+    ],
+    [
+     100,
+     700,
+     560,
+     420
+    ]
+   ],
+   "new_objects": [
+    "안경 쓴 홍학 도공 한 몸(사람 도공 + 어깨 홍학 대신)",
+    "팔꿈치 뒤 아기 백일 사진"
+   ],
+   "also": "C2를 붙인 그림에서 자른다",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Replace the smiling man at the potter's wheel and the pink flamingo standing on his shoulder with one single character: a big pink flamingo potter with the same round glasses, wearing a clay-stained brown apron, sitting on the same stool at the same wheel, about as big as the man was. There is no human potter anymore. 2) One wing-hand of the flamingo potter stays on the clay pot on the wheel. Its other wing-hand reaches out and firmly grips the handle of the big house-shaped teapot beside it. 3) A small framed photo of a chubby smiling baby in a colorful hanbok (only a picture, no writing) is tucked behind the bend of that gripping wing, like a photo held under the elbow. Keep the wheel, the stool, the white sheep with its rope collar, the teapot and its stripes, the wall and the grass exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "사람 도공 흔적 없음 · 홍학이 사람만큼 큼 · 안경 · 날개가 주전자 손잡이를 쥠 · 사진이 팔꿈치 뒤",
+   "fallback": "홍학이 작아지면 'as big as the human potter was'를 앞에 두고 다시. 손잡이 접촉이 안 되면 3)을 빼고 2)만. 사진이 떠 보이면 사진은 빼고 대본만(백일은 트레이너로)"
+  },
+  {
+   "id": "C4",
+   "crop": [
+    0,
+    0,
+    1152,
+    1536
+   ],
+   "region": [
+    [
+     40,
+     30,
+     560,
+     430
+    ],
+    [
+     120,
+     400,
+     380,
+     1100
+    ]
+   ],
+   "order": "C3 뒤(홍학 도공이 생긴 그림에서 자른다)",
+   "note": "사용자 11-21 17:55 B2-4: 養性延命錄 「양성 키트 연」을 그림에 넣음",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the change listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Add one kite flying high in the upper left of the picture, in front of the roof: the kite is shaped like a white rapid test strip with two short red lines across its middle window (only two lines, no letters). Its long thin string runs down from the kite and is tied in a small knot around the pink flamingo potter's thin pink leg. Keep the flamingo potter with its round glasses and apron, its wings on the clay pot and on the house-shaped teapot handle, the baby photo, the sheep, the wheel, the roof and the wall exactly as they are. Draw every change in the same flat cartoon style with the same thick outlines. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture."
+  }
+ ]
+}

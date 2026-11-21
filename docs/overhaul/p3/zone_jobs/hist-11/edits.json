@@ -1,0 +1,33 @@
+{
+ "lesson": "hist-11",
+ "batch": "b5",
+ "base": "/home/claude/zt/b5/base_hist-11.png",
+ "edits": [
+  {
+   "id": "E1",
+   "zone": "1 新羅 醫學 교실",
+   "order": 1,
+   "crop": [
+    400,
+    360,
+    460,
+    420
+   ],
+   "region": [
+    [
+     100,
+     70,
+     260,
+     180
+    ]
+   ],
+   "new_objects": [
+    "펼친 책(잎 그림, 판 대신)",
+    "펼친 책(갑옷 새 그림, 판 대신)"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The green picture board with a big leaf that the teacher on the left side holds up becomes a large open book that he holds up in the same hands, in the same place and at about the same size, with its two pages facing the children. The same big green leaf is drawn across the open pages. Show the book's spine and the stacked page edges so it clearly reads as a book. His fingers clearly grip the book. 2) The picture board with a grey bird that the bearded teacher on the right side holds up also becomes a large open book held the same way, its pages facing the children. The same grey bird is drawn across the pages, and the bird now wears a small suit of armor plates on its chest and back. His fingers clearly grip the book. Keep the two teachers' faces, topknots and clothes, the three children sitting on the floor with the small papers in their hands, the wooden floor, the pillars and the roof exactly as they are. Draw every change in the same flat cartoon style with the same thick outlines. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "두 손가락이 책을 쥠 · 책등/종이 끝 · 새의 갑옷 · 책장에 글자 없음 · 아이 셋 그대로",
+   "fallback": "새의 갑옷이 안 보이면 같은 조각으로 2)의 마지막 문장만 다시. 책이 판으로 남으면 'thick book with many pages' 강조"
+  }
+ ]
+}

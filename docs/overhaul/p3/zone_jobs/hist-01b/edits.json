@@ -1,0 +1,215 @@
+{
+ "lesson": "hist-01b",
+ "batch": "b2",
+ "base": "images/lessons/hist-01b.webp",
+ "edits": [
+  {
+   "id": "B1",
+   "order": 1,
+   "zone": "1 張仲景 대청 왼쪽",
+   "crop": [
+    0,
+    300,
+    1100,
+    660
+   ],
+   "region": [
+    [
+     130,
+     40,
+     170,
+     150
+    ],
+    [
+     650,
+     190,
+     150,
+     160
+    ],
+    [
+     700,
+     535,
+     330,
+     100
+    ]
+   ],
+   "new_objects": [
+    "체크 표지 두꺼운 처방 책(쪽지 대신)",
+    "돌계단의 상한 생선 접시"
+   ],
+   "also": "육각 너트 지움",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Remove the grey hexagonal metal nut on top of the wooden ladder; the ladder's top step stays plain and empty. 2) The sheet of paper the seated doctor holds out to the patient in the plaid blanket becomes a thick book that he holds out in the same hand, gripped firmly. Its cover has the same brown plaid pattern as the patient's blanket, and a few small blank paper slips stick out between its pages. 3) On the long stone step in front of the hall there is now a small white plate with one spoiled fish on it: greyish-green, with a few wavy stink lines rising above it and one small fly. Keep the doctor's face, hat and robe, the patient, the desk with its gold medal, the folding screen, the ladder, the pillars and the floor exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "책이 손에 쥐어짐 · 표지가 담요와 같은 체크 · 생선이 「상한」 것으로 보임 · 너트 흔적 없음",
+   "fallback": "생선이 싱싱해 보이면 'clearly rotten: grey-green, bones showing at the tail' 한 번. 책이 떠 있으면 2)만 다시"
+  },
+  {
+   "id": "B2",
+   "order": 2,
+   "zone": "1 대청 오른쪽",
+   "crop": [
+    1250,
+    380,
+    520,
+    580
+   ],
+   "region": [
+    [
+     75,
+     40,
+     130,
+     530
+    ],
+    [
+     180,
+     145,
+     240,
+     240
+    ]
+   ],
+   "new_objects": [
+    "금 궤짝 안 칸막이(세 칸)"
+   ],
+   "also": "삼지창 지움",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Remove the silver trident leaning against the pillar completely; fill its place with the pillar, the wooden floor and the plain yard behind it. 2) Inside the open golden chest, two thin golden dividers now split the inside into three equal compartments, clearly visible from the front. Keep the chest's lid, front panels, lock and color, the pillar, the floor and the pink azalea bushes exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "궤짝 안 세 칸이 보임 · 삼지창 자루 흔적 없음",
+   "fallback": "칸이 안 보이면 'seen slightly from above so the three compartments are clear' 한 번"
+  },
+  {
+   "id": "B3",
+   "order": 3,
+   "zone": "2 華佗 · 짐승",
+   "crop": [
+    280,
+    900,
+    1100,
+    600
+   ],
+   "region": [
+    [
+     40,
+     290,
+     170,
+     190
+    ],
+    [
+     420,
+     385,
+     265,
+     190
+    ],
+    [
+     420,
+     310,
+     80,
+     80
+    ],
+    [
+     715,
+     295,
+     175,
+     270
+    ]
+   ],
+   "new_objects": [
+    "華佗 무릎 앞에 펴 든 파란 표지 책(中藏經)"
+   ],
+   "also": "오징어 · 뒷모습 원숭이 지움(짐승 다섯 남음)",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Remove the orange squid completely, and remove the brown monkey in the lower middle that is seen from behind with both arms raised; fill their places with the same sandy yard. Keep the tiger, the deer, the bear, the other monkey and the white crane exactly as they are, so five animals remain. 2) The doctor with the big red flower on his chest: in the hand that held the wooden stirring stick there is now a small open book with blue covers, held low in front of his knee and gripped firmly, as if he is reading a recipe; his other hand keeps adding herbs to the boiling pot. Keep his face, cap, clothes and the red flower, the steaming pot over the fire, the sleeping patient and the knife exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "짐승 다섯(호랑이 · 사슴 · 곰 · 원숭이 · 학) · 책이 손에 · 붉은 꽃 가려지지 않음",
+   "fallback": "책이 꽃을 가리면 'held lower, at his knee'로 다시. 짐승 수가 틀리면 지우기만 다시"
+  },
+  {
+   "id": "B4",
+   "order": 4,
+   "zone": "3 王叔和 맥",
+   "crop": [
+    1450,
+    880,
+    700,
+    620
+   ],
+   "region": [
+    [
+     20,
+     335,
+     270,
+     285
+    ],
+    [
+     370,
+     420,
+     300,
+     180
+    ],
+    [
+     240,
+     200,
+     330,
+     230
+    ]
+   ],
+   "new_objects": [
+    "王叔和 무릎 위 펼친 책(땅에서 옮김)"
+   ],
+   "also": "이층 버스 + 사과 · 땅의 메달 지움",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Remove the red double-decker bus and the red apple on top of it completely; fill with the sandy ground. 2) Remove the open book and the gold medal lying on the ground; fill with sandy ground. 3) The same open book now lies open on the big crowned man's lap. The child's bare forearm rests across its open pages, and the man's fingers still press the child's wrist, as before. Keep the man's face, crown, clothes and pose, the child's face and pose, the wooden boards and the pink azaleas exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "책이 무릎 위 · 아이 팔이 책장 위 · 손가락이 손목에 · 버스 · 메달 흔적 없음",
+   "fallback": "아이 팔이 책에서 떨어지면 3)만 다시"
+  },
+  {
+   "id": "B5",
+   "order": 5,
+   "zone": "3 分卷 탁자",
+   "crop": [
+    2140,
+    820,
+    612,
+    640
+   ],
+   "region": [
+    [
+     180,
+     10,
+     350,
+     340
+    ],
+    [
+     90,
+     290,
+     450,
+     160
+    ]
+   ],
+   "new_objects": [
+    "둘째 컷 王叔和의 금관"
+   ],
+   "also": "노란 저고리 → 흰 저고리 · 묶음 표지 체크 / 금빛 · 붉은 끈 끊김",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The young man in the yellow jacket becomes the same man as the big crowned man on the left: give him the same small gold crown with a red jewel, the same round face with rosy cheeks and the same white jacket with a dark collar. He stays in the same place behind the table. 2) Instead of tying the books, he now grabs the two tied stacks of books, one in each hand, and pulls them apart to the left and to the right; the red ribbon that joined them snaps in the middle and its two loose ends fly up. The top cover of the left stack is brown plaid, and the top cover of the right stack is shiny gold. Keep the table, the pink azaleas and the background exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "금관 · 흰 저고리 · 두 손이 각 묶음을 쥐고 벌림 · 끈이 끊김 · 왼쪽 체크 / 오른쪽 금빛",
+   "fallback": "얼굴이 달라지면 금관 · 흰 저고리만 남겨도 됨(같은 사람 표지는 금관). 끈이 안 끊기면 2)만 다시"
+  },
+  {
+   "id": "B6",
+   "order": 6,
+   "zone": "4 葛洪",
+   "crop": [
+    2300,
+    240,
+    340,
+    340
+   ],
+   "region": [
+    [
+     110,
+     80,
+     130,
+     190
+    ]
+   ],
+   "new_objects": [],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Remove the gold medal and its ribbon hanging from the orange pouch; fill with the hermit's vine-wrapped clothes and the pink azaleas behind. 2) Make the flap of the orange pouch plain orange with no marks or scribbles on it. Keep the hermit's arm, the log he hugs, the vines wrapped around him and the pouch's shape exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "주머니 덮개 민무늬 · 메달 없음",
+   "fallback": "없음"
+  }
+ ]
+}

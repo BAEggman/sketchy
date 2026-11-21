@@ -1,0 +1,110 @@
+{
+ "lesson": "hist-03a",
+ "batch": "b3",
+ "base": "images/lessons/hist-03a.webp",
+ "edits": [
+  {
+   "id": "03a-E1",
+   "zone": "1 孫思邈",
+   "order": 1,
+   "crop": [
+    300,
+    420,
+    600,
+    640
+   ],
+   "region": [
+    [
+     120,
+     180,
+     280,
+     260
+    ],
+    [
+     340,
+     410,
+     150,
+     220
+    ]
+   ],
+   "new_objects": [
+    "두꺼운 금빛 표지 책(아이 두 손)"
+   ],
+   "moved": [
+    "금메달: 낙타 목 → 금빛 책"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The laughing boy riding the camel lets go of the reins and now holds a thick, closed book with a shiny gold cover in both hands in front of his chest. His fingers clearly grip the book. The reins hang loosely on the camel's neck. 2) Remove the blue ribbon and the gold medal from the camel's neck. Hang the same gold medal on a short blue ribbon from the bottom edge of the gold book, so it dangles just below the book. Keep the camel's face, body and pose, the sand tray, the boy's face, hair and yellow shirt, and the painted human body charts on the easel behind him exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "두 손이 책을 쥠 · 메달이 책에 매달림(낙타 목에 안 남음) · 책 표지에 글자 없음",
+   "fallback": "메달이 낙타에 남으면 같은 조각으로 2)만 다시. 책이 손에서 뜨면 'holds it against his chest' 로 고쳐 1)만"
+  },
+  {
+   "id": "03a-E2",
+   "zone": "2 阿是穴",
+   "order": 2,
+   "crop": [
+    880,
+    380,
+    460,
+    600
+   ],
+   "region": [
+    [
+     115,
+     175,
+     90,
+     70
+    ],
+    [
+     220,
+     190,
+     190,
+     190
+    ]
+   ],
+   "new_objects": [],
+   "also": "노인 입 「아!」 · 젊은이 옷 겨자색(색만)",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The old man whose chest is being pressed now opens his mouth wide as if saying \"Ah!\", with a relieved, pleased face. 2) Change the young man's brown shirt to a mustard-yellow shirt (the same warm yellow as a mustard bottle); keep its shape and folds. Keep the young man's finger pressing the glowing red spot on the old man's chest, both faces otherwise, their hair, the old man's grey robe and the background exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "손가락이 붉은 점에 그대로 · 옷색만 바뀜 · 노인 입이 벌어짐",
+   "fallback": "옷색이 아이와 다르면 대본에서 「같은 노란 옷」 대신 「노란 옷」으로만 부름(편집 다시 안 함)"
+  },
+  {
+   "id": "03a-E3",
+   "zone": "3 蘇敬",
+   "order": 3,
+   "crop": [
+    1950,
+    450,
+    700,
+    1000
+   ],
+   "region": [
+    [
+     330,
+     60,
+     290,
+     410
+    ],
+    [
+     245,
+     395,
+     110,
+     95
+    ],
+    [
+     35,
+     410,
+     230,
+     560
+    ]
+   ],
+   "new_objects": [],
+   "moved": [
+    "금메달: 탁자 모서리 → 책의 붉은 리본"
+   ],
+   "also": "소의 다른 팔 자세 · 봉인 민무늬",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The cow wearing the black official's hat keeps saluting with the same raised hand. His other arm, which is now hidden behind his back, comes forward, and that hand rests flat on top of the blue book with the red ribbon, pressing down on it as if swearing an oath on the book. 2) Make the red wax seal on the book completely plain and smooth, with no marks or symbols on it. 3) The gold medal now hangs from the book: its red ribbon is tied to the book's red ribbon, and the medal dangles over the front edge of the table. Keep the cow's face, horns, salute, hat and grey robe, the herb picture scroll, the carved table, the shelves and the candies on the floor exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "손바닥이 책 표지에 닿음 · 경례 손 그대로 · 봉인에 무늬 없음 · 메달 리본이 책 리본에서 내려옴",
+   "fallback": "손이 책에 안 닿으면 같은 조각으로 'His free hand lies flat on the book cover' 한 줄만 다시. 그래도 안 되면 그 손에 책 모서리를 쥐게(grips the corner of the book)"
+  }
+ ]
+}

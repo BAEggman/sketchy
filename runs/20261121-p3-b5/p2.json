@@ -1,0 +1,1075 @@
+{
+ "perspective": "사건 먼저 — 인물마다 손이 자기 책 · 사물(기관이면 그 기관을 세우거나 바꾸는 물건)에 닿는 큰 동작 하나. 숫자 부호와 사건에 안 닿는 소품은 걷어낸다. 사람 없는 기관 간판 · 건물은 「기관 표지」로 두고 손 조건을 사람 있는 정거장에 건다.",
+ "lessons": {
+  "hist-11": {
+   "base_prep": "R0: Gemini 새 대화(Neon 높음 · 16:9)에 images/lessons/hist-11.webp를 붙이고 「Redraw this exact cartoon illustration at full high resolution, as a faithful clean copy … Do not add, remove, move or change anything. No text … same flat cartoon style」 → 2752×1536 /home/claude/zt/b5/base_hist-11.png. 이 안 작성 때 base는 없음(zt/b5의 R0_hist-11.jpg는 2048×1144로 원본과 평균 화소차 <1 — 다시 그린 것이 아님). 사람 · 소품 · 색이 바뀌면 버리고 PIL LANCZOS ×1.34375 확대본을 바탕으로. 아래 좌표는 그 확대본(/tmp/up)에서 직접 잼 — R0 뒤 ±40px 안에서 다시 맞춘다.",
+   "scope": {
+    "in": [
+     "新羅 醫學 692 · 醫博士 2 · 本草經 · 甲乙經",
+     "藥典→保命司→藥典",
+     "濟危寶 963",
+     "太醫監→(太醫院)→典醫寺 1372",
+     "惠民局 1112→惠民典藥局 1391",
+     "濟生院 1397 鄕藥 수납",
+     "典醫寺→典醫監",
+     "內藥房→內醫院 1443"
+    ],
+    "trainer": [
+     "연도 전부(692 · 963 · 1112 · 1372 · 1391 · 1397 · 1443) — 그림이 지지 않으므로 사실 칸 · 표로",
+     "太醫院 중간 단계 — 그림에 없음, 표의 화살표로",
+     "食醫 배치(문제집 875–877) — 사건이 없어 표로",
+     "교재 425 南北朝 · 隋唐醫學 수용 · 僧侶醫學 — 기관이 아니라 hist-12 틀로 넘김"
+    ]
+   },
+   "keep": [
+    {
+     "what": "첨성대 · 청자 · 백자 달항아리",
+     "why": "터 표지(예약표 242)"
+    },
+    {
+     "what": "보물 상자 쌀을 퍼 누더기 노인 그릇에 담는 사내",
+     "why": "손이 쌀 · 그릇에 닿는 큰 동작 = 濟危寶의 구휼이 사건으로 섬"
+    },
+    {
+     "what": "걸상 위 일꾼이 약사발 간판을 덧닮",
+     "why": "惠民局→惠民典藥局을 손이 바꾸는 유일한 컷 — 이 과 사건의 본"
+    },
+    {
+     "what": "약초 바구니 든 농부 둘 · 구명 튜브 간판",
+     "why": "鄕藥 수납이 손에서 일어남. 튜브는 상한 문제로 needs_user_ok"
+    },
+    {
+     "what": "사람 없는 간판들(약사발 회전 · 방패 · 눈 ↔ 석탑 · 작은 문 → 큰 집)",
+     "why": "예약표 물건. 사람 없는 기관 표지로 두고 사건 수에 넣지 않음"
+    }
+   ],
+   "replace": [
+    {
+     "old": "두 선생이 든 그림판(잎 · 새)",
+     "new": "같은 손 · 같은 자리에 펼친 큰 책 두 권, 펼친 면에 같은 잎 · 같은 새",
+     "fact": "新羅 醫學 교재 本草經 · 甲乙經",
+     "ref": "문제집 869–871",
+     "why": "판 → 책: 醫博士의 손이 교재(책)에 닿음. 「선생 둘」은 사실의 수(2인)"
+    }
+   ],
+   "add": [],
+   "lineage": "本草經(hist-01a · 02a) · 甲乙經 皇甫謐(hist-07a) 펼친 책의 잎 · 새가 그대로 이음. 濟生院(1397) 농부 바구니 ↔ hist-12 약초(鄕藥 사다리, 교재 427–434) ↔ hist-14 濟生醫院(서양 건물 · 벚꽃으로 가름). 보물 상자 寶 = hist-05a 開寶와 같은 글자 뜻.",
+   "edits": [
+    {
+     "zone": 1,
+     "crop": [
+      380,
+      360,
+      500,
+      440
+     ],
+     "round": 1,
+     "new_objects": [
+      "잎 그림이 펼쳐진 큰 책(판 대신)",
+      "새 그림이 펼쳐진 큰 책(판 대신)"
+     ],
+     "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing, in the same flat cartoon style. 1) The teacher on the left holds up, in the same hands and in the same place, a large open book instead of the green picture board. The same big green leaf is drawn across its two open pages. His fingers clearly grip the book's edges. 2) The teacher on the right holds up, in the same hands and in the same place, a large open book instead of the board with the bird. The same grey bird is drawn across its two open pages. His fingers clearly grip the book. Keep the three children sitting on the ground, the papers in their hands, the open classroom, the roof, the posts and the green vase at the bottom exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+     "check": "두 책이 손에 쥐어짐 · 잎 / 새 그림 그대로 · 판 흔적 없음",
+     "fallback": "책이 판처럼 납작하면 'with a thick visible page block and a spine in the middle' 덧붙여 한 번"
+    }
+   ],
+   "stations": [
+    {
+     "n": 0,
+     "kind": "frame",
+     "obj": "첨성대 → 청자 → 백자 달항아리와 궁궐 문, 간판 가게 거리",
+     "fact": "新羅 → 高麗 → 朝鮮 의료기관, 이름이 바뀐 간판",
+     "hook": "첨성대 = 新羅 · 청자 = 高麗 · 백자 = 朝鮮 · 간판 그림 = 기관 이름",
+     "say": "간판 가게 거리. 첨성대 쪽은 신라, 청자 쪽은 고려, 백자 달항아리와 궁궐 문 쪽은 조선. 기관은 간판으로 나오고, 간판을 바꾸는 손이 그 기관의 사건이다.",
+     "tts": "간판 가게 거리. 첨성대 쪽은 신라, 청자 쪽은 고려, 백자 달항아리와 궁궐 문 쪽은 조선. 기관은 간판으로 나오고, 간판을 바꾸는 손이 그 기관의 사건이다.",
+     "src": [
+      "문제집 844–919(참고 의학사) — 교재 423–448에는 기관 없음"
+     ]
+    },
+    {
+     "n": 1,
+     "kind": "person",
+     "obj": "열린 교실, 두 선생이 잎 책 · 새 책을 펼쳐 들고 아이들을 가르침",
+     "fact": "新羅 醫學(효소왕 692) · 醫博士 2인 · 本草經 · 甲乙經",
+     "hook": "교실 = 醫學 · 선생 둘 = 醫博士 2인 · 잎 책 = 本草經 · 새(乙) 책 = 甲乙經",
+     "say": "선생 둘이 책을 펼쳐 든다. 잎 그림 책은 本草經, 새 그림 책은 甲乙經 — 새 을(乙). 新羅의 醫學, 醫博士 둘이 이 두 책으로 가르쳤다.",
+     "tts": "선생 둘이 책을 펼쳐 든다. 잎 그림 책은 본초경, 새 그림 책은 갑을경, 새 을. 신라의 의학, 의박사 둘이 이 두 책으로 가르쳤다.",
+     "src": [
+      "문제집 869–871"
+     ]
+    },
+    {
+     "n": 2,
+     "kind": "place",
+     "obj": "왼쪽 가게, 갈고리에 걸려 빙글 도는 약사발 간판 · 곁의 방패",
+     "fact": "新羅 藥典 → 경덕왕 保命司 → 다시 藥典",
+     "hook": "약사발 = 藥典 · 방패 = 保命 · 빙글 = 바뀌었다 되돌아옴",
+     "say": "약사발 간판이 빙글 돈다. 藥典이 방패의 保命司가 되었다가 다시 藥典으로 돌아왔다.",
+     "tts": "약사발 간판이 빙글 돈다. 약전이 방패의 보명사가 되었다가 다시 약전으로 돌아왔다.",
+     "src": [
+      "문제집 851–853"
+     ]
+    },
+    {
+     "n": 3,
+     "kind": "person",
+     "obj": "보물 상자의 쌀을 퍼서 누더기 노인 그릇에 담아 주는 사내",
+     "fact": "高麗 濟危寶(광종 963) — 빈민 구휼",
+     "hook": "보물(寶) 상자 · 위태로운(危) 사람을 건짐(濟)",
+     "say": "청자 쪽, 보물 상자의 쌀을 퍼서 위태로운 노인을 건진다 — 濟危寶. 高麗 광종 때의 빈민 구휼 기관.",
+     "tts": "청자 쪽, 보물 상자의 쌀을 퍼서 위태로운 노인을 건진다, 제위보. 고려 광종 때의 빈민 구휼 기관.",
+     "src": [
+      "문제집 881–883"
+     ]
+    },
+    {
+     "n": 4,
+     "kind": "place",
+     "obj": "가운데 집, 걸린 절 석탑 간판 · 땅에 기대 놓은 큰 눈 옛 간판",
+     "fact": "高麗 太醫監 → 太醫院 → 典醫寺(공민왕 1372)",
+     "hook": "눈(監) 내려놓고 → 석탑(寺) 걺",
+     "say": "큰 눈 간판은 땅에 내려지고 석탑 간판이 걸렸다. 太醫監이 太醫院을 거쳐 典醫寺가 되었다.",
+     "tts": "큰 눈 간판은 땅에 내려지고 석탑 간판이 걸렸다. 태의감이 태의원을 거쳐 전의사가 되었다.",
+     "src": [
+      "문제집 866–868 · 875–877"
+     ]
+    },
+    {
+     "n": 5,
+     "kind": "person",
+     "obj": "선물 손 간판 옆에 걸상 위 일꾼이 약사발 간판을 덧닮",
+     "fact": "高麗 惠民局(예종 1112) → 惠民典藥局(공양왕 1391)",
+     "hook": "선물 손 = 惠民 · 덧다는 약사발 = 典藥",
+     "say": "걸상에 올라선 일꾼이 선물 손 간판 옆에 약사발 간판을 덧단다. 惠民局에 典藥이 붙어 惠民典藥局.",
+     "tts": "걸상에 올라선 일꾼이 선물 손 간판 옆에 약사발 간판을 덧단다. 혜민국에 전약이 붙어 혜민전약국.",
+     "src": [
+      "문제집 872–874"
+     ]
+    },
+    {
+     "n": 6,
+     "kind": "person",
+     "obj": "약초 바구니를 든 농부 둘이 구명 튜브 간판 집으로 들어감",
+     "fact": "朝鮮 濟生院(태조 1397) — 鄕藥 수납",
+     "hook": "구명 튜브 = 건져(濟) 살림(生) · 시골 약초 바구니 = 鄕藥",
+     "say": "백자 쪽, 농부 둘이 약초 바구니를 구명 튜브 집으로 나른다. 朝鮮 태조의 濟生院, 시골 약재를 거두었다.",
+     "tts": "백자 쪽, 농부 둘이 약초 바구니를 구명 튜브 집으로 나른다. 조선 태조의 제생원, 시골 약재를 거두었다.",
+     "src": [
+      "문제집 911–913"
+     ]
+    },
+    {
+     "n": 7,
+     "kind": "place",
+     "obj": "오른쪽 가게, 걸린 큰 눈 간판 · 땅에 기대 놓은 석탑 옛 간판",
+     "fact": "高麗 典醫寺 → 朝鮮 典醫監(태조)",
+     "hook": "4번의 거울 짝 — 석탑 내려놓고 → 눈 다시 걺",
+     "say": "가운데 가게와 거꾸로다. 석탑 간판이 내려지고 눈 간판이 걸렸다. 典醫寺가 朝鮮에서 典醫監이 되었다.",
+     "tts": "가운데 가게와 거꾸로다. 석탑 간판이 내려지고 눈 간판이 걸렸다. 전의사가 조선에서 전의감이 되었다.",
+     "src": [
+      "문제집 914–916"
+     ]
+    },
+    {
+     "n": 8,
+     "kind": "place",
+     "obj": "궁궐 문 위의 큰 집 간판 · 그 아래 비스듬히 매달린 작은 문 간판",
+     "fact": "朝鮮 內藥房(태종) → 內醫院(세종 1443)",
+     "hook": "궁궐 안(內) · 작은 문(房) → 큰 집(院)",
+     "say": "궁궐 문, 기운 작은 문 간판 위에 큰 집 간판. 궁 안의 內藥房이 세종 때 內醫院이 되었다.",
+     "tts": "궁궐 문, 기운 작은 문 간판 위에 큰 집 간판. 궁 안의 내약방이 세종 때 내의원이 되었다.",
+     "src": [
+      "문제집 878–880"
+     ]
+    },
+    {
+     "n": 9,
+     "kind": "review",
+     "obj": "첨성대 → 청자 → 백자, 거리 한 바퀴",
+     "fact": "新羅 2 · 高麗 3 · 朝鮮 3 기관",
+     "hook": "교실 · 약사발 / 쌀 · 석탑 · 덧단 약사발 / 튜브 · 눈 · 큰 집",
+     "say": "신라: 책 든 교실, 도는 약사발. 고려: 보물 상자 쌀, 눈 내리고 석탑, 덧단 약사발. 조선: 구명 튜브, 석탑 내리고 눈, 작은 문에서 큰 집.",
+     "tts": "신라, 책 든 교실, 도는 약사발. 고려, 보물 상자 쌀, 눈 내리고 석탑, 덧단 약사발. 조선, 구명 튜브, 석탑 내리고 눈, 작은 문에서 큰 집.",
+     "src": [
+      "문제집 851–916"
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "q": "교실의 두 선생이 펼쳐 든 책의 그림 둘 — 각각 어떤 교재인가?",
+     "a": "잎 = 本草經, 새(乙) = 甲乙經 — 新羅 醫學의 醫博士 2인"
+    },
+    {
+     "q": "보물 상자의 쌀을 노인에게 퍼 주는 기관은?",
+     "a": "高麗 濟危寶(광종 963)"
+    },
+    {
+     "q": "걸상 위 일꾼이 선물 손 간판 옆에 다는 것과 바뀐 이름은?",
+     "a": "약사발(典藥) — 惠民局 → 惠民典藥局"
+    },
+    {
+     "q": "가운데 가게와 오른쪽 가게에서 땅에 내려놓은 간판은 각각 무엇이고 무엇이 걸렸나?",
+     "a": "가운데: 눈 내려놓고 석탑 = 太醫監 → 典醫寺 / 오른쪽: 석탑 내려놓고 눈 = 典醫寺 → 典醫監"
+    },
+    {
+     "q": "궁궐 문의 작은 문 간판과 큰 집 간판 — 처음 이름과 바뀐 이름은?",
+     "a": "內藥房 → 內醫院"
+    }
+   ],
+   "risks": [
+    "사람 없는 간판 정거장이 넷(2 · 4 · 7 · 8) — 이 안은 기관 과의 「손」 조건을 사람 있는 넷(1 · 3 · 5 · 6)에만 걸고, 간판은 기관 이름 표지로 둔다. 심사가 간판에도 손을 요구하면 #8에 사람 넣기가 필요하나 궁궐 문 아래가 가게 지붕이라 빈자리가 없음",
+    "책 두 권이 판처럼 납작하게 나올 수 있음(fallback 있음)",
+    "太醫院 중간 단계는 그림에 없음 — 말로만"
+   ],
+   "needs_user_ok": [
+    "구명 튜브 = 濟 네 번째 사용(hist-04 · 11 · 14 · new-etc-04, 예약표 164 · 250 · 268 · 722) — 「같은 글자 뜻 공용」 예외로 둘지",
+    "典醫寺 독음: 장부 reading 「전의시」 ↔ 지금 tts · 석탑 단서 「전의사(절 사)」 — 이 안은 지금 tts를 그대로 두었음(판정 아님)",
+    "#1 대본 「그림판 → 책」은 예약표 밖이지만 obj 글이 바뀜 — 확인만"
+   ],
+   "self_score": "사실 18/20(모두 문제집 줄) · 단서 22/30 · 손 14/20(사람 넷 ✓, 간판 넷 사람 없음) · 범위 · 혼동 8/10 · 소품 10/10(새 물건 2) · 보존 10/10 ≈ 82"
+  },
+  "hist-12": {
+   "base_prep": "R0: Gemini 새 대화(Neon 높음 · 16:9)에 images/lessons/hist-12.webp를 붙이고 「Redraw this exact cartoon illustration at full high resolution, as a faithful clean copy … Do not add, remove, move or change anything. No text … same flat cartoon style」 → 2752×1536 /home/claude/zt/b5/base_hist-12.png. 이 안 작성 때 base는 없음(zt/b5의 R0_hist-12.jpg는 2048×1144로 원본과 평균 화소차 <1 — 다시 그린 것이 아님). 사람 · 소품 · 색이 바뀌면 버리고 PIL LANCZOS ×1.34375 확대본을 바탕으로. 아래 좌표는 그 확대본(/tmp/up)에서 직접 잼 — R0 뒤 ±40px 안에서 다시 맞춘다.",
+   "scope": {
+    "in": [
+     "百濟新集方 — 醫心方(984)에 인용",
+     "金永碩 濟衆立效方",
+     "최종준 新集御醫撮要方",
+     "鄕藥救急方 저자 미상 · 現存 最古",
+     "鄭道傳 診脈圖訣",
+     "鄕藥集成方(세종)",
+     "醫方類聚(세종)"
+    ],
+    "trainer": [
+     "新羅法師方 — 교재 3795에 이름은 있으나 「醫心方 인용」은 교재 · 문제집에 없음(확인 필요) → 그림에서 뺌, 사실 칸에 이름만",
+     "교재 431 方書 다섯(三和子鄕藥方 · 鄕藥古方 · 東人經驗方 · 鄕藥惠民經驗方 · 鄕藥簡易方) — 이름 목록이라 표로",
+     "교재 424–426 桓雄 · 隋唐醫學 수용 · 僧侶醫學 · 印度醫說 — 사건이 없어 표로",
+     "鄕藥救急方 연대(문제집 1127 해설) · 醫心方 984 연도"
+    ]
+   },
+   "keep": [
+    {
+     "what": "청자 · 백자 달항아리",
+     "why": "터 표지"
+    },
+    {
+     "what": "김 흔드는 상인 · 펄쩍 뛰는 사람",
+     "why": "김 = 金 소리 · 펄쩍 = 立效(예약표)"
+    },
+    {
+     "what": "붉은 옷 의원의 큰 집게 · 약초 바구니",
+     "why": "撮(집음) · 御醫 · 新集 바구니(예약표)"
+    },
+    {
+     "what": "주인 없는 좌판의 구급상자",
+     "why": "주인 없음 = 저자 미상 — 손을 붙이지 않는 것이 단서"
+    },
+    {
+     "what": "팔씨름 「도전」",
+     "why": "鄭道傳 통음(4-1 ✓)"
+    },
+    {
+     "what": "약초 탑 · 종류별 무더기 짓는 여인",
+     "why": "集成 · 類聚 뜻(예약표). 여인 손이 약초(사물)에 닿아 「칸칸이 갈라 담음」 고정 동작"
+    }
+   ],
+   "replace": [
+    {
+     "old": "상인 손의 찻잔",
+     "new": "상인이 같은 손으로 펼친 책을 내밂 · 찻잔은 뛰는 사람의 치켜든 주먹으로 옮김(빈 잔)",
+     "fact": "김영석 『濟衆立效方』",
+     "ref": "교재 427 · 문제집 1124 · 1287",
+     "why": "저자 손이 책에 닿고, 「마시자 곧 펄쩍」(예약표 글)이 그림에 생김"
+    },
+    {
+     "old": "탁자 위 물결 줄 종이",
+     "new": "심판이 한 손에 펼쳐 든 물결 그림 책, 다른 손 손끝은 선수 손목 안쪽",
+     "fact": "鄭道傳 『診脈圖訣』",
+     "ref": "교재 430",
+     "why": "종이는 책이 아님 · 어깨 짚기 → 손목 = 診脈"
+    },
+    {
+     "old": "기둥에 매단 금메달",
+     "new": "구급상자를 덮은 거미줄 · 먼지(아주 오래됨)",
+     "fact": "『鄕藥救急方』 現存 最古",
+     "ref": "교재 428–429",
+     "why": "금메달은 「최초」 공용 — 교재 글자 「現存 最古」와 가름(RUBRIC 4-2). needs_user_ok"
+    }
+   ],
+   "add": [
+    {
+     "obj": "붉은 옷 의원의 왼손이 쟁반처럼 받쳐 든 펼친 책(집게로 집은 약초를 그 위에 놓음)",
+     "fact": "최종준 『新集御醫撮要方』",
+     "ref": "교재 427",
+     "zone": 2
+    },
+    {
+     "obj": "빈 땅의 파도무늬 표지 큰 책 + 그 사이에 끼워진 낡은 얇은 책 한 권",
+     "fact": "『百濟新集方』 — 일본 『醫心方』에 인용",
+     "ref": "교재 3795(서명) · 문제집 863–865",
+     "zone": 5
+    }
+   ],
+   "lineage": "鄕藥 사다리(교재 427–434): 구급상자(高麗 · 最古) → 약초 탑(集成方) → 무더기(類聚)를 hist-11 濟生院 농부 바구니와 같은 약초로 이음. 百濟新集方 → 鍼灸 사다리(3795)의 첫 칸으로 hist-13 許任에 넘김. 撮要: 최종준 撮要方 ↔ 이규준 醫方撮要(445)는 hist-13 #7 함정 칸에서.",
+   "edits": [
+    {
+     "zone": 1,
+     "crop": [
+      380,
+      180,
+      680,
+      620
+     ],
+     "round": 1,
+     "new_objects": [
+      "상인이 내미는 펼친 책"
+     ],
+     "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing, in the same flat cartoon style. 1) In the merchant's outstretched hand, replace the small tea cup with a small open book that he holds out toward the jumping man, his fingers gripping its edge. 2) The jumping man's raised fist on the side of the merchant now holds that small tea cup, tipped over and empty, as if he just drank it. Keep the merchant's other hand waving the dried seaweed sheets above his head, the seaweed pile on the stall, the jumping man's joyful face, his leap and the motion lines, the thatched stall and the green hills exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+     "check": "책이 상인 손에 · 잔이 뛰는 사람 주먹에 · 김 그대로",
+     "fallback": "잔 옮기기가 안 되면 2)를 빼고 책만"
+    },
+    {
+     "zone": 2,
+     "crop": [
+      980,
+      550,
+      480,
+      610
+     ],
+     "round": 1,
+     "new_objects": [
+      "의원 왼손의 펼친 책"
+     ],
+     "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing, in the same flat cartoon style. 1) The kneeling doctor in the red robe now holds a large open book flat in his free hand, like a tray, close to the herb pile. 2) With the big tongs in his other hand he lays a picked green herb onto the open pages of that book. Keep his face, topknot, red robe, the big tongs, the herb pile on the ground and the woven basket beside him exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+     "check": "책이 손에 받쳐짐 · 집게 끝 약초가 책 위 · 바구니 그대로",
+     "fallback": "책이 땅에 떨어지면 'held up at chest height' 로 한 번"
+    },
+    {
+     "zone": 3,
+     "crop": [
+      1500,
+      560,
+      780,
+      540
+     ],
+     "round": 1,
+     "new_objects": [
+      "심판 손의 물결 그림 책"
+     ],
+     "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing, in the same flat cartoon style. 1) Remove the sheet of paper with the colored wavy lines from the table top; fill its place with the same wooden table top. 2) The grey-robed referee now holds in one hand a large open book; its two open pages show the same colored wavy lines. 3) His other hand moves from the wrestler's shoulder down to that wrestler's wrist on the table, two fingertips resting on the inside of the wrist as if feeling a pulse. Keep both arm wrestlers, their clasped hands, faces, headband, stools and the table exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+     "check": "종이 없음 · 책이 심판 손에 · 손끝이 손목",
+     "fallback": "손목이 엇나가면 3)을 빼고 책만(손은 어깨 그대로, 診脈은 대본으로)"
+    },
+    {
+     "zone": 4,
+     "crop": [
+      30,
+      760,
+      780,
+      720
+     ],
+     "round": 1,
+     "new_objects": [
+      "구급상자 위 거미줄"
+     ],
+     "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing, in the same flat cartoon style. 1) Remove the gold medal and its ribbon from the stall's post; fill the place by continuing the wooden post and the ground behind it. 2) Make the first-aid box with the red cross look very old: thick grey cobwebs over its corners and lid, a layer of dust, faded wood. Keep the herbs spilling out of it, the red cross, the empty stall, the thatched roof and the table exactly as they are. The stall stays empty, with no person. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+     "check": "메달 흔적 없음 · 거미줄이 상자에 · 사람 없음",
+     "fallback": "거미줄이 안 보이면 'big obvious cobwebs' 로 한 번"
+    },
+    {
+     "zone": 5,
+     "crop": [
+      780,
+      1120,
+      780,
+      416
+     ],
+     "round": 1,
+     "new_objects": [
+      "파도무늬 표지 큰 책",
+      "그 사이에 끼워진 낡은 얇은 책"
+     ],
+     "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing, in the same flat cartoon style. On the empty bare ground in the middle of this picture, put one large thick closed book lying flat. Its cover has a blue pattern of ocean waves (only a pattern, no writing). Between its pages one thin, very old, worn brown book is tucked in, sticking out halfway. Nobody holds them. Keep the ground, the edge of the herb pile and the basket at the top exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+     "check": "얇은 책 한 권이 끼워져 반쯤 나옴 · 글자 없음. Z2를 붙인 그림에서 자른다(y 1120–1160 겹침)",
+     "fallback": "얇은 책이 둘 이상 나오면 'only one' 강조해 한 번"
+    }
+   ],
+   "stations": [
+    {
+     "n": 0,
+     "kind": "frame",
+     "obj": "시골 장터 약초 좌판 — 청자 쪽 · 백자 쪽",
+     "fact": "高麗 → 朝鮮 세종, 우리 약재(鄕藥) 의서",
+     "hook": "시골(鄕) 장터 약초 = 鄕藥 · 청자 = 高麗 · 백자 = 朝鮮",
+     "say": "시골 장터 약초 좌판. 청자 쪽은 高麗, 백자 쪽은 朝鮮 세종. 저마다 제 책을 손에 들고 한 가지 동작을 한다.",
+     "tts": "시골 장터 약초 좌판. 청자 쪽은 고려, 백자 쪽은 조선 세종. 저마다 제 책을 손에 들고 한 가지 동작을 한다.",
+     "src": [
+      "교재 423–434"
+     ]
+    },
+    {
+     "n": 1,
+     "kind": "book",
+     "obj": "빈 땅의 파도무늬 큰 책에 끼워진 낡은 얇은 책 한 권",
+     "fact": "『百濟新集方』 — 일본 『醫心方』에 인용되어 전함",
+     "hook": "바다 건너(파도) 큰 책 = 醫心方 · 끼인 낡은 책 = 百濟新集方",
+     "say": "장터 가운데 파도무늬 큰 책, 바다 건너 일본의 醫心方. 그 속에 끼인 낡은 책이 百濟新集方 — 醫心方에 인용되어 이름이 남았다.",
+     "tts": "장터 가운데 파도무늬 큰 책, 바다 건너 일본의 의심방. 그 속에 끼인 낡은 책이 백제신집방, 의심방에 인용되어 이름이 남았다.",
+     "src": [
+      "교재 3795",
+      "문제집 863–865"
+     ]
+    },
+    {
+     "n": 2,
+     "kind": "person",
+     "obj": "김 흔드는 상인이 펼친 책을 내밀고, 빈 잔 든 사람이 펄쩍 뜀",
+     "fact": "김영석 『濟衆立效方』",
+     "hook": "김 = 金 · 마시자 서자마자(立) 효험(效) = 立效",
+     "say": "김을 흔드는 상인이 제 책을 내민다 — 김영석. 그 약을 마신 사람이 서자마자 펄쩍, 효험이 선다. 濟衆立效方.",
+     "tts": "김을 흔드는 상인이 제 책을 내민다, 김영석. 그 약을 마신 사람이 서자마자 펄쩍, 효험이 선다. 제중입효방.",
+     "src": [
+      "교재 427",
+      "문제집 1124 · 1287"
+     ]
+    },
+    {
+     "n": 3,
+     "kind": "person",
+     "obj": "붉은 옷 의원이 집게로 집은 약초를 손에 받친 펼친 책 위에 놓음",
+     "fact": "최종준 『新集御醫撮要方』",
+     "hook": "임금(御)의 의원 · 집게로 집음(撮) · 요긴한 것(要)",
+     "say": "붉은 옷 어의가 집게로 요긴한 약초만 집어 제 책 위에 놓는다 — 撮要. 최종준의 新集御醫撮要方.",
+     "tts": "붉은 옷 어의가 집게로 요긴한 약초만 집어 제 책 위에 놓는다, 촬요. 최종준의 신집어의촬요방.",
+     "src": [
+      "교재 427"
+     ]
+    },
+    {
+     "n": 4,
+     "kind": "book",
+     "obj": "주인 없는 좌판, 거미줄 덮인 구급상자에 약초 가득",
+     "fact": "『鄕藥救急方』 — 저자 미상 · 現存 最古 의서",
+     "hook": "시골 약초 + 구급상자 = 鄕藥救急 · 주인 없음 = 저자 미상 · 거미줄 = 最古",
+     "say": "주인 없는 좌판, 구급상자에 시골 약초가 가득 — 鄕藥救急方. 주인이 없으니 저자 미상. 거미줄이 앉았으니 지금 남은 우리 의서 가운데 가장 오래된 책.",
+     "tts": "주인 없는 좌판, 구급상자에 시골 약초가 가득, 향약구급방. 주인이 없으니 저자 미상. 거미줄이 앉았으니 지금 남은 우리 의서 가운데 가장 오래된 책.",
+     "src": [
+      "교재 428–429",
+      "문제집 1173 · 1259"
+     ]
+    },
+    {
+     "n": 5,
+     "kind": "person",
+     "obj": "팔씨름 도전 탁자, 심판이 물결 그림 책을 들고 선수 손목을 짚음",
+     "fact": "鄭道傳 『診脈圖訣』",
+     "hook": "도전 = 道傳 · 손목 짚기 = 診脈 · 물결 그림 책 = 圖訣",
+     "say": "팔씨름 도전! 심판이 선수 손목 맥을 짚으며 물결 그림 책을 편다. 정도전의 診脈圖訣.",
+     "tts": "팔씨름 도전! 심판이 선수 손목 맥을 짚으며 물결 그림 책을 편다. 정도전의 진맥도결.",
+     "src": [
+      "교재 430"
+     ]
+    },
+    {
+     "n": 6,
+     "kind": "book",
+     "obj": "탑처럼 높이 쌓은 약초 다발 더미",
+     "fact": "『鄕藥集成方』(세종) — 향약 전통지식 考證",
+     "hook": "모아(集) 쌓아 이룸(成) · 책 탑 아닌 약초 탑",
+     "say": "백자 쪽, 약초 다발을 탑처럼 쌓아 올렸다 — 모아 이룬 鄕藥集成方, 세종.",
+     "tts": "백자 쪽, 약초 다발을 탑처럼 쌓아 올렸다, 모아 이룬 향약집성방, 세종.",
+     "src": [
+      "교재 433 · 3425"
+     ]
+    },
+    {
+     "n": 7,
+     "kind": "person",
+     "obj": "돗자리 위 여인이 약초를 종류별 무더기로 갈라 놓음",
+     "fact": "『醫方類聚』 세종 때 완성",
+     "hook": "같은 종류(類)끼리 모음(聚)",
+     "say": "여인이 섞인 약초를 같은 종류끼리 갈라 모은다 — 醫方類聚, 세종 때 완성.",
+     "tts": "여인이 섞인 약초를 같은 종류끼리 갈라 모은다, 의방유취, 세종 때 완성.",
+     "src": [
+      "교재 434 · 3425"
+     ]
+    },
+    {
+     "n": 8,
+     "kind": "review",
+     "obj": "파도 책 → 김 · 집게 · 구급상자 · 팔씨름 → 약초 탑 · 무더기",
+     "fact": "삼국 1 · 高麗 4 · 朝鮮 세종 2",
+     "hook": "끼인 책 / 내민 책 · 받친 책 · 거미줄 상자 · 물결 책 / 탑 · 무더기",
+     "say": "끼인 책 百濟新集方. 고려: 김영석 내민 책, 최종준 받친 책, 저자 없는 거미줄 상자, 정도전 물결 책. 세종: 약초 탑, 종류별 무더기.",
+     "tts": "끼인 책 백제신집방. 고려, 김영석 내민 책, 최종준 받친 책, 저자 없는 거미줄 상자, 정도전 물결 책. 세종, 약초 탑, 종류별 무더기.",
+     "src": [
+      "교재 427–434 · 3795"
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "q": "파도무늬 큰 책 사이에 끼워진 낡은 책은? 큰 책은?",
+     "a": "百濟新集方 — 일본 醫心方에 인용되어 전함"
+    },
+    {
+     "q": "김을 흔드는 상인이 내민 책을 받아 마신 사람이 펄쩍 뛴다 — 저자와 책은?",
+     "a": "김영석 『濟衆立效方』(문제집 Q106은 鄕藥古方도 함께 적음)"
+    },
+    {
+     "q": "주인 없는 좌판의 거미줄 덮인 구급상자 — 책 이름 · 저자 · 의의는?",
+     "a": "『鄕藥救急方』 · 저자 미상 · 現存 最古 의서(김영석 저작 아님)"
+    },
+    {
+     "q": "집게로 집은 약초를 자기 책 위에 놓는 붉은 옷 의원은?",
+     "a": "최종준 『新集御醫撮要方』"
+    },
+    {
+     "q": "팔씨름 심판이 손목을 짚으며 펼친 물결 그림 책은?",
+     "a": "鄭道傳 『診脈圖訣』"
+    }
+   ],
+   "risks": [
+    "Z3 손목 짚기 — 접촉 동작 67%(드리프트 시험), fallback은 어깨 그대로",
+    "팔씨름 자리가 백자(朝鮮) 바로 곁 — 鄭道傳이 朝鮮 쪽으로 읽힐 위험, 자리는 못 옮김(대본으로 「고려 쪽 책」 말함은 출처 없어 넣지 않음)",
+    "Z5 얇은 책이 둘로 나올 위험",
+    "약초 탑(集成方)은 사람 없음 — 세종 官修의 붉은 봉인은 작은 색 표지라 약해서 넣지 않음"
+   ],
+   "needs_user_ok": [
+    "#4 기둥 금메달을 걷고 거미줄로 — 「最古 ↔ 최초」 가름(RUBRIC 4-2)이지만 예약표 「주인 없는 구급상자」 행의 메달이 바뀜",
+    "#1 「낡은 두 권(百濟 · 新羅)」 → 한 권(百濟新集方)으로: 新羅法師方의 醫心方 인용은 교재 · 문제집에서 확인 못 함",
+    "김영석 저서: 교재 427 濟衆立效方 ↔ 문제집 Q106(1288) 「濟衆立效方 또는 鄕藥古方」 — 두 쪽을 사실 칸에 나란히 둠",
+    "한자 金永碩(문제집 1125 · 1289) ↔ 과 金永錫 병기 · 崔宗峻(교재 · 문제집에 없음) — 이 안은 교재 한글 「최종준」과 문제집 金永碩만 씀",
+    "찻잔을 상인 → 뛰는 사람으로 옮김(예약표 「마시자 곧 펄쩍」은 그대로)"
+   ],
+   "self_score": "사실 17/20(新羅法師方 뺌) · 단서 22/30 · 손 17/20(책 셋 + 약초 사물 하나, 구급상자는 주인 없음 단서로 손 없음) · 범위 · 혼동 9/10(Q57 저자 바꿔치기 가름) · 소품 9/10(새 물건 6) · 보존 8/10(메달) ≈ 82"
+  },
+  "hist-13": {
+   "base_prep": "R0: Gemini 새 대화(Neon 높음 · 16:9)에 images/lessons/hist-13.webp를 붙이고 「Redraw this exact cartoon illustration at full high resolution, as a faithful clean copy … Do not add, remove, move or change anything. No text … same flat cartoon style」 → 2752×1536 /home/claude/zt/b5/base_hist-13.png. 이 안 작성 때 base는 없음(zt/b5의 R0_hist-13.jpg는 2048×1144로 원본과 평균 화소차 <1 — 다시 그린 것이 아님). 사람 · 소품 · 색이 바뀌면 버리고 PIL LANCZOS ×1.34375 확대본을 바탕으로. 아래 좌표는 그 확대본(/tmp/up)에서 직접 잼 — R0 뒤 ±40px 안에서 다시 맞춘다.",
+   "scope": {
+    "in": [
+     "許浚 『東醫寶鑑』 內經 계통(편찬자 쟁점 두 쪽)",
+     "許任 『鍼灸經驗方』",
+     "『主制群徵』(아담 샬 · 표기 두 쪽)",
+     "茶山 『麻科會通』",
+     "黃度淵 『方藥合編』",
+     "李濟馬 『東醫壽世保元』 四象 臟腑大小",
+     "崔圭憲 『小兒醫方』"
+    ],
+    "trainer": [
+     "교재 437–438 실학기 의서(增補山林經濟 · 林園經濟志 · 濟衆新編 · 廣濟秘笈 · 醫門寶鑑) — 寶鑑 · 濟 이름 함정 표로",
+     "이규준 扶陽論 · 醫方撮要(445) — #7 함정 칸",
+     "種痘心法要旨 · 醫零(439) · 荷蘭陀方 · 漢譯西醫書(441) — 표로",
+     "연도(1610 · 1894 · 1885 · 1644 · 1798) — 1644 · 1798은 확인 필요",
+     "체형 넷 ↔ 체질 대응 — 교재 · 문제집에 없어 정답 근거로 쓰지 않음"
+    ]
+   },
+   "keep": [
+    {
+     "what": "해 · 보물 창고",
+     "why": "東 · 寶 터(예약표)"
+    },
+    {
+     "what": "두 사람이 보석 거울을 함께 나름",
+     "why": "寶鑑 · 共編(예약표, 바꾸면 사용자 확인) — 거울은 남기고 책의 앞표지가 되게"
+    },
+    {
+     "what": "해골 책 사제 · 책 둘 묶는 노랑 옷",
+     "why": "이미 손이 책에 닿음"
+    },
+    {
+     "what": "허리 침 노인 · 찻잔 선비 · 자두 기마 · 숟가락 여의원",
+     "why": "이름 단서 · 사건 그대로, 각자 손에 제 책만 더함"
+    },
+    {
+     "what": "체형 넷",
+     "why": "이미 그려진 사실의 수(四象). 개수는 묻지 않음"
+    }
+   ],
+   "replace": [
+    {
+     "old": "보석 테 큰 거울",
+     "new": "보석 테 거울이 앞표지인 아주 두꺼운 큰 책(두 사람이 그대로 나름)",
+     "fact": "『東醫寶鑑』 — 교재 435 許浚 撰集 / 문제집 1266 · 1128 허준 · 정예남 共編",
+     "ref": "교재 435 · 문제집 1128 · 1266",
+     "why": "거울(鑑)을 지키며 두 사람 손이 책에 닿음"
+    }
+   ],
+   "add": [
+    {
+     "obj": "許任 노인 한 손의 펼친 작은 책",
+     "fact": "許任 『鍼灸經驗方』",
+     "ref": "교재 436 · 3795",
+     "zone": 2
+    },
+    {
+     "obj": "찻잔 선비 팔에 낀 책",
+     "fact": "茶山 『麻科會通』",
+     "ref": "교재 439",
+     "zone": 3
+    },
+    {
+     "obj": "말 탄 사람 가슴에 댄 책",
+     "fact": "李濟馬 『東醫壽世保元』",
+     "ref": "교재 447–448",
+     "zone": 4
+    },
+    {
+     "obj": "여의원 팔에 낀 책",
+     "fact": "崔圭憲 『小兒醫方』",
+     "ref": "교재 446",
+     "zone": 4
+    }
+   ],
+   "lineage": "鍼灸 사다리(교재 3795): hist-12 百濟新集方 → 鍼灸擇日編 · 柳成龍 鍼灸要訣(이 과에 없음, 표) → 東醫寶鑑 → 許任 → 舍岩道人鍼灸要訣(경락 mer-05 · 11 · 12 — 사용자 사암 문장 24줄 손대지 않음). 寶鑑 ↔ 醫門寶鑑(438) ↔ 衛生寶鑑(343). 東醫壽世保元 ↔ 龔廷賢 壽世保元(3875). 四象 → 體質辨證 3346–3352. 小兒: 錢乙(hist-04) → 崔圭憲.",
+   "edits": [
+    {
+     "zone": 2,
+     "crop": [
+      700,
+      570,
+      485,
+      440
+     ],
+     "round": 1,
+     "new_objects": [
+      "노인 손의 펼친 작은 책"
+     ],
+     "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing, in the same flat cartoon style. 1) The old white-bearded man now holds a small open book in his left hand, raised beside his chest, while his right hand keeps putting the thin needle into the lower back of the man lying face down. Keep his face, beard, topknot, grey robe, the lying man, the needles already in his back, the straw mat and the storehouse door behind exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+     "check": "책이 왼손에 · 침 놓는 오른손 그대로",
+     "fallback": "두 손이 다 책으로 가면 'his right hand still holds the needle in the back' 강조"
+    },
+    {
+     "zone": 1,
+     "crop": [
+      20,
+      660,
+      820,
+      876
+     ],
+     "round": 1,
+     "new_objects": [
+      "거울을 앞표지로 한 두꺼운 책(거울 대신)"
+     ],
+     "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing, in the same flat cartoon style. 1) The big oval mirror with the jeweled gold frame that the two men carry becomes the front cover of a giant, very thick closed book: keep the same oval jeweled frame and the shining mirror glass on the cover, and add a thick block of cream pages and a book spine behind it. Both men keep carrying it with the same hands in the same places. Keep both men, their faces, clothes and walking poses, the ground, and the bare feet and legs of the man lying on the mat at the top right edge exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+     "check": "거울 면 · 보석 테 그대로 · 책 두께가 보임 · 두 사람 손이 닿음. Z2를 붙인 그림에서 자른다(x 700–840 겹침)",
+     "fallback": "거울이 사라지면 'keep the mirror; just make it thick like a book with visible page edges on its side'"
+    },
+    {
+     "zone": 3,
+     "crop": [
+      1000,
+      900,
+      460,
+      636
+     ],
+     "round": 1,
+     "new_objects": [
+      "선비 팔에 낀 책"
+     ],
+     "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing, in the same flat cartoon style. 1) The scholar holding the tea cup now also has a closed book tucked firmly under that same arm, pressed against his side. Keep his face, topknot, robe, the tea cup in his hand, his other hand on the young man's cheek, and the young man with red spots at the right edge exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+     "check": "책이 겨드랑이에 · 찻잔 · 볼 짚기 그대로",
+     "fallback": "찻잔이 사라지면 찻잔 강조해 한 번"
+    },
+    {
+     "zone": 4,
+     "crop": [
+      1980,
+      180,
+      772,
+      1356
+     ],
+     "round": 1,
+     "new_objects": [
+      "말 탄 사람 가슴의 책",
+      "여의원 팔에 낀 책"
+     ],
+     "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing, in the same flat cartoon style. 1) The man riding the horse, eating a purple plum, now holds a closed book pressed against his chest with his other hand. 2) The woman doctor in white feeding the crying baby with a spoon now has a closed book tucked under the arm that holds the medicine bowl. Keep the horse, the plum at his mouth, the four bare-chested people of different body shapes standing in a row, the mother, the baby, the spoon, the bowl and the trees exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+     "check": "책 둘이 각자 손 · 팔에 · 체형 넷 그대로(사람 수 변화 없음)",
+     "fallback": "체형 줄이 바뀌면 둘로 나눠 1)만 · 2)만"
+    }
+   ],
+   "stations": [
+    {
+     "n": 0,
+     "kind": "frame",
+     "obj": "해 뜨는 동녘의 보물 창고",
+     "fact": "朝鮮 후기 · 근대 우리 의서(東醫)",
+     "hook": "동녘(東) 해 = 東醫 · 보물(寶) 창고 · 왼쪽 → 오른쪽 = 시대순",
+     "say": "해 뜨는 동녘의 보물 창고. 왼쪽에서 오른쪽으로 시대가 흐르고, 저마다 제 책을 손에 쥐고 있다.",
+     "tts": "해 뜨는 동녘의 보물 창고. 왼쪽에서 오른쪽으로 시대가 흐르고, 저마다 제 책을 손에 쥐고 있다.",
+     "src": [
+      "교재 435–448"
+     ]
+    },
+    {
+     "n": 1,
+     "kind": "person",
+     "obj": "보석 거울이 앞표지인 두꺼운 책을 두 사람이 함께 나름",
+     "fact": "『東醫寶鑑』 內經 계통 — 許浚 撰集(교재) / 허준 · 정예남 共編(문제집)",
+     "hook": "보배(寶) 거울(鑑) 책 · 둘이 나름 = 문제집의 共編",
+     "say": "보석 거울이 표지인 큰 책, 東醫寶鑑. 교재는 許浚이 撰集했다고 쓰고, 문제집은 허준과 정예남 등이 함께 엮었다고 쓴다. 內經 계통의 책.",
+     "tts": "보석 거울이 표지인 큰 책, 동의보감. 교재는 허준이 찬집했다고 쓰고, 문제집은 허준과 정예남 등이 함께 엮었다고 쓴다. 내경 계통의 책.",
+     "src": [
+      "교재 435",
+      "문제집 884–886 · 1128 · 1266"
+     ]
+    },
+    {
+     "n": 2,
+     "kind": "person",
+     "obj": "흰 수염 노인이 펼친 책을 들고 엎드린 환자 등허리에 침",
+     "fact": "許任 『鍼灸經驗方』 — 朝鮮 대표적 鍼灸書",
+     "hook": "등허리 = 許(허) · 흰 수염 = 오랜 經驗 · 침 = 鍼灸",
+     "say": "흰 수염 노인이 한 손에 책을 펴고 등허리에 침을 놓는다. 허리의 허, 許任의 鍼灸經驗方. 東醫寶鑑의 許浚과 성만 같다.",
+     "tts": "흰 수염 노인이 한 손에 책을 펴고 등허리에 침을 놓는다. 허리의 허, 허임의 침구경험방. 동의보감의 허준과 성만 같다.",
+     "src": [
+      "교재 436 · 3795",
+      "문제집 1112"
+     ]
+    },
+    {
+     "n": 3,
+     "kind": "person",
+     "obj": "창고 문간, 십자가 목걸이 사제가 해골 그림 책을 펼쳐 보임",
+     "fact": "아담 샬 『主制群徵』 — 서양 해부 지식",
+     "hook": "십자가 = 主(천주) · 해골 그림 = 서양 해부",
+     "say": "검은 옷 사제가 해골 그림 책을 펼친다. 아담 샬의 主制群徵. 서명 둘째 글자는 교재 郡, 문제집 群.",
+     "tts": "검은 옷 사제가 해골 그림 책을 펼친다. 아담 샬의 주제군징. 서명 둘째 글자는 교재와 문제집이 다르게 쓴다.",
+     "src": [
+      "교재 440",
+      "문제집 893–895"
+     ]
+    },
+    {
+     "n": 4,
+     "kind": "person",
+     "obj": "찻잔 든 선비가 책을 끼고 붉은 반점 젊은이 볼을 짚음",
+     "fact": "茶山 『麻科會通』(麻疹)",
+     "hook": "찻잔 = 茶山 · 붉은 반점 = 麻疹",
+     "say": "찻잔 든 선비가 책을 끼고 붉은 반점 돋은 젊은이를 살핀다. 茶山의 麻科會通, 홍역의 책.",
+     "tts": "찻잔 든 선비가 책을 끼고 붉은 반점 돋은 젊은이를 살핀다. 다산의 마과회통, 홍역의 책.",
+     "src": [
+      "교재 439"
+     ]
+    },
+    {
+     "n": 5,
+     "kind": "person",
+     "obj": "노란 옷 사람이 책 두 권을 끈으로 묶어 하나로",
+     "fact": "黃度淵 『方藥合編』 — 醫宗損益 + 醫方活套 종합",
+     "hook": "노랑(黃) · 둘을 묶음 = 合編",
+     "say": "노란 옷이 두 권을 끈으로 묶는다. 黃度淵이 醫宗損益과 醫方活套를 하나로 엮은 方藥合編.",
+     "tts": "노란 옷이 두 권을 끈으로 묶는다. 황도연이 의종손익과 의방활투를 하나로 엮은 방약합편.",
+     "src": [
+      "교재 444",
+      "문제집 1230–1231"
+     ]
+    },
+    {
+     "n": 6,
+     "kind": "person",
+     "obj": "자두 먹으며 말 탄 사람이 책을 가슴에 · 체형 다른 네 사람",
+     "fact": "東武 李濟馬 『東醫壽世保元』 — 四象醫學說",
+     "hook": "자두(李) + 말(馬) = 李濟馬 · 넷 = 四象",
+     "say": "자두를 먹으며 말 탄 사람이 책을 가슴에 안는다. 李濟馬의 東醫壽世保元, 사람을 넷으로 나눈 四象醫學.",
+     "tts": "자두를 먹으며 말 탄 사람이 책을 가슴에 안는다. 이제마의 동의수세보원, 사람을 넷으로 나눈 사상의학.",
+     "src": [
+      "교재 447–448 · 3349",
+      "문제집 887–889"
+     ]
+    },
+    {
+     "n": 7,
+     "kind": "person",
+     "obj": "책 낀 여의원이 우는 아기에게 숟가락으로 약",
+     "fact": "崔圭憲 『小兒醫方』",
+     "hook": "아기 = 小兒 · 숟가락 약 = 醫方",
+     "say": "책을 낀 여의원이 우는 아기에게 숟가락으로 약을 먹인다. 崔圭憲의 小兒醫方. 이규준의 扶陽論과 헷갈리지 말 것.",
+     "tts": "책을 낀 여의원이 우는 아기에게 숟가락으로 약을 먹인다. 최규헌의 소아의방. 이규준의 부양론과 헷갈리지 말 것.",
+     "src": [
+      "교재 445–446"
+     ]
+    },
+    {
+     "n": 8,
+     "kind": "review",
+     "obj": "거울 책 → 침 놓는 책 → 해골 책 → 낀 책 → 묶은 책 → 가슴 책 → 낀 책",
+     "fact": "許浚 · 許任 · 主制群徵 · 茶山 · 黃度淵 · 李濟馬 · 崔圭憲",
+     "hook": "손마다 제 책 하나",
+     "say": "거울 책 東醫寶鑑, 침 곁 책 許任, 해골 책 主制群徵, 찻잔 茶山, 묶는 노랑 黃度淵, 자두와 말 李濟馬, 아기 숟가락 崔圭憲.",
+     "tts": "거울 책 동의보감, 침 곁 책 허임, 해골 책 주제군징, 찻잔 다산, 묶는 노랑 황도연, 자두와 말 이제마, 아기 숟가락 최규헌.",
+     "src": [
+      "교재 435–448"
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "q": "보석 거울이 표지인 큰 책을 두 사람이 나른다 — 책 이름과 계통은?",
+     "a": "『東醫寶鑑』 · 內經 계통(교재: 許浚 撰集 / 문제집: 허준 · 정예남 共編)"
+    },
+    {
+     "q": "책을 든 흰 수염 노인이 등허리에 침을 놓는다 — 누구 · 무슨 책?",
+     "a": "許任 『鍼灸經驗方』(許浚 아님)"
+    },
+    {
+     "q": "노란 옷이 두 권을 끈으로 묶어 만든 책과 두 권의 이름은?",
+     "a": "黃度淵 『方藥合編』 = 醫宗損益 + 醫方活套"
+    },
+    {
+     "q": "자두 먹는 기마인이 가슴에 안은 책은? 이름이 닮은 중국 책은?",
+     "a": "李濟馬 『東醫壽世保元』 ↔ 明 龔廷賢 『壽世保元』"
+    },
+    {
+     "q": "책 낀 여의원이 아기에게 숟가락으로 약을 먹인다 — 저자와 책은?",
+     "a": "崔圭憲 『小兒醫方』(이규준 扶陽論과 구별)"
+    }
+   ],
+   "risks": [
+    "Z1 거울 → 책 표지 변환에서 거울 면이 사라질 위험(fallback 있음)",
+    "Z4 큰 조각에 체형 넷 — 사람 수 · 체형이 바뀔 위험(개수 85%)",
+    "許浚 · 鄭禮男 · 崔圭憲 이름 소리 단서는 이 안도 비움 — 사건 쪽 관점이라 새 소품을 더 얹지 않음(許浚은 이름 자체가 친숙하다고 보나 확인 필요)",
+    "Z3 조각 오른쪽 가장자리에 젊은이 볼 · 손이 걸림"
+   ],
+   "needs_user_ok": [
+    "東醫寶鑑 「둘이 나름(共編)」은 그대로 두되 거울을 「거울 표지 책」으로 바꿈 — 예약표 「보석 테 거울을 둘이 나름」 행",
+    "편찬자: 교재 435 「許浚 撰集」 ↔ 문제집 1266 · 1128 「허준 · 정예남 등 共編」 — 사실 칸에 둘 다(鄭禮男 한자 확인 필요)",
+    "主制 서명: 교재 「主制郡徵」 · 「아담 살」(440) ↔ 문제집 「主制群徵」(894) · 과 「아담 샬」",
+    "茶山 성: 교재 「鄭茶山」(439) ↔ 과 「丁若鏞」 — 이 안은 「茶山」만 씀",
+    "方藥合編: 교재 444 黃度淵 종합 ↔ 문제집 1231 黃度淵 저자 / 黃泌秀 1885 출판",
+    "#7 대본 「허브 오답 15회」는 출처 확인 필요 — 이 안은 뺌"
+   ],
+   "self_score": "사실 18/20 · 단서 21/30(이름 단서 빈 셋) · 손 19/20(일곱 모두 책) · 범위 · 혼동 9/10 · 소품 9/10(새 물건 5) · 보존 8/10 ≈ 84"
+  },
+  "hist-14": {
+   "base_prep": "R0: Gemini 새 대화(Neon 높음 · 16:9)에 images/lessons/hist-14.webp를 붙이고 「Redraw this exact cartoon illustration at full high resolution, as a faithful clean copy … Do not add, remove, move or change anything. No text … same flat cartoon style」 → 2752×1536 /home/claude/zt/b5/base_hist-14.png. 이 안 작성 때 base는 없음(zt/b5의 R0_hist-14.jpg는 2048×1144로 원본과 평균 화소차 <1 — 다시 그린 것이 아님). 사람 · 소품 · 색이 바뀌면 버리고 PIL LANCZOS ×1.34375 확대본을 바탕으로. 아래 좌표는 그 확대본(/tmp/up)에서 직접 잼 — R0 뒤 ±40px 안에서 다시 맞춘다.",
+   "scope": {
+    "in": [
+     "濟生醫院 1877 부산 · 일본인 · 최초 서양의학 병원",
+     "알렌 廣惠院 → 濟衆院 1885 · 최초 서양식 국립병원",
+     "廣濟院 양 · 한방 협진",
+     "同濟醫學校 1904 고종 사재 · 최초 한의학 교육기관",
+     "醫師規則 → 1913 醫生規則 격하",
+     "東洋大學館 1948 4년제 → 東洋醫科大學 1964 6년제"
+    ],
+    "trainer": [
+     "4년제 · 6년제 · 연도 — 사과(4) · 너트(6) 숫자 부호를 대본에서 내리고 사실 칸 · 표로. 그림은 「낮은 먼저 · 높은 나중」만",
+     "廣濟院 연도 — 문제집 899–900 「1889」 ↔ 과 「1900 · 內部病院」(확인 필요) 두 쪽을 표로",
+     "大韓醫院 1907 · 서양의사 611명(문제집 860–862) · 혜민서 · 활인서 폐지(896)",
+     "東洋大學館 → 1953 동양의약대학 → 1965 경희대(919) ↔ 東洋醫科大學 → 경희대 인수(858) 두 줄을 표로"
+    ]
+   },
+   "keep": [
+    {
+     "what": "증기선 · 부두",
+     "why": "개항 = 근대 터"
+    },
+    {
+     "what": "구명 튜브 서양 건물 + 벚꽃 + 문등 금메달",
+     "why": "濟生醫院 · 일본인 · 최초(메달이 그 건물에 ✓). 튜브 상한은 needs_user_ok"
+    },
+    {
+     "what": "알렌이 사람 가득한 배를 밧줄로 끎",
+     "why": "손이 밧줄에 닿는 큰 동작 = 무리(衆)를 건짐(濟)"
+    },
+    {
+     "what": "넓은 평상 환자를 청진기 · 침이 함께",
+     "why": "두 손이 한 환자에 = 협진"
+    },
+    {
+     "what": "용 주머니 · 금괴 · 교문 금메달 · 인체 모형 학생",
+     "why": "고종 사재 · 최초(예약표)"
+    },
+    {
+     "what": "교단 제복 · 방석 한의사",
+     "why": "師 → 生 격하(예약표)"
+    },
+    {
+     "what": "낮은 · 높은 건물",
+     "why": "먼저 · 나중의 관계만 짐(수 부호 아님)"
+    }
+   ],
+   "replace": [
+    {
+     "old": "대본의 붉은 사과(4) · 육각 너트(6)",
+     "new": "없앰 — 그림에도 없음",
+     "fact": "4년제 · 6년제",
+     "ref": "문제집 857–859 · 917–919",
+     "why": "숫자 부호는 사건에 안 닿음(이 안의 관점). 수는 사실 칸으로"
+    },
+    {
+     "old": "용 주머니 곁에 따로 놓인 금괴",
+     "new": "입이 열린 용 주머니에서 금괴가 쏟아져 나옴 · 학생들이 책을 가슴에 크게 안음",
+     "fact": "同濟醫學校 — 고종 사재 · 최초 한의학 교육기관",
+     "ref": "문제집 854–856",
+     "why": "사재가 학교로 「쏟아짐」(잘 된 동작) · 학생 손의 책을 키움(△ → ✓). 새 물건 없음"
+    }
+   ],
+   "add": [],
+   "lineage": "濟 무리를 한 거리에서 가름: 濟生醫院(튜브 · 벚꽃) · 濟衆院(배 끎) · 廣濟院(넓은 평상) · 同濟(학교) ↔ hist-11 濟生院(한옥 · 농부 · 약초) · 濟危寶(쌀). 醫生規則 → hist-13 근대 의서 黃度淵 · 李濟馬 다음 시대. 東洋醫科大學 → 경희대(문제집 858) / 東洋大學館 → 경희대(919) 두 줄.",
+   "edits": [
+    {
+     "zone": 1,
+     "crop": [
+      1630,
+      330,
+      620,
+      690
+     ],
+     "round": 1,
+     "new_objects": [],
+     "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing, in the same flat cartoon style. 1) The pink silk pouch with the embroidered dragon now has its mouth wide open, tipped toward the school, and the gold bars pour out of its mouth onto the ground in front of the school door, the same gold bars as now. 2) The students inside the little school each hold one book hugged against the chest, a little larger and clearly visible. Keep the acupuncture model with needles, the school building, the gate pillar with the gold medal, the dragon on the pouch and the building behind exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+     "check": "금괴가 주머니 입에서 흘러나옴 · 학생 책이 보임 · 메달 · 모형 그대로",
+     "fallback": "주머니가 사람처럼 바뀌거나 금괴가 늘면 1)만 다시"
+    }
+   ],
+   "stations": [
+    {
+     "n": 0,
+     "kind": "frame",
+     "obj": "증기선이 들어온 개항장 부두 거리",
+     "fact": "개항 뒤 서양식 병원 · 한의학 교육기관",
+     "hook": "증기선 · 부두 = 개항 · 왼쪽 → 오른쪽 = 시대순",
+     "say": "증기선이 들어온 개항장 부두. 왼쪽 병원 셋, 가운데 학교, 오른쪽 격하와 대학 둘 — 시대순이다.",
+     "tts": "증기선이 들어온 개항장 부두. 왼쪽 병원 셋, 가운데 학교, 오른쪽 격하와 대학 둘, 시대순이다.",
+     "src": [
+      "문제집 854–919(참고 의학사) — 교재에는 없음"
+     ]
+    },
+    {
+     "n": 1,
+     "kind": "place",
+     "obj": "구명 튜브를 건 흰 서양 건물 · 벚나무 · 문등의 금메달",
+     "fact": "濟生醫院(1877 부산, 일본인) 최초 서양의학 병원",
+     "hook": "구명 튜브 = 濟生 · 벚꽃 = 일본인 · 메달이 건물에 = 최초 병원",
+     "say": "부두 앞 흰 서양 건물에 구명 튜브, 양옆 벚꽃. 일본인이 부산에 세운 濟生醫院, 최초의 서양의학 병원. 조선의 濟生院과는 건물과 꽃으로 가른다.",
+     "tts": "부두 앞 흰 서양 건물에 구명 튜브, 양옆 벚꽃. 일본인이 부산에 세운 제생의원, 최초의 서양의학 병원. 조선의 제생원과는 건물과 꽃으로 가른다.",
+     "src": [
+      "문제집 890–892"
+     ]
+    },
+    {
+     "n": 2,
+     "kind": "person",
+     "obj": "왕진 가방 든 서양 의사가 사람 가득한 배를 밧줄로 끌어당김",
+     "fact": "알렌 廣惠院 → 濟衆院(1885) 최초 서양식 국립병원",
+     "hook": "무리(衆)를 건짐(濟) = 濟衆",
+     "say": "서양 의사가 사람 가득한 배를 밧줄로 끌어당긴다 — 무리를 건지는 濟衆院. 알렌의 廣惠院이 같은 해 濟衆院이 되었다.",
+     "tts": "서양 의사가 사람 가득한 배를 밧줄로 끌어당긴다, 무리를 건지는 제중원. 알렌의 광혜원이 같은 해 제중원이 되었다.",
+     "src": [
+      "문제집 896–898"
+     ]
+    },
+    {
+     "n": 3,
+     "kind": "person",
+     "obj": "넓은 평상 환자 하나를 청진기 서양 의사와 침 든 한의사가 함께",
+     "fact": "廣濟院 — 양 · 한방 협진",
+     "hook": "넓은(廣) 평상 · 함께 건짐(濟) · 청진기 + 침",
+     "say": "넓은 평상의 환자 하나를 청진기와 침이 함께 돌본다. 廣濟院의 양방 한방 협진.",
+     "tts": "넓은 평상의 환자 하나를 청진기와 침이 함께 돌본다. 광제원의 양방 한방 협진.",
+     "src": [
+      "문제집 899–900"
+     ]
+    },
+    {
+     "n": 4,
+     "kind": "place",
+     "obj": "열린 용 주머니에서 금괴가 쏟아지는 작은 학교 · 책 안은 학생들 · 교문 금메달",
+     "fact": "同濟醫學校(1904) 고종 사재 · 최초 한의학 교육기관",
+     "hook": "용 주머니 = 임금의 사재 · 함께(同) 배움 · 메달이 교문에 = 최초 학교",
+     "say": "용 수놓은 주머니에서 금괴가 학교로 쏟아진다. 임금의 사재로 세운 同濟醫學校, 최초의 한의학 교육기관.",
+     "tts": "용 수놓은 주머니에서 금괴가 학교로 쏟아진다. 임금의 사재로 세운 동제의학교, 최초의 한의학 교육기관.",
+     "src": [
+      "문제집 854–856"
+     ]
+    },
+    {
+     "n": 5,
+     "kind": "person",
+     "obj": "교단 위 검은 제복 사내 · 그 아래 방석에 무릎 꿇은 한의사",
+     "fact": "醫師規則 → 醫生規則(1913) 한의사 격하",
+     "hook": "스승(師)의 교단 → 학생(生)의 방석",
+     "say": "교단 위 제복 사내 아래, 한의사가 방석에 꿇었다. 스승 사에서 날 생으로 — 醫生規則, 한의사의 격하.",
+     "tts": "교단 위 제복 사내 아래, 한의사가 방석에 꿇었다. 스승 사에서 날 생으로, 의생규칙, 한의사의 격하.",
+     "src": [
+      "문제집 860–862"
+     ]
+    },
+    {
+     "n": 6,
+     "kind": "place",
+     "obj": "뒤쪽 낮은 갈색 학교 건물",
+     "fact": "東洋大學館(1948) 최초 4년제 · 박호풍 등",
+     "hook": "낮은 건물 = 먼저 · 짧은 과정",
+     "say": "뒤쪽 낮은 갈색 건물이 먼저 선 東洋大學館, 최초의 사년제.",
+     "tts": "뒤쪽 낮은 갈색 건물이 먼저 선 동양대학관, 최초의 사년제.",
+     "src": [
+      "문제집 917–919"
+     ]
+    },
+    {
+     "n": 7,
+     "kind": "place",
+     "obj": "그 곁의 더 높은 크림색 건물",
+     "fact": "東洋醫科大學(1964) 최초 6년제",
+     "hook": "더 높은 건물 = 나중 · 긴 과정",
+     "say": "곁의 더 높은 건물이 나중에 선 東洋醫科大學, 최초의 육년제. 낮은 것이 먼저, 높은 것이 나중.",
+     "tts": "곁의 더 높은 건물이 나중에 선 동양의과대학, 최초의 육년제. 낮은 것이 먼저, 높은 것이 나중.",
+     "src": [
+      "문제집 857–859"
+     ]
+    },
+    {
+     "n": 8,
+     "kind": "review",
+     "obj": "튜브 건물 → 배 끎 → 넓은 평상 → 용 주머니 학교 → 교단 → 낮은 · 높은 건물",
+     "fact": "병원 셋 → 학교 → 격하 → 대학 둘",
+     "hook": "濟生 · 濟衆 · 廣濟 → 同濟 → 醫生 → 4년 · 6년",
+     "say": "튜브 濟生醫院, 배 끄는 濟衆院, 넓은 평상 廣濟院, 용 주머니 同濟, 교단 아래 醫生, 낮은 건물 사년제와 높은 건물 육년제.",
+     "tts": "튜브 제생의원, 배 끄는 제중원, 넓은 평상 광제원, 용 주머니 동제, 교단 아래 의생, 낮은 건물 사년제와 높은 건물 육년제.",
+     "src": [
+      "문제집 854–919"
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "q": "벚꽃 사이 구명 튜브 건 서양 건물 — 기관 · 세운 사람 · 의의는? 조선의 무엇과 갈리나?",
+     "a": "濟生醫院(1877 부산, 일본인) 최초 서양의학 병원 ↔ 朝鮮 濟生院(1397)"
+    },
+    {
+     "q": "사람 가득한 배를 밧줄로 끄는 서양 의사 — 처음 이름과 바뀐 이름은?",
+     "a": "알렌 廣惠院 → 濟衆院"
+    },
+    {
+     "q": "용 주머니에서 금괴가 쏟아지는 작은 학교는?",
+     "a": "同濟醫學校 — 고종 사재 · 최초 한의학 교육기관"
+    },
+    {
+     "q": "교단 아래 방석에 꿇은 한의사 — 어떤 규칙의 무엇에서 무엇으로?",
+     "a": "醫師規則 → 醫生規則(1913), 師 → 生 격하"
+    },
+    {
+     "q": "뒤의 낮은 건물과 높은 건물 — 어느 것이 먼저이고 각각 무엇?",
+     "a": "낮은 = 東洋大學館(먼저, 4년제) · 높은 = 東洋醫科大學(나중, 6년제)"
+    }
+   ],
+   "risks": [
+    "濟生醫院 건물에 사람 없음 — 기관 표지로 두고 손 조건을 사람 있는 셋(알렌 · 협진 · 교단)과 학생에 거는 판단",
+    "주머니가 쏟아지게 바뀌면 금괴 개수가 늘 수 있음 — 개수는 묻지 않음",
+    "낮은 · 높은 건물이 년수로 읽힐 근거는 「먼저 · 나중」뿐 — 4 · 6은 그림에서 못 꺼냄(의도)"
+   ],
+   "needs_user_ok": [
+    "구명 튜브 = 濟 네 번째 사용(hist-04 · 11 · 14 · new-etc-04) — 공용 예외로 둘지",
+    "대본에서 사과(4) · 너트(6)를 내림(그림에는 원래 없음)",
+    "廣濟院 연도: 문제집 899–900 「1889」 ↔ 과 「1900 · 內部病院」(출처 확인 필요) — 이 안은 정거장에 연도 · 內部病院을 쓰지 않음",
+    "醫生規則 앞 단계 醫師規則: 문제집 860–861 정답(교재 확인 권장) — 과 #5 「大韓醫院 서양 의사 부족」 글은 사실 칸으로만",
+    "경희대 줄: 문제집 858(東洋醫科大學 → 경희대 인수) ↔ 919(東洋大學館 → 1953 동양의약대학 → 1965 경희대) — 이 안은 #7에서 경희대를 빼고 표로"
+   ],
+   "self_score": "사실 18/20(모두 문제집) · 단서 21/30 · 손 15/20(사람 있는 정거장 손 ✓, 濟生醫院 · 대학 둘은 건물) · 범위 · 혼동 9/10 · 소품 10/10(새 물건 0) · 보존 9/10 ≈ 82"
+  }
+ }
+}

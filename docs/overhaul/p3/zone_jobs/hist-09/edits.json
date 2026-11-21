@@ -1,0 +1,161 @@
+{
+ "lesson": "hist-09",
+ "batch": "b4",
+ "base": "/home/claude/zt/b4/base_hist-09.png",
+ "edits": [
+  {
+   "id": "E1",
+   "zone": "1 吳有性(바깥 왼쪽)",
+   "order": 1,
+   "crop": [
+    0,
+    0,
+    1000,
+    760
+   ],
+   "region": [
+    [
+     120,
+     20,
+     280,
+     380
+    ],
+    [
+     20,
+     560,
+     270,
+     190
+    ]
+   ],
+   "new_objects": [
+    "항아리로 떨어지는 유성(꼬리 끄는 별똥별)",
+    "오리 발밑의 펼친 책"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below, in the same flat cartoon style with the same soft outlines and flat colors, and keep everything else exactly as it is: the same people, animals, faces, hair, clothes, poses, background, colors, outlines and framing. 1) A small bright shooting star with a long glowing tail streaks down from the upper left and lands in the mouth of the cracked brown jar. 2) An open book lies on the grass in front of the white duck, and the duck stands with one webbed foot on its open pages. The pages are plain cream paper with no writing. Keep the white duck, the cracked brown jar and the purple mist coming out of it, the coughing gardener in green overalls, the bushes, the dirt path and the grass exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "유성 꼬리가 항아리 입으로 · 오리 발이 책장 위(곁에 놓이면 △) · 정원사 그대로 · 선 굵기 이음",
+   "fallback": "책이 오리와 떨어지면 'a small closed book tucked under the duck's wing' 꼴로 2)만 다시. 유성이 별 장식처럼 작게 나오면 'larger, with a long bright tail' 한 번"
+  },
+  {
+   "id": "E2",
+   "zone": "2 王履 · 온실 문",
+   "order": 2,
+   "crop": [
+    520,
+    400,
+    800,
+    1050
+   ],
+   "region": [
+    [
+     340,
+     400,
+     160,
+     200
+    ],
+    [
+     210,
+     40,
+     150,
+     220
+    ]
+   ],
+   "new_objects": [
+    "막는 손의 갈색 책",
+    "문 바깥 모서리의 붉은 종이 초롱"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below, in the same flat cartoon style with the same soft outlines and flat colors, and keep everything else exactly as it is: the same people, animals, faces, hair, clothes, poses, background, colors, outlines and framing. 1) The man in the blue shirt and rubber boots now holds a closed brown book upright in his outstretched hand, pressing it toward the shivering person in the blanket, as if stopping them with the book instead of his bare palm. His fingers clearly grip the book. 2) Hang one round red paper lantern from the top outer corner of the open glass door, on the garden side. Keep his face, brown hair, blue shirt, jeans, his walking pose in the red stream, the shivering blue-faced person wrapped in the blanket, the open glass door, the potted plants and the grass exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "책이 손에 쥐임 · 환자 쪽으로 듦 · 초롱이 문 바깥(유리 안 아님) · 붉은 시내 그대로",
+   "fallback": "초롱이 서양 램프로 나오면 'Chinese round red paper lantern with a gold tassel'"
+  },
+  {
+   "id": "E3",
+   "zone": "3 葉桂 · 금메달",
+   "order": 3,
+   "crop": [
+    1240,
+    150,
+    760,
+    850
+   ],
+   "region": [
+    [
+     140,
+     400,
+     190,
+     230
+    ],
+    [
+     500,
+     60,
+     150,
+     340
+    ]
+   ],
+   "new_objects": [
+    "가슴에 댄 초록 책"
+   ],
+   "also": "금메달 · 리본 · 갈고리 지움",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below, in the same flat cartoon style with the same soft outlines and flat colors, and keep everything else exactly as it is: the same people, animals, faces, hair, clothes, poses, background, colors, outlines and framing. 1) The man under the big leaf now holds a closed green book against his chest with his free hand, the hand on the right side of the picture. His fingers clearly grip the book. 2) Remove the gold medal, its ribbon and the hook it hangs from. Fill their place by continuing the clear blue glass wall and its frame lines around it. Keep his face, brown hair, red T-shirt and jeans, the big green leaf he holds up like an umbrella with his other hand, the round blue, green and red fences with the red flower, and the plants exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "책이 손 · 가슴에 닿음 · 메달 흔적 없음 · 잎 우산 그대로",
+   "fallback": "책이 등 뒤로 숨으면 'held in front of his chest, clearly visible'"
+  },
+  {
+   "id": "E3b",
+   "status": "사용자 승인 11-21 17:55",
+   "zone": "3 葉桂 — 天士 = 천사 날개",
+   "order": 3.5,
+   "crop": [
+    1240,
+    150,
+    760,
+    850
+   ],
+   "region": [
+    [
+     40,
+     220,
+     330,
+     520
+    ]
+   ],
+   "new_objects": [
+    "등의 흰 깃털 천사 날개"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below, in the same flat cartoon style with the same soft outlines and flat colors, and keep everything else exactly as it is: the same people, animals, faces, hair, clothes, poses, background, colors, outlines and framing. 1) Give the man under the big leaf a pair of white feathered angel wings on his back, spreading out a little on both sides of his body. Keep his face, brown hair, red T-shirt and jeans, the big green leaf he holds up like an umbrella, the green book at his chest, the fences and the glass wall exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "날개가 등에서 · 잎 실루엣 가리지 않음",
+   "why": "葉天士 = 잎 + 천사(21점). B-6 「천궁 = 천사(이것 하나만)」 승인 뒤에만"
+  },
+  {
+   "id": "E4",
+   "zone": "4 薛雪 · 吳瑭",
+   "order": 4,
+   "crop": [
+    1960,
+    150,
+    792,
+    800
+   ],
+   "region": [
+    [
+     320,
+     490,
+     170,
+     190
+    ],
+    [
+     520,
+     130,
+     232,
+     215
+    ]
+   ],
+   "new_objects": [
+    "눈사람 잔가지 손의 젖은 작은 책",
+    "바구니 오리 날개 밑 작은 책"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below, in the same flat cartoon style with the same soft outlines and flat colors, and keep everything else exactly as it is: the same people, animals, faces, hair, clothes, poses, background, colors, outlines and framing. 1) The melting snowman holds a small open book in its twig hand on the right side of the picture; the book is a little wet. The pages are plain with no writing. 2) The white duck sitting in the top hanging basket holds a small closed book under one wing, resting on the basket's rim. Keep the small round ball falling below the top basket, the snowman's face, carrot nose, buttons and sweat drops, the steam clouds, all three hanging baskets with their flowers, the ropes and the glass roof exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "눈사람 잔가지가 책을 쥠 · 오리 날개 밑 책 · 공이 그대로 떨어지는 중 · 바구니 셋(개수)",
+   "fallback": "오리 책이 사라지거나 공이 없어지면 2)를 빼고 1)만(吳瑭은 바구니 · 공이 짐)"
+  }
+ ]
+}

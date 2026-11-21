@@ -1,0 +1,119 @@
+{
+ "lesson": "hist-01a",
+ "batch": "b2",
+ "base": "images/lessons/hist-01a.webp",
+ "edits": [
+  {
+   "id": "A2",
+   "order": 2,
+   "zone": "1 대문 아래",
+   "crop": [
+    250,
+    860,
+    640,
+    640
+   ],
+   "region": [
+    [
+     150,
+     30,
+     160,
+     430
+    ],
+    [
+     85,
+     380,
+     330,
+     230
+    ]
+   ],
+   "new_objects": [],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. Remove the red electric guitar and the wooden paint palette under it completely. Fill their places by continuing what is already around them: the sandy yard ground, the stone base of the gate and the wooden door. The paper scroll lying on the ground on the left stays; where the palette covered it, finish its right end naturally as a rolled-up end lying on the sand. Keep the boy holding the scroll, the drum on the threshold, the gate and the door exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "기타 목 · 팔레트 물감 흔적 없음 · 땅 두루마리 끝이 자연스러움 · 북 그대로",
+   "fallback": "흔적이 남으면 'Remove the remaining red guitar neck / paint blobs' 한 번"
+  },
+  {
+   "id": "A3",
+   "order": 3,
+   "zone": "3 內經 대청",
+   "crop": [
+    1200,
+    360,
+    840,
+    1100
+   ],
+   "region": [
+    [
+     240,
+     140,
+     320,
+     300
+    ],
+    [
+     120,
+     635,
+     165,
+     110
+    ],
+    [
+     180,
+     800,
+     195,
+     105
+    ],
+    [
+     410,
+     600,
+     370,
+     445
+    ],
+    [
+     360,
+     790,
+     60,
+     260
+    ]
+   ],
+   "new_objects": [
+    "선비 손의 두 권 묶음(위: 귓속말하는 흰 책)",
+    "아래 책 끈에 끼운 긴 침"
+   ],
+   "also": "구미호 지움 · 마루와 디딤돌의 책 묶음 둘 지움(손으로 옮김)",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Remove the white nine-tailed fox completely and fill its place with the grey stone terrace, the stone steps and the wooden floor edge around it. 2) Remove the tied stack of books on the wooden floor and the tied stack of books on the stone step; fill their places with the same floor and stone. 3) The young scholar keeps the yellow-robed, white-bearded emperor hand puppet on one hand exactly as it is. With his other hand he now holds a stack of two tied books up beside his ear, gripped firmly. The top book is white and is whispering into his ear: draw a few small curved whisper lines between the book and his ear. A long thin acupuncture needle is tucked under the string of the lower book, sticking out to the side. Keep his face, headband, clothes, the puppet, the gold medal on the pillar, the pillars and the room exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "두 권이 손에 쥐어짐(손-책) · 귓속말 선 · 침 · 인형 그대로 · 여우 꼬리 흔적 없음",
+   "fallback": "귓속말 선 · 침이 안 읽히면 두 권 묶음을 쥔 손만 남기고 素問 · 靈樞는 대본으로(접촉이 먼저)"
+  },
+  {
+   "id": "A4",
+   "order": 4,
+   "zone": "4 神農",
+   "crop": [
+    1980,
+    680,
+    540,
+    720
+   ],
+   "region": [
+    [
+     160,
+     20,
+     120,
+     170
+    ],
+    [
+     90,
+     250,
+     200,
+     190
+    ]
+   ],
+   "new_objects": [
+    "神農 손의 초록 책(잎 그림 표지)"
+   ],
+   "also": "얼굴만 신난 표정으로",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The leaf-caped man's face becomes wide-eyed and delighted, eyebrows raised, with a big happy grin around the herb stem he is chewing; keep the herb at his mouth, his beard and his hair as they are. 2) In his lower hand, replace the small woven pouch and the loose herb sprig with a thick green book that he grips firmly in the same hand against his hip. On its cover there is only a simple picture of one green leaf (only a picture, no writing). Keep his leaf cape, his body, the herb basket on the floor, the three-shelf herb rack with its gold medal, the round four-season window, the pillar and the floor exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "책이 손에 쥐어짐 · 신난 얼굴 · 입의 약초 그대로 · 선반 메달 그대로",
+   "fallback": "얼굴이 다른 사람이 되면 1)을 빼고 2)만"
+  }
+ ]
+}

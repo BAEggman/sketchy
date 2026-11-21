@@ -1,0 +1,1065 @@
+{
+ "perspective": "사건 먼저 — 사람마다 손이 자기 책 · 사물에 닿는 큰 동작 하나로 기여를 진다. 숫자 부호와 사건에 닿지 않는 소품은 걷어낸다(이름 단서는 사건 위에 얹을 수 있을 때만).",
+ "lessons": {
+  "hist-03a": {
+   "scope": {
+    "in": [
+     "孫思邈 千金要方 · 千金翼方 · 중국 최초 臨床百科全書(262 · 3850 · 3851)",
+     "孫思邈 經路 채색(1641) · 阿是穴(3792)",
+     "甄權 明堂圖 수정(1640 · 3851)",
+     "蘇敬 등 新修本草 최초 朝撰本草(250) · 勅選 · 세계 최초 藥典(3418)"
+    ],
+    "trainer": [
+     "本草 저작 순서(3424, Q62) — 표가 낫다",
+     "藥王 · 三人明堂圖 · 五色 · 大醫精誠 · 844~850종 · 뉘른베르크 · 藥圖 · 圖經 — 과 JSON에만 있음(확인 필요), 그림 · 대본에서 뺌",
+     "659 · 20여 명 — 문제집(1219 · 999)만, 사실 칸에만"
+    ]
+   },
+   "keep": [
+    {
+     "what": "낙타 탄 웃는 아이(손자 + 사막)",
+     "why": "8절 사용자 단서"
+    },
+    {
+     "what": "권투 장갑 개가 붓으로 인체 괘도를 고침",
+     "why": "8절 단서 + 손(장갑)이 서명 피규어(明堂圖)에 닿는 교정 동작 — 이미 사건"
+    },
+    {
+     "what": "경례하는 소",
+     "why": "8절 단서. 오른손 경례는 그대로, 왼손만 책으로"
+    },
+    {
+     "what": "붉은 리본 · 밀랍 봉인 파란 책 + 약초 두루마리",
+     "why": "官修 = 붉은 봉인(고정 동사)"
+    },
+    {
+     "what": "노인 가슴을 눌러 움찔(阿是穴)",
+     "why": "그대로 사건으로 읽힘"
+    },
+    {
+     "what": "이젤의 색 경락선 몸 그림 · 날개 금 원보",
+     "why": "經路 채색(1641) · 翼(보탬)의 뜻 고리. 몸 그림 개수는 대본에서 세지 않는다"
+    }
+   ],
+   "replace": [
+    {
+     "old": "바닥의 큰 금덩이(아무도 안 쥠)",
+     "new": "아이가 한 손으로 머리 위로 들어 올린 두꺼운 금빛 표지 책",
+     "fact": "孫思邈 『千金要方』",
+     "ref": "262 · 3851",
+     "why": "손-책 0 → 1. 金 = 千金 뜻 고리는 그대로"
+    },
+    {
+     "old": "낙타 목의 금메달",
+     "new": "같은 메달이 아이가 든 금빛 책에 걸림",
+     "fact": "『千金要方』 중국 최초 臨床百科全書",
+     "ref": "262 · 3850",
+     "why": "메달이 걸린 물건이 「무엇의 최초」를 말해야 함(4-2)"
+    },
+    {
+     "old": "탁자 다리의 금메달 · 소의 등 뒤 왼손",
+     "new": "소의 왼손이 봉인 책 위를 손바닥으로 눌러 얹음(선서 꼴), 메달은 책의 붉은 리본에 걸림",
+     "fact": "蘇敬 등 『新修本草』 최초 朝撰本草",
+     "ref": "250 · 3418",
+     "why": "손-책 · 메달-책. 경례는 그대로"
+    }
+   ],
+   "add": [],
+   "lineage": "經穴 그림 계보 甄權 明堂圖 수정 ↔ 孫思邈 經路 채색(1640–1641)을 사실 칸 한 줄로. 충돌 35: 明堂圖 수정은 「孫思邈(唐) … 明堂圖 수정」(3850)과 「甄權(明堂圖 수정)」(3851 · 1640) 둘 다 적고 판정하지 않음 — 그림은 지금대로 개에게만 둠. 本草 계보 新修本草 → 本草拾遺(3418, hist-03b) → 證類(Q38 함정).",
+   "edits": [
+    {
+     "zone": 1,
+     "crop": [
+      0,
+      180,
+      960,
+      1356
+     ],
+     "round": 1,
+     "new_objects": [
+      "금빛 표지 두꺼운 책(아이 손)"
+     ],
+     "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The laughing child riding the camel now lifts a thick closed book with a shiny gold cover high above his head in his right hand, gripped firmly; his other hand keeps holding the reins. 2) Move the gold medal from the camel's neck onto that book: the same medal on its blue ribbon now hangs from the gold book. The camel's neck is bare. 3) Remove the big gold nugget on the floor at the lower left. Fill its place by continuing what is already around it: the wooden edge of the sand tray, the floor boards and scattered candies. Keep the child's face, the camel, the sand tray, the easel with the body charts and their colored lines, the winged gold ingot and the shelves exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture."
+    },
+    {
+     "zone": 3,
+     "crop": [
+      1900,
+      180,
+      852,
+      1356
+     ],
+     "round": 1,
+     "new_objects": [],
+     "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The cow keeps saluting with its raised right hand. Its other hand, now visible in front, rests flat on top of the blue book with the red ribbon and red wax seal, pressing down on it like taking an oath. 2) Move the gold medal from the leg of the table onto the book: the same medal now hangs from the red ribbon on the front of the book. Keep the cow's face, hat, horns, white robe, the red seal, the herb scroll, the table and the shelves exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture."
+    }
+   ],
+   "stations": [
+    {
+     "n": 0,
+     "kind": "frame",
+     "obj": "사탕 과자점 앞홀",
+     "fact": "唐 ① 孫思邈 · 甄權 · 蘇敬",
+     "hook": "사탕 = 唐 터",
+     "say": "알사탕이 깔린 과자점, 唐 터다. 세 사람이 저마다 제 책을 손에 쥐고 일한다.",
+     "tts": "알사탕이 깔린 과자점, 당 터다. 세 사람이 저마다 제 책을 손에 쥐고 일한다."
+    },
+    {
+     "n": 1,
+     "obj": "낙타 탄 아이가 메달 단 금빛 책을 번쩍 듦 · 날개 금 원보",
+     "fact": "孫思邈 千金要方(중국 최초 臨床百科全書) · 千金翼方(262 · 3851)",
+     "hook": "손자 + 사막 = 孫思邈 · 금 = 千金 · 날개 = 翼",
+     "say": "사막 쟁반에서 낙타 탄 손자가 금빛 책을 번쩍 든다. 孫思邈의 『千金要方』이고, 책에 걸린 메달은 중국 최초 임상 백과전서라는 뜻. 바닥의 날개 단 금은 『千金翼方』.",
+     "tts": "사막 쟁반에서 낙타 탄 손자가 금빛 책을 번쩍 든다. 손사막의 천금요방이고, 책에 걸린 메달은 중국 최초 임상 백과전서라는 뜻. 바닥의 날개 단 금은 천금익방.",
+     "box": [
+      20,
+      180,
+      1280,
+      1270
+     ]
+    },
+    {
+     "n": 2,
+     "obj": "아이 뒤 이젤, 색 선이 그어진 몸 그림",
+     "fact": "孫思邈 — 經絡의 經路를 색을 칠해 표시(1641)",
+     "hook": "색칠한 몸 그림 = 經路 채색",
+     "say": "아이 뒤 이젤의 몸 그림에는 경락 길이 색으로 칠해져 있다. 孫思邈이 經路를 색칠해 표시했다(교재 1641행). 天然色 經絡圖譜 최초는 다른 칸(滑壽)이다.",
+     "tts": "아이 뒤 이젤의 몸 그림에는 경락 길이 색으로 칠해져 있다. 손사막이 경로를 색칠해 표시했다. 천연색 경락도보 최초는 다른 칸, 활수다.",
+     "box": [
+      125,
+      215,
+      810,
+      555
+     ]
+    },
+    {
+     "n": 3,
+     "obj": "젊은이가 노인 가슴을 누르자 움찔",
+     "fact": "孫思邈 — 阿是穴 정립 · 經外奇穴 보충(3792 · 문제집 Q90)",
+     "hook": "누르자 「아!」 = 阿是穴",
+     "say": "젊은이가 노인 가슴을 누르자 노인이 아 하고 움찔한다. 아픈 곳이 곧 혈, 阿是穴이다.",
+     "tts": "젊은이가 노인 가슴을 누르자 노인이 아 하고 움찔한다. 아픈 곳이 곧 혈, 아시혈이다.",
+     "box": [
+      920,
+      410,
+      375,
+      510
+     ]
+    },
+    {
+     "n": 4,
+     "obj": "권투 장갑 개가 붓으로 점 찍힌 인체 괘도를 고침",
+     "fact": "甄權 — 고대 明堂圖를 수정(1640 · 3851)",
+     "hook": "개 + 권투 = 甄權 · 괘도 고치기 = 明堂圖 수정",
+     "say": "권투 장갑 낀 개가 붓으로 사람 몸 괘도의 점을 고쳐 찍는다. 개 견, 권투 권, 甄權이 옛 明堂圖를 고쳤다.",
+     "tts": "권투 장갑 낀 개가 붓으로 사람 몸 괘도의 점을 고쳐 찍는다. 개 견, 권투 권, 견권이 옛 명당도를 고쳤다.",
+     "box": [
+      1210,
+      220,
+      660,
+      980
+     ]
+    },
+    {
+     "n": 5,
+     "obj": "경례하는 소가 다른 손을 붉은 봉인 책 위에 얹어 누름",
+     "fact": "蘇敬 등 新修本草 — 최초의 朝撰本草(250 · 3850)",
+     "hook": "소 + 경례 = 蘇敬 · 붉은 봉인 = 官修",
+     "say": "관모 쓴 소가 경례하며 다른 손으로 붉은 봉인 책을 누른다. 蘇敬 등이 나라의 명으로 엮은 『新修本草』다.",
+     "tts": "관모 쓴 소가 경례하며 다른 손으로 붉은 봉인 책을 누른다. 소경 등이 나라의 명으로 엮은 신수본초다.",
+     "box": [
+      1925,
+      200,
+      827,
+      1000
+     ]
+    },
+    {
+     "n": 6,
+     "obj": "봉인 책 리본에 걸린 메달 · 옆 약초 두루마리",
+     "fact": "新修本草 — 중국 최초 勅選本草 · 세계 최초 藥典(3418)",
+     "hook": "책에 걸린 메달 = 최초 朝撰 · 세계 최초 藥典",
+     "say": "봉인 책에 걸린 메달은 최초의 朝撰本草, 세계에서 처음 나라가 반포한 藥典이라는 뜻. 宋의 證類本草와 바꿔 내는 함정에 주의.",
+     "tts": "봉인 책에 걸린 메달은 최초의 조찬본초, 세계에서 처음 나라가 반포한 약전이라는 뜻. 송의 증류본초와 바꿔 내는 함정에 주의.",
+     "box": [
+      1960,
+      790,
+      780,
+      720
+     ]
+    },
+    {
+     "n": 7,
+     "kind": "review",
+     "obj": "왼쪽 → 오른쪽",
+     "fact": "되짚기",
+     "hook": "손에 든 책 셋",
+     "say": "금빛 책 든 손자, 괘도 고치는 개, 봉인 책 누르는 소.",
+     "tts": "금빛 책 든 손자, 괘도 고치는 개, 봉인 책 누르는 소."
+    }
+   ],
+   "questions": [
+    {
+     "q": "낙타 탄 아이가 든 금빛 책과 거기 걸린 메달은?",
+     "a": "孫思邈 『千金要方』 — 중국 최초 臨床百科全書"
+    },
+    {
+     "q": "소가 손으로 누르는 붉은 봉인 책은 무엇의 최초인가? 宋 證類本草와 어느 쪽?",
+     "a": "蘇敬 등 『新修本草』, 최초 朝撰本草(Q38 ⑤ 證類는 틀림)"
+    },
+    {
+     "q": "(거꾸로) 「阿是穴」을 들으면 그림의 무엇?",
+     "a": "노인 가슴을 눌러 「아!」 움찔 — 孫思邈"
+    }
+   ],
+   "risks": [
+    "아이가 책을 들면 고삐 손이 풀릴 수 있음 — 한 손만 바꾸라고 적음",
+    "메달 옮기기는 접촉류(67%) — 실패 시 메달이 둘로 남을 수 있어 「The camel's neck is bare」를 넣음",
+    "Z1 오른쪽 끝(960)이 날개 원보를 가로지름 — 붙일 때 이음매 확인"
+   ],
+   "needs_user_ok": [
+    "바닥 큰 금덩이를 지우고 금빛 책으로 옮김(8절 아님, 千金 뜻은 유지)",
+    "이젤 몸 그림 넷 ↔ 지금 대본 「세 사람 · 오색」(확인 필요) — 대본에서 개수 · 三人 · 五色을 빼려 함",
+    "孫思邈 經路 채색(1641)을 정거장으로 둠 — 충돌 40(天然色 = 滑壽, 사용자 결정)과 다른 사실로 갈라 적었는데 이 칸에 두어도 되는지",
+    "충돌 1 孫思邈 왕조 「晉」(262) ↔ 「唐」(3850 · 1641 · Q17): 그림은 唐 터, 사실 칸에 둘 다 적음"
+   ],
+   "self_score": "사실 18 · 단서 24 · 손 18(사람 셋 모두 책 · 괘도에 닿음) · 범위 9 · 소품 10(새 물건 1) · 보존 10 ≈ 89"
+  },
+  "hist-03b": {
+   "wangbing_choice": "(나) 과 나누기. pilot-wangbing은 이미 王冰 한 사람이 열쇠 · 책 · 쪽지로 기여를 손으로 하는 완결 사건이고 사용자 검수를 넘었다. hist-03b 오른쪽 구역을 시범처럼 고치려면 사람 추가 + 열쇠 꽂기(드리프트 최약) + 새 물건 6 이상이 든다. 王冰은 새 과 hist-03c(제안 id)로 pilot-wangbing 그림 · 정거장 그대로, hist-03b는 孟詵 · 陳藏器 · 李珣 · 王燾 넷으로 줄이고 오른쪽 王冰 구역 소품은 지운다.",
+   "new_lesson": {
+    "id": "hist-03c(제안)",
+    "image": "pilot-wangbing",
+    "w": 2752,
+    "h": 1536,
+    "stations": "src/lessons/l/pilot-wangbing.json n0–7의 obj · box 그대로 + 끝에 review 하나. 사실 줄 187 · 190 · 266–267 · 3851"
+   },
+   "scope": {
+    "in": [
+     "孟詵 食療本草(3418 · 3850)",
+     "陳藏器 本草拾遺 — 新修本草 誤謬 바로잡고 增補(3418) · 十劑說 처음 제창(249 · 3625)",
+     "李珣 海藥本草(3850)",
+     "王燾 外臺秘要 종합성 醫書(263 · 245 · 3851)"
+    ],
+    "trainer": [
+     "十劑 열 글자 宣通補泄輕重滑澁燥濕(249) — 표로. 과 JSON 瀉 · 澀과 글자 다름",
+     "十劑(陳藏器) ↔ 十種(徐之才) ↔ 宋 聖濟經(3641) 짝표",
+     "許仁則 · 褚澄 · 范汪 등(268–270) — 지금 21과에 없음, 표로",
+     "孫思邈 제자 · 補養方 · 唐末五代 · 페르시아계 · 752 · 40권 · 비서성 · 739 — 확인 필요, 그림 · 대본에서 뺌"
+    ]
+   },
+   "keep": [
+    {
+     "what": "죽 먹는 맹꽁이",
+     "why": "8절 보존. 숟가락질은 그대로, 그릇만 책으로"
+    },
+    {
+     "what": "거미줄 친 묵은 장독",
+     "why": "8절 보존(陳 · 藏 · 器 뜻)"
+    },
+    {
+     "what": "몸 없는 줍는 손 둘",
+     "why": "8절 보존. 몸을 붙이지 않는다. 손이 책에 닿게만 함"
+    },
+    {
+     "what": "자두 실은 바다 돛배",
+     "why": "8절 보존(李 · 海)"
+    },
+    {
+     "what": "바깥 마루에서 「쉿」 하며 덮는 관리",
+     "why": "이미 사건(外臺 · 秘 · 燾). 옷 무늬 · 덮개만 고침"
+    }
+   ],
+   "replace": [
+    {
+     "old": "맹꽁이 왼손의 죽 그릇 · 밥상 위 둘째 죽 그릇",
+     "new": "죽이 담긴 펼친 두꺼운 책을 그릇처럼 안고 숟가락으로 떠먹음 · 둘째 그릇 지움",
+     "fact": "孟詵 『食療本草』 — 먹는 본초",
+     "ref": "3418",
+     "why": "손-책. 「책을 떠먹는다」가 食療 그대로"
+    },
+    {
+     "old": "선반 일렉기타 + 공룡(10)",
+     "new": "지움(선반 · 벽으로 메움)",
+     "fact": "—",
+     "ref": "—",
+     "why": "부호표 단서. 十劑는 아래 열 손가락으로"
+    },
+    {
+     "old": "(없음) 줍는 손이 사탕 · 약초를 집기만 함",
+     "new": "줍는 손이 약초를 집어 장독 앞에 펼쳐 놓인 파란 책 위에 얹음",
+     "fact": "陳藏器 『本草拾遺』 — 新修本草에 빠진 것을 주워 보탬 · 十劑(열 손가락)",
+     "ref": "3418 · 249 · 3625",
+     "why": "손-책. 두 손 = 열 손가락 = 十劑(수에 이유, 새 물건 없음)"
+    },
+    {
+     "old": "王燾 옷의 왕관 무늬 · 모자의 왕관 장식",
+     "new": "무늬 없는(구름 무늬) 같은 색 옷 · 장식 없는 모자",
+     "fact": "—",
+     "ref": "—",
+     "why": "「왕관」 셋째 운반 = 낙제(5-3)"
+    },
+    {
+     "old": "자물쇠 보물 상자 · 검은 천",
+     "new": "쪽지가 삐져나온 자물쇠 달린 두꺼운 책 · 그 위를 덮어 누르는 왕골 돗자리",
+     "fact": "王燾 『外臺秘要』 — 秘(자물쇠) · 덮을 燾 · 왕골의 「왕」",
+     "ref": "263 · 3851",
+     "why": "손-책(돗자리 너머 책을 누름). 왕관 대신 王을 「왕골」이 짐"
+    },
+    {
+     "old": "오른쪽 王冰 구역(얼음 · 책 · 왕관 · 상자 · 열쇠 · 깃발 · 칠면조 · 불 · 물)",
+     "new": "지움(마루 · 벽 · 창으로 메움)",
+     "fact": "王冰은 hist-03c로",
+     "ref": "266–267",
+     "why": "(나) — 같은 단서가 pilot-wangbing에 다 있음"
+    }
+   ],
+   "add": [
+    {
+     "obj": "돛배 갑판에 선 작은 조선 수군 장수(투구 · 수염)가 펼친 책을 두 손으로 머리 위로 듦",
+     "fact": "李珣 『海藥本草』 — 이순(신) → 李珣 · 바다 → 海藥",
+     "ref": "3850",
+     "zone": 4
+    }
+   ],
+   "lineage": "本草 계보 新修本草(hist-03a, 파란 책) → 本草拾遺(줍는 손이 파란 책에 보탬, 3418) → … 本草綱目拾遺(趙學敏, hist-05b) 짝. 拾遺 함정: 陶弘景(Q101) · 宋 국가 편찬(Q39). 方書 짝 千金方 · 外臺秘要(245) 사실 칸 한 줄. 王冰 內經 주석 계보는 hist-03c가 짐.",
+   "edits": [
+    {
+     "zone": 6,
+     "crop": [
+      1760,
+      300,
+      992,
+      1236
+     ],
+     "round": 1,
+     "new_objects": [],
+     "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. Remove these things completely: the big block of ice with icicles, the open book and the small crown on it, the turkey, all the small flags with weather pictures, the chest full of black balls, the key on the floor, the campfire and the fountain of water. Fill their places by continuing what is already around them: the wooden floor boards with scattered colorful candies, the wooden wall, the window and the edge of the raised wooden porch. Keep the big stone basin with candies on its rim and the sailing boat on the left edge exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture."
+    },
+    {
+     "zone": 5,
+     "crop": [
+      1600,
+      20,
+      700,
+      720
+     ],
+     "round": 2,
+     "overlap": "Z6 붙인 그림에서 자름. 겹침 띠 x 1760–2300, y 300–740",
+     "new_objects": [
+      "자물쇠 달린 두꺼운 책(상자 대신)",
+      "왕골 돗자리(검은 천 대신)"
+     ],
+     "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Replace the treasure chest with a thick closed book of the same size, in the same place, with a metal padlock on its clasp and small paper slips sticking out from its pages. 2) Replace the black cloth with a woven straw mat made of pale sedge, and he pulls it over the book with the same hand, in the same place, pressing the book down through the mat. 3) His robe keeps the same golden color, but every small crown pattern on it becomes a plain small cloud pattern, and the small crown on his hat is removed. Keep his face, his finger at his lips saying hush, his black hat, the raised porch, the railing, the trees and the window exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture."
+    },
+    {
+     "zone": 1,
+     "crop": [
+      0,
+      180,
+      720,
+      1200
+     ],
+     "round": 1,
+     "new_objects": [
+      "죽이 담긴 펼친 책"
+     ],
+     "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The bowl of porridge in the green frog's hand becomes a thick open book that it holds in the same hand, in the same place, like a bowl; warm porridge is heaped on its open pages, and the frog scoops porridge from the book with its spoon. 2) Remove the second bowl of porridge on the small tray. Fill its place by continuing the wooden tray. Keep the frog's happy face, its spoon, its pose, the small tray, the jars on the floor and the candies exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture."
+    },
+    {
+     "zone": 2,
+     "crop": [
+      360,
+      0,
+      1000,
+      480
+     ],
+     "round": 1,
+     "new_objects": [],
+     "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. Remove these things completely: the red electric guitar and the green dinosaur on the shelf. Fill their places by continuing what is already around them: the wooden shelf board and the plain wall behind it. Keep the glass bottles on the other shelves, the jars on the top shelf and the shelf brackets exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture."
+    },
+    {
+     "zone": 3,
+     "crop": [
+      520,
+      480,
+      560,
+      950
+     ],
+     "round": 1,
+     "new_objects": [
+      "장독 앞 바닥의 펼친 파란 책"
+     ],
+     "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Put one open book with a blue cover lying flat on the floor in front of the big old jar, between the two hands. 2) The two hands now pick up green herbs and candies from the floor and place them onto the open pages of the blue book; the fingers of one hand touch the page. Keep the two hands as hands only, without arms or bodies. Keep the big old cracked jar, the cobwebs and the candies on the floor exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture."
+    },
+    {
+     "zone": 4,
+     "crop": [
+      960,
+      420,
+      840,
+      880
+     ],
+     "round": 1,
+     "new_objects": [
+      "조선 수군 장수(작게)",
+      "장수가 든 펼친 책"
+     ],
+     "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) On the deck of the sailing boat, next to the purple plums, put one small Korean Joseon-era navy admiral with a dark helmet, armor and a black beard. 2) He lifts an open book high above his head with both hands, gripping it firmly. Keep the boat, its sail and flag, the pile of purple plums, the water in the basin and the candies on the basin rim exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture."
+    }
+   ],
+   "stations": [
+    {
+     "n": 0,
+     "kind": "frame",
+     "obj": "사탕 과자점 뒷마루",
+     "fact": "唐 ② 孟詵 · 陳藏器 · 李珣 · 王燾 — 本草와 方書",
+     "hook": "사탕 = 唐",
+     "say": "과자점 뒷마루, 唐 터다. 넷이 저마다 책을 먹고 · 줍고 · 들고 · 덮는다.",
+     "tts": "과자점 뒷마루, 당 터다. 넷이 저마다 책을 먹고, 줍고, 들고, 덮는다.",
+     "box": null
+    },
+    {
+     "n": 1,
+     "obj": "맹꽁이가 죽 담긴 책을 안고 숟가락으로 떠먹음",
+     "fact": "孟詵 『食療本草』 — 李珣 아님(3418 · Q24)",
+     "hook": "맹꽁이 = 孟 · 책을 떠먹음 = 食療",
+     "say": "맹꽁이가 죽이 담긴 책을 떠먹는다. 맹꽁이의 맹, 孟詵의 『食療本草』. 문제집은 이것을 李珣이라 바꿔 낸다.",
+     "tts": "맹꽁이가 죽이 담긴 책을 떠먹는다. 맹꽁이의 맹, 맹선의 식료본초. 문제집은 이것을 이순이라 바꿔 낸다.",
+     "box": [
+      30,
+      190,
+      690,
+      1050
+     ]
+    },
+    {
+     "n": 2,
+     "obj": "거미줄 친 묵은 장독",
+     "fact": "陳藏器 『本草拾遺』(3418)",
+     "hook": "묵은 · 갈무리 · 그릇 = 陳藏器",
+     "say": "거미줄 친 묵은 장독. 묵을 陳, 갈무리 藏, 그릇 器, 陳藏器다.",
+     "tts": "거미줄 친 묵은 장독. 묵을 진, 갈무리 장, 그릇 기, 진장기다.",
+     "box": [
+      620,
+      515,
+      370,
+      450
+     ]
+    },
+    {
+     "n": 3,
+     "obj": "줍는 손이 약초를 주워 파란 책에 얹음",
+     "fact": "本草拾遺 — 新修本草의 誤謬를 바로잡고 增補(3418)",
+     "hook": "주워 보탬 = 拾遺 · 파란 책 = 앞 과의 新修本草",
+     "say": "장독 앞 손이 바닥의 약초를 주워 파란 책에 얹는다. 앞 과 『新修本草』에 빠진 것을 주워 보탠 『本草拾遺』. 陶弘景도 宋 관찬도 아니다.",
+     "tts": "장독 앞 손이 바닥의 약초를 주워 파란 책에 얹는다. 앞 과 신수본초에 빠진 것을 주워 보탠 본초습유. 도홍경도 송 관찬도 아니다.",
+     "box": [
+      520,
+      1000,
+      560,
+      420
+     ]
+    },
+    {
+     "n": 4,
+     "obj": "줍는 두 손 = 열 손가락",
+     "fact": "陳藏器 — 十劑說 처음 제창(249 · 3625)",
+     "hook": "두 손 열 손가락 = 十劑",
+     "say": "주워 담는 두 손, 손가락이 모두 열이다. 陳藏器가 약을 열 갈래로 나눈 十劑를 처음 세웠다. 徐之才의 十種과 짝으로 외운다.",
+     "tts": "주워 담는 두 손, 손가락이 모두 열이다. 진장기가 약을 열 갈래로 나눈 십제를 처음 세웠다. 서지재의 십종과 짝으로 외운다.",
+     "box": [
+      520,
+      1000,
+      560,
+      420
+     ]
+    },
+    {
+     "n": 5,
+     "obj": "자두 실은 돛배 위 수군 장수가 책을 번쩍 듦",
+     "fact": "李珣 『海藥本草』(3850)",
+     "hook": "이순(신) = 李珣 · 자두 = 李 · 바다 = 海藥",
+     "say": "자두를 실은 바다 배 위에서 수군 장수가 책을 번쩍 든다. 이순신의 이순, 李珣의 『海藥本草』다.",
+     "tts": "자두를 실은 바다 배 위에서 수군 장수가 책을 번쩍 든다. 이순신의 이순, 이순의 해약본초다.",
+     "box": [
+      975,
+      440,
+      800,
+      840
+     ]
+    },
+    {
+     "n": 6,
+     "obj": "바깥 마루에서 쉿 하며 왕골 돗자리로 자물쇠 책을 덮어 누름",
+     "fact": "王燾 『外臺秘要』 — 종합성 醫書(263 · 3851)",
+     "hook": "왕골 = 王 · 덮을 燾 · 바깥 마루 = 外臺 · 쉿 자물쇠 = 秘要",
+     "say": "바깥 높은 마루에서 관리가 쉿 하며 자물쇠 책을 왕골 돗자리로 덮어 누른다. 왕골의 왕, 덮을 도, 王燾의 『外臺秘要』.",
+     "tts": "바깥 높은 마루에서 관리가 쉿 하며 자물쇠 책을 왕골 돗자리로 덮어 누른다. 왕골의 왕, 덮을 도, 왕도의 외대비요.",
+     "box": [
+      1610,
+      35,
+      645,
+      680
+     ]
+    },
+    {
+     "n": 7,
+     "kind": "review",
+     "obj": "왼쪽 → 오른쪽",
+     "fact": "되짚기 — 다음 과 王冰(hist-03c)",
+     "hook": "먹고 · 줍고 · 들고 · 덮고",
+     "say": "책을 떠먹는 맹꽁이, 책에 줍는 열 손가락, 책을 든 수군 장수, 책을 덮는 관리. 王冰은 다음 칸 왕빙수.",
+     "tts": "책을 떠먹는 맹꽁이, 책에 줍는 열 손가락, 책을 든 수군 장수, 책을 덮는 관리. 왕빙은 다음 칸 왕빙수.",
+     "box": null
+    }
+   ],
+   "questions": [
+    {
+     "q": "죽 담긴 책을 떠먹는 맹꽁이의 이름과 책은? 李珣인가?",
+     "a": "孟詵 『食療本草』 — 李珣은 海藥本草(Q24 ④)"
+    },
+    {
+     "q": "줍는 손이 파란 책에 얹는 동작과 두 손의 손가락 수가 지는 것은?",
+     "a": "陳藏器 『本草拾遺』가 新修本草를 보탬 · 十劑說 처음 제창"
+    },
+    {
+     "q": "(거꾸로) 「外臺秘要」를 들으면 그림의 무엇?",
+     "a": "바깥 마루에서 쉿 하며 왕골 돗자리로 자물쇠 책을 덮는 王燾"
+    }
+   ],
+   "risks": [
+    "수군 장수는 편집으로 더한 사람이라 작게 들어감 — 배 모형 크기라 오히려 맞음. 다만 「이순신」으로 읽히려면 조선 투구 · 갑옷이 살아야 함",
+    "왕골 돗자리는 그냥 「돗자리」로 읽힐 수 있음 — 대본이 「왕골」을 불러 줌",
+    "줍는 손 → 책 접촉(접촉류 67%)",
+    "열 손가락은 그림이 세지 않음 — 「두 손 = 열」이라는 이유로만 짐",
+    "오른쪽 대량 지우기(Z6) 뒤 빈 마루가 넓어 허전 — 그대로 둠(사건 없는 소품을 다시 채우지 않음)"
+   ],
+   "needs_user_ok": [
+    "(나) 과 나누기 — 王冰을 hist-03c(제안 id)로 떼고 pilot-wangbing 그림을 씀, 허브 과 순서 손질",
+    "hist-03b에서 8절 보존 단서(얼음 위 왕관 · 칠면조 · 날씨 깃발 · 검은 구슬과 열쇠)를 지움 — 같은 단서는 pilot-wangbing(검수 통과)에 남음",
+    "李珣에 조선 수군 장수(이순신 연상)를 새로 더함 — 8절 「바다 건너온 배」는 그대로",
+    "王燾의 검은 천 → 왕골 돗자리, 상자 → 자물쇠 책",
+    "十劑 부호(기타 + 공룡) → 열 손가락(새 단서)",
+    "十劑 글자 교재 泄 · 澁(249) ↔ 과 JSON 瀉 · 澀 — 둘 다 적음, 표에는 교재 글자"
+   ],
+   "self_score": "사실 18 · 단서 23 · 손 17(맹꽁이 · 손 · 장수 · 王燾 모두 책) · 범위 9 · 소품 8(새 물건 6, 편집 6회) · 보존 8(8절 넷을 시범 과로 옮김) ≈ 83"
+  },
+  "hist-07a": {
+   "base_prep": "pilot-xue(2752×1536) — R0 불필요. 1376 판 · 설계서는 _retired/로",
+   "xue_choice": "(가) 시범 그림이 과 그림을 대신. pilot-xue는 다섯 칸 모두 사람(또는 오리)이 제 서명 피규어를 손으로 다루는 사건(안음 · 들어 올림 · 쥠 · 넘김 · 놓음)이고 숫자 부호가 없다. repo 판을 고치면 부호 아홉을 갈아야 하고 사람이 둘뿐이다. masters 판은 왕관 셋째 · 그림자 상자 부호라 버림.",
+   "scope": {
+    "in": [
+     "皇甫謐 甲乙經 349 · 現存하는 최초 침구학 서적(246 · 309)",
+     "王維一 銅人腧穴鍼灸圖經 354 · 銅人 2具(308)",
+     "王執中 鍼灸資生經 同身寸(310) · 359(1643)",
+     "楊繼洲 鍼灸大成 359(309 · 1646)",
+     "吳謙 醫宗金鑑 361(309 · 3877)"
+    ],
+    "trainer": [
+     "楊繼洲 字 濟時(411) — 그림에 걸지 않고 사실 칸 · 字號 표로(사건에 닿지 않는 소품을 늘리지 않음)",
+     "경락 계보 한 줄 1633–1648 · 經穴 배열 계보 3793(Q102) — 표",
+     "1026 · 1601 · 1742 · 국가 침구 시험 · 取穴 표준화 · 칙찬 · 刺灸心法要訣 · 李學川 — 확인 필요"
+    ]
+   },
+   "keep": [
+    {
+     "what": "pilot-xue 전체(진달래 · 갑옷 새 · 주조공 · 구리 쌍둥이 · 보름달 · 새싹 자 · 고리 바통 · 계주 · 대성당 · 오리 · 금감자 · 바둑판 · 유리문 · 솔가지)",
+     "why": "사용자 검수 통과(DECISIONS 36), 손-피규어 다섯"
+    }
+   ],
+   "replace": [],
+   "add": [
+    {
+     "obj": "갑옷 새 목에 거는 금메달",
+     "fact": "甲乙經 — 現存하는 최초의 침구학 서적",
+     "ref": "246 · 255",
+     "zone": 1
+    }
+   ],
+   "lineage": "수 계보 349 → 354(+5) → 359(+5) → 359(그대로) → 361(+2)는 계단 높이가 진다. 甄權 · 孫思邈(hist-03a) · 滑壽 十四經(hist-07b)은 사실 칸 계보 한 줄로만. 혈 수 왜곡 짝 160 · 352(Q60)는 트레이너.",
+   "edits": [
+    {
+     "zone": 1,
+     "crop": [
+      0,
+      840,
+      700,
+      696
+     ],
+     "round": 1,
+     "base": "pilot-xue 2752 좌표",
+     "new_objects": [
+      "금메달(새 목)"
+     ],
+     "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Hang one round gold medal on a red ribbon around the neck of the armored bird that the man is hugging, resting on the bird's chest armor. Keep the man's face, the wheat ear behind his ear, his arms around the bird, the bird's helmet and armor, the pink azalea bushes and the stone step exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture."
+    }
+   ],
+   "stations": [
+    {
+     "n": 0,
+     "kind": "frame",
+     "obj": "왼쪽 아래 → 오른쪽 위 돌계단",
+     "fact": "혈 수 349 → 354 → 359 = 359 → 361",
+     "hook": "계단 높이 = 혈 수 차이",
+     "say": "진달래에서 유리문까지 오르는 돌계단. 다섯 사람이 혈 수를 한 칸씩 올린다.",
+     "tts": "진달래에서 유리문까지 오르는 돌계단. 다섯 사람이 혈 수를 한 칸씩 올린다.",
+     "box": null
+    },
+    {
+     "n": 1,
+     "obj": "진달래 속 밀 이삭 사내가 메달 건 갑옷 새를 안음",
+     "fact": "晉 皇甫謐 『甲乙經』 — 現存하는 최초 침구학 서적(246)",
+     "hook": "진달래 = 晉 · 밀 · 갑옷 새 = 甲乙 · 새 목 메달",
+     "say": "진달래 덤불에서 밀 이삭 꽂은 사내가 갑옷 입은 새를 안는다. 晉 皇甫謐의 『甲乙經』, 새 목의 메달은 現存하는 최초의 침구서.",
+     "tts": "진달래 덤불에서 밀 이삭 꽂은 사내가 갑옷 입은 새를 안는다. 진 황보밀의 갑을경, 새 목의 메달은 현존하는 최초의 침구서.",
+     "box": [
+      0,
+      840,
+      620,
+      620
+     ]
+    },
+    {
+     "n": 2,
+     "obj": "진달래를 구경하는 눈길",
+     "fact": "甲乙經 349穴(309)",
+     "hook": "진달래 피는 삼사월에 구경",
+     "say": "진달래 피는 삼사월에 구경, 삼백사십구 혈.",
+     "tts": "진달래 피는 삼사월에 구경, 삼백사십구 혈.",
+     "box": [
+      0,
+      880,
+      700,
+      656
+     ]
+    },
+    {
+     "n": 3,
+     "obj": "솔가지 문 아래 주조공이 쌍둥이 어깨에 손, 손가락 하나",
+     "fact": "北宋 王維一 — 銅人 2具 주조 · 銅人經(308)",
+     "hook": "유일! = 維一 · 구리 쌍둥이 = 銅人 2具 · 위 솔가지 = 北宋",
+     "say": "솔가지 문 아래 주조공이 구리 쌍둥이 어깨에 손을 얹고 하나뿐이라며 손가락을 든다. 北宋 王維一, 銅人 두 구.",
+     "tts": "솔가지 문 아래 주조공이 구리 쌍둥이 어깨에 손을 얹고 하나뿐이라며 손가락을 든다. 북송 왕유일, 동인 두 구.",
+     "box": [
+      350,
+      200,
+      860,
+      860
+     ]
+    },
+    {
+     "n": 4,
+     "obj": "쌍둥이가 들어 올린 보름달",
+     "fact": "銅人經 354穴(308)",
+     "hook": "보름달 = 음력 한 해",
+     "say": "쌍둥이가 든 보름달, 음력 한 해 삼백오십사 일. 삼백오십사 혈.",
+     "tts": "쌍둥이가 든 보름달, 음력 한 해 삼백오십사 일. 삼백오십사 혈.",
+     "box": [
+      870,
+      120,
+      380,
+      380
+     ]
+    },
+    {
+     "n": 5,
+     "obj": "문턱 밑 솔가지 평지, 새싹 자를 꽉 쥐고 엄지로 잼",
+     "fact": "南宋 王執中 『資生經』 — 同身寸 取穴 표준(310)",
+     "hook": "집중 = 執中 · 새싹 자 = 資生 · 아래 솔가지 = 南宋",
+     "say": "문턱 밑 솔가지 평지에서 찌푸린 사내가 새싹 돋은 자를 집중해 쥐고 엄지로 잰다. 南宋 王執中 『資生經』, 同身寸. 銅人과 바꿔 내는 함정.",
+     "tts": "문턱 밑 솔가지 평지에서 찌푸린 사내가 새싹 돋은 자를 집중해 쥐고 엄지로 잰다. 남송 왕집중 자생경, 동신촌. 동인과 바꿔 내는 함정.",
+     "box": [
+      1240,
+      420,
+      420,
+      840
+     ]
+    },
+    {
+     "n": 6,
+     "obj": "王執中이 내미는 한 끗 벌어진 고리",
+     "fact": "資生經 359穴(1643, 5장에만)",
+     "hook": "한 끗 벌어진 고리",
+     "say": "한 끗 벌어진 고리, 삼백오십구 혈. 1장 목록과 문제집 41번에는 資生經이 없다.",
+     "tts": "한 끗 벌어진 고리, 삼백오십구 혈. 일 장 목록과 문제집에는 자생경이 없다.",
+     "box": [
+      1520,
+      580,
+      220,
+      210
+     ]
+    },
+    {
+     "n": 7,
+     "obj": "등롱 단 버들 섬, 대성당 낀 계주 주자가 고리를 받음",
+     "fact": "明 楊繼洲 『鍼灸大成』 359穴(309 · 411)",
+     "hook": "수양버들 = 楊 · 계주 = 繼洲 · 대성당 = 大成 · 등롱 = 明",
+     "say": "붉은 등롱 단 수양버들 섬에서 계주 주자가 대성당을 끼고 고리를 그대로 받는다. 明 楊繼洲 『鍼灸大成』, 같은 삼백오십구. 大全은 徐鳳이다.",
+     "tts": "붉은 등롱 단 수양버들 섬에서 계주 주자가 대성당을 끼고 고리를 그대로 받는다. 명 양계주 침구대성, 같은 삼백오십구. 대전은 서봉이다.",
+     "box": [
+      1600,
+      60,
+      580,
+      900
+     ]
+    },
+    {
+     "n": 8,
+     "obj": "유리문 앞 흰 오리가 절하며 바둑판 가운데 금감자를 놓음",
+     "fact": "淸 吳謙 『醫宗金鑑』 361穴(309 · 3877)",
+     "hook": "오리 + 절 = 吳謙 · 금감자 = 金鑑 · 바둑판 십구 곱 십구 = 361 · 유리문 = 淸",
+     "say": "맑은 유리문 앞 흰 오리가 절하며 바둑판 한가운데 금감자를 놓는다. 淸 吳謙 『醫宗金鑑』, 바둑판 점 삼백육십일.",
+     "tts": "맑은 유리문 앞 흰 오리가 절하며 바둑판 한가운데 금감자를 놓는다. 청 오겸 의종금감, 바둑판 점 삼백육십일.",
+     "box": [
+      2150,
+      80,
+      600,
+      780
+     ]
+    },
+    {
+     "n": 9,
+     "kind": "review",
+     "obj": "계단 되짚기",
+     "fact": "되짚기",
+     "hook": "안고 · 들고 · 쥐고 · 받고 · 놓고",
+     "say": "새를 안고, 달을 들고, 자를 쥐고, 고리를 받고, 금감자를 놓는다.",
+     "tts": "새를 안고, 달을 들고, 자를 쥐고, 고리를 받고, 금감자를 놓는다.",
+     "box": null
+    }
+   ],
+   "questions": [
+    {
+     "q": "메달 건 갑옷 새를 안은 사내의 왕조 · 책 · 의의는?",
+     "a": "晉 皇甫謐 『鍼灸甲乙經』 — 現存하는 최초 침구학 서적 · 349"
+    },
+    {
+     "q": "새싹 자를 쥔 사람은 銅人을 지었나?",
+     "a": "아니다. 王執中 『資生經』 · 同身寸(Q55 ④). 銅人은 王維一"
+    },
+    {
+     "q": "(거꾸로) 「鍼灸大成」을 들으면 그림의 무엇? 大全과 갈라라",
+     "a": "대성당 낀 계주 주자 = 楊繼洲(大全은 徐鳳 서랍장, hist-07b)"
+    }
+   ],
+   "risks": [
+    "시범 그림의 정거장 상자는 pilot-xue.json 좌표 그대로 — 과 id만 바꿈",
+    "「쌍둥이 + 보름달」이 六經 그림 보름달(쌍둥이)을 부를 위험(judge 285)",
+    "메달 하나 추가는 작아도 되는 물건 — 실패해도 「갑옷 = 現存」으로 버팀"
+   ],
+   "needs_user_ok": [
+    "hist-07a 그림을 pilot-xue로 갈아 끼우고 옛 1376 판 · 녹음 보관",
+    "楊繼洲 字 濟時(튜브 · 시계)를 그림에서 빼고 사실 칸 · 字號 표로만",
+    "쌍둥이 + 보름달 ↔ 六經 그림 겹침(기존 검수 항목)",
+    "충돌 6 王維一(308 · 1642 · 3856 · 문제집) ↔ 王惟一(3793) — 둘 다 적고 표기는 정하지 않음",
+    "충돌 2 皇甫謐 晉(246) ↔ 秦(1638) · 충돌 13 「現存하는 최초」(246) ↔ 「최초 鍼灸 교과서」(3792) — 둘 다 사실 칸에"
+   ],
+   "self_score": "사실 18 · 단서 26 · 손 18 · 범위 9 · 소품 10(새 물건 1) · 보존 9 ≈ 90"
+  },
+  "hist-07b": {
+   "scope": {
+    "in": [
+     "河若愚 流注指微賦 · 子午流注(311)",
+     "竇默 字 漢卿 鍼經指南 · 標幽賦 · 通玄指要賦(312–313)",
+     "滑壽 伯仁 十四經發揮 · 任督 專穴(314–315)",
+     "徐鳳 鍼灸大全 · 歌賦 집대성(411 · 3794)",
+     "高武 鍼灸聚英(411)",
+     "汪機 鍼灸問對(412)"
+    ],
+    "trainer": [
+     "竇默 八法 · 鍼刺 14法(3794) · 王國瑞 · 竇材 · 閻明廣 · 凌雲 · 廖潤鴻 · 雷豊 — 표",
+     "號 攖寧生 · 廷瑞 · 金鍼賦 · 160년 · 石山 · 太師 · 남녀소아 銅人 3구 — 확인 필요, 그림 · 대본에서 뺌",
+     "1439(문제집 Q25)는 사실 칸에만"
+    ]
+   },
+   "keep": [
+    {
+     "what": "금광 · 원두막 · 붉은 등롱 터",
+     "why": "터 약속"
+    },
+    {
+     "what": "물방울 떨어지는 물시계 + 꼭대기 쥐 · 말",
+     "why": "流注 · 子午 — 사건의 무대"
+    },
+    {
+     "what": "쉿 하며 한옥 모형을 든 노인",
+     "why": "默 · 漢(卿) — Q54 「漢卿」"
+    },
+    {
+     "what": "정자 마루의 노래하는 사람",
+     "why": "竇默 곁 賦 — 말없는 竇默 대신 노래"
+    },
+    {
+     "what": "두 알 든 채 무지개 미끄럼 타는 노인 · 꼭대기 경락도 + 메달",
+     "why": "滑壽 · 伯仁 · 天然色(사용자 결정)"
+    },
+    {
+     "what": "서랍 약장 위 봉황 + 곁의 두루마리 노래꾼",
+     "why": "徐鳳 · 大全 · 歌賦 집대성 — 노래꾼을 徐鳳 본인으로 부름"
+    },
+    {
+     "what": "높은 투구 무사의 꽃다발 · 마주 앉은 문답 · 베틀 · 물",
+     "why": "高武 聚英 · 汪機 問對"
+    }
+   ],
+   "replace": [
+    {
+     "old": "물시계 사람의 막대 · 옆 노래꾼(이름 없음)",
+     "new": "물시계 사람이 물방울 아래서 두루마리를 펼쳐 들고 노래 · 옆 노래꾼 지움",
+     "fact": "河若愚 『流注指微賦』",
+     "ref": "311",
+     "why": "한 사람 한 동작으로 묶고 손-책. 노래꾼 셋 → 각자 주인 있음"
+    },
+    {
+     "old": "竇默 오른손 금빛 홀",
+     "new": "그 손이 나침반에 선 긴 침의 윗끝을 지팡이처럼 쥠",
+     "fact": "竇默 『鍼經指南』",
+     "ref": "312",
+     "why": "손-책(나침반 = 指南)"
+    },
+    {
+     "old": "바닥 일렉기타 위 사과(14)",
+     "new": "지움 · 꼭대기 경락도 두루마리가 미끄럼을 따라 길게 풀려 노인이 그 위에 앉아 미끄러지고 왼손으로 앞 끝을 쥠",
+     "fact": "滑壽 『十四經發揮』 · 天然色 經絡圖譜",
+     "ref": "314–315 · 문제집 Q108 · 경락 239",
+     "why": "부호표 제거 + 손-책. 十四經 수는 사실 칸에"
+    },
+    {
+     "old": "高武 손의 금빛 사람 상 셋(흰 테)",
+     "new": "지움 — 꽃다발을 두 손으로 앞에 듦",
+     "fact": "高武 『鍼灸聚英』",
+     "ref": "411",
+     "why": "남녀소아 銅人 3구는 확인 필요 · 붙인 자국"
+    },
+    {
+     "old": "돗자리 위 펼친 책(아무도 안 쥠)",
+     "new": "베틀 쪽 초록 옷 사람이 펼친 책을 두 손으로 가슴 앞에 들고 답함",
+     "fact": "汪機 『鍼灸問對』",
+     "ref": "412",
+     "why": "손-책"
+    }
+   ],
+   "add": [],
+   "lineage": "子午流注 河若愚 · 何若愚 · 閻明廣(311 · 3794) 표 / 經穴 배열 계보 楊上善 → 王惟一 → 忽泰必烈 → 滑壽(3793) 표 / 明 鍼灸 다섯 高武 · 楊繼洲 · 徐鳳 · 汪機(411–412) — 楊繼洲는 hist-07a 대성당 계주로 see_also / 天然色 圖譜 滑壽 ↔ 陳會 ↔ 孫思邈 經路 채색(hist-03a) 갈라 적음.",
+   "edits": [
+    {
+     "zone": 1,
+     "crop": [
+      0,
+      60,
+      760,
+      1180
+     ],
+     "round": 1,
+     "new_objects": [
+      "펼친 두루마리(물시계 사람 손)"
+     ],
+     "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The man standing next to the water clock no longer holds the thin stick. Instead he holds an unrolled paper scroll open in both hands right under the dripping water, and he sings with his mouth open; a few music notes float near him. 2) Remove completely the other man in a brown robe who stands lower down singing from a scroll, together with his music notes. Fill his place by continuing what is already around him: the shining gold rocks and the dirt path. Keep the water clock with the small rat and horse figures on top, the water drops, the gold rocks and the sky exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture."
+    },
+    {
+     "zone": 2,
+     "crop": [
+      740,
+      500,
+      560,
+      900
+     ],
+     "round": 2,
+     "overlap": "Z1 붙인 그림에서 자름. 겹침 띠 x 740–760",
+     "new_objects": [],
+     "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Remove the golden scepter from the old man's hand. With that same hand he now firmly grips the upper end of the long silver needle that stands up out of the big compass, holding it like a walking staff. Keep his face, his white beard, his hush gesture, the small tiled-roof house model he holds, his grey robe, the big compass and the wooden pavilion behind him exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture."
+    },
+    {
+     "zone": 4,
+     "crop": [
+      1200,
+      40,
+      800,
+      1480
+     ],
+     "round": 1,
+     "new_objects": [
+      "미끄럼을 따라 길게 풀린 경락도 두루마리"
+     ],
+     "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The small scroll with the human figure and colored channel lines at the top of the rainbow slide now unrolls down the whole slide as one long paper scroll, showing the same simple human figure with colored lines, only pictures and no writing. The old man in the green vest sits on this long scroll and slides down on it like a sled, and his left hand grips the front edge of the scroll. His right hand stays raised, holding the two white seeds. Keep the gold medal at the top of the slide. 2) Remove completely the red electric guitar and the red apple on the ground. Fill their places by continuing the dirt ground and grass around them. Keep his face, white beard, vest, the rainbow slide, the singing man on the pavilion and the phoenix exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture."
+    },
+    {
+     "zone": 6,
+     "crop": [
+      2060,
+      40,
+      692,
+      1450
+     ],
+     "round": 1,
+     "new_objects": [],
+     "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Remove the three small golden human statues from the tall-helmeted warrior's hands. He now holds the bouquet of pink flowers in front of his chest with both hands. 2) The man in the green robe sitting on the mat near the loom now holds the open book up in both hands in front of his chest, reading from it as he answers. The man in the blue robe keeps asking with his open hand. Remove the book from the mat. Keep the red lanterns, the singing man by the drawer cabinet, the warrior's helmet and armor, the loom, the mat and the stream exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture."
+    }
+   ],
+   "stations": [
+    {
+     "n": 0,
+     "kind": "frame",
+     "obj": "금광 · 원두막 · 등롱 마당",
+     "fact": "金 · 元 · 明 鍼灸書 여섯 사람",
+     "hook": "금광 = 金 · 원두막 = 元 · 등롱 = 明",
+     "say": "금광에서 원두막을 지나 붉은 등롱까지. 여섯 사람이 저마다 제 책을 손에 쥔다.",
+     "tts": "금광에서 원두막을 지나 붉은 등롱까지. 여섯 사람이 저마다 제 책을 손에 쥔다.",
+     "box": null
+    },
+    {
+     "n": 1,
+     "obj": "물시계 물방울 아래 두루마리를 펼쳐 노래",
+     "fact": "金 河若愚 『流注指微賦』 — 子午流注鍼法(311)",
+     "hook": "흐르는 물시계 = 流注 · 쥐 · 말 = 子午 · 노래 = 賦",
+     "say": "금광 바위의 물시계, 꼭대기에 쥐와 말. 그 물방울 아래서 두루마리를 펼쳐 노래한다. 金 河若愚의 『流注指微賦』.",
+     "tts": "금광 바위의 물시계, 꼭대기에 쥐와 말. 그 물방울 아래서 두루마리를 펼쳐 노래한다. 금 하약우의 유주지미부.",
+     "box": [
+      0,
+      60,
+      700,
+      1180
+     ]
+    },
+    {
+     "n": 2,
+     "obj": "쉿 하며 한옥을 들고 나침반 침을 지팡이처럼 쥔 노인",
+     "fact": "竇默(字 漢卿) 『鍼經指南』(312)",
+     "hook": "쉿 = 默 · 한옥 = 漢卿 · 침 나침반 = 鍼經指南",
+     "say": "원두막 앞 노인이 쉿 하며 한옥을 들고, 나침반에 선 긴 침을 지팡이처럼 쥔다. 元 竇默, 자 漢卿, 『鍼經指南』.",
+     "tts": "원두막 앞 노인이 쉿 하며 한옥을 들고, 나침반에 선 긴 침을 지팡이처럼 쥔다. 원 두묵, 자 한경, 침경지남.",
+     "box": [
+      770,
+      535,
+      500,
+      820
+     ]
+    },
+    {
+     "n": 3,
+     "obj": "정자 마루의 노래하는 사람",
+     "fact": "鍼經指南 — 標幽賦 · 通玄指要賦 歌賦體(313)",
+     "hook": "말없는 竇默 대신 노래",
+     "say": "말없는 竇默 뒤 정자에서 제자가 노래한다. 그 책의 노래 標幽賦와 通玄指要賦.",
+     "tts": "말없는 두묵 뒤 정자에서 제자가 노래한다. 그 책의 노래 표유부와 통현지요부.",
+     "box": [
+      1240,
+      370,
+      230,
+      510
+     ]
+    },
+    {
+     "n": 4,
+     "obj": "흰 씨 두 알 든 노인이 경락도 두루마리를 썰매 삼아 미끄러짐",
+     "fact": "元 滑壽(伯仁) 『十四經發揮』 — 任督 專穴, 14正經(314–315)",
+     "hook": "미끄러질 滑 + 장수 = 滑壽 · 흰 씨 = 仁",
+     "say": "흰 수염 장수 노인이 씨 두 알을 쥐고 경락도 두루마리를 썰매 삼아 미끄러진다. 元 滑壽, 자 伯仁. 十二經에 任脈 督脈을 더한 『十四經發揮』.",
+     "tts": "흰 수염 장수 노인이 씨 두 알을 쥐고 경락도 두루마리를 썰매 삼아 미끄러진다. 원 활수, 자 백인. 십이경에 임맥 독맥을 더한 십사경발휘.",
+     "box": [
+      1530,
+      40,
+      470,
+      1000
+     ]
+    },
+    {
+     "n": 5,
+     "obj": "미끄럼 꼭대기 메달과 색 경락도",
+     "fact": "天然色 經絡圖譜 최초 — 경락 239번 滑伯仁 ↔ Q108 陳會",
+     "hook": "무지개 + 메달 = 天然色 최초",
+     "say": "두루마리가 풀려 나온 꼭대기에 메달. 天然色 經絡圖譜 최초를 滑壽로 외운다. 의학사 108번 해설은 陳會라 하니 둘 다 적어 둔다.",
+     "tts": "두루마리가 풀려 나온 꼭대기에 메달. 천연색 경락도보 최초를 활수로 외운다. 의학사 백팔 번 해설은 진회라 하니 둘 다 적어 둔다.",
+     "box": [
+      1620,
+      80,
+      390,
+      340
+     ]
+    },
+    {
+     "n": 6,
+     "obj": "등롱 아래 서랍장 위 봉황 · 곁에서 두루마리 노래",
+     "fact": "明 徐鳳 『鍼灸大全』 — 歌賦 집대성(411 · 3794)",
+     "hook": "서랍 = 徐 · 봉황 = 鳳 · 서랍 칸 전부 = 大全",
+     "say": "서랍이 빼곡한 약장 위 봉황, 곁에서 徐鳳이 두루마리를 노래한다. 칸을 다 채운 『鍼灸大全』. 大成은 楊繼洲.",
+     "tts": "서랍이 빼곡한 약장 위 봉황, 곁에서 서봉이 두루마리를 노래한다. 칸을 다 채운 침구대전. 대성은 양계주.",
+     "box": [
+      1910,
+      205,
+      510,
+      880
+     ]
+    },
+    {
+     "n": 7,
+     "obj": "높은 투구 무사가 꽃다발을 두 손으로 앞에 듦",
+     "fact": "明 高武 『鍼灸聚英』 · 『鍼灸節要』(411)",
+     "hook": "높은 무사 = 高武 · 꽃다발 = 聚英",
+     "say": "높은 투구 무사가 꽃다발을 두 손으로 내민다. 꽃을 모은 高武의 『鍼灸聚英』.",
+     "tts": "높은 투구 무사가 꽃다발을 두 손으로 내민다. 꽃을 모은 고무의 침구취영.",
+     "box": [
+      2340,
+      85,
+      412,
+      975
+     ]
+    },
+    {
+     "n": 8,
+     "obj": "베틀 옆 물가, 마주 앉아 한 사람이 책을 들고 답함",
+     "fact": "明 汪機 『鍼灸問對』(412)",
+     "hook": "물 = 汪 · 베틀 = 機 · 마주 문답 = 問對",
+     "say": "물가 베틀 옆 돗자리, 한 사람이 묻고 책을 든 사람이 답한다. 汪機의 『鍼灸問對』.",
+     "tts": "물가 베틀 옆 돗자리, 한 사람이 묻고 책을 든 사람이 답한다. 왕기의 침구문대.",
+     "box": [
+      2065,
+      880,
+      687,
+      656
+     ]
+    },
+    {
+     "n": 9,
+     "kind": "review",
+     "obj": "왼쪽 → 오른쪽",
+     "fact": "되짚기",
+     "hook": "노래 · 쥠 · 노래 · 썰매 · 노래 · 꽃 · 문답",
+     "say": "물시계 노래, 침 지팡이, 정자 노래, 두루마리 썰매, 서랍장 노래, 꽃다발, 책 든 문답.",
+     "tts": "물시계 노래, 침 지팡이, 정자 노래, 두루마리 썰매, 서랍장 노래, 꽃다발, 책 든 문답.",
+     "box": null
+    }
+   ],
+   "questions": [
+    {
+     "q": "경락도 두루마리를 썰매 삼아 미끄러지는 노인과 책, 그 책이 더한 두 經은?",
+     "a": "元 滑壽(伯仁) 『十四經發揮』 — 任脈 · 督脈"
+    },
+    {
+     "q": "서랍장 봉황 곁 노래꾼의 책은 大成인가?",
+     "a": "아니다. 徐鳳 『鍼灸大全』(Q77 ④)"
+    },
+    {
+     "q": "(거꾸로) 「漢卿」을 들으면 그림의 무엇?",
+     "a": "쉿 하며 한옥을 들고 나침반 침을 쥔 竇默"
+    }
+   ],
+   "risks": [
+    "竇默 「침 윗끝을 쥠」은 접촉류(67%) — 실패 시 손이 침 옆에 떠 있음. 대안: 나침반을 접시 크기로 줄여 겨드랑이에 낌",
+    "滑壽 두 손에 서로 다른 것(씨 · 두루마리) — 약했던 꼴. 실패 시 씨를 빼고 伯仁은 사실 칸으로(사용자 확인)",
+    "두루마리 썰매에 글자 비슷한 획이 생길 수 있음 — 「only pictures, no writing」",
+    "노래꾼 셋(河若愚 본인 · 정자 제자 · 徐鳳 본인)은 남음 — 각각 주인 이름을 대본이 부름"
+   ],
+   "needs_user_ok": [
+    "竇默의 금빛 홀(卿) 지움 — 漢卿은 한옥으로만",
+    "高武 금빛 상 셋(남녀소아 銅人, 확인 필요) 지움",
+    "十四經 부호(기타 + 사과) 지움 — 「肝 14」 문장은 그대로",
+    "충돌 40 天然色: 사용자 결정 滑壽 ↔ 문제집 Q108 陳會 — 대본에 둘 다",
+    "충돌 29 河若愚(311) ↔ 何若愚 · 閻明廣(3794), 충돌 41 竇默 · 竇杰 · 竇漢卿(312 · 3794) ↔ 문제집 寶漢卿(1109) — 둘 다 적음",
+    "河若愚 이름 단서 없음 — 지금은 사건(물시계 + 賦)만"
+   ],
+   "self_score": "사실 18 · 단서 20 · 손 18(여섯 다 두루마리 · 침 · 꽃다발 · 책) · 범위 9 · 소품 10(새 물건 2) · 보존 9 ≈ 84"
+  }
+ }
+}

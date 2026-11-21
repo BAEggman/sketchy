@@ -1,0 +1,92 @@
+{
+ "lesson": "hist-05a",
+ "edits": [
+  {
+   "id": "E1",
+   "zone": "1 唐愼微",
+   "crop": [
+    1080,
+    120,
+    680,
+    800
+   ],
+   "region": [
+    [
+     440,
+     170,
+     175,
+     300
+    ],
+    [
+     40,
+     260,
+     240,
+     300
+    ]
+   ],
+   "new_objects": [
+    "사탕 팔 겨드랑이에 낀 두꺼운 가죽 책"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Remove the floating ginseng root on the right side of the man. Fill its place with the same white sky and green pine needles that are around it. 2) Put a thick brown leather-bound book tucked tightly under the arm that holds the pink lollipop, pressed against his side and clearly held there. Keep his face with the squinting eye, the magnifying glass in his other hand, the pink lollipop, his white robe, his pose, the pine branch under his feet and the stone wall exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "책이 겨드랑이에 · 사탕 · 돋보기 그대로 · 인삼 흔적 없음",
+   "fallback": "겨드랑이가 안 되면 'he holds the book against his chest with the lollipop hand' 한 번"
+  },
+  {
+   "id": "E2",
+   "zone": "2 證類 아랫단",
+   "crop": [
+    980,
+    940,
+    840,
+    596
+   ],
+   "region": [
+    [
+     110,
+     30,
+     280,
+     270
+    ],
+    [
+     555,
+     225,
+     265,
+     255
+    ]
+   ],
+   "new_objects": [],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Remove the gold star medal and its red ribbons from the cover of the big brown leather book. Fill that place by continuing the plain brown leather cover. 2) On the right page of the small open book, replace the black letter-like marks with a few thin plain grey horizontal lines, no letters and no symbols. Keep the flower pictures on the left page, the big leather book, the closed scrolls, the stone steps and everything else exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "메달 · 리본 흔적 없음 · 오른쪽 장에 글자 꼴 없음"
+  },
+  {
+   "id": "E3",
+   "zone": "3 蘇頌 그림책",
+   "crop": [
+    0,
+    1000,
+    1000,
+    536
+   ],
+   "region": [
+    [
+     740,
+     100,
+     260,
+     330
+    ],
+    [
+     15,
+     215,
+     190,
+     300
+    ]
+   ],
+   "new_objects": [
+    "펼친 그림책에 앞발굽을 얹고 엎드린 송아지(오른쪽 두루마리 대신)"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Replace the rolled scroll on the right side of the big open flower book with one young brown calf lying on the stone ledge, about as big as one page of the book, with one front hoof resting on the right page of the open book. 2) Remove all the wavy letter-like marks from the rolled scroll on the left; leave its paper blank. Keep the open flower book with its flower and root pictures, the grass, the tree root and the stone steps exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "송아지 발굽이 책장에 닿음 · 두루마리 획 없음",
+   "fallback": "송아지가 너무 작거나 실패하면 이 편집을 버리고 2)만 — 蘇頌은 정거장 2 대본으로"
+  }
+ ]
+}

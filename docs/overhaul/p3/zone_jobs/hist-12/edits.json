@@ -1,0 +1,135 @@
+{
+ "lesson": "hist-12",
+ "batch": "b5",
+ "base": "/home/claude/zt/b5/base_hist-12.png",
+ "edits": [
+  {
+   "id": "E1",
+   "zone": "2 金永碩 · 立效",
+   "order": 1,
+   "crop": [
+    380,
+    180,
+    680,
+    600
+   ],
+   "region": [
+    [
+     285,
+     215,
+     120,
+     140
+    ],
+    [
+     570,
+     65,
+     90,
+     90
+    ]
+   ],
+   "new_objects": [
+    "상인 손의 얇은 초록 책(찻잔 대신)",
+    "뛰는 사람 치켜든 주먹의 빈 찻잔(옮김)"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The small brown teacup in the merchant's outstretched hand (the hand reaching toward the jumping man) becomes a thin, closed green book that he holds out in the same hand, in the same place. His fingers clearly grip the book. 2) The jumping man in blue now holds that same small brown teacup, empty, in his raised fist on the right side of the picture, as if he has just drunk from it. Keep the merchant's headband, his smile and the dark dried seaweed sheets he waves above his head in his other hand, the stack of seaweed on the stall, the jumping man's happy face and leaping pose, the motion lines, the thatched stalls, the bushes and the ground exactly as they are. Draw every change in the same flat cartoon style with the same thick outlines. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "상인 손에 책(잔 없음) · 뛰는 사람 주먹에 잔 · 김 그대로 · 책 표지 글자 없음",
+   "fallback": "잔이 두 개 남으면 'remove the cup from the merchant's hand' 한 번 더. 잔 옮기기가 안 되면 2)를 빼고 1)만"
+  },
+  {
+   "id": "E2",
+   "zone": "3 御醫 撮要 + 1 醫心方(앞 빈 땅)",
+   "order": 2,
+   "crop": [
+    760,
+    560,
+    780,
+    976
+   ],
+   "region": [
+    [
+     220,
+     270,
+     280,
+     140
+    ],
+    [
+     330,
+     405,
+     240,
+     190
+    ],
+    [
+     120,
+     630,
+     520,
+     300
+    ]
+   ],
+   "new_objects": [
+    "왼손에 쟁반처럼 받친 펼친 책(약초 다발 대신)",
+    "파도무늬 표지 큰 책(앞 빈 땅)",
+    "그 사이에 끼운 낡은 얇은 갈색 책 하나"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The bundle of green herbs in the kneeling red-robed man's free hand (the hand nearer the basket) becomes a large open book that he holds flat in that same hand like a tray, in the same place. The long tongs in his other hand are placing one green herb leaf onto the open pages. His fingers clearly hold the book. 2) Remove the woven basket in front of him. Fill its place by continuing the ground and the edge of the herb pile around it. 3) On the empty ground in the lower part of the picture, with no person near it, put one big closed book lying flat on the ground. Its cover has a blue and white wave pattern. One thin, old, worn brown book is tucked halfway between its pages and sticks out from the side. Keep the red-robed man's face, topknot, moustache, robe and kneeling pose, the long tongs, the big pile of herbs, the legs of the jumping man at the top left, the stool at the right edge and the ground exactly as they are. Draw every change in the same flat cartoon style with the same thick outlines. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "받친 책 위에 집게 끝 · 바구니 없음 · 땅의 파도무늬 책 + 끼운 낡은 책 하나 · 사람 없음 · 글자 없음",
+   "fallback": "3)의 책이 작게 들어가면 같은 조각으로 3)만 'large, about as wide as the herb pile' 강조. 받친 책이 땅에 떨어지면 1)만 다시",
+   "note": "E1을 붙인 그림에서 자른다(x 760–1060 · y 560–780 겹침)"
+  },
+  {
+   "id": "E3",
+   "zone": "4 鄕藥救急方",
+   "order": 3,
+   "crop": [
+    30,
+    760,
+    780,
+    740
+   ],
+   "region": [
+    [
+     620,
+     130,
+     130,
+     310
+    ],
+    [
+     220,
+     240,
+     360,
+     280
+    ]
+   ],
+   "new_objects": [
+    "구급상자 모서리의 거미줄"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Remove the gold medal and its ribbon hanging from the post of the stall. Fill its place by continuing the wooden post, the thatched roof edge and the ground behind it. 2) Stretch one large grey cobweb across the top corner of the first-aid box with the red cross, from the open lid down to the side of the box, so the box looks very old. Keep the first-aid box, its red cross and the green herbs inside it, the empty stall with no person, the table, the thatched roof, the bushes and the ground exactly as they are. Draw every change in the same flat cartoon style with the same thick outlines. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "메달 · 리본 흔적 없음 · 거미줄이 상자에 · 빨간 십자 그대로",
+   "fallback": "거미줄이 안 보이면 'clearly visible grey cobweb' 강조, 메달만 남으면 1)만 다시"
+  },
+  {
+   "id": "E4",
+   "zone": "5 鄭道傳 · 診脈圖訣",
+   "order": 4,
+   "crop": [
+    1500,
+    540,
+    780,
+    560
+   ],
+   "region": [
+    [
+     190,
+     255,
+     280,
+     115
+    ]
+   ],
+   "new_objects": [
+    "물결 그림 펼친 책(종이 대신)"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The sheet of paper with four colored wavy lines lying on the table becomes a large open book lying in the same place at about the same size, with the same four colored wavy lines drawn across its two pages. 2) The free hand of the man with the white headband (the hand resting on the table near the paper) now lies flat on the open pages, clearly touching the book. Keep the arm-wrestling grip of the two players, their faces, the white headband, the referee in grey with his hand on the headband man's arm, the table, the stools and the background exactly as they are. Draw every change in the same flat cartoon style with the same thick outlines. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "책등 · 두 면 물결 · 머리띠 선수 손바닥이 책장에",
+   "fallback": "손이 떠 있으면 'his palm presses down on the pages' 한 번 더"
+  }
+ ]
+}

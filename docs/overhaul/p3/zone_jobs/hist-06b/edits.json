@@ -1,0 +1,109 @@
+{
+ "lesson": "hist-06b",
+ "edits": [
+  {
+   "id": "E1",
+   "zone": "1 成無已",
+   "crop": [
+    560,
+    400,
+    820,
+    1100
+   ],
+   "region": [
+    [
+     290,
+     300,
+     130,
+     60
+    ],
+    [
+     270,
+     360,
+     260,
+     240
+    ],
+    [
+     90,
+     55,
+     170,
+     300
+    ],
+    [
+     30,
+     770,
+     500,
+     300
+    ]
+   ],
+   "new_objects": [
+    "노란 쪽지가 빼곡한 두꺼운 펼친 책(종이 한 장 대신)"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The single sheet of paper in the robed doctor's raised hand becomes a thick open book held in the same hand, in the same place. Its pages are covered with many small yellow sticky notes, and the glow of the lantern in his other hand lights up the open pages. 2) Move the gold medal from the stone gate wall: it now hangs by its red ribbon from the bottom edge of the open book in his hand. Fill the empty spot on the wall with the same grey stone bricks. 3) Remove the open book lying on the ground in front of the shivering man; continue the yellow path and the gold rocks in its place. Keep the doctor's face, hair bun, beard, robe and lantern, the shivering man in the patchwork blanket with yellow notes, the gate, the weapons on the wall and the gold rocks exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "also": "성문 메달 → 책으로 옮김 · 땅의 쪽지 책 지움",
+   "check": "책을 쥔 손가락 · 메달이 책에 매달림 · 성벽에 메달 흔적 없음 · 환자 담요 쪽지 그대로",
+   "fallback": "메달이 책에 안 붙으면 'the medal lies on the open pages' 꼴로 한 번 더",
+   "note": "11-21 재시도: Gemini가 첨부를 못 연다고 두 번 답함 → 새 파일 이름(zt_hist-06b_E1r.jpg)으로 다시 올릴 것"
+  },
+  {
+   "id": "E2",
+   "zone": "2 舌象 36 · 삼지창 지우기",
+   "crop": [
+    1900,
+    450,
+    852,
+    900
+   ],
+   "region": [
+    [
+     570,
+     40,
+     282,
+     860
+    ],
+    [
+     90,
+     250,
+     170,
+     140
+    ]
+   ],
+   "new_objects": [
+    "혀 위에 얹힌 숫자 없는 체온계"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Remove the golden trident and the silver hexagonal nut on it completely; continue the green hill, the grass and the blue sky in their place. 2) Lay one plain glass clinical thermometer, white with a red tip and with no numbers or marks, across the tip of the man's stuck-out tongue. Keep the man's face and patchwork blanket, the gold-framed mirror with its gold medal, the wooden stand, the hut posts and the grass exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "체온계가 혀 위에 · 눈금 · 숫자 없음 · 삼지창 · 너트 흔적 없음"
+  },
+  {
+   "id": "E3",
+   "zone": "3 杜本 · 상한 오이",
+   "crop": [
+    1440,
+    700,
+    640,
+    700
+   ],
+   "region": [
+    [
+     75,
+     70,
+     370,
+     240
+    ],
+    [
+     40,
+     290,
+     330,
+     360
+    ]
+   ],
+   "new_objects": [],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Make the big cucumber on the hut floor look spoiled: its green skin turns dull yellowish-brown with a few dark soft spots. Keep its shape, the cut end and the seeds inside exactly as they are. 2) The mole has exactly two front paws. Its left front paw keeps gripping the thick root exactly as now. Its right front paw, the one on the left side of the picture, rises up out of the dirt beside its body and reaches forward and up so that its claws rest on the bottom end of the spoiled cucumber just above it. Do not draw any arm coming from behind its head. Keep the mole's face, the dirt mound, the root, the hut posts, the man's bare foot and the grass exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "order": "E2를 붙인 그림에서 자른다(x 1900–2080 겹침)",
+   "also": "오이 색만(상한) · 두더지 앞발 하나",
+   "check": "앞발이 오이에 닿음(떠 있으면 실패) · 뿌리는 다른 앞발에 · 오이씨 그대로",
+   "fallback": "앞발 닿기가 두 번 실패하면 p4 꼴: 'a closed book with a shiny gold cover lies on the dirt mound under the mole's free front paw' — 새 물건 1(금빛 책 = 金鏡錄)",
+   "note": "11-21 재시도: 첫 결과에서 팔이 머리 뒤에서 솟음 → 두 앞발을 분명히"
+  }
+ ]
+}

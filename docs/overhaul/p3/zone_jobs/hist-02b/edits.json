@@ -1,0 +1,63 @@
+{
+ "lesson": "hist-02b",
+ "batch": "b2",
+ "base": "images/lessons/hist-02b.webp",
+ "edits": [
+  {
+   "id": "D1",
+   "order": 1,
+   "zone": "4 楊上善",
+   "crop": [
+    2060,
+    300,
+    692,
+    1000
+   ],
+   "region": [
+    [
+     120,
+     240,
+     220,
+     370
+    ],
+    [
+     360,
+     300,
+     110,
+     280
+    ]
+   ],
+   "new_objects": [],
+   "also": "가리키던 손 → 갈래 끝을 쥐고 당김 · 가지 금메달 지움(사용자 확인 뒤)",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The leftmost strip of the big white cloth hanging in the willow now hangs down much longer, all the way down to the man in the green robe. Instead of pointing, he raises the same hand and firmly grips the end of that strip, pulling it toward himself, so the cloth strips spread apart a little. 2) Remove the gold medal and its red ribbon hanging from the branch; fill with the branch, the bark and the willow leaves. Keep his face, topknot, robe and pose, the willow tree, the other cloth strips, the purple hydrangeas and the grass exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "if_user_keeps_medal": "2)와 두 번째 region을 뺀다",
+   "check": "손이 갈래 끝을 쥠(떠 있으면 실패) · 갈래가 천에 이어져 있음 · 메달 흔적 없음",
+   "fallback": "손이 천에 안 닿으면 'the end of the strip is wrapped around his fingers' 한 번"
+  },
+  {
+   "id": "D2",
+   "order": 2,
+   "zone": "3 巢元方 둥지",
+   "crop": [
+    1400,
+    560,
+    760,
+    620
+   ],
+   "region": [
+    [
+     40,
+     80,
+     160,
+     290
+    ]
+   ],
+   "new_objects": [
+    "둥지 테두리의 붉은 십자 깃발(병원)"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) A small white flag with a plain red plus sign on it, like a simple hospital sign, on a thin wooden pole, is stuck upright in the left side of the big nest's rim, with the bottom of the pole pushed into the woven twigs. Keep the nest, all the patterned eggs, the gold medal, the man holding the rim, the knocked-over stool and the purple hydrangeas exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "깃발이 둥지 테두리에 꽂혀 섬 · 십자 하나 · 알 · 메달 그대로",
+   "fallback": "깃발이 둥지 밖 땅에 서면 'pushed into the nest's rim' 한 번. 십자가 거절되면 'a white flag with a red heart-and-plus hospital mark'"
+  }
+ ]
+}

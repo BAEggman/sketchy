@@ -1,0 +1,147 @@
+{
+ "lesson": "hist-13",
+ "batch": "b5",
+ "base": "/home/claude/zt/b5/base_hist-13.png",
+ "edits": [
+  {
+   "id": "E1",
+   "zone": "1 東醫寶鑑",
+   "order": 1,
+   "crop": [
+    40,
+    640,
+    800,
+    860
+   ],
+   "region": [
+    [
+     130,
+     30,
+     500,
+     620
+    ]
+   ],
+   "new_objects": [
+    "거울이 앞표지인 아주 두꺼운 책(거울 대신)"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The big jeweled oval mirror that the two men carry becomes the front cover of a very thick, large book. Keep the same golden frame with colored jewels, the red jewel on top and the shining mirror glass as the book's front cover, and add a thick block of cream page edges and a book spine along its side and bottom, so it clearly reads as a huge book. Both men keep holding it with the same hands in the same places. Keep the two men's faces, topknots, clothes and walking poses, the sparkles, the grass and the ground exactly as they are. Draw every change in the same flat cartoon style with the same thick outlines. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "책 두께 · 종이 끝 · 책등이 보임 · 거울 면 · 보석 테 그대로 · 두 손이 책에",
+   "fallback": "거울로만 남으면 'seen slightly from the side so the thick page block shows' 한 번 더"
+  },
+  {
+   "id": "E2",
+   "zone": "2 許任",
+   "order": 2,
+   "crop": [
+    660,
+    560,
+    580,
+    460
+   ],
+   "region": [
+    [
+     170,
+     200,
+     170,
+     150
+    ]
+   ],
+   "new_objects": [
+    "노인 한 손의 펼친 작은 책(침 대신)"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The old man with the white beard holds a needle in each hand over the patient's back. Change only the hand nearer the left side of the picture: the needle in that hand becomes a small open book that he holds open in the same hand, close to the patient's back, as if he checks it while he works. His fingers clearly grip the book. His other hand keeps the needle in the patient's back. Keep the old man's face, white beard, topknot and grey clothes, the patient lying face down on the mat, the needles already in the back, the doorway and the ground exactly as they are. Draw every change in the same flat cartoon style with the same thick outlines. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "한 손에 펼친 작은 책 · 다른 손 침 · 등의 침 그대로",
+   "fallback": "두 손 다 책이 되면 'only one hand' 강조로 다시"
+  },
+  {
+   "id": "E3",
+   "zone": "4 茶山 + 5 黃度淵",
+   "order": 3,
+   "crop": [
+    1000,
+    680,
+    1040,
+    856
+   ],
+   "region": [
+    [
+     240,
+     560,
+     160,
+     160
+    ],
+    [
+     880,
+     320,
+     130,
+     130
+    ]
+   ],
+   "new_objects": [
+    "찻잔 밑에 받친 붉은 점 표지 얇은 책",
+    "묶은 책 곁 땅의 상표 없는 황도 캔"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The scholar in the grey-brown robe holds a pale green teacup. Put a thin closed book under the cup in the same hand, held flat like a small tray, so the cup stands on the book. The book's cover is plain with many small red dots, like the red spots on the young man's skin. His fingers clearly grip the book. 2) On the ground right next to the two books tied with string, at the knee of the man in the yellow robe, put one small open tin can full of yellow peach halves in syrup, with no label. Keep the scholar's face and his other hand touching the young man's cheek, the young man with red spots, the man in yellow tying the string with both hands, the tied books, the grass and the ground exactly as they are. Draw every change in the same flat cartoon style with the same thick outlines. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "잔 밑 책 · 붉은 점 무늬 · 볼 짚는 손 그대로 / 노란 복숭아 반쪽이 든 캔 · 상표 · 글자 없음",
+   "fallback": "G-8이 (b)면 2)를 지운 편집문으로. 캔이 묶은 책 위로 올라가면 'on the ground, not on the books' 강조",
+   "note": "E2를 붙인 그림에서 자른다(x 1000–1240 · y 680–1020 겹침)"
+  },
+  {
+   "id": "E4",
+   "zone": "6 李濟馬",
+   "order": 4,
+   "crop": [
+    2040,
+    160,
+    640,
+    520
+   ],
+   "region": [
+    [
+     250,
+     210,
+     160,
+     140
+    ],
+    [
+     255,
+     90,
+     80,
+     90
+    ]
+   ],
+   "new_objects": [
+    "고삐 쥔 손의 두꺼운 책"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The small brown cup that the rider holds to his mouth becomes a round purple plum with a short stem, held the same way, as if he is biting it. 2) The rider holds the reins in his lower hand. Put one thick closed book in that same hand together with the reins, resting against his thigh; his fingers clearly grip both the reins and the book. Keep his face, topknot and green clothes, the brown horse and its bridle, the tree, the mountains and the heads of the people below exactly as they are. Draw every change in the same flat cartoon style with the same thick outlines. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "입가에 보라 자두(잔 아님) · 고삐 손에 책 · 말 그대로",
+   "fallback": "자두가 안 되면 hist-13 바탕을 원본 확대본으로 바꾸고 2)만(G-9)",
+   "also": "1)은 새 물건이 아니라 R0 표류 되돌림"
+  },
+  {
+   "id": "E5",
+   "zone": "7 崔圭憲",
+   "order": 5,
+   "crop": [
+    2080,
+    980,
+    672,
+    556
+   ],
+   "region": [
+    [
+     270,
+     310,
+     170,
+     150
+    ]
+   ],
+   "new_objects": [
+    "약그릇 밑에 받친 해진 헌 책"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The woman doctor in the pale robe holds a bowl of brown medicine in her lower hand. Put a worn, tattered old book under the bowl in the same hand, held open and flat like a tray, so the bowl rests on its pages; the book's cover is faded and its page edges are frayed. Her fingers clearly grip the book. Keep the spoon in her other hand feeding the crying baby, her face and hair, the mother in pink holding the baby, the baby's tears and diaper, and the background exactly as they are. Draw every change in the same flat cartoon style with the same thick outlines. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "그릇 밑 헌 책(해진 가장자리) · 숟가락 · 아기 그대로",
+   "fallback": "책이 새것처럼 나오면 'very old, torn and faded' 강조"
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "lesson": "hist-08b",
+ "batch": "b4",
+ "base": "images/lessons/hist-08b.webp",
+ "edits": [
+  {
+   "id": "E1",
+   "zone": "1 趙獻可",
+   "order": 1,
+   "crop": [
+    0,
+    420,
+    900,
+    1116
+   ],
+   "region": [
+    [
+     250,
+     360,
+     560,
+     260
+    ],
+    [
+     0,
+     745,
+     720,
+     250
+    ]
+   ],
+   "new_objects": [
+    "조개 꼬치를 얹은 펼친 큰 책(두 손, 쟁반처럼)"
+   ],
+   "also": "초록 막대 지움 · 바닥 두루마리 다발 지움",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Remove the long green stick. The kneeling old man now holds a large open book flat in both hands, like a tray, stretched out toward the fireplace as if offering it. The pages are plain cream paper with no writing. The skewer of white clam shells lies on the open pages of that book. 2) Remove the rolled paper scrolls lying on the floor in the lower left. Fill their places by continuing the warm wooden floor around them. Keep his face, beard, hair bun, red robe and kneeling pose, the loose clam shells on the floor, the fireplace with the two kidney-shaped stones and the small heart-shaped flame, the scrolls standing on the cabinet at the upper left and the blue-and-white bowl exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "두 손이 책을 받침 · 꼬치가 책장 위 · 막대 흔적 없음 · 바닥 두루마리 없음",
+   "fallback": "책이 펼친 독서로 읽히면(얼굴 쪽으로 듦) 'held out at arm's length toward the fire' 넣고 다시. 두 번 실패하면 p1 꼴: 막대 끝에 조개를 꿰고 무릎 위에 책, 아래 손이 책을 누름"
+  },
+  {
+   "id": "E2",
+   "zone": "2 孫一奎 · 李中梓",
+   "order": 2,
+   "crop": [
+    840,
+    380,
+    980,
+    1156
+   ],
+   "region": [
+    [
+     30,
+     670,
+     240,
+     240
+    ],
+    [
+     610,
+     320,
+     210,
+     180
+    ],
+    [
+     520,
+     760,
+     350,
+     330
+    ]
+   ],
+   "new_objects": [
+    "붉은 물에서 건진 젖은 책(아이)",
+    "책상 위 펼친 큰 책(종이 대신)",
+    "두 번째 통나무"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The little girl now lifts a closed thick book out of the red water with both hands, in the same place where she holds the black ball now. The same shiny black ball rests on top of the book's cover. Red water drips from the book back into the bowl. 2) On the desk, replace the sheet of paper and the writing brush with a large open book lying on the desk. The pages are plain cream paper with no writing. The scholar's hand that held the brush now rests on the open pages, one finger following the lines as he reads it intently. 3) Put a second wooden log of the same size and kind directly on top of the log on the floor, so two logs lie stacked. Keep the girl's face, hair buns and clothes, the blue-and-white bowl with red water, the scholar's face, black hat, the purple plum at his mouth and his robe, the stack of books on the desk, the kidney model on its stand, the bowl of rice on its stand, the fireplace and the door exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "아이 두 손이 책 · 구슬이 책 위 · 선비 손가락이 책장 · 붓 없음 · 통나무 두 겹(개수 2)",
+   "fallback": "셋 중 하나가 틀리면 같은 조각에서 그 번호만 다시. 통나무가 셋이 되면 'exactly two logs'"
+  },
+  {
+   "id": "E3",
+   "zone": "3 徐大椿",
+   "order": 3,
+   "crop": [
+    2040,
+    330,
+    712,
+    1206
+   ],
+   "region": [
+    [
+     150,
+     10,
+     300,
+     280
+    ],
+    [
+     50,
+     930,
+     580,
+     160
+    ]
+   ],
+   "new_objects": [
+    "치켜든 돌빛 두꺼운 책(돌 창끝 대신)",
+    "꺾인 꼬치에 꿴 흰 조개 · 깨진 조각"
+   ],
+   "also": "아래 손의 긴 돌칼은 그대로(砭)",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) In the man's raised hand, replace the stone spearhead with a thick closed book with a grey stone-colored cover, gripped firmly and raised high as if he is about to bring it down hard. 2) The broken green bamboo stick on the glass floor becomes a broken wooden skewer threaded with white clam shells, snapped in two, with cracked bits of clam shell scattered at the break, right under the tip of the long stone blade in his lower hand. Keep his angry face, his long braided queue, his blue Qing robe and black shoes, his lower hand gripping the long stone blade pointing down, the chest of many small drawers, the big tree and the glass floor exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "치켜든 손이 책을 쥠 · 아래 돌칼 그대로 · 꼬치에 흰 조개(맨 대나무면 실패) · 두 동강",
+   "fallback": "조개가 안 나오면 2)만 'Thread four white clam shells onto both broken halves'로 다시"
+  }
+ ]
+}

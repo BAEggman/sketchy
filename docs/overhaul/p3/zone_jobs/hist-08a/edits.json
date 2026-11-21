@@ -1,0 +1,108 @@
+{
+ "lesson": "hist-08a",
+ "batch": "b4",
+ "base": "images/lessons/hist-08a.webp",
+ "edits": [
+  {
+   "id": "E1",
+   "zone": "1 薛己",
+   "order": 1,
+   "crop": [
+    740,
+    520,
+    680,
+    900
+   ],
+   "region": [
+    [
+     410,
+     420,
+     210,
+     170
+    ]
+   ],
+   "new_objects": [
+    "펼친 작은 책(접시 대신)"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Replace the small white plate under the man's left hand with a small open book of about the same size, lying open flat on the table in the same place. The pages are plain cream paper with no writing. His left hand rests on the open pages, clearly touching the book. The red jujube that was on the plate now lies on the open pages. Keep his smiling face, his topknot and black headband, his beige clothes, the chopsticks in his right hand picking the red jujube from the white rice cake, the steam, the rice cake on its blue plate, the low wooden table and the silver tray with the surgical tools on the floor exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "왼손이 책장에 닿음 · 대추가 책 위 · 접시 흔적 없음 · 책장에 글자 없음",
+   "fallback": "책이 접시와 같이 남으면 'Remove the remaining small white plate' 한 번"
+  },
+  {
+   "id": "E2",
+   "zone": "2 張介賓(책장 앞) · 수 부호",
+   "order": 2,
+   "crop": [
+    1400,
+    380,
+    760,
+    1100
+   ],
+   "region": [
+    [
+     290,
+     230,
+     230,
+     320
+    ],
+    [
+     430,
+     180,
+     330,
+     870
+    ],
+    [
+     15,
+     765,
+     680,
+     290
+    ]
+   ],
+   "new_objects": [
+    "두 손에 든 남색 두꺼운 책(두루마리 대신)"
+   ],
+   "also": "도포 남색으로(경악하는 사람과 같은 색) · 일렉기타 · 이층 버스 지움",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) The yellow and blue scrolls in the scholar's two hands become one thick closed book with a dark blue cover, held in the same two hands, in the same place in front of the open shelf compartment. His fingers clearly grip the book. 2) Make his long robe a dark slate navy blue, with a slightly darker sash at the waist; keep its shape and folds. 3) Remove the red electric guitar and the red double-decker bus from the floor completely. Fill their places by continuing the warm wooden floor and its shading around them. Keep his face, mustache, black headband and topknot, his white socks and black shoes, the wooden bookshelf with all its rolled scrolls and books in every compartment, and the red lantern tassel exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "두 손이 책을 쥠 · 두루마리 흔적 없음 · 도포 남색 · 기타 · 버스 흔적 없음(바닥 이음)",
+   "fallback": "도포 색이 엇나가면 색만 한 번 더. 책이 칸에 꽂혀 손에서 떨어지면 1)만 다시"
+  },
+  {
+   "id": "E3",
+   "zone": "3 張介賓(경악) · 해 · 달 물통",
+   "order": 3,
+   "crop": [
+    2140,
+    300,
+    612,
+    1190
+   ],
+   "region": [
+    [
+     340,
+     10,
+     240,
+     260
+    ],
+    [
+     0,
+     875,
+     255,
+     270
+    ],
+    [
+     300,
+     870,
+     290,
+     300
+    ]
+   ],
+   "new_objects": [
+    "치켜든 손의 아주 두꺼운 책"
+   ],
+   "also": "해 물통 → 06a와 같은 노랑-주황 통 · 주황 해 무늬 · 주황-금빛 물 절반(안 넘침) · 달 물통 옆으로 쓰러져 텅 빔",
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Put a very thick closed book with a dark red cover in the man's raised hand on the right side of the picture, gripped firmly by his fingers and held up high. 2) Repaint the wooden bucket with the sun picture as a bright yellow-orange bucket with an orange sun picture on its side. Orange-golden liquid fills it only halfway, well below the rim; nothing spills over. 3) The grey metal bucket with the white crescent moon now lies on its side on the floor in the same place, its open mouth turned toward the viewer, completely empty and dry inside. Keep his frightened face, wide eyes, beard, black gat hat, his other raised hand, the shock lines, his light blue sleeves, navy long vest and brown cord sash, the lifted leg, the stack of books by the wall, the red lantern and the floor exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "책이 손에 쥐임(떠 있으면 실패) · 해 통 물이 테 아래 · 넘침 없음 · 달 통 속이 비어 보임",
+   "fallback": "달 통이 일그러지면 3)을 'keep the grey moon bucket standing as it is'로 바꿔 다시 — 빈 통은 말로. 해 통이 넘치게 나오면(06a와 같아짐) 반드시 다시"
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "lesson": "hist-04",
+ "edits": [
+  {
+   "id": "E1",
+   "zone": "1 錢乙 아기",
+   "crop": [
+    300,
+    900,
+    720,
+    636
+   ],
+   "region": [
+    [
+     70,
+     390,
+     400,
+     215
+    ]
+   ],
+   "new_objects": [
+    "무릎 위 펼친 그림책(책장에 다섯 색 칸)"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Put a large open picture book on the baby's lap, between his legs. Its two pages show only simple colored squares in green, red, yellow, white and black, like the block tower on the left. 2) The baby's free hand, the one now resting on his belly, moves down and lies flat on the open pages of the book, clearly touching them. Keep the baby's face and smile, the bib, the gold medal on his chest, his other hand holding up the big pancake, the five-color block tower, the counter, the boxes and the ground exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "손바닥이 책장에 닿음 · 메달 · 전 그대로 · 책장에 글자 없음",
+   "fallback": "손이 떠 있으면 같은 조각으로 'his free hand rests flat on the book' 한 번 더"
+  },
+  {
+   "id": "E2",
+   "zone": "2 和劑局方 약국",
+   "crop": [
+    840,
+    600,
+    820,
+    700
+   ],
+   "region": [
+    [
+     16,
+     100,
+     540,
+     320
+    ],
+    [
+     480,
+     220,
+     190,
+     170
+    ],
+    [
+     450,
+     430,
+     175,
+     240
+    ]
+   ],
+   "new_objects": [
+    "국방색 표지 책 + 붉은 밀랍 봉인(약사 손의 약상자 대신)"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Repaint every medicine box in the pyramid on the counter army olive-drab green, keeping their shapes, the stacking and the plain stripes. 2) Move the big gold medal that hangs on the front of the counter: hang it by its ribbon on the top box of the pyramid instead, and fill the empty spot on the counter front with the same wooden planks. 3) The small box in the pharmacist's hands becomes a thick closed book with an olive-drab cover and one big round red wax seal in the middle of the cover. He holds it with both hands in the same place, his fingers clearly gripping it. Keep the pharmacist's face, smile and white coat, the counter, the pine trees, the roof posts and the pancake at the left edge exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "order": "E1 뒤(조각이 x 840–1020에서 겹침, 상자는 안 겹침)",
+   "also": "상자 국방색(색만) · 계산대 메달 → 피라미드 꼭대기로 옮김",
+   "check": "상자 색이 국방색(갈색 · 초록과 갈림) · 메달이 상자에 · 계산대 앞판에 메달 흔적 없음 · 책을 쥔 손가락",
+   "fallback": "메달이 안 옮겨지면 계산대 메달은 그대로 두고 대본에서 「계산대 = 약국의 상자들」로"
+  },
+  {
+   "id": "E3",
+   "zone": "3 許叔微 허수아비",
+   "crop": [
+    2080,
+    420,
+    672,
+    600
+   ],
+   "region": [
+    [
+     5,
+     200,
+     230,
+     260
+    ]
+   ],
+   "new_objects": [
+    "허수아비 왼쪽 짚손에 쥔 두꺼운 책"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Put a thick closed brown book in the scarecrow's straw hand on the left side of the picture, the arm opposite the life ring. The straw fingers clearly grip the book, held out at the end of the arm. Keep the scarecrow's smiling face, straw crown, the striped blanket around its shoulders, the red-and-white life ring on the other arm, the pole, the pine trees and the sky exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "책이 짚손에 쥐어짐 · 미소 그대로",
+   "fallback": "손에서 떨어져 보이면 'tucked under the straw arm'으로 한 번 더"
+  },
+  {
+   "id": "E4",
+   "zone": "4 陳言 걸상",
+   "crop": [
+    1780,
+    960,
+    972,
+    576
+   ],
+   "region": [
+    [
+     10,
+     170,
+     380,
+     366
+    ],
+    [
+     330,
+     20,
+     570,
+     320
+    ]
+   ],
+   "new_objects": [
+    "걸상 위 펼친 낡은 책",
+    "일어서서 앞발을 책에 얹은 큰 흰 진돗개",
+    "진돗개가 가로 문 흰 무"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Lay one large old open book flat on the top of the wooden stool. The laughing-and-crying theatre mask, the small whirlwind and the bee now rise up out of its open pages, standing on the book in the same places as now. 2) On the ground to the left of the stool, add one large white Korean Jindo dog standing up on its hind legs, drawn big, as tall as the stool, with both front paws resting on the left page of the open book. 3) The dog holds one white radish with green leaves crosswise in its mouth and is clearly talking: its mouth is open around the radish, and one empty white speech bubble with nothing inside it floats next to its head. Keep the stool with its three legs, the mask, the whirlwind, the bee, the counter on the left, the scarecrow's pole and the ground exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "order": "E3을 붙인 그림에서 자른다(y 960–1020 겹침)",
+   "check": "개가 크고(걸상 높이) 앞발이 책장에 닿음 · 무가 입에 · 가면 · 회오리 · 벌이 책 위 · 세 다리 그대로",
+   "fallback": "개가 작게 들어가거나 두 번 실패하면 2) · 3)을 버리고 1)만(p5 꼴) — 陳言 이름은 「낡은 걸상」 뜻 고리로 되돌림",
+   "note": "사용자 11-21 17:29: 陳言 = 진돗개가 무를 물고 말한다(진 · 무 · 言) — 말풍선 추가"
+  }
+ ]
+}

@@ -3,9 +3,9 @@ from PIL import Image, ImageDraw, ImageFont
 R='/home/claude/work/runs/20261121-p3-b5/built/'
 try: f=ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf',60)
 except: f=None
-IMG={'hist-14':'/home/claude/zt/b5/base_hist-14.png'}
+IMG={'hist-14':'/home/claude/zt/b5/base_hist-14.png','hist-11':'/home/claude/zt/job/hist-11/cur.png'}
 C=[(230,25,75),(60,180,75),(0,130,200),(245,130,48),(145,30,180),(240,50,230),(0,0,0),(128,0,0),(0,128,128)]
-for lid in ['hist-14']:
+for lid in ['hist-14','hist-11']:
     S=json.load(open(R+lid+'.spec.json',encoding='utf-8'))
     im=Image.open(IMG[lid]).convert('RGB'); d=ImageDraw.Draw(im)
     for s in S['stations']:

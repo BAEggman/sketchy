@@ -278,7 +278,7 @@
   "hanja": "白芍藥",
   "reading": "백작약",
   "cue": "백작 약사 — 원안: 하얀 백작 약사",
-  "draw_en": "An elegant pale white count (European nobleman with a monocle and cape) who is a pharmacist holding a small medicine bottle.",
+  "draw_en": "An elegant count (European nobleman with a monocle) dressed all in white: a white suit and a white cape, who is a pharmacist holding a small medicine bottle.",
   "decode": "",
   "type": "",
   "carriers": [
@@ -3503,7 +3503,7 @@
   "hanja": "熟地黃",
   "reading": "숙지황",
   "cue": "숙제 노트 펼친 검은 지하 황제",
-  "draw_en": "A black-skinned emperor in robes and crown sitting in an underground burrow, earnestly doing homework in an open notebook with a pencil.",
+  "draw_en": "An emperor dressed entirely in jet-black: a black robe, a black crown and a black cape (his skin an ordinary cartoon tone), sitting in an underground burrow, earnestly doing homework in an open notebook with a pencil.",
   "decode": "숙(제) + 지하 황제(地黃 가족) → 숙지황",
   "type": 4,
   "carriers": [

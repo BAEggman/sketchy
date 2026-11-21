@@ -87,6 +87,50 @@
    "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) Replace the rolled scroll on the right side of the big open flower book with one young brown calf lying on the stone ledge, about as big as one page of the book, with one front hoof resting on the right page of the open book. 2) Remove all the wavy letter-like marks from the rolled scroll on the left; leave its paper blank. Keep the open flower book with its flower and root pictures, the grass, the tree root and the stone steps exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
    "check": "송아지 발굽이 책장에 닿음 · 두루마리 획 없음",
    "fallback": "송아지가 너무 작거나 실패하면 이 편집을 버리고 2)만 — 蘇頌은 정거장 2 대본으로"
+  },
+  {
+   "id": "C1",
+   "order": 90,
+   "zone": "금빛 두루마리 통 정리",
+   "crop": [
+    1300,
+    900,
+    480,
+    360
+   ],
+   "region": [
+    [
+     80,
+     80,
+     300,
+     220
+    ]
+   ],
+   "new_objects": [],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. Remove all the small dark squiggly marks that look like writing on the three gold scroll tubes, so each tube has only its plain smooth gold surface with its shading and ring bands. Keep the tubes' shapes, positions and outlines, the brown book beside them and the stone wall exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "통에 글자 같은 줄 없음 · 통 모양 그대로"
+  },
+  {
+   "id": "C2",
+   "order": 91,
+   "zone": "가위질 책 면 정리",
+   "crop": [
+    240,
+    840,
+    640,
+    320
+   ],
+   "region": [
+    [
+     50,
+     60,
+     560,
+     220
+    ]
+   ],
+   "new_objects": [],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. Remove all the small dark dashes and lines that look like writing on the pages of the big open book, so the pages are plain blank cream paper. Keep the pale cut-out rectangles on the pages, the loose paper pieces, the scissors, both hands, the book's shape and blue cover exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "책장에 글자 같은 줄 없음 · 가위 · 손 그대로"
   }
  ]
 }

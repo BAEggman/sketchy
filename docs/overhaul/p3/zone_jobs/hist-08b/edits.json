@@ -106,6 +106,63 @@
    "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) In the man's raised hand, replace the stone spearhead with a thick closed book with a grey stone-colored cover, gripped firmly and raised high as if he is about to bring it down hard. 2) The broken green bamboo stick on the glass floor becomes a broken wooden skewer threaded with white clam shells, snapped in two, with cracked bits of clam shell scattered at the break, right under the tip of the long stone blade in his lower hand. Keep his angry face, his long braided queue, his blue Qing robe and black shoes, his lower hand gripping the long stone blade pointing down, the chest of many small drawers, the big tree and the glass floor exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
    "check": "치켜든 손이 책을 쥠 · 아래 돌칼 그대로 · 꼬치에 흰 조개(맨 대나무면 실패) · 두 동강",
    "fallback": "조개가 안 나오면 2)만 'Thread four white clam shells onto both broken halves'로 다시"
+  },
+  {
+   "id": "E2a",
+   "order": 90,
+   "zone": "2 李中梓 책상 · 통나무 (E2 나눔)",
+   "crop": [
+    1300,
+    600,
+    700,
+    900
+   ],
+   "region": [
+    [
+     150,
+     100,
+     350,
+     180
+    ],
+    [
+     80,
+     540,
+     350,
+     330
+    ]
+   ],
+   "new_objects": [
+    "책상 위 펼친 큰 책(종이 대신)",
+    "두 번째 통나무"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. 1) On the desk, replace the sheet of paper and the writing brush with a large open book lying on the desk. The pages are plain cream paper with no writing. The scholar's hand that held the brush now rests on the open pages, one finger following the lines as he reads it intently. 2) Put a second wooden log of the same size and kind directly on top of the log on the floor, so exactly two logs lie stacked. Keep the scholar's face, black hat, the purple plum at his mouth and his robe, the stack of books on the desk, the kidney model on its stand, the bowl of rice on its stand and the door exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "선비 손가락이 책장 · 붓 없음 · 통나무 정확히 둘",
+   "fallback": "통나무가 셋이면 'exactly two logs'"
+  },
+  {
+   "id": "E2b",
+   "order": 91,
+   "zone": "2 孫一奎 아이 (E2 나눔)",
+   "crop": [
+    700,
+    700,
+    700,
+    760
+   ],
+   "region": [
+    [
+     140,
+     60,
+     520,
+     620
+    ]
+   ],
+   "new_objects": [
+    "붉은 물에서 건진 젖은 책(아이)"
+   ],
+   "prompt_en": "This is a cropped piece of a larger cartoon illustration. Make only the changes listed below and keep everything else exactly as it is: the same people, faces, hair, clothes, poses, background, colors, thick cartoon outlines and framing. The happy little girl now lifts a closed thick book out of the bowl of red herbal tea with both hands, in the same place where she holds the black ball now. The same shiny black ball rests on top of the book's cover. A few drops of the red tea drip from the book back into the bowl. Keep the girl's smile, face, hair buns and clothes and the blue-and-white bowl exactly as they are. Do not add any other objects, people or animals. No text, no letters, no numbers anywhere. Output the same aspect ratio as this picture.",
+   "check": "아이 두 손이 책 · 구슬이 책 위 · 물방울",
+   "fallback": "거부면 'red herbal tea'를 'red-coloured soup'로만 바꿔 새 이름(E2b2)"
   }
  ]
 }

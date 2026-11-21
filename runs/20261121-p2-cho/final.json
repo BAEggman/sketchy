@@ -1,0 +1,299 @@
+{
+ "run": "20261121-p2-cho",
+ "target": "醋炙 첫 장",
+ "lyric": "유몰삼아시향청현 / 감대원상(다음 장)",
+ "dictionary": [
+  {
+   "id": "herb.乳香",
+   "hanja": "乳香",
+   "reading": "유향",
+   "cue": "우유 팩에 향수 분무기가 달린 병(이 장면: 식초병을 끌어안고 기울여 붓기만 함, 향수는 뿌리지 않음)",
+   "decode": "우유의 유 + 향수의 향 → 유향",
+   "type": "두 낱말 잇기",
+   "carriers": [
+    "우유",
+    "향수"
+   ],
+   "score": 23,
+   "status": "fixed",
+   "from": "보존"
+  },
+  {
+   "id": "herb.沒藥",
+   "hanja": "沒藥",
+   "reading": "몰약",
+   "cue": "코르크 막은 둥근 플라스크에 든 검은 물약(해골 · 거품 · 라벨 없음)",
+   "decode": "물약 → 몰약(물 → 몰, 한 모음 차이)",
+   "type": "가까운 소리의 한 낱말",
+   "carriers": [
+    "물약"
+   ],
+   "score": 22,
+   "status": "candidate",
+   "from": "p1 · p3 · p6(p6 꼴) + p4(해골 · 거품 없음)"
+  },
+  {
+   "id": "herb.三稜",
+   "hanja": "三稜",
+   "reading": "삼릉",
+   "cue": "화면에서 가장 키 큰 굵은 세모 날 쇠침(삼릉침) — 날 모서리 셋 · 단면 세모, 얼굴 · 다리 · 피 없음",
+   "decode": "삼릉침 → 삼릉(三稜鍼과 같은 두 글자)",
+   "type": "낱말 속 연속 포함",
+   "carriers": [
+    "삼릉침"
+   ],
+   "score": 22,
+   "status": "candidate",
+   "from": "p1(크기) + p3(new-etc-18 꼴) · p2"
+  },
+  {
+   "id": "herb.莪朮",
+   "hanja": "莪朮",
+   "reading": "아출",
+   "cue": "포대기에 싸여 쪽쪽이를 문 초록 아기 배추 인형(빈손 · 하얗지 않음) — 사용자 결정 11-21: 원안 「아기 배추 인형」 유지",
+   "decode": "아기의 아 + 배추(朮 가족, 추 ≈ 출) → 아출",
+   "type": "형태소 가족",
+   "carriers": [
+    "아기",
+    "배추(朮 가족)",
+    "인형"
+   ],
+   "score": 19,
+   "status": "candidate",
+   "from": "Gemini 사전 원안 + p1 · p2 · p6(포대기 · 쪽쪽이)"
+  },
+  {
+   "id": "herb.柴胡",
+   "hanja": "柴胡",
+   "reading": "시호",
+   "cue": "몸통이 자명종(숫자 없이 눈금만 있는 시계판)이고 수염이 시곗바늘인 호랑이",
+   "decode": "시계의 시 + 호랑이의 호 → 시호",
+   "type": "두 낱말 잇기",
+   "carriers": [
+    "시계",
+    "호랑이"
+   ],
+   "score": 23,
+   "status": "fixed",
+   "from": "보존"
+  },
+  {
+   "id": "herb.香附子",
+   "hanja": "香附子",
+   "reading": "향부자",
+   "cue": "향수를 너무 뿌리는 부자(실크햇 · 털 깃 · 굵은 금반지, 금술 단 붉은 방석 — 지폐 없음)",
+   "decode": "향수의 향 + 부자(附子 가족) → 향부자",
+   "type": "두 낱말 잇기 + 형태소 가족",
+   "carriers": [
+    "향수",
+    "부자(附子 가족)"
+   ],
+   "score": 22,
+   "status": "fixed",
+   "from": "보존(세부: 지폐 빼기는 사용자 확인 대기)"
+  },
+  {
+   "id": "herb.靑皮",
+   "hanja": "靑皮",
+   "reading": "청피",
+   "cue": "청피망이 복면처럼 얼굴을 감싼 사람(재채기하면 씨가 튐)",
+   "decode": "청피망 → 청피",
+   "type": "낱말 속 연속 포함",
+   "carriers": [
+    "피망"
+   ],
+   "score": 24,
+   "status": "fixed",
+   "from": "보존"
+  },
+  {
+   "id": "herb.玄胡索",
+   "hanja": "玄胡索",
+   "reading": "현호색",
+   "cue": "현관 문턱에 걸친 색동 줄무늬 호스, 주둥이에 얼굴",
+   "decode": "현관의 현 + 호스의 호 + 색동의 색 → 현호색",
+   "type": "두 낱말 잇기(세 낱말)",
+   "carriers": [
+    "현관",
+    "호스",
+    "색동"
+   ],
+   "score": 21,
+   "status": "candidate",
+   "from": "p3 + 주둥이 얼굴(심사)"
+  },
+  {
+   "id": "aux.醋",
+   "hanja": "醋",
+   "reading": "초",
+   "cue": "투명한 연노랑 식초병(hp-02 · hp-04와 같은 병)",
+   "decode": "식초 → 초 → 醋",
+   "type": "익숙한 실물(낱말 속 포함)",
+   "carriers": [
+    "식초병"
+   ],
+   "score": 21,
+   "status": "fixed",
+   "from": "보존(hp-04 · hp-02)"
+  }
+ ],
+ "scene": {
+  "setting": "작은 부엌 작업대. 약한 파란 불(文火) 줄 위로 작업대 길이만 한 얕은 팬이 놓였고, 바닥에 연노랑 식초가 얇게 깔려 왼→오른으로 흐른다(컨베이어 대신). 왼쪽 끝 투명한 연노랑 식초병(hp-02 · hp-04와 같은 병), 오른쪽 끝 발판 깔린 열린 현관문. 그림 안에 글자 · 숫자 · 간판 없음",
+  "event": "왼쪽 끝 우유 향수병(乳香)이 식초병을 끌어안고 기울여 팬에 붓자(醋), 식초를 뒤집어쓴 검은 물약병(沒藥)과 우유 팩의 초록 악취 김이 하얀 김으로 바뀐다(③ 矯臭矯味). 달아오른 물약병의 코르크가 튀어 가장 키 큰 삼릉침(三稜)을 치고, 기우는 침의 세모 날 끝이 포대기 속 아기 배추(莪朮)를 찌른다. 펄쩍 뛴 배추가 시계 호랑이(柴胡) 머리의 종에 떨어지자 시곗바늘 수염이 핑핑 돌며 팬을 쉬지 않고 휘젓고(炒), 그 소용돌이가 향수 부자(香附子)의 방석을 쳐낸다. 넘어지는 부자의 향수 구름에 청피망 복면(靑皮)이 재채기하고, 그 반동으로 잡아당긴 현관 문턱의 색동 호스(玄胡索)가 쫙 펴져(疏肝) 고였던 검붉은 물이 옆으로 흘러 현관 밖으로 나가고(活血) 찡그렸던 얼굴이 후 풀린다(止痛).",
+  "domino": [
+   "乳香→沒藥: 우유 향수병이 식초병을 기울여 부은 식초가 검은 물약병을 덮친다 — 둘 위의 초록 악취 김이 하얀 김으로(③ 矯臭矯味)",
+   "沒藥→三稜: 식초를 맞고 달아오른 물약병의 코르크가 퐁 튀어 삼릉침 머리를 친다",
+   "三稜→莪朮: 기우는 삼릉침의 세모 날 끝이 포대기 속 아기 배추 엉덩이를 콕 찌른다",
+   "莪朮→柴胡: 펄쩍 뛴 아기 배추가 시계 호랑이 머리 위 종에 엉덩방아 — 따르릉",
+   "柴胡→香附子: 종이 울리자 시곗바늘 수염이 핑핑 돌며 팬을 휘젓고(炒), 그 소용돌이가 부자의 붉은 방석을 쳐낸다",
+   "香附子→靑皮: 뒤로 넘어지며 꽉 쥔 향수병에서 향수 구름이 터져 청피망 복면을 덮친다",
+   "靑皮→玄胡索: 큰 재채기 반동으로 넘어지며 쥐고 있던 호스를 잡아당겨, 꺾였던 색동 호스가 쫙 펴진다"
+  ],
+  "meaning": "醋 = 乳香이 식초병을 기울여 붓는 손, 炒 = 柴胡의 쉬지 않고 도는 시곗바늘 수염(약한 불 위 팬) → 醋炙 = 液體輔料와 함께 炒하여 輔料가 약 속에 스며들게 함(교재 3540행). ③ 矯臭矯味 = 악취 김이 하얀 김으로 바뀌는 것은 乳香 · 沒藥 둘뿐. ① 疏肝 · 活血止痛(여덟 모두, 3543행) = 끝의 호스: 꺾여 막혔던 곳이 펴지고(疏肝), 고였던 검붉은 물이 흐르고(活血), 찡그린 얼굴이 풀린다(止痛). 흐름은 옆으로만 가서 현관 밖으로 나간다 — 위로 솟으면 酒炙(上行 · 活血通絡). 해골 · 독 거품이 없어 다음 장 ② 毒性 감소 무리와 갈린다. 끈 · 매듭을 쓰지 않아 hp-02 「끈 조인 가방(醋炒則斂)」과 반대 동작으로 보이지 않는다.",
+  "layout": "왼→오른(화면 폭 기준 대략): 식초병을 끌어안은 乳香 0~10% | 沒藥 ~17% | 三稜 ~27%(가장 키 큼) | 莪朮 ~38%(호랑이 종 위로 떨어짐) | 柴胡 ~50% | 香附子 ~62% | 靑皮 ~74% | 玄胡索 호스 + 현관문 ~84~100%. 모두 팬 안 한 줄, 앞뒤 살짝 지그재그. 바탕: 무대(작업대 · 식초병 · 긴 팬 · 약한 파란 불 · 현관문) + 乳香 · 柴胡 · 香附子 · 靑皮 · 玄胡索, 乳香~柴胡 사이(폭 약 1/3)는 빈칸 / 편집 1: 沒藥 + 三稜 / 편집 2: 莪朮 / 편집 3: 지우기만. 본적 색 띠는 달지 않는다(분류는 사실 칸)."
+ },
+ "prompt_en": {
+  "base": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines, simple light kitchen background. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture, including on the carton, bottles, clock face and doormat. Setting: a long wooden kitchen workbench seen from the front. One very long, shallow rectangular frying pan runs along almost the whole bench over a row of small, gentle blue flames (low heat). A thin layer of pale-yellow vinegar covers the bottom of the pan and flows from left to right. LEFT END: a cartoon milk carton character (white and blue carton with black cow spots, small arms and legs, a cute face) with a little perfume atomizer (a squeeze bulb and nozzle) fixed on its top; the atomizer is NOT spraying. Standing on the left rim of the pan, it hugs a tall, slim, clear glass bottle with a cork, full of pale-yellow vinegar, and tips it so a stream of vinegar pours into the pan. A wavy green stink line rises from the carton and turns into a clean white wisp where the vinegar splashes. EMPTY GAP: from the milk carton to the tiger, leave about one third of the image width as an empty stretch of pan with only vinegar in it. JUST RIGHT OF CENTER: a tiger character whose round body is a big alarm clock (the clock face shows only tick marks, no numbers) with two alarm bells on top of its head, ringing with vibration lines. Its whiskers are long black clock hands. It bends over the pan and its spinning clock-hand whiskers whisk the vinegar into swirls, stirring nonstop; the swirl flings a plush red cushion with gold tassels out from under the next character. NEXT: a chubby rich man in a black top hat, a fur collar and fat gold rings (no paper money, no coins), tumbling backward off the flying red cushion and squeezing a fancy perfume bottle so a big pink perfume cloud bursts to the right. NEXT: a small person whose whole face is wrapped in a green bell pepper like a bandit mask (eye holes cut into the pepper), caught in the pink cloud, doing a huge sneeze with pepper seeds flying, recoiling backward and yanking a garden hose with both hands. RIGHT END: a small open front door with a doormat stands at the right edge of the bench. A garden hose with bright rainbow stripes (red, yellow, green, blue and pink bands) and a cartoon face on its nozzle lies across the doorway threshold. It has just been pulled straight: a pale crease with a small pop burst marks where it was sharply kinked. A stream of dark red liquid gushes sideways out of the nozzle, through the open door and along the floor, sideways and never upward. The hose face sighs with relief, eyes closed, a small fading pain zigzag above it. All characters stand in one left-to-right row like dominoes, slightly staggered front and back. Large, clear shapes, few objects. No wine bottle, no extra bottles, no skulls, no extra characters.",
+  "edits": [
+   "Edit only the left part of the empty stretch of pan between the milk carton and the alarm-clock tiger. Add exactly two things and nothing else. First, right next to the milk carton: a round-bottomed glass flask with a cork, filled with black liquid (no skull, no bubbles, no label), standing in the vinegar; the poured vinegar splashes over it, a wavy green stink line above it turns into a clean white wisp, and its cork is popping off and flying to the right. Second, right of the flask: the tallest object in the whole picture, a giant thick steel needle standing on its blunt end, with a sharp three-edged point whose flat triangular faces and triangular cross-section are clearly visible; it has no face, no legs and no blood. The flying cork hits its head and it tips over to the right. Keep everything else exactly as it is.",
+   "Edit only the remaining empty gap between the tipping steel needle and the alarm-clock tiger. Add exactly one thing: a small green cabbage doll (a plush toy shaped like a baby cabbage) wrapped in a soft baby swaddle blanket, with a cute baby face and a pacifier in its mouth. The needle's sharp point has just poked its bottom; it leaps up with a startled cry and lands bottom-first on the tiger's ringing alarm bells. The cabbage is green, not white, and holds nothing in its hands. Keep everything else exactly as it is.",
+   "Remove every letter, number, sign, label or bit of writing anywhere in the picture (milk carton, bottles, flask, clock face, doormat). Remove any paper money, coins, wine bottle, extra bottle or extra character that appeared. Keep the green-to-white stink wisps only above the milk carton and the black flask, and remove any other stink lines. Do not move or change the eight characters."
+  ]
+ },
+ "stations": [
+  {
+   "n": 0,
+   "kind": "frame",
+   "obj": "식초 작업대 — 약한 파란 불 위의 긴 팬 · 바닥에 깔려 왼→오른으로 흐르는 연노랑 식초 · 왼쪽 끝 투명한 연노랑 식초병 · 오른쪽 끝 열린 현관문",
+   "fact": "醋炙法 = 液體輔料(食醋)와 함께 炒하여 輔料가 藥物 조직 안에 스며들게 함(교재 3540 · 3543행, 문제집 본초 6 · 15번). 炙法은 加輔料炒法(고체 · 溫度↑ 時間↓)과 달리 액체 · 溫度↓ · 時間 약간↑",
+   "hook": "식초병 + 약한 불 위 팬 = 醋 + 炒 = 醋炙",
+   "say": "작업대 위에 약한 파란 불이 줄지어 있고, 그 위에 긴 팬이 놓였어. 팬 바닥엔 연노랑 식초가 얇게 깔려 왼쪽에서 오른쪽으로 흘러. 왼쪽 끝엔 修治 불 작업장에서 본 그 투명한 연노랑 식초병. 식초, 초 — 醋야. 팬에서 볶는 것도 초 — 炒. 액체 보료인 식초와 함께 볶아서 식초가 약 속까지 스며들게 하는 게 醋炙法이야. 고체 보료로 볶을 때보다 불은 약하게, 시간은 조금 길게. 이 팬 위에 여덟이 가사 순서대로 섰어 — 유몰삼아시향청현.",
+   "tts": "작업대 위에 약한 파란 불이 줄지어 있고, 그 위에 긴 팬이 놓였어. 팬 바닥엔 연노랑 식초가 얇게 깔려 왼쪽에서 오른쪽으로 흘러. 왼쪽 끝엔 수치 불 작업장에서 본 그 투명한 연노랑 식초병. 식초, 초, 식초 초야. 팬에서 볶는 것도 초, 볶을 초. 액체 보료인 식초와 함께 볶아서 식초가 약 속까지 스며들게 하는 게 초자법이야. 고체 보료로 볶을 때보다 불은 약하게, 시간은 조금 길게. 이 팬 위에 여덟이 가사 순서대로 섰어, 유몰삼아시향청현."
+  },
+  {
+   "n": 1,
+   "obj": "왼쪽 끝 우유 팩 향수병 — 향수 분무기를 단 우유 팩이 식초병을 끌어안고 기울여 팬에 붓는다. 머리 위 초록 악취 김이 식초가 튀는 자리에서 하얀 김으로 바뀜",
+   "fact": "乳香 — 醋炙 ① 疏肝·活血止痛 · ③ 矯臭矯味(五靈脂·乳香·沒藥)(3543행). 妊娠愼用(3503행). 活血祛瘀藥(3593행, 그림 밖)",
+   "hook": "우유 + 향수 → 유향 · 식초 붓는 손 = 醋 · 악취 김 → 흰 김 = 矯臭矯味",
+   "say": "맨 왼쪽은 향수 분무기를 단 우유 팩. 우유의 유, 향수의 향 — 유향, 乳香. 분무기는 달고만 있고 뿌리진 않아. 대신 식초병을 끌어안고 팬에 콸콸 부어 — 이게 醋. 식초가 튀는 자리에서 머리 위 초록 악취 김이 하얀 김으로 바뀌지? 나쁜 냄새와 맛을 바로잡는 矯臭矯味. 乳香은 疏肝 · 活血止痛에도, 矯臭矯味에도 들어. 修治 그림에서 醋炙의 예로 들었던 바로 그 乳香이야.",
+   "tts": "맨 왼쪽은 향수 분무기를 단 우유 팩. 우유의 유, 향수의 향, 유향. 분무기는 달고만 있고 뿌리진 않아. 대신 식초병을 끌어안고 팬에 콸콸 부어, 이게 초. 식초가 튀는 자리에서 머리 위 초록 악취 김이 하얀 김으로 바뀌지? 나쁜 냄새와 맛을 바로잡는 교취교미. 유향은 소간, 활혈지통에도, 교취교미에도 들어. 수치 그림에서 초자의 예로 들었던 바로 그 유향이야."
+  },
+  {
+   "n": 2,
+   "obj": "코르크 막은 둥근 검은 물약병 — 식초를 뒤집어쓰고 초록 악취 김이 하얀 김으로, 달아오른 코르크가 퐁 튀어 오른쪽으로",
+   "fact": "沒藥 — 醋炙 ① · ③ 矯臭矯味(3543행). 妊娠愼用(3503행). 活血祛瘀藥(3593행, 그림 밖)",
+   "hook": "물약 → 몰약 · 악취 걷힘은 乳香 · 沒藥 둘",
+   "say": "그 옆, 코르크 막은 둥근 병에 검은 물약. 물약, 몰약 — 沒藥. 우유 팩이 부은 식초를 뒤집어쓰고 이것도 악취 김이 하얀 김으로 바뀌어. 악취가 걷히는 건 乳香하고 沒藥 둘뿐이야, 矯臭矯味. 해골도 독 거품도 없지? 독을 줄이는 무리는 다음 장이야. 식초 맞고 달아오른 병에서 코르크가 퐁 튀어 오른쪽으로 날아가.",
+   "tts": "그 옆, 코르크 막은 둥근 병에 검은 물약. 물약, 몰약. 우유 팩이 부은 식초를 뒤집어쓰고 이것도 악취 김이 하얀 김으로 바뀌어. 악취가 걷히는 건 유향하고 몰약 둘뿐이야, 교취교미. 해골도 독 거품도 없지? 독을 줄이는 무리는 다음 장이야. 식초 맞고 달아오른 병에서 코르크가 퐁 튀어 오른쪽으로 날아가."
+  },
+  {
+   "n": 3,
+   "obj": "가장 키 큰 굵은 세모 날 쇠침(삼릉침) — 코르크에 머리를 맞고 오른쪽으로 기울며, 단면이 세모인 날 끝이 아기 배추 엉덩이를 콕",
+   "fact": "三稜 — 醋炙 ①(3543행). 妊娠禁用(莪朮과 함께, 3501행). 十九畏 牙硝畏三稜(3500행). 뿌리 인형(參 가족: 人參·丹參·玄參·沙參·苦參) 아님",
+   "hook": "삼릉침 → 삼릉(三稜鍼과 같은 두 글자 — 날 모서리가 셋)",
+   "say": "제일 키 큰 건 굵은 쇠침. 끝의 날 모서리가 셋, 자른 면이 세모야 — 삼릉침. 삼릉침에서 침만 떼면 삼릉, 三稜. 글자도 같은 三稜이야. 刺法 펜싱장 벽의 세모 날 침, 임신금기 조제실 쟁반의 세모 꼬챙이와 같은 물건이고. 뿌리 인형이 아니니까 人參 같은 參 가족이랑 헷갈리지 마. 날아온 코르크에 머리를 맞고 기울면서, 날 끝이 옆의 아기 배추 엉덩이를 콕.",
+   "tts": "제일 키 큰 건 굵은 쇠침. 끝의 날 모서리가 셋, 자른 면이 세모야, 삼릉침. 삼릉침에서 침만 떼면 삼릉. 글자도 같은 삼릉이야. 자법 펜싱장 벽의 세모 날 침, 임신금기 조제실 쟁반의 세모 꼬챙이와 같은 물건이고. 뿌리 인형이 아니니까 인삼 같은 삼 가족이랑 헷갈리지 마. 날아온 코르크에 머리를 맞고 기울면서, 날 끝이 옆의 아기 배추 엉덩이를 콕."
+  },
+  {
+   "n": 4,
+   "obj": "포대기에 싸여 쪽쪽이를 문 초록 아기 배추 인형 — 엉덩이를 찔려 펄쩍 뛰어 시계 호랑이 머리 위 종에 엉덩방아",
+   "fact": "莪朮 — 醋炙 ①(3543행). 妊娠禁用(三稜과 짝, 3501행). 朮 = 배추 가족: 白朮 하얀 배추 · 蒼朮 창 든 배추와 다름",
+   "hook": "아기 + 배추(朮 가족) → 아출 · 삼릉침이 아기를 찌름 = 三稜 · 莪朮 妊娠禁用 짝",
+   "say": "포대기에 싸여 쪽쪽이 문 초록 배추 인형 — 아기 배추 인형. 뿌리 인형(參 가족)이 아니라 배추 인형이야. 아기의 아, 배추는 朮 가족이니까 출 — 아출, 莪朮. 하얀 배추 白朮도, 창 든 배추 蒼朮도 아니고 아기야. 삼릉침이 아기를 찔렀지? 三稜하고 莪朮은 둘 다 임신 중에 쓰면 안 되는 妊娠禁用 짝이야. 찔린 아기 배추가 펄쩍 뛰어 옆 호랑이 머리 위 종에 엉덩방아를 찧어.",
+   "tts": "포대기에 싸여 쪽쪽이 문 초록 배추 인형, 아기 배추 인형. 뿌리 인형, 삼 가족이 아니라 배추 인형이야. 아기의 아, 배추는 출 가족이니까 출, 아출. 하얀 배추 백출도, 창 든 배추 창출도 아니고 아기야. 삼릉침이 아기를 찔렀지? 삼릉하고 아출은 둘 다 임신 중에 쓰면 안 되는 임신금용 짝이야. 찔린 아기 배추가 펄쩍 뛰어 옆 호랑이 머리 위 종에 엉덩방아를 찧어."
+  },
+  {
+   "n": 5,
+   "obj": "몸통이 자명종(숫자 없는 시계판)인 호랑이 — 종이 따르릉 울리고, 시곗바늘 수염이 핑핑 돌며 팬의 식초를 쉬지 않고 휘젓는다. 그 소용돌이가 옆 부자의 붉은 방석을 쳐냄",
+   "fact": "柴胡 — 醋炙 ①(3543행). 炒 = 容器에 넣고 균일한 火力으로 不斷히 저어 볶음(3530행). 發散風熱藥(3563행) · 柴胡·靑皮 少陽 引經(3485행) — 그림 밖",
+   "hook": "시계 + 호랑이 → 시호 · 쉬지 않고 도는 바늘 = 不斷히 저어 = 炒",
+   "say": "가운데는 몸통이 자명종인 호랑이. 시계의 시, 호랑이의 호 — 시호, 柴胡. 배추가 종에 떨어지자 따르릉! 시곗바늘 수염이 핑핑 돌면서 팬의 식초를 쉬지 않고 휘저어. 그릇에 넣고 고른 불에 쉬지 않고 저어 볶는 게 炒야. 왼쪽 끝 乳香이 부은 게 醋, 가운데 柴胡가 젓는 게 炒 — 합쳐서 醋炙. 돌던 수염이 옆 부자의 붉은 방석을 탁 쳐내.",
+   "tts": "가운데는 몸통이 자명종인 호랑이. 시계의 시, 호랑이의 호, 시호. 배추가 종에 떨어지자 따르릉! 시곗바늘 수염이 핑핑 돌면서 팬의 식초를 쉬지 않고 휘저어. 그릇에 넣고 고른 불에 쉬지 않고 저어 볶는 게 볶을 초야. 왼쪽 끝 유향이 부은 게 식초 초, 가운데 시호가 젓는 게 볶을 초, 합쳐서 초자. 돌던 수염이 옆 부자의 붉은 방석을 탁 쳐내."
+  },
+  {
+   "n": 6,
+   "obj": "실크햇 · 털 깃 · 금반지 부자 — 금술 단 붉은 방석이 쳐내져 뒤로 넘어지며 향수병을 꽉 눌러 분홍 향수 구름이 터짐(지폐 없음)",
+   "fact": "香附子 — 醋炙 ①(3543행). 理氣藥(3583행, 그림 밖). 附子 = 부자 가족",
+   "hook": "향수 + 부자 → 향부자(우유-향 / 향-부자: 낱말 순서가 음절 순서) · 향수를 뿌리는 건 香附子 하나",
+   "say": "방석이 빠진 부자가 뒤로 벌러덩 넘어지면서 쥐고 있던 향수병을 꽉 눌러 — 향수 구름이 펑. 향수의 향, 그리고 부자 — 향부자, 香附子. 乳香은 우유가 먼저라 유향, 이건 향수가 먼저라 향부자. 낱말 순서가 곧 음절 순서야. 향수를 뿌리는 건 이 부자 하나뿐이고, 우유 팩은 식초를 붓기만 했어.",
+   "tts": "방석이 빠진 부자가 뒤로 벌러덩 넘어지면서 쥐고 있던 향수병을 꽉 눌러, 향수 구름이 펑. 향수의 향, 그리고 부자, 향부자. 유향은 우유가 먼저라 유향, 이건 향수가 먼저라 향부자. 낱말 순서가 곧 음절 순서야. 향수를 뿌리는 건 이 부자 하나뿐이고, 우유 팩은 식초를 붓기만 했어."
+  },
+  {
+   "n": 7,
+   "obj": "청피망이 복면처럼 얼굴을 감싼 사람 — 향수 구름에 에취! 씨가 튀고, 반동으로 뒤로 넘어지며 쥐고 있던 호스를 확 잡아당김",
+   "fact": "靑皮 — 醋炙 ①(3543행). 理氣藥(3583행, 그림 밖)",
+   "hook": "청피망 → 청피",
+   "say": "향수 구름이 청피망 복면을 덮쳤어. 청피망에서 망만 떼면 청피, 靑皮. 에취! 피망 씨가 튀고, 재채기 반동으로 뒤로 넘어지면서 손에 쥔 호스를 확 잡아당겨.",
+   "tts": "향수 구름이 청피망 복면을 덮쳤어. 청피망에서 망만 떼면 청피. 에취! 피망 씨가 튀고, 재채기 반동으로 뒤로 넘어지면서 손에 쥔 호스를 확 잡아당겨."
+  },
+  {
+   "n": 8,
+   "obj": "오른쪽 끝 현관 문턱에 걸친 색동 줄무늬 호스(주둥이에 얼굴) — 꺾였던 자리가 쫙 펴짐",
+   "fact": "玄胡索 — 醋炙 ①(3543행). 活血祛瘀藥(3593행, 그림 밖). 호박을 쓰지 않음 — 호박 = 琥珀(重鎭安神藥 3597행, 문제집 44번 調服)",
+   "hook": "현관 + 호스 + 색동 → 현호색 · 호: 柴胡 = 호랑이 / 玄胡索 = 호스",
+   "say": "맨 오른쪽, 현관 문턱에 색동 줄무늬 호스가 걸쳐 있어. 현관의 현, 호스의 호, 색동의 색 — 현호색, 玄胡索. 같은 호 소리라도 柴胡는 털 난 호랑이, 玄胡索은 고무 호스야. 호박은 안 써 — 安神藥 琥珀하고 이름이 똑같거든. 꽉 꺾여 있던 호스를 청피망이 잡아당기니까 쫙 펴졌지?",
+   "tts": "맨 오른쪽, 현관 문턱에 색동 줄무늬 호스가 걸쳐 있어. 현관의 현, 호스의 호, 색동의 색, 현호색. 같은 호 소리라도 시호는 털 난 호랑이, 현호색은 고무 호스야. 호박은 안 써, 안신약 호박하고 이름이 똑같거든. 꽉 꺾여 있던 호스를 청피망이 잡아당기니까 쫙 펴졌지?"
+  },
+  {
+   "n": 9,
+   "obj": "도미노 끝 — 펴진 호스 · 옆으로 흘러 현관 밖으로 나가는 검붉은 물 · 후 풀린 호스 얼굴(흐름은 위로 솟지 않음)",
+   "fact": "醋炙法 ① 疏肝·活血止痛 = 乳香·沒藥·三稜·莪朮·柴胡·香附子·靑皮·玄胡索(3543행). 「活血通絡 · 藥을 上行」은 酒炙(上行 黃連·大黃 / 活血通絡 當歸·川芎, 3542행) — 문제집 본초 19번 함정",
+   "hook": "꺾인 게 펴짐 = 疏 · 고인 피가 흐름 = 活血 · 찡그림이 풀림 = 止痛 · 옆으로만 흐름(위로 솟으면 술 = 酒炙)",
+   "say": "끝에서 무슨 일이 났는지 봐. 꺾여 막혔던 게 펴져서 통하지 — 疏肝. 고여 있던 검붉은 물이 흘러 나가지 — 活血. 찡그렸던 얼굴이 후 풀리지 — 止痛. 이게 이 여덟 모두의 醋炙 목적, 疏肝 · 活血止痛이야. 그리고 흐름이 옆으로만 가서 현관 밖으로 나가지, 위로 솟지 않아. 活血通絡하면서 약을 위로 올리는 건 술로 볶는 酒炙 — 當歸 · 川芎, 黃連 · 大黃이야. 活血이 양쪽에 다 들어서 문제가 바꿔 내.",
+   "tts": "끝에서 무슨 일이 났는지 봐. 꺾여 막혔던 게 펴져서 통하지, 소간. 고여 있던 검붉은 물이 흘러 나가지, 활혈. 찡그렸던 얼굴이 후 풀리지, 지통. 이게 이 여덟 모두의 초자 목적, 소간, 활혈지통이야. 그리고 흐름이 옆으로만 가서 현관 밖으로 나가지, 위로 솟지 않아. 활혈통락하면서 약을 위로 올리는 건 술로 볶는 주자, 당귀, 천궁, 황련, 대황이야. 활혈이 양쪽에 다 들어서 문제가 바꿔 내."
+  },
+  {
+   "n": 10,
+   "kind": "review",
+   "obj": "작업대 한 바퀴 — 식초 붓는 우유 팩 · 코르크 튄 물약병 · 기운 삼릉침 · 아기 배추 · 젓는 시계 호랑이 · 넘어진 향수 부자 · 재채기 청피망 · 펴진 색동 호스",
+   "fact": "가사 「유몰삼아시향청현 / 감대원상」. 다음 장: ② 毒性·副作用 감소(大戟·甘遂·芫花·商陸) · ③ 矯臭矯味의 셋째 五靈脂(3543행). 醋炒則斂(3459행, 升降浮沈의 炮製 轉化)과 醋炙 ①(3543행, 炙法 목적)은 둘 다 교재 문장 — 절이 다름. 鹽炙 · 薑炙 · 蜜炙 대상은 이 작업대에 없음(3544~3546행)",
+   "hook": "붓고(醋) · 튀고 · 찌르고 · 떨어지고 · 젓고(炒) · 넘어지고 · 재채기하고 · 펴짐(疏肝 · 活血止痛)",
+   "say": "한 바퀴 다시. 우유 향수병이 식초를 붓고, 물약병 코르크가 튀고, 삼릉침이 아기 배추를 찌르고, 아기 배추가 시계 호랑이 종에 떨어지고, 호랑이 수염이 팬을 저으며 부자 방석을 쳐내고, 향수 부자의 향수에 청피망이 재채기하고, 그 반동에 색동 호스가 쫙 펴져. 유몰삼아시향청현. 악취가 걷힌 건 乳香 · 沒藥 둘, 임신금기 짝은 三稜 · 莪朮. 수영장 그림의 식초 옆 조인 가방, 醋炒則斂은 升降浮沈 이야기고, 여기는 炙法의 목적 이야기야 — 둘 다 교재 말이야. 감대원상은 다음 장, 독을 줄이는 무리야.",
+   "tts": "한 바퀴 다시. 우유 향수병이 식초를 붓고, 물약병 코르크가 튀고, 삼릉침이 아기 배추를 찌르고, 아기 배추가 시계 호랑이 종에 떨어지고, 호랑이 수염이 팬을 저으며 부자 방석을 쳐내고, 향수 부자의 향수에 청피망이 재채기하고, 그 반동에 색동 호스가 쫙 펴져. 유몰삼아시향청현. 악취가 걷힌 건 유향, 몰약 둘, 임신금기 짝은 삼릉, 아출. 수영장 그림의 식초 옆 조인 가방, 초초즉렴은 승강부침 이야기고, 여기는 자법의 목적 이야기야, 둘 다 교재 말이야. 감대원상은 다음 장, 독을 줄이는 무리야."
+  }
+ ],
+ "questions": [
+  {
+   "q": "왼쪽부터 여덟 피규어의 약 이름을 차례로 대라. 「호」 소리 둘과 「향」 소리 둘은 그림에서 무엇으로 갈리나?",
+   "a": "乳香 · 沒藥 · 三稜 · 莪朮 · 柴胡 · 香附子 · 靑皮 · 玄胡索(유몰삼아시향청현). 호: 柴胡 = 가운데 시계 호랑이 / 玄胡索 = 오른 끝 현관 색동 호스. 향: 乳香 = 왼 끝 우유 향수병(붓기만) / 香附子 = 향수 부자(뿌림)"
+  },
+  {
+   "q": "식초를 붓는 것과 팬을 젓는 것은 누구의 무엇인가? 둘이 함께 말하는 修治法과 그 정의는?",
+   "a": "乳香(우유 향수병)이 식초병을 기울임 = 醋 · 柴胡(시계 호랑이)의 시곗바늘 수염이 쉬지 않고 저음 = 炒 → 醋炙法: 液體輔料(食醋)와 함께 炒하여 輔料가 藥物 조직 안에 스며들게 함"
+  },
+  {
+   "q": "초록 악취 김이 하얀 김으로 바뀐 둘은 누구이고 그 뜻은? 다음 장에서 같은 표시를 받을 셋째 약은?",
+   "a": "乳香 · 沒藥 — 醋炙 ③ 矯臭矯味. 셋째는 五靈脂"
+  },
+  {
+   "q": "세모 날 쇠침에 찔린 포대기 배추 — 두 약의 이름과 둘이 함께 걸리는 금기는? 쇠침을 뿌리 인형으로 그리지 않은 까닭은?",
+   "a": "三稜(삼릉침) · 莪朮(아기 배추, 朮 = 배추 가족) — 妊娠禁用. 뿌리 인형은 參 가족(人參 · 丹參 · 玄參 · 沙參 · 苦參)이라 三稜과 섞이지 않게 하려고"
+  },
+  {
+   "q": "도미노 끝에서 펴진 것 · 흐른 것 · 풀린 것은 각각 무슨 뜻인가? 흐름이 위로 솟았다면 어느 炙法이 되나?",
+   "a": "펴진 호스 = 疏肝 · 흐르는 검붉은 물 = 活血 · 풀린 얼굴 = 止痛 → 醋炙 ① 疏肝 · 活血止痛(여덟 모두). 위로 솟으면 酒炙(上行 · 活血通絡: 黃連 · 大黃 / 當歸 · 川芎)"
+  }
+ ],
+ "needs_user_ok": [],
+ "check_needed": [
+  "芫花의 현재 피규어 — brief · 계획서 8절은 「원화 지폐」(보존), 다른 모델 선정표는 「원숭이 화장」(교체). 확인 필요(어느 쪽이든 香附子의 지폐는 숫자 때문에 뺌)",
+  "牙硝 피규어와 「아기」 운반 — 莪朮 아기 배추와 牙硝 후보 「아기가 든 초」(부록 B-4)를 합치면 상한(둘). 十九畏 牙硝畏三稜 그림에서 三稜 곁의 아기가 莪朮을 부를 수 있어, 심사 의견은 Gemini 원안 「뾰족 어금니 결정」(+ 양초 가족). 牙硝 실행 때 정함",
+  "hp-04의 炙 그림(석쇠 · 발라 굽기) — 교재 3540행 · 문제집 6 · 15번은 「液體輔料와 함께 炒」. 이 장은 팬으로 그림. hp-04를 손볼지는 사용자 판단",
+  "五靈脂(다음 장): ③ 표지(초록 악취 김 → 흰 김)를 같이 주면 乳香 · 沒藥 · 五靈脂 셋이 표지로 묶임 — 권장"
+ ],
+ "user_decisions": {
+  "date": "2026-11-21",
+  "by": "사용자(AskUserQuestion)",
+  "approved": [
+   "香附子 지폐 빼기(붉은 방석 · 실크햇 · 금반지)",
+   "柴胡 숫자 없는 시계판",
+   "乳香 뿌리지 않고 붓기",
+   "三稜 = 삼릉침",
+   "玄胡索 = 현관 색동 호스"
+  ],
+  "rejected": [
+   "莪朮 「인형」 빼기 — Gemini 사전 원안 「아기 배추 인형」을 유지"
+  ],
+  "applied_by": "Opus — 莪朮 사전 항목 · 편집 2 프롬프트 · 정거장 4를 「아기 배추 인형」으로 고침(심사 원문 judge.md는 그대로)"
+ }
+}

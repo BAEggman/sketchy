@@ -49,5 +49,7 @@
  },
  "runs": {
   "20261120-p2-hist": "judge 완료 — runs/20261120-p2-hist/final.json"
- }
+ },
+ "master_note": "docs/overhaul/MASTER_NOTE.md (= 프로젝트 claude/Sketchy_갈아엎기_마스터노트_20261121.md)",
+ "handoff_bundle": "~/Downloads/sketchy_opus/sketchy_overhaul_20261121.bundle (0e16b7c..overhaul-20261120)"
 }

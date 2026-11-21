@@ -23,7 +23,9 @@
   "P2.run2-cho-draw(pilot-cho, Gemini 바탕+편집 3)",
   "P2.review-page+cho(30문항)"
  ],
- "in_progress": [],
+ "in_progress": [
+  "P3-1 의학사: 金元 시험(hist-06a 구역 수정) 끝 — 사용자 검수 대기 · 劉完素 완장이 작아 판독자 둘 다 못 읽음(손볼지 물음)"
+ ],
  "held": [
   {
    "id": "saam.寒熱格.大腸",
@@ -62,7 +64,8 @@
  },
  "runs": {
   "20261120-p2-hist": "judge 완료 — runs/20261120-p2-hist/final.json",
-  "20261121-p2-cho": "심사 완료 · 그림 v2 채택 — runs/20261121-p2-cho/final.json · prompts_used.md"
+  "20261121-p2-cho": "심사 완료 · 그림 v2 채택 — runs/20261121-p2-cho/final.json · prompts_used.md",
+  "20261121-p3-jinyuan": "E1~E6 완료 · 두 판독자 11/12 · commit af95169"
  },
  "master_note": "docs/overhaul/MASTER_NOTE.md (= 프로젝트 claude/Sketchy_갈아엎기_마스터노트_20261121.md)",
  "handoff_bundle": "~/Downloads/sketchy_opus/sketchy_overhaul_20261121c.bundle (0e16b7c..overhaul-20261120)",

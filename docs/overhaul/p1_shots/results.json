@@ -2,7 +2,7 @@
  {
   "name": "목차 줄 수 = 교재에 놓인 과",
   "pass": true,
-  "extra": "220/220"
+  "extra": "221/221"
  },
  {
   "name": "목차 순서 = curriculum.json",
@@ -15,14 +15,14 @@
   "extra": "12"
  },
  {
-  "name": "232과(src/lessons/l 전부)가 꼭 한 번씩",
+  "name": "233과(src/lessons/l 전부)가 꼭 한 번씩",
   "pass": true,
-  "extra": "232/232"
+  "extra": "233/233"
  },
  {
-  "name": "썸네일 232/232 파일 있음",
+  "name": "썸네일 233/233 파일 있음",
   "pass": true,
-  "extra": "232 · 없음 0"
+  "extra": "233 · 없음 0"
  },
  {
   "name": "빈 절이 「그림 없음 — 감사 대상」으로 보임",

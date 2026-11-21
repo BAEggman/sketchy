@@ -2,7 +2,7 @@
  "plan": "docs/overhaul/PLAN_20261120.md",
  "base_commit": "0e16b7c",
  "branch": "overhaul-20261120",
- "phase": "P2 진행 중",
+ "phase": "P2 진행 중 — 시범 여섯 가운데 다섯 완료, 醋炙(Run 2) 심사 중",
  "done": [
   "P0.repo",
   "P0.handoff_archive",
@@ -12,14 +12,18 @@
   "P1.thumbs",
   "P1.hub",
   "P1.test",
-  "P2.run1-hist(6+1, judge final.json)"
+  "P2.run1-hist(6+1, judge final.json)",
+  "P2.run1-approve(보존 단서 5건 사용자 승인 11-21)",
+  "P2.run1-draw(pilot-tao · pilot-wangbing · pilot-duben · pilot-xue)",
+  "P2.saam-trainer-v1(saam.html · qa/saam_test.js 34/34)",
+  "P2.gv-path(pilot-gv, 코드로 그림)",
+  "P2.run2-cho(brief · p1~p6 · six.md)",
+  "P2.review-page(pilot_review.html)"
  ],
- "in_progress": [],
+ "in_progress": [
+  "P2.run2-cho 심사(7번) → final.json → Gemini 그림 → pilot-cho"
+ ],
  "held": [
-  {
-   "id": "saam.胃.勝格.瀉",
-   "why": "사용자가 문장을 상양으로 고치기로 함(11-20). 고친 문장 확인 대기"
-  },
   {
    "id": "saam.寒熱格.大腸",
    "why": "사용자 결정(11-20): 표·트레이너는 陽谿, 노래는 메모만. 원표 확인 필요 표시 유지"
@@ -27,19 +31,21 @@
   {
    "id": "hist.杜本.12+24",
    "why": "교재·총강에 갈래 근거 없음 — 확인 필요"
+  },
+  {
+   "id": "gv.위치",
+   "why": "督脈 혈 위치는 WHO 2008 일반 기준 모식도 — 교재 經穴圖 원문 p.88 대조 필요"
   }
  ],
  "next": [
-  "사용자: Run 1 심사가 바꾼 보존 단서 5건 승인 여부",
-  "P2 그림: Run 1 네 장 Gemini 생성(원본 내려받기 허용됨)",
-  "P2 Run 2: 醋炙 8종 6+1",
-  "P2: 督脈 유주도(사용자 5장 docx 원문 필요)",
-  "P2: 舍岩 표 트레이너 첫 판(正格 · 勝格)",
-  "P2 끝 → 사용자 검수(문항 20)"
+  "Run 2 심사 결과 반영 · 사용자에게 물을 것(G절) 묻기",
+  "醋炙 첫 장 그림(바탕 + 편집) → pilot-cho",
+  "pilot_review.html에 醋 문항 추가 → 사용자 검수(의학사 20 중 16 + 「넓혀도 된다」)"
  ],
  "user_checks": {
-  "gemini_download": "allowed 2026-11-20 (P2 pilot, Gemini app originals → ~/Downloads/sketchy_opus/gemini_raw)",
-  "p2_pilot_review": null
+  "gemini_download": "allowed 2026-11-20, 다시 확인 2026-11-21 → ~/Downloads/sketchy_opus/gemini_raw",
+  "p2_pilot_review": null,
+  "run1_cue_changes": "5건 모두 승인 2026-11-21"
  },
  "p1": {
   "curriculum": "src/lessons/curriculum.json (목차 215 · 보관함 12 · 빈 절 12)",
@@ -48,8 +54,16 @@
   "placement": "docs/overhaul/P1_placement.md"
  },
  "runs": {
-  "20261120-p2-hist": "judge 완료 — runs/20261120-p2-hist/final.json"
+  "20261120-p2-hist": "judge 완료 — runs/20261120-p2-hist/final.json",
+  "20261121-p2-cho": "여섯 안 완료 · 심사 중"
  },
  "master_note": "docs/overhaul/MASTER_NOTE.md (= 프로젝트 claude/Sketchy_갈아엎기_마스터노트_20261121.md)",
- "handoff_bundle": "~/Downloads/sketchy_opus/sketchy_overhaul_20261121.bundle (0e16b7c..overhaul-20261120)"
+ "handoff_bundle": "~/Downloads/sketchy_opus/sketchy_overhaul_20261121.bundle (0e16b7c..overhaul-20261120)",
+ "pilots": {
+  "pilot-tao": "T1 v1",
+  "pilot-wangbing": "T2 v2(편집 1회)",
+  "pilot-duben": "T3 v1",
+  "pilot-xue": "T4 v2(옆 단면 새로)",
+  "pilot-gv": "코드 SVG"
+ }
 }

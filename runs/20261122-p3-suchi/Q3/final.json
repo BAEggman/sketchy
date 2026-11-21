@@ -1,0 +1,294 @@
+{
+ "batch": "Q3",
+ "sheets": [
+  {
+   "id": "P13",
+   "method": "薑炙",
+   "lyric": "황죽, 후~ (황죽후)",
+   "setting": "부엌 작업대의 약한 불 위 긴 팬. 왼쪽 위에서 손 하나가 생강 뿌리를 쥐어짜 즙이 사방으로 튐(hp-02 · hp-04 薑汁 표지). 팬 바닥에 연노랑 생강즙이 얕게 고임.",
+   "stations": [
+    {
+     "herb": "黃連",
+     "where": "왼쪽 첫째(① 和胃止嘔·祛痰止咳)",
+     "action": "생강즙 방울이 내민 혀에 떨어지고, 연잎째 미끄러져 옆 죽솥으로 퐁당 — 솟지 않고 가라앉음(酒炙 P09의 솟는 黃連과 가름)",
+     "touches": "竹茹"
+    },
+    {
+     "herb": "竹茹",
+     "where": "왼쪽 둘째(①)",
+     "action": "죽솥에 黃連이 빠지자 대나무 주걱으로 젓다 죽을 오른쪽으로 튀김 — 죽솥 = 胃(和胃)",
+     "touches": "厚朴"
+    },
+    {
+     "herb": "厚朴",
+     "where": "오른쪽, 생강 조각 칸막이 너머(② 副作用 緩和)",
+     "action": "튄 죽에 맞아 정수리 그라인더가 돌고, 쏟아지던 후추알이 발밑 생강즙 웅덩이에 가라앉아 더 날리지 않음",
+     "touches": "—"
+    }
+   ],
+   "aux": "생강 쥐어짜는 손(즙이 사방으로 튐) · 세워 꽂은 생강 조각 한 장(①|② 칸막이). 새 물건 5.",
+   "boundaries": "①|② = 세운 생강 조각 칸막이. 和胃止嘔·祛痰止咳는 黃連·竹茹 둘, 副作用 緩和는 厚朴 하나. 학습층: 厚朴 副作用의 내용은 교재에 없으므로 그림은 「후추가 가라앉음」까지만.",
+   "prompt_en": "Cartoon illustration, 16:9 landscape, bright clean colors, one continuous kitchen-workshop workbench scene read left to right like a domino chain. Absolutely no text, letters, numbers, labels, signs or symbols with writing anywhere in the image. A long frying pan sits over a low flame on a kitchen workbench; a thin layer of pale-yellow ginger juice covers the pan floor. At the upper left, a hand squeezes a fresh ginger root so juice sprays out in all directions. Left: a yellow lotus flower with a cartoon face, scrunching its eyes and sticking its tongue out at a bitter taste, floating on a small lily pad — ginger juice drops land on its tongue and it slides, lily pad and all, plop into the porridge pot next to it, sinking rather than rising. Next: a cheerful middle-aged Korean lady in an apron stirring a big pot of rice porridge with a large bamboo paddle — the lotus has just fallen into her pot and her paddle flicks a splash of porridge to the right. A single upright slice of ginger stands in the pan as a small divider. Right of the divider: a round white bottle gourd with a wooden pepper grinder stuck into its top, black pepper grains spilling down its sides — the porridge splash spins its grinder, and the falling pepper grains drop into a puddle of ginger juice at its base and sink quietly instead of flying around.",
+   "score": 86,
+   "from": "p3 · p4"
+  },
+  {
+   "id": "P14",
+   "method": "蜜炙 ① 潤肺止咳",
+   "lyric": "마백, 관자비 (마백관자비)",
+   "setting": "같은 작업대 · 팬. 왼쪽 끝에 서 있는 금빛 꿀단지(hp-04)에서 꿀이 팬을 따라 왼→오로 흐름. 목적이 하나라 칸막이 없음.",
+   "stations": [
+    {
+     "herb": "麻黃",
+     "where": "왼쪽 첫째",
+     "action": "땀 흘리며 벗은 노란 망토를 오른쪽으로 휙 던짐",
+     "touches": "百部根"
+    },
+    {
+     "herb": "百部根",
+     "where": "둘째",
+     "action": "망토가 투구 깃에 걸려 버둥대다 팔꿈치로 옆 동화책을 쳐서 펼침",
+     "touches": "款冬花"
+    },
+    {
+     "herb": "款冬花",
+     "where": "셋째",
+     "action": "펼쳐지며 꽃이 튀어 나가 옆에서 자는 보라 소 코에 떨어짐",
+     "touches": "紫蘇"
+    },
+    {
+     "herb": "紫蘇",
+     "where": "넷째",
+     "action": "꽃잎이 코를 간질여 눈 감은 채 작게 콜록 — 기침 바람이 비파 줄에 닿음",
+     "touches": "枇杷葉"
+    },
+    {
+     "herb": "枇杷葉",
+     "where": "오른쪽 끝",
+     "action": "줄이 울리다 흘러온 꿀에 젖어 잠잠해짐(潤肺止咳)",
+     "touches": "—"
+    }
+   ],
+   "aux": "서 있는 금빛 꿀단지 · 꿀 흐름. 새 물건 6.",
+   "boundaries": "경계 없음(① 하나). 麻黃은 P15에도 나오며 여기서는 망토를 던짐(潤肺), P15에서는 땀이 꿀방울(緩和). 학습층: 교재 紫蘇 ↔ 본초.docx 紫菀 나란히.",
+   "prompt_en": "Cartoon illustration, 16:9 landscape, bright clean colors, one continuous kitchen-workshop workbench scene read left to right like a domino chain. Absolutely no text, letters, numbers, labels, signs or symbols with writing anywhere in the image. Same long pan on the workbench; at the far left stands a golden honey jar, and honey flows out along the pan from left to right under everyone. Left: a horned cartoon demon king dripping with sweat, pulling off his bright yellow cape, flinging the cape to the right. Second: a muscular Roman centurion in a crested helmet flexing his huge biceps — the thrown cape snags on his helmet crest and his flailing elbow knocks open the book beside him. Third: an open picture storybook wearing a golden crown, flowers bursting out from its pages — its flowers fly to the right. Fourth: a purple cow sleeping peacefully with eyes closed, tucked under one giant perilla leaf used as a blanket — a petal lands on its nose and it gives a tiny cough puff without waking. Far right: a pipa lute (pear-shaped Chinese string instrument) whose body is a large green leaf — the cough puff brushes its strings, and the flowing honey soaks the strings so they fall quiet.",
+   "score": 88,
+   "from": "p3 · p1"
+  },
+  {
+   "id": "P15",
+   "method": "蜜炙 ②③④",
+   "lyric": "황감, 마-마! (황감마마)",
+   "setting": "같은 작업대 · 같은 꿀단지. 꿀 줄기가 두 번 끊겨 웅덩이 셋 = ② | ③ | ④.",
+   "stations": [
+    {
+     "herb": "黃芪",
+     "where": "왼쪽 첫째(② 補脾益氣)",
+     "action": "깃발이 깃대 꼭대기로 솟구치며 깃대 끈이 옆 약장 서랍들을 당겨 엶",
+     "touches": "甘草"
+    },
+    {
+     "herb": "甘草",
+     "where": "둘째(②)",
+     "action": "열린 서랍마다 감초 얼굴이 꿀을 핥으며 웃음",
+     "touches": "麻黃"
+    },
+    {
+     "herb": "麻黃",
+     "where": "셋째(③ 藥性緩和)",
+     "action": "사전 그대로 망토를 벗고 있으나 흐르던 땀방울이 금빛 꿀방울로 굳어 매달림(發汗 누그러짐)",
+     "touches": "馬兜鈴"
+    },
+    {
+     "herb": "馬兜鈴",
+     "where": "오른쪽 끝(④ 矯味·副作用除去)",
+     "action": "꿀방울이 떨어져 묻은 방울을 핥아 먹고 활짝 웃음(맛 바로잡음)",
+     "touches": "—"
+    }
+   ],
+   "aux": "꿀단지 · 끊긴 꿀 줄기. 새 물건 5.",
+   "boundaries": "② | ③ | ④ = 꿀 줄기가 끊긴 두 자리. 麻黃 두 장 가름: P14 망토 던짐(潤肺止咳) ↔ P15 땀이 꿀방울(藥性緩和). 마왕의 땀 · 벗는 망토는 지움 없이 둔다.",
+   "prompt_en": "Cartoon illustration, 16:9 landscape, bright clean colors, one continuous kitchen-workshop workbench scene read left to right like a domino chain. Absolutely no text, letters, numbers, labels, signs or symbols with writing anywhere in the image. Same pan and the same golden honey jar at the far left; the honey stream breaks twice, leaving three separate honey pools. First pool: a bright yellow flag that has shot all the way up to the very top of its flagpole, flapping vigorously upward; plain cloth, no gold bar, no emblem — as it shoots up, its flagpole rope tugs open the drawers of a small wooden Korean herbal medicine cabinet with many little drawers, and from every open drawer the same cheerful yellow licorice root pokes out its smiling face, and the licorice faces lick honey and grin. Second pool: a horned cartoon demon king dripping with sweat, pulling off his bright yellow cape, but every drop of sweat on him has turned into a golden drop of honey hanging still. Third pool: a plump steamed dumpling (mandu) dressed as a bandit chief with a headband and eye patch, ringing a big brass bell — a honey drop has fallen onto the bell, and he happily licks the honey off it with a big satisfied smile.",
+   "score": 84,
+   "from": "p4 · p2 (사슬 p3)"
+  },
+  {
+   "id": "P16",
+   "method": "油炙",
+   "lyric": "음~ 호표합! (음호표합)",
+   "setting": "같은 작업대 · 팬. 왼쪽 끝 주둥이 긴 기름칠 깡통(병이 아님 — 酒 초록 병 · 醋 연노랑 병과 가름)에서 기름이 팬에 흐르다 한 번 끊김.",
+   "stations": [
+    {
+     "herb": "淫羊藿",
+     "where": "왼쪽 첫째(① 治療效果 · 溫腎壯陽)",
+     "action": "기름에 젖은 곽티슈가 따뜻한 주황빛으로 달아오르고, 풀잎이 힘차게 뽑혀 나오며 기름방울을 오른쪽으로 튀김",
+     "touches": "虎骨"
+    },
+    {
+     "herb": "虎骨",
+     "where": "둘째(② 粉碎 쉬움)",
+     "action": "기름 묻은 통뼈 방망이를 휘두르자 방망이가 바삭 부서져 부스러기가 날아감",
+     "touches": "豹骨"
+    },
+    {
+     "herb": "豹骨",
+     "where": "셋째(②)",
+     "action": "골키퍼 장갑으로 부스러기를 막으려 몸 날림, 장갑에 맞은 부스러기도 바스러짐",
+     "touches": "蛤蚧"
+    },
+    {
+     "herb": "蛤蚧",
+     "where": "오른쪽 끝(②)",
+     "action": "튕긴 부스러기 가루가 개미 등의 찬합에 쏙 담김",
+     "touches": "—"
+    }
+   ],
+   "aux": "기름칠 깡통 · 기름 흐름. 새 물건 5.",
+   "boundaries": "① | ② = 기름 줄기 끊김. 학습층: 油 = 麻油 · 羊脂 · 菜油 · 蓍油(교재) · 본초.docx 油炙은 淫羊藿 없이 蛤蚧 · 虎骨 · 豹骨 — 나란히.",
+   "prompt_en": "Cartoon illustration, 16:9 landscape, bright clean colors, one continuous kitchen-workshop workbench scene read left to right like a domino chain. Absolutely no text, letters, numbers, labels, signs or symbols with writing anywhere in the image. Same pan on the workbench; at the far left a plain metal oil can with a long thin spout drips oil into the pan, and the oil stream breaks once. Left: a pop-up tissue box printed all over with a black-and-white yin-yang pattern; instead of a tissue, a bunch of fresh green leaves is being pulled up out of its slot — soaked in oil, the box glows a warm orange and the leaves spring up vigorously, flicking an oil drop to the right. Across the gap: an ordinary orange tiger with bold black stripes (no clock) swinging a thick bone like a baseball bat — the oily bone bat crumbles into crisp crumbs mid-swing. Next: a spotted leopard wearing big goalkeeper gloves, diving sideways in midair, diving at the flying crumbs, which crumble further against the gloves. Far right: a single ant marching along carrying on its back a stacked Korean lacquered lunch box (chanhap) far bigger than itself — the fine crumbs drop neatly into the open lunch box on its back.",
+   "score": 87,
+   "from": "p2 · p6 (표지 p4)"
+  },
+  {
+   "id": "P17",
+   "method": "煅法 · 明煅",
+   "lyric": "백붕석대, 모적 (백붕석대모적)",
+   "setting": "작업대 오른쪽이 대장간 화로 — 그릇 없이 벌건 숯불 위에 바로(hp-04 明煅 표지 · 숯불 위 굴). 숯 바닥 가운데 재 틈 하나 = ① | ②.",
+   "stations": [
+    {
+     "herb": "白礬",
+     "where": "왼쪽 첫째(① 성기게 · 結晶水 없앰)",
+     "action": "숯 위에서 밥공기의 흰 결정이 뻥튀기처럼 부풀며 흰 물김을 뿜고 옆 붕붕카를 밈",
+     "touches": "硼砂"
+    },
+    {
+     "herb": "硼砂",
+     "where": "둘째(①)",
+     "action": "밀린 붕붕카가 사슴을 태운 채 붕 떠올라 옆 석쇠를 들이받음",
+     "touches": "石決明"
+    },
+    {
+     "herb": "石決明",
+     "where": "셋째(①)",
+     "action": "부딪혀 안경이 날아감",
+     "touches": "代赭石"
+    },
+    {
+     "herb": "代赭石",
+     "where": "넷째(①)",
+     "action": "숯 위에 대자로 누운 채 맨몸으로 달궈지고, 날아온 안경테가 자석에 착 붙음",
+     "touches": "牡蠣"
+    },
+    {
+     "herb": "牡蠣",
+     "where": "재 틈 너머 다섯째(② 收斂作用 강화)",
+     "action": "숯 위 모래 더미에 묻혀 모래찜질, 모래가 꽉 다져짐",
+     "touches": "赤石脂"
+    },
+    {
+     "herb": "赤石脂",
+     "where": "오른쪽 끝(②)",
+     "action": "완장 찬 팔로 작은 천 복주머니의 끈을 꽉 졸라맴(收斂)",
+     "touches": "—"
+    }
+   ],
+   "aux": "화로 숯불 · 작은 천 복주머니(收斂 — 예약표 「끈 조인 주머니」와 같은 뜻으로 빌림). 새 물건 8.",
+   "boundaries": "① | ② = 재 틈. 여섯 모두 숯 위(②를 불 밖으로 빼지 않음). 혼동 짝: 明煅 = 맨불, 그릇 · 액체 없음 ↔ P18 煅淬(양동이 치익) · 悶煅(봉한 단지). 代赭石은 P18에도 나옴. 학습층: 본초.docx 明煅에 龍骨.",
+   "prompt_en": "Cartoon illustration, 16:9 landscape, bright clean colors, one continuous kitchen-workshop workbench scene read left to right like a domino chain. Absolutely no text, letters, numbers, labels, signs or symbols with writing anywhere in the image. At the right of the workbench a blacksmith's forge bed of glowing red charcoal; everything sits directly on the hot coals with no pots and no liquid. A narrow strip of grey ash divides the coal bed into a wide left part and a smaller right part. Left part, from left: a Korean home-style meal tray with a soup bowl and small side dishes, but the rice bowl holds a translucent white crystal lump instead of rice — on the coals the white crystal puffs up like popcorn, puffing off white steam and pushing its neighbor; a deer sitting in a small children's ride-on toy car, the toy car bouncing up into the air with little motion puffs beneath it; no license plate, no text — shoved, the toy car bounces up 'boing' and bumps the grill beside it; an abalone in its shiny iridescent shell wearing round eyeglasses while sitting on a metal grill grate — the bump knocks its eyeglasses flying; a red bar magnet with little arms and legs lying flat on its back, spread-eagle like a sprawled sleeper, plain red with no letters or N/S marks — lying right on the glowing coals, and the flying metal eyeglasses snap onto it. Right of the ash strip: a cute oyster with a face buried up to its shell lip in a small mound of sand, eyes closed blissfully like taking a sand bath, its sand mound packed tight on the coals; a chunky brick-red rock with a stubby little face, wearing a white armband that shows only a plain red cross symbol; no letters, pulling the drawstring of a small plain cloth pouch tightly shut with both hands.",
+   "score": 88,
+   "from": "p2 · p6 (硼砂 단서 p5)"
+  },
+  {
+   "id": "P18",
+   "method": "煅法 · 煅淬 + 悶煅",
+   "lyric": "자, 대자노! 혈건 (자대자노혈건)",
+   "setting": "왼쪽 반: 액체가 담긴 넓은 양동이, 벌건 것이 들어가며 치익 김 구름(hp-04 煅淬). 오른쪽 반: 뚜껑을 밧줄로 봉한 질그릇 단지, 연기 없음(hp-04 悶煅). 화로 · 집게는 그리지 않음 — 붉게 달아오른 빛으로 「煅」.",
+   "stations": [
+    {
+     "herb": "磁石",
+     "where": "왼쪽 첫째(煅淬 · 水火共制)",
+     "action": "쇠못 줄이 집게 노릇 — 벌겋게 달군 代赭石을 매달아 양동이에 담금, 치익",
+     "touches": "代赭石"
+    },
+    {
+     "herb": "代赭石",
+     "where": "양동이 속 왼쪽(煅淬)",
+     "action": "대자로 뻗은 채 벌겋게 달아 액체에 잠기며 김을 뿜음(P17 숯 위 맨몸과 가름)",
+     "touches": "自然銅"
+    },
+    {
+     "herb": "自然銅",
+     "where": "양동이 속 가운데(煅淬)",
+     "action": "벌겋게 달아오른 구리 동상이 김에 휩싸여 정강이까지 잠김",
+     "touches": "爐甘石"
+    },
+    {
+     "herb": "爐甘石",
+     "where": "양동이 물 위 오른쪽(煅淬)",
+     "action": "돌배를 저어 양동이를 건너고, 노 끝이 단지 쪽 연탄의 머리칼에 닿음",
+     "touches": "血餘炭"
+    },
+    {
+     "herb": "血餘炭",
+     "where": "빈틈 너머 오른쪽(悶煅 → 炭)",
+     "action": "긴 머리칼을 단지 뚜껑에 칭칭 감아 밧줄 삼아 봉함(hp-04 「밧줄 단지의 머리카락」)",
+     "touches": "乾漆"
+    },
+    {
+     "herb": "乾漆",
+     "where": "오른쪽 끝(悶煅 → 炭)",
+     "action": "붓으로 뚜껑 틈을 검게 옻칠해 공기를 막음",
+     "touches": "—"
+    }
+   ],
+   "aux": "넓은 액체 양동이 · 밧줄로 봉한 질그릇 단지. 새 물건 8(화로 · 집게 생략 — 사용자 확인).",
+   "boundaries": "煅淬 | 悶煅 = 김 구름이 끝나는 빈틈. 혼동 짝: 煅淬 = 달궈 액체에 치익(열린 양동이) ↔ 悶煅 = 밀폐(봉한 단지, 공기 없음 → 炭) ↔ P17 明煅 = 맨불. 磁石 ↔ 代赭石 = 은빛 U자 ↔ 붉은 막대(대자로). 학습층: 血餘炭-止血 · 乾漆-毒性緩和(교재 3550).",
+   "prompt_en": "Cartoon illustration, 16:9 landscape, bright clean colors, one continuous kitchen-workshop workbench scene read left to right like a domino chain. Absolutely no text, letters, numbers, labels, signs or symbols with writing anywhere in the image. Left half: a wide metal bucket full of liquid with a big hissing cloud of steam rising from it. At the far left, a shiny silver U-shaped horseshoe magnet with chains of iron nails clinging to both tips, no letters or marks — its chain of nails holds a glowing red-hot magnet and plunges it into the bucket with a hiss. In the bucket: a red bar magnet with little arms and legs lying flat on its back, spread-eagle like a sprawled sleeper, plain red with no letters or N/S marks, glowing red-hot and half sunk in the liquid, steam bursting around it; a bearded mountain hermit holding an axe, entirely turned into a shiny copper-bronze statue on a small rock base, glowing red and standing shin-deep in the bucket, wrapped in steam; and on the water surface a cheerful round orange persimmon with a small face sits in a little boat carved from grey stone and rows it with a wooden oar, rowing across the bucket, the tip of its oar reaching right toward the next figure. A clear gap where the steam ends. Right half: a brown clay jar with its lid tightly sealed, no smoke at all. a black round coal briquette with holes, long flowing hair and little arms, a blood pressure cuff with a blank dial wrapped on its arm — its long hair is wound tightly around the jar lid as the binding rope. Far right: a hardtack biscuit (geonppang) being painted glossy black lacquer with a brush, dripping and shining, the brush painting the seam of the jar lid shut with glossy black lacquer.",
+   "score": 85,
+   "from": "p5 · p4 (경계 p6)"
+  }
+ ],
+ "new_dict": [
+  {
+   "hanja": "淫羊藿",
+   "reading": "음양곽",
+   "cue": "흑백 음양 무늬 곽티슈에서 휴지 대신 풀잎이 뽑혀 나옴",
+   "draw_en": "a pop-up tissue box printed all over with a black-and-white yin-yang pattern; instead of a tissue, a bunch of fresh green leaves is being pulled up out of its slot; no text or letters",
+   "decode": "음양 무늬 + 곽티슈 → 음양곽 · 휴지 대신 잎 = 藿(잎을 쓰는 약)",
+   "carriers": [
+    "음양 무늬",
+    "곽티슈"
+   ],
+   "type": 4,
+   "score": 23,
+   "from": "p6"
+  },
+  {
+   "hanja": "硼砂",
+   "reading": "붕사",
+   "cue": "붕 떠오른 붕붕카를 모는 사슴",
+   "draw_en": "a deer sitting in a small children's ride-on toy car, the toy car bouncing up into the air with little motion puffs beneath it; no license plate, no text",
+   "decode": "붕붕카 + 사슴 → 붕사 · 「붕」 뜸 = 明煅으로 부풀어 성겨짐",
+   "carriers": [
+    "붕붕카",
+    "사슴"
+   ],
+   "type": 4,
+   "score": 21,
+   "from": "p5"
+  }
+ ],
+ "needs_user_ok": [
+  "P18: hp-04 煅淬 표지 「집게로 달군 돌을 액체 양동이에 담금」에서 집게 · 화로를 빼고 말굽자석(磁石)의 쇠못 줄이 집게 노릇을 함 — 한 장 새 물건 8 한도(양동이 + 단지 + 피규어 6) 때문. 추천: 이대로(기본값 적용), 붉게 달아오른 빛 + 치익 김으로 「달궈 담금」을 보임."
+ ],
+ "check_needed": [
+  "淫羊藿의 흑백 음양 무늬 ↔ 예약표 「온전한 태극 원반 = 陰平陽秘」(yyox-02) · 「태극 연」(new-etc-01): 같은 陰陽을 소리로 빌린 것으로 봄. 원반 · 연 꼴이 아니라 상자 무늬로만 그려지는지 그림 검수.",
+  "硼砂 「붕사」는 슬라임 재료로 흔히 부르는 낱말이기도 함 — 사용자가 이 낱말을 안다면 통째 동음어(유형 1)나 익숙한 실물(붕사 가루) 단서가 더 높을 수 있으나 여섯 안에 없었음 → 다음 사전 6+1 때 후보로.",
+  "硼砂 사슴 ↔ hist-01 五禽戲 「체조하는 호랑이·사슴·곰·원숭이·학」: 무리 체조와 붕붕카 탄 한 마리로 갈린다고 봄(변별 2). 사다리안(p1 · p2 · p3)은 예약표 「여섯 단 사다리 = 六經」과 겹쳐 내림.",
+  "P17 복주머니 끈 조임 = 收斂: 예약표 hp-01 「끈 꽉 조인 물 주머니」(酸 收澀) · hp-02 「식초병 곁 조인 가방」(醋炒則斂)과 같은 뜻으로 빌림 — 화로 장면에서 醋로 잘못 읽히지 않는지 그림 검수.",
+  "P16 보료 표지를 brief의 「기름병」 대신 주둥이 긴 기름칠 깡통(p4)으로 둠 — 酒 초록 병 · 醋 연노랑 병과 갈리게. 예약표 new-jq-23 「깡통 + 인형」(液 屈伸不利)과는 다른 물건(기름 따르는 깡통)인지 확인. 교재 기름은 麻油 · 羊脂 · 菜油 · 蓍油 넷(brief는 셋).",
+  "P15 麻黃: 땀을 지우지 않고 땀방울만 금빛 꿀방울로 — Gemini가 땀 · 벗는 망토를 없애지 않았는지 검수(없애면 피규어가 사전과 달라짐).",
+  "P13 厚朴: 薑炙 副作用의 구체 내용(咽喉 刺激 등)은 교재에 없음 — 그림은 「후추가 즙에 가라앉음」까지만, 학습층에도 교재 문구(副作用 緩和)만.",
+  "학습층 병기(판정 없음): 紫蘇(교재) ↔ 紫菀(본초.docx) · 油炙 淫羊藿 유무(본초.docx는 蛤蚧 · 虎骨 · 豹骨) · 明煅 龍骨(본초.docx) · 悶煅 血餘炭-止血 · 乾漆-毒性緩和 · 煅 목적 ① 粉碎 · 煎湯 쉽게(교재 3550)."
+ ]
+}

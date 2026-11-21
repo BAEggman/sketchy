@@ -5,7 +5,7 @@
   "hanja": "半夏",
   "reading": "반하",
   "cue": "반바지 하마 — 원안: 반바지 하마",
-  "draw_en": "",
+  "draw_en": "A grey hippo wearing bright shorts, both hind legs stuck in one leg of the shorts, toppling over with a surprised face.",
   "decode": "",
   "type": "",
   "carriers": [
@@ -92,7 +92,7 @@
   "hanja": "川芎",
   "reading": "천궁",
   "cue": "천사 궁수 — 원안: 천사 궁수",
-  "draw_en": "",
+  "draw_en": "A small winged angel archer whose wing is caught in the bowstring, looking flustered.",
   "decode": "",
   "type": "",
   "carriers": [
@@ -123,7 +123,7 @@
   "hanja": "柴胡",
   "reading": "시호",
   "cue": "몸통이 자명종(숫자 없이 눈금만 있는 시계판)이고 수염이 시곗바늘인 호랑이",
-  "draw_en": "",
+  "draw_en": "A tiger whose round body is an alarm clock with a plain dial (tick marks only, no numbers) and whose whiskers are the clock hands.",
   "decode": "시계의 시 + 호랑이의 호 → 시호",
   "type": "두 낱말 잇기",
   "carriers": [
@@ -278,7 +278,7 @@
   "hanja": "白芍藥",
   "reading": "백작약",
   "cue": "백작 약사 — 원안: 하얀 백작 약사",
-  "draw_en": "",
+  "draw_en": "An elegant pale white count (European nobleman with a monocle and cape) who is a pharmacist holding a small medicine bottle.",
   "decode": "",
   "type": "",
   "carriers": [
@@ -370,7 +370,7 @@
   "hanja": "靑皮",
   "reading": "청피",
   "cue": "청피망이 복면처럼 얼굴을 감싼 사람(재채기하면 씨가 튐)",
-  "draw_en": "",
+  "draw_en": "A person whose head is wrapped by a green bell pepper like a robber mask, sneezing out pepper seeds.",
   "decode": "청피망 → 청피",
   "type": "낱말 속 연속 포함",
   "carriers": [
@@ -638,7 +638,7 @@
   "hanja": "當歸",
   "reading": "당귀",
   "cue": "당나귀 귀부인 — 원안: 당나귀 귀부인",
-  "draw_en": "",
+  "draw_en": "A donkey dressed as a noble lady with a pearl necklace and a fan.",
   "decode": "",
   "type": "",
   "carriers": [
@@ -695,7 +695,7 @@
   "hanja": "黃芩",
   "reading": "황금",
   "cue": "황금괴 — 원안: 번쩍이는 황금괴",
-  "draw_en": "",
+  "draw_en": "A big shining gold bar (gold ingot) with a happy face.",
   "decode": "",
   "type": "",
   "carriers": [
@@ -841,7 +841,7 @@
   "hanja": "芫花",
   "reading": "원화",
   "cue": "원화 지폐 — 원안: 원화 지폐 꽃",
-  "draw_en": "",
+  "draw_en": "A flower whose petals are plain green paper banknotes with no numbers, no text and no portraits.",
   "decode": "",
   "type": "",
   "carriers": [
@@ -870,7 +870,7 @@
   "hanja": "商陸",
   "reading": "상륙",
   "cue": "상륙정 상어 — 원안: 상륙정 탄 상어",
-  "draw_en": "",
+  "draw_en": "A shark riding a small military landing craft boat, bow ramp open.",
   "decode": "",
   "type": "",
   "carriers": [
@@ -896,7 +896,7 @@
   "hanja": "三稜",
   "reading": "삼릉",
   "cue": "화면에서 가장 키 큰 굵은 세모 날 쇠침(삼릉침) — 날 모서리 셋 · 단면 세모, 얼굴 · 다리 · 피 없음",
-  "draw_en": "",
+  "draw_en": "A giant thick steel needle standing upright with a sharp three-edged tip, triangular cross-section clearly visible; no face, no blood.",
   "decode": "삼릉침 → 삼릉(三稜鍼과 같은 두 글자)",
   "type": "낱말 속 연속 포함",
   "carriers": [
@@ -926,7 +926,7 @@
   "hanja": "莪朮",
   "reading": "아출",
   "cue": "포대기에 싸여 쪽쪽이를 문 초록 아기 배추 인형(빈손 · 하얗지 않음) — 사용자 결정 11-21: 원안 「아기 배추 인형」 유지",
-  "draw_en": "",
+  "draw_en": "A small green cabbage doll wrapped in a baby swaddle blanket with a cute baby face and a pacifier; green, not white, empty hands.",
   "decode": "아기의 아 + 배추(朮 가족, 추 ≈ 출) → 아출",
   "type": "형태소 가족",
   "carriers": [
@@ -1068,7 +1068,7 @@
   "hanja": "乳香",
   "reading": "유향",
   "cue": "우유 팩에 향수 분무기가 달린 병(이 장면: 식초병을 끌어안고 기울여 붓기만 함, 향수는 뿌리지 않음)",
-  "draw_en": "",
+  "draw_en": "A milk carton with a perfume atomizer bulb attached on top, standing upright.",
   "decode": "우유의 유 + 향수의 향 → 유향",
   "type": "두 낱말 잇기",
   "carriers": [
@@ -1095,7 +1095,7 @@
   "hanja": "沒藥",
   "reading": "몰약",
   "cue": "코르크 막은 둥근 플라스크에 든 검은 물약(해골 · 거품 · 라벨 없음)",
-  "draw_en": "",
+  "draw_en": "A round-bottomed glass flask with a cork stopper, filled with black liquid; no skull, no bubbles, no label.",
   "decode": "물약 → 몰약(물 → 몰, 한 모음 차이)",
   "type": "가까운 소리의 한 낱말",
   "carriers": [
@@ -1121,7 +1121,7 @@
   "hanja": "香附子",
   "reading": "향부자",
   "cue": "향수를 너무 뿌리는 부자(실크햇 · 털 깃 · 굵은 금반지, 금술 단 붉은 방석 — 지폐 없음)",
-  "draw_en": "",
+  "draw_en": "A plump rich man in a silk top hat, fur collar and big gold ring, spraying far too much pink perfume from a bottle; no money.",
   "decode": "향수의 향 + 부자(附子 가족) → 향부자",
   "type": "두 낱말 잇기 + 형태소 가족",
   "carriers": [
@@ -1149,7 +1149,7 @@
   "hanja": "玄胡索",
   "reading": "현호색",
   "cue": "현관 문턱에 걸친 색동 줄무늬 호스, 주둥이에 얼굴",
-  "draw_en": "",
+  "draw_en": "A garden hose with bright rainbow stripes (saekdong pattern) lying across a front door threshold, its nozzle has a little face.",
   "decode": "현관의 현 + 호스의 호 + 색동의 색 → 현호색",
   "type": "두 낱말 잇기(세 낱말)",
   "carriers": [
@@ -2142,7 +2142,7 @@
   "hanja": "牽牛子",
   "reading": "견우자",
   "cue": "견우 — 원안: 소 끄는 견우 목동",
-  "draw_en": "",
+  "draw_en": "A young cowherd boy leading a cow by a rope.",
   "decode": "",
   "type": "",
   "carriers": [
@@ -2302,7 +2302,7 @@
   "hanja": "梔子",
   "reading": "치자",
   "cue": "치즈 자 — 원안: 노란 치즈 자",
-  "draw_en": "",
+  "draw_en": "A yellow cheese block shaped like a ruler with holes and tick marks only (no numbers).",
   "decode": "",
   "type": "",
   "carriers": [
@@ -2331,7 +2331,7 @@
   "hanja": "檳榔",
   "reading": "빈랑",
   "cue": "빈 도시락 신랑 — 원안: 빈 도시락 든 신랑",
-  "draw_en": "",
+  "draw_en": "A bridegroom in a wedding tuxedo holding an open empty lunch box and looking sad.",
   "decode": "",
   "type": "",
   "carriers": [
@@ -3189,7 +3189,7 @@
   "hanja": "枇杷葉",
   "reading": "비파엽",
   "cue": "비파 — 원안: 비파 악기 나뭇잎",
-  "draw_en": "",
+  "draw_en": "A pipa lute (pear-shaped Chinese string instrument) whose body is a large green leaf.",
   "decode": "",
   "type": "",
   "carriers": [
@@ -4031,6 +4031,136 @@
    3493,
    3507,
    3579
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.貫衆",
+  "hid": "H149",
+  "hanja": "貫衆",
+  "reading": "관중",
+  "cue": "경기장 의자에서 벌떡 일어나 고사리 잎 두 장을 응원 깃발처럼 흔드는 관중",
+  "draw_en": "A sports fan in a plain jersey with no numbers or letters, two stripes of face paint, springing up from a single plastic stadium seat with mouth wide open, waving a big green fern frond in each raised hand like cheering flags.",
+  "decode": "관중(경기장 관중) → 관중 → 貫衆(통째 동음어, 0걸음). 고사리 잎 = 貫衆이 고사리류 뿌리줄기라는 뜻 덤",
+  "type": 1,
+  "carriers": [
+   "관중"
+  ],
+  "score": 24,
+  "status": "candidate",
+  "run": "20261122-p3-suchi",
+  "from": "Q1 심판 · ",
+  "category": [
+   "驅蟲藥 (3587행)"
+  ],
+  "tb_lines": [
+   3503,
+   3531,
+   3587
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.烏梢蛇",
+  "hid": "H150",
+  "hanja": "烏梢蛇",
+  "reading": "오초사",
+  "cue": "「오!」 하고 놀라며 금빛 머리털이 곤두선 초사이어인 검은 뱀(까마귀 없음)",
+  "draw_en": "A slim, glossy jet-black snake whose head sprouts spiky, glowing golden hair standing straight up, wrapped in a flickering golden aura, its mouth open wide in a round shape of surprise; single white-background sticker, no text.",
+  "decode": "「오!」(동그란 입의 외침) + 초사이어인의 「초사」 → 오초사. 검은 몸 = 烏, 뱀 = 蛇(뜻 받침). 烏頭類가 아니므로 까마귀 가족을 쓰지 않음",
+  "type": 2,
+  "carriers": [
+   "초사이어인"
+  ],
+  "score": 21,
+  "status": "candidate",
+  "run": "20261122-p3-suchi",
+  "from": "Q2 심판 · ",
+  "category": [
+   "祛風濕藥 · 2) 舒筋活絡藥 (3575행)"
+  ],
+  "tb_lines": [
+   3542,
+   3575
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.淫羊藿",
+  "hid": "H151",
+  "hanja": "淫羊藿",
+  "reading": "음양곽",
+  "cue": "흑백 음양 무늬 곽티슈에서 휴지 대신 풀잎이 뽑혀 나옴",
+  "draw_en": "a pop-up tissue box printed all over with a black-and-white yin-yang pattern; instead of a tissue, a bunch of fresh green leaves is being pulled up out of its slot; no text or letters",
+  "decode": "음양 무늬 + 곽티슈 → 음양곽 · 휴지 대신 잎 = 藿(잎을 쓰는 약)",
+  "type": 4,
+  "carriers": [
+   "음양 무늬",
+   "곽티슈"
+  ],
+  "score": 23,
+  "status": "candidate",
+  "run": "20261122-p3-suchi",
+  "from": "Q3 심판 · p6",
+  "category": [
+   "補益藥 · 2) 補陽藥 (3605행)"
+  ],
+  "tb_lines": [
+   3546,
+   3605
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.硼砂",
+  "hid": "H152",
+  "hanja": "硼砂",
+  "reading": "붕사",
+  "cue": "붕 떠오른 붕붕카를 모는 사슴",
+  "draw_en": "a deer sitting in a small children's ride-on toy car, the toy car bouncing up into the air with little motion puffs beneath it; no license plate, no text",
+  "decode": "붕붕카 + 사슴 → 붕사 · 「붕」 뜸 = 明煅으로 부풀어 성겨짐",
+  "type": 4,
+  "carriers": [
+   "붕붕카",
+   "사슴"
+  ],
+  "score": 21,
+  "status": "candidate",
+  "run": "20261122-p3-suchi",
+  "from": "Q3 심판 · p5",
+  "category": [
+   "外用藥 (3614행)"
+  ],
+  "tb_lines": [
+   3527,
+   3550,
+   3614
+  ],
+  "used_in": []
+ },
+ {
+  "id": "herb.何首烏",
+  "hid": "H153",
+  "hanja": "何首烏",
+  "reading": "하수오",
+  "cue": "하수구 맨홀에서 반쯤 솟아 까딱이는 윤기 나는 검은 머리 오뚝이",
+  "draw_en": "A roly-poly tumbler doll (round, bottom-weighted, wobbling) with glossy jet-black hair, popping half out of an open round sewer manhole and rocking side to side, no text.",
+  "decode": "하수(구) + 오(뚝이) → 하수오 · 검은 머리 = 首烏(烏鬚髮) 뜻 고리",
+  "type": 4,
+  "carriers": [
+   "하수구",
+   "오뚝이"
+  ],
+  "score": 24,
+  "status": "candidate",
+  "run": "20261122-p3-suchi",
+  "from": "Q4 심판 · ",
+  "category": [
+   "補益藥 · 3) 補血藥 (3606행)"
+  ],
+  "tb_lines": [
+   3552,
+   3606
   ],
   "used_in": []
  }

@@ -1,0 +1,174 @@
+{
+ "batch": "Q4",
+ "sheets": [
+  {
+   "id": "P19",
+   "method": "蒸法 ① — ① 性能變化·用藥範圍 | ② 副作用減少",
+   "lyric": "지하 | 황대",
+   "setting": "pilot-cho 부엌 작업대 그대로, 팬 자리에 작업대 길이만 한 직사각형 대나무 찜기 하나(가운데 대나무 칸막이)가 약한 불 위에서 김을 뿜는다. 왼칸 앞 바닥에 둥근 맨홀 구멍(何首烏 피규어의 일부). 새 물건 여섯: 찜기 · 날생선 + 피규어 넷",
+   "stations": [
+    {
+     "herb": "熟地黃(교재 地黃)",
+     "where": "왼쪽 첫째 · 찜기 왼칸 안",
+     "action": "김 속에서 검은 지하 황제가 숙제 노트를 펼친 채 머리로 찜기 뚜껑을 밀어 올림. 칸 가장자리에 하얀 날생선 한 마리가 버려져 있음(生 → 熟 = 性能變化)",
+     "touches": "何首烏 — 들린 뚜껑 틈으로 김이 쏟아져 앞 바닥 맨홀로 흘러듦"
+    },
+    {
+     "herb": "何首烏",
+     "where": "왼쪽 둘째 · 왼칸 앞 바닥 맨홀",
+     "action": "김이 들자 윤기 나는 검은 머리 오뚝이가 맨홀에서 솟아 크게 까딱임(검은 머리 = 熟 · 烏鬚髮)",
+     "touches": "黃精 — 기운 몸이 칸막이를 넘어 마네킹을 툭"
+    },
+    {
+     "herb": "黃精",
+     "where": "셋째 · 찜기 오른칸 안",
+     "action": "김에 부푼 꽉 낀 노란 정장 마네킹의 단추가 튕겨 나감",
+     "touches": "大黃 — 튕긴 단추 하나가 황소 이마로"
+    },
+    {
+     "herb": "大黃",
+     "where": "오른쪽 끝 · 찜기 오른쪽 끝에 붙은 왕좌",
+     "action": "단추가 이마에 톡 맞아도 왕좌에 앉은 채 눈을 반쯤 감고 배를 느긋이 쓰다듬음(副作用減少 — 瀉下가 순해짐)",
+     "touches": ""
+    }
+   ],
+   "aux": "대나무 찜기 = 蒸(물에 안 잠기고 김만 쬠 → P21 煮 솥과 가름). 날생선 = 地黃 가족의 生 표지 → 찐 뒤 숙제 黃帝 = 熟地黃. 학습층: 蒸法 = 輔料 加 혹 淸蒸(3552행), 蒸煮燀法은 輔料 없이도 生熟으로 性能 變化",
+   "boundaries": "찜기 가운데 대나무 칸막이 = ① | ②. ①은 「검어짐」(熟地黃 · 검은 머리 오뚝이), ②는 「순해짐」(편안한 황소)",
+   "prompt_en": "16:9 wide cartoon illustration, cheerful Sketchy-style mnemonic scene on a long wooden kitchen workbench, read strictly left to right. A long rectangular bamboo steamer runs along the workbench over a row of low flames, thick white steam rising; one bamboo divider splits it into a left and a right compartment. LEFT COMPARTMENT: A black-skinned emperor in robes and crown sitting in an underground burrow, earnestly doing homework in an open notebook with a pencil — he sits inside the steaming left compartment as if in his little burrow, notebook open, pushing the steamer lid up with the top of his head; one pale raw fish lies discarded on the rim beside him. Steam pours out from under the raised lid and down onto the floor just in front of the left compartment, onto the next figure: a roly-poly tumbler doll (round, bottom-weighted, wobbling) with glossy jet-black hair, popping half out of an open round sewer manhole and rocking side to side; it tips so far that its round body leans over the bamboo divider and bumps the next figure. RIGHT COMPARTMENT: A dress-form mannequin squeezed into a far-too-tight bright yellow business suit, its buttons popping off, standing in the steam; one popped button flies to the right and taps the forehead of A huge yellow bull sitting smugly on a big red-and-gold royal throne like a great king, no crown, placed at the right end of the steamer in its warm steam; the bull stays calm on the throne, eyes half closed, gently rubbing its belly. Only these four characters, the steamer and the fish. Absolutely no text, letters, numbers, labels, signs or speech bubbles anywhere.",
+   "score": 93,
+   "from": "p5 · p4(蒸=김만 쬠) · p1 · p6(가사 쉼)"
+  },
+  {
+   "id": "P20",
+   "method": "蒸法 ② — ③ 藥效保存·貯藏 | ④ 切片 쉬움",
+   "lyric": "황상 | 목",
+   "setting": "P19와 같은 찜기, 뚜껑을 열어 꺼내는 중(P19 넣음 → P20 꺼냄). 찜기 오른쪽에 문 열린 작은 철제 금고(③), 빈 틈, 그 오른쪽 나무 도마(④). 새 물건 여섯: 찜기 · 금고 · 도마 + 피규어 셋",
+   "stations": [
+    {
+     "herb": "黃芩",
+     "where": "왼쪽 첫째 · 찜기에서 금고로",
+     "action": "김이 피어오르는 황금괴가 찜기에서 미끄러져 나와 열린 금고 속으로 쏙 들어감(貯藏)",
+     "touches": "桑螵蛸 — 미끄러지며 사마귀 등을 침"
+    },
+    {
+     "herb": "桑螵蛸",
+     "where": "둘째 · 금고 옆",
+     "action": "등을 맞은 초록 사마귀가 빈 택 달린 앞발로 금고 문을 쾅 닫음(③ 保存·貯藏)",
+     "touches": "木瓜 — 다른 앞발 낫을 빈 틈 너머 도마로 뻗음"
+    },
+    {
+     "herb": "木瓜(교재 宣木瓜)",
+     "where": "오른쪽 끝 · 도마 위",
+     "action": "김에 물러진 모과 아령의 모과 한쪽이 사마귀 낫에 얇게 저며져 조각이 부채처럼 펼쳐짐(④ 切片)",
+     "touches": ""
+    }
+   ],
+   "aux": "금고 = 藥效保存·貯藏(단지가 아님 — P22 複製 단지와 가름). 도마 = 切片. 학습층: 桑螵蛸는 사마귀 알집이라 쪄서 蟲卵을 죽여야 저장된다 · 黃芩은 쪄서 효소를 죽여 藥效 보존(p4) · 교재 표기 宣木瓜",
+   "boundaries": "금고와 도마 사이 빈 틈 = ③ | ④. 사마귀 낫이 틈을 넘는 순간이 경계",
+   "prompt_en": "16:9 wide cartoon illustration, cheerful Sketchy-style mnemonic scene on a long wooden kitchen workbench, read strictly left to right. On the left, the same long bamboo steamer as before with its lid off, warm steam drifting out. A big shining gold bar (gold ingot) with a happy face, still steaming, slides out of the steamer and straight into a small open iron safe standing just to its right, bumping the back of A bright green praying mantis with a blank price tag hanging on a string from its foreleg; the tag is left blank on the way; the mantis slams the safe door shut with one foreleg. After a clear empty gap to the right lies a plain wooden cutting board holding A dumbbell made of a wooden bar with a lumpy pale-green quince fruit stuck on each end; the mantis stretches its other sickle-like foreleg across the gap and shaves one soft, steamed quince end of the dumbbell into thin slices that fan out on the board. No knife. Only these three characters, the steamer, the safe and the cutting board. Absolutely no text, letters, numbers, labels, signs or speech bubbles anywhere.",
+   "score": 92,
+   "from": "p5 · p3 · p1 · p4(낫으로 썲)"
+  },
+  {
+   "id": "P21",
+   "method": "煮法 (① 毒性減少 ② 藥效增加 ③ 깨끗하게) | 燀法 (種皮 分離)",
+   "lyric": "천원진 | 행백 (삶아 천원진 · 데쳐 행백)",
+   "setting": "같은 작업대. 왼쪽 센 불 위 뚜껑 반쯤 열린 깊은 큰 솥이 펄펄 오래 끓음(煮), 가운데 빈 틈, 오른쪽 뚜껑 없는 얕은 냄비 + 구멍 뚫린 뜰채(燀), 냄비 오른쪽 작업대 위로 杏仁 피규어의 횡단보도 줄무늬. 새 물건 여덟: 솥 · 냄비 · 뜰채 + 피규어 다섯",
+   "stations": [
+    {
+     "herb": "川烏",
+     "where": "왼쪽 첫째 · 깊은 솥 안",
+     "action": "천막 쓴 까마귀가 끓는 물에 잠겨 고개만 내밀고, 머리 위 보라 독 연기가 옅어지며 걷힘(① 毒性減少)",
+     "touches": "遠志 — 걷히는 김이 소년 망원경에 닿음"
+    },
+    {
+     "herb": "遠志",
+     "where": "둘째 · 솥 오른쪽 가장자리",
+     "action": "김을 쐰 망원경이 쭉 두 배로 길어짐(② 藥效增加), 늘어난 끝이 솥 속 진주를 톡",
+     "touches": "珍珠"
+    },
+    {
+     "herb": "珍珠",
+     "where": "셋째 · 솥 오른쪽 위",
+     "action": "끓는 거품에 때가 씻겨 반짝이며 튀어 올라(③ 깨끗하게) 빈 틈을 넘어 뜰채로 굴러감",
+     "touches": "杏仁"
+    },
+    {
+     "herb": "杏仁",
+     "where": "넷째 · 냄비 위 뜰채 → 횡단보도",
+     "action": "뜰채로 끓는 물에 잠깐 담겼다 나온 살구씨가 한 손을 번쩍 들고 횡단보도를 건너며 얇은 갈색 씨껍질을 외투처럼 벗어 던짐",
+     "touches": "白扁豆 — 던진 껍질이 콩에 맞음"
+    },
+    {
+     "herb": "白扁豆(교재 萹豆)",
+     "where": "오른쪽 끝",
+     "action": "흰 붕대는 머리에 그대로, 관자놀이를 짚은 채 몸의 얇은 흰 씨껍질이 미끄러져 벗겨짐(種皮 分離)",
+     "touches": ""
+    }
+   ],
+   "aux": "煮 = 뚜껑 덮은 깊은 솥 · 센 불 · 물에 잠겨 오래 / 燀 = 뚜껑 없는 얕은 냄비 + 뜰채 · 잠깐. 독 연기 걷힘 = 毒性減少(P22와 같은 문법). 학습층: 煮法 輔料 加/無 — 芫花 醋煮 · 烏頭 두부와 함께 煮(그림엔 없음, 여덟 한도) · 燀 = 水燙, 有效成分 보존 · 非藥用部分 제거",
+   "boundaries": "솥과 냄비 사이 빈 틈 = 煮 | 燀. 진주가 틈을 넘어 뜰채로 구르는 순간이 경계. 煮 안의 ①②③은 솥 안 → 망원경 → 튀어 오르는 진주 순",
+   "prompt_en": "16:9 wide cartoon illustration, cheerful Sketchy-style mnemonic scene on a long wooden kitchen workbench, read strictly left to right. LEFT: a deep, large pot with its lid half open boils hard over a strong flame, lots of steam. Inside it, a black crow wearing a small canvas camping tent over its body like a shell, only its beaked head poking out of the tent flap, submerged in the boiling water up to its neck; above its head a wisp of purple poison smoke is fading away to nothing. On the pot's right rim stands a curious boy peering through a long telescope while holding an unfolded old map with no writing on it; the steam has made his telescope stretch out to twice its length, and its far tip taps a pearl in the pot: One large lustrous pearl gleaming with soft rainbow highlights, which bursts up out of the bubbles sparkling clean and rolls across a clear empty gap to the right. RIGHT: a shallow lidless pot of boiling water with a slotted ladle; the pearl rolls toward the ladle, from which an apricot kernel character with a face raising one hand high while walking across a zebra crosswalk has just been briefly dipped and lifted out; the zebra crosswalk stripes run along the workbench, and as the kernel walks across them with one hand raised it flings off a thin brown seed skin like a coat. The skin hits A flat white bean with a white bandage wrapped around its head, pressing one hand to its temple with a pained grimace at the far right; the white bandage stays wrapped on its head, while a thin papery white skin slides off its body. Only these five characters, the two pots and the ladle. Absolutely no text, letters, numbers, labels, signs or speech bubbles anywhere.",
+   "score": 89,
+   "from": "p6 · p1(가사 동사) · p4(뚜껑 · 깊이 가름) · p2(망원경 길어짐)"
+  },
+  {
+   "id": "P22",
+   "method": "複製法 — ① 治療效果增加·毒性減少 | ② 藥性 變化",
+   "lyric": "백반 | 천",
+   "setting": "같은 작업대. 왼→오 입 넓은 둥근 단지 셋이 한 줄(여러 보료를 정해진 순서로 거침 = 複製, 단지 하나에 바르는 炙와 가름): 단지 A = 노란 생강 조각 + 흰 백반 결정(new-etc-18 첫째 단지), 단지 B = 우윳빛 석회물 + 감초 막대(hp-04 生半夏 법제 표지), 빈 틈, 단지 C = 짙은 초록 쓸개즙 + 위에 빨간 불꽃(new-etc-18 둘째 단지). 새 물건 여섯: 단지 셋 + 피규어 셋",
+   "stations": [
+    {
+     "herb": "白附子",
+     "where": "왼쪽 첫째 · 단지 A 안",
+     "action": "생강 조각 · 백반 결정 사이에 허리까지 잠긴 하얀 부자가 분첩을 두드림, 머리 위 보라 독 연기가 옅어짐(① 毒性減少 · 祛風逐痰↑)",
+     "touches": "半夏 — 날린 흰 가루가 하마 코로"
+    },
+    {
+     "herb": "半夏",
+     "where": "둘째 · 단지 A와 B 사이 → 단지 B",
+     "action": "재채기하며 두 뒷발이 반바지 한 다리에 낀 채 넘어져 석회물 · 감초 막대 단지 B에 풍덩, 독 연기 걷힘(① 毒性減少)",
+     "touches": "天南星 — 튄 물보라가 빈 틈 넘어 천하장사에게"
+    },
+    {
+     "herb": "天南星",
+     "where": "오른쪽 끝 · 단지 C 옆",
+     "action": "물보라에 놀라 들어 올린 노란 큰 별(색 그대로)을 쓸개즙 단지 C에 푹 담금 → 단지 위 빨간 불꽃이 파란 눈송이로 바뀜(② 辛溫 → 苦凉 = 膽南星)",
+     "touches": ""
+    }
+   ],
+   "aux": "단지 여럿을 차례로 = 複製(정해진 순서대로 반복). 독 연기 걷힘 = 毒性減少(P21과 같음). 불꽃 → 눈송이 = 藥性變化(new-etc-18과 같음). 학습층: 白附子-生薑·白礬 / 半夏-甘草·石灰 / 天南星-苦寒한 膽汁(3556행). 가사 「백반」은 단지 A의 白礬과 소리가 같다 — 白附子를 白礬에 制한다는 고리로 읽음(P17 明煅 白礬과는 다른 장)",
+   "boundaries": "단지 B와 C 사이 빈 틈 = ① | ②. ①은 독 연기 걷힘, ②는 불꽃 → 눈송이",
+   "prompt_en": "16:9 wide cartoon illustration, cheerful Sketchy-style mnemonic scene on a long wooden kitchen workbench, read strictly left to right. Three open wide-mouthed round ceramic jars stand in a row, their contents visible from the open tops. JAR 1 (left) holds yellow ginger slices and white crystal lumps; sitting in it up to his waist is a plump rich man in an all-white suit patting his chalk-white face with a big powder puff, white powder puffing in the air, hugging a white money sack; above his head a wisp of purple poison smoke is fading away. The white powder from his puff blows right into the nose of A grey hippo wearing bright shorts, both hind legs stuck in one leg of the shorts, toppling over with a surprised face, who sneezes and topples, both hind legs stuck in one leg of the shorts, splashing into JAR 2, which holds milky white lime water with a licorice root stick; the purple smoke above the hippo fades too. The splash flies across a clear empty gap to the right, where a burly Korean ssireum wrestler champion in a satba belt decorated with a star, triumphantly lifting a giant yellow star over his head is startled and plunges the big yellow star (it stays yellow) into JAR 3, full of dark green bile; above JAR 3 a small red flame is turning into a blue snowflake. Only these three characters and the three jars. Absolutely no text, letters, numbers, labels, signs or speech bubbles anywhere.",
+   "score": 90,
+   "from": "p5(단지 셋 줄) · p3(쓸개 · 溫→凉) · new-etc-18 · hp-04"
+  }
+ ],
+ "new_dict": [
+  {
+   "hanja": "何首烏",
+   "reading": "하수오",
+   "cue": "하수구 맨홀에서 반쯤 솟아 까딱이는 윤기 나는 검은 머리 오뚝이",
+   "draw_en": "A roly-poly tumbler doll (round, bottom-weighted, wobbling) with glossy jet-black hair, popping half out of an open round sewer manhole and rocking side to side, no text.",
+   "decode": "하수(구) + 오(뚝이) → 하수오 · 검은 머리 = 首烏(烏鬚髮) 뜻 고리",
+   "carriers": [
+    "하수구",
+    "오뚝이"
+   ],
+   "type": 4,
+   "score": 24
+  }
+ ],
+ "needs_user_ok": [
+  "何首烏 새 단서 「하수구 맨홀에서 솟아 까딱이는 검은 머리 오뚝이」 채택(p5 · p1 · p4. 오징어 안 셋은 숫자 5 굳은 물건이라 낙제)",
+  "P22 가사 「백반 | 천」 유지 — p1은 P17 白礬(백반 한 상)과 겹친다며 「백 반복 | 천 변」을 제안. 심사는 사용자 두문자를 지키고, 단지 A에 실제로 白礬이 든다는 고리로 씀"
+ ],
+ "check_needed": [
+  "生地黃은 사전(herbs.json)에 항목이 없다. brief · common.md의 「생선 든 지하 황제」를 근거로 P19에 날생선을 生 표지 소품으로만 둠",
+  "熟地黃 draw_en의 「underground burrow」를 찜기 왼칸 안으로 옮김(피규어 꼴 — 검은 피부 · 곤룡포 · 관 · 숙제 노트 — 는 그대로). 大黃은 왕관 없음 유지",
+  "교재 3553행 「萹豆」를 사전 白扁豆로 읽음(扁/萹 OCR 확인 — 萹蓄과 다름). 교재 3552행 「宣木瓜」 = 사전 木瓜",
+  "new-etc-18 단지는 유리였으나 「맑은 유리」(왕조 터 굳은 물건)와 겹칠 수 있어 P22는 입 넓은 도자기 단지로 그림 — 내용물 · 불꽃→눈송이는 그대로. 유리로 되돌릴지 확인",
+  "白扁豆: 여섯 안 모두 붕대를 씨껍질로 풀었으나 붕대가 단서 자체라 합본은 붕대를 머리에 두고 몸의 얇은 껍질만 벗김 — 그림에서 붕대가 남았는지 검수",
+  "P21이 새 물건 여덟으로 한도. 煮法의 烏頭-두부(교재 괄호 예)는 그림에 못 넣고 학습층에만 적음"
+ ]
+}

@@ -1,0 +1,895 @@
+{
+ "run": "20261122-p3-suchi",
+ "sheets": [
+  {
+   "id": "P01",
+   "method": "淸炒 · 炒焦",
+   "lyric": "산천치빈",
+   "setting": "pilot-cho 작업대 · 中 · 武火 위 긴 팬. 輔料 없음. 팬 속 조각만 짙은 갈색으로 눌어 쪼그라듦(hp-04 둘째 팬). 피규어는 제 색",
+   "stations": [
+    {
+     "herb": "山楂",
+     "where": "왼쪽 첫째",
+     "action": "비탈의 빨간 열매가 팬으로 굴러 짙은 갈색으로 눌음, 구르는 열매가 다음 발치를 침",
+     "touches": "川楝子"
+    },
+    {
+     "herb": "川楝子",
+     "where": "둘째",
+     "action": "휘청하며 지팡이로 치즈 자 한쪽 끝을 내리침",
+     "touches": "梔子"
+    },
+    {
+     "herb": "梔子",
+     "where": "셋째",
+     "action": "눌은 열매 한 알 위에 시소처럼 걸쳐 있다가 반대쪽 끝이 튀어 오름",
+     "touches": "檳榔"
+    },
+    {
+     "herb": "檳榔",
+     "where": "오른쪽 끝",
+     "action": "튀어 오른 치즈 자 끝이 도시락 바닥을 톡 — 도시락은 여전히 텅 비었고 신랑은 시무룩",
+     "touches": "없음(끝)"
+    }
+   ],
+   "aux": "없음(淸炒). 표지 = 팬 속 짙은 갈색 쪼그라든 조각 = 炒焦(中火 · 武火, 焦褐)",
+   "boundaries": "경계 없음. 炒焦 ↔ 炒炭은 팬 속 조각 색(갈색 · 쪼그라듦 ↔ 새까맣되 꼴 그대로)과 반창고 유무로 가름. 교재 표기 山査 ↔ 사전 山楂(같은 약). 그림 밖: 炒黃(文火 · 中火, 子 · 仁類) · 雷公炮炙論",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines, simple light kitchen background. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. Setting: a long wooden kitchen workbench seen from the front. One very long, shallow rectangular frying pan runs along almost the whole bench over a row of medium-to-strong orange flames. No liquid, no powder in the pan: its bottom is scattered with small herb pieces scorched dark brown and shriveled (brown, not black). Every character keeps exactly its own normal colors and shape; only the loose herb pieces in the pan show the cooking color. All characters stand in one row from left to right, each one touching the next like falling dominoes. 1) Left end: a small chunk of rocky hillside with an avalanche of shiny red hawthorn berries tumbling down its slope, one berry wide-eyed in panic; several red berries have rolled down into the pan, where they lie shriveled and dark brown, and the rolling berries bump the feet of the next character. 2) an ancient soft-shelled turtle with moss growing on its shell and a long flowing white beard, leaning on a walking stick; jolted by the berries, it stumbles and its walking stick slams down on one end of the next character. 3) A yellow cheese block shaped like a ruler with holes and tick marks only (no numbers), lying across one small scorched berry like a see-saw: the struck end goes down and the other end flips up. 4) Right end: A bridegroom in a wedding tuxedo holding an open empty lunch box and looking sad; the flipped-up end of the cheese ruler taps the bottom of his open lunch box, which stays completely empty, and he still looks sad.",
+   "score": 92,
+   "from": "p5 · p3(시소 치즈 자 · 눌은 열매)",
+   "batch": "Q1"
+  },
+  {
+   "id": "P02",
+   "method": "淸炒 · 炒炭 ①",
+   "lyric": "대소백목측",
+   "setting": "같은 작업대 · 武 · 中火 위 긴 팬. 팬 속 조각이 새까맣되 꼴 그대로(hp-04 셋째 팬). 오른쪽 손잡이에 반창고 하나. 피규어는 제 색(백발 · 백엽상 흰색 유지)",
+   "stations": [
+    {
+     "herb": "大薊",
+     "where": "왼쪽 첫째(가장 크게)",
+     "action": "치켜든 집게로 소라게 껍데기를 집어 오른쪽으로 던짐",
+     "touches": "小薊"
+    },
+    {
+     "herb": "小薊",
+     "where": "둘째(아주 작게)",
+     "action": "껍데기째 날아가 족집게에 부딪힘",
+     "touches": "白茅根"
+    },
+    {
+     "herb": "白茅根",
+     "where": "셋째",
+     "action": "뽑힌 흰 머리카락이 휘어 피에로 목 단추를 칭칭 감아 더 조임",
+     "touches": "牡丹皮"
+    },
+    {
+     "herb": "牡丹皮",
+     "where": "넷째",
+     "action": "숨이 막혀 휘청, 옆의 백엽상에 쓰러짐",
+     "touches": "側柏葉"
+    },
+    {
+     "herb": "側柏葉",
+     "where": "오른쪽 끝",
+     "action": "반창고 감긴 팬 손잡이 쪽으로 기우뚱",
+     "touches": "반창고(止血)"
+    }
+   ],
+   "aux": "반창고(팬 오른쪽 손잡이, 무늬 없음) = 炒炭存性 → 止血↑. P02 · P03 · P04 같은 자리",
+   "boundaries": "경계 없음. 大薊 ↔ 小薊는 크기(大 · 小)로 가름. 교재 표기 牧丹皮 ↔ 사전 牡丹皮. 그림 밖: 炒炭 = 武火 · 中火, 表面 焦黑 · 焦褐, 炒炭存性",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines, simple light kitchen background. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. Setting: a long wooden kitchen workbench seen from the front. One very long, shallow rectangular frying pan runs along almost the whole bench over a row of strong orange flames. No liquid, no powder in the pan: its bottom is scattered with small herb pieces burnt jet black like charcoal but each keeping its original shape. A single plain beige adhesive bandage (no print) is wrapped around the right-hand handle of the pan. Every character keeps exactly its own normal colors and shape; only the loose herb pieces in the pan show the cooking color. All characters stand in one row from left to right, each one touching the next like falling dominoes. The white hair stays white and the weather box stays white. 1) Left end, very big: a huge snow crab with very long legs raising both claws high in a triumphant pose; with one raised claw it has grabbed the small spiral shell of the next character and flings it to the right. 2) Very small, inside the flying shell: a tiny hermit crab peeking shyly out of a small spiral sea-snail shell; the shell crashes into the tweezers of the next character. 3) a pair of tweezers pulling out one long white hair whose bulb-shaped root at the bottom has a tiny screaming face; the yanked white hair whips to the right and coils around the collar button of the next character, pulling it even tighter. 4) a clown with a bright red face, choking slightly because the single huge button at his collar is fastened too tight around his neck; choking, he staggers sideways and falls against the next character. 5) Right end: a small white louvered wooden weather-instrument box on four legs with a bronze cylindrical rain gauge on a stone stand sitting on its roof, tilting toward the bandaged pan handle.",
+   "score": 91,
+   "from": "p1 · p4(모근이 단추를 조임) · p5(손잡이 반창고)",
+   "batch": "Q1"
+  },
+  {
+   "id": "P03",
+   "method": "淸炒 · 炒炭 ②",
+   "lyric": "천관괴건오",
+   "setting": "P02와 같은 검은 조각 팬 · 반창고 손잡이. 피규어는 제 색",
+   "stations": [
+    {
+     "herb": "川椒",
+     "where": "왼쪽 첫째",
+     "action": "천둥 구름이 초고추장 통을 쥐어짜 빨간 소스가 관중에게 철퍽",
+     "touches": "貫衆"
+    },
+    {
+     "herb": "貫衆",
+     "where": "둘째",
+     "action": "소스를 맞고 의자에서 벌떡 일어나 고사리 잎을 휘둘러 괴물의 각도기 뿔을 침",
+     "touches": "槐角"
+    },
+    {
+     "herb": "槐角",
+     "where": "셋째",
+     "action": "넘어지며 생강의 청진기 줄을 붙잡아 당김",
+     "touches": "乾薑"
+    },
+    {
+     "herb": "乾薑",
+     "where": "넷째",
+     "action": "끌려가며 알통 자랑하던 팔꿈치로 매실 볼을 툭",
+     "touches": "烏梅"
+    },
+    {
+     "herb": "烏梅",
+     "where": "오른쪽 끝",
+     "action": "볼을 감싸 쥔 「오매!」 그 꼴 그대로(말풍선 없음)",
+     "touches": "없음(끝)"
+    }
+   ],
+   "aux": "같은 炒炭 팬 · 반창고 손잡이(止血)",
+   "boundaries": "경계 없음. 貫衆은 새 사전 항목(관중). 그림 밖: 炒炭 14味 중 둘째 마디",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines, simple light kitchen background. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. Setting: a long wooden kitchen workbench seen from the front. One very long, shallow rectangular frying pan runs along almost the whole bench over a row of strong orange flames. No liquid, no powder in the pan: its bottom is scattered with small herb pieces burnt jet black like charcoal but each keeping its original shape. A single plain beige adhesive bandage (no print) is wrapped around the right-hand handle of the pan. Every character keeps exactly its own normal colors and shape; only the loose herb pieces in the pan show the cooking color. All characters stand in one row from left to right, each one touching the next like falling dominoes. 1) Left end: a dark thundercloud with a lightning bolt squeezing a plain red squeeze bottle of spicy sauce, red sauce spurting out; the red sauce splashes onto the next character. 2) a sports fan in a plain jersey with no numbers or letters, two stripes of face paint, springing up from a single plastic stadium seat with mouth wide open, waving a big green fern frond in each raised hand like cheering flags; splashed with red sauce, he leaps up and swings his fern fronds, smacking the horn of the next character. 3) a small green cartoon monster with a half-moon protractor (tick marks only, no numbers) growing on its head in place of a horn; knocked off balance, it topples and grabs the stethoscope tube of the next character. 4) a shriveled dried ginger root with bulging cartoon biceps flexing proudly while a doctor's stethoscope is pressed to its chest; pulled sideways, its flexing elbow bumps the cheek of the next character. 5) Right end: A wrinkled black smoked plum with a shocked face, eyes squeezed shut and both hands clutching its cheeks as if from extreme sourness; no speech bubble or letters.",
+   "score": 94,
+   "from": "p3 · p5(관중이 벌떡) · p1(경기장 의자)",
+   "batch": "Q1"
+  },
+  {
+   "id": "P04",
+   "method": "淸炒 · 炒炭 ③",
+   "lyric": "지포권형",
+   "setting": "P02와 같은 검은 조각 팬 · 반창고 손잡이. 피규어는 제 색",
+   "stations": [
+    {
+     "herb": "地楡",
+     "where": "왼쪽 첫째",
+     "action": "지렁이 감긴 주유기 노즐이 포환을 밀어냄",
+     "touches": "蒲黃"
+    },
+    {
+     "herb": "蒲黃",
+     "where": "둘째",
+     "action": "목에 댄 포환이 노란 꽃가루로 퍽 — 꽃가루 구름이 오른쪽으로",
+     "touches": "卷柏"
+    },
+    {
+     "herb": "卷柏",
+     "where": "셋째",
+     "action": "꽃가루 구름 속으로 펀치, 글러브가 형광펜을 침",
+     "touches": "荊芥"
+    },
+    {
+     "herb": "荊芥",
+     "where": "오른쪽 끝",
+     "action": "형광펜을 쥔 채 끌려가 반창고 감긴 손잡이 쪽으로 미끄러짐",
+     "touches": "반창고(止血)"
+    }
+   ],
+   "aux": "같은 炒炭 팬 · 반창고 손잡이(止血)",
+   "boundaries": "경계 없음. 炒炭 세 장(P02~P04)은 팬 · 반창고가 같아 한 덩어리",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines, simple light kitchen background. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. Setting: a long wooden kitchen workbench seen from the front. One very long, shallow rectangular frying pan runs along almost the whole bench over a row of strong orange flames. No liquid, no powder in the pan: its bottom is scattered with small herb pieces burnt jet black like charcoal but each keeping its original shape. A single plain beige adhesive bandage (no print) is wrapped around the right-hand handle of the pan. Every character keeps exactly its own normal colors and shape; only the loose herb pieces in the pan show the cooking color. All characters stand in one row from left to right, each one touching the next like falling dominoes. 1) Left end: a red gas-station fuel pump with a pink earthworm coiled around its hose, the worm hugging the nozzle; the nozzle shoves the heavy yellow ball of the next character. 2) a shot-put athlete in throwing stance pressing a heavy yellow ball against his neck as the ball bursts into a puff of yellow pollen dust; a big yellow pollen cloud drifts to the right. 3) a white swan wearing red boxing gloves on its wings and throwing a punch; it punches into the pollen cloud and its glove hits the highlighter pen of the next character. 4) Right end: a cartoon ant dragging a giant neon-yellow-green highlighter pen behind it, straining hard; still gripping the highlighter, the ant is yanked along and slides toward the bandaged pan handle.",
+   "score": 94,
+   "from": "p5 · p2(반창고 쪽으로)",
+   "batch": "Q1"
+  },
+  {
+   "id": "P05",
+   "method": "加輔料炒 · 麩炒",
+   "lyric": "백산 / 지창 / 백",
+   "setting": "같은 작업대 · 中火 위 긴 팬, 바닥에 갈색 밀기울과 옅은 연기. 낮은 칸막이 둘로 세 칸(① 둘 | ② 둘 | ③ 하나)",
+   "stations": [
+    {
+     "herb": "白朮",
+     "where": "① 칸 왼쪽",
+     "action": "윗잎이 털썩 넘어가 산악인 등을 덮침(백 → 산)",
+     "touches": "山藥"
+    },
+    {
+     "herb": "山藥",
+     "where": "① 칸 오른쪽",
+     "action": "떠밀리며 치켜든 마 뿌리 피켈이 첫 칸막이를 넘어 지퍼 손잡이를 걸어 쫙 엶",
+     "touches": "枳實"
+    },
+    {
+     "herb": "枳實",
+     "where": "② 칸 왼쪽",
+     "action": "끝없이 풀린 실이 배추 전사의 창날을 칭칭 감음(날 꼴은 보임) = 藥性緩和",
+     "touches": "蒼朮"
+    },
+    {
+     "herb": "蒼朮",
+     "where": "② 칸 오른쪽",
+     "action": "앞으로 기울며 긴 창 자루가 둘째 칸막이를 넘어 누에 이마를 콕",
+     "touches": "白殭蠶"
+    },
+    {
+     "herb": "白殭蠶",
+     "where": "③ 칸",
+     "action": "그대로 선 채 잠듦, 머리 위 초록 악취 김이 밀기울 김에 닿아 흰 김으로 = 矯味矯臭",
+     "touches": "없음(끝)"
+    }
+   ],
+   "aux": "밀기울(麥麩) 깐 팬 + 옅은 연기 = 麩炒. ③ 표지 = 초록 악취 김 → 흰 김(pilot-cho 醋炙 ③과 같은 약속)",
+   "boundaries": "낮은 칸막이 둘 = ① 治療效果(補脾: 白朮 · 山藥) | ② 藥性緩和(枳實 · 蒼朮) | ③ 矯味矯臭(白殭蠶). 긴 피켈 · 긴 창이 칸막이를 넘어 닿음. 가사 쉼 백산 / 지창 / 백 = 칸. 교재 표기 白彊蠶 ↔ 사전 白殭蠶. 白朮(하얀) ↔ 蒼朮(짙은 초록 · 창)은 색으로 가름",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines, simple light kitchen background. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. Setting: a long wooden kitchen workbench seen from the front. One very long, shallow rectangular frying pan runs along almost the whole bench over a row of medium orange flames. The pan bottom is covered with flaky brown wheat bran giving off thin pale smoke. Two low plain metal partitions divide the pan into three compartments: left (two characters), middle (two characters), right (one character). Every character keeps exactly its own normal colors and shape; only the loose herb pieces in the pan show the cooking color. All characters stand in one row from left to right, each one touching the next like falling dominoes. LEFT COMPARTMENT: 1) One plump napa cabbage standing upright whose leaves are pure bright white, clearly white rather than green, simple and clean; its top leaves flop over onto the back of the next character. 2) A mountaineer in a climbing helmet and backpack triumphantly raising a long knobby yam root as if it were an ice axe; pushed forward, his raised yam root reaches over the first partition and hooks the pull tab of the zipper of the next character, yanking it open. MIDDLE COMPARTMENT: 3) a large metal zipper being yanked open while an endless tangle of thread keeps spooling out from between its teeth; the thread spooling out winds round and round the leaf-shaped spear blade of the next character (the blade shape still visible under the thread). 4) A dark green napa cabbage warrior standing upright and holding a long wooden spear with a single leaf-shaped blade (not a trident), no text; tipping forward, its long spear shaft reaches over the second partition and gently taps the forehead of the next character. RIGHT COMPARTMENT: 5) A plump white silkworm dressed as a Chinese hopping vampire (jiangshi) with the official's hat, both little arms stretched stiffly forward, eyes closed asleep with a snot bubble at its nose; no talisman paper, no Z letters; it stays asleep; a wavy green stink line above it turns into a clean white wisp where the bran smoke rises.",
+   "score": 90,
+   "from": "p5 · p1(백 → 산) · p3(칸막이 · 창날 감기) · p4 · p6(악취 김 걷힘)",
+   "batch": "Q1"
+  },
+  {
+   "id": "P06",
+   "method": "加輔料炒 · 米炒 + 土炒",
+   "lyric": "당 · 반 / 산백",
+   "setting": "작업대 왼쪽 2/3 = 中火 위 흰 쌀 깐 팬, 오른쪽 1/3 = 작은 흙 부뚜막 위 뒤집은 무쇠 솥뚜껑에 붉은 황토(伏龍肝). 피규어는 제 색",
+   "stations": [
+    {
+     "herb": "黨參",
+     "where": "쌀 팬 왼쪽(①)",
+     "action": "당구 큐로 민무늬 공을 침, 공이 빈 틈을 굴러 딱정벌레를 맞힘",
+     "touches": "斑蝥"
+    },
+    {
+     "herb": "斑蝥",
+     "where": "쌀 팬 오른쪽(②)",
+     "action": "물구나무에서 기우뚱, 등의 보라 독 김이 쌀로 빨려 들고 그 밑 쌀이 노릇 = 毒性減少, 쳐든 외발이 산악인 등을 툭",
+     "touches": "山藥"
+    },
+    {
+     "herb": "山藥",
+     "where": "솥뚜껑 왼쪽(土)",
+     "action": "앞으로 휘청하며 마 뿌리 피켈로 흰 배추를 걸어 황토 위로 끌어당김(산 → 백)",
+     "touches": "白朮"
+    },
+    {
+     "herb": "白朮",
+     "where": "오른쪽 끝(土)",
+     "action": "붉은 황토 위에 앉음, 여전히 새하얌",
+     "touches": "없음(끝)"
+    }
+   ],
+   "aux": "흰 쌀 깐 팬 = 米炒 / 흙 부뚜막 + 솥뚜껑의 붉은 황토 = 土炒(부뚜막 흙 = 伏龍肝). 毒性減少 = 보라 독 김이 쌀로 빨려 듦",
+   "boundaries": "米炒 ① 健脾止瀉(黨參) | ② 毒性減少 · 氣味矯正(斑蝥) = 쌀 팬 안 빈 틈. 米 | 土 = 팬이 부뚜막으로 바뀜. 白朮 · 山藥 순서는 P05(백 → 산)와 거꾸로(산 → 백). 학습층 병기: 米炒 ① 교재 OCR 「鷰參」 ↔ 본초.docx 「黨參」(어느 쪽도 고르지 않음). 교재 斑猫 ↔ 사전 斑蝥. 그림 밖: 土炒 溫中補脾 · 止嘔止瀉 → 固脾止泄(黃土 · 赤石脂炒도)",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines, simple light kitchen background. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture. Setting: a long wooden kitchen workbench seen from the front. LEFT TWO-THIRDS: one long, shallow rectangular frying pan over a row of medium orange flames, its bottom covered with plain white rice grains. RIGHT THIRD: a small traditional Korean clay cooking stove with a fire glowing in its mouth; on top lies an upturned black iron cauldron lid used as a pan, covered with reddish-yellow earth. Every character keeps exactly its own normal colors and shape; only the loose herb pieces in the pan show the cooking color. All characters stand in one row from left to right, each one touching the next like falling dominoes. IN THE RICE PAN, with a small empty gap between them: 1) A little ginseng-root doll leaning over to line up a shot with a billiard cue stick against one plain unnumbered billiard ball; it strikes the plain ball, which rolls across the gap and hits the next character. 2) a black beetle with bright yellow-red spots doing a one-legged handstand trick; tipping over from its handstand, a thin purple wisp of poison rises from its back and is sucked down into the rice, and the rice under it turns light yellow-brown; its raised leg kicks the back of the next character. ON THE EARTH-COVERED LID: 3) A mountaineer in a climbing helmet and backpack triumphantly raising a long knobby yam root as if it were an ice axe; lurching forward, he hooks the next character with his yam root and pulls it onto the red earth. 4) Right end: One plump napa cabbage standing upright whose leaves are pure bright white, clearly white rather than green, simple and clean, sitting on the red earth, still pure white.",
+   "score": 90,
+   "from": "p5 · p3(독 김이 쌀로 · 쌀 노릇) · p6(米 | 土 경계를 동작으로 넘음)",
+   "batch": "Q1"
+  },
+  {
+   "id": "P07",
+   "method": "加輔料炒 · 砂炒",
+   "lyric": "구천호 / 마 / 골마",
+   "setting": "pilot 작업대의 긴 팬에 뜨거운 굵은 모래(아지랑이), 센 주황 불(加輔料炒 = 溫度↑). 모래턱 둘로 ① | ② | ④ 세 칸.",
+   "stations": [
+    {
+     "herb": "狗脊",
+     "where": "왼쪽 칸 첫째",
+     "action": "뜨거운 모래에 발을 데어 펄쩍, 들보에 머리를 박으며 뒷발로 모래를 걷어참",
+     "touches": "穿山甲"
+    },
+    {
+     "herb": "穿山甲",
+     "where": "왼쪽 칸 둘째",
+     "action": "걷어찬 모래를 맞은 모래 바위 둔덕을 드릴처럼 뚫고 튀어나옴, 파편이 오른쪽으로",
+     "touches": "虎骨"
+    },
+    {
+     "herb": "虎骨",
+     "where": "왼쪽 칸 셋째",
+     "action": "날아온 파편을 통뼈 방망이로 받아침, 방망이 끝이 바삭한 부스러기로 떨어짐(① 調制 便利)",
+     "touches": "馬錢子"
+    },
+    {
+     "herb": "馬錢子",
+     "where": "둘째 모래턱에 걸쳐 누움(머리 = 가운데 칸, 꼬리 = 오른쪽 칸)",
+     "action": "부스러기를 맞고 뻣뻣이 넘어짐, 엽전 문 입 위 보라 독구름이 흩어짐(② 毒性減少)",
+     "touches": "骨碎補"
+    },
+    {
+     "herb": "骨碎補",
+     "where": "오른쪽 칸, 말 엉덩이 위",
+     "action": "뻣뻣한 말꼬리가 솔처럼 쓸고, 뼈 끝과 말꼬리의 잔털이 뜨거운 모래에 그을려 떨어져 깨끗해짐(④ 洗淨 便利, 마 · 골 · 마 = 머리 · 뼈 · 꼬리)",
+     "touches": ""
+    }
+   ],
+   "aux": "뜨거운 굵은 모래 · 모래턱 둘 · 보라 독구름(毒性↓ 공용) · 그을린 잔털",
+   "boundaries": "① 調制 便利 = 狗脊 · 穿山甲 · 虎骨(왼쪽 칸, 바삭한 부스러기) | ② 毒性減少 = 馬錢子 머리(가운데 칸, 독구름 흩어짐) | ④ 洗淨 便利 = 骨碎補 · 馬錢子 꼬리(오른쪽 칸, 잔털 그을려 떨어짐). 馬錢子 한 마리가 둘째 턱에 걸쳐 두 번 몫. 砂 = 뜨거움(滑石 = 미끄러움과 가름). 물 · 대야를 그리지 않음(洗淨을 물 씻기로 읽지 않게).",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines, simple light kitchen background. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture, including on bottles, containers and maps. Setting: a long wooden kitchen workbench seen from the front. One very long, shallow rectangular frying pan runs along almost the whole bench, filled with hot, coarse golden-brown sand shimmering with heat haze, over a row of strong, tall orange flames (high heat). Two low sand ridges divide the pan into three zones: a wide left zone, a middle zone and a right zone. LEFT ZONE, from left: (1) an absurdly tall, lanky dog standing on its hind legs with a ramrod-straight spine, its head bumping against a ceiling beam; its paws have just touched the hot sand, so it has hopped up in pain, and its hind paw kicks a spray of hot sand to the right. (2) a scaly pangolin spinning like a drill as it bursts out through a small rocky mountain, rubble flying; the mountain is a small sand-and-rock mound in the pan, and the rubble flies to the right. (3) an ordinary orange tiger with bold black stripes (no clock) swinging a thick bone like a baseball bat, no text; it bats the flying rubble, and the end of its bone bat flakes off in dry, crisp crumbs that fly over the first ridge. MIDDLE AND RIGHT ZONES: (4) a brown horse lying stiffly on its side with its legs rigid and straight, an old brass coin with a square hole clenched in its teeth, no text; hit by the crumbs, it has toppled and lies across the second ridge, its head with the coin in the middle zone, where a small dark-purple poison cloud above its mouth is breaking apart into fading wisps, and its hindquarters and tail in the right zone. (5) a cartoon bone snapped in the middle and held together by a metal orthopedic brace with screws, wincing, standing on the horse's hip in the right zone; the horse's rigid tail swings up like a stiff brush against it, and little puffs of singed fuzz curl off both the bone's knobby ends and the horse's tail on the hot sand, leaving them clean. No water, no bowl, no washing. All characters stand in one left-to-right row like dominoes, slightly staggered front and back. Large, clear shapes, few objects. No skulls, no crowns, no ribbons, no extra characters.",
+   "score": 88,
+   "from": "p3 · p4 · p6",
+   "batch": "Q2"
+  },
+  {
+   "id": "P08",
+   "method": "加輔料炒 · 滑石粉炒 (蛤粉炒 = 대상 약 없음)",
+   "lyric": "상황 / 수 (「상황 수습」으로 읽음)",
+   "setting": "같은 작업대 · 긴 팬에 곱고 미끄러운 흰 활석 가루, 센 주황 불. 왼끝 라벨 없는 흰 베이비파우더 통(활석 = talc 실물). 가루 턱 하나로 ① | ②. 오른끝 작업대 위 빈 조개 접시.",
+   "stations": [
+    {
+     "herb": "象皮",
+     "where": "왼쪽 칸 첫째(왼끝 파우더 통 옆)",
+     "action": "피리 상아를 불어 흰 가루 구름을 일으킴, 몸이 뻥튀기처럼 부풀어 숭숭(① 質 疏松)",
+     "touches": "黃狗腎"
+    },
+    {
+     "herb": "黃狗腎",
+     "where": "왼쪽 칸 둘째",
+     "action": "가루에 재채기하며 네 발 신발로 미끄러운 가루 위를 오른쪽으로 미끄러짐, 몸도 부풂(①)",
+     "touches": "水蛭"
+    },
+    {
+     "herb": "水蛭",
+     "where": "오른쪽 칸",
+     "action": "미끄러져 온 개에 시험관이 부딪힘, 보라 독구름이 흩어지고 초록 악취 김이 하얀 김으로(② 毒性 · 氣味矯正)",
+     "touches": ""
+    }
+   ],
+   "aux": "흰 활석 가루 · 베이비파우더 통 · 빈 조개 접시 · 보라 독구름",
+   "boundaries": "① 質 疏松 = 象皮 · 黃狗腎(부풀어 숭숭) | ② 毒性 내림 · 氣味矯正 = 水蛭(독구름 흩어짐 + 악취 김 → 하얀 김). 빈 조개 접시 = 蛤粉炒는 방법만 있고 교재 대상 약 없음. 滑石 = 미끄러짐(砂 = 뜨거움과 가름), 흰 가루 둘(滑石 · 蛤粉)은 파우더 통 ↔ 조개 접시로 가름.",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines, simple light kitchen background. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture, including on bottles, containers and maps. Setting: a long wooden kitchen workbench seen from the front. One very long, shallow rectangular frying pan runs along almost the whole bench, filled with fine, smooth, slippery white talc powder, over a row of medium-high orange flames. LEFT END: a plain round white baby-powder container with a soft powder puff on top (no label), tipped so white powder pours into the pan. A low powder ridge divides the pan into a wide left zone and a smaller right zone. LEFT ZONE: (1) an elephant whose two tusks are two wooden flutes instead of ivory; it blows its flute tusks and the music puffs up a white powder cloud; its body has puffed up round and spongy with tiny airy holes like a puffed rice cake, still clearly the elephant with two flute tusks. (2) a yellow Korean village dog wearing a shoe on each of its four paws; the powder cloud makes it sneeze, and it skids helplessly to the right on its four shoes across the slippery powder, its body also puffed up spongy. RIGHT ZONE: (3) a dark leech wearing tiny safety goggles, sucking water from a test tube through its mouth like a lab inspector; the skidding dog bumps its test tube; above the leech a dark-purple poison cloud breaks apart and a wavy green stink line turns into a clean white wisp. RIGHT END: on the bench beside the pan, a small open clam-shell dish that is completely empty. All characters stand in one left-to-right row like dominoes, slightly staggered front and back. Large, clear shapes, few objects. No skulls, no crowns, no ribbons, no extra characters.",
+   "score": 89,
+   "from": "p4 · p1 · p2(파우더 통)",
+   "batch": "Q2"
+  },
+  {
+   "id": "P09",
+   "method": "炙法 · 酒炙",
+   "lyric": "황대 / 당천 / 오",
+   "setting": "pilot 작업대 · 긴 팬에 옅은 술, 약한 파란 불(炙 = 溫度↓). 왼끝 라벨 없는 초록 술병(hp-04 · hp-02). 왼쪽 술 김 기둥.",
+   "stations": [
+    {
+     "herb": "黃連",
+     "where": "왼쪽, 술 김 기둥 위 공중",
+     "action": "술 김에 연잎째 위로 떠오름(① 上行)",
+     "touches": "大黃"
+    },
+    {
+     "herb": "大黃",
+     "where": "왼쪽, 연꽃 옆 공중",
+     "action": "왕좌째 위로 떠오름(① 上行), 늘어진 꼬리가 아래 당귀의 부채를 침",
+     "touches": "當歸"
+    },
+    {
+     "herb": "當歸",
+     "where": "가운데, 팬 안",
+     "action": "꼬리에 맞은 부채가 천궁의 시위에 부딪힘",
+     "touches": "川芎"
+    },
+    {
+     "herb": "川芎",
+     "where": "가운데, 당귀 오른쪽",
+     "action": "날개에 걸린 시위가 튕겨 화살이 나감, 붉은 줄기를 막은 검붉은 덩어리를 뚫어 흐르게 함(② 活血通絡)",
+     "touches": "烏梢蛇"
+    },
+    {
+     "herb": "烏梢蛇",
+     "where": "오른쪽 끝",
+     "action": "화살이 꼬리 옆에 꽂히자 「오!」 하며 금빛 머리털이 곤두섬, 초록 악취 김이 하얀 김으로(③ 矯臭)",
+     "touches": ""
+    }
+   ],
+   "aux": "초록 술병 · 술 김 기둥 · 붉은 줄기를 막은 검붉은 덩어리 · 烏梢蛇(새 피규어)",
+   "boundaries": "① 上行 = 黃連 · 大黃(공중으로 뜸) | ② 活血通絡 = 當歸 · 川芎(막힌 붉은 줄기가 뚫림) | ③ 矯臭 = 烏梢蛇(악취 김 → 하얀 김, pilot 문법). 酒 = 위로 ↔ 醋(P10 · pilot) = 옆으로만 ↔ 鹽(P11 · P12) = 아래로. 醋의 活血止痛(꺾인 호스가 펴짐)과 갈리게 호스를 쓰지 않음.",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines, simple light kitchen background. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture, including on bottles, containers and maps. Setting: a long wooden kitchen workbench seen from the front. One very long, shallow rectangular frying pan runs along almost the whole bench, with a thin layer of pale golden wine in it, over a row of small, gentle blue flames (low heat). LEFT END: a green glass wine bottle with no label, tipped on the rim of the pan, pouring wine in. A tall column of wine vapor rises from the left part of the pan. LEFT, lifted high into the air by the rising wine vapor, clearly above the pan and going upward: (1) a yellow lotus flower with a cartoon face, scrunching its eyes and sticking its tongue out at a bitter taste, floating on a small lily pad, its lily pad floating up on the vapor; (2) a huge yellow bull sitting smugly on a big red-and-gold royal throne like a great king, no crown, no text, the whole throne rising up beside the lotus. The bull's tail dangles down and slaps the fan of the next character. MIDDLE, back down in the pan: (3) a donkey dressed as a noble lady with a pearl necklace and a fan; her fan is knocked into (4) a small winged angel archer whose wing is caught in the bowstring, looking flustered, whose caught bowstring twangs and accidentally shoots an arrow to the right. Between them, a thin red stream in the pan is blocked by a dark-red clot; the arrow pierces the clot and the red stream rushes freely on to the right. RIGHT END: (5) a slim, glossy jet-black snake whose head sprouts spiky, glowing golden hair standing straight up, wrapped in a flickering golden aura, its mouth open wide in a round shape of surprise, no text; the arrow lands beside its tail and it shouts in surprise; a wavy green stink line above it turns into a clean white wisp. No balloon, no hose, no ladder. All characters stand in one left-to-right row like dominoes, slightly staggered front and back. Large, clear shapes, few objects. No skulls, no crowns, no ribbons, no extra characters.",
+   "score": 90,
+   "from": "p3 · p1",
+   "batch": "Q2"
+  },
+  {
+   "id": "P10",
+   "method": "炙法 · 醋炙 ② · ③ (첫 장 pilot-cho = ① 유몰삼아시향청현)",
+   "lyric": "감대원상 / 오",
+   "setting": "pilot-cho 첫 장 그대로: 같은 작업대 · 긴 팬 · 약한 파란 불 · 옆으로만 흐르는 연노랑 식초, 왼끝 같은 투명 식초병.",
+   "stations": [
+    {
+     "herb": "甘遂",
+     "where": "왼쪽 첫째(식초병 옆)",
+     "action": "식초를 맞고 쇠창살을 흔들어 감옥 칸이 옆 무대를 들이받음",
+     "touches": "大戟"
+    },
+    {
+     "herb": "大戟",
+     "where": "왼쪽 둘째",
+     "action": "붉은 막이 오른쪽으로 펄럭임",
+     "touches": "芫花"
+    },
+    {
+     "herb": "芫花",
+     "where": "가운데",
+     "action": "막 바람에 지폐 꽃잎 몇 장이 날아감",
+     "touches": "商陸"
+    },
+    {
+     "herb": "商陸",
+     "where": "가운데 오른쪽",
+     "action": "꽃잎이 내려앉자 램프가 쿵 내려와 식초가 오른쪽으로 튐. 넷 위 보라 독구름이 식초 방울에 녹아 오른쪽으로 갈수록 옅어짐(② 毒性 · 副作用 감소)",
+     "touches": "五靈脂"
+    },
+    {
+     "herb": "五靈脂",
+     "where": "짧은 빈칸 뒤 오른쪽 끝",
+     "action": "튄 식초를 맞고 초록 악취 김이 하얀 김으로, 유령이 안도해 웃음(③ 矯臭矯味)",
+     "touches": ""
+    }
+   ],
+   "aux": "연노랑 식초병(공용) · 보라 독구름(왼쪽 짙고 오른쪽 옅음)",
+   "boundaries": "② 毒性 · 副作用 감소 = 甘遂 · 大戟 · 芫花 · 商陸(넷 위 독구름이 식초 방울에 녹음) | 짧은 빈칸 | ③ 矯臭矯味 = 五靈脂(乳香 · 沒藥은 첫 장). 순서는 사용자 가사 「감대원상」, 교재 순서 大戟 · 甘遂는 학습층에 적음. 흐름은 옆으로만(酒 위로 · 鹽 아래로와 가름). 해골 없음(補骨脂와 겹치지 않게).",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines, simple light kitchen background. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture, including on bottles, containers and maps. Setting: a long wooden kitchen workbench seen from the front. One very long, shallow rectangular frying pan runs along almost the whole bench over a row of small, gentle blue flames (low heat). A thin layer of pale-yellow vinegar covers the bottom of the pan and flows from left to right, sideways only, never upward. LEFT END: a tall, slim, clear glass bottle with a cork, full of pale-yellow vinegar, tipped on the rim so a stream of vinegar pours into the pan. FROM LEFT: (1) a prisoner in a black-and-white striped uniform gripping the iron bars of a small jail cell door with both hands, no fruit, no text; splashed by the vinegar, he shakes the bars hard and the little cell bumps the next one. (2) a grand theater stage front with gold columns and heavy red velvet curtains drawn open on an empty stage, no sign, no letters; the bump makes its red curtains billow out to the right. (3) a flower whose petals are plain green paper banknotes with no numbers, no text and no portraits; the gust blows a few banknote petals off it, still keeping most of its petals. (4) a shark riding a small military landing craft boat, bow ramp open; the petals flutter onto it and its ramp slams down, splashing vinegar to the right. Above these four characters hangs one big dark-purple poison cloud that dissolves into falling vinegar droplets, thick at the left and fading away toward the right. Then a short empty stretch of plain vinegar. RIGHT END: (5) a round orange fruit with a small white cartoon ghost clinging to it and wrapping its wispy arms around it; the splash reaches it, a wavy green stink line above it turns into a clean white wisp, and the ghost smiles with relief. No wine bottle, no extra bottles, no nose clip. All characters stand in one left-to-right row like dominoes, slightly staggered front and back. Large, clear shapes, few objects. No skulls, no crowns, no ribbons, no extra characters.",
+   "score": 89,
+   "from": "p6 · p1 · p5(옅어지는 독구름)",
+   "batch": "Q2"
+  },
+  {
+   "id": "P11",
+   "method": "炙法 · 鹽炙 ① a · b",
+   "lyric": "두파보 / 소귤여",
+   "setting": "작업대가 두 단(왼쪽 높은 단 · 오른쪽 낮은 단, 계단 하나), 단마다 긴 팬 · 약한 파란 불. 윗단 왼끝 물 양동이 + 흰 소금(hp-04 · hp-02), 소금물이 계단 아래로만 흐름.",
+   "stations": [
+    {
+     "herb": "杜仲",
+     "where": "윗단 첫째(양동이 옆)",
+     "action": "소금물이 충전선을 타고 흘러 번쩍, 불꽃이 오른쪽으로",
+     "touches": "巴戟天"
+    },
+    {
+     "herb": "巴戟天",
+     "where": "윗단 둘째",
+     "action": "불꽃에 대파가 지붕을 뚫고 솟음, 천장 조각이 날아감",
+     "touches": "補骨脂"
+    },
+    {
+     "herb": "補骨脂",
+     "where": "윗단 셋째 → 계단 위",
+     "action": "조각에 맞아 펼쳐지며 계단 아래로 날아 내려감(a 補肝腎 끝)",
+     "touches": "小茴香"
+    },
+    {
+     "herb": "小茴香",
+     "where": "아랫단 첫째",
+     "action": "떨어진 지도가 손잡이를 눌러 향 연기를 뿜음",
+     "touches": "橘核"
+    },
+    {
+     "herb": "橘核",
+     "where": "아랫단 둘째",
+     "action": "연기에 쪼개져 핵폭탄 씨가 튐",
+     "touches": "荔枝核"
+    },
+    {
+     "herb": "荔枝核",
+     "where": "아랫단 셋째",
+     "action": "날아온 씨가 반지 보석으로 박혀 자랑함(b 治疝 끝)",
+     "touches": ""
+    }
+   ],
+   "aux": "물 양동이 + 흰 소금 · 두 단 작업대",
+   "boundaries": "① 下行 a 補肝腎 = 杜仲 · 巴戟天 · 補骨脂(윗단) | 계단 | b 治疝 = 小茴香 · 橘核 · 荔枝核(아랫단). 교재 표기 杜冲 · 巴戟 = 사전 杜仲 · 巴戟天. 巴戟天(작은 극장 + 대파)은 P10 大戟(대극장 무대)과 「戟 = 극장」을 나누되 대파로 갈림.",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines, simple light kitchen background. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture, including on bottles, containers and maps. Setting: a long wooden kitchen workbench seen from the front. The bench is built in two levels: a higher level on the left and a lower level on the right, joined by one step. A long, shallow frying pan sits on each level over small, gentle blue flames. LEFT END on the higher level: a metal bucket full of water with a heap of white salt beside it, tipped so salty water flows into the upper pan and spills down over the step into the lower pan; every drip and stream goes downward. HIGHER LEVEL, from left: (1) a fat warty toad sitting contentedly with a phone charging cable plugged into its back and a small lightning-bolt glow; no battery numbers; salty water runs along its charging cable and it jolts with a bright spark that shoots to the right. (2) a small theater building with red stage curtains at its open front, and a giant green leek bursting up through its roof with bits of ceiling flying; no sign or lettering; the spark makes the leek burst up through the roof, and flying bits of ceiling hit the next one. (3) an old unrolled pirate treasure map with a dotted path, an X mark and a small skull symbol drawn on it; no writing; knocked by the debris, it flaps open and sails down over the step to the lower level. LOWER LEVEL: (4) a red fire extinguisher spraying swirling clouds of fragrant incense smoke out of its nozzle instead of foam; the falling map presses its handle and incense smoke sprays to the right. (5) an orange mandarin cut in half, its seed is a small finned nuclear bomb with a tiny mushroom-cloud puff; the smoke pops it open and its nuclear-bomb seed flies to the right. (6) an elegant woman proudly holding up her hand to show off a ring whose gemstone is a small brown seed shaped like a cartoon nuclear bomb; the flying seed has just landed as the gem of her ring, and she shows it off proudly. All characters stand in one left-to-right row like dominoes, slightly staggered front and back. Large, clear shapes, few objects. No skulls, no crowns, no ribbons, no extra characters.",
+   "score": 90,
+   "from": "p5 · p6",
+   "batch": "Q2"
+  },
+  {
+   "id": "P12",
+   "method": "炙法 · 鹽炙 ① c · ②",
+   "lyric": "차 / 지황",
+   "setting": "P11에 이어 세 단으로 내려가는 작업대, 단마다 긴 팬 · 약한 파란 불. 맨 위 단 왼끝 같은 물 양동이 + 흰 소금. 맨 아랫단 팬 밑에 키 큰 붉은 불꽃 하나.",
+   "stations": [
+    {
+     "herb": "車前子",
+     "where": "가운데 단",
+     "action": "계단을 굴러 내려가며 꽁무니로 소금물 줄기를 쭉 뿜어 아래로 빠짐(① c 利尿)",
+     "touches": "知母"
+    },
+    {
+     "herb": "知母",
+     "where": "맨 아랫단",
+     "action": "튄 물에 밀려 와 키 큰 붉은 불꽃 끝을 지우개로 지워 작은 파란 불로 낮춤(② 降火)",
+     "touches": "黃柏"
+    },
+    {
+     "herb": "黃柏",
+     "where": "맨 아랫단, 낮아진 불 옆",
+     "action": "팬 위에 놓인 지단 두 장에 물방울이 촉촉이 맺힘(② 滋陰)",
+     "touches": ""
+    }
+   ],
+   "aux": "같은 양동이 + 소금 · 세 단 작업대 · 키 큰 붉은 불꽃",
+   "boundaries": "① c 利尿 = 車前子(가운데 단, 아래로 물줄기 = 下行의 끝) | 계단 | ② 滋陰降火 = 知母(불꽃을 낮춤 — 끄지 않음) · 黃柏(물방울 = 滋陰, 맨 아랫단). 가사 「지황」은 地黃(P19)과 소리가 같음 → needs_user_ok.",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines, simple light kitchen background. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture, including on bottles, containers and maps. Setting: a long wooden kitchen workbench seen from the front. The bench is built in three levels stepping down from left to right: a short top level, a middle level and a bottom level, each with a shallow frying pan over small, gentle blue flames. LEFT END on the top level: a metal bucket full of water with a heap of white salt beside it, tipped so salty water runs down the steps; every drip and stream goes downward. MIDDLE LEVEL: (1) a silver microwave oven built as a little car with round wheels, headlights and a tiny steering wheel behind its glass door, no text; it rolls down the step, and a long stream of salty water squirts out of its rear and drains down to the lower level. BOTTOM LEVEL: under the pan, one tall red flame has flared up high among the small blue flames. (2) a soft cap with a big pink pencil eraser stuck on its top like a pompom; pushed by the splash, it rubs the top of the tall red flame away with its big eraser, leaving only a small, calm blue flame (the fire is lowered, not put out). (3) two thin round egg crepes stacked slightly offset, one bright yellow (yolk) and one pure white (egg white), with a few thin cut strips beside them, lying in the pan beside the lowered flame, beaded all over with fresh water droplets, moist and glistening. All characters stand in one left-to-right row like dominoes, slightly staggered front and back. Large, clear shapes, few objects. No skulls, no crowns, no ribbons, no extra characters.",
+   "score": 90,
+   "from": "p3 · p1",
+   "batch": "Q2"
+  },
+  {
+   "id": "P13",
+   "method": "薑炙",
+   "lyric": "황죽, 후~ (황죽후)",
+   "setting": "부엌 작업대의 약한 불 위 긴 팬. 왼쪽 위에서 손 하나가 생강 뿌리를 쥐어짜 즙이 사방으로 튐(hp-02 · hp-04 薑汁 표지). 팬 바닥에 연노랑 생강즙이 얕게 고임.",
+   "stations": [
+    {
+     "herb": "黃連",
+     "where": "왼쪽 첫째(① 和胃止嘔·祛痰止咳)",
+     "action": "생강즙 방울이 내민 혀에 떨어지고, 연잎째 미끄러져 옆 죽솥으로 퐁당 — 솟지 않고 가라앉음(酒炙 P09의 솟는 黃連과 가름)",
+     "touches": "竹茹"
+    },
+    {
+     "herb": "竹茹",
+     "where": "왼쪽 둘째(①)",
+     "action": "죽솥에 黃連이 빠지자 대나무 주걱으로 젓다 죽을 오른쪽으로 튀김 — 죽솥 = 胃(和胃)",
+     "touches": "厚朴"
+    },
+    {
+     "herb": "厚朴",
+     "where": "오른쪽, 생강 조각 칸막이 너머(② 副作用 緩和)",
+     "action": "튄 죽에 맞아 정수리 그라인더가 돌고, 쏟아지던 후추알이 발밑 생강즙 웅덩이에 가라앉아 더 날리지 않음",
+     "touches": "—"
+    }
+   ],
+   "aux": "생강 쥐어짜는 손(즙이 사방으로 튐) · 세워 꽂은 생강 조각 한 장(①|② 칸막이). 새 물건 5.",
+   "boundaries": "①|② = 세운 생강 조각 칸막이. 和胃止嘔·祛痰止咳는 黃連·竹茹 둘, 副作用 緩和는 厚朴 하나. 학습층: 厚朴 副作用의 내용은 교재에 없으므로 그림은 「후추가 가라앉음」까지만.",
+   "prompt_en": "Cartoon illustration, 16:9 landscape, bright clean colors, one continuous kitchen-workshop workbench scene read left to right like a domino chain. Absolutely no text, letters, numbers, labels, signs or symbols with writing anywhere in the image. A long frying pan sits over a low flame on a kitchen workbench; a thin layer of pale-yellow ginger juice covers the pan floor. At the upper left, a hand squeezes a fresh ginger root so juice sprays out in all directions. Left: a yellow lotus flower with a cartoon face, scrunching its eyes and sticking its tongue out at a bitter taste, floating on a small lily pad — ginger juice drops land on its tongue and it slides, lily pad and all, plop into the porridge pot next to it, sinking rather than rising. Next: a cheerful middle-aged Korean lady in an apron stirring a big pot of rice porridge with a large bamboo paddle — the lotus has just fallen into her pot and her paddle flicks a splash of porridge to the right. A single upright slice of ginger stands in the pan as a small divider. Right of the divider: a round white bottle gourd with a wooden pepper grinder stuck into its top, black pepper grains spilling down its sides — the porridge splash spins its grinder, and the falling pepper grains drop into a puddle of ginger juice at its base and sink quietly instead of flying around.",
+   "score": 86,
+   "from": "p3 · p4",
+   "batch": "Q3"
+  },
+  {
+   "id": "P14",
+   "method": "蜜炙 ① 潤肺止咳",
+   "lyric": "마백, 관자비 (마백관자비)",
+   "setting": "같은 작업대 · 팬. 왼쪽 끝에 서 있는 금빛 꿀단지(hp-04)에서 꿀이 팬을 따라 왼→오로 흐름. 목적이 하나라 칸막이 없음.",
+   "stations": [
+    {
+     "herb": "麻黃",
+     "where": "왼쪽 첫째",
+     "action": "땀 흘리며 벗은 노란 망토를 오른쪽으로 휙 던짐",
+     "touches": "百部根"
+    },
+    {
+     "herb": "百部根",
+     "where": "둘째",
+     "action": "망토가 투구 깃에 걸려 버둥대다 팔꿈치로 옆 동화책을 쳐서 펼침",
+     "touches": "款冬花"
+    },
+    {
+     "herb": "款冬花",
+     "where": "셋째",
+     "action": "펼쳐지며 꽃이 튀어 나가 옆에서 자는 보라 소 코에 떨어짐",
+     "touches": "紫蘇"
+    },
+    {
+     "herb": "紫蘇",
+     "where": "넷째",
+     "action": "꽃잎이 코를 간질여 눈 감은 채 작게 콜록 — 기침 바람이 비파 줄에 닿음",
+     "touches": "枇杷葉"
+    },
+    {
+     "herb": "枇杷葉",
+     "where": "오른쪽 끝",
+     "action": "줄이 울리다 흘러온 꿀에 젖어 잠잠해짐(潤肺止咳)",
+     "touches": "—"
+    }
+   ],
+   "aux": "서 있는 금빛 꿀단지 · 꿀 흐름. 새 물건 6.",
+   "boundaries": "경계 없음(① 하나). 麻黃은 P15에도 나오며 여기서는 망토를 던짐(潤肺), P15에서는 땀이 꿀방울(緩和). 학습층: 교재 紫蘇 ↔ 본초.docx 紫菀 나란히.",
+   "prompt_en": "Cartoon illustration, 16:9 landscape, bright clean colors, one continuous kitchen-workshop workbench scene read left to right like a domino chain. Absolutely no text, letters, numbers, labels, signs or symbols with writing anywhere in the image. Same long pan on the workbench; at the far left stands a golden honey jar, and honey flows out along the pan from left to right under everyone. Left: a horned cartoon demon king dripping with sweat, pulling off his bright yellow cape, flinging the cape to the right. Second: a muscular Roman centurion in a crested helmet flexing his huge biceps — the thrown cape snags on his helmet crest and his flailing elbow knocks open the book beside him. Third: an open picture storybook wearing a golden crown, flowers bursting out from its pages — its flowers fly to the right. Fourth: a purple cow sleeping peacefully with eyes closed, tucked under one giant perilla leaf used as a blanket — a petal lands on its nose and it gives a tiny cough puff without waking. Far right: a pipa lute (pear-shaped Chinese string instrument) whose body is a large green leaf — the cough puff brushes its strings, and the flowing honey soaks the strings so they fall quiet.",
+   "score": 88,
+   "from": "p3 · p1",
+   "batch": "Q3"
+  },
+  {
+   "id": "P15",
+   "method": "蜜炙 ②③④",
+   "lyric": "황감, 마-마! (황감마마)",
+   "setting": "같은 작업대 · 같은 꿀단지. 꿀 줄기가 두 번 끊겨 웅덩이 셋 = ② | ③ | ④.",
+   "stations": [
+    {
+     "herb": "黃芪",
+     "where": "왼쪽 첫째(② 補脾益氣)",
+     "action": "깃발이 깃대 꼭대기로 솟구치며 깃대 끈이 옆 약장 서랍들을 당겨 엶",
+     "touches": "甘草"
+    },
+    {
+     "herb": "甘草",
+     "where": "둘째(②)",
+     "action": "열린 서랍마다 감초 얼굴이 꿀을 핥으며 웃음",
+     "touches": "麻黃"
+    },
+    {
+     "herb": "麻黃",
+     "where": "셋째(③ 藥性緩和)",
+     "action": "사전 그대로 망토를 벗고 있으나 흐르던 땀방울이 금빛 꿀방울로 굳어 매달림(發汗 누그러짐)",
+     "touches": "馬兜鈴"
+    },
+    {
+     "herb": "馬兜鈴",
+     "where": "오른쪽 끝(④ 矯味·副作用除去)",
+     "action": "꿀방울이 떨어져 묻은 방울을 핥아 먹고 활짝 웃음(맛 바로잡음)",
+     "touches": "—"
+    }
+   ],
+   "aux": "꿀단지 · 끊긴 꿀 줄기. 새 물건 5.",
+   "boundaries": "② | ③ | ④ = 꿀 줄기가 끊긴 두 자리. 麻黃 두 장 가름: P14 망토 던짐(潤肺止咳) ↔ P15 땀이 꿀방울(藥性緩和). 마왕의 땀 · 벗는 망토는 지움 없이 둔다.",
+   "prompt_en": "Cartoon illustration, 16:9 landscape, bright clean colors, one continuous kitchen-workshop workbench scene read left to right like a domino chain. Absolutely no text, letters, numbers, labels, signs or symbols with writing anywhere in the image. Same pan and the same golden honey jar at the far left; the honey stream breaks twice, leaving three separate honey pools. First pool: a bright yellow flag that has shot all the way up to the very top of its flagpole, flapping vigorously upward; plain cloth, no gold bar, no emblem — as it shoots up, its flagpole rope tugs open the drawers of a small wooden Korean herbal medicine cabinet with many little drawers, and from every open drawer the same cheerful yellow licorice root pokes out its smiling face, and the licorice faces lick honey and grin. Second pool: a horned cartoon demon king dripping with sweat, pulling off his bright yellow cape, but every drop of sweat on him has turned into a golden drop of honey hanging still. Third pool: a plump steamed dumpling (mandu) dressed as a bandit chief with a headband and eye patch, ringing a big brass bell — a honey drop has fallen onto the bell, and he happily licks the honey off it with a big satisfied smile.",
+   "score": 84,
+   "from": "p4 · p2 (사슬 p3)",
+   "batch": "Q3"
+  },
+  {
+   "id": "P16",
+   "method": "油炙",
+   "lyric": "음~ 호표합! (음호표합)",
+   "setting": "같은 작업대 · 팬. 왼쪽 끝 주둥이 긴 기름칠 깡통(병이 아님 — 酒 초록 병 · 醋 연노랑 병과 가름)에서 기름이 팬에 흐르다 한 번 끊김.",
+   "stations": [
+    {
+     "herb": "淫羊藿",
+     "where": "왼쪽 첫째(① 治療效果 · 溫腎壯陽)",
+     "action": "기름에 젖은 곽티슈가 따뜻한 주황빛으로 달아오르고, 풀잎이 힘차게 뽑혀 나오며 기름방울을 오른쪽으로 튀김",
+     "touches": "虎骨"
+    },
+    {
+     "herb": "虎骨",
+     "where": "둘째(② 粉碎 쉬움)",
+     "action": "기름 묻은 통뼈 방망이를 휘두르자 방망이가 바삭 부서져 부스러기가 날아감",
+     "touches": "豹骨"
+    },
+    {
+     "herb": "豹骨",
+     "where": "셋째(②)",
+     "action": "골키퍼 장갑으로 부스러기를 막으려 몸 날림, 장갑에 맞은 부스러기도 바스러짐",
+     "touches": "蛤蚧"
+    },
+    {
+     "herb": "蛤蚧",
+     "where": "오른쪽 끝(②)",
+     "action": "튕긴 부스러기 가루가 개미 등의 찬합에 쏙 담김",
+     "touches": "—"
+    }
+   ],
+   "aux": "기름칠 깡통 · 기름 흐름. 새 물건 5.",
+   "boundaries": "① | ② = 기름 줄기 끊김. 학습층: 油 = 麻油 · 羊脂 · 菜油 · 蓍油(교재) · 본초.docx 油炙은 淫羊藿 없이 蛤蚧 · 虎骨 · 豹骨 — 나란히.",
+   "prompt_en": "Cartoon illustration, 16:9 landscape, bright clean colors, one continuous kitchen-workshop workbench scene read left to right like a domino chain. Absolutely no text, letters, numbers, labels, signs or symbols with writing anywhere in the image. Same pan on the workbench; at the far left a plain metal oil can with a long thin spout drips oil into the pan, and the oil stream breaks once. Left: a pop-up tissue box printed all over with a black-and-white yin-yang pattern; instead of a tissue, a bunch of fresh green leaves is being pulled up out of its slot — soaked in oil, the box glows a warm orange and the leaves spring up vigorously, flicking an oil drop to the right. Across the gap: an ordinary orange tiger with bold black stripes (no clock) swinging a thick bone like a baseball bat — the oily bone bat crumbles into crisp crumbs mid-swing. Next: a spotted leopard wearing big goalkeeper gloves, diving sideways in midair, diving at the flying crumbs, which crumble further against the gloves. Far right: a single ant marching along carrying on its back a stacked Korean lacquered lunch box (chanhap) far bigger than itself — the fine crumbs drop neatly into the open lunch box on its back.",
+   "score": 87,
+   "from": "p2 · p6 (표지 p4)",
+   "batch": "Q3"
+  },
+  {
+   "id": "P17",
+   "method": "煅法 · 明煅",
+   "lyric": "백붕석대, 모적 (백붕석대모적)",
+   "setting": "작업대 오른쪽이 대장간 화로 — 그릇 없이 벌건 숯불 위에 바로(hp-04 明煅 표지 · 숯불 위 굴). 숯 바닥 가운데 재 틈 하나 = ① | ②.",
+   "stations": [
+    {
+     "herb": "白礬",
+     "where": "왼쪽 첫째(① 성기게 · 結晶水 없앰)",
+     "action": "숯 위에서 밥공기의 흰 결정이 뻥튀기처럼 부풀며 흰 물김을 뿜고 옆 붕붕카를 밈",
+     "touches": "硼砂"
+    },
+    {
+     "herb": "硼砂",
+     "where": "둘째(①)",
+     "action": "밀린 붕붕카가 사슴을 태운 채 붕 떠올라 옆 석쇠를 들이받음",
+     "touches": "石決明"
+    },
+    {
+     "herb": "石決明",
+     "where": "셋째(①)",
+     "action": "부딪혀 안경이 날아감",
+     "touches": "代赭石"
+    },
+    {
+     "herb": "代赭石",
+     "where": "넷째(①)",
+     "action": "숯 위에 대자로 누운 채 맨몸으로 달궈지고, 날아온 안경테가 자석에 착 붙음",
+     "touches": "牡蠣"
+    },
+    {
+     "herb": "牡蠣",
+     "where": "재 틈 너머 다섯째(② 收斂作用 강화)",
+     "action": "숯 위 모래 더미에 묻혀 모래찜질, 모래가 꽉 다져짐",
+     "touches": "赤石脂"
+    },
+    {
+     "herb": "赤石脂",
+     "where": "오른쪽 끝(②)",
+     "action": "완장 찬 팔로 작은 천 복주머니의 끈을 꽉 졸라맴(收斂)",
+     "touches": "—"
+    }
+   ],
+   "aux": "화로 숯불 · 작은 천 복주머니(收斂 — 예약표 「끈 조인 주머니」와 같은 뜻으로 빌림). 새 물건 8.",
+   "boundaries": "① | ② = 재 틈. 여섯 모두 숯 위(②를 불 밖으로 빼지 않음). 혼동 짝: 明煅 = 맨불, 그릇 · 액체 없음 ↔ P18 煅淬(양동이 치익) · 悶煅(봉한 단지). 代赭石은 P18에도 나옴. 학습층: 본초.docx 明煅에 龍骨.",
+   "prompt_en": "Cartoon illustration, 16:9 landscape, bright clean colors, one continuous kitchen-workshop workbench scene read left to right like a domino chain. Absolutely no text, letters, numbers, labels, signs or symbols with writing anywhere in the image. At the right of the workbench a blacksmith's forge bed of glowing red charcoal; everything sits directly on the hot coals with no pots and no liquid. A narrow strip of grey ash divides the coal bed into a wide left part and a smaller right part. Left part, from left: a Korean home-style meal tray with a soup bowl and small side dishes, but the rice bowl holds a translucent white crystal lump instead of rice — on the coals the white crystal puffs up like popcorn, puffing off white steam and pushing its neighbor; a deer sitting in a small children's ride-on toy car, the toy car bouncing up into the air with little motion puffs beneath it; no license plate, no text — shoved, the toy car bounces up 'boing' and bumps the grill beside it; an abalone in its shiny iridescent shell wearing round eyeglasses while sitting on a metal grill grate — the bump knocks its eyeglasses flying; a red bar magnet with little arms and legs lying flat on its back, spread-eagle like a sprawled sleeper, plain red with no letters or N/S marks — lying right on the glowing coals, and the flying metal eyeglasses snap onto it. Right of the ash strip: a cute oyster with a face buried up to its shell lip in a small mound of sand, eyes closed blissfully like taking a sand bath, its sand mound packed tight on the coals; a chunky brick-red rock with a stubby little face, wearing a white armband that shows only a plain red cross symbol; no letters, pulling the drawstring of a small plain cloth pouch tightly shut with both hands.",
+   "score": 88,
+   "from": "p2 · p6 (硼砂 단서 p5)",
+   "batch": "Q3"
+  },
+  {
+   "id": "P18",
+   "method": "煅法 · 煅淬 + 悶煅",
+   "lyric": "자, 대자노! 혈건 (자대자노혈건)",
+   "setting": "왼쪽 반: 액체가 담긴 넓은 양동이, 벌건 것이 들어가며 치익 김 구름(hp-04 煅淬). 오른쪽 반: 뚜껑을 밧줄로 봉한 질그릇 단지, 연기 없음(hp-04 悶煅). 화로 · 집게는 그리지 않음 — 붉게 달아오른 빛으로 「煅」.",
+   "stations": [
+    {
+     "herb": "磁石",
+     "where": "왼쪽 첫째(煅淬 · 水火共制)",
+     "action": "쇠못 줄이 집게 노릇 — 벌겋게 달군 代赭石을 매달아 양동이에 담금, 치익",
+     "touches": "代赭石"
+    },
+    {
+     "herb": "代赭石",
+     "where": "양동이 속 왼쪽(煅淬)",
+     "action": "대자로 뻗은 채 벌겋게 달아 액체에 잠기며 김을 뿜음(P17 숯 위 맨몸과 가름)",
+     "touches": "自然銅"
+    },
+    {
+     "herb": "自然銅",
+     "where": "양동이 속 가운데(煅淬)",
+     "action": "벌겋게 달아오른 구리 동상이 김에 휩싸여 정강이까지 잠김",
+     "touches": "爐甘石"
+    },
+    {
+     "herb": "爐甘石",
+     "where": "양동이 물 위 오른쪽(煅淬)",
+     "action": "돌배를 저어 양동이를 건너고, 노 끝이 단지 쪽 연탄의 머리칼에 닿음",
+     "touches": "血餘炭"
+    },
+    {
+     "herb": "血餘炭",
+     "where": "빈틈 너머 오른쪽(悶煅 → 炭)",
+     "action": "긴 머리칼을 단지 뚜껑에 칭칭 감아 밧줄 삼아 봉함(hp-04 「밧줄 단지의 머리카락」)",
+     "touches": "乾漆"
+    },
+    {
+     "herb": "乾漆",
+     "where": "오른쪽 끝(悶煅 → 炭)",
+     "action": "붓으로 뚜껑 틈을 검게 옻칠해 공기를 막음",
+     "touches": "—"
+    }
+   ],
+   "aux": "넓은 액체 양동이 · 밧줄로 봉한 질그릇 단지. 새 물건 8(화로 · 집게 생략 — 사용자 확인).",
+   "boundaries": "煅淬 | 悶煅 = 김 구름이 끝나는 빈틈. 혼동 짝: 煅淬 = 달궈 액체에 치익(열린 양동이) ↔ 悶煅 = 밀폐(봉한 단지, 공기 없음 → 炭) ↔ P17 明煅 = 맨불. 磁石 ↔ 代赭石 = 은빛 U자 ↔ 붉은 막대(대자로). 학습층: 血餘炭-止血 · 乾漆-毒性緩和(교재 3550).",
+   "prompt_en": "Cartoon illustration, 16:9 landscape, bright clean colors, one continuous kitchen-workshop workbench scene read left to right like a domino chain. Absolutely no text, letters, numbers, labels, signs or symbols with writing anywhere in the image. Left half: a wide metal bucket full of liquid with a big hissing cloud of steam rising from it. At the far left, a shiny silver U-shaped horseshoe magnet with chains of iron nails clinging to both tips, no letters or marks — its chain of nails holds a glowing red-hot magnet and plunges it into the bucket with a hiss. In the bucket: a red bar magnet with little arms and legs lying flat on its back, spread-eagle like a sprawled sleeper, plain red with no letters or N/S marks, glowing red-hot and half sunk in the liquid, steam bursting around it; a bearded mountain hermit holding an axe, entirely turned into a shiny copper-bronze statue on a small rock base, glowing red and standing shin-deep in the bucket, wrapped in steam; and on the water surface a cheerful round orange persimmon with a small face sits in a little boat carved from grey stone and rows it with a wooden oar, rowing across the bucket, the tip of its oar reaching right toward the next figure. A clear gap where the steam ends. Right half: a brown clay jar with its lid tightly sealed, no smoke at all. a black round coal briquette with holes, long flowing hair and little arms, a blood pressure cuff with a blank dial wrapped on its arm — its long hair is wound tightly around the jar lid as the binding rope. Far right: a hardtack biscuit (geonppang) being painted glossy black lacquer with a brush, dripping and shining, the brush painting the seam of the jar lid shut with glossy black lacquer.",
+   "score": 85,
+   "from": "p5 · p4 (경계 p6)",
+   "batch": "Q3"
+  },
+  {
+   "id": "P19",
+   "method": "蒸法 ① — ① 性能變化·用藥範圍 | ② 副作用減少",
+   "lyric": "지하 | 황대",
+   "setting": "pilot-cho 부엌 작업대 그대로, 팬 자리에 작업대 길이만 한 직사각형 대나무 찜기 하나(가운데 대나무 칸막이)가 약한 불 위에서 김을 뿜는다. 왼칸 앞 바닥에 둥근 맨홀 구멍(何首烏 피규어의 일부). 새 물건 여섯: 찜기 · 날생선 + 피규어 넷",
+   "stations": [
+    {
+     "herb": "熟地黃(교재 地黃)",
+     "where": "왼쪽 첫째 · 찜기 왼칸 안",
+     "action": "김 속에서 검은 지하 황제가 숙제 노트를 펼친 채 머리로 찜기 뚜껑을 밀어 올림. 칸 가장자리에 하얀 날생선 한 마리가 버려져 있음(生 → 熟 = 性能變化)",
+     "touches": "何首烏 — 들린 뚜껑 틈으로 김이 쏟아져 앞 바닥 맨홀로 흘러듦"
+    },
+    {
+     "herb": "何首烏",
+     "where": "왼쪽 둘째 · 왼칸 앞 바닥 맨홀",
+     "action": "김이 들자 윤기 나는 검은 머리 오뚝이가 맨홀에서 솟아 크게 까딱임(검은 머리 = 熟 · 烏鬚髮)",
+     "touches": "黃精 — 기운 몸이 칸막이를 넘어 마네킹을 툭"
+    },
+    {
+     "herb": "黃精",
+     "where": "셋째 · 찜기 오른칸 안",
+     "action": "김에 부푼 꽉 낀 노란 정장 마네킹의 단추가 튕겨 나감",
+     "touches": "大黃 — 튕긴 단추 하나가 황소 이마로"
+    },
+    {
+     "herb": "大黃",
+     "where": "오른쪽 끝 · 찜기 오른쪽 끝에 붙은 왕좌",
+     "action": "단추가 이마에 톡 맞아도 왕좌에 앉은 채 눈을 반쯤 감고 배를 느긋이 쓰다듬음(副作用減少 — 瀉下가 순해짐)",
+     "touches": ""
+    }
+   ],
+   "aux": "대나무 찜기 = 蒸(물에 안 잠기고 김만 쬠 → P21 煮 솥과 가름). 날생선 = 地黃 가족의 生 표지 → 찐 뒤 숙제 黃帝 = 熟地黃. 학습층: 蒸法 = 輔料 加 혹 淸蒸(3552행), 蒸煮燀法은 輔料 없이도 生熟으로 性能 變化",
+   "boundaries": "찜기 가운데 대나무 칸막이 = ① | ②. ①은 「검어짐」(熟地黃 · 검은 머리 오뚝이), ②는 「순해짐」(편안한 황소)",
+   "prompt_en": "16:9 wide cartoon illustration, cheerful Sketchy-style mnemonic scene on a long wooden kitchen workbench, read strictly left to right. A long rectangular bamboo steamer runs along the workbench over a row of low flames, thick white steam rising; one bamboo divider splits it into a left and a right compartment. LEFT COMPARTMENT: A black-skinned emperor in robes and crown sitting in an underground burrow, earnestly doing homework in an open notebook with a pencil — he sits inside the steaming left compartment as if in his little burrow, notebook open, pushing the steamer lid up with the top of his head; one pale raw fish lies discarded on the rim beside him. Steam pours out from under the raised lid and down onto the floor just in front of the left compartment, onto the next figure: a roly-poly tumbler doll (round, bottom-weighted, wobbling) with glossy jet-black hair, popping half out of an open round sewer manhole and rocking side to side; it tips so far that its round body leans over the bamboo divider and bumps the next figure. RIGHT COMPARTMENT: A dress-form mannequin squeezed into a far-too-tight bright yellow business suit, its buttons popping off, standing in the steam; one popped button flies to the right and taps the forehead of A huge yellow bull sitting smugly on a big red-and-gold royal throne like a great king, no crown, placed at the right end of the steamer in its warm steam; the bull stays calm on the throne, eyes half closed, gently rubbing its belly. Only these four characters, the steamer and the fish. Absolutely no text, letters, numbers, labels, signs or speech bubbles anywhere.",
+   "score": 93,
+   "from": "p5 · p4(蒸=김만 쬠) · p1 · p6(가사 쉼)",
+   "batch": "Q4"
+  },
+  {
+   "id": "P20",
+   "method": "蒸法 ② — ③ 藥效保存·貯藏 | ④ 切片 쉬움",
+   "lyric": "황상 | 목",
+   "setting": "P19와 같은 찜기, 뚜껑을 열어 꺼내는 중(P19 넣음 → P20 꺼냄). 찜기 오른쪽에 문 열린 작은 철제 금고(③), 빈 틈, 그 오른쪽 나무 도마(④). 새 물건 여섯: 찜기 · 금고 · 도마 + 피규어 셋",
+   "stations": [
+    {
+     "herb": "黃芩",
+     "where": "왼쪽 첫째 · 찜기에서 금고로",
+     "action": "김이 피어오르는 황금괴가 찜기에서 미끄러져 나와 열린 금고 속으로 쏙 들어감(貯藏)",
+     "touches": "桑螵蛸 — 미끄러지며 사마귀 등을 침"
+    },
+    {
+     "herb": "桑螵蛸",
+     "where": "둘째 · 금고 옆",
+     "action": "등을 맞은 초록 사마귀가 빈 택 달린 앞발로 금고 문을 쾅 닫음(③ 保存·貯藏)",
+     "touches": "木瓜 — 다른 앞발 낫을 빈 틈 너머 도마로 뻗음"
+    },
+    {
+     "herb": "木瓜(교재 宣木瓜)",
+     "where": "오른쪽 끝 · 도마 위",
+     "action": "김에 물러진 모과 아령의 모과 한쪽이 사마귀 낫에 얇게 저며져 조각이 부채처럼 펼쳐짐(④ 切片)",
+     "touches": ""
+    }
+   ],
+   "aux": "금고 = 藥效保存·貯藏(단지가 아님 — P22 複製 단지와 가름). 도마 = 切片. 학습층: 桑螵蛸는 사마귀 알집이라 쪄서 蟲卵을 죽여야 저장된다 · 黃芩은 쪄서 효소를 죽여 藥效 보존(p4) · 교재 표기 宣木瓜",
+   "boundaries": "금고와 도마 사이 빈 틈 = ③ | ④. 사마귀 낫이 틈을 넘는 순간이 경계",
+   "prompt_en": "16:9 wide cartoon illustration, cheerful Sketchy-style mnemonic scene on a long wooden kitchen workbench, read strictly left to right. On the left, the same long bamboo steamer as before with its lid off, warm steam drifting out. A big shining gold bar (gold ingot) with a happy face, still steaming, slides out of the steamer and straight into a small open iron safe standing just to its right, bumping the back of A bright green praying mantis with a blank price tag hanging on a string from its foreleg; the tag is left blank on the way; the mantis slams the safe door shut with one foreleg. After a clear empty gap to the right lies a plain wooden cutting board holding A dumbbell made of a wooden bar with a lumpy pale-green quince fruit stuck on each end; the mantis stretches its other sickle-like foreleg across the gap and shaves one soft, steamed quince end of the dumbbell into thin slices that fan out on the board. No knife. Only these three characters, the steamer, the safe and the cutting board. Absolutely no text, letters, numbers, labels, signs or speech bubbles anywhere.",
+   "score": 92,
+   "from": "p5 · p3 · p1 · p4(낫으로 썲)",
+   "batch": "Q4"
+  },
+  {
+   "id": "P21",
+   "method": "煮法 (① 毒性減少 ② 藥效增加 ③ 깨끗하게) | 燀法 (種皮 分離)",
+   "lyric": "천원진 | 행백 (삶아 천원진 · 데쳐 행백)",
+   "setting": "같은 작업대. 왼쪽 센 불 위 뚜껑 반쯤 열린 깊은 큰 솥이 펄펄 오래 끓음(煮), 가운데 빈 틈, 오른쪽 뚜껑 없는 얕은 냄비 + 구멍 뚫린 뜰채(燀), 냄비 오른쪽 작업대 위로 杏仁 피규어의 횡단보도 줄무늬. 새 물건 여덟: 솥 · 냄비 · 뜰채 + 피규어 다섯",
+   "stations": [
+    {
+     "herb": "川烏",
+     "where": "왼쪽 첫째 · 깊은 솥 안",
+     "action": "천막 쓴 까마귀가 끓는 물에 잠겨 고개만 내밀고, 머리 위 보라 독 연기가 옅어지며 걷힘(① 毒性減少)",
+     "touches": "遠志 — 걷히는 김이 소년 망원경에 닿음"
+    },
+    {
+     "herb": "遠志",
+     "where": "둘째 · 솥 오른쪽 가장자리",
+     "action": "김을 쐰 망원경이 쭉 두 배로 길어짐(② 藥效增加), 늘어난 끝이 솥 속 진주를 톡",
+     "touches": "珍珠"
+    },
+    {
+     "herb": "珍珠",
+     "where": "셋째 · 솥 오른쪽 위",
+     "action": "끓는 거품에 때가 씻겨 반짝이며 튀어 올라(③ 깨끗하게) 빈 틈을 넘어 뜰채로 굴러감",
+     "touches": "杏仁"
+    },
+    {
+     "herb": "杏仁",
+     "where": "넷째 · 냄비 위 뜰채 → 횡단보도",
+     "action": "뜰채로 끓는 물에 잠깐 담겼다 나온 살구씨가 한 손을 번쩍 들고 횡단보도를 건너며 얇은 갈색 씨껍질을 외투처럼 벗어 던짐",
+     "touches": "白扁豆 — 던진 껍질이 콩에 맞음"
+    },
+    {
+     "herb": "白扁豆(교재 萹豆)",
+     "where": "오른쪽 끝",
+     "action": "흰 붕대는 머리에 그대로, 관자놀이를 짚은 채 몸의 얇은 흰 씨껍질이 미끄러져 벗겨짐(種皮 分離)",
+     "touches": ""
+    }
+   ],
+   "aux": "煮 = 뚜껑 덮은 깊은 솥 · 센 불 · 물에 잠겨 오래 / 燀 = 뚜껑 없는 얕은 냄비 + 뜰채 · 잠깐. 독 연기 걷힘 = 毒性減少(P22와 같은 문법). 학습층: 煮法 輔料 加/無 — 芫花 醋煮 · 烏頭 두부와 함께 煮(그림엔 없음, 여덟 한도) · 燀 = 水燙, 有效成分 보존 · 非藥用部分 제거",
+   "boundaries": "솥과 냄비 사이 빈 틈 = 煮 | 燀. 진주가 틈을 넘어 뜰채로 구르는 순간이 경계. 煮 안의 ①②③은 솥 안 → 망원경 → 튀어 오르는 진주 순",
+   "prompt_en": "16:9 wide cartoon illustration, cheerful Sketchy-style mnemonic scene on a long wooden kitchen workbench, read strictly left to right. LEFT: a deep, large pot with its lid half open boils hard over a strong flame, lots of steam. Inside it, a black crow wearing a small canvas camping tent over its body like a shell, only its beaked head poking out of the tent flap, submerged in the boiling water up to its neck; above its head a wisp of purple poison smoke is fading away to nothing. On the pot's right rim stands a curious boy peering through a long telescope while holding an unfolded old map with no writing on it; the steam has made his telescope stretch out to twice its length, and its far tip taps a pearl in the pot: One large lustrous pearl gleaming with soft rainbow highlights, which bursts up out of the bubbles sparkling clean and rolls across a clear empty gap to the right. RIGHT: a shallow lidless pot of boiling water with a slotted ladle; the pearl rolls toward the ladle, from which an apricot kernel character with a face raising one hand high while walking across a zebra crosswalk has just been briefly dipped and lifted out; the zebra crosswalk stripes run along the workbench, and as the kernel walks across them with one hand raised it flings off a thin brown seed skin like a coat. The skin hits A flat white bean with a white bandage wrapped around its head, pressing one hand to its temple with a pained grimace at the far right; the white bandage stays wrapped on its head, while a thin papery white skin slides off its body. Only these five characters, the two pots and the ladle. Absolutely no text, letters, numbers, labels, signs or speech bubbles anywhere.",
+   "score": 89,
+   "from": "p6 · p1(가사 동사) · p4(뚜껑 · 깊이 가름) · p2(망원경 길어짐)",
+   "batch": "Q4"
+  },
+  {
+   "id": "P22",
+   "method": "複製法 — ① 治療效果增加·毒性減少 | ② 藥性 變化",
+   "lyric": "백반 | 천",
+   "setting": "같은 작업대. 왼→오 입 넓은 둥근 단지 셋이 한 줄(여러 보료를 정해진 순서로 거침 = 複製, 단지 하나에 바르는 炙와 가름): 단지 A = 노란 생강 조각 + 흰 백반 결정(new-etc-18 첫째 단지), 단지 B = 우윳빛 석회물 + 감초 막대(hp-04 生半夏 법제 표지), 빈 틈, 단지 C = 짙은 초록 쓸개즙 + 위에 빨간 불꽃(new-etc-18 둘째 단지). 새 물건 여섯: 단지 셋 + 피규어 셋",
+   "stations": [
+    {
+     "herb": "白附子",
+     "where": "왼쪽 첫째 · 단지 A 안",
+     "action": "생강 조각 · 백반 결정 사이에 허리까지 잠긴 하얀 부자가 분첩을 두드림, 머리 위 보라 독 연기가 옅어짐(① 毒性減少 · 祛風逐痰↑)",
+     "touches": "半夏 — 날린 흰 가루가 하마 코로"
+    },
+    {
+     "herb": "半夏",
+     "where": "둘째 · 단지 A와 B 사이 → 단지 B",
+     "action": "재채기하며 두 뒷발이 반바지 한 다리에 낀 채 넘어져 석회물 · 감초 막대 단지 B에 풍덩, 독 연기 걷힘(① 毒性減少)",
+     "touches": "天南星 — 튄 물보라가 빈 틈 넘어 천하장사에게"
+    },
+    {
+     "herb": "天南星",
+     "where": "오른쪽 끝 · 단지 C 옆",
+     "action": "물보라에 놀라 들어 올린 노란 큰 별(색 그대로)을 쓸개즙 단지 C에 푹 담금 → 단지 위 빨간 불꽃이 파란 눈송이로 바뀜(② 辛溫 → 苦凉 = 膽南星)",
+     "touches": ""
+    }
+   ],
+   "aux": "단지 여럿을 차례로 = 複製(정해진 순서대로 반복). 독 연기 걷힘 = 毒性減少(P21과 같음). 불꽃 → 눈송이 = 藥性變化(new-etc-18과 같음). 학습층: 白附子-生薑·白礬 / 半夏-甘草·石灰 / 天南星-苦寒한 膽汁(3556행). 가사 「백반」은 단지 A의 白礬과 소리가 같다 — 白附子를 白礬에 制한다는 고리로 읽음(P17 明煅 白礬과는 다른 장)",
+   "boundaries": "단지 B와 C 사이 빈 틈 = ① | ②. ①은 독 연기 걷힘, ②는 불꽃 → 눈송이",
+   "prompt_en": "16:9 wide cartoon illustration, cheerful Sketchy-style mnemonic scene on a long wooden kitchen workbench, read strictly left to right. Three open wide-mouthed round ceramic jars stand in a row, their contents visible from the open tops. JAR 1 (left) holds yellow ginger slices and white crystal lumps; sitting in it up to his waist is a plump rich man in an all-white suit patting his chalk-white face with a big powder puff, white powder puffing in the air, hugging a white money sack; above his head a wisp of purple poison smoke is fading away. The white powder from his puff blows right into the nose of A grey hippo wearing bright shorts, both hind legs stuck in one leg of the shorts, toppling over with a surprised face, who sneezes and topples, both hind legs stuck in one leg of the shorts, splashing into JAR 2, which holds milky white lime water with a licorice root stick; the purple smoke above the hippo fades too. The splash flies across a clear empty gap to the right, where a burly Korean ssireum wrestler champion in a satba belt decorated with a star, triumphantly lifting a giant yellow star over his head is startled and plunges the big yellow star (it stays yellow) into JAR 3, full of dark green bile; above JAR 3 a small red flame is turning into a blue snowflake. Only these three characters and the three jars. Absolutely no text, letters, numbers, labels, signs or speech bubbles anywhere.",
+   "score": 90,
+   "from": "p5(단지 셋 줄) · p3(쓸개 · 溫→凉) · new-etc-18 · hp-04",
+   "batch": "Q4"
+  }
+ ]
+}

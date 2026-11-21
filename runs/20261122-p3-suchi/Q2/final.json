@@ -1,0 +1,269 @@
+{
+ "batch": "Q2",
+ "sheets": [
+  {
+   "id": "P07",
+   "method": "加輔料炒 · 砂炒",
+   "lyric": "구천호 / 마 / 골마",
+   "setting": "pilot 작업대의 긴 팬에 뜨거운 굵은 모래(아지랑이), 센 주황 불(加輔料炒 = 溫度↑). 모래턱 둘로 ① | ② | ④ 세 칸.",
+   "stations": [
+    {
+     "herb": "狗脊",
+     "where": "왼쪽 칸 첫째",
+     "action": "뜨거운 모래에 발을 데어 펄쩍, 들보에 머리를 박으며 뒷발로 모래를 걷어참",
+     "touches": "穿山甲"
+    },
+    {
+     "herb": "穿山甲",
+     "where": "왼쪽 칸 둘째",
+     "action": "걷어찬 모래를 맞은 모래 바위 둔덕을 드릴처럼 뚫고 튀어나옴, 파편이 오른쪽으로",
+     "touches": "虎骨"
+    },
+    {
+     "herb": "虎骨",
+     "where": "왼쪽 칸 셋째",
+     "action": "날아온 파편을 통뼈 방망이로 받아침, 방망이 끝이 바삭한 부스러기로 떨어짐(① 調制 便利)",
+     "touches": "馬錢子"
+    },
+    {
+     "herb": "馬錢子",
+     "where": "둘째 모래턱에 걸쳐 누움(머리 = 가운데 칸, 꼬리 = 오른쪽 칸)",
+     "action": "부스러기를 맞고 뻣뻣이 넘어짐, 엽전 문 입 위 보라 독구름이 흩어짐(② 毒性減少)",
+     "touches": "骨碎補"
+    },
+    {
+     "herb": "骨碎補",
+     "where": "오른쪽 칸, 말 엉덩이 위",
+     "action": "뻣뻣한 말꼬리가 솔처럼 쓸고, 뼈 끝과 말꼬리의 잔털이 뜨거운 모래에 그을려 떨어져 깨끗해짐(④ 洗淨 便利, 마 · 골 · 마 = 머리 · 뼈 · 꼬리)",
+     "touches": ""
+    }
+   ],
+   "aux": "뜨거운 굵은 모래 · 모래턱 둘 · 보라 독구름(毒性↓ 공용) · 그을린 잔털",
+   "boundaries": "① 調制 便利 = 狗脊 · 穿山甲 · 虎骨(왼쪽 칸, 바삭한 부스러기) | ② 毒性減少 = 馬錢子 머리(가운데 칸, 독구름 흩어짐) | ④ 洗淨 便利 = 骨碎補 · 馬錢子 꼬리(오른쪽 칸, 잔털 그을려 떨어짐). 馬錢子 한 마리가 둘째 턱에 걸쳐 두 번 몫. 砂 = 뜨거움(滑石 = 미끄러움과 가름). 물 · 대야를 그리지 않음(洗淨을 물 씻기로 읽지 않게).",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines, simple light kitchen background. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture, including on bottles, containers and maps. Setting: a long wooden kitchen workbench seen from the front. One very long, shallow rectangular frying pan runs along almost the whole bench, filled with hot, coarse golden-brown sand shimmering with heat haze, over a row of strong, tall orange flames (high heat). Two low sand ridges divide the pan into three zones: a wide left zone, a middle zone and a right zone. LEFT ZONE, from left: (1) an absurdly tall, lanky dog standing on its hind legs with a ramrod-straight spine, its head bumping against a ceiling beam; its paws have just touched the hot sand, so it has hopped up in pain, and its hind paw kicks a spray of hot sand to the right. (2) a scaly pangolin spinning like a drill as it bursts out through a small rocky mountain, rubble flying; the mountain is a small sand-and-rock mound in the pan, and the rubble flies to the right. (3) an ordinary orange tiger with bold black stripes (no clock) swinging a thick bone like a baseball bat, no text; it bats the flying rubble, and the end of its bone bat flakes off in dry, crisp crumbs that fly over the first ridge. MIDDLE AND RIGHT ZONES: (4) a brown horse lying stiffly on its side with its legs rigid and straight, an old brass coin with a square hole clenched in its teeth, no text; hit by the crumbs, it has toppled and lies across the second ridge, its head with the coin in the middle zone, where a small dark-purple poison cloud above its mouth is breaking apart into fading wisps, and its hindquarters and tail in the right zone. (5) a cartoon bone snapped in the middle and held together by a metal orthopedic brace with screws, wincing, standing on the horse's hip in the right zone; the horse's rigid tail swings up like a stiff brush against it, and little puffs of singed fuzz curl off both the bone's knobby ends and the horse's tail on the hot sand, leaving them clean. No water, no bowl, no washing. All characters stand in one left-to-right row like dominoes, slightly staggered front and back. Large, clear shapes, few objects. No skulls, no crowns, no ribbons, no extra characters.",
+   "score": 88,
+   "from": "p3 · p4 · p6"
+  },
+  {
+   "id": "P08",
+   "method": "加輔料炒 · 滑石粉炒 (蛤粉炒 = 대상 약 없음)",
+   "lyric": "상황 / 수 (「상황 수습」으로 읽음)",
+   "setting": "같은 작업대 · 긴 팬에 곱고 미끄러운 흰 활석 가루, 센 주황 불. 왼끝 라벨 없는 흰 베이비파우더 통(활석 = talc 실물). 가루 턱 하나로 ① | ②. 오른끝 작업대 위 빈 조개 접시.",
+   "stations": [
+    {
+     "herb": "象皮",
+     "where": "왼쪽 칸 첫째(왼끝 파우더 통 옆)",
+     "action": "피리 상아를 불어 흰 가루 구름을 일으킴, 몸이 뻥튀기처럼 부풀어 숭숭(① 質 疏松)",
+     "touches": "黃狗腎"
+    },
+    {
+     "herb": "黃狗腎",
+     "where": "왼쪽 칸 둘째",
+     "action": "가루에 재채기하며 네 발 신발로 미끄러운 가루 위를 오른쪽으로 미끄러짐, 몸도 부풂(①)",
+     "touches": "水蛭"
+    },
+    {
+     "herb": "水蛭",
+     "where": "오른쪽 칸",
+     "action": "미끄러져 온 개에 시험관이 부딪힘, 보라 독구름이 흩어지고 초록 악취 김이 하얀 김으로(② 毒性 · 氣味矯正)",
+     "touches": ""
+    }
+   ],
+   "aux": "흰 활석 가루 · 베이비파우더 통 · 빈 조개 접시 · 보라 독구름",
+   "boundaries": "① 質 疏松 = 象皮 · 黃狗腎(부풀어 숭숭) | ② 毒性 내림 · 氣味矯正 = 水蛭(독구름 흩어짐 + 악취 김 → 하얀 김). 빈 조개 접시 = 蛤粉炒는 방법만 있고 교재 대상 약 없음. 滑石 = 미끄러짐(砂 = 뜨거움과 가름), 흰 가루 둘(滑石 · 蛤粉)은 파우더 통 ↔ 조개 접시로 가름.",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines, simple light kitchen background. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture, including on bottles, containers and maps. Setting: a long wooden kitchen workbench seen from the front. One very long, shallow rectangular frying pan runs along almost the whole bench, filled with fine, smooth, slippery white talc powder, over a row of medium-high orange flames. LEFT END: a plain round white baby-powder container with a soft powder puff on top (no label), tipped so white powder pours into the pan. A low powder ridge divides the pan into a wide left zone and a smaller right zone. LEFT ZONE: (1) an elephant whose two tusks are two wooden flutes instead of ivory; it blows its flute tusks and the music puffs up a white powder cloud; its body has puffed up round and spongy with tiny airy holes like a puffed rice cake, still clearly the elephant with two flute tusks. (2) a yellow Korean village dog wearing a shoe on each of its four paws; the powder cloud makes it sneeze, and it skids helplessly to the right on its four shoes across the slippery powder, its body also puffed up spongy. RIGHT ZONE: (3) a dark leech wearing tiny safety goggles, sucking water from a test tube through its mouth like a lab inspector; the skidding dog bumps its test tube; above the leech a dark-purple poison cloud breaks apart and a wavy green stink line turns into a clean white wisp. RIGHT END: on the bench beside the pan, a small open clam-shell dish that is completely empty. All characters stand in one left-to-right row like dominoes, slightly staggered front and back. Large, clear shapes, few objects. No skulls, no crowns, no ribbons, no extra characters.",
+   "score": 89,
+   "from": "p4 · p1 · p2(파우더 통)"
+  },
+  {
+   "id": "P09",
+   "method": "炙法 · 酒炙",
+   "lyric": "황대 / 당천 / 오",
+   "setting": "pilot 작업대 · 긴 팬에 옅은 술, 약한 파란 불(炙 = 溫度↓). 왼끝 라벨 없는 초록 술병(hp-04 · hp-02). 왼쪽 술 김 기둥.",
+   "stations": [
+    {
+     "herb": "黃連",
+     "where": "왼쪽, 술 김 기둥 위 공중",
+     "action": "술 김에 연잎째 위로 떠오름(① 上行)",
+     "touches": "大黃"
+    },
+    {
+     "herb": "大黃",
+     "where": "왼쪽, 연꽃 옆 공중",
+     "action": "왕좌째 위로 떠오름(① 上行), 늘어진 꼬리가 아래 당귀의 부채를 침",
+     "touches": "當歸"
+    },
+    {
+     "herb": "當歸",
+     "where": "가운데, 팬 안",
+     "action": "꼬리에 맞은 부채가 천궁의 시위에 부딪힘",
+     "touches": "川芎"
+    },
+    {
+     "herb": "川芎",
+     "where": "가운데, 당귀 오른쪽",
+     "action": "날개에 걸린 시위가 튕겨 화살이 나감, 붉은 줄기를 막은 검붉은 덩어리를 뚫어 흐르게 함(② 活血通絡)",
+     "touches": "烏梢蛇"
+    },
+    {
+     "herb": "烏梢蛇",
+     "where": "오른쪽 끝",
+     "action": "화살이 꼬리 옆에 꽂히자 「오!」 하며 금빛 머리털이 곤두섬, 초록 악취 김이 하얀 김으로(③ 矯臭)",
+     "touches": ""
+    }
+   ],
+   "aux": "초록 술병 · 술 김 기둥 · 붉은 줄기를 막은 검붉은 덩어리 · 烏梢蛇(새 피규어)",
+   "boundaries": "① 上行 = 黃連 · 大黃(공중으로 뜸) | ② 活血通絡 = 當歸 · 川芎(막힌 붉은 줄기가 뚫림) | ③ 矯臭 = 烏梢蛇(악취 김 → 하얀 김, pilot 문법). 酒 = 위로 ↔ 醋(P10 · pilot) = 옆으로만 ↔ 鹽(P11 · P12) = 아래로. 醋의 活血止痛(꺾인 호스가 펴짐)과 갈리게 호스를 쓰지 않음.",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines, simple light kitchen background. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture, including on bottles, containers and maps. Setting: a long wooden kitchen workbench seen from the front. One very long, shallow rectangular frying pan runs along almost the whole bench, with a thin layer of pale golden wine in it, over a row of small, gentle blue flames (low heat). LEFT END: a green glass wine bottle with no label, tipped on the rim of the pan, pouring wine in. A tall column of wine vapor rises from the left part of the pan. LEFT, lifted high into the air by the rising wine vapor, clearly above the pan and going upward: (1) a yellow lotus flower with a cartoon face, scrunching its eyes and sticking its tongue out at a bitter taste, floating on a small lily pad, its lily pad floating up on the vapor; (2) a huge yellow bull sitting smugly on a big red-and-gold royal throne like a great king, no crown, no text, the whole throne rising up beside the lotus. The bull's tail dangles down and slaps the fan of the next character. MIDDLE, back down in the pan: (3) a donkey dressed as a noble lady with a pearl necklace and a fan; her fan is knocked into (4) a small winged angel archer whose wing is caught in the bowstring, looking flustered, whose caught bowstring twangs and accidentally shoots an arrow to the right. Between them, a thin red stream in the pan is blocked by a dark-red clot; the arrow pierces the clot and the red stream rushes freely on to the right. RIGHT END: (5) a slim, glossy jet-black snake whose head sprouts spiky, glowing golden hair standing straight up, wrapped in a flickering golden aura, its mouth open wide in a round shape of surprise, no text; the arrow lands beside its tail and it shouts in surprise; a wavy green stink line above it turns into a clean white wisp. No balloon, no hose, no ladder. All characters stand in one left-to-right row like dominoes, slightly staggered front and back. Large, clear shapes, few objects. No skulls, no crowns, no ribbons, no extra characters.",
+   "score": 90,
+   "from": "p3 · p1"
+  },
+  {
+   "id": "P10",
+   "method": "炙法 · 醋炙 ② · ③ (첫 장 pilot-cho = ① 유몰삼아시향청현)",
+   "lyric": "감대원상 / 오",
+   "setting": "pilot-cho 첫 장 그대로: 같은 작업대 · 긴 팬 · 약한 파란 불 · 옆으로만 흐르는 연노랑 식초, 왼끝 같은 투명 식초병.",
+   "stations": [
+    {
+     "herb": "甘遂",
+     "where": "왼쪽 첫째(식초병 옆)",
+     "action": "식초를 맞고 쇠창살을 흔들어 감옥 칸이 옆 무대를 들이받음",
+     "touches": "大戟"
+    },
+    {
+     "herb": "大戟",
+     "where": "왼쪽 둘째",
+     "action": "붉은 막이 오른쪽으로 펄럭임",
+     "touches": "芫花"
+    },
+    {
+     "herb": "芫花",
+     "where": "가운데",
+     "action": "막 바람에 지폐 꽃잎 몇 장이 날아감",
+     "touches": "商陸"
+    },
+    {
+     "herb": "商陸",
+     "where": "가운데 오른쪽",
+     "action": "꽃잎이 내려앉자 램프가 쿵 내려와 식초가 오른쪽으로 튐. 넷 위 보라 독구름이 식초 방울에 녹아 오른쪽으로 갈수록 옅어짐(② 毒性 · 副作用 감소)",
+     "touches": "五靈脂"
+    },
+    {
+     "herb": "五靈脂",
+     "where": "짧은 빈칸 뒤 오른쪽 끝",
+     "action": "튄 식초를 맞고 초록 악취 김이 하얀 김으로, 유령이 안도해 웃음(③ 矯臭矯味)",
+     "touches": ""
+    }
+   ],
+   "aux": "연노랑 식초병(공용) · 보라 독구름(왼쪽 짙고 오른쪽 옅음)",
+   "boundaries": "② 毒性 · 副作用 감소 = 甘遂 · 大戟 · 芫花 · 商陸(넷 위 독구름이 식초 방울에 녹음) | 짧은 빈칸 | ③ 矯臭矯味 = 五靈脂(乳香 · 沒藥은 첫 장). 순서는 사용자 가사 「감대원상」, 교재 순서 大戟 · 甘遂는 학습층에 적음. 흐름은 옆으로만(酒 위로 · 鹽 아래로와 가름). 해골 없음(補骨脂와 겹치지 않게).",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines, simple light kitchen background. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture, including on bottles, containers and maps. Setting: a long wooden kitchen workbench seen from the front. One very long, shallow rectangular frying pan runs along almost the whole bench over a row of small, gentle blue flames (low heat). A thin layer of pale-yellow vinegar covers the bottom of the pan and flows from left to right, sideways only, never upward. LEFT END: a tall, slim, clear glass bottle with a cork, full of pale-yellow vinegar, tipped on the rim so a stream of vinegar pours into the pan. FROM LEFT: (1) a prisoner in a black-and-white striped uniform gripping the iron bars of a small jail cell door with both hands, no fruit, no text; splashed by the vinegar, he shakes the bars hard and the little cell bumps the next one. (2) a grand theater stage front with gold columns and heavy red velvet curtains drawn open on an empty stage, no sign, no letters; the bump makes its red curtains billow out to the right. (3) a flower whose petals are plain green paper banknotes with no numbers, no text and no portraits; the gust blows a few banknote petals off it, still keeping most of its petals. (4) a shark riding a small military landing craft boat, bow ramp open; the petals flutter onto it and its ramp slams down, splashing vinegar to the right. Above these four characters hangs one big dark-purple poison cloud that dissolves into falling vinegar droplets, thick at the left and fading away toward the right. Then a short empty stretch of plain vinegar. RIGHT END: (5) a round orange fruit with a small white cartoon ghost clinging to it and wrapping its wispy arms around it; the splash reaches it, a wavy green stink line above it turns into a clean white wisp, and the ghost smiles with relief. No wine bottle, no extra bottles, no nose clip. All characters stand in one left-to-right row like dominoes, slightly staggered front and back. Large, clear shapes, few objects. No skulls, no crowns, no ribbons, no extra characters.",
+   "score": 89,
+   "from": "p6 · p1 · p5(옅어지는 독구름)"
+  },
+  {
+   "id": "P11",
+   "method": "炙法 · 鹽炙 ① a · b",
+   "lyric": "두파보 / 소귤여",
+   "setting": "작업대가 두 단(왼쪽 높은 단 · 오른쪽 낮은 단, 계단 하나), 단마다 긴 팬 · 약한 파란 불. 윗단 왼끝 물 양동이 + 흰 소금(hp-04 · hp-02), 소금물이 계단 아래로만 흐름.",
+   "stations": [
+    {
+     "herb": "杜仲",
+     "where": "윗단 첫째(양동이 옆)",
+     "action": "소금물이 충전선을 타고 흘러 번쩍, 불꽃이 오른쪽으로",
+     "touches": "巴戟天"
+    },
+    {
+     "herb": "巴戟天",
+     "where": "윗단 둘째",
+     "action": "불꽃에 대파가 지붕을 뚫고 솟음, 천장 조각이 날아감",
+     "touches": "補骨脂"
+    },
+    {
+     "herb": "補骨脂",
+     "where": "윗단 셋째 → 계단 위",
+     "action": "조각에 맞아 펼쳐지며 계단 아래로 날아 내려감(a 補肝腎 끝)",
+     "touches": "小茴香"
+    },
+    {
+     "herb": "小茴香",
+     "where": "아랫단 첫째",
+     "action": "떨어진 지도가 손잡이를 눌러 향 연기를 뿜음",
+     "touches": "橘核"
+    },
+    {
+     "herb": "橘核",
+     "where": "아랫단 둘째",
+     "action": "연기에 쪼개져 핵폭탄 씨가 튐",
+     "touches": "荔枝核"
+    },
+    {
+     "herb": "荔枝核",
+     "where": "아랫단 셋째",
+     "action": "날아온 씨가 반지 보석으로 박혀 자랑함(b 治疝 끝)",
+     "touches": ""
+    }
+   ],
+   "aux": "물 양동이 + 흰 소금 · 두 단 작업대",
+   "boundaries": "① 下行 a 補肝腎 = 杜仲 · 巴戟天 · 補骨脂(윗단) | 계단 | b 治疝 = 小茴香 · 橘核 · 荔枝核(아랫단). 교재 표기 杜冲 · 巴戟 = 사전 杜仲 · 巴戟天. 巴戟天(작은 극장 + 대파)은 P10 大戟(대극장 무대)과 「戟 = 극장」을 나누되 대파로 갈림.",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines, simple light kitchen background. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture, including on bottles, containers and maps. Setting: a long wooden kitchen workbench seen from the front. The bench is built in two levels: a higher level on the left and a lower level on the right, joined by one step. A long, shallow frying pan sits on each level over small, gentle blue flames. LEFT END on the higher level: a metal bucket full of water with a heap of white salt beside it, tipped so salty water flows into the upper pan and spills down over the step into the lower pan; every drip and stream goes downward. HIGHER LEVEL, from left: (1) a fat warty toad sitting contentedly with a phone charging cable plugged into its back and a small lightning-bolt glow; no battery numbers; salty water runs along its charging cable and it jolts with a bright spark that shoots to the right. (2) a small theater building with red stage curtains at its open front, and a giant green leek bursting up through its roof with bits of ceiling flying; no sign or lettering; the spark makes the leek burst up through the roof, and flying bits of ceiling hit the next one. (3) an old unrolled pirate treasure map with a dotted path, an X mark and a small skull symbol drawn on it; no writing; knocked by the debris, it flaps open and sails down over the step to the lower level. LOWER LEVEL: (4) a red fire extinguisher spraying swirling clouds of fragrant incense smoke out of its nozzle instead of foam; the falling map presses its handle and incense smoke sprays to the right. (5) an orange mandarin cut in half, its seed is a small finned nuclear bomb with a tiny mushroom-cloud puff; the smoke pops it open and its nuclear-bomb seed flies to the right. (6) an elegant woman proudly holding up her hand to show off a ring whose gemstone is a small brown seed shaped like a cartoon nuclear bomb; the flying seed has just landed as the gem of her ring, and she shows it off proudly. All characters stand in one left-to-right row like dominoes, slightly staggered front and back. Large, clear shapes, few objects. No skulls, no crowns, no ribbons, no extra characters.",
+   "score": 90,
+   "from": "p5 · p6"
+  },
+  {
+   "id": "P12",
+   "method": "炙法 · 鹽炙 ① c · ②",
+   "lyric": "차 / 지황",
+   "setting": "P11에 이어 세 단으로 내려가는 작업대, 단마다 긴 팬 · 약한 파란 불. 맨 위 단 왼끝 같은 물 양동이 + 흰 소금. 맨 아랫단 팬 밑에 키 큰 붉은 불꽃 하나.",
+   "stations": [
+    {
+     "herb": "車前子",
+     "where": "가운데 단",
+     "action": "계단을 굴러 내려가며 꽁무니로 소금물 줄기를 쭉 뿜어 아래로 빠짐(① c 利尿)",
+     "touches": "知母"
+    },
+    {
+     "herb": "知母",
+     "where": "맨 아랫단",
+     "action": "튄 물에 밀려 와 키 큰 붉은 불꽃 끝을 지우개로 지워 작은 파란 불로 낮춤(② 降火)",
+     "touches": "黃柏"
+    },
+    {
+     "herb": "黃柏",
+     "where": "맨 아랫단, 낮아진 불 옆",
+     "action": "팬 위에 놓인 지단 두 장에 물방울이 촉촉이 맺힘(② 滋陰)",
+     "touches": ""
+    }
+   ],
+   "aux": "같은 양동이 + 소금 · 세 단 작업대 · 키 큰 붉은 불꽃",
+   "boundaries": "① c 利尿 = 車前子(가운데 단, 아래로 물줄기 = 下行의 끝) | 계단 | ② 滋陰降火 = 知母(불꽃을 낮춤 — 끄지 않음) · 黃柏(물방울 = 滋陰, 맨 아랫단). 가사 「지황」은 地黃(P19)과 소리가 같음 → needs_user_ok.",
+   "prompt_en": "Bright, cheerful cartoon illustration, wide 16:9 format, flat clean colors, bold outlines, simple light kitchen background. Absolutely no text, no letters, no numbers, no signs, no labels and no writing anywhere in the picture, including on bottles, containers and maps. Setting: a long wooden kitchen workbench seen from the front. The bench is built in three levels stepping down from left to right: a short top level, a middle level and a bottom level, each with a shallow frying pan over small, gentle blue flames. LEFT END on the top level: a metal bucket full of water with a heap of white salt beside it, tipped so salty water runs down the steps; every drip and stream goes downward. MIDDLE LEVEL: (1) a silver microwave oven built as a little car with round wheels, headlights and a tiny steering wheel behind its glass door, no text; it rolls down the step, and a long stream of salty water squirts out of its rear and drains down to the lower level. BOTTOM LEVEL: under the pan, one tall red flame has flared up high among the small blue flames. (2) a soft cap with a big pink pencil eraser stuck on its top like a pompom; pushed by the splash, it rubs the top of the tall red flame away with its big eraser, leaving only a small, calm blue flame (the fire is lowered, not put out). (3) two thin round egg crepes stacked slightly offset, one bright yellow (yolk) and one pure white (egg white), with a few thin cut strips beside them, lying in the pan beside the lowered flame, beaded all over with fresh water droplets, moist and glistening. All characters stand in one left-to-right row like dominoes, slightly staggered front and back. Large, clear shapes, few objects. No skulls, no crowns, no ribbons, no extra characters.",
+   "score": 90,
+   "from": "p3 · p1"
+  }
+ ],
+ "new_dict": [
+  {
+   "hanja": "烏梢蛇",
+   "reading": "오초사",
+   "cue": "「오!」 하고 놀라며 금빛 머리털이 곤두선 초사이어인 검은 뱀(까마귀 없음)",
+   "draw_en": "A slim, glossy jet-black snake whose head sprouts spiky, glowing golden hair standing straight up, wrapped in a flickering golden aura, its mouth open wide in a round shape of surprise; single white-background sticker, no text.",
+   "decode": "「오!」(동그란 입의 외침) + 초사이어인의 「초사」 → 오초사. 검은 몸 = 烏, 뱀 = 蛇(뜻 받침). 烏頭類가 아니므로 까마귀 가족을 쓰지 않음",
+   "carriers": [
+    "초사이어인"
+   ],
+   "type": 2,
+   "score": 21
+  }
+ ],
+ "needs_user_ok": [
+  "烏梢蛇 새 피규어 「오! 초사이어인 검은 뱀」 채택 여부 — 烏梅 「오매!」와 외침이 겹침(그림은 뱀 ↔ 매실로 갈림). 차점 p5 「오이 초밥 삼킨 검은 뱀」(16점)",
+  "P12 가사 「차지황」 유지 ↔ p1 제안 「차 / 지모황백」(地黃 P19와 소리 겹침을 피함). 지금은 brief 가사대로 둠",
+  "목적 문법을 22장 공용으로 고정할지: 毒性↓ = 보라 독구름이 흩어짐 · 矯臭 = 초록 악취 김 → 하얀 김(pilot) · 上行 = 술 김 기둥 · 下行 = 아래 단으로 흐름 · 加輔料炒 = 센 주황 불 ↔ 炙 = 약한 파란 불(3540행). Q1 · Q3 · Q4 심사와 맞춰야 함"
+ ],
+ "check_needed": [
+  "교재 3537행 砂炒 ④ 「洗淨 便利」가 털(毛) 제거를 뜻하는지 — 그림은 잔털이 그을려 떨어지는 것으로 그림(물로 씻기 아님)",
+  "교재 3544행 鹽炙 ① 「下行」이 a 補肝腎 · b 治疝 · c 利尿 전체에 걸리는지 — P11~P12 계단을 ① c까지 이어 그렸고 ②는 맨 아랫단 불 낮추기로 따로 둠",
+  "교재 3537행 砂炒에 ③ 목적의 대상 약이 정말 없는지(brief는 ① ② ④만 적음)"
+ ]
+}

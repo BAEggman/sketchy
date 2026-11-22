@@ -4510,6 +4510,72 @@
    "station_sha256": "11e80f392366bf1346582fd7ec32e835283838c7d7c7470f0c2448f9e9453868",
    "original_wav_sha256": "8bc6ba9135b6fb8f4874457555596a1778955009384c2435478bfb0b6185492c",
    "original_wav_filename": "suchi-12.full.wav"
+  },
+  "suchi-13#0": {
+   "src": "audio/narration/suchi-13__s0__f6bc80f07b3b.mp3",
+   "text": "왼쪽 위에서 손 하나가 생강 뿌리를 꽉 쥐어짜. 즙이 사방으로 튀지, 생강즙, 생강즙이야. 생강즙은 교재 액체보료 목록에 들어. 액체 보료와 함께 볶아 약 속까지 스며들게 하는 게 자법이고, 생강즙으로 하면 강자법. 오른쪽 팬 밑 불이 약한 파란 불이지? 고체 보료로 볶을 때보다 온도는 낮게, 시간은 조금 길게. 이 작업대엔 셋이 섰어, 황죽, 후.",
+   "text_sha256": "f6bc80f07b3bd7c11d6630b6f20ee752ae06e0beeb5bd1a4d942b9cda07b3d41",
+   "audio_sha256": "2f1c2c9b734c593966c1f7faf6c05708153e76a2213e09f706a288610c98f6ba",
+   "image_sha256": "dfdccfcb3a46e38afc12dddef99f4a3d86b335bac564b190f2e165a8625f896b",
+   "source_commit": "b7b5f61896cb8b4184f6353bc8793a9113381726",
+   "station_sha256": "05f395e0f863bcb195ad3cf5cba5c50fb08ee467028f99426558f6e6b9873e1d",
+   "original_wav_sha256": "be86f5f808785ef05a0cbc4420d58d7efb8bd8c4e5749e133b9e56be1a490a71",
+   "original_wav_filename": "suchi-13.full.wav"
+  },
+  "suchi-13#1": {
+   "src": "audio/narration/suchi-13__s1__23a9b198a4ee.mp3",
+   "text": "맨 왼쪽은 쓴맛에 혀를 쭉 내밀고 찡그린 노란 연꽃. 노랑은 황, 연꽃은 련, 황련. 그 혀에 생강즙 방울이 똑똑 떨어져. 그러고는 연잎째 미끄러져 옆 죽솥 가장자리에 털썩 걸쳐, 위로 솟지 않고 아래로 내려앉아. 술로 볶는 주자에서 황련은 약을 위로 올리는 상행 쪽이었지? 황련은 주자 첫째에도, 여기 강자 첫째에도 나와.",
+   "text_sha256": "23a9b198a4ee5264a2949d258bcdaf638b081d8d9fc3bb5a87c29002890bb196",
+   "audio_sha256": "164aef31f5a539c252171c6fa3b544b1f66a89d42f35b8b8523fa088227faf55",
+   "image_sha256": "dfdccfcb3a46e38afc12dddef99f4a3d86b335bac564b190f2e165a8625f896b",
+   "source_commit": "b7b5f61896cb8b4184f6353bc8793a9113381726",
+   "station_sha256": "3a93ad5c554da930d64f430d8c614505fa6cbda063420e874022456ca64d9680",
+   "original_wav_sha256": "be86f5f808785ef05a0cbc4420d58d7efb8bd8c4e5749e133b9e56be1a490a71",
+   "original_wav_filename": "suchi-13.full.wav"
+  },
+  "suchi-13#2": {
+   "src": "audio/narration/suchi-13__s2__1660bda0b64b.mp3",
+   "text": "곱슬머리 여사님이 대나무 주걱으로 큰 죽솥을 저어. 죽 쑤는 여사님, 죽여. 연꽃이 솥 가장자리로 미끄러져 들자 주걱을 휘둘러 죽을 오른쪽 위로 확 뿜어 올려. 죽솥을 위장이라고 기억해, 화위지구, 그리고 거담지해. 이 첫째 목적은 황련 · 죽여 둘이야.",
+   "text_sha256": "1660bda0b64bd57018a68a1229e9e2ad03dc7a90981d779bbc3dc4ec1b378fd2",
+   "audio_sha256": "1a513368f73c081624d621f122711c06ee2e72e19fe83aec5b36364583318ba7",
+   "image_sha256": "dfdccfcb3a46e38afc12dddef99f4a3d86b335bac564b190f2e165a8625f896b",
+   "source_commit": "b7b5f61896cb8b4184f6353bc8793a9113381726",
+   "station_sha256": "604538168ed285c55f6ac326f0c261e704ea62597ad8f3059acbfbb6c9932e85",
+   "original_wav_sha256": "be86f5f808785ef05a0cbc4420d58d7efb8bd8c4e5749e133b9e56be1a490a71",
+   "original_wav_filename": "suchi-13.full.wav"
+  },
+  "suchi-13#3": {
+   "src": "audio/narration/suchi-13__s3__39a41b6f1586.mp3",
+   "text": "오른쪽 팬 안에 생강 조각 한 장이 꼿꼿이 서 있지? 이게 칸막이야. 이쪽은 화위지구 · 거담지해, 황련하고 죽여 둘. 칸막이 너머는 둘째 목적, 부작용 완화, 하나뿐이야.",
+   "text_sha256": "39a41b6f1586781595517d5fe868240c4e5092a88403e56ff5aa165f14b8205e",
+   "audio_sha256": "72412d459e09253f5d7b0610c05f12917622634979ec5ae61e4d5b2e1c83d71d",
+   "image_sha256": "dfdccfcb3a46e38afc12dddef99f4a3d86b335bac564b190f2e165a8625f896b",
+   "source_commit": "b7b5f61896cb8b4184f6353bc8793a9113381726",
+   "station_sha256": "f00360a1f03d19ae0dc41cab1731db04621b2fc7da0dfaf716f9b18f6718020d",
+   "original_wav_sha256": "be86f5f808785ef05a0cbc4420d58d7efb8bd8c4e5749e133b9e56be1a490a71",
+   "original_wav_filename": "suchi-13.full.wav"
+  },
+  "suchi-13#4": {
+   "src": "audio/narration/suchi-13__s4__0150610206a9.mp3",
+   "text": "칸막이 너머엔 하얀 호리병박. 머리 위에 나무 후추 그라인더가 떠 있어. 후추의 후, 박의 박, 후박. 여사님이 뿜은 죽에 맞아 그라인더가 빙글빙글 돌고 후추알이 쏟아져. 그런데 그 후추알이 발밑 생강즙에 떨어져 잠기지, 더 흩날리지 않아, 부작용 완화. 무슨 부작용인지는 교재에 적혀 있지 않아서, 그림도 후추가 잠기는 데까지만이야.",
+   "text_sha256": "0150610206a94d5faa4f51faddb793d11fb7b4263087ea5e6315a5febbab25c5",
+   "audio_sha256": "aa3129ce70aad059a31610f6feaa28a1e742c56f5f1b462f472b0dea8b3e94c6",
+   "image_sha256": "dfdccfcb3a46e38afc12dddef99f4a3d86b335bac564b190f2e165a8625f896b",
+   "source_commit": "b7b5f61896cb8b4184f6353bc8793a9113381726",
+   "station_sha256": "1b6b38f18726f393404fcda54ef0b2fd2d4fa0e9cc7b76beeccb7f65c383089d",
+   "original_wav_sha256": "be86f5f808785ef05a0cbc4420d58d7efb8bd8c4e5749e133b9e56be1a490a71",
+   "original_wav_filename": "suchi-13.full.wav"
+  },
+  "suchi-13#5": {
+   "src": "audio/narration/suchi-13__s5__c4ba717913f3.mp3",
+   "text": "한 바퀴. 손이 생강을 쥐어짜 즙이 연꽃 혀에 떨어지고, 연꽃이 죽솥으로 미끄러지고, 여사님이 죽을 뿜어 박 머리 위 그라인더를 돌리고, 후추알은 생강즙에 잠겨. 황죽, 후. 화위지구 · 거담지해는 황련 · 죽여, 부작용 완화는 후박. 지해는 다음 꿀 작업대 밀자에도 나와, 강자는 거담지해, 밀자는 윤폐지해. 황련은 주자에선 상행, 강자에선 화위야.",
+   "text_sha256": "c4ba717913f3f21df56d11644dc3662621c34c038e621f28b7779ee962828387",
+   "audio_sha256": "fb0039bf13d56867d3b5770dd606720b50417fe7cace9ac6cb41a6011f83ad2b",
+   "image_sha256": "dfdccfcb3a46e38afc12dddef99f4a3d86b335bac564b190f2e165a8625f896b",
+   "source_commit": "b7b5f61896cb8b4184f6353bc8793a9113381726",
+   "station_sha256": "2f9aa3ad5a83a5c493432752d780d065562f0b880cbb742ac5353d682fa7f2c8",
+   "original_wav_sha256": "be86f5f808785ef05a0cbc4420d58d7efb8bd8c4e5749e133b9e56be1a490a71",
+   "original_wav_filename": "suchi-13.full.wav"
   }
  }
 }

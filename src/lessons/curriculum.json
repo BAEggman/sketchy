@@ -1545,6 +1545,166 @@
        "level": 2
       },
       {
+       "lesson": "qiqing-01",
+       "level": 2,
+       "sub": "七情 장면",
+       "prereq": [
+        "hp-03"
+       ]
+      },
+      {
+       "lesson": "qiqing-02",
+       "level": 2,
+       "sub": "七情 장면",
+       "prereq": [
+        "hp-03"
+       ]
+      },
+      {
+       "lesson": "qiqing-03",
+       "level": 2,
+       "sub": "七情 장면",
+       "prereq": [
+        "hp-03"
+       ]
+      },
+      {
+       "lesson": "qiqing-04",
+       "level": 2,
+       "sub": "七情 장면",
+       "prereq": [
+        "hp-03"
+       ]
+      },
+      {
+       "lesson": "qiqing-05",
+       "level": 2,
+       "sub": "七情 장면",
+       "prereq": [
+        "hp-03"
+       ]
+      },
+      {
+       "lesson": "qiqing-06",
+       "level": 2,
+       "sub": "七情 장면",
+       "prereq": [
+        "hp-03"
+       ]
+      },
+      {
+       "lesson": "qiqing-07",
+       "level": 2,
+       "sub": "七情 장면",
+       "prereq": [
+        "hp-03"
+       ]
+      },
+      {
+       "lesson": "qiqing-08",
+       "level": 2,
+       "sub": "七情 장면",
+       "prereq": [
+        "hp-03"
+       ]
+      },
+      {
+       "lesson": "qiqing-09",
+       "level": 2,
+       "sub": "七情 장면",
+       "prereq": [
+        "hp-03"
+       ]
+      },
+      {
+       "lesson": "qiqing-10",
+       "level": 2,
+       "sub": "七情 장면",
+       "prereq": [
+        "hp-03"
+       ]
+      },
+      {
+       "lesson": "qiqing-11",
+       "level": 2,
+       "sub": "七情 장면",
+       "prereq": [
+        "hp-03"
+       ]
+      },
+      {
+       "lesson": "qiqing-12",
+       "level": 2,
+       "sub": "七情 장면",
+       "prereq": [
+        "hp-03"
+       ]
+      },
+      {
+       "lesson": "fan18-1",
+       "level": 2,
+       "sub": "十八反 장면",
+       "prereq": [
+        "hp-03"
+       ]
+      },
+      {
+       "lesson": "fan18-2",
+       "level": 2,
+       "sub": "十八反 장면",
+       "prereq": [
+        "hp-03"
+       ]
+      },
+      {
+       "lesson": "fan18-3",
+       "level": 2,
+       "sub": "十八反 장면",
+       "prereq": [
+        "hp-03"
+       ]
+      },
+      {
+       "lesson": "fan18-4",
+       "level": 2,
+       "sub": "十八反 장면",
+       "prereq": [
+        "hp-03"
+       ]
+      },
+      {
+       "lesson": "wei19-1",
+       "level": 2,
+       "sub": "十九畏 장면",
+       "prereq": [
+        "hp-03"
+       ]
+      },
+      {
+       "lesson": "wei19-2",
+       "level": 2,
+       "sub": "十九畏 장면",
+       "prereq": [
+        "hp-03"
+       ]
+      },
+      {
+       "lesson": "wei19-3",
+       "level": 2,
+       "sub": "十九畏 장면",
+       "prereq": [
+        "hp-03"
+       ]
+      },
+      {
+       "lesson": "wei19-4",
+       "level": 2,
+       "sub": "十九畏 장면",
+       "prereq": [
+        "hp-03"
+       ]
+      },
+      {
        "lesson": "new-etc-18",
        "level": 2
       }
@@ -1561,6 +1721,185 @@
       {
        "lesson": "hp-04",
        "level": 1
+      },
+      {
+       "lesson": "suchi-01",
+       "level": 2,
+       "sub": "修治 장면",
+       "prereq": [
+        "hp-04"
+       ]
+      },
+      {
+       "lesson": "suchi-02",
+       "level": 2,
+       "sub": "修治 장면",
+       "prereq": [
+        "hp-04"
+       ]
+      },
+      {
+       "lesson": "suchi-03",
+       "level": 2,
+       "sub": "修治 장면",
+       "prereq": [
+        "hp-04"
+       ]
+      },
+      {
+       "lesson": "suchi-04",
+       "level": 2,
+       "sub": "修治 장면",
+       "prereq": [
+        "hp-04"
+       ]
+      },
+      {
+       "lesson": "suchi-05",
+       "level": 2,
+       "sub": "修治 장면",
+       "prereq": [
+        "hp-04"
+       ]
+      },
+      {
+       "lesson": "suchi-06",
+       "level": 2,
+       "sub": "修治 장면",
+       "prereq": [
+        "hp-04"
+       ]
+      },
+      {
+       "lesson": "suchi-07",
+       "level": 2,
+       "sub": "修治 장면",
+       "prereq": [
+        "hp-04"
+       ]
+      },
+      {
+       "lesson": "suchi-08",
+       "level": 2,
+       "sub": "修治 장면",
+       "prereq": [
+        "hp-04"
+       ]
+      },
+      {
+       "lesson": "suchi-09",
+       "level": 2,
+       "sub": "修治 장면",
+       "prereq": [
+        "hp-04"
+       ]
+      },
+      {
+       "lesson": "suchi-10",
+       "level": 2,
+       "sub": "修治 장면",
+       "prereq": [
+        "hp-04"
+       ],
+       "see_also": [
+        "pilot-cho"
+       ]
+      },
+      {
+       "lesson": "suchi-11",
+       "level": 2,
+       "sub": "修治 장면",
+       "prereq": [
+        "hp-04"
+       ]
+      },
+      {
+       "lesson": "suchi-12",
+       "level": 2,
+       "sub": "修治 장면",
+       "prereq": [
+        "hp-04"
+       ]
+      },
+      {
+       "lesson": "suchi-13",
+       "level": 2,
+       "sub": "修治 장면",
+       "prereq": [
+        "hp-04"
+       ]
+      },
+      {
+       "lesson": "suchi-14",
+       "level": 2,
+       "sub": "修治 장면",
+       "prereq": [
+        "hp-04"
+       ]
+      },
+      {
+       "lesson": "suchi-15",
+       "level": 2,
+       "sub": "修治 장면",
+       "prereq": [
+        "hp-04"
+       ]
+      },
+      {
+       "lesson": "suchi-16",
+       "level": 2,
+       "sub": "修治 장면",
+       "prereq": [
+        "hp-04"
+       ]
+      },
+      {
+       "lesson": "suchi-17",
+       "level": 2,
+       "sub": "修治 장면",
+       "prereq": [
+        "hp-04"
+       ]
+      },
+      {
+       "lesson": "suchi-18",
+       "level": 2,
+       "sub": "修治 장면",
+       "prereq": [
+        "hp-04"
+       ]
+      },
+      {
+       "lesson": "suchi-19",
+       "level": 2,
+       "sub": "修治 장면",
+       "prereq": [
+        "hp-04"
+       ]
+      },
+      {
+       "lesson": "suchi-20",
+       "level": 2,
+       "sub": "修治 장면",
+       "prereq": [
+        "hp-04"
+       ]
+      },
+      {
+       "lesson": "suchi-21",
+       "level": 2,
+       "sub": "修治 장면",
+       "prereq": [
+        "hp-04"
+       ]
+      },
+      {
+       "lesson": "suchi-22",
+       "level": 2,
+       "sub": "修治 장면",
+       "prereq": [
+        "hp-04"
+       ]
       }
      ]
     },

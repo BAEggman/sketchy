@@ -5104,6 +5104,94 @@
    "station_sha256": "a62d22efef19c9204e874a8c0c20dfe81994442f298a1738fc94ca70a4595e9f",
    "original_wav_sha256": "d2a0ca58ce0c9bb6924918e63bd3176ac7af97c258b68e53653a4babacd577d1",
    "original_wav_filename": "suchi-22.full.wav"
+  },
+  "wei19-1#0": {
+   "src": "audio/narration/wei19-1__s0__1e4f6c430eb1.mp3",
+   "text": "이번 무대엔 보라 구름이 하나도 없어. 대신 짝마다 빨강 흰 줄무늬 바리케이드가 하나씩 서서 둘을 갈라놓고, 둘은 서로 등을 돌려 쳐다보지도 않아. 교재는 십구외를 십팔반과 나란히 배오금기에 넣었어, 함께 쓰지 않는 짝이란 뜻이야. 이름에 두려울 외 자가 들어서 칠정 상외와 헷갈리기 쉬운데, 상외는 한 약의 독을 다른 약이 눌러 줄여 주는 관계야. 그림에서는 구름이 흩어지지도 터지지도 않고, 그냥 막혀 있지. 두려워하는 앞 약이 늘 왼쪽이야, 유박, 수비, 낭밀.",
+   "text_sha256": "1e4f6c430eb1af8bf3bf94c306af958c8eac0b4499160c20d4670bcb17451183",
+   "audio_sha256": "278f0ce26296b02ae7b7394726936f6e4701e6a22553164e7012ae218a917b29",
+   "image_sha256": "571e83344dec1823b75fd60254ea4a2b48b01e5d95089386bed869d61b081383",
+   "source_commit": "86439bbc5e12ce38d8f4e9e72045190cb13a77d5",
+   "station_sha256": "52e66ef7eb87bf09a59f16de1adc2c585adacfdde9021da5474ec9fcc81cfa7e",
+   "original_wav_sha256": "78de0ab9a76f5d8564ac95fcb6c38c91916b364c4f3b6bd990f6b582efd5fe93",
+   "original_wav_filename": "wei19-1.full.wav"
+  },
+  "wei19-1#1": {
+   "src": "audio/narration/wei19-1__s1__069dc699c6fe.mp3",
+   "text": "맨 왼쪽, 울퉁불퉁한 노란 바위에서 초록빛 김이 모락모락, 썩은 달걀 냄새 나는 유황. 이름이 그대로 단서야. 그림에서는 김이 위로 피어오르는데, 바로 옆 바리케이드 너머엔 손대지 않아. 유황은 첫 짝의 두려워하는 쪽, 바리케이드 왼쪽이야.",
+   "text_sha256": "069dc699c6fe4f207c9ec9a5aa7aef1d33793c8b633f250984d118100c147bf6",
+   "audio_sha256": "0a39ffb57702b3a4a6adab97a386c16a1ac37b3f944fd116fe5bd03696e4759d",
+   "image_sha256": "571e83344dec1823b75fd60254ea4a2b48b01e5d95089386bed869d61b081383",
+   "source_commit": "86439bbc5e12ce38d8f4e9e72045190cb13a77d5",
+   "station_sha256": "55c3b67e3da6419182724f3cdc67ada8f23eef3fba9be05e49d610b0f05ae351",
+   "original_wav_sha256": "78de0ab9a76f5d8564ac95fcb6c38c91916b364c4f3b6bd990f6b582efd5fe93",
+   "original_wav_filename": "wei19-1.full.wav"
+  },
+  "wei19-1#2": {
+   "src": "audio/narration/wei19-1__s2__a030886155e9.mp3",
+   "text": "바리케이드 꼭대기에 거꾸로 매달린 갈색 박쥐가 바리케이드에 등을 돌리고 오른쪽을 보며 불 켠 양초를 쥐었어. 그림에서는 바리케이드에서 삐져나온 가는 막대에 매달렸지만, 바리케이드에 붙은 자리야. 박쥐의 박, 양초의 초, 박초. 양초는 초석 초 가족 표시야. 다음 장에 아이스크림 콘에 꽂힌 양초가 또 나오는데, 그건 아초, 삼릉과 짝이야. 유황의 짝은 박쥐 양초 박초, 시험은 이 둘 초를 바꿔 내.",
+   "text_sha256": "a030886155e9d4b5f6eaaac15fed0512c4252181ce2cc73375b03d1785378a68",
+   "audio_sha256": "5beb48f5142afa364b7232e88a7e73eaeef529f54b37da68654d2eeaa81a3f47",
+   "image_sha256": "571e83344dec1823b75fd60254ea4a2b48b01e5d95089386bed869d61b081383",
+   "source_commit": "86439bbc5e12ce38d8f4e9e72045190cb13a77d5",
+   "station_sha256": "574f9f9567de5b1ebf445b4d0f18e487f4c48ccbc9249f9dfcdf7ed9d492a462",
+   "original_wav_sha256": "78de0ab9a76f5d8564ac95fcb6c38c91916b364c4f3b6bd990f6b582efd5fe93",
+   "original_wav_filename": "wei19-1.full.wav"
+  },
+  "wei19-1#3": {
+   "src": "audio/narration/wei19-1__s3__694b01b10bd5.mp3",
+   "text": "조금 띄어서 둘째 짝. 금 간 유리 체온계에서 은빛 방울들이 다리를 달고 후다닥 도망쳐, 수은. 그림에서는 방울이 바리케이드 쪽으로 달리지만 넘어가진 않아, 바리케이드가 막고 있거든. 수은은 두려워하는 쪽, 왼쪽이야.",
+   "text_sha256": "694b01b10bd5eb65da3b36283ffd80a971f1eb881fdec139002c72b09b6c4896",
+   "audio_sha256": "382334b18c0bcb0b34ef561eb47396013509be27b46e63a1dcbb3acf1c87a1ee",
+   "image_sha256": "571e83344dec1823b75fd60254ea4a2b48b01e5d95089386bed869d61b081383",
+   "source_commit": "86439bbc5e12ce38d8f4e9e72045190cb13a77d5",
+   "station_sha256": "e46c9c1f1baa5bf19848917956d4fd25ae9053bd8b4dac50825f52a4edc70a97",
+   "original_wav_sha256": "78de0ab9a76f5d8564ac95fcb6c38c91916b364c4f3b6bd990f6b582efd5fe93",
+   "original_wav_filename": "wei19-1.full.wav"
+  },
+  "wei19-1#4": {
+   "src": "audio/narration/wei19-1__s4__2cd5a3eefa6a.mp3",
+   "text": "바리케이드 너머에 옆으로 돌아 달린 빨간 비상벨이 바리케이드에 등을 보이고 따르릉 따르릉. 비상벨에서 벨만 떼면 비상. 수은과 비상은 둘 다 임신금용 줄 맨 앞에도 나란히 나와, 수비, 같이 외워.",
+   "text_sha256": "2cd5a3eefa6a43f394d82ad0fa5cf8ad30df873ba7dcb91658f91f92891deda6",
+   "audio_sha256": "b20fde235a57cbb634ebf454203cd1e72c83fecc22eead85e16ae9116cfde485",
+   "image_sha256": "571e83344dec1823b75fd60254ea4a2b48b01e5d95089386bed869d61b081383",
+   "source_commit": "86439bbc5e12ce38d8f4e9e72045190cb13a77d5",
+   "station_sha256": "05edfdea8672e59ed4a011fdedd6000e348d412b6ece15ce8569819502ead5fd",
+   "original_wav_sha256": "78de0ab9a76f5d8564ac95fcb6c38c91916b364c4f3b6bd990f6b582efd5fe93",
+   "original_wav_filename": "wei19-1.full.wav"
+  },
+  "wei19-1#5": {
+   "src": "audio/narration/wei19-1__s5__d2d8cc7ad03a.mp3",
+   "text": "셋째 짝 왼쪽, 두 발로 선 늑대가 책을 펼치고 왼쪽을 보며 큰 소리로 읽어. 낭독, 낭독. 늑대가 이리 낭이니까 소리도 뜻도 맞아. 등은 바리케이드 쪽이고, 그림에서는 꼬리만 바리케이드 뒤로 살짝 넘어가 있어.",
+   "text_sha256": "d2d8cc7ad03afc8783f9b2ee7da800f7247b3ec3c2d770413622eecba5c39644",
+   "audio_sha256": "b3fe019d3110f8fb2012dbfc183c0497b86a2aed924e614dde75ba070e86cbdc",
+   "image_sha256": "571e83344dec1823b75fd60254ea4a2b48b01e5d95089386bed869d61b081383",
+   "source_commit": "86439bbc5e12ce38d8f4e9e72045190cb13a77d5",
+   "station_sha256": "a56946318516745000a0b17ce2f549406a691158debebd6e30fbcbeed13f4965",
+   "original_wav_sha256": "78de0ab9a76f5d8564ac95fcb6c38c91916b364c4f3b6bd990f6b582efd5fe93",
+   "original_wav_filename": "wei19-1.full.wav"
+  },
+  "wei19-1#6": {
+   "src": "audio/narration/wei19-1__s6__5ec73caffe4a.mp3",
+   "text": "맨 오른쪽, 회색 승복의 스님이 고집 센 낙타 엉덩이를 두 손으로 영차 밀어. 밀고, 낙타, 승려, 밀타승. 늑대 쪽이 아니라 오른쪽 바깥으로 밀어내지? 짝끼리 만나지 않게 멀어지는 거야.",
+   "text_sha256": "5ec73caffe4aca6bb9db587b3385b1f49f9e961777d698312ba75f0b54b360e1",
+   "audio_sha256": "c45588bdc4d4d5073cc696e613b79907fc2e239e0c13eca26f126105ba118ce6",
+   "image_sha256": "571e83344dec1823b75fd60254ea4a2b48b01e5d95089386bed869d61b081383",
+   "source_commit": "86439bbc5e12ce38d8f4e9e72045190cb13a77d5",
+   "station_sha256": "377fd7d75cca2f25067a857ed3dcc028c312fcede51542b994f6e5a4250c82b7",
+   "original_wav_sha256": "78de0ab9a76f5d8564ac95fcb6c38c91916b364c4f3b6bd990f6b582efd5fe93",
+   "original_wav_filename": "wei19-1.full.wav"
+  },
+  "wei19-1#7": {
+   "src": "audio/narration/wei19-1__s7__c785c60346b8.mp3",
+   "text": "한 바퀴 다시. 냄새 나는 유황 바위 바리케이드 양초 박쥐, 도망치는 수은 방울 바리케이드 비상벨, 책 읽는 늑대 바리케이드 낙타 미는 스님. 유박, 수비, 낭밀. 구름이 없으니 독을 줄여 주는 상외가 아니야, 십구외는 배오금기, 함께 쓰지 않는 짝이야. 유황의 짝은 박초, 삼릉의 짝은 아초, 양초 둘을 헷갈리지 마.",
+   "text_sha256": "c785c60346b860e9240ff52ec83f36e10cfc43de0ed2fd2c7483ad011f4ff93a",
+   "audio_sha256": "8d7546d161fcc55874bf5ee0e0fee2dee9bb135668c0d78c6b045e87e58d67a5",
+   "image_sha256": "571e83344dec1823b75fd60254ea4a2b48b01e5d95089386bed869d61b081383",
+   "source_commit": "86439bbc5e12ce38d8f4e9e72045190cb13a77d5",
+   "station_sha256": "a78cde2c72b7d1e00ac82c6f38830c1cae4bf653a550b6507b4d5be0bce0c7ed",
+   "original_wav_sha256": "78de0ab9a76f5d8564ac95fcb6c38c91916b364c4f3b6bd990f6b582efd5fe93",
+   "original_wav_filename": "wei19-1.full.wav"
   }
  }
 }

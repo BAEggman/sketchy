@@ -12617,6 +12617,116 @@
    "station_sha256": "473d88c5399b52f3812c72b41a43b17be66c8c6fa424964d1031ae6117a7d524",
    "original_wav_sha256": "575ec3277663353b60959f1c41543c4c28a43b2ffc7783fe864140b19e9e98f8",
    "original_wav_filename": "mer-08.full.wav"
+  },
+  "mer-07#0": {
+   "src": "audio/narration/mer-07__s0__6dc8da73a756.mp3",
+   "text": "거인이 엎드려 누웠다. 왼쪽이 머리와 목, 오른쪽이 허리와 엉덩이다. 등에 작은 사람 열둘이 한 줄로 섰다, 열두 장부의 배수혈이다. 배수혈은 장부의 기가 등으로 흘러 들어가는 자리다. 저마다 서 있는 높이가 곧 척추 마디다. 견갑골, 가장 아래 갈비뼈 끝, 엉덩뼈 꼭대기, 엉치뼈, 이 뼈 표지를 기준으로 높이를 잡는다.",
+   "text_sha256": "6dc8da73a756a962c10b1b68401cd150f99864ac92d8b1fe0121d32c5ef05437",
+   "audio_sha256": "702bde96400eef8143b3229d6ac596377e04a08956943542a4255ba6b2063fe5",
+   "image_sha256": "46e6c7c7f3296940a2336e1383eecf399ca5ece45ffad2feed9197a90d473c88",
+   "source_commit": "148e48874cba83b452da07b76dd4b1063cf449aa",
+   "station_sha256": "c85c97725e4082028031a0a6efd213daffef3f560ddad375edae7b3ed6484e60",
+   "original_wav_sha256": "8c1c32b425d12474dc7986cb0164367bbe34b378555665f16d0e01e7d3c2da7f",
+   "original_wav_filename": "mer-07.full.wav"
+  },
+  "mer-07#1": {
+   "src": "audio/narration/mer-07__s1__946ed265fd4c.mp3",
+   "text": "등뼈 바로 옆을 따라 가는 파란 물길이 흐른다, 물지게꾼 방광의 물길, 족태양방광경의 첫째 줄, 제일측선이다. 등 한가운데 독맥에서 옆으로 1.5촌, 집게손가락과 가운뎃손가락 두 개 너비다. 열두 장부의 배수혈은 모두 이 줄 위, 척추 양옆 등에 있다. 가슴과 배 쪽에 있는 것은 모혈이다.",
+   "text_sha256": "946ed265fd4c6b951e866687aad2953db65395e4ed292bb59d6a5cb5f6d0467f",
+   "audio_sha256": "4fb56123e47375c00872a20c9901917a1e339dff1381d8b9de106b10a30403f9",
+   "image_sha256": "46e6c7c7f3296940a2336e1383eecf399ca5ece45ffad2feed9197a90d473c88",
+   "source_commit": "148e48874cba83b452da07b76dd4b1063cf449aa",
+   "station_sha256": "a81ca03a929ceb92c52e7ff5ddf400dda104b8585ea597787554d4a80383f2fe",
+   "original_wav_sha256": "8c1c32b425d12474dc7986cb0164367bbe34b378555665f16d0e01e7d3c2da7f",
+   "original_wav_filename": "mer-07.full.wav"
+  },
+  "mer-07#2": {
+   "src": "audio/narration/mer-07__s2__160b52b52c26.mp3",
+   "text": "맨 왼쪽, 견갑골이 시작되는 높이에 흰 수염 노인이 섰다, 견갑골을 가로지르는 가시 모양 뼈, 견갑극의 안쪽 끝 높이다. 제3흉추, 폐수다. 바로 다음 붉은 갑옷 호위무사, 제4흉추, 심포의 배수혈 궐음수. 그다음 금관 임금, 제5흉추 아래 양옆 1촌5분, 심수. 심수 다음 제6흉추에는 장부가 아닌 독맥의 배수, 독수가 있다.",
+   "text_sha256": "160b52b52c26d6255c13cc7ebec7da0ce906431ff17545d19eff070f79a2fca3",
+   "audio_sha256": "187402e52121a172185d6765c938a4baa9e388f6d73b2213f6055b83dbe59b85",
+   "image_sha256": "46e6c7c7f3296940a2336e1383eecf399ca5ece45ffad2feed9197a90d473c88",
+   "source_commit": "148e48874cba83b452da07b76dd4b1063cf449aa",
+   "station_sha256": "7854529cfcd63b72d12d6203fc5388c1a79e56d320eecedd6fe64cf19fd0195c",
+   "original_wav_sha256": "8c1c32b425d12474dc7986cb0164367bbe34b378555665f16d0e01e7d3c2da7f",
+   "original_wav_filename": "mer-07.full.wav"
+  },
+  "mer-07#3": {
+   "src": "audio/narration/mer-07__s3__ecf6fb02aae0.mp3",
+   "text": "임금 다음에는 사람이 아니라 긴 붉은 천이 등을 가로질러 놓였다. 양쪽 견갑골의 아래 끝, 하각을 잇는 높이, 제7흉추, 격수다. 격은 가로막. 격수는 장부의 배수혈이 아니다. 대신 팔회혈의 혈회다, 붉은 천이 피다. 배수혈 가운데 팔회혈을 겸하는 것은 격수 하나뿐이다.",
+   "text_sha256": "ecf6fb02aae0ab3c2993a5bf57e8d3bb149bb3c974c6775b68e7b05ab30f8f12",
+   "audio_sha256": "9ba21ba4d2dba6f0c24375c8ee30e60e7b17ce8e7fe357e93ed38719c094fb55",
+   "image_sha256": "46e6c7c7f3296940a2336e1383eecf399ca5ece45ffad2feed9197a90d473c88",
+   "source_commit": "148e48874cba83b452da07b76dd4b1063cf449aa",
+   "station_sha256": "8aff13ea2047e9e535c1792a0b503ca4d1f1f263ff82d9887951ee3b2b95b45d",
+   "original_wav_sha256": "8c1c32b425d12474dc7986cb0164367bbe34b378555665f16d0e01e7d3c2da7f",
+   "original_wav_filename": "mer-07.full.wav"
+  },
+  "mer-07#4": {
+   "src": "audio/narration/mer-07__s4__3739da2a2555.mp3",
+   "text": "붉은 천 다음에는 아무도 없이 원뿔 하나, 제8흉추는 장부 배수혈이 없는 빈 마디다. 그래서 격수 바로 다음 배수혈은 한 마디를 건너뛴 제9흉추, 초록 갑옷 장군 간수. 이어서 저울 든 판관, 제10흉추, 담수.",
+   "text_sha256": "3739da2a2555f30cf32e9ced90bd3b7c843af3fa4c37b9952e1bc182566ed128",
+   "audio_sha256": "72b30b45a7478df0d4acedacd0769d0d7ad2a112c88ee67c31617036db543b7c",
+   "image_sha256": "46e6c7c7f3296940a2336e1383eecf399ca5ece45ffad2feed9197a90d473c88",
+   "source_commit": "148e48874cba83b452da07b76dd4b1063cf449aa",
+   "station_sha256": "f5a3293568872dcbf06c5fd8a4a92095cb37290a80dff83d27097fec6a6dae88",
+   "original_wav_sha256": "8c1c32b425d12474dc7986cb0164367bbe34b378555665f16d0e01e7d3c2da7f",
+   "original_wav_filename": "mer-07.full.wav"
+  },
+  "mer-07#5": {
+   "src": "audio/narration/mer-07__s5__c685b280b7a1.mp3",
+   "text": "다음은 노란 옷 둘. 농부, 제11흉추, 비수. 요리사, 제12흉추, 위수. 흉추는 여기까지다.",
+   "text_sha256": "c685b280b7a15289d70692dc863cb37da6bee8ad6be7fc8dcbba280d4a158bbf",
+   "audio_sha256": "9549ecb6bb791b3730089857dab5b65aeefb8ee0b625ae33a881761187e27146",
+   "image_sha256": "46e6c7c7f3296940a2336e1383eecf399ca5ece45ffad2feed9197a90d473c88",
+   "source_commit": "148e48874cba83b452da07b76dd4b1063cf449aa",
+   "station_sha256": "59ad5aed1ab627f4ede909a56564d7f52362c7fc88ea59ca1ea1f13b3445fdac",
+   "original_wav_sha256": "8c1c32b425d12474dc7986cb0164367bbe34b378555665f16d0e01e7d3c2da7f",
+   "original_wav_filename": "mer-07.full.wav"
+  },
+  "mer-07#6": {
+   "src": "audio/narration/mer-07__s6__2b2289e9b1ad.mp3",
+   "text": "허리뼈로 넘어간다. 비스듬한 가장 아래 갈비뼈가 끝나는 곳을 본다. 삽 든 주황 옷 일꾼, 제1요추, 삼초수. 그다음, 가장 아래 갈비뼈 끝 높이에 선 대머리 장사, 제2요추, 신수.",
+   "text_sha256": "2b2289e9b1adb9b7a8d470d45eb281511d01eab95f765ab33d0eb215a94c83e6",
+   "audio_sha256": "436d0bd19bc02b409f0e9be8caab7ab88fcdf5a36fbf45e0c39afd544844bc1f",
+   "image_sha256": "46e6c7c7f3296940a2336e1383eecf399ca5ece45ffad2feed9197a90d473c88",
+   "source_commit": "148e48874cba83b452da07b76dd4b1063cf449aa",
+   "station_sha256": "091ac82173f5268d01ae4d5d76565183444d3e53c2633eb8c4dd616e4fd3fa22",
+   "original_wav_sha256": "8c1c32b425d12474dc7986cb0164367bbe34b378555665f16d0e01e7d3c2da7f",
+   "original_wav_filename": "mer-07.full.wav"
+  },
+  "mer-07#7": {
+   "src": "audio/narration/mer-07__s7__9fa46cf71850.mp3",
+   "text": "장사 다음에는 다시 빈 원뿔, 제3요추는 빈 마디다. 신수 다음은 한 마디 건너 제4요추, 솔 든 흰 작업복 일꾼, 대장수. 양쪽 엉덩뼈 꼭대기, 장골릉 최고점을 잇는 선이 야코비선이고, 그 높이가 제4요추다.",
+   "text_sha256": "9fa46cf718500f0d9ea6089ef42b8d8cc141efc324d7af5e116b931feffe73a6",
+   "audio_sha256": "854ede0da76156558ce08a2ecc5c1a77be89939e002f611a263c47c949a45998",
+   "image_sha256": "46e6c7c7f3296940a2336e1383eecf399ca5ece45ffad2feed9197a90d473c88",
+   "source_commit": "148e48874cba83b452da07b76dd4b1063cf449aa",
+   "station_sha256": "035f66832b694e7deabdd148ef9b93383d069f5cb967c600c8403bb4656141b0",
+   "original_wav_sha256": "8c1c32b425d12474dc7986cb0164367bbe34b378555665f16d0e01e7d3c2da7f",
+   "original_wav_filename": "mer-07.full.wav"
+  },
+  "mer-07#8": {
+   "src": "audio/narration/mer-07__s8__e0ada868cc9d.mp3",
+   "text": "셋째 빈 원뿔, 제5요추도 빈 마디다. 대장수와 소장수 사이다. 맨 끝, 엉치뼈 위에 둘이 섰다. 체 든 붉은 앞치마, 제1천추 높이, 소장수. 물지게꾼, 제2천추 높이, 방광수. 빈 마디는 셋, 제8흉추, 제3요추, 제5요추.",
+   "text_sha256": "e0ada868cc9dcf112c0be667fb5a86b346860dcc6ce06832246e9ee683af52cc",
+   "audio_sha256": "25bb62ddedaf594206acfeff7eb7a067497194d7b9939d247c16acacc55bd5d6",
+   "image_sha256": "46e6c7c7f3296940a2336e1383eecf399ca5ece45ffad2feed9197a90d473c88",
+   "source_commit": "148e48874cba83b452da07b76dd4b1063cf449aa",
+   "station_sha256": "37f3ca32df1c2a68baa9b9ea20841c3df6e0dcf520f703ad939d240630ab1edf",
+   "original_wav_sha256": "8c1c32b425d12474dc7986cb0164367bbe34b378555665f16d0e01e7d3c2da7f",
+   "original_wav_filename": "mer-07.full.wav"
+  },
+  "mer-07#9": {
+   "src": "audio/narration/mer-07__s9__6c78aa28ac74.mp3",
+   "text": "다시 본다. 견갑극 높이의 노인 폐, 흉추 셋째. 호위무사 궐음, 넷째. 임금 심, 다섯째. 견갑골 아래 끝의 붉은 천 격수, 일곱째, 혈회. 원뿔, 여덟째는 빈 마디. 장군 간 아홉째, 판관 담 열째, 농부 비 열한째, 요리사 위 열두째. 허리뼈로, 삽 일꾼 삼초 요추 첫째, 갈비뼈 끝의 장사 신 둘째. 원뿔, 셋째는 빈 마디. 엉덩뼈 꼭대기의 흰 작업복 대장 넷째. 원뿔, 다섯째는 빈 마디. 엉치뼈 위 소장과 방광. 모두 등뼈 옆 1.5촌 물길 위다.",
+   "text_sha256": "6c78aa28ac742e6d64d19ba86777b7a0e1b813a504ed8adbef324cb2aa45519a",
+   "audio_sha256": "967b6f6db9a08355ac9aabfb739803c14405cf870dcf72f37cbc467197a7dc45",
+   "image_sha256": "46e6c7c7f3296940a2336e1383eecf399ca5ece45ffad2feed9197a90d473c88",
+   "source_commit": "148e48874cba83b452da07b76dd4b1063cf449aa",
+   "station_sha256": "c5264ccef0258073f91d8dcc590d9d2d3bdc64003281455491e7891cddd5e4ba",
+   "original_wav_sha256": "8c1c32b425d12474dc7986cb0164367bbe34b378555665f16d0e01e7d3c2da7f",
+   "original_wav_filename": "mer-07.full.wav"
   }
  }
 }

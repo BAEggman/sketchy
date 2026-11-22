@@ -7931,6 +7931,127 @@
    "station_sha256": "cf3d1489b4f7ae8d8a60ec0aaa66a8caa9860670db3778ff5ed1df28c7b45fdd",
    "original_wav_sha256": "c47d6db2e61b6de9e05cc9e1c55a92959d607ea61eaa200c9c6c9d7af461c5a1",
    "original_wav_filename": "new-jq-11.full.wav"
+  },
+  "new-jq-16#0": {
+   "src": "audio/narration/new-jq-16__s0__ccacf482eade.mp3",
+   "text": "염색 공방이다. 중초수기취즙 변화이적 시위혈, 즙을 짜서 붉게 물들인 것이 혈이다. 왼쪽 우물에서 물을 긷고, 착즙기에서 즙을 짜고, 풀무로 밀어, 불 위 솥에서 붉게 물들이고, 붉은 실이 공방을 돌아 다시 솥으로 든다. 혈의 생성, 성질, 기능, 순환을 차례로 본다.",
+   "text_sha256": "ccacf482eade5d1f6621c2c56cb27606bbd3436a0f94bfb6ec41e52aed119813",
+   "audio_sha256": "95d939784d5a122344165878ea5a016865083aada23e73f811a709971508a700",
+   "image_sha256": "ada5be9ba12581880930cfa4b747ec5fb44dc53a89933e93b61d358c5b4887c8",
+   "source_commit": "45d5387b86f370845bdb2f33f5f247f67b95420d",
+   "station_sha256": "f113933d47fc0866e9cbfe1727e5a1b88308d902cc9431d4c4cdadfe632d5ac3",
+   "original_wav_sha256": "7e96d326c94c4ba0c080e12d1c64d5c9891fdd2a298bbc901870c26dc68a426d",
+   "original_wav_filename": "new-jq-16.full.wav"
+  },
+  "new-jq-16#1": {
+   "src": "audio/narration/new-jq-16__s1__2f40b419eace.mp3",
+   "text": "흐름을 따라간다. 착즙기에서 짠 즙, 비위가 만든 수곡정기가 영기가 되어, 흰 옷 노인 폐의 풀무를 타고, 임금 심의 솥에 들어가 새빨갛게 변한다. 그리고 붉은 실, 맥을 따라 돈다, 심과 기가 밀어 맥관 안을 순행한다. 부맥자혈지부야, 맥은 혈의 곳간이자 길이다.",
+   "text_sha256": "2f40b419eace31b91ea0ee2f47759a78a979d601c9be477f13b7b323db64d128",
+   "audio_sha256": "9ef05ebc28b3341e9a1148a2e5005f2da8df25879a1182986a81b2b90d9b47f2",
+   "image_sha256": "ada5be9ba12581880930cfa4b747ec5fb44dc53a89933e93b61d358c5b4887c8",
+   "source_commit": "45d5387b86f370845bdb2f33f5f247f67b95420d",
+   "station_sha256": "bcc8171d8e280fb74de99f162cad07488290a4500113a711c9351689fdda0d08",
+   "original_wav_sha256": "7e96d326c94c4ba0c080e12d1c64d5c9891fdd2a298bbc901870c26dc68a426d",
+   "original_wav_filename": "new-jq-16.full.wav"
+  },
+  "new-jq-16#2": {
+   "src": "audio/narration/new-jq-16__s2__1e99426f12bf.mp3",
+   "text": "착즙기, 중초다. 농부 비가 곡식을 붓고, 영기, 요리사 위가 맑은 물을 붓는다, 진액. 둘을 짜서 즙을 받는다. 중초수기취즙 변화이적 시위혈, 혈의 두 성분은 영기와 진액이다. 영기자 비기진액 주지어맥 화이위혈도 같은 말이다.",
+   "text_sha256": "1e99426f12bf971e2ac19ebf72d68ab4a37887ba286b535655001fed344d2442",
+   "audio_sha256": "71b6b931a565f8aab1a5ab3c4a1d4c8ea00fff0485cb159d2df76ba1bc62895a",
+   "image_sha256": "ada5be9ba12581880930cfa4b747ec5fb44dc53a89933e93b61d358c5b4887c8",
+   "source_commit": "45d5387b86f370845bdb2f33f5f247f67b95420d",
+   "station_sha256": "831f949ca92c98acba2626b5ddfe685b99061124602c14bef8430a33f17dfedf",
+   "original_wav_sha256": "7e96d326c94c4ba0c080e12d1c64d5c9891fdd2a298bbc901870c26dc68a426d",
+   "original_wav_filename": "new-jq-16.full.wav"
+  },
+  "new-jq-16#3": {
+   "src": "audio/narration/new-jq-16__s3__0397c7591190.mp3",
+   "text": "임금, 심이 솥 밑 불을 지핀다, 심의 군화. 그 불에 즙이 쪄지듯 끓어 새빨개진다. 화의 색, 적색이다. 그래서 혈은 붉고 열기를 지닌 채 맥으로 들어간다.",
+   "text_sha256": "0397c7591190389f846f4de543c75c1de14173b0c31e4dc35ecffe2647ff5da6",
+   "audio_sha256": "23c2fb30f203efda784c0e19e668d9d1238e70ecf98afcc4a6b9c36a773211c1",
+   "image_sha256": "ada5be9ba12581880930cfa4b747ec5fb44dc53a89933e93b61d358c5b4887c8",
+   "source_commit": "45d5387b86f370845bdb2f33f5f247f67b95420d",
+   "station_sha256": "2588ffbac57cde12abfc252f9d2691f721d8a4f82ec2c7f60d8d2a0a085a26bf",
+   "original_wav_sha256": "7e96d326c94c4ba0c080e12d1c64d5c9891fdd2a298bbc901870c26dc68a426d",
+   "original_wav_filename": "new-jq-16.full.wav"
+  },
+  "new-jq-16#4": {
+   "src": "audio/narration/new-jq-16__s4__bf3a4bffb246.mp3",
+   "text": "솥 옆 유리단지, 담긴 것은 붉은 액체, 물이다. 그런데 그 위에서 불꽃이 춤춘다. 음체양용, 몸은 음의 물질이지만, 심화를 받아 양의 기능을 한다.",
+   "text_sha256": "bf3a4bffb246ee859a08a502748925bc7bc3c4b5f62a98d28fa4e1f3d1ffd7e3",
+   "audio_sha256": "f7fe6ed0f17d8d6d643f3e39a513d4c476ca7e1bb2ec7af769d9bd8160400d4d",
+   "image_sha256": "ada5be9ba12581880930cfa4b747ec5fb44dc53a89933e93b61d358c5b4887c8",
+   "source_commit": "45d5387b86f370845bdb2f33f5f247f67b95420d",
+   "station_sha256": "d0f60bbd31ea3c4268ea2bfce3060c46bbe4a5069eeb0c26fe01d7393edc42e0",
+   "original_wav_sha256": "7e96d326c94c4ba0c080e12d1c64d5c9891fdd2a298bbc901870c26dc68a426d",
+   "original_wav_filename": "new-jq-16.full.wav"
+  },
+  "new-jq-16#5": {
+   "src": "audio/narration/new-jq-16__s5__6de046fcf0db.mp3",
+   "text": "맨 왼쪽, 대머리 장사, 신이 우물에서 물을 퍼 올린다, 공방의 모든 물은 여기서 시작한다. 혈은 불, 심화로 붉어졌지만 그 근본은 물, 신수다. 혈은 수와 화의 성질을 함께 지닌다.",
+   "text_sha256": "6de046fcf0db45fc46af16768edc82fcb452d29246009876bd374137517c9774",
+   "audio_sha256": "4a980869e8c27dd8705c8b70be68b3b45ab38f54644162e56c7db4cddc2ee6ea",
+   "image_sha256": "ada5be9ba12581880930cfa4b747ec5fb44dc53a89933e93b61d358c5b4887c8",
+   "source_commit": "45d5387b86f370845bdb2f33f5f247f67b95420d",
+   "station_sha256": "15558386df55e26b50ec0ba33c52ddc1c6f1d9213b57db2aba515ae5202bb3f3",
+   "original_wav_sha256": "7e96d326c94c4ba0c080e12d1c64d5c9891fdd2a298bbc901870c26dc68a426d",
+   "original_wav_filename": "new-jq-16.full.wav"
+  },
+  "new-jq-16#6": {
+   "src": "audio/narration/new-jq-16__s6__2a47eb60d057.mp3",
+   "text": "오른쪽 아래, 정원사가 붉은 물을 뿌리자 화분이 새 잎을 틔운다. 곁의 큰 화분은 윤기가 흐르고, 물을 못 받은 구석 화분은 시들었다, 혈주유지, 혈은 적시고 기른다. 장부와 형체와 구규를 영양하고 촉촉하게 해 움직이고 느끼게 한다. 정신활동의 물질적 바탕이고, 생식과 젖, 진액 생성에도 쓰인다.",
+   "text_sha256": "2a47eb60d0573fbc1eff222b0f14b8bf476986958a0b7b68fce5f6d02fd060b2",
+   "audio_sha256": "d80ebdd9f16207d3a57372b07e3592bb192c8ca86bcfae6361bd00d7a5a9c2a3",
+   "image_sha256": "ada5be9ba12581880930cfa4b747ec5fb44dc53a89933e93b61d358c5b4887c8",
+   "source_commit": "45d5387b86f370845bdb2f33f5f247f67b95420d",
+   "station_sha256": "6599b1b4738d940c3c0020fb44fb332739ffa97bbdd381bc4f12414fe8afd746",
+   "original_wav_sha256": "7e96d326c94c4ba0c080e12d1c64d5c9891fdd2a298bbc901870c26dc68a426d",
+   "original_wav_filename": "new-jq-16.full.wav"
+  },
+  "new-jq-16#7": {
+   "src": "audio/narration/new-jq-16__s7__6e38c42635cc.mp3",
+   "text": "붉은 실이 솥에서 나와 들보와 말뚝 기둥들을 돌고, 다시 솥으로 내려온다, 큰 고리다. 첫째 견해, 영추 영기, 영혈이 십사경맥을 따라 돌고 돈다. 영기가 도는 길과 같다. 벽의 주사위 1과 4, 십사경맥.",
+   "text_sha256": "6e38c42635cc38fdd661f4483b2dfa9dac346074a117024ae9fa9254afe9667c",
+   "audio_sha256": "53f7104eb3d5c8dc1a90491d5a00b0d2c99b2ee532f1b646c75f4f6d16d98086",
+   "image_sha256": "ada5be9ba12581880930cfa4b747ec5fb44dc53a89933e93b61d358c5b4887c8",
+   "source_commit": "45d5387b86f370845bdb2f33f5f247f67b95420d",
+   "station_sha256": "da17d76d53734c69f4f2a3abeeb03ba8a6ff5813a58cd303c98ff53bb9345586",
+   "original_wav_sha256": "7e96d326c94c4ba0c080e12d1c64d5c9891fdd2a298bbc901870c26dc68a426d",
+   "original_wav_filename": "new-jq-16.full.wav"
+  },
+  "new-jq-16#8": {
+   "src": "audio/narration/new-jq-16__s8__4a5066394174.mp3",
+   "text": "오른쪽 위, 붉은 실에 반짝이는 곡식 바구니가 걸려 오고, 초록 장군 간이 손을 뻗어 받는다. 둘째 견해, 소문 경맥별론, 식기입위 산정어간 … 모맥합정 행기어부. 먹은 것의 정미가 혈행을 따라 퍼져 나가는 물질대사의 길로 본다.",
+   "text_sha256": "4a50663941743d6c807bd66c71df6a14aede91c09ec211666d695376dc5b90b4",
+   "audio_sha256": "e6c944c992229bb8cdc23128d68e0a1b6113ae1c14fa83587dd563e9ec0cc8f4",
+   "image_sha256": "ada5be9ba12581880930cfa4b747ec5fb44dc53a89933e93b61d358c5b4887c8",
+   "source_commit": "45d5387b86f370845bdb2f33f5f247f67b95420d",
+   "station_sha256": "8f9d19f439129f2a2915ab1b4174cc2c42b3f7bb225985ba5f32eddd22fd4e54",
+   "original_wav_sha256": "7e96d326c94c4ba0c080e12d1c64d5c9891fdd2a298bbc901870c26dc68a426d",
+   "original_wav_filename": "new-jq-16.full.wav"
+  },
+  "new-jq-16#9": {
+   "src": "audio/narration/new-jq-16__s9__58610bd7a826.mp3",
+   "text": "혈액순환계를 짚는다. 솥을 끓이는 임금 심이 펌프, 풀무 노인 폐, 그리고 붉은 실 맥, 심, 폐, 맥. 다른 카드는 심이 밀고 맥이 길이 되는 심과 맥만 든다, 카드끼리 갈린다. 그 카드는 덧붙여 신정휴허면 생식기 발육 불량과 천계 지연, 수종은 신양허라 한다.",
+   "text_sha256": "58610bd7a82671cb3dc7b861e5ae4adc450dd5af628a4f2484d53440ba99af7c",
+   "audio_sha256": "e5caedcfac4f3567ecd51bbec178acbfb5a91d791796a6108131846a59167830",
+   "image_sha256": "ada5be9ba12581880930cfa4b747ec5fb44dc53a89933e93b61d358c5b4887c8",
+   "source_commit": "45d5387b86f370845bdb2f33f5f247f67b95420d",
+   "station_sha256": "8a95d04d03fadbee471e52f54e3d2558af5e539cdb28e8d1090b2bb903603070",
+   "original_wav_sha256": "7e96d326c94c4ba0c080e12d1c64d5c9891fdd2a298bbc901870c26dc68a426d",
+   "original_wav_filename": "new-jq-16.full.wav"
+  },
+  "new-jq-16#10": {
+   "src": "audio/narration/new-jq-16__s10__d14d538390e8.mp3",
+   "text": "다시 본다. 곡식과 물을 짜 즙, 영기와 진액, 중초수기취즙. 풀무 폐를 타고 임금의 불, 심화로 변화이적. 불꽃 춤추는 붉은 단지, 음체양용. 우물의 장사, 근본은 신수. 시든 화분을 살리는 붉은 물, 혈주유지. 고리 실과 주사위 1, 4, 영추 영기, 십사경맥. 곡식 바구니를 받는 장군, 경맥별론, 산정어간. 솥, 풀무, 실, 심, 폐, 맥.",
+   "text_sha256": "d14d538390e86cbef7ee2c700298ea3933fe9936530ebf486d24bafa15e26cf8",
+   "audio_sha256": "757540dea4bd5c82567363f63b73e3c6498e4c59b38f0f4ecdd639fccf629e47",
+   "image_sha256": "ada5be9ba12581880930cfa4b747ec5fb44dc53a89933e93b61d358c5b4887c8",
+   "source_commit": "45d5387b86f370845bdb2f33f5f247f67b95420d",
+   "station_sha256": "b284f8cf74f1946fbfc9108942b9726f1e2f23911f55cd8700af515e8125a7dc",
+   "original_wav_sha256": "7e96d326c94c4ba0c080e12d1c64d5c9891fdd2a298bbc901870c26dc68a426d",
+   "original_wav_filename": "new-jq-16.full.wav"
   }
  }
 }

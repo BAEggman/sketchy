@@ -5412,6 +5412,127 @@
    "station_sha256": "b262be82a87649656456427cc3f4d302d110b1225ae606373e6ed2a836c0797f",
    "original_wav_sha256": "8ce980b8a9a297effeb1165af48894924c53646eb90cab09ebc221ab74b4e82c",
    "original_wav_filename": "wei19-4.full.wav"
+  },
+  "yyox-14#0": {
+   "src": "audio/narration/yyox-14__s0__80145fb4dbc3.mp3",
+   "text": "육십갑자를 다스리는 관청 마당이다. 지붕 끝의 깃발 열 개는 천간, 마당의 열두 짐승은 지지다. 사람의 옷 색은 그해의 운이고, 머리 위를 덮은 것은 하늘의 기운 사천, 깔고 앉은 방석은 그해 지지의 자리, 마당 구석의 샘은 땅속의 기운 재천이다. 운이 이 가운데 어느 것과 같은 오행이 되는 해가 동화년이다. 같은 기운이 겹쳐 치우침이 커지는 해다.",
+   "text_sha256": "80145fb4dbc37fe04512f5b94e1b15faf0f04a30f40b0777282204ee691cdb15",
+   "audio_sha256": "faa3c455021de0ea7217aea2cb0096ce7ba9feed68837fb8fd7af74ec559af65",
+   "image_sha256": "d041c9674ef457661b8e5ed2246256d116ce775f90c34e54263cad6286d6decf",
+   "source_commit": "6cd71c636ffb987ba5d48869c13d81336d8f75ec",
+   "station_sha256": "127d05f3b443a474d813b90ceed5bea2aaf25105090b988df47517b2127dae0d",
+   "original_wav_sha256": "0f8a9505abe341c6fe2def506443e6e303e75c08f86eb8441dc6319cf5723dcf",
+   "original_wav_filename": "yyox-14.full.wav"
+  },
+  "yyox-14#1": {
+   "src": "audio/narration/yyox-14__s1__f3f29da1f8f9.mp3",
+   "text": "지붕 끝에 깃발 열 개가 큰 것 작은 것 짝지어 걸렸다. 초록 한 쌍이 갑과 을, 목. 빨강 한 쌍이 병과 정, 화. 노랑 한 쌍이 무와 기, 토. 하양 한 쌍이 경과 신, 금. 검정 한 쌍이 임과 계, 수. 큰 깃발이 형, 작은 깃발이 아우라 형제배속이라 한다. 방위처럼 고정되어 변하지 않고, 해마다 똑같이 도는 주운에 쓴다. 갑과 기가 합해 토가 되는 화오운과는 다른 축이다.",
+   "text_sha256": "f3f29da1f8f974da6a05b23ae67d993c8091a6da03eb24241df6c42297e8a2b4",
+   "audio_sha256": "9cc18ef763249a1ccced51040e4fb670d57c474cf19519dca2f27833c0dc9776",
+   "image_sha256": "d041c9674ef457661b8e5ed2246256d116ce775f90c34e54263cad6286d6decf",
+   "source_commit": "6cd71c636ffb987ba5d48869c13d81336d8f75ec",
+   "station_sha256": "7c2531c8b4277f2df83ea6e4a4627561e2c98f637a88407fec3b3f70852ad5f6",
+   "original_wav_sha256": "0f8a9505abe341c6fe2def506443e6e303e75c08f86eb8441dc6319cf5723dcf",
+   "original_wav_filename": "yyox-14.full.wav"
+  },
+  "yyox-14#2": {
+   "src": "audio/narration/yyox-14__s2__a550fca87060.mp3",
+   "text": "마당에 색 방석 다섯이 깔렸다. 오른쪽 동쪽 초록 방석에 호랑이와 토끼, 인과 묘, 목. 앞쪽 남쪽 빨강 방석에 뱀과 말, 사와 오, 화. 왼쪽 서쪽 하양 방석에 원숭이와 닭, 신과 유, 금. 뒤쪽 북쪽 검정 방석에 돼지와 쥐, 해와 자, 수. 가운데 노랑 방석에는 넷이 모였다. 용, 개, 소, 양, 진, 술, 축, 미, 토다.",
+   "text_sha256": "a550fca870603c041acd8318b327be384238ff501568b2a3c684db0bb737f3df",
+   "audio_sha256": "ff5cc7a36edf853c1d1b5aa7d0a1075bef3be88b0247f744b7c694df61addc91",
+   "image_sha256": "d041c9674ef457661b8e5ed2246256d116ce775f90c34e54263cad6286d6decf",
+   "source_commit": "6cd71c636ffb987ba5d48869c13d81336d8f75ec",
+   "station_sha256": "a36fca9c2ad54af23c22845b360e708c388db3ee7f457652d7ab97d28bd008b6",
+   "original_wav_sha256": "0f8a9505abe341c6fe2def506443e6e303e75c08f86eb8441dc6319cf5723dcf",
+   "original_wav_filename": "yyox-14.full.wav"
+  },
+  "yyox-14#3": {
+   "src": "audio/narration/yyox-14__s3__dcee34bc1115.mp3",
+   "text": "대청 한가운데 판관이 앉았다. 옷도 노랑, 머리 위 휘장도 노랑이다. 그해의 운과 하늘의 기운 사천이 같은 오행인 해, 천부다. 기미년을 보면 갑과 기가 합한 토운에, 축미의 태음습토가 사천이다. 육미지대론은 하늘과 만난다 하여 천부라 했고, 법을 쥔 벼슬 집법에 견주었다. 모두 열두 해다.",
+   "text_sha256": "dcee34bc11153fc4713717563e7157753df8b574efaf9115a0c052f2f79410dd",
+   "audio_sha256": "6f056d63d0aba68978606f7325ce4d97433e0d64476325ae3bc1eb0b6b74696d",
+   "image_sha256": "d041c9674ef457661b8e5ed2246256d116ce775f90c34e54263cad6286d6decf",
+   "source_commit": "6cd71c636ffb987ba5d48869c13d81336d8f75ec",
+   "station_sha256": "0b78922e2f24cae74706fd7e45f7122be7fc8648e46d3e5afadb6196d02b9235",
+   "original_wav_sha256": "0f8a9505abe341c6fe2def506443e6e303e75c08f86eb8441dc6319cf5723dcf",
+   "original_wav_filename": "yyox-14.full.wav"
+  },
+  "yyox-14#4": {
+   "src": "audio/narration/yyox-14__s4__dbb17460eac8.mp3",
+   "text": "오른쪽 초록 방석에는 초록 옷의 관리가 토끼 곁에 앉아 명을 알리는 나팔을 분다. 옷과 방석이 같은 색이다. 그해의 운과 연지의 오행이 같은 해, 세회다. 정묘년은 목운이 묘에 임했고, 갑진년은 토운이 진에 임했다. 목운이 묘에, 화운이 오에, 토운이 진술축미에, 금운이 유에, 수운이 자에 임하는 여덟 해다. 제자리에 앉았다 하여 당위, 곁의 저울처럼 기운이 고르다 하여 기지평이라 한다. 명을 행하는 벼슬 행령이다. 천부는 운과 사천, 세회는 운과 연지, 섞지 않는다.",
+   "text_sha256": "dbb17460eac87244dbb5977524f612a61782d8ced391661eb1400cffd92f54ea",
+   "audio_sha256": "ab226981aa86d33b0ffc16ac8622788957335aa3dae21bba54f770ca653aad1b",
+   "image_sha256": "d041c9674ef457661b8e5ed2246256d116ce775f90c34e54263cad6286d6decf",
+   "source_commit": "6cd71c636ffb987ba5d48869c13d81336d8f75ec",
+   "station_sha256": "ae854498f864d2f09f569694451ab7277582ece6610d1a9fc5426df49c0c6eb7",
+   "original_wav_sha256": "0f8a9505abe341c6fe2def506443e6e303e75c08f86eb8441dc6319cf5723dcf",
+   "original_wav_filename": "yyox-14.full.wav"
+  },
+  "yyox-14#5": {
+   "src": "audio/narration/yyox-14__s5__ed692b823945.mp3",
+   "text": "앞쪽 빨강 방석에는 빨간 옷의 귀인이 빨간 일산을 쓰고 말 곁에 앉았다. 머리 위도, 옷도, 방석도 한 색이다. 천부이면서 세회인 해, 태일천부, 가장 귀한 귀인이다. 금방울을 단 짐승이 넷이다. 말, 소, 양, 닭, 무오, 기축, 기미, 을유. 이 네 해뿐이다. 원문 글자는 클 태에 한 일, 태일이다.",
+   "text_sha256": "ed692b823945091fad258481acce2cd3d87c952f5c5eb5ec48aae36ae0f305d3",
+   "audio_sha256": "7970888b3097935309d84d88044b8d18c7f55c03db9b2ddbfad36349d2f0ad0a",
+   "image_sha256": "d041c9674ef457661b8e5ed2246256d116ce775f90c34e54263cad6286d6decf",
+   "source_commit": "6cd71c636ffb987ba5d48869c13d81336d8f75ec",
+   "station_sha256": "9821c568f39df303bcec571b0ec573422b97cd232bda1a93f766981d7f89c7c2",
+   "original_wav_sha256": "0f8a9505abe341c6fe2def506443e6e303e75c08f86eb8441dc6319cf5723dcf",
+   "original_wav_filename": "yyox-14.full.wav"
+  },
+  "yyox-14#6": {
+   "src": "audio/narration/yyox-14__s6__62a077ac43fe.mp3",
+   "text": "세회 여덟 해의 짐승을 본다. 토끼, 말, 닭, 쥐, 그리고 노랑 방석의 용, 개, 소, 양이다. 금방울을 단 말, 소, 양, 닭은 태일천부로 올라갔다. 용과 개, 곧 갑진과 갑술은 세회이면서 샘가의 동천부에도 든다. 그래서 관리의 나팔만 든 토끼와 쥐, 정묘와 병자 둘만이 어디에도 겹치지 않는 세회다.",
+   "text_sha256": "62a077ac43fe1c654aa71d3f197307163c915cfa58978db475ffc824a68f3c83",
+   "audio_sha256": "4544131ceb9c68066a4dc4020ddc5142ac702f2cf454bf40c58b6d216c25cbce",
+   "image_sha256": "d041c9674ef457661b8e5ed2246256d116ce775f90c34e54263cad6286d6decf",
+   "source_commit": "6cd71c636ffb987ba5d48869c13d81336d8f75ec",
+   "station_sha256": "5518d6a578c602d2e3cf9f9753486335c232fbaf3b5a1b41192c356a8a6aa3ea",
+   "original_wav_sha256": "0f8a9505abe341c6fe2def506443e6e303e75c08f86eb8441dc6319cf5723dcf",
+   "original_wav_filename": "yyox-14.full.wav"
+  },
+  "yyox-14#7": {
+   "src": "audio/narration/yyox-14__s7__fb3a3523143d.mp3",
+   "text": "왼쪽 앞 돌샘은 땅속의 기운 재천이다. 파란 옷의 큰 어른이 샘물에 제 모습을 비추어 본다. 옷과 샘물이 같은 색이다. 큰 어른은 태과한 운, 양간의 해다. 태과한 운이 재천과 같은 오행인 해, 동천부. 그래서 판관과 같은 방망이를 들었다. 경자년은 을과 경이 합한 금운에 재천이 양명조금이다. 갑진, 갑술, 임인, 임신, 경자, 경오 여섯 해다.",
+   "text_sha256": "fb3a3523143daafe2ec18dbb6ab4cffcd9fd5a15bd71ee7d81aab04ba36d8b59",
+   "audio_sha256": "4f775a2793cd73c158143c7e97c20d1724c433a2911f7e35b562a6bdd0faacea",
+   "image_sha256": "d041c9674ef457661b8e5ed2246256d116ce775f90c34e54263cad6286d6decf",
+   "source_commit": "6cd71c636ffb987ba5d48869c13d81336d8f75ec",
+   "station_sha256": "c0d2a688875c4212f42c314234458cfca39776e86707c9de2329aefcb295fe91",
+   "original_wav_sha256": "0f8a9505abe341c6fe2def506443e6e303e75c08f86eb8441dc6319cf5723dcf",
+   "original_wav_filename": "yyox-14.full.wav"
+  },
+  "yyox-14#8": {
+   "src": "audio/narration/yyox-14__s8__fd165119377d.mp3",
+   "text": "큰 어른 곁의 작은 아이도 파란 옷으로 같은 샘을 들여다본다. 작은 아이는 불급한 운, 음간의 해다. 불급한 운이 재천과 같은 오행인 해, 동세회. 그래서 관리와 같은 나팔을 들었다. 신미년은 병과 신이 합한 수운에 재천이 태양한수다. 계사, 계해, 신축, 신미, 계묘, 계유 여섯 해다. 이 둘은 육원정기대론에 나온다. 태과하면서 더하면 동천부, 불급하면서 더하면 동세회다.",
+   "text_sha256": "fd165119377d894eca91d267fc2f3089c9bdac0db7b1dcc99c8c67cba17b05eb",
+   "audio_sha256": "8d7a1a051fa5be8e9b3b8dc51a73bc0feb6334afad2d9d4a6ef318f7aac2c1f1",
+   "image_sha256": "d041c9674ef457661b8e5ed2246256d116ce775f90c34e54263cad6286d6decf",
+   "source_commit": "6cd71c636ffb987ba5d48869c13d81336d8f75ec",
+   "station_sha256": "7fb9982610e53736efba031dba66a6ca58b5208b49395e1d98b2e45776716274",
+   "original_wav_sha256": "0f8a9505abe341c6fe2def506443e6e303e75c08f86eb8441dc6319cf5723dcf",
+   "original_wav_filename": "yyox-14.full.wav"
+  },
+  "yyox-14#9": {
+   "src": "audio/narration/yyox-14__s9__9ebc052afa61.mp3",
+   "text": "초 셋을 본다. 판관의 짧은 초는 불꽃이 사납게 치솟는다. 집법에 맞으면 병이 빠르고 위태롭다, 속이위. 관리 곁의 굵고 긴 초는 작은 불꽃이 잔잔하다. 행령에 맞으면 병이 더디게 오래 버틴다, 서이지. 귀인 곁의 초는 방금 꺼져 연기만 오른다. 귀인에 맞으면 병이 갑자기 나서 죽는다, 폭이사. 가장 귀한 자리가 가장 험하다. 기후의 변화가 사납기로도 태일천부가 으뜸이고, 다음이 천부와 동천부, 그다음이 세회와 동세회다.",
+   "text_sha256": "9ebc052afa6132374c054cfbc81724e5619230e606a9253bebfe1c9b594c9d7c",
+   "audio_sha256": "e10d2ead6cbd69fe45459b96591c41a2360cd5d4187652a06153be8fd1b5f0a7",
+   "image_sha256": "d041c9674ef457661b8e5ed2246256d116ce775f90c34e54263cad6286d6decf",
+   "source_commit": "6cd71c636ffb987ba5d48869c13d81336d8f75ec",
+   "station_sha256": "7f71f817f6f6ae62c7155467acd0b161043e1dae5f9c24180188330a8c7071b2",
+   "original_wav_sha256": "0f8a9505abe341c6fe2def506443e6e303e75c08f86eb8441dc6319cf5723dcf",
+   "original_wav_filename": "yyox-14.full.wav"
+  },
+  "yyox-14#10": {
+   "src": "audio/narration/yyox-14__s10__efc5973c05f5.mp3",
+   "text": "다시 본다. 깃발 열은 천간, 방석 다섯의 열두 짐승은 지지. 노란 휘장 아래 판관은 운과 사천이 같은 천부. 초록 방석의 관리는 운과 연지가 같은 세회. 일산 아래 빨간 귀인은 둘 다인 태일천부, 말, 소, 양, 닭의 금방울. 샘가의 큰 어른은 동천부, 작은 아이는 동세회. 치솟는 초, 잔잔한 초, 꺼진 초.",
+   "text_sha256": "efc5973c05f53ab7f50fd9f5a5b70e5a7bff0cefb65293e1cf637994219030a3",
+   "audio_sha256": "40f55e8dceb9a9eb06dfb9ec6f67e2e26dd3d1bf1e299650e5aab06dc681c97c",
+   "image_sha256": "d041c9674ef457661b8e5ed2246256d116ce775f90c34e54263cad6286d6decf",
+   "source_commit": "6cd71c636ffb987ba5d48869c13d81336d8f75ec",
+   "station_sha256": "47ade58fba7fe6a569a83a6396c2ce505d498c7b0418b052692019bca89d85c0",
+   "original_wav_sha256": "0f8a9505abe341c6fe2def506443e6e303e75c08f86eb8441dc6319cf5723dcf",
+   "original_wav_filename": "yyox-14.full.wav"
   }
  }
 }

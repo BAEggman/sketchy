@@ -9416,6 +9416,94 @@
    "station_sha256": "b57f7a5db0357f3f39c2ff0a913282389afe1b12907ead3ddba2d1e8294c8a13",
    "original_wav_sha256": "2dc6a45a59b79e6d26ef57b9bb48d60a9d7d9f70c4dc4cd90ddc7ff35cdca441",
    "original_wav_filename": "new-gr-18.full.wav"
+  },
+  "mer-02#0": {
+   "src": "audio/narration/mer-02__s0__09d5c19d6fb1.mp3",
+   "text": "제재소 작업대에 통나무 단면 셋이 놓였다. 손이 달린 것은 팔, 발이 달린 것은 아래다리, 오른쪽 것은 넓적다리를 자른 면이다. 단면마다 앞쪽 밝은 반원은 몸 안쪽 음면, 뒤쪽 어두운 반원은 바깥 양면이다. 인형은 왼쪽이 앞, 가운데, 오른쪽이 뒤에 선다. 음경은 오장 인물과 심포의 붉은 호위무사, 양경은 짝과 같은 색 옷의 일꾼이다. 시험은 전연, 중간, 후연을 묻는다.",
+   "text_sha256": "09d5c19d6fb106d69771b70c956c5baba17f2b46c2a78e0cf2f324c6d64bd366",
+   "audio_sha256": "05074798d648110191b77153a02bde32522ac65afabd8b8839390e787a33a5fc",
+   "image_sha256": "58d6bd8c2ff713472d12be6143f417ae6de36b712c529ac06236c2631f5ba39d",
+   "source_commit": "5f40f42cb5c36f2daf8f9e51cd5cdebee2e6171f",
+   "station_sha256": "d2be4f623804ac201a6a145186ff4b9f78485dfbf5cec9b744b24e7bc3b11337",
+   "original_wav_sha256": "69d7609bee28009039d1bf7d21e5f4fe7495e237eb67a076893f144434b25581",
+   "original_wav_filename": "mer-02.full.wav"
+  },
+  "mer-02#1": {
+   "src": "audio/narration/mer-02__s1__ddf1ddce60c1.mp3",
+   "text": "손 단면의 밝은 반원, 팔 안쪽 손바닥 쪽이다. 엄지 쪽부터 흰 도포 흰 수염 노인, 폐. 칼과 방패 든 붉은 갑옷 호위무사, 임금을 대신해 사기를 받는 심포. 붉은 용포 임금, 심. 팔 안쪽 앞은 수태음폐경, 가운데는 수궐음심포경, 뒤는 수소음심경이다.",
+   "text_sha256": "ddf1ddce60c1bf911a06e7a0d694b769eba2f58717857e4f797fe26f2b3f07fe",
+   "audio_sha256": "7e224cb890c8cc824f7e74fc69dc31d6e941ea32dbb29e9995dd5b92475f51aa",
+   "image_sha256": "58d6bd8c2ff713472d12be6143f417ae6de36b712c529ac06236c2631f5ba39d",
+   "source_commit": "5f40f42cb5c36f2daf8f9e51cd5cdebee2e6171f",
+   "station_sha256": "55ef3468ef2fabbdcf8fab31ce97c857d2eeaee71ce39248eaec6a81743b539d",
+   "original_wav_sha256": "69d7609bee28009039d1bf7d21e5f4fe7495e237eb67a076893f144434b25581",
+   "original_wav_filename": "mer-02.full.wav"
+  },
+  "mer-02#2": {
+   "src": "audio/narration/mer-02__s2__2219d9fa02a0.mp3",
+   "text": "손 단면의 어두운 반원, 팔 바깥 손등 쪽이다. 관 청소솔 든 흰 작업복 일꾼, 찌꺼기를 내려보내는 전도지관, 대장. 삽을 멘 주황 옷 일꾼, 물길을 트는 결독지관, 삼초. 체를 든 붉은 앞치마 일꾼, 맑은 것과 탁한 것을 거르는 수성지관, 소장. 팔 바깥 앞은 수양명대장경, 가운데는 수소양삼초경, 뒤는 수태양소장경이다. 손을 뒤집으면 여섯이 한꺼번에 바뀐다.",
+   "text_sha256": "2219d9fa02a0b92a4d0a9e4b3f0be4a03ee4d0433e1d1c5d095c7ffe1c8edec9",
+   "audio_sha256": "aa02b822b512b7cd115b3a29f96fd78db934da5366dd52ac7bed623c220fa1bb",
+   "image_sha256": "58d6bd8c2ff713472d12be6143f417ae6de36b712c529ac06236c2631f5ba39d",
+   "source_commit": "5f40f42cb5c36f2daf8f9e51cd5cdebee2e6171f",
+   "station_sha256": "021149719a9d602a5ad015bc3824edcf5741d263a708600f96f6f0539a75ce96",
+   "original_wav_sha256": "69d7609bee28009039d1bf7d21e5f4fe7495e237eb67a076893f144434b25581",
+   "original_wav_filename": "mer-02.full.wav"
+  },
+  "mer-02#3": {
+   "src": "audio/narration/mer-02__s3__eff99d939f62.mp3",
+   "text": "발 단면의 어두운 반원, 다리 바깥쪽이다. 국자 든 노란 앞치마 요리사, 수곡지해, 위. 저울 든 초록 관복 판관, 바르게 결단하는 중정지관, 담. 물지게 진 검은 옷 일꾼, 물을 모아 두는 주도지관, 방광. 다리에서 족삼양은 흩어진다, 위경은 앞면, 담경은 바깥 옆면, 방광경은 뒷면. 족삼양은 머리와 얼굴에서 발끝으로 내려간다.",
+   "text_sha256": "eff99d939f62e8403b80ef65b03e4a9a74f0ddb0b958bec690e9600af5e868c9",
+   "audio_sha256": "105a7dfc5a3d0feea6e0ab2289b6197830e85b5b90cbcb92b0af54f0f7d0de74",
+   "image_sha256": "58d6bd8c2ff713472d12be6143f417ae6de36b712c529ac06236c2631f5ba39d",
+   "source_commit": "5f40f42cb5c36f2daf8f9e51cd5cdebee2e6171f",
+   "station_sha256": "8ffc7bd6a131a6a8878b2a40a0516ea357ecfbf9b426706f46ff51414661a839",
+   "original_wav_sha256": "69d7609bee28009039d1bf7d21e5f4fe7495e237eb67a076893f144434b25581",
+   "original_wav_filename": "mer-02.full.wav"
+  },
+  "mer-02#4": {
+   "src": "audio/narration/mer-02__s4__a1a6efe52236.mp3",
+   "text": "발 단면의 밝은 반원, 다리 안쪽이다. 족삼음은 모두 안쪽에 몰린다. 안쪽 복사뼈 위 팔촌 아래에서는 앞부터 초록 갑옷 장군 간, 밀짚모자 노란 농부 비, 검은 옷 대머리 장사 신, 간, 비, 신이다. 안쪽 복사뼈 뒤 가장자리는 신경이다. 족삼음은 발끝에서 가슴과 배로 올라간다.",
+   "text_sha256": "a1a6efe522360729314e74fc653f10039cd4d13170522a53de1c9f4423ea4e47",
+   "audio_sha256": "3b2d15b399b0f26fc3124ed1228f23ea463b9c526ca70df9f1319f6652765b16",
+   "image_sha256": "58d6bd8c2ff713472d12be6143f417ae6de36b712c529ac06236c2631f5ba39d",
+   "source_commit": "5f40f42cb5c36f2daf8f9e51cd5cdebee2e6171f",
+   "station_sha256": "33581a5d234eb7e73ba89de5ea0cd246565f7232db32f702f627c0e666b88a0b",
+   "original_wav_sha256": "69d7609bee28009039d1bf7d21e5f4fe7495e237eb67a076893f144434b25581",
+   "original_wav_filename": "mer-02.full.wav"
+  },
+  "mer-02#5": {
+   "src": "audio/narration/mer-02__s5__e8585e5849a7.mp3",
+   "text": "오른쪽 넓적다리 단면에서는 노란 농부와 초록 장군의 자리가 바뀌었다. 안쪽 복사뼈 위 팔촌에서 족태음비경과 족궐음간경이 자리를 바꾼다. 팔촌 아래는 궐음, 간이 앞, 간, 비, 신. 팔촌 위는 태음, 비가 앞, 비, 간, 신. 신은 늘 뒤다.",
+   "text_sha256": "e8585e5849a7706f5d0cde1673f90d3d9d45022d447132a85d728db056d5dd4a",
+   "audio_sha256": "8b3029d22aba987af9c91873a187fb9dd0cbe597cc281efda90aed843f003b00",
+   "image_sha256": "58d6bd8c2ff713472d12be6143f417ae6de36b712c529ac06236c2631f5ba39d",
+   "source_commit": "5f40f42cb5c36f2daf8f9e51cd5cdebee2e6171f",
+   "station_sha256": "fbb31814b08a5b70ffaa75406a83ce951d650ec8d707acd31bf476ebdcb60cd4",
+   "original_wav_sha256": "69d7609bee28009039d1bf7d21e5f4fe7495e237eb67a076893f144434b25581",
+   "original_wav_filename": "mer-02.full.wav"
+  },
+  "mer-02#6": {
+   "src": "audio/narration/mer-02__s6__975ec3b8cc8c.mp3",
+   "text": "같은 색끼리 짝을 본다. 손 단면 왼쪽에는 흰 노인과 흰 일꾼, 폐와 대장이 둘 다 앞. 오른쪽에는 붉은 임금과 붉은 앞치마, 심과 소장이 둘 다 뒤. 발 단면 오른쪽에는 검은 장사와 검은 물지게꾼, 신과 방광이 둘 다 뒤. 표리 짝은 같은 가장자리에 붙는다. 태음과 양명은 앞, 소음과 태양은 뒤, 궐음과 소양은 가운데에서 지름을 사이에 두고 마주 본다. 몸통에서도 태음과 양명은 앞, 궐음과 소양은 옆, 소음과 태양은 뒤로 흐른다. 머리는 모든 양이 모이는 곳이다, 두위제양지회.",
+   "text_sha256": "975ec3b8cc8ca8dfccb491151dab1f500f21a0d846de00f97af1c79c643c1f78",
+   "audio_sha256": "b0e49774fe4781e91da47744ff5ec56fda174475b7ccc2965dc09db8459b11cc",
+   "image_sha256": "58d6bd8c2ff713472d12be6143f417ae6de36b712c529ac06236c2631f5ba39d",
+   "source_commit": "5f40f42cb5c36f2daf8f9e51cd5cdebee2e6171f",
+   "station_sha256": "1c83016815bd3684ab1c78cad780d9adf41adff03532472b56db3ea89e2f8cef",
+   "original_wav_sha256": "69d7609bee28009039d1bf7d21e5f4fe7495e237eb67a076893f144434b25581",
+   "original_wav_filename": "mer-02.full.wav"
+  },
+  "mer-02#7": {
+   "src": "audio/narration/mer-02__s7__3c3629149ee2.mp3",
+   "text": "다시 본다. 팔 안쪽 앞에서 뒤로, 폐, 심포, 심. 팔 바깥, 대장, 삼초, 소장. 다리 바깥, 위는 앞, 담은 옆, 방광은 뒤. 다리 안쪽, 팔촌 아래, 간, 비, 신. 팔촌 위, 비, 간, 신. 같은 색 짝은 같은 가장자리에 선다.",
+   "text_sha256": "3c3629149ee23fae29ce17682e9a193d272670eb19d53906ff18f2af83be1884",
+   "audio_sha256": "6734f1eb0c542f926205bec5d3fa3c443f2e37b405f4032cbb30d43491bc7fd7",
+   "image_sha256": "58d6bd8c2ff713472d12be6143f417ae6de36b712c529ac06236c2631f5ba39d",
+   "source_commit": "5f40f42cb5c36f2daf8f9e51cd5cdebee2e6171f",
+   "station_sha256": "c3613de766f87095b857528b4e488c4039ef9168f766496ae68d9e47deb9e760",
+   "original_wav_sha256": "69d7609bee28009039d1bf7d21e5f4fe7495e237eb67a076893f144434b25581",
+   "original_wav_filename": "mer-02.full.wav"
   }
  }
 }

@@ -5346,6 +5346,72 @@
    "station_sha256": "89592d98ad2cc77635847be2e4d96f2c370dea0e04d73886f21a8b45492426f8",
    "original_wav_sha256": "6ce039ba26a57688f200ab5c2d1be1d443e8f1565afa5e03e5a5627651178f6d",
    "original_wav_filename": "wei19-3.full.wav"
+  },
+  "wei19-4#0": {
+   "src": "audio/narration/wei19-4__s0__0c817f4981a9.mp3",
+   "text": "십구외 마지막 장이야. 바리케이드 둘, 짝 둘. 그런데 왼쪽 짝 인삼과 오령지는 교재 두 군데에 나와, 칠정 상외 정의 옆 괄호에 인삼외오령지, 그리고 여기 배오금기의 십구외에 인삼외오령지. 같은 글자가 칠정 장에선 독을 눌러 줄이는 상외의 예로, 이 장에선 함께 쓰지 않는 짝으로 놓였어. 그림은 이 장의 뜻대로, 구름 없이 바리케이드로 막았어. 인오, 육적.",
+   "text_sha256": "0c817f4981a9bfc7ce99d9aa7ca45f048b927fb4736dd78be2f1c78a5f2cba16",
+   "audio_sha256": "699339400a3cc4ee5d75a1a95c93508fe83e72e380a3822d28431242eb0649fa",
+   "image_sha256": "9a979837be538b35b6389042dcf86440f9a90ac35fb5e3e9aac8f648aea90e51",
+   "source_commit": "7c8c5916c7319d791e24415c6f58743d18c06ee0",
+   "station_sha256": "4040121d484aa31c6af00eb8cf5fb4076c1ee16c24815a4e273c94bed4373cac",
+   "original_wav_sha256": "8ce980b8a9a297effeb1165af48894924c53646eb90cab09ebc221ab74b4e82c",
+   "original_wav_filename": "wei19-4.full.wav"
+  },
+  "wei19-4#1": {
+   "src": "audio/narration/wei19-4__s1__286bc9fb60c8.mp3",
+   "text": "맨 왼쪽, 금관 쓴 인삼 뿌리 인형이 바리케이드 옆에 섰어. 그냥 인삼. 여우 토사를 맞던 십팔반 그 인형이고, 칠정에선 단행 독삼탕, 감초와 상수, 나복자와 상오까지 나와. 상외 괄호의 인삼외오령지까지 치면, 인삼은 칠정과 금기에서만 여섯 자리를 도는 셈이야. 팔짱을 끼고 바리케이드에 등을 돌려 왼쪽만 봐, 바리케이드 너머 오렌지와는 닿지도 않아.",
+   "text_sha256": "286bc9fb60c80681cc627893c38e9a764553a15e45c3fa295ec6e290c67e8f7b",
+   "audio_sha256": "9c37ddf9a15a72d9d9eb95b600e3bb4899143c0cdae87b6ddda02deed1be7bb3",
+   "image_sha256": "9a979837be538b35b6389042dcf86440f9a90ac35fb5e3e9aac8f648aea90e51",
+   "source_commit": "7c8c5916c7319d791e24415c6f58743d18c06ee0",
+   "station_sha256": "b8c2eef1d1efa2bc6eede754b22187650c51a054110a0f2275656e760d71b9e2",
+   "original_wav_sha256": "8ce980b8a9a297effeb1165af48894924c53646eb90cab09ebc221ab74b4e82c",
+   "original_wav_filename": "wei19-4.full.wav"
+  },
+  "wei19-4#2": {
+   "src": "audio/narration/wei19-4__s2__37be29b711ef.mp3",
+   "text": "바리케이드 오른쪽, 하얀 유령이 꼭 끌어안은 오렌지. 유령은 찡그린 채 오른쪽만 째려봐. 오렌지에 유령의 령을 한 번 더, 오령지. 포제 초자 장에서 악취 김이 걷히던 그 오렌지 유령이야. 그림에서는 오렌지가 바리케이드 다리에 바짝 붙었지만 인삼과는 닿지 않아. 보라 구름이 없지? 이 장에선 독을 덜어 주는 그림이 아니야.",
+   "text_sha256": "37be29b711ef12c473439b2f5df0e3d5aeb85916c0012292d0a54f1f73cdca38",
+   "audio_sha256": "fc4077d79e2e155bcd8c0537733770b52bd3e399026638427515ddc0024a3a4f",
+   "image_sha256": "9a979837be538b35b6389042dcf86440f9a90ac35fb5e3e9aac8f648aea90e51",
+   "source_commit": "7c8c5916c7319d791e24415c6f58743d18c06ee0",
+   "station_sha256": "2eb0af8a2bffb0746034dbc1329c429c0a9a2f0b8de39b4238bd886193873bb5",
+   "original_wav_sha256": "8ce980b8a9a297effeb1165af48894924c53646eb90cab09ebc221ab74b4e82c",
+   "original_wav_filename": "wei19-4.full.wav"
+  },
+  "wei19-4#3": {
+   "src": "audio/narration/wei19-4__s3__49e1348fa81e.mp3",
+   "text": "넓게 비운 바닥을 건너 둘째 짝. 계피 막대 둘이 젓가락처럼 꽂힌 얼큰한 육개장 한 그릇이 바리케이드 반대쪽, 왼쪽으로 삐죽 기울었어. 육개장의 육개, 육계. 계피 막대가 계수나무 계를 한 번 더 짚어. 그림에서는 김이 위로, 살짝 바리케이드 쪽으로 오르지만 넘어가진 않아.",
+   "text_sha256": "49e1348fa81ed8598ad9aab8664e115f8962b6d392d302c4c4adfb393c05b646",
+   "audio_sha256": "0e66fd8371cda61c8e24f5e8335ebd7c2fa75a5a752df3f90428a8b96da66ca3",
+   "image_sha256": "9a979837be538b35b6389042dcf86440f9a90ac35fb5e3e9aac8f648aea90e51",
+   "source_commit": "7c8c5916c7319d791e24415c6f58743d18c06ee0",
+   "station_sha256": "64e82889bf7133b0d9f83d7a6e832b287f9047a4f12cb6685946e9c56a3143e2",
+   "original_wav_sha256": "8ce980b8a9a297effeb1165af48894924c53646eb90cab09ebc221ab74b4e82c",
+   "original_wav_filename": "wei19-4.full.wav"
+  },
+  "wei19-4#4": {
+   "src": "audio/narration/wei19-4__s4__9c8bf181fc86.mp3",
+   "text": "맨 오른쪽, 적십자 완장을 찬 붉은 돌덩이가 찡그린 얼굴로 오른쪽만 봐. 적십자, 적석지. 붉은 돌이라 붉을 적과 돌 석을 한 번 더 짚어. 포제 명단 장에서 복주머니를 쥐던 그 완장 돌이야. 육적, 육개장과 적십자 돌. 이 짝도 함께 쓰지 않는 십구외야.",
+   "text_sha256": "9c8bf181fc86026ed59e78c27bf2db21b6991a77e63c51899840bc9f30d30d94",
+   "audio_sha256": "f51c94adf788a48ce2e96e3ba8caa3ae533f97c11ae621628054584a0554d82f",
+   "image_sha256": "9a979837be538b35b6389042dcf86440f9a90ac35fb5e3e9aac8f648aea90e51",
+   "source_commit": "7c8c5916c7319d791e24415c6f58743d18c06ee0",
+   "station_sha256": "6aa1ddf2c507ffa46ba4b6a107e1aa8cdacf46b3a053da54c0a8c1cc3593ace1",
+   "original_wav_sha256": "8ce980b8a9a297effeb1165af48894924c53646eb90cab09ebc221ab74b4e82c",
+   "original_wav_filename": "wei19-4.full.wav"
+  },
+  "wei19-4#5": {
+   "src": "audio/narration/wei19-4__s5__a9b35752b8eb.mp3",
+   "text": "한 바퀴 다시. 왕관 인삼 바리케이드 유령 오렌지, 한참 띄우고, 계피 육개장 바리케이드 적십자 돌. 인오, 육적. 십구외 아홉을 다 이으면, 유박 수비 낭밀, 파견 정울 아삼, 천초서, 인오 육적. 같은 인삼외오령지가 칠정 상외 괄호에도 있다는 걸 기억해. 상외 장에선 독이 줄어드는 쪽으로, 이 장에선 함께 쓰지 않는 쪽으로, 교재가 두 자리에 다 놓았어.",
+   "text_sha256": "a9b35752b8eb8307476b3227a9a563be89151ca7fc104d23d57cb3f3cdb89844",
+   "audio_sha256": "2146292c5493e40be1e949b32907dbd0fa2add3673cf9301bb112cb31461cb52",
+   "image_sha256": "9a979837be538b35b6389042dcf86440f9a90ac35fb5e3e9aac8f648aea90e51",
+   "source_commit": "7c8c5916c7319d791e24415c6f58743d18c06ee0",
+   "station_sha256": "b262be82a87649656456427cc3f4d302d110b1225ae606373e6ed2a836c0797f",
+   "original_wav_sha256": "8ce980b8a9a297effeb1165af48894924c53646eb90cab09ebc221ab74b4e82c",
+   "original_wav_filename": "wei19-4.full.wav"
   }
  }
 }

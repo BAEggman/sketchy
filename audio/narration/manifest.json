@@ -7073,6 +7073,94 @@
    "station_sha256": "66229d9918fcf9618887264e75532e2114e21abf7d3a8aa1155a78d11af03020",
    "original_wav_sha256": "3d85985aff95183a49077210ebce7c7c3a87e8cac1c978a46437986d6322004a",
    "original_wav_filename": "new-jq-12.full.wav"
+  },
+  "new-jq-13#0": {
+   "src": "audio/narration/new-jq-13__s0__2a1539199563.mp3",
+   "text": "밤의 유령의 집이다. 혼이라는 글자는 구름 운에 귀신 귀, 구름 귀신. 백은 흰 백에 귀신 귀, 흰 보자기 귀신. 구름 귀신은 등불, 신을 따라다니고, 흰 귀신은 쌀자루, 정에 붙어 드나든다. 위층 왼쪽 방부터 차례로 본다. 출전은 영추 본신.",
+   "text_sha256": "2a1539199563794ae0cd102bc80c45333ef016cd3bbb4ac9dc6c5ef94a1aafc0",
+   "audio_sha256": "943749371b20798d9b280572a9c572bd9fef1c9d0dec61cef020968d8a1c6c13",
+   "image_sha256": "99b29559942441de6ba235a56641d94ec9ac47b8b9570a7a3598dceaabd2ff45",
+   "source_commit": "ebbbcff4c4f9111080206e031ef3de99dd85a444",
+   "station_sha256": "0d581158f6fc1ccc9d465d6930c6cf958707bf1760ccd8428e8a62b2c33a622b",
+   "original_wav_sha256": "a93560f1edb4218038b1e92c094863b01d02a742416193e53dfa3792821f3f37",
+   "original_wav_filename": "new-jq-13.full.wav"
+  },
+  "new-jq-13#1": {
+   "src": "audio/narration/new-jq-13__s1__b37d405544dd.mp3",
+   "text": "위 왼쪽 방, 흰 주먹밥 둘, 두 정이 맞부딪혀 불꽃이 튀고, 그 불꽃이 위의 등불, 신을 켠다. 영추 본신, 양정상박위지신, 두 정이 서로 부딪혀 이룬 것을 신이라 한다. 부모 양쪽 정기의 만남이다. 결기편의 양신상박 합이성형은 정, 글자가 엇갈리니 조심.",
+   "text_sha256": "b37d405544dd0e8ef02c8d168e26199ad81829bca345f702e7dfac00e92332dd",
+   "audio_sha256": "64c5614ecde383e9ee4efc601676f374c22493c4bcec55a4bc640dda34610791",
+   "image_sha256": "99b29559942441de6ba235a56641d94ec9ac47b8b9570a7a3598dceaabd2ff45",
+   "source_commit": "ebbbcff4c4f9111080206e031ef3de99dd85a444",
+   "station_sha256": "dc0baf71fd14d5e9217e3a879326291aad566f40235abb93bb74864b8583b235",
+   "original_wav_sha256": "a93560f1edb4218038b1e92c094863b01d02a742416193e53dfa3792821f3f37",
+   "original_wav_filename": "new-jq-13.full.wav"
+  },
+  "new-jq-13#2": {
+   "src": "audio/narration/new-jq-13__s2__b988017453e4.mp3",
+   "text": "위 가운데 방, 남자가 등불을 들고 걷고, 구름 귀신이 바로 뒤를 따라 떠다닌다. 수신왕래자위지혼, 신을 따라 오가는 것을 혼이라 한다. 구름 귀신, 혼은 등불을 따른다.",
+   "text_sha256": "b988017453e4167c0ae6a5747a4661bf2158385769d4341c3ce8688cb6960b17",
+   "audio_sha256": "9d1eb2d9f77e487653292e2daf129d66ce339b97476aea83cfc34daffb701319",
+   "image_sha256": "99b29559942441de6ba235a56641d94ec9ac47b8b9570a7a3598dceaabd2ff45",
+   "source_commit": "ebbbcff4c4f9111080206e031ef3de99dd85a444",
+   "station_sha256": "1ec6fe842411831e1b25f09307a9e8c70a123ba4a9c3e74a4c2a098a5fd67280",
+   "original_wav_sha256": "a93560f1edb4218038b1e92c094863b01d02a742416193e53dfa3792821f3f37",
+   "original_wav_filename": "new-jq-13.full.wav"
+  },
+  "new-jq-13#3": {
+   "src": "audio/narration/new-jq-13__s3__48ead2e58eb8.mp3",
+   "text": "아래 왼쪽 방, 남자가 흰 쌀자루, 정을 지고 문을 드나든다. 흰 귀신이 자루에 딱 붙어 함께 들어 준다. 병정이출입자위지백, 정과 나란히 드나드는 것은 백이다. 혼이 아니다, 시험 단골 함정. 구름은 등불을, 흰 것은 쌀을 따른다.",
+   "text_sha256": "48ead2e58eb811562a5a6d5fc806056946f6deacd54ae904220419926dd62111",
+   "audio_sha256": "fb6da286881ca617d4af2c297e947f88dfb57b2ef55a48d49900daea99cb2318",
+   "image_sha256": "99b29559942441de6ba235a56641d94ec9ac47b8b9570a7a3598dceaabd2ff45",
+   "source_commit": "ebbbcff4c4f9111080206e031ef3de99dd85a444",
+   "station_sha256": "0fdd9361ccda8898b25be449eefbb310af9cf5149f2becc4663682b859fc0460",
+   "original_wav_sha256": "a93560f1edb4218038b1e92c094863b01d02a742416193e53dfa3792821f3f37",
+   "original_wav_filename": "new-jq-13.full.wav"
+  },
+  "new-jq-13#4": {
+   "src": "audio/narration/new-jq-13__s4__09540ab7bd6b.mp3",
+   "text": "두 귀신은 돕는 신하다. 구름 귀신은 등불 든 남자를 뒤에서 받친다, 혼자 신기지보필야, 혼은 신기를 돕는다. 흰 귀신은 쌀자루를 함께 든다, 백자 정기지광좌야, 백은 정기를 돕는다. 아래 오른쪽 방, 밀짚모자 농부, 비가 손가락에 붉은 실을 묶는다. 의는 기이불망, 기억해 잊지 않는 것. 대머리 장사, 신은 과녁 하나를 곁에 두고 눈 하나 깜빡 않고 노려본다. 지는 전의불이, 뜻을 오로지해 옮기지 않는 것. 신은 정기지화성, 정기가 변해 이룬 것.",
+   "text_sha256": "09540ab7bd6be2ada42b0ec912a464086be652cf2b1e9949a50a352c24ec4b27",
+   "audio_sha256": "24684b08ed9fd6f6093d98de9670e9ae60eac475670c787747bb2bf322347d04",
+   "image_sha256": "99b29559942441de6ba235a56641d94ec9ac47b8b9570a7a3598dceaabd2ff45",
+   "source_commit": "ebbbcff4c4f9111080206e031ef3de99dd85a444",
+   "station_sha256": "105c5e29bcf239d7d2b4a27ffa635897412eeb2bb8bd3c98fd8287eb92d1f795",
+   "original_wav_sha256": "a93560f1edb4218038b1e92c094863b01d02a742416193e53dfa3792821f3f37",
+   "original_wav_filename": "new-jq-13.full.wav"
+  },
+  "new-jq-13#5": {
+   "src": "audio/narration/new-jq-13__s5__664953fca9f9.mp3",
+   "text": "위 오른쪽 방, 자는 남자의 꿈 풍선 속을 구름 귀신이 꿈결처럼 떠돈다. 혼지위언 여몽매황홀, 혼이란 꿈속처럼 어렴풋하고 황홀한 것. 이리저리 바뀌고 떠도는 정신활동이 혼이다.",
+   "text_sha256": "664953fca9f9f2f4d275093cbe5c0489899be6869512c0f72be3c2409560f7c9",
+   "audio_sha256": "ebef74136a4a1fe6db841df6e870e2198b19220fda6df77023cd894418b6a930",
+   "image_sha256": "99b29559942441de6ba235a56641d94ec9ac47b8b9570a7a3598dceaabd2ff45",
+   "source_commit": "ebbbcff4c4f9111080206e031ef3de99dd85a444",
+   "station_sha256": "c02bfd1c482b5102751d18589e26fcf0963438345030174bf870d051d164ea63",
+   "original_wav_sha256": "a93560f1edb4218038b1e92c094863b01d02a742416193e53dfa3792821f3f37",
+   "original_wav_filename": "new-jq-13.full.wav"
+  },
+  "new-jq-13#6": {
+   "src": "audio/narration/new-jq-13__s6__b46b6ae77bcc.mp3",
+   "text": "아래 가운데 방, 흰 귀신이 깃털로 발바닥을 간질이고 은색 바늘로 찌른다. 따끔! 남자가 한 발로 펄쩍 뛰며 찡그린다. 백지위용 능동능작 통양유지이각, 백이 하는 일은 움직이고 동작하는 것, 아픔과 가려움을 이로써 느낀다. 본능적인 감각과 동작이 백이다.",
+   "text_sha256": "b46b6ae77bccfa222ae1f76d6e8f3098ef00860a9d4f6324f3e213dfd08c678f",
+   "audio_sha256": "edc2e79aa1a43e183a6a5c7a7e1237edeb7c938a72a56e201f48c09f169789ab",
+   "image_sha256": "99b29559942441de6ba235a56641d94ec9ac47b8b9570a7a3598dceaabd2ff45",
+   "source_commit": "ebbbcff4c4f9111080206e031ef3de99dd85a444",
+   "station_sha256": "5a9f873efc9f05b49675324f5000f0cee09079a735f53698e3ec65e8a7a4a418",
+   "original_wav_sha256": "a93560f1edb4218038b1e92c094863b01d02a742416193e53dfa3792821f3f37",
+   "original_wav_filename": "new-jq-13.full.wav"
+  },
+  "new-jq-13#7": {
+   "src": "audio/narration/new-jq-13__s7__2b5c49f85639.mp3",
+   "text": "다시 본다. 주먹밥 둘이 부딪혀 등불, 양정상박위지신. 등불을 따라가는 구름 귀신, 수신왕래자위지혼, 신기지보필, 꿈속을 떠도는 여몽매황홀. 쌀자루에 붙어 드나드는 흰 귀신, 병정이출입자위지백, 정기지광좌, 간지럼과 따끔함을 느끼는 통양유지이각. 실 묶은 농부는 의 기이불망, 과녁 보는 장사는 지 전의불이.",
+   "text_sha256": "2b5c49f85639189f6663c87cb39f5f9c78aae387e7f5342f4e70bb53d350a562",
+   "audio_sha256": "d1b7852649f07c4a64948b7ee148e5b537eeeedaafb06c29d992a6be66a7118a",
+   "image_sha256": "99b29559942441de6ba235a56641d94ec9ac47b8b9570a7a3598dceaabd2ff45",
+   "source_commit": "ebbbcff4c4f9111080206e031ef3de99dd85a444",
+   "station_sha256": "c0e8e908bd32a7a6c02e29f3390cf48bbaec076f02830cf67fd1881759912bca",
+   "original_wav_sha256": "a93560f1edb4218038b1e92c094863b01d02a742416193e53dfa3792821f3f37",
+   "original_wav_filename": "new-jq-13.full.wav"
   }
  }
 }

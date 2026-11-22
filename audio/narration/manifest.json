@@ -8602,6 +8602,105 @@
    "station_sha256": "d48c1771fb1dc7e81cc0c0433a91cb72a501b8edd233a3e2312b604cf11da611",
    "original_wav_sha256": "65c551ec837fd261b4233ba77eb2f192c68528e4d85c8ed6e7bb461a9d8525d0",
    "original_wav_filename": "new-jq-21.full.wav"
+  },
+  "new-jq-22#0": {
+   "src": "audio/narration/new-jq-22__s0__68c2c86350cd.mp3",
+   "text": "산속 약수터다. 동원은 한 샘, 뿌리가 같다는 말이다. 왼쪽 바위 샘은 꼭지 둘로 갈린다, 진과 혈, 그리고 땀과 혈. 오른쪽 바위틈에는 쌍둥이 샘, 정과 혈, 을계동원. 세 가지 동원을 차례로 본다.",
+   "text_sha256": "68c2c86350cd9f1ad9ef0a617f145cdbe5246dbc5994b816181838d62bc613cb",
+   "audio_sha256": "34de7298b873e969ba301606796620d13240899e198f1176925034ed058fa18a",
+   "image_sha256": "62ea5678f0f20cd7bf6bfe8ae9eed75a742ec082b6dd0abf0f69a0e29a0c6f0a",
+   "source_commit": "680a6b7ca3e73823b79d5994f7501b21cb06fdcd",
+   "station_sha256": "212e05cc8b141b8276f9883dbc799dcfe8502e6f7c035c71f3f2e61b7ffa9442",
+   "original_wav_sha256": "6ac0cd51d5daeedd05816c544a9dc556ed97ec46499c900be21038fa72781212",
+   "original_wav_filename": "new-jq-22.full.wav"
+  },
+  "new-jq-22#1": {
+   "src": "audio/narration/new-jq-22__s1__ddbd526f44a7.mp3",
+   "text": "왼쪽, 논에서 흘러든 물이 한 바위 샘에 고였다, 비위가 운화한 수곡정미, 같은 뿌리다. 샘에서 나온 꼭지 둘, 맑은 물은 진, 붉은 물은 혈. 진혈동원, 근원이 같고 서로 바뀐다. 둘 다 형체 있고 고요한 음이며, 적시고 기른다.",
+   "text_sha256": "ddbd526f44a7315a1fe2c14e4278a0ab13fdf69b423c2bcdf2f21af00f28fd27",
+   "audio_sha256": "875b6136dc85d17982bd302e86d4fc0c04b8ff2153edb516ddf624779f9b2b9b",
+   "image_sha256": "62ea5678f0f20cd7bf6bfe8ae9eed75a742ec082b6dd0abf0f69a0e29a0c6f0a",
+   "source_commit": "680a6b7ca3e73823b79d5994f7501b21cb06fdcd",
+   "station_sha256": "7aa98987644b9a775b9824cda58e5b19e8fe6d530657abbfc66b40c351eedd3d",
+   "original_wav_sha256": "6ac0cd51d5daeedd05816c544a9dc556ed97ec46499c900be21038fa72781212",
+   "original_wav_filename": "new-jq-22.full.wav"
+  },
+  "new-jq-22#2": {
+   "src": "audio/narration/new-jq-22__s2__734d4eed5605.mp3",
+   "text": "두 꼭지를 짧은 관이 잇는다, 맑은 물이 붉은 쪽으로, 붉은 물이 맑은 쪽으로 넘나든다. 진가화위혈 혈가화위진, 진은 혈로, 혈은 진으로 바뀐다. 그래서 한쪽이 모자라면 다른 쪽도 마른다, 진휴즉혈조 혈조즉진고.",
+   "text_sha256": "734d4eed5605dc921f0a4a201d19e114817dfddb8c6aa9e99941ec80189370f2",
+   "audio_sha256": "b25c02dfd13bd7511e229005687e1e62558b0b5f2b00541443feeb5f35e1dc9d",
+   "image_sha256": "62ea5678f0f20cd7bf6bfe8ae9eed75a742ec082b6dd0abf0f69a0e29a0c6f0a",
+   "source_commit": "680a6b7ca3e73823b79d5994f7501b21cb06fdcd",
+   "station_sha256": "32298d244c027082c4800ea89a0dd9997445bdb535269b0df40dc6c65e1b125d",
+   "original_wav_sha256": "6ac0cd51d5daeedd05816c544a9dc556ed97ec46499c900be21038fa72781212",
+   "original_wav_filename": "new-jq-22.full.wav"
+  },
+  "new-jq-22#3": {
+   "src": "audio/narration/new-jq-22__s3__7cdd41307f3c.mp3",
+   "text": "가운데 벤치, 피 흘린 팔에 붕대를 감은 등산객은 땡볕에도 땀 한 방울 없다, 탈혈자무한, 혈을 잃은 이는 땀이 없다. 옆 사람은 땀을 쏟아 창백하다, 탈한자무혈, 땀을 잃은 이는 혈이 없다. 영추 영위생회, 한혈동원. 한위심지액, 땀은 심의 액이다.",
+   "text_sha256": "7cdd41307f3c711fb6e14fbd63d70a167b71bab98b5feeb23e88662f114a2d37",
+   "audio_sha256": "bc6b18681d64af92ee8fdf97c8103343252993f2ca3a828f61550c52b6d00302",
+   "image_sha256": "62ea5678f0f20cd7bf6bfe8ae9eed75a742ec082b6dd0abf0f69a0e29a0c6f0a",
+   "source_commit": "680a6b7ca3e73823b79d5994f7501b21cb06fdcd",
+   "station_sha256": "66484cdf0d526b18519d35285f9a7d17417c4520edd4cc0354642376d3043196",
+   "original_wav_sha256": "6ac0cd51d5daeedd05816c544a9dc556ed97ec46499c900be21038fa72781212",
+   "original_wav_filename": "new-jq-22.full.wav"
+  },
+  "new-jq-22#4": {
+   "src": "audio/narration/new-jq-22__s4__31382fadba49.mp3",
+   "text": "앞쪽, 코피를 막은 남자 곁, 김이 새는 나무 한증막 문 앞에서 의사가 손바닥을 들어 막는다, 땀 내러 들어가면 안 된다. 뉵가불가발한, 망혈가불가발한, 코피가 잦은 이, 피를 많이 잃은 이는 땀을 내면 안 된다. 한혈동원의 둘째 근거다.",
+   "text_sha256": "31382fadba49414f0bd3429812b84d842c53827b15b64b87aa0ece7baf074f8d",
+   "audio_sha256": "e77d010bc02a158435a695f6fadf0b7674274de8392456dbdb47edd4e60ae856",
+   "image_sha256": "62ea5678f0f20cd7bf6bfe8ae9eed75a742ec082b6dd0abf0f69a0e29a0c6f0a",
+   "source_commit": "680a6b7ca3e73823b79d5994f7501b21cb06fdcd",
+   "station_sha256": "e179157d605ba4a7bac25b5b270feca158f4b9e7784b2812f580fb3764e03ea6",
+   "original_wav_sha256": "6ac0cd51d5daeedd05816c544a9dc556ed97ec46499c900be21038fa72781212",
+   "original_wav_filename": "new-jq-22.full.wav"
+  },
+  "new-jq-22#5": {
+   "src": "audio/narration/new-jq-22__s5__e1d93686ab00.mp3",
+   "text": "오른쪽 바위틈, 쌍둥이 샘이 나란히 솟는다, 붉은 샘은 혈, 뽀얀 흰 샘은 정. 혈즉정지속야, 혈은 정의 무리다. 정과 혈은 서로 낳고 서로 바뀐다.",
+   "text_sha256": "e1d93686ab0081fb1a4c657b59154b15376d1b9fc0783447a98d5f3b0cea8565",
+   "audio_sha256": "939eec926f7438f15420cd8c21025d5ca61b34246d4a8516915c77ec6f95aa67",
+   "image_sha256": "62ea5678f0f20cd7bf6bfe8ae9eed75a742ec082b6dd0abf0f69a0e29a0c6f0a",
+   "source_commit": "680a6b7ca3e73823b79d5994f7501b21cb06fdcd",
+   "station_sha256": "e586fd61e6dd46446a94f975bcc82dc738b1393349fc3ca2587a293985a56368",
+   "original_wav_sha256": "6ac0cd51d5daeedd05816c544a9dc556ed97ec46499c900be21038fa72781212",
+   "original_wav_filename": "new-jq-22.full.wav"
+  },
+  "new-jq-22#6": {
+   "src": "audio/narration/new-jq-22__s6__91e4ec9cc890.mp3",
+   "text": "붉은 샘을 지키는 초록 장군 간과, 흰 샘을 지키는 대머리 장사 신이 악수한다. 간은 을목, 신은 계수, 을계동원, 간신동원이다. 간장혈, 신장정, 정과 혈의 동원이다. 왼쪽 꼭지의 진혈이 아니다, 혼동 함정.",
+   "text_sha256": "91e4ec9cc890e4d10ada3ea133aa2e21bb0fba2b04b09b2f25e5620c4dc9f828",
+   "audio_sha256": "cf62d84fdbc820fb7d7f5afc0524328d58c93e6219a41000f2d5661227cbddba",
+   "image_sha256": "62ea5678f0f20cd7bf6bfe8ae9eed75a742ec082b6dd0abf0f69a0e29a0c6f0a",
+   "source_commit": "680a6b7ca3e73823b79d5994f7501b21cb06fdcd",
+   "station_sha256": "79663b107a3443b31f9dceae6f5258fa155d94305f0507b66731755815e16bfc",
+   "original_wav_sha256": "6ac0cd51d5daeedd05816c544a9dc556ed97ec46499c900be21038fa72781212",
+   "original_wav_filename": "new-jq-22.full.wav"
+  },
+  "new-jq-22#7": {
+   "src": "audio/narration/new-jq-22__s7__cbeedc4d7565.mp3",
+   "text": "오른쪽 앞, 머리 모양 돌독에 뽀얀 흰 물만 들어간다. 붉은 물은 곁을 지나쳐 흐른다. 정혈은 서로 낳지만, 수, 뇌수는 혈에서 나오지 않는다. 정이 뇌수를 낳는다. 정혈동원의 예외로 꼭 기억할 것.",
+   "text_sha256": "cbeedc4d75654c031b6ee10334185c504ec4e8cf1c2d7130f5375974ca581a24",
+   "audio_sha256": "808b51d3b5b0b8fb88d838f985511e3ed30fb079706f056509361799b65a62c1",
+   "image_sha256": "62ea5678f0f20cd7bf6bfe8ae9eed75a742ec082b6dd0abf0f69a0e29a0c6f0a",
+   "source_commit": "680a6b7ca3e73823b79d5994f7501b21cb06fdcd",
+   "station_sha256": "2bca75dc7b1276b3b650096aad5561074d0918dde4b7dcd88786734e36b0e109",
+   "original_wav_sha256": "6ac0cd51d5daeedd05816c544a9dc556ed97ec46499c900be21038fa72781212",
+   "original_wav_filename": "new-jq-22.full.wav"
+  },
+  "new-jq-22#8": {
+   "src": "audio/narration/new-jq-22__s8__6acf111d0503.mp3",
+   "text": "다시 본다. 논물 샘의 두 꼭지, 진혈동원, 진가화위혈 혈가화위진. 피 흘린 등산객과 땀범벅 등산객, 탈혈자무한 탈한자무혈, 한혈동원. 한증막을 막는 의사, 뉵가, 망혈가불가발한. 쌍둥이 샘과 장군, 장사의 악수, 혈즉정지속, 을계동원은 정과 혈. 머리 독엔 흰 물만, 수는 정에서.",
+   "text_sha256": "6acf111d050344dd1375ce8bb899802d20f6db0c6fb3ee5efeff03dd917ae2bf",
+   "audio_sha256": "570d1044d7c5321923e46a16b18c44e51e8150fd60f582b394aa689cdd2a4f0f",
+   "image_sha256": "62ea5678f0f20cd7bf6bfe8ae9eed75a742ec082b6dd0abf0f69a0e29a0c6f0a",
+   "source_commit": "680a6b7ca3e73823b79d5994f7501b21cb06fdcd",
+   "station_sha256": "d7042914596962cc0c81d18ae3aef45fc29bcaf8634e05d8e5a3dda6f7eaafac",
+   "original_wav_sha256": "6ac0cd51d5daeedd05816c544a9dc556ed97ec46499c900be21038fa72781212",
+   "original_wav_filename": "new-jq-22.full.wav"
   }
  }
 }

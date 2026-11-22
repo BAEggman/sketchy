@@ -8272,6 +8272,116 @@
    "station_sha256": "5782bca0a9c61fc1d4e1068a979da75c0239d7e1a6b1995ce359d5f3e91364a4",
    "original_wav_sha256": "912e16c5ead2d4556ca82812bd3a4397a23cc3cb01815d0789be5b3981f57724",
    "original_wav_filename": "new-jq-18.full.wav"
+  },
+  "new-jq-19#0": {
+   "src": "audio/narration/new-jq-19__s0__01c5c9ac2c21.mp3",
+   "text": "분수 공원이다. 물을 받아들이고, 끌어올리고, 위에서 뿌리고, 지하에서 데워 돌리고, 연못가 석상들로 내보낸다, 진액의 생성, 수포, 배설이다. 왼쪽 깔때기부터, 분수 기둥을 타고 꼭대기로, 지하로, 그리고 오른쪽 석상들까지 본다.",
+   "text_sha256": "01c5c9ac2c2195e0ec293a38968bd71711848fccff9b03fee4ea53cfe0ae38fd",
+   "audio_sha256": "7df96920f794f89603e3424d338c140d2640bb85695b043897561c4848cb4c86",
+   "image_sha256": "8eb67e27baa3079a70665c6e120d700eb28e9293ac7eb1e697232f0b26021f07",
+   "source_commit": "9556d71a4ef0f8687299650e6ad5fbc5b266b6f8",
+   "station_sha256": "755670825fdb1c3586b232037e4497683d464e5e4b778bd05cfdef5754d0c00b",
+   "original_wav_sha256": "05b4ab442e221cb6b3a95f58940d24a18dae0433f2235c3b30a50327231b1543",
+   "original_wav_filename": "new-jq-19.full.wav"
+  },
+  "new-jq-19#1": {
+   "src": "audio/narration/new-jq-19__s1__96301e0b59d3.mp3",
+   "text": "왼쪽 깔때기. 요리사 위가 국물을 붓는다, 유일정기, 정기가 넘쳐 흐른다. 붉은 앞치마 소장이 체로 붓는다, 소장주액. 곁의 흰 작업복에 솔 든 대장, 대장주진. 받아들인 물은 땅속 관을 타고 분수로, 농부 비에게 올라간다, 상수어비. 카드의 유일 표기는 유일로 읽는다.",
+   "text_sha256": "96301e0b59d3fe2d479fa4d937626ea138ad143771a3b2ff81a8e84446896cea",
+   "audio_sha256": "298f10369dd8efca10d9633565d01bc4853a9851cb6edeadceffed68f5e40b11",
+   "image_sha256": "8eb67e27baa3079a70665c6e120d700eb28e9293ac7eb1e697232f0b26021f07",
+   "source_commit": "9556d71a4ef0f8687299650e6ad5fbc5b266b6f8",
+   "station_sha256": "52a84a195bfd14ba090a3096decef5468833280de7e2d3f28bb7b6493e5d55a7",
+   "original_wav_sha256": "05b4ab442e221cb6b3a95f58940d24a18dae0433f2235c3b30a50327231b1543",
+   "original_wav_filename": "new-jq-19.full.wav"
+  },
+  "new-jq-19#2": {
+   "src": "audio/narration/new-jq-19__s2__15c797289daa.mp3",
+   "text": "분수 기둥, 농부 비가 손펌프를 힘껏 저어 물을 위로 끌어올린다. 비기산정, 비의 기가 정을 흩어 위로 올려 보내고, 사방으로 전해 준다.",
+   "text_sha256": "15c797289daae83526d6be6bedd8e45878889e72ab7e3b9b318f6ccf6fa1f528",
+   "audio_sha256": "5811681cbf131dffe810764b5620fc1d373717d1db7e2f8b3e0de91c0feb3077",
+   "image_sha256": "8eb67e27baa3079a70665c6e120d700eb28e9293ac7eb1e697232f0b26021f07",
+   "source_commit": "9556d71a4ef0f8687299650e6ad5fbc5b266b6f8",
+   "station_sha256": "2bbc5b89273789482e6579258a3a167b5446918436d9427bac3a0205bcdc3c99",
+   "original_wav_sha256": "05b4ab442e221cb6b3a95f58940d24a18dae0433f2235c3b30a50327231b1543",
+   "original_wav_filename": "new-jq-19.full.wav"
+  },
+  "new-jq-19#3": {
+   "src": "audio/narration/new-jq-19__s3__5b09a10c36bf.mp3",
+   "text": "꼭대기, 흰 옷 노인 폐가 물을 위로, 바깥으로 뿜는다, 선발. 물은 소나기처럼 아래로 떨어진다, 숙강. 폐통조수도, 물길을 고르게 튼다. 맨 위에서 물이 시작되니 수지상원은 폐, 소장이라 하면 함정이다.",
+   "text_sha256": "5b09a10c36bfbda48fc7aa8578e9356f765df4c139f8ce24f3971b8fe0b81693",
+   "audio_sha256": "dcf42a5403809011fed93097df529ec66a48dc4dd5fdf4df4f0463fb81c915cd",
+   "image_sha256": "8eb67e27baa3079a70665c6e120d700eb28e9293ac7eb1e697232f0b26021f07",
+   "source_commit": "9556d71a4ef0f8687299650e6ad5fbc5b266b6f8",
+   "station_sha256": "124b775b71acbca37db3e60d6df00038ba6cdbab8a055e44ce644a0fe706b607",
+   "original_wav_sha256": "05b4ab442e221cb6b3a95f58940d24a18dae0433f2235c3b30a50327231b1543",
+   "original_wav_filename": "new-jq-19.full.wav"
+  },
+  "new-jq-19#4": {
+   "src": "audio/narration/new-jq-19__s4__3c10839a7779.mp3",
+   "text": "분수 아래 지하, 대머리 장사 신이 보일러에 불을 지피고 김이 구름처럼 솟는다, 증등기화. 신이 진액 대사 전체를 주재한다, 신주수. 생성, 수포, 배설의 전 과정을 한데 일러 삼초기화라 한다.",
+   "text_sha256": "3c10839a77798f30a5eedd2bba2bde80ef1574e44976233fdd449378f7d4678b",
+   "audio_sha256": "be01293922119610ff6c3bcabd6ec68a154e134bb219a16028a57f5ac73db13c",
+   "image_sha256": "8eb67e27baa3079a70665c6e120d700eb28e9293ac7eb1e697232f0b26021f07",
+   "source_commit": "9556d71a4ef0f8687299650e6ad5fbc5b266b6f8",
+   "station_sha256": "a08300a4c0e345546287e83200629a58757f9d597afb8e0df505d7822bfe2dd5",
+   "original_wav_sha256": "05b4ab442e221cb6b3a95f58940d24a18dae0433f2235c3b30a50327231b1543",
+   "original_wav_filename": "new-jq-19.full.wav"
+  },
+  "new-jq-19#5": {
+   "src": "audio/narration/new-jq-19__s5__4319fc9e1a34.mp3",
+   "text": "연못가, 초록 장군 간이 밸브를 돌린다. 간주소설, 기기를 시원하게 틔워 진액이 막히지 않고 돌아 흐르게, 환류하게 한다.",
+   "text_sha256": "4319fc9e1a34936285e1725c5b21b00e2b57d83b3f6beb4d265d5b6e3bbb5f60",
+   "audio_sha256": "e59320323c6c88352a1f8f5f7ee7c3e10faf1a9cdcff5fd3234e7306ae6a4591",
+   "image_sha256": "8eb67e27baa3079a70665c6e120d700eb28e9293ac7eb1e697232f0b26021f07",
+   "source_commit": "9556d71a4ef0f8687299650e6ad5fbc5b266b6f8",
+   "station_sha256": "abce34011a8df8aae67cd5f78132d7d6162ba7fb3dfd76dbb4da1866bd48bd25",
+   "original_wav_sha256": "05b4ab442e221cb6b3a95f58940d24a18dae0433f2235c3b30a50327231b1543",
+   "original_wav_filename": "new-jq-19.full.wav"
+  },
+  "new-jq-19#6": {
+   "src": "audio/narration/new-jq-19__s6__db569686b2ec.mp3",
+   "text": "주황 삽 인부, 삼초가 둘, 땅속 물길을 파고, 분수 턱을 터 물길을 낸다. 삼초자 결독지관, 물길을 터 주는 벼슬이다. 진액이 퍼지고 빠져나가는 통로, 수도다.",
+   "text_sha256": "db569686b2ec2bbe83ba1a1f17708ee2b37492911e358b0450d42d7cc8e46f05",
+   "audio_sha256": "61be66374d59f69ebf22fde4faefd414a5f96d7dd35810dcf8c86a501bd413f9",
+   "image_sha256": "8eb67e27baa3079a70665c6e120d700eb28e9293ac7eb1e697232f0b26021f07",
+   "source_commit": "9556d71a4ef0f8687299650e6ad5fbc5b266b6f8",
+   "station_sha256": "f7ab648f4a2f2f9b02a2c8cdb2c5d66e10a2c41ee46479930086ba9af5355d15",
+   "original_wav_sha256": "05b4ab442e221cb6b3a95f58940d24a18dae0433f2235c3b30a50327231b1543",
+   "original_wav_filename": "new-jq-19.full.wav"
+  },
+  "new-jq-19#7": {
+   "src": "audio/narration/new-jq-19__s7__691e7864a4bc.mp3",
+   "text": "오른쪽 연못가, 물이 나가는 길이 넷. 땀범벅 석상, 한. 입김 내뿜는 석상, 호기, 폐의 날숨에 물기가 실려 나간다. 갈색 물 쏟는 관, 대변, 대장이 찌꺼기를 내보낼 때 물이 함께. 오줌 누는 꼬마, 요, 신과 방광의 기화로 나가는 주된 길. 물고기 석상은 입을 코르크로 막아 말랐다, 구토는 정상 배설 길이 아니다.",
+   "text_sha256": "691e7864a4bc7c97a33b0f7a9e208ac54e7c46b2bbb724ccd890a70cb10f48b0",
+   "audio_sha256": "b6da6eacfdba02d2a41a7ffdeb2f3187230d73f843de63c2cb36a97af902ddda",
+   "image_sha256": "8eb67e27baa3079a70665c6e120d700eb28e9293ac7eb1e697232f0b26021f07",
+   "source_commit": "9556d71a4ef0f8687299650e6ad5fbc5b266b6f8",
+   "station_sha256": "3c6e09a65cb94dfbaea04540bc335e5494a066bb35677fded0d080231b256fa4",
+   "original_wav_sha256": "05b4ab442e221cb6b3a95f58940d24a18dae0433f2235c3b30a50327231b1543",
+   "original_wav_filename": "new-jq-19.full.wav"
+  },
+  "new-jq-19#8": {
+   "src": "audio/narration/new-jq-19__s8__286319f14107.mp3",
+   "text": "꼭대기 노인 폐가 바깥으로 뿜은 물보라가 오른쪽으로 쏟아지고, 그 아래 석상 온몸에 땀방울이 맺혔다. 폐의 선발이 진액을 피모로 보내 땀구멍, 한공으로 내보낸다. 한공을 기문이라고도 한다.",
+   "text_sha256": "286319f141079396adaffe707851b6e5bac7b7c506b3f5492b937688a1ec5c11",
+   "audio_sha256": "fe4eccbce126044abf78e3dd9ddcd9e0e133eb44d21b813c8d1508788f92479c",
+   "image_sha256": "8eb67e27baa3079a70665c6e120d700eb28e9293ac7eb1e697232f0b26021f07",
+   "source_commit": "9556d71a4ef0f8687299650e6ad5fbc5b266b6f8",
+   "station_sha256": "42a18f8b9ad6fb321aa79b2e0bb2131d5ff5b8f0527a34d1ac6bd36aa686a6b6",
+   "original_wav_sha256": "05b4ab442e221cb6b3a95f58940d24a18dae0433f2235c3b30a50327231b1543",
+   "original_wav_filename": "new-jq-19.full.wav"
+  },
+  "new-jq-19#9": {
+   "src": "audio/narration/new-jq-19__s9__ee8dd5ea6e41.mp3",
+   "text": "다시 본다. 요리사, 체, 솔이 부은 물, 위 유일정기, 소장주액, 대장주진, 상수어비. 펌프 농부, 비기산정. 꼭대기 노인, 폐 통조수도, 수지상원. 지하 보일러 장사, 신 증등기화로 주재, 삼초기화. 밸브 장군, 간 소설. 주황 인부, 삼초 결독지관. 석상 넷, 한, 호기, 대변, 요, 코르크 물고기 구토는 아니다.",
+   "text_sha256": "ee8dd5ea6e41b93a6983e0c2d6d82ed98c9884de4c40e3ef638a5a92ebab597a",
+   "audio_sha256": "18369bd4ae0e2df1f88d625d3b7d1ab5f0553b253a4e0772f595786a30cc1974",
+   "image_sha256": "8eb67e27baa3079a70665c6e120d700eb28e9293ac7eb1e697232f0b26021f07",
+   "source_commit": "9556d71a4ef0f8687299650e6ad5fbc5b266b6f8",
+   "station_sha256": "2390d47ee68f55ced5e067b0df5d02212b5346bc5b9dd122889a1a8fa9998b84",
+   "original_wav_sha256": "05b4ab442e221cb6b3a95f58940d24a18dae0433f2235c3b30a50327231b1543",
+   "original_wav_filename": "new-jq-19.full.wav"
   }
  }
 }

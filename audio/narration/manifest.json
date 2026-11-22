@@ -7161,6 +7161,138 @@
    "station_sha256": "c0e8e908bd32a7a6c02e29f3390cf48bbaec076f02830cf67fd1881759912bca",
    "original_wav_sha256": "a93560f1edb4218038b1e92c094863b01d02a742416193e53dfa3792821f3f37",
    "original_wav_filename": "new-jq-13.full.wav"
+  },
+  "new-jq-14#0": {
+   "src": "audio/narration/new-jq-14__s0__1a49d5e2a81a.mp3",
+   "text": "탐정 사무소다. 앞줄의 여섯 사람이 사건 하나를 왼쪽에서 오른쪽으로 넘긴다, 사건을 맡는 것에서 처리하는 것까지, 영추 본신의 사유 여섯 단계다. 뒤 높은 단에는 성향이 다른 탐정 셋, 간, 비, 신의 정신 경향이다.",
+   "text_sha256": "1a49d5e2a81a7f6cb58b065fc4ba6e58cbe28e8080e296f7249f94a59fc3544e",
+   "audio_sha256": "dff2b9cfb03081a7a56bdd52971c94af086e5b3cb0db4b130371ed6e6c383855",
+   "image_sha256": "104bd8c6ecdcc5796b88265146bfc7d089399be79fe430f65ea00f0785ceb44d",
+   "source_commit": "5cc673542f227359036f6c496e8bd688727e3752",
+   "station_sha256": "9142ce5467da5ff71af6fae271be2979b3bfa70f345ba820c39a31ae833af419",
+   "original_wav_sha256": "2cc6ad64ba2a67d315eaf7d20caea00ab639f6f3dfbab7b49a003d6a2acaf912",
+   "original_wav_filename": "new-jq-14.full.wav"
+  },
+  "new-jq-14#1": {
+   "src": "audio/narration/new-jq-14__s1__3fe83df29b2b.mp3",
+   "text": "앞줄을 한 번에 짚는다. 임금이 사건을 받고, 심, 여자가 떠올리고, 의, 깃발을 굳게 꽂고, 지, 맴돌며 곱씹고, 사, 멀리 내다보고, 여, 수갑을 채워 처리한다, 지. 심, 의, 지, 사, 여, 지. 의가 지보다 앞이다, 순서를 바꾼 보기가 함정이다.",
+   "text_sha256": "3fe83df29b2b42748aa0cea01120757e0fd5277ca49f10d9e7d398f830226778",
+   "audio_sha256": "712919127dea5bc31eb65df3274c3609a9760f02ff2cf6427796c1dc01083964",
+   "image_sha256": "104bd8c6ecdcc5796b88265146bfc7d089399be79fe430f65ea00f0785ceb44d",
+   "source_commit": "5cc673542f227359036f6c496e8bd688727e3752",
+   "station_sha256": "1bd62fdda9aa0abcbd0a5d5afa33f1e717ddffc662cb868d47ec0898c02c041b",
+   "original_wav_sha256": "2cc6ad64ba2a67d315eaf7d20caea00ab639f6f3dfbab7b49a003d6a2acaf912",
+   "original_wav_filename": "new-jq-14.full.wav"
+  },
+  "new-jq-14#2": {
+   "src": "audio/narration/new-jq-14__s2__b77fe8e5ecf2.mp3",
+   "text": "앞줄 첫째, 임금이 사건 봉투를 받는다. 소이임물자위지심, 사물을 맡아 받아들이는 것을 심이라 한다. 정신활동이 시작되는 자리다.",
+   "text_sha256": "b77fe8e5ecf2ba2775ac0785f862f33df33f28efea309aba499229afae9be2de",
+   "audio_sha256": "19a2eb7737db5c5a68ebfda5d948d8fe3848556d121cf98f069e8927ea053d58",
+   "image_sha256": "104bd8c6ecdcc5796b88265146bfc7d089399be79fe430f65ea00f0785ceb44d",
+   "source_commit": "5cc673542f227359036f6c496e8bd688727e3752",
+   "station_sha256": "774266c57be996f61f57f8af0190454f53691916a2cd6c6bfaef793a949b6ff7",
+   "original_wav_sha256": "2cc6ad64ba2a67d315eaf7d20caea00ab639f6f3dfbab7b49a003d6a2acaf912",
+   "original_wav_filename": "new-jq-14.full.wav"
+  },
+  "new-jq-14#3": {
+   "src": "audio/narration/new-jq-14__s3__539afc31126f.mp3",
+   "text": "둘째, 여자가 사진을 꽂고, 머리 위에 흐릿한 얼굴이 떠오른다. 심유소억위지의, 심에 떠올라 기억하는 바가 있는 것이 의다. 향하는 바는 있으나 아직 정해지지 않았다. 기이불망자위지의, 기억해 잊지 않는 것.",
+   "text_sha256": "539afc31126ff9e8bb24d70cbf2adc0136aece88a80bcc5f4ca26ff04364a61a",
+   "audio_sha256": "869b0f0084ec585668e711b6b6ff64f542b4ad1d2fbcac02f14a45ce4b09f652",
+   "image_sha256": "104bd8c6ecdcc5796b88265146bfc7d089399be79fe430f65ea00f0785ceb44d",
+   "source_commit": "5cc673542f227359036f6c496e8bd688727e3752",
+   "station_sha256": "f295403721be13bab0e4a3c8e93b091e734a50008808914765d0e59253c68ef0",
+   "original_wav_sha256": "2cc6ad64ba2a67d315eaf7d20caea00ab639f6f3dfbab7b49a003d6a2acaf912",
+   "original_wav_filename": "new-jq-14.full.wav"
+  },
+  "new-jq-14#4": {
+   "src": "audio/narration/new-jq-14__s4__d74ed3179b6b.mp3",
+   "text": "셋째, 남자가 이를 악물고 붉은 깃발을 지도 앞에 쳐든다, 여기다 꽂겠다, 마음을 굳혔다. 의지소존위지지, 의가 머물러 자리 잡은 것이 지다. 전의이불이자위지지, 뜻을 오로지해 옮기지 않는 것. 의이결이탁유소립, 의가 이미 정해져 우뚝 선 것.",
+   "text_sha256": "d74ed3179b6b11557e0ccb939694d50456dfefd3a4a1dcac002a2a58b046a395",
+   "audio_sha256": "1d32a4a83ccc642c6b7dcf021fcb2103f352e810aca2ccaffca7c5eaa73c00c6",
+   "image_sha256": "104bd8c6ecdcc5796b88265146bfc7d089399be79fe430f65ea00f0785ceb44d",
+   "source_commit": "5cc673542f227359036f6c496e8bd688727e3752",
+   "station_sha256": "ed0d9b690f86c9301a2b4a88d84bed8df595ec3e892043b0271590a1ae9d70f5",
+   "original_wav_sha256": "2cc6ad64ba2a67d315eaf7d20caea00ab639f6f3dfbab7b49a003d6a2acaf912",
+   "original_wav_filename": "new-jq-14.full.wav"
+  },
+  "new-jq-14#5": {
+   "src": "audio/narration/new-jq-14__s5__24a84913d91f.mp3",
+   "text": "넷째, 남자가 턱을 문지르며 맴돈다. 바닥에 발자국이 둥글게 찍혔다. 인지이존변위지사, 지로 인해 이리저리 바꿔 가며 되새기는 것이 사다.",
+   "text_sha256": "24a84913d91f78e42ed948216cce77fccef4e923278fd2a22fd05d2e1888c8a2",
+   "audio_sha256": "31f416c4ef4c68578eb1fc40e72f188935c2c03b42aca458cecfa4b48b53d445",
+   "image_sha256": "104bd8c6ecdcc5796b88265146bfc7d089399be79fe430f65ea00f0785ceb44d",
+   "source_commit": "5cc673542f227359036f6c496e8bd688727e3752",
+   "station_sha256": "21eb6e21d4840ddc667638fb0aef7c2592847f96c23c83de810da976183d3ffe",
+   "original_wav_sha256": "2cc6ad64ba2a67d315eaf7d20caea00ab639f6f3dfbab7b49a003d6a2acaf912",
+   "original_wav_filename": "new-jq-14.full.wav"
+  },
+  "new-jq-14#6": {
+   "src": "audio/narration/new-jq-14__s6__a6c943d2f052.mp3",
+   "text": "다섯째, 남자가 망원경으로 창밖 먼 산을 내다본다. 인사이원모위지려, 사로 인해 멀리 앞일을 헤아리는 것이 여다.",
+   "text_sha256": "a6c943d2f0522f7a6d405f29b5f6e6196eb2736d61830f4150ad0d66ab01ae8e",
+   "audio_sha256": "554496bde4f68b89ddb6a5e7eb9314011aa06c19d237cd36e324251b76712a44",
+   "image_sha256": "104bd8c6ecdcc5796b88265146bfc7d089399be79fe430f65ea00f0785ceb44d",
+   "source_commit": "5cc673542f227359036f6c496e8bd688727e3752",
+   "station_sha256": "a16ceba2a42a0e31354efccd4fd3133a531aff0213d4bf24c8df36a81df19889",
+   "original_wav_sha256": "2cc6ad64ba2a67d315eaf7d20caea00ab639f6f3dfbab7b49a003d6a2acaf912",
+   "original_wav_filename": "new-jq-14.full.wav"
+  },
+  "new-jq-14#7": {
+   "src": "audio/narration/new-jq-14__s7__9fbedf83f2b0.mp3",
+   "text": "여섯째, 탐정이 도둑에게 수갑을 채운다, 사건을 처리했다. 인려이처물위지지, 여로 인해 일을 알맞게 처리하는 것이 지다. 임금의 임물에서 마지막 처물까지.",
+   "text_sha256": "9fbedf83f2b0b53cf299eb01c0cd7d282ca076b34ec21cecc0b57fb7a2cfb07c",
+   "audio_sha256": "cb157bfabd2cf5665c18508aadf404333d2cba93eef397fdc3353c85102a4ea9",
+   "image_sha256": "104bd8c6ecdcc5796b88265146bfc7d089399be79fe430f65ea00f0785ceb44d",
+   "source_commit": "5cc673542f227359036f6c496e8bd688727e3752",
+   "station_sha256": "aecc6b92bf25e5d433a236959af67c0eb2d9a83c82f55cb4bd1ce8f9a0a7e758",
+   "original_wav_sha256": "2cc6ad64ba2a67d315eaf7d20caea00ab639f6f3dfbab7b49a003d6a2acaf912",
+   "original_wav_filename": "new-jq-14.full.wav"
+  },
+  "new-jq-14#8": {
+   "src": "audio/narration/new-jq-14__s8__a54631b4330e.mp3",
+   "text": "뒤 왼쪽, 초록 갑옷 장군, 간이 신이 나서 칠판에 계획도를 그린다. 간의 정신 경향은 충동경향. 관능과 운동, 계획을 세우고 새로 만들어 내는, 일을 일으키는 기능이다.",
+   "text_sha256": "a54631b4330e4d0f37c74fd15f484db503faec9d3a580d2dfbf70156903e55d1",
+   "audio_sha256": "da4cceeec2144b22fb72f87746865b6e2a8c3abcc19c434214f82b614fb74ce8",
+   "image_sha256": "104bd8c6ecdcc5796b88265146bfc7d089399be79fe430f65ea00f0785ceb44d",
+   "source_commit": "5cc673542f227359036f6c496e8bd688727e3752",
+   "station_sha256": "62d433a75e5f6cb133321aac84954d05af4f45f97d9bfb9da679690aceac0fe7",
+   "original_wav_sha256": "2cc6ad64ba2a67d315eaf7d20caea00ab639f6f3dfbab7b49a003d6a2acaf912",
+   "original_wav_filename": "new-jq-14.full.wav"
+  },
+  "new-jq-14#9": {
+   "src": "audio/narration/new-jq-14__s9__c2d1f0b2021e.mp3",
+   "text": "뒤 가운데, 밀짚모자 농부, 비가 돋보기로 조각을 비교해 하나의 그림으로 맞춘다. 비의 정신 경향은 융화경향. 비교 분석하고 깊이 생각하며, 들어온 기억을 하나로 통합해 제 것으로 만든다. 결정 전까지가 비의 몫이다.",
+   "text_sha256": "c2d1f0b2021ead78caec9124cf5baca95aad0681786a1e4d1e9055386b32e653",
+   "audio_sha256": "c1ef3dd0a0386af3a550f29658263f4359447a7c94e601bbb58ee73e21b1e0f9",
+   "image_sha256": "104bd8c6ecdcc5796b88265146bfc7d089399be79fe430f65ea00f0785ceb44d",
+   "source_commit": "5cc673542f227359036f6c496e8bd688727e3752",
+   "station_sha256": "1f0e6556c2da5e4334947f13b94a991b246d8f550ac8005ca7aa09f18f9f0c01",
+   "original_wav_sha256": "2cc6ad64ba2a67d315eaf7d20caea00ab639f6f3dfbab7b49a003d6a2acaf912",
+   "original_wav_filename": "new-jq-14.full.wav"
+  },
+  "new-jq-14#10": {
+   "src": "audio/narration/new-jq-14__s10__8c2adc60295b.mp3",
+   "text": "뒤 오른쪽, 대머리 장사, 신이 서류에 도장을 꾹 눌러 확정하고, 곁의 검은 금고에 넣는다. 신의 정신 경향은 창조경향. 작강지관의 관능과 배설, 마지막 결정을 내리고 저장한다.",
+   "text_sha256": "8c2adc60295b0396b775921adb382a3836aede98e00d85e35eb4fd04b3598d45",
+   "audio_sha256": "ec494c272298869e7bdc5a01642c79f8945be446e77208b9ffafe1e8a0a2e1fa",
+   "image_sha256": "104bd8c6ecdcc5796b88265146bfc7d089399be79fe430f65ea00f0785ceb44d",
+   "source_commit": "5cc673542f227359036f6c496e8bd688727e3752",
+   "station_sha256": "c4efc76542afebf91e0582201faf82e7bff005501e6027b5548b24d9843f5c9e",
+   "original_wav_sha256": "2cc6ad64ba2a67d315eaf7d20caea00ab639f6f3dfbab7b49a003d6a2acaf912",
+   "original_wav_filename": "new-jq-14.full.wav"
+  },
+  "new-jq-14#11": {
+   "src": "audio/narration/new-jq-14__s11__a43bcf4bac91.mp3",
+   "text": "다시 본다. 봉투를 받는 임금, 소이임물자위지심. 흐릿한 얼굴, 심유소억위지의. 꽂는 깃발, 의지소존위지지. 맴도는 발자국, 인지이존변위지사. 망원경, 인사이원모위지려. 수갑, 인려이처물위지지. 뒤에서, 계획도 그리는 장군은 간 충동, 퍼즐 맞추는 농부는 비 융화, 도장 찍는 장사는 신 창조.",
+   "text_sha256": "a43bcf4bac913b6db4a7bf88864aa00cddae2ff48862082e1bdbf8a596ecd5fe",
+   "audio_sha256": "3a1e64a1db942bca28756e9348a1d2ee13a1ed86e9b1af2e4cbbfeea9ca2929c",
+   "image_sha256": "104bd8c6ecdcc5796b88265146bfc7d089399be79fe430f65ea00f0785ceb44d",
+   "source_commit": "5cc673542f227359036f6c496e8bd688727e3752",
+   "station_sha256": "6eda6cd9a111d67c94dde0e1ee4f370b3d830eeac302f09d4fc2d7151a9bc077",
+   "original_wav_sha256": "2cc6ad64ba2a67d315eaf7d20caea00ab639f6f3dfbab7b49a003d6a2acaf912",
+   "original_wav_filename": "new-jq-14.full.wav"
   }
  }
 }

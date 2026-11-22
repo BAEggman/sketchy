@@ -8382,6 +8382,138 @@
    "station_sha256": "2390d47ee68f55ced5e067b0df5d02212b5346bc5b9dd122889a1a8fa9998b84",
    "original_wav_sha256": "05b4ab442e221cb6b3a95f58940d24a18dae0433f2235c3b30a50327231b1543",
    "original_wav_filename": "new-jq-19.full.wav"
+  },
+  "new-jq-20#0": {
+   "src": "audio/narration/new-jq-20__s0__656f0cb052f9.mp3",
+   "text": "경마장이다. 노란 옷 기수가 기, 붉은 말이 혈이다. 기수는 말을 낳게 하고 몰고 붙든다, 기위혈지수, 기는 혈의 장수. 말은 기수를 태우고 먹인다, 혈위기지모, 혈은 기의 어미. 말이 쓰러지면 기수도 떨어진다.",
+   "text_sha256": "656f0cb052f92ab3016e4bb0a5cf84c36aadbad38cb734d569f056f98311058d",
+   "audio_sha256": "5a96e649c7e63a01406d43382b90986da514477de44c5b8ad9df6a9eb5bf0ff5",
+   "image_sha256": "b9f82e18ef9927a5c9af7642c1fe20b24e6e9d96e155d5e8792ac2bbd67cfd79",
+   "source_commit": "f195f732c447f73527d70bbab5bf4004648beab7",
+   "station_sha256": "cf6a795d8a5b971cf5ffabe31354778266aed719a87b57230bec922c29f09ba3",
+   "original_wav_sha256": "f1fe4f6e3b17dd230cee406ea2c02de8cf533567ce033aea7f4e45fbbf9409bd",
+   "original_wav_filename": "new-jq-20.full.wav"
+  },
+  "new-jq-20#1": {
+   "src": "audio/narration/new-jq-20__s1__20191ce6f369.mp3",
+   "text": "방목장, 기수는 따뜻한 노란 쪽에 기대앉아 몸을 데운다, 기주후지, 기는 데운다. 말은 물을 마셔 털이 촉촉하다, 혈주유지, 혈은 적신다. 기는 형체 없이 움직이는 양, 혈은 형체 있고 고요한 음이다.",
+   "text_sha256": "20191ce6f36993e95ce2cc58fbf8ae574c95332440d553371bde459fbeecbe86",
+   "audio_sha256": "a3130a49145143d415ee3c9cc8f8c01d96525c3f963beb4c9311a37896ff01b3",
+   "image_sha256": "b9f82e18ef9927a5c9af7642c1fe20b24e6e9d96e155d5e8792ac2bbd67cfd79",
+   "source_commit": "f195f732c447f73527d70bbab5bf4004648beab7",
+   "station_sha256": "3105d4d4fe73499b84192ee7bd46e29ad4197307628e1a37b8968c8d9a987a80",
+   "original_wav_sha256": "f1fe4f6e3b17dd230cee406ea2c02de8cf533567ce033aea7f4e45fbbf9409bd",
+   "original_wav_filename": "new-jq-20.full.wav"
+  },
+  "new-jq-20#2": {
+   "src": "audio/narration/new-jq-20__s2__10837fe503f8.mp3",
+   "text": "앞쪽 주로, 기수들이 말을 몰아친다, 기위혈지수, 기는 혈을 이끄는 장수다. 낳게 하고, 돌리고, 붙든다, 생, 행, 섭. 방목장의 말은 등에 기수의 집과 먹이 자루를 졌다, 혈위기지모, 혈은 기의 어미. 먹이고 태운다, 양, 재. 기행즉혈행, 기지즉혈지.",
+   "text_sha256": "10837fe503f8f5bc5429f15832facacbbef7b218018b3633b5d0c3c4730e6ad1",
+   "audio_sha256": "3fa332bf75fae57d3dcf63475c25cb338b02bdacbae0c4cfa57321f99e8adf12",
+   "image_sha256": "b9f82e18ef9927a5c9af7642c1fe20b24e6e9d96e155d5e8792ac2bbd67cfd79",
+   "source_commit": "f195f732c447f73527d70bbab5bf4004648beab7",
+   "station_sha256": "817be7962eb1102bd1bce88f0a711f01ca23d2fce3c3dfbc1478907508a9616c",
+   "original_wav_sha256": "f1fe4f6e3b17dd230cee406ea2c02de8cf533567ce033aea7f4e45fbbf9409bd",
+   "original_wav_filename": "new-jq-20.full.wav"
+  },
+  "new-jq-20#3": {
+   "src": "audio/narration/new-jq-20__s3__2a54f358d5d4.mp3",
+   "text": "왼쪽 위 귀빈석, 실크해트 마주는 말의 주인, 주다. 그는 쌍안경으로 구경만 한다. 말을 직접 이끄는 것은 기수, 수다. 기위혈수를 기위혈주로 바꾸면 틀린다, 대표적 글자 바꿔치기 함정. 수가 하는 일 셋, 기능생혈, 기능행혈, 기능섭혈.",
+   "text_sha256": "2a54f358d5d487f7a11f36027c9f3fbd8f07a906b71ac1ee67c3601b9762f9ce",
+   "audio_sha256": "2acbc7bb0ae3367e8adb45b39a9ddd17cab1bcd2361e1702d05879e2c62ded7f",
+   "image_sha256": "b9f82e18ef9927a5c9af7642c1fe20b24e6e9d96e155d5e8792ac2bbd67cfd79",
+   "source_commit": "f195f732c447f73527d70bbab5bf4004648beab7",
+   "station_sha256": "79e12aa7b792455861add6294513f239da114e8dceab3f9298fd6a667fc67850",
+   "original_wav_sha256": "f1fe4f6e3b17dd230cee406ea2c02de8cf533567ce033aea7f4e45fbbf9409bd",
+   "original_wav_filename": "new-jq-20.full.wav"
+  },
+  "new-jq-20#4": {
+   "src": "audio/narration/new-jq-20__s4__1805a7ae4531.mp3",
+   "text": "왼쪽 마구간, 기수가 어미 말의 출산을 도와 붉은 망아지가 태어난다, 기능생혈. 기가 수곡정미를 운화해 혈을 만든다. 영기가 혈의 주성분이다. 그래서 혈허에는 보혈약에 보기약을 함께 쓴다.",
+   "text_sha256": "1805a7ae45310ea8ba62293bb1fa2bc403f4e96572979b78d4f8dd9a73bd4199",
+   "audio_sha256": "11a75de3e3cf580bcc3fd613f6e394a020b959f9dbff6d3cf90e5912f1589463",
+   "image_sha256": "b9f82e18ef9927a5c9af7642c1fe20b24e6e9d96e155d5e8792ac2bbd67cfd79",
+   "source_commit": "f195f732c447f73527d70bbab5bf4004648beab7",
+   "station_sha256": "db7ef33669527dcaa6b9ced4788cbf6b0e7a62c2222ba29f7b445f7e3e8174ba",
+   "original_wav_sha256": "f1fe4f6e3b17dd230cee406ea2c02de8cf533567ce033aea7f4e45fbbf9409bd",
+   "original_wav_filename": "new-jq-20.full.wav"
+  },
+  "new-jq-20#5": {
+   "src": "audio/narration/new-jq-20__s5__76e0894f56c6.mp3",
+   "text": "기수가 탄 말은 내달린다, 기행즉혈행. 기수 없는 말은 진흙 웅덩이에 멈춰 섰다, 기체즉혈어. 기의 온운으로 혈이 돈다, 기능행혈. 그러니 기체혈어는 행기활혈, 기수를 태워야 말이 간다. 혈능행기라고 뒤집으면 틀린 보기다.",
+   "text_sha256": "76e0894f56c671161f0d294ee405a60fd9243dc7d97deb5bda0a995c8ded40a7",
+   "audio_sha256": "f65e8f1eb5b1b040a99da2c023c69e7020bb1f13903307ec2dea9a7ad3b10358",
+   "image_sha256": "b9f82e18ef9927a5c9af7642c1fe20b24e6e9d96e155d5e8792ac2bbd67cfd79",
+   "source_commit": "f195f732c447f73527d70bbab5bf4004648beab7",
+   "station_sha256": "a4eaf56b47543b7fe9d2354676ac294b73a3ac828a2a686c669255018a270030",
+   "original_wav_sha256": "f1fe4f6e3b17dd230cee406ea2c02de8cf533567ce033aea7f4e45fbbf9409bd",
+   "original_wav_filename": "new-jq-20.full.wav"
+  },
+  "new-jq-20#6": {
+   "src": "audio/narration/new-jq-20__s6__ad2a4b7f8069.mp3",
+   "text": "트랙 왼쪽 햇볕 구간, 말들이 미끄러지듯 달린다, 기온즉혈활. 오른쪽 눈 덮인 구간, 갈기에 고드름이 달리고 뻣뻣하게 느릿느릿, 기한즉혈삽. 기가 따뜻하면 혈이 매끄럽고, 차면 껄끄럽다. 표준 명제는 기행즉혈행, 기지즉혈지.",
+   "text_sha256": "ad2a4b7f80693663b3250f4ff81c6a1f235d0fc5e0ba3a09d32cf14f2d7d367c",
+   "audio_sha256": "c18dbac4ec1fa686ce2164b71a1c8ab4fb75278b935c8f9cd44373dfada707f5",
+   "image_sha256": "b9f82e18ef9927a5c9af7642c1fe20b24e6e9d96e155d5e8792ac2bbd67cfd79",
+   "source_commit": "f195f732c447f73527d70bbab5bf4004648beab7",
+   "station_sha256": "a95f8c5ee1958260f97ddeff72c6050f7fb436ef7405328bde2d6c7cb5152afd",
+   "original_wav_sha256": "f1fe4f6e3b17dd230cee406ea2c02de8cf533567ce033aea7f4e45fbbf9409bd",
+   "original_wav_filename": "new-jq-20.full.wav"
+  },
+  "new-jq-20#7": {
+   "src": "audio/narration/new-jq-20__s7__84a701d1e916.mp3",
+   "text": "기수가 탄 말은 울타리 안에 머문다, 기능섭혈, 기의 고섭으로 혈이 맥 밖으로 새지 않는다. 비통혈로 완성된다. 기수 없는 말은 울타리 밖으로 달아났다, 기불섭혈, 출혈이다. 변혈, 붕루 같은 하혈에는 건비보기로 섭혈, 귀비탕 류.",
+   "text_sha256": "84a701d1e916c3792a21defd0efc83a95d7e95537d2bc9c2098ed47cc1799efe",
+   "audio_sha256": "cfa55ce4abca48a611eb7103940fca94c8ce9126b0e7d8e73d3bd3ca569cd33f",
+   "image_sha256": "b9f82e18ef9927a5c9af7642c1fe20b24e6e9d96e155d5e8792ac2bbd67cfd79",
+   "source_commit": "f195f732c447f73527d70bbab5bf4004648beab7",
+   "station_sha256": "cb9cdb59aae68f7a06590b4902ad1b308c3305a4b95b011e8e0315c8bb4ab5e5",
+   "original_wav_sha256": "f1fe4f6e3b17dd230cee406ea2c02de8cf533567ce033aea7f4e45fbbf9409bd",
+   "original_wav_filename": "new-jq-20.full.wav"
+  },
+  "new-jq-20#8": {
+   "src": "audio/narration/new-jq-20__s8__a23b9c22fe2a.mp3",
+   "text": "방목장의 말이 양옆에 먹이 자루를 달았다, 혈능양기, 혈이 기를 먹인다. 그리고 기수를 태웠다, 혈능재기, 혈이 기를 싣는다. 혈위기지모, 기의 기능은 혈의 영양과 운반에 기댄다.",
+   "text_sha256": "a23b9c22fe2ae0379e8669bab396d9e2f6a22a7683f811bb6ccb5e6986a16299",
+   "audio_sha256": "fc7c05215f15f57d369e5491300736826569492d9447c1d84d72861f554802dc",
+   "image_sha256": "b9f82e18ef9927a5c9af7642c1fe20b24e6e9d96e155d5e8792ac2bbd67cfd79",
+   "source_commit": "f195f732c447f73527d70bbab5bf4004648beab7",
+   "station_sha256": "f95e6c2d98cad2ac6e1c8ca46a06fedb275b421d4fc1855ac99c17e4a984bfd6",
+   "original_wav_sha256": "f1fe4f6e3b17dd230cee406ea2c02de8cf533567ce033aea7f4e45fbbf9409bd",
+   "original_wav_filename": "new-jq-20.full.wav"
+  },
+  "new-jq-20#9": {
+   "src": "audio/narration/new-jq-20__s9__5c3e26b2b639.mp3",
+   "text": "그 말 등에 작은 집이 묶였고, 기수가 창밖을 내다본다. 혈위기지택, 혈은 기의 집이다. 기사우혈, 기는 혈에 깃들어 산다. 혈능재기.",
+   "text_sha256": "5c3e26b2b6394f67753138e80d8074e16098894c90578f04fe29a44b41d98980",
+   "audio_sha256": "cf02f131f08cedbf67a43d3277b76b2d9fcfa8eba331591e156ce60d4272d8fe",
+   "image_sha256": "b9f82e18ef9927a5c9af7642c1fe20b24e6e9d96e155d5e8792ac2bbd67cfd79",
+   "source_commit": "f195f732c447f73527d70bbab5bf4004648beab7",
+   "station_sha256": "ace9b3ec89eb37bbfc07ccd59db74f8a2be5f4472be71b509d7a0e2b79f6dc5a",
+   "original_wav_sha256": "f1fe4f6e3b17dd230cee406ea2c02de8cf533567ce033aea7f4e45fbbf9409bd",
+   "original_wav_filename": "new-jq-20.full.wav"
+  },
+  "new-jq-20#10": {
+   "src": "audio/narration/new-jq-20__s10__c012e0fcb0ab.mp3",
+   "text": "오른쪽 아래, 말이 붉은 웅덩이 곁에 쓰러졌다, 대출혈. 기수가 풍선처럼 떠오른다, 기수혈탈, 혈을 따라 기도 빠져나간다. 식은땀, 차가운 팔다리, 맥이 끊어질 듯하다. 기수는 발목 끈 하나로 겨우 붙들려 있고, 수의사가 인삼을 번쩍 든다, 기수부터 붙잡아야 한다, 익기고탈, 독삼탕. 유형지혈불능속생 무형지기소당급고, 형체 있는 혈은 금방 못 만들지만 형체 없는 기는 서둘러 붙들어야 한다.",
+   "text_sha256": "c012e0fcb0ab0f0d7877082246bfc3b5690b66dd995048d5de8780959133c252",
+   "audio_sha256": "b0a60b1c9d863114e86221ea66080348d4adf21e304793f8d7a5cf8a1038684a",
+   "image_sha256": "b9f82e18ef9927a5c9af7642c1fe20b24e6e9d96e155d5e8792ac2bbd67cfd79",
+   "source_commit": "f195f732c447f73527d70bbab5bf4004648beab7",
+   "station_sha256": "42c38c5f9559fda0837e87115c78412c48e3ac4160ff861ddbcb4a1d0da28e4e",
+   "original_wav_sha256": "f1fe4f6e3b17dd230cee406ea2c02de8cf533567ce033aea7f4e45fbbf9409bd",
+   "original_wav_filename": "new-jq-20.full.wav"
+  },
+  "new-jq-20#11": {
+   "src": "audio/narration/new-jq-20__s11__9e488b596a02.mp3",
+   "text": "다시 본다. 햇볕 기수와 젖은 말, 기주후지 혈주유지. 구경하는 마주가 아니라 모는 기수, 수, 주가 아니다. 망아지, 기능생혈. 진흙에 선 기수 없는 말, 기체즉혈어, 행기활혈. 햇볕과 얼음, 기온즉혈활 기한즉혈삽. 울타리 밖 말, 기불섭혈. 먹이 자루와 등의 집, 혈능양기, 재기, 기사우혈. 쓰러진 말과 떠오르는 기수, 기수혈탈, 인삼으로 익기고탈.",
+   "text_sha256": "9e488b596a024d353dc12426ad1f0fe429f267b86070c18663f4ecaec871d7e8",
+   "audio_sha256": "5cde40bc96800d428164e5a39a3ff6cbd4e89cc220acdaa0f73fdd782a695b15",
+   "image_sha256": "b9f82e18ef9927a5c9af7642c1fe20b24e6e9d96e155d5e8792ac2bbd67cfd79",
+   "source_commit": "f195f732c447f73527d70bbab5bf4004648beab7",
+   "station_sha256": "b90eca74caf2fc0ede96278ca9363cda21e3f1c322b739f9ea102fd5661a74e2",
+   "original_wav_sha256": "f1fe4f6e3b17dd230cee406ea2c02de8cf533567ce033aea7f4e45fbbf9409bd",
+   "original_wav_filename": "new-jq-20.full.wav"
   }
  }
 }

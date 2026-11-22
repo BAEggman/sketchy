@@ -10758,6 +10758,116 @@
    "station_sha256": "e3a73ded252ce4fdb803de7ac486ce16541e15b847ab8047a5a680fc16cad5d6",
    "original_wav_sha256": "a2b9728c2934e095d51e9151d1adbb2bfe6eb977f6fc6dd6ffa08590c202c36b",
    "original_wav_filename": "new-gr-11.full.wav"
+  },
+  "new-gr-15#0": {
+   "src": "audio/narration/new-gr-15__s0__519225c85ef3.mp3",
+   "text": "아름드리 고목이다. 표는 우듬지, 본은 밑동, 근은 뿌리, 결은 열매 맺힘, 모두 나무 글자다. 나무 높이가 곧 몸 높이, 우듬지는 머리, 위쪽 줄기는 가슴, 가운데는 배, 밑동 위는 정강이, 뿌리는 손끝, 발끝이다. 네 이론을 이 나무 하나에 겹쳐 본다.",
+   "text_sha256": "519225c85ef3f8a636b44943ecc1985859d69b8de198292cd393d182f88b4f5a",
+   "audio_sha256": "0264ce90aa63f5270e444ba30a5ca0b7a2c835d11f502c2a393409b0fdbde6b3",
+   "image_sha256": "7ddde210e4dd4d68e8a1a03149af4733351d912f93c9908966a8542ffeb5b1a9",
+   "source_commit": "4410eb2b07963548a4c6e07afe8058abf146652c",
+   "station_sha256": "4526ec133d7bca2bf28887039a92db0bd2d0d11763fcb3521ed355973f25eff8",
+   "original_wav_sha256": "d125a37dd564d2bcd4d46c69f8a22562bfbc5b15928c358461e87415b4528f10",
+   "original_wav_filename": "new-gr-15.full.wav"
+  },
+  "new-gr-15#1": {
+   "src": "audio/narration/new-gr-15__s1__3a482848a337.mp3",
+   "text": "표는 나무 우듬지, 머리와 얼굴, 가슴과 등, 위쪽이다. 잎에서 안개가 바깥으로 피어나듯, 경기가 맥 밖으로 퍼져 나간다. 본은 나무 밑동, 사지 끝, 아래쪽이다. 밑동 혹에 금빛 수액이 고이듯, 경기가 모여 엉긴다. 위아래를 바꾸는 함정, 표는 위, 본은 아래.",
+   "text_sha256": "3a482848a3371637e31a2e2392318468162cc429e3c930d7155e5c8210438ad2",
+   "audio_sha256": "c80bfda24d0480b6866223ffdf537b1058b59ea8fac056b7e8b7da31c5b5ae6e",
+   "image_sha256": "7ddde210e4dd4d68e8a1a03149af4733351d912f93c9908966a8542ffeb5b1a9",
+   "source_commit": "4410eb2b07963548a4c6e07afe8058abf146652c",
+   "station_sha256": "8d4d7854097d14ae092b9ed4f2a65d777832d6726c7be0d24e78d29e72ecc37d",
+   "original_wav_sha256": "d125a37dd564d2bcd4d46c69f8a22562bfbc5b15928c358461e87415b4528f10",
+   "original_wav_filename": "new-gr-15.full.wav"
+  },
+  "new-gr-15#2": {
+   "src": "audio/narration/new-gr-15__s2__d29cb6c4dbeb.mp3",
+   "text": "뿌리를 본다. 뿌리 끝이 손가락, 발가락 모양이고 끝마다 빛방울이 맺혔다, 근, 사지 끝의 정혈. 경기가 처음 생겨 맥 안으로 흘러드는 곳이다. 위로 올라가 우듬지에 열매가 맺혔다, 결, 머리, 얼굴과 몸통. 경기가 돌아와 맺히는 곳이고, 거기서 다시 기가로 나간다. 본, 근은 아래 끝, 표, 결은 위.",
+   "text_sha256": "d29cb6c4dbeb4e088f906f7645ec698ca14e3e1a2e8795d4104f6e113f0c1cd9",
+   "audio_sha256": "eccc9b625ed2c839e872a26b13c251817775b5f7cae116f1f83b1c865b698bfc",
+   "image_sha256": "7ddde210e4dd4d68e8a1a03149af4733351d912f93c9908966a8542ffeb5b1a9",
+   "source_commit": "4410eb2b07963548a4c6e07afe8058abf146652c",
+   "station_sha256": "167fab4b580d18e46d54a3e045763d09b3b4584938b1c483d7b12c1ff5bc47e2",
+   "original_wav_sha256": "d125a37dd564d2bcd4d46c69f8a22562bfbc5b15928c358461e87415b4528f10",
+   "original_wav_filename": "new-gr-15.full.wav"
+  },
+  "new-gr-15#3": {
+   "src": "audio/narration/new-gr-15__s3__50fdf1cf352f.mp3",
+   "text": "한 나무다, 맨 아래 뿌리와 밑동, 맨 위 우듬지와 열매가 한 줄기로 이어진다. 표본, 근결, 기가, 사해, 네 이론이 모두 말하는 것은 사지 끝과 머리, 몸통의 긴밀한 관계다. 그래서 위의 병을 아래에서 다스리고 상병하치, 위아래 혈을 짝지어 쓴다 상하배혈. 국소배혈로 바꾸는 함정에 주의.",
+   "text_sha256": "50fdf1cf352ffd675bdfb8eaf8725e67e5da16d77d73d85b47cb74fda6eb2ea3",
+   "audio_sha256": "311701fe6d6f086fed04355901cca634385e2b8c61268540228365fb1bcacb41",
+   "image_sha256": "7ddde210e4dd4d68e8a1a03149af4733351d912f93c9908966a8542ffeb5b1a9",
+   "source_commit": "4410eb2b07963548a4c6e07afe8058abf146652c",
+   "station_sha256": "808e137a770608bfba22b968e1c115f3f0663c57d9222b28ca36fb74b0943576",
+   "original_wav_sha256": "d125a37dd564d2bcd4d46c69f8a22562bfbc5b15928c358461e87415b4528f10",
+   "original_wav_filename": "new-gr-15.full.wav"
+  },
+  "new-gr-15#4": {
+   "src": "audio/narration/new-gr-15__s4__9287282bc13b.mp3",
+   "text": "줄기에 난 구멍으로 마차 길이 드나든다, 기가, 기가 모여 지나는 큰길이다. 우듬지, 두, 풍선 구멍 높이, 흉, 죽솥 높이, 복, 그리고 맨 아래 길은 붉은 못보다 낮게, 밑동 혹의 구멍에서 나온다, 경, 정강이다. 사해는 머리, 가슴, 윗배, 아랫배인데 기가는 마지막이 정강이, 마지막 칸이 갈린다.",
+   "text_sha256": "9287282bc13b03ea659fccf28ffcbfdf54ea98618fbe44d431a188a17a3e51ba",
+   "audio_sha256": "43efc080b649bb91808aa00df4bfdd74d12af2e45e366da71c7ba125f66a04f1",
+   "image_sha256": "7ddde210e4dd4d68e8a1a03149af4733351d912f93c9908966a8542ffeb5b1a9",
+   "source_commit": "4410eb2b07963548a4c6e07afe8058abf146652c",
+   "station_sha256": "b56e8eb12fdcd76fef9062c24aed0e063927f2e6b58a5350a799acbf59e1d418",
+   "original_wav_sha256": "d125a37dd564d2bcd4d46c69f8a22562bfbc5b15928c358461e87415b4528f10",
+   "original_wav_filename": "new-gr-15.full.wav"
+  },
+  "new-gr-15#5": {
+   "src": "audio/narration/new-gr-15__s5__ab1b66b12e15.mp3",
+   "text": "이제 사해를 위에서부터. 우듬지 한가운데 사람 머리 모양 항아리에 뽀얀 물이 가득하다, 수해, 뇌다. 머리. 영추 해론, 뇌위수지해. 사해를 묶어 묻는다, 수해 뇌, 기해 전중, 혈해 충맥, 수곡지해 위.",
+   "text_sha256": "ab1b66b12e15c1ff23d6bdc000018f543c0e4fdd49801a9b11a44780118a0f77",
+   "audio_sha256": "9ed8678f10762995a74dc548f69f9082d683db5820e065779da180c7ee9009ff",
+   "image_sha256": "7ddde210e4dd4d68e8a1a03149af4733351d912f93c9908966a8542ffeb5b1a9",
+   "source_commit": "4410eb2b07963548a4c6e07afe8058abf146652c",
+   "station_sha256": "32de4afe3fbb6fc6f97e691f3d452b5c952fc18edd0a3feeaeac93af0429980a",
+   "original_wav_sha256": "d125a37dd564d2bcd4d46c69f8a22562bfbc5b15928c358461e87415b4528f10",
+   "original_wav_filename": "new-gr-15.full.wav"
+  },
+  "new-gr-15#6": {
+   "src": "audio/narration/new-gr-15__s6__62557621b930.mp3",
+   "text": "줄기 위쪽, 가슴 높이 구멍에 풍선이 빽빽하다, 기해, 전중. 흰 옷 노인, 폐는 구멍 안이 아니라 밖 가지에 서서 펌프로 바람을 넣는다, 폐는 기지본, 기의 뿌리지 기의 바다가 아니다. 폐위기지해는 오답이다.",
+   "text_sha256": "62557621b9300b2813f1ccfb5dd20029dd720ede3e7cbc079d934bf1e8b23a13",
+   "audio_sha256": "e2e6ed303b94cfea153fc1950a04b43feb1be95570294f81b962efefbe0af79c",
+   "image_sha256": "7ddde210e4dd4d68e8a1a03149af4733351d912f93c9908966a8542ffeb5b1a9",
+   "source_commit": "4410eb2b07963548a4c6e07afe8058abf146652c",
+   "station_sha256": "eccbede8ac6d0e9c71844f6103d6b655c35e9c8958ad1738d4413937620e6240",
+   "original_wav_sha256": "d125a37dd564d2bcd4d46c69f8a22562bfbc5b15928c358461e87415b4528f10",
+   "original_wav_filename": "new-gr-15.full.wav"
+  },
+  "new-gr-15#7": {
+   "src": "audio/narration/new-gr-15__s7__1c113a4bca29.mp3",
+   "text": "가운데, 윗배 높이 구멍에 김 오르는 죽솥이 있고 요리사가 젓는다, 수곡지해, 위. 윗배다. 바로 아래 붉은 못, 아랫배의 혈해와 자리를 맞바꾸는 함정이 있다.",
+   "text_sha256": "1c113a4bca29ed31d2be5acc47f5573724d6b71a9d3207bf34e91d3ebde1d608",
+   "audio_sha256": "210082dceca7f2057ce4b7633913e6e9a763a9ec28b6c1ce2b4624e2de3af922",
+   "image_sha256": "7ddde210e4dd4d68e8a1a03149af4733351d912f93c9908966a8542ffeb5b1a9",
+   "source_commit": "4410eb2b07963548a4c6e07afe8058abf146652c",
+   "station_sha256": "bd2272161aad2cb6cb48b51c1f0f0279505331db69b8bb550972ac67744d50d0",
+   "original_wav_sha256": "d125a37dd564d2bcd4d46c69f8a22562bfbc5b15928c358461e87415b4528f10",
+   "original_wav_filename": "new-gr-15.full.wav"
+  },
+  "new-gr-15#8": {
+   "src": "audio/narration/new-gr-15__s8__9071e4d57ab2.mp3",
+   "text": "그 아래, 아랫배 높이 구멍에 붉은 못이 있고 작은 붉은 분수가 솟는다, 앞 과의 충맥, 혈해이자 십이경지해. 아랫배다. 사해를 위에서부터, 머리 수, 가슴 기, 윗배 수곡, 아랫배 혈.",
+   "text_sha256": "9071e4d57ab22828c39d30b50f4d787ebdecf8a9c0a227686aa8e767e80c04b9",
+   "audio_sha256": "84cd81070a4cb1a7bf8a1cccf0d017e5359a8a968186d366c4639ee5a45e1640",
+   "image_sha256": "7ddde210e4dd4d68e8a1a03149af4733351d912f93c9908966a8542ffeb5b1a9",
+   "source_commit": "4410eb2b07963548a4c6e07afe8058abf146652c",
+   "station_sha256": "baed09d705b360d872fefe8f9337c4186ce64c6e3be6a0ce156f794e1cc64dba",
+   "original_wav_sha256": "d125a37dd564d2bcd4d46c69f8a22562bfbc5b15928c358461e87415b4528f10",
+   "original_wav_filename": "new-gr-15.full.wav"
+  },
+  "new-gr-15#9": {
+   "src": "audio/narration/new-gr-15__s9__c7f9f34a4c10.mp3",
+   "text": "다시 본다. 안개 피는 우듬지, 표, 수액 고인 밑동, 본. 손발가락 뿌리 끝 빛방울, 근 정혈, 우듬지 열매, 결. 뿌리와 우듬지가 한 나무, 상병하치, 상하배혈. 마차 길, 기가, 머리, 가슴, 배, 정강이. 머리 항아리, 수해 뇌, 풍선, 기해 전중, 노인 폐는 기지본. 죽솥, 수곡지해 위, 붉은 못, 혈해 충맥.",
+   "text_sha256": "c7f9f34a4c10d143dace3019ab3e60a5c517c06470934567ee46df1a5dc32a86",
+   "audio_sha256": "3ada7ab7fc60eec8c6bd433e6015cc4730e5b9a8e59a38a0670d1c6b7b06b0ee",
+   "image_sha256": "7ddde210e4dd4d68e8a1a03149af4733351d912f93c9908966a8542ffeb5b1a9",
+   "source_commit": "4410eb2b07963548a4c6e07afe8058abf146652c",
+   "station_sha256": "72245e654bd2badf79c94e84da29127dc7f7b86fb9b8c908b1c2101126c1e39b",
+   "original_wav_sha256": "d125a37dd564d2bcd4d46c69f8a22562bfbc5b15928c358461e87415b4528f10",
+   "original_wav_filename": "new-gr-15.full.wav"
   }
  }
 }

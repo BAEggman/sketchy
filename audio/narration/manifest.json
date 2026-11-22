@@ -9867,6 +9867,149 @@
    "station_sha256": "588531b66ec19657f8da14c60c114dd5339f2d7f1de2ace855da42aa49dd97c1",
    "original_wav_sha256": "697be11b5509d74ed67208105d08bf6a2f2443a9ec41b191ea58fed626b9fd8e",
    "original_wav_filename": "new-gr-35.full.wav"
+  },
+  "new-gr-09#0": {
+   "src": "audio/narration/new-gr-09__s0__f9a5c13d36da.mp3",
+   "text": "열두 순례길 안내소다. 순은 좇는다, 행은 간다, 경맥은 몸 위의 순례길이다. 안내판 아홉 칸에 거대한 돌 조각상이 있고, 경락 인물들이 그 위를 걷는다. 시험은 원문 한 구절을 주고 어느 경인지 묻는다. 길이 지나는 표지 하나, 아랫니, 어깨뼈, 귀 윗끝, 혀뿌리, 로 순례자를 가린다. 칸 차례는 유주 차례가 아니라 문항 묶음 차례다.",
+   "text_sha256": "f9a5c13d36dab18e7952307920ebb302f371d52dc139b003ed554da3cb6c3b2d",
+   "audio_sha256": "ac7157fd27a8c6ad5bb81c6e1fa7c6c859f3ec234b610967ecd00610f96b0e17",
+   "image_sha256": "46b8f3c076c582fe444000b1a43575ca718ced409317c5927d2d9c1e4693161f",
+   "source_commit": "e9b5005c878dac937eb68a9f931c8b4399a59c03",
+   "station_sha256": "693b3ec295264f1b0b696756db8d5df0a5582953d34d16dfae1f0a8b477ab5da",
+   "original_wav_sha256": "16c1765e39788a92ba6cca121cd792768405d78eb6dfbc5c2826f2ebfa9702f6",
+   "original_wav_filename": "new-gr-09.full.wav"
+  },
+  "new-gr-09#1": {
+   "src": "audio/narration/new-gr-09__s1__1c6d4501cc50.mp3",
+   "text": "첫 칸, 돌 얼굴의 아랫니 줄에 흰 작업복 남자가 섰다, 수양명대장경. 얼굴 옆, 뼈 둘을 세운 문은 엄지와 검지 두 뼈 사이, 출합곡량골지간 상입량근지중. 어깨는 상노외전렴 상견 출우골지전렴. 머리로 와서는 종결분상경 관협 입하치중, 아랫니로 들고, 환출협구 교인중, 입을 끼고 나와 인중에서 좌우가 엇갈려, 상협비공, 콧구멍 곁으로 오른다. 아랫니는 대장, 윗니는 위.",
+   "text_sha256": "1c6d4501cc50800a9a381ef7e3082f71f5d746fe9e5b9a31dedf129afa1ac613",
+   "audio_sha256": "70c8ebcd74bcffeddffee291314f2f9fb9e8632f9e29a8e06f1b0fe7f898f72b",
+   "image_sha256": "46b8f3c076c582fe444000b1a43575ca718ced409317c5927d2d9c1e4693161f",
+   "source_commit": "e9b5005c878dac937eb68a9f931c8b4399a59c03",
+   "station_sha256": "5ab249d061978b96de578c5005e833e8563073349bd18dcbf901de13ffeb36bb",
+   "original_wav_sha256": "16c1765e39788a92ba6cca121cd792768405d78eb6dfbc5c2826f2ebfa9702f6",
+   "original_wav_filename": "new-gr-09.full.wav"
+  },
+  "new-gr-09#2": {
+   "src": "audio/narration/new-gr-09__s2__08be28b66e94.mp3",
+   "text": "둘째 칸, 발자국이 입술을 한 바퀴 돈다, 족양명위, 환출협구 환순 하교승장. 턱 아래로 돌아 출대영 순협차, 귀 앞으로 올라 과객주인, 머리털 가장자리를 따라 이마 위로, 순발제 지액로. 오른쪽 큰 돌 발 위에는 요리사가 섰고, 발자국이 발등을 건너 바깥쪽 발가락 사이 틈으로 든다, 기지자 하렴삼촌이별 하입중지외간, 무릎 아래 세 치에서 갈라져 가운데 발가락 바깥 틈으로 든다.",
+   "text_sha256": "08be28b66e942a579b4d35f84bc680f273816bfbcbd469abb13cc3922a4809ad",
+   "audio_sha256": "05c6b946247269c5c2c1b5355ad065e433c797f7b9db949898a789fda43c8266",
+   "image_sha256": "46b8f3c076c582fe444000b1a43575ca718ced409317c5927d2d9c1e4693161f",
+   "source_commit": "e9b5005c878dac937eb68a9f931c8b4399a59c03",
+   "station_sha256": "34342b4c9c1b36910637cadfb6079f4275101781aa5559fb23c519a9a8d23435",
+   "original_wav_sha256": "16c1765e39788a92ba6cca121cd792768405d78eb6dfbc5c2826f2ebfa9702f6",
+   "original_wav_filename": "new-gr-09.full.wav"
+  },
+  "new-gr-09#3": {
+   "src": "audio/narration/new-gr-09__s3__06620cffc383.mp3",
+   "text": "셋째 칸, 붉은 앞치마 남자의 발자국이 어깨 아래 등, 어깨뼈 자리를 V자로 꺾어 돈다, 수태양소장, 상순노외후렴 출견해 요견갑 교견상. 어깨뼈를 감아 도는 것이 소장의 표지다. 발자국은 목 옆을 타고 귀 구멍으로 이어진다, 기지자 종결분순경 상협 지목예자 각입이중. 눈꼬리까지 갔다가 되돌아 귀 속, 청궁으로 든다.",
+   "text_sha256": "06620cffc383067837f64873f5937c0993451ffec6c6401ca8f21b2f01ebd238",
+   "audio_sha256": "ace3390c6552eb3ed181a9efcfe4b951659cdc75db33ca8caac8a238466bbb37",
+   "image_sha256": "46b8f3c076c582fe444000b1a43575ca718ced409317c5927d2d9c1e4693161f",
+   "source_commit": "e9b5005c878dac937eb68a9f931c8b4399a59c03",
+   "station_sha256": "293b891aaa1fe3761fa2c458656136dfcfe77e7d302790cad0c0066b0c077895",
+   "original_wav_sha256": "16c1765e39788a92ba6cca121cd792768405d78eb6dfbc5c2826f2ebfa9702f6",
+   "original_wav_filename": "new-gr-09.full.wav"
+  },
+  "new-gr-09#4": {
+   "src": "audio/narration/new-gr-09__s4__08430b5bb73b.mp3",
+   "text": "가운데 줄 첫 칸, 물장수가 눈 위에 섰고 발자국은 두 눈 사이 눈 안쪽 구석에서 시작한다, 족태양방광, 기어목내자. 이마를 곧게 올라, 상액, 정수리에서 만난다, 교전. 한 갈래는 정수리에서 귀 윗끝으로 내려온다, 기지자 종전지이상각.",
+   "text_sha256": "08430b5bb73b04668b418785c39233c68035a19185536389b26336906848fec3",
+   "audio_sha256": "7f250d3e4ec57bde10394dc4630a2a4a14875516ba51272221bc5d2b40d40657",
+   "image_sha256": "46b8f3c076c582fe444000b1a43575ca718ced409317c5927d2d9c1e4693161f",
+   "source_commit": "e9b5005c878dac937eb68a9f931c8b4399a59c03",
+   "station_sha256": "67cf3e4ab395caf85495c99fb01c0efade134d65dc1751c5c3d70ec6b36b7912",
+   "original_wav_sha256": "16c1765e39788a92ba6cca121cd792768405d78eb6dfbc5c2826f2ebfa9702f6",
+   "original_wav_filename": "new-gr-09.full.wav"
+  },
+  "new-gr-09#5": {
+   "src": "audio/narration/new-gr-09__s5__ad56284333c6.mp3",
+   "text": "둘째 칸, 주황 작업복 인부가 귀 뒤를 곧게 기어올라 귀 위에 선다, 같은 인부가 두 번 보이는 것은 오르는 길이다. 수소양삼초, 상항 계이후 직상출이상각. 귀 윗끝에서 굽어 내려가 뺨을 지나 눈 아래 광대뼈 쪽으로 간다, 이굴하협지관. 콧구멍까지 가는 것은 대장이니 헷갈리지 말 것. 또 한 갈래는 종이후입이중 출주이전 과객주인전 교협 지목예자. 방광은 정수리에서 내려와 귀 윗끝, 삼초는 귀 뒤에서 올라와 귀 윗끝, 오는 방향으로 가른다.",
+   "text_sha256": "ad56284333c6ea4024a80517ecb6bd283e4cfa8bfd3587d02fcc32d9239afe54",
+   "audio_sha256": "e1482aa92d6d43ee1aaaf226e38c7fbc8d18ffe9a556ec69e63912ebdcb2281f",
+   "image_sha256": "46b8f3c076c582fe444000b1a43575ca718ced409317c5927d2d9c1e4693161f",
+   "source_commit": "e9b5005c878dac937eb68a9f931c8b4399a59c03",
+   "station_sha256": "19b431c78f914984b701ea8721567c694d3bf4a6afe94679e3c2c8155a6ad4f4",
+   "original_wav_sha256": "16c1765e39788a92ba6cca121cd792768405d78eb6dfbc5c2826f2ebfa9702f6",
+   "original_wav_filename": "new-gr-09.full.wav"
+  },
+  "new-gr-09#6": {
+   "src": "audio/narration/new-gr-09__s6__07ee4a9de763.mp3",
+   "text": "셋째 칸, 초록 장군이 머리 뒤쪽 사다리를 오른다, 족궐음간, 순후롱지후 상입항상. 목구멍 뒤를 따라 코 안쪽 깊은 곳 항상으로 든다. 눈에 이어지고, 연목계, 이마로 나와, 상출액, 정수리에서 등뼈 지팡이 사내와 악수한다, 여독맥회어전, 독맥과 정수리에서 만난다. 이 사내는 대머리 장사가 아니다, 등뼈 지팡이가 독맥의 표지다.",
+   "text_sha256": "07ee4a9de76318ff7d639c5a99c05b7eb68ec8bc8dc16150f25d26693efa25ad",
+   "audio_sha256": "0c4405f2d956686a7a8f8e86d353a077ad23e387df6a4c354254ebbcbc0fec03",
+   "image_sha256": "46b8f3c076c582fe444000b1a43575ca718ced409317c5927d2d9c1e4693161f",
+   "source_commit": "e9b5005c878dac937eb68a9f931c8b4399a59c03",
+   "station_sha256": "24bacb1cb7e13db059a9a305ce6ba53b5e001cb0aa8a7dd734cb1ef34ebafbe9",
+   "original_wav_sha256": "16c1765e39788a92ba6cca121cd792768405d78eb6dfbc5c2826f2ebfa9702f6",
+   "original_wav_filename": "new-gr-09.full.wav"
+  },
+  "new-gr-09#7": {
+   "src": "audio/narration/new-gr-09__s7__e0abca2282b3.mp3",
+   "text": "아래 줄 첫 칸, 대머리 장사가 목구멍에서 올라와 혀뿌리에 올라탔다, 족소음신, 기직자 종신상관간격 입폐중 순후롱 협설본. 간과 격을 꿰고, 폐로 들어가, 목구멍을 따라 올라 혀뿌리를 낀다.",
+   "text_sha256": "e0abca2282b36c69aeaaf04bc32d8d3a21c4da4d6d27ccc1c7a61be6118fa750",
+   "audio_sha256": "2f5dbe39bf27dc643a7a56e23f8037939534092d7d33e48d07dfe439ee63157f",
+   "image_sha256": "46b8f3c076c582fe444000b1a43575ca718ced409317c5927d2d9c1e4693161f",
+   "source_commit": "e9b5005c878dac937eb68a9f931c8b4399a59c03",
+   "station_sha256": "6db6138a261608de08c8986bd2c0d622e34ccb6adc73057ea4e459ccd4f52434",
+   "original_wav_sha256": "16c1765e39788a92ba6cca121cd792768405d78eb6dfbc5c2826f2ebfa9702f6",
+   "original_wav_filename": "new-gr-09.full.wav"
+  },
+  "new-gr-09#8": {
+   "src": "audio/narration/new-gr-09__s8__aeca7aac9c8d.mp3",
+   "text": "둘째 칸, 손바닥을 위로 편 돌 팔에 세 줄 길이 났다. 붉은 방패 근위병은 가운데 길로 손바닥 한가운데에 든다, 수궐음심포, 순노내 행태음소음지간 입주중 하비 행량근지간 입장중. 태음 폐와 소음 심 사이를 간다. 새끼손가락 쪽 아래의 임금은 쌍안경을 들었다, 수소음심, 기지자 종심계 상협인 계목계, 목구멍을 끼고 올라 눈에 맨다. 쌍안경 = 목계는 심, 손바닥 한가운데는 심포.",
+   "text_sha256": "aeca7aac9c8dcab95d662aea3f53e319bb7a06d914704b44d9042e6b16fa1ea2",
+   "audio_sha256": "10f9f268b2120c043ed0f960c1ac6a79786e1abff4edd33f61b33a1be3e01e3a",
+   "image_sha256": "46b8f3c076c582fe444000b1a43575ca718ced409317c5927d2d9c1e4693161f",
+   "source_commit": "e9b5005c878dac937eb68a9f931c8b4399a59c03",
+   "station_sha256": "e9e41f77c27a23e3715a549faf789b8449aeb4a74723c59d2c92821287a71234",
+   "original_wav_sha256": "16c1765e39788a92ba6cca121cd792768405d78eb6dfbc5c2826f2ebfa9702f6",
+   "original_wav_filename": "new-gr-09.full.wav"
+  },
+  "new-gr-09#9": {
+   "src": "audio/narration/new-gr-09__s9__63768070b309.mp3",
+   "text": "같은 팔, 엄지 쪽 맨 위 길을 흰 옷 노인이 걷는다, 수태음폐, 하순노내 행소음심주지전. 소음 심과 심주 심포보다 앞에 간다. 그래서 팔 안쪽 세 길은 엄지 쪽부터 폐, 심포, 심. 폐는 하주중 순비내상골하렴 입촌구 상어 출대지지단, 엄지 끝으로 나간다. 카드 답에 붙은 입주중 하비행량근지간 입장중은 심포 구절이니 폐와 섞지 말 것.",
+   "text_sha256": "63768070b309adeb494ceccc1f57eb5acc2b562254f12f4da29f0000cb1da894",
+   "audio_sha256": "b03394c3e4eb579ae941e971b8f671aba7aaf3b3bec2573e73cbbda3e1d1becf",
+   "image_sha256": "46b8f3c076c582fe444000b1a43575ca718ced409317c5927d2d9c1e4693161f",
+   "source_commit": "e9b5005c878dac937eb68a9f931c8b4399a59c03",
+   "station_sha256": "f38213e3e4fa7f393b3e6ee63ca3ad99117bccb4a576f95c6b165db4f38db594",
+   "original_wav_sha256": "16c1765e39788a92ba6cca121cd792768405d78eb6dfbc5c2826f2ebfa9702f6",
+   "original_wav_filename": "new-gr-09.full.wav"
+  },
+  "new-gr-09#10": {
+   "src": "audio/narration/new-gr-09__s10__52ca762c8d82.mp3",
+   "text": "다시 입 칸, 혀 아래에 밀짚모자 농부가 무릎 꿇고 씨앗을 흩뿌린다, 족태음비, 상격 협인 연설본 산설하. 혀뿌리에 이어지고 혀 아래로 흩어진다, 설하이지 혀끝 설첨이 아니다. 신은 혀뿌리를 끼고 협설본, 비는 혀뿌리에 이어 혀 아래로 흩어진다, 연설본 산설하. 같은 문항의 짝 구절 상순노외후렴 요견갑은 셋째 칸 소장이다.",
+   "text_sha256": "52ca762c8d82ea3b0a94d8e6315cca5dc6657d5a624918ed0142ebb6b906ca97",
+   "audio_sha256": "1578a82fcf1aa15b678eb47d537851bf4313b6006fa97b1155de0064dc8547b1",
+   "image_sha256": "46b8f3c076c582fe444000b1a43575ca718ced409317c5927d2d9c1e4693161f",
+   "source_commit": "e9b5005c878dac937eb68a9f931c8b4399a59c03",
+   "station_sha256": "3f28b8dc184e34ebb801010e299de13b9b4c670cfa983c55ac9a5ee57b0ff651",
+   "original_wav_sha256": "16c1765e39788a92ba6cca121cd792768405d78eb6dfbc5c2826f2ebfa9702f6",
+   "original_wav_filename": "new-gr-09.full.wav"
+  },
+  "new-gr-09#11": {
+   "src": "audio/narration/new-gr-09__s11__685de9fedd8f.mp3",
+   "text": "마지막 칸, 사람 없는 돌 얼굴. 원문에 나오는 부위 이름을 혈로 바꿔 읽는다. 눈썹 머리 쪽으로 모아 묶은 대나무, 찬죽, 눈썹 머리 미본. 눈썹 꼬리 쪽으로 뻗은 가는 빈 대롱, 사죽공, 눈썹 끝 미초. 턱 모서리 곁 수레, 협차, 아상, 아관. 코끝의 흰 구슬, 소료, 코끝 비준. 간경의 항상은 코 안쪽 깊은 곳, 비인이다.",
+   "text_sha256": "685de9fedd8fa3a4d86a09905bf9e2ba9d99cb127f1ab16f0963fe220dcd9d23",
+   "audio_sha256": "a094efdbd73f6866f701956a12bade1406a25ab9d48f6128ae8a67471909da8b",
+   "image_sha256": "46b8f3c076c582fe444000b1a43575ca718ced409317c5927d2d9c1e4693161f",
+   "source_commit": "e9b5005c878dac937eb68a9f931c8b4399a59c03",
+   "station_sha256": "0c7ab96badddfa4c47a05b30399934d767291c903a354897655905c799dcafd1",
+   "original_wav_sha256": "16c1765e39788a92ba6cca121cd792768405d78eb6dfbc5c2826f2ebfa9702f6",
+   "original_wav_filename": "new-gr-09.full.wav"
+  },
+  "new-gr-09#12": {
+   "src": "audio/narration/new-gr-09__s12__984bce0d8d07.mp3",
+   "text": "다시 본다. 아랫니와 뼈 두 개 문, 대장, 합곡, 하치, 교인중. 입술 한 바퀴와 발가락, 위, 환순, 액로, 중지외간. 어깨뼈 자리 꺾어 돌기, 소장, 요견갑, 각입이중. 눈 안쪽에서 정수리, 방광, 목내자, 교전, 이상각. 귀 뒤에서 귀 윗끝, 삼초, 이후, 굴하협지관. 사다리와 정수리 악수, 간, 후롱지후, 항상, 회어전. 혀뿌리 장사, 신, 협설본. 혀 아래 씨앗, 비, 산설하. 팔 세 길, 엄지 쪽부터 폐, 심포, 심, 쌍안경은 목계.",
+   "text_sha256": "984bce0d8d07067e37bc9f3f70c66e50b461313119f6e8f2a5420ab282907f7c",
+   "audio_sha256": "e0199d3dbc5ccb488475438c789d9a1318149d495a38153ed5ae98e89632f8b3",
+   "image_sha256": "46b8f3c076c582fe444000b1a43575ca718ced409317c5927d2d9c1e4693161f",
+   "source_commit": "e9b5005c878dac937eb68a9f931c8b4399a59c03",
+   "station_sha256": "4a3f3c7bf7a7301a8ec1e0f751a7dacb561b8a4162a2bc461ff17468b1eab250",
+   "original_wav_sha256": "16c1765e39788a92ba6cca121cd792768405d78eb6dfbc5c2826f2ebfa9702f6",
+   "original_wav_filename": "new-gr-09.full.wav"
   }
  }
 }

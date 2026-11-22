@@ -11,3 +11,7 @@
 - 프롬프트: NEON_TASK_PROMPT.txt. 결과: wav/neon_*.wav (24kHz 16bit mono). suchi-10#7은 Gemini가 1차의 「몰약은」「넷 위」를 고쳐 2차 녹음.
 - 앞의 AI Studio 3장(감수 없음)은 쓰지 않는다. 다른 창에서 오타(틄) 섞인 입력으로 돌린 suchi-10 한 건도 쓰지 않는다.
 - 내 직접 청취 없음. 사용자 청취 대기.
+
+## 3차 — 목소리 고정 (사용자 12:42 「여성 목소리인데 일관성이 없어」 → Kore 선택)
+- 프롬프트에 「반드시 Gemini TTS의 Kore 목소리(여성) 한 명으로만」과 「실제로 쓴 목소리 이름 보고」를 넣었다(NEON_TASK_PROMPT.txt, {notes} 자리에 과별 읽기 메모).
+- 수정된 fan18-1#2(세 자리, 생강쇄반하)로 시험: Gemini 보고 「Kore」. wav/kore_fan18-1__s2__12f31c78b0c2.wav. 사용자가 예전 Kore 녹음과 비교해 확인할 것.

@@ -6094,6 +6094,116 @@
    "station_sha256": "c21c02512435a718b36927cab7d6d2b92d730a611a208061da9011ac4fd7af73",
    "original_wav_sha256": "8a941060ecba382fa988c3ac144d9b4e14a41d68cfb432ac064440b033f84a68",
    "original_wav_filename": "new-uk-12.full.wav"
+  },
+  "new-uk-13#0": {
+   "src": "audio/narration/new-uk-13__s0__0d6210a24a2f.mp3",
+   "text": "구름 위 하늘 법정이다. 높은 구름 판사석에 앉은 판사가 그해 사천, 곧 기. 낮은 피고석의 피고가 그해 대운, 곧 운. 위에서 아래로 주느냐 치느냐, 아래에서 위로 주느냐 치느냐, 생과 극의 방향이 판결을 가른다. 아래 광장의 수평 저울은 평기, 넘치지도 모자라지도 않게 맞춘 균형이다.",
+   "text_sha256": "0d6210a24a2f7908aeb2d4ceadeefa0d22cb84d82f882a2d31d360a9f555fb42",
+   "audio_sha256": "a2002f4162bd872be20c685799509304a3ec74360854c10a03e78f5035795c10",
+   "image_sha256": "6c2518c7706b081a355d77e3ce0b098b0ecef0596cd2bb013b5815a7a5b1808b",
+   "source_commit": "92e77e73038adb148089082196bd3d8ec2622012",
+   "station_sha256": "de01e3a7fbf4550a3329a08fe9a1427b9309837526753df9b76270f5c4c68e3b",
+   "original_wav_sha256": "9320319df6c2af6a819504eb8349643e114505137792a425def80a9277eb29a6",
+   "original_wav_filename": "new-uk-13.full.wav"
+  },
+  "new-uk-13#1": {
+   "src": "audio/narration/new-uk-13__s1__ea4081f1cd0f.mp3",
+   "text": "첫째 법정. 판사가 몸을 숙여 꽃다발과 물뿌리개를 피고에게 건넨다. 하늘의 기가 아래의 운을 낳아 기른다, 기생운, 순화. 흰 비둘기가 날고 하늘이 맑다, 그해 기후가 평화롭다.",
+   "text_sha256": "ea4081f1cd0f149b341e6a8b607fe6f9cd8f120d33ffb821b4a962d903e5d81a",
+   "audio_sha256": "24b96a3068b6d1d2de783633cceb6f6987459e3898c8d911ba85e0aa8c673309",
+   "image_sha256": "6c2518c7706b081a355d77e3ce0b098b0ecef0596cd2bb013b5815a7a5b1808b",
+   "source_commit": "92e77e73038adb148089082196bd3d8ec2622012",
+   "station_sha256": "803d3e748d2269f9bb0d15588393db7fb1713426d1dba8862716c47663121177",
+   "original_wav_sha256": "9320319df6c2af6a819504eb8349643e114505137792a425def80a9277eb29a6",
+   "original_wav_filename": "new-uk-13.full.wav"
+  },
+  "new-uk-13#2": {
+   "src": "audio/narration/new-uk-13__s2__597299c197df.mp3",
+   "text": "둘째 법정은 먹구름. 판사가 의사봉을 내리치자 번개가 피고석 옆에 꽂힌다. 하늘의 기가 아래의 운을 친다, 기극운, 천형. 글자 그대로 하늘이 내리는 형벌, 넷 가운데 변화가 가장 극렬하다.",
+   "text_sha256": "597299c197df64acf382b78a3655fbeae521966d1031187c778a64610c018d19",
+   "audio_sha256": "3633281e2f9a65215ae615210265ccb60ce6ce0bf279955bc3ac3a06fbd0773c",
+   "image_sha256": "6c2518c7706b081a355d77e3ce0b098b0ecef0596cd2bb013b5815a7a5b1808b",
+   "source_commit": "92e77e73038adb148089082196bd3d8ec2622012",
+   "station_sha256": "a9814ae6cb9f25f8afa702be914c5284e669ff4d0da81eca12eceeb88b0ef7ef",
+   "original_wav_sha256": "9320319df6c2af6a819504eb8349643e114505137792a425def80a9277eb29a6",
+   "original_wav_filename": "new-uk-13.full.wav"
+  },
+  "new-uk-13#3": {
+   "src": "audio/narration/new-uk-13__s3__919aaa38ff65.mp3",
+   "text": "셋째 법정. 피고가 사다리를 타고 올라 과일 바구니를 판사에게 바친다. 아래의 운이 위의 기를 낳는다, 운생기, 소역. 아래가 위를 먹이는 것은 차례를 조금 거스른 것, 판사가 어색해한다. 변화가 비교적 크다.",
+   "text_sha256": "919aaa38ff654185d3dc7e43d9a39fee5151bbc735aa8321a5c59c715a75e467",
+   "audio_sha256": "1287621dae9716b7b1d1d3632a5a4956177026bbf1fc47eb7dd3c3475392b79b",
+   "image_sha256": "6c2518c7706b081a355d77e3ce0b098b0ecef0596cd2bb013b5815a7a5b1808b",
+   "source_commit": "92e77e73038adb148089082196bd3d8ec2622012",
+   "station_sha256": "a33a5767dccd6832afd6e0f8f3fb13acc7cbcba10e5296a2946b0d1895906ca5",
+   "original_wav_sha256": "9320319df6c2af6a819504eb8349643e114505137792a425def80a9277eb29a6",
+   "original_wav_filename": "new-uk-13.full.wav"
+  },
+  "new-uk-13#4": {
+   "src": "audio/narration/new-uk-13__s4__dd3f8dc64e4b.mp3",
+   "text": "넷째 법정. 피고가 성나서 판사에게 신발을 던진다. 아래의 운이 위의 기를 친다, 운극기, 불화. 변화가 비교적 크다. 정리하면, 위에서 주면 순화, 위에서 치면 천형, 아래서 바치면 소역, 아래서 치면 불화.",
+   "text_sha256": "dd3f8dc64e4b83abbdd11fbfbedba19e66e226f4e1bacdb7e0099d69f38dca5c",
+   "audio_sha256": "57d63784fcb5a064e5837b54c1e486260dd98a0e3a48d0267ccba84ac8acccd7",
+   "image_sha256": "6c2518c7706b081a355d77e3ce0b098b0ecef0596cd2bb013b5815a7a5b1808b",
+   "source_commit": "92e77e73038adb148089082196bd3d8ec2622012",
+   "station_sha256": "c1b27d598ce75faf947d6b54942f2f46da42208bd64dcfa8a88cb032bb6b18bc",
+   "original_wav_sha256": "9320319df6c2af6a819504eb8349643e114505137792a425def80a9277eb29a6",
+   "original_wav_filename": "new-uk-13.full.wav"
+  },
+  "new-uk-13#5": {
+   "src": "audio/narration/new-uk-13__s5__fdab9c985573.mp3",
+   "text": "광장 가운데 금빛 저울은 두 접시가 똑같은 높이다. 평기, 태과도 불급도 아니어서 오운이 알맞게 작용하는 해. 평기에 이르는 길은 셋. 넘치는 운을 눌러서, 운태과이피억. 모자란 운을 도와서, 운불급이득조. 그리고 부절이 맞아서, 간덕부.",
+   "text_sha256": "fdab9c98557322b338c09cf350da527962d44aa2dd718080ea5269783c9e42b2",
+   "audio_sha256": "1c8795be8907650eb0c596f209d560586126c6a44abaf90b571b0a334ecda7e4",
+   "image_sha256": "6c2518c7706b081a355d77e3ce0b098b0ecef0596cd2bb013b5815a7a5b1808b",
+   "source_commit": "92e77e73038adb148089082196bd3d8ec2622012",
+   "station_sha256": "56d3d056a916c510e516c06249c442c3ae5d630a07a6a6652d8a5971d36a8406",
+   "original_wav_sha256": "9320319df6c2af6a819504eb8349643e114505137792a425def80a9277eb29a6",
+   "original_wav_filename": "new-uk-13.full.wav"
+  },
+  "new-uk-13#6": {
+   "src": "audio/narration/new-uk-13__s6__08ae4a68d474.mp3",
+   "text": "저울 왼쪽, 너무 부풀어 오른 불 거인, 화운 태과. 구름에서 내민 손이 머리를 누르며 찬물을 끼얹는다. 그해 사천이 넘치는 운을 극해 눌러 평기가 된다, 운태과이피억. 무진, 무술년이 화운태과에 태양한수 사천, 수가 화를 누른다. 카드의 목운태과 + 양명조금 사천 예는 육십갑자에 없는 짝이라, 임은 묘유와 만나지 않음, 원문과 대조해 둔다. 실제로 성립하는 예는 화, 금뿐, 무진, 무술, 그리고 경자, 경오, 경인, 경신, 금태과에 군화, 상화 사천.",
+   "text_sha256": "08ae4a68d4742c846b25809d9a27b91bcd2de7fb0754a880c90555b555aa10dc",
+   "audio_sha256": "8f629fd4d111d697ac53fe4007d69368156879389c3815cbf8ec9577c1d47cc0",
+   "image_sha256": "6c2518c7706b081a355d77e3ce0b098b0ecef0596cd2bb013b5815a7a5b1808b",
+   "source_commit": "92e77e73038adb148089082196bd3d8ec2622012",
+   "station_sha256": "cf3a9fd1d4906a240a611660b89b4bfbdeea8161ab1bb48e1b2fa862ba451753",
+   "original_wav_sha256": "9320319df6c2af6a819504eb8349643e114505137792a425def80a9277eb29a6",
+   "original_wav_filename": "new-uk-13.full.wav"
+  },
+  "new-uk-13#7": {
+   "src": "audio/narration/new-uk-13__s7__0c970dab7156.mp3",
+   "text": "저울 오른쪽, 작고 약한 물방울, 수운 불급. 구름의 손이 쇠 주전자로 물을 부어 준다, 카드 표현대로 사천이 운을 생해 돕는 그림이다, 금생수. 다만 교재에 흔한 예는 같은 기운의 도움, 을묘, 을유년은 금운불급에 양명조금 사천이 같은 금으로 돕는다. 양옆에서 같은 색 친구가 부축한다, 연지의 오행이 운과 같아 돕는다, 정묘년의 목운불급에 묘목, 을유년의 금운불급에 유금처럼. 모자란 운이 도움을 얻어 평기, 운불급이득조.",
+   "text_sha256": "0c970dab7156900d69ae8cb3de4ba0267412888c0854d8a5fe00bf0f29a25612",
+   "audio_sha256": "09d52e0e0c83b0da45061a66b4572621193ac388f616543bd1eb4d957fc1fffd",
+   "image_sha256": "6c2518c7706b081a355d77e3ce0b098b0ecef0596cd2bb013b5815a7a5b1808b",
+   "source_commit": "92e77e73038adb148089082196bd3d8ec2622012",
+   "station_sha256": "ec7033e94a96ed879262f2b95f00682eaaec6dd55d2be1cfcc8650f8416c2afc",
+   "original_wav_sha256": "9320319df6c2af6a819504eb8349643e114505137792a425def80a9277eb29a6",
+   "original_wav_filename": "new-uk-13.full.wav"
+  },
+  "new-uk-13#8": {
+   "src": "audio/narration/new-uk-13__s8__f21585c4853b.mp3",
+   "text": "맨 오른쪽, 눈 내리는 문, 대한, 운이 바뀌어 들어오는 교운의 때다. 문지기와 나그네가 쪼갠 부절 두 쪽을 맞추자 결이 꼭 맞는다. 교운하는 날이나 시의 천간이 그해 연간과 짝이 맞으면, 예컨대 정년 목운불급인데 교운이 임일이면 정임합, 모자람이 메워져 평기가 된다. 간덕부, 카드에는 간득부로 적혀 있다.",
+   "text_sha256": "f21585c4853b2ab140ea6264f1fd2560dca1c02997a7aacb5363a6c2268e1dc3",
+   "audio_sha256": "bbab7c54a02ca3438c2697f9870d54d1513e3981a77ed8d181e65fd7c7b92d74",
+   "image_sha256": "6c2518c7706b081a355d77e3ce0b098b0ecef0596cd2bb013b5815a7a5b1808b",
+   "source_commit": "92e77e73038adb148089082196bd3d8ec2622012",
+   "station_sha256": "3209b3b393e914879e7e1a32acce0b17fdb3c485e9e6a93d17c037f19b0a6631",
+   "original_wav_sha256": "9320319df6c2af6a819504eb8349643e114505137792a425def80a9277eb29a6",
+   "original_wav_filename": "new-uk-13.full.wav"
+  },
+  "new-uk-13#9": {
+   "src": "audio/narration/new-uk-13__s9__d1ae4ab0d816.mp3",
+   "text": "다시 본다. 위에서 꽃다발, 기생운 순화, 평화. 위에서 번개, 기극운 천형, 가장 극렬. 아래서 바구니, 운생기 소역. 아래서 신발, 운극기 불화. 가운데 저울 평기, 넘치는 불 거인은 눌러서 피억, 모자란 물방울은 도와서 득조, 눈 오는 문의 부절은 간덕부.",
+   "text_sha256": "d1ae4ab0d816572f3584472e3a7ce8320977bf498870822c6ae5f4d6bb5d35a4",
+   "audio_sha256": "a045dd23d1593de6bf4732764c9043dc1c7d18530c40092fec284efb5cd66291",
+   "image_sha256": "6c2518c7706b081a355d77e3ce0b098b0ecef0596cd2bb013b5815a7a5b1808b",
+   "source_commit": "92e77e73038adb148089082196bd3d8ec2622012",
+   "station_sha256": "f28f2046892cc98f935e7936dc9ac09b208d666bf22f31a3f425ab27689422f4",
+   "original_wav_sha256": "9320319df6c2af6a819504eb8349643e114505137792a425def80a9277eb29a6",
+   "original_wav_filename": "new-uk-13.full.wav"
   }
  }
 }

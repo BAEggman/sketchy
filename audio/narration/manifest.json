@@ -12331,6 +12331,94 @@
    "station_sha256": "0e525e33ed361c011e3dc69fb308c16393055f4030d4f0af17909c34e9595dc1",
    "original_wav_sha256": "a383102d261ea3161c1f749ca02bef66460bd1870bc17fc252df6555d99dfe8f",
    "original_wav_filename": "mer-10.full.wav"
+  },
+  "new-gr-33#0": {
+   "src": "audio/narration/new-gr-33__s0__a129eba49669.mp3",
+   "text": "십육극혈 ① 수육경, 공최, 온류, 음극, 양로, 극문, 회종 과다. 장소는 암벽 협곡 윗단 틈새, 극, 틈 극, 뜻: 손 경락 인물이 암벽 틈에서 급성병을 막음. 정본 경락 인물과 공용 부호, 뜻, 소리 고리를 따라 차례로 읽는다.",
+   "text_sha256": "a129eba49669d1975c0f501c0c88f2007654d77657b2c2fcc2aeefb8f231a9f0",
+   "audio_sha256": "55ed6ee737c5332bdcbd33701775277984b1525e2ad86ab8296c6886349dfd5a",
+   "image_sha256": "0c621336cda01d68ba22b17bb223e8ea8ae5d8b94143c084b5b882213e70cc20",
+   "source_commit": "b0b9a8ac48000cb605fb96e9d7e2582b5feb4af6",
+   "station_sha256": "3e5c9e7a53ef1add9bea741f3b14a7b8d6c0ea63d4ea91202a113f07f2004a62",
+   "original_wav_sha256": "1866733e5d4594998c4fe696d9b3a93d3c9b4e62739e4624db6e6115185165ee",
+   "original_wav_filename": "new-gr-33.full.wav"
+  },
+  "new-gr-33#1": {
+   "src": "audio/narration/new-gr-33__s1__bfd1f9e0ca02.mp3",
+   "text": "암벽 틈새 #1 정거장이다. 깊게 갈라진 바위 절벽의 여섯 틈새 극과 솟구치는 붉은 물줄기, 번개 표지, 일렉기타, 1, 위 육각 너트 6이, 가, 뚜렷이 그려져 있다. 극혈 정의 = 경맥 기혈이 곡절해 모이는 틈, 16개, 내장 급성병, 급성 동통, 음경 혈증.",
+   "text_sha256": "bfd1f9e0ca027a9cabc842bb490611db9a23952721771adc0872a4766709cb62",
+   "audio_sha256": "afff970491edaa7a8f8151cf8b7afa985af50b55eca89c6095bb9a7966e73ccd",
+   "image_sha256": "0c621336cda01d68ba22b17bb223e8ea8ae5d8b94143c084b5b882213e70cc20",
+   "source_commit": "b0b9a8ac48000cb605fb96e9d7e2582b5feb4af6",
+   "station_sha256": "8209326f71cec691a9ac68fe8fe471195b5921dde3706f361bd14ec0ab6e7a57",
+   "original_wav_sha256": "1866733e5d4594998c4fe696d9b3a93d3c9b4e62739e4624db6e6115185165ee",
+   "original_wav_filename": "new-gr-33.full.wav"
+  },
+  "new-gr-33#2": {
+   "src": "audio/narration/new-gr-33__s2__debbc32c7189.mp3",
+   "text": "암벽 틈새 #2 정거장이다. 가장 꼭대기 최에 뚫린 둥근 구멍 공이, 가, 뚜렷이 그려져 있다. 수태음폐경 극혈 = 공최, LU6, 노인 폐가 구멍 공 틈을 막음.",
+   "text_sha256": "debbc32c7189205aefa0ea1d6fed6ed8cb0a6ee3e5240f1d6372ccfbcd663ab1",
+   "audio_sha256": "27cf8573be0062295a036329fa62130705df9623b97a36a8c70f97fc73d65f6b",
+   "image_sha256": "0c621336cda01d68ba22b17bb223e8ea8ae5d8b94143c084b5b882213e70cc20",
+   "source_commit": "b0b9a8ac48000cb605fb96e9d7e2582b5feb4af6",
+   "station_sha256": "c713119b6f7aae70c2a96a0f1f0979f5de0780182af5b17bc31aaefec9bd0ea8",
+   "original_wav_sha256": "1866733e5d4594998c4fe696d9b3a93d3c9b4e62739e4624db6e6115185165ee",
+   "original_wav_filename": "new-gr-33.full.wav"
+  },
+  "new-gr-33#3": {
+   "src": "audio/narration/new-gr-33__s3__84393ed4dd11.mp3",
+   "text": "암벽 틈새 #3 정거장이다. 김이 모락모락 나는 따뜻한 물줄기 온류가 뚜렷이 그려져 있다. 수양명대장경 극혈 = 온류, LI7, 흰 작업복 대장이 따뜻한 물줄기 온류 틈에.",
+   "text_sha256": "84393ed4dd119a32a18facfed943002e999f45aa426bdf0505bbc68dc23d23c3",
+   "audio_sha256": "c99ff461ed0eaad6088c72523def50bc05c037d6098dc36014f35f1b7b44acaa",
+   "image_sha256": "0c621336cda01d68ba22b17bb223e8ea8ae5d8b94143c084b5b882213e70cc20",
+   "source_commit": "b0b9a8ac48000cb605fb96e9d7e2582b5feb4af6",
+   "station_sha256": "e983df2b34172f941231afa3a2dc17923dbeb1131aa7942fd06bf321e7865734",
+   "original_wav_sha256": "1866733e5d4594998c4fe696d9b3a93d3c9b4e62739e4624db6e6115185165ee",
+   "original_wav_filename": "new-gr-33.full.wav"
+  },
+  "new-gr-33#4": {
+   "src": "audio/narration/new-gr-33__s4__7366020bfdb1.mp3",
+   "text": "암벽 틈새 #4 정거장이다. 초승달 그늘이 진 어두운 바위 틈 음극이, 가, 뚜렷이 그려져 있다. 수소음심경 극혈 = 음극, HT6, 임금 심이 그늘진 틈 음극에.",
+   "text_sha256": "7366020bfdb1a5ca86a81f247376cc1db0038e45c0c4c9a80e9ee68f0677d51b",
+   "audio_sha256": "1ae207aa1c53efecb44bd3f2909a95df698e66de4bed7be9f022890197556fcd",
+   "image_sha256": "0c621336cda01d68ba22b17bb223e8ea8ae5d8b94143c084b5b882213e70cc20",
+   "source_commit": "b0b9a8ac48000cb605fb96e9d7e2582b5feb4af6",
+   "station_sha256": "76f9dcc50ff874b0cb79503880024bf6a00f73193804b750d83681509f6b1e47",
+   "original_wav_sha256": "1866733e5d4594998c4fe696d9b3a93d3c9b4e62739e4624db6e6115185165ee",
+   "original_wav_filename": "new-gr-33.full.wav"
+  },
+  "new-gr-33#5": {
+   "src": "audio/narration/new-gr-33__s5__607a7685a45e.mp3",
+   "text": "암벽 틈새 #5 정거장이다. 할머니에게 밥상을 올려 봉양하는 평상 양로가 뚜렷이 그려져 있다. 수태양소장경 극혈 = 양로, SI6, 붉은 앞치마 소장이 노인을 봉양 양로.",
+   "text_sha256": "607a7685a45e9745ed5afafada205705bcce16a48da3ea3cd47e2f4cf1cfcd1d",
+   "audio_sha256": "0b905bf16f9ccfc5d342fe742d6ec8420b55c6d7fa02a712178b0eb178211baa",
+   "image_sha256": "0c621336cda01d68ba22b17bb223e8ea8ae5d8b94143c084b5b882213e70cc20",
+   "source_commit": "b0b9a8ac48000cb605fb96e9d7e2582b5feb4af6",
+   "station_sha256": "83689bc545f4b83c8ca92263f17bdbb5879155f261dbe524a55e4193453092e1",
+   "original_wav_sha256": "1866733e5d4594998c4fe696d9b3a93d3c9b4e62739e4624db6e6115185165ee",
+   "original_wav_filename": "new-gr-33.full.wav"
+  },
+  "new-gr-33#6": {
+   "src": "audio/narration/new-gr-33__s6__6d8010ea6a59.mp3",
+   "text": "암벽 틈새 #6 정거장이다. 바위 틈 사이에 세운 붉은 두 짝 대문 극문, 큰 구리 범종 앞에 모인 여러 깃발 회종이, 가, 뚜렷이 그려져 있다. 수궐음심포경 극혈 = 극문, PC4, 수소양삼초경 극혈 = 회종, TE7.",
+   "text_sha256": "6d8010ea6a596f8ea7f913d03517a74bece4ff2fc199b92a3aa1dcc2f99557e0",
+   "audio_sha256": "284ac2bc32b4740157b2692a683035eb5435c5cd15fe47ea1727fa31a133ca03",
+   "image_sha256": "0c621336cda01d68ba22b17bb223e8ea8ae5d8b94143c084b5b882213e70cc20",
+   "source_commit": "b0b9a8ac48000cb605fb96e9d7e2582b5feb4af6",
+   "station_sha256": "e4a84de728ae31b7bef94650aff06a4d0572a16a8eacca7832232bb77b73ed86",
+   "original_wav_sha256": "1866733e5d4594998c4fe696d9b3a93d3c9b4e62739e4624db6e6115185165ee",
+   "original_wav_filename": "new-gr-33.full.wav"
+  },
+  "new-gr-33#7": {
+   "src": "audio/narration/new-gr-33__s7__29e4f0e45b69.mp3",
+   "text": "처음부터 한 바퀴 되짚는다. 극혈 정의 = 경맥 기혈이 곡절해 모이는 틈, 16개, 내장 급성병, 급성 동통, 음경 혈증 / 수태음폐경 극혈 = 공최, LU6, 노인 폐가 구멍 공 틈을 막음 / 수양명대장경 극혈 = 온류, LI7, 흰 작업복 대장이 따뜻한 물줄기 온류 틈에 / 수소음심경 극혈 = 음극, HT6, 임금 심이 그늘진 틈 음극에 / 수태양소장경 극혈 = 양로, SI6, 붉은 앞치마 소장이 노인을 봉양 양로 / 수궐음심포경 극혈 = 극문, PC4, 수소양삼초경 극혈 = 회종, TE7,",
+   "text_sha256": "29e4f0e45b69de5ea569cf16b1024a0d555df12aec74d67b57356534a9cc9569",
+   "audio_sha256": "c01c7524b23186d993c9a89420903d182e2c55d7ad81b86cf8e00ea8a567d0a1",
+   "image_sha256": "0c621336cda01d68ba22b17bb223e8ea8ae5d8b94143c084b5b882213e70cc20",
+   "source_commit": "b0b9a8ac48000cb605fb96e9d7e2582b5feb4af6",
+   "station_sha256": "905f1965d5100566f0ecb30bae0d843aa1d406265f9847266bbf48a0688e5ad7",
+   "original_wav_sha256": "1866733e5d4594998c4fe696d9b3a93d3c9b4e62739e4624db6e6115185165ee",
+   "original_wav_filename": "new-gr-33.full.wav"
   }
  }
 }

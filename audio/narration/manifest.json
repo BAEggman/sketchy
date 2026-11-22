@@ -12419,6 +12419,83 @@
    "station_sha256": "905f1965d5100566f0ecb30bae0d843aa1d406265f9847266bbf48a0688e5ad7",
    "original_wav_sha256": "1866733e5d4594998c4fe696d9b3a93d3c9b4e62739e4624db6e6115185165ee",
    "original_wav_filename": "new-gr-33.full.wav"
+  },
+  "new-gr-34#0": {
+   "src": "audio/narration/new-gr-34__s0__d886e2985ba8.mp3",
+   "text": "십육극혈 ② 족육경 + 기경 넷, 양구, 지기, 금문, 수천, 외구, 중도 + 부양, 교신, 양교, 축빈 과다. 장소는 암벽 협곡 아랫단 틈새, 족육경과 음양교, 음양유 네 기경의 암벽 틈. 정본 경락 인물과 공용 부호, 뜻, 소리 고리를 따라 차례로 읽는다.",
+   "text_sha256": "d886e2985ba836f7674f3b27fc434d865bd81fbd98e5d584af0cccdc7d24700b",
+   "audio_sha256": "3606be00da80a6cf35b92637d256ec177f298494e7ae5aabb131470ea081bb9d",
+   "image_sha256": "d97d2bda9ad821895e530ec3b04d96b956d201ee5a78c5a5efeb24ef0373bc11",
+   "source_commit": "c125850aca36a4f748d2799debf9ba573d570f0c",
+   "station_sha256": "074141aac50fe71349475fadbb5519b10f1930f70f622fe8b957cab0391325d1",
+   "original_wav_sha256": "a204296d30041a87b088a119667c843fd78822a6dce0371731b48b6be2e59f3c",
+   "original_wav_filename": "new-gr-34.full.wav"
+  },
+  "new-gr-34#1": {
+   "src": "audio/narration/new-gr-34__s1__f0a7ba08c9ac.mp3",
+   "text": "암벽 틈새 #1 정거장이다. 나무 들보 다리가 놓인 언덕 양구, 땅 위에 놓인 베틀 지기가 뚜렷이 그려져 있다. 족양명위경 극혈 = 양구, ST34, 족태음비경 극혈 = 지기, SP8.",
+   "text_sha256": "f0a7ba08c9accd12ac17a18292e15aba5103a8207931c9524b7bccd6e1961bec",
+   "audio_sha256": "7129cc50a7fb45de42446011dc3ffb4b114b20cf363d978a4a89a9f5cc812385",
+   "image_sha256": "d97d2bda9ad821895e530ec3b04d96b956d201ee5a78c5a5efeb24ef0373bc11",
+   "source_commit": "c125850aca36a4f748d2799debf9ba573d570f0c",
+   "station_sha256": "1174d09ee7083cdcc08b47373d18a45eb6c03546e0f1af3f45d0c14a6e1a817e",
+   "original_wav_sha256": "a204296d30041a87b088a119667c843fd78822a6dce0371731b48b6be2e59f3c",
+   "original_wav_filename": "new-gr-34.full.wav"
+  },
+  "new-gr-34#2": {
+   "src": "audio/narration/new-gr-34__s2__c1ded7f8dbed.mp3",
+   "text": "암벽 틈새 #2 정거장이다. 번쩍이는 황금 대문 금문, 맑은 물이 솟는 바위 샘 수천이, 가, 뚜렷이 그려져 있다. 족태양방광경 극혈 = 금문, BL63, 족소음신경 극혈 = 수천, KI5.",
+   "text_sha256": "c1ded7f8dbedef598cc71629f25389777f2cb5a94dd0ac7e7b7f1d6612df1020",
+   "audio_sha256": "f0ab463b448701510ed8f93cdd9aac80c4a1b01391a0d38825a197e42cffbb4f",
+   "image_sha256": "d97d2bda9ad821895e530ec3b04d96b956d201ee5a78c5a5efeb24ef0373bc11",
+   "source_commit": "c125850aca36a4f748d2799debf9ba573d570f0c",
+   "station_sha256": "07a80117ee509bbfe7af626631f4aa0cbc925ee529d85d0fa35a886cdba4ec1d",
+   "original_wav_sha256": "a204296d30041a87b088a119667c843fd78822a6dce0371731b48b6be2e59f3c",
+   "original_wav_filename": "new-gr-34.full.wav"
+  },
+  "new-gr-34#3": {
+   "src": "audio/narration/new-gr-34__s3__3fea3368702c.mp3",
+   "text": "암벽 틈새 #3 정거장이다. 바깥쪽으로 솟은 언덕 외구, 한가운데 세운 도읍 성루 중도가 뚜렷이 그려져 있다. 족소양담경 극혈 = 외구, GB36, 족궐음간경 극혈 = 중도, LR6.",
+   "text_sha256": "3fea3368702cfe001af15ae64a227e2cd157960756cb88c3a87e6c54543b3296",
+   "audio_sha256": "9df2635399e799574a70972449cd0cd588ffdb92430737370b5a7b5ae4187e92",
+   "image_sha256": "d97d2bda9ad821895e530ec3b04d96b956d201ee5a78c5a5efeb24ef0373bc11",
+   "source_commit": "c125850aca36a4f748d2799debf9ba573d570f0c",
+   "station_sha256": "b60c22411668c83735f0db9dc203f1d974c97d56e35186980b735538d167633a",
+   "original_wav_sha256": "a204296d30041a87b088a119667c843fd78822a6dce0371731b48b6be2e59f3c",
+   "original_wav_filename": "new-gr-34.full.wav"
+  },
+  "new-gr-34#4": {
+   "src": "audio/narration/new-gr-34__s4__142732470590.mp3",
+   "text": "암벽 틈새 #4 정거장이다. 발등 위 해 문양 장대 부양, 서로 편지를 주고받는 달 장대 교신이, 가, 뚜렷이 그려져 있다. 양교맥 극혈 = 부양, BL59, 음교맥 극혈 = 교신, KI8.",
+   "text_sha256": "142732470590ae03bc4e14ea8948c7347605ba4b52df9023527f02dad01af256",
+   "audio_sha256": "bd417ec82d292d91710e5e096b1f7bde6d79a55ca16351765cdc5d9c34a3577e",
+   "image_sha256": "d97d2bda9ad821895e530ec3b04d96b956d201ee5a78c5a5efeb24ef0373bc11",
+   "source_commit": "c125850aca36a4f748d2799debf9ba573d570f0c",
+   "station_sha256": "c88a81f69859a0cb38d5d1163c38cc785a6165c9eaa82d051476a6fdbb8f2863",
+   "original_wav_sha256": "a204296d30041a87b088a119667c843fd78822a6dce0371731b48b6be2e59f3c",
+   "original_wav_filename": "new-gr-34.full.wav"
+  },
+  "new-gr-34#5": {
+   "src": "audio/narration/new-gr-34__s5__0690ed693007.mp3",
+   "text": "암벽 틈새 #5 정거장이다. 해 배지 금빛 그물이 교차하는 매듭 양교, 귀한 손님을 맞이하려 다진 돌축대 축빈이, 가, 뚜렷이 그려져 있다. 양유맥 극혈 = 양교, GB35, 음유맥 극혈 = 축빈, KI9, 요약본 용빈 오기 주의.",
+   "text_sha256": "0690ed69300793b07305e764c5049e6b197009cd09e8ac2d97320d2cdd389d5e",
+   "audio_sha256": "ba55ca6cd7f095ac97a9551b9c370e40bb5467d86341391d31f436c14883442f",
+   "image_sha256": "d97d2bda9ad821895e530ec3b04d96b956d201ee5a78c5a5efeb24ef0373bc11",
+   "source_commit": "c125850aca36a4f748d2799debf9ba573d570f0c",
+   "station_sha256": "d69f4a0287084a09ccb1d7d94c0cade0069847248e82b6fed98ea622cc11388c",
+   "original_wav_sha256": "a204296d30041a87b088a119667c843fd78822a6dce0371731b48b6be2e59f3c",
+   "original_wav_filename": "new-gr-34.full.wav"
+  },
+  "new-gr-34#6": {
+   "src": "audio/narration/new-gr-34__s6__ed1feb63d627.mp3",
+   "text": "처음부터 한 바퀴 되짚는다. 족양명위경 극혈 = 양구, ST34, 족태음비경 극혈 = 지기, SP8, / 족태양방광경 극혈 = 금문, BL63, 족소음신경 극혈 = 수천, KI5, / 족소양담경 극혈 = 외구, GB36, 족궐음간경 극혈 = 중도, LR6, / 양교맥 극혈 = 부양, BL59, 음교맥 극혈 = 교신, KI8, / 양유맥 극혈 = 양교, GB35, 음유맥 극혈 = 축빈, KI9, 요약본 용빈 오기 주의,",
+   "text_sha256": "ed1feb63d627c399a6708c023347adaeac564452061c9c8de18a16354af3eaf1",
+   "audio_sha256": "4cfe0fe6f9eee2e1c998814f462209c4bab70def0f36455deb6e06f9d7140c1f",
+   "image_sha256": "d97d2bda9ad821895e530ec3b04d96b956d201ee5a78c5a5efeb24ef0373bc11",
+   "source_commit": "c125850aca36a4f748d2799debf9ba573d570f0c",
+   "station_sha256": "a9498befd1842032649c7461ebd3b3635ed3ae05d774a2b058f3717686c7e2e2",
+   "original_wav_sha256": "a204296d30041a87b088a119667c843fd78822a6dce0371731b48b6be2e59f3c",
+   "original_wav_filename": "new-gr-34.full.wav"
   }
  }
 }

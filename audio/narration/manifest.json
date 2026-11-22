@@ -6523,6 +6523,105 @@
    "station_sha256": "6b054b70c5a8aab846d818a947d00691ae7fb82cbb437de18c6ab21b72be925b",
    "original_wav_sha256": "4cf5643830764e0cd668bb81bafc924191fe83cc1355b387e6f91798d9d7c1e2",
    "original_wav_filename": "new-jq-01.full.wav"
+  },
+  "new-jq-02#0": {
+   "src": "audio/narration/new-jq-02__s0__952a314a16a7.mp3",
+   "text": "계단식 논이다. 왼쪽 위 샘에서 솟은 물이 물꼬를 하나씩 터 가며 논배미로 흘러든다. 왼쪽 위 씨앗에서 오른쪽 아래 돌담까지 여섯 장면을 차례로 본다. 결은 물꼬를 터 가른다는 뜻, 영추 결기편. 황제가 묻는다, 사람에게 정, 기, 진, 액, 혈, 맥이 있다는데 나는 하나의 기라고 여겼다, 일기가 왜 여섯 이름으로 갈리는가. 논배미 차례가 곧 여섯 이름의 차례다.",
+   "text_sha256": "952a314a16a7752a6e341e3571f9f7a41b83b571a6354603287eb38900be81f3",
+   "audio_sha256": "aca35b872311bae456e0aef79bc46307b4a01d1bfe96f25af2fc46677688084d",
+   "image_sha256": "5d4d7d8a18ead8825379f4e2e6081b9f329700afb924eaca348fb0987370f19c",
+   "source_commit": "beecb3eb4aa9257d8e7dfe5515933d577ed723d8",
+   "station_sha256": "c68371a3c3c462f06daeda0f26bd2015cbb0154b505724a839dff036eb3204aa",
+   "original_wav_sha256": "3e185216d95aaa2be6dbb4d7b5a39359ee8fe91969e488b2f316664c8a2b2833",
+   "original_wav_filename": "new-jq-02.full.wav"
+  },
+  "new-jq-02#1": {
+   "src": "audio/narration/new-jq-02__s1__f025d74aa573.mp3",
+   "text": "첫 논배미, 금빛 씨앗 둘이 맞붙은 자리에서 싹이 돋았다. 양신상박 합이성형 상선신생 시위정, 두 신이 서로 부딪혀 합해 형체를 이루는데, 늘 몸보다 먼저 생기는 것이 정이다. 출전은 영추 결기. 본신편의 양정상박위지신과 글자가 엇갈리니 헷갈리지 말 것, 결기는 양신으로 정을, 본신은 양정으로 신을 말한다.",
+   "text_sha256": "f025d74aa573afe32ed048ed4057e4704af58a85f3c27ac3aad902d66ee1f3ed",
+   "audio_sha256": "f391f2c398a9af2818a00bc2f17f44f253a74cffa966319bae99443c1b0c2a48",
+   "image_sha256": "5d4d7d8a18ead8825379f4e2e6081b9f329700afb924eaca348fb0987370f19c",
+   "source_commit": "beecb3eb4aa9257d8e7dfe5515933d577ed723d8",
+   "station_sha256": "c491157c0c247ed93ebbd817f17b0f619d534f9e5d6b0fd4379e3a900163a6dd",
+   "original_wav_sha256": "3e185216d95aaa2be6dbb4d7b5a39359ee8fe91969e488b2f316664c8a2b2833",
+   "original_wav_filename": "new-jq-02.full.wav"
+  },
+  "new-jq-02#2": {
+   "src": "audio/narration/new-jq-02__s2__b3d358de24fa.mp3",
+   "text": "둘째 논배미, 흰 안개와 이슬이 어린 벼를 적신다. 상초개발 선오곡미 훈부충신택모 약무로지개 시위기, 상초가 열려 오곡의 맛을 펴서, 살갗을 데우고 몸을 채우고 털을 윤기 나게 하는 것이 안개와 이슬이 적시는 것과 같으니 이것이 기다.",
+   "text_sha256": "b3d358de24fa71610eab62699cba6b10fc434c95996a06ca67fcda89b8a25dbe",
+   "audio_sha256": "461bb0043b6b0b0dfe778a6990b9a4094b6d07065a9a1392b5ab740349381b5c",
+   "image_sha256": "5d4d7d8a18ead8825379f4e2e6081b9f329700afb924eaca348fb0987370f19c",
+   "source_commit": "beecb3eb4aa9257d8e7dfe5515933d577ed723d8",
+   "station_sha256": "f31466d9d17c94c20ea267e2861cb74855450f2f0c0116d281154954666373a5",
+   "original_wav_sha256": "3e185216d95aaa2be6dbb4d7b5a39359ee8fe91969e488b2f316664c8a2b2833",
+   "original_wav_filename": "new-jq-02.full.wav"
+  },
+  "new-jq-02#3": {
+   "src": "audio/narration/new-jq-02__s3__3c4d235efd44.mp3",
+   "text": "셋째 논배미, 일하는 남자의 얼굴과 팔에서 땀이 줄줄 흐른다. 주리발설 한출진진 시위진, 살결이 열려 땀이 줄줄 나는 것이 진이다. 맑고 묽게 흐르는 쪽이 진이다.",
+   "text_sha256": "3c4d235efd44a79f89d29be6bc585686d65a0dc43c093a53ee0e1d4c5836ed8c",
+   "audio_sha256": "576e22f4e1302a78d57e3885d9a0ba1bf7a6c1e41a2c7b6fa40e14b8e8f5d60b",
+   "image_sha256": "5d4d7d8a18ead8825379f4e2e6081b9f329700afb924eaca348fb0987370f19c",
+   "source_commit": "beecb3eb4aa9257d8e7dfe5515933d577ed723d8",
+   "station_sha256": "57cd640661981e61e9f40f1c5737073c2e46cf57a1f71197ad366d5372b0d8bd",
+   "original_wav_sha256": "3e185216d95aaa2be6dbb4d7b5a39359ee8fe91969e488b2f316664c8a2b2833",
+   "original_wav_filename": "new-jq-02.full.wav"
+  },
+  "new-jq-02#4": {
+   "src": "audio/narration/new-jq-02__s4__271a64e1abdc.mp3",
+   "text": "넷째 논배미, 걸쭉한 금빛 기름이 나무 인형의 무릎 관절에 부어져 무릎이 부드럽게 굽는다. 곡입기만 요택주어골 골속굴신설택 보익뇌수 피부윤택 시위액, 곡식이 들어와 기가 차면 걸쭉하고 윤택한 것이 뼈로 흘러들어, 관절을 굽혔다 폈다 하게 하고, 뇌수를 보태고 피부를 윤택하게 한다. 이것이 액이다.",
+   "text_sha256": "271a64e1abdc8be1e71a25a2de6b64e1b56040e1908e5b2496c69771ade8383b",
+   "audio_sha256": "a7f8bf9ed4bbefc5ced9a1167bb780302e7b5c716f69eaabce32fb84c8e854d9",
+   "image_sha256": "5d4d7d8a18ead8825379f4e2e6081b9f329700afb924eaca348fb0987370f19c",
+   "source_commit": "beecb3eb4aa9257d8e7dfe5515933d577ed723d8",
+   "station_sha256": "cb5b65b136ef337ea74722c1f3a10419a99ba5467ca1248ed5fce2eb9c62f537",
+   "original_wav_sha256": "3e185216d95aaa2be6dbb4d7b5a39359ee8fe91969e488b2f316664c8a2b2833",
+   "original_wav_filename": "new-jq-02.full.wav"
+  },
+  "new-jq-02#5": {
+   "src": "audio/narration/new-jq-02__s5__3bb8c50f8f4d.mp3",
+   "text": "다섯째 논배미, 압착기가 볏단을 짜니 즙이 새빨갛게 되어 흘러나온다. 중초수기취즙 변화이적 시위혈, 중초가 기를 받아 즙을 취하고 변화시켜 붉게 된 것이 혈이다.",
+   "text_sha256": "3bb8c50f8f4dd7afadc77da99aa358255a690c94e0ab5ae22a4dbb9dd9c7d5f8",
+   "audio_sha256": "7c36f6f24475a3da978cd940e5fbc138faebc42e9f0387066e0b84a4d5292f7b",
+   "image_sha256": "5d4d7d8a18ead8825379f4e2e6081b9f329700afb924eaca348fb0987370f19c",
+   "source_commit": "beecb3eb4aa9257d8e7dfe5515933d577ed723d8",
+   "station_sha256": "15fa4f2351de802d4ef49749638629c3677bb8f239051d23dbee59740ed20a02",
+   "original_wav_sha256": "3e185216d95aaa2be6dbb4d7b5a39359ee8fe91969e488b2f316664c8a2b2833",
+   "original_wav_filename": "new-jq-02.full.wav"
+  },
+  "new-jq-02#6": {
+   "src": "audio/narration/new-jq-02__s6__63a829423e56.mp3",
+   "text": "마지막 논배미, 물길 양옆을 높은 돌담이 빈틈없이 막았다. 옹알영기 영무소피 시위맥, 영기를 막아 가두어 빠져나갈 곳이 없게 하는 것이 맥이다.",
+   "text_sha256": "63a829423e5684fe6014ead05de1c5559d094ddf4cb2eb37b3cc203e1ac4756d",
+   "audio_sha256": "1a935d0542bbc916ced6a8553ae215152f04deb7c3c83889776e221f5ff9b620",
+   "image_sha256": "5d4d7d8a18ead8825379f4e2e6081b9f329700afb924eaca348fb0987370f19c",
+   "source_commit": "beecb3eb4aa9257d8e7dfe5515933d577ed723d8",
+   "station_sha256": "7f253ca73b80506ea10c845078be5cc0d7ffd97af6b14fc3d2b4198787ba9cdf",
+   "original_wav_sha256": "3e185216d95aaa2be6dbb4d7b5a39359ee8fe91969e488b2f316664c8a2b2833",
+   "original_wav_filename": "new-jq-02.full.wav"
+  },
+  "new-jq-02#7": {
+   "src": "audio/narration/new-jq-02__s7__c68e2958dd4d.mp3",
+   "text": "왼쪽 위에서 오른쪽 아래로 차례로 짚는다. 씨앗 정, 안개 기, 땀 진, 기름 액, 붉은 즙 혈, 돌담 맥, 정, 기, 진, 액, 혈, 맥. 결기편이 논하는 차례이고, 여섯 모두 하나의 기가 나뉜 이름이다. 정, 기, 진을 한데 묻기도, 액, 혈, 맥을 한데 묻기도 한다.",
+   "text_sha256": "c68e2958dd4da102fc5693cef5fc7f2544c768bd979b116a4520b96bb89c8995",
+   "audio_sha256": "ead7b62625369590f84c7e9455b9be3a59c6246a3cdf16353c1e288e6602a0d6",
+   "image_sha256": "5d4d7d8a18ead8825379f4e2e6081b9f329700afb924eaca348fb0987370f19c",
+   "source_commit": "beecb3eb4aa9257d8e7dfe5515933d577ed723d8",
+   "station_sha256": "9f9b2c0bdc463aeeb7c91a93ec6e87cf2beee2b1d3793e41910e0bfd0a6b89d6",
+   "original_wav_sha256": "3e185216d95aaa2be6dbb4d7b5a39359ee8fe91969e488b2f316664c8a2b2833",
+   "original_wav_filename": "new-jq-02.full.wav"
+  },
+  "new-jq-02#8": {
+   "src": "audio/narration/new-jq-02__s8__c07537fd3dbe.mp3",
+   "text": "다시 본다. 두 씨앗이 부딪혀 싹, 정, 양신상박 상선신생. 안개와 이슬, 기, 약무로지개. 줄줄 흐르는 땀, 진, 한출진진. 관절에 붓는 걸쭉한 기름, 액, 요택주어골 굴신. 짜낸 즙이 붉어짐, 혈, 취즙 변화이적. 새지 않게 막은 돌담, 맥, 옹알영기 영무소피.",
+   "text_sha256": "c07537fd3dbe0da2f3d3447d780a0c134590ccda676ca239381777486e312fe3",
+   "audio_sha256": "d610655e9e64136315a9f062a14726cb205b69d962a5153de4b95b9ae482a4f1",
+   "image_sha256": "5d4d7d8a18ead8825379f4e2e6081b9f329700afb924eaca348fb0987370f19c",
+   "source_commit": "beecb3eb4aa9257d8e7dfe5515933d577ed723d8",
+   "station_sha256": "1922930ab12310120664363e0623e4b2fc90577f482e4fe61c181fac57c5dead",
+   "original_wav_sha256": "3e185216d95aaa2be6dbb4d7b5a39359ee8fe91969e488b2f316664c8a2b2833",
+   "original_wav_filename": "new-jq-02.full.wav"
   }
  }
 }

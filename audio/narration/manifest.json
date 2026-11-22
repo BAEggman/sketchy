@@ -3630,6 +3630,72 @@
    "station_sha256": "1037cbc3bb5f8878b0766a741fcfee89505108ff4c345f7eea74d3d814985f61",
    "original_wav_sha256": "38907861b92df26d9054738963fc7c727cc4ccb6090920ddd353e27527b92274",
    "original_wav_filename": "qiqing-11.full.wav"
+  },
+  "qiqing-12#0": {
+   "src": "audio/narration/qiqing-12__s0__3d14f29d1a58.mp3",
+   "text": "칠정 체육관 마지막 장이야. 큰 파란 매트 하나를 사이에 두고 왼쪽엔 나무 약장, 오른쪽엔 금빛 기둥의 대극장 무대, 그 무대 위엔 감옥. 가운데서 두 손이 맞닿자 보라 독구름이 펑. 앞 장과 같은 상반 그림이야. 교재 상반 셋째 예가 감초, 대극, 감수. 이 셋은 십팔반 감초 무리에도 그대로 들어 있어. 칠정과 십팔반을 잇는 다리야. 감대감.",
+   "text_sha256": "3d14f29d1a58718ba5b6fc1c71def7ff33fd566dfd88ceac19d332a8c72ac4ca",
+   "audio_sha256": "d1ad2d7b4bf8059d39fd3a0f5d164087f11cc153681bfe113af1d746b04aeac8",
+   "image_sha256": "396f12f8518808a928753547a42d4d78a7f37ae90981a3fa1c139c8920196d24",
+   "source_commit": "1854f2612096f7e98913d9f05a2575cbee33d6b8",
+   "station_sha256": "56c1a2784119ccf8070c81bf90ed320eafbce8a82880147764c22e8fcd4b302e",
+   "original_wav_sha256": "ad8d222ab10dcb2d16ac069ad69ac5fbfef5d89d50262ddf74ecbbba2335c58d",
+   "original_wav_filename": "qiqing-12.full.wav"
+  },
+  "qiqing-12#1": {
+   "src": "audio/narration/qiqing-12__s1__6c5e2cc490bc.mp3",
+   "text": "왼쪽은 서랍 몇 칸에서 노란 감초 뿌리가 웃는 얼굴을 내민 약장. 약방의 감초, 감초. 포제 밀자 장에서 꿀 웅덩이를 핥던 그 약장이야. 아래 서랍 감초 하나가 팔처럼 쭉 늘어났는데, 그림에서는 끝에 얼굴 대신 노란 손이 달렸어. 교재는 감초를 독성을 완해하는 약으로도, 배오로 독성이 줄어드는 예로도 적어. 그런 감초도 대극, 감수와 만나면 독이 터져. 상수에선 인삼과 힘을 합치고.",
+   "text_sha256": "6c5e2cc490bc2cc6bb758d3def0aeebc0da4bf995c20f7f60d80fe2bbd941f45",
+   "audio_sha256": "2821c7b8a1a433203129696daaf0527102a79f9801bed65897fc36f150adcbf8",
+   "image_sha256": "396f12f8518808a928753547a42d4d78a7f37ae90981a3fa1c139c8920196d24",
+   "source_commit": "1854f2612096f7e98913d9f05a2575cbee33d6b8",
+   "station_sha256": "9d98302f371a0c29d814b83250a52261fe5732345c66c7b17b75a7f7274f4f5e",
+   "original_wav_sha256": "ad8d222ab10dcb2d16ac069ad69ac5fbfef5d89d50262ddf74ecbbba2335c58d",
+   "original_wav_filename": "qiqing-12.full.wav"
+  },
+  "qiqing-12#2": {
+   "src": "audio/narration/qiqing-12__s2__36056ee0d563.mp3",
+   "text": "오른쪽은 금빛 기둥에 붉은 막이 걷힌 대극장 무대. 대극장, 대극. 포제 초자 둘째 장에서 막이 펄럭이던 그 무대야. 무대는 손을 내밀지 않고, 그 위 감옥을 떠받치고 있어. 교재 상반은 감초 대극 감수, 빗금으로 둘을 묶었고, 십팔반에도 대극, 감수가 다 들어. 그림에서는 구름이 막 쪽으로 조금 번질 뿐 무대를 다 덮진 않아.",
+   "text_sha256": "36056ee0d5634591c0d6490970b1b696eb4c8f6ee7e853e07b720c3cbc5dbae5",
+   "audio_sha256": "e865f03dc0fc3c2e180d113a1461b8334eb63b7b482c06aead37e4cff88e3cfc",
+   "image_sha256": "396f12f8518808a928753547a42d4d78a7f37ae90981a3fa1c139c8920196d24",
+   "source_commit": "1854f2612096f7e98913d9f05a2575cbee33d6b8",
+   "station_sha256": "ea45437d365895557192ce7d376b28dec27d07224754983e1cadb67289724fe9",
+   "original_wav_sha256": "ad8d222ab10dcb2d16ac069ad69ac5fbfef5d89d50262ddf74ecbbba2335c58d",
+   "original_wav_filename": "qiqing-12.full.wav"
+  },
+  "qiqing-12#3": {
+   "src": "audio/narration/qiqing-12__s3__04c30973cfff.mp3",
+   "text": "무대 위 감옥 안엔 줄무늬 죄수. 감옥의 감, 죄수의 수, 감수. 한 손은 창살을 꽉 쥐고, 다른 팔을 창살 밖으로 쭉 내밀어 감초 손과 짝, 펑! 깜짝 놀란 얼굴이지. 포제 초자 장에서 창살을 흔들던 그 죄수야. 감수, 대극은 식초로 볶아 독성을 줄이는 약이고, 감수는 포제로 독성이 줄어드는 예로도 나와. 그런데 감초와 함께 쓰면 반대로 독이 터져.",
+   "text_sha256": "04c30973cfff7c3f80c88a5ee072b37c9717e306fc38f9a53fcf59d27c39422c",
+   "audio_sha256": "4292fb0753bf4bf05c1eb1f87c49b40b8894ee822637467f918520ebc2ed0fba",
+   "image_sha256": "396f12f8518808a928753547a42d4d78a7f37ae90981a3fa1c139c8920196d24",
+   "source_commit": "1854f2612096f7e98913d9f05a2575cbee33d6b8",
+   "station_sha256": "ef9c01797a8b36b5696c539502b3d19dd224f7532dc71b329f0143726fcf309b",
+   "original_wav_sha256": "ad8d222ab10dcb2d16ac069ad69ac5fbfef5d89d50262ddf74ecbbba2335c58d",
+   "original_wav_filename": "qiqing-12.full.wav"
+  },
+  "qiqing-12#4": {
+   "src": "audio/narration/qiqing-12__s4__c899034805f1.mp3",
+   "text": "가운데 터진 구름을 봐. 교재는 약물독성에 영향을 주는 배오에서 독성이 늘어나는 예로 십팔반을 들어. 칠정 상반의 감초, 대극, 감수는 십팔반 감초 무리와 겹쳐. 다만 십팔반 감초 무리는 대극, 원화, 감수, 해조 넷이고, 칠정 상반 예엔 대극, 감수 둘뿐이야. 그래서 이 체육관엔 지폐 꽃 원화가 없어. 넷 다는 십팔반 감초 장에서 다시 봐.",
+   "text_sha256": "c899034805f13dbd9363c6bf92eda058a0cb83862e4c149d69b369944587042d",
+   "audio_sha256": "ab809941cefff7924e90fb550631d06932deeda24ea6bb2e7b0aebb21b157896",
+   "image_sha256": "396f12f8518808a928753547a42d4d78a7f37ae90981a3fa1c139c8920196d24",
+   "source_commit": "1854f2612096f7e98913d9f05a2575cbee33d6b8",
+   "station_sha256": "e53ce6f5dfe6aeb3799048b01d06565ed75a354327d134e33081f28eaaef2fe1",
+   "original_wav_sha256": "ad8d222ab10dcb2d16ac069ad69ac5fbfef5d89d50262ddf74ecbbba2335c58d",
+   "original_wav_filename": "qiqing-12.full.wav"
+  },
+  "qiqing-12#5": {
+   "src": "audio/narration/qiqing-12__s5__24c29d9c7c7e.mp3",
+   "text": "한 바퀴. 기운 약장에서 감초 손이 쭉 뻗고, 대극장 무대 위 감옥 죄수가 창살 밖으로 손을 내밀어 짝, 펑. 감대감. 칠정 상반은 지나 호현 감대감, 세 짝이고, 그중 감초, 대극, 감수만 십팔반에도 있어. 칠정 체육관 정리. 노란 빛이 감싸면 상수, 상사, 빛이 꺼지면 상오, 구름이 흩어지면 상외, 상쇄, 구름이 터지면 상반. 십구외는 이 체육관 밖, 바리케이드 너머 함께 쓰지 않는 짝이야.",
+   "text_sha256": "24c29d9c7c7ed73cf62d528ead6e2124b7bd86eb3679d458efd09ebfb7f09310",
+   "audio_sha256": "7d5cf0d68546407920e1e1df8c7cf9a2cb0562eb48a040bedb116b5b21515c9f",
+   "image_sha256": "396f12f8518808a928753547a42d4d78a7f37ae90981a3fa1c139c8920196d24",
+   "source_commit": "1854f2612096f7e98913d9f05a2575cbee33d6b8",
+   "station_sha256": "7692aa530a7bf70a706fe1d008bae6818eeed794294802155aa353495ef4c859",
+   "original_wav_sha256": "ad8d222ab10dcb2d16ac069ad69ac5fbfef5d89d50262ddf74ecbbba2335c58d",
+   "original_wav_filename": "qiqing-12.full.wav"
   }
  }
 }

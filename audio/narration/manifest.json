@@ -4257,6 +4257,94 @@
    "station_sha256": "b89130a2e40533d9c6d1ef2b89d3ce7bc3b42f36c1d00749704939b7409dd8a3",
    "original_wav_sha256": "501a16d7d5ba18f369d53db40c7c5e365d8c91c4bf575bf7f37159613b440654",
    "original_wav_filename": "suchi-09.full.wav"
+  },
+  "suchi-10#0": {
+   "src": "audio/narration/suchi-10__s0__7e0abd5b025e.mp3",
+   "text": "다시 식초 작업대야. 왼쪽 끝 그 투명한 식초병이 기울어 팬에 식초를 붓고, 팬 밑엔 약한 파란 불. 첫 장에서 유향부터 현호색까지 여덟이 첫째 소간 · 활혈지통을 했지? 이번엔 남은 둘, 둘째 독과 부작용 줄이기, 셋째 냄새와 맛 바로잡기. 위를 봐, 커다란 보라 독구름이 왼쪽 넷 머리 위에 걸려 있어. 이 팬에 다섯이 섰어, 감대원상, 오.",
+   "text_sha256": "7e0abd5b025e9477050a6536a5a037b9a684fb61b78194b8429ed484ed8f71f0",
+   "audio_sha256": "53b28f1e623aad979cb4717fde33486be613a868dfd3fbd5fbe1b471cc769db2",
+   "image_sha256": "0281ca575f4eabac7ee6b946a8ffaf2103ad3325341ee3546abbd5360143456c",
+   "source_commit": "727ed6f5cfe9cdd66ad8b8678f193ecebcab4696",
+   "station_sha256": "7eae325ceb7e879ba1fed7a5ca61e324610499a185f2b38c4f53b61a2e1ca112",
+   "original_wav_sha256": "2e95a2e2bf407dd87618e62597f0d6a3f168d6f5da7d0991e67788467450cfa7",
+   "original_wav_filename": "suchi-10.full.wav"
+  },
+  "suchi-10#1": {
+   "src": "audio/narration/suchi-10__s1__66c981b429e2.mp3",
+   "text": "식초병 바로 옆은 감옥 칸. 줄무늬 죄수가 쇠창살을 두 손으로 꽉 붙잡았어. 감옥의 감, 죄수의 수, 감수. 식초를 뒤집어쓰자 창살을 덜컹덜컹 흔들어 옆 무대를 쿵. 가사는 감대원상이라 감수가 먼저지만, 교재 순서는 대극 · 감수 · 원화 · 상륙이야, 앞 둘만 바뀌니까 둘 다 알아 둬.",
+   "text_sha256": "66c981b429e2c9895d261b83bcac9a727e3e902aacdfd899ce1074141aca72df",
+   "audio_sha256": "2b3a4bfcf6fa35f903f34a27465175995f944fedf3d5963788e6f6795c00909c",
+   "image_sha256": "0281ca575f4eabac7ee6b946a8ffaf2103ad3325341ee3546abbd5360143456c",
+   "source_commit": "727ed6f5cfe9cdd66ad8b8678f193ecebcab4696",
+   "station_sha256": "b700ec3356f1c5b9a484b6ad53a335be37a12df59cf901518453f00231dc3e42",
+   "original_wav_sha256": "2e95a2e2bf407dd87618e62597f0d6a3f168d6f5da7d0991e67788467450cfa7",
+   "original_wav_filename": "suchi-10.full.wav"
+  },
+  "suchi-10#2": {
+   "src": "audio/narration/suchi-10__s2__9abe9a39e217.mp3",
+   "text": "부딪힌 건 금빛 기둥에 붉은 막이 걷힌 대극장 무대. 대극장에서 장만 떼면 대극. 쿵 하는 바람에 붉은 막 자락이 오른쪽으로 확 펄럭여. 소금물 작업대에도 극장이 나오는데, 거긴 작은 극장 지붕을 대파가 뚫은 파극이야, 대파가 솟으면 파극, 막만 펄럭이면 대극. 감수 · 대극 · 원화는 셋 다 감초와 만나면 안 되는 십팔반 무리야.",
+   "text_sha256": "9abe9a39e2177a66ef60dfcab88f73aac4e34e85edd1b2674aa3e1649a1956aa",
+   "audio_sha256": "13c45507f8944d6b2ae3a4992951a22b4a9b765656920c2fba5cba4592d9a5e0",
+   "image_sha256": "0281ca575f4eabac7ee6b946a8ffaf2103ad3325341ee3546abbd5360143456c",
+   "source_commit": "727ed6f5cfe9cdd66ad8b8678f193ecebcab4696",
+   "station_sha256": "4232f5793b9f0ac153814b586ed8ad4f5fab1d8bd9ce4a7a577e17d98514533d",
+   "original_wav_sha256": "2e95a2e2bf407dd87618e62597f0d6a3f168d6f5da7d0991e67788467450cfa7",
+   "original_wav_filename": "suchi-10.full.wav"
+  },
+  "suchi-10#3": {
+   "src": "audio/narration/suchi-10__s3__a83ca1991083.mp3",
+   "text": "그 옆엔 꽃잎이 전부 초록 지폐인 꽃. 원화 지폐 꽃, 원화. 막이 일으킨 바람에 지폐 꽃잎 몇 장이 떨어져 오른쪽으로 팔랑팔랑 날아가. 원화는 삶는 자법 쪽 괄호에도 원화, 식초에 삶는 초자로 한 번 더 나와. 거기서도 식초야.",
+   "text_sha256": "a83ca1991083d59d3dca5ab4f216324b7aee71a43f1e95e9848eb5916ffdae4f",
+   "audio_sha256": "2dce7836f396041302ec16b2809cc14484f5cf1e4fcc6d9f7b9eae29f4134ff0",
+   "image_sha256": "0281ca575f4eabac7ee6b946a8ffaf2103ad3325341ee3546abbd5360143456c",
+   "source_commit": "727ed6f5cfe9cdd66ad8b8678f193ecebcab4696",
+   "station_sha256": "3b2602438cf7397049d7d29d70298a2b3b8cc0762ecbd0e04773e595d7895c52",
+   "original_wav_sha256": "2e95a2e2bf407dd87618e62597f0d6a3f168d6f5da7d0991e67788467450cfa7",
+   "original_wav_filename": "suchi-10.full.wav"
+  },
+  "suchi-10#4": {
+   "src": "audio/narration/suchi-10__s4__7c9e9d4824e6.mp3",
+   "text": "지폐 꽃잎이 날아든 곳은 상륙정에 올라탄 상어. 상륙정 상어, 상륙. 앞판이 쿵 내려앉으면서 식초가 오른쪽으로 철썩 튀어. 감대원상 넷은 모두 임신 중에 쓰면 안 되는 임신금용이고, 분류로는 넷 다 준하축수약이야.",
+   "text_sha256": "7c9e9d4824e65948168657b7dfce0668c8f7166eb5423866df48886aaa8f9ea2",
+   "audio_sha256": "7c8303324008ed09999ed3ba379c9912db9de8fd7db4c260d912de55dc687008",
+   "image_sha256": "0281ca575f4eabac7ee6b946a8ffaf2103ad3325341ee3546abbd5360143456c",
+   "source_commit": "727ed6f5cfe9cdd66ad8b8678f193ecebcab4696",
+   "station_sha256": "a3d7807ec0ce0fe5d22ba02bd05a347768ad79740172dc5ccc8b75925130da50",
+   "original_wav_sha256": "2e95a2e2bf407dd87618e62597f0d6a3f168d6f5da7d0991e67788467450cfa7",
+   "original_wav_filename": "suchi-10.full.wav"
+  },
+  "suchi-10#5": {
+   "src": "audio/narration/suchi-10__s5__6393d3655d8a.mp3",
+   "text": "이제 위를 봐. 넷 머리 위 보라 독구름이 방울로 떨어지면서 오른쪽으로 갈수록 옅어지다 흩어지지? 식초로 볶아 독과 부작용을 줄이는 초자 둘째야. 그림에서는 방울이 보라색이지만, 뜻은 독이 걷히는 거야. 독구름은 상어 위에서 끝나고, 그 뒤 식초 바닥을 조금 지나면 목적이 바뀌어.",
+   "text_sha256": "6393d3655d8a93779972b72dfaf5eef48b3095c31816169717d2f88d84e8f692",
+   "audio_sha256": "089faab26b7cc68647aef7517bebd9b140ebcc2efd78558ecc3b8e83c1e7ecb9",
+   "image_sha256": "0281ca575f4eabac7ee6b946a8ffaf2103ad3325341ee3546abbd5360143456c",
+   "source_commit": "727ed6f5cfe9cdd66ad8b8678f193ecebcab4696",
+   "station_sha256": "7a520899192673857f1253cebeefdb98662299eb841e78d82f1af82f17079ed9",
+   "original_wav_sha256": "2e95a2e2bf407dd87618e62597f0d6a3f168d6f5da7d0991e67788467450cfa7",
+   "original_wav_filename": "suchi-10.full.wav"
+  },
+  "suchi-10#6": {
+   "src": "audio/narration/suchi-10__s6__09f5d4be29b2.mp3",
+   "text": "맨 오른쪽, 하얀 유령이 꼭 끌어안은 오렌지. 오렌지에 유령의 령을 한 번 더, 오령지. 상어가 튀긴 식초를 맞자 초록 악취 김 옆에 하얀 김이 피어올라 유령이 휴 하고 웃어. 그림에서는 두 김이 나란히지만 뜻은 냄새와 맛을 바로잡는 셋째 교취교미. 첫 장의 유향 · 몰약과 합쳐 셋이야. 독구름은 오렌지 위까지 오지 않아, 오령지는 둘째 무리가 아니야.",
+   "text_sha256": "09f5d4be29b2066fc22f717e7a079eb684f171881a762deb5622a3d1396ed74f",
+   "audio_sha256": "6639340018e06b7b85dabf006f35c811145125c9c033c9972cc33ba5e8cb37a8",
+   "image_sha256": "0281ca575f4eabac7ee6b946a8ffaf2103ad3325341ee3546abbd5360143456c",
+   "source_commit": "727ed6f5cfe9cdd66ad8b8678f193ecebcab4696",
+   "station_sha256": "4a7ca5d1f3544b04b31c45a7abf9ffd64021f53602128cfd8a520c25602bfe01",
+   "original_wav_sha256": "2e95a2e2bf407dd87618e62597f0d6a3f168d6f5da7d0991e67788467450cfa7",
+   "original_wav_filename": "suchi-10.full.wav"
+  },
+  "suchi-10#7": {
+   "src": "audio/narration/suchi-10__s7__4b864e528049.mp3",
+   "text": "한 바퀴 다시. 식초병이 붓고, 죄수가 창살을 흔들어 대극장을 쿵, 붉은 막이 펄럭여 지폐 꽃잎이 날고, 꽃잎 맞은 상륙정이 식초를 튀기고, 넷 위 독구름이 걷히고, 튄 식초에 오렌지 유령이 안도해. 감대원상, 오. 첫 장까지 합치면 초자는 첫째 여덟, 둘째 넷, 셋째 셋, 유향 · 몰약은 첫째에도 셋째에도. 감수 · 대극 · 원화는 감초와 십팔반, 오령지는 인삼과 십구외로도 나와.",
+   "text_sha256": "4b864e528049ee82c5440106085bf5e271faa2c1a3ba1507618eb261956546e4",
+   "audio_sha256": "37bffbfb731e3c4748b990d118db373023e7b3fa302dac1ae844d9b41b3ea26b",
+   "image_sha256": "0281ca575f4eabac7ee6b946a8ffaf2103ad3325341ee3546abbd5360143456c",
+   "source_commit": "727ed6f5cfe9cdd66ad8b8678f193ecebcab4696",
+   "station_sha256": "49b161f9437837694c7cc0f371f40cda52a161ab32b6279ff7662bf844024e13",
+   "original_wav_sha256": "2e95a2e2bf407dd87618e62597f0d6a3f168d6f5da7d0991e67788467450cfa7",
+   "original_wav_filename": "suchi-10.full.wav"
   }
  }
 }

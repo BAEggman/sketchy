@@ -4103,6 +4103,72 @@
    "station_sha256": "e20f64b62092eb1ad20e3819b9f8e73ecd9a34401436a99d57868b76be1dccd4",
    "original_wav_sha256": "58a9fc7a6da4b7067d6af6d3718e5cd40cc60afa052c8ee8d2acab53de840080",
    "original_wav_filename": "suchi-07.full.wav"
+  },
+  "suchi-08#0": {
+   "src": "audio/narration/suchi-08__s0__1cf63ef0b1f3.mp3",
+   "text": "이번 팬엔 곱고 미끄러운 흰 가루가 가득해. 왼쪽 끝에 누운 하얀 파우더 통이 퍼프를 단 채 가루를 쏟고 있지? 베이비파우더의 그 가루, 활석 가루야. 활석 가루와 함께 볶는 게 활석분초. 고체 보료라서 가보료초 무리, 밑에 센 주황 불이 줄지어 타. 팬 바닥의 낮은 가루 턱 하나가 왼칸과 오른칸을 갈라. 이 위에 셋이 가사 순서대로 섰어, 상황, 수. 상황 수습으로 읽어.",
+   "text_sha256": "1cf63ef0b1f3cef76d28944163091f34513daf2f413064c3b829ca99db2e9464",
+   "audio_sha256": "8e3e6c8d0d60daeab93faeed6ec25e64e460abb0e6abd1e0cfef17b69736ced2",
+   "image_sha256": "95c2f3c92c03d79eec5a5412fa012efc9ba5a1476bea9b41b5916a7c0b7c7af4",
+   "source_commit": "7bb81bc6122bef84df0cf57a34fbf986c32562da",
+   "station_sha256": "cc3c471245bfb9b83eacda5aa6774e8727c3584a4308d3de7426f5abb31fe02e",
+   "original_wav_sha256": "f9a12ed0860d26c38b90d17c4a264654ce8b0a60613346432850051d257d7f8c",
+   "original_wav_filename": "suchi-08.full.wav"
+  },
+  "suchi-08#1": {
+   "src": "audio/narration/suchi-08__s1__a9361bddc1b2.mp3",
+   "text": "맨 왼쪽은 코끼리인데 상아 자리에 나무 피리 두 개가 났어. 상아의 상, 피리의 피, 상피. 코끝에서 흰 가루 구름이 훅 뿜어져 오른쪽 개 얼굴로 날아가. 몸 좀 봐, 뻥튀기처럼 부풀어 구멍이 숭숭 났지? 약재의 질이 성글고 푸석해지는 것, 질 소송이야. 상피는 왼칸, 첫째 목적 질 소송 무리.",
+   "text_sha256": "a9361bddc1b23f40b85df79725ac2f29f60cba96db195ca6dcb7f53fb017f1fa",
+   "audio_sha256": "95ceeacfe1434be2cd3809e56cbe98f73ca24239d728ebb4f2fac6d8cda22e7f",
+   "image_sha256": "95c2f3c92c03d79eec5a5412fa012efc9ba5a1476bea9b41b5916a7c0b7c7af4",
+   "source_commit": "7bb81bc6122bef84df0cf57a34fbf986c32562da",
+   "station_sha256": "2459f01b08204c47f7cf053dc534d81c61df704c8e300fe2da9ad582bd4b0df2",
+   "original_wav_sha256": "f9a12ed0860d26c38b90d17c4a264654ce8b0a60613346432850051d257d7f8c",
+   "original_wav_filename": "suchi-08.full.wav"
+  },
+  "suchi-08#2": {
+   "src": "audio/narration/suchi-08__s2__988cf664e485.mp3",
+   "text": "그 옆, 네 발에 운동화를 신은 누렁개. 누렁개는 황구, 신발의 신, 황구신. 날아온 가루 구름에 에취! 눈을 질끈 감고 재채기하는 바람에, 신발 신은 네 발이 미끄러운 활석 가루 위를 쭉 미끄러져 오른쪽으로. 미끄러짐이 활석의 표지야, 뜨거워서 펄쩍 뛰던 사초 모래하고 달라. 그림에서는 개 몸이 숭숭하지 않고 털만 복슬복슬해, 그래도 코끼리와 같은 왼칸이야. 상피하고 황구신, 둘이 첫째 목적 질 소송.",
+   "text_sha256": "988cf664e4853e8fdac1a5c6dec18348eb29cd0652b338d5e2cd04ac0cb4fdc5",
+   "audio_sha256": "ac569a33eb72e2835e988c3cd4b59f7997914d210232d1ce87da3682115e7eb2",
+   "image_sha256": "95c2f3c92c03d79eec5a5412fa012efc9ba5a1476bea9b41b5916a7c0b7c7af4",
+   "source_commit": "7bb81bc6122bef84df0cf57a34fbf986c32562da",
+   "station_sha256": "17f05ffe6b4e3291b574f684ff82afdf7769058ad67e5b72c40dce5190563caf",
+   "original_wav_sha256": "f9a12ed0860d26c38b90d17c4a264654ce8b0a60613346432850051d257d7f8c",
+   "original_wav_filename": "suchi-08.full.wav"
+  },
+  "suchi-08#3": {
+   "src": "audio/narration/suchi-08__s3__86bc71a55104.mp3",
+   "text": "가루 턱을 넘은 오른칸엔 보안경 쓴 납작한 거머리가 앞 빨판으로 시험관 물을 쪽 빨고 있어. 물을 검사하는 수질 검사, 수질. 미끄러져 온 개 뒷발이 꼬리를 툭 차니까, 머리 위 보라 독구름이 조각조각 흩어져. 독이 내려가는 거야. 초록 악취 김은 하얀 김으로 바뀌지, 나쁜 냄새를 바로잡는 기미교정. 수질 혼자 둘째 목적, 독성 내림, 기미교정이야. 수질은 임신 중에 쓰면 안 되는 임신금용에도 들어.",
+   "text_sha256": "86bc71a55104c50a794927716b75b69f3399fbd669c9167373916956e4c79bc7",
+   "audio_sha256": "e0774d27ffb21a9f83764ad1aea230e26b76fbf7c21b8c95bb09aa94a6ed549a",
+   "image_sha256": "95c2f3c92c03d79eec5a5412fa012efc9ba5a1476bea9b41b5916a7c0b7c7af4",
+   "source_commit": "7bb81bc6122bef84df0cf57a34fbf986c32562da",
+   "station_sha256": "b63745346752d4ac0c14a08acefbc8bc57cbc30a0c6edf6a52ba44a283013262",
+   "original_wav_sha256": "f9a12ed0860d26c38b90d17c4a264654ce8b0a60613346432850051d257d7f8c",
+   "original_wav_filename": "suchi-08.full.wav"
+  },
+  "suchi-08#4": {
+   "src": "audio/narration/suchi-08__s4__948b15a6de51.mp3",
+   "text": "맨 오른쪽 끝, 팬 밖에 조개 껍데기 접시가 입을 벌리고 있어. 그런데 속이 텅 비었지? 조개 가루와 볶는 합분초야. 목적은 셋, 첫째 질이 소취해져 제제, 조제가 편함, 둘째 체한 성을 없애고 교미교취, 셋째 청열화담 효과를 키움. 그런데 교재엔 이 셋에 대상 약이 하나도 없어, 그래서 빈 껍데기야. 흰 가루는 둘이야. 파우더 통은 활석분, 조개는 합분. 왼끝에서 쏟는 건 활석, 오른끝에 비어 있는 건 조개.",
+   "text_sha256": "948b15a6de51f5ff0bc61dc80b123e2ff6b84fb240b717e9b6facf7dc5c6d53c",
+   "audio_sha256": "5636e69f3fa63961fdf5a5b8a5d67981b43a46955da7ad7cb70611fe5ed9fd40",
+   "image_sha256": "95c2f3c92c03d79eec5a5412fa012efc9ba5a1476bea9b41b5916a7c0b7c7af4",
+   "source_commit": "7bb81bc6122bef84df0cf57a34fbf986c32562da",
+   "station_sha256": "ffe5dda079b7a0b8239d4a03fcab1fdbf8130d4bf049df42fdbaa20679692d46",
+   "original_wav_sha256": "f9a12ed0860d26c38b90d17c4a264654ce8b0a60613346432850051d257d7f8c",
+   "original_wav_filename": "suchi-08.full.wav"
+  },
+  "suchi-08#5": {
+   "src": "audio/narration/suchi-08__s5__9b39d63665c3.mp3",
+   "text": "한 바퀴 다시. 피리 코끼리가 가루 구름을 뿜고, 신발 개가 재채기하며 미끄러져 거머리 꼬리를 차고, 보라 독구름이 흩어져. 오른끝 조개 접시는 비어 있고. 상황, 수, 상황 수습. 왼칸 둘이 첫째 목적 질 소송, 거머리 하나가 둘째 목적 독성 내림, 기미교정. 시험은 짝을 바꿔 내, 미초 둘째 목적도 똑같이 독성감소, 기미교정인데 그건 반묘, 사초 둘째 목적 독성감소는 마전자. 그리고 합분초의 질 소취를 상피에 붙이면 틀려, 합분초엔 대상 약이 없어. 활석은 외법에서 달군 가루로도, 수비법의 대상으로도 다시 나와.",
+   "text_sha256": "9b39d63665c3b0aebc948f57012684f5c219974e34cebc4f16116adc0f9d9dbd",
+   "audio_sha256": "61b10695631ca44a6268889f8c8322bf594343c6849172c2228db515e3b2b125",
+   "image_sha256": "95c2f3c92c03d79eec5a5412fa012efc9ba5a1476bea9b41b5916a7c0b7c7af4",
+   "source_commit": "7bb81bc6122bef84df0cf57a34fbf986c32562da",
+   "station_sha256": "affdc245a1d7fd9991173ace22176dcca1447ee9951a3c8c888ccec15f884b9c",
+   "original_wav_sha256": "f9a12ed0860d26c38b90d17c4a264654ce8b0a60613346432850051d257d7f8c",
+   "original_wav_filename": "suchi-08.full.wav"
   }
  }
 }

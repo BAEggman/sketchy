@@ -3234,6 +3234,160 @@
    "station_sha256": "f7ea9fd5ee842790c8b69056cc6e758bea27ba1fe80db3719d6848056dcedbb6",
    "original_wav_sha256": "4b3e12ef2c8046072fb8ef7ff720733da2b1a2c53239de2baafabd27864b53b0",
    "original_wav_filename": "qiqing-05.full.wav"
+  },
+  "qiqing-06#0": {
+   "src": "audio/narration/qiqing-06__s0__af362885d8d7.mp3",
+   "text": "상사 매트 둘째 장이야. 규칙은 앞 장 그대로, 아래가 위를 받쳐 들고, 노란 빛은 위에만. 왼쪽에선 황소가 황금괴를, 오른쪽에선 하마가 호빵을 번쩍 들었어. 상사 네 짝의 끝 둘, 황대 전반.",
+   "text_sha256": "af362885d8d70ec6f3555abd0ad228c924938d83547b3877f9184c3c085c1ca6",
+   "audio_sha256": "8e73e3a0c4996080c5c110c0675ba7cf41f98df29112105b973a2de2a0f07c4d",
+   "image_sha256": "9d0f269acb9eb664f8c671af70906d61329b275c1325ad141619e77c51ec6fa2",
+   "source_commit": "535359a6b153e7a933ffc5d8c7362f4b92f15d6a",
+   "station_sha256": "421fc8fcc6b83c72dead8ff4c8a973ab82f83a87316bb89fa5323d84cb67fb29",
+   "original_wav_sha256": "2a6d6c93d295333e838b31020b324918f4688b7da92d11cb139fbad7015dd9c2",
+   "original_wav_filename": "qiqing-06.full.wav"
+  },
+  "qiqing-06#1": {
+   "src": "audio/narration/qiqing-06__s1__73b5e51140b5.mp3",
+   "text": "왼쪽 매트 위에서 황금괴가 반짝반짝 빛나. 황금. 상수 장에서 시계 호랑이 옆에 나란히 섰던 그 황금괴야. 거기선 노란 빛을 호랑이와 나눠 가졌는데, 여기선 혼자 받아. 교재도 황금 옆에 주인 주 자를 적었어. 같은 황금이 상수에선 나란히, 상사에선 위야.",
+   "text_sha256": "73b5e51140b5395719dc95b5d315341c1a7268b767804e5ce8d5e20251f95f09",
+   "audio_sha256": "782fa9209aa5266ffedcf886646347ea2401fb4c8d75336b7cc217de767a7841",
+   "image_sha256": "9d0f269acb9eb664f8c671af70906d61329b275c1325ad141619e77c51ec6fa2",
+   "source_commit": "535359a6b153e7a933ffc5d8c7362f4b92f15d6a",
+   "station_sha256": "4120d6041e283a496431b5eb80c6cb3b0a01f6489e979e52b925473fc052ada1",
+   "original_wav_sha256": "2a6d6c93d295333e838b31020b324918f4688b7da92d11cb139fbad7015dd9c2",
+   "original_wav_filename": "qiqing-06.full.wav"
+  },
+  "qiqing-06#2": {
+   "src": "audio/narration/qiqing-06__s2__cb29a7678fac.mp3",
+   "text": "황금괴를 받쳐 든 건 왕좌에 버티고 앉은 누런 황소. 대왕의 대, 황소의 황, 대황. 덩치는 황소가 훨씬 크지만 주는 위에서 빛나는 황금이야. 크기가 아니라 자리와 빛을 봐. 포제 술 작업대에서 떠오르고 찜기 옆에서 졸던 그 황소야.",
+   "text_sha256": "cb29a7678fac144f3ec05d73dbd7d50e7d25f5a2265ea96d9ed29c96e82c2e53",
+   "audio_sha256": "e111107fc9704c79f4b929f58d0ab28876654ade98387f8a0b3f99bb871d7d6d",
+   "image_sha256": "9d0f269acb9eb664f8c671af70906d61329b275c1325ad141619e77c51ec6fa2",
+   "source_commit": "535359a6b153e7a933ffc5d8c7362f4b92f15d6a",
+   "station_sha256": "8e429776be1aa2d9cb5383b800649d053859cb99c094334efb3c266b1d9b16ae",
+   "original_wav_sha256": "2a6d6c93d295333e838b31020b324918f4688b7da92d11cb139fbad7015dd9c2",
+   "original_wav_filename": "qiqing-06.full.wav"
+  },
+  "qiqing-06#3": {
+   "src": "audio/narration/qiqing-06__s3__26a9db5a9cba.mp3",
+   "text": "오른쪽 매트 위엔 한입 베어 팥이 보이는, 김 나는 호빵이 수화기를 들고 태평하게 통화 중. 전화의 전, 호빵의 호, 전호. 혼자 노랗게 빛나지만, 애엽처럼 교재엔 주 표시가 없어. 그림이 앞에 적힌 약을 위에 올린 거야.",
+   "text_sha256": "26a9db5a9cba188329b90ff2dd52d1e69eadeb6fbdf61a9aee1e1baa523b4189",
+   "audio_sha256": "0c9fb93ee9006052b01d7a96d3c3a6098114f8280ab345d0d82dbb429c24eecd",
+   "image_sha256": "9d0f269acb9eb664f8c671af70906d61329b275c1325ad141619e77c51ec6fa2",
+   "source_commit": "535359a6b153e7a933ffc5d8c7362f4b92f15d6a",
+   "station_sha256": "0fde9edb1647a278e1364b37b582f369607e5f18cc865f966df6d44cfa4ca038",
+   "original_wav_sha256": "2a6d6c93d295333e838b31020b324918f4688b7da92d11cb139fbad7015dd9c2",
+   "original_wav_filename": "qiqing-06.full.wav"
+  },
+  "qiqing-06#4": {
+   "src": "audio/narration/qiqing-06__s4__bdcd61901fd3.mp3",
+   "text": "호빵을 받쳐 든 건 반바지 입은 하마. 반바지의 반, 하마의 하, 반하. 한 다리가 들려 휘청 넘어지면서도 두 앞발을 번쩍 들고 있어. 반하는 뒤에도 자주 나와, 상외 반하외생강, 상쇄 생강쇄반하, 십팔반 오두 반 반하. 교재는 상외 괄호에 반하외생강, 상쇄 괄호에 생강쇄반하를 적었어. 본초 교재는 앞은 반하의 입장, 뒤는 생강의 입장이라고 덧붙였어.",
+   "text_sha256": "bdcd61901fd3ced8480252a1aa513e22fae063c8cd2ffdc6304f35092e4001ac",
+   "audio_sha256": "1398bb9e43fe724fdb64ae09a5983bb6f7ccb59b17309cf3ab84e093dcd56f24",
+   "image_sha256": "9d0f269acb9eb664f8c671af70906d61329b275c1325ad141619e77c51ec6fa2",
+   "source_commit": "535359a6b153e7a933ffc5d8c7362f4b92f15d6a",
+   "station_sha256": "9ffad5f0ab940e566dd87c6764cc465d09fc90027eb1d53e1c51ea2316d67934",
+   "original_wav_sha256": "2a6d6c93d295333e838b31020b324918f4688b7da92d11cb139fbad7015dd9c2",
+   "original_wav_filename": "qiqing-06.full.wav"
+  },
+  "qiqing-06#5": {
+   "src": "audio/narration/qiqing-06__s5__bb5ce6e62f8a.mp3",
+   "text": "한 바퀴. 왕좌의 황소가 황금괴를 들어 올리고 빛은 황금괴만, 황금이 주, 대황이 종. 넘어지는 하마가 통화하는 호빵을 받쳐 들고 빛은 호빵만, 전호와 반하. 황대 전반. 상사 넷을 이으면 황복 애향 황대 전반. 여기까지가 약성이 강해지는 상수, 상사야. 다음 매트부터는 노란 빛이 옅어지고 회색 김이 피어올라, 서로 견제해 작용이 줄어드는 상오야.",
+   "text_sha256": "bb5ce6e62f8a54d2fa4e1e361bb5bf6ac737b3aeeab2ed53452483fd01b64c58",
+   "audio_sha256": "10da850701f6d3a35fd5dca71592655bc0f66dc845a883b35465adccfa57909e",
+   "image_sha256": "9d0f269acb9eb664f8c671af70906d61329b275c1325ad141619e77c51ec6fa2",
+   "source_commit": "535359a6b153e7a933ffc5d8c7362f4b92f15d6a",
+   "station_sha256": "ec7e846b99790e10ac697127f7b2c07b7c82f3eadc0152ad6ba464d2d9ed5f04",
+   "original_wav_sha256": "2a6d6c93d295333e838b31020b324918f4688b7da92d11cb139fbad7015dd9c2",
+   "original_wav_filename": "qiqing-06.full.wav"
+  },
+  "qiqing-07#0": {
+   "src": "audio/narration/qiqing-07__s0__6ac92d303e8b.mp3",
+   "text": "칠정 체육관이야. 맨벽에 밝은 나무 바닥, 둥근 파란 매트 셋. 매트마다 한 짝이 마주 보고 힘껏 밀어붙이는데, 누구도 못 이기고 땀만 뚝뚝 흘려. 함께 쓰면 서로 견제해서 작용이 줄어드는 게 상오야. 그림에서는 둘 머리 위 노란 빛이 옅어지고, 촛불 끈 듯 가는 회색 연기가 곧게 올라가. 교재 정리에서 약성 약해짐 칸은 상오 하나뿐이야. 보라 독구름은 없지? 독 이야기가 아니라 약 힘 이야기라서. 짝의 앞 약이 왼쪽, 왼쪽 매트부터, 황생 방건 인나.",
+   "text_sha256": "6ac92d303e8b72e48a1881945e189477572aa60fc07b8fab81c55d68dbcebed2",
+   "audio_sha256": "26ed2f7f2de9c41821978290ca876f77f04d357e66aee1f9564dbfc4f398f255",
+   "image_sha256": "150b8343f739036f395cdc3ac36d4373683aaa82e36026d1ebc211e426b7a3d5",
+   "source_commit": "535359a6b153e7a933ffc5d8c7362f4b92f15d6a",
+   "station_sha256": "93d5625360006d01877534c52b213cefe375250e333b8b42b381e4d5d47528ac",
+   "original_wav_sha256": "8d24b38c2a7aba98b200cb6634df6794942f3e72c0f11a0af705d062bff36e78",
+   "original_wav_filename": "qiqing-07.full.wav"
+  },
+  "qiqing-07#1": {
+   "src": "audio/narration/qiqing-07__s1__9baf22fe5e93.mp3",
+   "text": "맨 왼쪽 매트, 연잎에 뜬 노란 연꽃이 쓴맛에 눈을 질끈 감고 혀를 쭉 내밀었어. 노란색은 황, 연꽃은 련, 황련. 손이 없으니 몸통으로 옆 개구리와 맞붙었지. 포제 주자, 강자 장의 그 혀 내민 연꽃이야. 황련은 상오 예에 두 번 나와. 여기서 생강하고 한 번, 다음 장에서 천궁하고 한 번.",
+   "text_sha256": "9baf22fe5e93e0be6d20bc0695f5a45bc54350a0285a457eb1e7e6591a2ebfc4",
+   "audio_sha256": "7ec51f2fd4e64b3d4b3df89ca9091c75682df6e346c0b1010e66bda48ae30523",
+   "image_sha256": "150b8343f739036f395cdc3ac36d4373683aaa82e36026d1ebc211e426b7a3d5",
+   "source_commit": "535359a6b153e7a933ffc5d8c7362f4b92f15d6a",
+   "station_sha256": "39c7a855e777dabfced4bc65f189a1c5434106d829974bc34e6ad8dd365981bd",
+   "original_wav_sha256": "8d24b38c2a7aba98b200cb6634df6794942f3e72c0f11a0af705d062bff36e78",
+   "original_wav_filename": "qiqing-07.full.wav"
+  },
+  "qiqing-07#2": {
+   "src": "audio/narration/qiqing-07__s2__70828e923d1b.mp3",
+   "text": "짝은 물기가 반짝이는 날생강 개구리. 생강은 그대로 생강, 물기가 날것 날 생, 생강. 앞발로 연꽃을 밀어붙이는데 온몸이 땀방울이야. 황련과 생강이 서로 견제해 둘 다 힘이 빠져, 상오. 이 개구리는 상외 매트에 또 나와. 거기선 반하가 생강을 외하고, 상쇄 괄호에선 생강이 반하를 쇄해. 같은 생강이라도 짝이 바뀌면 관계도 바뀌어.",
+   "text_sha256": "70828e923d1b34741b3b03e4bf23646ba421194cd52a50c8307f1aa2ad21be7c",
+   "audio_sha256": "0c6f9444691fc97baf2ec78f432284a5dcdc40291099c0689f43e3285f579b8f",
+   "image_sha256": "150b8343f739036f395cdc3ac36d4373683aaa82e36026d1ebc211e426b7a3d5",
+   "source_commit": "535359a6b153e7a933ffc5d8c7362f4b92f15d6a",
+   "station_sha256": "47c4286315cdbb9373bbf17de3a977bb37828251bac31b20325869d4595b732e",
+   "original_wav_sha256": "8d24b38c2a7aba98b200cb6634df6794942f3e72c0f11a0af705d062bff36e78",
+   "original_wav_filename": "qiqing-07.full.wav"
+  },
+  "qiqing-07#3": {
+   "src": "audio/narration/qiqing-07__s3__ab7836fde721.mp3",
+   "text": "가운데 매트 왼쪽은 속이 빈 청록 점퍼. 바람 막는 방풍 점퍼, 방풍. 그림에서는 바람에 빵빵하게 부풀진 않고 통통한 정도야. 소매 끝으로 옆 마른 생강의 팔을 꾹 밀어. 방풍도 두 번 나와. 여기 상오에서는 건강과 서로 힘을 빼고, 상쇄 매트에서는 부자의 독구름을 날려 버려.",
+   "text_sha256": "ab7836fde721d10ec76b51ebb86f10e2d8fb6dc5cd1dcb11f7753ffd41169478",
+   "audio_sha256": "579cb47b2e0ff140597a1681ae10c05bb001fc8fddc6f3ef5de62508918296b1",
+   "image_sha256": "150b8343f739036f395cdc3ac36d4373683aaa82e36026d1ebc211e426b7a3d5",
+   "source_commit": "535359a6b153e7a933ffc5d8c7362f4b92f15d6a",
+   "station_sha256": "34257361ce26bc4fcbb31bb0fa2812f3c0e607a43d836c2a679c49b62dc322c2",
+   "original_wav_sha256": "8d24b38c2a7aba98b200cb6634df6794942f3e72c0f11a0af705d062bff36e78",
+   "original_wav_filename": "qiqing-07.full.wav"
+  },
+  "qiqing-07#4": {
+   "src": "audio/narration/qiqing-07__s4__a6ead00e5a0b.mp3",
+   "text": "맞은편은 청진기를 건 채 알통을 불끈 세운 마른 생강. 건강검진 받는 생강, 건강. 포제 초탄 장에서 청진기 줄이 당겨지던 바로 그 생강이야. 그림에서는 맞밀기보다 알통 자랑 자세지만, 점퍼 소매가 팔을 밀고 있어, 점퍼도 생강도 못 이겨. 생강이 둘이니 섞지 마. 물기 반짝 개구리 생강은 황련과, 마른 알통 건강은 방풍과 상오야.",
+   "text_sha256": "a6ead00e5a0b6fa6cfbeafe9996c01d6e176aa4de3fdcb8c551705101670da65",
+   "audio_sha256": "be592ac83a9712573af7bd2cc33dd15b3ba665d44055e1b873bdbe58c7b6cfbd",
+   "image_sha256": "150b8343f739036f395cdc3ac36d4373683aaa82e36026d1ebc211e426b7a3d5",
+   "source_commit": "535359a6b153e7a933ffc5d8c7362f4b92f15d6a",
+   "station_sha256": "78df217c77a8684d733fc53d3a7ffdd90d201be4c7e863ad02a34c7c1a65c2b9",
+   "original_wav_sha256": "8d24b38c2a7aba98b200cb6634df6794942f3e72c0f11a0af705d062bff36e78",
+   "original_wav_filename": "qiqing-07.full.wav"
+  },
+  "qiqing-07#5": {
+   "src": "audio/narration/qiqing-07__s5__6d18b0ee7ac8.mp3",
+   "text": "오른쪽 매트엔 금관 쓴 인삼 뿌리 인형, 인삼. 손바닥을 성난 무에 대고 밀어붙이는데, 그림에서는 지친 기색 없이 웃고 있어. 그래도 머리 위 빛은 꺼져 가지. 교재는 이 짝을 상오 괄호에 인삼오나복자로 따로 적었어. 상오의 대표 예야. 인삼은 단행 독삼탕, 상수 인삼 감초, 상외 괄호 인삼외오령지, 십팔반 오삼, 십구외에 다 나오는 단골이야.",
+   "text_sha256": "6d18b0ee7ac8763d9a54bc64319aa670376c33e7c52f3afe5850620ff776a5b4",
+   "audio_sha256": "86519fe807507566a499ef3db778db06a4318c5bdb2d4d83c1fbc6cc3d31f748",
+   "image_sha256": "150b8343f739036f395cdc3ac36d4373683aaa82e36026d1ebc211e426b7a3d5",
+   "source_commit": "535359a6b153e7a933ffc5d8c7362f4b92f15d6a",
+   "station_sha256": "1e38fe919117f730b27d7d0da98a924381017e0049668b434443d70d7f4f8966",
+   "original_wav_sha256": "8d24b38c2a7aba98b200cb6634df6794942f3e72c0f11a0af705d062bff36e78",
+   "original_wav_filename": "qiqing-07.full.wav"
+  },
+  "qiqing-07#6": {
+   "src": "audio/narration/qiqing-07__s6__c704c34e7516.mp3",
+   "text": "맞은편은 잎이 무성한 흰 무가 주먹 쥐고 씩씩대며 씨를 퉤퉤 뱉어. 난폭자, 나복자. 이 난폭자 무는 상반 매트에서 또 만나. 거기선 지황과 손을 마주치자 독구름이 펑. 인삼하고는 힘이 빠지는 상오, 지황하고는 독이 터지는 상반, 같은 무, 다른 관계야. 문제는 인삼 나복자를 상외라고 바꿔 내.",
+   "text_sha256": "c704c34e75169f225b09660327d29acb43fe028e469f3d0adf0e1cd89035e337",
+   "audio_sha256": "917c7fb75e3dd6a6eed61026e8e11ef2ef678782f20c756f80f863ab480ca1f1",
+   "image_sha256": "150b8343f739036f395cdc3ac36d4373683aaa82e36026d1ebc211e426b7a3d5",
+   "source_commit": "535359a6b153e7a933ffc5d8c7362f4b92f15d6a",
+   "station_sha256": "8959632cd12cdc13d742aae71b623e3c12a95772d98753c8c71290da551f79e6",
+   "original_wav_sha256": "8d24b38c2a7aba98b200cb6634df6794942f3e72c0f11a0af705d062bff36e78",
+   "original_wav_filename": "qiqing-07.full.wav"
+  },
+  "qiqing-07#7": {
+   "src": "audio/narration/qiqing-07__s7__ee9a6d85af57.mp3",
+   "text": "한 바퀴 다시. 혀 내민 연꽃과 개구리 생강이 맞밀고, 방풍 점퍼와 알통 마른 생강이 맞밀고, 왕관 인삼과 난폭자 무가 맞밀어. 셋 다 무승부, 셋 다 노란 빛이 꺼져. 황생 방건 인나. 빛이 꺼지는 건 약성이 약해지는 상오 하나뿐이고, 보라 독구름이 흩어지는 상외, 상쇄와는 칸이 달라. 다음 장은 상오 둘째, 백석 천황 후택.",
+   "text_sha256": "ee9a6d85af57e7087060de4c9be9c28000e2dcf86042296d03183ca62f19bc85",
+   "audio_sha256": "6bf87fdf0194f7295f8761a96d1df3cc15a05fc3628a798d54fcd1854a44f926",
+   "image_sha256": "150b8343f739036f395cdc3ac36d4373683aaa82e36026d1ebc211e426b7a3d5",
+   "source_commit": "535359a6b153e7a933ffc5d8c7362f4b92f15d6a",
+   "station_sha256": "738f6fa2cba711f77362bb6ce2aae601543da7f6920f4dfe99b7f700a850677f",
+   "original_wav_sha256": "8d24b38c2a7aba98b200cb6634df6794942f3e72c0f11a0af705d062bff36e78",
+   "original_wav_filename": "qiqing-07.full.wav"
   }
  }
 }

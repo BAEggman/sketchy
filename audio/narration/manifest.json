@@ -5280,6 +5280,72 @@
    "station_sha256": "c87dff81bec9781cbf34fbe16976cf8cbe95a96dc4d8e704976617467bc1d608",
    "original_wav_sha256": "e69afc3415d81f28e32009053983ad77f3d532712a582764fb4ed31ddde36e47",
    "original_wav_filename": "wei19-2.full.wav"
+  },
+  "wei19-3#0": {
+   "src": "audio/narration/wei19-3__s0__3744474c2810.mp3",
+   "text": "같은 바리케이드 무대 셋째 장인데, 이번엔 바리케이드가 하나뿐이야. 왼쪽에 까마귀가 둘, 오른쪽에 코뿔소가 하나. 교재가 천오초오외서각, 까마귀 둘을 한 덩어리로 묶어서 서각 하나를 두려워한다고 적었거든. 여기도 구름은 없어. 함께 쓰지 않는 짝이야. 천초서.",
+   "text_sha256": "3744474c28100146630dc21c92561ccadc6d13e92000bea12579f64243231ae9",
+   "audio_sha256": "82832146e0600898490b9cde338bb651339c7b45df0b9fd2de4ffc2362e0655f",
+   "image_sha256": "c74bbe49aa716ff6eb445c771ffe326a2d446e246a107f6f7b6127b1e02c0e0b",
+   "source_commit": "de83ff5ce697ff9c541dc5e72f1cb3c01788e14b",
+   "station_sha256": "98c90c8ceea8493f42ca66cfe0d67ccddca7d9037defd64f0febeb024d591cca",
+   "original_wav_sha256": "6ce039ba26a57688f200ab5c2d1be1d443e8f1565afa5e03e5a5627651178f6d",
+   "original_wav_filename": "wei19-3.full.wav"
+  },
+  "wei19-3#1": {
+   "src": "audio/narration/wei19-3__s1__8468e6652edf.mp3",
+   "text": "맨 왼쪽, 캠핑 천막을 통째로 뒤집어쓰고 머리만 쏙 내민 까마귀. 천막의 천, 까마귀는 까마귀 오 가족이니까 오, 천오. 포제 자법 장에서 끓는 솥에 빠져 독 연기가 가늘어지던 그 천막 까마귀야, 삶아서 독성을 줄였지. 부리는 왼쪽, 꼬리는 바리케이드 쪽, 뾰로통하게 등을 돌렸어.",
+   "text_sha256": "8468e6652edf80cdbae2f48f537f5530946b03fc2a6826aa3190c59da3354632",
+   "audio_sha256": "35c45e0337b2f3ebcfbb6558abf7aa1edbb12f3c6968bf93d08a3851bd4869a6",
+   "image_sha256": "c74bbe49aa716ff6eb445c771ffe326a2d446e246a107f6f7b6127b1e02c0e0b",
+   "source_commit": "de83ff5ce697ff9c541dc5e72f1cb3c01788e14b",
+   "station_sha256": "207a0ba95fc4b4682bd11aee831056a0af36e9f06b2ae8963a0861b2db92fb2d",
+   "original_wav_sha256": "6ce039ba26a57688f200ab5c2d1be1d443e8f1565afa5e03e5a5627651178f6d",
+   "original_wav_filename": "wei19-3.full.wav"
+  },
+  "wei19-3#2": {
+   "src": "audio/narration/wei19-3__s2__e731808364a0.mp3",
+   "text": "그 오른쪽, 바리케이드 바로 앞엔 온몸이 풀빛 초록인 까마귀가 고개를 숙이고 풀 다발을 콕콕 쪼아 먹어. 초록의 초, 풀 초의 초, 까마귀 오, 초오. 이 녀석은 꼬리를 바리케이드 쪽에 두고 등을 돌렸지. 십팔반의 맨몸 먹구름 까마귀는 오두였고, 십구외에선 천막 천오와 초록 초오 둘이 나와. 시험은 오두외서각으로 바꿔 내니까 조심해.",
+   "text_sha256": "e731808364a0ef62db3b026ddc0e81afed77f6a9d965012528e6ac70638401c3",
+   "audio_sha256": "ea740f9007d45645627a12a40bb90a78e036a7f3fb18ae7ab52ce009c5a36726",
+   "image_sha256": "c74bbe49aa716ff6eb445c771ffe326a2d446e246a107f6f7b6127b1e02c0e0b",
+   "source_commit": "de83ff5ce697ff9c541dc5e72f1cb3c01788e14b",
+   "station_sha256": "795c668a05dc17a1f3c10a833989467f2d9f3e503b03fb8105f32a1a5e6fc826",
+   "original_wav_sha256": "6ce039ba26a57688f200ab5c2d1be1d443e8f1565afa5e03e5a5627651178f6d",
+   "original_wav_filename": "wei19-3.full.wav"
+  },
+  "wei19-3#3": {
+   "src": "audio/narration/wei19-3__s3__1cfbc2885dc2.mp3",
+   "text": "가운데 바리케이드 하나가 까마귀 둘과 코뿔소를 갈라. 그림에서는 이 바리케이드가 십구외 표시야, 독을 줄여 주는 칠정 상외였다면 구름이 흩어지는 그림이었을 거야. 여긴 그냥 막혀 있어. 배오금기.",
+   "text_sha256": "1cfbc2885dc2b7c9d1a9ac99ae4a231c6b40830235b671e0fa2944d2484efe27",
+   "audio_sha256": "ab21f9de31d3166fa0e8545cf7e7b4a382eaa83a667503e803039d2d1e6c1345",
+   "image_sha256": "c74bbe49aa716ff6eb445c771ffe326a2d446e246a107f6f7b6127b1e02c0e0b",
+   "source_commit": "de83ff5ce697ff9c541dc5e72f1cb3c01788e14b",
+   "station_sha256": "9c2776287593f1620b57315703d0b3d0ab3b5f657e738f540cc4de2cb660724d",
+   "original_wav_sha256": "6ce039ba26a57688f200ab5c2d1be1d443e8f1565afa5e03e5a5627651178f6d",
+   "original_wav_filename": "wei19-3.full.wav"
+  },
+  "wei19-3#4": {
+   "src": "audio/narration/wei19-3__s4__8f09a47528d1.mp3",
+   "text": "바리케이드 오른쪽, 코끝 뿔이 반듯한 정육면체 블록인 코뿔소. 사각 블록, 사각, 서각. 코뿔소가 무소 서야. 뒤의 작은 뿔은 빼고, 앞의 네모난 사각 블록이 단서지. 까마귀들 쪽은 보지 않고 꼬리를 바리케이드 쪽에 둔 채 오른쪽을 향해 서 있어. 그림에서는 표정이 웃고 있지만 등은 돌렸지. 교재는 서각 같은 동물 뿔은 얇게 깎는 방으로 썬다고도 적었어.",
+   "text_sha256": "8f09a47528d1057ee90f4177f3a760886c2c4f14cea03ce3e0552b6ff7f55d0a",
+   "audio_sha256": "4507dff571cfe75c843bdeb36b66899eac774b713ee8e3df4623a687640744d8",
+   "image_sha256": "c74bbe49aa716ff6eb445c771ffe326a2d446e246a107f6f7b6127b1e02c0e0b",
+   "source_commit": "de83ff5ce697ff9c541dc5e72f1cb3c01788e14b",
+   "station_sha256": "b724d24517c2028e4302a76cdd9ca264352637ce1f8e7a4c569ff38786a32f42",
+   "original_wav_sha256": "6ce039ba26a57688f200ab5c2d1be1d443e8f1565afa5e03e5a5627651178f6d",
+   "original_wav_filename": "wei19-3.full.wav"
+  },
+  "wei19-3#5": {
+   "src": "audio/narration/wei19-3__s5__fe7ecc4ed7fd.mp3",
+   "text": "한 바퀴 다시. 천막 쓴 까마귀와 풀 먹는 초록 까마귀가 나란히, 바리케이드, 사각 블록 뿔 코뿔소. 천초서. 까마귀 가족은 두 군데 나와, 십팔반엔 맨몸 오두가 반하, 과루, 패모, 백렴과, 십구외엔 천오, 초오가 서각과. 십팔반은 터지고, 십구외는 막혀 있어.",
+   "text_sha256": "fe7ecc4ed7fd834b01e3442bce4e1732f393a22c96f19550f32107a54f76b7e8",
+   "audio_sha256": "a5a9e6bafb4fb62f5fc5346a739cb6168ad1ce4461f17db028c40893d2dbf6e2",
+   "image_sha256": "c74bbe49aa716ff6eb445c771ffe326a2d446e246a107f6f7b6127b1e02c0e0b",
+   "source_commit": "de83ff5ce697ff9c541dc5e72f1cb3c01788e14b",
+   "station_sha256": "89592d98ad2cc77635847be2e4d96f2c370dea0e04d73886f21a8b45492426f8",
+   "original_wav_sha256": "6ce039ba26a57688f200ab5c2d1be1d443e8f1565afa5e03e5a5627651178f6d",
+   "original_wav_filename": "wei19-3.full.wav"
   }
  }
 }

@@ -9339,6 +9339,83 @@
    "station_sha256": "415237c270e2f3cd65747851cf1660fa3497d38019eb6f6d66577dd25e7c8762",
    "original_wav_sha256": "96328aad0478362ef0eac48ebff36a3f3ecbb51fa7122995100b40f82d49dbc3",
    "original_wav_filename": "new-gr-40.full.wav"
+  },
+  "new-gr-18#0": {
+   "src": "audio/narration/new-gr-18__s0__f51c98ac34bd.mp3",
+   "text": "펜싱 경기장이다. 자는 찌른다. 좌우를 엇갈려 찌르는 거자와 무자, 흐름을 맞받아 또는 따라 찌르는 영수, 아홉 가지 침 구침, 그리고 찔렸을 때의 손맛 득기.",
+   "text_sha256": "f51c98ac34bdd636329f2e624400fa52463e80e9b0a30739083ca210bdd5350c",
+   "audio_sha256": "4099b38d1b7e5e0cfa9dfb492b53ec782085a63fb9cbc7861618be644be07c6c",
+   "image_sha256": "8f9207813ea58bd796ef2d00a8886d001aec8e3b91a84eb4b89d77e0dbbfe02f",
+   "source_commit": "1aaaed530744be4fc9d2e5cfd1526cb19e40a469",
+   "station_sha256": "f8bccef5d1172d68b195af3b865f3303bb7422173bec528e121ea64221cae75b",
+   "original_wav_sha256": "2dc6a45a59b79e6d26ef57b9bb48d60a9d7d9f70c4dc4cd90ddc7ff35cdca441",
+   "original_wav_filename": "new-gr-18.full.wav"
+  },
+  "new-gr-18#1": {
+   "src": "audio/narration/new-gr-18__s1__11d1962f9328.mp3",
+   "text": "위 첫 칸, 선수 슈트에 굵은 파란 선이 몸 양옆으로 내려간다, 굵은 줄기, 경맥이다. 아픈 자리는 그의 왼쪽 어깨인데, 상대 칼끝은 그의 오른쪽 파란 선 쪽을 찌른다. 거자, 경맥의 병에 왼쪽 병은 오른쪽을, 오른쪽 병은 왼쪽을 찌른다, 이좌치우 이우치좌. 거는 크다, 큰 줄기 경.",
+   "text_sha256": "11d1962f9328535dd30b7e2bff77536d1af563a4fd16e33e181ae3fbcafb3898",
+   "audio_sha256": "99a0ca0f43dd0b92963886b464c9fa913733e44fd4427ca78d135a619a66fc54",
+   "image_sha256": "8f9207813ea58bd796ef2d00a8886d001aec8e3b91a84eb4b89d77e0dbbfe02f",
+   "source_commit": "1aaaed530744be4fc9d2e5cfd1526cb19e40a469",
+   "station_sha256": "a389fe50e3fea13b8bc7cecc562a98a13a996e214de782e18b16569adb6ef689",
+   "original_wav_sha256": "2dc6a45a59b79e6d26ef57b9bb48d60a9d7d9f70c4dc4cd90ddc7ff35cdca441",
+   "original_wav_filename": "new-gr-18.full.wav"
+  },
+  "new-gr-18#2": {
+   "src": "audio/narration/new-gr-18__s2__7f1949432029.mp3",
+   "text": "둘째 칸, 슈트를 가는 붉은 실그물이 덮었다, 가는 그물, 낙맥이다. 아픈 자리는 그의 왼쪽 어깨, 위쪽인데, 상대 칼끝은 오른쪽 아래, 손 쪽에 닿는다. 무자, 낙맥의 병에 좌우를 엇갈리고 위아래까지 엇갈려 취한다, 상병하취 하병상취. 무자는 낙, 거자는 경, 둘 다 좌우 교차라 바꾸는 함정이 가장 많다.",
+   "text_sha256": "7f19494320298712f31b9540623e4a0ed28319f35219cf28cbd60cef7651f9b9",
+   "audio_sha256": "1f3c8e0671dd37668b561d931b8b43b0fa620da60aebd196f673ddec8b33bd65",
+   "image_sha256": "8f9207813ea58bd796ef2d00a8886d001aec8e3b91a84eb4b89d77e0dbbfe02f",
+   "source_commit": "1aaaed530744be4fc9d2e5cfd1526cb19e40a469",
+   "station_sha256": "a201e4ba367f63a4c5d3e852bcdfe3edc14a66360738113c4a7edfa76bdf1560",
+   "original_wav_sha256": "2dc6a45a59b79e6d26ef57b9bb48d60a9d7d9f70c4dc4cd90ddc7ff35cdca441",
+   "original_wav_filename": "new-gr-18.full.wav"
+  },
+  "new-gr-18#3": {
+   "src": "audio/narration/new-gr-18__s3__5362861bba09.mp3",
+   "text": "셋째 칸, 컨베이어가 풍선, 기를 왼쪽에서 오른쪽으로 나른다, 경기의 흐름이다. 왼쪽 끝 선수는 흐름과 같은 쪽을 보며 뒤에서 풍선을 살짝 민다, 따라간다, 수. 풍선이 부푼다, 보. 오른쪽 끝 선수는 흐름을 마주 보고 찌른다, 맞이한다, 영. 풍선이 터져 바람이 빠진다, 사. 수는 보, 영은 사, 방향을 뒤집는 함정.",
+   "text_sha256": "5362861bba090e09ead5556f8b0f3e0d983c4773c324f47d6f7fa5fd17609b0d",
+   "audio_sha256": "603c791f1f80e377fe917abc6cfac435a7cac3be16f68cd340792c9b841561af",
+   "image_sha256": "8f9207813ea58bd796ef2d00a8886d001aec8e3b91a84eb4b89d77e0dbbfe02f",
+   "source_commit": "1aaaed530744be4fc9d2e5cfd1526cb19e40a469",
+   "station_sha256": "24e1d5aa9cf9571411c21687e19fb355d1d2c50cb5b4c131165441b46b5fafdb",
+   "original_wav_sha256": "2dc6a45a59b79e6d26ef57b9bb48d60a9d7d9f70c4dc4cd90ddc7ff35cdca441",
+   "original_wav_filename": "new-gr-18.full.wav"
+  },
+  "new-gr-18#4": {
+   "src": "audio/narration/new-gr-18__s4__6c32528c36fc.mp3",
+   "text": "아래 왼쪽 칸, 벽에 침 모양 무기들, 구침, 아홉 가지 침이다. 끝에 피 맺힌 짧은 침, 봉침, 오늘의 삼릉침이다. 갈래가 셋이 아니라, 끝의 날 모서리가 셋인 침 하나다. 피를 빼고 사혈, 옹종과 열병에 쓴다. 둥근 공 끝 막대로 팔을 찌르지 않고 누르는 선수, 시침. 주안맥물함 이치기기, 맥을 눌러도 살을 뚫지 않고 기를 이르게 한다. 봉침과 시침을 바꾸는 함정.",
+   "text_sha256": "6c32528c36fc5261cb17e233c3053d77f3371cdd8a3fccc7822367ff0e1347bb",
+   "audio_sha256": "d47d35f2525ef3a2e8dedc814cf1e9ebed3390e23ad56571fa5ac35e3227e8fb",
+   "image_sha256": "8f9207813ea58bd796ef2d00a8886d001aec8e3b91a84eb4b89d77e0dbbfe02f",
+   "source_commit": "1aaaed530744be4fc9d2e5cfd1526cb19e40a469",
+   "station_sha256": "43d82654c0c71c533cf4178584b4afd3ae1da55337bf39d0ab6c8318f38de46e",
+   "original_wav_sha256": "2dc6a45a59b79e6d26ef57b9bb48d60a9d7d9f70c4dc4cd90ddc7ff35cdca441",
+   "original_wav_filename": "new-gr-18.full.wav"
+  },
+  "new-gr-18#5": {
+   "src": "audio/narration/new-gr-18__s5__00bdc5811592.mp3",
+   "text": "아래 오른쪽 칸, 칼에 닿은 뒤의 네 선수, 득기, 침이 제자리에 이르면 오는 느낌이다. 레몬을 문 듯 시큰, 산. 팔에 찌릿한 불꽃, 마, 저림. 손에 든 쇠추, 중, 묵직함. 풍선처럼 부푼 팔, 창, 뻐근함. 산, 마, 중, 창, 넷.",
+   "text_sha256": "00bdc5811592d07835807861390b4b78f525ab2411c82455d74caabce29feccc",
+   "audio_sha256": "f06432abddc7950f04e54c581c30e65556f998b3f4cd9f927358403859401d9b",
+   "image_sha256": "8f9207813ea58bd796ef2d00a8886d001aec8e3b91a84eb4b89d77e0dbbfe02f",
+   "source_commit": "1aaaed530744be4fc9d2e5cfd1526cb19e40a469",
+   "station_sha256": "58c44fb73456e29a02615ce24efe874675ca75bf7e9f5012e2555dbea8297a69",
+   "original_wav_sha256": "2dc6a45a59b79e6d26ef57b9bb48d60a9d7d9f70c4dc4cd90ddc7ff35cdca441",
+   "original_wav_filename": "new-gr-18.full.wav"
+  },
+  "new-gr-18#6": {
+   "src": "audio/narration/new-gr-18__s6__142155979d7b.mp3",
+   "text": "다시 본다. 굵은 파란 선에 반대쪽 찌르기, 거자, 경맥, 이좌치우. 가는 붉은 실그물에 대각선 찌르기, 무자, 낙맥, 좌우와 위아래. 풍선, 뒤따르면 수, 보, 맞받아 찌르면 영, 사. 피 맺힌 세모 날 침, 봉침, 삼릉침, 사혈. 둥근 끝 누르기, 시침, 안맥물함. 레몬, 불꽃, 쇠추, 부푼 팔, 득기, 산, 마, 중, 창.",
+   "text_sha256": "142155979d7bb53fbd51365b6e3b4a2834b63da0bbef6ade06fd22e6307811f9",
+   "audio_sha256": "9ace1c93d2fa9a6567dd6617028045db66f92a181eed8f5047c40804272da466",
+   "image_sha256": "8f9207813ea58bd796ef2d00a8886d001aec8e3b91a84eb4b89d77e0dbbfe02f",
+   "source_commit": "1aaaed530744be4fc9d2e5cfd1526cb19e40a469",
+   "station_sha256": "b57f7a5db0357f3f39c2ff0a913282389afe1b12907ead3ddba2d1e8294c8a13",
+   "original_wav_sha256": "2dc6a45a59b79e6d26ef57b9bb48d60a9d7d9f70c4dc4cd90ddc7ff35cdca441",
+   "original_wav_filename": "new-gr-18.full.wav"
   }
  }
 }

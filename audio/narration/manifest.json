@@ -3938,6 +3938,83 @@
    "station_sha256": "9225999f66253702f1b997ae2b33baabb039fa76f98e7343447cea19c61ca891",
    "original_wav_sha256": "c2a4b9a62e62580c61848e882ebf1660ee92f7c888f4ae0f546bd59146b91b77",
    "original_wav_filename": "suchi-04.full.wav"
+  },
+  "suchi-05#0": {
+   "src": "audio/narration/suchi-05__s0__64b16e8982ca.mp3",
+   "text": "이번 팬엔 바닥에 갈색 밀기울이 소복이 깔렸어. 보료를 먼저 달군 뒤 약을 함께 볶는 게 가보료초야. 보료가 고체라 액체로 하는 자법보다 온도는 높게, 시간은 짧게. 밀기울, 맥부로 볶으니 부초. 팬은 낮은 칸막이 둘로 세 칸, 목적이 셋이라서야. 백산, 지창, 백.",
+   "text_sha256": "64b16e8982ca7a7a15e6764ccd90d2b0efceffc1c3502ef19f2d181c99da4095",
+   "audio_sha256": "1e02b1c9f6fac73701a60c194b5581ce32014bafde016823b15f5f82d178c155",
+   "image_sha256": "b10f114900dddfa099b462fada7931a2f362823c45af7b639ac518f6c5e54a47",
+   "source_commit": "b4b2d77eee749190718d16f1897be5b209d7a16e",
+   "station_sha256": "b348499b0c70bcf34c4fb3d560add86fb38fa2e7c0d439f4089a9a7ceea144a3",
+   "original_wav_sha256": "8a0ddbb7cf64594518719464ec61c30bbaf9aac4ad3443d18be62ef3c4f201ad",
+   "original_wav_filename": "suchi-05.full.wav"
+  },
+  "suchi-05#1": {
+   "src": "audio/narration/suchi-05__s1__1ba5ce7fd538.mp3",
+   "text": "첫 칸 왼쪽은 새하얀 배추 한 포기. 흰 백, 배추는 출 가족이라 출, 백출. 윗잎이 털썩 넘어가 옆 산악인 배낭을 덮쳐. 백출과 산약 둘이 첫 칸, 치료효과 가운데 보비야. 이 둘은 다음 장 토초에도 또 나와.",
+   "text_sha256": "1ba5ce7fd538f4852ec0997e34d07c2f018da83d5e5b81417570b3fb1d3718fe",
+   "audio_sha256": "352756b7a7a74689ef604967d9d7e66b08408bf59abfc1cc9ac7f406617033a8",
+   "image_sha256": "b10f114900dddfa099b462fada7931a2f362823c45af7b639ac518f6c5e54a47",
+   "source_commit": "b4b2d77eee749190718d16f1897be5b209d7a16e",
+   "station_sha256": "a19389b5019c548e7e176f9bcbdb32b6dbb7e71974d97e5327eedce3f43b48a6",
+   "original_wav_sha256": "8a0ddbb7cf64594518719464ec61c30bbaf9aac4ad3443d18be62ef3c4f201ad",
+   "original_wav_filename": "suchi-05.full.wav"
+  },
+  "suchi-05#2": {
+   "src": "audio/narration/suchi-05__s2__af0e29aa3a53.mp3",
+   "text": "배추 잎에 덮친 건 헬멧 쓴 산악인. 산악인, 산약. 피켈 대신 치켜든 게 마 뿌리지? 마가 곧 산약이야. 휘두른 마 뿌리 끝이 첫 칸막이를 넘어 옆 지퍼 손잡이에 걸리고, 지퍼가 쫙 열려. 여기까지가 첫 칸, 보비 둘.",
+   "text_sha256": "af0e29aa3a53f58e77f00d48f61631cc2a0055471f62a08fd8ae9b33a14989d6",
+   "audio_sha256": "d76d9153227c30609e1fc200169af19cf36d372fbd0d108fd9342aaf1b4d14cb",
+   "image_sha256": "b10f114900dddfa099b462fada7931a2f362823c45af7b639ac518f6c5e54a47",
+   "source_commit": "b4b2d77eee749190718d16f1897be5b209d7a16e",
+   "station_sha256": "6967af4c1815064ca5479c95e0707d176546f3b47c13005b8556a87e51e3a93d",
+   "original_wav_sha256": "8a0ddbb7cf64594518719464ec61c30bbaf9aac4ad3443d18be62ef3c4f201ad",
+   "original_wav_filename": "suchi-05.full.wav"
+  },
+  "suchi-05#3": {
+   "src": "audio/narration/suchi-05__s3__af6452d62850.mp3",
+   "text": "둘째 칸. 열린 지퍼 사이에서 실이 끝없이 엉켜 나와. 지퍼의 지, 실, 지실. 풀려 나온 실이 옆 배추 전사의 창날을 칭칭 감았지? 날이 무뎌져, 둘째 칸의 목적, 약성을 누그러뜨리는 약성완화야.",
+   "text_sha256": "af6452d62850b01112c636827cc312abc90fcd0481cc785b5d32b14869ffb546",
+   "audio_sha256": "fb92787562d80925ef5d7d1f08780df483cd828f57ff5ff947965b0c0a21cac0",
+   "image_sha256": "b10f114900dddfa099b462fada7931a2f362823c45af7b639ac518f6c5e54a47",
+   "source_commit": "b4b2d77eee749190718d16f1897be5b209d7a16e",
+   "station_sha256": "a9411db4bb50ea40f8cb343e84701c1d834a89e0c3da48421c9e35895e13ac49",
+   "original_wav_sha256": "8a0ddbb7cf64594518719464ec61c30bbaf9aac4ad3443d18be62ef3c4f201ad",
+   "original_wav_filename": "suchi-05.full.wav"
+  },
+  "suchi-05#4": {
+   "src": "audio/narration/suchi-05__s4__2c476eddf4b8.mp3",
+   "text": "짙은 초록 배추가 긴 창을 들었어, 창 든 배추, 창출. 첫 칸의 하얀 배추 백출과 색으로 갈라. 하얀 건 보비 칸, 초록 창은 약성완화 칸이야. 실 감긴 창을 앞으로 뻗자 창끝이 둘째 칸막이를 넘어 누에 머리를 콕.",
+   "text_sha256": "2c476eddf4b8dc273dea428c86fd65e39f430e175c4a53d97d06d4f1f6340186",
+   "audio_sha256": "3c016f8a765d2436af001846673d10878b6552db4cd1795c96d31a35951ed235",
+   "image_sha256": "b10f114900dddfa099b462fada7931a2f362823c45af7b639ac518f6c5e54a47",
+   "source_commit": "b4b2d77eee749190718d16f1897be5b209d7a16e",
+   "station_sha256": "a191fd43f49e757aca9bc0c509b417483319d7e7e2cfc33a7dfa76bad31edc03",
+   "original_wav_sha256": "8a0ddbb7cf64594518719464ec61c30bbaf9aac4ad3443d18be62ef3c4f201ad",
+   "original_wav_filename": "suchi-05.full.wav"
+  },
+  "suchi-05#5": {
+   "src": "audio/narration/suchi-05__s5__f36a8cc723a4.mp3",
+   "text": "마지막 칸엔 팔 뻗고 선 채 잠든 하얀 누에 강시. 흰 백, 강시의 강, 잠, 백강잠. 사전 글자는 조금 달라도 같은 약이야. 창에 머리를 콕 찔려도 코풍선 불며 계속 자. 머리 위 초록 악취 김 옆으로 하얀 김이 피어오르지? 초자에서 본 그 약속, 맛과 냄새를 바로잡는 교미교취야.",
+   "text_sha256": "f36a8cc723a4e8b2b0c4548aaa95becba7c9af3a4e9cc5fe8858bc0caa4cc3e2",
+   "audio_sha256": "01ea290858c2ece956cfdc2ad94a9f690f833f0bde177022448fe27d2c3e141c",
+   "image_sha256": "b10f114900dddfa099b462fada7931a2f362823c45af7b639ac518f6c5e54a47",
+   "source_commit": "b4b2d77eee749190718d16f1897be5b209d7a16e",
+   "station_sha256": "1ecbd899ac4ed538b551ee480b85e1f0dd6a1336897a3e4e0d738f4c5f16af0f",
+   "original_wav_sha256": "8a0ddbb7cf64594518719464ec61c30bbaf9aac4ad3443d18be62ef3c4f201ad",
+   "original_wav_filename": "suchi-05.full.wav"
+  },
+  "suchi-05#6": {
+   "src": "audio/narration/suchi-05__s6__09dcc103da21.mp3",
+   "text": "한 바퀴 다시. 하얀 배추 잎이 산악인을 덮치고, 산악인 마 뿌리가 칸막이 넘어 지퍼를 열고, 쏟아진 실이 창날을 감고, 창끝이 칸막이 넘어 누에를 콕, 누에 머리 위 악취 김 옆에 흰 김. 백산, 지창, 백, 칸이 곧 목적이야. 밀기울은 부초, 다음 장 쌀은 미초, 부뚜막 흙은 토초, 보료로 바꿔 내니 팬 바닥을 기억해. 백출, 산약은 다음 장 토초에서 순서를 뒤집어 또 나와.",
+   "text_sha256": "09dcc103da21f48255e4de9cd5a60c6bca1cc59cc9473e6515641ae1b591ce60",
+   "audio_sha256": "a0dc25544a69381f0c4ef1c43855a5430a87264779e9c72e9beb05aa12400df3",
+   "image_sha256": "b10f114900dddfa099b462fada7931a2f362823c45af7b639ac518f6c5e54a47",
+   "source_commit": "b4b2d77eee749190718d16f1897be5b209d7a16e",
+   "station_sha256": "0d6fb2cbc3cbc690dd2e8958ea57895d5f21e8a3e37635933c513b82dc0215ba",
+   "original_wav_sha256": "8a0ddbb7cf64594518719464ec61c30bbaf9aac4ad3443d18be62ef3c4f201ad",
+   "original_wav_filename": "suchi-05.full.wav"
   }
  }
 }

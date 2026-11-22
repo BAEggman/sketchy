@@ -8514,6 +8514,94 @@
    "station_sha256": "b90eca74caf2fc0ede96278ca9363cda21e3f1c322b739f9ea102fd5661a74e2",
    "original_wav_sha256": "f1fe4f6e3b17dd230cee406ea2c02de8cf533567ce033aea7f4e45fbbf9409bd",
    "original_wav_filename": "new-jq-20.full.wav"
+  },
+  "new-jq-21#0": {
+   "src": "audio/narration/new-jq-21__s0__413e7a868a9f.mp3",
+   "text": "탄산수 공장이다. 물이 진액, 그 속의 기포가 기다. 기계가 물을 만들고, 바람이 병을 밀어 나르고, 뚜껑이 막아 붙든다, 기가 진액을 생, 행, 섭한다. 물은 거품을 머금는다, 진액이 기를 싣는다. 병이 터지면 거품도 날아간다.",
+   "text_sha256": "413e7a868a9f0adf817428a16b438f33a8db90fd8299c59776c12a578d8ed325",
+   "audio_sha256": "7ff472bb928ebe04cee1d3aa728adeb91de6a4ace5f20b895168f460b8f76402",
+   "image_sha256": "93084766d54b7fe414c6340844b01471d2ae0be63f0e665a14c8dec5a49b75e9",
+   "source_commit": "c0e528dc774195f43fdaa0ce8c0c98efaf366121",
+   "station_sha256": "363a3e3c1da86200f0a254a1a29069a8dfc1d9d428313b0c8901511242f8abb1",
+   "original_wav_sha256": "65c551ec837fd261b4233ba77eb2f192c68528e4d85c8ed6e7bb461a9d8525d0",
+   "original_wav_filename": "new-jq-21.full.wav"
+  },
+  "new-jq-21#1": {
+   "src": "audio/narration/new-jq-21__s1__bcd208e12c10.mp3",
+   "text": "공장을 한 번에 짚는다. 기계가 물을 만든다, 기능생진. 선풍기 바람이 병을 나른다, 기능행진. 뚜껑과 꼭지가 막는다, 기능섭진. 수조의 물이 거품을 머금는다, 진능재기. 넷이다.",
+   "text_sha256": "bcd208e12c1098767fd0cc7b5f323302186d1f15b273b390aac0ee40bd424702",
+   "audio_sha256": "8553444cda66628e94c8a549a7c8460e7e3e46d47d978df0319b9558ceea7937",
+   "image_sha256": "93084766d54b7fe414c6340844b01471d2ae0be63f0e665a14c8dec5a49b75e9",
+   "source_commit": "c0e528dc774195f43fdaa0ce8c0c98efaf366121",
+   "station_sha256": "0ebf4f244df047230e3de09e0451467044d53fa9ba044816e47dd375f0ea82c5",
+   "original_wav_sha256": "65c551ec837fd261b4233ba77eb2f192c68528e4d85c8ed6e7bb461a9d8525d0",
+   "original_wav_filename": "new-jq-21.full.wav"
+  },
+  "new-jq-21#2": {
+   "src": "audio/narration/new-jq-21__s2__96f02434dfbf.mp3",
+   "text": "왼쪽, 농부 비가 곡식을 쏟고 요리사 위가 과일을 기계에 넣자 주둥이에서 맑은 물이 쏟아진다. 기능생진, 진액은 비위의 기에 기대어 음식에서 만들어진다. 기가 화해 물이 된다.",
+   "text_sha256": "96f02434dfbf86d8ff6190d7587b62295c6b7b0681a830b069e5686ae39cdfc5",
+   "audio_sha256": "67d74e88687cb514da38143e916893264fe51c9c1daec7be01e4323d9c3bc9f7",
+   "image_sha256": "93084766d54b7fe414c6340844b01471d2ae0be63f0e665a14c8dec5a49b75e9",
+   "source_commit": "c0e528dc774195f43fdaa0ce8c0c98efaf366121",
+   "station_sha256": "0116162f6caa9d6689b64c658b6cc4d90d58b812d4e2edd6ea9f7a8eef3fd466",
+   "original_wav_sha256": "65c551ec837fd261b4233ba77eb2f192c68528e4d85c8ed6e7bb461a9d8525d0",
+   "original_wav_filename": "new-jq-21.full.wav"
+  },
+  "new-jq-21#3": {
+   "src": "audio/narration/new-jq-21__s3__befa40622915.mp3",
+   "text": "뒤쪽 선풍기가 병 줄에 바람을 분다, 기능행진, 진액의 수포와 배설은 기의 추동과 기화에 기댄다. 앞쪽 선풍기는 고장 나 연기만 나고 바람이 없다, 기체. 그 발치에 물이 크게 고이고 병이 쓰러졌다, 수정. 그런데 코드는 그 물웅덩이에 빠졌다, 고인 물이 다시 바람을 막는다, 수정즉기조. 서로 원인이 된다.",
+   "text_sha256": "befa40622915c00fe61abb78ffdc9c54e653be2138e0172958c01acdf8cece8c",
+   "audio_sha256": "722649a17697da186050af139bb0a7e99658a982b554b8a1ef8f2a5ec55eb8fc",
+   "image_sha256": "93084766d54b7fe414c6340844b01471d2ae0be63f0e665a14c8dec5a49b75e9",
+   "source_commit": "c0e528dc774195f43fdaa0ce8c0c98efaf366121",
+   "station_sha256": "fa709127b8e9a0c2912a451f881f9103a6fbd44d5e6412f6e8dd06d3385fd87c",
+   "original_wav_sha256": "65c551ec837fd261b4233ba77eb2f192c68528e4d85c8ed6e7bb461a9d8525d0",
+   "original_wav_filename": "new-jq-21.full.wav"
+  },
+  "new-jq-21#4": {
+   "src": "audio/narration/new-jq-21__s4__2a4a210f001f.mp3",
+   "text": "오른쪽, 갈색 개, 위기가 병뚜껑을 누른다. 놓친 병에서는 물방울이 뿜어 나온다, 위기가 주리를 붙들지 못하면 땀이 많다, 위기허즉다한, 자한. 뒤쪽, 대머리 장사 신이 땀 흘리며 물탱크 꼭지를 쥐었지만 물이 뚝뚝 샌다, 신기가 하초를 붙들지 못하면 다뇨, 유뇨. 기능섭진, 기가 붙들어야 진액이 함부로 새지 않는다.",
+   "text_sha256": "2a4a210f001fa70e5773ebaa9c871b6e293e39c1619c9444ca50c2125f3c5d1b",
+   "audio_sha256": "3900ab88f8dc995f7560e6cba55e4acf732cbb8964a366a883f22096b56fdf23",
+   "image_sha256": "93084766d54b7fe414c6340844b01471d2ae0be63f0e665a14c8dec5a49b75e9",
+   "source_commit": "c0e528dc774195f43fdaa0ce8c0c98efaf366121",
+   "station_sha256": "f5b3f5b89870a05494ca2ba9d8940b6f34e1c6bdca63697677cc12a8eb32de33",
+   "original_wav_sha256": "65c551ec837fd261b4233ba77eb2f192c68528e4d85c8ed6e7bb461a9d8525d0",
+   "original_wav_filename": "new-jq-21.full.wav"
+  },
+  "new-jq-21#5": {
+   "src": "audio/narration/new-jq-21__s5__5bddd38f8934.mp3",
+   "text": "앞쪽 왼쪽 수조, 물속에 기포가 빽빽하다, 작은 풍선 모양 거품도 있다. 진능재기, 형체 있는 진액에 기대어야 형체 없이 움직이는 기가 힘을 쓴다. 진액이 기를 싣는 그릇이다. 그래서 진액이 빠지면 기도 따라 빠진다.",
+   "text_sha256": "5bddd38f89342a1def3d710c255001aaa02b277454438c80c1711756a691d307",
+   "audio_sha256": "9e590b1fe9fdddcac5cf924613d075e7e6681173e416f495264b078105bade55",
+   "image_sha256": "93084766d54b7fe414c6340844b01471d2ae0be63f0e665a14c8dec5a49b75e9",
+   "source_commit": "c0e528dc774195f43fdaa0ce8c0c98efaf366121",
+   "station_sha256": "06f992fa25ebede1add2cb6300fb30ae965b67472a502365cad3c682ea6f9ee1",
+   "original_wav_sha256": "65c551ec837fd261b4233ba77eb2f192c68528e4d85c8ed6e7bb461a9d8525d0",
+   "original_wav_filename": "new-jq-21.full.wav"
+  },
+  "new-jq-21#6": {
+   "src": "audio/narration/new-jq-21__s6__4e15037d00b1.mp3",
+   "text": "앞쪽 오른쪽, 벌건 화구 위 병에서 물이 사방으로 튀어 나간다, 고열이다. 물과 함께 거품도 날아간다. 고열, 큰 땀, 심한 구토, 설사로 진액이 한꺼번에 빠지면 기도 기댈 곳을 잃고 함께 빠져나간다, 기수진탈, 진탈기탈, 망양. 상한론, 땀을 거듭 내면 양을 잃는다.",
+   "text_sha256": "4e15037d00b1f701f935a38ccc643db321c28c90220fbbb5ebfca199691a328d",
+   "audio_sha256": "6d8afc54687a2b3335c5ebaff9c0d609814453722e297f7f734a3684b517d3ac",
+   "image_sha256": "93084766d54b7fe414c6340844b01471d2ae0be63f0e665a14c8dec5a49b75e9",
+   "source_commit": "c0e528dc774195f43fdaa0ce8c0c98efaf366121",
+   "station_sha256": "02d2c4052818c0f82d90cb2a33f15464e15d1db80929f3e8ac31b1d1bff3d3d6",
+   "original_wav_sha256": "65c551ec837fd261b4233ba77eb2f192c68528e4d85c8ed6e7bb461a9d8525d0",
+   "original_wav_filename": "new-jq-21.full.wav"
+  },
+  "new-jq-21#7": {
+   "src": "audio/narration/new-jq-21__s7__245d42373c13.mp3",
+   "text": "다시 본다. 농부와 요리사의 기계, 기능생진. 바람으로 나르는 병, 멈춘 선풍기의 물웅덩이, 기능행진, 기체는 수정, 수정즉기조. 뚜껑 놓친 병과 새는 꼭지, 기능섭진, 위기허 다한, 신기허 유뇨. 거품 수조, 진능재기. 화구 위에서 물과 거품이 튀어 나가는 병, 기수진탈, 망양.",
+   "text_sha256": "245d42373c13c4a0fad283b911fbdd5e3a71a4521681a9d881c541e292890ee6",
+   "audio_sha256": "b3d845024327d99a9f476e89627d7341df28fb89ccdc9324a797dc541f47723d",
+   "image_sha256": "93084766d54b7fe414c6340844b01471d2ae0be63f0e665a14c8dec5a49b75e9",
+   "source_commit": "c0e528dc774195f43fdaa0ce8c0c98efaf366121",
+   "station_sha256": "d48c1771fb1dc7e81cc0c0433a91cb72a501b8edd233a3e2312b604cf11da611",
+   "original_wav_sha256": "65c551ec837fd261b4233ba77eb2f192c68528e4d85c8ed6e7bb461a9d8525d0",
+   "original_wav_filename": "new-jq-21.full.wav"
   }
  }
 }

@@ -10956,6 +10956,94 @@
    "station_sha256": "95a26bcd41f130e8fcb8baa9295ada34f18087b2c3c1ab5a516cc34808a781e4",
    "original_wav_sha256": "31e1d6884fa2d8b9755c71b3939addb53710165579c69da46993b03fea3e94ce",
    "original_wav_filename": "new-gr-31.full.wav"
+  },
+  "new-gr-32#0": {
+   "src": "audio/narration/new-gr-32__s0__d09699da5fd1.mp3",
+   "text": "경맥별 경혈 수 ② 족육경과 총합 361, 위 45, 비 21, 방광 67, 신 27, 담 44, 간 14 과다. 장소는 물류센터 하지 계량대, 족육경 인물이 숫자 물건 저울 위에 선 계량소. 정본 경락 인물과 공용 부호, 뜻, 소리 고리를 따라 차례로 읽는다.",
+   "text_sha256": "d09699da5fd145de2f1fc01b122bc82ecb912beb28e8cafb1a0dc478cd3cafa4",
+   "audio_sha256": "2d6ff46c6e114b60b398951e5086eceb4093a5ae6ec5d26151a05966d4b59dec",
+   "image_sha256": "fd4fcd8c2f7ad9808010c58cca4e8f96f6e93dbed535f1eeca2ce3ba6646b8c6",
+   "source_commit": "1ddbaff68dac3918f1ccd94032d7c1edc48612ec",
+   "station_sha256": "3700141757834320d83616abf3e6dad81bb4e7b4c0839c2552e7f049718f9c0e",
+   "original_wav_sha256": "19a2c4d21c7b63e7dae3cc30df6ec025cd079f579ce2eec4159834227c309964",
+   "original_wav_filename": "new-gr-32.full.wav"
+  },
+  "new-gr-32#1": {
+   "src": "audio/narration/new-gr-32__s1__412b23991e8e.mp3",
+   "text": "족양명위경 계량대다. 정본 인물이 아래 붉은 사과, 4, 궤짝 위에 얹힌 주황 오징어 5과 맞닿아 서 있다. 족양명위경 = 45혈, 사과 받침 위 오징어 = 45, 45세부터 위가 약해짐.",
+   "text_sha256": "412b23991e8eeff91d171acd99d14735e00a097a3b3d2b6d918935c25de88a4d",
+   "audio_sha256": "9d434531c2f4b7fc8589f6032c069098dbcef7f5d0c31fea919a6ded89c57726",
+   "image_sha256": "fd4fcd8c2f7ad9808010c58cca4e8f96f6e93dbed535f1eeca2ce3ba6646b8c6",
+   "source_commit": "1ddbaff68dac3918f1ccd94032d7c1edc48612ec",
+   "station_sha256": "80e496c8e7dc248785e952713a52c3e55852ffe3d287ef910c02e7b9fe4e1bba",
+   "original_wav_sha256": "19a2c4d21c7b63e7dae3cc30df6ec025cd079f579ce2eec4159834227c309964",
+   "original_wav_filename": "new-gr-32.full.wav"
+  },
+  "new-gr-32#2": {
+   "src": "audio/narration/new-gr-32__s2__e20e71404338.mp3",
+   "text": "족태음비경 계량대다. 정본 인물이 아래 붉은 이층 버스, 2, 지붕 위에 세운 붉은 일렉기타 1과 맞닿아 서 있다. 족태음비경 = 21혈, 이층 버스 위 일렉기타 = 21, 블랙잭 21.",
+   "text_sha256": "e20e714043388567bc31779677d40a9bb519d657f6c66106b5485c6c70806a73",
+   "audio_sha256": "720aef1e1f7690c5446683b886f41b8c3ddd9a2b625eb4d1b95683ec4d57d57a",
+   "image_sha256": "fd4fcd8c2f7ad9808010c58cca4e8f96f6e93dbed535f1eeca2ce3ba6646b8c6",
+   "source_commit": "1ddbaff68dac3918f1ccd94032d7c1edc48612ec",
+   "station_sha256": "ee83e8997b358075e7d925093869d37c8466a87b2087d6995a73306078815679",
+   "original_wav_sha256": "19a2c4d21c7b63e7dae3cc30df6ec025cd079f579ce2eec4159834227c309964",
+   "original_wav_filename": "new-gr-32.full.wav"
+  },
+  "new-gr-32#3": {
+   "src": "audio/narration/new-gr-32__s3__2e7e7df5a216.mp3",
+   "text": "족태양방광경 계량대다. 정본 인물이 아래 은색 육각 너트, 6, 받침 위에 올라선 부채 꼬리 칠면조 7과 맞닿아 서 있다. 족태양방광경 = 67혈, 육각 너트 위 칠면조 = 67, 최다 혈 수 경맥.",
+   "text_sha256": "2e7e7df5a2164a5963c585543880409f9b27b9dc0d4aed4bf572de477dcb90f1",
+   "audio_sha256": "212bf862048f39de8ea9268c281364757174e3dd6125509046cf4c55d294267e",
+   "image_sha256": "fd4fcd8c2f7ad9808010c58cca4e8f96f6e93dbed535f1eeca2ce3ba6646b8c6",
+   "source_commit": "1ddbaff68dac3918f1ccd94032d7c1edc48612ec",
+   "station_sha256": "71ba7a4cb9d8f79f5bc16157318c92d834b7ee77a4eb2be03bd21afa3c8e629c",
+   "original_wav_sha256": "19a2c4d21c7b63e7dae3cc30df6ec025cd079f579ce2eec4159834227c309964",
+   "original_wav_filename": "new-gr-32.full.wav"
+  },
+  "new-gr-32#4": {
+   "src": "audio/narration/new-gr-32__s4__f760c7f714d9.mp3",
+   "text": "족소음신경 계량대다. 정본 인물이 아래 붉은 이층 버스, 2, 지붕 위에 올라선 칠면조 7과 맞닿아 서 있다. 족소음신경 = 27혈, 이층 버스 위 칠면조 = 27, 3의 3승.",
+   "text_sha256": "f760c7f714d951f1e5e0c54197c626c72f9fa017ed7be1be0704b3ca6125bcff",
+   "audio_sha256": "fb9369468d1988c395e17835eff5d7a39143e5e8bcc986918808a271a1364d5b",
+   "image_sha256": "fd4fcd8c2f7ad9808010c58cca4e8f96f6e93dbed535f1eeca2ce3ba6646b8c6",
+   "source_commit": "1ddbaff68dac3918f1ccd94032d7c1edc48612ec",
+   "station_sha256": "e4bb8769f2f71d017d61a6a6b16343ddef4a3e3a0f0e045f8cbbe8366b5b914e",
+   "original_wav_sha256": "19a2c4d21c7b63e7dae3cc30df6ec025cd079f579ce2eec4159834227c309964",
+   "original_wav_filename": "new-gr-32.full.wav"
+  },
+  "new-gr-32#5": {
+   "src": "audio/narration/new-gr-32__s5__401dba45c275.mp3",
+   "text": "족소양담경 계량대다. 정본 인물이 아래 붉은 사과, 4, 위에 맞닿아 얹힌 붉은 사과 4과 맞닿아 서 있다. 족소양담경 = 44혈, 사과 받침 위 사과 = 44, 중정지관.",
+   "text_sha256": "401dba45c275806ec67c7e78a7961b1928f288dca00b8b4b7620230fca24f42e",
+   "audio_sha256": "57035ed9f498525203053f0334a0fcf0d731acd8496ef149bb0c71e41be516fb",
+   "image_sha256": "fd4fcd8c2f7ad9808010c58cca4e8f96f6e93dbed535f1eeca2ce3ba6646b8c6",
+   "source_commit": "1ddbaff68dac3918f1ccd94032d7c1edc48612ec",
+   "station_sha256": "440130b40b7f69ba85ab3b5ad9a72216c2efee8163b2b004421af1b58a5de910",
+   "original_wav_sha256": "19a2c4d21c7b63e7dae3cc30df6ec025cd079f579ce2eec4159834227c309964",
+   "original_wav_filename": "new-gr-32.full.wav"
+  },
+  "new-gr-32#6": {
+   "src": "audio/narration/new-gr-32__s6__b4c51d064296.mp3",
+   "text": "족궐음간경 계량대다. 정본 인물이 아래 붉은 일렉기타, 1, 위에 얹힌 붉은 사과 4과 맞닿아 서 있다. 족궐음간경 = 14혈, 일렉기타 위 사과 = 14, 12경 합 309 + 임 24 + 독 28 = 361혈.",
+   "text_sha256": "b4c51d064296ff1df59db92829073fe2ed37cc8dd1f94a680719bda5e9358afc",
+   "audio_sha256": "91c060a41d81d0a5265e90a50f89b7354d368a52b40e3a9ef2bfb91b1da6fafb",
+   "image_sha256": "fd4fcd8c2f7ad9808010c58cca4e8f96f6e93dbed535f1eeca2ce3ba6646b8c6",
+   "source_commit": "1ddbaff68dac3918f1ccd94032d7c1edc48612ec",
+   "station_sha256": "08024c4dd2162896accd3feee9fee201a2d8760987a92ae22e722d95e2300cb8",
+   "original_wav_sha256": "19a2c4d21c7b63e7dae3cc30df6ec025cd079f579ce2eec4159834227c309964",
+   "original_wav_filename": "new-gr-32.full.wav"
+  },
+  "new-gr-32#7": {
+   "src": "audio/narration/new-gr-32__s7__d2383ed7fe82.mp3",
+   "text": "처음부터 한 바퀴 되짚는다. 족양명위경 = 45혈, 사과 받침 위 오징어 = 45, 45세부터 위가 약해짐, / 족태음비경 = 21혈, 이층 버스 위 일렉기타 = 21, 블랙잭 21, / 족태양방광경 = 67혈, 육각 너트 위 칠면조 = 67, 최다 혈 수 경맥, / 족소음신경 = 27혈, 이층 버스 위 칠면조 = 27, 3의 3승, / 족소양담경 = 44혈, 사과 받침 위 사과 = 44, 중정지관, / 족궐음간경 = 14혈, 일렉기타 위 사과 = 14, 12경 합 309 + 임 24 + 독 28 = 361",
+   "text_sha256": "d2383ed7fe823a0fe211dd2351966b43c4c2206dd033ea8b0000a75d1902fa79",
+   "audio_sha256": "d31218879078bbf639935dd3f5db4f2f10bcc57cb2cb11195c64aca756fe58e7",
+   "image_sha256": "fd4fcd8c2f7ad9808010c58cca4e8f96f6e93dbed535f1eeca2ce3ba6646b8c6",
+   "source_commit": "1ddbaff68dac3918f1ccd94032d7c1edc48612ec",
+   "station_sha256": "8a9bbc79642cec60e1b7fb5cb9c2a840f4ea53cf17d2efad488453feddfc92b2",
+   "original_wav_sha256": "19a2c4d21c7b63e7dae3cc30df6ec025cd079f579ce2eec4159834227c309964",
+   "original_wav_filename": "new-gr-32.full.wav"
   }
  }
 }

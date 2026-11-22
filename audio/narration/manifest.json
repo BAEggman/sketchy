@@ -2926,6 +2926,116 @@
    "station_sha256": "16a367bcbeb4e2582979506beb13c53cb5e4690d01c92470ad28e4187324f849",
    "original_wav_sha256": "0be00c04f7699648c0e1d27d1fac8f80b7beb420bad1b1ea84e7d7a441a0098b",
    "original_wav_filename": "hist-14.full.wav"
+  },
+  "qiqing-01#0": {
+   "src": "audio/narration/qiqing-01__s0__049b141c389a.mp3",
+   "text": "여기는 칠정 체육관이야. 앞으로 파란 매트 위에서 두 약이 만나 서로 힘을 보태거나 빼거나 독을 터뜨리는데, 첫 칸엔 짝이 없어. 매트 한가운데를 높고 넓은 칸막이 벽이 갈라서 일인 칸이 둘, 칸마다 혼자 들어가는 나무 욕조, 독탕이 하나씩. 한 가지 약으로만 치료하는 것, 칠정의 첫째 단행이야. 그래서 이 그림엔 노란 빛도 보라 구름도 없어. 욕조 안을 봐, 독삼 독부.",
+   "text_sha256": "049b141c389a0af6b72ace32720bb43977f47fb0e3503c90d419fe16b36d5074",
+   "audio_sha256": "928cd1354060f660c8d7b54c9134e2e469251f8c85decc465d039b21c3277c94",
+   "image_sha256": "a653554bb799f065968020ea337a91e9e3ef2081c18bd311fb375dc164fbf35c",
+   "source_commit": "b8f55c8f70de790e219c20491f81bb3576c192cf",
+   "station_sha256": "ceec45d6ee09cb890f7fe97bddfd73538d9aa407dc727fbee9fb8875e8f6237e",
+   "original_wav_sha256": "34140b391598c7a1b02747b7f6a7f1b542dcb795e2e29a84c8b9d1267d0844ed",
+   "original_wav_filename": "qiqing-01.full.wav"
+  },
+  "qiqing-01#1": {
+   "src": "audio/narration/qiqing-01__s1__0d0bd49c5347.mp3",
+   "text": "왼쪽 칸엔 왕관 쓴 인삼 뿌리 인형. 인삼 그대로 인삼이야, 뿌리 인형은 삼 가족이고. 혼자 욕조에 몸을 담가 우러나서 물이 옅은 금빛이 됐지? 인삼 하나만 쓴 독삼탕이야. 교재는 이 처방 이름에 풀 초 머리가 붙은 삼 자를 써. 아령도 혼자 들어, 거드는 짝이 없어. 이 인형은 다음 장 상수에서 감초와 짝이 되고, 뒤로 상오, 상외 괄호, 십팔반, 십구외에도 나와. 혼자인 건 여기 한 번뿐이야.",
+   "text_sha256": "0d0bd49c53475d54215687bdf3f64910e9d8ee7ef072292815a2776722edb0c9",
+   "audio_sha256": "dfa25cfbef7b3d6773af55eeaf66758318306185d88bb7cfd8514c5e46f35c35",
+   "image_sha256": "a653554bb799f065968020ea337a91e9e3ef2081c18bd311fb375dc164fbf35c",
+   "source_commit": "b8f55c8f70de790e219c20491f81bb3576c192cf",
+   "station_sha256": "68adc5c0c4e4cf00bf734215dc40b53f6bfe76b66f05c93fd8021dcd2cf9e7c8",
+   "original_wav_sha256": "34140b391598c7a1b02747b7f6a7f1b542dcb795e2e29a84c8b9d1267d0844ed",
+   "original_wav_filename": "qiqing-01.full.wav"
+  },
+  "qiqing-01#2": {
+   "src": "audio/narration/qiqing-01__s2__3c01ae033811.mp3",
+   "text": "칸막이 너머 오른쪽 칸엔 머리카락이 활활 타는 턱시도 도련님. 부자, 부자야. 이쪽도 혼자 욕조에 앉아 아령을 혼자 들어, 부자 하나만 쓴 독부탕. 칸막이 벽이 높아서 둘은 서로 보이지도 닿지도 않아. 향수 뿌리는 실크햇 부자는 향부자고, 불꽃 머리 도련님이 부자야. 이 도련님은 뒤 상쇄 매트에서 방풍과 다시 만나.",
+   "text_sha256": "3c01ae03381155bfddb9c50739886d84a16b566c3cfef79aa690a341e242b624",
+   "audio_sha256": "593edb844a394bb5130e0c9f88b27af494c243008e34117765bf592ab7aa57a2",
+   "image_sha256": "a653554bb799f065968020ea337a91e9e3ef2081c18bd311fb375dc164fbf35c",
+   "source_commit": "b8f55c8f70de790e219c20491f81bb3576c192cf",
+   "station_sha256": "9ea5494336b7da9ff5f35cb2652aa32ee88456ed52114eeb8b512b8c313a61da",
+   "original_wav_sha256": "34140b391598c7a1b02747b7f6a7f1b542dcb795e2e29a84c8b9d1267d0844ed",
+   "original_wav_filename": "qiqing-01.full.wav"
+  },
+  "qiqing-01#3": {
+   "src": "audio/narration/qiqing-01__s3__1187b9faea3f.mp3",
+   "text": "한 번 더. 칸막이로 갈린 두 칸, 왼쪽 욕조엔 인삼 인형 혼자, 독삼탕, 오른쪽 욕조엔 불꽃 머리 부자 혼자, 독부탕. 독삼 독부. 빛도 구름도 없지? 교재 정리 줄의 넷, 약성이 강해지고 약해지고, 독성이 약해지고 강해지는 것은 상수부터 상반까지만 들어. 단행은 거기 없어. 다음 매트부터 노란 빛이 켜져, 둘이 함께 감싸이면 상수야.",
+   "text_sha256": "1187b9faea3feb72ac8f62353f48fcdacd87f13cf64a0ba82d335e9105f09981",
+   "audio_sha256": "9c302e4ad8d6d4710fd689e6285591b9602d9d0bc88db5cbbc253afc320264c4",
+   "image_sha256": "a653554bb799f065968020ea337a91e9e3ef2081c18bd311fb375dc164fbf35c",
+   "source_commit": "b8f55c8f70de790e219c20491f81bb3576c192cf",
+   "station_sha256": "23ff3109a26f22cb7fe553483de1f00687796198eadc6523905ad1923f5a31fb",
+   "original_wav_sha256": "34140b391598c7a1b02747b7f6a7f1b542dcb795e2e29a84c8b9d1267d0844ed",
+   "original_wav_filename": "qiqing-01.full.wav"
+  },
+  "qiqing-02#0": {
+   "src": "audio/narration/qiqing-02__s0__c5c0b6397e8f.mp3",
+   "text": "다시 칠정 체육관. 이번 매트엔 둘씩 섰어. 둘이 같은 높이로 나란히 붙어 있고, 노란 빛 하나가 둘을 한꺼번에 감싸지? 그림에서는 이게 상수 표지야. 효능이 비슷한 두 약을 함께 써서 협동작용으로 공효가 커지는 것, 둘 다 주인 군신 관계. 노란 빛은 약성이 강해진다는 뜻인데, 교재 정리 줄에서 약성이 강해지는 건 상수와 상사 둘이야. 상수 여섯 짝 중 앞의 둘, 석지 시황.",
+   "text_sha256": "c5c0b6397e8f6661e93c64336437aae853710f1c2e47cd40f7ea137e8cd8e1c1",
+   "audio_sha256": "7eb4d1faf6e8de90baac6602ad63f07f381b46386099497f9d1b8ee88d7aa143",
+   "image_sha256": "f79cdf44d075c6fd41a5f707117351dc8f34bf4133e0cd1becacee12905e35b2",
+   "source_commit": "b8f55c8f70de790e219c20491f81bb3576c192cf",
+   "station_sha256": "a9919960475e00f9e941aca6112c0d6a0405a592ec23b333a24350da0e23ee55",
+   "original_wav_sha256": "7b09e2b63d8fc4be4e72845fe356b707b88112aa1dbd4d34aba1b2ea5421b714",
+   "original_wav_filename": "qiqing-02.full.wav"
+  },
+  "qiqing-02#1": {
+   "src": "audio/narration/qiqing-02__s1__37c0681b91c4.mp3",
+   "text": "왼쪽 매트의 하얀 석고 흉상이 큰 유리컵으로 물을 벌컥벌컥 들이켜, 물방울이 튀고. 석고 그대로 석고야. 들이켜는 컵이 옆 모자에 닿아 있지? 혼자가 아니라 짝이랑 붙어 있어.",
+   "text_sha256": "37c0681b91c46be6c29aa605771f40a62526da3b04331e8d4dc8f7af3cf65f30",
+   "audio_sha256": "2b806b08cf6d636ee408deb1cbad338194e1591cad3895b4e0ff3d9d9805772d",
+   "image_sha256": "f79cdf44d075c6fd41a5f707117351dc8f34bf4133e0cd1becacee12905e35b2",
+   "source_commit": "b8f55c8f70de790e219c20491f81bb3576c192cf",
+   "station_sha256": "a51a3b11fc8a9dae07c8ff89587e54f7f226a941499b10644d0334848632458e",
+   "original_wav_sha256": "7b09e2b63d8fc4be4e72845fe356b707b88112aa1dbd4d34aba1b2ea5421b714",
+   "original_wav_filename": "qiqing-02.full.wav"
+  },
+  "qiqing-02#2": {
+   "src": "audio/narration/qiqing-02__s2__2c15ffa99680.mp3",
+   "text": "그 옆엔 꼭대기에 분홍 지우개가 달린 모자. 지우개의 지, 모자의 모, 지모. 모자를 석고상 머리에 씌우지 않고 옆에 나란히 둔 게 중요해. 그림에서 위아래로 얹으면 주종인 상사가 되거든. 석고와 지모, 둘 다 주야. 이 모자는 다음 장에서 황백지단과 또 짝이 돼. 포제 소금물 작업대에서 황백과 함께 염자했던 그 모자야.",
+   "text_sha256": "2c15ffa99680d169a21987bc7792aea7d99716fa4951ce5fbbfd34af1a9079c7",
+   "audio_sha256": "c4b5e3af7931c6dc16c78a02e76c15ffe78766a6f8d1c84d0f7f7599b4d48735",
+   "image_sha256": "f79cdf44d075c6fd41a5f707117351dc8f34bf4133e0cd1becacee12905e35b2",
+   "source_commit": "b8f55c8f70de790e219c20491f81bb3576c192cf",
+   "station_sha256": "952fecb897fcf131a96c44b39aa35db5fb1cdcdc491653b381d9b214d7596f20",
+   "original_wav_sha256": "7b09e2b63d8fc4be4e72845fe356b707b88112aa1dbd4d34aba1b2ea5421b714",
+   "original_wav_filename": "qiqing-02.full.wav"
+  },
+  "qiqing-02#3": {
+   "src": "audio/narration/qiqing-02__s3__9a59860887a5.mp3",
+   "text": "오른쪽 매트엔 몸통이 자명종인 호랑이. 시계의 시, 호랑이의 호, 시호. 포제 식초 작업대에서 팬을 휘젓던 바로 그 시계 호랑이야. 여기선 바로 옆 황금괴에 몸을 딱 붙이고 웃어.",
+   "text_sha256": "9a59860887a5cdb82e26884a449f6186ee1fc3db14f88b2d2706ba008b604faa",
+   "audio_sha256": "fa1fe3c7dbb7d63303eaf96d627106e0fa83d116be5f4213708aeb02a47d846e",
+   "image_sha256": "f79cdf44d075c6fd41a5f707117351dc8f34bf4133e0cd1becacee12905e35b2",
+   "source_commit": "b8f55c8f70de790e219c20491f81bb3576c192cf",
+   "station_sha256": "d320154071b4fa71b5a55ef50910ecd7c0f5ca690d6ce6d72ca3a294538d92e6",
+   "original_wav_sha256": "7b09e2b63d8fc4be4e72845fe356b707b88112aa1dbd4d34aba1b2ea5421b714",
+   "original_wav_filename": "qiqing-02.full.wav"
+  },
+  "qiqing-02#4": {
+   "src": "audio/narration/qiqing-02__s4__c34d139abb4c.mp3",
+   "text": "호랑이 옆엔 반짝이는 황금괴. 황금, 황금이야. 시계 옆에 금, 시간은 금, 그래서 시호와 황금이 붙어 다녀. 둘이 같은 높이로 나란히, 노란 빛 하나에 함께 싸였으니 상수. 그런데 이 황금괴는 상사 장에 또 나와. 거기선 대황 황소가 머리 위로 받쳐 들고, 빛도 황금괴 혼자 받아, 황금이 주, 대황이 종. 같은 황금이 상수에도 상사에도 있어서 문제가 바꿔 내.",
+   "text_sha256": "c34d139abb4ce90eea7a99e3922c490dbe9cbe7557ca54bf23dd0878fc627a41",
+   "audio_sha256": "89976b99f4f369e6c58232fff938f71d30d54e853851b1b46b96e31c33887492",
+   "image_sha256": "f79cdf44d075c6fd41a5f707117351dc8f34bf4133e0cd1becacee12905e35b2",
+   "source_commit": "b8f55c8f70de790e219c20491f81bb3576c192cf",
+   "station_sha256": "cb45c7c006973071b620105b0e5265e4122773fd854bb7bcbf8ee8c7b7831f1f",
+   "original_wav_sha256": "7b09e2b63d8fc4be4e72845fe356b707b88112aa1dbd4d34aba1b2ea5421b714",
+   "original_wav_filename": "qiqing-02.full.wav"
+  },
+  "qiqing-02#5": {
+   "src": "audio/narration/qiqing-02__s5__64d1c9dea6c6.mp3",
+   "text": "한 바퀴. 물 들이켜는 석고상 옆에 지우개 모자, 노란 빛 하나, 석고와 지모. 시계 호랑이 옆에 황금괴, 노란 빛 하나, 시호와 황금. 석지 시황. 나란히 서서 빛을 나눠 가지면 둘 다 주인 상수야. 지우개 모자는 다음 장에서 한 번 더 나와, 이번엔 지단 옆이야.",
+   "text_sha256": "64d1c9dea6c662f7a4f65a67d50017e378c502f5513076b27af3153ab5f6c973",
+   "audio_sha256": "6231a2b73f5f7f2d4e079fe5aa01c7dd90285a06f0b75fe775219d70594901b6",
+   "image_sha256": "f79cdf44d075c6fd41a5f707117351dc8f34bf4133e0cd1becacee12905e35b2",
+   "source_commit": "b8f55c8f70de790e219c20491f81bb3576c192cf",
+   "station_sha256": "5d42610b15197eda10bbc9ca41f070eab9bfd5bc9c337339f98d896a78acf461",
+   "original_wav_sha256": "7b09e2b63d8fc4be4e72845fe356b707b88112aa1dbd4d34aba1b2ea5421b714",
+   "original_wav_filename": "qiqing-02.full.wav"
   }
  }
 }

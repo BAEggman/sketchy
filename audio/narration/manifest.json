@@ -4169,6 +4169,94 @@
    "station_sha256": "affdc245a1d7fd9991173ace22176dcca1447ee9951a3c8c888ccec15f884b9c",
    "original_wav_sha256": "f9a12ed0860d26c38b90d17c4a264654ce8b0a60613346432850051d257d7f8c",
    "original_wav_filename": "suchi-08.full.wav"
+  },
+  "suchi-09#0": {
+   "src": "audio/narration/suchi-09__s0__42f7d1cede12.mp3",
+   "text": "이번 작업대는 술이야. 왼쪽 끝 라벨 없는 초록 술병이 기울어져 긴 팬에 옅은 금빛 술을 부어. 팬 밑엔 식초 작업대와 같은 약한 파란 불, 액체 보료와 함께 볶는 자법이라 불은 약하게, 시간은 조금 길게. 그리고 왼쪽에서 술 김이 기둥처럼 위로 솟지? 술로 볶은 주자의 첫 목적이 첫째 상행, 약 기운을 위로 올리는 거야. 이 팬 위에 다섯이 섰어, 황대, 당천, 오.",
+   "text_sha256": "42f7d1cede12e68fab37b3f4c584cd1ac608570f6815b61f227d5e65315ad4e9",
+   "audio_sha256": "2bacf304ff052bdae22bc27c8718fb1397cb02f7c4fc56e642a4919d6b6d8398",
+   "image_sha256": "3a4666a848ef71b21212cee5a9d0ac46fb2179da53eb1cd748fa3ac2dad3e157",
+   "source_commit": "70311049fa78aa8716393065cdb7707e6b375a40",
+   "station_sha256": "7b713aa092948df170915e419f6301f7ee575a5809b5c88149252c3e4553b988",
+   "original_wav_sha256": "501a16d7d5ba18f369d53db40c7c5e365d8c91c4bf575bf7f37159613b440654",
+   "original_wav_filename": "suchi-09.full.wav"
+  },
+  "suchi-09#1": {
+   "src": "audio/narration/suchi-09__s1__465c32c58177.mp3",
+   "text": "술 김 기둥에 연잎째 둥실 떠오른 노란 연꽃. 쓴맛에 눈을 질끈 감고 혀를 쏙 내밀었어. 노랑의 황, 연꽃의 련, 황련. 술 김을 타고 위로 올라갔지? 주자 첫째 상행, 교재 괄호로는 승제하고 상초의 사열을 맑힌다는 뜻이야. 황련은 생강즙으로 볶는 강자에도 또 나와, 그때는 화위지구 · 거담지해 쪽. 연잎 옆엔 같이 떠오른 왕좌가 있어.",
+   "text_sha256": "465c32c5817763de0402666ce3c1ffcb29939e0109ae8925e5f502288fcebe4b",
+   "audio_sha256": "51d15e8ae9b8faedb8dab7ed388a5c6758727d55e5702ced9bf6e6278b0d58be",
+   "image_sha256": "3a4666a848ef71b21212cee5a9d0ac46fb2179da53eb1cd748fa3ac2dad3e157",
+   "source_commit": "70311049fa78aa8716393065cdb7707e6b375a40",
+   "station_sha256": "a9b687679de6523f36f1abb62d3529007c331316676e9ccaf9ea686152c6bb6e",
+   "original_wav_sha256": "501a16d7d5ba18f369d53db40c7c5e365d8c91c4bf575bf7f37159613b440654",
+   "original_wav_filename": "suchi-09.full.wav"
+  },
+  "suchi-09#2": {
+   "src": "audio/narration/suchi-09__s2__f4f6b40241d9.mp3",
+   "text": "그 옆엔 왕좌에 버티고 앉은 거대한 누런 황소. 왕관은 없어도 대왕 노릇이야, 대왕의 대, 황소의 황, 대황. 왕좌째 술 김에 실려 공중에 떴지? 황련하고 대황, 위로 뜬 둘이 주자 첫째 상행이야. 대황은 찌는 증법에도 또 나와, 거기선 부작용을 줄이려고 쪄. 늘어진 꼬리가 아래로 축 처져서 당나귀 부인의 부채를 철썩 쳐.",
+   "text_sha256": "f4f6b40241d9afbf6e9058f2249c1ac082840ecc83626d04f5b93822485a243d",
+   "audio_sha256": "7f661c930574175c64fec9f2faea0620e26d45cb9c09b8954a83fe3a001c97bb",
+   "image_sha256": "3a4666a848ef71b21212cee5a9d0ac46fb2179da53eb1cd748fa3ac2dad3e157",
+   "source_commit": "70311049fa78aa8716393065cdb7707e6b375a40",
+   "station_sha256": "7f631f58b9175b974b4e0c367ba04d9c178e0bf049e8f4b138dc559b41734bfe",
+   "original_wav_sha256": "501a16d7d5ba18f369d53db40c7c5e365d8c91c4bf575bf7f37159613b440654",
+   "original_wav_filename": "suchi-09.full.wav"
+  },
+  "suchi-09#3": {
+   "src": "audio/narration/suchi-09__s3__53967ead2347.mp3",
+   "text": "다시 팬으로 내려오면 진주 목걸이에 드레스 차려입은 당나귀 부인. 당나귀의 당, 귀부인의 귀, 당귀. 공중에 뜬 둘과 달리 드레스 자락이 술에 잠긴 채 팬 속에 서 있지? 여기부터는 상행이 아니라 둘째 활혈통락이야. 황소 꼬리에 부채를 맞고 휘청하면서, 그 부채가 옆의 천사 궁수를 덮쳐.",
+   "text_sha256": "53967ead23471feac5cc4784045484900b7198cd0bc12c2919faa6bf0f1f3b82",
+   "audio_sha256": "ebe4776f3e05e851a7d165e34fae31ed550d17dbb9332c692e352fb15218c9c9",
+   "image_sha256": "3a4666a848ef71b21212cee5a9d0ac46fb2179da53eb1cd748fa3ac2dad3e157",
+   "source_commit": "70311049fa78aa8716393065cdb7707e6b375a40",
+   "station_sha256": "e717988538e48115ca08467890edba102f36ea9097bfc9e450fed2ee695cdffd",
+   "original_wav_sha256": "501a16d7d5ba18f369d53db40c7c5e365d8c91c4bf575bf7f37159613b440654",
+   "original_wav_filename": "suchi-09.full.wav"
+  },
+  "suchi-09#4": {
+   "src": "audio/narration/suchi-09__s4__3b4a83e00541.mp3",
+   "text": "오른쪽 공중엔 날개 달린 꼬마 천사 궁수. 천사의 천, 궁수의 궁, 천궁. 부채에 얻어맞고 눈이 빙글빙글, 얼떨결에 시위가 튕겨 화살이 아래 팬으로 날아가 꽂혀. 그림에서는 활에 왼쪽을 겨눈 화살이 하나 더 메겨져 있는데, 날아간 건 팬에 꽂힌 화살이야. 당귀하고 천궁, 귀부인과 궁수 둘이 주자 둘째 활혈통락이야.",
+   "text_sha256": "3b4a83e0054173b6df3f6e0557b8aaf719612502c40946bf125a5ffb5d7b5c9b",
+   "audio_sha256": "b0bced4c9549c6ae3ffd5b70f4d4313bdada7330ab305a54233b1e09b04da43f",
+   "image_sha256": "3a4666a848ef71b21212cee5a9d0ac46fb2179da53eb1cd748fa3ac2dad3e157",
+   "source_commit": "70311049fa78aa8716393065cdb7707e6b375a40",
+   "station_sha256": "87d58aea309b7279df195e123e5c1bc079229203b4eb98578a268b4428468629",
+   "original_wav_sha256": "501a16d7d5ba18f369d53db40c7c5e365d8c91c4bf575bf7f37159613b440654",
+   "original_wav_filename": "suchi-09.full.wav"
+  },
+  "suchi-09#5": {
+   "src": "audio/narration/suchi-09__s5__6746aaad35fe.mp3",
+   "text": "팬 바닥을 봐. 가늘게 흐르던 붉은 줄기가 검붉은 덩어리에 막혀 있었는데, 화살이 그 덩어리에 푹 꽂혀 꿰뚫었어. 풀린 붉은 줄기가 오른쪽 뱀 꼬리 쪽으로 쭉 흘러가지? 막힌 길을 뚫어 피를 돌리는 것, 활혈통락. 식초 작업대에서는 꺾인 호스가 펴졌지? 그건 초자 첫째 소간 · 활혈지통. 활혈이 양쪽에 다 들어서 시험이 바꿔 내, 술은 통락이고 당귀 · 천궁, 식초는 지통이고 유향부터 현호색까지 여덟.",
+   "text_sha256": "6746aaad35fe57d00242e8cd99385d830b8fc7f4cc550c96266b2f11f93ff6f2",
+   "audio_sha256": "619cf664b12ab10ea842e4a516b41a42c64122207ad3f954a2334d805a2e59f6",
+   "image_sha256": "3a4666a848ef71b21212cee5a9d0ac46fb2179da53eb1cd748fa3ac2dad3e157",
+   "source_commit": "70311049fa78aa8716393065cdb7707e6b375a40",
+   "station_sha256": "e1e64d02370a29726d5b804d7032c2a30d2bc10624b3871512b0c7973ff34956",
+   "original_wav_sha256": "501a16d7d5ba18f369d53db40c7c5e365d8c91c4bf575bf7f37159613b440654",
+   "original_wav_filename": "suchi-09.full.wav"
+  },
+  "suchi-09#6": {
+   "src": "audio/narration/suchi-09__s6__d62f83e2ebb9.mp3",
+   "text": "맨 오른쪽 끝은 검은 뱀. 화살이 날아들자 입을 동그랗게 벌리고 오!, 레몬빛 머리털이 뾰족뾰족 쭈뼛 곤두섰어, 초사이어인 머리. 오! 초사, 오초사. 검은 몸이 오, 뱀이 사야. 그림에서는 초록 악취 김과 하얀 김이 나란히 올랐지만, 뜻은 냄새를 바로잡는 셋째 교취. 교재는 주자 셋째를 교취라고만 적었어, 식초의 셋째는 교취교미, 오령지 · 유향 · 몰약이고.",
+   "text_sha256": "d62f83e2ebb97ed748e4c5b6b80f62de0b6a1de7e1ac0eb7254fcf92c9a5d064",
+   "audio_sha256": "a4ef9fcee9738d081cd47ad110e87fcf5a5df5a54605feb2d03105db21dfae3c",
+   "image_sha256": "3a4666a848ef71b21212cee5a9d0ac46fb2179da53eb1cd748fa3ac2dad3e157",
+   "source_commit": "70311049fa78aa8716393065cdb7707e6b375a40",
+   "station_sha256": "d76ebd104fffaa8615a1589dce26a869e9b7bcd96a3783ff337a6850612b480e",
+   "original_wav_sha256": "501a16d7d5ba18f369d53db40c7c5e365d8c91c4bf575bf7f37159613b440654",
+   "original_wav_filename": "suchi-09.full.wav"
+  },
+  "suchi-09#7": {
+   "src": "audio/narration/suchi-09__s7__d42e348ecd99.mp3",
+   "text": "한 바퀴 다시. 초록 술병이 술을 붓고, 술 김 기둥에 노란 연꽃과 왕좌의 황소가 둥실 떠오르고, 황소 꼬리가 당나귀 부인의 부채를 치고, 부채에 맞은 천사 궁수의 화살이 붉은 줄기의 덩어리를 뚫고, 끝의 검은 뱀이 오! 황대, 당천, 오. 위로 뜬 둘이 상행, 팬에 선 둘이 활혈통락, 끝의 뱀이 교취. 그림에선 술은 위로, 식초는 옆으로, 다음 소금물은 아래로 흘러. 승강부침 절의 교재 말은 주제는 승, 식초로 볶으면 수렴, 염수초는 하행이야.",
+   "text_sha256": "d42e348ecd996412c6275476300862fa60fc78a9697e4cff20518e87f17b13e7",
+   "audio_sha256": "19debd025c2dc51d4f0b0f2b3245ef92c47916b853038274307ac9c60557c5d5",
+   "image_sha256": "3a4666a848ef71b21212cee5a9d0ac46fb2179da53eb1cd748fa3ac2dad3e157",
+   "source_commit": "70311049fa78aa8716393065cdb7707e6b375a40",
+   "station_sha256": "b89130a2e40533d9c6d1ef2b89d3ce7bc3b42f36c1d00749704939b7409dd8a3",
+   "original_wav_sha256": "501a16d7d5ba18f369d53db40c7c5e365d8c91c4bf575bf7f37159613b440654",
+   "original_wav_filename": "suchi-09.full.wav"
   }
  }
 }

@@ -3564,6 +3564,72 @@
    "station_sha256": "67d52e283f59b895e47b154c773a5da3ea0093942c0d735fa99a6850f5fc5c0a",
    "original_wav_sha256": "1575835d34d61afb79380b8647d35e3db3093d8222cfa75fd0203762986cab76",
    "original_wav_filename": "qiqing-10.full.wav"
+  },
+  "qiqing-11#0": {
+   "src": "audio/narration/qiqing-11__s0__1aa90414f47d.mp3",
+   "text": "같은 체육관, 이번엔 매트가 둘. 짝끼리 하이파이브하는 순간, 맞닿은 자리에서 보라 독구름이 펑 터지며 둘보다 크게 부풀어. 함께 쓴 뒤 강렬한 독성과 부작용이 생기는 게 상반이야. 정리로 독성 강해짐 칸은 상반 하나. 구름이 흩어지면 상외, 상쇄, 터지면 상반, 같은 구름, 반대 방향이야. 지나 호현.",
+   "text_sha256": "1aa90414f47de08ae6fe95b3db68fcd528d6f4db84a08e90792f81a31aa680fe",
+   "audio_sha256": "b306d51beb5092e5a57f430abbd20c202a9f0c0db7130f3fd515f5f57b6f3fa7",
+   "image_sha256": "591101b7cee2f1b7c94ca8a892f5e8c2810b00204e5dbe21b9ecdbb4d51d4e70",
+   "source_commit": "680e60e047729239b516197f574b4dbee048c70a",
+   "station_sha256": "0b5c05f317bdb12b93cee3467532234de2facddc3fb326f05088cb8e6bd928ed",
+   "original_wav_sha256": "38907861b92df26d9054738963fc7c727cc4ccb6090920ddd353e27527b92274",
+   "original_wav_filename": "qiqing-11.full.wav"
+  },
+  "qiqing-11#1": {
+   "src": "audio/narration/qiqing-11__s1__56f38001a6cd.mp3",
+   "text": "왼쪽 매트, 바닥에 구멍을 뚫고 노란 관에 흙 묻은 노란 곤룡포 황제가 허리까지 솟았어. 지하 황제, 지황. 손이 텅 비었지? 포제 증법 장의 검은 옷에 숙제 노트 든 황제가 숙지황이고, 이 노란 빈손 황제가 교재 상반 예의 지황이야. 터지는 순간 깜짝 놀라 두 손을 번쩍 들고 뒤로 젖혀져.",
+   "text_sha256": "56f38001a6cdf2aa71e1270d496deb9eac3a28906f825d20ec8d81ba233d312a",
+   "audio_sha256": "95b4e523e651b86baf6a0077f6aaea39a39427d381801e77860e2392438f0f73",
+   "image_sha256": "591101b7cee2f1b7c94ca8a892f5e8c2810b00204e5dbe21b9ecdbb4d51d4e70",
+   "source_commit": "680e60e047729239b516197f574b4dbee048c70a",
+   "station_sha256": "4cd5f19dd6b90a50eb3b3b93af89233576b8d26341583640625cb535b3c1ff80",
+   "original_wav_sha256": "38907861b92df26d9054738963fc7c727cc4ccb6090920ddd353e27527b92274",
+   "original_wav_filename": "qiqing-11.full.wav"
+  },
+  "qiqing-11#2": {
+   "src": "audio/narration/qiqing-11__s2__0c38468dc0ff.mp3",
+   "text": "맞은편은 상오 매트에서 인삼 인형과 맞밀던 그 난폭자 무, 나복자. 그림에서는 손 대신 머리의 초록 잎으로 황제 손을 철썩 쳤어. 그 순간 펑, 독구름이 터져. 인삼과는 서로 힘이 빠지는 상오, 지황과는 독이 터지는 상반. 나복자는 두 관계에 다 나오니까, 빛이 꺼졌나 구름이 터졌나로 짝을 갈라.",
+   "text_sha256": "0c38468dc0ffcd8e4c3799f93d219453dd846b7a011eb4d68b80d8415d4b4b61",
+   "audio_sha256": "44aa13d4056bddbfecb12a2322e3bb0203ba768d8a9b674b9ee13f941290c36b",
+   "image_sha256": "591101b7cee2f1b7c94ca8a892f5e8c2810b00204e5dbe21b9ecdbb4d51d4e70",
+   "source_commit": "680e60e047729239b516197f574b4dbee048c70a",
+   "station_sha256": "e0c92db3e5b2a5a0cac43dda4b0eb3f073939c8e3992b92cb69ef6672db6999a",
+   "original_wav_sha256": "38907861b92df26d9054738963fc7c727cc4ccb6090920ddd353e27527b92274",
+   "original_wav_filename": "qiqing-11.full.wav"
+  },
+  "qiqing-11#3": {
+   "src": "audio/narration/qiqing-11__s3__679423316002.mp3",
+   "text": "오른쪽 매트엔 또 노란 연꽃, 그런데 혀 대신 은빛 호루라기를 물고 볼이 빵빵해. 호루라기의 호, 노란 연꽃 황련, 호황련. 혀 내민 연꽃 황련은 상오에 두 번 나왔고, 호루라기 연꽃 호황련은 상반이야. 교재 분류도 달라. 황련은 청열조습약, 호황련은 청허열약. 노란 잎 하나를 쭉 뻗어 옆 돌 인형과 짝.",
+   "text_sha256": "67942331600225c841eed2b97495eff626aff29a2b47750321e07b7cbb210b86",
+   "audio_sha256": "b9e89e815712803c4a81eb6d8dadd065b8a82c80624641c097e0cc33aa0d0107",
+   "image_sha256": "591101b7cee2f1b7c94ca8a892f5e8c2810b00204e5dbe21b9ecdbb4d51d4e70",
+   "source_commit": "680e60e047729239b516197f574b4dbee048c70a",
+   "station_sha256": "8685bba898f6b799b916c478cb5a153d2e9f2b70dceaa724d207cc00e324951a",
+   "original_wav_sha256": "38907861b92df26d9054738963fc7c727cc4ccb6090920ddd353e27527b92274",
+   "original_wav_filename": "qiqing-11.full.wav"
+  },
+  "qiqing-11#4": {
+   "src": "audio/narration/qiqing-11__s4__005ecca079f8.mp3",
+   "text": "짝은 구멍이 숭숭 뚫린 검은 현무암 뿌리 인형. 현무암의 현, 뿌리 인형은 삼 가족, 현삼. 그림에서는 터지는데도 방긋 웃고 있어. 현삼은 십팔반에도 나와. 여로가 반하는 오삼의 하나야. 칠정 상반에선 호황련과, 십팔반에선 여로와. 둘 다 독이 커지는 쪽이야.",
+   "text_sha256": "005ecca079f86f9e0ea0da8c3dcb76e2adb0272a6e09a2dc1590f8757aadaa8f",
+   "audio_sha256": "f516d1c5c0de12ccda67129f7055bab9ee647633ed9851275f875a5f8c5ad189",
+   "image_sha256": "591101b7cee2f1b7c94ca8a892f5e8c2810b00204e5dbe21b9ecdbb4d51d4e70",
+   "source_commit": "680e60e047729239b516197f574b4dbee048c70a",
+   "station_sha256": "6cfa47fb04e5508b507e960e1a2157127d8ac26e4a375ffb706a2a83565acf88",
+   "original_wav_sha256": "38907861b92df26d9054738963fc7c727cc4ccb6090920ddd353e27527b92274",
+   "original_wav_filename": "qiqing-11.full.wav"
+  },
+  "qiqing-11#5": {
+   "src": "audio/narration/qiqing-11__s5__eccbec373494.mp3",
+   "text": "한 바퀴. 땅에서 솟은 노란 황제와 난폭자 무가 하이파이브, 펑. 호루라기 연꽃과 현무암 삼 인형이 하이파이브, 펑. 지나 호현. 교재 상반 예는 셋, 남은 감초, 대극, 감수는 다음 장이야. 나복자는 인삼과 상오, 지황과 상반, 빛이 꺼지느냐, 구름이 터지느냐로 갈라. 황련은 상오, 호황련은 상반.",
+   "text_sha256": "eccbec373494ae0ac1a470fc110dad65764f4900570102b652ee4c76a3296307",
+   "audio_sha256": "5906c702eecde9bee44d9c4eb4d91190a4982e120eb90a732dc367b2dbe81fe0",
+   "image_sha256": "591101b7cee2f1b7c94ca8a892f5e8c2810b00204e5dbe21b9ecdbb4d51d4e70",
+   "source_commit": "680e60e047729239b516197f574b4dbee048c70a",
+   "station_sha256": "1037cbc3bb5f8878b0766a741fcfee89505108ff4c345f7eea74d3d814985f61",
+   "original_wav_sha256": "38907861b92df26d9054738963fc7c727cc4ccb6090920ddd353e27527b92274",
+   "original_wav_filename": "qiqing-11.full.wav"
   }
  }
 }

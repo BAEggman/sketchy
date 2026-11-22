@@ -5038,6 +5038,72 @@
    "station_sha256": "3b7364a72c57f557ab60abd9630182d450b91305415ffd0eacf76781d1391150",
    "original_wav_sha256": "7608d166f0972155ee5d5363cf2ad5d56ba8d0147ebaf60a61d5307c06b653b0",
    "original_wav_filename": "suchi-21.full.wav"
+  },
+  "suchi-22#0": {
+   "src": "audio/narration/suchi-22__s0__ffd1d515b904.mp3",
+   "text": "작업대에 입 넓은 단지 셋이 한 줄로 섰어. 생강과 흰 결정 단지, 우윳빛 물과 막대 단지, 그리고 초록 쓸개즙 단지. 잘 씻은 약에 보료를 하나 또는 여럿 넣고, 정해진 순서대로 되풀이해 다루는 게 복제법이야. 그래서 단지가 여럿이고 차례가 있어. 앞 두 단지는 일번 치료효과증가, 독성감소, 빈자리 너머 셋째 단지는 이번 약성 변화. 백반 천.",
+   "text_sha256": "ffd1d515b904b9aadda3454f775dfbaff0fa10ea361cec311ee7a6c5b67b8663",
+   "audio_sha256": "8410a1540ef4dc19af1d28d9c0615567cf2fc50876fd23976e51cbf95b06f2f8",
+   "image_sha256": "0ff935e39086fc168e78416996ff5d8c971bd3b33323d5bb47681d44636a4bbd",
+   "source_commit": "9366f172fc36aa6ae62daff1d84bbaa19e6effbf",
+   "station_sha256": "cfa8a1536f6c25fb67167645d9c3b0e365c816bcf1bd2d701aecf990c56c632e",
+   "original_wav_sha256": "d2a0ca58ce0c9bb6924918e63bd3176ac7af97c258b68e53653a4babacd577d1",
+   "original_wav_filename": "suchi-22.full.wav"
+  },
+  "suchi-22#1": {
+   "src": "audio/narration/suchi-22__s1__cdcd7fd333b1.mp3",
+   "text": "첫 단지엔 흰 양복 부자가 걸터앉았어. 큰 분첩으로 얼굴에 백분을 톡톡, 백분 바른 부자, 백부자. 하얀 가루 구름이 오른쪽 하마 코로 훅 날아가지. 그림에선 가루가 분첩보다 부자 얼굴에서 불어 나오는 것처럼 보여. 단지 속엔 노란 생강 조각과 흰 결정덩이, 생강과 백반이야. 백부자는 생강, 백반에 제한 뒤 독성이 줄고 거풍축담. 머리 위 보라 독 연기가 옅어지지? 가사 백반은 백부자, 반하의 첫소리인데, 마침 이 단지의 백반하고 소리가 같아. 명단 작업대의 백반 밥상과는 다른 장이야.",
+   "text_sha256": "cdcd7fd333b153e7e5f1285b378fbd2e32507706985f83a5c05f87c20b7b99bd",
+   "audio_sha256": "8bd34fada5dbac3f81caafb492db8f6d25e6787f83dbcee91a81bf0c11ea812a",
+   "image_sha256": "0ff935e39086fc168e78416996ff5d8c971bd3b33323d5bb47681d44636a4bbd",
+   "source_commit": "9366f172fc36aa6ae62daff1d84bbaa19e6effbf",
+   "station_sha256": "eafc317bcc4675b58a0bbbb102625d7da9ed723a726422bf83658dc2f5d50c79",
+   "original_wav_sha256": "d2a0ca58ce0c9bb6924918e63bd3176ac7af97c258b68e53653a4babacd577d1",
+   "original_wav_filename": "suchi-22.full.wav"
+  },
+  "suchi-22#2": {
+   "src": "audio/narration/suchi-22__s2__f43d152568c3.mp3",
+   "text": "부자의 흰 가루가 날아간 쪽엔 반바지 하마. 반바지의 반, 하마의 하, 반하. 가루가 코에 들어가 에취! 재채기하다 뒤로 벌렁 넘어지면서 둘째 단지에 풍덩. 우윳빛 물은 석회, 꽂힌 막대는 감초로 읽어. 반하는 감초, 석회로 제한 뒤 독성이 줄어, 여기도 보라 독 연기가 옅어지지. 튄 물보라가 빈자리 너머 천하장사에게.",
+   "text_sha256": "f43d152568c309b68404246ae5116a6333eefd9a2dfb2e2cc9b3fb8e786fa352",
+   "audio_sha256": "e9cb4b1da08796ab8530ff6e90201152100df82d43bb04ea819d4a27400eeb67",
+   "image_sha256": "0ff935e39086fc168e78416996ff5d8c971bd3b33323d5bb47681d44636a4bbd",
+   "source_commit": "9366f172fc36aa6ae62daff1d84bbaa19e6effbf",
+   "station_sha256": "55e07df3de8ba7fce5d3ea111a3b1b65cab6da8f83a11c48de3f7fb4f7a57a91",
+   "original_wav_sha256": "d2a0ca58ce0c9bb6924918e63bd3176ac7af97c258b68e53653a4babacd577d1",
+   "original_wav_filename": "suchi-22.full.wav"
+  },
+  "suchi-22#3": {
+   "src": "audio/narration/suchi-22__s3__bcfa272660bc.mp3",
+   "text": "물보라를 맞은 건 허리에 빨간 샅바를 맨 씨름 천하장사. 천하장사 남성, 천남성. 놀라서 들고 있던 큰 노란 별을 초록 쓸개즙 단지에 푹 담가. 천남성은 고한한 담즙으로 제해. 별 색은 노란 그대로지만 성질이 바뀌어, 단지 위 불꽃을 봐.",
+   "text_sha256": "bcfa272660bc4f0e1f31d4ab4b33d2f06a760af559d6ae13ba33f01f00c70527",
+   "audio_sha256": "6a19cb3c6fa3eb91d1c6bf794006f1e4fcb4dff5be9d82f32d4ad28a30b6c142",
+   "image_sha256": "0ff935e39086fc168e78416996ff5d8c971bd3b33323d5bb47681d44636a4bbd",
+   "source_commit": "9366f172fc36aa6ae62daff1d84bbaa19e6effbf",
+   "station_sha256": "8b613100e72d902a46181a167507de974585a48429840d38fde965a0f56d26a0",
+   "original_wav_sha256": "d2a0ca58ce0c9bb6924918e63bd3176ac7af97c258b68e53653a4babacd577d1",
+   "original_wav_filename": "suchi-22.full.wav"
+  },
+  "suchi-22#4": {
+   "src": "audio/narration/suchi-22__s4__803379886975.mp3",
+   "text": "쓸개즙 단지 위에서 빨간 불꽃이 화살표를 따라 파란 눈송이로 바뀌지. 뜨겁던 신온이 서늘한 고량으로, 독 연기가 걷힌 앞 두 단지와 달리, 여기는 성질 자체가 바뀌는 이번 약성 변화야. 그래서 이 단지 위엔 독 연기가 아니라 불꽃과 눈송이가 있어.",
+   "text_sha256": "803379886975b63bb1e48165fe72c8cc27e66e1a49ef69b16dbfc40627861984",
+   "audio_sha256": "94c17fc57db9ac14d4c322741d6a0f29b6ce86d57b5e0e4d8c8b1be0eebe6cfa",
+   "image_sha256": "0ff935e39086fc168e78416996ff5d8c971bd3b33323d5bb47681d44636a4bbd",
+   "source_commit": "9366f172fc36aa6ae62daff1d84bbaa19e6effbf",
+   "station_sha256": "c22dcc59d80b8abdc563ca320d07ef9ac158e944741fec044a051721ad2be9e7",
+   "original_wav_sha256": "d2a0ca58ce0c9bb6924918e63bd3176ac7af97c258b68e53653a4babacd577d1",
+   "original_wav_filename": "suchi-22.full.wav"
+  },
+  "suchi-22#5": {
+   "src": "audio/narration/suchi-22__s5__fb9de33f5cf8.mp3",
+   "text": "한 바퀴. 생강, 백반 단지의 흰 부자가 분첩을 두드려 가루가 날고, 재채기한 반바지 하마가 석회, 감초 단지에 풍덩, 물보라에 놀란 천하장사가 별을 쓸개즙에 담그자 불꽃이 눈송이로. 백반 천. 짝 보료까지 붙여, 백부자는 생강, 백반, 반하는 감초, 석회, 천남성은 담즙. 독 연기 걷힘은 자법 천오와 같은 표지지만, 거긴 물 부어 삶고 여기는 보료를 정해진 순서로 되풀이해. 백반은 명단 일번에선 대상 약, 여기선 백부자를 제하는 보료야.",
+   "text_sha256": "fb9de33f5cf8fb419d1dad370f495eeeae3e69703ce89e447c2a59c4bc9312a9",
+   "audio_sha256": "388bbd54931c1ba01086006460cbafbc304c548b795a98805d4607e64dbbdc96",
+   "image_sha256": "0ff935e39086fc168e78416996ff5d8c971bd3b33323d5bb47681d44636a4bbd",
+   "source_commit": "9366f172fc36aa6ae62daff1d84bbaa19e6effbf",
+   "station_sha256": "a62d22efef19c9204e874a8c0c20dfe81994442f298a1738fc94ca70a4595e9f",
+   "original_wav_sha256": "d2a0ca58ce0c9bb6924918e63bd3176ac7af97c258b68e53653a4babacd577d1",
+   "original_wav_filename": "suchi-22.full.wav"
   }
  }
 }

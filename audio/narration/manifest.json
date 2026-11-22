@@ -13035,6 +13035,72 @@
    "station_sha256": "2f7202859418677dc53330c04c55165c03e364bfcf69684f9b7ebd28697909f8",
    "original_wav_sha256": "14bcbb2db8410732c384c7044f23ceaf9ec7436c6c75e4b0d0c5ff0d8d264234",
    "original_wav_filename": "new-gr-17.full.wav"
+  },
+  "new-gr-38#0": {
+   "src": "audio/narration/new-gr-38__s0__93c6e57233f6.mp3",
+   "text": "중풍칠처혈과 구급 상용혈, 백회, 견정, 곡지, 풍시, 족삼리, 절골, 곡빈 + 양상, 양간 과다. 장소는 구급 바람막이 초소, 중풍 바람을 막는 일곱 초소와 손끝 구급혈. 정본 경락 인물과 공용 부호, 뜻, 소리 고리를 따라 차례로 읽는다.",
+   "text_sha256": "93c6e57233f6a6a74c9639955ddb56a1ddec3267d942ee4881965db90dcb23f0",
+   "audio_sha256": "93c841c813a2be0168ecef140a0d48b2f6c3480d2ff72cfe49a2026391009fda",
+   "image_sha256": "fec87004aaabb34ee263c685d25f38daad59ac52cb789ac220ace3b7225c2bd5",
+   "source_commit": "f440954c8cccd99b99063eb32ad685258d186d71",
+   "station_sha256": "30c2a5f8c3506b36244b30d5442f8035b13d34b68a103b1e17cf6420782b3226",
+   "original_wav_sha256": "27a5991a02f7a52618e580dd24fdb88ba7f0782c53cd2c67d03a2bc56eb25ff4",
+   "original_wav_filename": "new-gr-38.full.wav"
+  },
+  "new-gr-38#1": {
+   "src": "audio/narration/new-gr-38__s1__e5706ca00168.mp3",
+   "text": "구급 바람막이 초소의 #1 정거장이다. 머리, 어깨 셋 = 백회, 정수리, 곡빈, 살쩍, 견정, 어깨 우물.",
+   "text_sha256": "e5706ca00168bc53aee666be33a076f5ca981e2dae228a9538da2eb8c1a5cb50",
+   "audio_sha256": "8ebf9a988ea144314cd09462cd8f802f21fd6e74d43f4b7653d19caff4ba0c6b",
+   "image_sha256": "fec87004aaabb34ee263c685d25f38daad59ac52cb789ac220ace3b7225c2bd5",
+   "source_commit": "f440954c8cccd99b99063eb32ad685258d186d71",
+   "station_sha256": "ffb822853885c8dbb19c0e4d5a50b103e74a7c5cfaad9e7f18e487834639dc71",
+   "original_wav_sha256": "27a5991a02f7a52618e580dd24fdb88ba7f0782c53cd2c67d03a2bc56eb25ff4",
+   "original_wav_filename": "new-gr-38.full.wav"
+  },
+  "new-gr-38#2": {
+   "src": "audio/narration/new-gr-38__s2__cf0576c50fb6.mp3",
+   "text": "구급 바람막이 초소의 #2 정거장이다. 팔, 다리 넷 = 곡지, 팔꿈치, 풍시, 넓적다리 바깥, 족삼리, 정강이, 절골, 현종, 발목 위.",
+   "text_sha256": "cf0576c50fb6a2939db4b5c2cd9b61318a15d374762fc927905605a39f50cb8e",
+   "audio_sha256": "76b6e386bcbc4edaa485f057c810a759f0abea3074d6194857b3c01830add4ec",
+   "image_sha256": "fec87004aaabb34ee263c685d25f38daad59ac52cb789ac220ace3b7225c2bd5",
+   "source_commit": "f440954c8cccd99b99063eb32ad685258d186d71",
+   "station_sha256": "eddba7ee87c80da8957385ff850c5a478b78334049cae455bdcdc7f3611e8cb4",
+   "original_wav_sha256": "27a5991a02f7a52618e580dd24fdb88ba7f0782c53cd2c67d03a2bc56eb25ff4",
+   "original_wav_filename": "new-gr-38.full.wav"
+  },
+  "new-gr-38#3": {
+   "src": "audio/narration/new-gr-38__s3__d707687096d5.mp3",
+   "text": "구급 바람막이 초소의 #3 정거장이다. 양상, 소상, 상양 = 기절 구급, 양간, 이간, 삼간 = 두, 치, 수지통.",
+   "text_sha256": "d707687096d5be0370a24a51f924f958b7c70611851f1a393c8b82e51b8dbe81",
+   "audio_sha256": "c38c25d6c8c749c96d0f4ac2b2ee58874aa96d23f1966601030babab9b7e2131",
+   "image_sha256": "fec87004aaabb34ee263c685d25f38daad59ac52cb789ac220ace3b7225c2bd5",
+   "source_commit": "f440954c8cccd99b99063eb32ad685258d186d71",
+   "station_sha256": "295f4ed2416698af9364e2cf7c874f5a6903fabc243c6df1f0d8641e493fea7b",
+   "original_wav_sha256": "27a5991a02f7a52618e580dd24fdb88ba7f0782c53cd2c67d03a2bc56eb25ff4",
+   "original_wav_filename": "new-gr-38.full.wav"
+  },
+  "new-gr-38#4": {
+   "src": "audio/narration/new-gr-38__s4__fff84c543cea.mp3",
+   "text": "구급 바람막이 초소의 #4 정거장이다. 사관혈, 합곡, 태충 = 기체, 소화기, 십선혈, 열 손가락 끝 구급 사혈.",
+   "text_sha256": "fff84c543ceac6c9c83cf1075e089fd267e3d1c9baf6107beee65a2a08b5aea3",
+   "audio_sha256": "0b45ff2a812fd6f74ad52e79c2332b7a98fc0e5d059647f0003707a26bb44cee",
+   "image_sha256": "fec87004aaabb34ee263c685d25f38daad59ac52cb789ac220ace3b7225c2bd5",
+   "source_commit": "f440954c8cccd99b99063eb32ad685258d186d71",
+   "station_sha256": "38ec9d8b7149b82f24b693c232877b0a04f7805e51648ea7fe0b08686aea670b",
+   "original_wav_sha256": "27a5991a02f7a52618e580dd24fdb88ba7f0782c53cd2c67d03a2bc56eb25ff4",
+   "original_wav_filename": "new-gr-38.full.wav"
+  },
+  "new-gr-38#5": {
+   "src": "audio/narration/new-gr-38__s5__12441f5ddbfb.mp3",
+   "text": "처음부터 한 바퀴 되짚는다. 머리, 어깨 셋 = 백회, 정수리, 곡빈, 살쩍, 견정, 어깨 우물, / 팔, 다리 넷 = 곡지, 팔꿈치, 풍시, 넓적다리 바깥, 족삼리, 정강이, 절골, 현종, 발목 위, / 양상, 소상, 상양 = 기절 구급, 양간, 이간, 삼간 = 두, 치, 수지통, / 사관혈, 합곡, 태충 = 기체, 소화기, 십선혈, 열 손가락 끝 구급 사혈,",
+   "text_sha256": "12441f5ddbfbc4498256174984f9ea60c6de1b1c6ccd697eb4c57208d3f5dd01",
+   "audio_sha256": "1f2f791d890dfd80991ae5a17c812dcec975bc84f58856c0df6b0d33f9a3dd4f",
+   "image_sha256": "fec87004aaabb34ee263c685d25f38daad59ac52cb789ac220ace3b7225c2bd5",
+   "source_commit": "f440954c8cccd99b99063eb32ad685258d186d71",
+   "station_sha256": "87dc6ebc8473ccb2a96247b8d7650387281218b2e8990483a5461220dbd3806e",
+   "original_wav_sha256": "27a5991a02f7a52618e580dd24fdb88ba7f0782c53cd2c67d03a2bc56eb25ff4",
+   "original_wav_filename": "new-gr-38.full.wav"
   }
  }
 }

@@ -11121,6 +11121,72 @@
    "station_sha256": "a00a3a315628472a1029569928ea21427ebf078583ac10abc115cf6204ae7985",
    "original_wav_sha256": "0d40d4b7d8979267a5cd63f73cdafc915a070a031d91be576cb7ce7aa6e5ae2d",
    "original_wav_filename": "new-gr-36.full.wav"
+  },
+  "new-gr-41#0": {
+   "src": "audio/narration/new-gr-41__s0__2c1823a7b647.mp3",
+   "text": "동음 혈명 구별, 기문, 기문, 견정, 견정, 소해, 소해, 완골, 완골, 화료, 화료, 거료, 거료, 천정, 천정 과다. 장소는 쌍둥이 문지기 검문소, 소리만 같고 뜻, 경락이 다른 일곱 쌍의 혈을 뜻 고리로 가르는 검문소. 정본 경락 인물과 공용 부호, 뜻, 소리 고리를 따라 차례로 읽는다.",
+   "text_sha256": "2c1823a7b6473e4fb6336023519b34a74c8a7add952223e6e56ec2b2a1d9a3e4",
+   "audio_sha256": "b29f453c7c9c2930ff17e544cb3d7f8f04711bb9f0a0de3283c3aeb721d2d748",
+   "image_sha256": "5ddbbe0da5e76d34d3ba17863c215ff034c928b9a3e3f13b5f01b30cb336f0ae",
+   "source_commit": "be14d6e8a932e8e3521ef69ea5e36463a14cb448",
+   "station_sha256": "50293049e6584e4643d47e439bea1f4103e1d7a579d6a3b932548b46e906587f",
+   "original_wav_sha256": "178ad6b15d8786c3e93498c0618d9465bd08f98a8c9a29b38c6388a1b2a2ad47",
+   "original_wav_filename": "new-gr-41.full.wav"
+  },
+  "new-gr-41#1": {
+   "src": "audio/narration/new-gr-41__s1__bb38bafe5cb2.mp3",
+   "text": "쌍둥이 문지기 검문소의 #1 정거장이다. 기문, 간경 모혈, 한바퀴 돌아 만나는 기약 문, 기문, 비경, 키기처럼 벌린 허벅지 문.",
+   "text_sha256": "bb38bafe5cb25faf385070c95aacbd3f8ffd8232b48899ab08f4234e06c8c49e",
+   "audio_sha256": "bea366ab6bbaef09c78b18b8cdca5da4cf104037927dea4678479fb160f765d7",
+   "image_sha256": "5ddbbe0da5e76d34d3ba17863c215ff034c928b9a3e3f13b5f01b30cb336f0ae",
+   "source_commit": "be14d6e8a932e8e3521ef69ea5e36463a14cb448",
+   "station_sha256": "512398a7922f03e29946e7d7477a16e8ed45012acab18ca5e3d0f146b7ec52e8",
+   "original_wav_sha256": "178ad6b15d8786c3e93498c0618d9465bd08f98a8c9a29b38c6388a1b2a2ad47",
+   "original_wav_filename": "new-gr-41.full.wav"
+  },
+  "new-gr-41#2": {
+   "src": "audio/narration/new-gr-41__s2__a58d7959da78.mp3",
+   "text": "쌍둥이 문지기 검문소의 #2 정거장이다. 견정, 소장경, 어깨 뒤 곧은정 자리, 견정, 담경, 어깨 위 우물정 자리.",
+   "text_sha256": "a58d7959da78ab96a24bdf1d1e703d8b399fc59a7a0fac9d2fbfa9d43042b3fb",
+   "audio_sha256": "85b629480e43a0bd9d282dc7ce7e139f127382e203cd8522bdeba69bbf011106",
+   "image_sha256": "5ddbbe0da5e76d34d3ba17863c215ff034c928b9a3e3f13b5f01b30cb336f0ae",
+   "source_commit": "be14d6e8a932e8e3521ef69ea5e36463a14cb448",
+   "station_sha256": "45c1799ef0de98f4ac43833feaf0abe2177772ba68f0c663e5dc71f9b0e7b0b1",
+   "original_wav_sha256": "178ad6b15d8786c3e93498c0618d9465bd08f98a8c9a29b38c6388a1b2a2ad47",
+   "original_wav_filename": "new-gr-41.full.wav"
+  },
+  "new-gr-41#3": {
+   "src": "audio/narration/new-gr-41__s3__a85432ffff70.mp3",
+   "text": "쌍둥이 문지기 검문소의 #3 정거장이다. 소해, 심경 합수, 수소음의 바다, 소해, 소장경 합토, 수태양의 바다.",
+   "text_sha256": "a85432ffff705b97b31a3753e12de32dd9ab3d368f884e5a02a56f66cd484fef",
+   "audio_sha256": "eaa4387bfedb8cc783c1e7df4b69ce0bc237e6e9b575faa70db6dd22994dfb5a",
+   "image_sha256": "5ddbbe0da5e76d34d3ba17863c215ff034c928b9a3e3f13b5f01b30cb336f0ae",
+   "source_commit": "be14d6e8a932e8e3521ef69ea5e36463a14cb448",
+   "station_sha256": "c8abbb0d5017e84afb453c9a355540182c5e92fa9ddb993adadf7bd812979c5a",
+   "original_wav_sha256": "178ad6b15d8786c3e93498c0618d9465bd08f98a8c9a29b38c6388a1b2a2ad47",
+   "original_wav_filename": "new-gr-41.full.wav"
+  },
+  "new-gr-41#4": {
+   "src": "audio/narration/new-gr-41__s4__65c9b5d250ba.mp3",
+   "text": "쌍둥이 문지기 검문소의 #4 정거장이다. 완골, 담경, 귀 뒤 유양돌기 통뼈완, 완골, 소장경 원혈, 손목완 뼈, + 화료, 대장, /화료, 삼초, 거료, 위, /거료, 담, 천정, 삼초, /천정, 대장.",
+   "text_sha256": "65c9b5d250ba4fdab8c6d10ee880af46c9a697bcfbd04d65ec2fcf1d6d343c24",
+   "audio_sha256": "458445f4ec6af6b990b2a51aec5044db00f0023bec5feaa8750db76b08895fe0",
+   "image_sha256": "5ddbbe0da5e76d34d3ba17863c215ff034c928b9a3e3f13b5f01b30cb336f0ae",
+   "source_commit": "be14d6e8a932e8e3521ef69ea5e36463a14cb448",
+   "station_sha256": "8cce688d9cfef3240b453a7c97e495f211ebf8c6cfd18e2bc419a4cd94e14997",
+   "original_wav_sha256": "178ad6b15d8786c3e93498c0618d9465bd08f98a8c9a29b38c6388a1b2a2ad47",
+   "original_wav_filename": "new-gr-41.full.wav"
+  },
+  "new-gr-41#5": {
+   "src": "audio/narration/new-gr-41__s5__7f1be4183a9b.mp3",
+   "text": "처음부터 한 바퀴 되짚는다. 기문, 간경 모혈, 한바퀴 돌아 만나는 기약 문, 기문, 비경, 키기처럼 벌린 허벅지 문, / 견정, 소장경, 어깨 뒤 곧은정 자리, 견정, 담경, 어깨 위 우물정 자리, / 소해, 심경 합수, 수소음의 바다, 소해, 소장경 합토, 수태양의 바다, / 완골, 담경, 귀 뒤 유양돌기 통뼈완, 완골, 소장경 원혈, 손목완 뼈, + 화료, 대장, /화료, 삼초, 거료,",
+   "text_sha256": "7f1be4183a9b83ba2c8fbf74ca82850e2dd49532478446542b1e1e2a06463c07",
+   "audio_sha256": "51928edb103dcaacd069db224d5922325ff47bbdf38b273d382bc8236378d015",
+   "image_sha256": "5ddbbe0da5e76d34d3ba17863c215ff034c928b9a3e3f13b5f01b30cb336f0ae",
+   "source_commit": "be14d6e8a932e8e3521ef69ea5e36463a14cb448",
+   "station_sha256": "2c372d0eee561842c5311906a0e4f5d02761ab2042df6c53fafb1b6971b1a112",
+   "original_wav_sha256": "178ad6b15d8786c3e93498c0618d9465bd08f98a8c9a29b38c6388a1b2a2ad47",
+   "original_wav_filename": "new-gr-41.full.wav"
   }
  }
 }

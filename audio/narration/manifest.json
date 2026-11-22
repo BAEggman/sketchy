@@ -6842,6 +6842,127 @@
    "station_sha256": "910415015d0a090fb16815ff1bb08e26e2f04f80a15e865ed942640b63ca99ec",
    "original_wav_sha256": "46d89ba6c7e3be0bbc22de197bad4d071e6ff27787a42e62f1be94d768e187fc",
    "original_wav_filename": "new-jq-04.full.wav"
+  },
+  "new-jq-05#0": {
+   "src": "audio/narration/new-jq-05__s0__cc3337aad070.mp3",
+   "text": "기상 관측소 마당에 비가 내린다. 천계, 하늘이 내린 계수, 생식 능력을 이루는 물질이다. 때가 되면 이르고, 때가 되면 다한다. 왼쪽 우량계 둘에 눈금이 새겨졌다, 분홍은 여자, 파란 것은 남자. 오른쪽 두 길에 나이 차례로 선 사람들이 그 눈금의 사건이다.",
+   "text_sha256": "cc3337aad0707213491ee9610e90f634d75cd11841d032efc1f7bd8eb0d48707",
+   "audio_sha256": "d92b010de672b901817f2967407fc014ce8d2315f55d26e1c464f582729f79a1",
+   "image_sha256": "c4bb02e0e2c6f5f80961ca4a416a29a7e211e2df40a93d245bbfc81912a1c01b",
+   "source_commit": "d3d1922d2bbf5fce2e972c10eb07e16118a88e1a",
+   "station_sha256": "411517424a1be86d7bba449a20d54b3459f6739200ae58652d85fb779a88da8d",
+   "original_wav_sha256": "adce1e9647043166ee5e815f9c7f7a6bf39eb9db91b4b553b3f6c3613743fd8b",
+   "original_wav_filename": "new-jq-05.full.wav"
+  },
+  "new-jq-05#1": {
+   "src": "audio/narration/new-jq-05__s1__ab82ceebee1c.mp3",
+   "text": "분홍 우량계는 눈금이 일곱, 파란 우량계는 여덟. 여자는 7년, 남자는 8년마다 한 단계씩 변한다. 점이 찍힌 긴 눈금이 시험에 나오는 단계다, 분홍은 둘째, 다섯째, 일곱째, 파랑은 둘째, 셋째, 다섯째, 일곱째, 여덟째. 출전은 소문 상고천진론, 여자이칠 천계지 … 칠칠 천계갈.",
+   "text_sha256": "ab82ceebee1c706b551655ef9cc8938c8e65097dfd2d39c81139cded9cda4139",
+   "audio_sha256": "0f4f9084a995fa1a4d7b2301f8fbe47af8947df96de170c0784d4af7732d0a34",
+   "image_sha256": "c4bb02e0e2c6f5f80961ca4a416a29a7e211e2df40a93d245bbfc81912a1c01b",
+   "source_commit": "d3d1922d2bbf5fce2e972c10eb07e16118a88e1a",
+   "station_sha256": "bb72d6fa0a8d3e9f973517340104ccfbb6a3e35be1fe65f4b47085cfcfb8b197",
+   "original_wav_sha256": "adce1e9647043166ee5e815f9c7f7a6bf39eb9db91b4b553b3f6c3613743fd8b",
+   "original_wav_filename": "new-jq-05.full.wav"
+  },
+  "new-jq-05#2": {
+   "src": "audio/narration/new-jq-05__s2__f90a413d42cf.mp3",
+   "text": "분홍 길 첫째, 빨간 꽃을 든 소녀, 이칠, 열네 살. 천계가 이르고, 임맥이 통하고, 태충맥이 성해, 월사가 때맞춰 내린다. 그래서 아이를 가질 수 있다, 유자.",
+   "text_sha256": "f90a413d42cfb92b22123bcb80ae760fe6d681ec0eab8e119a9e929435a37f9c",
+   "audio_sha256": "64fefc273787bd1971249e4c9fed1e3abd4807ca57d47d6e7fce211ed084e236",
+   "image_sha256": "c4bb02e0e2c6f5f80961ca4a416a29a7e211e2df40a93d245bbfc81912a1c01b",
+   "source_commit": "d3d1922d2bbf5fce2e972c10eb07e16118a88e1a",
+   "station_sha256": "12cbbd205be502d7d9cab698a99be2a83e1a59e0063b05060192922aa5687064",
+   "original_wav_sha256": "adce1e9647043166ee5e815f9c7f7a6bf39eb9db91b4b553b3f6c3613743fd8b",
+   "original_wav_filename": "new-jq-05.full.wav"
+  },
+  "new-jq-05#3": {
+   "src": "audio/narration/new-jq-05__s3__54337ff27d88.mp3",
+   "text": "둘째, 얼굴이 칙칙하고 머리카락이 손에 빠지는 중년 여자, 오칠, 서른다섯. 양명맥이 쇠해 얼굴이 마르기 시작하고, 머리카락이 빠지기 시작한다. 면시초 발시타.",
+   "text_sha256": "54337ff27d8885e7440707d7b9183abed3f99de1d2be182379c5423c8498706e",
+   "audio_sha256": "6dc5bb4465ce667efe008e66e8248eeed54722fba297b8b7dead95b75ea4ab4e",
+   "image_sha256": "c4bb02e0e2c6f5f80961ca4a416a29a7e211e2df40a93d245bbfc81912a1c01b",
+   "source_commit": "d3d1922d2bbf5fce2e972c10eb07e16118a88e1a",
+   "station_sha256": "317c78964e72ac219afc5f9134536a707acbed7bedfe4c82ec4df0f56ffe4952",
+   "original_wav_sha256": "adce1e9647043166ee5e815f9c7f7a6bf39eb9db91b4b553b3f6c3613743fd8b",
+   "original_wav_filename": "new-jq-05.full.wav"
+  },
+  "new-jq-05#4": {
+   "src": "audio/narration/new-jq-05__s4__b089e02fca8e.mp3",
+   "text": "셋째, 백발 할머니 곁에 말라 금 간 빈 화분, 칠칠, 마흔아홉. 임맥이 비고 태충맥이 줄어 천계가 다하고, 지도가 통하지 않는다. 그래서 몸이 무너지고 아이를 갖지 못한다.",
+   "text_sha256": "b089e02fca8e4801012a1ff0ebf6a73f2c0458291be2908599df6d4808bac54d",
+   "audio_sha256": "ca7c8f94cd47c962e8074a921f91a3cfaf19aad5b153fb24bd0215a3d4aa4cc1",
+   "image_sha256": "c4bb02e0e2c6f5f80961ca4a416a29a7e211e2df40a93d245bbfc81912a1c01b",
+   "source_commit": "d3d1922d2bbf5fce2e972c10eb07e16118a88e1a",
+   "station_sha256": "ef1408f58ab8dc0d1b00453ff2da05bfce960b31128f744f372a3ccade4a7b90",
+   "original_wav_sha256": "adce1e9647043166ee5e815f9c7f7a6bf39eb9db91b4b553b3f6c3613743fd8b",
+   "original_wav_filename": "new-jq-05.full.wav"
+  },
+  "new-jq-05#5": {
+   "src": "audio/narration/new-jq-05__s5__d0309f58dbfa.mp3",
+   "text": "파란 길 첫째, 물병의 물을 쏟아 내는 소년, 이팔, 열여섯. 천계가 이르고 정기가 넘쳐 흐르며 음양이 어울려, 아이를 가질 수 있다, 능유자.",
+   "text_sha256": "d0309f58dbfa75c0b49263a113b315c6baf5378d9205a169a247b96c5c164142",
+   "audio_sha256": "8c32e594b787514ba4191f89373787a6a320bfe2afeff8b8c7e0510cd4100964",
+   "image_sha256": "c4bb02e0e2c6f5f80961ca4a416a29a7e211e2df40a93d245bbfc81912a1c01b",
+   "source_commit": "d3d1922d2bbf5fce2e972c10eb07e16118a88e1a",
+   "station_sha256": "dcf03fef897b1daffc6d57b9a3ba3d88a86e21adcabe5171a5b0607724b04e1c",
+   "original_wav_sha256": "adce1e9647043166ee5e815f9c7f7a6bf39eb9db91b4b553b3f6c3613743fd8b",
+   "original_wav_filename": "new-jq-05.full.wav"
+  },
+  "new-jq-05#6": {
+   "src": "audio/narration/new-jq-05__s6__1deca2d04fa0.mp3",
+   "text": "둘째, 근육을 뽐내며 이를 드러내 웃는 청년, 삼팔, 스물넷. 신기가 고르고 근골이 굳세며, 사랑니, 진아가 나서 키가 다 자란다. 영추 천년편은 노년을 사장경맥공허, 네 장부의 경맥이 비었다고 한다.",
+   "text_sha256": "1deca2d04fa081393135969a4987397d5ed656f78a56b76eac085c2dc6f87595",
+   "audio_sha256": "29a1faae6233568ad3e99e9aaff5505d77bfe195855d10cf5a62802d1fb8de65",
+   "image_sha256": "c4bb02e0e2c6f5f80961ca4a416a29a7e211e2df40a93d245bbfc81912a1c01b",
+   "source_commit": "d3d1922d2bbf5fce2e972c10eb07e16118a88e1a",
+   "station_sha256": "1853bc1a6020f245c323e0a648956c915d989c25371205c1ec9a548f0a6c1440",
+   "original_wav_sha256": "adce1e9647043166ee5e815f9c7f7a6bf39eb9db91b4b553b3f6c3613743fd8b",
+   "original_wav_filename": "new-jq-05.full.wav"
+  },
+  "new-jq-05#7": {
+   "src": "audio/narration/new-jq-05__s7__bfcc008acd56.mp3",
+   "text": "셋째, 머리카락이 빠지고 이를 드러낸 중년 남자, 오팔, 마흔. 신기가 쇠해 머리털이 빠지고 이가 마른다. 발타치고.",
+   "text_sha256": "bfcc008acd56b3bf61770a120736a23bfccd1f1c07b745ce71352037d8c78ce3",
+   "audio_sha256": "16c1faf9db43a86b5bafd31a1c0bb3686d23e116310a749984174ce1db703dcc",
+   "image_sha256": "c4bb02e0e2c6f5f80961ca4a416a29a7e211e2df40a93d245bbfc81912a1c01b",
+   "source_commit": "d3d1922d2bbf5fce2e972c10eb07e16118a88e1a",
+   "station_sha256": "784e1b3fd5f82e2d2d095a6a9f240f54f7a967cb0759de375c8934f9d52fb589",
+   "original_wav_sha256": "adce1e9647043166ee5e815f9c7f7a6bf39eb9db91b4b553b3f6c3613743fd8b",
+   "original_wav_filename": "new-jq-05.full.wav"
+  },
+  "new-jq-05#8": {
+   "src": "audio/narration/new-jq-05__s8__53eb8358c79d.mp3",
+   "text": "넷째, 지팡이에 기댄 노인의 물병이 거의 비었다, 칠팔, 쉰여섯. 간기가 쇠해 근을 움직이지 못하고, 천계가 다하고, 정이 적어진다. 남자의 천계가 다하는 것은 칠팔이다.",
+   "text_sha256": "53eb8358c79d48a4b34c22f4284861aec0dc66f67370c2459bca908fa4b9b7f1",
+   "audio_sha256": "311828fcf44784d0ce5673350080731cdb7652f2bb475e5e47e7e1ee5bf16b13",
+   "image_sha256": "c4bb02e0e2c6f5f80961ca4a416a29a7e211e2df40a93d245bbfc81912a1c01b",
+   "source_commit": "d3d1922d2bbf5fce2e972c10eb07e16118a88e1a",
+   "station_sha256": "a930f1c49fc8749a103904643ca55c00352562f1759cdc787eea58c8c5b4d1e3",
+   "original_wav_sha256": "adce1e9647043166ee5e815f9c7f7a6bf39eb9db91b4b553b3f6c3613743fd8b",
+   "original_wav_filename": "new-jq-05.full.wav"
+  },
+  "new-jq-05#9": {
+   "src": "audio/narration/new-jq-05__s9__ea93585ca74c.mp3",
+   "text": "다섯째, 이도 머리털도 없이 웃는 대머리 노인, 팔팔, 예순넷. 이와 머리털이 모두 빠진다, 치발거. 오장이 모두 쇠하고 천계가 다했다.",
+   "text_sha256": "ea93585ca74c1c40db7599f4bac0e9b4e1e995d71337bce00279538356f91480",
+   "audio_sha256": "f2c1d1f062261a6a5d1f07a6fe4bb43fb6b6627e95f51ed406f14fb3774be328",
+   "image_sha256": "c4bb02e0e2c6f5f80961ca4a416a29a7e211e2df40a93d245bbfc81912a1c01b",
+   "source_commit": "d3d1922d2bbf5fce2e972c10eb07e16118a88e1a",
+   "station_sha256": "fd211b5fe10484ae8f888d5583b6c75c34c0bf56f7fed4123960e7d025350153",
+   "original_wav_sha256": "adce1e9647043166ee5e815f9c7f7a6bf39eb9db91b4b553b3f6c3613743fd8b",
+   "original_wav_filename": "new-jq-05.full.wav"
+  },
+  "new-jq-05#10": {
+   "src": "audio/narration/new-jq-05__s10__e2dcb6c461dd.mp3",
+   "text": "다시 본다. 여자는 7, 이칠 빨간 꽃 천계지, 오칠 칙칙한 얼굴과 빠지는 머리, 칠칠 빈 화분 천계갈. 남자는 8, 이팔 쏟아지는 물병 천계지, 삼팔 근육과 드러낸 이, 오팔 빠지는 머리와 마른 이, 칠팔 지팡이와 빈 물병 천계갈, 팔팔 이도 머리털도 없음.",
+   "text_sha256": "e2dcb6c461dde843de5a1c67b5cec2aaf9aec9e853413997a2d6040d8a87d128",
+   "audio_sha256": "962eb69674b57c5fe0f08c602935129da87268f6df081e1fabdb8abf215bf5b2",
+   "image_sha256": "c4bb02e0e2c6f5f80961ca4a416a29a7e211e2df40a93d245bbfc81912a1c01b",
+   "source_commit": "d3d1922d2bbf5fce2e972c10eb07e16118a88e1a",
+   "station_sha256": "f33c1b3f724b23b6e38dda2f812f0bc37e7057309923f7a62cc5f166bf99fcfe",
+   "original_wav_sha256": "adce1e9647043166ee5e815f9c7f7a6bf39eb9db91b4b553b3f6c3613743fd8b",
+   "original_wav_filename": "new-jq-05.full.wav"
   }
  }
 }

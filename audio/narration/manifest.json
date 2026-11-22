@@ -3696,6 +3696,94 @@
    "station_sha256": "7692aa530a7bf70a706fe1d008bae6818eeed794294802155aa353495ef4c859",
    "original_wav_sha256": "ad8d222ab10dcb2d16ac069ad69ac5fbfef5d89d50262ddf74ecbbba2335c58d",
    "original_wav_filename": "qiqing-12.full.wav"
+  },
+  "suchi-02#0": {
+   "src": "audio/narration/suchi-02__s0__f4f008a95172.mp3",
+   "text": "같은 작업대, 같은 긴 팬인데 이번엔 바닥 조각이 새까매. 그런데 잘 봐, 잎 꼴은 그대로 남았지? 겉은 숯처럼 검게 태워도 약의 성질은 남긴다는 초탄존성이야. 무화, 중화로 겉이 초흑, 초갈이 되게 볶는 게 초탄. 이렇게 하면 지혈이 세져, 그래서 손잡이에 반창고. 초탄 대상은 열넷이라 세 장에 나눴어. 첫 장 다섯, 대소백목측.",
+   "text_sha256": "f4f008a95172614785ae1f15f85033b1b7467c052b5f416e3691a46a86d68f5c",
+   "audio_sha256": "d252280abc672b38b6e87573588ea47df34108aca0ffae1636abfe25b60f35f8",
+   "image_sha256": "bf4cca44849e917ab02c542403d1b1bd9f3761222a7f4195cb89634fb709c26e",
+   "source_commit": "25165225ceddea80c002b0c0082203d26e30db81",
+   "station_sha256": "93364e4bf054281b0765b5d3ce341de5acfe7b5d133ff4b1922828e7cbcf54e7",
+   "original_wav_sha256": "be7320d1d095c7a32982b3107d0fbd3b6a79bef6bb8d38ade392b1971e7d80c7",
+   "original_wav_filename": "suchi-02.full.wav"
+  },
+  "suchi-02#1": {
+   "src": "audio/narration/suchi-02__s1__5f5f30c25ee6.mp3",
+   "text": "맨 왼쪽은 집게를 번쩍 치켜든 거대한 대게. 대게, 대계야. 대게가 집게를 휘두르자 옆의 작은 소라게가 오른쪽으로 휙 날아가. 그림에선 집게가 껍데기를 쥐고 있진 않고, 날아가는 소라게 뒤에 움직임 선만 남았어. 대계는 분류에서 양혈지혈약이기도 해.",
+   "text_sha256": "5f5f30c25ee60c70c74ec643fe8332c90406cb8cd04ef2ee0665835db947d925",
+   "audio_sha256": "0682bcb409faafe0819b0f30c3848d6ca36f78f6d917844e970fa830283902c6",
+   "image_sha256": "bf4cca44849e917ab02c542403d1b1bd9f3761222a7f4195cb89634fb709c26e",
+   "source_commit": "25165225ceddea80c002b0c0082203d26e30db81",
+   "station_sha256": "cc9855253717f87987ff71b767d19478e3247bb563a72cc4a88a020cd80cf476",
+   "original_wav_sha256": "be7320d1d095c7a32982b3107d0fbd3b6a79bef6bb8d38ade392b1971e7d80c7",
+   "original_wav_filename": "suchi-02.full.wav"
+  },
+  "suchi-02#2": {
+   "src": "audio/narration/suchi-02__s2__e218df55de27.mp3",
+   "text": "날아가는 건 소라 껍데기에서 빼꼼 내다보는 아주 작은 소라게. 소라게, 소계. 큰 게가 대계, 작은 게가 소계, 크기로 가르면 돼. 둘 다 양혈지혈약이기도 해. 껍데기째 날아가서 옆의 족집게에 쿵 부딪히며 집게로 덥석 붙잡아.",
+   "text_sha256": "e218df55de2777f15618764e37dcf6f33b88eb1e10763b7264c6141f10e6eb7f",
+   "audio_sha256": "390c07a80161ed57fd575c536520edd8bf22184df25aff68c72468aeff5fc188",
+   "image_sha256": "bf4cca44849e917ab02c542403d1b1bd9f3761222a7f4195cb89634fb709c26e",
+   "source_commit": "25165225ceddea80c002b0c0082203d26e30db81",
+   "station_sha256": "67d53deeef8103a3f922084c9b6d5bb8bb6c9a3ef5367eca8e913232bc9b797b",
+   "original_wav_sha256": "be7320d1d095c7a32982b3107d0fbd3b6a79bef6bb8d38ade392b1971e7d80c7",
+   "original_wav_filename": "suchi-02.full.wav"
+  },
+  "suchi-02#3": {
+   "src": "audio/narration/suchi-02__s3__2ad55ec9826b.mp3",
+   "text": "소라게에 부딪힌 족집게가 흰 머리카락 한 올을 쑥 뽑았어. 아래 모근이 비명을 지르지? 흰 백, 모근, 백모근. 탔다고 검어지지 않아, 머리카락은 하얀 그대로야. 뽑힌 머리카락이 오른쪽으로 휘날려 피에로의 커다란 단추에 칭칭 감겨.",
+   "text_sha256": "2ad55ec9826baf6fadff76ba31ab682f96f87edf260ce41c345ed48fc4076417",
+   "audio_sha256": "abc67b309ede1105daf64d8896eaa3e1584ded25a18d12eb6086b6dbf4613d74",
+   "image_sha256": "bf4cca44849e917ab02c542403d1b1bd9f3761222a7f4195cb89634fb709c26e",
+   "source_commit": "25165225ceddea80c002b0c0082203d26e30db81",
+   "station_sha256": "a0591500d81fa06416b6d583083dde6e0db60602acadf0e5b8e3eb034c6d1623",
+   "original_wav_sha256": "be7320d1d095c7a32982b3107d0fbd3b6a79bef6bb8d38ade392b1971e7d80c7",
+   "original_wav_filename": "suchi-02.full.wav"
+  },
+  "suchi-02#4": {
+   "src": "audio/narration/suchi-02__s4__419dc53798f6.mp3",
+   "text": "피에로 얼굴이 새빨개. 목 아래 커다란 단추를 흰 머리카락이 감아 조이니까 숨이 막히거든. 목, 단추, 피에로, 목단피. 교재 수치 줄과 임신신용 줄에서 목 자 글자가 조금 다르지만 같은 약이야. 숨 막힌 피에로가 휘청휘청, 한 손으로 옆 백엽상을 떠밀며 넘어가.",
+   "text_sha256": "419dc53798f659f1e2238cd751560da6199501554244ff7b412ff639c8998ac0",
+   "audio_sha256": "1312fd65af88f80d06246379cd0cfd015d9152dbf3365a5eb966912debbd44d5",
+   "image_sha256": "bf4cca44849e917ab02c542403d1b1bd9f3761222a7f4195cb89634fb709c26e",
+   "source_commit": "25165225ceddea80c002b0c0082203d26e30db81",
+   "station_sha256": "f27304522e7010d5ac8d8b3dde6659019770cfbe68ea2dff529d1b522d1d31db",
+   "original_wav_sha256": "be7320d1d095c7a32982b3107d0fbd3b6a79bef6bb8d38ade392b1971e7d80c7",
+   "original_wav_filename": "suchi-02.full.wav"
+  },
+  "suchi-02#5": {
+   "src": "audio/narration/suchi-02__s5__7bf34d3f007b.mp3",
+   "text": "맨 오른쪽은 지붕에 측우기를 얹은 흰 백엽상. 측우기의 측, 백엽상의 백엽, 측백엽. 백엽상도 하얀 그대로지? 인물들은 제 색이고, 검은 건 팬 속 조각뿐이야. 피에로에 밀린 백엽상이 반창고 감긴 손잡이 쪽으로 기우뚱.",
+   "text_sha256": "7bf34d3f007b933696e8022b87690f3184034d11675f93758dcf27d4cb3d9c48",
+   "audio_sha256": "fbc9780c005ccc916079e128162543c3a54be4850a581b69173a16565d7ea406",
+   "image_sha256": "bf4cca44849e917ab02c542403d1b1bd9f3761222a7f4195cb89634fb709c26e",
+   "source_commit": "25165225ceddea80c002b0c0082203d26e30db81",
+   "station_sha256": "765d05e12de5920a341a945814bce44937ffaeada8b2fca4160a12a564d23407",
+   "original_wav_sha256": "be7320d1d095c7a32982b3107d0fbd3b6a79bef6bb8d38ade392b1971e7d80c7",
+   "original_wav_filename": "suchi-02.full.wav"
+  },
+  "suchi-02#6": {
+   "src": "audio/narration/suchi-02__s6__fb1012499904.mp3",
+   "text": "도미노가 기울어 가는 곳, 팬 손잡이에 반창고가 감겨 있어. 반창고는 피를 멎게 하지, 초탄하면 지혈이 세진다는 표지야. 교재 지혈약 쪽에도 수렴지혈약은 초탄하면 효과가 오른다고 적혀 있어. 초탄 세 장 모두 이 자리에 같은 반창고가 붙어.",
+   "text_sha256": "fb10124999045e3e042ffffed821a3cc7df5783bc2f35f179a1135808269dcef",
+   "audio_sha256": "0199545f266acf4af3ec667a7c93709dc5f514fc35c1a96c524f347509fc4b38",
+   "image_sha256": "bf4cca44849e917ab02c542403d1b1bd9f3761222a7f4195cb89634fb709c26e",
+   "source_commit": "25165225ceddea80c002b0c0082203d26e30db81",
+   "station_sha256": "a877684aef460db65b6583ae0c3f8c054f635fdd0daf10d5ca9a5dff9055b61d",
+   "original_wav_sha256": "be7320d1d095c7a32982b3107d0fbd3b6a79bef6bb8d38ade392b1971e7d80c7",
+   "original_wav_filename": "suchi-02.full.wav"
+  },
+  "suchi-02#7": {
+   "src": "audio/narration/suchi-02__s7__0bb29a820aa3.mp3",
+   "text": "한 바퀴 다시. 대게가 소라게를 던지고, 소라게가 족집게에 부딪혀 흰 머리카락이 뽑히고, 그 머리카락이 피에로 단추를 조이고, 숨 막힌 피에로가 백엽상에 쓰러져 백엽상이 반창고 쪽으로 기우뚱. 대소백목측. 팬 조각이 갈색이던 앞 장은 초초, 새까만 이 장은 초탄, 시험이 이 둘을 바꿔 내. 다음 장은 같은 팬의 둘째 마디, 천관괴건오.",
+   "text_sha256": "0bb29a820aa38286f22b0083943e1278c083cf8d0fb2a3de4a6617d83e255adb",
+   "audio_sha256": "75ed0a05e8c26d0bb1c08e0f9afef01ba8b476735a30d3602132a9abae33648d",
+   "image_sha256": "bf4cca44849e917ab02c542403d1b1bd9f3761222a7f4195cb89634fb709c26e",
+   "source_commit": "25165225ceddea80c002b0c0082203d26e30db81",
+   "station_sha256": "b7f952dff6b6783141e0acc5d42e4f5848bcbff131d2317b86765195a1c425ef",
+   "original_wav_sha256": "be7320d1d095c7a32982b3107d0fbd3b6a79bef6bb8d38ade392b1971e7d80c7",
+   "original_wav_filename": "suchi-02.full.wav"
   }
  }
 }

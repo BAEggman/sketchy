@@ -4,7 +4,7 @@ R=Path('/home/claude/work'); lid=sys.argv[1]; wav=Path(sys.argv[2])
 L=json.loads((R/f'src/lessons/l/{lid}.json').read_text())
 sts=L['stations']; N=len(sts)
 sha=lambda b:hashlib.sha256(b).hexdigest()
-out=subprocess.run(['ffmpeg','-hide_banner','-i',str(wav),'-af','silencedetect=noise=-45dB:d=1.5','-f','null','-'],capture_output=True,text=True).stderr
+out=subprocess.run(['ffmpeg','-hide_banner','-i',str(wav),'-af','silencedetect=noise=-45dB:d=2.6','-f','null','-'],capture_output=True,text=True).stderr
 dur=float(re.search(r'Duration: (\d+):(\d+):([\d.]+)',out).group(1))*3600+float(re.search(r'Duration: (\d+):(\d+):([\d.]+)',out).group(2))*60+float(re.search(r'Duration: (\d+):(\d+):([\d.]+)',out).group(3))
 ss=[float(x) for x in re.findall(r'silence_start: ([\d.]+)',out)]
 se=[float(x) for x in re.findall(r'silence_end: ([\d.]+)',out)]

@@ -7832,6 +7832,105 @@
    "station_sha256": "c2934d412134327e67376cba48b6f0b5660a964a9fc76cd07b0ca2d2f3cf09d7",
    "original_wav_sha256": "a8fe93e120c166eeba58b681f141f3f139c925a70022a8a9d89a2c2249695123",
    "original_wav_filename": "new-jq-10.full.wav"
+  },
+  "new-jq-11#0": {
+   "src": "audio/narration/new-jq-11__s0__acc4d4c4c0c6.mp3",
+   "text": "숲속 야영장이다. 영은 진을 치고 머문다는 글자, 텐트 안을 도는 맑은 물길이 영기다. 위는 지킨다는 글자, 울타리 밖을 달리는 개들이 위기다. 둘 다 음식, 수곡에서 나왔지만, 영은 맥 안, 위는 맥 밖이다.",
+   "text_sha256": "acc4d4c4c0c6b924e2bbdc7d8e25f83360673264e0c628b85dd185a16c997ac9",
+   "audio_sha256": "d33d2c75dc7663767a5c9dfcbbea6a26a0baf507471cdab4a1ba9a36adac0603",
+   "image_sha256": "8fb94096620eeb80daca406ed8aaf6f2f11c89061ffb759aeec3425b92f7bb32",
+   "source_commit": "22fa473b19c2fe7164980b17c2fb518afd8145fd",
+   "station_sha256": "8d9dde0e0148a374b34d50e966b8fd07368f64107100a99d8c185cc67683e7ed",
+   "original_wav_sha256": "c47d6db2e61b6de9e05cc9e1c55a92959d607ea61eaa200c9c6c9d7af461c5a1",
+   "original_wav_filename": "new-jq-11.full.wav"
+  },
+  "new-jq-11#1": {
+   "src": "audio/narration/new-jq-11__s1__48236af25520.mp3",
+   "text": "텐트 안, 노란 앞치마 요리사, 위가 냄비의 맑은 물을 바닥 물길에 붓는다. 영자 수곡지정기야, 영기는 음식의 정미로운 기운이다. 맥 안을 흐르며 혈을 만들고 온몸을 먹여 기른다. 다른 이름은 영혈, 영음. 중초에서 시작해 십이경맥을 돈다.",
+   "text_sha256": "48236af25520ef15dc168163d1da0d9533e31000da15921f152e1b4021cc7242",
+   "audio_sha256": "d1243e406d5c603feca99947d321fd722867bdb929e564e11eb3b77ada469f96",
+   "image_sha256": "8fb94096620eeb80daca406ed8aaf6f2f11c89061ffb759aeec3425b92f7bb32",
+   "source_commit": "22fa473b19c2fe7164980b17c2fb518afd8145fd",
+   "station_sha256": "0734f4c36265286dbe44f181da178ec63b76cbde71624996c3092b597fa2c79f",
+   "original_wav_sha256": "c47d6db2e61b6de9e05cc9e1c55a92959d607ea61eaa200c9c6c9d7af461c5a1",
+   "original_wav_filename": "new-jq-11.full.wav"
+  },
+  "new-jq-11#2": {
+   "src": "audio/narration/new-jq-11__s2__d08bef84f691.mp3",
+   "text": "맑은 물은 텐트 안, 흙투성이 개들은 울타리 밖. 영추 영위생회, 청자위영 탁자위위, 맑은 것은 영, 탁한 것은 위. 영재맥중 위재맥외, 영은 맥 안, 위는 맥 밖에 있다.",
+   "text_sha256": "d08bef84f691239c441e191a749c4ef2f043cd75eda8010bd8aabaf31b6de1ef",
+   "audio_sha256": "19bcb8ce3f14f29a822f2831c9ac5d8c1ea2011e5b5b23e0cb61c4f5357f009e",
+   "image_sha256": "8fb94096620eeb80daca406ed8aaf6f2f11c89061ffb759aeec3425b92f7bb32",
+   "source_commit": "22fa473b19c2fe7164980b17c2fb518afd8145fd",
+   "station_sha256": "a0890aa1ac28b1da5a90f0163d482c07fddef9b38a2b3800d462f30c14ec0537",
+   "original_wav_sha256": "c47d6db2e61b6de9e05cc9e1c55a92959d607ea61eaa200c9c6c9d7af461c5a1",
+   "original_wav_filename": "new-jq-11.full.wav"
+  },
+  "new-jq-11#3": {
+   "src": "audio/narration/new-jq-11__s3__9e5d15187175.mp3",
+   "text": "요리사가 부은 자리를 지나며 물길의 물이 빨갛게 변한다. 영추 사객, 영기자 비기진액 주지어맥 화이위혈. 영기는 진액을 걸러 맥에 붓고, 그것이 변해 혈이 된다. 그래서 영기는 혈의 주요 성분이다.",
+   "text_sha256": "9e5d151871752ec07291cf63f00f61446b241f51c5f34a0394ea919b557ac3ba",
+   "audio_sha256": "148f3a11fa1550e1b744af8fb6a7b48f49b25bc9f47976dea161c0b56b874039",
+   "image_sha256": "8fb94096620eeb80daca406ed8aaf6f2f11c89061ffb759aeec3425b92f7bb32",
+   "source_commit": "22fa473b19c2fe7164980b17c2fb518afd8145fd",
+   "station_sha256": "a414958f932b162fffa2e4829f3303cdbd397ef391f4b8682f446daac094c949",
+   "original_wav_sha256": "c47d6db2e61b6de9e05cc9e1c55a92959d607ea61eaa200c9c6c9d7af461c5a1",
+   "original_wav_filename": "new-jq-11.full.wav"
+  },
+  "new-jq-11#4": {
+   "src": "audio/narration/new-jq-11__s4__c95f2ab2c4e1.mp3",
+   "text": "물길은 둥근 고리다, 시작도 끝도 없이 빙빙 돈다. 영기는 맥 안을 따라 팔다리와 살 사이, 사지분육지간을 두루 돌아 여환무단, 고리처럼 끝이 없다. 혈을 만들고 온몸을 먹인다.",
+   "text_sha256": "c95f2ab2c4e14ec353f08d26cf45d12a70a6931cc5c25a9dea0323c469adf88f",
+   "audio_sha256": "ed406bf07d6b8de91fa92157aadc7852b22465dcc2cd3cefac34fee43931339e",
+   "image_sha256": "8fb94096620eeb80daca406ed8aaf6f2f11c89061ffb759aeec3425b92f7bb32",
+   "source_commit": "22fa473b19c2fe7164980b17c2fb518afd8145fd",
+   "station_sha256": "8585f3ed9242b893f7071e69204071e7ed8f3c8f574b48d65d9f27c8a920c489",
+   "original_wav_sha256": "c47d6db2e61b6de9e05cc9e1c55a92959d607ea61eaa200c9c6c9d7af461c5a1",
+   "original_wav_filename": "new-jq-11.full.wav"
+  },
+  "new-jq-11#5": {
+   "src": "audio/narration/new-jq-11__s5__27252081037e.mp3",
+   "text": "울타리 밖, 갈색 개들이 이를 드러내고 쏜살같이 달린다. 위기는 수곡지한기, 음식의 사나운 기운이다. 표질활리, 사납고 빠르고 미끄러워 맥 안에 갇히지 않고 맥 밖으로 다닌다. 함정 보기, 종기를 신중정기에, 영기를 맥외 방어에, 원기를 흉중 허리에 붙이면 틀린다. 중초에서 시작하는 것은 영기다.",
+   "text_sha256": "27252081037e4ae7f74ea269c046250c8e2ff1fea411907f5d3f5609e2e40dc3",
+   "audio_sha256": "fb82f9278a1d46ab8dc5f9238994e2931a9b9fd1e00a525bf5dc8b78bd2f1b5d",
+   "image_sha256": "8fb94096620eeb80daca406ed8aaf6f2f11c89061ffb759aeec3425b92f7bb32",
+   "source_commit": "22fa473b19c2fe7164980b17c2fb518afd8145fd",
+   "station_sha256": "bcd6be4b3cdd99e4f9bb922aa80e3932534017ac4ff1d1bce0aa1ca46fcbf1b9",
+   "original_wav_sha256": "c47d6db2e61b6de9e05cc9e1c55a92959d607ea61eaa200c9c6c9d7af461c5a1",
+   "original_wav_filename": "new-jq-11.full.wav"
+  },
+  "new-jq-11#6": {
+   "src": "audio/narration/new-jq-11__s6__e0ff4e1f316c.mp3",
+   "text": "오른쪽 위, 개가 숲에서 나온 늑대를 쫓아낸다. 위기는 맥 밖에서 외사의 침입을 막는다. 다른 이름은 위양, 부기, 탁기, 바깥에 떠서 지키는 탁한 양의 기운. 위자 원기지별명이라고도 한다.",
+   "text_sha256": "e0ff4e1f316ca2480ebdc2b1d71fbb41fbf28d53e5cf16480ca1017832c4c4ef",
+   "audio_sha256": "af26563e98cc085bc1da8a7f051707fa297b855174e62d03a7fd22da038842c2",
+   "image_sha256": "8fb94096620eeb80daca406ed8aaf6f2f11c89061ffb759aeec3425b92f7bb32",
+   "source_commit": "22fa473b19c2fe7164980b17c2fb518afd8145fd",
+   "station_sha256": "8e71b1b47acbfc76d9a88042596daae452cb818dcc436567c7ed5ed4f5ad7f67",
+   "original_wav_sha256": "c47d6db2e61b6de9e05cc9e1c55a92959d607ea61eaa200c9c6c9d7af461c5a1",
+   "original_wav_filename": "new-jq-11.full.wav"
+  },
+  "new-jq-11#7": {
+   "src": "audio/narration/new-jq-11__s7__3fadc9684729.mp3",
+   "text": "위기가 하는 일 넷, 영추 본장. 모닥불이 사람의 살을 데운다, 온분육. 텐트 천이 팽팽하게 차 있다, 충피부, 피부를 채운다. 바닥 매트가 두툼하다, 비주리, 살결을 도탑게 한다. 손이 지퍼를 여닫는다, 사개합, 땀구멍의 열고 닫음을 맡는다. 위기자 소이온분육 충피부 비주리 사개합자야.",
+   "text_sha256": "3fadc9684729c362f477d91f394199ed0acf6c5c7e49e242f8472c7666454974",
+   "audio_sha256": "576dc7e6f7a13bd57a8371d99831fa02cd00bc2c4434a18342307b05c952acca",
+   "image_sha256": "8fb94096620eeb80daca406ed8aaf6f2f11c89061ffb759aeec3425b92f7bb32",
+   "source_commit": "22fa473b19c2fe7164980b17c2fb518afd8145fd",
+   "station_sha256": "bc5867d5e0ca6c5e5764fa99b3a07ae258554a0798a25aaf43e17dcb628ad804",
+   "original_wav_sha256": "c47d6db2e61b6de9e05cc9e1c55a92959d607ea61eaa200c9c6c9d7af461c5a1",
+   "original_wav_filename": "new-jq-11.full.wav"
+  },
+  "new-jq-11#8": {
+   "src": "audio/narration/new-jq-11__s8__4cc8fd137002.mp3",
+   "text": "다시 본다. 요리사가 붓는 맑은 물, 영자수곡지정기, 맑은 것은 영, 맥 안. 물길이 빨개진다, 주지어맥 화이위혈. 끝없는 고리, 여환무단. 울타리 밖 흙투성이 개들, 탁자위위, 수곡지한기, 표질활리, 맥 밖. 늑대를 쫓음, 외사 방어, 위양, 부기, 탁기. 모닥불 온분육, 팽팽한 천 충피부, 두툼한 매트 비주리, 지퍼 사개합.",
+   "text_sha256": "4cc8fd137002016182c5041eb1a1c2a03a2a461afb6af770b9ddbdb963a7f02b",
+   "audio_sha256": "c536e2fa7d4eeb26d2590e156f11ab26a222cc9c4d4dd19cb14a6ded2291ef20",
+   "image_sha256": "8fb94096620eeb80daca406ed8aaf6f2f11c89061ffb759aeec3425b92f7bb32",
+   "source_commit": "22fa473b19c2fe7164980b17c2fb518afd8145fd",
+   "station_sha256": "cf3d1489b4f7ae8d8a60ec0aaa66a8caa9860670db3778ff5ed1df28c7b45fdd",
+   "original_wav_sha256": "c47d6db2e61b6de9e05cc9e1c55a92959d607ea61eaa200c9c6c9d7af461c5a1",
+   "original_wav_filename": "new-jq-11.full.wav"
   }
  }
 }

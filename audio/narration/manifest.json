@@ -6204,6 +6204,138 @@
    "station_sha256": "f28f2046892cc98f935e7936dc9ac09b208d666bf22f31a3f425ab27689422f4",
    "original_wav_sha256": "9320319df6c2af6a819504eb8349643e114505137792a425def80a9277eb29a6",
    "original_wav_filename": "new-uk-13.full.wav"
+  },
+  "new-uk-14#0": {
+   "src": "audio/narration/new-uk-14__s0__f3da1f87a807.mp3",
+   "text": "동네 세탁소다. 옷걸이마다 셋, 위에 고리, 가운데 옷, 아래 꼬리표. 고리에 단 장식이 본, 육기. 아래 꼬리표가 표, 삼음삼양. 그 사이에 걸린 옷이 중기, 본의 아래, 표의 위. 옷걸이는 리본으로 둘씩 묶였다. 묶인 짝이 표리이고, 짝끼리 서로의 옷을 입고 있다.",
+   "text_sha256": "f3da1f87a807a0cd955724edb3dd0c8b31bf5170b66a5d3f5a3d93cde531a0b1",
+   "audio_sha256": "40d6bd541c9f48ca580fa952e7dfb44c2530cb189e3c725b496b0872eee8043c",
+   "image_sha256": "2ac6caba9a8e717745922ee999cb28ac3ed813c83eee0b7449be27a565579b72",
+   "source_commit": "6d532d91ca0bc291cff290140a3bd9419db6809f",
+   "station_sha256": "54ebd0b1d982e89c215ebc614d7a7980048ed8b6f820eaf9002f98250e13376d",
+   "original_wav_sha256": "7807f39d985ee30bd8f417aa73ab6eff6133e4b843a1380223877cbeda31f3f1",
+   "original_wav_filename": "new-uk-14.full.wav"
+  },
+  "new-uk-14#1": {
+   "src": "audio/narration/new-uk-14__s1__9619bd38d417.mp3",
+   "text": "위 고리의 장식을 본다. 눈송이, 한. 빨갛게 단 불씨, 서, 열. 작은 불꽃, 화. 바람 소용돌이, 풍. 마른 잎, 조. 물방울, 습. 옷걸이를 거는 고리, 곧 근원이 본, 풍한서습조화, 하늘의 육기다.",
+   "text_sha256": "9619bd38d417ce57d0a407a18b01e363742d10deb197f6ea7bd5c761119005dd",
+   "audio_sha256": "c10d9725f6c28e662c801e170a45711646430e71f858790f145ba9c5a1f07b6a",
+   "image_sha256": "2ac6caba9a8e717745922ee999cb28ac3ed813c83eee0b7449be27a565579b72",
+   "source_commit": "6d532d91ca0bc291cff290140a3bd9419db6809f",
+   "station_sha256": "e0e46059cda617bc46ecf40c523f9baef3d85202c831d40b752b727e23b7b6bf",
+   "original_wav_sha256": "7807f39d985ee30bd8f417aa73ab6eff6133e4b843a1380223877cbeda31f3f1",
+   "original_wav_filename": "new-uk-14.full.wav"
+  },
+  "new-uk-14#2": {
+   "src": "audio/narration/new-uk-14__s2__b5423cf91de5.mp3",
+   "text": "아래 꼬리표. 큰 해 태양, 초승달 소음, 작은 해 소양, 까만 원 궐음, 해와 달 양명, 보름달 태음. 본이 겉으로 드러난 표식이 표, 삼음삼양이다. 고리는 한인데 꼬리표는 큰 해, 이렇게 본과 표가 엇갈리는 옷걸이도 있다.",
+   "text_sha256": "b5423cf91de5cc609929b32131724ab8729c2a9803fed5f60d8cdba2383852f4",
+   "audio_sha256": "e0f74deaa34b969a39a5270da85989d23593535fef544ebc816668a6b6bd7e0b",
+   "image_sha256": "2ac6caba9a8e717745922ee999cb28ac3ed813c83eee0b7449be27a565579b72",
+   "source_commit": "6d532d91ca0bc291cff290140a3bd9419db6809f",
+   "station_sha256": "8875cb5197ed08d76fcaca303b69d67599b03b8f71e9ce0c73afa5aa65bf4340",
+   "original_wav_sha256": "7807f39d985ee30bd8f417aa73ab6eff6133e4b843a1380223877cbeda31f3f1",
+   "original_wav_filename": "new-uk-14.full.wav"
+  },
+  "new-uk-14#3": {
+   "src": "audio/narration/new-uk-14__s3__88d7910683cd.mp3",
+   "text": "가운데 옷을 본다. 리본으로 묶인 짝이 셋, 태양과 소음, 소양과 궐음, 양명과 태음. 표리의 짝이다. 그리고 짝끼리 서로의 본을 옷으로 입었다. 이 가운데 옷이 중기, 본의 아래, 표의 위에 있는 표리지기. 한열 짝, 풍화 짝, 조습 짝으로 외운다.",
+   "text_sha256": "88d7910683cd997cbbe9e07df82767e36ae5ceef9492d76efd055b1d04a6567a",
+   "audio_sha256": "99d15c8a1b314b02d1adacf5913f236b87091356af441aafc9e8407e800dd0f1",
+   "image_sha256": "2ac6caba9a8e717745922ee999cb28ac3ed813c83eee0b7449be27a565579b72",
+   "source_commit": "6d532d91ca0bc291cff290140a3bd9419db6809f",
+   "station_sha256": "4d46c144c22ae3d12cc01ee205401c940990c414450c9507eed2158b2d79189b",
+   "original_wav_sha256": "7807f39d985ee30bd8f417aa73ab6eff6133e4b843a1380223877cbeda31f3f1",
+   "original_wav_filename": "new-uk-14.full.wav"
+  },
+  "new-uk-14#4": {
+   "src": "audio/narration/new-uk-14__s4__1ecf6939cd21.mp3",
+   "text": "첫째 짝, 한열. 눈송이 고리에 큰 해 꼬리표, 태양한수 옷걸이가 불꽃 무늬 빨간 스웨터를 입었다. 태양의 중기는 소음군화, 그래서 족태양방광경의 중기는 소음군화. 옆의 불씨 고리에 초승달 꼬리표, 소음군화 옷걸이는 얼음 낀 파란 비옷. 소음의 중기는 태양한수, 수소음심경의 중기도 태양한수.",
+   "text_sha256": "1ecf6939cd21a0cc43b39f5d398b282fabec6bb6432e3261c250a5dccf8b7a13",
+   "audio_sha256": "a19ccf325e74bd622eae8d51f60cf4f78027552b1a1c678424dd10b363fb09f6",
+   "image_sha256": "2ac6caba9a8e717745922ee999cb28ac3ed813c83eee0b7449be27a565579b72",
+   "source_commit": "6d532d91ca0bc291cff290140a3bd9419db6809f",
+   "station_sha256": "39f6287409e4efeeb8b85f077056a8525f62c7d34b2171c8f0a72d66b6be1846",
+   "original_wav_sha256": "7807f39d985ee30bd8f417aa73ab6eff6133e4b843a1380223877cbeda31f3f1",
+   "original_wav_filename": "new-uk-14.full.wav"
+  },
+  "new-uk-14#5": {
+   "src": "audio/narration/new-uk-14__s5__b085c78aaede.mp3",
+   "text": "둘째 짝, 풍화. 불꽃 고리에 작은 해 꼬리표, 소양상화 옷걸이가 바람에 펄럭이는 초록 셔츠를 입었다. 소양의 중기는 궐음풍목, 수소양삼초경의 중기. 바람 고리에 까만 원 꼬리표, 궐음풍목 옷걸이는 불꽃 무늬 주황 셔츠. 궐음의 중기는 소양상화, 족궐음간경의 중기.",
+   "text_sha256": "b085c78aaede5cd5b847765c1603600ea769552da8e2a8eb8858b67590ea6293",
+   "audio_sha256": "36ebaea13435949f51201b4471224f129a2c3f08f4247c09adbdb58e59d2bc82",
+   "image_sha256": "2ac6caba9a8e717745922ee999cb28ac3ed813c83eee0b7449be27a565579b72",
+   "source_commit": "6d532d91ca0bc291cff290140a3bd9419db6809f",
+   "station_sha256": "608cd89605c8d89ae0461be6e2895ef2d4061e4b23c87bd46810fefee778cdc8",
+   "original_wav_sha256": "7807f39d985ee30bd8f417aa73ab6eff6133e4b843a1380223877cbeda31f3f1",
+   "original_wav_filename": "new-uk-14.full.wav"
+  },
+  "new-uk-14#6": {
+   "src": "audio/narration/new-uk-14__s6__765b0423a9cb.mp3",
+   "text": "셋째 짝, 조습. 마른 잎 고리에 해와 달 꼬리표, 양명조금 옷걸이가 물이 뚝뚝 듣는 젖은 수건을 입었다. 수양명대장경은 본이 조, 표가 양명, 중기가 습, 태음습토. 중기를 조라 하면 틀린다, 조는 본이다. 물방울 고리에 보름달 꼬리표, 태음습토 옷걸이는 바싹 마른 리넨. 족태음비경의 중기는 양명조금.",
+   "text_sha256": "765b0423a9cb8eacae5a51428d1d7a7800d0825fe1c8b29f056dbee64aa6dc85",
+   "audio_sha256": "51e693a65ae782adb399f30bdd325f6d84cfa43fe37ecb66d546c9d4b51d7491",
+   "image_sha256": "2ac6caba9a8e717745922ee999cb28ac3ed813c83eee0b7449be27a565579b72",
+   "source_commit": "6d532d91ca0bc291cff290140a3bd9419db6809f",
+   "station_sha256": "e98591ead1ad5cf3aee4de4c2e2cb800bb04277c00d1ef4d1a954886d96071d6",
+   "original_wav_sha256": "7807f39d985ee30bd8f417aa73ab6eff6133e4b843a1380223877cbeda31f3f1",
+   "original_wav_filename": "new-uk-14.full.wav"
+  },
+  "new-uk-14#7": {
+   "src": "audio/narration/new-uk-14__s7__33a76ed08b1c.mp3",
+   "text": "고리와 꼬리표가 같은 편인 옷걸이. 불꽃 고리에 작은 해, 소양은 본 화도 양, 표 소양도 양. 물방울 고리에 보름달, 태음은 본 습도 음, 표 태음도 음. 본과 표가 같으니 본을 따른다, 소양, 태음은 종본.",
+   "text_sha256": "33a76ed08b1c2e3316cf1c0962373f64ed4e3ea8df94cec6198576e9738f66ae",
+   "audio_sha256": "eda86c0a95db5512336da3659330ea4f6d5dc9830a7b577d06b26d24b83d6230",
+   "image_sha256": "2ac6caba9a8e717745922ee999cb28ac3ed813c83eee0b7449be27a565579b72",
+   "source_commit": "6d532d91ca0bc291cff290140a3bd9419db6809f",
+   "station_sha256": "646e24dd1eb1718a6d02547d164723ab9c9789dfdde1cf5035caae8bf5e728cc",
+   "original_wav_sha256": "7807f39d985ee30bd8f417aa73ab6eff6133e4b843a1380223877cbeda31f3f1",
+   "original_wav_filename": "new-uk-14.full.wav"
+  },
+  "new-uk-14#8": {
+   "src": "audio/narration/new-uk-14__s8__778b99b921cf.mp3",
+   "text": "고리와 꼬리표가 엇갈리는 옷걸이. 눈송이 고리에 큰 해, 태양은 본이 한, 표가 양. 불씨 고리에 초승달, 소음은 본이 열, 표가 음. 본과 표가 서로 다르니 어느 한쪽만 따를 수 없다, 소음, 태양은 종본종표, 본도 표도 따른다. 그래서 태양병에도 한증, 열증이, 소음병에도 한화, 열화가 있다.",
+   "text_sha256": "778b99b921cfe397e4b575b21723f0e595adbb7c104579a75de174ae4c23a1af",
+   "audio_sha256": "6b339b1c62558122d6324ddc9c3f4fadb30788f7bb8e58f1e47c671f20dddba4",
+   "image_sha256": "2ac6caba9a8e717745922ee999cb28ac3ed813c83eee0b7449be27a565579b72",
+   "source_commit": "6d532d91ca0bc291cff290140a3bd9419db6809f",
+   "station_sha256": "3ccc71f0c48c772f2a9c00225283beedaafb7428561c25389ef60673fc3eb7a2",
+   "original_wav_sha256": "7807f39d985ee30bd8f417aa73ab6eff6133e4b843a1380223877cbeda31f3f1",
+   "original_wav_filename": "new-uk-14.full.wav"
+  },
+  "new-uk-14#9": {
+   "src": "audio/narration/new-uk-14__s9__d87c84d9f888.mp3",
+   "text": "가운데 옷이 다른 옷보다 훨씬 크고 길게 늘어진 옷걸이가 둘, 고리보다도 꼬리표보다도 옷이 눈에 띈다. 바람 고리의 불꽃 셔츠, 궐음은 풍이 중기 상화를 따른다. 마른 잎 고리의 젖은 수건, 양명은 조가 중기 습을 따른다. 지진요대론, 양명궐음 부종표본 종호중야. 소양태음 종본, 소음태양 종본종표와 함께 세 줄로 외운다.",
+   "text_sha256": "d87c84d9f8884388e2d6f47f9df888e28246f561d4da68f112076042ccffb7fa",
+   "audio_sha256": "35d5063d94d4a3bde6e0a0b8ee518b73acf9ee4095a6fbac97b95838c16a3998",
+   "image_sha256": "2ac6caba9a8e717745922ee999cb28ac3ed813c83eee0b7449be27a565579b72",
+   "source_commit": "6d532d91ca0bc291cff290140a3bd9419db6809f",
+   "station_sha256": "fe3aa0bf9359e7b057275eb960bd71712cfcb4977c12b3e16c0a4fabac5bd946",
+   "original_wav_sha256": "7807f39d985ee30bd8f417aa73ab6eff6133e4b843a1380223877cbeda31f3f1",
+   "original_wav_filename": "new-uk-14.full.wav"
+  },
+  "new-uk-14#10": {
+   "src": "audio/narration/new-uk-14__s10__7d090937fced.mp3",
+   "text": "오른쪽 끝. 보름달 꼬리표 바구니가 도르래에 끌려 올라간다, 삼음경은 오르고, 그중 비경 태음의 습이 오르는 힘이 우세하다. 해와 달 꼬리표 자루는 통로를 미끄러져 내려간다, 삼양경은 내리고, 그중 대장경 양명의 조가 내리는 힘이 우세하다. 본기의 운동이 먼저인 승제의 승강이다.",
+   "text_sha256": "7d090937fced48b46c5f6d168e0095024035d6296f5b876286a434e59658b8d0",
+   "audio_sha256": "3c74d73a72a742e3685269b8a086c55af756f13abfb69e5a92a82504c8c9bbb5",
+   "image_sha256": "2ac6caba9a8e717745922ee999cb28ac3ed813c83eee0b7449be27a565579b72",
+   "source_commit": "6d532d91ca0bc291cff290140a3bd9419db6809f",
+   "station_sha256": "fc293f93d8d1f90480c67c8f0f43282314e0008cffcf86a02a70117b2404ed8c",
+   "original_wav_sha256": "7807f39d985ee30bd8f417aa73ab6eff6133e4b843a1380223877cbeda31f3f1",
+   "original_wav_filename": "new-uk-14.full.wav"
+  },
+  "new-uk-14#11": {
+   "src": "audio/narration/new-uk-14__s11__2109d75713d5.mp3",
+   "text": "다시 본다. 고리가 본 육기, 꼬리표가 표 삼음삼양, 가운데 옷이 중기, 표리의 짝 태양소음, 소양궐음, 양명태음이 서로의 본을 입었다. 한열, 풍화, 조습. 고리와 꼬리표가 한편인 소양, 태음은 종본, 엇갈린 소음, 태양은 종본종표, 옷이 유난히 큰 양명, 궐음은 종중. 바구니는 태음 오르고, 자루는 양명 내린다.",
+   "text_sha256": "2109d75713d5af9ef0578259afa80814c8946943b9fe3069e4c1f521c483992c",
+   "audio_sha256": "9bc81392158585a426c82c9b0504963f0ba3c2ee9959949638afca3b2b35521f",
+   "image_sha256": "2ac6caba9a8e717745922ee999cb28ac3ed813c83eee0b7449be27a565579b72",
+   "source_commit": "6d532d91ca0bc291cff290140a3bd9419db6809f",
+   "station_sha256": "88a2551aaf79d7c74ee81acb25d0225441fa2f0d8b159ec82b3dbab6d9bb5e9e",
+   "original_wav_sha256": "7807f39d985ee30bd8f417aa73ab6eff6133e4b843a1380223877cbeda31f3f1",
+   "original_wav_filename": "new-uk-14.full.wav"
   }
  }
 }

@@ -4642,6 +4642,105 @@
    "station_sha256": "8a8fbd0ba6d49b6f939d6e5d9161011c19da0054b251275951ceb2a38ab5c5ea",
    "original_wav_sha256": "de9befe4065bfa6d8035ab9ad2ee4462c0f63a710f9406e87de16e687fa36207",
    "original_wav_filename": "suchi-15.full.wav"
+  },
+  "suchi-17#0": {
+   "src": "audio/narration/suchi-17__s0__5f42b859875f.mp3",
+   "text": "이번 작업대는 대장간 화로야. 숯불이 벌겋게 깔렸고, 다들 그 위에 바로 앉았어, 솥이나 물통에 넣지 않고 숯 위에 바로. 단법은 화로 불이나 불에 견디는 그릇에서 삼백에서 칠백 도로 세게 굽는 법이고, 그중 명단법이야. 그림에서 솥이나 물통 없이 숯 위에 바로 놓인 건, 달군 뒤 액체에 담그는 단쉬법, 밀폐해서 굽는 민단법과 가르려는 표지야. 회색 재 띠가 둘로 갈라, 백붕석대, 모적.",
+   "text_sha256": "5f42b859875f964668714000aea3641b29ed687e1c70a508473f6fb7f4f9673c",
+   "audio_sha256": "a11d84bfd83dd90983d44fa213c3ec7eabbfca162eed506bfb11b53a2dc1e5b5",
+   "image_sha256": "fbf1148e0ca29c652c37673d7e63a99b3ff27cc89e6c08aa102feea76399fdd7",
+   "source_commit": "d72135b6fde88f3d34478dafba1de4781969f4a8",
+   "station_sha256": "f1099c006cd9501d652e8f38bedd353eebf437c9d28e94ff24a2c92ceec33a22",
+   "original_wav_sha256": "435f7d9e338e6bfba95787d0773bbdf5e3d4d848a411aca5666e246de746cf1a",
+   "original_wav_filename": "suchi-17.full.wav"
+  },
+  "suchi-17#1": {
+   "src": "audio/narration/suchi-17__s1__5de4fabbe206.mp3",
+   "text": "맨 왼쪽은 숯 위에 차린 백반 한 상. 그런데 밥공기엔 밥 대신 하얀 결정덩이, 백반. 숯불에 달궈지자 하얀 덩어리가 뻥튀기처럼 부풀고 흰 김이 퐁퐁. 그림에선 부푼 덩어리가 옆 국그릇 쪽에서 솟았지만, 부푼 건 백반이야. 부풀어 성겨지는 것, 그리고 그림의 흰 김은 결정수를 없앤다는 표시, 명단 첫째 성기게 · 결정수 없앰. 부푼 덩어리가 옆 붕붕카를 밀어.",
+   "text_sha256": "5de4fabbe2062c3959fa91b9cce508b44f3b2e2d1272e4f1a7cb7468e3f662fc",
+   "audio_sha256": "5a0e2d8e733b614dbbf6fa6a8ac0be76c664160ace3c5e47389492ca9ea60028",
+   "image_sha256": "fbf1148e0ca29c652c37673d7e63a99b3ff27cc89e6c08aa102feea76399fdd7",
+   "source_commit": "d72135b6fde88f3d34478dafba1de4781969f4a8",
+   "station_sha256": "efebe20ec0eb9a23f07bedd6c137aece23cdfc00d68220318dd613a0ee7a5c19",
+   "original_wav_sha256": "435f7d9e338e6bfba95787d0773bbdf5e3d4d848a411aca5666e246de746cf1a",
+   "original_wav_filename": "suchi-17.full.wav"
+  },
+  "suchi-17#2": {
+   "src": "audio/narration/suchi-17__s2__4e1ce2b49134.mp3",
+   "text": "둘째는 장난감 붕붕카를 모는 사슴. 붕붕카의 붕, 사슴의 사, 붕사. 사슴이라고 녹용 쪽으로 읽지 마, 운전자일 뿐이야. 밀린 차가 붕 떠서 앞 범퍼로 옆 전복을 쿵. 붕사는 수치 상용보료의 고체보료 목록에도 있어, 보료로도, 명단 대상으로도 나와.",
+   "text_sha256": "4e1ce2b49134b70d46133adafbd86a35ae8e1dbbef7c743950a3f124690e6a01",
+   "audio_sha256": "5a500dd6fc9bd20091169dff9e3366e5b8ea42c29c66c5d90777d1d670c33b80",
+   "image_sha256": "fbf1148e0ca29c652c37673d7e63a99b3ff27cc89e6c08aa102feea76399fdd7",
+   "source_commit": "d72135b6fde88f3d34478dafba1de4781969f4a8",
+   "station_sha256": "329fc8c7d848f71ea59a72063acf092986d4adeb9c1092324beb2e76b4746856",
+   "original_wav_sha256": "435f7d9e338e6bfba95787d0773bbdf5e3d4d848a411aca5666e246de746cf1a",
+   "original_wav_filename": "suchi-17.full.wav"
+  },
+  "suchi-17#3": {
+   "src": "audio/narration/suchi-17__s3__43790a09fddc.mp3",
+   "text": "셋째는 석쇠 위에 앉은 무지갯빛 전복. 석쇠의 석, 안경은 밝을 명, 석결명. 가운데 결 자는 비어 있으니 석쇠와 안경으로 앞뒤를 잡아. 붕붕카에 받히자 쓰고 있던 동그란 안경이 휙 날아가. 전복 얼굴 좀 봐, 안경 벗겨진 맨얼굴로 눈만 깜빡이지? 얼굴에서 점선이 안경까지 이어져.",
+   "text_sha256": "43790a09fddc50b508c9119660c28b5a8407217ba12b69e16983da13e5334968",
+   "audio_sha256": "92fa851744826b674729cd35f04b2f4bbe20221817de90fbaf7cf11a6d0f8f99",
+   "image_sha256": "fbf1148e0ca29c652c37673d7e63a99b3ff27cc89e6c08aa102feea76399fdd7",
+   "source_commit": "d72135b6fde88f3d34478dafba1de4781969f4a8",
+   "station_sha256": "b1661c46633eb62e81fb3550657ff8bb1172d0b885041f085e64c7d5254e393d",
+   "original_wav_sha256": "435f7d9e338e6bfba95787d0773bbdf5e3d4d848a411aca5666e246de746cf1a",
+   "original_wav_filename": "suchi-17.full.wav"
+  },
+  "suchi-17#4": {
+   "src": "audio/narration/suchi-17__s4__fdda4f6fddd4.mp3",
+   "text": "넷째는 숯 위에 대자로 뻗어 누운 막대자석. 대자로, 자석, 대자석. 날아온 쇠 안경이 점선을 따라 자석 머리로 뚝 떨어져 착 달라붙어. 그림에선 안경이 아직 자석 바로 위 공중에 있고, 점선 끝 자석 머리에서 불꽃이 탁 튀어. 대자석은 다음 작업대 단쉬법 목록에도 앞 글자 대를 뗀 자석으로 또 나와, 명단에도 단쉬에도. 임신 신용약 목록에도 있고. 이 넷까지가 첫째 목적, 성기게 · 결정수 없앰.",
+   "text_sha256": "fdda4f6fddd4cdd94d4c285948b503cb9259bebdf1b0ba09671fd2527f67f370",
+   "audio_sha256": "2a44d483c12582fe549d56d49660e86b361021aa83520cba6704360e24eed485",
+   "image_sha256": "fbf1148e0ca29c652c37673d7e63a99b3ff27cc89e6c08aa102feea76399fdd7",
+   "source_commit": "d72135b6fde88f3d34478dafba1de4781969f4a8",
+   "station_sha256": "4d82195db952900eeeae5399528f242a38488d6addb6e0e9f9ce4f8f1db3ffb8",
+   "original_wav_sha256": "435f7d9e338e6bfba95787d0773bbdf5e3d4d848a411aca5666e246de746cf1a",
+   "original_wav_filename": "suchi-17.full.wav"
+  },
+  "suchi-17#5": {
+   "src": "audio/narration/suchi-17__s5__5de4f447abc8.mp3",
+   "text": "자석 오른쪽에 회색 재가 길게 깔린 띠가 있지? 거기서 숯판이 나뉘어. 왼쪽 넷은 성기게 · 결정수 없앰, 오른쪽 둘은 수렴작용 강화. 오른쪽도 숯 위야, 불 밖으로 빼지 않았어. 둘 다 명단이니까.",
+   "text_sha256": "5de4f447abc8b727f5e43bc4da1a7d2b0b48027b281230638d42e4c580068b50",
+   "audio_sha256": "73289e94cf5544b85709aab9720ab72bfb78c8fb5c5f97e12e459cf9185a3313",
+   "image_sha256": "fbf1148e0ca29c652c37673d7e63a99b3ff27cc89e6c08aa102feea76399fdd7",
+   "source_commit": "d72135b6fde88f3d34478dafba1de4781969f4a8",
+   "station_sha256": "e2f944387c55bb667c1b9adf342a622ec4e75bc8e4c79998bf5f9c32e869d611",
+   "original_wav_sha256": "435f7d9e338e6bfba95787d0773bbdf5e3d4d848a411aca5666e246de746cf1a",
+   "original_wav_filename": "suchi-17.full.wav"
+  },
+  "suchi-17#6": {
+   "src": "audio/narration/suchi-17__s6__60bcd07dc372.mp3",
+   "text": "재 띠 너머엔 모래찜질하는 굴. 모래, 모려. 눈 감고 흐뭇하게 모래 더미에 폭 앉았고, 숯 열기에 모래가 꽉 다져져. 꽉 조이는 것, 수렴작용 강화. 그림에선 굴이 모래에 묻히진 않고 모래 위에 앉아 있어.",
+   "text_sha256": "60bcd07dc3722d5c59947cfd3b1bf5e51bb2efde7828026d52395d7974a8a002",
+   "audio_sha256": "688a3967410a3b290de60c1be5c1f150868c5f27f72ee8448d4dbf32707f0bda",
+   "image_sha256": "fbf1148e0ca29c652c37673d7e63a99b3ff27cc89e6c08aa102feea76399fdd7",
+   "source_commit": "d72135b6fde88f3d34478dafba1de4781969f4a8",
+   "station_sha256": "dfd7ca07f8d98a0ef546d094b11d11304a50239b1fc9de05baf50d59b011239d",
+   "original_wav_sha256": "435f7d9e338e6bfba95787d0773bbdf5e3d4d848a411aca5666e246de746cf1a",
+   "original_wav_filename": "suchi-17.full.wav"
+  },
+  "suchi-17#7": {
+   "src": "audio/narration/suchi-17__s7__1aa9d3f99a61.mp3",
+   "text": "맨 오른쪽은 적십자 완장 찬 붉은 돌덩이. 적십자, 적석지. 붉은 돌이 적과 석을 한 번 더 짚어. 두 손에 쥔 작은 천 주머니, 끈을 조이면 입이 오므라들지, 수렴. 모려 · 적석지 둘이 수렴작용 강화야. 적석지는 십구외 육계외적석지에도, 토초 줄에 황토초와 함께 적힌 적석지초에도 나와.",
+   "text_sha256": "1aa9d3f99a61133db43268d3df6d53e38213af8a7439ed45e3bfdb20bd4d8621",
+   "audio_sha256": "d882273276b87492ff2f3e8945581a570f69a1e579c7f30fa16f9d8a380d2188",
+   "image_sha256": "fbf1148e0ca29c652c37673d7e63a99b3ff27cc89e6c08aa102feea76399fdd7",
+   "source_commit": "d72135b6fde88f3d34478dafba1de4781969f4a8",
+   "station_sha256": "d47781f1a7bace2bfabeb06b08ca348e67b951da9f3ccaa4e4cbbf8854d6b4ba",
+   "original_wav_sha256": "435f7d9e338e6bfba95787d0773bbdf5e3d4d848a411aca5666e246de746cf1a",
+   "original_wav_filename": "suchi-17.full.wav"
+  },
+  "suchi-17#8": {
+   "src": "audio/narration/suchi-17__s8__1376d97e7d54.mp3",
+   "text": "한 바퀴. 백반이 뻥튀기처럼 부풀어 붕붕카를 밀고, 붕붕카가 붕 떠 전복을 받고, 전복 안경이 날아 자석에 착. 재 띠 너머, 굴은 모래찜질, 적십자 돌은 주머니를 조여. 백붕석대, 모적. 그림에서 맨숯 위에 바로 놓인 건 명단, 빨갛게 달군 걸 액체나 찬물에 담그면 단쉬, 밀폐해서 숯으로 만들면 민단, 시험이 바꿔 내는 셋이야. 그리고 본초 문서는 명단에 용골도 넣어. 교재 목록엔 없지만 둘 다 기억해.",
+   "text_sha256": "1376d97e7d54198f4a661514b885105f785d75051d67c6c46d496bb8eb52a4bb",
+   "audio_sha256": "0a772c506d9fc9fe5af5974683dd57aeb374e19e91455aa61e1359d40ce1d2f4",
+   "image_sha256": "fbf1148e0ca29c652c37673d7e63a99b3ff27cc89e6c08aa102feea76399fdd7",
+   "source_commit": "d72135b6fde88f3d34478dafba1de4781969f4a8",
+   "station_sha256": "2b53b0771a0819ff3af9962cefd5ca2fc933ca7c27a0de5817abbc9d5fa0bba2",
+   "original_wav_sha256": "435f7d9e338e6bfba95787d0773bbdf5e3d4d848a411aca5666e246de746cf1a",
+   "original_wav_filename": "suchi-17.full.wav"
   }
  }
 }

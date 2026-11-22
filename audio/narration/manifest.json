@@ -3036,6 +3036,138 @@
    "station_sha256": "5d42610b15197eda10bbc9ca41f070eab9bfd5bc9c337339f98d896a78acf461",
    "original_wav_sha256": "7b09e2b63d8fc4be4e72845fe356b707b88112aa1dbd4d34aba1b2ea5421b714",
    "original_wav_filename": "qiqing-02.full.wav"
+  },
+  "qiqing-03#0": {
+   "src": "audio/narration/qiqing-03__s0__66ad9c70c6a1.mp3",
+   "text": "상수 매트 둘째 장이야. 규칙은 같아, 둘이 나란히 맞닿고 노란 빛 하나가 둘을 함께 감싸. 교재 상수 예는 여섯 짝인데, 여기는 셋째, 넷째, 지백 인감. 앞 장 석고상 옆에 있던 그 모자가 또 나와.",
+   "text_sha256": "66ad9c70c6a1a5392efac47d13b1911e6680438fd8ae7a8e7e0d63a4efce88a0",
+   "audio_sha256": "c68bf03ea5e75bf7d0cda33e7fdeb85646d98191ea8e12edae432bb2806b4278",
+   "image_sha256": "7f46614761e4b0b4789f67c9d7ab22d84db1c490989c6963b066ae0f5ab6f265",
+   "source_commit": "f2595a146df3a18acd76ff8ab6a9f8de0a23d8de",
+   "station_sha256": "1c226f8caa5a1dbd649ef7a248750ac3dfeaaa95d5141c1045804bed5384e0bb",
+   "original_wav_sha256": "fdfca4990a2e6c176a56b4d97d9ec298f6050d3060fdee591e2f53c59278b3f6",
+   "original_wav_filename": "qiqing-03.full.wav"
+  },
+  "qiqing-03#1": {
+   "src": "audio/narration/qiqing-03__s1__bcc6f2c8b5ae.mp3",
+   "text": "앞 장에서 석고상 옆에 있던 지우개 모자. 지우개의 지, 모자의 모, 지모. 지모는 상수 예에 두 번 나와, 석고와 한 번, 황백과 한 번. 이번에도 지단 위에 얹지 않고 옆에 나란히 붙었지? 위아래가 아니니까 상수야.",
+   "text_sha256": "bcc6f2c8b5aecc25626d26b7e7968f0927775b509bfd304699d86c36b15657f8",
+   "audio_sha256": "e05e93183a39e241a98b69b10855b47721af65c056a2dd47ac91e32a4a8bf1e0",
+   "image_sha256": "7f46614761e4b0b4789f67c9d7ab22d84db1c490989c6963b066ae0f5ab6f265",
+   "source_commit": "f2595a146df3a18acd76ff8ab6a9f8de0a23d8de",
+   "station_sha256": "1a1268f7e02103933ada1b6c27782cd0428020b911596bb44262cb740da6662c",
+   "original_wav_sha256": "fdfca4990a2e6c176a56b4d97d9ec298f6050d3060fdee591e2f53c59278b3f6",
+   "original_wav_filename": "qiqing-03.full.wav"
+  },
+  "qiqing-03#2": {
+   "src": "audio/narration/qiqing-03__s2__de3f4319b702.mp3",
+   "text": "모자 옆엔 노랑 하양 두 장이 포개진 지단, 옆엔 채 썬 고명. 황백지단에서 지단만 떼면 황백. 두문자는 지모의 지, 황백의 백, 지백. 포제 소금물 작업대 맨 아랫단에서 지모와 함께 자음강화를 세게 하려고 소금물로 볶았던 그 짝이야. 거기서도 짝, 여기서도 짝.",
+   "text_sha256": "de3f4319b702bbdb30dc56de43536e0d20ad0ed82fc1044ec136679c041d1daa",
+   "audio_sha256": "8fba11b37df21cd6148bf0d0163e651888842cc15e2bf7c34bc3e96d5097f193",
+   "image_sha256": "7f46614761e4b0b4789f67c9d7ab22d84db1c490989c6963b066ae0f5ab6f265",
+   "source_commit": "f2595a146df3a18acd76ff8ab6a9f8de0a23d8de",
+   "station_sha256": "496cd41f71cb63069b4ae40b48467537bbf03d5bc53533eab66a6918a4c9f2a9",
+   "original_wav_sha256": "fdfca4990a2e6c176a56b4d97d9ec298f6050d3060fdee591e2f53c59278b3f6",
+   "original_wav_filename": "qiqing-03.full.wav"
+  },
+  "qiqing-03#3": {
+   "src": "audio/narration/qiqing-03__s3__a2133f33ce66.mp3",
+   "text": "오른쪽 매트엔 왕관 쓴 인삼 뿌리 인형. 단행 칸에서 혼자 욕조에 앉아 있던 그 인형이 여기선 옆 약장 서랍을 붙잡고 있어. 혼자면 단행, 짝과 나란히면 상수. 인삼은 단행, 상수, 상오, 상외 괄호, 십팔반, 십구외에 나오는 단골이야.",
+   "text_sha256": "a2133f33ce66d829e189c5010ed98c35f351ef4f16eb6a441cc3a0207e3501aa",
+   "audio_sha256": "5e840137243922367e0e75fdad71fa516f15fba5c1d22fbf2d8296c1cf6b9b52",
+   "image_sha256": "7f46614761e4b0b4789f67c9d7ab22d84db1c490989c6963b066ae0f5ab6f265",
+   "source_commit": "f2595a146df3a18acd76ff8ab6a9f8de0a23d8de",
+   "station_sha256": "343ac227b58981d4217a446170595406f0834c1821a9aa9562ef053bdeffe6aa",
+   "original_wav_sha256": "fdfca4990a2e6c176a56b4d97d9ec298f6050d3060fdee591e2f53c59278b3f6",
+   "original_wav_filename": "qiqing-03.full.wav"
+  },
+  "qiqing-03#4": {
+   "src": "audio/narration/qiqing-03__s4__89cf7a2f6acb.mp3",
+   "text": "인형이 끌어안은 건 서랍마다 노란 감초 뿌리가 얼굴을 내민 약장. 약방의 감초, 감초. 인형 쪽 서랍의 감초가 몸을 쑥 내밀어 인형 얼굴에 바짝 다가가. 둘이 노란 빛 하나에 싸였으니 인삼과 감초, 상수. 그런데 감초가 대극, 감수를 만나면 정반대야, 칠정의 상반, 독이 강해져. 같은 짝이 배오금기 십팔반에도 그대로 있어. 그림에서는 뒤 상반 매트에서 이 약장이 보라 독구름을 터뜨려.",
+   "text_sha256": "89cf7a2f6acb11a3dfff496ff18fe4f238ec9129db59c88d202969794a320b3b",
+   "audio_sha256": "a9dad9d5fe8d632edc00f17d7e99bdaa28870f4b6525bc3a4a2682942be34f18",
+   "image_sha256": "7f46614761e4b0b4789f67c9d7ab22d84db1c490989c6963b066ae0f5ab6f265",
+   "source_commit": "f2595a146df3a18acd76ff8ab6a9f8de0a23d8de",
+   "station_sha256": "808e883259990511045696c8a58227a312280029915d8fc34aaa82cc709b3285",
+   "original_wav_sha256": "fdfca4990a2e6c176a56b4d97d9ec298f6050d3060fdee591e2f53c59278b3f6",
+   "original_wav_filename": "qiqing-03.full.wav"
+  },
+  "qiqing-03#5": {
+   "src": "audio/narration/qiqing-03__s5__fea5c09f19db.mp3",
+   "text": "한 바퀴. 지우개 모자 옆에 황백지단, 노란 빛 하나, 지모와 황백. 인삼 인형이 감초 약장 서랍을 붙잡고, 노란 빛 하나, 인삼과 감초. 지백 인감. 지모는 석고와도 황백과도 상수, 인삼은 혼자면 단행, 감초와면 상수. 감초는 짝에 따라 노란 빛도 받고 보라 독구름도 터뜨려. 다음 장이 상수 마지막 두 짝이야.",
+   "text_sha256": "fea5c09f19dbd53e99971208386a34d9dac871829f1e9536c6c28c2095a53361",
+   "audio_sha256": "975e8a3077415c0df6781e1e7bd8b412572352c9a4725eae1d78d470948e436c",
+   "image_sha256": "7f46614761e4b0b4789f67c9d7ab22d84db1c490989c6963b066ae0f5ab6f265",
+   "source_commit": "f2595a146df3a18acd76ff8ab6a9f8de0a23d8de",
+   "station_sha256": "a27f0bc0055634be060f8d77a21e5adf1ff7abd8516f2919bbdc5d2d018ca546",
+   "original_wav_sha256": "fdfca4990a2e6c176a56b4d97d9ec298f6050d3060fdee591e2f53c59278b3f6",
+   "original_wav_filename": "qiqing-03.full.wav"
+  },
+  "qiqing-04#0": {
+   "src": "audio/narration/qiqing-04__s0__6751e7d61e67.mp3",
+   "text": "상수 매트 마지막 장이야. 왼쪽 매트엔 둘이 팔짱을 끼고 나란히 걷고, 오른쪽 매트엔 둘이 돌 방아 하나를 함께 돌려. 짝마다 노란 빛 하나가 둘을 같이 감싸지? 둘 다 주인 상수. 교재 상수 여섯 짝의 끝 둘, 당천 연산.",
+   "text_sha256": "6751e7d61e67cdacdb567a143e8d8f26030fa08fc4b626180bc615aa9909a951",
+   "audio_sha256": "a87a39b45dd6963654f2e3cb80c90e9259c9cebb5acab8152d29e84176003a6e",
+   "image_sha256": "3a4657669080312b63393476db2e61fc6210d6a9d99b3b463333d524b5ae398d",
+   "source_commit": "f2595a146df3a18acd76ff8ab6a9f8de0a23d8de",
+   "station_sha256": "0a99be5793a141097abd6197c82f12eb198bb1bb1618c8221b6db18518cd6f4a",
+   "original_wav_sha256": "c8e3df1d2639e74d36186b9d8f7ba2f3afcbefe132211c3f1eec9ee9d6431f6e",
+   "original_wav_filename": "qiqing-04.full.wav"
+  },
+  "qiqing-04#1": {
+   "src": "audio/narration/qiqing-04__s1__3c20338418fb.mp3",
+   "text": "왼쪽 매트엔 진주 목걸이에 부채 든 당나귀 귀부인. 당나귀의 당, 귀부인의 귀, 당귀. 옆의 꼬마 천사와 팔짱을 끼고 웃으며 나란히 걸어. 포제 술 작업대에서 활혈통락하려고 술로 볶던 두 약, 당귀, 천궁이 여기서도 짝이야.",
+   "text_sha256": "3c20338418fba6a38047c4322cfc84ab0f80de059766116359d3fd283f5a5c8d",
+   "audio_sha256": "ca9970b61dee96eefd3b1b977d39175451fd1392d10b305d6b1c7e7fd37b89c0",
+   "image_sha256": "3a4657669080312b63393476db2e61fc6210d6a9d99b3b463333d524b5ae398d",
+   "source_commit": "f2595a146df3a18acd76ff8ab6a9f8de0a23d8de",
+   "station_sha256": "7898adac87c426a6e64ca1d9bcdff3a083bb43ebdcb57724dbdbbcb650dc2361",
+   "original_wav_sha256": "c8e3df1d2639e74d36186b9d8f7ba2f3afcbefe132211c3f1eec9ee9d6431f6e",
+   "original_wav_filename": "qiqing-04.full.wav"
+  },
+  "qiqing-04#2": {
+   "src": "audio/narration/qiqing-04__s2__dd79fa1dd3f0.mp3",
+   "text": "팔짱 낀 건 활을 쥔 꼬마 천사 궁수. 천사의 천, 궁수의 궁, 천궁. 활짝 웃으며 귀부인과 발맞춰 걷고, 노란 빛 하나를 같이 받아, 상수. 천궁은 뒤 상오 매트에서 황련과 다시 만나는데, 거기선 노란 빛이 옅어지고 회색 김이 올라. 같은 천궁도 짝이 바뀌면 관계가 바뀌어.",
+   "text_sha256": "dd79fa1dd3f0179685bb37cc594488ea6c2f656fa891f0723ce2e97e00c9d8f4",
+   "audio_sha256": "34e056671132e7d1ab4590cffa84bd8b9f38c4e620213d53f6d424212583eecc",
+   "image_sha256": "3a4657669080312b63393476db2e61fc6210d6a9d99b3b463333d524b5ae398d",
+   "source_commit": "f2595a146df3a18acd76ff8ab6a9f8de0a23d8de",
+   "station_sha256": "6e7ac66f794e922bc7dc4d33368f7aab4394137af2ed778d0d8cd0a5e10a7bd1",
+   "original_wav_sha256": "c8e3df1d2639e74d36186b9d8f7ba2f3afcbefe132211c3f1eec9ee9d6431f6e",
+   "original_wav_filename": "qiqing-04.full.wav"
+  },
+  "qiqing-04#3": {
+   "src": "audio/narration/qiqing-04__s3__3ed63cac63c2.mp3",
+   "text": "오른쪽 매트엔 두툼한 육포가 이를 악물고 나무 막대를 밀어. 둥근 받침돌 위에 세운 돌바퀴, 연자방아야. 연자방아의 연자, 육포의 육, 연자육.",
+   "text_sha256": "3ed63cac63c2e1ca36ebd34ee0018b2582b328500544d709da403e9f394f469e",
+   "audio_sha256": "b2f46af2d8a99ca0ab54f4ccd7976334a345cefe2a38b5681ad78eb77380f46a",
+   "image_sha256": "3a4657669080312b63393476db2e61fc6210d6a9d99b3b463333d524b5ae398d",
+   "source_commit": "f2595a146df3a18acd76ff8ab6a9f8de0a23d8de",
+   "station_sha256": "e93d5475f06848f8dfb2d9ca8575784954a8837ac4278aa1229e45b70e42779c",
+   "original_wav_sha256": "c8e3df1d2639e74d36186b9d8f7ba2f3afcbefe132211c3f1eec9ee9d6431f6e",
+   "original_wav_filename": "qiqing-04.full.wav"
+  },
+  "qiqing-04#4": {
+   "src": "audio/narration/qiqing-04__s4__e80f57c124b3.mp3",
+   "text": "육포 바로 옆에선 산악인이 같은 막대를 나란히 잡고 함께 밀어. 다른 손엔 마 뿌리를 피켈처럼 번쩍. 산악인, 산약. 둘이 방아 하나를 같이 돌리고 노란 빛 하나가 둘을 감싸지? 하나가 다른 하나를 받쳐 주는 게 아니라 함께 돌리니까 둘 다 주, 상수야. 포제 밀기울 팬과 흙 솥에서 마 뿌리를 치켜들던 그 산악인이야.",
+   "text_sha256": "e80f57c124b33340e8605b4fcd663dc0303d514052a0f17e794270e98dab329f",
+   "audio_sha256": "57cf3a870edd20a2bd10cf216023b62a33ff6da423816b509de70d392f539556",
+   "image_sha256": "3a4657669080312b63393476db2e61fc6210d6a9d99b3b463333d524b5ae398d",
+   "source_commit": "f2595a146df3a18acd76ff8ab6a9f8de0a23d8de",
+   "station_sha256": "f4b10b08c31d588b9b160246da59c28385a46d1bca1066d4227eb88e0ba9d811",
+   "original_wav_sha256": "c8e3df1d2639e74d36186b9d8f7ba2f3afcbefe132211c3f1eec9ee9d6431f6e",
+   "original_wav_filename": "qiqing-04.full.wav"
+  },
+  "qiqing-04#5": {
+   "src": "audio/narration/qiqing-04__s5__cefbf6be4dda.mp3",
+   "text": "상수 여섯 짝을 한 번에. 물 마시는 석고상과 지우개 모자, 시계 호랑이와 황금괴, 석지 시황. 지우개 모자와 황백지단, 인삼 인형과 감초 약장, 지백 인감. 당나귀 귀부인과 천사 궁수, 육포와 산악인의 연자방아, 당천 연산. 모두 나란히, 노란 빛 하나. 다음 매트부터는 위아래로 서고 빛이 위에만 켜져, 주종, 상사야.",
+   "text_sha256": "cefbf6be4dda7c291111a18c89a27ec1d9a5ce2ebc6a11aeb980d2fb2b36db18",
+   "audio_sha256": "b59ed77d2bfea6bfc662f63726076c78fa7183909326f4b3486d00d48daead80",
+   "image_sha256": "3a4657669080312b63393476db2e61fc6210d6a9d99b3b463333d524b5ae398d",
+   "source_commit": "f2595a146df3a18acd76ff8ab6a9f8de0a23d8de",
+   "station_sha256": "70347ce0fafceb24df75cefee3975f1e1aa4c4f8b3fdb70b5bcc68d88963d080",
+   "original_wav_sha256": "c8e3df1d2639e74d36186b9d8f7ba2f3afcbefe132211c3f1eec9ee9d6431f6e",
+   "original_wav_filename": "qiqing-04.full.wav"
   }
  }
 }

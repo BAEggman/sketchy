@@ -249,7 +249,7 @@
   "hanja": "細辛",
   "reading": "세신",
   "cue": "목욕탕 세신사 — 때수건 낀 손을 흔듦",
-  "draw_en": "a cheerful Korean bathhouse scrubber in shorts and a towel headband, waving one hand that wears a green exfoliating scrub mitt",
+  "draw_en": "a cheerful Korean bathhouse scrubber in shorts and a towel headband, waving one hand that wears a green exfoliating scrub mitt. He is clearly a real cartoon MAN (round human head with hair, neck, shoulders, human torso and arms, belly button) — not a block or a rectangle: a stocky bathhouse attendant in black shorts with a white towel headband, a green scrub mitt on each hand.",
   "decode": "세신사 → 세신",
   "type": 1,
   "carriers": [
@@ -2462,7 +2462,7 @@
   "hanja": "側柏葉",
   "reading": "측백엽",
   "cue": "지붕 위에 측우기를 얹은 흰 백엽상",
-  "draw_en": "a small white louvered wooden weather-instrument box on four legs with a bronze cylindrical rain gauge on a stone stand sitting on its roof",
+  "draw_en": "a small white louvered wooden weather-instrument box on four legs with a bronze cylindrical rain gauge on a stone stand sitting on its roof. The rain gauge is a short, wide bronze cylinder (about as wide as it is tall) set on a square carved stone block, open at the top with a few raindrops falling into it — not a thin tall tube, nothing like a thermometer.",
   "decode": "측우기 → 측 + 백엽상 → 백엽",
   "type": 4,
   "carriers": [
@@ -2879,7 +2879,7 @@
   "hanja": "水蛭",
   "reading": "수질",
   "cue": "시험관 물을 쪽 빨아 수질검사하는 거머리",
-  "draw_en": "a dark leech wearing tiny safety goggles, sucking water from a test tube through its mouth like a lab inspector",
+  "draw_en": "a dark leech wearing tiny safety goggles, sucking water from a test tube through its mouth like a lab inspector. It is clearly a LEECH: a flattened dark olive-brown body with faint segment rings, a round suction-cup mouth at the front and a second round sucker at the tail end — not an earthworm, not a snake (no scales, not pink, not tube-round).",
   "decode": "수질 = 수질",
   "type": 1,
   "carriers": [
@@ -3008,7 +3008,7 @@
   "hanja": "橘核",
   "reading": "귤핵",
   "cue": "핵폭탄 씨를 품은 주황 귤",
-  "draw_en": "an orange mandarin cut in half, its seed is a small finned nuclear bomb with a tiny mushroom-cloud puff",
+  "draw_en": "an orange mandarin cut in half, its seed is a small finned nuclear bomb with a tiny mushroom-cloud puff. It is clearly a small, slightly flattened mandarin tangerine with a short green stem and one green leaf, peeled open into juicy segments, the seed in the middle is a small finned bomb — not a big round orange cut in half.",
   "decode": "귤 + 핵폭탄 → 귤핵",
   "type": 4,
   "carriers": [
@@ -3926,7 +3926,7 @@
   "hanja": "生薑",
   "reading": "생강",
   "cue": "싱싱한 날생강 개구리 — 물기 반짝",
-  "draw_en": "a fresh, glistening, wet ginger root shaped like a frog crouching to jump, water droplets on its knobby skin",
+  "draw_en": "a fresh, glistening, wet ginger root shaped like a frog crouching to jump, water droplets on its knobby skin. It is clearly a FROG, not a toad: slim body, long folded jumping legs, big round frog eyes on top of the head, smooth pale-yellow ginger skin with thin brown ring lines and a fresh green ginger shoot on its back (no warts, no bumps).",
   "decode": "생강 → 생강 · 물기 = 生",
   "type": 1,
   "carriers": [
@@ -4066,7 +4066,7 @@
   "hanja": "烏梢蛇",
   "reading": "오초사",
   "cue": "「오!」 하고 놀라며 금빛 머리털이 곤두선 초사이어인 검은 뱀(까마귀 없음)",
-  "draw_en": "A slim, glossy jet-black snake whose head sprouts spiky, glowing golden hair standing straight up, wrapped in a flickering golden aura, its mouth open wide in a round shape of surprise; single white-background sticker, no text.",
+  "draw_en": "A slim, glossy jet-black snake whose head sprouts spiky, glowing golden hair standing straight up, wrapped in a flickering golden aura, its mouth open wide in a round shape of surprise; single white-background sticker, no text. The golden hair is solid, sharp, spiky anime-style hair standing straight up, bright lemon-yellow with clean spikes — NOT fire: no flames, no orange or red, no flickering flame aura around the body (only a thin pale yellow glow line).",
   "decode": "「오!」(동그란 입의 외침) + 초사이어인의 「초사」 → 오초사. 검은 몸 = 烏, 뱀 = 蛇(뜻 받침). 烏頭類가 아니므로 까마귀 가족을 쓰지 않음",
   "type": 2,
   "carriers": [
@@ -4267,7 +4267,7 @@
   "hanja": "前胡",
   "reading": "전호",
   "cue": "김 나는 호빵이 수화기를 귀에 대고 통화",
-  "draw_en": "A round, steaming white Korean steamed bun (hoppang) with a calm cartoon face, holding an old corded telephone handset to its side with one tiny hand and chatting happily; the curly cord leads to a plain telephone body with no buttons, no dial and no numbers.",
+  "draw_en": "A round, steaming white Korean steamed bun (hoppang) with a calm cartoon face, holding an old corded telephone handset to its side with one tiny hand and chatting happily; the curly cord leads to a plain telephone body with no buttons, no dial and no numbers. The bun is a smooth dome-shaped Korean hoppang with NO pleats, folds or twisted top (not a dumpling, not a bao); one small bite is missing from its side showing dark red sweet red-bean filling.",
   "decode": "전화의 「전」 + 호빵의 「호」 → 전호",
   "type": 4,
   "carriers": [
@@ -4340,7 +4340,7 @@
   "hanja": "滑石",
   "reading": "활석",
   "cue": "활짝 웃으며 흰 가루 뿜는 라벨 없는 베이비파우더 통(포제 P08 보료 승격)",
-  "draw_en": "A plain white baby-powder bottle with no label, with a big wide-open grinning cartoon face, puffing a soft cloud of fine white powder straight up out of its open top; no text",
+  "draw_en": "A plain white baby-powder bottle with no label, with a big wide-open grinning cartoon face, puffing a soft cloud of fine white powder straight up out of its open top; no text. It is a short, wide, round white powder tub (like a cosmetic jar) with a big fluffy pink powder puff resting on its open top and a soft white powder cloud rising — not a salt shaker: no holes on top, no tall bottle shape.",
   "decode": "활(짝) + 베이비파우더 = talc = 활석 실물",
   "type": 4,
   "carriers": [

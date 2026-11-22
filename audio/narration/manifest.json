@@ -10076,6 +10076,72 @@
    "station_sha256": "6d214608deb197b98ba5a23d827304b29e9f184367c6d59593c6f704f19aee2b",
    "original_wav_sha256": "f23cca96241484c4e6a50f8eef607596526402daa2f50338cc9873c35da81425",
    "original_wav_filename": "new-gr-42.full.wav"
+  },
+  "new-gr-43#0": {
+   "src": "audio/narration/new-gr-43__s0__654db8dbc683.mp3",
+   "text": "유주 원문 ② 위, 비, 기어비교알중, 입상치, 환순, 교출궐음지전, 연설본산설하 과다. 장소는 순례길 2구간, 황토 곡식 고개, 위 요리사와 비 농부의 원문 굴곡점. 정본 경락 인물과 공용 부호, 뜻, 소리 고리를 따라 차례로 읽는다.",
+   "text_sha256": "654db8dbc683ad07619d051842a684ba1d62087bbd1bcc7b0fdd370fc5a3cde4",
+   "audio_sha256": "818b943fa4f87058e00b0ca4f11717e456f32642be96b23c6667cdaa3c3e3cbe",
+   "image_sha256": "208f6f73db88a7a5a7552f9fbe7ca24551a52c37578c40ff0090153990635de6",
+   "source_commit": "c26fd15c1f650ebf0742b16863965b142e81a68e",
+   "station_sha256": "48282b325167b1390223c3bff6bbee8827ec566c2ebe56dd8501bebcba86e68a",
+   "original_wav_sha256": "594c596c11c8190768751b62c7caaaa634d0b049af6ffb6d09e1d36fa9694238",
+   "original_wav_filename": "new-gr-43.full.wav"
+  },
+  "new-gr-43#1": {
+   "src": "audio/narration/new-gr-43__s1__d61163c67f46.mp3",
+   "text": "순례길 2구간 황토 곡식 고개의 #1 정거장이다. 위경 원문: 기어비교알중, 방납태양지맥, 입상치중, 환순 하교승장, 순협차 상이전 지액로.",
+   "text_sha256": "d61163c67f46467610ab99d7ab9b84467b798c2cf32ce7f5dc8354044dc7a7fb",
+   "audio_sha256": "4963d43c223dcbe5ece12bca94b40b2a120c97eeb7dcf732592fa5d6b6cf609a",
+   "image_sha256": "208f6f73db88a7a5a7552f9fbe7ca24551a52c37578c40ff0090153990635de6",
+   "source_commit": "c26fd15c1f650ebf0742b16863965b142e81a68e",
+   "station_sha256": "22355bd1e3b187ba2b5c7a9c62fa61c31d7aa7405c74a381fabd73fe8318c406",
+   "original_wav_sha256": "594c596c11c8190768751b62c7caaaa634d0b049af6ffb6d09e1d36fa9694238",
+   "original_wav_filename": "new-gr-43.full.wav"
+  },
+  "new-gr-43#2": {
+   "src": "audio/narration/new-gr-43__s2__f1f1bd182061.mp3",
+   "text": "순례길 2구간 황토 곡식 고개의 #2 정거장이다. 위경 원문: 속위락비, 하유내렴 하협제 입기가중, 하슬빈중, 입중지내간, 지자 입중지외간, 대지간.",
+   "text_sha256": "f1f1bd182061384ccb2578db8240c2880841af1c1a97720912b61f8df4f4e25d",
+   "audio_sha256": "dc55f66bc9bbb81b4ae1c5e78bfa843f0a0e8b8609271bfeb976d70496459fbd",
+   "image_sha256": "208f6f73db88a7a5a7552f9fbe7ca24551a52c37578c40ff0090153990635de6",
+   "source_commit": "c26fd15c1f650ebf0742b16863965b142e81a68e",
+   "station_sha256": "27b1c7fbec5c72e78776a8bad629c123bd1961e8a3e842b5facd6f7010405a32",
+   "original_wav_sha256": "594c596c11c8190768751b62c7caaaa634d0b049af6ffb6d09e1d36fa9694238",
+   "original_wav_filename": "new-gr-43.full.wav"
+  },
+  "new-gr-43#3": {
+   "src": "audio/narration/new-gr-43__s3__c017969c0e89.mp3",
+   "text": "순례길 2구간 황토 곡식 고개의 #3 정거장이다. 비경 원문: 기어대지지단, 과핵골후, 교출궐음지전, 내과 상 8촌, 속비락위.",
+   "text_sha256": "c017969c0e89ad9871c253ed8647b7101c294e06c38fd803ae046b56843e373f",
+   "audio_sha256": "b7afd93067fa9dbf0444a8135a4be3bf1762b941f06b4041c0e54d147bc11835",
+   "image_sha256": "208f6f73db88a7a5a7552f9fbe7ca24551a52c37578c40ff0090153990635de6",
+   "source_commit": "c26fd15c1f650ebf0742b16863965b142e81a68e",
+   "station_sha256": "609ab79f4f8e8b3f759cd08a46bdb9101e93e2d4b10db8760da13ca58ac1b6fe",
+   "original_wav_sha256": "594c596c11c8190768751b62c7caaaa634d0b049af6ffb6d09e1d36fa9694238",
+   "original_wav_filename": "new-gr-43.full.wav"
+  },
+  "new-gr-43#4": {
+   "src": "audio/narration/new-gr-43__s4__1594c43f42a8.mp3",
+   "text": "순례길 2구간 황토 곡식 고개의 #4 정거장이다. 비경 원문: 상격협인, 연설본 산설하, 지자 복종위 별상격 주심중.",
+   "text_sha256": "1594c43f42a83cff00f59ec078e0c3386661c2c4883a0768caa7c7770e93930c",
+   "audio_sha256": "a93283b7638f01453f715a0b3edce3f2f9305b9a96259d00860f308fca612789",
+   "image_sha256": "208f6f73db88a7a5a7552f9fbe7ca24551a52c37578c40ff0090153990635de6",
+   "source_commit": "c26fd15c1f650ebf0742b16863965b142e81a68e",
+   "station_sha256": "e03c0095c1eb80dabe310390d25e4fb55e593ff78b3e19963a2aa3fd6413caa6",
+   "original_wav_sha256": "594c596c11c8190768751b62c7caaaa634d0b049af6ffb6d09e1d36fa9694238",
+   "original_wav_filename": "new-gr-43.full.wav"
+  },
+  "new-gr-43#5": {
+   "src": "audio/narration/new-gr-43__s5__14daf02e11ee.mp3",
+   "text": "처음부터 한 바퀴 되짚는다. 위경 원문: 기어비교알중, 방납태양지맥, 입상치중, 환순 하교승장, 순협차 상이전 지액로 / 위경 원문: 속위락비, 하유내렴 하협제 입기가중, 하슬빈중, 입중지내간, 지자 입중지외간, 대지간, / 비경 원문: 기어대지지단, 과핵골후, 교출궐음지전, 내과 상 8촌, 속비락위 / 비경 원문: 상격협인, 연설본 산설하, 지자 복종위 별상격 주심중",
+   "text_sha256": "14daf02e11ee9127aeead545f21a1c2aced83cc924c1a1379bd42561d5fccefd",
+   "audio_sha256": "9976c52df216593bb1259a248eaf90a37f5d876d3ec4301574e7a4e43351137d",
+   "image_sha256": "208f6f73db88a7a5a7552f9fbe7ca24551a52c37578c40ff0090153990635de6",
+   "source_commit": "c26fd15c1f650ebf0742b16863965b142e81a68e",
+   "station_sha256": "fe45d960cff051e393c1e8554da417bf09ac42a7f07d657ebabec007a982b714",
+   "original_wav_sha256": "594c596c11c8190768751b62c7caaaa634d0b049af6ffb6d09e1d36fa9694238",
+   "original_wav_filename": "new-gr-43.full.wav"
   }
  }
 }

@@ -6732,6 +6732,116 @@
    "station_sha256": "ce1f4dfcd0b0270865a4be31db02f14cf29252708679a044382b4919fd33ee5e",
    "original_wav_sha256": "ae5f2fdbde3b1b12e8960fcdfe53f93b0260799d17888b6c1fd6736c2e34db37",
    "original_wav_filename": "new-jq-03.full.wav"
+  },
+  "new-jq-04#0": {
+   "src": "audio/narration/new-jq-04__s0__f35fc5177f60.mp3",
+   "text": "씨앗 저장고다. 씨앗은 생명의 정, 동의보감 정문이 정을 누가 갈무리하고 누가 내보내고 누가 감독하는지, 그리고 오장의 정이 상하면 어떤 탈이 나는지 말한다. 금고 문, 출고 창구, 위층 관제실, 그리고 네 색 서랍을 차례로 본다.",
+   "text_sha256": "f35fc5177f60596ce8c66de8061e04c6f65ec9af94c87f18a4ad1320d2acce10",
+   "audio_sha256": "67b4136732431acd7314a1e34d209ee570cefc9a3f4c598360ddafb3674566a7",
+   "image_sha256": "61f5e63998f743c16c74c7f04b0b2d460e9937b80a176b91d7f211d8c755cf36",
+   "source_commit": "a10b61f2458ad7f68cb5f92c4ea7c019bbd5e6e1",
+   "station_sha256": "1e278764f9df1a52638e371f84b84d91dbfb93890b82c83d24227a7b052d8dcb",
+   "original_wav_sha256": "46d89ba6c7e3be0bbc22de197bad4d071e6ff27787a42e62f1be94d768e187fc",
+   "original_wav_filename": "new-jq-04.full.wav"
+  },
+  "new-jq-04#1": {
+   "src": "audio/narration/new-jq-04__s1__16d253bd7967.mp3",
+   "text": "위층 관제실의 임금이 저장고 전체를 내려다본다, 정지주재재심, 정을 주재하는 것은 심이다. 아래 큰 금고, 정지장제재신, 정을 갈무리하고 제어하는 것은 신이다.",
+   "text_sha256": "16d253bd796764f2084cf96c85d21fea3fc0dc356ebc53c4c79822db47263caf",
+   "audio_sha256": "6a1866e8b4f8e4d799a1a635f00d85d1df5147542984ddc0c452f9e053209d6f",
+   "image_sha256": "61f5e63998f743c16c74c7f04b0b2d460e9937b80a176b91d7f211d8c755cf36",
+   "source_commit": "a10b61f2458ad7f68cb5f92c4ea7c019bbd5e6e1",
+   "station_sha256": "171dbc675682e92a50029d599f5498e63ae8739b8d65c43f72b1ea309d256608",
+   "original_wav_sha256": "46d89ba6c7e3be0bbc22de197bad4d071e6ff27787a42e62f1be94d768e187fc",
+   "original_wav_filename": "new-jq-04.full.wav"
+  },
+  "new-jq-04#2": {
+   "src": "audio/narration/new-jq-04__s2__8bc85a7bf492.mp3",
+   "text": "대머리 장사가 금고 문을 밀어 닫고 바퀴를 돌려 잠근다. 주폐장자 신야, 닫아서 갈무리하는 것은 신이다.",
+   "text_sha256": "8bc85a7bf4922e212e805ba3c4d3183067d43ceec215be7facd0e88b63d037fa",
+   "audio_sha256": "351681c57a3b006805f4dc3a3d7e6151fb0bf7d72aa0a196bcee0e04aa57a906",
+   "image_sha256": "61f5e63998f743c16c74c7f04b0b2d460e9937b80a176b91d7f211d8c755cf36",
+   "source_commit": "a10b61f2458ad7f68cb5f92c4ea7c019bbd5e6e1",
+   "station_sha256": "27bfb9fc0ef7dd01f7bfe9919a10d7537e8a08944e1c15ddf3af3a578e121c2f",
+   "original_wav_sha256": "46d89ba6c7e3be0bbc22de197bad4d071e6ff27787a42e62f1be94d768e187fc",
+   "original_wav_filename": "new-jq-04.full.wav"
+  },
+  "new-jq-04#3": {
+   "src": "audio/narration/new-jq-04__s3__fcb6b45faf6e.mp3",
+   "text": "출고 창구의 초록 장군이 씨앗 봉투를 내준다. 사소설자 간야, 열어서 내보내는 것은 간이다. 창구 턱에 씨앗 몇 알이 나와 있다, 상화가 움직이면 정이 새어 나간다.",
+   "text_sha256": "fcb6b45faf6e0e87c69965e0e5b18c99578c3551c7eaccde2778f6324600ddea",
+   "audio_sha256": "dee7a14d1f42a432c1d75afed8e36d256792b84b86096d77a543fe0e3e55bb07",
+   "image_sha256": "61f5e63998f743c16c74c7f04b0b2d460e9937b80a176b91d7f211d8c755cf36",
+   "source_commit": "a10b61f2458ad7f68cb5f92c4ea7c019bbd5e6e1",
+   "station_sha256": "c0190067d66445e9b2cd446d95a128c63f8d968c8679ccc1b0aa2cc3d5f1f2c6",
+   "original_wav_sha256": "46d89ba6c7e3be0bbc22de197bad4d071e6ff27787a42e62f1be94d768e187fc",
+   "original_wav_filename": "new-jq-04.full.wav"
+  },
+  "new-jq-04#4": {
+   "src": "audio/narration/new-jq-04__s4__8b40ed9b3ee1.mp3",
+   "text": "금고지기의 허리춤과 창구지기 곁 벽에 작은 횃불이 탄다, 이장개유상화, 신과 간 두 장부에 모두 상화가 있다. 그 붉은 줄은 위층 임금의 책상, 붉은 초가 타는 곳까지 올라간다, 이기계상속어심, 그 줄은 위로 심에 매여 있다. 심이 움직이면 상화도 따라 움직인다. 주폐장자신야 사소설자간야 이장개유상화 이기계상속어심.",
+   "text_sha256": "8b40ed9b3ee157de20b8a00b86c1f8bcf7aceae8dff574c67c3c86cda3086738",
+   "audio_sha256": "84116c8264e9d7f58a513ec3b4e6b1f80a4d9aad854857cc6cc734886eac8eaf",
+   "image_sha256": "61f5e63998f743c16c74c7f04b0b2d460e9937b80a176b91d7f211d8c755cf36",
+   "source_commit": "a10b61f2458ad7f68cb5f92c4ea7c019bbd5e6e1",
+   "station_sha256": "bd8e6aef790e6679b6105df9a88dd1020817bed9afee3b4342204e307f38d546",
+   "original_wav_sha256": "46d89ba6c7e3be0bbc22de197bad4d071e6ff27787a42e62f1be94d768e187fc",
+   "original_wav_filename": "new-jq-04.full.wav"
+  },
+  "new-jq-04#5": {
+   "src": "audio/narration/new-jq-04__s5__6255ff738114.mp3",
+   "text": "이제 서랍장. 초록 서랍이 헐렁하게 빠져 씨앗이 쏟아진다, 굳게 지키지 못함, 불고. 그 위에 뿌옇고 어지러운 안경, 간정불고면 목현무광, 눈이 어지럽고 빛이 없다.",
+   "text_sha256": "6255ff738114897bbc850f2ab55a460c1454180d5d3d4dd882b1229d5d9f2161",
+   "audio_sha256": "5e79c6966a251f1e4e0ea181b89fef2f54108ccb52ab324c2f8fa5c4fcbe493b",
+   "image_sha256": "61f5e63998f743c16c74c7f04b0b2d460e9937b80a176b91d7f211d8c755cf36",
+   "source_commit": "a10b61f2458ad7f68cb5f92c4ea7c019bbd5e6e1",
+   "station_sha256": "cc5572bc08ac7708dc6c1380ee4bd387f9e4128dc9f692eda06d02423914144d",
+   "original_wav_sha256": "46d89ba6c7e3be0bbc22de197bad4d071e6ff27787a42e62f1be94d768e187fc",
+   "original_wav_filename": "new-jq-04.full.wav"
+  },
+  "new-jq-04#6": {
+   "src": "audio/narration/new-jq-04__s6__0c2eedec4c3f.mp3",
+   "text": "흰 서랍은 거의 비었다, 모자람, 부족. 그 앞에 가느다란 나무 인형, 폐정부족이면 기육소수, 살이 빠져 여윈다. 폐만 불고가 아니라 부족이다.",
+   "text_sha256": "0c2eedec4c3faed7c2a20f8d363e767dab9ee97ce6630e9c1393976b77a11608",
+   "audio_sha256": "83036751c6aa827a1991fa12f5ab753cca527ad9e1130b1b3d71b741a7e27fe8",
+   "image_sha256": "61f5e63998f743c16c74c7f04b0b2d460e9937b80a176b91d7f211d8c755cf36",
+   "source_commit": "a10b61f2458ad7f68cb5f92c4ea7c019bbd5e6e1",
+   "station_sha256": "a06dc3fa3bf1b62cf591c0d0a3768ecb9123a08e671630d8c8a6b65d49126d35",
+   "original_wav_sha256": "46d89ba6c7e3be0bbc22de197bad4d071e6ff27787a42e62f1be94d768e187fc",
+   "original_wav_filename": "new-jq-04.full.wav"
+  },
+  "new-jq-04#7": {
+   "src": "audio/narration/new-jq-04__s7__b2fdbb24f2df.mp3",
+   "text": "검은 서랍도 헐렁하게 빠져 씨앗이 쏟아진다, 불고. 그 위에 머리카락이 엉킨 빗과 빠진 이 하나, 신정불고면 치발부락, 이와 머리털이 들뜨고 빠진다.",
+   "text_sha256": "b2fdbb24f2df7142e93f798f4baa6595073f2b75d1c80c307b6287a157745f9d",
+   "audio_sha256": "318273323a3b0a209c8255bbab499665f340a3ffc299bf1b64c56d3d0a7c163c",
+   "image_sha256": "61f5e63998f743c16c74c7f04b0b2d460e9937b80a176b91d7f211d8c755cf36",
+   "source_commit": "a10b61f2458ad7f68cb5f92c4ea7c019bbd5e6e1",
+   "station_sha256": "47edf13ec38d75055994913e73cf6208d7ed284059d5ad9ce19c72bbebba888a",
+   "original_wav_sha256": "46d89ba6c7e3be0bbc22de197bad4d071e6ff27787a42e62f1be94d768e187fc",
+   "original_wav_filename": "new-jq-04.full.wav"
+  },
+  "new-jq-04#8": {
+   "src": "audio/narration/new-jq-04__s8__0e138a84657c.mp3",
+   "text": "노란 서랍은 금이 가 부서진다, 단단하지 못함, 불견. 그 위에 꺼질 듯한 등불, 비정불견이면 신기감소, 정신과 기운이 줄어든다. 간과 신은 불고, 폐는 부족, 비는 불견, 서랍이 헐렁하냐, 비었냐, 금 갔냐로 가른다.",
+   "text_sha256": "0e138a84657ce928256e7b149eb13dc8781fd1a512d79af3e417444508abf241",
+   "audio_sha256": "7f864e94a713d1078eac40ea97d6707ea47fab44003d4c4ccbd80f4760e1451e",
+   "image_sha256": "61f5e63998f743c16c74c7f04b0b2d460e9937b80a176b91d7f211d8c755cf36",
+   "source_commit": "a10b61f2458ad7f68cb5f92c4ea7c019bbd5e6e1",
+   "station_sha256": "c2b15b00fa28c359c05b1da643a63a5042c7d22d540b942eaf63ecf4d406cbd4",
+   "original_wav_sha256": "46d89ba6c7e3be0bbc22de197bad4d071e6ff27787a42e62f1be94d768e187fc",
+   "original_wav_filename": "new-jq-04.full.wav"
+  },
+  "new-jq-04#9": {
+   "src": "audio/narration/new-jq-04__s9__896515d68c49.mp3",
+   "text": "다시 본다. 금고 문을 닫는 장사, 신이 폐장. 창구에서 내주는 장군, 간이 소설. 둘의 횃불, 상화의 줄이 위층 임금에게 매였다, 심이 주재. 서랍 넷, 헐렁한 초록과 뿌연 안경은 간정불고 목현무광, 텅 빈 흰 서랍과 마른 인형은 폐정부족 기육소수, 헐렁한 검은 서랍과 빠진 머리털, 이는 신정불고 치발부락, 금 간 노란 서랍과 꺼져 가는 등은 비정불견 신기감소.",
+   "text_sha256": "896515d68c4947e89a1e6663910ba58ba55faaa5fc0efa4fcfc053a0e72b76b7",
+   "audio_sha256": "806bc2652b2bcfd9e86ba1769af1b3f8aa816deb3a6a963cef6d5608ab59d787",
+   "image_sha256": "61f5e63998f743c16c74c7f04b0b2d460e9937b80a176b91d7f211d8c755cf36",
+   "source_commit": "a10b61f2458ad7f68cb5f92c4ea7c019bbd5e6e1",
+   "station_sha256": "910415015d0a090fb16815ff1bb08e26e2f04f80a15e865ed942640b63ca99ec",
+   "original_wav_sha256": "46d89ba6c7e3be0bbc22de197bad4d071e6ff27787a42e62f1be94d768e187fc",
+   "original_wav_filename": "new-jq-04.full.wav"
   }
  }
 }

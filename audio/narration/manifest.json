@@ -7524,6 +7524,94 @@
    "station_sha256": "597b8072c3ffa6c283e1c11addee5ebe1c4c0fe5f36f19891d3c1da8813107ac",
    "original_wav_sha256": "321b7a80b72dc4d473ddf704d9d4b73974490ba80b95567a33c6cdec224e0169",
    "original_wav_filename": "new-jq-07.full.wav"
+  },
+  "new-jq-08#0": {
+   "src": "audio/narration/new-jq-08__s0__d161a5f9bb94.mp3",
+   "text": "공항이다. 비행기는 오르고 내리고, 사람은 나가고 들어온다, 기의 운동, 기기다. 위쪽은 정상 운항, 아래쪽 계류장에는 사고가 다섯, 막히고, 치솟고, 빠지고, 흩어지고, 갇힌다. 사고마다 처치가 곧 치법이다.",
+   "text_sha256": "d161a5f9bb940dbb4c7c6c69cc2248a70db58f0ba5915f41188c13c1676a3e46",
+   "audio_sha256": "de80e84a9ffd2aa192e3f5b498b4a73e580d4799d3e69bd6baf02af017844e1a",
+   "image_sha256": "304aef63cee4f5f26adc3e577fd87d4b00b432d4d1516e26bc79e8b5b9adfc63",
+   "source_commit": "db7bd76b46e86b3ae96f1605f0b0f6e42f92a74b",
+   "station_sha256": "70ce86c9e2ced4b0a895fb741df222782d0e25309ec438877e81f7c1ae5bc236",
+   "original_wav_sha256": "4c016b8adbffd600d6f69667447acf959f016d8121932af31c22e7c362f65eb6",
+   "original_wav_filename": "new-jq-08.full.wav"
+  },
+  "new-jq-08#1": {
+   "src": "audio/narration/new-jq-08__s1__5b13e1de5918.mp3",
+   "text": "위쪽 활주로. 왼쪽 비행기가 기수를 들고 떠오른다, 승. 오른쪽 비행기가 기수를 숙여 내려앉는다, 강. 왼쪽 문 앞에서 셋이 노란 셔틀버스에 오른다, 공항을 떠나 나간다, 출. 나머지는 두 문으로 줄지어 들어간다, 입. 기의 운동방식, 기기는 승, 강, 출, 입이다.",
+   "text_sha256": "5b13e1de5918764bdaec8d46debe7ad502e117ac0352ea2a2137ab4d25578d4c",
+   "audio_sha256": "0b1b0ce97de5e46b38bca11010a5429da9d98befae8f0f09cbaabb7a2a4c40b3",
+   "image_sha256": "304aef63cee4f5f26adc3e577fd87d4b00b432d4d1516e26bc79e8b5b9adfc63",
+   "source_commit": "db7bd76b46e86b3ae96f1605f0b0f6e42f92a74b",
+   "station_sha256": "59fd5ca76da8e6ab3c1ab75c1368eb75610bfc268a13d256c0f7ec994e329e44",
+   "original_wav_sha256": "4c016b8adbffd600d6f69667447acf959f016d8121932af31c22e7c362f65eb6",
+   "original_wav_filename": "new-jq-08.full.wav"
+  },
+  "new-jq-08#2": {
+   "src": "audio/narration/new-jq-08__s2__21f447477a6f.mp3",
+   "text": "아래 첫째, 비행기 다섯이 꼬리를 물고 꽉 막혔다, 기체, 어느 부위에서 기기가 시원하게 돌지 못하고 막힌 것. 유도원이 유도봉을 흔들어 줄을 풀어 준다, 소통, 행기. 기행즉혈행, 기체즉혈어, 기가 가면 혈도 가고, 기가 막히면 혈이 엉긴다.",
+   "text_sha256": "21f447477a6ffbbfe03d4cc74ce9c705724ff0c86e6bbb70056e7e5a709efe27",
+   "audio_sha256": "a9fe6a034de2ca5082fe9c042925356bde533a95f68abf4038a9e71485dbe627",
+   "image_sha256": "304aef63cee4f5f26adc3e577fd87d4b00b432d4d1516e26bc79e8b5b9adfc63",
+   "source_commit": "db7bd76b46e86b3ae96f1605f0b0f6e42f92a74b",
+   "station_sha256": "d27f83da416f6240eb9773d94660dd6e1a3082afaec933afad0a87861e12e681",
+   "original_wav_sha256": "4c016b8adbffd600d6f69667447acf959f016d8121932af31c22e7c362f65eb6",
+   "original_wav_filename": "new-jq-08.full.wav"
+  },
+  "new-jq-08#3": {
+   "src": "audio/narration/new-jq-08__s3__fff115602f61.mp3",
+   "text": "둘째, 비행기가 기수를 하늘로 세우고 치솟는다, 기역. 그냥 내려가는 것의 반대가 아니다, 너무 오르거나, 내려가야 할 것이 덜 내려가는 것, 상승태과 하강불급. 요원 셋이 밧줄로 끌어내린다, 강기. 폐기가 치솟으면 기침과 숨참, 위기가 치솟으면 트림과 구역이다.",
+   "text_sha256": "fff115602f615de8aaeb4ce2fb07af948e2c921d20c65e39ab43ea9f37228556",
+   "audio_sha256": "60f78ff35c1ef743dfe5ddf5404cfc99a49ec0e589ead4ace287cca92d840249",
+   "image_sha256": "304aef63cee4f5f26adc3e577fd87d4b00b432d4d1516e26bc79e8b5b9adfc63",
+   "source_commit": "db7bd76b46e86b3ae96f1605f0b0f6e42f92a74b",
+   "station_sha256": "1c9e87ab0913ed418c1f8d927f119e27907b94e4a6d28560ab133c33e55b482d",
+   "original_wav_sha256": "4c016b8adbffd600d6f69667447acf959f016d8121932af31c22e7c362f65eb6",
+   "original_wav_filename": "new-jq-08.full.wav"
+  },
+  "new-jq-08#4": {
+   "src": "audio/narration/new-jq-08__s4__4b4ac11ccfe7.mp3",
+   "text": "셋째, 비행기가 진흙 구덩이에 배까지 빠졌다, 기함, 맑은 기가 아래로 처져 들어 올리지 못한다. 오름이 모자란 것이 위주다. 노란 크레인이 들어 올린다, 승제. 위하수, 탈항, 탈음처럼 처지는 병이다.",
+   "text_sha256": "4b4ac11ccfe7e9ccee18658a753d5e1610e82011dfbdf7ff47842f6b9c370eb2",
+   "audio_sha256": "78fcbade00ed15e0e57a5882e2dad6c36fd486b3f4ed3c87c40e6119139be588",
+   "image_sha256": "304aef63cee4f5f26adc3e577fd87d4b00b432d4d1516e26bc79e8b5b9adfc63",
+   "source_commit": "db7bd76b46e86b3ae96f1605f0b0f6e42f92a74b",
+   "station_sha256": "bf775de2cb30e7c3995a75f7530cebbedfcffdadae6df1bfc0601b6f26be6530",
+   "original_wav_sha256": "4c016b8adbffd600d6f69667447acf959f016d8121932af31c22e7c362f65eb6",
+   "original_wav_filename": "new-jq-08.full.wav"
+  },
+  "new-jq-08#5": {
+   "src": "audio/narration/new-jq-08__s5__b3624fc14b42.mp3",
+   "text": "넷째, 문마다 비상 슬라이드가 펴지고 승객이 사방으로 흩어진다, 기탈. 기가 너무 허해 안을 지키지 못하고 한꺼번에 밖으로 흩어진다. 기절이 코앞이다. 직원들이 큰 그물로 붙든다, 고섭.",
+   "text_sha256": "b3624fc14b42bc11083e51dce5ac1cd3f6124cc0232f4bd22d0892a454d61d84",
+   "audio_sha256": "522be83fb8fd9604601e179be0254cb72e5d1dfef074222645d17c2ed5018206",
+   "image_sha256": "304aef63cee4f5f26adc3e577fd87d4b00b432d4d1516e26bc79e8b5b9adfc63",
+   "source_commit": "db7bd76b46e86b3ae96f1605f0b0f6e42f92a74b",
+   "station_sha256": "cf77196e955aefc42c54f69685a1e816a1296a2a897fe2df1c4ea2794c0ba12e",
+   "original_wav_sha256": "4c016b8adbffd600d6f69667447acf959f016d8121932af31c22e7c362f65eb6",
+   "original_wav_filename": "new-jq-08.full.wav"
+  },
+  "new-jq-08#6": {
+   "src": "audio/narration/new-jq-08__s6__89e9c7fd8e6b.mp3",
+   "text": "다섯째, 격납고가 사슬과 자물쇠로 꽁꽁 잠겼다, 기폐, 뭉치고 막혀 닫혔다. 일꾼이 절단기로 사슬을 끊자 묵은 공기가 터져 나온다, 개설, 열어서 내보낸다.",
+   "text_sha256": "89e9c7fd8e6b6e42bf2ed76b78febc16a7f099b7c46f535af58f0783a86004d3",
+   "audio_sha256": "e20896c1e0f96c4eb8e14c429f4f4a3c6a73462a38ea6d09be236da03aa4cc88",
+   "image_sha256": "304aef63cee4f5f26adc3e577fd87d4b00b432d4d1516e26bc79e8b5b9adfc63",
+   "source_commit": "db7bd76b46e86b3ae96f1605f0b0f6e42f92a74b",
+   "station_sha256": "505c64df73a6f77908ec835a4532b12c9f26a787a382fc6e2ee3dd9a217c899b",
+   "original_wav_sha256": "4c016b8adbffd600d6f69667447acf959f016d8121932af31c22e7c362f65eb6",
+   "original_wav_filename": "new-jq-08.full.wav"
+  },
+  "new-jq-08#7": {
+   "src": "audio/narration/new-jq-08__s7__c2779d0f84a0.mp3",
+   "text": "다시 본다. 이륙, 착륙, 버스에 올라 떠나는 사람, 문으로 들어가는 사람, 승, 강, 출, 입. 막힌 줄은 유도봉으로 풀고, 기체는 소통. 치솟는 비행기는 끌어내리고, 기역은 강기. 빠진 비행기는 들어 올리고, 기함은 승제. 흩어지는 승객은 그물로 붙들고, 기탈은 고섭. 잠긴 격납고는 끊어 연다, 기폐는 개설.",
+   "text_sha256": "c2779d0f84a087f082fb1c42899cf16562febe2561725b252807cf96311996cb",
+   "audio_sha256": "04ddd306209ba9120a43edaf8c113a2c71514bc234f9b93c0c7eedd1a2ac80b1",
+   "image_sha256": "304aef63cee4f5f26adc3e577fd87d4b00b432d4d1516e26bc79e8b5b9adfc63",
+   "source_commit": "db7bd76b46e86b3ae96f1605f0b0f6e42f92a74b",
+   "station_sha256": "6fe336708826a16397aa5f52847cb678e830866bd8890831ec937e43efc63579",
+   "original_wav_sha256": "4c016b8adbffd600d6f69667447acf959f016d8121932af31c22e7c362f65eb6",
+   "original_wav_filename": "new-jq-08.full.wav"
   }
  }
 }

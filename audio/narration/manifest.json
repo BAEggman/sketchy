@@ -9790,6 +9790,83 @@
    "station_sha256": "5e5a0541257f4c253ed6b93a8f3060d643022c22271fe0885ff58c8bdcff7dc9",
    "original_wav_sha256": "727f98bad78b05a950a8b79c81158166e24dce349cd66fad20f668bbe3668243",
    "original_wav_filename": "new-gr-07.full.wav"
+  },
+  "new-gr-35#0": {
+   "src": "audio/narration/new-gr-35__s0__3c0871617f59.mp3",
+   "text": "자오유주와 맥장, 기혈다소, 인시 폐 3에서 5시에서 축시 간 1에서 3시까지 과다. 장소는 열두 띠 해시계 광장, 방석 위 띠 짐승 열둘과 경락 인물이 만나는 시계 광장. 정본 경락 인물과 공용 부호, 뜻, 소리 고리를 따라 차례로 읽는다.",
+   "text_sha256": "3c0871617f595aad7517137d5add7521083185f3843c94b96adf7648ef1f8743",
+   "audio_sha256": "5a8bf5a9cb4cfc5ff4420a5dffc53f1117cd73e4142c8fc6725626956519a44f",
+   "image_sha256": "065523c1bf098b64368d9f48b1bf7fcdb2ac7bfc8b10fdc682ffdaeaa2629a42",
+   "source_commit": "e71083557c97f008f84b3fd6da9270a6d8adc617",
+   "station_sha256": "135d0d1e073c04826e96be8c2d510221ae9d32518c4a84888c8751dd7f8908a5",
+   "original_wav_sha256": "697be11b5509d74ed67208105d08bf6a2f2443a9ec41b191ea58fed626b9fd8e",
+   "original_wav_filename": "new-gr-35.full.wav"
+  },
+  "new-gr-35#1": {
+   "src": "audio/narration/new-gr-35__s1__23e9d8139c0f.mp3",
+   "text": "열두 띠 해시계 광장의 #1 정거장이다. 인, 3에서 5시, 폐, 묘, 5에서 7시, 대장, 진, 7에서 9시, 위, 사, 9에서 11시, 비.",
+   "text_sha256": "23e9d8139c0ff75886175cefa11d87dbd6b237f74c60f2375e18d2e9626180dc",
+   "audio_sha256": "4489e54996667a1ceb6c4535a5ca6605d36eb657736c5aeea8cdb35912343db1",
+   "image_sha256": "065523c1bf098b64368d9f48b1bf7fcdb2ac7bfc8b10fdc682ffdaeaa2629a42",
+   "source_commit": "e71083557c97f008f84b3fd6da9270a6d8adc617",
+   "station_sha256": "1c103e4213d569da7e59922f567a19c89563b8f3508e073cfc55f0d98cc148be",
+   "original_wav_sha256": "697be11b5509d74ed67208105d08bf6a2f2443a9ec41b191ea58fed626b9fd8e",
+   "original_wav_filename": "new-gr-35.full.wav"
+  },
+  "new-gr-35#2": {
+   "src": "audio/narration/new-gr-35__s2__4ed1af5f4c24.mp3",
+   "text": "열두 띠 해시계 광장의 #2 정거장이다. 오, 11에서 13시, 심, 미, 13에서 15시, 소장, 신, 15에서 17시, 방광, 유, 17에서 19시, 신.",
+   "text_sha256": "4ed1af5f4c24a975b2ea9a2a0635cd3ae1f6ec8ec9a14ad4352e9c58c73ae522",
+   "audio_sha256": "bf560f56bd1c31105a5ae1649cc7da45aa9eba6248eab702c9b5823b91a61f28",
+   "image_sha256": "065523c1bf098b64368d9f48b1bf7fcdb2ac7bfc8b10fdc682ffdaeaa2629a42",
+   "source_commit": "e71083557c97f008f84b3fd6da9270a6d8adc617",
+   "station_sha256": "83b96e571d1576f22c421cc5739c63929f7b262a3c9f38b7d706d79335b80bb6",
+   "original_wav_sha256": "697be11b5509d74ed67208105d08bf6a2f2443a9ec41b191ea58fed626b9fd8e",
+   "original_wav_filename": "new-gr-35.full.wav"
+  },
+  "new-gr-35#3": {
+   "src": "audio/narration/new-gr-35__s3__0b588fb73c03.mp3",
+   "text": "열두 띠 해시계 광장의 #3 정거장이다. 술, 19에서 21시, 심포, 해, 21에서 23시, 삼초, 자, 23에서 1시, 담, 축, 1에서 3시, 간.",
+   "text_sha256": "0b588fb73c03514c7eb219810ebc419b1905e23d80c0413812832c9a159e3eb7",
+   "audio_sha256": "8279305efc0e7f2a67d7c79dd4b329ab413f1c85cb1f7db1ef36affb8c0d5ece",
+   "image_sha256": "065523c1bf098b64368d9f48b1bf7fcdb2ac7bfc8b10fdc682ffdaeaa2629a42",
+   "source_commit": "e71083557c97f008f84b3fd6da9270a6d8adc617",
+   "station_sha256": "f23bd66ae4ba5fcae2a547058ff96fb6529748a216e6b67ea46170f3da4e0c3d",
+   "original_wav_sha256": "697be11b5509d74ed67208105d08bf6a2f2443a9ec41b191ea58fed626b9fd8e",
+   "original_wav_filename": "new-gr-35.full.wav"
+  },
+  "new-gr-35#4": {
+   "src": "audio/narration/new-gr-35__s4__78c7ef77487a.mp3",
+   "text": "열두 띠 해시계 광장의 #4 정거장이다. 맥장: 수삼음 3척5촌, 가장 짧음, 수삼양 5척, 족삼음 6척5촌, 족삼양 8척, 가장 긺.",
+   "text_sha256": "78c7ef77487a7ebce050aea7018d7816fed653344b1fdf803c341f307f02c8e6",
+   "audio_sha256": "00d81bcb40cf019a5c2e9131d206eb81ebb2c06d3bc64303732f09d77f2e8f15",
+   "image_sha256": "065523c1bf098b64368d9f48b1bf7fcdb2ac7bfc8b10fdc682ffdaeaa2629a42",
+   "source_commit": "e71083557c97f008f84b3fd6da9270a6d8adc617",
+   "station_sha256": "bf7496236f621060268d8338fef1a00937babe4a97671b1b6c1785f704885883",
+   "original_wav_sha256": "697be11b5509d74ed67208105d08bf6a2f2443a9ec41b191ea58fed626b9fd8e",
+   "original_wav_filename": "new-gr-35.full.wav"
+  },
+  "new-gr-35#5": {
+   "src": "audio/narration/new-gr-35__s5__a80b30719705.mp3",
+   "text": "열두 띠 해시계 광장의 #5 정거장이다. 기혈다소: 다기다혈 = 양명, 대장, 위, / 소기다혈 = 태양, 소장, 방광, 궐음, 심포, 간, / 다기소혈 = 태음, 폐, 비, 소음, 심, 신, 소양, 삼초, 담.",
+   "text_sha256": "a80b30719705061c6ef26eb84f0d1428002c37ddbdbb0ca1d900c66ca01a585d",
+   "audio_sha256": "bd04c5a7e1b4262b4aca922b7dcac6589932a443c08208da7da0cc2742e1b7ef",
+   "image_sha256": "065523c1bf098b64368d9f48b1bf7fcdb2ac7bfc8b10fdc682ffdaeaa2629a42",
+   "source_commit": "e71083557c97f008f84b3fd6da9270a6d8adc617",
+   "station_sha256": "72825c84191090c05f72473074ef99e139d8594b97d16853c1f6cb951a17d132",
+   "original_wav_sha256": "697be11b5509d74ed67208105d08bf6a2f2443a9ec41b191ea58fed626b9fd8e",
+   "original_wav_filename": "new-gr-35.full.wav"
+  },
+  "new-gr-35#6": {
+   "src": "audio/narration/new-gr-35__s6__8c3291a991f2.mp3",
+   "text": "처음부터 한 바퀴 되짚는다. 인, 3에서 5시, 폐, 묘, 5에서 7시, 대장, 진, 7에서 9시, 위, 사, 9에서 11시, 비 / 오, 11에서 13시, 심, 미, 13에서 15시, 소장, 신, 15에서 17시, 방광, 유, 17에서 19시, 신 / 술, 19에서 21시, 심포, 해, 21에서 23시, 삼초, 자, 23에서 1시, 담, 축, 1에서 3시, 간 / 맥장: 수삼음 3척5촌, 가장 짧음, 수삼양 5척, 족삼음 6척5촌, 족삼양 8척, 가장 긺, / 기혈다소: 다기다혈 = 양명, 대장, 위, / 소기다혈 = 태양, 소장, 방광, 궐음, 심포, 간, / 다기소혈 = 태",
+   "text_sha256": "8c3291a991f211918fa76880708e412dbecb6c90943329e0fce189f4dd4a541c",
+   "audio_sha256": "0832e9df7664d993bbc27a6df7b1f8c481e687d66fedf70d945a6a9b54a437e6",
+   "image_sha256": "065523c1bf098b64368d9f48b1bf7fcdb2ac7bfc8b10fdc682ffdaeaa2629a42",
+   "source_commit": "e71083557c97f008f84b3fd6da9270a6d8adc617",
+   "station_sha256": "588531b66ec19657f8da14c60c114dd5339f2d7f1de2ace855da42aa49dd97c1",
+   "original_wav_sha256": "697be11b5509d74ed67208105d08bf6a2f2443a9ec41b191ea58fed626b9fd8e",
+   "original_wav_filename": "new-gr-35.full.wav"
   }
  }
 }

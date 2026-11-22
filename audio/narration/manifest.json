@@ -3168,6 +3168,72 @@
    "station_sha256": "70347ce0fafceb24df75cefee3975f1e1aa4c4f8b3fdb70b5bcc68d88963d080",
    "original_wav_sha256": "c8e3df1d2639e74d36186b9d8f7ba2f3afcbefe132211c3f1eec9ee9d6431f6e",
    "original_wav_filename": "qiqing-04.full.wav"
+  },
+  "qiqing-05#0": {
+   "src": "audio/narration/qiqing-05__s0__f1643fa52c67.mp3",
+   "text": "여기부턴 상사야. 이번엔 둘이 나란히가 아니라 위아래야. 아래가 위를 받쳐 올리고, 노란 빛은 위의 하나에만 켜져. 한 약이 다른 약의 주작용을 보조하는 주종 관계, 그림에서는 위가 주, 아래가 종. 약성이 강해지는 건 상수와 같아서 노란 빛을 쓰지만, 빛을 하나만 받으면 상사. 상사 네 짝 중 앞 둘, 황복 애향.",
+   "text_sha256": "f1643fa52c67c1754346194870436a45b3b0142253c31ecd62b54428cfc5e7c2",
+   "audio_sha256": "daa783463b2099e3a0c310074c004e1531ba568d8b23b932fb83650c3aead8d8",
+   "image_sha256": "0fbf713fd7b5b9024d9a2d9fd1b25590833548120781707b5826a28e44407167",
+   "source_commit": "149ba87c863c7d1707a4422908556a20cac6042e",
+   "station_sha256": "b9b9077f3a34c859f7108289d572ac757586b3b18462515663b2064b58b8993b",
+   "original_wav_sha256": "4b3e12ef2c8046072fb8ef7ff720733da2b1a2c53239de2baafabd27864b53b0",
+   "original_wav_filename": "qiqing-05.full.wav"
+  },
+  "qiqing-05#1": {
+   "src": "audio/narration/qiqing-05__s1__d62abe2881bd.mp3",
+   "text": "왼쪽 매트 위엔 깃대 꼭대기까지 솟구친 노란 깃발. 노란의 황, 깃발의 기, 황기. 펄럭이며 노랗게 빛나지? 빛은 깃발 혼자 받아. 교재도 황기 옆에 주인 주 자를 적어 놨어. 포제 꿀 작업대에서 감초와 함께 보비익기하려고 꿀로 볶던 그 깃발이야.",
+   "text_sha256": "d62abe2881bd56de8e554ffb96906efdc7638aa8aee602123539b8a5b332b197",
+   "audio_sha256": "6e58520feb682c428b608a3ec87d24e7f5452a34d7e84246ae1f51a577736b5d",
+   "image_sha256": "0fbf713fd7b5b9024d9a2d9fd1b25590833548120781707b5826a28e44407167",
+   "source_commit": "149ba87c863c7d1707a4422908556a20cac6042e",
+   "station_sha256": "01cb0ede93c9b60668fe705bf08bd212aa8586cc509487f6ff991d231a2933e7",
+   "original_wav_sha256": "4b3e12ef2c8046072fb8ef7ff720733da2b1a2c53239de2baafabd27864b53b0",
+   "original_wav_filename": "qiqing-05.full.wav"
+  },
+  "qiqing-05#2": {
+   "src": "audio/narration/qiqing-05__s2__223c8a8b1dfd.mp3",
+   "text": "깃대가 꽂힌 건 얼굴 그린 하얀 볼링공. 볼링, 복령. 교재는 풀 초 머리가 아니라 대 죽 머리 아래 령 자를 쓴 복령으로 적었어. 받침이 되어 깃발을 떠받치고 웃기만 해, 빛은 없어. 주작용을 돕는 쪽, 종이야. 황기가 주, 복령이 종.",
+   "text_sha256": "223c8a8b1dfde5146993bb94167d2dd30e502dba61c5d2efb5a1b4f9f32bd8e8",
+   "audio_sha256": "b67e20076865059b6f010c4c0c999f3324eadd21e84675fdf9b852188beabb4c",
+   "image_sha256": "0fbf713fd7b5b9024d9a2d9fd1b25590833548120781707b5826a28e44407167",
+   "source_commit": "149ba87c863c7d1707a4422908556a20cac6042e",
+   "station_sha256": "b5d362389efb7eb48f4dcadad4e1d29cf13ffdd761a0154d285423d06a4653d8",
+   "original_wav_sha256": "4b3e12ef2c8046072fb8ef7ff720733da2b1a2c53239de2baafabd27864b53b0",
+   "original_wav_filename": "qiqing-05.full.wav"
+  },
+  "qiqing-05#3": {
+   "src": "audio/narration/qiqing-05__s3__6e003635e75b.mp3",
+   "text": "오른쪽 매트 위엔 아기를 업은 큰 쑥 잎. 애 업은 잎, 애엽. 머리 위 높이 들려 빛을 받고 있어. 그런데 조심해. 교재가 주 자를 적은 건 황기와 황금뿐이고, 애엽과 향부자에는 주를 안 적었어. 그림에서는 앞에 적힌 약을 위에 올렸을 뿐이야. 식초 작업대의 포대기 아기 배추는 아출이고, 이건 쑥 잎이 아기를 업었어.",
+   "text_sha256": "6e003635e75bea4561cfbfe3bbd9ed8423767d7aa8d1063c24e0d2460df97dd6",
+   "audio_sha256": "1a4822c765d26b7c1f9f7d1d5812813c3fb44725a09c45988558455da59eb63e",
+   "image_sha256": "0fbf713fd7b5b9024d9a2d9fd1b25590833548120781707b5826a28e44407167",
+   "source_commit": "149ba87c863c7d1707a4422908556a20cac6042e",
+   "station_sha256": "4325cff5402a93ef28f131f412681ac9830c20ec868c8c0a7edd33a12bce1112",
+   "original_wav_sha256": "4b3e12ef2c8046072fb8ef7ff720733da2b1a2c53239de2baafabd27864b53b0",
+   "original_wav_filename": "qiqing-05.full.wav"
+  },
+  "qiqing-05#4": {
+   "src": "audio/narration/qiqing-05__s4__036e66426159.mp3",
+   "text": "쑥 잎을 받쳐 든 건 실크햇에 털 깃 외투를 입은 부자. 다른 손으론 분홍 향수를 칙 뿜어, 향수의 향, 부자, 향부자. 식초 작업대에서 넘어지며 향수 구름을 터뜨리던 그 부자야. 단행 칸의 불꽃 머리 도련님 부자와는 다른 사람이고. 여기선 아래서 받쳐 드는 쪽이라 빛이 없어.",
+   "text_sha256": "036e66426159729b013cb0a87869cf579fd50a372a765396a5997e585c88e314",
+   "audio_sha256": "a082797c208493207d8608a96a9b1c1389147e697556bfb980cc483eafdc0c23",
+   "image_sha256": "0fbf713fd7b5b9024d9a2d9fd1b25590833548120781707b5826a28e44407167",
+   "source_commit": "149ba87c863c7d1707a4422908556a20cac6042e",
+   "station_sha256": "554bdd2bd545bb811f2a622dc8dafb5198043d97472d13048e086f9ec980f931",
+   "original_wav_sha256": "4b3e12ef2c8046072fb8ef7ff720733da2b1a2c53239de2baafabd27864b53b0",
+   "original_wav_filename": "qiqing-05.full.wav"
+  },
+  "qiqing-05#5": {
+   "src": "audio/narration/qiqing-05__s5__23e8c4240dbf.mp3",
+   "text": "한 바퀴. 하얀 볼링공이 노란 깃발을 꽂아 받치고 빛은 깃발만, 황기가 주, 복령이 종. 향수 부자가 애 업은 쑥 잎을 머리 위로 받치고 빛은 쑥 잎만, 애엽과 향부자. 황복 애향. 위아래에 빛 하나면 상사, 나란히에 빛을 나누면 상수. 그리고 교재가 주 자를 적은 건 황기와, 다음 장의 황금 둘뿐이야.",
+   "text_sha256": "23e8c4240dbf4760363bceaca2776bdb3671bec7ed0dcfca44759c6ec67fc31b",
+   "audio_sha256": "1d281555289c96c2557e6ccc6aef8c94f44e97f1359e0eb375f25d1339c30c50",
+   "image_sha256": "0fbf713fd7b5b9024d9a2d9fd1b25590833548120781707b5826a28e44407167",
+   "source_commit": "149ba87c863c7d1707a4422908556a20cac6042e",
+   "station_sha256": "f7ea9fd5ee842790c8b69056cc6e758bea27ba1fe80db3719d6848056dcedbb6",
+   "original_wav_sha256": "4b3e12ef2c8046072fb8ef7ff720733da2b1a2c53239de2baafabd27864b53b0",
+   "original_wav_filename": "qiqing-05.full.wav"
   }
  }
 }

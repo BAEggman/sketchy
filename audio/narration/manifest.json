@@ -10340,6 +10340,72 @@
    "station_sha256": "05f960e38ea4da73dfac18f6fb79aaf7cd48ba960423e122b5240faaa8250531",
    "original_wav_sha256": "2777b60e872704b7dc39246fafdfc0fc50aef640cf89be6ae5aceae456e58543",
    "original_wav_filename": "new-gr-46.full.wav"
+  },
+  "new-gr-47#0": {
+   "src": "audio/narration/new-gr-47__s0__bc518009fd09.mp3",
+   "text": "유주 원문 ⑥ 담, 간, 기어목예자, 요모제, 출삼모, 교출태음지후, 과음기, 회어전, 환순내 과다. 장소는 순례길 6구간, 푸른 솔숲 고개, 담 판관과 간 장군의 원문 굴곡점. 정본 경락 인물과 공용 부호, 뜻, 소리 고리를 따라 차례로 읽는다.",
+   "text_sha256": "bc518009fd09a92a09ebefa71bbd6ccf969bba3cdc284c2b7bc5a71ddae8e0e3",
+   "audio_sha256": "a8227f923ed30d57ebe4da4d8c009260417ac684108a8508e2e0d41157719d38",
+   "image_sha256": "6855351ab54d5d645ee07b03b4f2912850eba1d3d9720266bf2b8b96396b0cf7",
+   "source_commit": "34974afbd48b857a196ee573f7d1e02bd1a2249d",
+   "station_sha256": "bb70eb32a368422f9f887761bf05046349960a9fcedd8496ae9d1960aa580b40",
+   "original_wav_sha256": "00328293c8c99f752ca3cb5d412c8be2c8b91169759c7d87e3c2d8d6b38df0bd",
+   "original_wav_filename": "new-gr-47.full.wav"
+  },
+  "new-gr-47#1": {
+   "src": "audio/narration/new-gr-47__s1__9672134a352a.mp3",
+   "text": "순례길 6구간 푸른 솔숲 고개의 #1 정거장이다. 담경 원문: 기어목예자, 상저두각 하이후, 행수소양지전 지견상 각교출수소양지후 입결분.",
+   "text_sha256": "9672134a352aec21bbd233ba8982a7ba1b31e457f8f71fdfd344c4ebfeedba99",
+   "audio_sha256": "94c0d8df2d7359be2a92e0ad0923cd0b92fe98c17f6edd319228d08f32f58fba",
+   "image_sha256": "6855351ab54d5d645ee07b03b4f2912850eba1d3d9720266bf2b8b96396b0cf7",
+   "source_commit": "34974afbd48b857a196ee573f7d1e02bd1a2249d",
+   "station_sha256": "4af8baad8e4217f416b61658c93ee2c43f59ab2c47f1bb07eedeea65f9011a42",
+   "original_wav_sha256": "00328293c8c99f752ca3cb5d412c8be2c8b91169759c7d87e3c2d8d6b38df0bd",
+   "original_wav_filename": "new-gr-47.full.wav"
+  },
+  "new-gr-47#2": {
+   "src": "audio/narration/new-gr-47__s2__fcbe0d1d607e.mp3",
+   "text": "순례길 6구간 푸른 솔숲 고개의 #2 정거장이다. 담경 원문: 관격락간속담, 출기가 요모제 횡입비염중, 환도, 하외보골지전 직하저절골지단, 입소지차지지간, 지자 출대지단 환관조갑 출삼모.",
+   "text_sha256": "fcbe0d1d607e91cd204b2a01943acbe00a46de4bbbde99416dcdfd1b3b609aa9",
+   "audio_sha256": "072f6169b7fffb7efedcf9f1435d554f7663ec4a310bdb555b94dc414d0d8449",
+   "image_sha256": "6855351ab54d5d645ee07b03b4f2912850eba1d3d9720266bf2b8b96396b0cf7",
+   "source_commit": "34974afbd48b857a196ee573f7d1e02bd1a2249d",
+   "station_sha256": "d1e4ee82a7ec0f2e0b7a8471cd93612932e027378f5a421b9899f2f3d7d0f386",
+   "original_wav_sha256": "00328293c8c99f752ca3cb5d412c8be2c8b91169759c7d87e3c2d8d6b38df0bd",
+   "original_wav_filename": "new-gr-47.full.wav"
+  },
+  "new-gr-47#3": {
+   "src": "audio/narration/new-gr-47__s3__0313b8a10200.mp3",
+   "text": "순례길 6구간 푸른 솔숲 고개의 #3 정거장이다. 간경 원문: 기어대지총모지제, 상과팔촌 교출태음지후, 입모중 과음기 저소복 협위속간락담.",
+   "text_sha256": "0313b8a102003f60d039546a80118658d7a83cf45a9819810ebe1a944b15a367",
+   "audio_sha256": "d2b17fa3d2d6ad3d9eb343cdb8099eedc31a0333de36857357a107e51995e955",
+   "image_sha256": "6855351ab54d5d645ee07b03b4f2912850eba1d3d9720266bf2b8b96396b0cf7",
+   "source_commit": "34974afbd48b857a196ee573f7d1e02bd1a2249d",
+   "station_sha256": "5abd26b4f191836a4766970d6da352ab9f6908427913978f3a987d4c591fcb5a",
+   "original_wav_sha256": "00328293c8c99f752ca3cb5d412c8be2c8b91169759c7d87e3c2d8d6b38df0bd",
+   "original_wav_filename": "new-gr-47.full.wav"
+  },
+  "new-gr-47#4": {
+   "src": "audio/narration/new-gr-47__s4__2d3da44c78c2.mp3",
+   "text": "순례길 6구간 푸른 솔숲 고개의 #4 정거장이다. 간경 원문: 순후롱지후 상입항상 연목계 상출액 여독맥회어전 / 지자 환순내 / 복종간 별관격 상주폐.",
+   "text_sha256": "2d3da44c78c2ad30a1c8b05e7a8f3af402b92f5682c30cc4589fcd0fe2926ff0",
+   "audio_sha256": "c1c2bb1a1be6cf11c147fb7d8727264fee8e2a8803a22e9ab7ca168e9ae87515",
+   "image_sha256": "6855351ab54d5d645ee07b03b4f2912850eba1d3d9720266bf2b8b96396b0cf7",
+   "source_commit": "34974afbd48b857a196ee573f7d1e02bd1a2249d",
+   "station_sha256": "f1ea7091dcee1ed213ef56f148f4e7d1dae0dcb1069a7905b18fbf14be5a70c3",
+   "original_wav_sha256": "00328293c8c99f752ca3cb5d412c8be2c8b91169759c7d87e3c2d8d6b38df0bd",
+   "original_wav_filename": "new-gr-47.full.wav"
+  },
+  "new-gr-47#5": {
+   "src": "audio/narration/new-gr-47__s5__f8740923e8ed.mp3",
+   "text": "처음부터 한 바퀴 되짚는다. 담경 원문: 기어목예자, 상저두각 하이후, 행수소양지전 지견상 각교출수소양지후 입결분 / 담경 원문: 관격락간속담, 출기가 요모제 횡입비염중, 환도, 하외보골지전 직하저절골지단, 입소지차지지간 / 간경 원문: 기어대지총모지제, 상과팔촌 교출태음지후, 입모중 과음기 저소복 협위속간락담 / 간경 원문: 순후롱지후 상입항상 연목계 상출액 여독맥회어전 / 지자 환순내 / 복종간 별관격 상주폐",
+   "text_sha256": "f8740923e8edba91b7e008fad3b0deda70e9c0dd08493070a5fcf07e123cc661",
+   "audio_sha256": "bae13106d0ae2fd0f019236ec201a2f457a5faa7a0145c2642554f5ac42cfb63",
+   "image_sha256": "6855351ab54d5d645ee07b03b4f2912850eba1d3d9720266bf2b8b96396b0cf7",
+   "source_commit": "34974afbd48b857a196ee573f7d1e02bd1a2249d",
+   "station_sha256": "418f14347f950b87990556c693a9c54c2083d6d49dbac6e8e78d7c77c60606e3",
+   "original_wav_sha256": "00328293c8c99f752ca3cb5d412c8be2c8b91169759c7d87e3c2d8d6b38df0bd",
+   "original_wav_filename": "new-gr-47.full.wav"
   }
  }
 }

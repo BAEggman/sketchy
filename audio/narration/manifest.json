@@ -8877,6 +8877,94 @@
    "station_sha256": "961fb82d8908f24e622be27f885683f1a6024b2bc64ab3fc80e3c34f01d797ba",
    "original_wav_sha256": "687b66beacc169a176f5a90f75d1a8a26badae21fd85c4c9207fe1c599730b8a",
    "original_wav_filename": "new-gr-01.full.wav"
+  },
+  "new-gr-02#0": {
+   "src": "audio/narration/new-gr-02__s0__c0e63540f9be.mp3",
+   "text": "고분 발굴 현장이다. 흙더미 위에 돌 말과 돌 임금, 말 마, 임금 왕, 흙더미 퇴, 마왕퇴 한묘다. 무덤에서 비단 두루마리, 백서가 나왔다. 경락학의 가장 오랜 모습과, 오른쪽 천막의 당나라 손사막까지 본다.",
+   "text_sha256": "c0e63540f9be3d4bfcc3a5f7f0df4950e4f148ade7ada257c210af00d9f3820c",
+   "audio_sha256": "c919ad9941540ae8d45b97e6de430ca4ea7f87bc32693c9614067fe7586a1262",
+   "image_sha256": "53d821876e5ce96f5ac116222f2a5f49dee3a3586214f3f8de70402bfab6552d",
+   "source_commit": "05f6b4c30c3e8ed286c3f5ba776b4620c5800034",
+   "station_sha256": "c8b2cfaa7c0f6df40ab174b02e67142a978dcf90bcc1ebee304b1be22c24140b",
+   "original_wav_sha256": "466c4bdb0add32767c1d74b2c98acb1b8f6905b12480b7a3ed9051914fded5f8",
+   "original_wav_filename": "new-gr-02.full.wav"
+  },
+  "new-gr-02#1": {
+   "src": "audio/narration/new-gr-02__s1__783240e691f6.mp3",
+   "text": "참호에서 비단 두루마리 둘을 펼친다. 발과 팔이 그려진 것, 족비십일맥구경. 검은 반 흰 반, 음양십일맥구경. 두루마리 위쪽 참호 벽의 주사위 1, 1, 열한 맥, 십일맥. 한대, 내경보다 앞선 경맥학설의 가장 첫 모습이다.",
+   "text_sha256": "783240e691f6dae21843c5bc090605e240bbf66a20f9d30dae6023bac05d1932",
+   "audio_sha256": "74f92fc888b9376e90e168891ba8fa962b9c9d177622879d67a8712df04c0982",
+   "image_sha256": "53d821876e5ce96f5ac116222f2a5f49dee3a3586214f3f8de70402bfab6552d",
+   "source_commit": "05f6b4c30c3e8ed286c3f5ba776b4620c5800034",
+   "station_sha256": "e4bc60141b242281c04b7cfbd96b52771c9540c4f9feda2d210c48f105c5eaab",
+   "original_wav_sha256": "466c4bdb0add32767c1d74b2c98acb1b8f6905b12480b7a3ed9051914fded5f8",
+   "original_wav_filename": "new-gr-02.full.wav"
+  },
+  "new-gr-02#2": {
+   "src": "audio/narration/new-gr-02__s2__1de3e2179755.mp3",
+   "text": "벽감 줄에 한 칸이 비고 붉은 방패만 남았다. 방패를 든 붉은 갑옷 호위무사, 심포다. 백서는 열한 맥뿐이라, 영추의 열두 경에 비해 수궐음, 심포의 맥이 없다.",
+   "text_sha256": "1de3e21797556cab9a5e1e7038b65274b55b22e671830acd73bcee152b644af1",
+   "audio_sha256": "af00f2f966e2e66ddc00b820bca0c2b144ed53c71bd125977f901a2b3f30afd1",
+   "image_sha256": "53d821876e5ce96f5ac116222f2a5f49dee3a3586214f3f8de70402bfab6552d",
+   "source_commit": "05f6b4c30c3e8ed286c3f5ba776b4620c5800034",
+   "station_sha256": "4d3b121e4109b8bf037dbd2db9fdf049053a85d493b654fbfe79f8b4ebdc8401",
+   "original_wav_sha256": "466c4bdb0add32767c1d74b2c98acb1b8f6905b12480b7a3ed9051914fded5f8",
+   "original_wav_filename": "new-gr-02.full.wav"
+  },
+  "new-gr-02#3": {
+   "src": "audio/narration/new-gr-02__s3__6b8d0c74b032.mp3",
+   "text": "가운데 흙 인형, 팔의 붉은 줄 위에 뜸봉이 줄줄이 서서 연기를 올린다, 점이 아니라 줄 위에 그대로. 백서에는 혈위의 이름이 없다, 그래서 혈 자리가 아니라 맥에 직접 뜸을 떴다. 그리고 줄은 어깨에서 손까지 양끝이 열려 있다, 고리처럼 도는 순환, 여환무단의 개념도 아직 없다. 수혈 명칭이 적혀 있다는 보기는 틀린 것.",
+   "text_sha256": "6b8d0c74b032925d9e321f94548a2efd56bde7203046c7b6343438a659fdb820",
+   "audio_sha256": "12f265778585cef2a5c2f743120a87f78916c8059141e30dcb12b6ac200c7c19",
+   "image_sha256": "53d821876e5ce96f5ac116222f2a5f49dee3a3586214f3f8de70402bfab6552d",
+   "source_commit": "05f6b4c30c3e8ed286c3f5ba776b4620c5800034",
+   "station_sha256": "78d1f90f235b45ad6e852bb5a9aec8967a2aac509e6223e49e94441fbd684b2e",
+   "original_wav_sha256": "466c4bdb0add32767c1d74b2c98acb1b8f6905b12480b7a3ed9051914fded5f8",
+   "original_wav_filename": "new-gr-02.full.wav"
+  },
+  "new-gr-02#4": {
+   "src": "audio/narration/new-gr-02__s4__ca9b8354a1e2.mp3",
+   "text": "앞쪽 천 위, 열린 약상자와 주사위 5, 2, 함께 나온 의방서, 오십이병방이다. 곁의 채색 비단에는 사람들이 몸을 늘이는 체조, 도인도도 함께 나왔다.",
+   "text_sha256": "ca9b8354a1e245b5636b83083a39b5fac90b4682593999c9600a68758e5cc6fa",
+   "audio_sha256": "48a5ed2d50bdf6ea24f80e8a9a7c06f66006e4959a20aca776146223ce35957c",
+   "image_sha256": "53d821876e5ce96f5ac116222f2a5f49dee3a3586214f3f8de70402bfab6552d",
+   "source_commit": "05f6b4c30c3e8ed286c3f5ba776b4620c5800034",
+   "station_sha256": "f15db6063f689ca10dd07aa7db1193b6d8f326505be369a6944ef06f4b039a68",
+   "original_wav_sha256": "466c4bdb0add32767c1d74b2c98acb1b8f6905b12480b7a3ed9051914fded5f8",
+   "original_wav_filename": "new-gr-02.full.wav"
+  },
+  "new-gr-02#5": {
+   "src": "audio/narration/new-gr-02__s5__e5f813859b21.mp3",
+   "text": "오른쪽 천막, 당나라 늙은 학자 손사막이 앞, 옆, 뒤 세 사람 몸 그림에 경맥을 색으로 칠한다, 삼인명당도, 경맥을 색으로 가른 첫 그림이다. 곁의 금화 상자, 천금, 그의 책 천금요방. 그 책의 침구 부분을 손씨침구경이라 부른다.",
+   "text_sha256": "e5f813859b21befda01687ae13d00f7ddd8bb3bf2680b13b1d9486d3fba6ea6e",
+   "audio_sha256": "ce15f9089b0fed0573c83ce3885ed9f861343bc4d5949531fa23294e5e37625a",
+   "image_sha256": "53d821876e5ce96f5ac116222f2a5f49dee3a3586214f3f8de70402bfab6552d",
+   "source_commit": "05f6b4c30c3e8ed286c3f5ba776b4620c5800034",
+   "station_sha256": "4a9083dfa27e839fc192ea802a6d5e0462b38f6674ef8a054c2f7d524a6fd809",
+   "original_wav_sha256": "466c4bdb0add32767c1d74b2c98acb1b8f6905b12480b7a3ed9051914fded5f8",
+   "original_wav_filename": "new-gr-02.full.wav"
+  },
+  "new-gr-02#6": {
+   "src": "audio/narration/new-gr-02__s6__d2e4f593fbb3.mp3",
+   "text": "학자가 일꾼 어깨를 움켜쥐어 꾹 누르자 일꾼이 입을 크게 벌리고 비틀댄다, 아! 거기다! 아시혈이다. 누르면 아픈 자리를 그대로 혈로 삼는다, 이통위수. 손사막의 천금요방에서 처음 쓰였다.",
+   "text_sha256": "d2e4f593fbb3efbe142217656148f45f4a3f42b2fe009551181e420f026be35c",
+   "audio_sha256": "2b9fdcfbc0f92e74af016000b184b21dfd7facf6c23b00f56872c502c8d0e1c3",
+   "image_sha256": "53d821876e5ce96f5ac116222f2a5f49dee3a3586214f3f8de70402bfab6552d",
+   "source_commit": "05f6b4c30c3e8ed286c3f5ba776b4620c5800034",
+   "station_sha256": "49fc23d9820622082d154fca852a025524e96a75767fa086bd3cbbca0df2beae",
+   "original_wav_sha256": "466c4bdb0add32767c1d74b2c98acb1b8f6905b12480b7a3ed9051914fded5f8",
+   "original_wav_filename": "new-gr-02.full.wav"
+  },
+  "new-gr-02#7": {
+   "src": "audio/narration/new-gr-02__s7__e1ef9e8988a5.mp3",
+   "text": "다시 본다. 말, 임금, 흙더미, 마왕퇴. 두루마리 둘, 족비, 음양 십일맥구경, 내경 이전 원형. 방패만 남은 칸, 심포맥이 없다. 줄 따라 뜸, 혈명 없이 맥에 직접, 순환 개념 없음. 약상자 5, 2와 체조 비단, 오십이병방과 도인도. 세 사람 그림과 금화, 손사막 천금요방, 색으로 칠한 삼인명당도. 아!, 아시혈.",
+   "text_sha256": "e1ef9e8988a5c150a52a65e18be2938a03c21d891e1c81f4fb8a2e1cbda20a8c",
+   "audio_sha256": "67f0756adc8e25bcc7ae8da2642b2711e675fdef9b87d6b6db2a011260b4f05d",
+   "image_sha256": "53d821876e5ce96f5ac116222f2a5f49dee3a3586214f3f8de70402bfab6552d",
+   "source_commit": "05f6b4c30c3e8ed286c3f5ba776b4620c5800034",
+   "station_sha256": "927b6258af7b815da44d2255816d482da96440af84932a7fa9520402807a1bfd",
+   "original_wav_sha256": "466c4bdb0add32767c1d74b2c98acb1b8f6905b12480b7a3ed9051914fded5f8",
+   "original_wav_filename": "new-gr-02.full.wav"
   }
  }
 }

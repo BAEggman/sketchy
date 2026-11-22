@@ -1,6 +1,6 @@
 # Sketchy 갈아엎기 — 마스터노트 (새 대화 인계용)
 
-마지막 갱신 2026-11-22 03:10(셋째 대화, P3-2 본초 장면 · 명세 끝 — 과 등록 · 사용자 검수 대기) · 작성 Opus 5.5 · 프로젝트 문서 `claude/Sketchy_갈아엎기_마스터노트_20261121.md`와 저장소 `docs/overhaul/MASTER_NOTE.md`는 같은 글이다.
+마지막 갱신 2026-11-22 12:20(셋째 대화, P3-2 본초 장면 · 명세 · 혼동 고치기 끝 — 과 등록 · 사용자 검수 대기) · 작성 Opus 5.5 · 프로젝트 문서 `claude/Sketchy_갈아엎기_마스터노트_20261121.md`와 저장소 `docs/overhaul/MASTER_NOTE.md`는 같은 글이다.
 
 새 대화는 이 노트 하나로 이어 간다. 0절부터 차례로 하면 된다.
 
@@ -10,7 +10,7 @@
 
 1. **이 노트를 끝까지 읽는다.** 그다음 계획서 `claude/Sketchy_갈아엎기_Opus_실행계획서_20261120.md`(저장소 `docs/overhaul/PLAN_20261120.md`)를 읽는다. 계획서가 다른 인계문보다 위다.
 2. **저장소를 되살린다.** 클라우드 작업장은 대화가 끝나면 사라진다. 이 가지의 커밋은 GitHub에 아직 없다(사용자가 올림).
-   - Mac `~/Downloads/sketchy_opus/` 안의 가장 새 꾸러미(지금은 `sketchy_overhaul_20261122a.bundle`; 이후 것이 있으면 그것)를 스테이징하고 아래를 실행한다. 앞선 `…20261121.bundle` · `b` · `c` · `e`는 옛 끝이다. **`20261122a`는 덧붙임 꾸러미**(968fe0a 위) — `e`를 먼저 fetch한 뒤 `a`를 fetch한다.
+   - Mac `~/Downloads/sketchy_opus/` 안의 가장 새 꾸러미(지금은 `sketchy_overhaul_20261122b.bundle`; 이후 것이 있으면 그것)를 스테이징하고 아래를 실행한다. 앞선 `…20261121.bundle` · `b` · `c` · `e`는 옛 끝이다. **`20261122b`는 덧붙임 꾸러미**(968fe0a 위, `a`를 포함) — `e`를 먼저 fetch한 뒤 `b`를 fetch한다.
      ```
      git clone https://github.com/BAEggman/sketchy.git work && cd work
      git fetch <bundle경로> overhaul-20261120:overhaul-20261120 && git switch overhaul-20261120
@@ -150,6 +150,7 @@ P2 시범 여섯은 사용자 검수를 통과했다(11-21 12:54). P3 의학사�
 5. 사용자에게 물을 것 모음(묶음 끝 보고에 올림): 寇宗奭 · 姚瀾 이름 단서(보류 중, 후보 구두+종이연+의자 / 요리사+계란) · 03c 분홍 메모지 줄 손볼지 · 10 메달이 두 책에 걸치지 않음 · 장부 고칠 것(肘後百一方 三因 2789행) · hist-06a 완장 · pilot-duben 보관함으로 옮길지(06b 두더지 자세 검수 뒤).
 6. **P3-2 본초(11-22, 커밋됨)**: 사전 `src/dict/herbs.json` 166개(H001~H166, 새 18개는 6+1 심판안 기본값) · 스티커 `images/herbs/<hid>.webp` 166개(판 `runs/20261122-p3-herbstickers/sheets.json` S01~S29, 메인이 판마다 봄) · 포제 22장(`runs/20261122-p3-suchi/`: brief · Q1~Q4 6+1 · merged.json · scenes/P01~P22.jpeg · built/Pxx.spec.json · blind/results.md) · 十八反 4 · 十九畏 4 · 七情 12장(`runs/20261122-p3-banwe/`: 같은 짜임, 장 id F1~F4 · G1~G4 · S1~S12). 장면은 스티커 참조판을 직접 올려 그림(`src/lessons/tools/scene_ref.py ID [run]`, 안내 `SCENE_GUIDE.md`). 명세 검사 `src/lessons/tools/spec_tools.py`.
    - 남은 것: 과 등록(사용자에게 물음 — 장면 하나 = 과 하나, hp-04 뒤 교재 순서가 기본안) · 등록 뒤 `make_zone_lesson.py`로 과 JSON · 단서 그림 · banwe 판독자 결과 정리 · 포제 판독 「손질 후보」 중 그림 다시 그릴 것(P12 뒤집힌 모자 · P16 기름통이 물뿌리개 · P20 금괴 방향 · P22 쓸개즙 단지)은 사용자 검수 뒤.
+   - **11-22 고치기(사용자 「교정 시도해보자」)**: 판독자 혼동 · 엇나감을 같은 소품 + FIX 문장으로 다시 그림(`runs/fix_20261122.json` · `runs/FIX_GUIDE.md` · `runs/fix_log_20261122.md`). 스티커 8개 새 판(S30 · S31, 옛 판 `images/herbs/_v1/`), 장면 21장 바뀜(옛 그림 `scenes/_v1/`) · 명세 맞춤. **옛 그림 유지 2장: P12(知母 모자가 사발로 읽힘) · G2(정면만 나옴) — 둘 다 소품을 바꾸는 6+1 필요(사용자에게 물음).** F1 개는 늘어진 귀로 그려져 스티커 H064(뾰족 귀)와 다름 — 검수 때 정함.
    - 사용자에게 물을 것(본초): hp-03 옛 표지(까마귀 가면 · 갈대 든 남자 · 날다람쥐 · 1인용 테이블 · 알통)를 사전 피규어로 바꿀지(새 장면은 이미 사전 피규어) · 사전 피규어 중 판독자가 못 읽은 것(자라 → 거북, 측우기 → 온도계, 흰 머리카락 → 숟가락 등, `runs/20261122-p3-suchi/blind/results.md` 끝).
 7. 그 뒤 P3-3 유주도 20 → P3-4 舍岩 寒熱格 → P3-5 본초 분류 무대(계획서 7절).
 8. 확인 필요(열린 채): 督脈 혈 위치(WHO 2008) ↔ 교재 經穴圖 p.88 대조. hub 자동 시험(`qa/hub_p1_test.js`)은 이 세션에서 로컬 서버 실행이 거절되어 못 돌림.

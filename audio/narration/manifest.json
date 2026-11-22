@@ -8052,6 +8052,127 @@
    "station_sha256": "b284f8cf74f1946fbfc9108942b9726f1e2f23911f55cd8700af515e8125a7dc",
    "original_wav_sha256": "7e96d326c94c4ba0c080e12d1c64d5c9891fdd2a298bbc901870c26dc68a426d",
    "original_wav_filename": "new-jq-16.full.wav"
+  },
+  "new-jq-17#0": {
+   "src": "audio/narration/new-jq-17__s0__ba8a088550a9.mp3",
+   "text": "회전초밥집이다. 붉은 초밥 접시가 레일을 돌고 돈다, 맥 안을 도는 혈. 레일 둘레에 다섯 장부가 저마다 일을 맡았다. 그리고 레일이 제대로 돌려면 세 가지, 모터의 힘, 접시의 수, 막히지 않은 레일이 있어야 한다.",
+   "text_sha256": "ba8a088550a98a55c2d99ccf64d1141cb0779edac43738e683e74440bc20f154",
+   "audio_sha256": "c41cda800fa6dad5af7013dc57fe8212c0ff90872d6707b82b81d046ec2036e1",
+   "image_sha256": "629e89f109235001a78ec2bc83c755ae54c2fdb72d658ba120ebf01f7de80df1",
+   "source_commit": "bb1b596b285d39f01cbe64e84279b93d9ce6414c",
+   "station_sha256": "32d4aba60c5ad529ecdb05bcc793847fbfe1c1886a37cc0cab7eea99ece6cac1",
+   "original_wav_sha256": "aee7b2a31ae5c145bd920ff78272930989881f229d49ad0a0d59b70e2512030a",
+   "original_wav_filename": "new-jq-17.full.wav"
+  },
+  "new-jq-17#1": {
+   "src": "audio/narration/new-jq-17__s1__b85452ff1880.mp3",
+   "text": "왼쪽, 임금 심이 레일 받침 옆 핸들 바퀴를 힘껏 돌린다, 레일 전체를 움직이는 모터다. 심주혈맥, 심은 혈과 맥을 주관한다. 심기가 혈을 밀어 돌리는 기본 동력이다.",
+   "text_sha256": "b85452ff18809fb502a2f36b3701dac9d8649c1abb39a6c4039032bac8e80433",
+   "audio_sha256": "e1f830a1f4759d73dd9f26ab942ccbc4d786a9f743ccc98de418d0cfa94c4fa2",
+   "image_sha256": "629e89f109235001a78ec2bc83c755ae54c2fdb72d658ba120ebf01f7de80df1",
+   "source_commit": "bb1b596b285d39f01cbe64e84279b93d9ce6414c",
+   "station_sha256": "017bb71a4779ca16f6e340b707b62f56e7bb9ea1fd31f71003b3488cf11c1ffd",
+   "original_wav_sha256": "aee7b2a31ae5c145bd920ff78272930989881f229d49ad0a0d59b70e2512030a",
+   "original_wav_filename": "new-jq-17.full.wav"
+  },
+  "new-jq-17#2": {
+   "src": "audio/narration/new-jq-17__s2__25976d673333.mp3",
+   "text": "오른쪽 위, 초록 장군 간 곁에 여분 접시가 가득한 냉장고, 간장혈, 쉴 때는 거두고 움직일 때는 내보내 혈량을 조절하고 출혈을 막는다. 손에는 빗자루, 소설로 기기를 틔워 혈행을 시원하게 한다.",
+   "text_sha256": "25976d673333d67763e52201fc56d5ae53739182e041532d32c5e0339c4c5ced",
+   "audio_sha256": "9a896aa3d56ba4bd666fd1b29210a84189469c13823665aed0c0a4487d5f4f72",
+   "image_sha256": "629e89f109235001a78ec2bc83c755ae54c2fdb72d658ba120ebf01f7de80df1",
+   "source_commit": "bb1b596b285d39f01cbe64e84279b93d9ce6414c",
+   "station_sha256": "87a18ae9c95d35323393ca39428a1f1b1d8311a8c6372362891b8f1ddf017a20",
+   "original_wav_sha256": "aee7b2a31ae5c145bd920ff78272930989881f229d49ad0a0d59b70e2512030a",
+   "original_wav_filename": "new-jq-17.full.wav"
+  },
+  "new-jq-17#3": {
+   "src": "audio/narration/new-jq-17__s3__ce1987089846.mp3",
+   "text": "레일 안쪽, 농부 비가 접시마다 투명한 뚜껑을 덮는다, 초밥이 레일 밖으로 떨어지지 않게. 비통혈, 혈이 맥 밖으로 넘치지 않게 거느린다. 간장혈과 함께 출혈을 막는다.",
+   "text_sha256": "ce19870898469176d06815878bd1a82ee83601a6baee3ec827ab8567fe875152",
+   "audio_sha256": "3d46d537dff53fd5ab69a5477429f9fa267d0fcb4428faa1fd8fb2b6da20aa2c",
+   "image_sha256": "629e89f109235001a78ec2bc83c755ae54c2fdb72d658ba120ebf01f7de80df1",
+   "source_commit": "bb1b596b285d39f01cbe64e84279b93d9ce6414c",
+   "station_sha256": "3bf10b664570c06317daca980ad1743a3c607dc6af1bfef9b74c1a40e3745898",
+   "original_wav_sha256": "aee7b2a31ae5c145bd920ff78272930989881f229d49ad0a0d59b70e2512030a",
+   "original_wav_filename": "new-jq-17.full.wav"
+  },
+  "new-jq-17#4": {
+   "src": "audio/narration/new-jq-17__s4__447a33d77bb9.mp3",
+   "text": "위쪽 주방 창구, 흰 옷 노인 폐가 접시를 레일로 날려 보낸다. 모든 접시가 이 창구를 거친다, 폐조백맥, 온갖 맥이 폐로 모인다. 폐는 기를 주관해 퍼뜨리고 내리며 혈의 운행을 돕는다. 혈은 기의 추동에 기대어 돈다.",
+   "text_sha256": "447a33d77bb9d8d649f60c94bfca4e8aeec56cca0bde99a471e4d1820826e430",
+   "audio_sha256": "b775b66fdfd988be46d678a90343d6da230be8b69e25b1d9eec5c017b5484374",
+   "image_sha256": "629e89f109235001a78ec2bc83c755ae54c2fdb72d658ba120ebf01f7de80df1",
+   "source_commit": "bb1b596b285d39f01cbe64e84279b93d9ce6414c",
+   "station_sha256": "fb334972346acca15ef817b124bbd49043d777387de8d091787fb527bc56511d",
+   "original_wav_sha256": "aee7b2a31ae5c145bd920ff78272930989881f229d49ad0a0d59b70e2512030a",
+   "original_wav_filename": "new-jq-17.full.wav"
+  },
+  "new-jq-17#5": {
+   "src": "audio/narration/new-jq-17__s5__4f807bbda870.mp3",
+   "text": "오른쪽, 대머리 장사 신이 온도 다이얼을 가운데에 잡아 둔다. 신은 원음과 원양을 주관해 혈행을 고르게 한다. 바늘이 빨강으로 가면, 음허, 혈행이 빨라져 혈을 밀어 함부로 나가게 한다, 박혈망행. 파랑으로 가면, 양허, 혈행이 느려져 어혈이 된다.",
+   "text_sha256": "4f807bbda87054ec069f7a3bb762058d324dcef3b94fb2843da72490eaf59086",
+   "audio_sha256": "314cd5fbd7b9cd3a454383fcb616710962822a8efde887e516252eae042da3c9",
+   "image_sha256": "629e89f109235001a78ec2bc83c755ae54c2fdb72d658ba120ebf01f7de80df1",
+   "source_commit": "bb1b596b285d39f01cbe64e84279b93d9ce6414c",
+   "station_sha256": "67b0889a952d4731c6702bb90bee2d20ad29f0d59dbba5c38899d0857a7f313c",
+   "original_wav_sha256": "aee7b2a31ae5c145bd920ff78272930989881f229d49ad0a0d59b70e2512030a",
+   "original_wav_filename": "new-jq-17.full.wav"
+  },
+  "new-jq-17#6": {
+   "src": "audio/narration/new-jq-17__s6__4d21c276acb8.mp3",
+   "text": "세 조건 첫째, 모터의 힘, 심기충패. 임금 심이 힘차게 밀고, 농부 비가 뚜껑으로 붙든다, 기의 추동과 고섭, 심과 비다. 심기가 허하면 혈이 멈춰 어가 된다.",
+   "text_sha256": "4d21c276acb87b27142a86356bfc4abe2e9e7652976bd4a568f66e2a60e0bd78",
+   "audio_sha256": "af8ae0cf74cd79170ffaf2c4273e1d3a9d4033d688ba91c661ad0ffc1301c874",
+   "image_sha256": "629e89f109235001a78ec2bc83c755ae54c2fdb72d658ba120ebf01f7de80df1",
+   "source_commit": "bb1b596b285d39f01cbe64e84279b93d9ce6414c",
+   "station_sha256": "041f06c21e112c9bf32266de09a8a013fc91d35d8ae8c2f9b2529ebf533936b1",
+   "original_wav_sha256": "aee7b2a31ae5c145bd920ff78272930989881f229d49ad0a0d59b70e2512030a",
+   "original_wav_filename": "new-jq-17.full.wav"
+  },
+  "new-jq-17#7": {
+   "src": "audio/narration/new-jq-17__s7__6f793696767d.mp3",
+   "text": "둘째, 접시의 수, 영혈충영. 요리사 위가 초밥을 빚어 접시를 가득 채우고, 곁의 농부 비가 거든다. 비위는 기혈생화지원, 혈을 만드는 근원이다. 혈이 모자라면 맥이 가늘어진다.",
+   "text_sha256": "6f793696767d9741d509e3bb76fbbfd182d758fc17026449100506ccbc43c71a",
+   "audio_sha256": "8b8ace93006b3e7e04974fd10ab8b218bf525b40ef925e6c890896f681ac06f7",
+   "image_sha256": "629e89f109235001a78ec2bc83c755ae54c2fdb72d658ba120ebf01f7de80df1",
+   "source_commit": "bb1b596b285d39f01cbe64e84279b93d9ce6414c",
+   "station_sha256": "e639dcfd8bfb0c0ca9e8ce9b42373409327420dffa7a3d9350a4aa4f8ff88419",
+   "original_wav_sha256": "aee7b2a31ae5c145bd920ff78272930989881f229d49ad0a0d59b70e2512030a",
+   "original_wav_filename": "new-jq-17.full.wav"
+  },
+  "new-jq-17#8": {
+   "src": "audio/narration/new-jq-17__s8__19d46da7c924.mp3",
+   "text": "셋째, 막히지 않은 레일, 맥도통리. 초록 장군 간이 빗자루로 레일을 쓸어 틔운다. 간주소설, 기기를 시원하게 해 맥도를 뚫는다. 맥도가 막히면 어조가 된다.",
+   "text_sha256": "19d46da7c9242d3b6a10b8be88fd519c97264064576d5d365607cce288352af0",
+   "audio_sha256": "5c0324d3607826268d539a0fe0f53ca48e8d522b907ed4430737126dfc7cf3ce",
+   "image_sha256": "629e89f109235001a78ec2bc83c755ae54c2fdb72d658ba120ebf01f7de80df1",
+   "source_commit": "bb1b596b285d39f01cbe64e84279b93d9ce6414c",
+   "station_sha256": "c100e59a3365c146348eccd260623ce1e16412576dcd086f967dc1c3c1bbe046",
+   "original_wav_sha256": "aee7b2a31ae5c145bd920ff78272930989881f229d49ad0a0d59b70e2512030a",
+   "original_wav_filename": "new-jq-17.full.wav"
+  },
+  "new-jq-17#9": {
+   "src": "audio/narration/new-jq-17__s9__06633296ec0f.mp3",
+   "text": "오른쪽 아래 구석, 주황 삽 인부, 삼초가 싱크대 밑 물길을 손본다, 물, 진액의 길이다. 레일과는 떨어져 있다. 삼초통리는 진액이 퍼지는 조건이지 혈 운행의 필수 조건이 아니다, 시험 단골 함정. 혈이 정상 운행하는 세 기본 조건은 심기충패, 영혈충영, 맥도통리, 이 셋뿐이다.",
+   "text_sha256": "06633296ec0f28e83a391ae9fe8fea9d3cca3a7d8fc0a744bc9e2f75c917af07",
+   "audio_sha256": "4609aeb85712c2120e1bdbd40ff431572cc8c18529b012b1db31726611984097",
+   "image_sha256": "629e89f109235001a78ec2bc83c755ae54c2fdb72d658ba120ebf01f7de80df1",
+   "source_commit": "bb1b596b285d39f01cbe64e84279b93d9ce6414c",
+   "station_sha256": "4072ac877519ad7e4b49a643a32412809cb335cc1fdc6e8df240db722b6b1074",
+   "original_wav_sha256": "aee7b2a31ae5c145bd920ff78272930989881f229d49ad0a0d59b70e2512030a",
+   "original_wav_filename": "new-jq-17.full.wav"
+  },
+  "new-jq-17#10": {
+   "src": "audio/narration/new-jq-17__s10__229dbbba5080.mp3",
+   "text": "다시 본다. 핸들 바퀴 임금, 심주혈맥. 냉장고와 빗자루 장군, 간장혈과 소설. 뚜껑 덮는 농부, 비통혈. 창구 노인, 폐조백맥. 다이얼 장사, 신의 음양, 음허는 빨라지고 양허는 느려진다. 세 조건, 모터 힘 심기충패, 가득한 접시 영혈충영, 틔운 레일 맥도통리. 물길 인부의 삼초통리는 아니다.",
+   "text_sha256": "229dbbba50805f1b4f930d157e89949a6a605609b30a565fc7430add6a3d783a",
+   "audio_sha256": "5cfc9b3141e1627ec4671e735c8e3321efbbfed6fb2039b7c226b5e827096712",
+   "image_sha256": "629e89f109235001a78ec2bc83c755ae54c2fdb72d658ba120ebf01f7de80df1",
+   "source_commit": "bb1b596b285d39f01cbe64e84279b93d9ce6414c",
+   "station_sha256": "bf02d625e1819d2129f7372436cbf1e530bcb81aa5c4f038e8738cfe85d9a903",
+   "original_wav_sha256": "aee7b2a31ae5c145bd920ff78272930989881f229d49ad0a0d59b70e2512030a",
+   "original_wav_filename": "new-jq-17.full.wav"
   }
  }
 }

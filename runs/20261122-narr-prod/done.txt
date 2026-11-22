@@ -2,3 +2,6 @@ suchi-01
 fan18-1
 fan18-2
 fan18-3
+fan18-4
+hist-01a
+hist-01b

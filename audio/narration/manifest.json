@@ -8789,6 +8789,94 @@
    "station_sha256": "e8144042ccbaee3e1761882647284c2ab9f527b04c7819863f2c65129a4f5ec0",
    "original_wav_sha256": "ecec79ca44fcfa23df8b13fae3f57d2f40fcb5e6f0eadc57c9e8b8efbd810a24",
    "original_wav_filename": "new-jq-23.full.wav"
+  },
+  "new-gr-01#0": {
+   "src": "audio/narration/new-gr-01__s0__9c8a44a9d391.mp3",
+   "text": "경락 마사지숍이다. 이름 그대로 몸의 길, 경락을 따라 주무른다. 가운데 손님 몸에 빛줄기 열둘이 안에서 밖으로 뻗었다. 경락의 정의와, 시험에 빈칸으로 나오는 원문 넷, 본장, 해론, 경맥, 유경, 을 가게 곳곳에서 짚는다.",
+   "text_sha256": "9c8a44a9d3914bae2627a1b30b450222e48e867ae751f071153d9b99416f275a",
+   "audio_sha256": "cbee52f7a2cc42705ad58dfc825594dfbacb871491d23de91e5d2014100bd648",
+   "image_sha256": "37a52a2f6b45ca9ce183b33229b8f67cb42cd00702608ec9424bc1b5b21b57f3",
+   "source_commit": "475d285e69edcbdbdd32f82da4e5303c841b4ca7",
+   "station_sha256": "d4235a206f6d7e629a81ecc4dab5bd986021a333f8a4990e287950ecf4ff64c5",
+   "original_wav_sha256": "687b66beacc169a176f5a90f75d1a8a26badae21fd85c4c9207fe1c599730b8a",
+   "original_wav_filename": "new-gr-01.full.wav"
+  },
+  "new-gr-01#1": {
+   "src": "audio/narration/new-gr-01__s1__684c44a76d1c.mp3",
+   "text": "가운데 손님, 몸속 장기 언저리에서 빛줄기가 나와 팔다리를 타고 손과 발까지 간다. 경락은 온몸에 기혈이 다니는 통로, 장부와 팔다리 마디, 지절을 잇고, 위아래 안팎을 통하게 한다.",
+   "text_sha256": "684c44a76d1c229b907a0a393f23530fd931dac676becd6eb346688c8f213217",
+   "audio_sha256": "4efe9b4146bf73431f18590d938713b35e88e4f60e64e4acef10216cf3b73a3c",
+   "image_sha256": "37a52a2f6b45ca9ce183b33229b8f67cb42cd00702608ec9424bc1b5b21b57f3",
+   "source_commit": "475d285e69edcbdbdd32f82da4e5303c841b4ca7",
+   "station_sha256": "28c11de52efd458588d7871079dbf23bbb3ad6c7b543c4f432900478cd2a4ccb",
+   "original_wav_sha256": "687b66beacc169a176f5a90f75d1a8a26badae21fd85c4c9207fe1c599730b8a",
+   "original_wav_filename": "new-gr-01.full.wav"
+  },
+  "new-gr-01#2": {
+   "src": "audio/narration/new-gr-01__s2__e9dd4323dd5a.mp3",
+   "text": "빛줄기를 따라 붉은 방울, 혈과 작은 흰 점, 기가 흐른다, 행혈기. 안팎의 음양을 고루 기르고, 영음양. 마사지를 마친 손님은 무릎과 팔꿈치가 반들반들, 깊이 쪼그려 앉는다, 유근골 이관절, 근골을 적시고 관절을 부드럽게. 경맥자 소이행혈기이영음양 유근골 이관절자야, 십이경맥의 운수와 조절 작용이다. 빈칸 단골은 행혈기.",
+   "text_sha256": "e9dd4323dd5a89191efc155dcf28652279fcb9a8b2372c4077cfbdb0a83228c3",
+   "audio_sha256": "c03411bd83bb9718002b34e736e09bdb43e78c3aec0432f98af8c215ca8f5d25",
+   "image_sha256": "37a52a2f6b45ca9ce183b33229b8f67cb42cd00702608ec9424bc1b5b21b57f3",
+   "source_commit": "475d285e69edcbdbdd32f82da4e5303c841b4ca7",
+   "station_sha256": "6e0701c914be471da3cb9a42d71e46f9266f5f829bb39750009f8aa3027eba72",
+   "original_wav_sha256": "687b66beacc169a176f5a90f75d1a8a26badae21fd85c4c9207fe1c599730b8a",
+   "original_wav_filename": "new-gr-01.full.wav"
+  },
+  "new-gr-01#3": {
+   "src": "audio/narration/new-gr-01__s3__039a9a7ab222.mp3",
+   "text": "뒤 벽의 큰 바다 그림, 영추 해론이다. 부십이경맥자 내속우부장 외락우지절, 십이경맥은 안으로 장부에 붙고, 밖으로 팔다리 마디에 얽힌다. 안은 속, 밖은 낙, 빈칸 단골은 낙. '십이경맥'이라는 말이 처음 나온 곳이 황제내경 영추 해론이다.",
+   "text_sha256": "039a9a7ab222e941a1c498e212b37ee778c029fe91605181d82303225982ad20",
+   "audio_sha256": "bc0bc7fb7b937d5d61e87498abb98bb514f3f7107299d348a1ac89cc4574cb6e",
+   "image_sha256": "37a52a2f6b45ca9ce183b33229b8f67cb42cd00702608ec9424bc1b5b21b57f3",
+   "source_commit": "475d285e69edcbdbdd32f82da4e5303c841b4ca7",
+   "station_sha256": "5524b51711ba3e1af43fa934663be0226adfa81ee8e806dfa61de42c523462ca",
+   "original_wav_sha256": "687b66beacc169a176f5a90f75d1a8a26badae21fd85c4c9207fe1c599730b8a",
+   "original_wav_filename": "new-gr-01.full.wav"
+  },
+  "new-gr-01#4": {
+   "src": "audio/narration/new-gr-01__s4__69905d1bb47e.mp3",
+   "text": "오른쪽 계산대, 모래시계, 죽고 사는 것을 가르고, 결사생. 서랍 백 개 약장, 온갖 병을 다스리고, 처백병. 저울, 허실을 고르고, 조허실. 그리고 안마사가 빛줄기를 꾹꾹 눌러 틔운다, 불가불통야, 통하지 않으면 안 된다. 영추 경맥편, 경맥자 소이능결사생 처백병 조허실 불가불통야. 빈칸 단골은 결사생.",
+   "text_sha256": "69905d1bb47eaf9e8081c524de7b429780aa3ada1c7049b8a5d86212669c77a7",
+   "audio_sha256": "9e10c9353ad780970a95cbb7b9cabee507c252804a9173ffc7b4ab7cee3b9f12",
+   "image_sha256": "37a52a2f6b45ca9ce183b33229b8f67cb42cd00702608ec9424bc1b5b21b57f3",
+   "source_commit": "475d285e69edcbdbdd32f82da4e5303c841b4ca7",
+   "station_sha256": "dfad0dd3b76983b05b22f36062be1d10f376f62fa968560272f75b226155d1ee",
+   "original_wav_sha256": "687b66beacc169a176f5a90f75d1a8a26badae21fd85c4c9207fe1c599730b8a",
+   "original_wav_filename": "new-gr-01.full.wav"
+  },
+  "new-gr-01#5": {
+   "src": "audio/narration/new-gr-01__s5__d3f04b03ac54.mp3",
+   "text": "왼쪽, 나란히 누운 두 손님이 손을 잡고 빛나는 띠로 이어졌다, 경락은 표리 경맥을 잇고 장부끼리의 관계를 통하게 한다. 가운데 손님 머리맡에는 초록 출발 깃발, 발가락 끝 빨강 줄 끝에는 체크무늬 결승 깃발, 기시혈과 종지혈, 그 경의 첫 혈과 끝 혈이다.",
+   "text_sha256": "d3f04b03ac54ab3a36754b688bda444183681c50240eb8b2ac897645f4d5bb29",
+   "audio_sha256": "da1bd02626b14800038f872d2a09aafcf3d9c289088e7d35d17177d480d4eedc",
+   "image_sha256": "37a52a2f6b45ca9ce183b33229b8f67cb42cd00702608ec9424bc1b5b21b57f3",
+   "source_commit": "475d285e69edcbdbdd32f82da4e5303c841b4ca7",
+   "station_sha256": "34b63c06272d8ff8a8078cbe76326fdc57997922214fc321b5c63c7b67ba86c7",
+   "original_wav_sha256": "687b66beacc169a176f5a90f75d1a8a26badae21fd85c4c9207fe1c599730b8a",
+   "original_wav_filename": "new-gr-01.full.wav"
+  },
+  "new-gr-01#6": {
+   "src": "audio/narration/new-gr-01__s6__a2926cf3b813.mp3",
+   "text": "빛줄기 곳곳에 작은 주황 등불 빛이 맺혔다, 등불은 신. 장개빈 유경, 소위절자 신기지소사야, 절이란 신기가 머무는 곳이니, 이혈수위언, 혈수를 말한다. 뒤 벽의 사계절 바퀴, 한 해는 365일, 고유삼백륙십오절, 그래서 절이 삼백예순다섯이다.",
+   "text_sha256": "a2926cf3b81394f59fa08eaf2898ccdf9fd3e381501b19d660d2478aa4ce12d2",
+   "audio_sha256": "2d0fd561d621ce04b709b089b3c40fd7f425e86f2cf38b7bf54e2642c41c6c2c",
+   "image_sha256": "37a52a2f6b45ca9ce183b33229b8f67cb42cd00702608ec9424bc1b5b21b57f3",
+   "source_commit": "475d285e69edcbdbdd32f82da4e5303c841b4ca7",
+   "station_sha256": "256ea070428a194022c9a263f6e2b1b5ca6effc7142b25d6e357b5f29fa50988",
+   "original_wav_sha256": "687b66beacc169a176f5a90f75d1a8a26badae21fd85c4c9207fe1c599730b8a",
+   "original_wav_filename": "new-gr-01.full.wav"
+  },
+  "new-gr-01#7": {
+   "src": "audio/narration/new-gr-01__s7__09b54138d4c1.mp3",
+   "text": "다시 본다. 장기에서 손끝까지 빛줄기, 경락, 기혈의 통로. 흐르는 방울과 부드러운 관절, 행혈기이영음양 유근골 이관절. 바다 그림, 해론, 내속우부장 외락우지절, 십이경맥 첫 등장. 모래시계, 서랍장, 저울, 경맥편, 결사생 처백병 조허실 불가불통. 손잡은 두 손님과 두 깃발, 표리 연계, 기시, 종지혈. 등불 빛과 사계절, 유경, 절은 신기지소사, 삼백륙십오절.",
+   "text_sha256": "09b54138d4c15ea0e96c34ec0ba8ea38683c5ced9d0bf3cced3caa207dbca01c",
+   "audio_sha256": "9c943a3d6cc635ff86dc4cce8cd1d4875bc3849dcbc819d48a412c42aec05473",
+   "image_sha256": "37a52a2f6b45ca9ce183b33229b8f67cb42cd00702608ec9424bc1b5b21b57f3",
+   "source_commit": "475d285e69edcbdbdd32f82da4e5303c841b4ca7",
+   "station_sha256": "961fb82d8908f24e622be27f885683f1a6024b2bc64ab3fc80e3c34f01d797ba",
+   "original_wav_sha256": "687b66beacc169a176f5a90f75d1a8a26badae21fd85c4c9207fe1c599730b8a",
+   "original_wav_filename": "new-gr-01.full.wav"
   }
  }
 }

@@ -12001,6 +12001,116 @@
    "station_sha256": "c3d6bb32665593d8c6e433f91e96fec4ca1b1427779dba54df3d34829b5b3cf6",
    "original_wav_sha256": "81084b09210615cd4477a6d5015e8dad1e3d6384d3b438e121da77c67be33988",
    "original_wav_filename": "mer-06.full.wav"
+  },
+  "new-gr-16#0": {
+   "src": "audio/narration/new-gr-16__s0__c437065939b8.mp3",
+   "text": "교회 예배당이다. 교회, 만나 모인다. 여러 경이 한 혈 자리에 모여 앉는 의자가 가운데 줄에 넷, 지하 합창실에는 육부의 하합혈이 있다. 뒷벽 스테인드글라스 다섯은 오수혈의 주치다.",
+   "text_sha256": "c437065939b83783223333532ae55b60119cfe964a3ea8e5d133f8d7630ee4ea",
+   "audio_sha256": "c8d70e4ceec0005be0c45905e41611da96f9e7ed4e7c4c5625639d69d2ed014b",
+   "image_sha256": "f5e9ee7031d889519da56e9a4e6a4d52f015d19577bbc4b797fecdeda4188e5c",
+   "source_commit": "5494d5325c80c80f76c9d326ec5710299e60eaf7",
+   "station_sha256": "83320aad0d9c8caafa8c2299d50b6a582d9871f8a3f3dffd9c131a0daf080c02",
+   "original_wav_sha256": "7a99acb40e54c2dfd4867750d6b32335314b96b60b146e7da71925518703962a",
+   "original_wav_filename": "new-gr-16.full.wav"
+  },
+  "new-gr-16#1": {
+   "src": "audio/narration/new-gr-16__s1__d448311a52a4.mp3",
+   "text": "뒷벽 스테인드글라스 다섯, 오수혈 물길이다. 우물, 정, 명치 아래가 그득한 남자, 정주심하만. 졸졸 시내, 형, 열로 얼굴이 붉은 남자, 형주신열. 폭포 웅덩이, 수, 무거운 짐에 몸이 무겁고 마디가 시큰한 남자, 수주체중절통. 큰 강, 경, 기침하며 덜덜 떠는 남자, 경주천해한열. 바다 어귀, 합, 기운이 치밀고 설사할 듯한 남자, 합주역기이설. 난경 육십팔난. 순서를 섞는 함정이 많다.",
+   "text_sha256": "d448311a52a49ded6c716b90d60d051225bf727f34a0803bfe7f1bb0d5db6fac",
+   "audio_sha256": "483ee6d1f3d063b20fde5709cc3fe422fa07969ce2e1b31d407c14d660106cc2",
+   "image_sha256": "f5e9ee7031d889519da56e9a4e6a4d52f015d19577bbc4b797fecdeda4188e5c",
+   "source_commit": "5494d5325c80c80f76c9d326ec5710299e60eaf7",
+   "station_sha256": "6279b22a52e7a212e44c581a5e31b61dd803427cb8d864c019859c92218cb429",
+   "original_wav_sha256": "7a99acb40e54c2dfd4867750d6b32335314b96b60b146e7da71925518703962a",
+   "original_wav_filename": "new-gr-16.full.wav"
+  },
+  "new-gr-16#2": {
+   "src": "audio/narration/new-gr-16__s2__317f4b678b85.mp3",
+   "text": "예배당 지하는 합창실, 아래 하에서 부르는 합창, 하합혈이다. 영추 사기장부병형, 합치내부, 육부의 병은 하합혈로 다스린다. 오수의 합혈과 달리, 육부마다 다리에 따로 둔 합혈이다.",
+   "text_sha256": "317f4b678b85d971d0c7ec2eb7dc093388978e5822aaff2980ce118fff0b9d8f",
+   "audio_sha256": "64bb7773bdb303e1fa6776662f69da6a1c36217fd9fd0dbe3d8e2c6ecb773f05",
+   "image_sha256": "f5e9ee7031d889519da56e9a4e6a4d52f015d19577bbc4b797fecdeda4188e5c",
+   "source_commit": "5494d5325c80c80f76c9d326ec5710299e60eaf7",
+   "station_sha256": "aac9e8f18c87fba5de7cf55b2f62912b19671f7535cd561b6c758fad13a67a00",
+   "original_wav_sha256": "7a99acb40e54c2dfd4867750d6b32335314b96b60b146e7da71925518703962a",
+   "original_wav_filename": "new-gr-16.full.wav"
+  },
+  "new-gr-16#3": {
+   "src": "audio/narration/new-gr-16__s3__6243597ba9cc.mp3",
+   "text": "노란 카펫은 요리사의 길, 족양명위경이다. 맨 위 지휘하는 요리사, 위의 하합혈 족삼리. 그 아래 흰 작업복 남자, 대장, 위쪽 큰 빈터 상거허. 맨 아래 붉은 앞치마 남자, 소장, 아래쪽 큰 빈터 하거허. 셋 다 위경 위에 있다. 상은 대장, 하는 소장, 맞바꾸는 함정. 방광 위중, 삼초 위양, 담 양릉천은 다른 과에서 본다.",
+   "text_sha256": "6243597ba9cc342ca15d0a9c588f5816e60872d478ccd3648bcc28d5523a3da4",
+   "audio_sha256": "0771a9fc55439906fdea84c7da9f643c192342a6bc81dfd57ea79e6b37458439",
+   "image_sha256": "f5e9ee7031d889519da56e9a4e6a4d52f015d19577bbc4b797fecdeda4188e5c",
+   "source_commit": "5494d5325c80c80f76c9d326ec5710299e60eaf7",
+   "station_sha256": "1c28ceb602aea76ed5ec678d03a42b98b2f4a7ef09af74bcd461a53326638032",
+   "original_wav_sha256": "7a99acb40e54c2dfd4867750d6b32335314b96b60b146e7da71925518703962a",
+   "original_wav_filename": "new-gr-16.full.wav"
+  },
+  "new-gr-16#4": {
+   "src": "audio/narration/new-gr-16__s4__8387d846d8e7.mp3",
+   "text": "이제 교회혈, 여러 경이 한 혈 자리에 모여 앉는다. 첫 의자에 밀짚모자 농부, 초록 장군, 대머리 장사, 족태음비, 족궐음간, 족소음신. 족삼음이 만나는 자리, 삼음교.",
+   "text_sha256": "8387d846d8e7af58ce95ee76e1edb2e442aa9b4aa1cab880767004826e746d9c",
+   "audio_sha256": "c3e5c419e66dd0a919cdb6032255f1376e2f8326aa715608753abbd7aff835a3",
+   "image_sha256": "f5e9ee7031d889519da56e9a4e6a4d52f015d19577bbc4b797fecdeda4188e5c",
+   "source_commit": "5494d5325c80c80f76c9d326ec5710299e60eaf7",
+   "station_sha256": "bcef6943d51b7a20d30591a2fb29af7dce78130b7b0228adb5bf2264c1ccef9a",
+   "original_wav_sha256": "7a99acb40e54c2dfd4867750d6b32335314b96b60b146e7da71925518703962a",
+   "original_wav_filename": "new-gr-16.full.wav"
+  },
+  "new-gr-16#5": {
+   "src": "audio/narration/new-gr-16__s5__7e5a920cff02.mp3",
+   "text": "둘째 의자에는 같은 셋에 임신부가 더 앉았다, 임맥과 족삼음, 넷이 만나는 관원. 배꼽 아래 3촌, 임맥의 혈이다. 넷이라는 수를 놓치는 함정.",
+   "text_sha256": "7e5a920cff02c87d3ea27a2c24d6e17a0c4fab6798e0cd2fb7eece035f66a566",
+   "audio_sha256": "404ca3c0990f2ff889f531203dd3643bfe44ea3c6da8e18f02681103ea457f95",
+   "image_sha256": "f5e9ee7031d889519da56e9a4e6a4d52f015d19577bbc4b797fecdeda4188e5c",
+   "source_commit": "5494d5325c80c80f76c9d326ec5710299e60eaf7",
+   "station_sha256": "a28787762785094f2bfd334ab1a1eda77fdd05d74441a9e0fc55f49cc4ed3979",
+   "original_wav_sha256": "7a99acb40e54c2dfd4867750d6b32335314b96b60b146e7da71925518703962a",
+   "original_wav_filename": "new-gr-16.full.wav"
+  },
+  "new-gr-16#6": {
+   "src": "audio/narration/new-gr-16__s6__44930947a554.mp3",
+   "text": "셋째 의자, 벽에 새긴 큰 등뼈 아래, 가운데 등뼈 지팡이 사내, 독맥. 양옆에 해 배지가 셋씩, 여섯, 수족 육양경, 대장, 소장, 삼초, 위, 방광, 담. 독과 여섯 양경이 모두 만나니 대추는 제양지회다.",
+   "text_sha256": "44930947a5548f1a1dac526875bb0023753a64b8d3842df14f9bdbac59305c63",
+   "audio_sha256": "37377ece88d58fa51f49525a6db2e120c4619e7d6056861349f5be2c8789666d",
+   "image_sha256": "f5e9ee7031d889519da56e9a4e6a4d52f015d19577bbc4b797fecdeda4188e5c",
+   "source_commit": "5494d5325c80c80f76c9d326ec5710299e60eaf7",
+   "station_sha256": "47553ecdb79c94f1bad0fddb28744393270f5b79d4cbd71d4f37cde45813772f",
+   "original_wav_sha256": "7a99acb40e54c2dfd4867750d6b32335314b96b60b146e7da71925518703962a",
+   "original_wav_filename": "new-gr-16.full.wav"
+  },
+  "new-gr-16#7": {
+   "src": "audio/narration/new-gr-16__s7__40afd49b38c0.mp3",
+   "text": "대추의 자리, 고개를 숙이면 목 뒤에서 가장 툭 튀어나오는 뼈, 제7경추 극돌기 바로 아래 오목한 곳이다. 벽의 등뼈에서 가장 크게 솟은 마디 바로 아래에 의자가 놓였다. 독맥의 14번째 혈, GV14. 다른 독맥 혈과 자리를 바꾸는 함정.",
+   "text_sha256": "40afd49b38c0b68844a602799bcc5db9ed783c4bba989a798be35d5672e231d9",
+   "audio_sha256": "0e2086f4ca606e328526ed12dcf9f6b00148d00734da7ded3a0343fbde1c5f4c",
+   "image_sha256": "f5e9ee7031d889519da56e9a4e6a4d52f015d19577bbc4b797fecdeda4188e5c",
+   "source_commit": "5494d5325c80c80f76c9d326ec5710299e60eaf7",
+   "station_sha256": "958450336915c6a2f43925a2d9023105eb2a3375a60fd9cd8fd05afa96226f9b",
+   "original_wav_sha256": "7a99acb40e54c2dfd4867750d6b32335314b96b60b146e7da71925518703962a",
+   "original_wav_filename": "new-gr-16.full.wav"
+  },
+  "new-gr-16#8": {
+   "src": "audio/narration/new-gr-16__s8__e81973f28702.mp3",
+   "text": "넷째 의자, 큰 눈 모양 창 곁, 눈 안쪽 구석의 정명. 검은 두건 옷에 물지게를 멘 물장수 족태양방광, 붉은 앞치마 수태양소장, 요리사 족양명위, 그리고 달, 해 죽마 광대 음교, 양교. 다섯 경이 만난다. 수와 구성을 바꾸는 함정.",
+   "text_sha256": "e81973f28702a7dae8f3ac2b70414686c371206a46afff26c46b90e6f0d4d83b",
+   "audio_sha256": "48bac73ac3a2e2a68cd3443a3926f3d568167b659d7452a367b0126cdfc33de2",
+   "image_sha256": "f5e9ee7031d889519da56e9a4e6a4d52f015d19577bbc4b797fecdeda4188e5c",
+   "source_commit": "5494d5325c80c80f76c9d326ec5710299e60eaf7",
+   "station_sha256": "dd77e288f4ffd416d2c7f9a4cb718e0d09297e6cd7bbcb43c52215e8b23909c4",
+   "original_wav_sha256": "7a99acb40e54c2dfd4867750d6b32335314b96b60b146e7da71925518703962a",
+   "original_wav_filename": "new-gr-16.full.wav"
+  },
+  "new-gr-16#9": {
+   "src": "audio/narration/new-gr-16__s9__36d9501752e4.mp3",
+   "text": "다시 본다. 스테인드글라스, 정 심하만, 형 신열, 수 체중절통, 경 천해한열, 합 역기이설. 지하 노란 카펫, 합치내부, 위 족삼리, 대장 상거허, 소장 하거허. 의자 넷, 족삼음 셋은 삼음교, 임신부까지 넷은 관원, 등뼈 지팡이와 해 배지 여섯은 대추 제양지회, C7 아래, 눈 창 곁 다섯은 정명.",
+   "text_sha256": "36d9501752e40676bb9e908fb8dd630e42a873827b26f7eebf040318fc7427aa",
+   "audio_sha256": "f8925ca000f199e26c06037adfea8c0a4870f8ebc7b1d59eea8b62f2a60464ee",
+   "image_sha256": "f5e9ee7031d889519da56e9a4e6a4d52f015d19577bbc4b797fecdeda4188e5c",
+   "source_commit": "5494d5325c80c80f76c9d326ec5710299e60eaf7",
+   "station_sha256": "203f9d7f143a3d9bfbf02c4161d85e501d3bbdf386adc30053216036bb321e21",
+   "original_wav_sha256": "7a99acb40e54c2dfd4867750d6b32335314b96b60b146e7da71925518703962a",
+   "original_wav_filename": "new-gr-16.full.wav"
   }
  }
 }

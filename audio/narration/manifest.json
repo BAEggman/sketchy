@@ -11044,6 +11044,83 @@
    "station_sha256": "8a9bbc79642cec60e1b7fb5cb9c2a840f4ea53cf17d2efad488453feddfc92b2",
    "original_wav_sha256": "19a2c4d21c7b63e7dae3cc30df6ec025cd079f579ce2eec4159834227c309964",
    "original_wav_filename": "new-gr-32.full.wav"
+  },
+  "new-gr-36#0": {
+   "src": "audio/narration/new-gr-36__s0__9d97a8eb3372.mp3",
+   "text": "골도분촌법, 같은 치수끼리 모은 전신 뼈 눈금, 3촌, 8촌, 9촌, 12촌, 하지, 과다. 장소는 목수의 치수 재단소, 같은 숫자 물건, 삼지창, 팔레트, 구미호, 일렉기타+이층버스, 작업대. 정본 경락 인물과 공용 부호, 뜻, 소리 고리를 따라 차례로 읽는다.",
+   "text_sha256": "9d97a8eb337297ef00fb9df15b4ca8220d5944d861728cd2afa0c6e87ba308a1",
+   "audio_sha256": "07c780804db0111f71c07bdd2aace7a9b7a5cbdf8514d1dcc59cf705d5f7fc39",
+   "image_sha256": "56134244a066abeced0cab516d0e65dd54afdaad17fa50488c652d7564c37f75",
+   "source_commit": "a46214bfe0be78ca454ae5c26026176b330de497",
+   "station_sha256": "7048d0a57473e4e145fd522062c9eeb93978839763cf3dbf1dc2474302932ea3",
+   "original_wav_sha256": "0d40d4b7d8979267a5cd63f73cdafc915a070a031d91be576cb7ce7aa6e5ae2d",
+   "original_wav_filename": "new-gr-36.full.wav"
+  },
+  "new-gr-36#1": {
+   "src": "audio/narration/new-gr-36__s1__b0c47c0599ad.mp3",
+   "text": "목수의 골도 치수 작업대 #1다. 세 갈래 황금 삼지창 3과 맞닿은 부위들을 한 묶음으로 외운다. 3촌, 삼지창, 모음 = 미간에서 전발제, 후발제에서 대추, 외과첨에서 족저, 이마 너비, 네 손가락 너비.",
+   "text_sha256": "b0c47c0599ad5c7c1e0b1078c9083326344c42d6c74b50b4b9d42a1b7216d870",
+   "audio_sha256": "1d408f3aa01c4fd502268fbfd435d47d4f75fa7448dc094d09d31a4c8f61909e",
+   "image_sha256": "56134244a066abeced0cab516d0e65dd54afdaad17fa50488c652d7564c37f75",
+   "source_commit": "a46214bfe0be78ca454ae5c26026176b330de497",
+   "station_sha256": "f33ac660b1b15dde6ced8c179b7e99d5c6c685b149e54a067e39f7e43257dadf",
+   "original_wav_sha256": "0d40d4b7d8979267a5cd63f73cdafc915a070a031d91be576cb7ce7aa6e5ae2d",
+   "original_wav_filename": "new-gr-36.full.wav"
+  },
+  "new-gr-36#2": {
+   "src": "audio/narration/new-gr-36__s2__ccb2fcca1736.mp3",
+   "text": "목수의 골도 치수 작업대 #2다. 물감 짠 화가 팔레트 8과 맞닿은 부위들을 한 묶음으로 외운다. 8촌, 팔레트, 모음 = 양 유두 사이, 흉폭, 흉골체하연, 중정,에서 배꼽, 신궐, +배꼽에서 치골상연은 5촌 오징어.",
+   "text_sha256": "ccb2fcca17360e3070e95702a4f1fce98611469b628f251ccf637bfd67d053c3",
+   "audio_sha256": "48ce35a2c8379d99c6478276d6bf583d3a9ffc7bdd51ddea5e276490e75a688f",
+   "image_sha256": "56134244a066abeced0cab516d0e65dd54afdaad17fa50488c652d7564c37f75",
+   "source_commit": "a46214bfe0be78ca454ae5c26026176b330de497",
+   "station_sha256": "c1cdd94ff6a70ef61b0816efb19653910fb77bf7f5550cbfb6569eaaec24cf01",
+   "original_wav_sha256": "0d40d4b7d8979267a5cd63f73cdafc915a070a031d91be576cb7ce7aa6e5ae2d",
+   "original_wav_filename": "new-gr-36.full.wav"
+  },
+  "new-gr-36#3": {
+   "src": "audio/narration/new-gr-36__s3__6356b58e1279.mp3",
+   "text": "목수의 골도 치수 작업대 #3다. 흰 여우 구미호 9과 맞닿은 부위들을 한 묶음으로 외운다. 9촌, 구미호, 모음 = 양 유양돌기, 완골, 사이, 천돌에서 흉골체하연, 액와에서 주횡문, 제11늑골단에서 대전자.",
+   "text_sha256": "6356b58e1279ec4ecac0c090fc1ed704f16d98bd68b2e1b2fd0a666a6ab0e0b3",
+   "audio_sha256": "c7a03c57f211e609886a18f7d3e64e0198cdae64238a8abab713bf744cdd1aa3",
+   "image_sha256": "56134244a066abeced0cab516d0e65dd54afdaad17fa50488c652d7564c37f75",
+   "source_commit": "a46214bfe0be78ca454ae5c26026176b330de497",
+   "station_sha256": "7596168eeb890e409df2657d1223c78baa86ef6d107d73d531c661e3394f4857",
+   "original_wav_sha256": "0d40d4b7d8979267a5cd63f73cdafc915a070a031d91be576cb7ce7aa6e5ae2d",
+   "original_wav_filename": "new-gr-36.full.wav"
+  },
+  "new-gr-36#4": {
+   "src": "audio/narration/new-gr-36__s4__7c255efecf4c.mp3",
+   "text": "목수의 골도 치수 작업대 #4다. 붉은 일렉기타, 1, 위에 얹힌 이층 버스 2과 맞닿은 부위들을 한 묶음으로 외운다. 12촌, 일렉기타+이층버스, 모음 = 전발제에서 후발제, 주횡문에서 완횡문, 액와에서 제11늑골단.",
+   "text_sha256": "7c255efecf4cc66dfc0c7614012645b08cbf73d397d75d4b1321d0a5c050b026",
+   "audio_sha256": "851de3a710c887c67eece034dd5a1a3f1855086b940680046f3b77c1568b8127",
+   "image_sha256": "56134244a066abeced0cab516d0e65dd54afdaad17fa50488c652d7564c37f75",
+   "source_commit": "a46214bfe0be78ca454ae5c26026176b330de497",
+   "station_sha256": "84174390deb42d99c59221ef6e47030180a8b1525287a4f233c124189a3e4b8c",
+   "original_wav_sha256": "0d40d4b7d8979267a5cd63f73cdafc915a070a031d91be576cb7ce7aa6e5ae2d",
+   "original_wav_filename": "new-gr-36.full.wav"
+  },
+  "new-gr-36#5": {
+   "src": "audio/narration/new-gr-36__s5__a529d7b6a82f.mp3",
+   "text": "목수의 골도 치수 작업대 #5다. 세 갈래 황금 삼지창 3과 맞닿은 부위들을 한 묶음으로 외운다. 하지 골도 = 대전자에서 슬와 19촌, 치골상연에서 내측과상연 18촌, 슬와에서 외과첨 16촌, 슬개골하연에서 내과첨 15촌, 둔구에서 오금 14촌, 내측과하연에서 내과첨 13촌.",
+   "text_sha256": "a529d7b6a82f490d1eb1706a53ac69661c4fbcc8e4ace9a2488b37fce208547d",
+   "audio_sha256": "c7df6bab6c91e5b018120f15059acbacb85ae8ffa8383e606014d86489d7beb7",
+   "image_sha256": "56134244a066abeced0cab516d0e65dd54afdaad17fa50488c652d7564c37f75",
+   "source_commit": "a46214bfe0be78ca454ae5c26026176b330de497",
+   "station_sha256": "20ee28fb92704648bedc41fc8f2f50751e71594218998856eff6c8785879d302",
+   "original_wav_sha256": "0d40d4b7d8979267a5cd63f73cdafc915a070a031d91be576cb7ce7aa6e5ae2d",
+   "original_wav_filename": "new-gr-36.full.wav"
+  },
+  "new-gr-36#6": {
+   "src": "audio/narration/new-gr-36__s6__909e0581e876.mp3",
+   "text": "처음부터 한 바퀴 되짚는다. 3촌, 삼지창, 모음 = 미간에서 전발제, 후발제에서 대추, 외과첨에서 족저, 이마 너비, 네 손가락 너비 / 8촌, 팔레트, 모음 = 양 유두 사이, 흉폭, 흉골체하연, 중정,에서 배꼽, 신궐, +배꼽에서 치골상연은 5촌 오징 / 9촌, 구미호, 모음 = 양 유양돌기, 완골, 사이, 천돌에서 흉골체하연, 액와에서 주횡문, 제11늑골단에서 대전자 / 12촌, 일렉기타+이층버스, 모음 = 전발제에서 후발제, 주횡문에서 완횡문, 액와에서 제11늑골단 / 하지 골도 = 대전자에서 슬와 19촌, 치골상연에서 내측과상연 18촌, 슬와에서 외과첨 16촌, 슬개골하연에서 내과첨",
+   "text_sha256": "909e0581e876a632da41ae471ea7364aae1f002bfbcc8e9ff98e2d98882f4b0d",
+   "audio_sha256": "2e9c3fdbcc31a0c9bce9477cee042f0e8ada9446759b9c054f9d271e3b53d0d8",
+   "image_sha256": "56134244a066abeced0cab516d0e65dd54afdaad17fa50488c652d7564c37f75",
+   "source_commit": "a46214bfe0be78ca454ae5c26026176b330de497",
+   "station_sha256": "a00a3a315628472a1029569928ea21427ebf078583ac10abc115cf6204ae7985",
+   "original_wav_sha256": "0d40d4b7d8979267a5cd63f73cdafc915a070a031d91be576cb7ce7aa6e5ae2d",
+   "original_wav_filename": "new-gr-36.full.wav"
   }
  }
 }

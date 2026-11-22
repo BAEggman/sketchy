@@ -13233,6 +13233,127 @@
    "station_sha256": "d8d55cd94f5e48c3a8674bed8dc8043fb69ad6a50e74735520e39b0d1def1909",
    "original_wav_sha256": "270fde4c3cc78dd9427477a08bba64cf258cdd466baf2f02946be5631ef4e35c",
    "original_wav_filename": "mer-11.full.wav"
+  },
+  "mer-12#0": {
+   "src": "audio/narration/mer-12__s0__73285bad3cb3.mp3",
+   "text": "대장간이다. 화로는 화, 담금질 물통은 수. 왼쪽, 눈 오는 창 쪽이 한격, 찬 병을 데우는 법이다. 오른쪽, 해 뜬 창 쪽이 열격, 뜨거운 병을 식히는 법이다. 사암의 한격과 열격은 오행의 모자가 아니라 화와 수 둘로 짓는다.",
+   "text_sha256": "73285bad3cb36bd798ca92072c4190f9245d5e991c899680c1b7886622c1ed37",
+   "audio_sha256": "50f92cb7bed684abfb0f321f81c889f05f99c990b46ad77ac0786b0b099d2361",
+   "image_sha256": "cb18a5d29205793e0a048f50b955e19a50846db063bf46a47f641729d6aabb3c",
+   "source_commit": "e27a7a04b2c4b437e0cf11e1e7cb297c05bd6675",
+   "station_sha256": "76890d2a8e6e8bb7a5bd89a54b73c7767c6581b947b12ef2b8c4fbe43f1da692",
+   "original_wav_sha256": "0c456481e8d55caa432eaed82c5edfbc15e3a9065bb10d9090bfee23b8aecd3d",
+   "original_wav_filename": "mer-12.full.wav"
+  },
+  "mer-12#1": {
+   "src": "audio/narration/mer-12__s1__d7ec751d40b9.mp3",
+   "text": "왼쪽, 대머리 장사가 두 손으로 풀무질을 해 화로가 활활 타오른다, 한격은 화를 보한다. 열두 경 모두 화혈 둘을 보한다. 한증에는 보화 사수, 열증에는 보수. 예를 들어 위 한격은 보 해계, 양곡, 사 내정, 족통곡.",
+   "text_sha256": "d7ec751d40b9c164db505e15aafe46ac893968532de53f621baf342385adc6ba",
+   "audio_sha256": "8b963b6a868f4b78ea1ce9f22abdb31c66af3ce8b7a0a136411e9beec52911c9",
+   "image_sha256": "cb18a5d29205793e0a048f50b955e19a50846db063bf46a47f641729d6aabb3c",
+   "source_commit": "e27a7a04b2c4b437e0cf11e1e7cb297c05bd6675",
+   "station_sha256": "5adfcd0ede923fda3b737ee9dc7cfb1317f273158f197575ef01cd09e4395627",
+   "original_wav_sha256": "0c456481e8d55caa432eaed82c5edfbc15e3a9065bb10d9090bfee23b8aecd3d",
+   "original_wav_filename": "mer-12.full.wav"
+  },
+  "mer-12#2": {
+   "src": "audio/narration/mer-12__s2__d1904256f45f.mp3",
+   "text": "그 옆에서 둘이 한 양동이로 물통의 물을 퍼 창밖으로 버린다, 한격은 수를 사한다. 열두 경 전부, 예외가 없다. 비 한격은 보 대도, 소부, 사 음릉천, 음곡. 간 한격은 보 행간, 소부, 사 음곡, 곡천.",
+   "text_sha256": "d1904256f45ff88997660007c8bb8595936ab4cee6d8e988e0058a67512d2d9d",
+   "audio_sha256": "2be4d043449f2f919af7152cebc44156aeb0aa02b28dca1468dfac8ce4137895",
+   "image_sha256": "cb18a5d29205793e0a048f50b955e19a50846db063bf46a47f641729d6aabb3c",
+   "source_commit": "e27a7a04b2c4b437e0cf11e1e7cb297c05bd6675",
+   "station_sha256": "32ae8508631c20ab7e2e3d96d9af21800f1fadfc1411a9111b1292e20c318339",
+   "original_wav_sha256": "0c456481e8d55caa432eaed82c5edfbc15e3a9065bb10d9090bfee23b8aecd3d",
+   "original_wav_filename": "mer-12.full.wav"
+  },
+  "mer-12#3": {
+   "src": "audio/narration/mer-12__s3__57bcd5edb4b7.mp3",
+   "text": "오른쪽, 노인이 주전자로 물통에 물을 붓는다, 열격은 수를 보한다. 열두 경 전부. 담, 한격은 보 양보, 양곡, 사 협계, 족통곡이고, 열격은 보 협계, 족통곡, 사 위중, 양릉천. 심포, 한격은 보 소부, 노궁, 사 곡택, 소해이고, 열격은 보 곡택, 소해, 사 태백, 대릉.",
+   "text_sha256": "57bcd5edb4b7cd74734c4e6a95e6613723edb00f2fcfaeef6cfda01272e53cba",
+   "audio_sha256": "2e3bbcdcc499f527e78adc3254196721cf3988a831ac4e7c066fe19f608e7a5f",
+   "image_sha256": "cb18a5d29205793e0a048f50b955e19a50846db063bf46a47f641729d6aabb3c",
+   "source_commit": "e27a7a04b2c4b437e0cf11e1e7cb297c05bd6675",
+   "station_sha256": "e428503c2f31dcb15200f6b0ddd607bc3f2f665d9e7a384aedbc9af15542e3be",
+   "original_wav_sha256": "0c456481e8d55caa432eaed82c5edfbc15e3a9065bb10d9090bfee23b8aecd3d",
+   "original_wav_filename": "mer-12.full.wav"
+  },
+  "mer-12#4": {
+   "src": "audio/narration/mer-12__s4__58f551f41ff3.mp3",
+   "text": "두 물통을 견주어 본다. 왼쪽에서 퍼내는 물과 오른쪽에서 붓는 물은 같은 물, 같은 수혈이다. 한격에서 사하던 두 혈이 열격에서 보하는 두 혈이다. 담의 협계, 족통곡, 심포의 곡택, 소해가 그 예다.",
+   "text_sha256": "58f551f41ff38ac6e3199a3f70531b8e1308e0cd404e2aebd00e9d3e9dc03b81",
+   "audio_sha256": "7f3dd0e062e79151cf7fe4ac54c6f4cb140d14d03fcf568fd096c9c0341f8dbe",
+   "image_sha256": "cb18a5d29205793e0a048f50b955e19a50846db063bf46a47f641729d6aabb3c",
+   "source_commit": "e27a7a04b2c4b437e0cf11e1e7cb297c05bd6675",
+   "station_sha256": "ed8abcdb15d16218b19675d396bc0ffa5db063609269cd2ab0cd59314eeb7d10",
+   "original_wav_sha256": "0c456481e8d55caa432eaed82c5edfbc15e3a9065bb10d9090bfee23b8aecd3d",
+   "original_wav_filename": "mer-12.full.wav"
+  },
+  "mer-12#5": {
+   "src": "audio/narration/mer-12__s5__f2c68c94b3e7.mp3",
+   "text": "열격의 사만은 한 가지 규칙이 없다. 농부가 화로 곁 흙더미를 퍼낸다, 아홉 경은 토를 사한다. 방광, 한격 보 양곡, 곤륜, 사 전곡, 족통곡, 열격은 사 족삼리, 위중. 신, 한격 보 소부, 연곡, 사 음곡, 소해, 열격은 사 태백, 태계.",
+   "text_sha256": "f2c68c94b3e7229f404f89ff5065c365ef714157f9199c149a06b5a67d50631f",
+   "audio_sha256": "5a5e743d2c390b5befffc65ce0945d553ed8ced962d865c25ad944a0d0ba4e56",
+   "image_sha256": "cb18a5d29205793e0a048f50b955e19a50846db063bf46a47f641729d6aabb3c",
+   "source_commit": "e27a7a04b2c4b437e0cf11e1e7cb297c05bd6675",
+   "station_sha256": "b377ccb9805b1c0b14c711ff19561f8f9b4fb1393930f04ca94d0db8ae3ed0c4",
+   "original_wav_sha256": "0c456481e8d55caa432eaed82c5edfbc15e3a9065bb10d9090bfee23b8aecd3d",
+   "original_wav_filename": "mer-12.full.wav"
+  },
+  "mer-12#6": {
+   "src": "audio/narration/mer-12__s6__dfbe7c4a0c1a.mp3",
+   "text": "화로 앞 바닥에서는 셋이 쇠갈퀴로 숯불을 긁어낸다, 흰 작업복 대장, 금관 임금 심, 주황 옷 삼초. 이 세 경만 열격에서 화를 사한다. 대장, 한격 보 양곡, 양계, 사 이간, 족통곡, 열격은 사 양곡, 양계. 심, 한격 보 소부, 연곡, 사 소해, 음곡, 열격은 사 소부, 연곡. 삼초, 한격 보 지구, 곤륜, 사 액문, 족통곡, 열격은 사 지구, 곤륜. 열격의 사를 사화로 외우면 아홉 경에서 틀린다.",
+   "text_sha256": "dfbe7c4a0c1aef81727023b4d86d1a27f43c2ce7676e14fa648f3440f151b4ba",
+   "audio_sha256": "90be8a0baf886ed912a87d8919aa48eeef68f3d20a7116b9cf88bc497a06986c",
+   "image_sha256": "cb18a5d29205793e0a048f50b955e19a50846db063bf46a47f641729d6aabb3c",
+   "source_commit": "e27a7a04b2c4b437e0cf11e1e7cb297c05bd6675",
+   "station_sha256": "e27edea1dced664716431f3edecad00d07c0b650fe49265521ae75f75af063cb",
+   "original_wav_sha256": "0c456481e8d55caa432eaed82c5edfbc15e3a9065bb10d9090bfee23b8aecd3d",
+   "original_wav_filename": "mer-12.full.wav"
+  },
+  "mer-12#7": {
+   "src": "audio/narration/mer-12__s7__7c7118715da6.mp3",
+   "text": "붉은 앞치마 소장과 물지게꾼 방광이 한 양동이를 함께 들었다, 한격에서는 둘의 처방이 같다. 보 양곡, 곤륜, 사 전곡, 족통곡. 심과 신도 한격에서만 같다, 보 소부, 연곡, 사 소해, 음곡. 정격, 승격, 열격에서는 모두 다르다.",
+   "text_sha256": "7c7118715da683473ba53c46311d5c3ed2e720d899f080eeebfbbe4157652aaf",
+   "audio_sha256": "f6408a1995b3b0c493b47d33390aad44ba9098b9a192be06fab9dbbb9b9a5809",
+   "image_sha256": "cb18a5d29205793e0a048f50b955e19a50846db063bf46a47f641729d6aabb3c",
+   "source_commit": "e27a7a04b2c4b437e0cf11e1e7cb297c05bd6675",
+   "station_sha256": "7e4578faf699ebfb171368f8967979c7ee4cfe9d5f2f7b7445efdbed7506f05d",
+   "original_wav_sha256": "0c456481e8d55caa432eaed82c5edfbc15e3a9065bb10d9090bfee23b8aecd3d",
+   "original_wav_filename": "mer-12.full.wav"
+  },
+  "mer-12#8": {
+   "src": "audio/narration/mer-12__s8__051c5754d0ce.mp3",
+   "text": "폐를 예로 든다. 한격, 화를 보한다: 심경의 소부와 폐경의 화혈 어제. 수를 사한다: 폐경의 수혈 척택과 신경의 음곡.",
+   "text_sha256": "051c5754d0ce34c6c3be155f641bb867cf9d47ef9119d548fd79b2b8a8ec9d7a",
+   "audio_sha256": "1a302b2156841e0487a122c2c27161a6268a73aee424f44449fc83a8bb183bcf",
+   "image_sha256": "cb18a5d29205793e0a048f50b955e19a50846db063bf46a47f641729d6aabb3c",
+   "source_commit": "e27a7a04b2c4b437e0cf11e1e7cb297c05bd6675",
+   "station_sha256": "49c6394aca874db07427aee1b508d1f927ea0260295302e692fec7c7bb818fb7",
+   "original_wav_sha256": "0c456481e8d55caa432eaed82c5edfbc15e3a9065bb10d9090bfee23b8aecd3d",
+   "original_wav_filename": "mer-12.full.wav"
+  },
+  "mer-12#9": {
+   "src": "audio/narration/mer-12__s9__c01f7a709372.mp3",
+   "text": "폐 열격, 수를 보한다: 한격에서 퍼내던 척택, 음곡을 이번에는 보한다. 그리고 토를 사한다: 비경의 태백과 폐경의 토혈 태연. 폐는 토를 사하는 아홉 경 가운데 하나다.",
+   "text_sha256": "c01f7a7093729e4eeb50cdb04fa35545a17c83b2d518a39223d8b6d4c164a538",
+   "audio_sha256": "21fb870b2324a9090c9e139447e9ebf30879bc40e366449d55081c3ad590580a",
+   "image_sha256": "cb18a5d29205793e0a048f50b955e19a50846db063bf46a47f641729d6aabb3c",
+   "source_commit": "e27a7a04b2c4b437e0cf11e1e7cb297c05bd6675",
+   "station_sha256": "b15957d6591196391ffcb2578eb76d56b324c3e5c59af2b2f171810fa55e5120",
+   "original_wav_sha256": "0c456481e8d55caa432eaed82c5edfbc15e3a9065bb10d9090bfee23b8aecd3d",
+   "original_wav_filename": "mer-12.full.wav"
+  },
+  "mer-12#10": {
+   "src": "audio/narration/mer-12__s10__1cbbcc2eb917.mp3",
+   "text": "다시 본다. 눈 오는 쪽 한격, 풀무로 불을 키우고, 물을 퍼낸다. 보화 사수, 열두 경 전부. 해 뜬 쪽 열격, 물을 붓는다, 보수. 사는 둘로 갈린다, 농부가 퍼내는 흙, 아홉 경은 사토. 갈퀴질하는 셋, 대장, 심, 삼초만 사화. 퍼낸 물이 곧 부은 물, 한격의 사가 열격의 보. 한 양동이를 같이 든 소장, 방광, 그리고 심, 신은 한격에서만 처방이 같다.",
+   "text_sha256": "1cbbcc2eb917fb985f19c96b3302a2a560af05f52386292bda8d3b24f34cb4f2",
+   "audio_sha256": "4d954504d3459e381a0a855750144ffe284c8f68ce378d6d67c2e50480806f86",
+   "image_sha256": "cb18a5d29205793e0a048f50b955e19a50846db063bf46a47f641729d6aabb3c",
+   "source_commit": "e27a7a04b2c4b437e0cf11e1e7cb297c05bd6675",
+   "station_sha256": "ba3e0eeec4b93929a307ec337da77bab09e1e63ebde2bd343752b73417a2bbd3",
+   "original_wav_sha256": "0c456481e8d55caa432eaed82c5edfbc15e3a9065bb10d9090bfee23b8aecd3d",
+   "original_wav_filename": "mer-12.full.wav"
   }
  }
 }

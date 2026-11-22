@@ -10406,6 +10406,83 @@
    "station_sha256": "418f14347f950b87990556c693a9c54c2083d6d49dbac6e8e78d7c77c60606e3",
    "original_wav_sha256": "00328293c8c99f752ca3cb5d412c8be2c8b91169759c7d87e3c2d8d6b38df0bd",
    "original_wav_filename": "new-gr-47.full.wav"
+  },
+  "new-gr-10#0": {
+   "src": "audio/narration/new-gr-10__s0__2a784fc21f17.mp3",
+   "text": "자동차 정비소다. 영추 경맥편은 경마다 병을 두 묶음으로 적는다, 시동즉병 …, 그리고 시주 … 소생병자 …. 시동은 시동, 소생은 엔진 속에서 생긴 고장으로 외운다. 왼쪽 밝은 칸과 오른쪽 어두운 칸에 같은 빨간 차가 있고, 바닥의 타이어 자국이 왼쪽에서 오른쪽으로 이어진다.",
+   "text_sha256": "2a784fc21f17eca566e326fbe57059b0b442fafa0d416fb5fefd10b51a67eb04",
+   "audio_sha256": "9a87bfa737ae76dd071aaadabf44e1a3e97ae13cda3a24f91eee86185e6442b5",
+   "image_sha256": "6d8edd7874e38b21edeac8919ed72f9edf8a73ee4853109cf5ad881801127d39",
+   "source_commit": "6059c2816384259d714fba37a4937462ab966d6f",
+   "station_sha256": "132b02b4201a970d85635406a3f5216d9bcef1cec1a2611e7a3160f751008801",
+   "original_wav_sha256": "840bcb84f091cc4a09ddabc9114ef3c427151a60adfb75d90eac455d6d3290d2",
+   "original_wav_filename": "new-gr-10.full.wav"
+  },
+  "new-gr-10#1": {
+   "src": "audio/narration/new-gr-10__s1__daa9ac68af47.mp3",
+   "text": "왼쪽 칸, 시동이 걸리자 운전자가 핸들을 꽉 쥐고 차 겉이 덜컹덜컹 흔들린다. 보닛은 닫혀 있고 엔진은 멀쩡하다. 시동병, 경기의 운행이 변동해서 생긴, 경락 자체의 병이다. 시는 기가 동했다는 뜻. 다른 데서 옮아온 것이 아니라 그 경에서 처음 생긴 원발성이다. 시동을 장부에서 번진 병으로 바꿔 놓는 오답이 많다.",
+   "text_sha256": "daa9ac68af477a8b942aae427b1ddc6d90a0d86a675b7e8ce728afeadb303b5a",
+   "audio_sha256": "b40436861f61d270a8071e71a0220ad39c0b57097231886ade4ba231b0041b0c",
+   "image_sha256": "6d8edd7874e38b21edeac8919ed72f9edf8a73ee4853109cf5ad881801127d39",
+   "source_commit": "6059c2816384259d714fba37a4937462ab966d6f",
+   "station_sha256": "d378389d9bf798ec9538b7f65a5d8747f131ac2384a6503b03f2e4f378633ef1",
+   "original_wav_sha256": "840bcb84f091cc4a09ddabc9114ef3c427151a60adfb75d90eac455d6d3290d2",
+   "original_wav_filename": "new-gr-10.full.wav"
+  },
+  "new-gr-10#2": {
+   "src": "audio/narration/new-gr-10__s2__7f6b6e64f385.mp3",
+   "text": "오른쪽 칸, 정비공이 보닛 속을 비춰 보니 엔진에 금이 갔다. 붉은 기름이 엔진에서 새어 나와 가는 줄기로 앞바퀴, 뒷바퀴까지 번진다. 소생병, 장부에서 생긴 병이 소속 경락으로 퍼진 것, 속발성이다. 그래도 그 경으로 다스리니 본경이 주치하는 범위에 든다.",
+   "text_sha256": "7f6b6e64f385d63347f3c158b80921918c42d7bb1f4a190fea58918dbdb11b0f",
+   "audio_sha256": "bf94af8b197a9b12b02c35c582153c599bfdb6ee87fa92a4ceb0e36b7f12337b",
+   "image_sha256": "6d8edd7874e38b21edeac8919ed72f9edf8a73ee4853109cf5ad881801127d39",
+   "source_commit": "6059c2816384259d714fba37a4937462ab966d6f",
+   "station_sha256": "32d2d92e65c442f89a545008c3109942e4283242d01437559a3624686ffe63e1",
+   "original_wav_sha256": "840bcb84f091cc4a09ddabc9114ef3c427151a60adfb75d90eac455d6d3290d2",
+   "original_wav_filename": "new-gr-10.full.wav"
+  },
+  "new-gr-10#3": {
+   "src": "audio/narration/new-gr-10__s3__79ff9bfea839.mp3",
+   "text": "왼쪽 칸에 시동의 속성이 다 있다. 차에 매여 요동치는 파란 풍선, 기병. 밝은 해, 양. 차 밖에서 짖는 갈색 개, 위. 열린 문으로 불어 드는 바람과 낙엽, 외인. 흔들리는 것은 겉 차체뿐, 재외, 경락의 병이다.",
+   "text_sha256": "79ff9bfea839d026afaed903f9f0a339519ca6699388f40f23231bbeb880009b",
+   "audio_sha256": "523ba74aa9fb35a30576b241c9140eff14bba9ed0c2d50ac53ec3dabb08d3120",
+   "image_sha256": "6d8edd7874e38b21edeac8919ed72f9edf8a73ee4853109cf5ad881801127d39",
+   "source_commit": "6059c2816384259d714fba37a4937462ab966d6f",
+   "station_sha256": "d2984732f3b97bd8e5f18ef9955927f20ff25c7e90bc357aa3c04aabd567c747",
+   "original_wav_sha256": "840bcb84f091cc4a09ddabc9114ef3c427151a60adfb75d90eac455d6d3290d2",
+   "original_wav_filename": "new-gr-10.full.wav"
+  },
+  "new-gr-10#4": {
+   "src": "audio/narration/new-gr-10__s4__ee64bcb6344b.mp3",
+   "text": "오른쪽 칸은 반대다. 붉은 기름, 혈병, 붉게 도는 것은 영이기도 하다. 창밖의 보름달과 어두운 실내, 음. 엔진이 안에서 닳아 금 갔다, 내인. 고장은 보닛 속 깊은 곳, 재리, 장부의 병이다. 기, 양, 위, 외 대 혈, 음, 영, 내, 짝으로 외운다.",
+   "text_sha256": "ee64bcb6344b22a2d6e9ba418d1504f6b95198c3bd603f93388a80355addabca",
+   "audio_sha256": "a341fe9d58161153be5d24dad4082fd67730eef5294d3dec1a9e4ed3324d1a6e",
+   "image_sha256": "6d8edd7874e38b21edeac8919ed72f9edf8a73ee4853109cf5ad881801127d39",
+   "source_commit": "6059c2816384259d714fba37a4937462ab966d6f",
+   "station_sha256": "e9ab1f0c38b3263205e6fd8669aa3d921cf4511252b401fd365643a8ff7e06fc",
+   "original_wav_sha256": "840bcb84f091cc4a09ddabc9114ef3c427151a60adfb75d90eac455d6d3290d2",
+   "original_wav_filename": "new-gr-10.full.wav"
+  },
+  "new-gr-10#5": {
+   "src": "audio/narration/new-gr-10__s5__9d039539a3f7.mp3",
+   "text": "바닥의 타이어 자국을 따라간다. 같은 차가 먼저 밝은 왼쪽 칸에서 덜컹거리고, 나중에 어두운 오른쪽 칸에서 기름이 샌다. 난경 이십이난, 시동자 기야, 소생병자 혈야. 사재기 기위시동, 사재혈 혈위소생병. 기류이불행자 위기선병야, 혈옹이불유자 위혈후병야, 그래서 먼저 시동, 나중에 소생이다.",
+   "text_sha256": "9d039539a3f71c26d9038bdb993b4f6580ac8b542d92a94ae944262f0a4f6eca",
+   "audio_sha256": "aff99d585910c396623b8582214e533666c6140543adea30dbcd2f5aeaffd2df",
+   "image_sha256": "6d8edd7874e38b21edeac8919ed72f9edf8a73ee4853109cf5ad881801127d39",
+   "source_commit": "6059c2816384259d714fba37a4937462ab966d6f",
+   "station_sha256": "74993af9798b629754d5de2728898686bf7b679b3280109c50f37f8a92186645",
+   "original_wav_sha256": "840bcb84f091cc4a09ddabc9114ef3c427151a60adfb75d90eac455d6d3290d2",
+   "original_wav_filename": "new-gr-10.full.wav"
+  },
+  "new-gr-10#6": {
+   "src": "audio/narration/new-gr-10__s6__52cfd6d1e84f.mp3",
+   "text": "다시 본다. 왼쪽, 시동 걸자 겉이 덜컹, 시동. 경기가 동한 원발, 기, 양, 위, 외인, 재외. 오른쪽, 엔진에서 새어 바퀴로 번진 붉은 기름, 소생. 장부에서 경락으로 퍼진 속발, 혈, 음, 영, 내인, 재리. 타이어 자국, 난경 이십이난, 기가 먼저 병하고 혈이 뒤에 병한다.",
+   "text_sha256": "52cfd6d1e84f74ecf264b41454ec73db438606638b92d401ada3297aa3e9a8a7",
+   "audio_sha256": "33124b993a50d9292e9b5d754aba79631061a2e2b8a189bdf4b383091f7f549c",
+   "image_sha256": "6d8edd7874e38b21edeac8919ed72f9edf8a73ee4853109cf5ad881801127d39",
+   "source_commit": "6059c2816384259d714fba37a4937462ab966d6f",
+   "station_sha256": "b5a2f6601ed8c4c2850bd20ecc9a485ff25b2aa9475be513d82a589dd4543c52",
+   "original_wav_sha256": "840bcb84f091cc4a09ddabc9114ef3c427151a60adfb75d90eac455d6d3290d2",
+   "original_wav_filename": "new-gr-10.full.wav"
   }
  }
 }

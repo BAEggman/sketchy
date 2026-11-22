@@ -3784,6 +3784,83 @@
    "station_sha256": "b7f952dff6b6783141e0acc5d42e4f5848bcbff131d2317b86765195a1c425ef",
    "original_wav_sha256": "be7320d1d095c7a32982b3107d0fbd3b6a79bef6bb8d38ade392b1971e7d80c7",
    "original_wav_filename": "suchi-02.full.wav"
+  },
+  "suchi-03#0": {
+   "src": "audio/narration/suchi-03__s0__24d74d4ccc32.mp3",
+   "text": "앞 장과 같은 팬이야. 손잡이엔 같은 반창고, 반창고가 초탄, 그리고 지혈 표지야. 초탄 열넷의 둘째 마디 다섯이 팬 뒤에 한 줄로 섰어. 천관괴건오.",
+   "text_sha256": "24d74d4ccc325d651a28e35fe104c52979507e1e3f2ee284dd63de6543609065",
+   "audio_sha256": "373f66e5cbfd7e0207cc15be4de7806d6bd7f08b709c941ca52f3def32696c39",
+   "image_sha256": "f61de772e7c90bca74cc3ed3f4027f05e8b81d43b892d669446abc26ea76208d",
+   "source_commit": "ab38448e3b6aa166b004e87cf32be4e06975fc3a",
+   "station_sha256": "f8b0a41731dc3e471e783e75cdf868ba636fd3f4901e14a852e006c9c05e61fc",
+   "original_wav_sha256": "1655a9179539c5de7ff0f9d47c85c0626009c39f9671adf57297862f62620ec5",
+   "original_wav_filename": "suchi-03.full.wav"
+  },
+  "suchi-03#1": {
+   "src": "audio/narration/suchi-03__s1__46a6a30c860b.mp3",
+   "text": "맨 왼쪽은 번개를 단 먹구름, 천둥 구름이 빨간 소스 통을 꽉 쥐어짜. 천둥의 천, 초고추장의 초, 천초. 쥐어짠 빨간 소스가 옆 관중에게 철퍽 튀어.",
+   "text_sha256": "46a6a30c860bd70dcba09b946dcb06f3c22e7cfb3cad407d295c273298f71705",
+   "audio_sha256": "92d37ed0d46c2b175f3362fd9c4d854d44c32be054097116729e791f7ae86519",
+   "image_sha256": "f61de772e7c90bca74cc3ed3f4027f05e8b81d43b892d669446abc26ea76208d",
+   "source_commit": "ab38448e3b6aa166b004e87cf32be4e06975fc3a",
+   "station_sha256": "1abda64f0c128d93cbbae2631377165b7282432982c62d399d3a6531118c9113",
+   "original_wav_sha256": "1655a9179539c5de7ff0f9d47c85c0626009c39f9671adf57297862f62620ec5",
+   "original_wav_filename": "suchi-03.full.wav"
+  },
+  "suchi-03#2": {
+   "src": "audio/narration/suchi-03__s2__cd06b5ecf01e.mp3",
+   "text": "소스를 맞은 사람이 경기장 의자에서 벌떡 일어났어. 고사리 잎 두 장을 응원 깃발처럼 흔드는 관중, 소리 그대로 관중이야. 고사리 잎은 그림 소품이니 약 설명으로 외우진 마. 관중은 임신 중 조심해 쓰는 임신신용 목록에도 있어. 흔든 잎이 옆 괴물의 각도기 뿔을 탁 쳐.",
+   "text_sha256": "cd06b5ecf01efc7b254856acb109b7c2c53117c917fc60557a6a09834b617153",
+   "audio_sha256": "0cf23f09c5d7d00edc9ce13f1469b37c974f56d0c302291b8b686ad6749952f5",
+   "image_sha256": "f61de772e7c90bca74cc3ed3f4027f05e8b81d43b892d669446abc26ea76208d",
+   "source_commit": "ab38448e3b6aa166b004e87cf32be4e06975fc3a",
+   "station_sha256": "57e32c8702c275ae566e9b5bc578ba520a7b484153070f206e73e002af749f15",
+   "original_wav_sha256": "1655a9179539c5de7ff0f9d47c85c0626009c39f9671adf57297862f62620ec5",
+   "original_wav_filename": "suchi-03.full.wav"
+  },
+  "suchi-03#3": {
+   "src": "audio/narration/suchi-03__s3__e22e52470a5c.mp3",
+   "text": "초록 꼬마 괴물 머리에 반달 각도기가 달렸어. 괴물의 괴, 각도기의 각, 괴각. 뿔 자리에 달렸으니 뿔 각이기도 해. 고사리 잎에 각도기를 맞은 괴물이 옆 생강의 청진기 줄을 덥석 잡아당겨. 괴각도 임신신용 목록에 있어, 이 장에선 관중, 괴각, 건강 셋이 그 목록이야.",
+   "text_sha256": "e22e52470a5c0e29df919043cc7e072dee1af1ffb7351b57cbdfc0aa3454c95d",
+   "audio_sha256": "2605f588b5f7a0e0bf0182d531271af6b8c2bb10dbc6ef44109f574bb4b5af2c",
+   "image_sha256": "f61de772e7c90bca74cc3ed3f4027f05e8b81d43b892d669446abc26ea76208d",
+   "source_commit": "ab38448e3b6aa166b004e87cf32be4e06975fc3a",
+   "station_sha256": "d778d834d89a02845582081665e9744a70cd957024604e838cd5c53e2a68d0bf",
+   "original_wav_sha256": "1655a9179539c5de7ff0f9d47c85c0626009c39f9671adf57297862f62620ec5",
+   "original_wav_filename": "suchi-03.full.wav"
+  },
+  "suchi-03#4": {
+   "src": "audio/narration/suchi-03__s4__0b318f5faefc.mp3",
+   "text": "청진기를 대고 건강검진 받으며 알통을 자랑하는 마른 생강. 건강검진, 건강. 괴물이 청진기 줄을 당기자 끌려가면서 불끈 든 팔꿈치가 옆 검은 매실 볼을 툭.",
+   "text_sha256": "0b318f5faefcec8ebaae23b273d4955fdc6e544037632af04ec6b4eba41daf14",
+   "audio_sha256": "1d00117df7cf6ccb426e26c0758f34792566a128744196f75b6a30db6103dd9f",
+   "image_sha256": "f61de772e7c90bca74cc3ed3f4027f05e8b81d43b892d669446abc26ea76208d",
+   "source_commit": "ab38448e3b6aa166b004e87cf32be4e06975fc3a",
+   "station_sha256": "2a297f06a25c08ad7159f0f7ebd4b8fc6387f596fd3d5228b6a7eb78f68b41a6",
+   "original_wav_sha256": "1655a9179539c5de7ff0f9d47c85c0626009c39f9671adf57297862f62620ec5",
+   "original_wav_filename": "suchi-03.full.wav"
+  },
+  "suchi-03#5": {
+   "src": "audio/narration/suchi-03__s5__9b1c4fab5b5f.mp3",
+   "text": "맨 오른쪽은 쭈글쭈글한 검은 매실. 팔꿈치에 볼을 맞고 두 손으로 볼을 감싸 쥐었어, 오매! 오매, 오매야. 말풍선은 없어, 볼 감싼 꼴이 곧 소리야. 검은 건 원래 매실 빛깔이고, 탄 조각은 팬 속에만 있어.",
+   "text_sha256": "9b1c4fab5b5f61bdb9469bd3fe25b408417c7d2f700526da492d6725cbc83816",
+   "audio_sha256": "01fb057649b9b0add247dc011c96b6847feecd8c17e1fa6bf80a9f03796b175d",
+   "image_sha256": "f61de772e7c90bca74cc3ed3f4027f05e8b81d43b892d669446abc26ea76208d",
+   "source_commit": "ab38448e3b6aa166b004e87cf32be4e06975fc3a",
+   "station_sha256": "8f2283d9d941e576e0887577f8e19b95e323cdebbdf64d000c0f3feba1baafee",
+   "original_wav_sha256": "1655a9179539c5de7ff0f9d47c85c0626009c39f9671adf57297862f62620ec5",
+   "original_wav_filename": "suchi-03.full.wav"
+  },
+  "suchi-03#6": {
+   "src": "audio/narration/suchi-03__s6__8af41270cb40.mp3",
+   "text": "한 바퀴 다시. 천둥 구름이 소스를 짜서 관중에게 철퍽, 관중이 고사리로 괴물 각도기를 치고, 괴물이 생강 청진기 줄을 당기고, 끌려간 생강 팔꿈치가 매실 볼을 툭, 오매! 천관괴건오. 초탄 열넷 가운데 열이 지났어. 대소백목측, 천관괴건오. 건강, 오매를 초초나 가보료초로 바꿔 내도 속지 마. 남은 넷은 다음 장, 지포권형.",
+   "text_sha256": "8af41270cb40e363c9a82aa123f5f84538764af7faa3a0f8c9a168ca5a6e99ea",
+   "audio_sha256": "c7c2b5f3c0c371901ad1b8f2b49240361a4bac149058a8e406af7362d4c175d0",
+   "image_sha256": "f61de772e7c90bca74cc3ed3f4027f05e8b81d43b892d669446abc26ea76208d",
+   "source_commit": "ab38448e3b6aa166b004e87cf32be4e06975fc3a",
+   "station_sha256": "d727c7ede42050cfed793c2c33a06f6c8722bf80060f241794dbbd3cf11374da",
+   "original_wav_sha256": "1655a9179539c5de7ff0f9d47c85c0626009c39f9671adf57297862f62620ec5",
+   "original_wav_filename": "suchi-03.full.wav"
   }
  }
 }

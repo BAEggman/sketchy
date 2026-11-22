@@ -3476,6 +3476,94 @@
    "station_sha256": "cea977ff1b34661c9a03788856ea1303c0fdd80c38f5283f08c417dd993a5ed9",
    "original_wav_sha256": "747f715ddeff389a822665cd891c812d610323deb044e99ab5959bd9e93399d0",
    "original_wav_filename": "qiqing-08.full.wav"
+  },
+  "qiqing-10#0": {
+   "src": "audio/narration/qiqing-10__s0__0d4084568226.mp3",
+   "text": "같은 체육관, 독구름 둘째 장. 이번엔 구름이 오른쪽 피규어 머리 위에 떠 있고, 왼쪽 피규어가 그걸 직접 날려 버려. 한 약이 다른 약의 독성을 없애는 게 상쇄야. 앞 장 상외는 눌리는 쪽이 왼쪽, 제 구름이 흩어졌지? 그림에서는 상쇄를 거꾸로, 없애 주는 쪽을 왼쪽에 세웠어. 둘 다 정리의 독성 약해짐 칸이야. 방부 백웅 석단.",
+   "text_sha256": "0d4084568226110e2bca17e28459dd6c7f6aab2f38ce071bf8b6579225ac1567",
+   "audio_sha256": "6001cbf7f539522f2bb1b2a1e7b63a0c351a4dd2ee77672e5f7cf88cc7347e29",
+   "image_sha256": "48187c30b4dd5ff617c6e04a039afe5f4a06f4f4654876e8e129d7aa55c9b9c7",
+   "source_commit": "37fc8d0d4287e0e4c10e4fd55cb112ee1df2ef91",
+   "station_sha256": "9b233338163cbcc753af3769e0812045c445d6023d53425ec18d643076338f5f",
+   "original_wav_sha256": "1575835d34d61afb79380b8647d35e3db3093d8222cfa75fd0203762986cab76",
+   "original_wav_filename": "qiqing-10.full.wav"
+  },
+  "qiqing-10#1": {
+   "src": "audio/narration/qiqing-10__s1__ff5a950bd3be.mp3",
+   "text": "왼쪽 매트, 상오 매트에서 마른 생강과 맞밀던 그 방풍 점퍼, 방풍. 이번엔 소매를 휙휙 휘둘러 돌풍을 일으켜. 바람이 옆 도련님 머리 위 독구름을 오른쪽 위로 날려 조각조각 흩어 버려. 그림에서는 점퍼 둘레에도 바람 줄이 감겨 있지만, 바람을 일으키는 건 점퍼야. 방풍은 건강하고는 상오, 부자하고는 상쇄, 같은 점퍼, 다른 관계야. 이 둘은 헷갈리기 쉬워.",
+   "text_sha256": "ff5a950bd3be1d2fc65e5b25cf8c9be5c8bb8db984befc01babe0bba465bbfb6",
+   "audio_sha256": "8e9a9bc5f690a1ac792c2a09278f8ffbc7667d63ad28804021cfefc223fbd710",
+   "image_sha256": "48187c30b4dd5ff617c6e04a039afe5f4a06f4f4654876e8e129d7aa55c9b9c7",
+   "source_commit": "37fc8d0d4287e0e4c10e4fd55cb112ee1df2ef91",
+   "station_sha256": "23a34f03ad5f612a4d74be5b52bd877223626f169f9931dadf8e5707f485c394",
+   "original_wav_sha256": "1575835d34d61afb79380b8647d35e3db3093d8222cfa75fd0203762986cab76",
+   "original_wav_filename": "qiqing-10.full.wav"
+  },
+  "qiqing-10#2": {
+   "src": "audio/narration/qiqing-10__s2__4f35673b4f46.mp3",
+   "text": "짝은 머리카락이 활활 타는 불꽃 머리 도련님. 턱시도에 빨간 나비넥타이, 허리에 손 얹고 느긋해. 부자 도련님, 부자. 제 머리 위 구름이 날아가는 줄도 모르고 멀뚱. 단행 독부탕에서 혼자 서던 그 부자야. 교재 독성 영향 요소에도 배오로 독성이 줄어드는 예, 상외, 상쇄로 감초, 부자가 나와.",
+   "text_sha256": "4f35673b4f4669d7ee7baad34fedcbc4fe3cdbf59fe77d59d144292994a55856",
+   "audio_sha256": "7ee4f8f8adf05e92477edea0c4c9ccd7c2bcde7748554e71f997dc9839f01020",
+   "image_sha256": "48187c30b4dd5ff617c6e04a039afe5f4a06f4f4654876e8e129d7aa55c9b9c7",
+   "source_commit": "37fc8d0d4287e0e4c10e4fd55cb112ee1df2ef91",
+   "station_sha256": "fd9b59f8cc345a8eb69ea632c70461fb5080476031ff207b8836785f525f9471",
+   "original_wav_sha256": "1575835d34d61afb79380b8647d35e3db3093d8222cfa75fd0203762986cab76",
+   "original_wav_filename": "qiqing-10.full.wav"
+  },
+  "qiqing-10#3": {
+   "src": "audio/narration/qiqing-10__s3__6b3a9626fb0c.mp3",
+   "text": "가운데 매트는 이마에 새하얀 백지가 철썩 붙은 둥근 얼굴. 백지, 백지. 이마에 붙은 건 두통 인경약에서 양명두통이 백지라는 걸 떠올리게 해. 눈은 이마의 종이를 올려다보면서 입을 오므려 후, 흰 입김 줄이 옆 웅덩이 위 구름 쪽으로 쭉 뻗어.",
+   "text_sha256": "6b3a9626fb0cae1e5f2a06a81ce7b3b0fd1caecda32f5f94bba6384ae4c46326",
+   "audio_sha256": "ea1a9ed2d972dff929126b787f1e6e2d42bfff9bb3339da07a81bd88e7a719b6",
+   "image_sha256": "48187c30b4dd5ff617c6e04a039afe5f4a06f4f4654876e8e129d7aa55c9b9c7",
+   "source_commit": "37fc8d0d4287e0e4c10e4fd55cb112ee1df2ef91",
+   "station_sha256": "8392b4afbeaa257932382ea28ce895f552d851089913f8fed06e898a051d0c84",
+   "original_wav_sha256": "1575835d34d61afb79380b8647d35e3db3093d8222cfa75fd0203762986cab76",
+   "original_wav_filename": "qiqing-10.full.wav"
+  },
+  "qiqing-10#4": {
+   "src": "audio/narration/qiqing-10__s4__59055d5800ea.mp3",
+   "text": "입김이 닿는 곳은 노란 웅덩이, 거기서 초록 뱀이 깜짝 놀라 튀어나와. 웅덩이의 웅, 노랑 황, 웅황. 교재는 이 짝을 석웅황이라 적었고, 그림은 웅황으로 그렸어. 웅덩이 위 구름이 입김에 흩어지지. 교재 다른 곳에는 석 자 없이 웅황이라고 적어서, 임신금용 목록에도 있고, 포제하면 독성이 오히려 늘어나는 예로도 나와. 두문자는 상오 백석과 겹치지 않게 백웅.",
+   "text_sha256": "59055d5800ea6ffacb6d2d9cb3bfaec01866ee4e3fed20f6bc71accdfbde8918",
+   "audio_sha256": "5a8f62a0748b00df1f31f5e55414d7c1f6c62b2d7e6b64e70e24dc11b2f569ea",
+   "image_sha256": "48187c30b4dd5ff617c6e04a039afe5f4a06f4f4654876e8e129d7aa55c9b9c7",
+   "source_commit": "37fc8d0d4287e0e4c10e4fd55cb112ee1df2ef91",
+   "station_sha256": "8feeaab4f3b9d1401941eaf6aeead37c8e3896fb81ad3a3f8781f48f48bc7fc2",
+   "original_wav_sha256": "1575835d34d61afb79380b8647d35e3db3093d8222cfa75fd0203762986cab76",
+   "original_wav_filename": "qiqing-10.full.wav"
+  },
+  "qiqing-10#5": {
+   "src": "audio/narration/qiqing-10__s5__ba0a0caaec57.mp3",
+   "text": "오른쪽 매트, 검은 기름이 줄줄 흐르는 석유 드럼통 위에 두꺼운 초록 잎이 올라섰어. 석유통 위, 석위. 한 손을 휘휘 흔들어 옆 댄서 쪽 보라 김을 휘저어. 그림에서는 손짓이 구름까지 닿는 느낌은 약하지만, 흩어진 김이 잎과 댄서 사이로 흘러.",
+   "text_sha256": "ba0a0caaec57143be889f981974cdf3a2f05918f18b7cc6f5b0953ef5b13d703",
+   "audio_sha256": "31b3ef7bafde65fb873cbae047204cbd3c6de46e4465a4edb4f2feee2deae055",
+   "image_sha256": "48187c30b4dd5ff617c6e04a039afe5f4a06f4f4654876e8e129d7aa55c9b9c7",
+   "source_commit": "37fc8d0d4287e0e4c10e4fd55cb112ee1df2ef91",
+   "station_sha256": "9e0d18ac42fa2d284617dcb77891a400a159435e229d3a226028c91663c07e4e",
+   "original_wav_sha256": "1575835d34d61afb79380b8647d35e3db3093d8222cfa75fd0203762986cab76",
+   "original_wav_filename": "qiqing-10.full.wav"
+  },
+  "qiqing-10#6": {
+   "src": "audio/narration/qiqing-10__s6__2cade9ad68be.mp3",
+   "text": "짝은 온몸이 붉은 모래로 된 댄서. 한 발로 빙그르 돌다 팔을 들었고, 손끝과 치마에서 붉은 모래가 사르르 흘러. 댄서, 단사. 댄서 머리 위 구름도 작은 조각으로 갈라져 옆으로 흩어지는 중이야. 뜻은 석위와 단사가 상쇄 짝이라는 것, 그림은 석위가 단사 구름을 흩는 쪽으로 세웠어.",
+   "text_sha256": "2cade9ad68bec098826a5f9d01d7e1a593e5461f0cad785a30103d58cbd4d785",
+   "audio_sha256": "5fbf6fa16fbdbcbac6ef5e489e09a376352427960f1bb51a32a4923d04b91e16",
+   "image_sha256": "48187c30b4dd5ff617c6e04a039afe5f4a06f4f4654876e8e129d7aa55c9b9c7",
+   "source_commit": "37fc8d0d4287e0e4c10e4fd55cb112ee1df2ef91",
+   "station_sha256": "66d0ca4f5da2a31f0931dd38cff99a38528807d7fdac494b0e7d497f7bb01b9a",
+   "original_wav_sha256": "1575835d34d61afb79380b8647d35e3db3093d8222cfa75fd0203762986cab76",
+   "original_wav_filename": "qiqing-10.full.wav"
+  },
+  "qiqing-10#7": {
+   "src": "audio/narration/qiqing-10__s7__70116e374d41.mp3",
+   "text": "한 바퀴. 방풍 점퍼 돌풍이 불꽃 도련님 구름을, 백지 얼굴 입김이 뱀 웅덩이 구름을, 석유통 잎 손짓이 모래 댄서 쪽 구름을 흩어. 방부 백웅 석단. 상외는 제 구름이 흩어지고 짝은 가만히, 상쇄는 왼쪽이 남의 구름을 직접 흩어, 그림이 반대야. 둘 다 독성 약해짐 칸. 생강쇄반하와 반하외생강은 같은 짝을 어느 쪽에서 부르느냐의 차이야.",
+   "text_sha256": "70116e374d412d07f14950b554ec621bac022b078d7bc0bd0bd1da1819d027f9",
+   "audio_sha256": "48031a04d6382fa8be4072e7b8aee2c7cfa4d3bd3f3d95efdfbbb80f3f7fc53e",
+   "image_sha256": "48187c30b4dd5ff617c6e04a039afe5f4a06f4f4654876e8e129d7aa55c9b9c7",
+   "source_commit": "37fc8d0d4287e0e4c10e4fd55cb112ee1df2ef91",
+   "station_sha256": "67d52e283f59b895e47b154c773a5da3ea0093942c0d735fa99a6850f5fc5c0a",
+   "original_wav_sha256": "1575835d34d61afb79380b8647d35e3db3093d8222cfa75fd0203762986cab76",
+   "original_wav_filename": "qiqing-10.full.wav"
   }
  }
 }

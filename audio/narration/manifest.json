@@ -4015,6 +4015,94 @@
    "station_sha256": "0d6fb2cbc3cbc690dd2e8958ea57895d5f21e8a3e37635933c513b82dc0215ba",
    "original_wav_sha256": "8a0ddbb7cf64594518719464ec61c30bbaf9aac4ad3443d18be62ef3c4f201ad",
    "original_wav_filename": "suchi-05.full.wav"
+  },
+  "suchi-07#0": {
+   "src": "audio/narration/suchi-07__s0__439d788eb453.mp3",
+   "text": "이번 작업대는 팬 가득 굵은 모래야. 밑에서 센 주황 불이 줄지어 타서 모래가 뜨겁게 달았어. 뜨거운 모래, 열사와 함께 볶는 게 사초, 모래 사, 볶을 초야. 모래는 고체 보료라서 가보료초 무리야, 초자의 약한 파란 불과 달리 불은 세게, 시간은 짧게. 팬 바닥의 낮은 모래턱 둘이 왼칸, 가운데 칸, 오른칸을 갈라. 이 위에 다섯이 가사 순서대로 섰어, 구천호, 마, 골마.",
+   "text_sha256": "439d788eb4536f1cd73deb71cef92056c3822849ebc4dfcf81c593aefcc418eb",
+   "audio_sha256": "17cc4b64b43be2a7462d1f6cc86877b8eafff877dd3d4e8ab92b01442971510c",
+   "image_sha256": "7c4839e40538566520c3467575a20cd5f81081fa8d67a6ecdb749cbac74bdca7",
+   "source_commit": "3f83cf78dbf72616a8606c44ab55a86407a5d5f7",
+   "station_sha256": "7f7e7cafb205370d0666885ebe885e9f6a2a591cbc52586e996b1a11816c6846",
+   "original_wav_sha256": "58a9fc7a6da4b7067d6af6d3718e5cd40cc60afa052c8ee8d2acab53de840080",
+   "original_wav_filename": "suchi-07.full.wav"
+  },
+  "suchi-07#1": {
+   "src": "audio/narration/suchi-07__s1__eb39048ce06e.mp3",
+   "text": "맨 왼쪽, 등을 꼿꼿이 세운 키다리 개. 머리가 천장 들보에 쿵, 구척장신이야. 구척장신에서 장신만 떼면 구척. 뜨거운 모래에 발바닥을 데어 이를 악물고 펄쩍 뛰었지? 그 발길에 뜨거운 모래가 튀어 옆 바위산으로. 구척은 왼칸, 조제, 제제 편리 무리야.",
+   "text_sha256": "eb39048ce06e6195de4d23ca33eb9e9babfee489aac25dd0b4aee54c10153d95",
+   "audio_sha256": "3b4167b52ef4ebdb269d7ec6469bff1a3564a7a876fdd9a1d48bf69e5623e6cc",
+   "image_sha256": "7c4839e40538566520c3467575a20cd5f81081fa8d67a6ecdb749cbac74bdca7",
+   "source_commit": "3f83cf78dbf72616a8606c44ab55a86407a5d5f7",
+   "station_sha256": "cc09196d278cc3adbf8995aa9066f2a24fb075f032740686675110b44d0d24c4",
+   "original_wav_sha256": "58a9fc7a6da4b7067d6af6d3718e5cd40cc60afa052c8ee8d2acab53de840080",
+   "original_wav_filename": "suchi-07.full.wav"
+  },
+  "suchi-07#2": {
+   "src": "audio/narration/suchi-07__s2__5dd96ea0d4b5.mp3",
+   "text": "튄 모래를 맞은 자리에 작은 바위산이 솟아 있어. 그 산을 비늘 덮인 동물이 드릴처럼 핑핑 돌며 뚫고 나와, 천산갑. 동물 이름이 그대로 약 이름이야. 깨진 돌 조각이 오른쪽 호랑이 쪽으로 날아가. 이것도 왼칸, 조제 편리.",
+   "text_sha256": "5dd96ea0d4b5dcc6a5a32b6c3ee0db4d2fca9127e51c7c7f7bc17b08b8bdaac9",
+   "audio_sha256": "5c34c914ea6a6ead355efc0f818d665154d6a1bfb228289d259a8a13049c68c8",
+   "image_sha256": "7c4839e40538566520c3467575a20cd5f81081fa8d67a6ecdb749cbac74bdca7",
+   "source_commit": "3f83cf78dbf72616a8606c44ab55a86407a5d5f7",
+   "station_sha256": "4f03bad11edba62059f12fe6f99fb714900668b11a08a116ebda3ab63b2675c9",
+   "original_wav_sha256": "58a9fc7a6da4b7067d6af6d3718e5cd40cc60afa052c8ee8d2acab53de840080",
+   "original_wav_filename": "suchi-07.full.wav"
+  },
+  "suchi-07#3": {
+   "src": "audio/narration/suchi-07__s3__6cff3b27d678.mp3",
+   "text": "날아온 돌 조각을 줄무늬 호랑이가 통뼈 방망이로 딱! 호랑이의 호, 뼈 골, 호골. 몸에 시계가 없지? 초자 작업대의 시계 호랑이 시호가 아니라 그냥 호랑이야. 방망이 끝이 바삭하게 깨져 부스러기가 날아가, 그림에서는 이 부스러기를 조제, 제제 편리의 표지로 삼았어. 구척, 천산갑, 호골, 왼칸 셋이 조제 편리. 호골은 유자 둘째, 분쇄 쉬움에도, 도끼로 쪼개는 쪼갤 벽에도 나와.",
+   "text_sha256": "6cff3b27d678362da19d10588dfc5aed2feceda7e609764d34a64bdde2e9bd05",
+   "audio_sha256": "d0e2bffd3ef4da96e0f6d99f0589239d72f5ef72b211702811559b23f4db7c67",
+   "image_sha256": "7c4839e40538566520c3467575a20cd5f81081fa8d67a6ecdb749cbac74bdca7",
+   "source_commit": "3f83cf78dbf72616a8606c44ab55a86407a5d5f7",
+   "station_sha256": "e52f814caf73acd7b289fd602709148f7e6c5cc33ae2d0aa9e266b7a8be38388",
+   "original_wav_sha256": "58a9fc7a6da4b7067d6af6d3718e5cd40cc60afa052c8ee8d2acab53de840080",
+   "original_wav_filename": "suchi-07.full.wav"
+  },
+  "suchi-07#4": {
+   "src": "audio/narration/suchi-07__s4__cdb4dcb96fcb.mp3",
+   "text": "부스러기가 첫째 모래턱을 넘어가 말을 맞혔어. 엽전을 문 말이 다리를 뻣뻣이 뻗고 옆으로 쓰러졌지. 말의 마, 엽전의 전, 마전자. 뻣뻣이 굳은 몸이 독이 센 약이라는 표시야. 입 위 보라 독구름이 조각조각 흩어지지? 가운데 칸, 독성감소. 마전자는 임신 중에 쓰면 안 되는 임신금용 약이기도 해.",
+   "text_sha256": "cdb4dcb96fcb2bc727fc1470f8e21957a84f44902f9d870cf4f134e58e0753b9",
+   "audio_sha256": "1fe73d3ea816b1f9f70e2b524a4ed98501fe5d8c491d53b19811d5b80b94ea01",
+   "image_sha256": "7c4839e40538566520c3467575a20cd5f81081fa8d67a6ecdb749cbac74bdca7",
+   "source_commit": "3f83cf78dbf72616a8606c44ab55a86407a5d5f7",
+   "station_sha256": "cb83e825c96c5baeec11e09fce7dc1e953dea39ccb0d1cfeb6bc4fab5100d6af",
+   "original_wav_sha256": "58a9fc7a6da4b7067d6af6d3718e5cd40cc60afa052c8ee8d2acab53de840080",
+   "original_wav_filename": "suchi-07.full.wav"
+  },
+  "suchi-07#5": {
+   "src": "audio/narration/suchi-07__s5__b77f2cd5cf42.mp3",
+   "text": "말 엉덩이 옆 맨 오른쪽엔 가운데가 부러진 뼈다귀. 쇠 보조기로 조여 놓고 얼굴을 잔뜩 찡그렸어. 골절의 골, 쇠의 쇄, 보조기의 보, 골쇄보. 같은 뼈라도 호골은 호랑이가 휘두르는 통뼈 방망이, 골쇄보는 보조기 찬 부러진 뼈야. 뼈 끝마다 그을린 잔털 김이 피어오르지? 그림에서는 잔털이 그을려 떨어져 깨끗해지는 걸로 그렸지만, 교재엔 세정 편리라고만 있고 털을 태운다는 말은 없어, 그건 그림 해석이야.",
+   "text_sha256": "b77f2cd5cf42c97bff948b67b9ec872039e86f511d197ea827cea74b8380046b",
+   "audio_sha256": "b524035b825bd9c39ce565daa82d0fbc047670d1a923322b8ca44644947894fc",
+   "image_sha256": "7c4839e40538566520c3467575a20cd5f81081fa8d67a6ecdb749cbac74bdca7",
+   "source_commit": "3f83cf78dbf72616a8606c44ab55a86407a5d5f7",
+   "station_sha256": "107198f59b437a47189b3adc347fd479bb0e80a246c65c6614fdab36e16a2662",
+   "original_wav_sha256": "58a9fc7a6da4b7067d6af6d3718e5cd40cc60afa052c8ee8d2acab53de840080",
+   "original_wav_filename": "suchi-07.full.wav"
+  },
+  "suchi-07#6": {
+   "src": "audio/narration/suchi-07__s6__08e18c958649.mp3",
+   "text": "다시 말을 봐. 말 뒷다리 밑으로 옅은 둘째 모래턱이 지나가. 머리는 가운데 칸 독성감소, 뒷몸과 꼬리는 오른칸 세정 편리, 마전자 한 마리가 두 번 나오는 거야. 솔처럼 치켜든 꼬리에서도 그을린 잔털 김이 피어나, 골쇄보와 같은 세정 편리. 그래서 가사가 마로 한 번, 골마로 한 번. 그런데 셋째 목적, 교미교취 칸은 없지? 교재가 사초 셋째 목적에는 대상 약을 하나도 적지 않았어.",
+   "text_sha256": "08e18c958649a3a30f90da0ac9af662d8507f45c810bd7549e856611e8d26d18",
+   "audio_sha256": "f93fdf6b70ee8c2564cee30d198a5332975921d551895e7ed81a5b0d16ffbdc4",
+   "image_sha256": "7c4839e40538566520c3467575a20cd5f81081fa8d67a6ecdb749cbac74bdca7",
+   "source_commit": "3f83cf78dbf72616a8606c44ab55a86407a5d5f7",
+   "station_sha256": "6a8eb9bdba4a3be9e359cea12fc94deede84943b04bace24e00cdecba26b71d6",
+   "original_wav_sha256": "58a9fc7a6da4b7067d6af6d3718e5cd40cc60afa052c8ee8d2acab53de840080",
+   "original_wav_filename": "suchi-07.full.wav"
+  },
+  "suchi-07#7": {
+   "src": "audio/narration/suchi-07__s7__91a4eb5b0304.mp3",
+   "text": "한 바퀴 다시. 개가 뜨거운 모래에 펄쩍 뛰며 모래를 튀기고, 천산갑이 바위산을 뚫어 돌을 튀기고, 호랑이가 통뼈로 받아쳐 부스러기를 날리고, 그걸 맞은 엽전 말이 뻣뻣이 쓰러져 독구름이 흩어지고, 말꼬리와 보조기 뼈에서 잔털 김이 피어올라. 구천호, 마, 골마. 시험은 짝을 바꿔 내, 같은 독성감소라도 쌀로 볶는 미초는 반묘, 활석 가루 활석분초는 수질, 뜨거운 모래 사초는 마전자. 교미교취의 백강잠은 밀기울 부초 셋째 목적이고, 사초 셋째 목적엔 대상 약이 없어.",
+   "text_sha256": "91a4eb5b03046adc9431000f7fa01335db5153c1901f5450f6a2b3167e66614e",
+   "audio_sha256": "e334f3d6e84e4a6fafe02c0ded437be6429e09e335680bff6c931ec05a159a6d",
+   "image_sha256": "7c4839e40538566520c3467575a20cd5f81081fa8d67a6ecdb749cbac74bdca7",
+   "source_commit": "3f83cf78dbf72616a8606c44ab55a86407a5d5f7",
+   "station_sha256": "e20f64b62092eb1ad20e3819b9f8e73ecd9a34401436a99d57868b76be1dccd4",
+   "original_wav_sha256": "58a9fc7a6da4b7067d6af6d3718e5cd40cc60afa052c8ee8d2acab53de840080",
+   "original_wav_filename": "suchi-07.full.wav"
   }
  }
 }

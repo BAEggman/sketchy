@@ -10208,6 +10208,72 @@
    "station_sha256": "62ba568e70f6f6478cd5624c9f22f80c1876aa906acaa2bd5eaa725fca434fbe",
    "original_wav_sha256": "20993404ce2bd59a73c95effb227debc04fae6382d1bac8b0930bde828f8ebb2",
    "original_wav_filename": "new-gr-44.full.wav"
+  },
+  "new-gr-45#0": {
+   "src": "audio/narration/new-gr-45__s0__04bf31e30315.mp3",
+   "text": "유주 원문 ④ 방광, 신, 기어목내자, 교전, 입락뇌, 사주족심, 관척속신, 관간입폐, 협설본 과다. 장소는 순례길 4구간, 검은 폭포 고개, 방광 물지게꾼과 신 대머리 장사의 원문 굴곡점. 정본 경락 인물과 공용 부호, 뜻, 소리 고리를 따라 차례로 읽는다.",
+   "text_sha256": "04bf31e3031533f8f8cb57af8a7b86ae9b61a7b346385fc9a250b521d73de113",
+   "audio_sha256": "0d20f5058b9bc77ab647f7f536c0da8c94812d21d6d7d754ec27abb9c4360d03",
+   "image_sha256": "ae766b75a8478c3e8c2e0bbbd513823122ecc0b16e8e9f846b1ae2280e90368b",
+   "source_commit": "adc18d125fa6b911db8dcb310f24fd8fdbec8741",
+   "station_sha256": "8a8126cd275084f27954c84e7109a7927393b75537bd9e27a42402dd9e2a9594",
+   "original_wav_sha256": "0781930575fc0af17d278eb5ff46d85ac790a4791a4060eaf1abe48e12872eb7",
+   "original_wav_filename": "new-gr-45.full.wav"
+  },
+  "new-gr-45#1": {
+   "src": "audio/narration/new-gr-45__s1__95973ac88434.mp3",
+   "text": "순례길 4구간 검은 폭포 고개의 #1 정거장이다. 방광경 원문: 기어목내자, 상액교전, 입락뇌, 협척저요중 입순려 낙신속방광.",
+   "text_sha256": "95973ac88434f23053b671cd4968cf23df8a7e6d965ab7f38e463921427dc966",
+   "audio_sha256": "76e0b2fd4e7a9ea9cbc335a77ad4877a8e8d052d1aa36826e7f65523769db66f",
+   "image_sha256": "ae766b75a8478c3e8c2e0bbbd513823122ecc0b16e8e9f846b1ae2280e90368b",
+   "source_commit": "adc18d125fa6b911db8dcb310f24fd8fdbec8741",
+   "station_sha256": "9c214752cb0f794fa0d9f61215bbb7679d2de8a20983bae785e27ac029af072c",
+   "original_wav_sha256": "0781930575fc0af17d278eb5ff46d85ac790a4791a4060eaf1abe48e12872eb7",
+   "original_wav_filename": "new-gr-45.full.wav"
+  },
+  "new-gr-45#2": {
+   "src": "audio/narration/new-gr-45__s2__8473c0b59ebb.mp3",
+   "text": "순례길 4구간 검은 폭포 고개의 #2 정거장이다. 방광경 원문: 1선, 2선 합어괵중, 위중, 하관천내 출외과지후 순경골 지소지외측.",
+   "text_sha256": "8473c0b59ebb7afc4d4729d416766deb21924f131227ec3cbf025020a0282869",
+   "audio_sha256": "96f7019184af29f3331a4d53f76e35dd88f87b68844a858b3adbfcfbd7f297ff",
+   "image_sha256": "ae766b75a8478c3e8c2e0bbbd513823122ecc0b16e8e9f846b1ae2280e90368b",
+   "source_commit": "adc18d125fa6b911db8dcb310f24fd8fdbec8741",
+   "station_sha256": "ebc91f0c5a18dd50b0df1d10d8ac77506c7c48c68ed582f18ed3dba56125241b",
+   "original_wav_sha256": "0781930575fc0af17d278eb5ff46d85ac790a4791a4060eaf1abe48e12872eb7",
+   "original_wav_filename": "new-gr-45.full.wav"
+  },
+  "new-gr-45#3": {
+   "src": "audio/narration/new-gr-45__s3__0a99cede97d8.mp3",
+   "text": "순례길 4구간 검은 폭포 고개의 #3 정거장이다. 신경 원문: 기어소지지하, 사주족심, 용천, 출연곡지하 순내과지후 별입근중, 관척속신락방광.",
+   "text_sha256": "0a99cede97d839758b92328f886f73ab82ad301026bbb14839cd8652ff1b841e",
+   "audio_sha256": "5ba103e39e01fbdbff9775b48612d41af8345585ba0b6dac4d146cfe463a6a23",
+   "image_sha256": "ae766b75a8478c3e8c2e0bbbd513823122ecc0b16e8e9f846b1ae2280e90368b",
+   "source_commit": "adc18d125fa6b911db8dcb310f24fd8fdbec8741",
+   "station_sha256": "02e6f34ef4c8ca6ef6db6d411c7f35eae7fca1cbd8994dd2d24074f0b6d51199",
+   "original_wav_sha256": "0781930575fc0af17d278eb5ff46d85ac790a4791a4060eaf1abe48e12872eb7",
+   "original_wav_filename": "new-gr-45.full.wav"
+  },
+  "new-gr-45#4": {
+   "src": "audio/narration/new-gr-45__s4__84b337bfc14c.mp3",
+   "text": "순례길 4구간 검은 폭포 고개의 #4 정거장이다. 신경 원문: 직자 종신상관간격 입폐중 순후롱 협설본, 지자 종폐출락심 주흉중, 오장 중 신, 간, 폐, 심 4장 연계.",
+   "text_sha256": "84b337bfc14c0b03f67b6f76da9cffd7d353cfef4cdb5eb7dfb11321f6aa6d2c",
+   "audio_sha256": "cb0bd1a9a5b417cbba40590c35745cd428e7c8cb9528418ce1a8ddc2dd35ffd8",
+   "image_sha256": "ae766b75a8478c3e8c2e0bbbd513823122ecc0b16e8e9f846b1ae2280e90368b",
+   "source_commit": "adc18d125fa6b911db8dcb310f24fd8fdbec8741",
+   "station_sha256": "334e008c6ae612cca9c7ca3f8683f929a57dbd03d83a4fd224bda9da7c4f3e57",
+   "original_wav_sha256": "0781930575fc0af17d278eb5ff46d85ac790a4791a4060eaf1abe48e12872eb7",
+   "original_wav_filename": "new-gr-45.full.wav"
+  },
+  "new-gr-45#5": {
+   "src": "audio/narration/new-gr-45__s5__09a9ed75b177.mp3",
+   "text": "처음부터 한 바퀴 되짚는다. 방광경 원문: 기어목내자, 상액교전, 입락뇌, 협척저요중 입순려 낙신속방광 / 방광경 원문: 1선, 2선 합어괵중, 위중, 하관천내 출외과지후 순경골 지소지외측 / 신경 원문: 기어소지지하, 사주족심, 용천, 출연곡지하 순내과지후 별입근중, 관척속신락방광 / 신경 원문: 직자 종신상관간격 입폐중 순후롱 협설본, 지자 종폐출락심 주흉중, 오장 중 신, 간, 폐, 심 4장",
+   "text_sha256": "09a9ed75b177bb64e1c95363d92efea57af5703f7c55eb384fe9f6deb1e9cac5",
+   "audio_sha256": "c9cedb7f1882ad1d03fc84dc49fd7cdd03d67a524e43a961fb5a9c4eb742f5cf",
+   "image_sha256": "ae766b75a8478c3e8c2e0bbbd513823122ecc0b16e8e9f846b1ae2280e90368b",
+   "source_commit": "adc18d125fa6b911db8dcb310f24fd8fdbec8741",
+   "station_sha256": "ecb30659d323c87c7b68eb3aa72d893a1f9cc284f59a41ef9f9326e53e4b6421",
+   "original_wav_sha256": "0781930575fc0af17d278eb5ff46d85ac790a4791a4060eaf1abe48e12872eb7",
+   "original_wav_filename": "new-gr-45.full.wav"
   }
  }
 }

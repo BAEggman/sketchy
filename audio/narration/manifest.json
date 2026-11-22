@@ -10868,6 +10868,94 @@
    "station_sha256": "72245e654bd2badf79c94e84da29127dc7f7b86fb9b8c908b1c2101126c1e39b",
    "original_wav_sha256": "d125a37dd564d2bcd4d46c69f8a22562bfbc5b15928c358461e87415b4528f10",
    "original_wav_filename": "new-gr-15.full.wav"
+  },
+  "new-gr-31#0": {
+   "src": "audio/narration/new-gr-31__s0__4944e0a1b8cf.mp3",
+   "text": "경맥별 경혈 수 ① 수육경, 폐 11, 대장 20, 심 9, 소장 19, 심포 9, 삼초 23 과다. 장소는 물류센터 상지 계량대, 수육경 인물이 숫자 물건 저울 위에 선 계량소. 정본 경락 인물과 공용 부호, 뜻, 소리 고리를 따라 차례로 읽는다.",
+   "text_sha256": "4944e0a1b8cf159e19f8abfda19d9d2b57e5ee62ad4bdea6a3a94927aa4b8d74",
+   "audio_sha256": "2bc1c5f52ab3dad700723ac31bc73e45d3138d2c666c9053b6c7797ec0b11d35",
+   "image_sha256": "7f782968290e9a195c86598c7a36298f369a8d231ee5269f39fae88cfd104477",
+   "source_commit": "ddf4e54e9ed05d9f4947942123e23df1b4093b37",
+   "station_sha256": "b8fe4dffc6c4ef720c673d601c807da6d7d322a15f8cb99970a3baa9c03d048f",
+   "original_wav_sha256": "31e1d6884fa2d8b9755c71b3939addb53710165579c69da46993b03fea3e94ce",
+   "original_wav_filename": "new-gr-31.full.wav"
+  },
+  "new-gr-31#1": {
+   "src": "audio/narration/new-gr-31__s1__6418c59f42dc.mp3",
+   "text": "수태음폐경 계량대다. 정본 인물이 아래 붉은 일렉기타, 1, 위에 맞닿아 세운 붉은 일렉기타 1과 맞닿아 서 있다. 수태음폐경 = 11혈, 일렉기타 받침 위 일렉기타 = 11, 축구 11명.",
+   "text_sha256": "6418c59f42dcf611ca07902e5d1bf12444e08abc74a1eac4b4d5918b4fdfb0da",
+   "audio_sha256": "668ccd9d30b3eb7700ee7903a4eddc0303272f8a139d5754b33cb4acee7e907f",
+   "image_sha256": "7f782968290e9a195c86598c7a36298f369a8d231ee5269f39fae88cfd104477",
+   "source_commit": "ddf4e54e9ed05d9f4947942123e23df1b4093b37",
+   "station_sha256": "05a93c3dfccba11d6baf8739055f059e8e460f1d06f221ce7cecb2b555d1a9b5",
+   "original_wav_sha256": "31e1d6884fa2d8b9755c71b3939addb53710165579c69da46993b03fea3e94ce",
+   "original_wav_filename": "new-gr-31.full.wav"
+  },
+  "new-gr-31#2": {
+   "src": "audio/narration/new-gr-31__s2__ec9c457c37ea.mp3",
+   "text": "수양명대장경 계량대다. 정본 인물이 아래 붉은 이층 버스, 2, 지붕 위에 올라탄 초록 공룡 0과 맞닿아 서 있다. 수양명대장경 = 20혈, 이층 버스 위 공룡 = 20, 소장보다 하나 많음.",
+   "text_sha256": "ec9c457c37eaa153569d20f06aa5bce176db368672dddf7f6a890f5cc6bfb98e",
+   "audio_sha256": "869214f00f7cbe68c9a635f66baffb143dc538b249f59989906e790198998d12",
+   "image_sha256": "7f782968290e9a195c86598c7a36298f369a8d231ee5269f39fae88cfd104477",
+   "source_commit": "ddf4e54e9ed05d9f4947942123e23df1b4093b37",
+   "station_sha256": "cc133d52d20a4339c1d6f5eb84b76dab9ab846829e9c57a71f9694338e0544d6",
+   "original_wav_sha256": "31e1d6884fa2d8b9755c71b3939addb53710165579c69da46993b03fea3e94ce",
+   "original_wav_filename": "new-gr-31.full.wav"
+  },
+  "new-gr-31#3": {
+   "src": "audio/narration/new-gr-31__s3__c179e1aacb49.mp3",
+   "text": "수소음심경 계량대다. 정본 인물이 저울판 위에 앉은 꼬리 여럿 달린 흰 구미호 9과 맞닿아 서 있다. 수소음심경 = 9혈, 구미호 = 9, 심포와 같은 9.",
+   "text_sha256": "c179e1aacb49f85296068a2083568e56dd8f08b1f3bff251379a3c47515f9c3c",
+   "audio_sha256": "93316c7515d3b9656617919a1c6d6595c428f86c85e028e15022bcd949806ee7",
+   "image_sha256": "7f782968290e9a195c86598c7a36298f369a8d231ee5269f39fae88cfd104477",
+   "source_commit": "ddf4e54e9ed05d9f4947942123e23df1b4093b37",
+   "station_sha256": "ac8e19ffe2a21d990e2e1a223e6e84a9ae65b7990abdddeb7be1753578ad0138",
+   "original_wav_sha256": "31e1d6884fa2d8b9755c71b3939addb53710165579c69da46993b03fea3e94ce",
+   "original_wav_filename": "new-gr-31.full.wav"
+  },
+  "new-gr-31#4": {
+   "src": "audio/narration/new-gr-31__s4__b2171508fe59.mp3",
+   "text": "수태양소장경 계량대다. 정본 인물이 아래 붉은 일렉기타, 1, 위에 올라앉은 흰 구미호 9과 맞닿아 서 있다. 수태양소장경 = 19혈, 일렉기타 위 구미호 = 19, 대장보다 하나 적음.",
+   "text_sha256": "b2171508fe59ed13b3f0bf8861418927d179ff40cfcf937e49ccca844aa5e0cd",
+   "audio_sha256": "e899beeb2535caf022fed42a378711e8f6173881a069006abc980b5134d4f3b1",
+   "image_sha256": "7f782968290e9a195c86598c7a36298f369a8d231ee5269f39fae88cfd104477",
+   "source_commit": "ddf4e54e9ed05d9f4947942123e23df1b4093b37",
+   "station_sha256": "56e0066cdee9b0623cb15be39fbf0eaa1b8de595a290e793f23bd98aec7d7ae1",
+   "original_wav_sha256": "31e1d6884fa2d8b9755c71b3939addb53710165579c69da46993b03fea3e94ce",
+   "original_wav_filename": "new-gr-31.full.wav"
+  },
+  "new-gr-31#5": {
+   "src": "audio/narration/new-gr-31__s5__a46b3a7b0aa7.mp3",
+   "text": "수궐음심포경 계량대다. 정본 인물이 저울판 위에 앉은 꼬리 여럿 달린 흰 구미호 9과 맞닿아 서 있다. 수궐음심포경 = 9혈, 구미호 = 9, 심장 호위무사.",
+   "text_sha256": "a46b3a7b0aa7a83dc75544dca4ed242d14a97d8b0a0b22a840e2167108819ac4",
+   "audio_sha256": "195ae6e92b55dae5409ffae340ebc74d894dc919e5cb5af5fed7f03ecfa94115",
+   "image_sha256": "7f782968290e9a195c86598c7a36298f369a8d231ee5269f39fae88cfd104477",
+   "source_commit": "ddf4e54e9ed05d9f4947942123e23df1b4093b37",
+   "station_sha256": "9498c0ef9786510dd2a48822f1d339a2af0d17c31b4365cad99a15e8a6c3bfb7",
+   "original_wav_sha256": "31e1d6884fa2d8b9755c71b3939addb53710165579c69da46993b03fea3e94ce",
+   "original_wav_filename": "new-gr-31.full.wav"
+  },
+  "new-gr-31#6": {
+   "src": "audio/narration/new-gr-31__s6__82c3e9ede05a.mp3",
+   "text": "수소양삼초경 계량대다. 정본 인물이 아래 붉은 이층 버스, 2, 지붕 위에 꽂힌 황금 삼지창 3과 맞닿아 서 있다. 수소양삼초경 = 23혈, 이층 버스 위 삼지창 = 23, 이렇게 초초한데 삼초.",
+   "text_sha256": "82c3e9ede05ac328d67bcaac0d00c333ed8950b92c4ffac878b0ca4e7329d890",
+   "audio_sha256": "a0e25e9e7b5e42d440c75aed7417cf5ab9e0dd2d06c489f90452957987b30e8b",
+   "image_sha256": "7f782968290e9a195c86598c7a36298f369a8d231ee5269f39fae88cfd104477",
+   "source_commit": "ddf4e54e9ed05d9f4947942123e23df1b4093b37",
+   "station_sha256": "161dffb86f032854f2e51790e7b560a1c7d76d1d90f05ec660533682c9b48397",
+   "original_wav_sha256": "31e1d6884fa2d8b9755c71b3939addb53710165579c69da46993b03fea3e94ce",
+   "original_wav_filename": "new-gr-31.full.wav"
+  },
+  "new-gr-31#7": {
+   "src": "audio/narration/new-gr-31__s7__ad1ee9eeedf1.mp3",
+   "text": "처음부터 한 바퀴 되짚는다. 수태음폐경 = 11혈, 일렉기타 받침 위 일렉기타 = 11, 축구 11명, / 수양명대장경 = 20혈, 이층 버스 위 공룡 = 20, 소장보다 하나 많음, / 수소음심경 = 9혈, 구미호 = 9, 심포와 같은 9, / 수태양소장경 = 19혈, 일렉기타 위 구미호 = 19, 대장보다 하나 적음, / 수궐음심포경 = 9혈, 구미호 = 9, 심장 호위무사, / 수소양삼초경 = 23혈, 이층 버스 위 삼지창 = 23, 이렇게 초초한데 삼초,",
+   "text_sha256": "ad1ee9eeedf1ec2226be3b48346717730a0f12b4b6ac15bb7c63792831732d1d",
+   "audio_sha256": "7d3e0db608b371eced7559acad820b354203b34d55d88db8d90c3bb06f4deeb5",
+   "image_sha256": "7f782968290e9a195c86598c7a36298f369a8d231ee5269f39fae88cfd104477",
+   "source_commit": "ddf4e54e9ed05d9f4947942123e23df1b4093b37",
+   "station_sha256": "95a26bcd41f130e8fcb8baa9295ada34f18087b2c3c1ab5a516cc34808a781e4",
+   "original_wav_sha256": "31e1d6884fa2d8b9755c71b3939addb53710165579c69da46993b03fea3e94ce",
+   "original_wav_filename": "new-gr-31.full.wav"
   }
  }
 }

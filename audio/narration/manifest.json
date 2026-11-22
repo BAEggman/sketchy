@@ -10637,6 +10637,127 @@
    "station_sha256": "312c9de6fefd30b02c9d3e5931d48c2e0226016b12386e6d9ff293e868445a62",
    "original_wav_sha256": "3cfd01f9363272430b114cac51c07183cff56c8670f89c93299d83d92f94a523",
    "original_wav_filename": "mer-03.full.wav"
+  },
+  "new-gr-11#0": {
+   "src": "audio/narration/new-gr-11__s0__57c74050d179.mp3",
+   "text": "한밤 응급실이다. 갑자기 동한 환자 아홉이 침대마다 누웠다, 경마다 시동병의 대표증상이다. 침대 차례는 유주 차례, 폐, 위, 비, 소장, 방광, 신, 삼초, 담, 간. 대장, 심, 심포는 앞서 신생아실 과에서 본다. 몇몇 침대에는 소생병 표시도 섞여 있으니, 무엇이 시동이고 무엇이 소생인지 가른다.",
+   "text_sha256": "57c74050d179e7aff0c094ab32428feac54a9f6bf98633c9c2b864c45a708c30",
+   "audio_sha256": "68b2994250df29ca59bbf57b22127cd15033d4575dfa77046f7c151df5e1f2f8",
+   "image_sha256": "75027c028fe1632aa7b3de148a459ed114abbc703e595994ca8dba8367fde00e",
+   "source_commit": "40c41f0549c95ea12506e7c5c641851c139c529e",
+   "station_sha256": "143222347faad9e730a6f1c5b1ee85926745f72cc108150c3f68ba0dcfe05598",
+   "original_wav_sha256": "a2b9728c2934e095d51e9151d1adbb2bfe6eb977f6fc6dd6ffa08590c202c36b",
+   "original_wav_filename": "new-gr-11.full.wav"
+  },
+  "new-gr-11#1": {
+   "src": "audio/narration/new-gr-11__s1__43e4841f12d6.mp3",
+   "text": "첫 침대, 흰 옷 노인의 가슴과 몸통이 풍선처럼 부풀었다, 수태음폐 시동즉병 폐창만 팽팽이천해, 가슴이 그득 부풀어 헐떡이며 기침한다. 한 손은 가슴 위쪽, 쇄골 쪽에 댔다, 쇄골 위 오목한 결분이 아프다, 결분중통. 소생병의 해, 천, 장중열과 바꿔 내는 함정이 있다.",
+   "text_sha256": "43e4841f12d699cfd24610db8a144845d29f63bf31f14fa85b25375984900a00",
+   "audio_sha256": "7eeaf61860c7d00d4dfd242490e591dde70a7db2c86f1870b951068f70af6751",
+   "image_sha256": "75027c028fe1632aa7b3de148a459ed114abbc703e595994ca8dba8367fde00e",
+   "source_commit": "40c41f0549c95ea12506e7c5c641851c139c529e",
+   "station_sha256": "6c09f4d50f139759d6b3a74cb0cdd744a04fd05dbfe22a185af5b1c5a973282f",
+   "original_wav_sha256": "a2b9728c2934e095d51e9151d1adbb2bfe6eb977f6fc6dd6ffa08590c202c36b",
+   "original_wav_filename": "new-gr-11.full.wav"
+  },
+  "new-gr-11#2": {
+   "src": "audio/narration/new-gr-11__s2__13c1e5c49520.mp3",
+   "text": "둘째 침대, 요리사가 침대 위로 한 발을 올려 딛고 목청껏 노래하며, 모자와 앞치마를 벗어 던졌다, 족양명위 시동, 심즉욕상고이가 기의이주. 높은 데 올라 노래하고 옷을 벗고 달린다, 양명의 광이다. 소생병은 광, 학, 온음한출, 구뉵, 구와순진. 시동의 노래와 소생의 광, 학, 구와를 바꿔 내는 함정에 주의.",
+   "text_sha256": "13c1e5c49520d8086d4afca8511d59ac62b3554e4f34af92a709144dbefe6276",
+   "audio_sha256": "d94dd229b7139ee6c0f582b60a381f0cc448cbbf84696a137dab8265fb49b70f",
+   "image_sha256": "75027c028fe1632aa7b3de148a459ed114abbc703e595994ca8dba8367fde00e",
+   "source_commit": "40c41f0549c95ea12506e7c5c641851c139c529e",
+   "station_sha256": "09bbb2e1e37863175af6a875d18330ab51584a2f6f8253b3ed893c5183b5fadf",
+   "original_wav_sha256": "a2b9728c2934e095d51e9151d1adbb2bfe6eb977f6fc6dd6ffa08590c202c36b",
+   "original_wav_filename": "new-gr-11.full.wav"
+  },
+  "new-gr-11#3": {
+   "src": "audio/narration/new-gr-11__s3__8af9ec3cc265.mp3",
+   "text": "셋째 침대, 밀짚모자 농부의 혀가 판자처럼 뻣뻣하다, 족태음비 시동즉병 설본강. 밥그릇을 밀어내며 토할 듯하다, 식즉구. 시동의 혀는 뻣뻣함, 강이다. 온몸이 샛노란 것은 소생병, 설본통, 황달. 소생의 혀는 아픔, 통이다. 강은 시동, 통은 소생.",
+   "text_sha256": "8af9ec3cc2653e232cf3d1a752b45e38597b97543d764c4f6b40a96b70ac7a0d",
+   "audio_sha256": "b4b6496bb0a0437c5fcab7c327994d65cd4c71f6b1a0dc7c0d15160a2130a442",
+   "image_sha256": "75027c028fe1632aa7b3de148a459ed114abbc703e595994ca8dba8367fde00e",
+   "source_commit": "40c41f0549c95ea12506e7c5c641851c139c529e",
+   "station_sha256": "0023acb73cd7a6f61441deb05c21ed8e8e4b0b313925875745ed9bfc97d2eb61",
+   "original_wav_sha256": "a2b9728c2934e095d51e9151d1adbb2bfe6eb977f6fc6dd6ffa08590c202c36b",
+   "original_wav_filename": "new-gr-11.full.wav"
+  },
+  "new-gr-11#4": {
+   "src": "audio/narration/new-gr-11__s4__59e2d950d5b7.mp3",
+   "text": "가운데 줄 첫 침대, 붉은 앞치마 남자의 위팔에 밧줄이 묶여 무거운 추가 당긴다, 어깨가 뽑힐 듯하다, 견사발. 위팔에는 부목을 댔다, 부러질 듯하다, 노사절. 수태양소장 시동즉병 익통 암종 불가이고 견사발 노사절. 소장은 어깨와 위팔, 바로 옆 침대 방광은 머리와 허리, 둘을 맞바꾸는 것이 단골 함정이다.",
+   "text_sha256": "59e2d950d5b78a4c79b7744cf3eb8a29a73ebe48a8365039a67643b111485648",
+   "audio_sha256": "0467b5fc13d284c0ae2140383583b5f3cff3b74b012b537c9e04dadc29190796",
+   "image_sha256": "75027c028fe1632aa7b3de148a459ed114abbc703e595994ca8dba8367fde00e",
+   "source_commit": "40c41f0549c95ea12506e7c5c641851c139c529e",
+   "station_sha256": "e67c0ba4d2791f010390decd4a40a770e66ea2296b170c1811ea52ac0eaa8ca0",
+   "original_wav_sha256": "a2b9728c2934e095d51e9151d1adbb2bfe6eb977f6fc6dd6ffa08590c202c36b",
+   "original_wav_filename": "new-gr-11.full.wav"
+  },
+  "new-gr-11#5": {
+   "src": "audio/narration/new-gr-11__s5__c29b6e2bf0bb.mp3",
+   "text": "둘째 침대, 물장수의 목이 용수철이다, 머리가 빠져 튀어 오를 듯, 두사탈. 허리에는 막대를 부목처럼 동여맸다, 허리가 끊어질 듯, 요사절. 족태양방광 시동이다. 원문은 충두통 목사탈 항여발 척통 요사절, 눈이 빠질 듯, 목덜미가 뽑힐 듯이다. 기출 보기는 두사탈, 요사절로 줄여 적는다. 시동 고르기 문항의 정답이 바로 이것이다.",
+   "text_sha256": "c29b6e2bf0bbad6bc57bc2431077f1f0a59e29e53084e9268e75900f4fa04552",
+   "audio_sha256": "947fd7b764b863c15a3c7854667dc506ea5b22b828b892a7489e29669d902cf6",
+   "image_sha256": "75027c028fe1632aa7b3de148a459ed114abbc703e595994ca8dba8367fde00e",
+   "source_commit": "40c41f0549c95ea12506e7c5c641851c139c529e",
+   "station_sha256": "64fe87090968e9e11cda756da6c57dd627d3e52c95afbbdec7fe3905b5e777ab",
+   "original_wav_sha256": "a2b9728c2934e095d51e9151d1adbb2bfe6eb977f6fc6dd6ffa08590c202c36b",
+   "original_wav_filename": "new-gr-11.full.wav"
+  },
+  "new-gr-11#6": {
+   "src": "audio/narration/new-gr-11__s6__6c92bb7739dc.mp3",
+   "text": "셋째 침대, 대머리 장사의 얼굴이 옻칠한 장작처럼 새까맣다, 면여칠시. 배가 꾸르륵거리는데도 접시를 밀어낸다, 기불욕식, 배고파도 먹고 싶지 않다. 족소음신 시동이다. 입에서 뿜는 붉은 열기의 김은 소생병, 구열, 설건, 인종, 입이 뜨겁고 혀가 마르고 목이 붓는다. 얼굴과 식욕은 시동, 입, 혀, 목은 소생.",
+   "text_sha256": "6c92bb7739dc1d66aebf3b0f811c47e59ff71ddafa3ecc19859a09a0d9c4fa4d",
+   "audio_sha256": "3174d8eeea42f74af3a48e39de7b8f95177f215ce0d62c6da269f983972e71bc",
+   "image_sha256": "75027c028fe1632aa7b3de148a459ed114abbc703e595994ca8dba8367fde00e",
+   "source_commit": "40c41f0549c95ea12506e7c5c641851c139c529e",
+   "station_sha256": "c17869af82eaff231d480b812a4642f61a281010dfdcee7d2bebb49f8edee41b",
+   "original_wav_sha256": "a2b9728c2934e095d51e9151d1adbb2bfe6eb977f6fc6dd6ffa08590c202c36b",
+   "original_wav_filename": "new-gr-11.full.wav"
+  },
+  "new-gr-11#7": {
+   "src": "audio/narration/new-gr-11__s7__7cfab498f244.mp3",
+   "text": "아래 줄 첫 침대, 주황 작업복 인부가 귀를 막았고, 머리 둘레를 뿌연 구름이 감쌌다, 수소양삼초 시동즉병 이롱 혼혼돈돈, 귀가 먹먹하고 머리가 흐릿하다. 익종 후비도 함께. 소생병은 한출, 목예자통, 협통.",
+   "text_sha256": "7cfab498f244c8af0f1cf99a3804c5b848a19c284ec5c4f0c6a2d90b270c2c87",
+   "audio_sha256": "f2c4f65bcdf1ce6e1ba48d0f9cee7f87f593816348ef22b0d962873126d53e6d",
+   "image_sha256": "75027c028fe1632aa7b3de148a459ed114abbc703e595994ca8dba8367fde00e",
+   "source_commit": "40c41f0549c95ea12506e7c5c641851c139c529e",
+   "station_sha256": "d21cab0fb01bb23a7b77fc170a813859b68550434eb08010c339d77b148f3259",
+   "original_wav_sha256": "a2b9728c2934e095d51e9151d1adbb2bfe6eb977f6fc6dd6ffa08590c202c36b",
+   "original_wav_filename": "new-gr-11.full.wav"
+  },
+  "new-gr-11#8": {
+   "src": "audio/narration/new-gr-11__s8__bbd2e19c5854.mp3",
+   "text": "둘째 침대, 재판관이 쓴 차를 마시고 얼굴을 찡그린다, 구고. 그리고 커다란 한숨, 선태식. 족소양담 시동즉병 구고 선태식 심협통 불능전측. 소생병은 골이 주인, 두통, 암통, 목예자통, 학.",
+   "text_sha256": "bbd2e19c58544eede777746c5234f93283c73e392a0b6e09cb1b742b83f05f8a",
+   "audio_sha256": "48903be32323650cc52e20cdbf8e7d7a3e52f816619a817db7fdba282f9b3549",
+   "image_sha256": "75027c028fe1632aa7b3de148a459ed114abbc703e595994ca8dba8367fde00e",
+   "source_commit": "40c41f0549c95ea12506e7c5c641851c139c529e",
+   "station_sha256": "48616ece0edb3d95e59e187ada42632aa93e81311918f7824928e4891f4ac85f",
+   "original_wav_sha256": "a2b9728c2934e095d51e9151d1adbb2bfe6eb977f6fc6dd6ffa08590c202c36b",
+   "original_wav_filename": "new-gr-11.full.wav"
+  },
+  "new-gr-11#9": {
+   "src": "audio/narration/new-gr-11__s9__c1bb8be5cc6d.mp3",
+   "text": "마지막 침대, 초록 장군이 허리를 움켜쥔다, 요통불가이면앙. 붕대 아래 붉게 부푼 배, 장부퇴산 부인소복종, 아랫배와 음기 쪽이 붓는 산이다. 그림은 배가 부풀었지만 원문은 아랫배, 음기 쪽이다. 족궐음간 시동. 시트의 젖은 자국은 소생병, 유닉, 그리고 손설, 폐륭, 흉만, 구역. 소생 고르기 문항의 정답이 손설, 유닉이다.",
+   "text_sha256": "c1bb8be5cc6d1ada5ebf3bfc106fb26623eb5f942d30768f79b6325ac05ef1d0",
+   "audio_sha256": "e853baf5940aeda98c450d8810abeeded57bf9deb0d7a96204f380e2a0e4b11b",
+   "image_sha256": "75027c028fe1632aa7b3de148a459ed114abbc703e595994ca8dba8367fde00e",
+   "source_commit": "40c41f0549c95ea12506e7c5c641851c139c529e",
+   "station_sha256": "2bb7a934bedab67df30295117fa04f6befaba5b24587091bccd13a6c280f6597",
+   "original_wav_sha256": "a2b9728c2934e095d51e9151d1adbb2bfe6eb977f6fc6dd6ffa08590c202c36b",
+   "original_wav_filename": "new-gr-11.full.wav"
+  },
+  "new-gr-11#10": {
+   "src": "audio/narration/new-gr-11__s10__e3e2739af28b.mp3",
+   "text": "다시 본다. 폐, 부푼 가슴, 폐창만 결분중통. 위, 높이 올라 노래하며 옷을 던짐, 욕상고이가 기의이주. 비, 판자 혀, 설본강 식즉구, 노란 살갗은 소생 황달. 소장, 추가 당기는 어깨와 부목, 견사발 노사절. 방광, 용수철 목과 허리 부목, 두사탈 요사절. 신, 새까만 얼굴, 면여칠시 기불욕식, 붉은 입 김은 소생 구열. 삼초, 뿌연 귀, 이롱 혼혼돈돈. 담, 쓴 차와 한숨, 구고 선태식. 간, 허리와 부푼 아랫배, 요통 퇴산, 젖은 시트는 소생 유닉.",
+   "text_sha256": "e3e2739af28b02fdb1eb6faf8c8c2acea0a8a75f5f83188188c2dee531d85a3c",
+   "audio_sha256": "b1dc03b724f43ae2d1fe989bc18802632886db5e87509b49a41b3df8943affaf",
+   "image_sha256": "75027c028fe1632aa7b3de148a459ed114abbc703e595994ca8dba8367fde00e",
+   "source_commit": "40c41f0549c95ea12506e7c5c641851c139c529e",
+   "station_sha256": "e3a73ded252ce4fdb803de7ac486ce16541e15b847ab8047a5a680fc16cad5d6",
+   "original_wav_sha256": "a2b9728c2934e095d51e9151d1adbb2bfe6eb977f6fc6dd6ffa08590c202c36b",
+   "original_wav_filename": "new-gr-11.full.wav"
   }
  }
 }

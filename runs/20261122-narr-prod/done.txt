@@ -11,3 +11,8 @@ hist-03a
 hist-03b
 hist-03c
 hist-04
+hist-05a
+hist-05b
+hist-06a
+hist-07a
+hist-07b

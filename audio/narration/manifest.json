@@ -7700,6 +7700,138 @@
    "station_sha256": "a397324ec298a87bb65ca526471bac3d5acea377ec26bafb5f2d78ac89f50544",
    "original_wav_sha256": "e88e597fcd3b704aa7f56508a90792d21dd9dbbd04a8eb8046b71574dd9695ba",
    "original_wav_filename": "new-jq-09.full.wav"
+  },
+  "new-jq-10#0": {
+   "src": "audio/narration/new-jq-10__s0__a4ad537d6278.mp3",
+   "text": "종갓집이다, 마루 종, 한 집안의 기운이 모이는 곳. 가운데 대청은 가슴, 흉중이다. 이 대청에 모인 기운이 종기. 그 기운이 처마 밑 종을 울리고, 종을 치는 박자가 되고, 계단 아래 길로 흘러간다. 대청, 종, 종을 짚는 손, 붉은 물길을 차례로 본다.",
+   "text_sha256": "a4ad537d6278188dbf2e68822c721e14df13d054ea8e3bfccda01943ba4a6bf5",
+   "audio_sha256": "fc086ed78cdbc12c86565d5d7a7b8a701ca448d7d4804d0e587a70ef5ac438e7",
+   "image_sha256": "da20137a8b791f8535e6345eeb54c5436f00e67a7ab59ccc5a5270a5cf5af00a",
+   "source_commit": "dca99541868aa9d3f69bf229701a94a5168729e2",
+   "station_sha256": "97e24db8e729f976425671d90c9b7ef3a7ec02991a1f45cbd7fc7b890869bef3",
+   "original_wav_sha256": "a8fe93e120c166eeba58b681f141f3f139c925a70022a8a9d89a2c2249695123",
+   "original_wav_filename": "new-jq-10.full.wav"
+  },
+  "new-jq-10#1": {
+   "src": "audio/narration/new-jq-10__s1__9b6d6012673d.mp3",
+   "text": "대청 왼쪽, 흰 옷 노인, 폐가 맑은 바람, 자연청기를 불어 넣는다. 오른쪽, 밀짚모자 농부, 비위가 김 나는 쌀, 수곡정기를 들고 온다. 두 줄기가 대청 한가운데서 금빛 구름으로 모인다. 종기는 청기와 곡기가 흉중에 모인 후천지기다. 흉중을 전중, 기해라고도 한다.",
+   "text_sha256": "9b6d6012673de310cb7a3fe059e0ddadbf84e73e54a4eb2ce18e0be5a880a1b0",
+   "audio_sha256": "014b4daab576cb1ca4ecb98b948608ad22592656b82ab2c131aa09879d14d757",
+   "image_sha256": "da20137a8b791f8535e6345eeb54c5436f00e67a7ab59ccc5a5270a5cf5af00a",
+   "source_commit": "dca99541868aa9d3f69bf229701a94a5168729e2",
+   "station_sha256": "78b3c4b1da5645504b24a82800efc91b255b64309a1a0e4e06c997f624271d60",
+   "original_wav_sha256": "a8fe93e120c166eeba58b681f141f3f139c925a70022a8a9d89a2c2249695123",
+   "original_wav_filename": "new-jq-10.full.wav"
+  },
+  "new-jq-10#2": {
+   "src": "audio/narration/new-jq-10__s2__e4cbcc3c882e.mp3",
+   "text": "대청에 모인 금빛 구름이 처마 밑 큰 종으로 간다. 종기적어흉중 출어후롱 이관심맥이행호흡언, 가슴에 쌓여 목구멍으로 나가고, 심맥을 꿰뚫어 호흡을 행한다. 두 갈래다, 종의 소리는 숨길, 주식도. 종을 치는 박자는 심맥, 관심맥.",
+   "text_sha256": "e4cbcc3c882e7b5025b2ea225459ec1d955b26d838ac296debc29ade0aace7e7",
+   "audio_sha256": "76c342589e1faf8ffd1d04fe2dc1feca25e837f65c1b16a0fa08167ad1994bed",
+   "image_sha256": "da20137a8b791f8535e6345eeb54c5436f00e67a7ab59ccc5a5270a5cf5af00a",
+   "source_commit": "dca99541868aa9d3f69bf229701a94a5168729e2",
+   "station_sha256": "cc4f509377b20e6db8ac41ec83f36f77651342d55ce4bb992419c701d478cfd6",
+   "original_wav_sha256": "a8fe93e120c166eeba58b681f141f3f139c925a70022a8a9d89a2c2249695123",
+   "original_wav_filename": "new-jq-10.full.wav"
+  },
+  "new-jq-10#3": {
+   "src": "audio/narration/new-jq-10__s3__5d05d6069f25.mp3",
+   "text": "종이 울려 몸통이 떨리고 음표가 떠오른다. 옆의 소년도 입을 크게 벌려 노래한다, 주식도, 종기가 숨길로 달린다. 호흡과 말, 목소리를 주관한다. 목소리가 크고 작은 것, 숨이 고르고 일정한 것이 종기에 달렸다.",
+   "text_sha256": "5d05d6069f2545acb9114e049dc688d29aef64260912bea8cb43ae900581113f",
+   "audio_sha256": "2526523c2cd7e6889218c4e7723052a98e7d24b2851ab847e6bdc633966563df",
+   "image_sha256": "da20137a8b791f8535e6345eeb54c5436f00e67a7ab59ccc5a5270a5cf5af00a",
+   "source_commit": "dca99541868aa9d3f69bf229701a94a5168729e2",
+   "station_sha256": "e1c91db19159d5be3dfa3d8627046fe9cd39af5efc4bc20c49d0da0e9f4bd5a8",
+   "original_wav_sha256": "a8fe93e120c166eeba58b681f141f3f139c925a70022a8a9d89a2c2249695123",
+   "original_wav_filename": "new-jq-10.full.wav"
+  },
+  "new-jq-10#4": {
+   "src": "audio/narration/new-jq-10__s4__1c70c1acd261.mp3",
+   "text": "흰 옷 노인이 입으로 길게 바람을 내쉰다. 영추 오미, 출어폐 순후롱 고호즉출 흡즉입. 폐에서 나와 목구멍을 돌므로, 내쉬면 나가고 들이쉬면 들어온다. 주식도의 길이다.",
+   "text_sha256": "1c70c1acd261a63e311e6b03498f97e88fef7d42c3cf5ec3b390ae5f07b8dc2d",
+   "audio_sha256": "ca6cbd35b471af384c8c1e5bfbe7d773dfb7ffad9f19913c92ce5558a7130059",
+   "image_sha256": "da20137a8b791f8535e6345eeb54c5436f00e67a7ab59ccc5a5270a5cf5af00a",
+   "source_commit": "dca99541868aa9d3f69bf229701a94a5168729e2",
+   "station_sha256": "d93db4d483ea1ecf79aeb2fc5ff9588b636769fdc82422ea11b493f8d6172676",
+   "original_wav_sha256": "a8fe93e120c166eeba58b681f141f3f139c925a70022a8a9d89a2c2249695123",
+   "original_wav_filename": "new-jq-10.full.wav"
+  },
+  "new-jq-10#5": {
+   "src": "audio/narration/new-jq-10__s5__5570d6732ed4.mp3",
+   "text": "갈색 옷 남자가 통나무로 종을 친다, 쿵, 쿵, 일정한 박자. 관심맥 행기혈, 종기가 심맥을 꿰뚫어 기혈을 돌린다. 심장 박동, 맥박의 세기와 규칙이 종기에 달렸다.",
+   "text_sha256": "5570d6732ed4b5a4abc2dc653d37ca90be95b827805ec5c4dda340d10de50b7c",
+   "audio_sha256": "41a55d33922b503e3d19bfd773acfea4d2549ae48ad163565d5e57c3fa4a5574",
+   "image_sha256": "da20137a8b791f8535e6345eeb54c5436f00e67a7ab59ccc5a5270a5cf5af00a",
+   "source_commit": "dca99541868aa9d3f69bf229701a94a5168729e2",
+   "station_sha256": "5c5ac0b20f355167cbb8b3131a15b79f4bf1dd1a1270687dda04891b2e1f4418",
+   "original_wav_sha256": "a8fe93e120c166eeba58b681f141f3f139c925a70022a8a9d89a2c2249695123",
+   "original_wav_filename": "new-jq-10.full.wav"
+  },
+  "new-jq-10#6": {
+   "src": "audio/narration/new-jq-10__s6__5d243d122777.mp3",
+   "text": "대청 마루 끝에서 붉은 물이 기단을 타고 흘러내려, 구불구불 왼쪽 대문으로 간다, 대문 밖은 길, 가다. 영추 자절진사, 종기류우해 기하자주어기가. 종기는 바다, 가슴에 머물고, 아래로 가는 것은 기가로 흘러들어 경맥으로 들어간다. 관심맥 쪽 갈래다.",
+   "text_sha256": "5d243d122777a546061578ff30a3713b20ce0fb4b418804b1f33348cde93f747",
+   "audio_sha256": "12fd858793eed61d2cc1a383067f22c1a15b941eb9c2953b133c492ad26edec9",
+   "image_sha256": "da20137a8b791f8535e6345eeb54c5436f00e67a7ab59ccc5a5270a5cf5af00a",
+   "source_commit": "dca99541868aa9d3f69bf229701a94a5168729e2",
+   "station_sha256": "d6ba868944575a29dfba94fec28aad8d3fbf8d8f0d43eb5423595d248a433c6a",
+   "original_wav_sha256": "a8fe93e120c166eeba58b681f141f3f139c925a70022a8a9d89a2c2249695123",
+   "original_wav_filename": "new-jq-10.full.wav"
+  },
+  "new-jq-10#7": {
+   "src": "audio/narration/new-jq-10__s7__625fc13b8c53.mp3",
+   "text": "종을 치는 박자가 붉은 물을 밀어 길로 보낸다. 경락이 순환하게 하는 원동력, 기혈을 운행시키는 추진에너지가 종기다. 앞 과의 발전소와 구별, 경락이 기능하는 기초는 원기, 순환을 미는 원동력은 종기.",
+   "text_sha256": "625fc13b8c534e0815c4c3a650638350d2d65eec95d6a006240be82adccba5c0",
+   "audio_sha256": "ddbe91b3c42f90e773c4fee90eef2e92be2400a8e1270cfdd672a87e8039e239",
+   "image_sha256": "da20137a8b791f8535e6345eeb54c5436f00e67a7ab59ccc5a5270a5cf5af00a",
+   "source_commit": "dca99541868aa9d3f69bf229701a94a5168729e2",
+   "station_sha256": "2b1adecfd9b48ffb3714a06c936861dd224fe070cd374a1f875113b90288e28e",
+   "original_wav_sha256": "a8fe93e120c166eeba58b681f141f3f139c925a70022a8a9d89a2c2249695123",
+   "original_wav_filename": "new-jq-10.full.wav"
+  },
+  "new-jq-10#8": {
+   "src": "audio/narration/new-jq-10__s8__a2b47ba41195.mp3",
+   "text": "초록 치마 여인이 큰 종 몸통의 왼쪽 아래를 손바닥으로 짚는다. 소문 평인기상론, 위지대락 명왈허리, 출어좌유하 기동응의 맥종기야. 위의 큰 낙맥, 허리는 왼쪽 젖가슴 아래에서 뛰고 그 떨림이 옷 위로 느껴지니, 종기를 맥 짚는 자리다. 허리의 박동으로 종기의 성쇠를 본다.",
+   "text_sha256": "a2b47ba4119565af52e1490dfec69b6043724b89640e7b391b0c5554eb95a422",
+   "audio_sha256": "216a777b3f72ac8c3125236e6b1d5de529bda8cf89b4dd4dd4536cf758f7084d",
+   "image_sha256": "da20137a8b791f8535e6345eeb54c5436f00e67a7ab59ccc5a5270a5cf5af00a",
+   "source_commit": "dca99541868aa9d3f69bf229701a94a5168729e2",
+   "station_sha256": "2bb77e8df73894596bf1e0b1b4d26b3a5d1745747342c177a4fbdaff4f5d2d42",
+   "original_wav_sha256": "a8fe93e120c166eeba58b681f141f3f139c925a70022a8a9d89a2c2249695123",
+   "original_wav_filename": "new-jq-10.full.wav"
+  },
+  "new-jq-10#9": {
+   "src": "audio/narration/new-jq-10__s9__c05f013ac19e.mp3",
+   "text": "여인의 손바닥에 떨림이 닿는다, 안지응수. 세게 조이지 않고, 동이불긴, 느긋하되 급하지 않다, 완이불급. 병이 없다, 종기가 가슴에 잘 쌓였다.",
+   "text_sha256": "c05f013ac19e5a8fab0e093560cdf6cc4e24fd0762fb2f0a6ce4a8668d7b6f55",
+   "audio_sha256": "2405b6b26ff623c31e4975ddb2644028f0e422e0e7eb6ae26ff8349aec7eb14b",
+   "image_sha256": "da20137a8b791f8535e6345eeb54c5436f00e67a7ab59ccc5a5270a5cf5af00a",
+   "source_commit": "dca99541868aa9d3f69bf229701a94a5168729e2",
+   "station_sha256": "1c28907f8fbf7c02abc90e83e9ddf61508bb41a49833ffcc8f3f0e6bd7bca5b9",
+   "original_wav_sha256": "a8fe93e120c166eeba58b681f141f3f139c925a70022a8a9d89a2c2249695123",
+   "original_wav_filename": "new-jq-10.full.wav"
+  },
+  "new-jq-10#10": {
+   "src": "audio/narration/new-jq-10__s10__a884c70c74a9.mp3",
+   "text": "오른쪽 끝, 먼지 낀 작은 종은 소리도 떨림도 없다. 만져 본 여인이 시무룩하다, 기동미이불견, 허리의 박동이 희미해 보이지 않으면 불급, 종기가 모자란 것이다.",
+   "text_sha256": "a884c70c74a9a8c1c1c178ff7e2214ccaa14bf6055d9bda97d3d6b2fa7d4084c",
+   "audio_sha256": "fcf99215f8580b98b536dbfa3bff0e8fcd11752b3075778d35eb0da75648d37b",
+   "image_sha256": "da20137a8b791f8535e6345eeb54c5436f00e67a7ab59ccc5a5270a5cf5af00a",
+   "source_commit": "dca99541868aa9d3f69bf229701a94a5168729e2",
+   "station_sha256": "081c1f57bf30d90932a61503a44b403c3b9256c08a863bddf2375f8fe5fdfb22",
+   "original_wav_sha256": "a8fe93e120c166eeba58b681f141f3f139c925a70022a8a9d89a2c2249695123",
+   "original_wav_filename": "new-jq-10.full.wav"
+  },
+  "new-jq-10#11": {
+   "src": "audio/narration/new-jq-10__s11__2379487e84d2.mp3",
+   "text": "다시 본다. 노인의 바람과 농부의 쌀 김이 대청에 모인다, 청기와 곡기가 흉중에, 종기. 종소리와 노래하는 소년, 주식도, 호흡, 말, 목소리, 호즉출 흡즉입. 종 치는 박자, 관심맥, 심박의 세기와 규칙. 붉은 물이 길로, 기하자주어기가, 순환의 원동력. 종 몸통 왼쪽 아래를 짚는 손, 허리, 맥종기야. 부드러운 떨림은 무병, 떨림 없는 작은 종은 불급.",
+   "text_sha256": "2379487e84d2ad09fac65024186536a1ff2417b2bd535de99073a75c21158a6a",
+   "audio_sha256": "7377e26f89013af636e61a0629b1f849abb8e2a4963134e02a9f880540172444",
+   "image_sha256": "da20137a8b791f8535e6345eeb54c5436f00e67a7ab59ccc5a5270a5cf5af00a",
+   "source_commit": "dca99541868aa9d3f69bf229701a94a5168729e2",
+   "station_sha256": "c2934d412134327e67376cba48b6f0b5660a964a9fc76cd07b0ca2d2f3cf09d7",
+   "original_wav_sha256": "a8fe93e120c166eeba58b681f141f3f139c925a70022a8a9d89a2c2249695123",
+   "original_wav_filename": "new-jq-10.full.wav"
   }
  }
 }

@@ -12914,6 +12914,127 @@
    "station_sha256": "14997d0bb56ee60f53d1a761e5c402942e2c6cf2f38594f39923f82aeed4ea65",
    "original_wav_sha256": "d537733f992c91e6241f8d181823e8f89390b6e2a3709f4efee79a93950d3083",
    "original_wav_filename": "new-gr-37.full.wav"
+  },
+  "new-gr-17#0": {
+   "src": "audio/narration/new-gr-17__s0__a2b3eb3a05df.mp3",
+   "text": "백화점 종합 안내 데스크다. 총은 모두 거느린다는 뜻. 어디가 아프세요?, 몸 모양 안내판에 부위마다 담당 혈이 서 있다. 앞쪽 쇼핑객들은 그냥 손님이다. 안내판, 에스컬레이터, 데스크 위 손을 차례로 본다.",
+   "text_sha256": "a2b3eb3a05dfa66d4e2ecb4498c531dd880c181a5f28759d8c560dac6b611104",
+   "audio_sha256": "4f5aee86100a61dc00343d7cdd3604ec74a80534b80d048d3d2f0d8e5163ce51",
+   "image_sha256": "f12848c9621cad39e8603d01c621063f29eaaee60f864ddb9c4f6d5b4f310953",
+   "source_commit": "e4d0f8dbd7c58cb1b9c746a480ecb728cf7fb35a",
+   "station_sha256": "66b2bafb931409069257098ef00424d467f00bdd159dbc8698f4a0550dff7a56",
+   "original_wav_sha256": "14bcbb2db8410732c384c7044f23ceaf9ec7436c6c75e4b0d0c5ff0d8d264234",
+   "original_wav_filename": "new-gr-17.full.wav"
+  },
+  "new-gr-17#1": {
+   "src": "audio/narration/new-gr-17__s1__a19ae1c8e18c.mp3",
+   "text": "안내판에서 머리 옆 뺨 쪽을 가리키는 흰 작업복 남자, 수양명대장경의 합곡, 엄지와 검지 사이 뼈 두 개 사이의 혈이다. 면구합곡수, 얼굴과 입의 병은 합곡이 거둔다.",
+   "text_sha256": "a19ae1c8e18c07a1a4c39b180cd2cbae3416677cd88535fbbfecf260219655e5",
+   "audio_sha256": "310eca01aa7adf969ed2b202ff58444095f6d8dd2a2236736a55700fc8d3f368",
+   "image_sha256": "f12848c9621cad39e8603d01c621063f29eaaee60f864ddb9c4f6d5b4f310953",
+   "source_commit": "e4d0f8dbd7c58cb1b9c746a480ecb728cf7fb35a",
+   "station_sha256": "0be8960e3ed38007eb54fe5bdd9dda7b7b11c4ddec464f6f15c4c13a633cdae2",
+   "original_wav_sha256": "14bcbb2db8410732c384c7044f23ceaf9ec7436c6c75e4b0d0c5ff0d8d264234",
+   "original_wav_filename": "new-gr-17.full.wav"
+  },
+  "new-gr-17#2": {
+   "src": "audio/narration/new-gr-17__s2__ada62df7ac2d.mp3",
+   "text": "배 높이에서 냄비를 젓는 요리사, 족양명위경의 족삼리. 두복삼리류, 배와 위장의 병은 삼리에 머문다. 허리, 등의 위중과 바꾸는 함정.",
+   "text_sha256": "ada62df7ac2d5872d19b7c244e1a89b7da4a7b4cddc1e2d43eb5fcd5de1b75a7",
+   "audio_sha256": "d1922e3964aa3acbffaa76341c31029ed0d4821f1f72cdbb9ab9902d87ea1ffd",
+   "image_sha256": "f12848c9621cad39e8603d01c621063f29eaaee60f864ddb9c4f6d5b4f310953",
+   "source_commit": "e4d0f8dbd7c58cb1b9c746a480ecb728cf7fb35a",
+   "station_sha256": "73b740ca546ebb4583676d4fb570c26ab64fc0df5f7bcafbdad51d62050f430b",
+   "original_wav_sha256": "14bcbb2db8410732c384c7044f23ceaf9ec7436c6c75e4b0d0c5ff0d8d264234",
+   "original_wav_filename": "new-gr-17.full.wav"
+  },
+  "new-gr-17#3": {
+   "src": "audio/narration/new-gr-17__s3__891be95e6d0f.mp3",
+   "text": "안내판 아래 끝에서 허리를 굽혀 무릎을 짚은 물장수, 족태양방광경의 위중, 무릎 뒤 오금 한가운데다. 등을 타고 내려오는 방광경이라 요배위중구, 허리와 등의 병은 위중에서 구한다.",
+   "text_sha256": "891be95e6d0f0637232797f5da2fea0031273647f334aac2b5e6b69e02a6be5b",
+   "audio_sha256": "25b3039d7f92ec57da0427400f35d48131b2c3a3af7ba486e26816256f2b7b4e",
+   "image_sha256": "f12848c9621cad39e8603d01c621063f29eaaee60f864ddb9c4f6d5b4f310953",
+   "source_commit": "e4d0f8dbd7c58cb1b9c746a480ecb728cf7fb35a",
+   "station_sha256": "cb1b99c36010c7234caed85e8372e8142f0458cf39c0ac13b33d27110625e56f",
+   "original_wav_sha256": "14bcbb2db8410732c384c7044f23ceaf9ec7436c6c75e4b0d0c5ff0d8d264234",
+   "original_wav_filename": "new-gr-17.full.wav"
+  },
+  "new-gr-17#4": {
+   "src": "audio/narration/new-gr-17__s4__8fd7ba911602.mp3",
+   "text": "머리 곁에서 번개를 치켜든 흰 옷 노인, 수태음폐경의 열결. 열결은 하늘이 갈라지는 번개다. 두항심열결, 머리와 목의 병은 열결을 찾는다. 면구의 합곡과 바꾸는 함정, 얼굴, 입은 합곡, 머리, 목은 열결.",
+   "text_sha256": "8fd7ba9116021a3ee1628f5eec15c287524c4543ca03d584db464195fb5e4203",
+   "audio_sha256": "3e2d196d7cfa8a3c7fd0b0e649e0be69a025e71829369e6e64f1cc3a4efe9bcd",
+   "image_sha256": "f12848c9621cad39e8603d01c621063f29eaaee60f864ddb9c4f6d5b4f310953",
+   "source_commit": "e4d0f8dbd7c58cb1b9c746a480ecb728cf7fb35a",
+   "station_sha256": "9a6969a26bce43823be10b372de6ef8c97ce73517642f0736df2db5d944c0ab4",
+   "original_wav_sha256": "14bcbb2db8410732c384c7044f23ceaf9ec7436c6c75e4b0d0c5ff0d8d264234",
+   "original_wav_filename": "new-gr-17.full.wav"
+  },
+  "new-gr-17#5": {
+   "src": "audio/narration/new-gr-17__s5__b566a6e52d2c.mp3",
+   "text": "여기서부터는 육총혈이 더한 둘이다. 가슴 한가운데 작은 문 곁의 붉은 방패 근위병, 수궐음심포경의 내관, 손목 안쪽의 관문. 흉부는 내관.",
+   "text_sha256": "b566a6e52d2c2fc36106241d320a46cd4ea199965fdcf53beff071887fdad8de",
+   "audio_sha256": "9fcf43d119c187fa945673e5e7a74d8f182fa68739529f094379f3bf97445320",
+   "image_sha256": "f12848c9621cad39e8603d01c621063f29eaaee60f864ddb9c4f6d5b4f310953",
+   "source_commit": "e4d0f8dbd7c58cb1b9c746a480ecb728cf7fb35a",
+   "station_sha256": "4f311d6c9fa20f31d0d0eca3ba51ca36b77bc76fc5692ec090b6914d291f0194",
+   "original_wav_sha256": "14bcbb2db8410732c384c7044f23ceaf9ec7436c6c75e4b0d0c5ff0d8d264234",
+   "original_wav_filename": "new-gr-17.full.wav"
+  },
+  "new-gr-17#6": {
+   "src": "audio/narration/new-gr-17__s6__76a5de9d6d24.mp3",
+   "text": "옆가슴 갈비 쪽에서 도랑을 파는 주황 작업복 인부, 수소양삼초경의 지구, 갈래 지 도랑 구다. 흉협, 옆구리와 옆가슴은 지구. 가슴 한가운데 내관과 바꾸는 함정, 가운데는 내관, 옆은 지구.",
+   "text_sha256": "76a5de9d6d24b4e02daaf301345995fc17d2c2388def0271e902a8352641ff1e",
+   "audio_sha256": "99f3c5ce89607d2f479caf8d7740d048e5c964def2abf02754470e7fc74798b8",
+   "image_sha256": "f12848c9621cad39e8603d01c621063f29eaaee60f864ddb9c4f6d5b4f310953",
+   "source_commit": "e4d0f8dbd7c58cb1b9c746a480ecb728cf7fb35a",
+   "station_sha256": "e8f7bcd8a07214e764544f0e58b54b13898b528f33b6f09e830fad8638244eda",
+   "original_wav_sha256": "14bcbb2db8410732c384c7044f23ceaf9ec7436c6c75e4b0d0c5ff0d8d264234",
+   "original_wav_filename": "new-gr-17.full.wav"
+  },
+  "new-gr-17#7": {
+   "src": "audio/narration/new-gr-17__s7__b6ededbdfd82.mp3",
+   "text": "음양이총혈. 에스컬레이터 꼭대기, 하늘 창 바로 아래, 같은 흰 작업복 남자, 합곡이 풍선을 들었다. 풍선은 기, 하늘은 천, 해는 양, 합곡은 주기, 천, 양.",
+   "text_sha256": "b6ededbdfd827965c98ecfec66438b91c546eb1315da3912004e18b862e197c1",
+   "audio_sha256": "4d1cb62ddf5cf9d3e8fc7fa0cae64ced16c085fa08c1ffc9d2683a37ac0aa344",
+   "image_sha256": "f12848c9621cad39e8603d01c621063f29eaaee60f864ddb9c4f6d5b4f310953",
+   "source_commit": "e4d0f8dbd7c58cb1b9c746a480ecb728cf7fb35a",
+   "station_sha256": "dbd17621bd25132e7dbbadfd42e5d27091947877d113453abd42bb9200fde12c",
+   "original_wav_sha256": "14bcbb2db8410732c384c7044f23ceaf9ec7436c6c75e4b0d0c5ff0d8d264234",
+   "original_wav_filename": "new-gr-17.full.wav"
+  },
+  "new-gr-17#8": {
+   "src": "audio/narration/new-gr-17__s8__946b417c6771.mp3",
+   "text": "같은 에스컬레이터 맨 아래, 달 뜬 어두운 쪽, 농부, 장군, 장사, 족삼음이 만나는 삼음교가 붉은 물 병을 들었다. 붉은 물은 혈, 아래 땅은 지, 달은 음, 삼음교는 주혈, 지, 음. 합곡과 짝이니 서로 바꾸는 함정에 주의.",
+   "text_sha256": "946b417c67712c4ec275a8dec3504cf7d26f36650e6e0212b73f8bde91220d5f",
+   "audio_sha256": "04772c4f1af42ca9928dcd7a472ec0c8fb270b48a5c311f9e401af95fffb7497",
+   "image_sha256": "f12848c9621cad39e8603d01c621063f29eaaee60f864ddb9c4f6d5b4f310953",
+   "source_commit": "e4d0f8dbd7c58cb1b9c746a480ecb728cf7fb35a",
+   "station_sha256": "b657b0f0de402c968de5be54aadde515738f25e4061acb42dca46c57a797d18a",
+   "original_wav_sha256": "14bcbb2db8410732c384c7044f23ceaf9ec7436c6c75e4b0d0c5ff0d8d264234",
+   "original_wav_filename": "new-gr-17.full.wav"
+  },
+  "new-gr-17#9": {
+   "src": "audio/narration/new-gr-17__s9__6c167ad9e59e.mp3",
+   "text": "데스크 위 마네킹 손, 손가락 사이사이에서 보라 도깨비가 고개를 내민다. 사가 숨은 손가락 틈, 팔사, 다섯 손가락 사이, 한 손에 넷씩 양손 여덟. 그림 속 도깨비 수는 세지 않는다. 손가락이 아프고 저리고 힘이 없을 때 쓴다. 발가락 사이는 팔풍, 손은 사, 발은 풍.",
+   "text_sha256": "6c167ad9e59efafd935d3b6e1465c9c3218a3c3c8e88ef7a665ef09ca1196fa1",
+   "audio_sha256": "153a1fa8119f5c3efed8bbbffc809f12ca5407531864cc45047166cf15f73d5f",
+   "image_sha256": "f12848c9621cad39e8603d01c621063f29eaaee60f864ddb9c4f6d5b4f310953",
+   "source_commit": "e4d0f8dbd7c58cb1b9c746a480ecb728cf7fb35a",
+   "station_sha256": "d6b76cf81c3ef5944ed34590da44104f042ddccae4c252c3e53451ad3032a303",
+   "original_wav_sha256": "14bcbb2db8410732c384c7044f23ceaf9ec7436c6c75e4b0d0c5ff0d8d264234",
+   "original_wav_filename": "new-gr-17.full.wav"
+  },
+  "new-gr-17#10": {
+   "src": "audio/narration/new-gr-17__s10__f02422d8f599.mp3",
+   "text": "다시 본다. 사총혈, 면구합곡수, 두복삼리류, 요배위중구, 두항심열결. 육총혈이 더한 둘, 가슴 한가운데 내관, 옆가슴 지구. 음양이총혈, 꼭대기 풍선 합곡은 주기, 천, 양, 맨 아래 붉은 병 삼음교는 주혈, 지, 음. 손가락 틈 도깨비, 팔사, 발가락 사이는 팔풍.",
+   "text_sha256": "f02422d8f5991b1ee9f08c1b787ffd654ff3c6b1b1e99a13f964e07e7bfefd56",
+   "audio_sha256": "b3bb0f7237ed8acffb9c06971a90417255bb2d10d1cb3c6d9d44f74deccb94d3",
+   "image_sha256": "f12848c9621cad39e8603d01c621063f29eaaee60f864ddb9c4f6d5b4f310953",
+   "source_commit": "e4d0f8dbd7c58cb1b9c746a480ecb728cf7fb35a",
+   "station_sha256": "2f7202859418677dc53330c04c55165c03e364bfcf69684f9b7ebd28697909f8",
+   "original_wav_sha256": "14bcbb2db8410732c384c7044f23ceaf9ec7436c6c75e4b0d0c5ff0d8d264234",
+   "original_wav_filename": "new-gr-17.full.wav"
   }
  }
 }

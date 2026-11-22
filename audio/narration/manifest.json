@@ -5962,6 +5962,138 @@
    "station_sha256": "3ab07894bc270b10c247443c4d0c37e39e8b067afbc97c7651203d27e3346e18",
    "original_wav_sha256": "c72673627a8d8db035f626afeb10180b349883fd3de7bfbf90951d5c5568e788",
    "original_wav_filename": "new-uk-11.full.wav"
+  },
+  "new-uk-12#0": {
+   "src": "audio/narration/new-uk-12__s0__6d414d36d090.mp3",
+   "text": "게스트하우스 2층 침대방이다. 침대 여섯이 한 해의 여섯 걸음, 육보. 아래 칸에는 줄무늬 잠옷의 붙박이 주인이 살고, 주기, 위 칸에는 가방 든 손님이 해마다 바뀌어 묵는다, 객기. 손님이 주인 위에 올라 임하는 것, 객주가림. 위아래 사이가 좋으면 순, 나쁘면 역이다. 지금 손님들은 자오년 손님이다.",
+   "text_sha256": "6d414d36d0902fb40af1424d40c269a2f3fd97a3be74d055592c1e5ce87fa058",
+   "audio_sha256": "13df8675575492f90a45f0fd9dd68fe6f22fb7bb8025f2c89c665739892f9b98",
+   "image_sha256": "17e1ec00b9421ca6452106155b9dd0fe71aaeffd18fdca423056dcdca7d6c495",
+   "source_commit": "36ec682dd33ee556882c9eda137afee1b32f47fa",
+   "station_sha256": "26aa366e9a1b45654776ace872dccc4e4c43caa6cfd276dc96d07c35316eecb2",
+   "original_wav_sha256": "8a941060ecba382fa988c3ac144d9b4e14a41d68cfb432ac064440b033f84a68",
+   "original_wav_filename": "new-uk-12.full.wav"
+  },
+  "new-uk-12#1": {
+   "src": "audio/narration/new-uk-12__s1__cf9d6011c013.mp3",
+   "text": "아래 칸 주인들은 슬리퍼와 화분까지 두고 사는 붙박이다. 주기는 해마다 같은 계절의 정상 규율, 고정불변이다. 첫 침대의 눈송이 그림표, 대한에서 시작해, 한 침대가 두 달, 절기 넷씩 맡는다.",
+   "text_sha256": "cf9d6011c0139a3548871583c93ee034e3851116bbeceecd87906fab436d263a",
+   "audio_sha256": "1d2a22dcbb7eab5648642618070772095aee0315eb9f474f5931fa4d6c0d5286",
+   "image_sha256": "17e1ec00b9421ca6452106155b9dd0fe71aaeffd18fdca423056dcdca7d6c495",
+   "source_commit": "36ec682dd33ee556882c9eda137afee1b32f47fa",
+   "station_sha256": "8abfdc6334e637222efcc5aa47a1001c2f240a2263e13996c7e3963e876bd161",
+   "original_wav_sha256": "8a941060ecba382fa988c3ac144d9b4e14a41d68cfb432ac064440b033f84a68",
+   "original_wav_filename": "new-uk-12.full.wav"
+  },
+  "new-uk-12#2": {
+   "src": "audio/narration/new-uk-12__s2__a0f305012ae0.mp3",
+   "text": "아래 칸 원판을 왼쪽부터 읽는다. 까만 원, 바람개비 든 주인, 궐음풍목. 초승달, 왕관 쓴 작은 왕, 소음군화. 작은 해, 검은 관모의 신하, 소양상화. 보름달, 태음습토. 해와 달, 양명조금. 큰 해, 태양한수. 목, 화, 토, 금, 수 상생 차례에 화가 둘, 왕이 먼저, 신하가 다음. 주기는 군화 다음에 상화, 그다음 습토.",
+   "text_sha256": "a0f305012ae0db98f94ffba56e90cfaa8539211f973177b20228de4305c8cd05",
+   "audio_sha256": "16e2598c45338c922044e8a177b09fad590b40d8a3f33d60bfaacca982a70c34",
+   "image_sha256": "17e1ec00b9421ca6452106155b9dd0fe71aaeffd18fdca423056dcdca7d6c495",
+   "source_commit": "36ec682dd33ee556882c9eda137afee1b32f47fa",
+   "station_sha256": "076df9cb64dcde9c7ab97ee2dca0f8563a8cc021782787b6cde14bebf4bbbdaa",
+   "original_wav_sha256": "8a941060ecba382fa988c3ac144d9b4e14a41d68cfb432ac064440b033f84a68",
+   "original_wav_filename": "new-uk-12.full.wav"
+  },
+  "new-uk-12#3": {
+   "src": "audio/narration/new-uk-12__s3__b491af70b6b4.mp3",
+   "text": "그림표가 걸음마다 첫 절기다. 눈송이, 초지기는 대한, 입춘, 우수, 경칩. 벚꽃, 이지기는 춘분, 청명, 곡우, 입하. 보리 싹, 삼지기는 소만, 망종, 하지, 소서. 이글거리는 해, 사지기는 대서, 입추, 처서, 백로. 단풍잎, 오지기는 추분, 한로, 상강, 입동. 솔가지의 눈, 종지기는 소설, 대설, 동지, 소한.",
+   "text_sha256": "b491af70b6b41f5e078d3da089818a9369516ae67645af6d67eb65dd56d6a3f8",
+   "audio_sha256": "09f32b0d82bda90091317d5820f3830aa202c6b8beab1a1e579f91bdd86b4030",
+   "image_sha256": "17e1ec00b9421ca6452106155b9dd0fe71aaeffd18fdca423056dcdca7d6c495",
+   "source_commit": "36ec682dd33ee556882c9eda137afee1b32f47fa",
+   "station_sha256": "54bdb90ba70238d6121ed6904320b01564dc6e2f47e18add08712f6740c56d05",
+   "original_wav_sha256": "8a941060ecba382fa988c3ac144d9b4e14a41d68cfb432ac064440b033f84a68",
+   "original_wav_filename": "new-uk-12.full.wav"
+  },
+  "new-uk-12#4": {
+   "src": "audio/narration/new-uk-12__s4__3e2c5ccb24cd.mp3",
+   "text": "위 칸 손님들은 가방을 들고 와 한 해 묵고 떠난다. 객기, 해마다 바뀌어 그해 기후의 이상 변화와 특수한 사정을 풀이한다. 누가 어느 칸에 묵을지는 그해 사천과 재천으로 정한다. 그다음은 삼음삼양 차례로 돈다.",
+   "text_sha256": "3e2c5ccb24cde685496286a589c9813836c3ced235cbe998152f8eb57d7c2bbe",
+   "audio_sha256": "98ff2aa7fa3950dd01f88f771406c64f46a4ab79df8fa89a3fa59751cf53408a",
+   "image_sha256": "17e1ec00b9421ca6452106155b9dd0fe71aaeffd18fdca423056dcdca7d6c495",
+   "source_commit": "36ec682dd33ee556882c9eda137afee1b32f47fa",
+   "station_sha256": "96bad970fa3ec9c56bdf9a88943f16724cc4905d1dba75893506294ad3b2e38b",
+   "original_wav_sha256": "8a941060ecba382fa988c3ac144d9b4e14a41d68cfb432ac064440b033f84a68",
+   "original_wav_filename": "new-uk-12.full.wav"
+  },
+  "new-uk-12#5": {
+   "src": "audio/narration/new-uk-12__s5__67b12d4a204d.mp3",
+   "text": "위 칸 원판을 둘째 침대부터 읽는다. 까만 원 궐음, 초승달 소음, 보름달 태음, 작은 해 소양, 해와 달 양명, 그리고 첫 침대로 돌아와 큰 해 태양. 일음, 이음, 삼음, 일양, 이양, 삼양, 객기는 음양의 많고 적음 차례다. 아래 칸 주기는 소양이 태음보다 먼저, 위 칸 객기는 태음이 소양보다 먼저. 시험이 노리는 자리다.",
+   "text_sha256": "67b12d4a204de91e2d8ae7ffd4d2397cac6d5f1c59a3bd75b84ba34dfa7e316f",
+   "audio_sha256": "6e809d7b8bb0d770bc29bcc2797ca14601ce0e3aa73fa01b9e177af0e083342e",
+   "image_sha256": "17e1ec00b9421ca6452106155b9dd0fe71aaeffd18fdca423056dcdca7d6c495",
+   "source_commit": "36ec682dd33ee556882c9eda137afee1b32f47fa",
+   "station_sha256": "f2ad4c9c57cae45e7e503ae5fa3cf534cce12d9308d655c32ce20f9310d3c5e8",
+   "original_wav_sha256": "8a941060ecba382fa988c3ac144d9b4e14a41d68cfb432ac064440b033f84a68",
+   "original_wav_filename": "new-uk-12.full.wav"
+  },
+  "new-uk-12#6": {
+   "src": "audio/narration/new-uk-12__s6__beaa71337717.mp3",
+   "text": "손님을 앉히는 법. 그해 사천을 셋째 침대 위 칸, 삼지기에 앉힌다, 자오년이니 초승달의 왕, 소음. 그다음은 객기 차례대로, 넷째 태음, 다섯째 소양, 여섯째 양명이 재천, 다시 첫째 태양, 둘째 궐음. 이렇게 손님 줄을 주인 줄 위에 얹는 것이 객주가림이다.",
+   "text_sha256": "beaa71337717eba2cd8e6e0780c5e2886ba797439fae6be880b4ea47dd1c9af6",
+   "audio_sha256": "c85b2508c4d333f0fae1075a888753c02b9568c84e66c76477c82c4a1bb24f11",
+   "image_sha256": "17e1ec00b9421ca6452106155b9dd0fe71aaeffd18fdca423056dcdca7d6c495",
+   "source_commit": "36ec682dd33ee556882c9eda137afee1b32f47fa",
+   "station_sha256": "f91bbab914c627cf345beaa9882712e45cf63aad718a279472b4587cb45b1472",
+   "original_wav_sha256": "8a941060ecba382fa988c3ac144d9b4e14a41d68cfb432ac064440b033f84a68",
+   "original_wav_filename": "new-uk-12.full.wav"
+  },
+  "new-uk-12#7": {
+   "src": "audio/narration/new-uk-12__s7__0a0344c16071.mp3",
+   "text": "사이좋은 침대, 순. 셋째 침대, 위 칸 왕 아래 신하가 공손히 올려다본다, 군화가 상화 위에 있으니 순. 첫째 손님이 새싹 화분에 물을 준다, 아래 주인도 새싹 화분을 들었다, 수생목. 둘째 손님이 왕의 촛불에 장작을 넣는다, 목생화. 여섯째 손님이 잔에 물을 붓는다, 금생수, 모두 객생주. 다섯째 모험가 손님은 팔을 길게 뻗어 손바닥으로 주인 머리를 누른다, 화극금, 객극주. 손님이 주인을 낳거나 이기면 순, 변화가 크지 않다.",
+   "text_sha256": "0a0344c1607159b279456ec521ec8fad7b5033e999480946b2a6739e6ee50001",
+   "audio_sha256": "50016edb16d952637603c056d8430b927bf03a30108a75f0cd75ed7d7821dd9c",
+   "image_sha256": "17e1ec00b9421ca6452106155b9dd0fe71aaeffd18fdca423056dcdca7d6c495",
+   "source_commit": "36ec682dd33ee556882c9eda137afee1b32f47fa",
+   "station_sha256": "3d0b47ada4b75648d6c1c398325fc40244822b26686311e5118902e0ac98943f",
+   "original_wav_sha256": "8a941060ecba382fa988c3ac144d9b4e14a41d68cfb432ac064440b033f84a68",
+   "original_wav_filename": "new-uk-12.full.wav"
+  },
+  "new-uk-12#8": {
+   "src": "audio/narration/new-uk-12__s8__44d8690293b9.mp3",
+   "text": "오른쪽 구석의 다른 해 침대. 신하가 위 칸, 왕이 아래 칸, 상화가 군화 위에 올랐다. 아래의 왕이 성나서 위 칸을 걷어차 신하가 튀어 오른다. 주가 객을 이기는 것, 주극객. 주인이 손님을 먹여 주는 주생객도 역. 그리고 상화가 군화 위면 역, 변화가 심하다. 순과 정확히 거울이다.",
+   "text_sha256": "44d8690293b94d9ac1c3e5887a6941bde47e70aa63ee708feba8288f9f6fff8e",
+   "audio_sha256": "970592cc60537c72da72edebeb0982db2553504b08f21606f94890ad7b940ad5",
+   "image_sha256": "17e1ec00b9421ca6452106155b9dd0fe71aaeffd18fdca423056dcdca7d6c495",
+   "source_commit": "36ec682dd33ee556882c9eda137afee1b32f47fa",
+   "station_sha256": "c2505141e16cd2449c3cec9d9e6631bf85c3cd9203e37f766fcce346c472d8bd",
+   "original_wav_sha256": "8a941060ecba382fa988c3ac144d9b4e14a41d68cfb432ac064440b033f84a68",
+   "original_wav_filename": "new-uk-12.full.wav"
+  },
+  "new-uk-12#9": {
+   "src": "audio/narration/new-uk-12__s9__f2dcfa815a75.mp3",
+   "text": "넷째 침대는 위아래가 똑같은 쌍둥이, 둘 다 보름달 원판, 수건을 둘렀다. 손님과 주인의 성질이 같으면 동기. 자오년의 사지기는 객기 태음이 주기 태음 위에 앉았다.",
+   "text_sha256": "f2dcfa815a755fad36a9f19c031a103bcae384d8d948161e6cb943ab140e79a8",
+   "audio_sha256": "7be028e1dbedf87b372824b05b3f5d245187ab5043af80260e4623f4862a3380",
+   "image_sha256": "17e1ec00b9421ca6452106155b9dd0fe71aaeffd18fdca423056dcdca7d6c495",
+   "source_commit": "36ec682dd33ee556882c9eda137afee1b32f47fa",
+   "station_sha256": "c4c48d6de74916c801aa95538c8fbec3a3b6e2c8f89998ee89de255bce081bc4",
+   "original_wav_sha256": "8a941060ecba382fa988c3ac144d9b4e14a41d68cfb432ac064440b033f84a68",
+   "original_wav_filename": "new-uk-12.full.wav"
+  },
+  "new-uk-12#10": {
+   "src": "audio/narration/new-uk-12__s10__83e504c9785c.mp3",
+   "text": "벽을 본다. 첫째부터 셋째 침대 위, 빨간 장갑이 오른쪽으로 내지른다, 상반년, 초지기부터 삼지기 사천까지 이기는 기운, 승기. 넷째부터 여섯째 위, 파란 장갑이 되받아친다, 하반년, 사지기부터 종지기 재천까지 갚는 기운, 복기. 승기는 해마다 있기도 없기도 하다. 이긴 주먹은 있는데 되받아치는 주먹이 없으면, 재앙이 난다.",
+   "text_sha256": "83e504c9785c45e20ca78a30945402ae1dcb0de4cce0fad795ce4b9eae3b4a16",
+   "audio_sha256": "118afdc9df4a3249ca4028e4546d4c962899dd178d1bfb6147751a319926f822",
+   "image_sha256": "17e1ec00b9421ca6452106155b9dd0fe71aaeffd18fdca423056dcdca7d6c495",
+   "source_commit": "36ec682dd33ee556882c9eda137afee1b32f47fa",
+   "station_sha256": "d31bb9b99063735de62e5eedf759348a19a342aecbd6549027d4bce7dc78b1ef",
+   "original_wav_sha256": "8a941060ecba382fa988c3ac144d9b4e14a41d68cfb432ac064440b033f84a68",
+   "original_wav_filename": "new-uk-12.full.wav"
+  },
+  "new-uk-12#11": {
+   "src": "audio/narration/new-uk-12__s11__483b758d9063.mp3",
+   "text": "다시 본다. 아래 칸 주기, 대한부터 궐음, 소음군화, 소양상화, 태음, 양명, 태양, 넷 절기씩 고정. 위 칸 객기, 궐음, 소음, 태음, 소양, 양명, 태양, 사천을 셋째 위 칸에 앉혀 얹는다. 손님이 주인을 낳거나 이기면 순, 왕이 신하 위도 순. 주인이 손님을 낳거나 이기면 역, 신하가 왕 위도 역. 쌍둥이는 동기. 앞 셋의 빨간 주먹 승, 뒤 셋의 파란 주먹 복.",
+   "text_sha256": "483b758d9063808e47f9a0440f401854337a1c917a3454da4d093e7dc58bdf9d",
+   "audio_sha256": "4c4d4776806f42e55271742443b4d49a85aff0d2b3d6a87660de9b7f0b4ea97a",
+   "image_sha256": "17e1ec00b9421ca6452106155b9dd0fe71aaeffd18fdca423056dcdca7d6c495",
+   "source_commit": "36ec682dd33ee556882c9eda137afee1b32f47fa",
+   "station_sha256": "c21c02512435a718b36927cab7d6d2b92d730a611a208061da9011ac4fd7af73",
+   "original_wav_sha256": "8a941060ecba382fa988c3ac144d9b4e14a41d68cfb432ac064440b033f84a68",
+   "original_wav_filename": "new-uk-12.full.wav"
   }
  }
 }

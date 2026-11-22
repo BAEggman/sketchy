@@ -12111,6 +12111,127 @@
    "station_sha256": "203f9d7f143a3d9bfbf02c4161d85e501d3bbdf386adc30053216036bb321e21",
    "original_wav_sha256": "7a99acb40e54c2dfd4867750d6b32335314b96b60b146e7da71925518703962a",
    "original_wav_filename": "new-gr-16.full.wav"
+  },
+  "mer-09#0": {
+   "src": "audio/narration/mer-09__s0__20525bed921c.mp3",
+   "text": "잔칫집 사랑채다. 낮은 상 여섯에 표리 짝이 둘씩 마주 앉았다, 상마다 왼쪽이 음경, 오른쪽이 양경이다. 주객원락법: 어느 경이 앓으면 그 경이 주인, 주다. 주인은 제 원래 자리, 원혈을 쓴다. 손님 객은 짝, 표리경에서 연락을 받고 건너온다, 짝의 낙혈을 쓴다. 표리 짝은 오행이 같다.",
+   "text_sha256": "20525bed921cab6f5abfa3d91ff043bb8d10c501fe7e86bfcba47c14eacb325c",
+   "audio_sha256": "6378c94c51f830b90de9bd18a93acf085e5ad621c685b2bf0778626fa3e4c47d",
+   "image_sha256": "16f578a20fe5219ba6fff15ca1774258025dc6fc644e601f1708149ac75197de",
+   "source_commit": "c51f8170255c88085ff1cf3c854c9d5b6f126115",
+   "station_sha256": "ee21af155a8d53800e55e8fa7b72b1f08a5bd9c5db597c2d68360c72c689d9ff",
+   "original_wav_sha256": "9b080eba18e1944dee30160729c5511fa06d56bd6d14a4ff740f9659d91fa624",
+   "original_wav_filename": "mer-09.full.wav"
+  },
+  "mer-09#1": {
+   "src": "audio/narration/mer-09__s1__2605fd72bf6d.mp3",
+   "text": "위 줄 첫 상, 흰 수염 노인 폐와 흰 작업복 대장. 폐가 앓으면 폐가 주인, 폐의 원혈 태연이 주, 짝 대장의 낙혈 편력이 객. 대장이 앓으면 대장이 주인, 대장의 원혈 합곡이 주, 폐의 낙혈 열결이 객. 객은 언제나 짝의 낙혈이다.",
+   "text_sha256": "2605fd72bf6dcb62d3229e3674d7b2e1cb02245cf53f1f5fe69bcae87b0cdc64",
+   "audio_sha256": "b1593b993c278c5a02209f26b8f35cb57ff09a23564b1a0578852c45bd0d5d2f",
+   "image_sha256": "16f578a20fe5219ba6fff15ca1774258025dc6fc644e601f1708149ac75197de",
+   "source_commit": "c51f8170255c88085ff1cf3c854c9d5b6f126115",
+   "station_sha256": "1553dcd694b53d6c173fbb42e5be3478f32c7ac61d239a8017046bdd6197d50f",
+   "original_wav_sha256": "9b080eba18e1944dee30160729c5511fa06d56bd6d14a4ff740f9659d91fa624",
+   "original_wav_filename": "mer-09.full.wav"
+  },
+  "mer-09#2": {
+   "src": "audio/narration/mer-09__s2__ccc2c534ac0b.mp3",
+   "text": "둘째 상, 농부 비와 요리사 위. 비가 앓으면 주 태백, 객은 위의 낙혈 풍륭. 위가 앓으면 주 충양, 객은 비의 낙혈 공손.",
+   "text_sha256": "ccc2c534ac0b476de512371cefc93a70a36559096f3f10131817bbd06c0a9de9",
+   "audio_sha256": "ad6e8b469b79cf935be4461705794aa36d9d845f4b6a68c5682d66f1088e3333",
+   "image_sha256": "16f578a20fe5219ba6fff15ca1774258025dc6fc644e601f1708149ac75197de",
+   "source_commit": "c51f8170255c88085ff1cf3c854c9d5b6f126115",
+   "station_sha256": "21b72142a4c561572186fe826b53a75c13981bfa2ce1c21be8366b46a39b005f",
+   "original_wav_sha256": "9b080eba18e1944dee30160729c5511fa06d56bd6d14a4ff740f9659d91fa624",
+   "original_wav_filename": "mer-09.full.wav"
+  },
+  "mer-09#3": {
+   "src": "audio/narration/mer-09__s3__ddb0b31efa56.mp3",
+   "text": "셋째 상, 임금 심과 붉은 앞치마 소장. 소장이 앓으면 주는 소장의 원혈 완골, 객은 심의 낙혈 통리. 심이 앓을 때는 뒤에서 따로 본다.",
+   "text_sha256": "ddb0b31efa5622929d706f248464093874ec2b623f0f29b7a497211d868a82cf",
+   "audio_sha256": "01ce88ccba137a4113eebd6e88443d47af1341d9f886f7087d26334eb3e02dbf",
+   "image_sha256": "16f578a20fe5219ba6fff15ca1774258025dc6fc644e601f1708149ac75197de",
+   "source_commit": "c51f8170255c88085ff1cf3c854c9d5b6f126115",
+   "station_sha256": "33461e33d5b61d09d70c6024a03374bfbf5057aab48f0fb5365da45ae4bc472f",
+   "original_wav_sha256": "9b080eba18e1944dee30160729c5511fa06d56bd6d14a4ff740f9659d91fa624",
+   "original_wav_filename": "mer-09.full.wav"
+  },
+  "mer-09#4": {
+   "src": "audio/narration/mer-09__s4__27e05a74edfc.mp3",
+   "text": "아래 줄 첫 상, 호위무사 심포와 삽 든 삼초. 심포가 앓으면 주 대릉, 객은 삼초의 낙혈 외관. 삼초가 앓으면 주 양지, 객은 심포의 낙혈 내관. 외관과 내관, 짝끼리 안팎이다.",
+   "text_sha256": "27e05a74edfc85a05decacf67b20d0ff0648a0d34678f115ecd81ec0a2b83061",
+   "audio_sha256": "cdb961e3d0c384c07770250128b448219b5e522e3a899390174b9b0ced566140",
+   "image_sha256": "16f578a20fe5219ba6fff15ca1774258025dc6fc644e601f1708149ac75197de",
+   "source_commit": "c51f8170255c88085ff1cf3c854c9d5b6f126115",
+   "station_sha256": "c1857937e0a9c73637e97b293880047526dbc70fa3fc0d5d3ddcb7c5eb0c1f7c",
+   "original_wav_sha256": "9b080eba18e1944dee30160729c5511fa06d56bd6d14a4ff740f9659d91fa624",
+   "original_wav_filename": "mer-09.full.wav"
+  },
+  "mer-09#5": {
+   "src": "audio/narration/mer-09__s5__226efb5b1574.mp3",
+   "text": "둘째 상, 장군 간과 판관 담. 간이 앓으면 주 태충, 객은 담의 낙혈 광명. 담이 앓으면 주 구허, 객은 간의 낙혈 여구.",
+   "text_sha256": "226efb5b157402478cd1fe203c76df75b2bd2c932e0ec0798b43add8cce74fd9",
+   "audio_sha256": "847afd923a98218b377e4fca17c66dd9a9b139d4931aba776bb611f62abfad03",
+   "image_sha256": "16f578a20fe5219ba6fff15ca1774258025dc6fc644e601f1708149ac75197de",
+   "source_commit": "c51f8170255c88085ff1cf3c854c9d5b6f126115",
+   "station_sha256": "e291a74b3a489e8bdface7164532710fd79dfdf931a259830e026831f2fa0301",
+   "original_wav_sha256": "9b080eba18e1944dee30160729c5511fa06d56bd6d14a4ff740f9659d91fa624",
+   "original_wav_filename": "mer-09.full.wav"
+  },
+  "mer-09#6": {
+   "src": "audio/narration/mer-09__s6__1616264c1c11.mp3",
+   "text": "셋째 상, 대머리 장사 신과 물지게꾼 방광. 방광이 앓으면 주는 방광의 원혈 경골, 객은 신의 낙혈 대종, 객을 방광경 안에서 찾으면 못 찾는다. 신이 앓으면 주 태계, 객은 방광의 낙혈 비양. 가장 많이 틀리는 상이다.",
+   "text_sha256": "1616264c1c11c6edd33f97a917a02bedcaec158fb77d06cd2f92f39d39faa66d",
+   "audio_sha256": "34d7d82f4bd18fb18faabdc0c7a70e517f27383700a6d4b98f4a7b6b529f5701",
+   "image_sha256": "16f578a20fe5219ba6fff15ca1774258025dc6fc644e601f1708149ac75197de",
+   "source_commit": "c51f8170255c88085ff1cf3c854c9d5b6f126115",
+   "station_sha256": "44794ae7db80e9f18d040e60dd9ab2ae82aa41c510e8756a5e564eef29a776f9",
+   "original_wav_sha256": "9b080eba18e1944dee30160729c5511fa06d56bd6d14a4ff740f9659d91fa624",
+   "original_wav_filename": "mer-09.full.wav"
+  },
+  "mer-09#7": {
+   "src": "audio/narration/mer-09__s7__f2241d0994e0.mp3",
+   "text": "상마다 왼쪽, 음경 여섯을 본다. 음경은 원혈이 수혈과 같다, 폐 태연, 비 태백, 심 신문, 심포 대릉, 간 태충, 신 태계. 모두 오수혈의 수토 자리다. 난경 육십육난은 십이경개이수위원, 열두 경 모두 수를 원으로 삼는다고 했고, 음경은 수만 원으로 쓰고 양경은 원이 따로 있다고 가른 것은 활수의 주다.",
+   "text_sha256": "f2241d0994e04ce495c042c5bbacd1b20f9eb8e62e4eab9daefd96c563a53deb",
+   "audio_sha256": "885457c12b9e5256ac8d72aa37c79206a13fa6dcab70f384b41eb30dd9203e66",
+   "image_sha256": "16f578a20fe5219ba6fff15ca1774258025dc6fc644e601f1708149ac75197de",
+   "source_commit": "c51f8170255c88085ff1cf3c854c9d5b6f126115",
+   "station_sha256": "341cfcf2b42ca2eb5da058ba94879b8dcd09862e08d4e432b267edbe36cdb9ef",
+   "original_wav_sha256": "9b080eba18e1944dee30160729c5511fa06d56bd6d14a4ff740f9659d91fa624",
+   "original_wav_filename": "mer-09.full.wav"
+  },
+  "mer-09#8": {
+   "src": "audio/narration/mer-09__s8__62f9d1cb4b27.mp3",
+   "text": "오른쪽, 양경 여섯은 원혈이 수혈과 따로 있다, 대장 합곡, 위 충양, 소장 완골, 방광 경골, 삼초 양지, 담 구허. 음경의 원혈은 이미 오수혈 안에 있으니, 새로 외울 원혈은 이 여섯뿐이다. 목에 큰 쇠 열쇠를 건 둘, 흰 작업복의 합곡과 장군의 태충을 묶어 사관혈이라 한다. 기기를 열어 전신을 소통시킨다. 담의 원혈 구허와 함께, 담의 하합혈은 양릉천으로 근회를 겸하고, 삼초의 하합혈은 위양이다.",
+   "text_sha256": "62f9d1cb4b27b02cd281c6e049d859592c41c76b8264d53db0dff911f0265f90",
+   "audio_sha256": "72ef40492012edb851eb9529f54278d019b7637e9965052cb275da2838893c8c",
+   "image_sha256": "16f578a20fe5219ba6fff15ca1774258025dc6fc644e601f1708149ac75197de",
+   "source_commit": "c51f8170255c88085ff1cf3c854c9d5b6f126115",
+   "station_sha256": "4e4e3de2c8a2110f43cf70d7c717ac21e71ec2f5b34f228e3577cfd9cbcf931f",
+   "original_wav_sha256": "9b080eba18e1944dee30160729c5511fa06d56bd6d14a4ff740f9659d91fa624",
+   "original_wav_filename": "mer-09.full.wav"
+  },
+  "mer-09#9": {
+   "src": "audio/narration/mer-09__s9__6c56d3f9af68.mp3",
+   "text": "임금 심의 원혈은 지금 신문으로 외운다, 심이 앓으면 주 신문, 객은 소장의 낙혈 지정. 그런데 영추 구침십이원은 심의 원을 대릉이라 했다. 대릉은 호위무사 심포의 혈이다, 임금은 직접 사를 받지 않고 호위무사가 대신 받는다는 옛 생각이다. 시험은 신문으로 묻는다.",
+   "text_sha256": "6c56d3f9af68849afaa1dbf563f202c005d4829b59791c63e2017fd16fcf663a",
+   "audio_sha256": "a21738e539be227417e9feb5ea508e4281dfe00a3edd32028400124c936bc8ce",
+   "image_sha256": "16f578a20fe5219ba6fff15ca1774258025dc6fc644e601f1708149ac75197de",
+   "source_commit": "c51f8170255c88085ff1cf3c854c9d5b6f126115",
+   "station_sha256": "4e8d38faa80e6a3efc4cca3dc11925a04413354e68bb75c99b01cb89b0c26ded",
+   "original_wav_sha256": "9b080eba18e1944dee30160729c5511fa06d56bd6d14a4ff740f9659d91fa624",
+   "original_wav_filename": "mer-09.full.wav"
+  },
+  "mer-09#10": {
+   "src": "audio/narration/mer-09__s10__654c4584629b.mp3",
+   "text": "다시 본다. 주는 앓는 경의 원혈, 객은 짝의 낙혈. 노인 태연에 편력, 흰 작업복 합곡에 열결. 농부 태백에 풍륭, 요리사 충양에 공손. 임금 신문에 지정, 붉은 앞치마 완골에 통리. 호위무사 대릉에 외관, 삽 일꾼 양지에 내관. 장군 태충에 광명, 판관 구허에 여구. 장사 태계에 비양, 물지게꾼 경골에 대종. 왼쪽 음경은 원이 곧 수, 오른쪽 양경은 원이 따로, 열쇠 둘은 사관.",
+   "text_sha256": "654c4584629bfb166f9b27a989ae77ce647bfff3375961591a3783db43201ea1",
+   "audio_sha256": "56585f773b5c8da961d744d4623baf6cdd44393f9c116e3953635cfd4f92f1d0",
+   "image_sha256": "16f578a20fe5219ba6fff15ca1774258025dc6fc644e601f1708149ac75197de",
+   "source_commit": "c51f8170255c88085ff1cf3c854c9d5b6f126115",
+   "station_sha256": "175a32fcbab719141ae0bbd93b947b715afe85ffc60771844b176b780987a1cd",
+   "original_wav_sha256": "9b080eba18e1944dee30160729c5511fa06d56bd6d14a4ff740f9659d91fa624",
+   "original_wav_filename": "mer-09.full.wav"
   }
  }
 }

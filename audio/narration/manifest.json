@@ -8965,6 +8965,116 @@
    "station_sha256": "927b6258af7b815da44d2255816d482da96440af84932a7fa9520402807a1bfd",
    "original_wav_sha256": "466c4bdb0add32767c1d74b2c98acb1b8f6905b12480b7a3ed9051914fded5f8",
    "original_wav_filename": "new-gr-02.full.wav"
+  },
+  "new-gr-04#0": {
+   "src": "audio/narration/new-gr-04__s0__23723445b026.mp3",
+   "text": "방직 공장이다. 경, 낙, 계, 통, 네 글자에 모두 실 멱가 들었다. 베틀의 세로 날실이 경, 얽어 잇는 실이 낙, 가장 가는 실오라기가 손. 경락계통이 무엇으로 짜였는지 베틀과 선반과 마네킹으로 본다.",
+   "text_sha256": "23723445b02694ed8cfb170d021e4d391c558d5354f652443719cfebac1dc4ec",
+   "audio_sha256": "87a4889140a8cbf36f17e8bcdc073883f611d7569942a9b134995da5cde4e495",
+   "image_sha256": "68f2524c8bcbefc2aaeb4dba1bafb1bb5555ecd69dffef355e4cf67f49ca9d54",
+   "source_commit": "cf2c1bb791f4f08ab3ffeac8a791d5c7ee7ef8fc",
+   "station_sha256": "9fda71a9887821f8942ef9b858a015c14e4d1da38f808cb05d6edd2b9e12335d",
+   "original_wav_sha256": "0231801b227fc57ca0cb720aba7a1de7df4a5f3bf3ce4061dcf7ad5e0c248b53",
+   "original_wav_filename": "new-gr-04.full.wav"
+  },
+  "new-gr-04#1": {
+   "src": "audio/narration/new-gr-04__s1__22c10124c1c7.mp3",
+   "text": "베틀을 본다. 뒤쪽 깊이 위아래로 곧게 내리뻗은 굵은 남색 실, 경맥. 줄기이고, 세로로 가고, 깊이 있으며, 오장육부에 이어진다. 앞면을 가로 비스듬히 지나며 남색 실을 얽어 묶는 가는 붉은 실, 낙맥. 갈래이고, 가로 비스듬히 가고, 얕게 있으며, 근과 피부에 이어진다.",
+   "text_sha256": "22c10124c1c7758cf5ffed4e5efc4441b50ac5bf785f175698ac5960972c6cb6",
+   "audio_sha256": "c82f5e596810338bb7f6f7cdc98c8a0d715815e7bd3c69beddce80a1b24666b3",
+   "image_sha256": "68f2524c8bcbefc2aaeb4dba1bafb1bb5555ecd69dffef355e4cf67f49ca9d54",
+   "source_commit": "cf2c1bb791f4f08ab3ffeac8a791d5c7ee7ef8fc",
+   "station_sha256": "350a766e48c9c0962d33cf0eb25a41f5aabc341886103051b48f46108cb66fc8",
+   "original_wav_sha256": "0231801b227fc57ca0cb720aba7a1de7df4a5f3bf3ce4061dcf7ad5e0c248b53",
+   "original_wav_filename": "new-gr-04.full.wav"
+  },
+  "new-gr-04#2": {
+   "src": "audio/narration/new-gr-04__s2__a0acc369ee00.mp3",
+   "text": "영추 맥도. 경맥위리, 경맥은 안쪽, 뒤쪽 남색 실. 지이횡자위락, 갈라져 가로로 가는 것이 낙, 붉은 실. 낙지별자위손, 낙에서 다시 갈라진 것이 손, 붉은 실 끝의 분홍 실오라기. 빈칸 단골은 낙과 손.",
+   "text_sha256": "a0acc369ee00102eb15f5c9c8dca4bd717fc7c5da5c96e953637e4ba29f2c802",
+   "audio_sha256": "3d345833a43002a5899a3346d9a02a8bbe4903dc6328f548f98a2396f87ef25d",
+   "image_sha256": "68f2524c8bcbefc2aaeb4dba1bafb1bb5555ecd69dffef355e4cf67f49ca9d54",
+   "source_commit": "cf2c1bb791f4f08ab3ffeac8a791d5c7ee7ef8fc",
+   "station_sha256": "6cb354bece2dbf88eec6042c2fbd1ef34a4f831395480edb314453f31c40e14f",
+   "original_wav_sha256": "0231801b227fc57ca0cb720aba7a1de7df4a5f3bf3ce4061dcf7ad5e0c248b53",
+   "original_wav_filename": "new-gr-04.full.wav"
+  },
+  "new-gr-04#3": {
+   "src": "audio/narration/new-gr-04__s3__b2941fcf1f08.mp3",
+   "text": "베틀 앞, 어린 손주가 가장 가는 분홍 실오라기 뭉치를 안고 논다, 손자 손, 손락. 낙에서 다시 갈라진, 가장 가는 낙이다.",
+   "text_sha256": "b2941fcf1f088cc4e011928276f10d57e3bb25d17035da003208827bd6d57d3d",
+   "audio_sha256": "1712c2e5cb13c11532d8661049b648d24c8da97b2d7f448ae4bbc99c3df91a1f",
+   "image_sha256": "68f2524c8bcbefc2aaeb4dba1bafb1bb5555ecd69dffef355e4cf67f49ca9d54",
+   "source_commit": "cf2c1bb791f4f08ab3ffeac8a791d5c7ee7ef8fc",
+   "station_sha256": "0f93a504052fe35927814e78477683a6f46ba90f6e5e73426a82be1dd18a9d0c",
+   "original_wav_sha256": "0231801b227fc57ca0cb720aba7a1de7df4a5f3bf3ce4061dcf7ad5e0c248b53",
+   "original_wav_filename": "new-gr-04.full.wav"
+  },
+  "new-gr-04#4": {
+   "src": "audio/narration/new-gr-04__s4__80004d841294.mp3",
+   "text": "앞쪽, 말려 나오는 천 겉면에 붉은 실 몇 가닥이 둥둥 떠서 늘 보인다. 영추 경맥, 제맥지부이상견자 개낙맥야, 떠서 늘 보이는 맥은 모두 낙맥이다. 겉에 떠 있는 낙, 부락. 빈칸은 낙맥.",
+   "text_sha256": "80004d84129402d09a74957a2f766dad83f7ae51cee8c9d23511578d9d1a9711",
+   "audio_sha256": "7126cfe562f29d748dac7045bcb3a1b1be484facdcde49cc8d4debe428f689b4",
+   "image_sha256": "68f2524c8bcbefc2aaeb4dba1bafb1bb5555ecd69dffef355e4cf67f49ca9d54",
+   "source_commit": "cf2c1bb791f4f08ab3ffeac8a791d5c7ee7ef8fc",
+   "station_sha256": "76fb99fb27eb7ff2ae1ca0dcfc6762c8ca4d735e3ae98d9be1fe3b145bbb55b1",
+   "original_wav_sha256": "0231801b227fc57ca0cb720aba7a1de7df4a5f3bf3ce4061dcf7ad5e0c248b53",
+   "original_wav_filename": "new-gr-04.full.wav"
+  },
+  "new-gr-04#5": {
+   "src": "audio/narration/new-gr-04__s5__5e05a0e7da57.mp3",
+   "text": "공장 전체를 본다. 날실 경맥, 얽는 실 낙맥, 그리고 안쪽 깊이 베틀에 실을 대는 방적기, 안으로 장부에 속하는 부분. 바깥 마네킹이 입은 천, 밖으로 체표에 이어지는 부분. 경락계통은 이 넷으로 짜였다.",
+   "text_sha256": "5e05a0e7da57fbefc3e9d93a758bca9f9ef3153dd94493a32a908b99c161e40a",
+   "audio_sha256": "ebbb37736b2cbbb9333cbbc7e2226f56ac87672ddf2859ee166b0ea524862727",
+   "image_sha256": "68f2524c8bcbefc2aaeb4dba1bafb1bb5555ecd69dffef355e4cf67f49ca9d54",
+   "source_commit": "cf2c1bb791f4f08ab3ffeac8a791d5c7ee7ef8fc",
+   "station_sha256": "47e57982e1a551ff82d09bad2bc2cb6ba25bf5dcd6eaf6e58b57ccb8681396a0",
+   "original_wav_sha256": "0231801b227fc57ca0cb720aba7a1de7df4a5f3bf3ce4061dcf7ad5e0c248b53",
+   "original_wav_filename": "new-gr-04.full.wav"
+  },
+  "new-gr-04#6": {
+   "src": "audio/narration/new-gr-04__s6__7ac76096c0eb.mp3",
+   "text": "왼쪽 남색 실패 선반이 경맥계통이다. 굵은 실패, 십이정경. 실 한 가닥이 갈라져 나와 아래 칸으로 내려간 실패, 십이경별, 정경에서 따로 갈라져 나가 깊이 들어간다. 모양이 별난 금빛 실패, 기경팔맥. 십이경별은 경맥계통이다, 반복 함정.",
+   "text_sha256": "7ac76096c0eb7ab62d70e5cc5a4fb32901795cd8daebd6c94728a804943fd9ac",
+   "audio_sha256": "d3c255bfb503fc7f003abb79054cb3be4134ddecaffbad7d7a2993c8504f19e7",
+   "image_sha256": "68f2524c8bcbefc2aaeb4dba1bafb1bb5555ecd69dffef355e4cf67f49ca9d54",
+   "source_commit": "cf2c1bb791f4f08ab3ffeac8a791d5c7ee7ef8fc",
+   "station_sha256": "6d624eb87b280c41df3ad961df06803e4eb6f54f265816ef24f1bcc9ac4afdb9",
+   "original_wav_sha256": "0231801b227fc57ca0cb720aba7a1de7df4a5f3bf3ce4061dcf7ad5e0c248b53",
+   "original_wav_filename": "new-gr-04.full.wav"
+  },
+  "new-gr-04#7": {
+   "src": "audio/narration/new-gr-04__s7__6577804473e4.mp3",
+   "text": "곁의 붉은 털실 바구니가 낙맥계통이다. 붉은 털실 뭉치, 십오락맥. 분홍 솜털, 손락. 위에 떠 있는 붉은 실, 부락. 십이경별은 이 바구니가 아니라 남색 선반에 있다, 낙맥계통에 속하지 않는 것은 십이경별.",
+   "text_sha256": "6577804473e40b48016385fa72397ba71b3b1c30f4e9c1b2bf0fd31ce2a6c579",
+   "audio_sha256": "066104f67f47ebccc18de71d404873c19c6b453520c67e29e5cdfd5eef723b3f",
+   "image_sha256": "68f2524c8bcbefc2aaeb4dba1bafb1bb5555ecd69dffef355e4cf67f49ca9d54",
+   "source_commit": "cf2c1bb791f4f08ab3ffeac8a791d5c7ee7ef8fc",
+   "station_sha256": "084f8f598903b755f714543efb7020758d3567d665474188fd3bc23cddd9c74f",
+   "original_wav_sha256": "0231801b227fc57ca0cb720aba7a1de7df4a5f3bf3ce4061dcf7ad5e0c248b53",
+   "original_wav_filename": "new-gr-04.full.wav"
+  },
+  "new-gr-04#8": {
+   "src": "audio/narration/new-gr-04__s8__02fa3500799a.mp3",
+   "text": "오른쪽 마네킹, 팔다리를 따라 붙은 줄 띠, 힘줄, 십이경근. 천은 피부 조각처럼 나뉘었다, 십이피부. 경락이 밖으로 이어져 붙은 연속부분, 외연이다. 안으로는 장부에 속한다.",
+   "text_sha256": "02fa3500799a4ccc72943322c532aa065f54f6801597fa750f96958ed05b916b",
+   "audio_sha256": "aa974d530d5787237ad6c5688b18d36f107f24c9e6a5768b3d009af0824e26da",
+   "image_sha256": "68f2524c8bcbefc2aaeb4dba1bafb1bb5555ecd69dffef355e4cf67f49ca9d54",
+   "source_commit": "cf2c1bb791f4f08ab3ffeac8a791d5c7ee7ef8fc",
+   "station_sha256": "f627bcab80fe200df273e54bc0cc2c220f243f7dbcb0f2e6c5f7ebb68bc6eff4",
+   "original_wav_sha256": "0231801b227fc57ca0cb720aba7a1de7df4a5f3bf3ce4061dcf7ad5e0c248b53",
+   "original_wav_filename": "new-gr-04.full.wav"
+  },
+  "new-gr-04#9": {
+   "src": "audio/narration/new-gr-04__s9__357f881e64e4.mp3",
+   "text": "다시 본다. 남색 날실, 경맥, 세로, 깊이. 붉은 얽는 실, 낙맥, 가로, 얕게. 경맥위리 지이횡자위락 낙지별자위손. 손주의 실오라기, 손락. 천 위에 뜬 실, 부락. 방적기와 마네킹, 안으로 장부, 밖으로 체표. 남색 선반, 십이정경, 십이경별, 기경팔맥. 붉은 바구니, 십오락맥, 손락, 부락. 마네킹, 십이경근, 십이피부.",
+   "text_sha256": "357f881e64e4662f23d8cf9f58a644727b8985abf45ae8b7c9d94f0d8d7b2715",
+   "audio_sha256": "ee253a03c3546b028bad548113a94331e7d52f75cadac3da642bdd99e85393f8",
+   "image_sha256": "68f2524c8bcbefc2aaeb4dba1bafb1bb5555ecd69dffef355e4cf67f49ca9d54",
+   "source_commit": "cf2c1bb791f4f08ab3ffeac8a791d5c7ee7ef8fc",
+   "station_sha256": "27ea08eb43e1647b735449072cfd2864fb42c8e738aacf90c23cf2cf29e5281d",
+   "original_wav_sha256": "0231801b227fc57ca0cb720aba7a1de7df4a5f3bf3ce4061dcf7ad5e0c248b53",
+   "original_wav_filename": "new-gr-04.full.wav"
   }
  }
 }

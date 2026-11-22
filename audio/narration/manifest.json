@@ -11286,6 +11286,94 @@
    "station_sha256": "d7b8aa06807b2d4bbbf4d957d48b660e7cbadb9771bad739d4caf80f69946475",
    "original_wav_sha256": "014480fa3176cffaf1130b66f2e964ad93d4f9b80ad8dcf8a76ab5a0afb84926",
    "original_wav_filename": "new-gr-05.full.wav"
+  },
+  "new-gr-12#0": {
+   "src": "audio/narration/new-gr-12__s0__1142d281304b.mp3",
+   "text": "골짜기를 막은 큰 댐이다. 댐 앞에 흐르는 여러 물줄기가 십이경, 그 물을 받아 두는 저수 댐이 기경팔맥이다. 기는 짝이 없다는 뜻, 십이경처럼 장부와 짝지어 표리로 묶이지 않는 여덟 맥이다. 댐 위 관리인들, 댐 벽의 관과 띠, 관제실의 노학자, 그리고 아래 물줄기를 차례로 본다.",
+   "text_sha256": "1142d281304b9dbe5f1893d10d9389f538c2e68452770d56268973b44cf797ee",
+   "audio_sha256": "ff545ca26aafc52ebd0f89e8c9ad6247b3f9ddcf3eefe8f4ddc18e00edda0817",
+   "image_sha256": "5f224a0b0b59c73a64af04d423cc9d9607a18ab5c9a2c46dbc37670803ea3278",
+   "source_commit": "dce5198827527f8a1193e6da12c8deaee4ed61d0",
+   "station_sha256": "47099888a23125a25c9ebc44224e22c27f1c7132e49e6b8da01a63ed73e9126b",
+   "original_wav_sha256": "6d0593bdfd7a4b48e9326142ffb7f72db8828523ca172bf6885873e7b50f4639",
+   "original_wav_filename": "new-gr-12.full.wav"
+  },
+  "new-gr-12#1": {
+   "src": "audio/narration/new-gr-12__s1__6410ae475327.mp3",
+   "text": "댐 위 일곱 관리인과 댐 허리의 띠가 여덟 이름이다. 임신부, 임맥, 임은 임, 몸 앞에서 포를 맡는다. 등뼈 지팡이 사내, 독맥, 등 뒤 정중선을 감독한다. 솟구치는 물줄기를 타고 오르는 사내, 충맥, 충은 솟구친다. 댐 허리를 두른 가죽 띠, 대맥. 그물을 든 둘, 유맥, 유는 얽어 맨다. 달 배지는 음유, 해 배지는 양유. 장대를 탄 둘, 교맥, 교는 발꿈치를 들어 올린다. 달은 음교, 해는 양교. 유와 교는 음양 짝으로 넷이다.",
+   "text_sha256": "6410ae475327ecdd7ab08c8b539722ff01faa4a13959513c99079bbd36748dce",
+   "audio_sha256": "0d609c97992fccf143d944ffbfea67be37237f48e171ce4a6ba46bea7f82c3a0",
+   "image_sha256": "5f224a0b0b59c73a64af04d423cc9d9607a18ab5c9a2c46dbc37670803ea3278",
+   "source_commit": "dce5198827527f8a1193e6da12c8deaee4ed61d0",
+   "station_sha256": "fd071370ef6868739c7276f8e626209a3ce3312fbdd75d508b76bbefd1ce2f1a",
+   "original_wav_sha256": "6d0593bdfd7a4b48e9326142ffb7f72db8828523ca172bf6885873e7b50f4639",
+   "original_wav_filename": "new-gr-12.full.wav"
+  },
+  "new-gr-12#2": {
+   "src": "audio/narration/new-gr-12__s2__88287149049d.mp3",
+   "text": "관제실의 노학자가 두꺼운 책을 들고 관리인들을 가리킨다. 기경팔맥이라는 이름을 붙여 여덟을 한데 정리한 것은 난경이다, 이십칠난, 맥유기경팔맥자 불구어십이경. 내경에는 임맥, 충맥, 독맥 같은 개별 맥이 흩어져 나올 뿐, 기경팔맥이라는 말은 없다. 출전을 내경으로 바꾸는 함정에 주의.",
+   "text_sha256": "88287149049d2afcd3a14d06f0bb6105738c0bbde5da1b0f1160cf958f93bc36",
+   "audio_sha256": "3f67c6ced6a3871327db45626939ce46200583c8c7cb9ac9344337a8a7da965b",
+   "image_sha256": "5f224a0b0b59c73a64af04d423cc9d9607a18ab5c9a2c46dbc37670803ea3278",
+   "source_commit": "dce5198827527f8a1193e6da12c8deaee4ed61d0",
+   "station_sha256": "37e964f2edf37f4cfc08f1f66699842cbb38430bbd61ca8e1efe6682b75f7e30",
+   "original_wav_sha256": "6d0593bdfd7a4b48e9326142ffb7f72db8828523ca172bf6885873e7b50f4639",
+   "original_wav_filename": "new-gr-12.full.wav"
+  },
+  "new-gr-12#3": {
+   "src": "audio/narration/new-gr-12__s3__4fa99ceb89c3.mp3",
+   "text": "댐 벽의 관을 본다. 왼쪽 두 관에만 놋쇠 볼트가 촘촘히 박혔다. 볼트는 혈, 제 혈을 가진 것은 임맥과 독맥뿐이다. 그래서 십이경에 임, 독을 더해 십사경이라 한다. 나머지 관은 민짜, 다른 여섯 맥은 다른 경의 혈을 빌려 쓴다. 관 개수는 세지 않는다. 그리고 이 관들은 어느 장부 집에도 이어져 있지 않다, 기경은 장부에 직접 속락하지 않고, 표리로 짝지어지지도 않는다.",
+   "text_sha256": "4fa99ceb89c31d2c4426edd9087c5ee1305297ec5cb7734cb8fb4eaa3eabc2c0",
+   "audio_sha256": "ddfe04f1b361058c9e948939ed7567f2d3bf1571e41fd9d0adba9cd83fbd0cc0",
+   "image_sha256": "5f224a0b0b59c73a64af04d423cc9d9607a18ab5c9a2c46dbc37670803ea3278",
+   "source_commit": "dce5198827527f8a1193e6da12c8deaee4ed61d0",
+   "station_sha256": "5e490db3dfdb6e98ef1e78e20e42cead4fcc894e77b3b8ca02147219f1bb2f18",
+   "original_wav_sha256": "6d0593bdfd7a4b48e9326142ffb7f72db8828523ca172bf6885873e7b50f4639",
+   "original_wav_filename": "new-gr-12.full.wav"
+  },
+  "new-gr-12#4": {
+   "src": "audio/narration/new-gr-12__s4__6e9ac6df6d5a.mp3",
+   "text": "관은 모두 아래에서 위로 곧게 섰다, 기경은 대부분 아래에서 위로 종행한다. 단 하나, 허리를 가로로 두른 가죽 띠, 대맥만 횡행하며, 세로로 가는 여러 경을 띠처럼 묶는다. 달, 해 배지가 짝을 이루듯, 몸 좌우로 대칭인 맥도 있다.",
+   "text_sha256": "6e9ac6df6d5ad0fda59b9318dd2435b16cff24b3faafc9cd229c6ae9af1055c9",
+   "audio_sha256": "40ea3e44123f5085ab18895f890fc0979a4d7f12a57971e0ad54539077e05546",
+   "image_sha256": "5f224a0b0b59c73a64af04d423cc9d9607a18ab5c9a2c46dbc37670803ea3278",
+   "source_commit": "dce5198827527f8a1193e6da12c8deaee4ed61d0",
+   "station_sha256": "39d9aa00f8683e07dd3584370a332692cecc47f1259d3a092082598b8b3b88d3",
+   "original_wav_sha256": "6d0593bdfd7a4b48e9326142ffb7f72db8828523ca172bf6885873e7b50f4639",
+   "original_wav_filename": "new-gr-12.full.wav"
+  },
+  "new-gr-12#5": {
+   "src": "audio/narration/new-gr-12__s5__6011f7ba93da.mp3",
+   "text": "관은 댐 꼭대기에서 그냥 끝난다. 십이경은 한 경이 다음 경으로 이어져 고리처럼 끝없이 도는데, 여환무단, 기경에는 그런 순환이 없다. 맨 왼쪽 임신부는 포궁을 떠올리게 한다, 기경은 뇌, 수, 여자포 같은 기항지부와 가깝다. 임, 독, 충은 모두 포중에서 나온다, 일원삼기.",
+   "text_sha256": "6011f7ba93da80e936dda031fde4dbd73aa2c976d9fc7d1f066c32d87db717ed",
+   "audio_sha256": "9896016cf9119c4ec1c10131a8d0a1f250a3e755733c90f5cd0074f09389d519",
+   "image_sha256": "5f224a0b0b59c73a64af04d423cc9d9607a18ab5c9a2c46dbc37670803ea3278",
+   "source_commit": "dce5198827527f8a1193e6da12c8deaee4ed61d0",
+   "station_sha256": "f6bbdffad62c1364ca847fec883d9409f3a343be38a0383b0fb18053ba5656b0",
+   "original_wav_sha256": "6d0593bdfd7a4b48e9326142ffb7f72db8828523ca172bf6885873e7b50f4639",
+   "original_wav_filename": "new-gr-12.full.wav"
+  },
+  "new-gr-12#6": {
+   "src": "audio/narration/new-gr-12__s6__96344a3e4632.mp3",
+   "text": "댐 앞 골짜기에 물줄기들이 흐른다, 십이경이다. 왼쪽 물줄기가 넘치자 붉은 펌프가 호스로 넘친 물을 빨아, 회색 관으로 댐 위까지 올려 호수에 쏟는다. 오른쪽 물길이 마르자 댐 아래 수문이 물을 쏟아 준다. 기경은 호수와 도랑처럼, 십이경의 기혈이 넘치면 받아 저장하고 일축 모자라면 내보내 채운다 삼관. 십이경을 묶어 거느리기도 한다 통솔. 임맥은 온몸의 음경을 총괄하는 음맥지해, 독맥은 양경을 총괄하는 양맥지해.",
+   "text_sha256": "96344a3e4632c79a7f9cd60bc2c105c8951e66f49851668bd39715f0061efb94",
+   "audio_sha256": "eb7896c0778a920a442a5109cb5a6cff97aecf1f2483e53953bb1ca7eb00411b",
+   "image_sha256": "5f224a0b0b59c73a64af04d423cc9d9607a18ab5c9a2c46dbc37670803ea3278",
+   "source_commit": "dce5198827527f8a1193e6da12c8deaee4ed61d0",
+   "station_sha256": "972ae8fd724ae2e9f5f9d9af67de2648ee0ce402f7113702afc3db8cff1c3264",
+   "original_wav_sha256": "6d0593bdfd7a4b48e9326142ffb7f72db8828523ca172bf6885873e7b50f4639",
+   "original_wav_filename": "new-gr-12.full.wav"
+  },
+  "new-gr-12#7": {
+   "src": "audio/narration/new-gr-12__s7__9b9545237943.mp3",
+   "text": "다시 본다. 임신부, 등뼈 지팡이, 물줄기 타는 사내, 가죽 띠, 달과 해의 그물, 달과 해의 장대, 임, 독, 충, 대, 음유, 양유, 음교, 양교. 책 든 노학자, 이름은 난경. 볼트 박힌 두 관, 제 혈은 임, 독뿐, 장부 속락과 표리도 없다. 선 관과 가로 띠, 대부분 종행, 대맥만 횡행. 꼭대기에서 끝나는 관, 여환무단 순환 없음, 임신부는 기항지부 포궁. 펌프와 수문, 넘치면 받고 모자라면 내주는 일축, 임은 음맥지해, 독은 양맥지해.",
+   "text_sha256": "9b95452379435e2ef52c4ef89a0b21af10af1e858f6aa26cc86088a93380bdd5",
+   "audio_sha256": "9f60e9f06f9c5186d2fd478c39242ff829c47852c8540d12c13d170f330481b7",
+   "image_sha256": "5f224a0b0b59c73a64af04d423cc9d9607a18ab5c9a2c46dbc37670803ea3278",
+   "source_commit": "dce5198827527f8a1193e6da12c8deaee4ed61d0",
+   "station_sha256": "8913c627f438b9ee91303cf4a2393b8cdb0faa656d2c39edf687448a76183c98",
+   "original_wav_sha256": "6d0593bdfd7a4b48e9326142ffb7f72db8828523ca172bf6885873e7b50f4639",
+   "original_wav_filename": "new-gr-12.full.wav"
   }
  }
 }

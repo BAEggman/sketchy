@@ -4576,6 +4576,72 @@
    "station_sha256": "2f9aa3ad5a83a5c493432752d780d065562f0b880cbb742ac5353d682fa7f2c8",
    "original_wav_sha256": "be86f5f808785ef05a0cbc4420d58d7efb8bd8c4e5749e133b9e56be1a490a71",
    "original_wav_filename": "suchi-13.full.wav"
+  },
+  "suchi-15#0": {
+   "src": "audio/narration/suchi-15__s0__29fa82dda5d7.mp3",
+   "text": "같은 꿀단지가 이번엔 왼쪽 끝 작은 팬에 꿀을 부어. 팬을 넘친 꿀이 작업대를 따라 흐르다 두 번 끊겨서 웅덩이가 셋이야. 웅덩이 하나가 목적 하나, 보비익기, 약성완화, 교미 · 부작용제거. 앞 장 윤폐지해에 이어 밀자의 나머지 목적 셋이지. 넷이 섰어, 황감, 마마!",
+   "text_sha256": "29fa82dda5d7ca4553ceb44d08e71fbf8aecac39402b7f87cb8fe09d02bdaf90",
+   "audio_sha256": "67b7a91eaa77c9347f06b6f1a18c7b8ef182b3914531aa0c44f2b0bc671a7878",
+   "image_sha256": "91ce1ad51f82ba3dc2bc71585d2be6e124711d743570b132128b1d68a5affa35",
+   "source_commit": "8e8b61fb00397343eb0c23cdb4d5a4927e98920f",
+   "station_sha256": "eb5663d8e31510561c0c2475d8ea9af612bb22fb11936037128e199df04cc70c",
+   "original_wav_sha256": "de9befe4065bfa6d8035ab9ad2ee4462c0f63a710f9406e87de16e687fa36207",
+   "original_wav_filename": "suchi-15.full.wav"
+  },
+  "suchi-15#1": {
+   "src": "audio/narration/suchi-15__s1__54c8cd4c2bbd.mp3",
+   "text": "첫 웅덩이에 깃대가 꽂혀 있고, 노란 깃발이 꼭대기까지 솟구쳐 펄럭여. 노랑은 황, 깃발은 기, 황기. 솟구치면서 깃대 끈이 옆 약장 서랍들에 감겨 잡아당겨. 황기는 감초와 함께 둘째 목적 보비익기. 둘 다 교재 보기약 목록에도 있어.",
+   "text_sha256": "54c8cd4c2bbd257e30a8a89228f44673fad9cf2fe02b953a0d9a73741a1c4705",
+   "audio_sha256": "121ceecc6dcd667e0be5b91861e83a371a8c91e4a88c1a04932e062859289861",
+   "image_sha256": "91ce1ad51f82ba3dc2bc71585d2be6e124711d743570b132128b1d68a5affa35",
+   "source_commit": "8e8b61fb00397343eb0c23cdb4d5a4927e98920f",
+   "station_sha256": "cbb40df7515516ffe2ea6f05fe64bfb1931124d17a2a9897e9788f07aefbae41",
+   "original_wav_sha256": "de9befe4065bfa6d8035ab9ad2ee4462c0f63a710f9406e87de16e687fa36207",
+   "original_wav_filename": "suchi-15.full.wav"
+  },
+  "suchi-15#2": {
+   "src": "audio/narration/suchi-15__s2__f37032c7cf57.mp3",
+   "text": "끈에 당겨 열린 약장 서랍마다 노란 감초 뿌리가 얼굴을 쏙. 약방의 감초. 하나는 서랍에서 기어 나와 꿀 웅덩이를 혀로 핥으며 웃어. 황기 · 감초, 이 둘이 첫 웅덩이 보비익기야. 감초는 십팔반에서 대극 · 원화 · 감수 · 해조와 맞서는 그 감초고.",
+   "text_sha256": "f37032c7cf57934a3037e8007befde5588043114cbdc96921dd8c092ba29c7ea",
+   "audio_sha256": "f2fb1a8a09797e460a61a761854b1bf3793c267cde7e6f291028a667e7e168cb",
+   "image_sha256": "91ce1ad51f82ba3dc2bc71585d2be6e124711d743570b132128b1d68a5affa35",
+   "source_commit": "8e8b61fb00397343eb0c23cdb4d5a4927e98920f",
+   "station_sha256": "45cc31c2a425729cb1e5f62b6ea99bd2a556675a88f152f5d353f75bc23d9843",
+   "original_wav_sha256": "de9befe4065bfa6d8035ab9ad2ee4462c0f63a710f9406e87de16e687fa36207",
+   "original_wav_filename": "suchi-15.full.wav"
+  },
+  "suchi-15#3": {
+   "src": "audio/narration/suchi-15__s3__4d6e0ad57917.mp3",
+   "text": "둘째 웅덩이엔 그 마왕이 또 왔어, 마황. 앞 장에선 망토를 던졌지? 이번엔 망토를 걸친 채 땀을 흘리는데, 땀방울이 전부 금빛 꿀방울이야. 그림에서는 땀 흘리는 마왕이 꿀로 누그러진 모습, 이걸 약성완화로 기억해. 이 웅덩이는 마황 하나뿐. 마황은 밀자 첫째에도 셋째에도 나와.",
+   "text_sha256": "4d6e0ad5791712504861e387c15599d035ceeeca74451edec35eb01b728049e8",
+   "audio_sha256": "969d16370de367f78ea4fc49187194b8b6ccd21acf24b3ba93b47ff53e610a62",
+   "image_sha256": "91ce1ad51f82ba3dc2bc71585d2be6e124711d743570b132128b1d68a5affa35",
+   "source_commit": "8e8b61fb00397343eb0c23cdb4d5a4927e98920f",
+   "station_sha256": "06fc8663fa9e3d1ec1831324fea371a75fd358535f58d354d6bbbf471564f26c",
+   "original_wav_sha256": "de9befe4065bfa6d8035ab9ad2ee4462c0f63a710f9406e87de16e687fa36207",
+   "original_wav_filename": "suchi-15.full.wav"
+  },
+  "suchi-15#4": {
+   "src": "audio/narration/suchi-15__s4__467283bc74cb.mp3",
+   "text": "오른쪽 끝, 머리띠에 안대를 한 만두가 큰 놋쇠 종을 흔들며 뛰어와. 만두 두령, 마두령. 종은 방울 령이야. 종에 꿀방울이 묻자 혀를 쏙 내밀고 싱글벙글, 맛을 바로잡는 교미, 그리고 부작용제거. 이 셋째 웅덩이도 마두령 하나야.",
+   "text_sha256": "467283bc74cb058f3754ebd13b402dfb94e88a3db7238268fe416a471f16863a",
+   "audio_sha256": "9a7a9a5a20f2775b15a6a3976ce2eb07b976b17d28990446ddd93bf3bc9fe718",
+   "image_sha256": "91ce1ad51f82ba3dc2bc71585d2be6e124711d743570b132128b1d68a5affa35",
+   "source_commit": "8e8b61fb00397343eb0c23cdb4d5a4927e98920f",
+   "station_sha256": "2837b6e568b53af63eeb896a87da1a7d875e7f5bf39a54d8abdf32cbb8647e0b",
+   "original_wav_sha256": "de9befe4065bfa6d8035ab9ad2ee4462c0f63a710f9406e87de16e687fa36207",
+   "original_wav_filename": "suchi-15.full.wav"
+  },
+  "suchi-15#5": {
+   "src": "audio/narration/suchi-15__s5__f638514d6f1e.mp3",
+   "text": "한 바퀴. 깃발이 솟아 약장 서랍을 열고, 감초가 꿀을 핥고, 보비익기. 꿀이 끊기고, 마왕 땀이 꿀방울, 약성완화. 또 끊기고, 만두 두령 종에 꿀, 교미 · 부작용제거. 황감, 마마! 앞 장 마백관자비까지 합치면 밀자 목적 넷이 다 나왔어. 마황은 첫째와 셋째 두 군데. 맛을 바로잡는 건 초자 셋째 교취교미에도 있어, 꿀로는 마두령, 식초로는 오령지 · 유향 · 몰약.",
+   "text_sha256": "f638514d6f1eb71dc1039fc7abe7deaf89277821dc7546ec4b887ff5e315adc1",
+   "audio_sha256": "77151e11c5fe6af99a180fcbe350c49f1853c3cabcf19b7cfec7dba79ce67748",
+   "image_sha256": "91ce1ad51f82ba3dc2bc71585d2be6e124711d743570b132128b1d68a5affa35",
+   "source_commit": "8e8b61fb00397343eb0c23cdb4d5a4927e98920f",
+   "station_sha256": "8a8fbd0ba6d49b6f939d6e5d9161011c19da0054b251275951ceb2a38ab5c5ea",
+   "original_wav_sha256": "de9befe4065bfa6d8035ab9ad2ee4462c0f63a710f9406e87de16e687fa36207",
+   "original_wav_filename": "suchi-15.full.wav"
   }
  }
 }

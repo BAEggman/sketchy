@@ -10142,6 +10142,72 @@
    "station_sha256": "fe45d960cff051e393c1e8554da417bf09ac42a7f07d657ebabec007a982b714",
    "original_wav_sha256": "594c596c11c8190768751b62c7caaaa634d0b049af6ffb6d09e1d36fa9694238",
    "original_wav_filename": "new-gr-43.full.wav"
+  },
+  "new-gr-44#0": {
+   "src": "audio/narration/new-gr-44__s0__bc2f717810f7.mp3",
+   "text": "유주 원문 ③ 심, 소장, 출속심계, 계목계, 출주내측량근지간, 요견갑, 지목내외자 과다. 장소는 순례길 3구간, 붉은 등불 고개, 심 임금과 소장 붉은 앞치마의 원문 굴곡점. 정본 경락 인물과 공용 부호, 뜻, 소리 고리를 따라 차례로 읽는다.",
+   "text_sha256": "bc2f717810f72af36dfea021503d9fb7b8b4edbff82cbe81378aad910ea8a767",
+   "audio_sha256": "d79b2a871c0c0052bf71a5d0953d21716da95b14fe263ae563f3f485d8fedaff",
+   "image_sha256": "807586a1327641f10561159691adf9cc1077ce88c75bef3576bf35dc136b3b67",
+   "source_commit": "92a86a46ab12e3c80199e4c432f7acdbb05d8889",
+   "station_sha256": "ea17a7ec004b149b99146f61c4eb774eb1a68e9221061d93f69b93d92d378e8a",
+   "original_wav_sha256": "20993404ce2bd59a73c95effb227debc04fae6382d1bac8b0930bde828f8ebb2",
+   "original_wav_filename": "new-gr-44.full.wav"
+  },
+  "new-gr-44#1": {
+   "src": "audio/narration/new-gr-44__s1__8938a5939928.mp3",
+   "text": "순례길 3구간 붉은 등불 고개의 #1 정거장이다. 심경 원문: 기어심중 출속심계, 하격락소장, 지자 상협인 계목계.",
+   "text_sha256": "8938a5939928dc5b3e9f85e3e0989c9be2e9cffcb177c56d1899f9f7dbb8437e",
+   "audio_sha256": "e327a79e64ef3ce06e278a6400d2c1ce8f154d6c1bdc651c416239a885bce8ea",
+   "image_sha256": "807586a1327641f10561159691adf9cc1077ce88c75bef3576bf35dc136b3b67",
+   "source_commit": "92a86a46ab12e3c80199e4c432f7acdbb05d8889",
+   "station_sha256": "536f9cc13734f479881f6791677290b5837bafd8de4b0f87d11e3264e5defabe",
+   "original_wav_sha256": "20993404ce2bd59a73c95effb227debc04fae6382d1bac8b0930bde828f8ebb2",
+   "original_wav_filename": "new-gr-44.full.wav"
+  },
+  "new-gr-44#2": {
+   "src": "audio/narration/new-gr-44__s2__f5211b3db1a3.mp3",
+   "text": "순례길 3구간 붉은 등불 고개의 #2 정거장이다. 심경 원문: 직자 복종심계각상폐 출액하, 행태음심주지후, 저장후예골지단, 신문, 출소지지단.",
+   "text_sha256": "f5211b3db1a3d905d36d6fcf749eb4865f765fbbc53325e08a474e9687ce0a39",
+   "audio_sha256": "0ff5adf68ee73fcd7285928afb06d242c4621efb4519e31baa8d4a607514514e",
+   "image_sha256": "807586a1327641f10561159691adf9cc1077ce88c75bef3576bf35dc136b3b67",
+   "source_commit": "92a86a46ab12e3c80199e4c432f7acdbb05d8889",
+   "station_sha256": "ff67a72cff2918cd6dd9f13f80c23184e1276283136825515cbb1c0003a000d3",
+   "original_wav_sha256": "20993404ce2bd59a73c95effb227debc04fae6382d1bac8b0930bde828f8ebb2",
+   "original_wav_filename": "new-gr-44.full.wav"
+  },
+  "new-gr-44#3": {
+   "src": "audio/narration/new-gr-44__s3__84a9ccf0ce5a.mp3",
+   "text": "순례길 3구간 붉은 등불 고개의 #3 정거장이다. 소장경 원문: 기어소지지단, 출과중, 출주내측량근지간, 요견갑 교견상 입결분 낙심 순인 하격 저위 속소장.",
+   "text_sha256": "84a9ccf0ce5a355195b0a86aff29488f58b1bc852aedf95a8693ee86cfa0ae7f",
+   "audio_sha256": "975e32a6f627435dae3b05d87b8a4a7386f2cc7e0b93e4eeac17325f872f8586",
+   "image_sha256": "807586a1327641f10561159691adf9cc1077ce88c75bef3576bf35dc136b3b67",
+   "source_commit": "92a86a46ab12e3c80199e4c432f7acdbb05d8889",
+   "station_sha256": "96a29001c081fb49b4e22d77504f15d28a670d211f887ea4e51b794ad9bb478a",
+   "original_wav_sha256": "20993404ce2bd59a73c95effb227debc04fae6382d1bac8b0930bde828f8ebb2",
+   "original_wav_filename": "new-gr-44.full.wav"
+  },
+  "new-gr-44#4": {
+   "src": "audio/narration/new-gr-44__s4__9141716c592f.mp3",
+   "text": "순례길 3구간 붉은 등불 고개의 #4 정거장이다. 소장경 원문: 지자 지목예자 각입이중 / 별협상졸 저비 지목내자 사락어관, 내, 외자 모두 도달.",
+   "text_sha256": "9141716c592f29b5c4706e7ec2f6551613c1be62a1bf2adc82c4dea228bb33be",
+   "audio_sha256": "3c3bec6e4708e828b0119e43f3ead1b2a4e0f47c6c6c311f59f403a8c3edd4d5",
+   "image_sha256": "807586a1327641f10561159691adf9cc1077ce88c75bef3576bf35dc136b3b67",
+   "source_commit": "92a86a46ab12e3c80199e4c432f7acdbb05d8889",
+   "station_sha256": "5d53617f92c251b63fefb5d3f1d6db7c6524402efb24da8b42b4a16f793b9413",
+   "original_wav_sha256": "20993404ce2bd59a73c95effb227debc04fae6382d1bac8b0930bde828f8ebb2",
+   "original_wav_filename": "new-gr-44.full.wav"
+  },
+  "new-gr-44#5": {
+   "src": "audio/narration/new-gr-44__s5__56b0320212a5.mp3",
+   "text": "처음부터 한 바퀴 되짚는다. 심경 원문: 기어심중 출속심계, 하격락소장, 지자 상협인 계목계 / 심경 원문: 직자 복종심계각상폐 출액하, 행태음심주지후, 저장후예골지단, 신문, 출소지지단 / 소장경 원문: 기어소지지단, 출과중, 출주내측량근지간, 요견갑 교견상 입결분 낙심 순인 하격 저위 속소 / 소장경 원문: 지자 지목예자 각입이중 / 별협상졸 저비 지목내자 사락어관, 내, 외자 모두 도달,",
+   "text_sha256": "56b0320212a54a51990829b04cf6342a5e5ee6645d17e4603fbc664510a4a89e",
+   "audio_sha256": "043c73342ea57e10e1d9ec3f507fdecd122ba0fb47ed8c154255787db0677ed5",
+   "image_sha256": "807586a1327641f10561159691adf9cc1077ce88c75bef3576bf35dc136b3b67",
+   "source_commit": "92a86a46ab12e3c80199e4c432f7acdbb05d8889",
+   "station_sha256": "62ba568e70f6f6478cd5624c9f22f80c1876aa906acaa2bd5eaa725fca434fbe",
+   "original_wav_sha256": "20993404ce2bd59a73c95effb227debc04fae6382d1bac8b0930bde828f8ebb2",
+   "original_wav_filename": "new-gr-44.full.wav"
   }
  }
 }

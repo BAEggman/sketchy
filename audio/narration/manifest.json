@@ -12727,6 +12727,127 @@
    "station_sha256": "c5264ccef0258073f91d8dcc590d9d2d3bdc64003281455491e7891cddd5e4ba",
    "original_wav_sha256": "8c1c32b425d12474dc7986cb0164367bbe34b378555665f16d0e01e7d3c2da7f",
    "original_wav_filename": "mer-07.full.wav"
+  },
+  "mer-13#0": {
+   "src": "audio/narration/mer-13__s0__79838f13c5fe.mp3",
+   "text": "마을 회관 앞마당이다. 회는 모일 회, 팔회혈은 장, 부, 기, 혈, 근, 맥, 골, 수, 여덟 가지의 정기가 모이는 혈이다. 왼쪽 마을 사람의 몸에 넷이 달렸다, 장, 부, 기, 혈. 오른쪽 마당에 담는 것 넷이 놓였다, 골, 맥, 근, 수. 담는 그릇이 혈 이름의 글자다.",
+   "text_sha256": "79838f13c5feae667d742bdfb211dacffcd5989c7c66fd2f707b41ea3a2ffc14",
+   "audio_sha256": "f94cbeb4fdb52b12811b4bfaa2f84ea7e7a67aa32824e118984e9789b67a0263",
+   "image_sha256": "daf8c05fa74b974a53f049822a476f62d82388f702c6137053029d0688d8c843",
+   "source_commit": "e5f79d28727b605a4a79c2fe39c817e2bc03e4bb",
+   "station_sha256": "d956d9132a4232d05496504b46a758ddf8f16d261936d937a1616ca474fb4c1f",
+   "original_wav_sha256": "0b660666d52b3bd4f1f60b13d984ffa1d890cf998daf9353b605834ba804acc7",
+   "original_wav_filename": "mer-13.full.wav"
+  },
+  "mer-13#1": {
+   "src": "audio/narration/mer-13__s1__853dedb6de06.mp3",
+   "text": "허리 옆에 작은 보물 상자, 갈무리할 장, 장회다. 혈은 장문, 난경 원문은 계협, 옆구리 갈비 끝이라 했다. 장문은 비의 모혈이고 간경 위에 세 든 혈이다. 부회, 장회, 근회, 수회는 중완, 장문, 양릉천, 절골.",
+   "text_sha256": "853dedb6de06775e46e89ea871ada669cf748a5f7cee3ff50fc05eb7cd3ee86a",
+   "audio_sha256": "a168435ae2b15d07ff7c1da5499d27e4720aa0196375872694c68bcbcec6c72a",
+   "image_sha256": "daf8c05fa74b974a53f049822a476f62d82388f702c6137053029d0688d8c843",
+   "source_commit": "e5f79d28727b605a4a79c2fe39c817e2bc03e4bb",
+   "station_sha256": "37514761f71619c98a30e25f4281e0e22e35bdc95dea1082e334b9bc167f90bb",
+   "original_wav_sha256": "0b660666d52b3bd4f1f60b13d984ffa1d890cf998daf9353b605834ba804acc7",
+   "original_wav_filename": "mer-13.full.wav"
+  },
+  "mer-13#2": {
+   "src": "audio/narration/mer-13__s2__f64f2eef9677.mp3",
+   "text": "윗배 한가운데, 명치와 배꼽 사이에 쌀자루, 난경 원문은 태창, 큰 곳간이라 했다. 곳간은 위, 육부의 우두머리다. 부회 중완. 중완은 위의 모혈이고, 임맥, 수태양, 수소양, 족양명이 만나는 교회혈이기도 하다.",
+   "text_sha256": "f64f2eef9677ab3ec6e749b98e41241293f3ba3feba64373988c61ae88f6d938",
+   "audio_sha256": "d9b5af38a393ef874455099f228c9d032df795e79a50eef662140ab503278b7f",
+   "image_sha256": "daf8c05fa74b974a53f049822a476f62d82388f702c6137053029d0688d8c843",
+   "source_commit": "e5f79d28727b605a4a79c2fe39c817e2bc03e4bb",
+   "station_sha256": "40ef0cbc999967f2dd54ffa4b9b748d00221d97d695e6645eed66a5ecaff50fc",
+   "original_wav_sha256": "0b660666d52b3bd4f1f60b13d984ffa1d890cf998daf9353b605834ba804acc7",
+   "original_wav_filename": "mer-13.full.wav"
+  },
+  "mer-13#3": {
+   "src": "audio/narration/mer-13__s3__17a757d21386.mp3",
+   "text": "두 젖꼭지 사이 가슴 한가운데에 풍선, 풍선은 기. 기회 전중이다. 전중은 심포의 모혈이다. 기회를 배꼽 아래 관원으로 찍으면 틀린다, 관원은 소장의 모혈이다. 혈회는 격수, 골회는 대저, 맥회는 태연, 기회는 전중.",
+   "text_sha256": "17a757d21386fca8ee15bb50348f664557aa7ea05572fdfde2cbe35f77e46478",
+   "audio_sha256": "688e52fd25ec5a5a0d4e308fa828b81f044e98a21bd54ec84cd12c386f5193e6",
+   "image_sha256": "daf8c05fa74b974a53f049822a476f62d82388f702c6137053029d0688d8c843",
+   "source_commit": "e5f79d28727b605a4a79c2fe39c817e2bc03e4bb",
+   "station_sha256": "5a879ec5b35b96eba04f830c104725c21824601bad0128f9bf194d219c6bd7d4",
+   "original_wav_sha256": "0b660666d52b3bd4f1f60b13d984ffa1d890cf998daf9353b605834ba804acc7",
+   "original_wav_filename": "mer-13.full.wav"
+  },
+  "mer-13#4": {
+   "src": "audio/narration/mer-13__s4__9c6b20bc951e.mp3",
+   "text": "등 뒤에 붉은 천, 엎드린 거인의 등을 가로지르던 그 천이다. 제7흉추, 견갑골 아래 끝 높이의 격수, 혈회다. 배수혈 가운데 팔회혈을 겸하는 것은 격수 하나뿐이다.",
+   "text_sha256": "9c6b20bc951ebe060f5b9baeabe2f06893bf5142376d597b464ce2888b8e8bff",
+   "audio_sha256": "4dacab0887ffe49d59393d94c5ed69b87b2cbd17cc5e864bf991d062822ffa5d",
+   "image_sha256": "daf8c05fa74b974a53f049822a476f62d82388f702c6137053029d0688d8c843",
+   "source_commit": "e5f79d28727b605a4a79c2fe39c817e2bc03e4bb",
+   "station_sha256": "7a80a494d029738920b2a03d526232ab8120b45e5213f962cb951ea6295c86ee",
+   "original_wav_sha256": "0b660666d52b3bd4f1f60b13d984ffa1d890cf998daf9353b605834ba804acc7",
+   "original_wav_filename": "mer-13.full.wav"
+  },
+  "mer-13#5": {
+   "src": "audio/narration/mer-13__s5__e01e9dc03231.mp3",
+   "text": "길쭉한 베틀북, 북 저, 큰 대, 대저다. 북 속에 흰 뼈가 들었다, 골회. 대저는 제1흉추 아래 높이, 방광경 첫째 줄의 혈이다. 양끝 쇠 물미와 실이 배가 아니라 베틀북임을 보여 준다.",
+   "text_sha256": "e01e9dc0323127b9bb4116c2b854ac3111fb80be08736e9da002109f3b226a17",
+   "audio_sha256": "85e6824c105b44e11d8535f1610216ee1f5cdc5e8f449aa687409a7bff0bea7e",
+   "image_sha256": "daf8c05fa74b974a53f049822a476f62d82388f702c6137053029d0688d8c843",
+   "source_commit": "e5f79d28727b605a4a79c2fe39c817e2bc03e4bb",
+   "station_sha256": "b88793ea39d15ab5e80c7fc217f22883a95855f134bc48fa9d22d99074a10270",
+   "original_wav_sha256": "0b660666d52b3bd4f1f60b13d984ffa1d890cf998daf9353b605834ba804acc7",
+   "original_wav_filename": "mer-13.full.wav"
+  },
+  "mer-13#6": {
+   "src": "audio/narration/mer-13__s6__67a6642ec2a7.mp3",
+   "text": "깊은 돌우물, 클 태, 못 연, 태연. 물속에 붉은 핏줄이 갈래갈래 퍼졌다, 맥회다. 태연은 손목 주름의 맥 뛰는 자리, 폐의 원혈이자 수혈이다. 손목 위 열결이 아니다.",
+   "text_sha256": "67a6642ec2a7f172c9454523bf11ee566e2c4bd6a77408eb9fbcef94fbadb279",
+   "audio_sha256": "31673ed8362a00e50031e9965585b3973a249dfabe813ea57c649f3957d5c770",
+   "image_sha256": "daf8c05fa74b974a53f049822a476f62d82388f702c6137053029d0688d8c843",
+   "source_commit": "e5f79d28727b605a4a79c2fe39c817e2bc03e4bb",
+   "station_sha256": "fe8d30fddfba71c12d2228fcaf00cd8a3082588edbfa1ca44e40cd738cd6659c",
+   "original_wav_sha256": "0b660666d52b3bd4f1f60b13d984ffa1d890cf998daf9353b605834ba804acc7",
+   "original_wav_filename": "mer-13.full.wav"
+  },
+  "mer-13#7": {
+   "src": "audio/narration/mer-13__s7__76923ddb92c8.mp3",
+   "text": "볕 드는 언덕 꼭대기의 샘, 볕 양, 언덕 능, 샘 천, 양릉천. 샘 속에 힘줄이 똬리를 틀었다, 근회다. 양릉천은 담경의 합혈이고 담의 하합혈이다. 담의 원혈은 구허, 삼초의 하합혈은 위양.",
+   "text_sha256": "76923ddb92c88f8998db49a8cefb4098efda3539afef3982314ffc9bdedfb299",
+   "audio_sha256": "d7e5f4b89046af2d8afbb86224e29f43a09e289cdbd2d1ce55fc08b38f0d448d",
+   "image_sha256": "daf8c05fa74b974a53f049822a476f62d82388f702c6137053029d0688d8c843",
+   "source_commit": "e5f79d28727b605a4a79c2fe39c817e2bc03e4bb",
+   "station_sha256": "62ea10603db5a3bedc034f380858e41b0b0fd99ea960053f0b85f2d02524e2c9",
+   "original_wav_sha256": "0b660666d52b3bd4f1f60b13d984ffa1d890cf998daf9353b605834ba804acc7",
+   "original_wav_filename": "mer-13.full.wav"
+  },
+  "mer-13#8": {
+   "src": "audio/narration/mer-13__s8__670f37a9d560.mp3",
+   "text": "나무틀에 매단 종, 매달 현, 종 종, 현종이다. 종 속에 골수가 꽉 차서 아가리 밖으로 비어져 흘러내린다, 수회. 다른 이름은 절골, 담경은 넓적다리 바깥을 내려와 바깥 복사뼈 위 끊어진 뼈 끝, 절골지단에 닿는다. 바깥 복사뼈 위 3촌, 비골 앞이다.",
+   "text_sha256": "670f37a9d56001f5db341dc8d5d171266b0bab2ff9511d24cc0605b44fcc31e1",
+   "audio_sha256": "51e0644f377d28ee2ddcf7535855d3317c59382a5b53f8c2a790d74c3787d4ef",
+   "image_sha256": "daf8c05fa74b974a53f049822a476f62d82388f702c6137053029d0688d8c843",
+   "source_commit": "e5f79d28727b605a4a79c2fe39c817e2bc03e4bb",
+   "station_sha256": "50d7d6ce635ce2c3ce7aeff6662eaf16d3b07efee72375dcf280898fbadfb8b5",
+   "original_wav_sha256": "0b660666d52b3bd4f1f60b13d984ffa1d890cf998daf9353b605834ba804acc7",
+   "original_wav_filename": "mer-13.full.wav"
+  },
+  "mer-13#9": {
+   "src": "audio/narration/mer-13__s9__571f8a9ce8c5.mp3",
+   "text": "회관 앞 책상에 옛 책 한 권, 난경이다. 팔회혈은 난경 사십오난이 처음 제시했다. 난경은 기경팔맥설도 처음 내놓았고, 맥진에서는 내경의 삼부구후를 손목 촌구 하나의 촌, 관, 척 삼부와 부, 중, 침 삼후로 풀었다.",
+   "text_sha256": "571f8a9ce8c549feea128d035ccd8291f78928a4e6e4d8ef8135be0f2fda3fa1",
+   "audio_sha256": "91a29802181d6b9759a4499c4c4271599b8e78d3ef73218db967f0ec187823ca",
+   "image_sha256": "daf8c05fa74b974a53f049822a476f62d82388f702c6137053029d0688d8c843",
+   "source_commit": "e5f79d28727b605a4a79c2fe39c817e2bc03e4bb",
+   "station_sha256": "1bb878586692c6d36b508fe3b47d100c6955a38acdf2d36240afd601cfb006c2",
+   "original_wav_sha256": "0b660666d52b3bd4f1f60b13d984ffa1d890cf998daf9353b605834ba804acc7",
+   "original_wav_filename": "mer-13.full.wav"
+  },
+  "mer-13#10": {
+   "src": "audio/narration/mer-13__s10__9ff1c50e05d7.mp3",
+   "text": "다시 본다. 몸에 넷, 옆구리 보물 상자 장회 장문, 윗배 쌀자루 부회 중완, 가슴 풍선 기회 전중, 등의 붉은 천 혈회 격수. 마당에 넷, 베틀북 속 뼈 골회 대저, 깊은 우물 속 핏줄 맥회 태연, 볕 언덕 샘 속 힘줄 근회 양릉천, 매단 종의 골수 수회 현종. 처음 적은 책은 난경 사십오난.",
+   "text_sha256": "9ff1c50e05d772bbfb8dd54604a1b1a66bded971ac2bf8051a63f300f74e02f3",
+   "audio_sha256": "8227d3405874b47269c0dc9e49adb8894f34514736900b8632ac25ef9b521306",
+   "image_sha256": "daf8c05fa74b974a53f049822a476f62d82388f702c6137053029d0688d8c843",
+   "source_commit": "e5f79d28727b605a4a79c2fe39c817e2bc03e4bb",
+   "station_sha256": "1a0b624fa8185fb2a11ad8b6def54eea1675a323c9f9becae378001787910166",
+   "original_wav_sha256": "0b660666d52b3bd4f1f60b13d984ffa1d890cf998daf9353b605834ba804acc7",
+   "original_wav_filename": "mer-13.full.wav"
   }
  }
 }

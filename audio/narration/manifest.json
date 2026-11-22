@@ -10274,6 +10274,72 @@
    "station_sha256": "ecb30659d323c87c7b68eb3aa72d893a1f9cc284f59a41ef9f9326e53e4b6421",
    "original_wav_sha256": "0781930575fc0af17d278eb5ff46d85ac790a4791a4060eaf1abe48e12872eb7",
    "original_wav_filename": "new-gr-45.full.wav"
+  },
+  "new-gr-46#0": {
+   "src": "audio/narration/new-gr-46__s0__bcd4d66d9d07.mp3",
+   "text": "유주 원문 ⑤ 심포, 삼초, 역락삼초, 행태음소음지간, 포전중, 계이후, 출이상각 과다. 장소는 순례길 5구간, 주황 화톳불 고개, 심포 호위무사와 삼초 주황 일꾼의 원문 굴곡점. 정본 경락 인물과 공용 부호, 뜻, 소리 고리를 따라 차례로 읽는다.",
+   "text_sha256": "bcd4d66d9d07c66ba7d38748d11d1557bba809402ffe4fc16187bdb99e2590d0",
+   "audio_sha256": "46d1bc017f3c83cc0403606affd5e73865385a66fddd8baf715a6955ddf8792c",
+   "image_sha256": "7309e5d61da2b736faedc9403efbc15792d7bb38e776a21412ef4c6b5b033297",
+   "source_commit": "037d300fe1815897be61e8af81064264a0a016e2",
+   "station_sha256": "ae712d3d4d4be80d7d6fc340e53f509ad54c2f0733464d9a387d3d33534ff440",
+   "original_wav_sha256": "2777b60e872704b7dc39246fafdfc0fc50aef640cf89be6ae5aceae456e58543",
+   "original_wav_filename": "new-gr-46.full.wav"
+  },
+  "new-gr-46#1": {
+   "src": "audio/narration/new-gr-46__s1__2148f15222b4.mp3",
+   "text": "순례길 5구간 주황 화톳불 고개의 #1 정거장이다. 심포경 원문: 기어흉중 출속심포락, 하격 역락삼초, 두부, 얼굴로 가지 않음.",
+   "text_sha256": "2148f15222b4d7734c7aedf1baaf9acb04d968b5a27eac9fc289b29c2c811038",
+   "audio_sha256": "228adfde6ac3d269eaa47796c631a7e30ac7dcd65314755d12a89f4e3c5df3a9",
+   "image_sha256": "7309e5d61da2b736faedc9403efbc15792d7bb38e776a21412ef4c6b5b033297",
+   "source_commit": "037d300fe1815897be61e8af81064264a0a016e2",
+   "station_sha256": "7b710d368cfefbe9914a9458fdd5bedb659ba0eae3be347c74d5eb47fbd1452a",
+   "original_wav_sha256": "2777b60e872704b7dc39246fafdfc0fc50aef640cf89be6ae5aceae456e58543",
+   "original_wav_filename": "new-gr-46.full.wav"
+  },
+  "new-gr-46#2": {
+   "src": "audio/narration/new-gr-46__s2__94a7bb56bd8f.mp3",
+   "text": "순례길 5구간 주황 화톳불 고개의 #2 정거장이다. 심포경 원문: 순흉출협 하액삼촌, 행태음소음지간, 입장중 순중지출기단, 지자 순소지차지.",
+   "text_sha256": "94a7bb56bd8f71ac6812e2e1d2c64db68dba06f2608ca4a01ece413ba9c6ffc0",
+   "audio_sha256": "b1b886b1407f6d3eb8f74a9d53dc79d8675000d267d8200c2e458a805a84db75",
+   "image_sha256": "7309e5d61da2b736faedc9403efbc15792d7bb38e776a21412ef4c6b5b033297",
+   "source_commit": "037d300fe1815897be61e8af81064264a0a016e2",
+   "station_sha256": "0fcf7a7cb5aa2897b5101c5f7191a75d74ef6bc9c6e2d7c4e3cd51e8cba3b885",
+   "original_wav_sha256": "2777b60e872704b7dc39246fafdfc0fc50aef640cf89be6ae5aceae456e58543",
+   "original_wav_filename": "new-gr-46.full.wav"
+  },
+  "new-gr-46#3": {
+   "src": "audio/narration/new-gr-46__s3__5e530f8aa93f.mp3",
+   "text": "순례길 5구간 주황 화톳불 고개의 #3 정거장이다. 삼초경 원문: 기어소지차지지단, 출비외량골지간 상관주, 상견 교출족소양지후 입결분 포전중 산락심포 하격 순속삼초.",
+   "text_sha256": "5e530f8aa93ff368828220adbd133293084826a49f53cf98848455661a85d3af",
+   "audio_sha256": "25957bb47d809a34b49c653f20aadc874a52c4db9c17e7452142a1ff52c81af9",
+   "image_sha256": "7309e5d61da2b736faedc9403efbc15792d7bb38e776a21412ef4c6b5b033297",
+   "source_commit": "037d300fe1815897be61e8af81064264a0a016e2",
+   "station_sha256": "265aec5e7e12796aae7916f5a42bc8b272197df201be84f2a7beff34931d63f6",
+   "original_wav_sha256": "2777b60e872704b7dc39246fafdfc0fc50aef640cf89be6ae5aceae456e58543",
+   "original_wav_filename": "new-gr-46.full.wav"
+  },
+  "new-gr-46#4": {
+   "src": "audio/narration/new-gr-46__s4__3655f9e28b4a.mp3",
+   "text": "순례길 5구간 주황 화톳불 고개의 #4 정거장이다. 삼초경 원문: 지자 상항 계이후 직상 출이상각 이굴하협지졸 / 종이후입이중 출주이전 지목예자.",
+   "text_sha256": "3655f9e28b4aaca1c89b2410c97e637005e0d7cde4374a23748017f20ebfcd07",
+   "audio_sha256": "e43e28567b7bdfca64128bc1cfccf35fa5242b7187781d2ff52ba0b9e5ec5242",
+   "image_sha256": "7309e5d61da2b736faedc9403efbc15792d7bb38e776a21412ef4c6b5b033297",
+   "source_commit": "037d300fe1815897be61e8af81064264a0a016e2",
+   "station_sha256": "c5d86aadd86c81516492d46e74819428139d0566af024f0ac9ce3d97d3902aea",
+   "original_wav_sha256": "2777b60e872704b7dc39246fafdfc0fc50aef640cf89be6ae5aceae456e58543",
+   "original_wav_filename": "new-gr-46.full.wav"
+  },
+  "new-gr-46#5": {
+   "src": "audio/narration/new-gr-46__s5__5b2769530b5d.mp3",
+   "text": "처음부터 한 바퀴 되짚는다. 심포경 원문: 기어흉중 출속심포락, 하격 역락삼초, 두부, 얼굴로 가지 않음, / 심포경 원문: 순흉출협 하액삼촌, 행태음소음지간, 입장중 순중지출기단, 지자 순소지차지, / 삼초경 원문: 기어소지차지지단, 출비외량골지간 상관주, 상견 교출족소양지후 입결분 포전중 산락심포 하격 / 삼초경 원문: 지자 상항 계이후 직상 출이상각 이굴하협지졸 / 종이후입이중 출주이전 지목예자",
+   "text_sha256": "5b2769530b5d1342b5f402e5426342e65ec2d5ab7271a4f93c7a232b1a160aad",
+   "audio_sha256": "82055155c4a23ab4396746f01b52e2769b426d092db1ef1889362796fc6ea608",
+   "image_sha256": "7309e5d61da2b736faedc9403efbc15792d7bb38e776a21412ef4c6b5b033297",
+   "source_commit": "037d300fe1815897be61e8af81064264a0a016e2",
+   "station_sha256": "05f960e38ea4da73dfac18f6fb79aaf7cd48ba960423e122b5240faaa8250531",
+   "original_wav_sha256": "2777b60e872704b7dc39246fafdfc0fc50aef640cf89be6ae5aceae456e58543",
+   "original_wav_filename": "new-gr-46.full.wav"
   }
  }
 }

@@ -6457,6 +6457,72 @@
    "station_sha256": "1df25579b8988ea2e4133dcc0aa1219d6c1ddefdae75bb2c665f9aa4e92a0704",
    "original_wav_sha256": "a32b0657f7810046f8bb6782400d70e63a2869066ce08fbc682da5c8691df55e",
    "original_wav_filename": "new-uk-15.full.wav"
+  },
+  "new-jq-01#0": {
+   "src": "audio/narration/new-jq-01__s0__12cf5daa35d0.mp3",
+   "text": "산속 절이다. 삼보, 세 보배의 절. 가운데 3층 법당의 아래층에는 반짝이는 흰 쌀독, 가운데층에는 풍선, 위층에는 등불이 놓였다. 사람의 세 보배, 정, 기, 신이다. 쌀알처럼 알맹이만 남긴 것이 정, 풍선이 기, 환히 비추는 등불이 신.",
+   "text_sha256": "12cf5daa35d0221caf7708e524619357f127644ad9d4a58f113f06ee19088dfb",
+   "audio_sha256": "7e3cdce1ee12c431baded90c04be38348469ff3a6b27697cb50f9b4fd8e3c56c",
+   "image_sha256": "de04e79bee50f83f461caf4b627b77ac3353dabb750af268e13292da1ac694a2",
+   "source_commit": "baccfa3438b875f211d0036f3a81ae0782c11f04",
+   "station_sha256": "d2ae2d0d232b0f0306a685c7bc3ff2c5c9cb35619305948eef1c0e8f83920349",
+   "original_wav_sha256": "4cf5643830764e0cd668bb81bafc924191fe83cc1355b387e6f91798d9d7c1e2",
+   "original_wav_filename": "new-jq-01.full.wav"
+  },
+  "new-jq-01#1": {
+   "src": "audio/narration/new-jq-01__s1__ed199a14ec79.mp3",
+   "text": "하늘에는 해와 달과 별이 함께 떴다, 하늘의 세 보배, 일월성. 마당에는 시냇물, 향로의 불, 바람에 날리는 깃발, 땅의 세 보배, 수화풍. 그리고 법당의 세 층, 사람의 세 보배, 정기신. 천유삼보일월성, 지유삼보수화풍, 인유삼보정기신.",
+   "text_sha256": "ed199a14ec7988c334c557e93a26152e73981cee3d246e97b7c3cf3fdd879a3b",
+   "audio_sha256": "30e3f00191579c4935f78868c3bc59d99f971498c09eb4860d23229f60a7e48a",
+   "image_sha256": "de04e79bee50f83f461caf4b627b77ac3353dabb750af268e13292da1ac694a2",
+   "source_commit": "baccfa3438b875f211d0036f3a81ae0782c11f04",
+   "station_sha256": "d17e75c7e14c56fab0324f770d3800ce412d8d4d158e078c564ff51a917de3a6",
+   "original_wav_sha256": "4cf5643830764e0cd668bb81bafc924191fe83cc1355b387e6f91798d9d7c1e2",
+   "original_wav_filename": "new-jq-01.full.wav"
+  },
+  "new-jq-01#2": {
+   "src": "audio/narration/new-jq-01__s2__6f7e26351381.mp3",
+   "text": "법당 앞 스님의 몸에 빛이 셋, 아래에서 위로, 뒤의 법당 세 층과 같은 차례다. 배꼽 아래 흰 빛은 쌀독 층, 하단전은 정을 갈무리한다. 가슴 한가운데 하늘색 빛은 풍선 층, 중단전은 기를. 머리의 금빛은 등불 층, 상단전은 신을 갈무리한다. 아래에서 위로 정, 기, 신.",
+   "text_sha256": "6f7e26351381ea8f1cfe58c83549872a603c86f2256da7cba927cfc656ff4996",
+   "audio_sha256": "0b13a0d93ae2f6622deb4d9a358e37be7c98960e3b720e484faafb857a11b88b",
+   "image_sha256": "de04e79bee50f83f461caf4b627b77ac3353dabb750af268e13292da1ac694a2",
+   "source_commit": "baccfa3438b875f211d0036f3a81ae0782c11f04",
+   "station_sha256": "3b668aaedc66746e66780006cadbf71be81472d937ea72c6a346151d6655b840",
+   "original_wav_sha256": "4cf5643830764e0cd668bb81bafc924191fe83cc1355b387e6f91798d9d7c1e2",
+   "original_wav_filename": "new-jq-01.full.wav"
+  },
+  "new-jq-01#3": {
+   "src": "audio/narration/new-jq-01__s3__95f63854eaff.mp3",
+   "text": "동의보감 신형편이다. 맨 아래 쌀독, 정자신지본, 정은 몸의 근본이다. 가운데 풍선이 위층 등불을 받친다, 기자신지주, 기는 신의 주인이다. 그리고 법당 건물 자체, 형자신지택, 몸, 형은 신이 사는 집이다. 정, 기, 형, 셋째 자리에 신이 아니라 형이 들어간다.",
+   "text_sha256": "95f63854eaff77ba016b301732fb3e5697c27224e0809370c2914f7cd56ee07a",
+   "audio_sha256": "5ffcbd5ab37d0a0d2ab3d68d6706896b555aee2f6fffac4d4a64d88acc5f95fc",
+   "image_sha256": "de04e79bee50f83f461caf4b627b77ac3353dabb750af268e13292da1ac694a2",
+   "source_commit": "baccfa3438b875f211d0036f3a81ae0782c11f04",
+   "station_sha256": "13e4bbf78f586b6882ee7a28608b36712712fa5a7c17f8799986b7169bea74cf",
+   "original_wav_sha256": "4cf5643830764e0cd668bb81bafc924191fe83cc1355b387e6f91798d9d7c1e2",
+   "original_wav_filename": "new-jq-01.full.wav"
+  },
+  "new-jq-01#4": {
+   "src": "audio/narration/new-jq-01__s4__da39bab85a26.mp3",
+   "text": "오른쪽, 깡마른 젊은 스님. 몸이 모자라면, 담요를 두르고 화로 곁에서 데운다. 형부족자 온지이기, 형체가 부족하면 기로 데운다. 정이 모자라면, 손에 든 맛있는 음식으로 채운다. 정부족자 보지이미, 정이 부족하면 미로 보한다. 음양응상대론의 구절이다. 데울 온, 채울 보.",
+   "text_sha256": "da39bab85a263b7009a4c9e2290d9a8d025fca46dac8d0cc3e348f589c6c36b2",
+   "audio_sha256": "22bf15aac12ebb2f4ec57980d926cc54a712df12417d30c3e8cadddf80783ef0",
+   "image_sha256": "de04e79bee50f83f461caf4b627b77ac3353dabb750af268e13292da1ac694a2",
+   "source_commit": "baccfa3438b875f211d0036f3a81ae0782c11f04",
+   "station_sha256": "c5696cf5dd05eafe688c08ecc27370a40d890a01314a27776b338070832a9897",
+   "original_wav_sha256": "4cf5643830764e0cd668bb81bafc924191fe83cc1355b387e6f91798d9d7c1e2",
+   "original_wav_filename": "new-jq-01.full.wav"
+  },
+  "new-jq-01#5": {
+   "src": "audio/narration/new-jq-01__s5__3401d4e3c599.mp3",
+   "text": "다시 본다. 하늘의 일월성, 땅의 수화풍, 사람의 정기신. 아래층 쌀독은 하단전의 정, 가운데 풍선은 중단전의 기, 위층 등불은 상단전의 신. 쌀독은 몸의 근본, 풍선은 신의 주인, 법당은 신의 집. 깡마른 스님은 기로 데우고 미로 보한다.",
+   "text_sha256": "3401d4e3c599376adf08d48814f140eea17ec225c5d433eda33f2c9ae9b8c80c",
+   "audio_sha256": "c720a0511f0e47b30a2aa7ef44bf7878c859c6903dc8a785c7bc62a41af2c33e",
+   "image_sha256": "de04e79bee50f83f461caf4b627b77ac3353dabb750af268e13292da1ac694a2",
+   "source_commit": "baccfa3438b875f211d0036f3a81ae0782c11f04",
+   "station_sha256": "6b054b70c5a8aab846d818a947d00691ae7fb82cbb437de18c6ab21b72be925b",
+   "original_wav_sha256": "4cf5643830764e0cd668bb81bafc924191fe83cc1355b387e6f91798d9d7c1e2",
+   "original_wav_filename": "new-jq-01.full.wav"
   }
  }
 }

@@ -5830,6 +5830,138 @@
    "station_sha256": "d9c81f8d9a31f2f9f4b9b59fbff5eaf4494590d27b05123681dbbfe11530262f",
    "original_wav_sha256": "5733fc1232d772eeb72de338f1bfef9968d9fc4ebef01691bd3c9d931c664d4b",
    "original_wav_filename": "new-uk-10.full.wav"
+  },
+  "new-uk-11#0": {
+   "src": "audio/narration/new-uk-11__s0__c6e9b3e8c9e7.mp3",
+   "text": "놀이공원 대관람차다. 칸은 여섯, 금빛과 은빛이 번갈아 있고, 칸마다 육기의 원판과 띠 동물 한 쌍이 탔다. 꼭대기 칸이 하늘을 맡는 사천, 맨 아래 샘물에 잠긴 칸이 재천, 양옆 칸이 간기. 해마다 바퀴가 한 칸씩 돌아 다른 칸이 꼭대기에 오른다. 서로 마주 보는 칸이 늘 사천과 재천의 짝이다.",
+   "text_sha256": "c6e9b3e8c9e7f4851e07cbf750c4edb6f1295db326734639c989efe59374fbc9",
+   "audio_sha256": "07dc364afeb0b294ae1e247eff626cd7f51dbf94ec48c2c2766e1163d239d79a",
+   "image_sha256": "4d4d0930da9370ccbb6968762b45128773c74e5a7160366e458cf8ae29152060",
+   "source_commit": "9c83e60b6a9fbcd4bce79cbc98dbb79c855ba176",
+   "station_sha256": "c3451c6667b56d9843ab94c27d04e28aa1ba2bc1ef4e611c85084322a1fc7d84",
+   "original_wav_sha256": "c72673627a8d8db035f626afeb10180b349883fd3de7bfbf90951d5c5568e788",
+   "original_wav_filename": "new-uk-11.full.wav"
+  },
+  "new-uk-11#1": {
+   "src": "audio/narration/new-uk-11__s1__5f058b2025d1.mp3",
+   "text": "칸 색을 본다. 금빛 칸, 쥐와 말, 호랑이와 원숭이, 용과 개. 자오, 인신, 진술, 곧 자, 인, 진, 오, 신, 술이 양지. 은빛 칸, 소와 양, 토끼와 닭, 뱀과 돼지. 축미, 묘유, 사해, 곧 축, 묘, 사, 미, 유, 해가 음지. 한 칸에 탄 두 동물은 여섯 칸 떨어진 지지라 음양이 같다.",
+   "text_sha256": "5f058b2025d18cac77f1de426163cd56ce5490c65adf64b7e2fe9ee72a3aef29",
+   "audio_sha256": "900e5252323bfc63b19634ef32fb0a92dad607d8ac3e120aa0213cfd04161378",
+   "image_sha256": "4d4d0930da9370ccbb6968762b45128773c74e5a7160366e458cf8ae29152060",
+   "source_commit": "9c83e60b6a9fbcd4bce79cbc98dbb79c855ba176",
+   "station_sha256": "58b8fbabcfb736679e07bcd1e0ce6f35f117b1ed1700ad9b4b3b4dd4ef750365",
+   "original_wav_sha256": "c72673627a8d8db035f626afeb10180b349883fd3de7bfbf90951d5c5568e788",
+   "original_wav_filename": "new-uk-11.full.wav"
+  },
+  "new-uk-11#2": {
+   "src": "audio/narration/new-uk-11__s2__d5bdb7e4a8a6.mp3",
+   "text": "꼭대기의 금빛 칸, 쥐와 말, 자오. 원판은 초승달, 칸이 붉게 달아올랐다, 소음군화. 자오년에는 소음군화가 사천. 맞은편 맨 아래 샘물에 잠긴 칸은 해와 달 원판, 양명조금, 재천. 그림은 지금 자오년의 바퀴다.",
+   "text_sha256": "d5bdb7e4a8a620ad5d4f708229d827cc4ff0b8c72e9279369e49642788742419",
+   "audio_sha256": "b1f12bab27e29f2fd38bb8bf140669622f3dff772b7af531dacaecfd3a480ab4",
+   "image_sha256": "4d4d0930da9370ccbb6968762b45128773c74e5a7160366e458cf8ae29152060",
+   "source_commit": "9c83e60b6a9fbcd4bce79cbc98dbb79c855ba176",
+   "station_sha256": "55c132af16d73d02962104b8df6bc62c1a801719d5fe89c4a9d5a3d168bdf3e8",
+   "original_wav_sha256": "c72673627a8d8db035f626afeb10180b349883fd3de7bfbf90951d5c5568e788",
+   "original_wav_filename": "new-uk-11.full.wav"
+  },
+  "new-uk-11#3": {
+   "src": "audio/narration/new-uk-11__s3__a928ab0037e5.mp3",
+   "text": "오른쪽 위 은빛 칸, 소와 양, 축미. 보름달 원판에 물이 뚝뚝, 태음습토. 축미년에는 이 칸이 꼭대기로 올라 사천이 되고, 맞은편 왼쪽 아래 칸, 큰 해 원판에 고드름 달린 용과 개의 칸, 태양한수, 가 샘으로 내려가 재천이 된다.",
+   "text_sha256": "a928ab0037e5303a8f041a174002bc02905b3c6b9fc27040fd02ab0f5dcef066",
+   "audio_sha256": "5c26b531ec5d6cddb8e46bbc6362ba1e266a3fc26c73e8f6f46c6f234911bf6f",
+   "image_sha256": "4d4d0930da9370ccbb6968762b45128773c74e5a7160366e458cf8ae29152060",
+   "source_commit": "9c83e60b6a9fbcd4bce79cbc98dbb79c855ba176",
+   "station_sha256": "22dd96c4c2c8ce7aeb5cd336f6465e2d9737fbceb0e07a32916250020006c535",
+   "original_wav_sha256": "c72673627a8d8db035f626afeb10180b349883fd3de7bfbf90951d5c5568e788",
+   "original_wav_filename": "new-uk-11.full.wav"
+  },
+  "new-uk-11#4": {
+   "src": "audio/narration/new-uk-11__s4__b17606e901e7.mp3",
+   "text": "오른쪽 아래 금빛 칸, 호랑이와 원숭이, 인신. 작은 해 원판에 지붕의 불꽃, 소양상화. 인신년 사천. 맞은편 왼쪽 위, 까만 원 원판에 바람이 휘감는 뱀과 돼지의 칸, 궐음풍목이 재천. 같은 화라도 쥐, 말의 자오는 군화, 호랑이, 원숭이의 인신은 상화.",
+   "text_sha256": "b17606e901e7010c66d9ea01e7d97d0363a4014a8096f5b2cd9d4c3c3cb8d23a",
+   "audio_sha256": "9d6e90115f762b679eb7feab014b6555c4564c68b03f18712b490546aaa164e4",
+   "image_sha256": "4d4d0930da9370ccbb6968762b45128773c74e5a7160366e458cf8ae29152060",
+   "source_commit": "9c83e60b6a9fbcd4bce79cbc98dbb79c855ba176",
+   "station_sha256": "a0907ffbf4707de78856f1aeae27e5b6a72a348ce5630e8173662f4930b442f9",
+   "original_wav_sha256": "c72673627a8d8db035f626afeb10180b349883fd3de7bfbf90951d5c5568e788",
+   "original_wav_filename": "new-uk-11.full.wav"
+  },
+  "new-uk-11#5": {
+   "src": "audio/narration/new-uk-11__s5__34cdf43fa7af.mp3",
+   "text": "지금 샘에 잠긴 은빛 칸, 토끼와 닭, 묘유. 해와 달 원판, 양명조금. 묘유년에는 바퀴가 반 바퀴 돌아 이 칸이 꼭대기 사천이 되고, 쥐, 말의 초승달 칸이 샘으로 내려가 소음군화가 재천. 자오와 묘유는 서로 자리만 바꾼다.",
+   "text_sha256": "34cdf43fa7af58634b1ba7bcaa87ec35084823fe823b290625b12df06606c562",
+   "audio_sha256": "6b090067032f33e89fe08d4273854911148216f2928cdb741f2227160f81c3c9",
+   "image_sha256": "4d4d0930da9370ccbb6968762b45128773c74e5a7160366e458cf8ae29152060",
+   "source_commit": "9c83e60b6a9fbcd4bce79cbc98dbb79c855ba176",
+   "station_sha256": "11160d2e577b023eb4ce388d81d8bc52e06bb5e854133d86ae45b2a68e36c386",
+   "original_wav_sha256": "c72673627a8d8db035f626afeb10180b349883fd3de7bfbf90951d5c5568e788",
+   "original_wav_filename": "new-uk-11.full.wav"
+  },
+  "new-uk-11#6": {
+   "src": "audio/narration/new-uk-11__s6__5a849d174a0e.mp3",
+   "text": "왼쪽 아래 금빛 칸, 용과 개, 진술. 큰 해 원판인데 서리와 고드름, 태양한수. 진술년 사천, 맞은편 보름달 칸 태음습토가 재천. 함정, 진술은 방위로 따지는 지지 오행으로는 토다. 그러나 육기로 화하면 한수. 축미도 방위 오행은 토지만 육기는 습토.",
+   "text_sha256": "5a849d174a0eb8abfe3f255d18c8240b675ccfa9f189767cfb9f2dd69406844a",
+   "audio_sha256": "1d321796a9b2a11344c147983448d4f4509d6fd137ce671c90c20d3a3e539e57",
+   "image_sha256": "4d4d0930da9370ccbb6968762b45128773c74e5a7160366e458cf8ae29152060",
+   "source_commit": "9c83e60b6a9fbcd4bce79cbc98dbb79c855ba176",
+   "station_sha256": "012ba180d48b95df117a6c0f0d3d5bc81f24cb1bcc227f7ac6add83f3a40f3a0",
+   "original_wav_sha256": "c72673627a8d8db035f626afeb10180b349883fd3de7bfbf90951d5c5568e788",
+   "original_wav_filename": "new-uk-11.full.wav"
+  },
+  "new-uk-11#7": {
+   "src": "audio/narration/new-uk-11__s7__e6e9bae9da1c.mp3",
+   "text": "왼쪽 위 은빛 칸, 뱀과 돼지, 사해. 까만 원 원판에 바람 소용돌이, 궐음풍목. 사해년 사천, 맞은편 호랑이, 원숭이의 작은 해 칸 소양상화가 재천. 인신과 사해가 자리를 바꾼다. 마주 보는 짝은 셋뿐, 소음, 양명, 태음, 태양, 소양, 궐음.",
+   "text_sha256": "e6e9bae9da1c04d768723f584d0579f506f6b97415cc1d792664f68633410b8a",
+   "audio_sha256": "e23f6b4eee0dd212427a1ca9d973f126d5f141aed35d9c1fdbbf788ba6d08353",
+   "image_sha256": "4d4d0930da9370ccbb6968762b45128773c74e5a7160366e458cf8ae29152060",
+   "source_commit": "9c83e60b6a9fbcd4bce79cbc98dbb79c855ba176",
+   "station_sha256": "4670e74e37ba58092d31936dfaa3c912ae3487c186928aac2ab205b6ba45bfa1",
+   "original_wav_sha256": "c72673627a8d8db035f626afeb10180b349883fd3de7bfbf90951d5c5568e788",
+   "original_wav_filename": "new-uk-11.full.wav"
+  },
+  "new-uk-11#8": {
+   "src": "audio/narration/new-uk-11__s8__0c83530cb17b.mp3",
+   "text": "꼭대기 칸 위 하늘에는 봄꽃과 여름 해, 사천은 한 해의 상반년을 맡고, 객기 여섯 걸음 가운데 삼지기 자리다. 맨 아래 칸이 잠긴 샘에는 가을 낙엽과 눈송이, 재천은 하반년을 맡고, 종지기 자리다. 자오년이면 왼쪽 아래 큰 해 칸부터 초지기 태양, 이지기 궐음, 삼지기 소음 사천, 사지기 태음, 오지기 소양, 종지기 양명 재천, 바퀴를 따라 한 바퀴.",
+   "text_sha256": "0c83530cb17b21b17e67fc9b6c3e97a1b1935c847dc4c6bfb4ccb7832f298827",
+   "audio_sha256": "6610e5963351330620e9e15b355d4a8e26433baf89bc83eaf42ea0cde3d9f83f",
+   "image_sha256": "4d4d0930da9370ccbb6968762b45128773c74e5a7160366e458cf8ae29152060",
+   "source_commit": "9c83e60b6a9fbcd4bce79cbc98dbb79c855ba176",
+   "station_sha256": "e86f5a13a527a7aeb7d66ec5d49ff2ae2897f94418f501ba7215b140f9247d6f",
+   "original_wav_sha256": "c72673627a8d8db035f626afeb10180b349883fd3de7bfbf90951d5c5568e788",
+   "original_wav_filename": "new-uk-11.full.wav"
+  },
+  "new-uk-11#9": {
+   "src": "audio/narration/new-uk-11__s9__a8057e3d3f6c.mp3",
+   "text": "사천과 재천 양옆의 칸이 좌우간기다. 자오년이면 사천 소음의 좌간은 태음, 오른쪽 위 보름달, 우간은 궐음, 왼쪽 위 까만 원, 사천은 북쪽을 보고 좌우를 정한다. 재천 양명의 좌간은 태양, 왼쪽 아래 큰 해, 우간은 소양, 오른쪽 아래 작은 해, 재천은 남쪽을 보고 정한다. 카드 OGI-SCH-03은 사천, 재천은 12년, 간기는 6년에 한 바퀴라 적지만, 원리로는 같은 사천, 재천 짝이 6년마다 돌아오고, 자년과 오년, 같은 지지의 해가 12년마다 돌아온다. 카드 숫자는 원문과 대조해 둔다.",
+   "text_sha256": "a8057e3d3f6c36bd5f3c2ab93535c49b9184eabc6e7bf2f2426210923245ac23",
+   "audio_sha256": "fdfd76c32d326b54dea2bcbfed1b0d58b88afc4fe738ea59a0d8ce99cd0fa675",
+   "image_sha256": "4d4d0930da9370ccbb6968762b45128773c74e5a7160366e458cf8ae29152060",
+   "source_commit": "9c83e60b6a9fbcd4bce79cbc98dbb79c855ba176",
+   "station_sha256": "869048338e3dff1305469dfbd988bbc4ce451c42e763f46b6c5831614588c3e3",
+   "original_wav_sha256": "c72673627a8d8db035f626afeb10180b349883fd3de7bfbf90951d5c5568e788",
+   "original_wav_filename": "new-uk-11.full.wav"
+  },
+  "new-uk-11#10": {
+   "src": "audio/narration/new-uk-11__s10__bd530c84bf09.mp3",
+   "text": "꼭대기 칸 지붕 끝에 쥐가 매달려 내려가지 않고 버틴다. 해가 바뀌었는데 물러나야 할 사천이 그대로 머문다, 불퇴위. 다음 차례 소와 양은 올려다보기만 하고 오르지 못한다. 와야 할 그해의 사천이 제자리에 오지 못한다, 불천정. 물러나지 않는 쪽은 불퇴위, 오지 못하는 쪽은 불천정.",
+   "text_sha256": "bd530c84bf0926510daabd9140cbd113a38a7a543a32f4ca4611746d2c61fe02",
+   "audio_sha256": "34d1491e62f5b6377ff6c5a5f2994ca2dda9bbc159b56f649a5eaf254d47326e",
+   "image_sha256": "4d4d0930da9370ccbb6968762b45128773c74e5a7160366e458cf8ae29152060",
+   "source_commit": "9c83e60b6a9fbcd4bce79cbc98dbb79c855ba176",
+   "station_sha256": "c4f4cfecf90c0b9697af168b6708b64a8cf866316e5455008c855ed74c339bcd",
+   "original_wav_sha256": "c72673627a8d8db035f626afeb10180b349883fd3de7bfbf90951d5c5568e788",
+   "original_wav_filename": "new-uk-11.full.wav"
+  },
+  "new-uk-11#11": {
+   "src": "audio/narration/new-uk-11__s11__25959e22a7b9.mp3",
+   "text": "다시 본다. 금빛 칸은 양지, 은빛 칸은 음지. 자오 소음군화, 축미 태음습토, 인신 소양상화, 묘유 양명조금, 진술 태양한수, 사해 궐음풍목. 마주 보는 칸이 사천과 재천, 소음과 양명, 태음과 태양, 소양과 궐음. 사천은 상반년과 삼지기, 재천은 하반년과 종지기, 양옆은 간기. 버티는 쥐는 불퇴위, 못 오르는 소, 양은 불천정.",
+   "text_sha256": "25959e22a7b99293b39a106033032e2588e76bd7ff5713c1ce430c35bb83c5c1",
+   "audio_sha256": "0f03bd92c9f0dfab2e6de1b0d7efc1ea34909e5515fb38e0c57d848bc195798a",
+   "image_sha256": "4d4d0930da9370ccbb6968762b45128773c74e5a7160366e458cf8ae29152060",
+   "source_commit": "9c83e60b6a9fbcd4bce79cbc98dbb79c855ba176",
+   "station_sha256": "3ab07894bc270b10c247443c4d0c37e39e8b067afbc97c7651203d27e3346e18",
+   "original_wav_sha256": "c72673627a8d8db035f626afeb10180b349883fd3de7bfbf90951d5c5568e788",
+   "original_wav_filename": "new-uk-11.full.wav"
   }
  }
 }

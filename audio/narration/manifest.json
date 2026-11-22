@@ -9504,6 +9504,94 @@
    "station_sha256": "c3613de766f87095b857528b4e488c4039ef9168f766496ae68d9e47deb9e760",
    "original_wav_sha256": "69d7609bee28009039d1bf7d21e5f4fe7495e237eb67a076893f144434b25581",
    "original_wav_filename": "mer-02.full.wav"
+  },
+  "mer-04#0": {
+   "src": "audio/narration/mer-04__s0__782ec2cbfe3f.mp3",
+   "text": "시외버스 터미널이다. 버스 노선 하나가 경맥 하나, 기사는 제재소에서 본 경락 인물이다. 노선마다 출발점 기, 종점 지, 그리고 도중에 들르는 곳 연속이 있다. 가운데 위장 모양 차고, 둘레의 이, 귀, 혀, 눈 정류장에는 여러 노선이 함께 선다, 시험은 어느 경맥이 어디에 닿는지를 묻는다.",
+   "text_sha256": "782ec2cbfe3f94e850fd611ac3b434a8814a6d1007cdb78183a3815eeb916f7c",
+   "audio_sha256": "8ece92026dafae5bdf98e52aae3bc74ed8123478169b39f7008d952b00d559c5",
+   "image_sha256": "5ff06f09632b46ac0aa1078333af37772c0d2d995c6425985286e130ada3e814",
+   "source_commit": "cb55161bee10bafa87131f8ea912c9e7f8219c66",
+   "station_sha256": "d532fbad3f29bb95a47ee2e22b53e886bb65f3e41a117f1d37f2d1b9be7eef42",
+   "original_wav_sha256": "17c988c46dfb3a5bd04da8b9dd78125052a8526279160eccc40e403ded3af266",
+   "original_wav_filename": "mer-04.full.wav"
+  },
+  "mer-04#1": {
+   "src": "audio/narration/mer-04__s1__4863a691b093.mp3",
+   "text": "가운데 분홍 위장 모양 차고, 위쪽 식도 관 옆 철문가에 흰 수염 노인의 흰 버스가 섰다. 위장의 입구다. 폐경은 위장 한가운데, 중초에서 시작한다, 기어중초. 아래로 대장을 얽고, 돌아와 위장 입구를 따라, 환순위구, 횡격막을 지나 폐에 속한다. 십이경맥의 흐름은 여기 중초에서 시작한다. 폐에서 시작하는 것이 아니다. 끝은 엄지 끝, 소상이다.",
+   "text_sha256": "4863a691b09394a6d51da24da4bcc5a24761f3031dbf61fb677efe9de3549725",
+   "audio_sha256": "9bd85975529b94d7996538993e74902474928d4bf7275f1a50690f0976711efd",
+   "image_sha256": "5ff06f09632b46ac0aa1078333af37772c0d2d995c6425985286e130ada3e814",
+   "source_commit": "cb55161bee10bafa87131f8ea912c9e7f8219c66",
+   "station_sha256": "38d59dddd580f0d6e9a807c54f0760fc9d89530ac71ba4e8ae2471428d07d6c9",
+   "original_wav_sha256": "17c988c46dfb3a5bd04da8b9dd78125052a8526279160eccc40e403ded3af266",
+   "original_wav_filename": "mer-04.full.wav"
+  },
+  "mer-04#2": {
+   "src": "audio/narration/mer-04__s2__06a013501882.mp3",
+   "text": "왼쪽 위 이 정류장은 2층이다. 윗니 아래 위층에는 요리사의 노란 버스, 위경은 윗니로 들어간다. 아랫니 줄 곁 아래층에는 솔 든 청소부의 흰 버스, 대장경은 아랫니로 들어간다. 이에 닿는 경은 둘, 양명의 짝이다, 상치 위, 하치 대장. 대장경은 검지 끝 상양에서 시작해 코 옆 영향에서 끝나고, 위경은 코 뿌리에서 시작해 둘째 발가락 끝 여태에서 끝난다.",
+   "text_sha256": "06a013501882817a20476ac0a0e2d3fe199a649798f0c1613d365bc2a9bde89b",
+   "audio_sha256": "3a7fdea213df1d65153b84ad56f2a567f8960bf6b3ac7b1873a298735367009a",
+   "image_sha256": "5ff06f09632b46ac0aa1078333af37772c0d2d995c6425985286e130ada3e814",
+   "source_commit": "cb55161bee10bafa87131f8ea912c9e7f8219c66",
+   "station_sha256": "9311dde08c846279b5d57bca8c39dacc6924a9f19d15348cec27ac3c4ebf261a",
+   "original_wav_sha256": "17c988c46dfb3a5bd04da8b9dd78125052a8526279160eccc40e403ded3af266",
+   "original_wav_filename": "mer-04.full.wav"
+  },
+  "mer-04#3": {
+   "src": "audio/narration/mer-04__s3__0e49ce001567.mp3",
+   "text": "오른쪽 위 귀 정류장에는 버스 셋이 나란히 섰다. 붉은 앞치마 일꾼 소장, 삽 든 주황 일꾼 삼초, 초록 판관 담. 귓속에 들어가는 경은 이 셋이다, 삼초, 소장, 담. 소장경은 귀 앞 청궁에서 끝나고, 삼초경은 귀를 지나 눈썹 끝 사죽공에서 끝난다. 혀에 닿는 경은 비와 심, 그리고 신과 독맥이다.",
+   "text_sha256": "0e49ce0015673155aaa8a4314f52465b2401f3519f6d89fb6aee961563696c70",
+   "audio_sha256": "baa9f4c9defac45523518e7a2e5674cbc234099c0be04b76b0935060d89eae2a",
+   "image_sha256": "5ff06f09632b46ac0aa1078333af37772c0d2d995c6425985286e130ada3e814",
+   "source_commit": "cb55161bee10bafa87131f8ea912c9e7f8219c66",
+   "station_sha256": "877846ae41cd7c5a01cb5b1f1bcc9489a001be0f44f14e2792683a941637605e",
+   "original_wav_sha256": "17c988c46dfb3a5bd04da8b9dd78125052a8526279160eccc40e403ded3af266",
+   "original_wav_filename": "mer-04.full.wav"
+  },
+  "mer-04#4": {
+   "src": "audio/narration/mer-04__s4__8854ef59e631.mp3",
+   "text": "왼쪽 아래 혀 정류장에는 농부의 노란 버스와 대머리 장사의 검은 버스. 혀뿌리, 설본에 닿는 경은 비와 신이다, 비경은 혀뿌리에 이어져 혀 밑으로 퍼지고, 연설본 산설하, 신경은 혀뿌리를 낀다 협설본. 오른쪽 아래 눈 정류장에는 임금의 붉은 버스와 장군의 초록 버스. 눈의 뿌리, 목계에 닿는 경은 심과 간이다, 심은 목계에 매이고 계목계, 간은 목계에 이어진다 연목계. 비경은 엄지발가락 끝 은백에서 시작한다.",
+   "text_sha256": "8854ef59e631feea8e1261435e665ca6d62d3e2493e9b862c667bb10dbd2913f",
+   "audio_sha256": "8fa247a28c98afb119ca854e696fdf5785e95f36f420f252ebce59ff1d7132a1",
+   "image_sha256": "5ff06f09632b46ac0aa1078333af37772c0d2d995c6425985286e130ada3e814",
+   "source_commit": "cb55161bee10bafa87131f8ea912c9e7f8219c66",
+   "station_sha256": "1634c06c01f333878b47c19cb0d6f017b3071526aac50fe804036c315b50cb70",
+   "original_wav_sha256": "17c988c46dfb3a5bd04da8b9dd78125052a8526279160eccc40e403ded3af266",
+   "original_wav_filename": "mer-04.full.wav"
+  },
+  "mer-04#5": {
+   "src": "audio/narration/mer-04__s5__b39520cdc3a3.mp3",
+   "text": "경마다 출발 혈과 종점 혈이 있다. 영추 경맥편 원문은 부위로만 적었고, 혈 이름은 뒤에 붙인 것이다, 중부, 영향은 갑을경, 소상, 상양은 영추 본수. 수경, 폐는 중부에서 소상, 대장은 상양에서 영향. 흰 버스 둘은 엄지와 검지 끝, 소상과 상양에서 만난다, 두 상, 양상, 기가 끊어진 것을 살린다. 심포는 천지에서 중충, 삼초는 관충에서 사죽공. 심은 극천에서 새끼손가락 안쪽 소충에서 끝나 소장의 소택으로 건너가고, 소장은 소택에서 청궁까지 간다. 방광은 새끼발가락 바깥 지음에서 끝난다.",
+   "text_sha256": "b39520cdc3a343e193db86439bc67773c330f14c1346c41136a8d1a13213fdfd",
+   "audio_sha256": "bb2a97205b950e3d1e141d3cfa4f6bb0fccffee0bbfc1bc2375e82b8005c769c",
+   "image_sha256": "5ff06f09632b46ac0aa1078333af37772c0d2d995c6425985286e130ada3e814",
+   "source_commit": "cb55161bee10bafa87131f8ea912c9e7f8219c66",
+   "station_sha256": "4126d69abb7b24e9c747deb605c24eed19bea1a79ab26e505bf2f48a3e1ee9fd",
+   "original_wav_sha256": "17c988c46dfb3a5bd04da8b9dd78125052a8526279160eccc40e403ded3af266",
+   "original_wav_filename": "mer-04.full.wav"
+  },
+  "mer-04#6": {
+   "src": "audio/narration/mer-04__s6__411c57272eb4.mp3",
+   "text": "눈 정류장의 커다란 눈, 그 양 끝을 본다. 바깥 눈꼬리, 목외자에서 출발하는 것은 담경, 동자료에서 족규음까지. 안쪽 눈구석, 목내자에서 출발하는 것은 방광경, 정명에서 지음까지. 위경은 눈 밑 승읍에서 여태까지. 족삼음은 발에서 오른다, 비는 은백에서 대포, 간은 대돈에서 기문, 신은 용천에서 수부.",
+   "text_sha256": "411c57272eb4748989d72f6e5e993248b72982b44835c154360066b099259b37",
+   "audio_sha256": "6560b6a0d15dce59aa9615c0f704a27287ccede69a0a6db9755aed5037cc309c",
+   "image_sha256": "5ff06f09632b46ac0aa1078333af37772c0d2d995c6425985286e130ada3e814",
+   "source_commit": "cb55161bee10bafa87131f8ea912c9e7f8219c66",
+   "station_sha256": "05dd41828a9afea5e0c7f612d82d4bb6fc518d430ecf4325f717917caf25a20b",
+   "original_wav_sha256": "17c988c46dfb3a5bd04da8b9dd78125052a8526279160eccc40e403ded3af266",
+   "original_wav_filename": "mer-04.full.wav"
+  },
+  "mer-04#7": {
+   "src": "audio/narration/mer-04__s7__ff06e9b6bfa8.mp3",
+   "text": "다시 본다. 위장 차고 입구의 흰 노인 버스, 폐경은 중초에서 시작해 위구를 돈다. 이 정류장 위층은 요리사 위, 아래층은 흰 청소부 대장. 귀 정류장의 셋, 소장, 삼초, 담. 혀 정류장, 비와 신. 눈 정류장, 심과 간. 눈꼬리는 담, 눈구석은 방광이 출발한다.",
+   "text_sha256": "ff06e9b6bfa81666fd933b011197c8114fed670c3691cc2b96991c59cb1f1eff",
+   "audio_sha256": "18133e55026196d1e101424301af7d615193fa4db7a9af0ec8871a29ccd450e4",
+   "image_sha256": "5ff06f09632b46ac0aa1078333af37772c0d2d995c6425985286e130ada3e814",
+   "source_commit": "cb55161bee10bafa87131f8ea912c9e7f8219c66",
+   "station_sha256": "e77b1bb2cbdbee6aeef38b443e697dc524946d4e12450ce64bbb62b03ce75c5e",
+   "original_wav_sha256": "17c988c46dfb3a5bd04da8b9dd78125052a8526279160eccc40e403ded3af266",
+   "original_wav_filename": "mer-04.full.wav"
   }
  }
 }

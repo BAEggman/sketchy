@@ -7370,6 +7370,160 @@
    "station_sha256": "e1e85ebcd951344f6c3ce6b80ddf1b2bb87007ef33dc4295238efcf62587fe7d",
    "original_wav_sha256": "baf4cd3417a5681a79b3cb51b3aba0e823c4c6a519da0605ae1c177d09ad8a8d",
    "original_wav_filename": "new-jq-06.full.wav"
+  },
+  "new-jq-07#0": {
+   "src": "audio/narration/new-jq-07__s0__27c05d78ceb9.mp3",
+   "text": "들판을 달리는 증기기관차다. 증기, 곧 기가 기차를 움직인다. 오른쪽 기관차의 여섯 부분이 기의 여섯 기능이고, 왼쪽으로 끌려오는 화차 다섯은 붙들지 못해 새는 것들, 고섭 실조다. 기관차부터 보고, 화차를 앞에서 뒤로 본다.",
+   "text_sha256": "27c05d78ceb9c1ba707c8a34bcf51364d013c20b6885d0e9c96d2c6729dbe4b0",
+   "audio_sha256": "65aff97edaa0fb7a30503aa9040393db61dd2f0f1ee650101c72500a3a63b2d0",
+   "image_sha256": "70a07a8bcd6219a761c4892e3701d4934bac5c03812ca970765e3a22e307e8a5",
+   "source_commit": "a9b2822db8e4481c56481792c489530f0f33307b",
+   "station_sha256": "cc0300502108cc6c25609c538d34c9b8483f4b61d4db83aaa25182136c03f8fe",
+   "original_wav_sha256": "321b7a80b72dc4d473ddf704d9d4b73974490ba80b95567a33c6cdec224e0169",
+   "original_wav_filename": "new-jq-07.full.wav"
+  },
+  "new-jq-07#1": {
+   "src": "audio/narration/new-jq-07__s1__33471de0ac4b.mp3",
+   "text": "기관차 여섯 부분을 한 번에 짚는다. 피스톤이 밀고, 추동, 화실이 데우고, 온후, 배장기가 막고, 방어, 사슬이 붙들고, 고섭, 보일러가 바꾸고, 기화, 석탄이 먹인다, 영양. 기의 여섯 기능, 추동, 온후, 방어, 고섭, 기화, 영양.",
+   "text_sha256": "33471de0ac4b2743453ffacb5ed69561de848b18eaae73ae3dd8280270440c80",
+   "audio_sha256": "a9deb5050d17d7c93808a5a7e3f93788195918fbff7d431b28d22496fa433cc0",
+   "image_sha256": "70a07a8bcd6219a761c4892e3701d4934bac5c03812ca970765e3a22e307e8a5",
+   "source_commit": "a9b2822db8e4481c56481792c489530f0f33307b",
+   "station_sha256": "2dc81ab8992bf12e948d6553208750e98119090687370a1a0fbdf9413b4b6fb0",
+   "original_wav_sha256": "321b7a80b72dc4d473ddf704d9d4b73974490ba80b95567a33c6cdec224e0169",
+   "original_wav_filename": "new-jq-07.full.wav"
+  },
+  "new-jq-07#2": {
+   "src": "audio/narration/new-jq-07__s2__5b079286b287.mp3",
+   "text": "피스톤 막대가 큰 바퀴를 밀어 돌린다, 추동. 생장과 발육, 장부와 경락의 활동을 밀고, 혈을 만들어 돌리고 진액을 만들어 퍼뜨린다. 미는 힘이 약하면 혈이 멈춰 혈어가 된다.",
+   "text_sha256": "5b079286b2872dce5d2fe66e961893fdf289452feae47d30c52d8c2d882fd2e5",
+   "audio_sha256": "b67abf1a00e2419884465edb35819010990c485c6565b28199973d4daa878212",
+   "image_sha256": "70a07a8bcd6219a761c4892e3701d4934bac5c03812ca970765e3a22e307e8a5",
+   "source_commit": "a9b2822db8e4481c56481792c489530f0f33307b",
+   "station_sha256": "b85ff2897ab47bd8d1ec8d2830306cf80cb1b021ee042ac6a131b862abc6fd00",
+   "original_wav_sha256": "321b7a80b72dc4d473ddf704d9d4b73974490ba80b95567a33c6cdec224e0169",
+   "original_wav_filename": "new-jq-07.full.wav"
+  },
+  "new-jq-07#3": {
+   "src": "audio/narration/new-jq-07__s3__435af7c9459f.mp3",
+   "text": "화실 문이 열려 불꽃이 탄다, 온후, 데운다. 난경, 기주후지, 기는 데우는 것을 주관한다. 체온을 지키며 심화, 비양, 신양, 명문화와 이어진다. 불이 약하면 온후부족이위한, 추위를 타고 팔다리가 차다.",
+   "text_sha256": "435af7c9459f0f1c92f73ad50b9a25bd0ce56da0d2772602e8568d2f7414d923",
+   "audio_sha256": "3ffc1ca94b9c30cceb72af1d95e324c06d6a244e96af837e21fa7525b5d359c5",
+   "image_sha256": "70a07a8bcd6219a761c4892e3701d4934bac5c03812ca970765e3a22e307e8a5",
+   "source_commit": "a9b2822db8e4481c56481792c489530f0f33307b",
+   "station_sha256": "08a0608cab4d68e0a2817850f42ff5ffbb454fc61cb8442f84085cb0f2fac756",
+   "original_wav_sha256": "321b7a80b72dc4d473ddf704d9d4b73974490ba80b95567a33c6cdec224e0169",
+   "original_wav_filename": "new-jq-07.full.wav"
+  },
+  "new-jq-07#4": {
+   "src": "audio/narration/new-jq-07__s4__5501793a5733.mp3",
+   "text": "맨 앞 빨간 배장기가 선로를 가로막은 나뭇가지를 밀어내고 돌은 옆으로 흩어졌다, 방어. 위기가 몸 겉을 지키고 땀구멍을 여닫아 외사를 막는다. 사기소주 기기필허, 사기가 모여든 곳은 반드시 기가 허하다. 막는 힘이 약하면 감기에 잘 걸리고 저절로 땀이 난다.",
+   "text_sha256": "5501793a5733f50e4e82c15e9c3e16b5196ff1b68746b0bf37e235dd08486225",
+   "audio_sha256": "85b372ca8ffb7a4367a59d6565098abb67257165010619a22f8ef2d2fee81c27",
+   "image_sha256": "70a07a8bcd6219a761c4892e3701d4934bac5c03812ca970765e3a22e307e8a5",
+   "source_commit": "a9b2822db8e4481c56481792c489530f0f33307b",
+   "station_sha256": "29d8e4d7929ab7589b08b49f65b9155bfdd20acc35ff8c5a6d236092e7c2edb1",
+   "original_wav_sha256": "321b7a80b72dc4d473ddf704d9d4b73974490ba80b95567a33c6cdec224e0169",
+   "original_wav_filename": "new-jq-07.full.wav"
+  },
+  "new-jq-07#5": {
+   "src": "audio/narration/new-jq-07__s5__8986fdfdf90a.mp3",
+   "text": "화차와 화차를 쇠사슬이 붙들고 있다, 고섭. 혈, 한, 요, 정액이 함부로 새지 않게 잡아 거느린다. 대표 예가 비통혈, 피가 혈관 밖으로 새지 않게 붙든다. 이 카드는 고섭의 대상을 혈, 한, 요, 정액으로 보고, 장기 위치를 잡는 것은 고섭으로 보지 않는다.",
+   "text_sha256": "8986fdfdf90ace1251c293b5bb69975b84577a79bbce7a6ebbfa3ec60367a81b",
+   "audio_sha256": "c7539ab10c17544937dd2bdee52faf230ff2450f384e60038ef06e1aec5c2f54",
+   "image_sha256": "70a07a8bcd6219a761c4892e3701d4934bac5c03812ca970765e3a22e307e8a5",
+   "source_commit": "a9b2822db8e4481c56481792c489530f0f33307b",
+   "station_sha256": "b3ef97faabf8e8573736367d5c6fccf5b49cfafc1904bf9f470271aac6e06ff3",
+   "original_wav_sha256": "321b7a80b72dc4d473ddf704d9d4b73974490ba80b95567a33c6cdec224e0169",
+   "original_wav_filename": "new-jq-07.full.wav"
+  },
+  "new-jq-07#6": {
+   "src": "audio/narration/new-jq-07__s6__2dab83a9740d.mp3",
+   "text": "보일러 속 물이 불을 만나 증기가 되고, 굴뚝을 나간 증기는 구름으로 엉긴다, 기화, 바뀜. 양화기 음성형, 양은 기로 바꾸고 음은 형체를 이룬다. 정, 기, 혈, 진액이 생기고 대사되고 서로 바뀌는 것이 모두 기화다. 생명활동의 본질이다.",
+   "text_sha256": "2dab83a9740de699a149eb59eefc8eb1554acd76f05032a15dc63753d38c5c82",
+   "audio_sha256": "b5edea66049bdfc9374513e2137396d491eadfc8437f08578cf5f9e3edbd4e7d",
+   "image_sha256": "70a07a8bcd6219a761c4892e3701d4934bac5c03812ca970765e3a22e307e8a5",
+   "source_commit": "a9b2822db8e4481c56481792c489530f0f33307b",
+   "station_sha256": "bfae1ea40f25b9eeaf3e79c2712fb2ac8a9cdb6b04621e7ae21eaae329fc2e95",
+   "original_wav_sha256": "321b7a80b72dc4d473ddf704d9d4b73974490ba80b95567a33c6cdec224e0169",
+   "original_wav_filename": "new-jq-07.full.wav"
+  },
+  "new-jq-07#7": {
+   "src": "audio/narration/new-jq-07__s7__e4532a52d633.mp3",
+   "text": "탄수차의 석탄 더미에서 삽이 석탄을 떠 올린다, 기관차에 먹일 밥이다. 영양, 먹여 준다. 기자 정신지근체야, 기는 정과 신의 뿌리와 꼭지다. 몸 곳곳에 영양을 대 준다.",
+   "text_sha256": "e4532a52d633339c2177890908c8798521ff1a1c4fe7f9bc1dadc6c4e498eacd",
+   "audio_sha256": "5116a365f9d9261dd53e036860013baf82c3c378e17362cfbef41bb3aa061c34",
+   "image_sha256": "70a07a8bcd6219a761c4892e3701d4934bac5c03812ca970765e3a22e307e8a5",
+   "source_commit": "a9b2822db8e4481c56481792c489530f0f33307b",
+   "station_sha256": "33a15f60b41f375eb6a787462b39b6b94288df503bb3888812d91f4d594dcc83",
+   "original_wav_sha256": "321b7a80b72dc4d473ddf704d9d4b73974490ba80b95567a33c6cdec224e0169",
+   "original_wav_filename": "new-jq-07.full.wav"
+  },
+  "new-jq-07#8": {
+   "src": "audio/narration/new-jq-07__s8__d3eee03493e8.mp3",
+   "text": "이제 붙들지 못한 화차들. 기관차 바로 뒤 빨간 탱크차가 금 간 틈으로 붉은 액체를 흘린다, 기불섭혈, 기가 혈을 붙들지 못하면 출혈이다.",
+   "text_sha256": "d3eee03493e880880513cd3a646b191ec8f9bbb7fd31f8c44d7cce3b4e962a64",
+   "audio_sha256": "bc029c694432613e26daff0b561011d48a8594e9b33527ac642d441d329c1cd9",
+   "image_sha256": "70a07a8bcd6219a761c4892e3701d4934bac5c03812ca970765e3a22e307e8a5",
+   "source_commit": "a9b2822db8e4481c56481792c489530f0f33307b",
+   "station_sha256": "940fd36745b1e28b1c98890f024de3b88c81252392cefed4d6932d405005cdfa",
+   "original_wav_sha256": "321b7a80b72dc4d473ddf704d9d4b73974490ba80b95567a33c6cdec224e0169",
+   "original_wav_filename": "new-jq-07.full.wav"
+  },
+  "new-jq-07#9": {
+   "src": "audio/narration/new-jq-07__s9__37463929f39a.mp3",
+   "text": "다음, 물탱크차의 헐거운 꼭지 둘에서 물이 샌다, 진액실섭, 진액을 붙들지 못하면 오줌이 새는 유뇨, 밤에 지리는 야뇨, 땀이 새는 한출이다.",
+   "text_sha256": "37463929f39aeacedd487a931f8d31e96b750b5a882d5556c436c2d7d7f4b774",
+   "audio_sha256": "7b8cc66d64dcc4a6859a63e8b52208242af2ce86427f1006e754393111ca84b3",
+   "image_sha256": "70a07a8bcd6219a761c4892e3701d4934bac5c03812ca970765e3a22e307e8a5",
+   "source_commit": "a9b2822db8e4481c56481792c489530f0f33307b",
+   "station_sha256": "c4bb6bae6ab61d748bf54e66ebb0343d3f517ac3c50c55ba3556f27c717ff158",
+   "original_wav_sha256": "321b7a80b72dc4d473ddf704d9d4b73974490ba80b95567a33c6cdec224e0169",
+   "original_wav_filename": "new-jq-07.full.wav"
+  },
+  "new-jq-07#10": {
+   "src": "audio/narration/new-jq-07__s10__697a5c35a6a0.mp3",
+   "text": "다음, 흰 진주 화차의 옆문이 헐거워 진주가 흘러내린다, 기불섭정, 정을 붙들지 못하면 유정, 활정, 조설이다.",
+   "text_sha256": "697a5c35a6a0467cdd9d1177919a78b46ad0d62a3908c9664c57b570536fde8b",
+   "audio_sha256": "f117ddc726b6560aec0083112aabf8e3c0671a8e6640f38482b52f08342b705e",
+   "image_sha256": "70a07a8bcd6219a761c4892e3701d4934bac5c03812ca970765e3a22e307e8a5",
+   "source_commit": "a9b2822db8e4481c56481792c489530f0f33307b",
+   "station_sha256": "9f4e2cfa02b75c38ec99a520799d882504fe8694e353ef6f26fd7ff3550ff7cd",
+   "original_wav_sha256": "321b7a80b72dc4d473ddf704d9d4b73974490ba80b95567a33c6cdec224e0169",
+   "original_wav_filename": "new-jq-07.full.wav"
+  },
+  "new-jq-07#11": {
+   "src": "audio/narration/new-jq-07__s11__0ea3ac43a9fd.mp3",
+   "text": "다음, 검은 화차. 큰 나팔에서는 바람이 넓게 쏟아져 나가는데, 옆 작은 관의 바람은 가는 한 줄기뿐, 내쉬는 것은 크고 들이는 것은 작다. 신불납기, 신이 기를 받아들이지 못하면 내쉬기는 많고 들이쉬기는 적은 천식, 호다흡소다.",
+   "text_sha256": "0ea3ac43a9fd0f61cdb141efd0976bcbfef839c91d40349776422d6340398e97",
+   "audio_sha256": "b8d4a93bf516f1c5a791a04cdc850f0d73ba2ffae00c5c3e3c4ca48042321485",
+   "image_sha256": "70a07a8bcd6219a761c4892e3701d4934bac5c03812ca970765e3a22e307e8a5",
+   "source_commit": "a9b2822db8e4481c56481792c489530f0f33307b",
+   "station_sha256": "9d6caf94be1103f9b97baa0af86e9897b97b7a056555d02ad7ad1f8756736123",
+   "original_wav_sha256": "321b7a80b72dc4d473ddf704d9d4b73974490ba80b95567a33c6cdec224e0169",
+   "original_wav_filename": "new-jq-07.full.wav"
+  },
+  "new-jq-07#12": {
+   "src": "audio/narration/new-jq-07__s12__b1365473777a.mp3",
+   "text": "맨 끝 화차는 바닥이 축 처져 꺼지고 자루가 빠져나간다. 기가 장기를 붙들지 못하면 위하수, 탈항, 탈음, 장기가 처지고 빠진다. 다만 앞의 비통혈 카드는 장기 위치를 잡는 것을 고섭으로 보지 않는다, 문제의 보기 기준을 따를 것.",
+   "text_sha256": "b1365473777a8d53c36e61d539315e0bf1402acafeb73ce8aa8977f904bf6907",
+   "audio_sha256": "39d71691de22e0d59dc3eb39ae9735ead803ba87e5c2481d141998153286d7fd",
+   "image_sha256": "70a07a8bcd6219a761c4892e3701d4934bac5c03812ca970765e3a22e307e8a5",
+   "source_commit": "a9b2822db8e4481c56481792c489530f0f33307b",
+   "station_sha256": "b37c3536ef439363c91f861c954bb4f0ab861cbb16dbf9208bb2cf02e59277b0",
+   "original_wav_sha256": "321b7a80b72dc4d473ddf704d9d4b73974490ba80b95567a33c6cdec224e0169",
+   "original_wav_filename": "new-jq-07.full.wav"
+  },
+  "new-jq-07#13": {
+   "src": "audio/narration/new-jq-07__s13__2bd019627c66.mp3",
+   "text": "다시 본다. 피스톤이 미는 추동, 화실이 데우는 온후 기주후지, 배장기가 막는 방어 사기소주 기기필허, 사슬이 붙드는 고섭 비통혈, 보일러가 바꾸는 기화 양화기 음성형, 석탄이 먹이는 영양 기자정신지근체. 붙들지 못하면, 붉은 탱크 출혈, 물탱크 유뇨, 야뇨, 한출, 진주 유정, 활정, 조설, 검은 깔때기 천식, 처진 화차 위하수, 탈항, 탈음.",
+   "text_sha256": "2bd019627c66153cff6b4e60c638ddf0f97c0e8630c49b5fb7f07b87c1471c78",
+   "audio_sha256": "bcd9264a797581dbd906aa844080708e75bac8fae821207afb8f04e15e981cee",
+   "image_sha256": "70a07a8bcd6219a761c4892e3701d4934bac5c03812ca970765e3a22e307e8a5",
+   "source_commit": "a9b2822db8e4481c56481792c489530f0f33307b",
+   "station_sha256": "597b8072c3ffa6c283e1c11addee5ebe1c4c0fe5f36f19891d3c1da8813107ac",
+   "original_wav_sha256": "321b7a80b72dc4d473ddf704d9d4b73974490ba80b95567a33c6cdec224e0169",
+   "original_wav_filename": "new-jq-07.full.wav"
   }
  }
 }

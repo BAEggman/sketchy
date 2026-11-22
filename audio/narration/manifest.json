@@ -10483,6 +10483,160 @@
    "station_sha256": "b5a2f6601ed8c4c2850bd20ecc9a485ff25b2aa9475be513d82a589dd4543c52",
    "original_wav_sha256": "840bcb84f091cc4a09ddabc9114ef3c427151a60adfb75d90eac455d6d3290d2",
    "original_wav_filename": "new-gr-10.full.wav"
+  },
+  "mer-03#0": {
+   "src": "audio/narration/mer-03__s0__6840b11f9672.mp3",
+   "text": "산후조리원 신생아실에 요람 일곱이 한 줄로 놓였고, 요람마다 아빠가 섰다. 영추 경맥편은 경맥마다 시동즉병 무엇, 시주 무엇 소생병자 무엇이라 적는다. 폐, 심, 비, 간, 신 다섯은 시주에 제 이름이 오지만, 나머지 일곱은 엉뚱한 것을 주한다. 요람의 아기가 그것이다. 이 아기는 어느 집 아기인가, 그것이 그대로 시험 문제다.",
+   "text_sha256": "6840b11f9672343fbb254769c2743946882f7f86886842fd35babb406589e2ec",
+   "audio_sha256": "c8f49e5e72c891789d35a81132f1d858ecbf686ff4870a65f1b9d9a7cf9e61b4",
+   "image_sha256": "2abc9c290fcc47d501f5ceb60188854a08177a4b359991452239e710c4b1531b",
+   "source_commit": "1dd20a11634523f3884e9c8d2fcf4f3ca10f8b16",
+   "station_sha256": "3c3e68971a4031f4d82c793e013ffe34fb4ee6ae285176eb4ab1997b9274e538",
+   "original_wav_sha256": "3cfd01f9363272430b114cac51c07183cff56c8670f89c93299d83d92f94a523",
+   "original_wav_filename": "mer-03.full.wav"
+  },
+  "mer-03#1": {
+   "src": "audio/narration/mer-03__s1__6b66ea455130.mp3",
+   "text": "첫째 요람의 아기는 커다란 땀방울을 안았다. 아빠는 관 청소솔 든 흰 작업복 일꾼, 대장이다. 대장은 진을 주한다, 시주진소생병. 양상선의 태소 주에 진은 땀이라 했다, 진，한야. 영추 통행본은 진액이라 적지만, 교재는 태소를 따라 대장 진, 소장 액으로 짝짓는다.",
+   "text_sha256": "6b66ea4551300a68aa3d7c803e873b53d93faf7a1528db4f299a368b8cfefcf3",
+   "audio_sha256": "9d48fb3bb0169af2942ade04d21e8d905532514de53702c09941edef1f2b8f29",
+   "image_sha256": "2abc9c290fcc47d501f5ceb60188854a08177a4b359991452239e710c4b1531b",
+   "source_commit": "1dd20a11634523f3884e9c8d2fcf4f3ca10f8b16",
+   "station_sha256": "0e68955d3cbffe94319b709dd7a4259487a582e9d4d76b75c43a999a597625e9",
+   "original_wav_sha256": "3cfd01f9363272430b114cac51c07183cff56c8670f89c93299d83d92f94a523",
+   "original_wav_filename": "mer-03.full.wav"
+  },
+  "mer-03#2": {
+   "src": "audio/narration/mer-03__s2__4c9b9297016c.mp3",
+   "text": "둘째 요람의 아기는 붉은 핏방울을 안았다. 아빠는 국자 든 노란 앞치마 요리사, 위다. 위는 혈을 주한다, 시주혈소생병. 요리사가 끓인 음식, 수곡이 피가 된다.",
+   "text_sha256": "4c9b9297016c036eea7b5ea5645e9b9168cc838ef28581e3904b387fd01a5bb6",
+   "audio_sha256": "c99b42a2776941044490fbe5032ebe0c8a9fbb52fb094aad9b111203b6f3fedb",
+   "image_sha256": "2abc9c290fcc47d501f5ceb60188854a08177a4b359991452239e710c4b1531b",
+   "source_commit": "1dd20a11634523f3884e9c8d2fcf4f3ca10f8b16",
+   "station_sha256": "5bccaa07e12f14b20e099e7c6528bf17df160c0d6ef8a4f977669045021ef63c",
+   "original_wav_sha256": "3cfd01f9363272430b114cac51c07183cff56c8670f89c93299d83d92f94a523",
+   "original_wav_filename": "mer-03.full.wav"
+  },
+  "mer-03#3": {
+   "src": "audio/narration/mer-03__s3__9d888736fbf4.mp3",
+   "text": "셋째 요람의 아기는 걸쭉한 젖빛 액이 든 병을 안았다. 아빠는 체 든 붉은 앞치마 일꾼, 소장이다. 소장은 액을 주한다, 시주액소생병. 체로 걸러 낸 걸쭉한 것이 액이다. 맑은 진은 대장, 걸쭉한 액은 소장. 기출에 진으로 적힌 적이 있지만 교재와 영추는 액이다.",
+   "text_sha256": "9d888736fbf4adb5b6818c6ca6e22f19f5aa7a050b9f4e46059816000ac0d514",
+   "audio_sha256": "939f90e77e046ef5d6eaa7e39ca3333bc2410278ddf7f044494d64175bf5687f",
+   "image_sha256": "2abc9c290fcc47d501f5ceb60188854a08177a4b359991452239e710c4b1531b",
+   "source_commit": "1dd20a11634523f3884e9c8d2fcf4f3ca10f8b16",
+   "station_sha256": "0f038e9d14c0e93b8a5f0a1c393ec0524787275175813ef1e792414d16d41813",
+   "original_wav_sha256": "3cfd01f9363272430b114cac51c07183cff56c8670f89c93299d83d92f94a523",
+   "original_wav_filename": "mer-03.full.wav"
+  },
+  "mer-03#4": {
+   "src": "audio/narration/mer-03__s4__0c78366e2e2f.mp3",
+   "text": "넷째 요람의 아기는 활을 쥐었다. 팽팽한 활시위는 힘줄, 근이다. 아빠는 물지게 진 검은 옷 일꾼, 방광이다. 방광은 근을 주한다, 시주근소생병. 기출에 혈로 적힌 적이 있지만 교재와 영추는 근이다. 아빠는 머리를 감싸 쥐고 허리를 구부렸다, 머리가 빠질 듯, 허리가 꺾일 듯한 두사탈, 요사절, 방광의 시동이다.",
+   "text_sha256": "0c78366e2e2f24f5efe6c86324c9a1485a3a32dcde70db7d7923fdec0ebece91",
+   "audio_sha256": "b73444de1126b9a160d259463854c1a60e4d41ad428c174f7b7c497da62f2b72",
+   "image_sha256": "2abc9c290fcc47d501f5ceb60188854a08177a4b359991452239e710c4b1531b",
+   "source_commit": "1dd20a11634523f3884e9c8d2fcf4f3ca10f8b16",
+   "station_sha256": "f270e55e451a326b00aec1aa33dd0e39ac7c27801b9fb12149e11bb39eb17634",
+   "original_wav_sha256": "3cfd01f9363272430b114cac51c07183cff56c8670f89c93299d83d92f94a523",
+   "original_wav_filename": "mer-03.full.wav"
+  },
+  "mer-03#5": {
+   "src": "audio/narration/mer-03__s5__8a7899787a5f.mp3",
+   "text": "다섯째 요람의 아기는 구불구불한 붉은 관을 안았다. 붉은 관은 혈관, 맥이다. 아빠는 방패 든 붉은 갑옷 호위무사, 심포다. 심포는 맥을 주한다, 시주맥소생병. 음경 가운데 제 이름이 아닌 것은 심포 하나뿐이다. 아빠의 손바닥이 화끈하고 겨드랑이가 부었다, 수심열, 액종, 심포의 시동이다.",
+   "text_sha256": "8a7899787a5f8d3da4ca2c9f4320952dc264b7edc1166c70c3ffcc3848c07872",
+   "audio_sha256": "9ed9de6de5f13d12a049c52341cbe41201f7d826c6aef0084734a632e5f99fd3",
+   "image_sha256": "2abc9c290fcc47d501f5ceb60188854a08177a4b359991452239e710c4b1531b",
+   "source_commit": "1dd20a11634523f3884e9c8d2fcf4f3ca10f8b16",
+   "station_sha256": "510a1b710da4e2e0b4770e380f9c35cd1431c4749670dfec8573e5b1d5b03d6e",
+   "original_wav_sha256": "3cfd01f9363272430b114cac51c07183cff56c8670f89c93299d83d92f94a523",
+   "original_wav_filename": "mer-03.full.wav"
+  },
+  "mer-03#6": {
+   "src": "audio/narration/mer-03__s6__6d9454129f17.mp3",
+   "text": "여섯째 요람의 아기는 하늘색 풍선을 안았다. 풍선은 기다. 아빠는 삽 든 주황 옷 일꾼, 삼초다. 삼초는 기를 주한다, 시주기소생병.",
+   "text_sha256": "6d9454129f17cc427aa0198036810d13554c1a76131a16c97018c360884c2090",
+   "audio_sha256": "9caad61df9eb2eb671beaf8bec9d75fa9d816dbbb23c8c307b968600104f9a5d",
+   "image_sha256": "2abc9c290fcc47d501f5ceb60188854a08177a4b359991452239e710c4b1531b",
+   "source_commit": "1dd20a11634523f3884e9c8d2fcf4f3ca10f8b16",
+   "station_sha256": "0ac06f53bbb063380c7ff51d4ab89a211111ca22e71214a9f1fde1181917c430",
+   "original_wav_sha256": "3cfd01f9363272430b114cac51c07183cff56c8670f89c93299d83d92f94a523",
+   "original_wav_filename": "mer-03.full.wav"
+  },
+  "mer-03#7": {
+   "src": "audio/narration/mer-03__s7__9f12b5c323c9.mp3",
+   "text": "일곱째 요람의 아기는 흰 뼈를 안았다. 아빠는 왼쪽 뒤에 선 저울 든 초록 관복 판관, 담이다. 오른쪽 뒤의 임금은 손님이다. 담은 골을 주한다, 시주골소생병. 일곱을 한 줄로 다시, 대장 진, 위 혈, 소장 액, 방광 근, 심포 맥, 삼초 기, 담 골. 방광을 혈이라 하면 틀린다. 출전은 영추 경맥편이다.",
+   "text_sha256": "9f12b5c323c94699a93fb88f90c4d1a4f122137c78f8eec16a15c863be0cdbb5",
+   "audio_sha256": "219dac7cd3879f384c9d7fe0a8360dc6f4e77da7d4c9ab9ace5323a1e33887eb",
+   "image_sha256": "2abc9c290fcc47d501f5ceb60188854a08177a4b359991452239e710c4b1531b",
+   "source_commit": "1dd20a11634523f3884e9c8d2fcf4f3ca10f8b16",
+   "station_sha256": "313155253316685f575244cd681aa2d8bac0ba0ebca835c63abd7b984ca34a0a",
+   "original_wav_sha256": "3cfd01f9363272430b114cac51c07183cff56c8670f89c93299d83d92f94a523",
+   "original_wav_filename": "mer-03.full.wav"
+  },
+  "mer-03#8": {
+   "src": "audio/narration/mer-03__s8__0976f39f7d84.mp3",
+   "text": "아빠들의 병을 본다. 흰 일꾼 대장은 턱에 붕대를 감고 목을 쥐었다, 이가 아프고 목이 붓는 치통, 경종, 대장의 시동이다. 대장의 소생은 눈이 노랗고 입이 마르는 목황, 구건. 붉은 앞치마 소장은 뺨이 붓고 귀 뒤에 손을 댄다, 귀가 먹고 뺨이 붓는 이롱, 협종, 소장의 소생이다. 목 경과 뺨 협, 한 글자 함정이다. 갑을경은 대장 쪽을 협종으로 적었다.",
+   "text_sha256": "0976f39f7d848609d5b8fbcdf9513a1807fbaff911a24afcfc6a6409500c3022",
+   "audio_sha256": "e9cdb2acc3ec1c8372cd4a37ff03a45c6961ac48bd832bea14ea367292c85ea6",
+   "image_sha256": "2abc9c290fcc47d501f5ceb60188854a08177a4b359991452239e710c4b1531b",
+   "source_commit": "1dd20a11634523f3884e9c8d2fcf4f3ca10f8b16",
+   "station_sha256": "6bee4ad6a5e8a77fe48674dad54da56904cb78839985c4ea3106312b36b421de",
+   "original_wav_sha256": "3cfd01f9363272430b114cac51c07183cff56c8670f89c93299d83d92f94a523",
+   "original_wav_filename": "mer-03.full.wav"
+  },
+  "mer-03#9": {
+   "src": "audio/narration/mer-03__s9__64ac2c201186.mp3",
+   "text": "주황 일꾼 삼초는 땀을 흘리며 눈을 비빈다. 눈꼬리가 아프다, 한출, 목예자통, 삼초의 소생이다. 삼초의 시동은 귀가 웅웅 먹는 이롱혼혼돈돈. 초록 판관 담은 열로 떨며 눈을 비빈다. 역시 눈꼬리가 아프다, 학질 학과 목예자통, 담의 소생이다. 담의 시동은 입이 쓰고 한숨 쉬는 구고, 선태식. 눈꼬리 통증은 짝으로만 가린다, 땀이면 삼초, 학질이면 담.",
+   "text_sha256": "64ac2c2011866fe0d8f7b3a00b2db0e028d7d8ec1eb2e331f2861823fe3dbb75",
+   "audio_sha256": "95aaa0dd067db5cce4dd2d3545624abfd5ae62aa612481202c1b3db58afc0a35",
+   "image_sha256": "2abc9c290fcc47d501f5ceb60188854a08177a4b359991452239e710c4b1531b",
+   "source_commit": "1dd20a11634523f3884e9c8d2fcf4f3ca10f8b16",
+   "station_sha256": "7afaa0e8041f94322f25ac868e693023107d4d6d6cfc81e8e742ffaf9e6c2b81",
+   "original_wav_sha256": "3cfd01f9363272430b114cac51c07183cff56c8670f89c93299d83d92f94a523",
+   "original_wav_filename": "mer-03.full.wav"
+  },
+  "mer-03#10": {
+   "src": "audio/narration/mer-03__s10__f4052f1ff23f.mp3",
+   "text": "오른쪽 손님, 붉은 용포 임금 심이 가슴을 움켜쥐고 마른 목에 물을 마신다, 목이 마르고 가슴이 아픈 익건, 심통, 심의 시동이다. 심의 소생은 옆구리가 아프고 손바닥이 화끈 아픈 협통, 장중열통. 호위무사 심포의 소생은 가슴이 답답하고 아픈 번심, 심통. 심통은 짝으로 가린다, 목 마름이면 심의 시동, 답답함이면 심포의 소생.",
+   "text_sha256": "f4052f1ff23f8202a59e5a594ffe3740f888285f32ff937ad59daa34b615e7f5",
+   "audio_sha256": "3aacdae56088be29feaba47119f951d35401a2dfb6b897bbd512c63388041dc9",
+   "image_sha256": "2abc9c290fcc47d501f5ceb60188854a08177a4b359991452239e710c4b1531b",
+   "source_commit": "1dd20a11634523f3884e9c8d2fcf4f3ca10f8b16",
+   "station_sha256": "44abbdd1a5ee1c04a7fa435c8116eaf9fca98c3de9fb45e6eda88eeb17e1c646",
+   "original_wav_sha256": "3cfd01f9363272430b114cac51c07183cff56c8670f89c93299d83d92f94a523",
+   "original_wav_filename": "mer-03.full.wav"
+  },
+  "mer-03#11": {
+   "src": "audio/narration/mer-03__s11__81ea6d53196c.mp3",
+   "text": "흰 도포 노인 폐는 기침하며 손바닥이 화끈하다, 해, 천, 장중열, 폐의 소생이다. 폐의 시동은 폐가 그득하고 쇄골 위 오목이 아픈 폐창만, 결분중통. 손바닥 열은 셋이 나눈다, 기침이면 폐의 소생, 옆구리 통증이면 심의 소생, 겨드랑이 부종이면 심포의 시동, 수심열, 액종이다.",
+   "text_sha256": "81ea6d53196cec6a4320399e7c830e90640e572c55b36e9d97728f54d1f763eb",
+   "audio_sha256": "d6d80f9fee68b099a740f58c5c4063040911516484ae4f58e0ef5284bd04ba57",
+   "image_sha256": "2abc9c290fcc47d501f5ceb60188854a08177a4b359991452239e710c4b1531b",
+   "source_commit": "1dd20a11634523f3884e9c8d2fcf4f3ca10f8b16",
+   "station_sha256": "ad0fb102f39a31f540b62777651783d43d77a9f8fa25d8425b7ca6612b22047b",
+   "original_wav_sha256": "3cfd01f9363272430b114cac51c07183cff56c8670f89c93299d83d92f94a523",
+   "original_wav_filename": "mer-03.full.wav"
+  },
+  "mer-03#12": {
+   "src": "audio/narration/mer-03__s12__2b75be2ee50c.mp3",
+   "text": "노란 요리사 위는 의자에 올라 신나게 노래한다. 높은 데 올라 노래하고 옷을 벗고 달리는 욕상고이가, 기의이주가 위의 시동, 미치고 학질 앓고 입이 돌아가는 광, 학, 구와가 위의 소생이다. 검은 물지게꾼 방광의 시동은 두사탈, 요사절, 소생은 치, 학, 광. 대장의 소생은 목황, 구건. 목황은 다섯 경에 걸리고, 학과 광도 여럿에 걸린다, 홀로는 표지가 못 되고 짝으로만 가린다.",
+   "text_sha256": "2b75be2ee50cfb031cc066a3e9313c63b604387403a0ae36f779f6b83c08a3f5",
+   "audio_sha256": "82f6336576b32dbbe12acd4567a7c997a8699a24fa5b9a0e109c2c0e6ecc43a6",
+   "image_sha256": "2abc9c290fcc47d501f5ceb60188854a08177a4b359991452239e710c4b1531b",
+   "source_commit": "1dd20a11634523f3884e9c8d2fcf4f3ca10f8b16",
+   "station_sha256": "977e3a8c491391f2c7b4c72c20562cfb9fba519daeecdf61da4efee60475006f",
+   "original_wav_sha256": "3cfd01f9363272430b114cac51c07183cff56c8670f89c93299d83d92f94a523",
+   "original_wav_filename": "mer-03.full.wav"
+  },
+  "mer-03#13": {
+   "src": "audio/narration/mer-03__s13__09415485e5fa.mp3",
+   "text": "다시 본다. 땀방울 아기는 흰 청소부 대장의 진. 핏방울 아기는 요리사 위의 혈. 젖빛 병 아기는 체 일꾼 소장의 액. 활 쥔 아기는 물지게꾼 방광의 근. 붉은 관 아기는 호위무사 심포의 맥. 풍선 아기는 삽 일꾼 삼초의 기. 뼈 아기는 판관 담의 골. 목과 뺨, 눈꼬리, 가슴, 손바닥, 목황은 짝으로 가린다.",
+   "text_sha256": "09415485e5faf0baeeaddd2eca4c3dc60b502aac0397d69755f0ab9861703c5f",
+   "audio_sha256": "dcdf4b2d6567ce0094d24470eb688dcaf34601f559d0a876c99acc370b10895f",
+   "image_sha256": "2abc9c290fcc47d501f5ceb60188854a08177a4b359991452239e710c4b1531b",
+   "source_commit": "1dd20a11634523f3884e9c8d2fcf4f3ca10f8b16",
+   "station_sha256": "312c9de6fefd30b02c9d3e5931d48c2e0226016b12386e6d9ff293e868445a62",
+   "original_wav_sha256": "3cfd01f9363272430b114cac51c07183cff56c8670f89c93299d83d92f94a523",
+   "original_wav_filename": "mer-03.full.wav"
   }
  }
 }

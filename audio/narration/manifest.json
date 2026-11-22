@@ -8701,6 +8701,94 @@
    "station_sha256": "d7042914596962cc0c81d18ae3aef45fc29bcaf8634e05d8e5a3dda6f7eaafac",
    "original_wav_sha256": "6ac0cd51d5daeedd05816c544a9dc556ed97ec46499c900be21038fa72781212",
    "original_wav_filename": "new-jq-22.full.wav"
+  },
+  "new-jq-23#0": {
+   "src": "audio/narration/new-jq-23__s0__206dd668194b.mp3",
+   "text": "탈의실이다. 탈은 벗어 빠져나간다는 글자. 사물함 여섯 칸은 결기편의 여섯 이름 차례, 정, 기, 진, 액, 혈, 맥. 칸마다 내용물은 빠져나가고 흔적 하나만 남았고, 그 앞 사람이 그 탈의 증상을 보인다.",
+   "text_sha256": "206dd668194b8268174bd51b638cfbcc1749280df1cecd1522d164ed01d2bf9b",
+   "audio_sha256": "6da3b62a8a2b821938956bc024bfde68e190ea24d858c660e0112ef18b3cda56",
+   "image_sha256": "7ac6c1b85eb6bd19e8e3c4e10263eda56b21c02f51c7b9e05d7786c6d3450f28",
+   "source_commit": "0d48f6188c0c2a3da09f111de8cd0d2ba05149a6",
+   "station_sha256": "1bab80b80e1007135566a0b8db1fce1c05048b2c12e481498d82eb90aa5e0d52",
+   "original_wav_sha256": "ecec79ca44fcfa23df8b13fae3f57d2f40fcb5e6f0eadc57c9e8b8efbd810a24",
+   "original_wav_filename": "new-jq-23.full.wav"
+  },
+  "new-jq-23#1": {
+   "src": "audio/narration/new-jq-23__s1__25944780275c.mp3",
+   "text": "첫째 칸, 흰 쌀자루만 바닥에 버려졌다, 쌀, 정이 빠져나갔다. 앞의 남자는 나팔 보청기를 대도 못 듣는다, 정탈자 이롱, 정이 빠지면 귀가 먹는다. 신은 정을 갈무리하고 귀로 구멍을 연다, 신개규어이.",
+   "text_sha256": "25944780275c457f4633a8c4f9f9cf6c795ca74aee6944bd7f0572d8727dbd33",
+   "audio_sha256": "710bddb66f1ca68c957f9c45a9225cedf8356b48b6e142f3f4cc04393bdf9f46",
+   "image_sha256": "7ac6c1b85eb6bd19e8e3c4e10263eda56b21c02f51c7b9e05d7786c6d3450f28",
+   "source_commit": "0d48f6188c0c2a3da09f111de8cd0d2ba05149a6",
+   "station_sha256": "1f087116947c37cd037703b3c6a1fc00bbe2b720c3c55a5ef393d152e0c84d89",
+   "original_wav_sha256": "ecec79ca44fcfa23df8b13fae3f57d2f40fcb5e6f0eadc57c9e8b8efbd810a24",
+   "original_wav_filename": "new-jq-23.full.wav"
+  },
+  "new-jq-23#2": {
+   "src": "audio/narration/new-jq-23__s2__f921eedf51bb.mp3",
+   "text": "둘째 칸, 풍선, 기가 터져 끈만 남았다. 앞의 남자는 눈앞이 빙빙 흐린 안경을 쓰고 손을 더듬는다, 기탈자 목불명, 기가 빠지면 눈이 흐리다. 정탈은 귀, 기탈은 눈, 짝으로 외운다.",
+   "text_sha256": "f921eedf51bb0f3b3255507837ee12ab3837a191c152753382f7e37009d15343",
+   "audio_sha256": "1c94d31989390f7a2eba31d2c1a925df8555748cd04c79035936ca5e5cef5211",
+   "image_sha256": "7ac6c1b85eb6bd19e8e3c4e10263eda56b21c02f51c7b9e05d7786c6d3450f28",
+   "source_commit": "0d48f6188c0c2a3da09f111de8cd0d2ba05149a6",
+   "station_sha256": "b99912cd46cfd0302f88469cbf44f7570161fd3733bd45e16287e0f95a4f2e9a",
+   "original_wav_sha256": "ecec79ca44fcfa23df8b13fae3f57d2f40fcb5e6f0eadc57c9e8b8efbd810a24",
+   "original_wav_filename": "new-jq-23.full.wav"
+  },
+  "new-jq-23#3": {
+   "src": "audio/narration/new-jq-23__s3__21a9a4c17cdc.mp3",
+   "text": "셋째 칸, 물방울 몇 개만 남았다. 앞의 남자는 온몸에서 땀이 줄줄 흐른다, 진탈자 주리개 한대설, 진이 빠지면 살결이 열려 땀이 크게 샌다.",
+   "text_sha256": "21a9a4c17cdcb6ebf5e85ef1ae47605c0f6f0a5cec75b7b276c5c14b6db76c67",
+   "audio_sha256": "89b8c7cd735a2c3ddd777f40df4d2382cb2e8b32104781e75bb75b9c0f4d1ff2",
+   "image_sha256": "7ac6c1b85eb6bd19e8e3c4e10263eda56b21c02f51c7b9e05d7786c6d3450f28",
+   "source_commit": "0d48f6188c0c2a3da09f111de8cd0d2ba05149a6",
+   "station_sha256": "03a6ae929740e6613a7c78835c669d452f49be47c046e06af75ec68e40648cfe",
+   "original_wav_sha256": "ecec79ca44fcfa23df8b13fae3f57d2f40fcb5e6f0eadc57c9e8b8efbd810a24",
+   "original_wav_filename": "new-jq-23.full.wav"
+  },
+  "new-jq-23#4": {
+   "src": "audio/narration/new-jq-23__s4__f8c2a7fbb4c3.mp3",
+   "text": "넷째 칸, 작은 기름 깡통, 액이 비어 쓰러졌다. 앞의 나무 인형은 뻣뻣하게 삐걱댄다, 골속굴신불리, 관절을 굽혔다 폈다 못한다. 얼굴은 칙칙하다, 색요. 머리가 비고, 뇌수소, 무릎 아래 정강이가 시큰거려 두 손으로 짚는다, 경산, 귀에서 종이 울린다, 이수명. 액이 골절과 뇌수를 채우지 못한다.",
+   "text_sha256": "f8c2a7fbb4c35c95a46802d7c6dc1642c5f800e9797fc03c3a14ea7b29999872",
+   "audio_sha256": "9da2a08e7e391b71a66a1e090a69a91b2782b6a3f388034d0ce1865cfaa987b7",
+   "image_sha256": "7ac6c1b85eb6bd19e8e3c4e10263eda56b21c02f51c7b9e05d7786c6d3450f28",
+   "source_commit": "0d48f6188c0c2a3da09f111de8cd0d2ba05149a6",
+   "station_sha256": "6360598a08e7f80f0e0823e855856698746c39a6aecc494dc675404c0a9a4f80",
+   "original_wav_sha256": "ecec79ca44fcfa23df8b13fae3f57d2f40fcb5e6f0eadc57c9e8b8efbd810a24",
+   "original_wav_filename": "new-jq-23.full.wav"
+  },
+  "new-jq-23#5": {
+   "src": "audio/narration/new-jq-23__s5__cbb223b2b27a.mp3",
+   "text": "다섯째 칸, 붉은 병이 거의 비었다, 혈이 빠져나갔다. 앞의 남자는 분필처럼 하얗고 윤기가 없다, 혈탈자 색백 요연불택. 함정 보기, 색백 요연불택을 액탈에 붙이면 틀린다. 액탈은 굽지 않는 관절, 뇌수소, 경산, 이수명이다.",
+   "text_sha256": "cbb223b2b27ac4ee657fb22cac5d73152e2aba995366b971e4436fb61452caf0",
+   "audio_sha256": "feb4c699124cb88e8a445aa35e0312070bdcc30ff17b643ff9a9a0fd7caf453d",
+   "image_sha256": "7ac6c1b85eb6bd19e8e3c4e10263eda56b21c02f51c7b9e05d7786c6d3450f28",
+   "source_commit": "0d48f6188c0c2a3da09f111de8cd0d2ba05149a6",
+   "station_sha256": "8598e7c3f6032a13c9653a23ef66a02f09e2cdd2fb9590d7ac642301fef750d8",
+   "original_wav_sha256": "ecec79ca44fcfa23df8b13fae3f57d2f40fcb5e6f0eadc57c9e8b8efbd810a24",
+   "original_wav_filename": "new-jq-23.full.wav"
+  },
+  "new-jq-23#6": {
+   "src": "audio/narration/new-jq-23__s6__0d6452087ff9.mp3",
+   "text": "여섯째 칸, 호스, 맥이다. 의사가 쥐어 봐도 아무것도 흐르지 않는다, 기맥공허, 맥이 텅 비었다. 결기편 여섯 탈증의 끝이다. 이 카드는 맥탈자 기맥공허라 적고, 다른 카드는 혈탈 끝에 붙인다, 카드끼리 갈린다.",
+   "text_sha256": "0d6452087ff94810f15f5378ebc2f16ebaff43e3da618722d6a1185942a7193d",
+   "audio_sha256": "609871b10a29bc0b1315965222cc729954ff5ca0ca078e1255c95c8eda683329",
+   "image_sha256": "7ac6c1b85eb6bd19e8e3c4e10263eda56b21c02f51c7b9e05d7786c6d3450f28",
+   "source_commit": "0d48f6188c0c2a3da09f111de8cd0d2ba05149a6",
+   "station_sha256": "8de8f69daf99396ff8b0db48901571fcbb6a0078909a8b18d8c0a84e56e363b9",
+   "original_wav_sha256": "ecec79ca44fcfa23df8b13fae3f57d2f40fcb5e6f0eadc57c9e8b8efbd810a24",
+   "original_wav_filename": "new-jq-23.full.wav"
+  },
+  "new-jq-23#7": {
+   "src": "audio/narration/new-jq-23__s7__6f703bf306d2.mp3",
+   "text": "다시 본다. 버려진 쌀자루와 나팔, 정탈자 이롱. 터진 풍선과 흐린 안경, 기탈자 목불명. 땀범벅, 진탈자 주리개 한대설. 삐걱대는 인형, 액탈자 골속굴신불리, 색요, 뇌수소, 경산, 이수명. 하얀 얼굴, 혈탈자 색백 요연불택. 빈 호스, 기맥공허.",
+   "text_sha256": "6f703bf306d283b790e36d2155df0bc64967d038ad06e19186d141c075df0418",
+   "audio_sha256": "c20159c7a8d8906566c68b07951e8a306fac89f1e1f6f6b6941352080e14390f",
+   "image_sha256": "7ac6c1b85eb6bd19e8e3c4e10263eda56b21c02f51c7b9e05d7786c6d3450f28",
+   "source_commit": "0d48f6188c0c2a3da09f111de8cd0d2ba05149a6",
+   "station_sha256": "e8144042ccbaee3e1761882647284c2ab9f527b04c7819863f2c65129a4f5ec0",
+   "original_wav_sha256": "ecec79ca44fcfa23df8b13fae3f57d2f40fcb5e6f0eadc57c9e8b8efbd810a24",
+   "original_wav_filename": "new-jq-23.full.wav"
   }
  }
 }

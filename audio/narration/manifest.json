@@ -9075,6 +9075,138 @@
    "station_sha256": "27ea08eb43e1647b735449072cfd2864fb42c8e738aacf90c23cf2cf29e5281d",
    "original_wav_sha256": "0231801b227fc57ca0cb720aba7a1de7df4a5f3bf3ce4061dcf7ad5e0c248b53",
    "original_wav_filename": "new-gr-04.full.wav"
+  },
+  "new-gr-03#0": {
+   "src": "audio/narration/new-gr-03__s0__ff3a6d34e54b.mp3",
+   "text": "육상 경기장이다, 경기장, 경기. 경락을 도는 기운이 경기다. 트랙을 돌고, 종소리에 출발하고, 발전기가 조명을 켠다. 경락이 하는 다섯 가지 일과, 경기를 이루는 영, 위, 종, 원을 차례로 본다.",
+   "text_sha256": "ff3a6d34e54bb59c1f4ee900dc83d3071532cccd0c964ca0724f699fea077c37",
+   "audio_sha256": "aec25d8a8523c707d25d6e5d16a342802183a9e792cbd7763176bfe8595a642c",
+   "image_sha256": "2cf2da6220fb5b34fcfd4ee1b96cb628eb3ae37ab49cc1086eba9a958707a425",
+   "source_commit": "a9d350f5a3e6a1813a506e75ff7f22f50672a667",
+   "station_sha256": "09e090dda7754120ae87ef8ed7a5825ea1a0509b92f54b908bca163383132003",
+   "original_wav_sha256": "0f1bde6ce3390219b39dc3c1a0f75b280a8da3f6b4752b9b63caf6ebb90c8a5b",
+   "original_wav_filename": "new-gr-03.full.wav"
+  },
+  "new-gr-03#1": {
+   "src": "audio/narration/new-gr-03__s1__653886f3e548.mp3",
+   "text": "트랙 위, 계주 선수가 바통을 넘긴다, 손과 손이 이어진다. 경락의 생리기능 다섯은 소통, 운수조절, 감응전도, 반응, 평형 유지. 첫째 소통, 안팎과 위아래, 장부와 기관을 이어 몸을 하나의 유기적 정체로 만든다.",
+   "text_sha256": "653886f3e548f5998bd62baca0269806ea1f9e36c51c0dbd51b1b71288de343d",
+   "audio_sha256": "45b5f97c02914cd73e002882f668e1c8703003e2891bba8aa0c154f934b7ad65",
+   "image_sha256": "2cf2da6220fb5b34fcfd4ee1b96cb628eb3ae37ab49cc1086eba9a958707a425",
+   "source_commit": "a9d350f5a3e6a1813a506e75ff7f22f50672a667",
+   "station_sha256": "5be4d852e038e399a55da94bdef59fb6c9ef2132fcaaed77e04cdff8306566c5",
+   "original_wav_sha256": "0f1bde6ce3390219b39dc3c1a0f75b280a8da3f6b4752b9b63caf6ebb90c8a5b",
+   "original_wav_filename": "new-gr-03.full.wav"
+  },
+  "new-gr-03#2": {
+   "src": "audio/narration/new-gr-03__s2__5686fafefe81.mp3",
+   "text": "안쪽 오른쪽, 도우미가 물병과 붉은 주스병을 수레에 실어 나르고, 지나는 선수가 한 병 들고 달린다, 운수조절, 기혈을 실어 나르고 그 많고 적음을 고른다. 평소 몸이 돌아가게 하는 일이니, 경락의 생리 작용은 운수다.",
+   "text_sha256": "5686fafefe81d02658cc30ea7518f408be5383b9bde328826aa2a37671538f89",
+   "audio_sha256": "d9891f8090ae464972b7ba31bb18eba7d5923c0108e7a38d00d1dc4a16cdd7db",
+   "image_sha256": "2cf2da6220fb5b34fcfd4ee1b96cb628eb3ae37ab49cc1086eba9a958707a425",
+   "source_commit": "a9d350f5a3e6a1813a506e75ff7f22f50672a667",
+   "station_sha256": "7f693a8a4cd0db8c495c5cd71011c02692c9de4ab8454e4be1317a32d8a9310e",
+   "original_wav_sha256": "0f1bde6ce3390219b39dc3c1a0f75b280a8da3f6b4752b9b63caf6ebb90c8a5b",
+   "original_wav_filename": "new-gr-03.full.wav"
+  },
+  "new-gr-03#3": {
+   "src": "audio/narration/new-gr-03__s3__f3f3e22c0aeb.mp3",
+   "text": "오른쪽 아래 흰 천막, 누운 선수 다리에 침을 놓자 찌릿한 선이 인다. 위 칸에도 침을 든 치료사와 찌릿한 다리, 감응전도. 자극에 감응해 전한다. 시큰, 저릿, 묵직, 뻐근, 산마중창의 득기다. 침으로 고치는 길이니 경락의 치료 작용은 전도. 십이경맥의 일이다.",
+   "text_sha256": "f3f3e22c0aeb35f30ec97b68eed0b7fa782f317ff17c708c654ce80235d771ea",
+   "audio_sha256": "49a4b1e01faae1f3151db748ed7b455a32cf945ffc5ef4590466800f356dab12",
+   "image_sha256": "2cf2da6220fb5b34fcfd4ee1b96cb628eb3ae37ab49cc1086eba9a958707a425",
+   "source_commit": "a9d350f5a3e6a1813a506e75ff7f22f50672a667",
+   "station_sha256": "70e933b8c884e0141dbbabbc524cbe065d62a67d94eaf8f6a029065ad1de4993",
+   "original_wav_sha256": "0f1bde6ce3390219b39dc3c1a0f75b280a8da3f6b4752b9b63caf6ebb90c8a5b",
+   "original_wav_filename": "new-gr-03.full.wav"
+  },
+  "new-gr-03#4": {
+   "src": "audio/narration/new-gr-03__s4__805df1ca081d.mp3",
+   "text": "오른쪽 둘째 칸, 어깨에 빨간 점이 떠올라 누르면 아프다, 반응. 경락은 병사를 막고, 속의 병을 겉 살갗에 드러낸다, 압통, 반응점. 병이 났을 때의 일이니 경락의 병리 작용은 반응이다.",
+   "text_sha256": "805df1ca081d50cbe590325f83b9b2f28e29da0ab8e9d8d9a705fd32c69ec8af",
+   "audio_sha256": "d1bf3559fc63b2c32db8ab656b7f4df7bcbf6043355b621500a5466564c38662",
+   "image_sha256": "2cf2da6220fb5b34fcfd4ee1b96cb628eb3ae37ab49cc1086eba9a958707a425",
+   "source_commit": "a9d350f5a3e6a1813a506e75ff7f22f50672a667",
+   "station_sha256": "00e2f148a8b9ea8870d79dc9fb2bea91c7ee676f117c52e604d94d30fdda8912",
+   "original_wav_sha256": "0f1bde6ce3390219b39dc3c1a0f75b280a8da3f6b4752b9b63caf6ebb90c8a5b",
+   "original_wav_filename": "new-gr-03.full.wav"
+  },
+  "new-gr-03#5": {
+   "src": "audio/narration/new-gr-03__s5__6ff5e2b6de42.mp3",
+   "text": "안쪽 왼쪽, 체조 선수가 검은 추와 흰 추가 달린 장대로 균형을 잡으며 걷는다, 멈춰 서 있는 균형이 아니라 움직이며 잡는 균형. 경락은 음양과 기혈의 동태 평형을 지킨다.",
+   "text_sha256": "6ff5e2b6de42b08677e3e018ff9883a0f2753e40b864e97d1a6fb32f3657f85d",
+   "audio_sha256": "52e8619508d732124bf1f66b41bcf51b5519f1c66a59e19ff72d4292a6e4e50b",
+   "image_sha256": "2cf2da6220fb5b34fcfd4ee1b96cb628eb3ae37ab49cc1086eba9a958707a425",
+   "source_commit": "a9d350f5a3e6a1813a506e75ff7f22f50672a667",
+   "station_sha256": "7012f025b4a72b886dec002e992ab498a5e20b1d9ce17974c995cf169362c2fe",
+   "original_wav_sha256": "0f1bde6ce3390219b39dc3c1a0f75b280a8da3f6b4752b9b63caf6ebb90c8a5b",
+   "original_wav_filename": "new-gr-03.full.wav"
+  },
+  "new-gr-03#6": {
+   "src": "audio/narration/new-gr-03__s6__ebfe3465fb0f.mp3",
+   "text": "트랙을 도는 둘, 안쪽 레인의 파란 옷 선수는 맑게 안을 도는 영기, 바깥 레인의 흙 묻은 갈색 개는 사납게 밖을 도는 위기. 경기의 영기와 위기는 경락을 따라 돈다.",
+   "text_sha256": "ebfe3465fb0fce15c26507a54c09d168af53998e2250369d0881210793a63872",
+   "audio_sha256": "1cbf56581a5b1de59d0694ab84efe183780fd66cafa31690fcc018ab418ddfab",
+   "image_sha256": "2cf2da6220fb5b34fcfd4ee1b96cb628eb3ae37ab49cc1086eba9a958707a425",
+   "source_commit": "a9d350f5a3e6a1813a506e75ff7f22f50672a667",
+   "station_sha256": "1159f433817812a9ec375313b6c8b7c71e3eb3c25bcf40f3557498f92a3a2c8d",
+   "original_wav_sha256": "0f1bde6ce3390219b39dc3c1a0f75b280a8da3f6b4752b9b63caf6ebb90c8a5b",
+   "original_wav_filename": "new-gr-03.full.wav"
+  },
+  "new-gr-03#7": {
+   "src": "audio/narration/new-gr-03__s7__2d48539ad8d9.mp3",
+   "text": "트랙 가, 남자가 줄에 매단 통나무로 큰 종을 쾅 친다, 종, 종기. 소리가 퍼지고 곁의 선수들이 달려 나간다. 경기의 종기는 기혈을 밀어 돌리는 추진 에너지다. 앞의 종갓집 처마 종과 같다.",
+   "text_sha256": "2d48539ad8d9d3d46ae99a50e8ae589698d16430a9bd7a3c6a4d285cf91149fa",
+   "audio_sha256": "0526b871226b71b6bd0fc15478a2b6bcc380c48b42e3ce3fdaec0660248f04b0",
+   "image_sha256": "2cf2da6220fb5b34fcfd4ee1b96cb628eb3ae37ab49cc1086eba9a958707a425",
+   "source_commit": "a9d350f5a3e6a1813a506e75ff7f22f50672a667",
+   "station_sha256": "d415a4509f6d862d1309b12b2c8f4dcfe6e638afab8eebfdc533eadd725f9ad6",
+   "original_wav_sha256": "0f1bde6ce3390219b39dc3c1a0f75b280a8da3f6b4752b9b63caf6ebb90c8a5b",
+   "original_wav_filename": "new-gr-03.full.wav"
+  },
+  "new-gr-03#8": {
+   "src": "audio/narration/new-gr-03__s8__ec75b1f5c790.mp3",
+   "text": "셋째 칸, 간호사가 선수의 왼쪽 가슴, 심장 뛰는 쪽에 손바닥을 댄다, 허리, 위지대락. 자리는 왼쪽 젖가슴 아래. 심첨이 뛰는 자리로 그 떨림이 옷 위로도 느껴진다, 기동응의. 여기서 종기의 성쇠를 본다, 손에 닿되 세지도 급하지도 않으면 종기가 가슴에 잘 쌓인 무병.",
+   "text_sha256": "ec75b1f5c790a6cc411e4c11b2a2b1280b5018f0f5a8004ac09b21c20fb1644d",
+   "audio_sha256": "fa931a8aa2481d628b08cb0752642a4bde6e031980c7cc35d61987eff68982b3",
+   "image_sha256": "2cf2da6220fb5b34fcfd4ee1b96cb628eb3ae37ab49cc1086eba9a958707a425",
+   "source_commit": "a9d350f5a3e6a1813a506e75ff7f22f50672a667",
+   "station_sha256": "f31a3cde05aefc7d52f9a8dfce470816fd1a8493ff0dee6a60f5b5a788fa1c48",
+   "original_wav_sha256": "0f1bde6ce3390219b39dc3c1a0f75b280a8da3f6b4752b9b63caf6ebb90c8a5b",
+   "original_wav_filename": "new-gr-03.full.wav"
+  },
+  "new-gr-03#9": {
+   "src": "audio/narration/new-gr-03__s9__e3bb9f6eff57.mp3",
+   "text": "관중석 밑, 대머리 장사 신이 발전기를 돌려 경기장 조명을 켠다, 원기. 경락이 기능하고 활동하는 바탕, 기초다. 근원은 신중동기, 원음과 원양. 함정, 종기는 추진, 원기는 기초. 둘을 바꾸면 틀린다.",
+   "text_sha256": "e3bb9f6eff578ad938f7d55f00947fde8f7a4213e0c2adc812db33f358613990",
+   "audio_sha256": "aafe555c908e5049220648aef690086a0f17ff6b02db4e17099d23d320c41f1d",
+   "image_sha256": "2cf2da6220fb5b34fcfd4ee1b96cb628eb3ae37ab49cc1086eba9a958707a425",
+   "source_commit": "a9d350f5a3e6a1813a506e75ff7f22f50672a667",
+   "station_sha256": "7c718ff219ae048c10459477b0200df08acdc9222ed6ed423cf2fb0ba0dcea94",
+   "original_wav_sha256": "0f1bde6ce3390219b39dc3c1a0f75b280a8da3f6b4752b9b63caf6ebb90c8a5b",
+   "original_wav_filename": "new-gr-03.full.wav"
+  },
+  "new-gr-03#10": {
+   "src": "audio/narration/new-gr-03__s10__cf80c8fb7b12.mp3",
+   "text": "둥근 트랙은 끝이 없다, 여환무단. 경기는 원기, 종기, 영기, 위기로 이루어지고, 한 번 내쉴 때 세 치, 한 번 들이쉴 때 세 치를 가서, 하루에 온몸을 오십 바퀴 돈다.",
+   "text_sha256": "cf80c8fb7b124a8a9447a15174a5cc43275af77cc00c3cfa590e12f9cec5cf3f",
+   "audio_sha256": "312fc6be8481ef92f8959cf4541d1ad51f13288b5abf76a974ec36145fbe3e78",
+   "image_sha256": "2cf2da6220fb5b34fcfd4ee1b96cb628eb3ae37ab49cc1086eba9a958707a425",
+   "source_commit": "a9d350f5a3e6a1813a506e75ff7f22f50672a667",
+   "station_sha256": "fcc0b180d32a69663e5da5b9472790fb8d252e44f75191a3d0189a2bd17365df",
+   "original_wav_sha256": "0f1bde6ce3390219b39dc3c1a0f75b280a8da3f6b4752b9b63caf6ebb90c8a5b",
+   "original_wav_filename": "new-gr-03.full.wav"
+  },
+  "new-gr-03#11": {
+   "src": "audio/narration/new-gr-03__s11__9fc292848159.mp3",
+   "text": "다시 본다. 계주 바통, 소통. 물 수레, 운수조절, 생리. 침에 찌릿, 감응전도, 치료. 붉은 아픈 점, 반응, 병리. 평균대, 평형 유지. 파란 선수와 갈색 개, 영, 위가 경락을 따라 돈다. 종소리, 종기, 추진. 왼쪽 가슴 손바닥, 허리. 발전기, 원기, 기초. 끝없는 트랙, 하루 오십 바퀴, 여환무단.",
+   "text_sha256": "9fc292848159e79084555582074ffe7b267fa23b29a6066ce677d8f5b7e71a2d",
+   "audio_sha256": "02bdf79e412ddea0adf91704b1342d6281251314acb06358c37c2dc1d92c8bef",
+   "image_sha256": "2cf2da6220fb5b34fcfd4ee1b96cb628eb3ae37ab49cc1086eba9a958707a425",
+   "source_commit": "a9d350f5a3e6a1813a506e75ff7f22f50672a667",
+   "station_sha256": "59f48e29e76d2dd8c8f8cf8392ba9b4b2403694e6bd71a25f3c04bd03b746081",
+   "original_wav_sha256": "0f1bde6ce3390219b39dc3c1a0f75b280a8da3f6b4752b9b63caf6ebb90c8a5b",
+   "original_wav_filename": "new-gr-03.full.wav"
   }
  }
 }

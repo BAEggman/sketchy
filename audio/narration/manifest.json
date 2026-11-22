@@ -5192,6 +5192,94 @@
    "station_sha256": "a78cde2c72b7d1e00ac82c6f38830c1cae4bf653a550b6507b4d5be0bce0c7ed",
    "original_wav_sha256": "78de0ab9a76f5d8564ac95fcb6c38c91916b364c4f3b6bd990f6b582efd5fe93",
    "original_wav_filename": "wei19-1.full.wav"
+  },
+  "wei19-2#0": {
+   "src": "audio/narration/wei19-2__s0__b7b6724e60e8.mp3",
+   "text": "같은 바리케이드 무대 둘째 장이야. 여기도 보라 구름은 없어, 십구외는 독을 줄여 주는 칠정 상외가 아니라, 배오금기에 든 함께 쓰지 않는 짝이니까. 짝마다 바리케이드 하나, 두려워하는 앞 약은 늘 왼쪽. 오른쪽 끝에 화면을 뚫을 듯 솟은 쇠침이 보이지? 끝에서 만나. 파견, 정울, 아삼.",
+   "text_sha256": "b7b6724e60e86b5f6bd02ab36231ee42acf31546d392b9da751d9327a93f5622",
+   "audio_sha256": "09bf5103e626d2bb4b73fcde463d03def21b84d1506967822ce083ab4e277db2",
+   "image_sha256": "39b06c2e1e953c0ef2831ed55ab5cfe7f256539fa0f3ddfb4a310b8ec9d283b8",
+   "source_commit": "8f22194c3f49b9859993731889617def596d4d57",
+   "station_sha256": "0c7a2e5102e7fb26d9f23604d5a01d23ceeba941d77c20f00d0779d683036bad",
+   "original_wav_sha256": "e69afc3415d81f28e32009053983ad77f3d532712a582764fb4ed31ddde36e47",
+   "original_wav_filename": "wei19-2.full.wav"
+  },
+  "wei19-2#1": {
+   "src": "audio/narration/wei19-2__s1__cf2c30d53eb4.mp3",
+   "text": "맨 왼쪽, 도화선에 불이 붙은 파란 두부 폭탄이 잔뜩 화난 얼굴이야. 파란의 파, 두부의 두, 파두. 바리케이드 너머 목동과는 함께 못 써. 그런데 교재는 독성에 영향 주는 배오에서 대황, 파두를 독성이 줄어드는 예로 들어. 같은 파두라도 대황과는 독이 줄고, 견우와는 십구외, 짝을 바꿔 내는 함정이야.",
+   "text_sha256": "cf2c30d53eb4863f8abbf596585c4484b2a33f1ab5506cea77227cddc1c73032",
+   "audio_sha256": "7c53657c164b16a69f46fd0c453f74f43248604e491b309cce66de5a28d3ed59",
+   "image_sha256": "39b06c2e1e953c0ef2831ed55ab5cfe7f256539fa0f3ddfb4a310b8ec9d283b8",
+   "source_commit": "8f22194c3f49b9859993731889617def596d4d57",
+   "station_sha256": "c1da121a41aaf4565c7f13ad521f2562b074dacd3841d16181e72954c53f2e5c",
+   "original_wav_sha256": "e69afc3415d81f28e32009053983ad77f3d532712a582764fb4ed31ddde36e47",
+   "original_wav_filename": "wei19-2.full.wav"
+  },
+  "wei19-2#2": {
+   "src": "audio/narration/wei19-2__s2__27e1c59b1f6e.mp3",
+   "text": "바리케이드 오른쪽, 목동이 고삐를 당겨 얼룩소를 오른쪽으로 끌고 가. 소 끄는 목동 견우, 견우. 사전 이름은 견우자지만 십구외 줄 교재 글자는 견우야. 폭탄 쪽이 아니라 반대쪽으로 소를 끌고 멀어지지? 그림에서는 소 엉덩이가 바리케이드 뒤에 걸쳐 있지만, 목동은 바리케이드 오른쪽에 있어. 파두와 견우자는 교재 분류에서 같은 준하축수약 줄에 있는데도, 함께는 안 써.",
+   "text_sha256": "27e1c59b1f6e5544f6d29ea13868eaa65e19a9b20c9f1564efc03eeccc2ac0b7",
+   "audio_sha256": "32a43061c4e3ff36c717bbc48aedecd895308fd899194abb33caee918cee256a",
+   "image_sha256": "39b06c2e1e953c0ef2831ed55ab5cfe7f256539fa0f3ddfb4a310b8ec9d283b8",
+   "source_commit": "8f22194c3f49b9859993731889617def596d4d57",
+   "station_sha256": "09c75265e6fc7f53c1614c7994893a4df128947377f0ff00bda71c48dc11e160",
+   "original_wav_sha256": "e69afc3415d81f28e32009053983ad77f3d532712a582764fb4ed31ddde36e47",
+   "original_wav_filename": "wei19-2.full.wav"
+  },
+  "wei19-2#3": {
+   "src": "audio/narration/wei19-2__s3__54e09f9549ea.mp3",
+   "text": "둘째 짝 왼쪽, 검은 정장에 넥타이를 맨 청동 향로. 뚜껑에서 가는 연기가 한 줄 피어올라. 정장의 정, 향로의 향, 정향. 그림에서는 연기가 살짝 오른쪽으로 휘지만, 바리케이드 너머 금붕어한테 닿진 않아.",
+   "text_sha256": "54e09f9549eaa3a56e7c9e7cfa9a7559803341eead9dadcfb3d7ccf03fd57a09",
+   "audio_sha256": "7bdaed4bf65119812e267e93b06a3dac3c401c2a8c0779acf4c2cd3abb3f6ee6",
+   "image_sha256": "39b06c2e1e953c0ef2831ed55ab5cfe7f256539fa0f3ddfb4a310b8ec9d283b8",
+   "source_commit": "8f22194c3f49b9859993731889617def596d4d57",
+   "station_sha256": "fb1e4737bc97428af06a5f86ac53c9693a55afabd662240e0da4661f91b4ccc5",
+   "original_wav_sha256": "e69afc3415d81f28e32009053983ad77f3d532712a582764fb4ed31ddde36e47",
+   "original_wav_filename": "wei19-2.full.wav"
+  },
+  "wei19-2#4": {
+   "src": "audio/narration/wei19-2__s4__c210b10e14d2.mp3",
+   "text": "바리케이드 너머엔 공중에 뜬 주황 금붕어가 엉엉, 눈물이 폭포처럼 바닥까지 쏟아져. 울보의 울, 금붕어의 금, 울금. 정울, 정장 향로와 울보 금붕어. 그림에서는 금붕어가 정면을 봐서 등 돌림은 약하지만, 바리케이드로 갈라 둔 짝이야.",
+   "text_sha256": "c210b10e14d22a256fe20cab6483077b14f009637aaffe58be1aec011c29149e",
+   "audio_sha256": "64b511bc1443598626c781e91e43a9f70cf81449d2da2449cabeb9bfc5b78d46",
+   "image_sha256": "39b06c2e1e953c0ef2831ed55ab5cfe7f256539fa0f3ddfb4a310b8ec9d283b8",
+   "source_commit": "8f22194c3f49b9859993731889617def596d4d57",
+   "station_sha256": "9c79230db383bfa16171b355a4662df44a3f917a7cdfa285c51c701029055138",
+   "original_wav_sha256": "e69afc3415d81f28e32009053983ad77f3d532712a582764fb4ed31ddde36e47",
+   "original_wav_filename": "wei19-2.full.wav"
+  },
+  "wei19-2#5": {
+   "src": "audio/narration/wei19-2__s5__84aaafcfc6c5.mp3",
+   "text": "셋째 짝 왼쪽, 녹아내리는 아이스크림 콘 꼭대기에 불 켠 양초가 꽂혔어. 아이스크림의 아, 양초의 초, 아초. 앞 장 박쥐가 품은 양초 기억나? 그건 박초, 유황의 짝이었지. 양초는 둘 다 초석 초 가족인데, 박쥐는 유황, 아이스크림은 삼릉. 시험이 이 둘을 바꿔 내.",
+   "text_sha256": "84aaafcfc6c53868c83699371f5244721c6d287dcaa86afad42ee27b35e1fc8b",
+   "audio_sha256": "26d07b45981a3fd929004d7cbd235168be1dc5dffb988211e819aab037731635",
+   "image_sha256": "39b06c2e1e953c0ef2831ed55ab5cfe7f256539fa0f3ddfb4a310b8ec9d283b8",
+   "source_commit": "8f22194c3f49b9859993731889617def596d4d57",
+   "station_sha256": "211a7fb9232b242f9ee948f87dbab92e930bd86b4b8c76d0262e0530997f2034",
+   "original_wav_sha256": "e69afc3415d81f28e32009053983ad77f3d532712a582764fb4ed31ddde36e47",
+   "original_wav_filename": "wei19-2.full.wav"
+  },
+  "wei19-2#6": {
+   "src": "audio/narration/wei19-2__s6__6a256ae3497c.mp3",
+   "text": "맨 오른쪽, 화면에서 제일 키 큰 굵은 쇠침이 날끝을 위로 하고 곧게 서 있어. 모서리 셋 진 날, 삼릉침, 침만 떼면 삼릉. 포제 초자 장에서 아기 배추를 콕 찌르던 바로 그 삼릉침이야. 삼 소리가 나도 뿌리 인형이 아니니까 십팔반 오삼하곤 상관없어. 삼릉은 아초와 십구외.",
+   "text_sha256": "6a256ae3497c286b022b67dabcda6d1e05392bfe8a15a594ce5170a5ce9d485f",
+   "audio_sha256": "bc22bf684b655240f6032242f0cd2b94100d8631756f33bb6e66031e100c5e7e",
+   "image_sha256": "39b06c2e1e953c0ef2831ed55ab5cfe7f256539fa0f3ddfb4a310b8ec9d283b8",
+   "source_commit": "8f22194c3f49b9859993731889617def596d4d57",
+   "station_sha256": "b6789d3236ac469a74865f9490cf5bef67c6143aec3f25bd2800773ca199c5ba",
+   "original_wav_sha256": "e69afc3415d81f28e32009053983ad77f3d532712a582764fb4ed31ddde36e47",
+   "original_wav_filename": "wei19-2.full.wav"
+  },
+  "wei19-2#7": {
+   "src": "audio/narration/wei19-2__s7__9f82762f6194.mp3",
+   "text": "한 바퀴 다시. 화난 두부 폭탄 바리케이드 소 끌고 가는 목동, 정장 향로 바리케이드 엉엉 금붕어, 양초 꽂힌 아이스크림 바리케이드 하늘 찌르는 쇠침. 파견, 정울, 아삼. 구름이 없으니 독을 덜어 주는 상외가 아니라 함께 쓰지 않는 배오금기야. 그리고 파두는 대황과 짝이면 독성감 예라는 것까지, 짝을 꼭 확인해.",
+   "text_sha256": "9f82762f6194ea8ca1141aa2c18185a168f45cb47f240147db3357d021e18927",
+   "audio_sha256": "ceabe5a20d0706db544cf2a91a6237a02b764887add2268039708d51dbb8407a",
+   "image_sha256": "39b06c2e1e953c0ef2831ed55ab5cfe7f256539fa0f3ddfb4a310b8ec9d283b8",
+   "source_commit": "8f22194c3f49b9859993731889617def596d4d57",
+   "station_sha256": "c87dff81bec9781cbf34fbe16976cf8cbe95a96dc4d8e704976617467bc1d608",
+   "original_wav_sha256": "e69afc3415d81f28e32009053983ad77f3d532712a582764fb4ed31ddde36e47",
+   "original_wav_filename": "wei19-2.full.wav"
   }
  }
 }

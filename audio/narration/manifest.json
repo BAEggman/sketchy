@@ -4950,6 +4950,94 @@
    "station_sha256": "2b3be25ae3e03f22ea802927670085f57e6d18c13ce1a7f54bb2a5d6132322c3",
    "original_wav_sha256": "6d8dff197a317809b9d4d37fce24205dd259a9e243daf9d64a835a1ffec270ed",
    "original_wav_filename": "suchi-20.full.wav"
+  },
+  "suchi-21#0": {
+   "src": "audio/narration/suchi-21__s0__3fc1e3ce9bbc.mp3",
+   "text": "왼쪽엔 센 불 위 깊은 큰 솥, 뚜껑이 반쯤 열리고 물이 펄펄 끓어 넘쳐. 물을 부어 삶는 삶을 자, 자법이야. 보료를 넣기도 하고 안 넣기도 해. 오른쪽엔 얕은 냄비와 구멍 뚫린 뜰채. 끓는 물에 잠깐 담갔다 건지는 천법, 수탕이야, 잠깐 데쳐서 씨껍질을 떼어 내. 앞 장 찜기는 김만 쬐었고, 여기는 물에 잠겨. 깊은 솥 쪽 셋 천원진, 얕은 냄비 쪽 둘 행백.",
+   "text_sha256": "3fc1e3ce9bbcb9904e500114c7458e5e301e29c2fec23d483bc0f7a071d956bf",
+   "audio_sha256": "e8703d0311b11b3cd19ceaf5a87784d4a68203b923175a72d32ef734e531f39a",
+   "image_sha256": "eb8446e6a754facf1e903d628e12bd5c81b483f4bc41dc58ea7fc8e970f0ecaf",
+   "source_commit": "1686d9ea459a91d54a81b07adacf52068b91b3bc",
+   "station_sha256": "a02ff63686e660a3694c95e377cd2bc5c87acff23e5c2e56bf480cb057edcb2e",
+   "original_wav_sha256": "7608d166f0972155ee5d5363cf2ad5d56ba8d0147ebaf60a61d5307c06b653b0",
+   "original_wav_filename": "suchi-21.full.wav"
+  },
+  "suchi-21#1": {
+   "src": "audio/narration/suchi-21__s1__f4310c799cbb.mp3",
+   "text": "솥 안엔 천막을 뒤집어쓴 까마귀. 천막의 천, 까마귀는 까마귀 오 가족이라 오, 천오. 끓는 물에 잠겨 부리만 내밀었고, 머리 위 보라 독 연기가 가늘어지며 걷혀. 독 연기 걷힘은 독성감소 표지, 자법 일번이야. 천오는 임신금용이고, 십구외에도 천오초오외서각으로 나와. 교재는 자법 괄호에 원화는 식초로 삶고 오두는 두부와 함께라고도 적었어, 그림엔 없어.",
+   "text_sha256": "f4310c799cbb2e7054ce82a2a13dc95f1fa79cc3e014a065326defa02843049c",
+   "audio_sha256": "dafe76f8db567e41597f9ff2234cb5579e442c39448578fbec56ecfd2bc38eb0",
+   "image_sha256": "eb8446e6a754facf1e903d628e12bd5c81b483f4bc41dc58ea7fc8e970f0ecaf",
+   "source_commit": "1686d9ea459a91d54a81b07adacf52068b91b3bc",
+   "station_sha256": "e46f13009afb0b1eb8d62219d323c3b3934ffa2e381035912a0d3ec94ae04b55",
+   "original_wav_sha256": "7608d166f0972155ee5d5363cf2ad5d56ba8d0147ebaf60a61d5307c06b653b0",
+   "original_wav_filename": "suchi-21.full.wav"
+  },
+  "suchi-21#2": {
+   "src": "audio/narration/suchi-21__s2__1f536b89f70e.mp3",
+   "text": "솥 가장자리엔 지도를 펼친 소년이 망원경을 들여다봐. 망원경의 원, 지도의 지, 원지. 망원경은 멀리 보는 물건, 멀 원이야. 김을 쐰 망원경이 길게 뻗었지, 길어진 것은 효과가 커진 것, 자법 이번 약효증가. 그림에서는 늘어난 길이가 두드러지진 않아. 길게 뻗은 끝이 옆의 진주를 톡.",
+   "text_sha256": "1f536b89f70ea4b56850e3e0316c22d42a037b4b01e863efb16247bc261c866f",
+   "audio_sha256": "81c2a1ac52e15802690998b5e152c7a15c1c6d4918a6ee52af2220b716d5ead6",
+   "image_sha256": "eb8446e6a754facf1e903d628e12bd5c81b483f4bc41dc58ea7fc8e970f0ecaf",
+   "source_commit": "1686d9ea459a91d54a81b07adacf52068b91b3bc",
+   "station_sha256": "39e3a36beab8a56eef82fa8c7cc7b60793659c317c936db46fbfe904a26dbe64",
+   "original_wav_sha256": "7608d166f0972155ee5d5363cf2ad5d56ba8d0147ebaf60a61d5307c06b653b0",
+   "original_wav_filename": "suchi-21.full.wav"
+  },
+  "suchi-21#3": {
+   "src": "audio/narration/suchi-21__s3__e222abb19d48.mp3",
+   "text": "망원경에 톡 맞은 건 영롱한 진주알, 진주. 반짝이가 사방으로 튀지, 끓는 물에 때가 씻겨 깨끗해진 거야, 자법 삼번 깨끗하게. 천원진, 여기까지 셋이 자법. 그림에서는 진주가 이미 공중에 떠서 솥과 냄비 사이 빈자리를 건너는 중이야. 이 빈자리가 삶는 자법과 데치는 천법의 경계.",
+   "text_sha256": "e222abb19d4822dd582fc9bcd2568b1272330c7d1b36b0ba4a87927bc6b7db49",
+   "audio_sha256": "a28283b5557acfc1a4c5852ea1ce5f4d9443d714dd8664300e66f768fe28059a",
+   "image_sha256": "eb8446e6a754facf1e903d628e12bd5c81b483f4bc41dc58ea7fc8e970f0ecaf",
+   "source_commit": "1686d9ea459a91d54a81b07adacf52068b91b3bc",
+   "station_sha256": "cf080a75a3e67422787669da82b7eeb1417c40c7220e1c723a879111eb1233c0",
+   "original_wav_sha256": "7608d166f0972155ee5d5363cf2ad5d56ba8d0147ebaf60a61d5307c06b653b0",
+   "original_wav_filename": "suchi-21.full.wav"
+  },
+  "suchi-21#4": {
+   "src": "audio/narration/suchi-21__s4__142a1be99b2a.mp3",
+   "text": "진주가 날아가는 곳엔 뚜껑 없는 얕은 냄비가 보글보글, 그 앞엔 구멍 뚫린 뜰채. 깊은 솥에 물 부어 삶는 게 아니라, 끓는 물에 잠깐 담갔다 뜰채로 건지는 천법이야. 씨껍질, 종피를 떼어 내는 것, 유효성분은 지키고 약이 아닌 부분만 버려. 그림에서는 뜰채가 냄비 밖 작업대에 놓여 있어.",
+   "text_sha256": "142a1be99b2aa46522742c4b893cab404316d4bc2b49e6aacf518e701cb4878e",
+   "audio_sha256": "1fee1e019d749f7e7a4db2afa794035340e1d4f77099e4d407ae9ef636b9c02f",
+   "image_sha256": "eb8446e6a754facf1e903d628e12bd5c81b483f4bc41dc58ea7fc8e970f0ecaf",
+   "source_commit": "1686d9ea459a91d54a81b07adacf52068b91b3bc",
+   "station_sha256": "8ee7689339607a9932d476e1e3a09d1435ab7be71383403eb02d345c997cee89",
+   "original_wav_sha256": "7608d166f0972155ee5d5363cf2ad5d56ba8d0147ebaf60a61d5307c06b653b0",
+   "original_wav_filename": "suchi-21.full.wav"
+  },
+  "suchi-21#5": {
+   "src": "audio/narration/suchi-21__s5__91d1bfaa354a.mp3",
+   "text": "횡단보도 위엔 한 손 번쩍 든 살구씨가 길을 건너. 길 가는 사람, 행인. 데쳐 나오자마자 얇은 갈색 씨껍질을 외투처럼 휙 벗어 던져. 이게 천법의 종피 분리야. 세정, 가공의 비약용부위 제거에서도 행인, 도인은 거피첨으로 나와. 던진 껍질이 오른쪽 콩 머리로 날아가.",
+   "text_sha256": "91d1bfaa354a2c1320a08ad30e12ba749dffda20e19fc39675a8005c8d8c08a5",
+   "audio_sha256": "e657ec3ed1717ed725a02efaa1ab246e9561f4f6b9e40e16e7fd383cd6bcdfd9",
+   "image_sha256": "eb8446e6a754facf1e903d628e12bd5c81b483f4bc41dc58ea7fc8e970f0ecaf",
+   "source_commit": "1686d9ea459a91d54a81b07adacf52068b91b3bc",
+   "station_sha256": "40cac999e50c4e6296e8cdac02818119e16f8a7570db1161a77a3837845810c5",
+   "original_wav_sha256": "7608d166f0972155ee5d5363cf2ad5d56ba8d0147ebaf60a61d5307c06b653b0",
+   "original_wav_filename": "suchi-21.full.wav"
+  },
+  "suchi-21#6": {
+   "src": "audio/narration/suchi-21__s6__ff1455829332.mp3",
+   "text": "맨 오른쪽, 흰 붕대로 머리를 싸맨 납작한 흰 콩이 관자놀이를 짚고 찡그려. 편두통 앓는 흰 콩, 백편두. 교재 천법 글자는 편두이고, 그림은 백편두라는 이름으로 그렸어. 날아온 껍질에 맞자 몸의 얇은 흰 껍질이 스르르 벗겨져. 붕대는 그대로, 벗겨지는 건 씨껍질, 종피 분리. 행백 둘이 천법.",
+   "text_sha256": "ff1455829332cb17b8d7183e0e2363a31e2d42420ddc9cbbbfe4fac563f3cf0e",
+   "audio_sha256": "e43f0c01867d2ee8941806c5e1e15e05afb62435a7687fd9a6dfdb319c746d51",
+   "image_sha256": "eb8446e6a754facf1e903d628e12bd5c81b483f4bc41dc58ea7fc8e970f0ecaf",
+   "source_commit": "1686d9ea459a91d54a81b07adacf52068b91b3bc",
+   "station_sha256": "c07e32dbf904e937f2560de3433a8b11f6eb123aafe8a174362ee14c670595f4",
+   "original_wav_sha256": "7608d166f0972155ee5d5363cf2ad5d56ba8d0147ebaf60a61d5307c06b653b0",
+   "original_wav_filename": "suchi-21.full.wav"
+  },
+  "suchi-21#7": {
+   "src": "audio/narration/suchi-21__s7__633b5d59f700.mp3",
+   "text": "한 바퀴. 깊은 솥 속 천막 까마귀의 독 연기가 걷히고, 솥 가 소년의 망원경이 뻗어 진주를 톡, 진주가 반짝이며 빈자리를 건너 얕은 냄비로, 데쳐 나온 살구씨가 횡단보도에서 껍질을 던지고, 붕대 콩의 흰 껍질이 벗겨져. 삶아 천원진, 데쳐 행백. 시험은 자법과 천법을 바꿔 내, 물 부어 삶는 게 자법, 끓는 물에 잠깐 데쳐 씨껍질 떼는 게 천법. 깨끗하게 하는 진주는 자법 삼번, 찜기 삼번 저장의 황금, 상표초와 갈라 둬.",
+   "text_sha256": "633b5d59f700ec6afc451813febc0d9b760fb9b3f7bf4bf6f2aca4f05f931e2b",
+   "audio_sha256": "46d204f883b38f30a6389158909918bebc76b323caea0e812d3480bd576f5e4a",
+   "image_sha256": "eb8446e6a754facf1e903d628e12bd5c81b483f4bc41dc58ea7fc8e970f0ecaf",
+   "source_commit": "1686d9ea459a91d54a81b07adacf52068b91b3bc",
+   "station_sha256": "3b7364a72c57f557ab60abd9630182d450b91305415ffd0eacf76781d1391150",
+   "original_wav_sha256": "7608d166f0972155ee5d5363cf2ad5d56ba8d0147ebaf60a61d5307c06b653b0",
+   "original_wav_filename": "suchi-21.full.wav"
   }
  }
 }

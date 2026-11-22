@@ -11605,6 +11605,138 @@
    "station_sha256": "fba6622bfefc61bfeec86294330faa98320fb093647826345c0c342808362ebe",
    "original_wav_sha256": "e13b87aaa3bd914936aff5816eab3b98e4a417dd8843ad59c783564c8f21bc2b",
    "original_wav_filename": "new-gr-14.full.wav"
+  },
+  "new-gr-06#0": {
+   "src": "audio/narration/new-gr-06__s0__f126c4b3f860.mp3",
+   "text": "무두질 공방이다. 피는 가죽, 부는 구역, 가죽 한 장을 구역으로 나눈 것이 피부. 왼쪽 틀의 큰 가죽, 오른쪽 작업대의 색 가죽, 그리고 뒤 벽의 가죽 여섯 장, 육경마다 붙은 피부의 이름을 차례로 본다.",
+   "text_sha256": "f126c4b3f8607db0c6f890d9e2c960c90e7401227988d94c1b37ce4a85916eb4",
+   "audio_sha256": "a8eb00c678bb977a6308e261d64acd42e638b203cb24a62852bd5a82d1f1f670",
+   "image_sha256": "453ad86a6957808a44977475f75b925f8b2453bb3696bb793027a7868e01b53b",
+   "source_commit": "6b811f08eb177fedfd173c86ea41036ef855fd39",
+   "station_sha256": "80367731484745aa635124bf8f05304c40edd83a135f29be07485b12f5f27fd5",
+   "original_wav_sha256": "953356bf211e150e672ddc31e1f1b3b44c776862205539f5df0d452dbe152093",
+   "original_wav_filename": "new-gr-06.full.wav"
+  },
+  "new-gr-06#1": {
+   "src": "audio/narration/new-gr-06__s1__cf02ef62836b.mp3",
+   "text": "왼쪽 틀에 큰 가죽을 폈다. 그 밑으로 실, 밧줄, 상자, 금고가 층층이 있다, 가죽이 맨 겉이다. 십이피부는 경맥이 몸 겉에 나뉘어 펼쳐진 구역, 경락계통의 가장 바깥, 가장 얕은 층이다. 병사가 어디로 들어가 어떻게 깊어지는지는 피부론이 말한다.",
+   "text_sha256": "cf02ef62836b7b6e9579423c69a98fec3d331b3f187519f0dd8faab74dab8bd9",
+   "audio_sha256": "fa32c16ecb6914c313fdd1d1e945f1c963b532a98ed71089fb62f8344cc44ae2",
+   "image_sha256": "453ad86a6957808a44977475f75b925f8b2453bb3696bb793027a7868e01b53b",
+   "source_commit": "6b811f08eb177fedfd173c86ea41036ef855fd39",
+   "station_sha256": "a8b9ceca95a940391bef7f49607b16c35910614e61a919f072b776e1b800296b",
+   "original_wav_sha256": "953356bf211e150e672ddc31e1f1b3b44c776862205539f5df0d452dbe152093",
+   "original_wav_filename": "new-gr-06.full.wav"
+  },
+  "new-gr-06#2": {
+   "src": "audio/narration/new-gr-06__s2__551ad0c806d7.mp3",
+   "text": "오른쪽, 불티가 튀어도 가죽 앞치마가 막는다, 위외, 바깥을 지킨다. 옆 가죽엔 얼룩이 배어 나왔다, 반영병후, 병을 겉에 드러낸다. 그 얼룩을 연고 묻힌 패드로 문지른다, 접수치료, 겉에서 치료를 받는다. 십이피부의 세 기능이다.",
+   "text_sha256": "551ad0c806d73ef85aaeb4f0be3fd88d4e6b67fb1ce71a3895f95ba55862b513",
+   "audio_sha256": "81ba8e723317d236323586a9e0b2e2112d14f5e854f8c08dbea1a2d07b1c3a63",
+   "image_sha256": "453ad86a6957808a44977475f75b925f8b2453bb3696bb793027a7868e01b53b",
+   "source_commit": "6b811f08eb177fedfd173c86ea41036ef855fd39",
+   "station_sha256": "782d3bcbc8bd20e2e4f7ad2f901ed7fb25b746d8a8dabec79e2c7160314b8431",
+   "original_wav_sha256": "953356bf211e150e672ddc31e1f1b3b44c776862205539f5df0d452dbe152093",
+   "original_wav_filename": "new-gr-06.full.wav"
+  },
+  "new-gr-06#3": {
+   "src": "audio/narration/new-gr-06__s3__45cbb22a7ec6.mp3",
+   "text": "먹물이 가죽에 쏟아져 스며든다, 사객어피즉주리개, 사가 피부에 머물면 살결이 열린다. 개즉사입객어낙맥, 가는 실, 낙맥으로. 낙맥만즉주어경맥, 넘치면 굵은 밧줄, 경맥으로. 경맥만즉입사어부장, 넘치면 상자 부, 그리고 금고 장으로. 피, 낙, 경, 부, 장. 빈칸 단골은 낙맥.",
+   "text_sha256": "45cbb22a7ec6001f0b59bdbdf84df6905370b925474a6e843dc0220ea7c97bdf",
+   "audio_sha256": "48f728d06b3c6da4a9252c4faa70562c3384f967e11d31311197630b54205b8c",
+   "image_sha256": "453ad86a6957808a44977475f75b925f8b2453bb3696bb793027a7868e01b53b",
+   "source_commit": "6b811f08eb177fedfd173c86ea41036ef855fd39",
+   "station_sha256": "8f237e13491f2f7c731335ded4dfc0901e3e06ccf392a6e63f733aa06594facc",
+   "original_wav_sha256": "953356bf211e150e672ddc31e1f1b3b44c776862205539f5df0d452dbe152093",
+   "original_wav_filename": "new-gr-06.full.wav"
+  },
+  "new-gr-06#4": {
+   "src": "audio/narration/new-gr-06__s4__dad746848ed5.mp3",
+   "text": "작업대의 가죽 넷. 파란 가죽에 찌릿한 번개, 다청즉통, 푸르면 아프다. 사슬에 묶인 검은 가죽, 다흑즉비, 검으면 저리고 막힌다. 김이 펄펄 나는 주황빛 빨강, 누렇고 붉으면 열, 황적즉열. 눈송이 붙은 하양, 다백즉한. 범십이경맥자 피지부야, 열두 경맥은 모두 피부에 제 구역이 있다.",
+   "text_sha256": "dad746848ed5357fc82a03be2c60bf72c79ab067c7ee8cc1d1c500491e11dd21",
+   "audio_sha256": "64c007d4c85a3b56ac3671ceecbe36f8977b3d0e081bbfccb96b2967a3b81b54",
+   "image_sha256": "453ad86a6957808a44977475f75b925f8b2453bb3696bb793027a7868e01b53b",
+   "source_commit": "6b811f08eb177fedfd173c86ea41036ef855fd39",
+   "station_sha256": "b0c804bd92ab00ec29add454e7b5ae4d0772c1251593947e6ac2e60e6827731e",
+   "original_wav_sha256": "953356bf211e150e672ddc31e1f1b3b44c776862205539f5df0d452dbe152093",
+   "original_wav_filename": "new-gr-06.full.wav"
+  },
+  "new-gr-06#5": {
+   "src": "audio/narration/new-gr-06__s5__2494f53c348c.mp3",
+   "text": "뒤 벽, 위 줄은 햇빛, 삼양. 첫째, 큰 해 도장, 태양. 쇠 빗장과 경첩이 붙었다, 빗장 관, 지도리 추. 태양의 피부는 관추.",
+   "text_sha256": "2494f53c348ca871f531a53ac4d44461b13d794a9d0cc2c13a3f0a3139f999b4",
+   "audio_sha256": "0619be4523f329c3b48a4e2f73a83bad92c5d31aa3887f679ea96426ac2bc30c",
+   "image_sha256": "453ad86a6957808a44977475f75b925f8b2453bb3696bb793027a7868e01b53b",
+   "source_commit": "6b811f08eb177fedfd173c86ea41036ef855fd39",
+   "station_sha256": "f80b15ecec38838f95fe44a600595f1df43d05481f2397d5db29cf6c7e93f70c",
+   "original_wav_sha256": "953356bf211e150e672ddc31e1f1b3b44c776862205539f5df0d452dbe152093",
+   "original_wav_filename": "new-gr-06.full.wav"
+  },
+  "new-gr-06#6": {
+   "src": "audio/narration/new-gr-06__s6__cd1514b8bdd7.mp3",
+   "text": "둘째, 해와 달이 나란한 도장, 일 더하기 월은 명, 양명. 큰 날벌레가 가죽을 갉아 구멍을 낸다, 해칠 해, 날벌레 비. 양명의 피부는 해비.",
+   "text_sha256": "cd1514b8bdd7038a3c1e41d677dba582b75aa9ed8f5bf882b19e826a66a1d8c7",
+   "audio_sha256": "6b16ffaa86e0da043a54a3df1b88ba19b02e7bb44092917e756d14ac7e718cab",
+   "image_sha256": "453ad86a6957808a44977475f75b925f8b2453bb3696bb793027a7868e01b53b",
+   "source_commit": "6b811f08eb177fedfd173c86ea41036ef855fd39",
+   "station_sha256": "478c870cc9472e3a0f17302fce830cce8dc3d9302c097d82a46425ac6739e6ea",
+   "original_wav_sha256": "953356bf211e150e672ddc31e1f1b3b44c776862205539f5df0d452dbe152093",
+   "original_wav_filename": "new-gr-06.full.wav"
+  },
+  "new-gr-06#7": {
+   "src": "audio/narration/new-gr-06__s7__7dc1ea4932bd.mp3",
+   "text": "셋째, 작은 해 도장, 소양. 손이 경첩을 꽉 쥐었다, 지도리 추, 쥘 지. 소양의 피부는 추지. 태양 관추, 소양 추지, 추가 앞이냐 뒤냐로 가른다.",
+   "text_sha256": "7dc1ea4932bd9d6f08bc8eb4bd5381a251c1fd691aa5aa29c4beb1317379e8db",
+   "audio_sha256": "5929c97d590816a3d4f3bebd5b64a578390e6a37c1f3733111fcc306b3a88fa1",
+   "image_sha256": "453ad86a6957808a44977475f75b925f8b2453bb3696bb793027a7868e01b53b",
+   "source_commit": "6b811f08eb177fedfd173c86ea41036ef855fd39",
+   "station_sha256": "06c27d5750279c127ebb5f55d5155abbaa1696047b38c94081f166a26e6b58f8",
+   "original_wav_sha256": "953356bf211e150e672ddc31e1f1b3b44c776862205539f5df0d452dbe152093",
+   "original_wav_filename": "new-gr-06.full.wav"
+  },
+  "new-gr-06#8": {
+   "src": "audio/narration/new-gr-06__s8__9f2e2a3695bd.mp3",
+   "text": "아래 줄은 그늘, 삼음. 첫째, 큰 보름달, 태음. 쇠 빗장 관이 그늘 음에 걸렸다, 교재는 관음. 옆에 웅크려 숨은 벌레, 겨울잠 들어 숨을 칩, 소문 원문은 관칩. 태음의 피부는 관음, 원문 관칩.",
+   "text_sha256": "9f2e2a3695bd957e540d4c629982fc4c9864819176c36a1705e9532e26c11537",
+   "audio_sha256": "398a60035cde153fd36584341f6cbebf722331e3d9f68842ab569c7c35e2fe8d",
+   "image_sha256": "453ad86a6957808a44977475f75b925f8b2453bb3696bb793027a7868e01b53b",
+   "source_commit": "6b811f08eb177fedfd173c86ea41036ef855fd39",
+   "station_sha256": "92debc89f010627036c8fa07ec43cdff0eefe44bf621568a65ce43a38d4ac55f",
+   "original_wav_sha256": "953356bf211e150e672ddc31e1f1b3b44c776862205539f5df0d452dbe152093",
+   "original_wav_filename": "new-gr-06.full.wav"
+  },
+  "new-gr-06#9": {
+   "src": "audio/narration/new-gr-06__s9__901e9307dec8.mp3",
+   "text": "둘째, 초승달, 소음. 허리띠 끝에 경첩 판이 달렸다, 지도리 추, 허리 요. 교재는 추요. 소문 원문은 추유. 소음의 피부는 추요, 원문 추유.",
+   "text_sha256": "901e9307dec8e7f33119b03f279a067fce41c4d2c2b7f5765621f012e2141867",
+   "audio_sha256": "ba15bf80abf0509d26d0920533f634fa37fa0235e54db4653ca7911a937bd89c",
+   "image_sha256": "453ad86a6957808a44977475f75b925f8b2453bb3696bb793027a7868e01b53b",
+   "source_commit": "6b811f08eb177fedfd173c86ea41036ef855fd39",
+   "station_sha256": "f82e0f8cb2b49ad75fde758f8ea7cc36d748de785207249ee635eb22f467a13a",
+   "original_wav_sha256": "953356bf211e150e672ddc31e1f1b3b44c776862205539f5df0d452dbe152093",
+   "original_wav_filename": "new-gr-06.full.wav"
+  },
+  "new-gr-06#10": {
+   "src": "audio/narration/new-gr-06__s10__09fbda8f190b.mp3",
+   "text": "셋째, 검은 동그라미, 음이 다한 궐음. 작은 문짝 둘이 그것을 닫아 가렸다, 닫을 합, 그늘 음. 교재는 합음. 소문 원문은 해견. 궐음의 피부는 합음, 원문 해견.",
+   "text_sha256": "09fbda8f190beebafe860c1ad985d893fe60d30ebde8cac9adf9472baab3cf0e",
+   "audio_sha256": "87fcd39ce2c6ea620c740b0d2f20bc1d596ae61b964cc3ee256f650d112c1c4b",
+   "image_sha256": "453ad86a6957808a44977475f75b925f8b2453bb3696bb793027a7868e01b53b",
+   "source_commit": "6b811f08eb177fedfd173c86ea41036ef855fd39",
+   "station_sha256": "7220e4a4caceca1bc9e270bccb304ef3aa1293fac641080028ac606832747d17",
+   "original_wav_sha256": "953356bf211e150e672ddc31e1f1b3b44c776862205539f5df0d452dbe152093",
+   "original_wav_filename": "new-gr-06.full.wav"
+  },
+  "new-gr-06#11": {
+   "src": "audio/narration/new-gr-06__s11__562a87172b5e.mp3",
+   "text": "다시 본다. 맨 겉 가죽, 최외층. 앞치마, 얼룩, 연고, 위외, 반영병후, 접수치료. 스며드는 먹물, 피, 낙, 경, 부, 장. 색 가죽, 청통 흑비 황적열 백한. 햇빛 줄, 태양 관추, 양명 해비, 소양 추지. 그늘 줄, 태음 관음, 소음 추요, 궐음 합음, 원문은 관칩, 추유, 해견.",
+   "text_sha256": "562a87172b5eb8b98c7315c79f26665b89fec779eba5347d413f6d9ecb1a1298",
+   "audio_sha256": "3aa0d52f1ddd01259fd27db23b975651bf90ee1aca1fbb65b87cf6aa9466c161",
+   "image_sha256": "453ad86a6957808a44977475f75b925f8b2453bb3696bb793027a7868e01b53b",
+   "source_commit": "6b811f08eb177fedfd173c86ea41036ef855fd39",
+   "station_sha256": "33039a31b449c25e5d3fdd30e803055ecd3d0277ed5e632951ccc0804955e99c",
+   "original_wav_sha256": "953356bf211e150e672ddc31e1f1b3b44c776862205539f5df0d452dbe152093",
+   "original_wav_filename": "new-gr-06.full.wav"
   }
  }
 }

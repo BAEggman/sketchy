@@ -12848,6 +12848,72 @@
    "station_sha256": "1a0b624fa8185fb2a11ad8b6def54eea1675a323c9f9becae378001787910166",
    "original_wav_sha256": "0b660666d52b3bd4f1f60b13d984ffa1d890cf998daf9353b605834ba804acc7",
    "original_wav_filename": "mer-13.full.wav"
+  },
+  "new-gr-37#0": {
+   "src": "audio/narration/new-gr-37__s0__6d33fc6abaae.mp3",
+   "text": "팔맥교회혈 여덟 짝, 공손, 내관 / 후계, 신맥 / 족임읍, 외관 / 열결, 조해 과다. 장소는 여덟 다리 나루터, 정경 인물과 기경 상징이 둘씩 짝지어 건너는 나루터. 정본 경락 인물과 공용 부호, 뜻, 소리 고리를 따라 차례로 읽는다.",
+   "text_sha256": "6d33fc6abaae74c34a8823017b7aaf9367063ba126312bd328ca94edff925d88",
+   "audio_sha256": "cc8a3f5fb760dd8ad84e570e9405c5284f895f51040c8196b8d6e8ddd24e32ed",
+   "image_sha256": "4fd816c125f02c0a42a9d8bdaae37c56d291f57cb942c3730dd62977013679c4",
+   "source_commit": "7fa49f2c0a30d68165f01234be1703608e634493",
+   "station_sha256": "fc18b1fe1334e6ad021c59bfef7abcaa4d62d899fb0f3f09d593463ab77b1e7b",
+   "original_wav_sha256": "d537733f992c91e6241f8d181823e8f89390b6e2a3709f4efee79a93950d3083",
+   "original_wav_filename": "new-gr-37.full.wav"
+  },
+  "new-gr-37#1": {
+   "src": "audio/narration/new-gr-37__s1__cec489054124.mp3",
+   "text": "여덟 다리 나루터의 #1 정거장이다. 공손, 비, 충맥, 내관, 심포, 음유맥, 합어 심, 흉, 위.",
+   "text_sha256": "cec48905412486a0aa374bffe160cab1a8c92a5ca20c1ab0f79defbd6c24f10e",
+   "audio_sha256": "c12e7a148672087f9057ca85f9603c47e4fce8bbfe372cff003fc30fec40d317",
+   "image_sha256": "4fd816c125f02c0a42a9d8bdaae37c56d291f57cb942c3730dd62977013679c4",
+   "source_commit": "7fa49f2c0a30d68165f01234be1703608e634493",
+   "station_sha256": "5910abfdcdbb8eecbc376f2087a3b9c59a7a0625ee38cea36143b7fe33934012",
+   "original_wav_sha256": "d537733f992c91e6241f8d181823e8f89390b6e2a3709f4efee79a93950d3083",
+   "original_wav_filename": "new-gr-37.full.wav"
+  },
+  "new-gr-37#2": {
+   "src": "audio/narration/new-gr-37__s2__0c106fd7f145.mp3",
+   "text": "여덟 다리 나루터의 #2 정거장이다. 후계, 소장, 독맥, 신맥, 방광, 양교맥, 합어 목내자, 경항, 이, 견.",
+   "text_sha256": "0c106fd7f14569ebc8a51214686fc90b15ccacb7ec399c577cf5f074dbe34c73",
+   "audio_sha256": "4dc2babdab97dc461b083eab7148ecd1497b8037d8c0e8146b538dc2697b8534",
+   "image_sha256": "4fd816c125f02c0a42a9d8bdaae37c56d291f57cb942c3730dd62977013679c4",
+   "source_commit": "7fa49f2c0a30d68165f01234be1703608e634493",
+   "station_sha256": "d96e1faf84729e046b23ef23dfdc713cc6066ea76beab60aa3007048ff572884",
+   "original_wav_sha256": "d537733f992c91e6241f8d181823e8f89390b6e2a3709f4efee79a93950d3083",
+   "original_wav_filename": "new-gr-37.full.wav"
+  },
+  "new-gr-37#3": {
+   "src": "audio/narration/new-gr-37__s3__f08b62966a02.mp3",
+   "text": "여덟 다리 나루터의 #3 정거장이다. 족임읍, 담, 대맥, 외관, 삼초, 양유맥, 합어 목예자, 이후, 협, 경, 견.",
+   "text_sha256": "f08b62966a02828e8245300a8bdd69001439f77a2afe5403c46bcacd141ba6a2",
+   "audio_sha256": "81f3eac6ad0d83b3d406bc93afde5efe30a7541229315d9d1ec438126699740c",
+   "image_sha256": "4fd816c125f02c0a42a9d8bdaae37c56d291f57cb942c3730dd62977013679c4",
+   "source_commit": "7fa49f2c0a30d68165f01234be1703608e634493",
+   "station_sha256": "f5f6decd6df1c1e8e68b5a5ba9b35c184aaaee9dee5de8d667e98d3e946122c8",
+   "original_wav_sha256": "d537733f992c91e6241f8d181823e8f89390b6e2a3709f4efee79a93950d3083",
+   "original_wav_filename": "new-gr-37.full.wav"
+  },
+  "new-gr-37#4": {
+   "src": "audio/narration/new-gr-37__s4__7553110a4fdd.mp3",
+   "text": "여덟 다리 나루터의 #4 정거장이다. 열결, 폐, 임맥, 조해, 신, 음교맥, 합어 폐계, 인후, 흉격.",
+   "text_sha256": "7553110a4fddcb263f06c6fe2b492c9913b4d9e848ddb4733c4eb6ed9f6423a1",
+   "audio_sha256": "d0d2c9af155fe5c1580d6421c1703d6d200f53d1e81e82c1c41ef3491cf7d026",
+   "image_sha256": "4fd816c125f02c0a42a9d8bdaae37c56d291f57cb942c3730dd62977013679c4",
+   "source_commit": "7fa49f2c0a30d68165f01234be1703608e634493",
+   "station_sha256": "5ad3c1416c6199dab7831ee15754d993879d807fdace6f27251a6b051df9f6a2",
+   "original_wav_sha256": "d537733f992c91e6241f8d181823e8f89390b6e2a3709f4efee79a93950d3083",
+   "original_wav_filename": "new-gr-37.full.wav"
+  },
+  "new-gr-37#5": {
+   "src": "audio/narration/new-gr-37__s5__76f782829532.mp3",
+   "text": "처음부터 한 바퀴 되짚는다. 공손, 비, 충맥, 내관, 심포, 음유맥, 합어 심, 흉, 위 / 후계, 소장, 독맥, 신맥, 방광, 양교맥, 합어 목내자, 경항, 이, 견 / 족임읍, 담, 대맥, 외관, 삼초, 양유맥, 합어 목예자, 이후, 협, 경, 견 / 열결, 폐, 임맥, 조해, 신, 음교맥, 합어 폐계, 인후, 흉격",
+   "text_sha256": "76f782829532ef8505800ff19f4a792ddb3bb27de72d496e6bbcd337f9376ca1",
+   "audio_sha256": "2e395a1d656570fdb774f7d394cdf716e9def4fe9ee1af88fd3f0d4f72664461",
+   "image_sha256": "4fd816c125f02c0a42a9d8bdaae37c56d291f57cb942c3730dd62977013679c4",
+   "source_commit": "7fa49f2c0a30d68165f01234be1703608e634493",
+   "station_sha256": "14997d0bb56ee60f53d1a761e5c402942e2c6cf2f38594f39923f82aeed4ea65",
+   "original_wav_sha256": "d537733f992c91e6241f8d181823e8f89390b6e2a3709f4efee79a93950d3083",
+   "original_wav_filename": "new-gr-37.full.wav"
   }
  }
 }

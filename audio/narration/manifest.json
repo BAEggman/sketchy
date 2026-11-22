@@ -4741,6 +4741,94 @@
    "station_sha256": "2b53b0771a0819ff3af9962cefd5ca2fc933ca7c27a0de5817abbc9d5fa0bba2",
    "original_wav_sha256": "435f7d9e338e6bfba95787d0773bbdf5e3d4d848a411aca5666e246de746cf1a",
    "original_wav_filename": "suchi-17.full.wav"
+  },
+  "suchi-18#0": {
+   "src": "audio/narration/suchi-18__s0__5211343056c2.mp3",
+   "text": "이번 작업대엔 화로도 집게도 없어. 대신 물건들이 벌겋게 달아올라 빛나지, 불에 빨갛게 달구는 게 단이야. 왼쪽 반은 넓은 쇠 양동이. 벌건 것이 물에 들어가며 치익, 김이 솟아. 빨갛게 달군 뒤 액체에 담가 식히는 게 단쉬, 물과 불을 같이 쓴다고 수화공제법이라고도 해. 김이 끝나는 자리 너머 오른쪽 반은 뚜껑을 꽁꽁 봉한 질그릇 단지, 연기 한 줄 없어. 공기를 막고 달구는 민단, 그러면 탄이 돼. 왼쪽 넷, 오른쪽 둘, 자대자노 혈건.",
+   "text_sha256": "5211343056c2da55c2abc1b5b4a9d60579e81e36eb989af96c88cb1a962b1a5a",
+   "audio_sha256": "da3b7cf40e2f4027dcaf13845826271bd9f174188a622bbe7f25e14cf4561019",
+   "image_sha256": "13f4856c9b286d6d9f68c1530a1f984a75965b7da315bfd7cf8b1a6b4fd06a9f",
+   "source_commit": "fdfcab5c9a4827272092c0589536ea4c0b65e64a",
+   "station_sha256": "72431a45501aeed86d77e7a0b4453aaf09da36de5374588f42048429ee9deebf",
+   "original_wav_sha256": "bb03b843d88aba22ec8472ed159d5945452450de54eed210d4e2d5218256fd40",
+   "original_wav_filename": "suchi-18.full.wav"
+  },
+  "suchi-18#1": {
+   "src": "audio/narration/suchi-18__s1__2a4a28d0f3e9.mp3",
+   "text": "맨 왼쪽은 은빛 유자 말굽자석. 자석 그대로 자석이야. 두 끝에 쇠못이 줄줄이 붙었는데, 그 못 줄이 집게 노릇을 해. 벌겋게 달아오른 붉은 막대자석을 붙잡아 양동이 물에 담그지, 달군 걸 액체에 넣는 게 쉬. 자석은 단쉬 목록의 첫째야.",
+   "text_sha256": "2a4a28d0f3e9ce6aa819c7360db7ccd5425ce562fb8178bd6ac5cb3616746dd2",
+   "audio_sha256": "0b56af45d8188f7a2d8adbd82cb87eb19080845f80c5eeaa7a2c500b37cfe33a",
+   "image_sha256": "13f4856c9b286d6d9f68c1530a1f984a75965b7da315bfd7cf8b1a6b4fd06a9f",
+   "source_commit": "fdfcab5c9a4827272092c0589536ea4c0b65e64a",
+   "station_sha256": "b155cf391f695c4b104528b6b5f617e5048c4721382e33e515501dd81fdebae5",
+   "original_wav_sha256": "bb03b843d88aba22ec8472ed159d5945452450de54eed210d4e2d5218256fd40",
+   "original_wav_filename": "suchi-18.full.wav"
+  },
+  "suchi-18#2": {
+   "src": "audio/narration/suchi-18__s2__15de86da5a04.mp3",
+   "text": "못 줄에 붙들린 건 붉은 막대자석. 팔다리를 대자로 쭉 뻗고 누웠지, 대자로 누운 자석, 대자석. 교재 단쉬 목록엔 앞의 대 자 없이 자석으로 적혔고, 사전 표기는 대자석이야. 같은 자석 소리라도 은빛 유자는 자석, 붉은 막대는 대자석. 이 막대자석은 명단 작업대에서 숯불 위에 맨몸으로 누웠었지? 교재 명단 일번 목록에도 대자석이 있어. 거긴 숯 위에 그냥, 여기는 달군 채 물에 치익.",
+   "text_sha256": "15de86da5a04625b4f87ae1c1b43f87515149ab939043342799b1e73a7e4f061",
+   "audio_sha256": "d890d7484d6d5672bb773dd4cb9e79c2c547d5ebb4caa36ccbb3009c25739463",
+   "image_sha256": "13f4856c9b286d6d9f68c1530a1f984a75965b7da315bfd7cf8b1a6b4fd06a9f",
+   "source_commit": "fdfcab5c9a4827272092c0589536ea4c0b65e64a",
+   "station_sha256": "80e4c415d286777cfa1675032d9d66637b7ee39f4a6c489c827e1ceca18f142c",
+   "original_wav_sha256": "bb03b843d88aba22ec8472ed159d5945452450de54eed210d4e2d5218256fd40",
+   "original_wav_filename": "suchi-18.full.wav"
+  },
+  "suchi-18#3": {
+   "src": "audio/narration/suchi-18__s3__e8a32f02eb86.mp3",
+   "text": "양동이 가운데엔 도끼 든 수염 난 산속 자연인. 온몸이 구리 동상이 됐어, 자연인 동상, 자연동. 바위 받침째 물에 잠겼는데, 몸은 벌겋게 달아 빛나고 둘레엔 김이 피어올라. 달군 채로 액체에 들어간 거야, 단쉬. 그 오른쪽 물 위로 돌배 하나가 떠 와.",
+   "text_sha256": "e8a32f02eb866717d97934718a0aa77aaf8f267dbd693c1b3aa246f427f9649f",
+   "audio_sha256": "edf886cc53ec8613ed07c3bf7bb238eea9a111846412abe212cbadd83c759f1e",
+   "image_sha256": "13f4856c9b286d6d9f68c1530a1f984a75965b7da315bfd7cf8b1a6b4fd06a9f",
+   "source_commit": "fdfcab5c9a4827272092c0589536ea4c0b65e64a",
+   "station_sha256": "5ddeaac9d5b8d8d313399da11eb9e34a2368046ab61b71e6b49d4b01a44bed98",
+   "original_wav_sha256": "bb03b843d88aba22ec8472ed159d5945452450de54eed210d4e2d5218256fd40",
+   "original_wav_filename": "suchi-18.full.wav"
+  },
+  "suchi-18#4": {
+   "src": "audio/narration/suchi-18__s4__077bd9b87b67.mp3",
+   "text": "물 위엔 돌로 깎은 배에 단감이 앉아 노를 저어. 노의 노, 단감의 감, 돌배의 석, 노감석. 여기까지 넷이 단쉬, 자대자노. 감이 뻗은 노 끝이 양동이를 넘어 오른쪽 연탄의 머리칼에 닿아. 그림에서는 양동이와 연탄 사이가 좁아서 노가 그 틈을 가로질러, 김이 끝나는 자리를 단쉬와 민단의 경계로 봐.",
+   "text_sha256": "077bd9b87b67bca03f4e7ee035cf442b12bc0a763576efe772b1ade3c30c5b39",
+   "audio_sha256": "8f04b337e220b6d64b842c568013a4e0014a8b51fd5360ef6b6d1ca65d10695a",
+   "image_sha256": "13f4856c9b286d6d9f68c1530a1f984a75965b7da315bfd7cf8b1a6b4fd06a9f",
+   "source_commit": "fdfcab5c9a4827272092c0589536ea4c0b65e64a",
+   "station_sha256": "ef56f348f8cb6d65043683b13cd9b936d4cdb9149f26b35ccdb1e67a2ca1ae73",
+   "original_wav_sha256": "bb03b843d88aba22ec8472ed159d5945452450de54eed210d4e2d5218256fd40",
+   "original_wav_filename": "suchi-18.full.wav"
+  },
+  "suchi-18#5": {
+   "src": "audio/narration/suchi-18__s5__938a55420c03.mp3",
+   "text": "김이 끝난 오른쪽엔 구멍 숭숭 연탄. 팔에 혈압계를 찼고 머리는 길게 늘어뜨린 장발이야. 혈압계의 혈, 연탄의 탄, 길게 남은 머리칼, 혈여탄. 그 머리칼을 꼬아 밧줄 삼아 옆 질그릇 단지 뚜껑을 칭칭 감아 봉했지. 공기를 막고 달구는 민단이라 이름 끝이 탄이야. 혈여탄의 목적은 지혈.",
+   "text_sha256": "938a55420c0390db33b784ec9e1049b2037c731965c79706f595ebffa6b8aa00",
+   "audio_sha256": "ac58e1d813bb84544fad74e3070d3d1806881a4ac91856fdcc6371b270b17073",
+   "image_sha256": "13f4856c9b286d6d9f68c1530a1f984a75965b7da315bfd7cf8b1a6b4fd06a9f",
+   "source_commit": "fdfcab5c9a4827272092c0589536ea4c0b65e64a",
+   "station_sha256": "d04d885d6701d6a1e3df4f56a2e474373058b8832ae06dece7b62451afaceaaf",
+   "original_wav_sha256": "bb03b843d88aba22ec8472ed159d5945452450de54eed210d4e2d5218256fd40",
+   "original_wav_filename": "suchi-18.full.wav"
+  },
+  "suchi-18#6": {
+   "src": "audio/narration/suchi-18__s6__6b6992b5989d.mp3",
+   "text": "맨 오른쪽은 네모난 건빵 더미. 검은 옻이 덮여 뚝뚝 흘러내려, 건빵에 옻칠, 건칠. 옆의 붓은 단지를 빙 둘러 검은 옻 줄을 칠해서 바람 한 점 못 들게 막아. 그림에서는 옻 선이 뚜껑 이음새보다 조금 아래 몸통에 그어졌지만, 뜻은 틈을 메우는 거야. 머리칼로 묶고 옻으로 틈을 메운 밀폐 단지, 민단이야. 건칠의 목적은 독성완화. 건칠은 임신 중에 쓰면 안 되는 임신금용 목록에도 있어.",
+   "text_sha256": "6b6992b5989d2aad267688a077cdbda6976c5e051a5c5c7e1a072a7dafc6ef75",
+   "audio_sha256": "4ca8013309200037215dc59a914dcc9099c7a4f41a2108380d5b5c59f759444e",
+   "image_sha256": "13f4856c9b286d6d9f68c1530a1f984a75965b7da315bfd7cf8b1a6b4fd06a9f",
+   "source_commit": "fdfcab5c9a4827272092c0589536ea4c0b65e64a",
+   "station_sha256": "62b486c768d1eb78cf14a3df8ac409a01887b3ca06e50e86bfee0da859c71a23",
+   "original_wav_sha256": "bb03b843d88aba22ec8472ed159d5945452450de54eed210d4e2d5218256fd40",
+   "original_wav_filename": "suchi-18.full.wav"
+  },
+  "suchi-18#7": {
+   "src": "audio/narration/suchi-18__s7__8ca1e7a6a6ab.mp3",
+   "text": "한 바퀴. 유자 자석 못 줄이 달군 막대자석을 물에 치익 담그고, 옆엔 달아오른 구리 동상, 돌배 탄 감이 노를 저어 연탄 머리칼을 건드리고, 그 머리칼이 단지를 봉하고, 건빵 붓이 틈을 옻칠해. 자대자노 혈건. 시험은 단법 셋을 바꿔 내, 그림에선 숯불 위에 맨몸으로 달구는 명단, 달군 뒤 액체에 담그는 단쉬, 밀폐해서 탄으로 만드는 민단. 열린 양동이에 김이면 단쉬, 봉한 단지면 민단. 명단 목록은 교재엔 용골이 없고 본초 문서는 용골도 넣어, 둘 다 기억해.",
+   "text_sha256": "8ca1e7a6a6ab82001670500f0c2453adb49e896d8302d4a906da34d8a513bd09",
+   "audio_sha256": "305c6921218e41cb21c3d1e8e0f6b62406ede869c973a47e6482d84e7c27aca1",
+   "image_sha256": "13f4856c9b286d6d9f68c1530a1f984a75965b7da315bfd7cf8b1a6b4fd06a9f",
+   "source_commit": "fdfcab5c9a4827272092c0589536ea4c0b65e64a",
+   "station_sha256": "2cd3d77f92337b2c9f560ef78263ce1700613fbd6b27605b44bb6e6949f10633",
+   "original_wav_sha256": "bb03b843d88aba22ec8472ed159d5945452450de54eed210d4e2d5218256fd40",
+   "original_wav_filename": "suchi-18.full.wav"
   }
  }
 }

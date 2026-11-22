@@ -6622,6 +6622,116 @@
    "station_sha256": "1922930ab12310120664363e0623e4b2fc90577f482e4fe61c181fac57c5dead",
    "original_wav_sha256": "3e185216d95aaa2be6dbb4d7b5a39359ee8fe91969e488b2f316664c8a2b2833",
    "original_wav_filename": "new-jq-02.full.wav"
+  },
+  "new-jq-03#0": {
+   "src": "audio/narration/new-jq-03__s0__0046542874d8.mp3",
+   "text": "시골 정미소다. 정은 쓿은 쌀, 낟알을 찧어 겉을 벗기고 알맹이만 남긴 것이다. 가운데 도정기에 누런 벼가 들어가 하얀 쌀이 쏟아진다. 부모가 준 볍씨, 날마다 들어오는 벼, 다섯 창고와 검은 금고, 그리고 그 쓰임까지, 정의 개념과 분류와 기능을 한 바퀴 돈다.",
+   "text_sha256": "0046542874d86a17f317c75d86bc5db3ad1bb385cb40254345ede898e36b8231",
+   "audio_sha256": "3787188b398f78478a0a8f4e9389392e8adf561806b623da4ad6b867773a2a1b",
+   "image_sha256": "3b4baaf9647c13afc95d0494c594129a00211693aac0272c9186d8d345441757",
+   "source_commit": "3226db9e6dd18ee1c1a26fce47979dd27af8dd35",
+   "station_sha256": "dacb40b5f51f412898d654ce4e6c326a6a5001414eee67914c9ffd87bbfb1ae0",
+   "original_wav_sha256": "ae5f2fdbde3b1b12e8960fcdfe53f93b0260799d17888b6c1fd6736c2e34db37",
+   "original_wav_filename": "new-jq-03.full.wav"
+  },
+  "new-jq-03#1": {
+   "src": "audio/narration/new-jq-03__s1__883ca5a4d360.mp3",
+   "text": "도정기에서 쏟아진 하얀 쌀이 바닥 전체에 깔렸다. 정은 몸을 이루고 생명활동을 유지하는 가장 기본 물질이다. 소문 금궤진언론, 부정자 신지본야, 정은 몸의 근본이다.",
+   "text_sha256": "883ca5a4d360c21d7322a34ee61bc5c9609b6efe17c708e8e72870245b9d8f99",
+   "audio_sha256": "0069a766dd3684f735316a0060177493edf339840672adee89eead8e8139ffa2",
+   "image_sha256": "3b4baaf9647c13afc95d0494c594129a00211693aac0272c9186d8d345441757",
+   "source_commit": "3226db9e6dd18ee1c1a26fce47979dd27af8dd35",
+   "station_sha256": "d1a4edd3e8edbe4c9d4cb235c6671d90f26f1b25dea5d355433853a4e7343f3d",
+   "original_wav_sha256": "ae5f2fdbde3b1b12e8960fcdfe53f93b0260799d17888b6c1fd6736c2e34db37",
+   "original_wav_filename": "new-jq-03.full.wav"
+  },
+  "new-jq-03#2": {
+   "src": "audio/narration/new-jq-03__s2__ccd2bbd50679.mp3",
+   "text": "왼쪽, 노부부가 볍씨 단지를 젊은이에게 건넨다, 부모에게서 받은 선천지정이다. 단지 안에 붉은 불씨가 탄다, 선천지정은 명문의 화기를 지닌다. 영추 본신, 생지래위지정, 생명이 올 때 함께 오는 것을 정이라 한다.",
+   "text_sha256": "ccd2bbd50679e2c2405da58e67c085b6576fc3a2d25e12d48c5e53cb7cb5212f",
+   "audio_sha256": "93a0d837c016882d8d2b17f67a77d7210ff3389d7b5afc94ae8bc955b4973451",
+   "image_sha256": "3b4baaf9647c13afc95d0494c594129a00211693aac0272c9186d8d345441757",
+   "source_commit": "3226db9e6dd18ee1c1a26fce47979dd27af8dd35",
+   "station_sha256": "56fb218169a10b66d2aed75d98465f842aaf331c0e05c871ba4011f1c91c3b8c",
+   "original_wav_sha256": "ae5f2fdbde3b1b12e8960fcdfe53f93b0260799d17888b6c1fd6736c2e34db37",
+   "original_wav_filename": "new-jq-03.full.wav"
+  },
+  "new-jq-03#3": {
+   "src": "audio/narration/new-jq-03__s3__b7c0af846fe1.mp3",
+   "text": "위쪽 문으로 볏단 실은 소달구지가 들어온다, 날마다 먹는 음식, 수곡이다. 수곡의 정미에서 생겨난 것이 후천지정. 쌀은 다섯 창고로 나뉘어 오장육부에 퍼지고, 쓰고 남은 것은 미끄럼틀을 타고 검은 금고, 신에 갈무리된다. 태어난 뒤의 성장과 발육과 생명 유지를 맡는다.",
+   "text_sha256": "b7c0af846fe17670712ec210cc7b904253680a1502a4066529a74059f613cb89",
+   "audio_sha256": "4d2f6758a2765ddf89793b38eed0b82b70f54ffac2d72e4f3f0708cebbcf280c",
+   "image_sha256": "3b4baaf9647c13afc95d0494c594129a00211693aac0272c9186d8d345441757",
+   "source_commit": "3226db9e6dd18ee1c1a26fce47979dd27af8dd35",
+   "station_sha256": "65bb7ff8c03b86d90b572917b2021649392b47cb2e1f917aaddb0498c7232aeb",
+   "original_wav_sha256": "ae5f2fdbde3b1b12e8960fcdfe53f93b0260799d17888b6c1fd6736c2e34db37",
+   "original_wav_filename": "new-jq-03.full.wav"
+  },
+  "new-jq-03#4": {
+   "src": "audio/narration/new-jq-03__s4__9be596ebc1df.mp3",
+   "text": "화분의 쌀알 하나가 싹을 틔웠다, 좁은 뜻의 정, 신에 저장되어 생식 능력을 갖춘 생식지정이다. 선천에서 오고 후천이 길러 준다. 오른쪽 다섯 색 창고의 쌀은 넓은 뜻의 정, 오장육부지정, 장부가 제 기능을 하는 물질적 바탕이다. 기능으로 나눠도 이 둘, 생식지정과 오장육부지정이다.",
+   "text_sha256": "9be596ebc1df61b275625026b98063bdef0bdebd4b7fefa708230dd24e2128e6",
+   "audio_sha256": "74b2b67647e8af6d9a2b1ac6fd7aab89ffea3ae0c6cf19f681516d57a4d3970d",
+   "image_sha256": "3b4baaf9647c13afc95d0494c594129a00211693aac0272c9186d8d345441757",
+   "source_commit": "3226db9e6dd18ee1c1a26fce47979dd27af8dd35",
+   "station_sha256": "8ed4be033b36008a30c9b2886ad343abb8fba56274e3e3d4725ddccc6d724165",
+   "original_wav_sha256": "ae5f2fdbde3b1b12e8960fcdfe53f93b0260799d17888b6c1fd6736c2e34db37",
+   "original_wav_filename": "new-jq-03.full.wav"
+  },
+  "new-jq-03#5": {
+   "src": "audio/narration/new-jq-03__s5__be8a0ba9cb46.mp3",
+   "text": "검은 금고를 본다. 쌀은 금고에서 만들어지지 않는다. 다섯 창고에서 미끄럼틀을 타고 내려온 쌀이 쌓여 있을 뿐이다. 정은 신에서만 생긴다, 틀린 말이다. 정은 지음의 액으로, 십이장의 생화에서 비롯해 신에 저장될 뿐이다.",
+   "text_sha256": "be8a0ba9cb4684d910243d0f4281016d5ffdc04409919cd0386d00b7855af6df",
+   "audio_sha256": "e569c6bcca2ba788e4bbc63d17005f9e4b172a85f1ba383fed38f29cdf739baa",
+   "image_sha256": "3b4baaf9647c13afc95d0494c594129a00211693aac0272c9186d8d345441757",
+   "source_commit": "3226db9e6dd18ee1c1a26fce47979dd27af8dd35",
+   "station_sha256": "d065e6c300508e3e20ff23386eb50b0d89559074c5e58e0670b159441f3ba633",
+   "original_wav_sha256": "ae5f2fdbde3b1b12e8960fcdfe53f93b0260799d17888b6c1fd6736c2e34db37",
+   "original_wav_filename": "new-jq-03.full.wav"
+  },
+  "new-jq-03#6": {
+   "src": "audio/narration/new-jq-03__s6__3957f234407e.mp3",
+   "text": "정이 하는 일은 셋이다. 하나, 화분의 새싹, 생식과 생장발육. 선천지정이 생식을 맡고 후천지정이 길러 자라게 한다. 둘, 머리 모양 독에 붓는 쌀뜨물, 뇌수를 만든다. 셋, 봄볕에 환호하는 건강한 남자, 병을 막는다.",
+   "text_sha256": "3957f234407ee2ea05a8c6a1613a75b4dfff3a4cf07920a5cbb65bf34cf20891",
+   "audio_sha256": "833030834324fd9e85dd475674199afe25e980d35ac984d47de18089d6abfc75",
+   "image_sha256": "3b4baaf9647c13afc95d0494c594129a00211693aac0272c9186d8d345441757",
+   "source_commit": "3226db9e6dd18ee1c1a26fce47979dd27af8dd35",
+   "station_sha256": "249d8bd160ee139b7409a6801aebe9d5077041511a3090d2ab6ace2dd492b012",
+   "original_wav_sha256": "ae5f2fdbde3b1b12e8960fcdfe53f93b0260799d17888b6c1fd6736c2e34db37",
+   "original_wav_filename": "new-jq-03.full.wav"
+  },
+  "new-jq-03#7": {
+   "src": "audio/narration/new-jq-03__s7__b7586c351906.mp3",
+   "text": "일꾼이 사람 머리 모양 독에 뽀얀 쌀뜨물을 붓는다. 정이 수를 낳고, 수가 뇌를 채운다. 영추 해론, 뇌위수지해, 뇌는 수의 바다다. 영추 경맥, 정성이뇌수생, 정이 이루어지면 뇌수가 생긴다. 그래서 정이 정신활동의 바탕이 된다.",
+   "text_sha256": "b7586c3519066561233fc047110073b4ee481dc835a4af4e81b84399dad448b1",
+   "audio_sha256": "0d87e7e90d73ff32f862a54da6ca07f7e5a66d5dc986bb3e36a7efe9e677592c",
+   "image_sha256": "3b4baaf9647c13afc95d0494c594129a00211693aac0272c9186d8d345441757",
+   "source_commit": "3226db9e6dd18ee1c1a26fce47979dd27af8dd35",
+   "station_sha256": "81c453d6978ecfb9fd020f8019fadba3f73e92c0aabd3977c8573d48903066b6",
+   "original_wav_sha256": "ae5f2fdbde3b1b12e8960fcdfe53f93b0260799d17888b6c1fd6736c2e34db37",
+   "original_wav_filename": "new-jq-03.full.wav"
+  },
+  "new-jq-03#8": {
+   "src": "audio/narration/new-jq-03__s8__1d970d908c7d.mp3",
+   "text": "눈 덮인 헛간에 쌀이 가득, 겨울에 정을 잘 갈무리했다. 그 앞에 봄꽃이 피고, 남자는 아프지 않고 두 팔 들어 환호한다. 소문 금궤진언론, 장어정자 춘불병온, 정을 갈무리한 이는 봄에 온병을 앓지 않는다. 거꾸로 동부장정 춘필병온. 정이 넉넉하면 정기가 차서 사기를 막는다.",
+   "text_sha256": "1d970d908c7d516d92c4528280d2c81087aa5c0336e3c59871a324655728c2e7",
+   "audio_sha256": "60e7e50f7e7f5c287183b45735c55d61cc0a86c7fce3769e8ea4da68a2ce1286",
+   "image_sha256": "3b4baaf9647c13afc95d0494c594129a00211693aac0272c9186d8d345441757",
+   "source_commit": "3226db9e6dd18ee1c1a26fce47979dd27af8dd35",
+   "station_sha256": "42cbac20cef52672140e130afd64d91d93ae744afe3f1e27a277316c6e2a852f",
+   "original_wav_sha256": "ae5f2fdbde3b1b12e8960fcdfe53f93b0260799d17888b6c1fd6736c2e34db37",
+   "original_wav_filename": "new-jq-03.full.wav"
+  },
+  "new-jq-03#9": {
+   "src": "audio/narration/new-jq-03__s9__e12209c4e34e.mp3",
+   "text": "다시 본다. 바닥의 흰 쌀, 정자신지본. 노부부의 불씨 든 볍씨, 선천지정, 생지래위지정. 소달구지의 볏단, 후천지정, 수곡에서 나 장부로 퍼지고 신에 쌓인다. 싹 트는 쌀알은 좁은 뜻 생식지정, 다섯 창고는 넓은 뜻 오장육부지정. 금고는 만들지 않고 받아 둔다. 새싹, 머리 독, 봄날 환호하는 남자, 생식과 성장, 뇌수, 병 예방.",
+   "text_sha256": "e12209c4e34e0460e1e09899d68e9d092b39023540b0e415afd7562d563e4bdd",
+   "audio_sha256": "453c0bf634495a2dd78ad27845050d56b2cd04d2bc843ccd28870b033a1d9065",
+   "image_sha256": "3b4baaf9647c13afc95d0494c594129a00211693aac0272c9186d8d345441757",
+   "source_commit": "3226db9e6dd18ee1c1a26fce47979dd27af8dd35",
+   "station_sha256": "ce1f4dfcd0b0270865a4be31db02f14cf29252708679a044382b4919fd33ee5e",
+   "original_wav_sha256": "ae5f2fdbde3b1b12e8960fcdfe53f93b0260799d17888b6c1fd6736c2e34db37",
+   "original_wav_filename": "new-jq-03.full.wav"
   }
  }
 }

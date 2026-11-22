@@ -9702,6 +9702,94 @@
    "station_sha256": "a91cf8c76585146f1e08cf539618b76d3cb229519eafa7e1dd23a80ec5b0890b",
    "original_wav_sha256": "a6ff80c0051ea3d8bc3658b239d7f95f59e29fa62b200b7325870ab1c2338732",
    "original_wav_filename": "new-gr-08.full.wav"
+  },
+  "new-gr-07#0": {
+   "src": "audio/narration/new-gr-07__s0__a43c1d97025b.mp3",
+   "text": "워터파크다. 흘러 부어 드는 물길, 유주. 두 팔을 머리 위로 쭉 뻗고 선 거인 몸을 따라 물이 돈다, 가슴에서 손끝으로, 손끝에서 머리로, 머리에서 발끝으로, 발끝에서 다시 가슴으로. 그 꺾이는 자리마다 튜브를 넘기는 사람들이 있다.",
+   "text_sha256": "a43c1d97025bbb19d1fc6fe9d0fce67988105bd6454b6da4c013af26abf58106",
+   "audio_sha256": "318b629b5570a9cc3b2fe5d44c7d05709e5870be1286663c99e01b67d44ab2aa",
+   "image_sha256": "7b86e27bcd08dfcce4c5c71789f44b67882624f48352430f6ab2bc09f4966a43",
+   "source_commit": "e54f42dabfd6a2dbd80ae3d9e0434eee98ad004c",
+   "station_sha256": "b373fc0c2f9ed091f33bed3476f65963e71e9b6503b155b625d00bf263cb32d9",
+   "original_wav_sha256": "727f98bad78b05a950a8b79c81158166e24dce349cd66fad20f668bbe3668243",
+   "original_wav_filename": "new-gr-07.full.wav"
+  },
+  "new-gr-07#1": {
+   "src": "audio/narration/new-gr-07__s1__1fc2c55b8ceb.mp3",
+   "text": "팔을 위로 쭉 뻗고 섰으니 손이 머리보다 위다. 물길을 따라간다, 가슴에서 손으로, 수삼음 종흉주수. 손에서 머리로, 수삼양 종수주두. 머리에서 발로, 족삼양 종두주족. 발에서 가슴과 배로, 족삼음 종족주흉복. 이것이 십이경맥의 주향이다.",
+   "text_sha256": "1fc2c55b8ceb1951f46e9784ea3ac0e83c122b9c55c4c0e8792e1365a047b2fb",
+   "audio_sha256": "5e5427b7b1e98d152922e7e8cccd0ec3139140b9839e4b6c4f97dd49fd175ef0",
+   "image_sha256": "7b86e27bcd08dfcce4c5c71789f44b67882624f48352430f6ab2bc09f4966a43",
+   "source_commit": "e54f42dabfd6a2dbd80ae3d9e0434eee98ad004c",
+   "station_sha256": "3301e4da0cdf8146b803f95f771ed9a456d3526f77384295f793d27d170de909",
+   "original_wav_sha256": "727f98bad78b05a950a8b79c81158166e24dce349cd66fad20f668bbe3668243",
+   "original_wav_filename": "new-gr-07.full.wav"
+  },
+  "new-gr-07#2": {
+   "src": "audio/narration/new-gr-07__s2__611d32983e25.mp3",
+   "text": "맨 위 손끝, 흰 옷 노인 폐가 튜브를 들고 흰 작업복 솔 든 사내 대장에게 내민다. 수삼음과 수삼양은 손가락 끝에서 만난다. 폐경의 갈래는 기지자 종완후직출차지내렴 출기단, 손목 뒤에서 둘째 손가락 안쪽으로 곧장 나와 그 끝에서 대장경에 잇는다. 네 교접 자리는 손끝, 머리, 발끝, 가슴.",
+   "text_sha256": "611d32983e2591e8647f5b82245eefd8d55bbd82e1e5308aa1d499a999f16476",
+   "audio_sha256": "775fe24545fd6bb99e4c3de2fc85987277814b52b1b9ccfe51901d73ade1c042",
+   "image_sha256": "7b86e27bcd08dfcce4c5c71789f44b67882624f48352430f6ab2bc09f4966a43",
+   "source_commit": "e54f42dabfd6a2dbd80ae3d9e0434eee98ad004c",
+   "station_sha256": "7d9109001afc744b405685ec18b671de7db4eccf2b2e675dd8d8975ead56a66a",
+   "original_wav_sha256": "727f98bad78b05a950a8b79c81158166e24dce349cd66fad20f668bbe3668243",
+   "original_wav_filename": "new-gr-07.full.wav"
+  },
+  "new-gr-07#3": {
+   "src": "audio/narration/new-gr-07__s3__3a0f413e4b4c.mp3",
+   "text": "거인 얼굴 높이, 솔 든 작업복 대장이 노란 앞치마 요리사 위에게 넘긴다. 수삼양과 족삼양은 머리, 얼굴에서 만난다. 양과 양은 머리, 머리는 모든 양이 모이는 곳이다.",
+   "text_sha256": "3a0f413e4b4c100e597c126998745b2b2a10a6cb1844c7602ea4b22750a63b69",
+   "audio_sha256": "4988da36b8ca995c323c78ed1f90c3ceb43fd49c3fbde4b943ad2663a82291ca",
+   "image_sha256": "7b86e27bcd08dfcce4c5c71789f44b67882624f48352430f6ab2bc09f4966a43",
+   "source_commit": "e54f42dabfd6a2dbd80ae3d9e0434eee98ad004c",
+   "station_sha256": "776f84a69e2fbfac7718a8f79b4498d4a21f5513231120ec17f9e07dd4fab8b5",
+   "original_wav_sha256": "727f98bad78b05a950a8b79c81158166e24dce349cd66fad20f668bbe3668243",
+   "original_wav_filename": "new-gr-07.full.wav"
+  },
+  "new-gr-07#4": {
+   "src": "audio/narration/new-gr-07__s4__426c77780413.mp3",
+   "text": "거인 발 곁, 요리사 위가 밀짚모자 농부 비에게 튜브를 넘긴다. 족삼양과 족삼음은 발가락 끝에서 만난다.",
+   "text_sha256": "426c7778041337fe6a9ec7eb127d2cbda0333ed15e8006676f79f401736fa159",
+   "audio_sha256": "cd41476d2acae89d4e2f742ce4f7e726fa26499808a782efa0174b7a4b62be6f",
+   "image_sha256": "7b86e27bcd08dfcce4c5c71789f44b67882624f48352430f6ab2bc09f4966a43",
+   "source_commit": "e54f42dabfd6a2dbd80ae3d9e0434eee98ad004c",
+   "station_sha256": "62caffcd670741de912ec6459c884dd8642af9052f64b0406b688c7f05942054",
+   "original_wav_sha256": "727f98bad78b05a950a8b79c81158166e24dce349cd66fad20f668bbe3668243",
+   "original_wav_filename": "new-gr-07.full.wav"
+  },
+  "new-gr-07#5": {
+   "src": "audio/narration/new-gr-07__s5__30c6a239dd11.mp3",
+   "text": "거인 가슴 높이, 농부 비가 금관 임금 심에게 튜브를 넘긴다. 족삼음과 수삼음은 가슴 속에서 만난다, 흉중, 흉복. 음과 음은 가슴. 그리고 다시 손끝으로, 두 번째 바퀴가 시작된다.",
+   "text_sha256": "30c6a239dd11bd00958d4bf0aad029c29c10dd5fdafb3e6061e9ca0415203c8f",
+   "audio_sha256": "4f7939d26d515aa3772f2bb8e20037e12276d5a92579211e6154040534bfe019",
+   "image_sha256": "7b86e27bcd08dfcce4c5c71789f44b67882624f48352430f6ab2bc09f4966a43",
+   "source_commit": "e54f42dabfd6a2dbd80ae3d9e0434eee98ad004c",
+   "station_sha256": "fa81891d169a163089e75ab764ccf5091844421d33cbba55358442acf2bf5cca",
+   "original_wav_sha256": "727f98bad78b05a950a8b79c81158166e24dce349cd66fad20f668bbe3668243",
+   "original_wav_filename": "new-gr-07.full.wav"
+  },
+  "new-gr-07#6": {
+   "src": "audio/narration/new-gr-07__s6__dcd9a04cb0cc.mp3",
+   "text": "한 바퀴에 넷이 탄다. 첫 바퀴, 폐, 대장, 위, 비. 둘째 바퀴, 임금부터 심, 소장, 방광, 신. 셋째 바퀴, 심포, 삼초, 담, 간. 그리고 다시 폐로. 태음양명, 소음태양, 궐음소양, 세 바퀴로 열둘이 흐른다. 맨 처음 폐경은 중초에서 일어난다. 하루의 유주는 새벽 인시, 3에서 5시, 수태음폐경 중초에서 시작에서 출발하여 축시, 1에서 3시, 족궐음간경에서 끝난다.",
+   "text_sha256": "dcd9a04cb0cc9737cfb93548a67c06a93953edd817ef346afa6bb781374db0be",
+   "audio_sha256": "9fb66583491d3b21e8cf452795fd339ae2b8e4b2bf31031f508420938aad49c1",
+   "image_sha256": "7b86e27bcd08dfcce4c5c71789f44b67882624f48352430f6ab2bc09f4966a43",
+   "source_commit": "e54f42dabfd6a2dbd80ae3d9e0434eee98ad004c",
+   "station_sha256": "2e7e4486158cddf0a3c82538fb63468c3286ef07be0911b19431e4bb28b7a2a5",
+   "original_wav_sha256": "727f98bad78b05a950a8b79c81158166e24dce349cd66fad20f668bbe3668243",
+   "original_wav_filename": "new-gr-07.full.wav"
+  },
+  "new-gr-07#7": {
+   "src": "audio/narration/new-gr-07__s7__cfe46646034d.mp3",
+   "text": "다시 본다. 가슴에서 손으로, 수삼음. 손끝 교접, 노인 폐에서 작업복 대장, 차지. 손에서 머리로, 수삼양. 머리 교접, 대장에서 위, 양과 양은 머리. 머리에서 발로, 족삼양. 발끝 교접, 위에서 비. 발에서 가슴으로, 족삼음. 가슴 교접, 비에서 심, 음과 음은 가슴. 세 바퀴, 폐대장위비, 심소장방광신, 심포삼초담간.",
+   "text_sha256": "cfe46646034dcd8fb71779fc09d4b13fde10f05e1a141217909d752803a37a2d",
+   "audio_sha256": "b7e387ba093725a498639550cda3db9a28b9cdc9885fc4ad060bf103f3c09c5a",
+   "image_sha256": "7b86e27bcd08dfcce4c5c71789f44b67882624f48352430f6ab2bc09f4966a43",
+   "source_commit": "e54f42dabfd6a2dbd80ae3d9e0434eee98ad004c",
+   "station_sha256": "5e5a0541257f4c253ed6b93a8f3060d643022c22271fe0885ff58c8bdcff7dc9",
+   "original_wav_sha256": "727f98bad78b05a950a8b79c81158166e24dce349cd66fad20f668bbe3668243",
+   "original_wav_filename": "new-gr-07.full.wav"
   }
  }
 }

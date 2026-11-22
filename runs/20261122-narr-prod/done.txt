@@ -82,3 +82,4 @@ new-jq-10
 new-jq-11
 new-jq-16
 new-jq-17
+new-jq-18

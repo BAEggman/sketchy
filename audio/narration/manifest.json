@@ -8173,6 +8173,105 @@
    "station_sha256": "bf02d625e1819d2129f7372436cbf1e530bcb81aa5c4f038e8738cfe85d9a903",
    "original_wav_sha256": "aee7b2a31ae5c145bd920ff78272930989881f229d49ad0a0d59b70e2512030a",
    "original_wav_filename": "new-jq-17.full.wav"
+  },
+  "new-jq-18#0": {
+   "src": "audio/narration/new-jq-18__s0__1f9974e59684.mp3",
+   "text": "나루터다. 진은 나루 진, 강물이 흐르는 곳. 맑고 묽게 흘러 퍼지는 강물이 진, 창고 독에 고여 머무는 걸쭉한 기름이 액이다. 강, 부두의 체, 붉은 관, 왼쪽 도랑, 오른쪽 기름 창고를 차례로 본다.",
+   "text_sha256": "1f9974e5968467dfe7b57bf4249e32e7fbbe099e461375e7f4954bbc3d1518f8",
+   "audio_sha256": "99ba64040c2e4aa7d97e85dc439758fb078e7b806dc2c1123fb2fe4b8287527c",
+   "image_sha256": "86cedfc3c0fe87503edc697d62653a6d6c3936e1157eed63c6be5703441744ce",
+   "source_commit": "b734c96faa0cd7ba1f8d047b5d5ec2aa8e8736ce",
+   "station_sha256": "3acc3f79c2a60c3fc0a559a3c01658e8140b508974f7e3971da98ed07f8b00cb",
+   "original_wav_sha256": "912e16c5ead2d4556ca82812bd3a4397a23cc3cb01815d0789be5b3981f57724",
+   "original_wav_filename": "new-jq-18.full.wav"
+  },
+  "new-jq-18#1": {
+   "src": "audio/narration/new-jq-18__s1__0682bfe22a87.mp3",
+   "text": "나루터의 물을 모두 본다. 강물, 사공의 땀, 아이의 눈물, 창고의 기름. 진액은 몸속 정상 수액을 모두 이르는 말이다, 침, 위액, 장액, 관절 속 액, 눈물, 땀, 콧물, 오줌까지.",
+   "text_sha256": "0682bfe22a87466abc007b95aeea305a2fc2bd9822fa93284c782e815a42e960",
+   "audio_sha256": "7c5a014da904d37e970b12458e436a35c0039103e7012a132981b36b1a8f0340",
+   "image_sha256": "86cedfc3c0fe87503edc697d62653a6d6c3936e1157eed63c6be5703441744ce",
+   "source_commit": "b734c96faa0cd7ba1f8d047b5d5ec2aa8e8736ce",
+   "station_sha256": "9ad9cc0895b041408c42fedbc441e534cb895064f41b08f30ab8b9f183c38afd",
+   "original_wav_sha256": "912e16c5ead2d4556ca82812bd3a4397a23cc3cb01815d0789be5b3981f57724",
+   "original_wav_filename": "new-jq-18.full.wav"
+  },
+  "new-jq-18#2": {
+   "src": "audio/narration/new-jq-18__s2__bca69f24a3da.mp3",
+   "text": "부두의 붉은 관. 관 밖의 물은 맑다, 진액은 맥 밖에 있고 붉지 않다. 남자가 그 물을 관 안에 붓자 유리창 안에서 빨갛게 된다, 맥 안으로 들어가 영기와 합해 붉어진 것이 혈이다.",
+   "text_sha256": "bca69f24a3da063c524f96ba99ca719c297a33781ae66016d57bead4d118e132",
+   "audio_sha256": "43d62eb172e90f9dc256df998bc96e276cf7ff73369202dac609d09864fde45b",
+   "image_sha256": "86cedfc3c0fe87503edc697d62653a6d6c3936e1157eed63c6be5703441744ce",
+   "source_commit": "b734c96faa0cd7ba1f8d047b5d5ec2aa8e8736ce",
+   "station_sha256": "6135f4d9b653cc8ac0387268f26fd50be85e52691bba1787360a373f3a0070e7",
+   "original_wav_sha256": "912e16c5ead2d4556ca82812bd3a4397a23cc3cb01815d0789be5b3981f57724",
+   "original_wav_filename": "new-jq-18.full.wav"
+  },
+  "new-jq-18#3": {
+   "src": "audio/narration/new-jq-18__s3__e6b1f04de8a8.mp3",
+   "text": "부두 위 붉은 앞치마 일꾼, 체를 든 소장이다. 체를 흔들자 맑은 물은 강으로, 걸쭉한 기름은 독으로 갈린다. 소장주비별청탁, 소장이 맑은 것과 탁한 것을 갈라 진과 액이 구별된다. 소장주액이다, 대장이 아니다.",
+   "text_sha256": "e6b1f04de8a8c8a19831a1daf18d6d423a7b13bb9d4387e4c03834a82ef74dc0",
+   "audio_sha256": "2c790f9f2fd602a03c155885c3dbee110b42c62f6d6cf78fcc0764be2587e568",
+   "image_sha256": "86cedfc3c0fe87503edc697d62653a6d6c3936e1157eed63c6be5703441744ce",
+   "source_commit": "b734c96faa0cd7ba1f8d047b5d5ec2aa8e8736ce",
+   "station_sha256": "76c2a4dea30799c1e70cd95b344bbf60885f2f441e4d41d47bb197c2baf559a8",
+   "original_wav_sha256": "912e16c5ead2d4556ca82812bd3a4397a23cc3cb01815d0789be5b3981f57724",
+   "original_wav_filename": "new-jq-18.full.wav"
+  },
+  "new-jq-18#4": {
+   "src": "audio/narration/new-jq-18__s4__1432d08976d0.mp3",
+   "text": "왼쪽, 주황 삽 인부 삼초가 땅을 트자 물이 솟아 도랑을 타고 풀밭을 가로질러 흐른다. 영추 오륭진액별, 진액각주기도, 진과 액은 제 길로 간다. 삼초출기 이온기육 충피부 위기진, 삼초가 기를 내어 살을 데우고 피부를 채우는 것이 진. 기류이불행자위액, 흐르되 돌아다니지 않고 머무는 것이 액. 오른쪽 독의 기름이다.",
+   "text_sha256": "1432d08976d0dce78d2195c0e11a2b397237de2a7ffe282c59dc2497bfde2efd",
+   "audio_sha256": "2ce861ddde40ed7a775a396cb1216d1eb49772c6485c589fb4db5ff830ca1132",
+   "image_sha256": "86cedfc3c0fe87503edc697d62653a6d6c3936e1157eed63c6be5703441744ce",
+   "source_commit": "b734c96faa0cd7ba1f8d047b5d5ec2aa8e8736ce",
+   "station_sha256": "28260746c233fd0fc9d4246831e5a9bf93cfefd566b5de7d68c22214fd6e5d76",
+   "original_wav_sha256": "912e16c5ead2d4556ca82812bd3a4397a23cc3cb01815d0789be5b3981f57724",
+   "original_wav_filename": "new-jq-18.full.wav"
+  },
+  "new-jq-18#5": {
+   "src": "audio/narration/new-jq-18__s5__f9fb00050072.mp3",
+   "text": "진을 본다. 맑고 묽고 빨리 흐른다, 청희, 유동성이 크다. 풀밭, 곧 살갗과 기부로 퍼지고, 사공의 땀과 아이의 눈물처럼 공규로 나오고, 붉은 관에 부어지는 맑은 물처럼 혈맥에도 스며 혈을 적신다. 땀과 오줌으로 잘 드러나는 것도 진이다.",
+   "text_sha256": "f9fb000500722b2f2ebbba7d373f5932b618341a37cf89ff101dc988d7b178bf",
+   "audio_sha256": "d3b9ee852d47f4b18b500e25ef533288773fb845fa4020ab10cea56faa0584ee",
+   "image_sha256": "86cedfc3c0fe87503edc697d62653a6d6c3936e1157eed63c6be5703441744ce",
+   "source_commit": "b734c96faa0cd7ba1f8d047b5d5ec2aa8e8736ce",
+   "station_sha256": "07456ac2e2ef9ea8422bdefe7f99654ab3550ea934d6e22fa224cee7be55d92b",
+   "original_wav_sha256": "912e16c5ead2d4556ca82812bd3a4397a23cc3cb01815d0789be5b3981f57724",
+   "original_wav_filename": "new-jq-18.full.wav"
+  },
+  "new-jq-18#6": {
+   "src": "audio/narration/new-jq-18__s6__5112317bf4f9.mp3",
+   "text": "액을 본다. 걸쭉하고 잘 흐르지 않는다, 조후. 일꾼이 기름을 나무 인형의 무릎 관절에 붓는다, 골절을 매끄럽게, 관절강 속 액처럼 머문다. 다른 일꾼은 얼굴 모양 독에 붓는다, 뇌수를 채운다. 장부와 뇌수에 관주해 적시고 기르는 것이 액이다.",
+   "text_sha256": "5112317bf4f950a6ca43be495d7792275b765e3595eb74eb7ba1190ede8fc3ef",
+   "audio_sha256": "42c7e71a1a582465eb2559e5b0b186ab1368add653425e21711000d2aad5f806",
+   "image_sha256": "86cedfc3c0fe87503edc697d62653a6d6c3936e1157eed63c6be5703441744ce",
+   "source_commit": "b734c96faa0cd7ba1f8d047b5d5ec2aa8e8736ce",
+   "station_sha256": "f2d38cebec3f2d44eb219e16f1447c5bfacc8497e0a83d8c683d6dda009dde1f",
+   "original_wav_sha256": "912e16c5ead2d4556ca82812bd3a4397a23cc3cb01815d0789be5b3981f57724",
+   "original_wav_filename": "new-jq-18.full.wav"
+  },
+  "new-jq-18#7": {
+   "src": "audio/narration/new-jq-18__s7__d4163850a2bf.mp3",
+   "text": "기능을 가른다. 도랑물이 풀밭을 적셔 싱싱하다, 진은 주로 자윤. 기름이 인형과 머리 독을 먹여 기른다, 액은 주로 영양. 그리고 나룻배가 풍선을 싣고 간다, 진액은 기를 실어 나르는 재기 작용도 한다. 함정 보기, 진과 액의 자리와 기능을 뒤바꾸거나, 대장주비별청탁이라 하면 틀린다. 액은 조후하여 영양한다, 이것이 옳다.",
+   "text_sha256": "d4163850a2bf90c2c2566738629d04474d77b7d3d98b8ca1c11dc3f137e6bc19",
+   "audio_sha256": "3aca6f0134f123597c53934d1cd48158559b06359c840df76f351e620e69163c",
+   "image_sha256": "86cedfc3c0fe87503edc697d62653a6d6c3936e1157eed63c6be5703441744ce",
+   "source_commit": "b734c96faa0cd7ba1f8d047b5d5ec2aa8e8736ce",
+   "station_sha256": "6d34ca01d12cb3af0f96fecf04a1ea7c173c4e82cd71b7f74885c0ff56196570",
+   "original_wav_sha256": "912e16c5ead2d4556ca82812bd3a4397a23cc3cb01815d0789be5b3981f57724",
+   "original_wav_filename": "new-jq-18.full.wav"
+  },
+  "new-jq-18#8": {
+   "src": "audio/narration/new-jq-18__s8__c59693c3100b.mp3",
+   "text": "다시 본다. 나루터의 모든 물, 진액. 관 밖은 맑고 관 안에서 붉다, 맥외의 진액, 맥내의 혈. 체 거르는 붉은 앞치마, 소장 비별청탁. 도랑 트는 삼초, 진액각주기도. 맑고 빠른 강물은 진, 살갗, 구멍, 혈맥을 적시는 자윤. 걸쭉한 기름은 액, 관절, 뇌수, 장부를 기르는 영양. 풍선 실은 배, 재기.",
+   "text_sha256": "c59693c3100b91a5d6bd940b4aca9d65b5a9e52333e1da2ec204a7331ef77fb8",
+   "audio_sha256": "eab21880b47d46d46e7c537bb104cb6794af37a49981ec4a33df33f5ad42a274",
+   "image_sha256": "86cedfc3c0fe87503edc697d62653a6d6c3936e1157eed63c6be5703441744ce",
+   "source_commit": "b734c96faa0cd7ba1f8d047b5d5ec2aa8e8736ce",
+   "station_sha256": "5782bca0a9c61fc1d4e1068a979da75c0239d7e1a6b1995ce359d5f3e91364a4",
+   "original_wav_sha256": "912e16c5ead2d4556ca82812bd3a4397a23cc3cb01815d0789be5b3981f57724",
+   "original_wav_filename": "new-jq-18.full.wav"
   }
  }
 }

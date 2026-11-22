@@ -9207,6 +9207,72 @@
    "station_sha256": "59f48e29e76d2dd8c8f8cf8392ba9b4b2403694e6bd71a25f3c04bd03b746081",
    "original_wav_sha256": "0f1bde6ce3390219b39dc3c1a0f75b280a8da3f6b4752b9b63caf6ebb90c8a5b",
    "original_wav_filename": "new-gr-03.full.wav"
+  },
+  "new-gr-39#0": {
+   "src": "audio/narration/new-gr-39__s0__9fd61726be41.mp3",
+   "text": "경락 병리 반응과 진단, 양주, 양액, 양비, 양괵, 사객, 절척부, 절수모, 진락, 두통 분경 과다. 장소는 경락 검문소 진찰실, 네 관절 팔꿈치, 겨드랑이, 사타구니, 오금과 락맥 색을 살피는 진찰소. 정본 경락 인물과 공용 부호, 뜻, 소리 고리를 따라 차례로 읽는다.",
+   "text_sha256": "9fd61726be41d79189c8bee0a3e95125ff10b6b185f4a99ebf32b377afd289c4",
+   "audio_sha256": "21ddf1b9ee3e208b1e8eb2e2cd0b2a94380a0d6679169396081eaeaa4bb8ebd0",
+   "image_sha256": "02886e60e1c2adba0cc9fd6c8f1d39a16d5182d1c8b88b9fae4d560a6124c77d",
+   "source_commit": "243b1ab2e6f04270f600db737c7c47d1f25c7ce9",
+   "station_sha256": "c26c457f8c9e4d825f3be99224f06f2f460f337eda7931f8e26b19c0a5d6c90e",
+   "original_wav_sha256": "2e77aa9a2a1f19457477b3cdd48d8d70d9838244839c8bdfc56c26a54d7246d0",
+   "original_wav_filename": "new-gr-39.full.wav"
+  },
+  "new-gr-39#1": {
+   "src": "audio/narration/new-gr-39__s1__78f012153a6e.mp3",
+   "text": "경락 검문소 진찰실의 #1 정거장이다. 영추, 사객 팔허: 폐, 심유사, 양주, 척택, 소해, / 간유사, 양액, 기문, 연액.",
+   "text_sha256": "78f012153a6e7fbc0047f2e6d1b5fa6d3cd795eb10a4e8fdab0b71636f046762",
+   "audio_sha256": "3499055c072122710049347bc60aa8ebc01d1688376c7c18514b3806d17d509d",
+   "image_sha256": "02886e60e1c2adba0cc9fd6c8f1d39a16d5182d1c8b88b9fae4d560a6124c77d",
+   "source_commit": "243b1ab2e6f04270f600db737c7c47d1f25c7ce9",
+   "station_sha256": "64c7c43b92996b0b0ca12fc4682450c9492e4d435c924a1b6a55b877dd9f140d",
+   "original_wav_sha256": "2e77aa9a2a1f19457477b3cdd48d8d70d9838244839c8bdfc56c26a54d7246d0",
+   "original_wav_filename": "new-gr-39.full.wav"
+  },
+  "new-gr-39#2": {
+   "src": "audio/narration/new-gr-39__s2__fc5846625e28.mp3",
+   "text": "경락 검문소 진찰실의 #2 정거장이다. 영추, 사객 팔허: 비유사, 양비, 기문, 충문, / 신유사, 양괵, 음곡.",
+   "text_sha256": "fc5846625e28022820d3e74b23b2f5ba748ef99e73743d72efce70502ecc5d8f",
+   "audio_sha256": "5c7f8411a7856c6942457a199ed6a8c80e21ad164e3ad4b2a12af8ba4d12e538",
+   "image_sha256": "02886e60e1c2adba0cc9fd6c8f1d39a16d5182d1c8b88b9fae4d560a6124c77d",
+   "source_commit": "243b1ab2e6f04270f600db737c7c47d1f25c7ce9",
+   "station_sha256": "c67582dafa0c46183009d7dbbe69a9a4607d0c840214de1ae418450a62168088",
+   "original_wav_sha256": "2e77aa9a2a1f19457477b3cdd48d8d70d9838244839c8bdfc56c26a54d7246d0",
+   "original_wav_filename": "new-gr-39.full.wav"
+  },
+  "new-gr-39#3": {
+   "src": "audio/narration/new-gr-39__s3__814e3af8d224.mp3",
+   "text": "경락 검문소 진찰실의 #3 정거장이다. 경락 절진 넷: 절맥, 독취촌구, 절척부, 절수모, 배수, 복모 대칭, 절사말, 십이원=사관.",
+   "text_sha256": "814e3af8d2249c61f220ca2b3a2efaf930d8bcf8a8012d9db0d6aca2d8d008ce",
+   "audio_sha256": "2d5a4241184720a3d83169ac43bf7c4013f77d142bf8244af8e553c751226074",
+   "image_sha256": "02886e60e1c2adba0cc9fd6c8f1d39a16d5182d1c8b88b9fae4d560a6124c77d",
+   "source_commit": "243b1ab2e6f04270f600db737c7c47d1f25c7ce9",
+   "station_sha256": "f57d543dc37cf9ea9f7e33cb138f69750f2dcf991e30adb03c821a3cd095c301",
+   "original_wav_sha256": "2e77aa9a2a1f19457477b3cdd48d8d70d9838244839c8bdfc56c26a54d7246d0",
+   "original_wav_filename": "new-gr-39.full.wav"
+  },
+  "new-gr-39#4": {
+   "src": "audio/narration/new-gr-39__s4__2b29eb7c277b.mp3",
+   "text": "경락 검문소 진찰실의 #4 정거장이다. 진락, 영추, 경맥, : 청=한, 통 / 적=열, 위열 어제락적, 위한 수어락청, / 흑=구비 + 두통 분경, 전=양명, 후=태양, 측=소양, 정=궐음, 치=소음.",
+   "text_sha256": "2b29eb7c277bd32085ad874e3bd4f38423fd5798bdf9a1baefbc8bc5455fe676",
+   "audio_sha256": "d2658b5c6bf87d4b009026ae38a802a4a02383ac3b1d5a1d04c68df1d1c8d796",
+   "image_sha256": "02886e60e1c2adba0cc9fd6c8f1d39a16d5182d1c8b88b9fae4d560a6124c77d",
+   "source_commit": "243b1ab2e6f04270f600db737c7c47d1f25c7ce9",
+   "station_sha256": "48d497b84a4fdd693ce6436e3260c819be3d833568feb0dffc6dc9b47aa68676",
+   "original_wav_sha256": "2e77aa9a2a1f19457477b3cdd48d8d70d9838244839c8bdfc56c26a54d7246d0",
+   "original_wav_filename": "new-gr-39.full.wav"
+  },
+  "new-gr-39#5": {
+   "src": "audio/narration/new-gr-39__s5__e54fc38d144f.mp3",
+   "text": "처음부터 한 바퀴 되짚는다. 영추, 사객 팔허: 폐, 심유사, 양주, 척택, 소해, / 간유사, 양액, 기문, 연액, / 영추, 사객 팔허: 비유사, 양비, 기문, 충문, / 신유사, 양괵, 음곡, / 경락 절진 넷: 절맥, 독취촌구, 절척부, 절수모, 배수, 복모 대칭, 절사말, 십이원=사관, / 진락, 영추, 경맥, : 청=한, 통 / 적=열, 위열 어제락적, 위한 수어락청, / 흑=구비 + 두통 분경, 전=양명",
+   "text_sha256": "e54fc38d144f7e775692f7f78cc57192b756919a03ac16818676a7eca27b65c4",
+   "audio_sha256": "8235a9efabb7e14d3e826d73b6539c6dd31e0913bb622a79f1748a38fac7f957",
+   "image_sha256": "02886e60e1c2adba0cc9fd6c8f1d39a16d5182d1c8b88b9fae4d560a6124c77d",
+   "source_commit": "243b1ab2e6f04270f600db737c7c47d1f25c7ce9",
+   "station_sha256": "e9aa224716cfe03c94316471ab9c6487e61274c209e455c0caaf4837c8811c92",
+   "original_wav_sha256": "2e77aa9a2a1f19457477b3cdd48d8d70d9838244839c8bdfc56c26a54d7246d0",
+   "original_wav_filename": "new-gr-39.full.wav"
   }
  }
 }

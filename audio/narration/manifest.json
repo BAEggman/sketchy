@@ -11847,6 +11847,160 @@
    "station_sha256": "4114cc0a2682d72dad5594ef1ee36dbc63d85259b6ceb8672b45470960a18487",
    "original_wav_sha256": "913156cc13733f0b91411eef4692f95a3fa61df0e9317087f6d5809b80889eaf",
    "original_wav_filename": "mer-05.full.wav"
+  },
+  "mer-06#0": {
+   "src": "audio/narration/mer-06__s0__a3332ddc0a16.mp3",
+   "text": "택배 물류센터다. 한 줄기 컨베이어 벨트가 위 줄은 왼쪽에서 오른쪽, 가운데 줄은 오른쪽에서 왼쪽, 아래 줄은 다시 왼쪽에서 오른쪽으로 꺾이며 열두 구간을 지난다. 구간 차례가 십이경맥의 유주 차례다, 폐, 대장, 위, 비, 심, 소장, 방광, 신, 심포, 삼초, 담, 간. 구간마다 경락 인물이 상자를 나른다. 오수혈의 수는 실어 나른다는 뜻, 구간마다 다섯 이름, 정, 형, 수, 경, 합을 차례로 왼다. 그리고 자경보사, 제 경 안에서, 허하면 모에 해당하는 혈을 보하고, 실하면 자에 해당하는 혈을 사한다.",
+   "text_sha256": "a3332ddc0a16a8dc925990ee7f79362c825856d9518cbf55e5f1584b3ce2f609",
+   "audio_sha256": "ffb0eff651303ce482b2cac8b359519689f19379951543f565d9383ef6e6327a",
+   "image_sha256": "1f0ca9d2bf0a3e9fe44982dcb8e4d855dcf64c61af2a8aa410c77e584e90866d",
+   "source_commit": "6f9deec46bb059965b2ee3a8e4ab1e1e5489bdc6",
+   "station_sha256": "db1d5be43cc70bbb27b32cf1e4c1f3b750f910d6450cca1e627a4165d739f0d5",
+   "original_wav_sha256": "81084b09210615cd4477a6d5015e8dad1e3d6384d3b438e121da77c67be33988",
+   "original_wav_filename": "mer-06.full.wav"
+  },
+  "mer-06#1": {
+   "src": "audio/narration/mer-06__s1__834a9437bd01.mp3",
+   "text": "위 줄 맨 왼쪽, 흰 수염 노인의 구간, 수태음폐경. 정에서 합까지 소상, 어제, 태연, 경거, 척택, 소어태경척. 폐는 금이다. 허하면 모인 토, 수토 태연을 보하고, 실하면 자인 수, 합수 척택을 사한다. 태연은 폐의 원혈이고 맥회이기도 하다.",
+   "text_sha256": "834a9437bd0132b8a38a922a0ebcbd1ce00cbf53fd273406f0df74f15fdface7",
+   "audio_sha256": "d50916288f2d5ce7db809ccab8aa4be70696e000bee3d176ec515de00eb48e8d",
+   "image_sha256": "1f0ca9d2bf0a3e9fe44982dcb8e4d855dcf64c61af2a8aa410c77e584e90866d",
+   "source_commit": "6f9deec46bb059965b2ee3a8e4ab1e1e5489bdc6",
+   "station_sha256": "5080b877a2f2dcf81030f86849b8762504b261826c714660c2d8b54749440408",
+   "original_wav_sha256": "81084b09210615cd4477a6d5015e8dad1e3d6384d3b438e121da77c67be33988",
+   "original_wav_filename": "mer-06.full.wav"
+  },
+  "mer-06#2": {
+   "src": "audio/narration/mer-06__s2__507b17830801.mp3",
+   "text": "다음은 솔 든 흰 작업복 일꾼, 수양명대장경. 상양, 이간, 삼간, 양계, 곡지, 상이삼양곡. 이간과 삼간을 묶어 양간이라 하고 두통, 치통, 손가락 통증에 쓴다. 앞 구간 첫 이름 소상과 이 구간 첫 이름 상양을 묶어 양상이라 하고, 기가 끊어진 것을 살린다. 대장도 금이다. 허하면 토, 합토 곡지를 보하고, 실하면 수, 형수 이간을 사한다.",
+   "text_sha256": "507b1783080163adc99395371254e7338cbfee823c7a2c77b9e121006151b202",
+   "audio_sha256": "2da432cfda003eb6469a37746ac09c95444757afb1189cf75c23e810cdc11b3f",
+   "image_sha256": "1f0ca9d2bf0a3e9fe44982dcb8e4d855dcf64c61af2a8aa410c77e584e90866d",
+   "source_commit": "6f9deec46bb059965b2ee3a8e4ab1e1e5489bdc6",
+   "station_sha256": "b2b90ced6db5eda1d1c6523459ce0ee0a7eaf940c993fa9dea71e0e675ad9891",
+   "original_wav_sha256": "81084b09210615cd4477a6d5015e8dad1e3d6384d3b438e121da77c67be33988",
+   "original_wav_filename": "mer-06.full.wav"
+  },
+  "mer-06#3": {
+   "src": "audio/narration/mer-06__s3__f4e97eefa7f8.mp3",
+   "text": "요리사의 구간, 족양명위경. 여태, 내정, 함곡, 해계, 족삼리, 여내함해족. 위는 토다. 허하면 모인 화, 경화 해계를 보하고, 실하면 자인 금, 정금 여태를 사한다. 해계는 발목 앞 관절 가운데, 충양 뒤 1촌반이다.",
+   "text_sha256": "f4e97eefa7f83113c1e78ecc17ade619292f993cfa06767c811081d1df5c7c42",
+   "audio_sha256": "660ec9ffca8bb0eb6031b663594aa4c674f706026e752001903a3918a6143015",
+   "image_sha256": "1f0ca9d2bf0a3e9fe44982dcb8e4d855dcf64c61af2a8aa410c77e584e90866d",
+   "source_commit": "6f9deec46bb059965b2ee3a8e4ab1e1e5489bdc6",
+   "station_sha256": "b6cd2d9d307bb7dc5f778130b571c8880722bebc455f9597633427a4d746219b",
+   "original_wav_sha256": "81084b09210615cd4477a6d5015e8dad1e3d6384d3b438e121da77c67be33988",
+   "original_wav_filename": "mer-06.full.wav"
+  },
+  "mer-06#4": {
+   "src": "audio/narration/mer-06__s4__494dd1d45f02.mp3",
+   "text": "밀짚모자 농부, 족태음비경. 은백, 대도, 태백, 상구, 음릉천, 은대태상음. 비도 토다. 허하면 화, 형화 대도를 보하고, 실하면 금, 경금 상구를 사한다. 벨트는 여기서 오른쪽 벽을 따라 꺾여 내려간다.",
+   "text_sha256": "494dd1d45f02f206c112cf82b4ad835c76d7beefc1613f1102f2179939642aa3",
+   "audio_sha256": "df8522f65967e8bf6217f7e8488e04ec5e09ae470bae0c7caa5188838d4470a1",
+   "image_sha256": "1f0ca9d2bf0a3e9fe44982dcb8e4d855dcf64c61af2a8aa410c77e584e90866d",
+   "source_commit": "6f9deec46bb059965b2ee3a8e4ab1e1e5489bdc6",
+   "station_sha256": "ba6497d2cbc33a355840dbf10956c94309598ba1ccd4092c49fde2df98699acd",
+   "original_wav_sha256": "81084b09210615cd4477a6d5015e8dad1e3d6384d3b438e121da77c67be33988",
+   "original_wav_filename": "mer-06.full.wav"
+  },
+  "mer-06#5": {
+   "src": "audio/narration/mer-06__s5__656fa5f4bec5.mp3",
+   "text": "가운데 줄 오른쪽 끝, 금관 임금, 수소음심경. 가운데 줄은 오른쪽에서 왼쪽으로 흐른다. 소충, 소부, 신문, 영도, 소해, 소소신영소. 심은 화다. 허하면 모인 목, 정목 소충을 보하고, 실하면 자인 토, 수토 신문을 사한다.",
+   "text_sha256": "656fa5f4bec5ef057637aaa30cdee72bd098fe909e5d5e30d89c288d7af019b7",
+   "audio_sha256": "1f1ef9b0d5f9aefc4e149f747f6abee2bd0efb6f6efa72fe4e4ef303fe9fe636",
+   "image_sha256": "1f0ca9d2bf0a3e9fe44982dcb8e4d855dcf64c61af2a8aa410c77e584e90866d",
+   "source_commit": "6f9deec46bb059965b2ee3a8e4ab1e1e5489bdc6",
+   "station_sha256": "7c9df70a4879ca7a24f36ab552d3fb6fdbfe69b05cbd89deabb2eacb0eb6a90c",
+   "original_wav_sha256": "81084b09210615cd4477a6d5015e8dad1e3d6384d3b438e121da77c67be33988",
+   "original_wav_filename": "mer-06.full.wav"
+  },
+  "mer-06#6": {
+   "src": "audio/narration/mer-06__s6__e26f9cd5bccf.mp3",
+   "text": "체 든 붉은 앞치마 일꾼, 수태양소장경. 소택, 전곡, 후계, 양곡, 소해, 소전후양소. 소장도 화다. 허하면 목, 수목 후계를 보하고, 실하면 토, 합토 소해를 사한다.",
+   "text_sha256": "e26f9cd5bccf3cad7a796adb367f187d51b40976d601438b6f35e31e24e5fdbd",
+   "audio_sha256": "1697b7c7d005baaf5bed9f466f39ec9658ad44dd3dd10cb7b3f79555fc39345e",
+   "image_sha256": "1f0ca9d2bf0a3e9fe44982dcb8e4d855dcf64c61af2a8aa410c77e584e90866d",
+   "source_commit": "6f9deec46bb059965b2ee3a8e4ab1e1e5489bdc6",
+   "station_sha256": "3c231376d3fb80c155b5ec23bb4e085c23e26f27bc556f8e7ad139ded45c5334",
+   "original_wav_sha256": "81084b09210615cd4477a6d5015e8dad1e3d6384d3b438e121da77c67be33988",
+   "original_wav_filename": "mer-06.full.wav"
+  },
+  "mer-06#7": {
+   "src": "audio/narration/mer-06__s7__05cb7e4891ab.mp3",
+   "text": "물지게꾼, 족태양방광경. 지음, 족통곡, 속골, 곤륜, 위중, 지통속곤위. 방광은 수다. 허하면 모인 금, 정금 지음을 보하고, 실하면 자인 목, 수목 속골을 사한다.",
+   "text_sha256": "05cb7e4891ab7c43887e432b082e73093db309691427d21e8b7e9bfc80a14221",
+   "audio_sha256": "9e4a694ca7cab43579d498f8b2d1567a57dd4b1a2fe83687b16352406db30bb3",
+   "image_sha256": "1f0ca9d2bf0a3e9fe44982dcb8e4d855dcf64c61af2a8aa410c77e584e90866d",
+   "source_commit": "6f9deec46bb059965b2ee3a8e4ab1e1e5489bdc6",
+   "station_sha256": "1e029deea27c0ca4d29ab961461bc82edd119c25431929fcf5ab21414e237dd9",
+   "original_wav_sha256": "81084b09210615cd4477a6d5015e8dad1e3d6384d3b438e121da77c67be33988",
+   "original_wav_filename": "mer-06.full.wav"
+  },
+  "mer-06#8": {
+   "src": "audio/narration/mer-06__s8__6abcb8a34163.mp3",
+   "text": "가운데 줄 왼쪽 끝, 대머리 장사, 족소음신경. 용천, 연곡, 태계, 복류, 음곡, 용연태복음. 신도 수다. 허하면 금, 경금 복류를 보하고, 실하면 목, 정목 용천을 사한다. 벨트는 여기서 왼쪽 벽을 따라 꺾여 내려간다.",
+   "text_sha256": "6abcb8a341637926a36b23732e0e504077eb7fa09f0a3c4aae07318031248a37",
+   "audio_sha256": "b012e8979f0e305528719888294abe1ee0da63134254f61dcbb96714103b7e6a",
+   "image_sha256": "1f0ca9d2bf0a3e9fe44982dcb8e4d855dcf64c61af2a8aa410c77e584e90866d",
+   "source_commit": "6f9deec46bb059965b2ee3a8e4ab1e1e5489bdc6",
+   "station_sha256": "3ef9299c4b54a243f03691ca0c33fa3064087fb134eb3c526c9266e8ad869e2e",
+   "original_wav_sha256": "81084b09210615cd4477a6d5015e8dad1e3d6384d3b438e121da77c67be33988",
+   "original_wav_filename": "mer-06.full.wav"
+  },
+  "mer-06#9": {
+   "src": "audio/narration/mer-06__s9__ccc0166f6046.mp3",
+   "text": "아래 줄 맨 왼쪽, 붉은 갑옷 호위무사, 수궐음심포경. 중충, 노궁, 대릉, 간사, 곡택, 중노대간곡. 심포는 화다. 허하면 모인 목, 정목 중충을 보하고, 실하면 자인 토, 수토 대릉을 사한다.",
+   "text_sha256": "ccc0166f6046b4c2551a8e7e4b2c36a5491b012bd5911b1129cdbcedac90f406",
+   "audio_sha256": "96c06462573e371f59d5967f8394b87c37d7cdc83666b4c3d43ad1657d8d074a",
+   "image_sha256": "1f0ca9d2bf0a3e9fe44982dcb8e4d855dcf64c61af2a8aa410c77e584e90866d",
+   "source_commit": "6f9deec46bb059965b2ee3a8e4ab1e1e5489bdc6",
+   "station_sha256": "707a12646b83e08ea7628048c4d50331c109a407d5ffc9132f962f1f72d092e0",
+   "original_wav_sha256": "81084b09210615cd4477a6d5015e8dad1e3d6384d3b438e121da77c67be33988",
+   "original_wav_filename": "mer-06.full.wav"
+  },
+  "mer-06#10": {
+   "src": "audio/narration/mer-06__s10__e31a71b0f63d.mp3",
+   "text": "삽 든 주황 옷 일꾼, 수소양삼초경. 관충, 액문, 중저, 지구, 천정, 관액중지천. 삼초도 화다. 허하면 목, 수목 중저를 보하고, 실하면 토, 합토 천정을 사한다.",
+   "text_sha256": "e31a71b0f63d0aa202894a948b9cecaf945891929127cec1fc171fe613d02ba5",
+   "audio_sha256": "2ff3aca15b2d80652bbdc9da1fed44b7b525f3ab5071766ad0d2c21969cce693",
+   "image_sha256": "1f0ca9d2bf0a3e9fe44982dcb8e4d855dcf64c61af2a8aa410c77e584e90866d",
+   "source_commit": "6f9deec46bb059965b2ee3a8e4ab1e1e5489bdc6",
+   "station_sha256": "df47aa2b6e0caa4005ba6b1267eb6e3627d84411379505eb860f6cd2eecd1523",
+   "original_wav_sha256": "81084b09210615cd4477a6d5015e8dad1e3d6384d3b438e121da77c67be33988",
+   "original_wav_filename": "mer-06.full.wav"
+  },
+  "mer-06#11": {
+   "src": "audio/narration/mer-06__s11__c0c4655045f2.mp3",
+   "text": "저울 든 판관, 족소양담경. 족규음, 협계, 족임읍, 양보, 양릉천, 규협임양양. 담은 목이다. 허하면 모인 수, 형수 협계를 보하고, 실하면 자인 화, 경화 양보를 사한다.",
+   "text_sha256": "c0c4655045f27175684e0a46b983390937e1ae443bac87404f5bf4f617fe31ca",
+   "audio_sha256": "443701b66d6c9f60d981dfb4e49480107dbfc8e897c315df89c7d91589ba1f15",
+   "image_sha256": "1f0ca9d2bf0a3e9fe44982dcb8e4d855dcf64c61af2a8aa410c77e584e90866d",
+   "source_commit": "6f9deec46bb059965b2ee3a8e4ab1e1e5489bdc6",
+   "station_sha256": "120c22868405047f47e37ca6107754781356366852b1ba1cf17fe9423b99c982",
+   "original_wav_sha256": "81084b09210615cd4477a6d5015e8dad1e3d6384d3b438e121da77c67be33988",
+   "original_wav_filename": "mer-06.full.wav"
+  },
+  "mer-06#12": {
+   "src": "audio/narration/mer-06__s12__59e381f60a94.mp3",
+   "text": "아래 줄 오른쪽 끝, 초록 갑옷 장군, 족궐음간경. 대돈, 행간, 태충, 중봉, 곡천, 대행태중곡. 간도 목이다. 허하면 수, 합수 곡천을 보하고, 실하면 화, 형화 행간을 사한다. 간에서 흐름은 다시 맨 위 폐로 돌아간다.",
+   "text_sha256": "59e381f60a94b62d100237fe74223093e49cf3ee46bb2db4eb3db03fe0a0d4a2",
+   "audio_sha256": "81d63dedee11408e3142f7eca58fac098629f8a5eb238bbf5d8ac2f7d7f25a9f",
+   "image_sha256": "1f0ca9d2bf0a3e9fe44982dcb8e4d855dcf64c61af2a8aa410c77e584e90866d",
+   "source_commit": "6f9deec46bb059965b2ee3a8e4ab1e1e5489bdc6",
+   "station_sha256": "51a0c84ebf69c8d065f83570534fa49706bd186fa44a96a32e9bfde9c95bc536",
+   "original_wav_sha256": "81084b09210615cd4477a6d5015e8dad1e3d6384d3b438e121da77c67be33988",
+   "original_wav_filename": "mer-06.full.wav"
+  },
+  "mer-06#13": {
+   "src": "audio/narration/mer-06__s13__cf000a865e7a.mp3",
+   "text": "벨트를 한 바퀴 돈다. 위 줄, 노인 소어태경척, 솔 일꾼 상이삼양곡, 요리사 여내함해족, 농부 은대태상음. 꺾여 가운데 줄, 임금 소소신영소, 체 일꾼 소전후양소, 물지게꾼 지통속곤위, 장사 용연태복음. 꺾여 아래 줄, 호위무사 중노대간곡, 삽 일꾼 관액중지천, 판관 규협임양양, 장군 대행태중곡. 허하면 모의 혈을 보하고, 실하면 자의 혈을 사한다.",
+   "text_sha256": "cf000a865e7a73eace20e1fa390b3c3d47e1999c6ce206f618126a3817ddf6f1",
+   "audio_sha256": "77b7720b0dd09c547b12b60343b973574ddc8b2274bf3b30e0420c48ab4477ae",
+   "image_sha256": "1f0ca9d2bf0a3e9fe44982dcb8e4d855dcf64c61af2a8aa410c77e584e90866d",
+   "source_commit": "6f9deec46bb059965b2ee3a8e4ab1e1e5489bdc6",
+   "station_sha256": "c3d6bb32665593d8c6e433f91e96fec4ca1b1427779dba54df3d34829b5b3cf6",
+   "original_wav_sha256": "81084b09210615cd4477a6d5015e8dad1e3d6384d3b438e121da77c67be33988",
+   "original_wav_filename": "mer-06.full.wav"
   }
  }
 }

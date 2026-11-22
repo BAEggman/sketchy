@@ -11187,6 +11187,105 @@
    "station_sha256": "2c372d0eee561842c5311906a0e4f5d02761ab2042df6c53fafb1b6971b1a112",
    "original_wav_sha256": "178ad6b15d8786c3e93498c0618d9465bd08f98a8c9a29b38c6388a1b2a2ad47",
    "original_wav_filename": "new-gr-41.full.wav"
+  },
+  "new-gr-05#0": {
+   "src": "audio/narration/new-gr-05__s0__90936f245fe6.mp3",
+   "text": "공사장에 거인 조각상 둘이 서 있다. 왼쪽 거인은 본관에서 갈라져 몸속으로 들어가는 관, 별, 십이경별. 오른쪽 거인은 손끝 발끝에서 올라가는 철근, 근, 십이경근. 경별은 갈라져 들어가고 나와서 합하고, 경근은 맺히고 모이고 흩어지고 얽힌다.",
+   "text_sha256": "90936f245fe62cd65387be6d19dd543e330608818ee6115639cbd9b0b8bf0c74",
+   "audio_sha256": "26278c3fdd3970389b451350dede8668072d504a6346bbd83d44cfafe11cfc02",
+   "image_sha256": "42c312624449c6d8964dc3f3a319a76050ebdc64af0c5f2298149c5390907f1a",
+   "source_commit": "4093469ef7a01663856c4976b48f89eacf821005",
+   "station_sha256": "795fa762b4bfa922837293511dbad0e8d1a059626072b015a8ccff07ff28e374",
+   "original_wav_sha256": "014480fa3176cffaf1130b66f2e964ad93d4f9b80ad8dcf8a76ab5a0afb84926",
+   "original_wav_filename": "new-gr-05.full.wav"
+  },
+  "new-gr-05#1": {
+   "src": "audio/narration/new-gr-05__s1__9568aeaa6cbb.mp3",
+   "text": "왼쪽 거인, 다리의 관이 허벅지 위에서 갈라져, 이, 배 속으로 들어가, 입, 가슴 깊이 올라가 목으로 나와, 출, 머리에서 다른 관과 합한다, 합. 십이경별은 따로 가는 정경, 순행 형식은 이, 입, 출, 합. 결취산락은 경근이다.",
+   "text_sha256": "9568aeaa6cbb1750bf9ddcee557b4322ca5cc32135f505d5d96b7cc02428c958",
+   "audio_sha256": "ebb919367546f539dcd600fcf9cbef8469d6a4cf4de7fd6c6f5888715a1182e3",
+   "image_sha256": "42c312624449c6d8964dc3f3a319a76050ebdc64af0c5f2298149c5390907f1a",
+   "source_commit": "4093469ef7a01663856c4976b48f89eacf821005",
+   "station_sha256": "1f67d842b1082a0690a120b57c0471878fc1e216e4fb1d835d71ae917c305a85",
+   "original_wav_sha256": "014480fa3176cffaf1130b66f2e964ad93d4f9b80ad8dcf8a76ab5a0afb84926",
+   "original_wav_filename": "new-gr-05.full.wav"
+  },
+  "new-gr-05#2": {
+   "src": "audio/narration/new-gr-05__s2__c2c3dddbfe80.mp3",
+   "text": "몸속 깊이 파랑 관과 초록 관이 나란히 올라가 머리에서 만난다. 경별은 표리 두 경을 몸속 깊이 이어 주고, 머리와 얼굴로 잇는다, 짝마다 합하니 육합. 그래서 경혈이 치료하는 범위가 넓어지고, 팔다리에서 몸 가운데로 향하는 향심성을 보탠다.",
+   "text_sha256": "c2c3dddbfe8023ade6662d67190ad159d24fca951345191d0a227fa50cd2fa52",
+   "audio_sha256": "8a9eb15708a83e7e72b6de09bd9cd699fe2744b33675f55e6cd466c9e99b2d5a",
+   "image_sha256": "42c312624449c6d8964dc3f3a319a76050ebdc64af0c5f2298149c5390907f1a",
+   "source_commit": "4093469ef7a01663856c4976b48f89eacf821005",
+   "station_sha256": "dd638e109de118d5f9cfcd27fe6d6d6302d512f483b9e2aa181a6c3eb337ae83",
+   "original_wav_sha256": "014480fa3176cffaf1130b66f2e964ad93d4f9b80ad8dcf8a76ab5a0afb84926",
+   "original_wav_filename": "new-gr-05.full.wav"
+  },
+  "new-gr-05#3": {
+   "src": "audio/narration/new-gr-05__s3__64bb24e89950.mp3",
+   "text": "깊은 관에는 꼭지가 하나도 없다, 경별은 제 혈위도, 제 주병증도 없이 깊은 곳에서 표리를 잇는다. 정강이 겉에 붙은 가는 주황 관에는 붉은 꼭지가 달렸다, 별락은 낙혈을 가지고 바깥을 맡는다.",
+   "text_sha256": "64bb24e8995071886778fc3b7e48690154b5ed6ffcab0a6c6171991b81f946b0",
+   "audio_sha256": "ba9719d9add19eff51135084ef9028e90dee859a590b5c778d56e04adcce0c98",
+   "image_sha256": "42c312624449c6d8964dc3f3a319a76050ebdc64af0c5f2298149c5390907f1a",
+   "source_commit": "4093469ef7a01663856c4976b48f89eacf821005",
+   "station_sha256": "153cbe05ebbb6c21c9c4d5bc11fd345a345f3714c9bf096d1d444ca2f84cdc0a",
+   "original_wav_sha256": "014480fa3176cffaf1130b66f2e964ad93d4f9b80ad8dcf8a76ab5a0afb84926",
+   "original_wav_filename": "new-gr-05.full.wav"
+  },
+  "new-gr-05#4": {
+   "src": "audio/narration/new-gr-05__s4__f313fc2a2a61.mp3",
+   "text": "갈라지는 자리를 본다. 깊은 관은 무릎 위, 사타구니에서 몸속으로 갈라져 든다, 십이경별은 팔꿈치, 무릎 위에서 나온다, 주슬이상. 꼭지 달린 주황 겉관은 무릎 아래 정강이에서 시작한다, 별락, 십오락은 팔꿈치, 무릎 아래에서 나온다, 주슬이하. 가슴, 등에서 나온다는 보기는 틀린다.",
+   "text_sha256": "f313fc2a2a61cbc8845095b7e0b5fc7d30efd31519b1db629340ef6820ff861d",
+   "audio_sha256": "76e968477ba1aa7b63d9a92e8dc39eef01d1d62703e9693cd74fa1434f379048",
+   "image_sha256": "42c312624449c6d8964dc3f3a319a76050ebdc64af0c5f2298149c5390907f1a",
+   "source_commit": "4093469ef7a01663856c4976b48f89eacf821005",
+   "station_sha256": "fea7c8b54381f05d5e0e063d99f6aab1b556697e239e86aa7f287def9150e070",
+   "original_wav_sha256": "014480fa3176cffaf1130b66f2e964ad93d4f9b80ad8dcf8a76ab5a0afb84926",
+   "original_wav_filename": "new-gr-05.full.wav"
+  },
+  "new-gr-05#5": {
+   "src": "audio/narration/new-gr-05__s5__f0b7e8389502.mp3",
+   "text": "오른쪽 거인, 철근이 무릎과 팔꿈치에서 굵은 매듭으로 맺히고, 결, 한데 모이고, 취, 몸통으로 흩어져, 산, 그물처럼 얽힌다, 낙. 십이경근의 순행 형식은 결, 취, 산, 낙. 근육과 관절에 맺히고 모인다. 이입출합은 경별이다, 맞바꿈 함정.",
+   "text_sha256": "f0b7e838950222f01f6341c67320851993d6f7b157dedec1d81df6aa62f72463",
+   "audio_sha256": "4c5f328c332225c6228cd76f18242f6f358709dae32a704fe41c14dd7d57c4f7",
+   "image_sha256": "42c312624449c6d8964dc3f3a319a76050ebdc64af0c5f2298149c5390907f1a",
+   "source_commit": "4093469ef7a01663856c4976b48f89eacf821005",
+   "station_sha256": "cc3a75fbb8f0c986b6b939ddc0ef1faa8e5513c87bbffe17a87e0a3a18e72a1f",
+   "original_wav_sha256": "014480fa3176cffaf1130b66f2e964ad93d4f9b80ad8dcf8a76ab5a0afb84926",
+   "original_wav_filename": "new-gr-05.full.wav"
+  },
+  "new-gr-05#6": {
+   "src": "audio/narration/new-gr-05__s6__02afd38e6fa8.mp3",
+   "text": "철근은 손끝과 발끝에서 시작해 팔다리를 타고 머리와 몸통으로 올라간다, 경근은 사지 끝에서 일어나 머리와 몸으로 간다. 그런데 배 속은 텅 비었다, 경근은 장부에 들어가지 않는다.",
+   "text_sha256": "02afd38e6fa8a4615d7d5344643319d5244a1bb7fb3bb0e41010d39fb2b853c6",
+   "audio_sha256": "9069d9371e4933412aa659e30acfa2af6bac76ae6a0f2dae9f89cd0cf577384c",
+   "image_sha256": "42c312624449c6d8964dc3f3a319a76050ebdc64af0c5f2298149c5390907f1a",
+   "source_commit": "4093469ef7a01663856c4976b48f89eacf821005",
+   "station_sha256": "e1cbf318d9a100349f7e335e2a03904b696c14aa9c6d613e9cd51f71f3e58f76",
+   "original_wav_sha256": "014480fa3176cffaf1130b66f2e964ad93d4f9b80ad8dcf8a76ab5a0afb84926",
+   "original_wav_filename": "new-gr-05.full.wav"
+  },
+  "new-gr-05#7": {
+   "src": "audio/narration/new-gr-05__s7__a6b24808b8eb.mp3",
+   "text": "철근이 뼈대를 묶어 세운다, 약속골격. 무릎과 팔꿈치를 묶은 매듭, 관절을 굽혔다 폈다 하게 한다, 관절 굴신, 운동. 갈비처럼 몸통을 감싼 철근 우리, 장부를 보호한다. 경근의 기능이다.",
+   "text_sha256": "a6b24808b8ebc89b7cd8982c4e38a84d1fc1897b060d341859f436c082dcb354",
+   "audio_sha256": "694607aa40efdfc9b216d84b790207d7bc4bab91a0c7744e7ddc4a9cc56c6a29",
+   "image_sha256": "42c312624449c6d8964dc3f3a319a76050ebdc64af0c5f2298149c5390907f1a",
+   "source_commit": "4093469ef7a01663856c4976b48f89eacf821005",
+   "station_sha256": "db082347f4aaf33d2105d33d93b673937a044923bbd7090afe5cfad4b37a42f3",
+   "original_wav_sha256": "014480fa3176cffaf1130b66f2e964ad93d4f9b80ad8dcf8a76ab5a0afb84926",
+   "original_wav_filename": "new-gr-05.full.wav"
+  },
+  "new-gr-05#8": {
+   "src": "audio/narration/new-gr-05__s8__60f47fdecc74.mp3",
+   "text": "다시 본다. 왼쪽 거인, 십이경별. 허벅지 위에서 갈라져 들어가 나와 머리에서 합한다, 이입출합. 표리를 깊이 잇고 육합, 꼭지가 없다, 혈위 없음. 주슬이상에서 나온다. 꼭지 달린 주황 겉관은 별락, 주슬이하. 오른쪽 거인, 십이경근. 결취산락, 손끝 발끝에서 일어나 장부엔 들지 않고, 뼈대를 묶고 관절을 굽히고 장부를 지킨다.",
+   "text_sha256": "60f47fdecc74c3e9621d0035932068655ea960f7bf93036e01b34bfa0e78abbc",
+   "audio_sha256": "0f457015780b7794aacab60e0346bfa7efd5785dec4d2d96eac640918fcc1e95",
+   "image_sha256": "42c312624449c6d8964dc3f3a319a76050ebdc64af0c5f2298149c5390907f1a",
+   "source_commit": "4093469ef7a01663856c4976b48f89eacf821005",
+   "station_sha256": "d7b8aa06807b2d4bbbf4d957d48b660e7cbadb9771bad739d4caf80f69946475",
+   "original_wav_sha256": "014480fa3176cffaf1130b66f2e964ad93d4f9b80ad8dcf8a76ab5a0afb84926",
+   "original_wav_filename": "new-gr-05.full.wav"
   }
  }
 }

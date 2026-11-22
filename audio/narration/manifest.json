@@ -12232,6 +12232,105 @@
    "station_sha256": "175a32fcbab719141ae0bbd93b947b715afe85ffc60771844b176b780987a1cd",
    "original_wav_sha256": "9b080eba18e1944dee30160729c5511fa06d56bd6d14a4ff740f9659d91fa624",
    "original_wav_filename": "mer-09.full.wav"
+  },
+  "mer-10#0": {
+   "src": "audio/narration/mer-10__s0__c6d282c80195.mp3",
+   "text": "포구의 그물 손질 마당이다. 낙은 그물, 얽을 락, 낙맥은 경맥과 경맥 사이를 그물처럼 얽어 잇는다. 왼쪽 덩치 큰 어부의 몸에는 그물 셋이 매달렸다, 앞, 뒤, 옆. 열두 경의 낙에 이 셋을 더하면 십오락이다. 오른쪽 선창에서는 경락 인물 넷이 그물을 깁는다.",
+   "text_sha256": "c6d282c80195b122a81cd194595cc166a9ee4fc3730e2d43748fa669023e8115",
+   "audio_sha256": "3414bd996d44a6dd18649b8b57dc6d2c8c1fde7d2ad975465f9b59da4e483cb4",
+   "image_sha256": "c5ee057f03cd539dba8a967ff4b138def7329c00a83059ffcb60100d676fc174",
+   "source_commit": "34be7deb2e1a1aa50db215100c5a43d304927b50",
+   "station_sha256": "1cfee10657f6bec73313411464d9ceb018884a29fd19a246d7639085162a4256",
+   "original_wav_sha256": "a383102d261ea3161c1f749ca02bef66460bd1870bc17fc252df6555d99dfe8f",
+   "original_wav_filename": "mer-10.full.wav"
+  },
+  "mer-10#1": {
+   "src": "audio/narration/mer-10__s1__6dc3dc17b4f3.mp3",
+   "text": "어부의 앞, 명치에 흰 비둘기가 앉아 꼬리깃을 늘어뜨렸다, 비둘기 구, 꼬리 미, 구미. 몸 앞 한가운데 임맥의 낙혈이다. 기경팔맥 가운데 별락이 있는 것은 임맥과 독맥 둘뿐이다.",
+   "text_sha256": "6dc3dc17b4f3b92998cbd728964227c8b8edd659a159aafa994cb0d0ab5d8a83",
+   "audio_sha256": "92fb97cacb8a875ddbafd02dda115d1443d4091a2f240d05df6dd5cfeff585f4",
+   "image_sha256": "c5ee057f03cd539dba8a967ff4b138def7329c00a83059ffcb60100d676fc174",
+   "source_commit": "34be7deb2e1a1aa50db215100c5a43d304927b50",
+   "station_sha256": "cf06ed639a9c3db6183ea5c9935d51c227ee341d3f35a8403b2491f653b41bd9",
+   "original_wav_sha256": "a383102d261ea3161c1f749ca02bef66460bd1870bc17fc252df6555d99dfe8f",
+   "original_wav_filename": "mer-10.full.wav"
+  },
+  "mer-10#2": {
+   "src": "audio/narration/mer-10__s2__1cfe62e509cf.mp3",
+   "text": "등 뒤, 허리 아래쪽에서 길고 질긴 굵은 밧줄이 늘어져 그물을 끈다, 길 장, 굳셀 강, 장강. 몸 뒤 독맥의 낙혈, 꼬리뼈 끝이다. 앞의 임맥 구미, 뒤의 독맥 장강, 이것은 영추의 십오락이다. 난경은 임독 대신 양교와 음교의 낙을 넣어 열다섯을 셌다.",
+   "text_sha256": "1cfe62e509cffe0c4dba856705947af76b0e85e00a336a5e9101f80943faba51",
+   "audio_sha256": "8357a5b7eee0f99186685a0641c733d5788bc7ae1e43d289dd1b44eab9545ad6",
+   "image_sha256": "c5ee057f03cd539dba8a967ff4b138def7329c00a83059ffcb60100d676fc174",
+   "source_commit": "34be7deb2e1a1aa50db215100c5a43d304927b50",
+   "station_sha256": "9409b4f0bfa3a12ae969204774ec7e1d3a7c09dbd9790fbc8705ab73d826e28e",
+   "original_wav_sha256": "a383102d261ea3161c1f749ca02bef66460bd1870bc17fc252df6555d99dfe8f",
+   "original_wav_filename": "mer-10.full.wav"
+  },
+  "mer-10#3": {
+   "src": "audio/narration/mer-10__s3__632fa14512aa.mp3",
+   "text": "옆구리에 커다란 보따리, 큰 대, 쌀 포, 대포. 비지대락이다. 자리는 겨드랑이 아래 옆구리, 여섯째 갈비 사이다. 그래서 비만 낙혈이 둘이다, 공손과 대포. 앞의 임맥, 뒤의 독맥, 옆의 비지대락이 온몸의 낙맥을 거느린다. 십오락, 곧 별락은 팔꿈치, 무릎 아래에서 갈라져 표리경을 몸 겉에서 잇고, 낙혈이 있다. 그물로 보면, 굵은 줄이 별락, 잘게 갈라진 그물코가 손락, 겉에 뜬 줄이 부락, 붉게 드러난 실핏줄이 혈락이다. 십오락맥의 세 학설도 함께 기억한다: ① 영추, 경맥은 12별락 + 임맥, 구미, 독맥, 장강, 비지대락, 대포, ② 난경은 임, 독 대신 양교, 음교의 락을 넣은 15락, ③ 청 유창의 의문법률은 위지대락 허리을 더해 16락 또는 기경대락, 비, 위대락을 말했다.",
+   "text_sha256": "632fa14512aab758ea4616b50f7abb0ad8c9979b2b8f71fcb5cb69b7d77480bc",
+   "audio_sha256": "02f28492c80c40c7308d8ec30623506b79444059192b16de89b50122bd46aa76",
+   "image_sha256": "c5ee057f03cd539dba8a967ff4b138def7329c00a83059ffcb60100d676fc174",
+   "source_commit": "34be7deb2e1a1aa50db215100c5a43d304927b50",
+   "station_sha256": "b045aeedc6d74c8f9dd45349ed04a08c03b019709a109f58e7c0f096f80976ca",
+   "original_wav_sha256": "a383102d261ea3161c1f749ca02bef66460bd1870bc17fc252df6555d99dfe8f",
+   "original_wav_filename": "mer-10.full.wav"
+  },
+  "mer-10#4": {
+   "src": "audio/narration/mer-10__s4__caa300dbc0fd.mp3",
+   "text": "선창에서 그물을 깁는 넷은 팔맥교회혈 가운데 낙혈인 넷이다. 흰 수염 노인, 폐의 낙혈 열결, 임맥으로 통한다. 원문은 수태음지별 명왈열결, 손목 위 갈라진 틈에서 일어나 어제로 흩어지고, 실하면 손바닥이 뜨겁고 허하면 하품하며 소변이 잦다. 농부, 비의 낙혈 공손, 충맥으로 통한다. 나머지 짝은 족임읍, 대맥, 조해, 음교맥.",
+   "text_sha256": "caa300dbc0fdf2872b6f07dd43723f9bec1aa33dae88e60d07274fc5a451aace",
+   "audio_sha256": "ea2876b31835f0b4c0950597685b6f01eb78cc2d5ebe8e2a40879990fe458940",
+   "image_sha256": "c5ee057f03cd539dba8a967ff4b138def7329c00a83059ffcb60100d676fc174",
+   "source_commit": "34be7deb2e1a1aa50db215100c5a43d304927b50",
+   "station_sha256": "349c129e9e1c2f69d90703a1b3ae2efdd75d23e09c836ea8b20d0ba5c65539eb",
+   "original_wav_sha256": "a383102d261ea3161c1f749ca02bef66460bd1870bc17fc252df6555d99dfe8f",
+   "original_wav_filename": "mer-10.full.wav"
+  },
+  "mer-10#5": {
+   "src": "audio/narration/mer-10__s5__93c24204ece5.mp3",
+   "text": "호위무사, 심포의 낙혈 내관, 음유맥으로 통한다. 삽 든 주황 옷, 삼초의 낙혈 외관, 양유맥으로 통한다. 안 내는 음유, 바깥 외는 양유. 팔맥교회혈 여덟 가운데 낙혈은 이 넷, 열결, 공손, 내관, 외관이다. 후계, 독맥, 신맥, 양교맥은 낙혈이 아니다.",
+   "text_sha256": "93c24204ece53b3a79a09ac7eece548149280264dc1bce17935692c792ea2c5b",
+   "audio_sha256": "4a7d67133f1145a14d20e72fcf6198af5cfd399eb2d0f831539155557206d0e9",
+   "image_sha256": "c5ee057f03cd539dba8a967ff4b138def7329c00a83059ffcb60100d676fc174",
+   "source_commit": "34be7deb2e1a1aa50db215100c5a43d304927b50",
+   "station_sha256": "77da8f7f313353fcf454e4c7f7796a237827e379d85386ed3462ad19e2995da7",
+   "original_wav_sha256": "a383102d261ea3161c1f749ca02bef66460bd1870bc17fc252df6555d99dfe8f",
+   "original_wav_filename": "mer-10.full.wav"
+  },
+  "mer-10#6": {
+   "src": "audio/narration/mer-10__s6__6cdd95b6b82f.mp3",
+   "text": "주황 옷 일꾼 쪽에서 그물 너머로 날아온 밧줄이 호위무사 무릎에 떨어졌다. 무사는 받아 쥐기만 하고 던지지 않는다. 영추 경맥편은 열두 경의 낙혈이 표리경으로 건너간다고 열하나에 적었다, 빠진 하나가 심포의 내관이다. 대신 짝인 삼초의 외관이 가슴으로 들어가 심포와 합한다고 저쪽에서 건너온다. 열둘의 낙혈, 폐 열결, 대장 편력, 위 풍륭, 비 공손, 심 통리, 간 여구 …. 별락은 낙혈과 주병증이 있고 몸 겉에서 표리를 잇지만, 경별은 혈도 주병증도 없이 깊이 잇는다.",
+   "text_sha256": "6cdd95b6b82fb346671f116cfa355bafdc56c97190481c885a6de199b7ebbe56",
+   "audio_sha256": "134ae637ed5fe0514b8728342072b1a9bba9fa5345806e1ad5bde93698345f63",
+   "image_sha256": "c5ee057f03cd539dba8a967ff4b138def7329c00a83059ffcb60100d676fc174",
+   "source_commit": "34be7deb2e1a1aa50db215100c5a43d304927b50",
+   "station_sha256": "6659537f6f1938000c6a3e8b0c0e0e8dbcad9cb9210a47c23351e79fe0f4e4b5",
+   "original_wav_sha256": "a383102d261ea3161c1f749ca02bef66460bd1870bc17fc252df6555d99dfe8f",
+   "original_wav_filename": "mer-10.full.wav"
+  },
+  "mer-10#7": {
+   "src": "audio/narration/mer-10__s7__487203530a8b.mp3",
+   "text": "노인의 손목을 본다. 손목 조금 위 팔뚝에 그물끈이 감겼다, 낙혈 열결 자리. 그 바로 아래 손목 주름, 맥이 뛰는 자리가 태연이다, 끈 매듭 곁을 짚은 두 손가락이 맥을 짚는 손이다. 팔회혈의 맥회는 태연이다. 열결이 아니다. 혈회는 격수, 골회는 대저, 기회는 전중.",
+   "text_sha256": "487203530a8bf692107e3445b459041318f396d9a8e9a95787d55e40f46ce876",
+   "audio_sha256": "7aa4d4992502995e445aa910e7e181d0d5b42f9f78ecc261598ee1e3899a3f9a",
+   "image_sha256": "c5ee057f03cd539dba8a967ff4b138def7329c00a83059ffcb60100d676fc174",
+   "source_commit": "34be7deb2e1a1aa50db215100c5a43d304927b50",
+   "station_sha256": "0a2563626bc35957ecab5edce6d77e5e230e7ae528b0fd20043a8d2ba6f35ac6",
+   "original_wav_sha256": "a383102d261ea3161c1f749ca02bef66460bd1870bc17fc252df6555d99dfe8f",
+   "original_wav_filename": "mer-10.full.wav"
+  },
+  "mer-10#8": {
+   "src": "audio/narration/mer-10__s8__e49b44eda7bc.mp3",
+   "text": "다시 본다. 앞의 비둘기 꼬리 구미는 임맥, 뒤의 길고 질긴 밧줄 장강은 독맥, 옆의 큰 보따리 대포는 비지대락, 열둘에 더해 십오락. 그물 깁는 넷은 팔맥교회의 낙혈, 노인 열결은 임맥, 농부 공손은 충맥, 무사 내관은 음유, 삽 일꾼 외관은 양유. 무사만 받기만 하는 내관. 노인의 손목 주름 태연이 맥회다.",
+   "text_sha256": "e49b44eda7bca1d4e905a3b8db312b42eb559050d88c4acba44f7a55f4984ec9",
+   "audio_sha256": "3820723c81020810ad17a98598d8d3a977a6b94448bef1f6bf04446687cfc8ed",
+   "image_sha256": "c5ee057f03cd539dba8a967ff4b138def7329c00a83059ffcb60100d676fc174",
+   "source_commit": "34be7deb2e1a1aa50db215100c5a43d304927b50",
+   "station_sha256": "0e525e33ed361c011e3dc69fb308c16393055f4030d4f0af17909c34e9595dc1",
+   "original_wav_sha256": "a383102d261ea3161c1f749ca02bef66460bd1870bc17fc252df6555d99dfe8f",
+   "original_wav_filename": "mer-10.full.wav"
   }
  }
 }

@@ -7293,6 +7293,83 @@
    "station_sha256": "6eda6cd9a111d67c94dde0e1ee4f370b3d830eeac302f09d4fc2d7151a9bc077",
    "original_wav_sha256": "2cc6ad64ba2a67d315eaf7d20caea00ab639f6f3dfbab7b49a003d6a2acaf912",
    "original_wav_filename": "new-jq-14.full.wav"
+  },
+  "new-jq-06#0": {
+   "src": "audio/narration/new-jq-06__s0__f4890985801f.mp3",
+   "text": "떡집이다. 기라는 글자는 김 기 아래 쌀 미, 쌀을 찌는 시루에서 피어오르는 김이다. 가운데 시루에서 흰 김이 쉬지 않고 피어오른다. 그 김이 어디서 오는지, 어떤 모양인지, 어떻게 이름이 갈리는지를 본다.",
+   "text_sha256": "f4890985801fcb9f86469a71892f3108f5a8f1d5c2d994f5524deabcc83df38b",
+   "audio_sha256": "06e790b22d26c0bcb2e18bfc69695da4886ce39962bbc0dd37af820638134fb9",
+   "image_sha256": "ca96fffb374664e388f5d1f88944fac79c54ebfc1bd2a83bcb1892fb8ec69269",
+   "source_commit": "631a9ffe40c95e9c4ebc20c1846d42a908bf45fc",
+   "station_sha256": "062ccc7ee669c5510f330c4154e6185ee984919fb53d992856fefd954e720bf2",
+   "original_wav_sha256": "baf4cd3417a5681a79b3cb51b3aba0e823c4c6a519da0605ae1c177d09ad8a8d",
+   "original_wav_filename": "new-jq-06.full.wav"
+  },
+  "new-jq-06#1": {
+   "src": "audio/narration/new-jq-06__s1__265d3598c2ba.mp3",
+   "text": "김은 정해진 모양이 없고 한순간도 가만있지 않는다. 기는 형체가 없고 활동성이 강해 끊임없이 운동하는 것, 의학에서는 인체를 이루고 생명활동을 유지하는 기본 물질이다. 정, 혈, 진액 가운데 움직이는 쪽이 기다.",
+   "text_sha256": "265d3598c2bacef901526aab650f2cd7e1a5f09355ec286d343e7771a2368feb",
+   "audio_sha256": "685c0fb65d2fd020103650526efa972651487b83d759f0420f092c3b495bece6",
+   "image_sha256": "ca96fffb374664e388f5d1f88944fac79c54ebfc1bd2a83bcb1892fb8ec69269",
+   "source_commit": "631a9ffe40c95e9c4ebc20c1846d42a908bf45fc",
+   "station_sha256": "f8eaf659a3c2cd61b461ebebab3dc3fc99d1784b0941a1e744e1c74ca6d9c6ee",
+   "original_wav_sha256": "baf4cd3417a5681a79b3cb51b3aba0e823c4c6a519da0605ae1c177d09ad8a8d",
+   "original_wav_filename": "new-jq-06.full.wav"
+  },
+  "new-jq-06#2": {
+   "src": "audio/narration/new-jq-06__s2__2097fdee17c8.mp3",
+   "text": "왼쪽 선반의 떡은 모양을 갖췄다, 하트, 콩팥, 위장, 눈, 물방울. 넓게 보면 모양 있는 것도 기가 뭉친 것, 유형의 기다. 장, 부, 규, 그리고 정, 혈, 진액.",
+   "text_sha256": "2097fdee17c8fd864d8d55e926ebbfa7ffda792fb74218f9a03789bb7ef69706",
+   "audio_sha256": "91f622692e5e28a5bba48989529043c2e7e9c840eba9e4c5c08d6a8ebd7e3d27",
+   "image_sha256": "ca96fffb374664e388f5d1f88944fac79c54ebfc1bd2a83bcb1892fb8ec69269",
+   "source_commit": "631a9ffe40c95e9c4ebc20c1846d42a908bf45fc",
+   "station_sha256": "c46651492ef223455db0071ca0811c5c247faac93a5e694de149ae03ce79eaec",
+   "original_wav_sha256": "baf4cd3417a5681a79b3cb51b3aba0e823c4c6a519da0605ae1c177d09ad8a8d",
+   "original_wav_filename": "new-jq-06.full.wav"
+  },
+  "new-jq-06#3": {
+   "src": "audio/narration/new-jq-06__s3__6417222b73e5.mp3",
+   "text": "시루 위의 김은 모양이 없다, 무형의 기. 원기, 종기, 위기가 여기에 든다.",
+   "text_sha256": "6417222b73e5dd9400a06c0f36749d6cd560a61a75459a4de80487259b08d510",
+   "audio_sha256": "c200fc152397d8c627c678424e133b5ea65fa651683a96286d063ed8769c41e2",
+   "image_sha256": "ca96fffb374664e388f5d1f88944fac79c54ebfc1bd2a83bcb1892fb8ec69269",
+   "source_commit": "631a9ffe40c95e9c4ebc20c1846d42a908bf45fc",
+   "station_sha256": "c004c07710c3fd389061b1ae49e22bd1233536fcf7b927b4033f4e9d9a5ed532",
+   "original_wav_sha256": "baf4cd3417a5681a79b3cb51b3aba0e823c4c6a519da0605ae1c177d09ad8a8d",
+   "original_wav_filename": "new-jq-06.full.wav"
+  },
+  "new-jq-06#4": {
+   "src": "audio/narration/new-jq-06__s4__77a13a665931.mp3",
+   "text": "김은 세 가지에서 나온다. 화덕 아래, 대머리 장사가 검은 단지 곁에서 숯덩이를 아궁이에 넣는다, 신에 갈무리된 선천지정, 여기서 원기가 생긴다. 위에서는 농부가 쌀을 붓는다, 비위가 음식에서 만든 수곡지기. 옆에서는 노인이 풀무로 바깥바람을 불어 넣는다, 폐가 들이마신 자연의 청기. 그래서 기의 생성과 가장 가까운 장부는 신, 비, 폐 셋이다.",
+   "text_sha256": "77a13a66593100d7d1bb643db1a01ae2adbec06e499adcc971b74e24dd9725a3",
+   "audio_sha256": "fd653e8de0381ce794440da5a9a7fce31872cce5f19ff79a2f48027a45f91c66",
+   "image_sha256": "ca96fffb374664e388f5d1f88944fac79c54ebfc1bd2a83bcb1892fb8ec69269",
+   "source_commit": "631a9ffe40c95e9c4ebc20c1846d42a908bf45fc",
+   "station_sha256": "2fe640e81d82b8fa097848c1bfb04d439643436579edac8f610cd7425ac06065",
+   "original_wav_sha256": "baf4cd3417a5681a79b3cb51b3aba0e823c4c6a519da0605ae1c177d09ad8a8d",
+   "original_wav_filename": "new-jq-06.full.wav"
+  },
+  "new-jq-06#5": {
+   "src": "audio/narration/new-jq-06__s5__3b907f4959ee.mp3",
+   "text": "기는 이름이 여럿이다, 원기, 종기, 영기, 위기. 오른쪽 바구니 셋이 이름 짓는 기준이다. 곡식 바구니, 무엇으로 이루어졌나, 조성성분: 원기는 선천의 정기, 종기는 수곡과 청기. 집 모형, 어디에 있나, 분포부위: 종기는 흉중, 영기는 맥중, 위기는 맥외. 방패, 무슨 일을 하나, 기능특성: 위기는 막고, 영기는 기른다.",
+   "text_sha256": "3b907f4959ee0305e410ce60a77c05876a8c06fbd09d40a689bf7702e97ac2ee",
+   "audio_sha256": "0996c5359c2a16ab657b5430afe7ca91b610517b8a555587ccda7a63cb873098",
+   "image_sha256": "ca96fffb374664e388f5d1f88944fac79c54ebfc1bd2a83bcb1892fb8ec69269",
+   "source_commit": "631a9ffe40c95e9c4ebc20c1846d42a908bf45fc",
+   "station_sha256": "028e50e01712c827f57cf48e8493a66dc5c4691ede3c7239378ab3d22d678ef5",
+   "original_wav_sha256": "baf4cd3417a5681a79b3cb51b3aba0e823c4c6a519da0605ae1c177d09ad8a8d",
+   "original_wav_filename": "new-jq-06.full.wav"
+  },
+  "new-jq-06#6": {
+   "src": "audio/narration/new-jq-06__s6__16001246a789.mp3",
+   "text": "다시 본다. 모양 없이 쉬지 않는 김이 기. 모양 떡은 유형의 기, 장부, 규, 정혈진액, 김은 무형의 기, 원기, 종기, 위기. 김의 근원 셋, 장사가 넣는 숯불, 선천지정은 신, 농부의 쌀 수곡지기는 비위, 노인의 풀무 바람 청기는 폐. 이름 기준 셋, 곡식은 성분, 집은 부위, 방패는 기능.",
+   "text_sha256": "16001246a7898ad03456531986b41139df7d8441af678aadcda4aac2993d9f76",
+   "audio_sha256": "b2cb17451a09c2161a8b2ef2e4f5b04f3878fb94e88c670410c4d02b948e89e4",
+   "image_sha256": "ca96fffb374664e388f5d1f88944fac79c54ebfc1bd2a83bcb1892fb8ec69269",
+   "source_commit": "631a9ffe40c95e9c4ebc20c1846d42a908bf45fc",
+   "station_sha256": "e1e85ebcd951344f6c3ce6b80ddf1b2bb87007ef33dc4295238efcf62587fe7d",
+   "original_wav_sha256": "baf4cd3417a5681a79b3cb51b3aba0e823c4c6a519da0605ae1c177d09ad8a8d",
+   "original_wav_filename": "new-jq-06.full.wav"
   }
  }
 }

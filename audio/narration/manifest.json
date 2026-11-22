@@ -5764,6 +5764,72 @@
    "station_sha256": "5d4227c554ed35b9d6d5046f8a14d6530a1f2da858e82e7369c49bcd419eb1db",
    "original_wav_sha256": "24875146aa99db62a704f7b61b3c0e8ba02e53a89aa5d242b3234652d36197ac",
    "original_wav_filename": "new-uk-09.full.wav"
+  },
+  "new-uk-10#0": {
+   "src": "audio/narration/new-uk-10__s0__f6a0b0d1c53b.mp3",
+   "text": "언덕 위 기상대 관측탑이다. 층마다 날씨가 다르다, 꼭대기에 마른 방과 찜질 방, 가운데에 축축한 방, 아래층에 바람 방과 얼음 방, 그리고 오른쪽 유리 승강기를 타고 불 화로가 오르내린다. 방마다 벽의 그림 원판이 삼음삼양, 방의 모습이 육기의 작용, 관측자의 몸이 그 기운이 이길 때의 증상이다. 시험은 자리를 묻는다, 몇 층인지 기억한다.",
+   "text_sha256": "f6a0b0d1c53b6aca6b4c129ce725becdc0f28df96cfced3af4346787faed4131",
+   "audio_sha256": "8dce2eff4f7489205fbd387814a0a19f89c0d3cfecd5357870c495cc6a48720d",
+   "image_sha256": "1dae1ef6592427c05cc59b18620615c4422558c835ddb9c26f607d4dee5ebb3e",
+   "source_commit": "86b72f9b04e48d78425354ece8444699b905b8db",
+   "station_sha256": "249ab71ac2e1436f4a6acaaf7dbf6724f692648d7e4501d31344f814ad8365d1",
+   "original_wav_sha256": "5733fc1232d772eeb72de338f1bfef9968d9fc4ebef01691bd3c9d931c664d4b",
+   "original_wav_filename": "new-uk-10.full.wav"
+  },
+  "new-uk-10#1": {
+   "src": "audio/narration/new-uk-10__s1__76d29488086f.mp3",
+   "text": "원판을 차례로 본다. 바람 방의 까만 원, 궐음풍목. 찜질 방의 초승달, 소음군화. 축축한 방의 보름달, 태음습토. 승강기 화로의 작은 해, 소양상화. 마른 방의 해와 달, 양명조금. 얼음 방에 걸린 큰 해, 태양한수. 태양이 차가운 물이라는 엇갈림, 소음이 뜨거운 불이라는 엇갈림을 그림으로 기억한다.",
+   "text_sha256": "76d29488086fe5770e7b3565afa1ef582f8299becf779e93bb707c6d95f0d79b",
+   "audio_sha256": "bd5adee322ad9bdcc92b67127677ccde3f6677d1edbb9b32e6fa5caf64b8aa6d",
+   "image_sha256": "1dae1ef6592427c05cc59b18620615c4422558c835ddb9c26f607d4dee5ebb3e",
+   "source_commit": "86b72f9b04e48d78425354ece8444699b905b8db",
+   "station_sha256": "c1f4455318a13e025a92727c0e517e4081c9cd347a5e1ab8c88c63aff03d1287",
+   "original_wav_sha256": "5733fc1232d772eeb72de338f1bfef9968d9fc4ebef01691bd3c9d931c664d4b",
+   "original_wav_filename": "new-uk-10.full.wav"
+  },
+  "new-uk-10#2": {
+   "src": "audio/narration/new-uk-10__s2__57975e43dd48.mp3",
+   "text": "층을 본다. 아래층에 바람과 얼음, 풍한재하. 꼭대기에 마름과 찜질 열기, 조열재상. 가운데에 축축함, 습기재중. 그리고 불 화로만은 한 층에 머물지 않고 승강기로 층 사이를 오르내린다, 화유행기간, 상화가 그 사이를 떠돈다. 소문 오운행대론의 구절이다.",
+   "text_sha256": "57975e43dd48fa01eb9066de55061645b8e651c203998f00bcbe469dfc6304d7",
+   "audio_sha256": "7895c6659572111c506c4e08a44fc8dfeeb4438fd26fb8c442af70cfe3f5c628",
+   "image_sha256": "1dae1ef6592427c05cc59b18620615c4422558c835ddb9c26f607d4dee5ebb3e",
+   "source_commit": "86b72f9b04e48d78425354ece8444699b905b8db",
+   "station_sha256": "70e835e1a33df142fc09b01100ee3b57fa819f4b1b42997386da0bd9cad67aad",
+   "original_wav_sha256": "5733fc1232d772eeb72de338f1bfef9968d9fc4ebef01691bd3c9d931c664d4b",
+   "original_wav_filename": "new-uk-10.full.wav"
+  },
+  "new-uk-10#3": {
+   "src": "audio/narration/new-uk-10__s3__8c274a13203e.mp3",
+   "text": "방마다 하는 일. 바람 방, 바람개비가 돌고 종이가 날린다, 풍이동지, 움직인다. 얼음 방, 물이 돌덩이 얼음으로 굳었다, 한이견지. 찜질 방, 달군 돌에서 김이 피어 찐다, 서이증지. 축축한 방, 천장에서 물방울이 맺혀 떨어지고 스펀지가 젖었다, 습이윤지. 마른 방, 빨래와 화분이 바싹 말랐다, 조이건지. 승강기 화로, 층마다 따뜻하게 데운다, 화이온지.",
+   "text_sha256": "8c274a13203e4258a11549d4543682d849b16d92f9a2d9fe18110b7947c9e1ee",
+   "audio_sha256": "d6926c9e725657873d8a8662892d3055fe3c0fee759c0f77acf6f6c8ead4590f",
+   "image_sha256": "1dae1ef6592427c05cc59b18620615c4422558c835ddb9c26f607d4dee5ebb3e",
+   "source_commit": "86b72f9b04e48d78425354ece8444699b905b8db",
+   "station_sha256": "70a67631bca8846832ff0e7a043b3006e98f7bcb71dd5bdc7c05d7bc2bf8d5bf",
+   "original_wav_sha256": "5733fc1232d772eeb72de338f1bfef9968d9fc4ebef01691bd3c9d931c664d4b",
+   "original_wav_filename": "new-uk-10.full.wav"
+  },
+  "new-uk-10#4": {
+   "src": "audio/narration/new-uk-10__s4__04984ef3bb79.mp3",
+   "text": "관측자들을 본다. 바람 방 사람이 온몸을 덜덜 떤다, 풍승즉동. 찜질 방 사람의 볼이 붉게 부었다, 열승즉종. 마른 방 사람은 입술이 갈라졌다, 조승즉건. 얼음 방 사람은 마시멜로처럼 허옇게 퉁퉁 부었다, 한승즉부. 같은 부음이라도 열은 붉은 종, 찬 것은 허연 부. 축축한 방 사람은 배를 움켜쥐고 화장실로 달린다, 습승즉유설, 물 같은 설사. 소문 음양응상대론.",
+   "text_sha256": "04984ef3bb79e4cbca9cc3ed8c6c736567c82cdac09a6381b8f744e598fdf28d",
+   "audio_sha256": "6e8d22c670ae57e23892cc1e9ebb7c12873d9b8f321f736e61f5ca65b7ee5af4",
+   "image_sha256": "1dae1ef6592427c05cc59b18620615c4422558c835ddb9c26f607d4dee5ebb3e",
+   "source_commit": "86b72f9b04e48d78425354ece8444699b905b8db",
+   "station_sha256": "7af4a5e67d8ba73079ea9b02aa9ca5dabea9d21b48f32509a8f8b1bf316c08d8",
+   "original_wav_sha256": "5733fc1232d772eeb72de338f1bfef9968d9fc4ebef01691bd3c9d931c664d4b",
+   "original_wav_filename": "new-uk-10.full.wav"
+  },
+  "new-uk-10#5": {
+   "src": "audio/narration/new-uk-10__s5__b0df87ca2de9.mp3",
+   "text": "다시 본다. 까만 원 바람, 궐음풍목, 초승달 찜질, 소음군화, 보름달 축축, 태음습토, 작은 해 화로, 소양상화, 해와 달 마름, 양명조금, 큰 해 얼음, 태양한수. 자리는 풍한재하, 조열재상, 습기재중, 화유행기간. 하는 일은 동, 견, 증, 윤, 건, 온. 이기면 풍은 동, 열은 종, 조는 건, 한은 부, 습은 유설.",
+   "text_sha256": "b0df87ca2de980f91193420b2e959a1edf3e1baa1023214201c6a0346748c469",
+   "audio_sha256": "b5a46b219e541102ab88d848188056bce267c0c2643c1311544bacf813cd53e4",
+   "image_sha256": "1dae1ef6592427c05cc59b18620615c4422558c835ddb9c26f607d4dee5ebb3e",
+   "source_commit": "86b72f9b04e48d78425354ece8444699b905b8db",
+   "station_sha256": "d9c81f8d9a31f2f9f4b9b59fbff5eaf4494590d27b05123681dbbfe11530262f",
+   "original_wav_sha256": "5733fc1232d772eeb72de338f1bfef9968d9fc4ebef01691bd3c9d931c664d4b",
+   "original_wav_filename": "new-uk-10.full.wav"
   }
  }
 }

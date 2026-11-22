@@ -5533,6 +5533,127 @@
    "station_sha256": "47ade58fba7fe6a569a83a6396c2ce505d498c7b0418b052692019bca89d85c0",
    "original_wav_sha256": "0f8a9505abe341c6fe2def506443e6e303e75c08f86eb8441dc6319cf5723dcf",
    "original_wav_filename": "yyox-14.full.wav"
+  },
+  "new-uk-08#0": {
+   "src": "audio/narration/new-uk-08__s0__15ab1f206e8b.mp3",
+   "text": "다섯 쌍의 합동결혼식장이다. 천간 둘이 부부로 짝지어 합쳐 새 오행이 된다, 합화, 부부오행. 식탁은 왼쪽부터 갑기, 을경, 병신, 정임, 무계. 신랑은 해 배지에 크고 우쭐하다, 양간, 태과. 신부는 달 배지에 작고 창백하다, 음간, 불급. 식탁마다 머리 위 날씨가 그해의 기후다.",
+   "text_sha256": "15ab1f206e8b94ba5e5063af4c223576affc55d3841a8dde75e99102ec1b8021",
+   "audio_sha256": "98b6541110b09b465a07c2951acf08855837e7572154a253c2c157e82e593c0e",
+   "image_sha256": "f52d5f75f0832e391d06854ec9127f4240561d649d0cb3ff9143f4c3d7291666",
+   "source_commit": "19203cddfe591507e2a4c53aa35fd98f7686eadf",
+   "station_sha256": "b6226ab22280b460cf9f650a5aa29c5b149832c9eee54c50bc336d9a374c1a69",
+   "original_wav_sha256": "75a846e03049c452c49b8eebd75263fc9e9b8ac8141731811709097c1b9a9897",
+   "original_wav_filename": "new-uk-08.full.wav"
+  },
+  "new-uk-08#1": {
+   "src": "audio/narration/new-uk-08__s1__9db4d951a704.mp3",
+   "text": "케이크를 본다. 첫째 식탁 흙더미, 갑기합토. 둘째 은그릇, 을경합금. 셋째 파도, 병신합수. 넷째 나무, 정임합목. 다섯째 불꽃, 무계합화. 차례가 토, 금, 수, 목, 화, 토에서 시작하는 상생 순서다. 짝은 다섯 칸 떨어진 천간, 갑에서 다섯 칸 뒤가 기. 이 화오운으로 대운과 객운을 정하고, 해마다 바뀐다. 천간의 본래 오행 갑을목과는 다르다.",
+   "text_sha256": "9db4d951a704252b7f04f7dca0e3ad1175a77778436cb512a88e5f070bde87f8",
+   "audio_sha256": "fa5867cf9e71bff133ee1c46db60e2e00a358956c21af2eb77f6e2974c24cf56",
+   "image_sha256": "f52d5f75f0832e391d06854ec9127f4240561d649d0cb3ff9143f4c3d7291666",
+   "source_commit": "19203cddfe591507e2a4c53aa35fd98f7686eadf",
+   "station_sha256": "407f467ca0a6fec6f242c17965f3d7fc9059d1ee68cc8e25972b622df59eaa46",
+   "original_wav_sha256": "75a846e03049c452c49b8eebd75263fc9e9b8ac8141731811709097c1b9a9897",
+   "original_wav_filename": "new-uk-08.full.wav"
+  },
+  "new-uk-08#2": {
+   "src": "audio/narration/new-uk-08__s2__09a79e811c94.mp3",
+   "text": "신랑은 모두 해 배지에 크고 우쭐하다, 양간, 갑, 병, 무, 경, 임. 그해는 태과, 자기 오행의 기운이 넘쳐 흐른다. 신부는 달 배지에 작다, 음간, 을, 정, 기, 신, 계. 그해는 불급, 자기 기운이 모자라 그것을 극하는 기운이 흐른다. 왼쪽 자리만 읽으면 갑, 을, 병, 정, 무, 신랑, 신부, 신랑, 신부, 신랑이 번갈아 앉았다.",
+   "text_sha256": "09a79e811c94dbe3c0d2c02b72e83152ecf0d55c8622f207b1c362da87451440",
+   "audio_sha256": "d62f5392d205802fe36a836d9be6ce554bc44a84c2362362f2f878a352f72818",
+   "image_sha256": "f52d5f75f0832e391d06854ec9127f4240561d649d0cb3ff9143f4c3d7291666",
+   "source_commit": "19203cddfe591507e2a4c53aa35fd98f7686eadf",
+   "station_sha256": "ca182098a7ae3c3ce78e5347f6b6fe3b1b78828b736e64cbb52532f6a5797eaf",
+   "original_wav_sha256": "75a846e03049c452c49b8eebd75263fc9e9b8ac8141731811709097c1b9a9897",
+   "original_wav_filename": "new-uk-08.full.wav"
+  },
+  "new-uk-08#3": {
+   "src": "audio/narration/new-uk-08__s3__21d300744abf.mp3",
+   "text": "천장에 온 식장을 비추는 둥근 샹들리에, 전구가 열 개다. 대운, 중운, 세운이라고도 한다, 은 그해 전체의 기후를 총괄한다. 천간이 열이니 열 해에 한 바퀴. 결정은 화오운으로, 양간 해는 태과, 음간 해는 불급.",
+   "text_sha256": "21d300744abf9b828226f50c10dd971af1ac45e25f7d7b3dd5e37bed240e9f68",
+   "audio_sha256": "86e12e23b18f082635c6a2f1399abb8468629a46d32c0704ac7c07dae704256d",
+   "image_sha256": "f52d5f75f0832e391d06854ec9127f4240561d649d0cb3ff9143f4c3d7291666",
+   "source_commit": "19203cddfe591507e2a4c53aa35fd98f7686eadf",
+   "station_sha256": "51d78b40e06e4baaccb3b487129cef6fca886ce2ded5ae9d4368b404f0bd588a",
+   "original_wav_sha256": "75a846e03049c452c49b8eebd75263fc9e9b8ac8141731811709097c1b9a9897",
+   "original_wav_filename": "new-uk-08.full.wav"
+  },
+  "new-uk-08#4": {
+   "src": "audio/narration/new-uk-08__s4__8065881fce34.mp3",
+   "text": "첫째 식탁, 왼쪽의 큰 신랑이 갑. 갑기합토, 양간이니 토운 태과. 머리 위에 비구름과 축축한 안개, 식탁보에 곰팡이와 버섯, 습승. 곁의 밀짚모자 농부, 비가 무겁게 앉아 불룩한 배를 감싼다. 갑자년이면 습이 이겨 비병이 많다. 다만 기교변대론 원문은 세토태과 우습류행 신수수사, 토가 넘치면 극을 받는 것은 수, 신이다. 넷째 식탁의 비토수사와 헷갈리지 말 것.",
+   "text_sha256": "8065881fce34de2be332339cdd8b2b5d823114864eeff3884055403ad1d9b1f0",
+   "audio_sha256": "48fd1fa1f81df758a46e8b1af42e2adc5d907e0ad71f631adbb685acbfe4baf6",
+   "image_sha256": "f52d5f75f0832e391d06854ec9127f4240561d649d0cb3ff9143f4c3d7291666",
+   "source_commit": "19203cddfe591507e2a4c53aa35fd98f7686eadf",
+   "station_sha256": "87b092699d45fbcd52f352f48e7b1a28bfa7ccf2fb3393f8a6d583e1f8b8b152",
+   "original_wav_sha256": "75a846e03049c452c49b8eebd75263fc9e9b8ac8141731811709097c1b9a9897",
+   "original_wav_filename": "new-uk-08.full.wav"
+  },
+  "new-uk-08#5": {
+   "src": "audio/narration/new-uk-08__s5__acd59c1dc6d5.mp3",
+   "text": "둘째 식탁은 을경합금. 오른쪽의 큰 신랑이 경, 양간이니 금운 태과. 식탁보가 마른 땅처럼 갈라지고 꽃은 바싹 시들었다, 조승. 같은 식탁의 왼쪽 신부 을은 같은 금운이라도 불급이다.",
+   "text_sha256": "acd59c1dc6d5793cf4cce8d3ac263b6453fe739a572624108b921c8a84d0d782",
+   "audio_sha256": "0a87f3e3ce8f2d5bad03b04549dce1ee6fa4a3720cd820bb153886ee2a0ea326",
+   "image_sha256": "f52d5f75f0832e391d06854ec9127f4240561d649d0cb3ff9143f4c3d7291666",
+   "source_commit": "19203cddfe591507e2a4c53aa35fd98f7686eadf",
+   "station_sha256": "3b0a33cf46340a89b1007c89f1e3c5d321b1ccefaef14048f26784736c7d922a",
+   "original_wav_sha256": "75a846e03049c452c49b8eebd75263fc9e9b8ac8141731811709097c1b9a9897",
+   "original_wav_filename": "new-uk-08.full.wav"
+  },
+  "new-uk-08#6": {
+   "src": "audio/narration/new-uk-08__s6__58a7bdfcde4a.mp3",
+   "text": "같은 둘째 식탁, 왼쪽의 작은 신부가 을. 을경합금이지만 음간이니 금운 불급. 금이 모자라면 금을 극하는 기운이 판친다, 작은 불꽃이 은 케이크 가장자리를 녹인다, 화극금. 을유년은 화가 유행한다. 불급의 해는 자기 기운이 아니라 극하는 기운이 흐른다.",
+   "text_sha256": "58a7bdfcde4a717a436272464ed860b889e143883ea8ae82a0d14795f76d0787",
+   "audio_sha256": "8e5ccc189c56240c02c11607ffad169e4cb937bc3ba1cac6fada644b37deb548",
+   "image_sha256": "f52d5f75f0832e391d06854ec9127f4240561d649d0cb3ff9143f4c3d7291666",
+   "source_commit": "19203cddfe591507e2a4c53aa35fd98f7686eadf",
+   "station_sha256": "6b4f9ef4c23de8e2de089b9d5fd676857d314b0c5e003011b28aaa00ca6ff590",
+   "original_wav_sha256": "75a846e03049c452c49b8eebd75263fc9e9b8ac8141731811709097c1b9a9897",
+   "original_wav_filename": "new-uk-08.full.wav"
+  },
+  "new-uk-08#7": {
+   "src": "audio/narration/new-uk-08__s7__b9c56a31342b.mp3",
+   "text": "셋째 식탁은 병신합수. 왼쪽의 큰 신랑이 병, 수운 태과. 머리 위에서 눈이 내리고 식탁보 끝에 고드름, 입김이 하얗다, 한승.",
+   "text_sha256": "b9c56a31342b2333218a86fc3675ba34b2aae7fdea9261021dee06ef9caede0a",
+   "audio_sha256": "037366c9d5c4dd7c9a526eb4c6d926cc0c7f325f64f7fb51e6162c4a838cd20d",
+   "image_sha256": "f52d5f75f0832e391d06854ec9127f4240561d649d0cb3ff9143f4c3d7291666",
+   "source_commit": "19203cddfe591507e2a4c53aa35fd98f7686eadf",
+   "station_sha256": "ef863b2c5834f808039446a8b78ea3c90f0d42d16118c7475859b023cae236c3",
+   "original_wav_sha256": "75a846e03049c452c49b8eebd75263fc9e9b8ac8141731811709097c1b9a9897",
+   "original_wav_filename": "new-uk-08.full.wav"
+  },
+  "new-uk-08#8": {
+   "src": "audio/narration/new-uk-08__s8__bd96ed53d668.mp3",
+   "text": "넷째 식탁은 정임합목. 오른쪽의 큰 신랑이 임, 목운 태과. 거센 바람에 냅킨과 잎이 날린다, 풍승. 그 바람을 맞은 밀짚모자 농부가 배를 움켜쥐고 꾸르륵거린다. 기교변대론, 세목태과 풍기류행 비토수사. 목이 토를 친다. 민병 손설, 식감, 체중번원, 장명, 복지만.",
+   "text_sha256": "bd96ed53d668d519a009313c98bc2e1537b351fbf643dd6e7efc828f8715bca8",
+   "audio_sha256": "ebba3ce9fedaffa6b0c4e389f46ab3dc05519897f710f6430610aa9d5f7ce7cd",
+   "image_sha256": "f52d5f75f0832e391d06854ec9127f4240561d649d0cb3ff9143f4c3d7291666",
+   "source_commit": "19203cddfe591507e2a4c53aa35fd98f7686eadf",
+   "station_sha256": "484b16e28de4145e6ae8db9573082c3672e4b97b9dd507f5355cf83ff5a36e67",
+   "original_wav_sha256": "75a846e03049c452c49b8eebd75263fc9e9b8ac8141731811709097c1b9a9897",
+   "original_wav_filename": "new-uk-08.full.wav"
+  },
+  "new-uk-08#9": {
+   "src": "audio/narration/new-uk-08__s9__dbc9d637087f.mp3",
+   "text": "다섯째 식탁은 무계합화. 왼쪽의 큰 신랑이 무, 화운 태과. 아지랑이가 피어오르고 촛불이 치솟아 모두 땀을 흘린다, 화승, 염서가 흐른다.",
+   "text_sha256": "dbc9d637087f41b61a8507f8a42ad089e97c80aa96e1ad6821ee271f30f71534",
+   "audio_sha256": "5e79361d7119988d44d61d88f7b0e14a3716b7d8ee49b5f545e22c009dde9d93",
+   "image_sha256": "f52d5f75f0832e391d06854ec9127f4240561d649d0cb3ff9143f4c3d7291666",
+   "source_commit": "19203cddfe591507e2a4c53aa35fd98f7686eadf",
+   "station_sha256": "3fe79db1425ab15c79810801ef68bc3a716aa4249242e413df4ee55625f74eef",
+   "original_wav_sha256": "75a846e03049c452c49b8eebd75263fc9e9b8ac8141731811709097c1b9a9897",
+   "original_wav_filename": "new-uk-08.full.wav"
+  },
+  "new-uk-08#10": {
+   "src": "audio/narration/new-uk-08__s10__d776f03893a5.mp3",
+   "text": "다시 본다. 전구 열 개 샹들리에, 대운은 한 해 기후를 총괄, 열 해에 한 바퀴. 갑기합토, 갑년 토태과 습승, 갑자년 비병. 을경합금, 경년 금태과 조승, 을유년 금불급이라 화가 유행. 병신합수, 병년 한승. 정임합목, 임년 풍승, 비토수사. 무계합화, 무년 화승. 해 배지 신랑 양간은 태과로 제 기운, 달 배지 신부 음간은 불급으로 극하는 기운.",
+   "text_sha256": "d776f03893a542cf3a7c4e3075a00f4850e0c9aeade5064c2155d3be38ad4e95",
+   "audio_sha256": "d546985865673813d8c580368676717d0dcc543894b30a44330e6c076213f51d",
+   "image_sha256": "f52d5f75f0832e391d06854ec9127f4240561d649d0cb3ff9143f4c3d7291666",
+   "source_commit": "19203cddfe591507e2a4c53aa35fd98f7686eadf",
+   "station_sha256": "57f6f54bddedfcc485ad9173dbcf6b7bc78df0a21e4c59332d4f98e978c2fcd5",
+   "original_wav_sha256": "75a846e03049c452c49b8eebd75263fc9e9b8ac8141731811709097c1b9a9897",
+   "original_wav_filename": "new-uk-08.full.wav"
   }
  }
 }

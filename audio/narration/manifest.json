@@ -4895,6 +4895,61 @@
    "station_sha256": "1168cbf71aefce65e4af0a628d2a2af64957808c2c3da9cdbcc8de29ba31f2da",
    "original_wav_sha256": "ab1056a0b47b07c93979fc8a81b4ad8d86991c63a464e4a1840397eeb5078975",
    "original_wav_filename": "suchi-19.full.wav"
+  },
+  "suchi-20#0": {
+   "src": "audio/narration/suchi-20__s0__1d22e3085828.mp3",
+   "text": "앞 장에서 넣어 찐 찜기를 이제 열었어. 그림에서는 둥근 대나무 찜기고, 뚜껑을 벗겨 옆에 기대 놨지. 김이 아직 피어올라. 옆엔 쇠 금고, 오른쪽 끝엔 나무 도마. 금고는 삼번 약효보존, 저장, 도마는 사번 절편 쉬움이야. 수치 목적 일곱 가운데 청결, 저장 용이가 있었지? 찜에서 그 저장이 금고야. 금고 쪽 둘 황상, 도마 하나 목.",
+   "text_sha256": "1d22e3085828657d7ffedc5c63d5e05ae3e4fd3b7b592d097f9fb9455cf410b3",
+   "audio_sha256": "ac6a77dbdee464df51323ba05154f12a95f38af840e710d11a9b919a15aac779",
+   "image_sha256": "e6d104bc2b3c805a5fe5a9f6771899ac9f91b378731ee971b62ccfb7d5a6145e",
+   "source_commit": "274b51eab12f957b935554a1623ac088fdb603ec",
+   "station_sha256": "d8fa4608f21e59d4bc4f656d8aada70ae99b020096c88e4ea1ce6cdae8350300",
+   "original_wav_sha256": "6d8dff197a317809b9d4d37fce24205dd259a9e243daf9d64a835a1ffec270ed",
+   "original_wav_filename": "suchi-20.full.wav"
+  },
+  "suchi-20#1": {
+   "src": "audio/narration/suchi-20__s1__aa86ce639ee7.mp3",
+   "text": "찜기에서 김 나는 금괴가 웃으며 미끄러져 나와. 번쩍이는 황금괴, 황금. 속도선 좀 봐, 찜기에서 금고 쪽으로 그어졌지? 그대로 열린 금고 속으로 쏙. 금을 금고에 넣어 두는 것, 보존하고 저장하는 삼번 약효보존, 저장이야. 금고 바로 옆에 사마귀가 서 있어.",
+   "text_sha256": "aa86ce639ee79db5bd3418c346846bae49c658f6c342f9d445e911f607676da2",
+   "audio_sha256": "491ee675606cbd87f23bf5fefd98c1e2ab071f45f690f67852a19570ad8c0b4b",
+   "image_sha256": "e6d104bc2b3c805a5fe5a9f6771899ac9f91b378731ee971b62ccfb7d5a6145e",
+   "source_commit": "274b51eab12f957b935554a1623ac088fdb603ec",
+   "station_sha256": "d3ac0e68a78d589df4c7d7b9c21d3984c13a6808faf6205d7ae327a2f28eeaca",
+   "original_wav_sha256": "6d8dff197a317809b9d4d37fce24205dd259a9e243daf9d64a835a1ffec270ed",
+   "original_wav_filename": "suchi-20.full.wav"
+  },
+  "suchi-20#2": {
+   "src": "audio/narration/suchi-20__s2__3eb7428f8924.mp3",
+   "text": "금고 옆엔 초록 사마귀. 앞발에 빈 상표 택이 달랑거려, 상표의 상표, 초록의 초, 상표초. 금괴가 들어가자 사마귀가 그 앞발로 금고 문을 쾅 밀어 닫아. 닫아 넣어 두는 것, 저장. 황금하고 상표초, 황상 둘이 삼번. 그리고 다른 앞발 낫을 길게 뻗어 오른쪽 도마까지.",
+   "text_sha256": "3eb7428f892482dc76ff7e80d54585610eb60f6873b01ae4e99c7d6f1b4507c3",
+   "audio_sha256": "2b6fc8156353806e6df89de40bc63e11f332f9b2f2800812e41da041d40357bb",
+   "image_sha256": "e6d104bc2b3c805a5fe5a9f6771899ac9f91b378731ee971b62ccfb7d5a6145e",
+   "source_commit": "274b51eab12f957b935554a1623ac088fdb603ec",
+   "station_sha256": "b1fce39a79eeed2ca2672ca22f992d28cc2f5f804e76ab133e3e3e3f1d61e4b2",
+   "original_wav_sha256": "6d8dff197a317809b9d4d37fce24205dd259a9e243daf9d64a835a1ffec270ed",
+   "original_wav_filename": "suchi-20.full.wav"
+  },
+  "suchi-20#3": {
+   "src": "audio/narration/suchi-20__s3__5eafa0b032ce.mp3",
+   "text": "도마 위엔 나무 막대 양끝에 모과를 꿴 아령. 나무 막대의 목, 모과의 과, 목과. 교재 글자는 선목과, 사전 표기는 목과야. 사마귀 낫이 모과 한쪽을 스윽, 얇은 조각이 부채처럼 펼쳐졌지? 그림에서는 김에 물러진 모과가 칼 없이도 얇게 썰려, 사번 절편 쉬움. 금고와 도마 사이, 낫이 건너는 자리가 삼번과 사번의 경계야.",
+   "text_sha256": "5eafa0b032cec5d385d91bf58dbc27ac8f537d3bb087f64b193bd01d06d019f0",
+   "audio_sha256": "66e56cb0a9b95191fe530a398232897a7228df5f522ad7c8a39fdf0260512553",
+   "image_sha256": "e6d104bc2b3c805a5fe5a9f6771899ac9f91b378731ee971b62ccfb7d5a6145e",
+   "source_commit": "274b51eab12f957b935554a1623ac088fdb603ec",
+   "station_sha256": "b1ca5fd743bc08255531a8399be479a80eee9b970f07d1a401fb4480c33c21b5",
+   "original_wav_sha256": "6d8dff197a317809b9d4d37fce24205dd259a9e243daf9d64a835a1ffec270ed",
+   "original_wav_filename": "suchi-20.full.wav"
+  },
+  "suchi-20#4": {
+   "src": "audio/narration/suchi-20__s4__34e9056167ae.mp3",
+   "text": "한 바퀴. 김 나는 금괴가 금고로 쏙, 택 단 사마귀가 금고 문을 쾅 밀어 닫고, 다른 낫으로 모과 아령을 얇게 저며. 황상 목. 앞 장과 이으면 증법 넷이 한 줄이야, 지하 황대 황상 목. 일번 성능 변화, 용약범위, 이번 부작용감소, 삼번 약효보존, 저장, 사번 절편 쉬움. 찜기는 김만 쬐어. 깨끗하게 하는 진주는 물 부어 삶는 자법 삼번이니까, 저장의 삼번하고 바꿔 내도 속지 마.",
+   "text_sha256": "34e9056167ae9c03982b6599bc45d6c0f6edff8d900d5ad3511035b675d696a8",
+   "audio_sha256": "49092931f08e8940ebb2206ea71da0559ee327166e38f394d3d448c61cf2d1ef",
+   "image_sha256": "e6d104bc2b3c805a5fe5a9f6771899ac9f91b378731ee971b62ccfb7d5a6145e",
+   "source_commit": "274b51eab12f957b935554a1623ac088fdb603ec",
+   "station_sha256": "2b3be25ae3e03f22ea802927670085f57e6d18c13ce1a7f54bb2a5d6132322c3",
+   "original_wav_sha256": "6d8dff197a317809b9d4d37fce24205dd259a9e243daf9d64a835a1ffec270ed",
+   "original_wav_filename": "suchi-20.full.wav"
   }
  }
 }

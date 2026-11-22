@@ -3861,6 +3861,83 @@
    "station_sha256": "d727c7ede42050cfed793c2c33a06f6c8722bf80060f241794dbbd3cf11374da",
    "original_wav_sha256": "1655a9179539c5de7ff0f9d47c85c0626009c39f9671adf57297862f62620ec5",
    "original_wav_filename": "suchi-03.full.wav"
+  },
+  "suchi-04#0": {
+   "src": "audio/narration/suchi-04__s0__bf019bf4315a.mp3",
+   "text": "초탄 마지막 장. 같은 검은 조각 팬, 같은 반창고 손잡이야. 이번엔 넷, 지포권형. 이 넷이 끝나면 초탄 열넷을 다 외운 거야.",
+   "text_sha256": "bf019bf4315aed37468a8073e37d509117cd0d4f9d6f4cd7ce397bc1beef0cd0",
+   "audio_sha256": "2c4d6e080666da1aedcbd60a360b6df2d8579803aee02662cef39663c7d760f3",
+   "image_sha256": "134657e3cd05d169f3e38bc9d558577f872710d2dcf2f97d2c54e7cbe01c28f2",
+   "source_commit": "ac3baac1f35cea4db51a080fec1a18c87a3f5c65",
+   "station_sha256": "c53611b1db7f9865adb407b90cab349ac5230ca01c62e976aebf6021aa7eed79",
+   "original_wav_sha256": "c2a4b9a62e62580c61848e882ebf1660ee92f7c888f4ae0f546bd59146b91b77",
+   "original_wav_filename": "suchi-04.full.wav"
+  },
+  "suchi-04#1": {
+   "src": "audio/narration/suchi-04__s1__69e534359d1c.mp3",
+   "text": "맨 왼쪽은 빨간 주유기. 분홍 지렁이가 칭칭 감고 노즐을 꼭 끌어안았어. 지렁이의 지, 주유기의 유, 지유. 지유도 대계, 소계처럼 양혈지혈약이야. 지렁이가 안은 노즐이 옆 선수의 노란 포환을 쿡 밀어.",
+   "text_sha256": "69e534359d1c8891b5a5409d0e17206ac8cd906b5bcbd3c0495997a967636ee7",
+   "audio_sha256": "90dea1d4c898eb631724e19ac5ec575be2dd91c65696ab26cf48984b3f3fadb5",
+   "image_sha256": "134657e3cd05d169f3e38bc9d558577f872710d2dcf2f97d2c54e7cbe01c28f2",
+   "source_commit": "ac3baac1f35cea4db51a080fec1a18c87a3f5c65",
+   "station_sha256": "3afe45ea314b028ba550f5042081335908fcde46f8941ab834776782f9c2bba3",
+   "original_wav_sha256": "c2a4b9a62e62580c61848e882ebf1660ee92f7c888f4ae0f546bd59146b91b77",
+   "original_wav_filename": "suchi-04.full.wav"
+  },
+  "suchi-04#2": {
+   "src": "audio/narration/suchi-04__s2__003239440520.mp3",
+   "text": "그 옆은 목에 노란 포환을 댄 선수. 포환의 포, 노란 황, 포황. 이 그림에선 포환은 그대로고, 옆으로 노란 꽃가루 구름이 확 뿜어져 나가. 포황은 지혈약 가운데 화어지혈약이야. 꽃가루 구름이 오른쪽 백조에게로 밀려가.",
+   "text_sha256": "003239440520a584ea074df644b14a839352850be1d7c8dad40004d062cb77dd",
+   "audio_sha256": "8afd984f442d191bccfcc2326f908adde3142dbfeba34a1aea169f849d0e22d3",
+   "image_sha256": "134657e3cd05d169f3e38bc9d558577f872710d2dcf2f97d2c54e7cbe01c28f2",
+   "source_commit": "ac3baac1f35cea4db51a080fec1a18c87a3f5c65",
+   "station_sha256": "77235a764b496e4f6c49379035e73dc08ad7a8308763107298334143e002600c",
+   "original_wav_sha256": "c2a4b9a62e62580c61848e882ebf1660ee92f7c888f4ae0f546bd59146b91b77",
+   "original_wav_filename": "suchi-04.full.wav"
+  },
+  "suchi-04#3": {
+   "src": "audio/narration/suchi-04__s3__a8d5a37bdca1.mp3",
+   "text": "꽃가루 구름 속으로 펀치를 날리는 건 권투 글러브 낀 하얀 백조. 권투의 권, 백조의 백, 권백. 한쪽 글러브는 구름을 뚫고, 다른 쪽 글러브는 옆의 커다란 연두 형광펜을 퍽.",
+   "text_sha256": "a8d5a37bdca1a9c9107d24803f9e443523a676191f2197a03da5d2ba2abdb4d9",
+   "audio_sha256": "1640b0e631d0b1d3f5edaed8cc5032a9bc3884d9301d3e702a7224651abdd1a2",
+   "image_sha256": "134657e3cd05d169f3e38bc9d558577f872710d2dcf2f97d2c54e7cbe01c28f2",
+   "source_commit": "ac3baac1f35cea4db51a080fec1a18c87a3f5c65",
+   "station_sha256": "9cccb3d11b4d6adfb4662b3e037d0dcf387d734dd1944f1ad401dbec8fa339f0",
+   "original_wav_sha256": "c2a4b9a62e62580c61848e882ebf1660ee92f7c888f4ae0f546bd59146b91b77",
+   "original_wav_filename": "suchi-04.full.wav"
+  },
+  "suchi-04#4": {
+   "src": "audio/narration/suchi-04__s4__f51c68268bf4.mp3",
+   "text": "맨 오른쪽, 거대한 형광펜을 줄로 묶어 끌고 가는 개미. 형광펜의 형, 개미의 개, 형개. 백조 글러브에 맞은 형광펜이 개미 쪽으로 밀리자, 개미가 줄을 쥔 채 반창고 감긴 손잡이 쪽으로 끌려가. 형개는 분류로는 해표약인데도 초탄 목록에 있어, 지혈약만 초탄하는 게 아니야.",
+   "text_sha256": "f51c68268bf46112c0f75d4699030f6aec91de238d9ab7c807b01aedaf3f6fbc",
+   "audio_sha256": "aa72e286c7d0a62a749c57b7d00cdee15539c092562a9da0e47a8378a524d33c",
+   "image_sha256": "134657e3cd05d169f3e38bc9d558577f872710d2dcf2f97d2c54e7cbe01c28f2",
+   "source_commit": "ac3baac1f35cea4db51a080fec1a18c87a3f5c65",
+   "station_sha256": "defba5ad1cff714957d28631b4793852251db2d669a77b7bdb3345f76602edf7",
+   "original_wav_sha256": "c2a4b9a62e62580c61848e882ebf1660ee92f7c888f4ae0f546bd59146b91b77",
+   "original_wav_filename": "suchi-04.full.wav"
+  },
+  "suchi-04#5": {
+   "src": "audio/narration/suchi-04__s5__9cc6671a2811.mp3",
+   "text": "도미노가 끝나는 곳에 또 그 반창고. 초탄하면 지혈이 세진다는 표지야. 세 장 내내 같은 자리에 붙어 있었지? 반창고를 보면 초탄 열넷이 줄줄이 떠올라야 해.",
+   "text_sha256": "9cc6671a2811eccd99c13539db63bcc4887087873f3400373d41899af3d42efd",
+   "audio_sha256": "fa298940179bd571308720f815f67761651b3e7426f7045992764ce7ea43fcb6",
+   "image_sha256": "134657e3cd05d169f3e38bc9d558577f872710d2dcf2f97d2c54e7cbe01c28f2",
+   "source_commit": "ac3baac1f35cea4db51a080fec1a18c87a3f5c65",
+   "station_sha256": "6d7d42e91056ce98e3c4d74d41d49bff3fa37ec545afc50c93ddef6b2f16abda",
+   "original_wav_sha256": "c2a4b9a62e62580c61848e882ebf1660ee92f7c888f4ae0f546bd59146b91b77",
+   "original_wav_filename": "suchi-04.full.wav"
+  },
+  "suchi-04#6": {
+   "src": "audio/narration/suchi-04__s6__c693b0fcbb05.mp3",
+   "text": "한 바퀴 다시. 지렁이 주유기 노즐이 포환을 밀고, 포환 옆에서 꽃가루가 뿜어지고, 백조가 펀치로 형광펜을 치고, 개미가 형광펜에 끌려 반창고 쪽으로. 지포권형. 이제 초탄 열넷을 한숨에, 대소백목측, 천관괴건오, 지포권형. 갈색 초초 넷, 산천치빈과 바꿔 내는 문제를 조심해.",
+   "text_sha256": "c693b0fcbb058bed4f50793b0feb9dccc9501e5602fc25456c678ad2b141cc53",
+   "audio_sha256": "aa47c3911bd8565bcc7f83b7ae8073b7e6f8041a3363fd410148d82f7bd198fe",
+   "image_sha256": "134657e3cd05d169f3e38bc9d558577f872710d2dcf2f97d2c54e7cbe01c28f2",
+   "source_commit": "ac3baac1f35cea4db51a080fec1a18c87a3f5c65",
+   "station_sha256": "9225999f66253702f1b997ae2b33baabb039fa76f98e7343447cea19c61ca891",
+   "original_wav_sha256": "c2a4b9a62e62580c61848e882ebf1660ee92f7c888f4ae0f546bd59146b91b77",
+   "original_wav_filename": "suchi-04.full.wav"
   }
  }
 }

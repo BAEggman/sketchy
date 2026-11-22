@@ -3388,6 +3388,94 @@
    "station_sha256": "738f6fa2cba711f77362bb6ce2aae601543da7f6920f4dfe99b7f700a850677f",
    "original_wav_sha256": "8d24b38c2a7aba98b200cb6634df6794942f3e72c0f11a0af705d062bff36e78",
    "original_wav_filename": "qiqing-07.full.wav"
+  },
+  "qiqing-08#0": {
+   "src": "audio/narration/qiqing-08__s0__04c6a23e73ac.mp3",
+   "text": "상오 둘째 장, 같은 체육관이야. 매트 셋에서 짝 셋이 또 맞밀고 있어. 머리 위 노란 빛이 꺼지며 회색 김이 올라. 그림에서는 백작과 오른쪽 매트 둘 위엔 김이 안 보이지만, 뜻은 똑같이 약성 약해짐이야. 앞 장 황생 방건 인나에 이어서, 백석 천황 후택.",
+   "text_sha256": "04c6a23e73ac49cf935c868b240ce952b1284ce9820a499f8d631010c2509192",
+   "audio_sha256": "6f9c7afe4991c7fa440e53fa5209ee42f5e9e90f83274608ae2f1b54a47a5772",
+   "image_sha256": "c03f145eee7bac0ac7090ead4e742a57b1e0ef468c73edc948be93faed714965",
+   "source_commit": "5f420089f235ea44ac7530703371c055192500c3",
+   "station_sha256": "5216e76b81140540281393a53c306748f435393dd932964c7bc95c092d65be53",
+   "original_wav_sha256": "747f715ddeff389a822665cd891c812d610323deb044e99ab5959bd9e93399d0",
+   "original_wav_filename": "qiqing-08.full.wav"
+  },
+  "qiqing-08#1": {
+   "src": "audio/narration/qiqing-08__s1__4584c396363b.mp3",
+   "text": "왼쪽 매트, 외알 안경에 흰 양복, 흰 망토 백작이 약병을 들었어. 백작 약사, 백작약. 남은 손바닥으로 옆 석류를 밀어붙이는데, 그림에서는 지친 얼굴 대신 웃고 있어. 작약은 십팔반 여로 무리에도 나와. 거기서 교재는 백, 적을 가르지 않고 그냥 작약이라 적었어. 여기 상오는 백작약이라고 콕 집었고.",
+   "text_sha256": "4584c396363b24956492010a75abab37afe174be000cfa9da7137f11d1c235dc",
+   "audio_sha256": "2e986cca520268d9ff164343dfba3c95ac61d053e9e1920678dfda76632d9e81",
+   "image_sha256": "c03f145eee7bac0ac7090ead4e742a57b1e0ef468c73edc948be93faed714965",
+   "source_commit": "5f420089f235ea44ac7530703371c055192500c3",
+   "station_sha256": "012ad5523890b92b7341a8f8c49ee800d7b82832cd96ffab86a29fdef6ddcdee",
+   "original_wav_sha256": "747f715ddeff389a822665cd891c812d610323deb044e99ab5959bd9e93399d0",
+   "original_wav_filename": "qiqing-08.full.wav"
+  },
+  "qiqing-08#2": {
+   "src": "audio/narration/qiqing-08__s2__99ea8f7a2a7e.mp3",
+   "text": "맞은편은 곡괭이를 멘 석류. 갈라진 틈으로 붉은 알이 반짝여. 석류의 석, 곡괭이의 곡, 석곡. 성난 얼굴로 맞서지만 머리 위 빛이 꺼지며 회색 김이 올라. 두문자 백석의 석이 이 석곡이야. 상쇄의 백지 석웅황도 첫 음절이 백석이라, 그쪽은 백웅으로 부르기로 했어.",
+   "text_sha256": "99ea8f7a2a7ebd75304138df12db8f280ab165004d2aac578bca1843eebc8091",
+   "audio_sha256": "adec1fb8e96a8f98038e68d0b3ef41c30b19bbd3fedac58df7d7ea471fdb9726",
+   "image_sha256": "c03f145eee7bac0ac7090ead4e742a57b1e0ef468c73edc948be93faed714965",
+   "source_commit": "5f420089f235ea44ac7530703371c055192500c3",
+   "station_sha256": "d0eb56e3c7f3b12bfaf33a3f00fe2bad94211f59d0ba84322a119e9469a463da",
+   "original_wav_sha256": "747f715ddeff389a822665cd891c812d610323deb044e99ab5959bd9e93399d0",
+   "original_wav_filename": "qiqing-08.full.wav"
+  },
+  "qiqing-08#3": {
+   "src": "audio/narration/qiqing-08__s3__3814da766345.mp3",
+   "text": "가운데 매트, 날개가 제 활시위에 걸려 버린 꼬마 천사 궁수. 천사 궁수, 천궁. 눈이 빙글빙글 돌면서도 두 손으로 연꽃을 밀어. 포제 주자 장에서 활을 놓치던 그 천사야. 천궁은 상수에선 당귀와 힘을 합치는데, 여기 상오에선 황련과 서로 힘을 빼. 같은 천사, 짝에 따라 빛이 커지기도 꺼지기도 해.",
+   "text_sha256": "3814da766345ddddcf0628fb5abcb133369c258996f430c19e9a71c2bf0387ea",
+   "audio_sha256": "0d01c0f7b4520417e3a043ff64aeb12b28abc1a1ef707842ad25948f6ede75ad",
+   "image_sha256": "c03f145eee7bac0ac7090ead4e742a57b1e0ef468c73edc948be93faed714965",
+   "source_commit": "5f420089f235ea44ac7530703371c055192500c3",
+   "station_sha256": "eb2e3f2d7e0499ba610a979ee4b314450f16bad06ba1221d8d3953553a33d07a",
+   "original_wav_sha256": "747f715ddeff389a822665cd891c812d610323deb044e99ab5959bd9e93399d0",
+   "original_wav_filename": "qiqing-08.full.wav"
+  },
+  "qiqing-08#4": {
+   "src": "audio/narration/qiqing-08__s4__03bc39d0b8e8.mp3",
+   "text": "천사가 미는 상대는 다시 그 혀 내민 노란 연꽃, 황련. 앞 장 첫 매트에선 생강 개구리와 맞밀었지? 상오 여섯 짝에 두 번 나오는 약은 황련 하나야. 교재 순서도 봐. 황련 생강은 황련이 앞, 천궁 황련은 황련이 뒤라서 여기선 오른쪽에 섰어. 두문자 천황의 황.",
+   "text_sha256": "03bc39d0b8e8840aa901099d8037591f8f88fb46d74cb63dfcd63b6e9f40e205",
+   "audio_sha256": "d67179fdf83874663e308ba4ea2debb56f694aee4f5acb0011c788361753c571",
+   "image_sha256": "c03f145eee7bac0ac7090ead4e742a57b1e0ef468c73edc948be93faed714965",
+   "source_commit": "5f420089f235ea44ac7530703371c055192500c3",
+   "station_sha256": "1983522443af267248afd6ac53a968c1d7120d80a379182e5b5687af30c2f0f2",
+   "original_wav_sha256": "747f715ddeff389a822665cd891c812d610323deb044e99ab5959bd9e93399d0",
+   "original_wav_filename": "qiqing-08.full.wav"
+  },
+  "qiqing-08#5": {
+   "src": "audio/narration/qiqing-08__s5__49b8b064191b.mp3",
+   "text": "오른쪽 매트, 흰 호리병박 위에 나무 후추 그라인더가 기울어 후추알을 흘려. 후추의 후, 박, 후박. 포제 강자 장에서 생강즙 팬에 앉아 있던 그 박이야. 팔이 없으니 몸통으로 옆 택시 범퍼에 맞붙었어. 그림에서는 웃는 얼굴이고 위로 김도 안 보이지만, 짝은 상오야.",
+   "text_sha256": "49b8b064191badebdcfbd5296761d0b02eb59bcbdcf9c256bd80b6367f023d10",
+   "audio_sha256": "94f30402582145c0017c8a7bb7c73d4102f35e0b08abfd5dc9798ae0cadb47a9",
+   "image_sha256": "c03f145eee7bac0ac7090ead4e742a57b1e0ef468c73edc948be93faed714965",
+   "source_commit": "5f420089f235ea44ac7530703371c055192500c3",
+   "station_sha256": "9b5bdc2114e8f388ba4ca8661b65f68014bdbc794bcc99e3c44c437bd4158e80",
+   "original_wav_sha256": "747f715ddeff389a822665cd891c812d610323deb044e99ab5959bd9e93399d0",
+   "original_wav_filename": "qiqing-08.full.wav"
+  },
+  "qiqing-08#6": {
+   "src": "audio/narration/qiqing-08__s6__e609b6a197fc.mp3",
+   "text": "맞은편은 지붕에서 물을 분수처럼 뿜는 흰 택시. 택시, 택사. 분수는 계속 솟고, 앞 범퍼로 박을 꾹 밀어. 택사는 교재 분류로 이수퇴종약이라 물이 단서에 붙었어. 후박과 택사, 서로 견제해 작용이 줄어드는 짝, 후택.",
+   "text_sha256": "e609b6a197fc5a5100eeb2f1afbff43074520e7f2c3be5988b8faf8837b1557b",
+   "audio_sha256": "8c1ff48dc91ac1877b7ae3c945942050220a34bf54662aa191bdd5375348bf09",
+   "image_sha256": "c03f145eee7bac0ac7090ead4e742a57b1e0ef468c73edc948be93faed714965",
+   "source_commit": "5f420089f235ea44ac7530703371c055192500c3",
+   "station_sha256": "ee89150979aeceda67b2355da72278ef955a326b61eb7c96fe989945e289daad",
+   "original_wav_sha256": "747f715ddeff389a822665cd891c812d610323deb044e99ab5959bd9e93399d0",
+   "original_wav_filename": "qiqing-08.full.wav"
+  },
+  "qiqing-08#7": {
+   "src": "audio/narration/qiqing-08__s7__bb48f969ab39.mp3",
+   "text": "한 바퀴. 백작 약사가 곡괭이 석류를, 시위에 걸린 천사가 혀 내민 연꽃을, 후추 박이 분수 택시를 밀어. 셋 다 빛이 꺼지는 무승부, 백석 천황 후택. 앞 장까지 합치면 상오 여섯 짝, 황생 방건 인나, 백석 천황 후택. 황련만 두 번 나와. 이 여섯은 약성이 약해지는 짝이지 독이 줄거나 터지는 짝이 아니야. 다음 장부터 보라 독구름이 떠.",
+   "text_sha256": "bb48f969ab39f5067238fc9e043e51b361d3265683dd504689408d7fec0da62c",
+   "audio_sha256": "ef210554506306bb1966c8c70c4ca0b8d82ba249f12b82092b5976d1becc5f8c",
+   "image_sha256": "c03f145eee7bac0ac7090ead4e742a57b1e0ef468c73edc948be93faed714965",
+   "source_commit": "5f420089f235ea44ac7530703371c055192500c3",
+   "station_sha256": "cea977ff1b34661c9a03788856ea1303c0fdd80c38f5283f08c417dd993a5ed9",
+   "original_wav_sha256": "747f715ddeff389a822665cd891c812d610323deb044e99ab5959bd9e93399d0",
+   "original_wav_filename": "qiqing-08.full.wav"
   }
  }
 }

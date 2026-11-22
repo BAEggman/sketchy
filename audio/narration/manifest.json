@@ -9592,6 +9592,116 @@
    "station_sha256": "e77b1bb2cbdbee6aeef38b443e697dc524946d4e12450ce64bbb62b03ce75c5e",
    "original_wav_sha256": "17c988c46dfb3a5bd04da8b9dd78125052a8526279160eccc40e403ded3af266",
    "original_wav_filename": "mer-04.full.wav"
+  },
+  "new-gr-08#0": {
+   "src": "audio/narration/new-gr-08__s0__26fba96e500d.mp3",
+   "text": "여러 등산로가 한 산에 모인다. 산 높이가 곧 몸 높이, 꼭대기는 정수리, 입술 동굴은 입, 협곡은 목구멍, 맨 아래 골짜기 샘은 음기다. 앞서 본 치, 이, 설본, 목계 환승역이 경에서 기관으로였다면, 여기는 기관 하나에 모이는 경들이다. 위 줄 넷, 아래 줄 넷을 왼쪽부터 차례로 본다.",
+   "text_sha256": "26fba96e500d3282f30ced0bb0d998b7f51abfb6e88fe61dfbd2cfe9e57d4c24",
+   "audio_sha256": "7948697b9f003b8b081b9dd0ee29e9bd521567b64a0cdee7e35aae5a2cd2af27",
+   "image_sha256": "d60a9d06aa5935b53d5067468757cc31455599b4a698d696583b780b59397891",
+   "source_commit": "8e93db777756e2408ec7d86a96469404e02a92b6",
+   "station_sha256": "44ae7883addf36f867bd0fb72bdfb913aefe2243dfeade578b11e90c83b8c827",
+   "original_wav_sha256": "a6ff80c0051ea3d8bc3658b239d7f95f59e29fa62b200b7325870ab1c2338732",
+   "original_wav_filename": "new-gr-08.full.wav"
+  },
+  "new-gr-08#1": {
+   "src": "audio/narration/new-gr-08__s1__977d25fac1e8.mp3",
+   "text": "꼭대기, 산의 전에 셋이 섰다. 물지게 진 물장수, 족태양방광, 종전입락뇌. 초록 갑옷 장군, 족궐음간, 여독맥회어전, 독맥과 정수리에서 만난다. 등뼈 지팡이를 든 사내, 등 뒤 정중선, 등뼈를 타고 오르는 독맥. 전정은 방광, 간, 독, 셋이다. 다른 경을 끼워 넣는 함정에 주의.",
+   "text_sha256": "977d25fac1e810c3cbb709c8924e3da41a7bdd0b991311d508df411f0c771375",
+   "audio_sha256": "bb6f2390184b296448cba48edfd65b929e8cdc0a374138d3b994eda854568c31",
+   "image_sha256": "d60a9d06aa5935b53d5067468757cc31455599b4a698d696583b780b59397891",
+   "source_commit": "8e93db777756e2408ec7d86a96469404e02a92b6",
+   "station_sha256": "20011ab0f09fc0e79a419648c616b1969ed61503bd0b274215113033e76285fd",
+   "original_wav_sha256": "a6ff80c0051ea3d8bc3658b239d7f95f59e29fa62b200b7325870ab1c2338732",
+   "original_wav_filename": "new-gr-08.full.wav"
+  },
+  "new-gr-08#2": {
+   "src": "audio/narration/new-gr-08__s2__0c9e10260a45.mp3",
+   "text": "둘째 칸, 산기슭 텐트 옆에 흰 옷 노인과 붉은 방패 근위병이 앉아 오르지 않는다, 수태음폐경과 수궐음심포경, 두면으로 가지 않는 두 경이다. 나머지 열 경은 머리까지 오른다, 저 위 꼭대기로 가는 작은 등산객처럼. 중턱의 임금은 쌍안경을 들었다, 수소음심경은 인을 끼고 올라 목계에 닿는다. 그래서 심경을 두면 못 가는 쪽에 넣으면 틀린다.",
+   "text_sha256": "0c9e10260a453133c4baa55750e86c4ac6a761e06098c5e4448a71dfacfaaff9",
+   "audio_sha256": "65e5a5fe832fb8d96124b49a5c6801d9f39ff88b86d40391e8240f7feabdf874",
+   "image_sha256": "d60a9d06aa5935b53d5067468757cc31455599b4a698d696583b780b59397891",
+   "source_commit": "8e93db777756e2408ec7d86a96469404e02a92b6",
+   "station_sha256": "afdc72323ba761c9aedaa2da7371a2eb662017d60dc5d4748530258a46067f2a",
+   "original_wav_sha256": "a6ff80c0051ea3d8bc3658b239d7f95f59e29fa62b200b7325870ab1c2338732",
+   "original_wav_filename": "new-gr-08.full.wav"
+  },
+  "new-gr-08#3": {
+   "src": "audio/narration/new-gr-08__s3__db72ad9b2eac.mp3",
+   "text": "셋째 칸, 입술 모양 동굴. 노란 앞치마 요리사가 입술 둘레를 걷는다, 족양명위, 환출협구환순. 뒤따르는 초록 장군, 족궐음간, 환순내. 입술을 감은 붉은 줄과 보라 줄은 기경, 충맥, 독맥, 임맥, 셋이다. 요순구는 위, 간, 충, 독, 임, 다섯이다. 오답이 가장 많은 자리, 하나라도 빠뜨리면 틀린다.",
+   "text_sha256": "db72ad9b2eacd4dc18dae2b55108f4b74b9d1c5f94ad7ece84bbd84b32277ce3",
+   "audio_sha256": "2c79fbbf8717c99f834041ebbc3d717e2b605367bbcf59dfb105ce3cae092ed4",
+   "image_sha256": "d60a9d06aa5935b53d5067468757cc31455599b4a698d696583b780b59397891",
+   "source_commit": "8e93db777756e2408ec7d86a96469404e02a92b6",
+   "station_sha256": "7223e7aedc73a973a1c181525355d72b1bcc11f56561b2b5236ab9ce58da1cf3",
+   "original_wav_sha256": "a6ff80c0051ea3d8bc3658b239d7f95f59e29fa62b200b7325870ab1c2338732",
+   "original_wav_filename": "new-gr-08.full.wav"
+  },
+  "new-gr-08#4": {
+   "src": "audio/narration/new-gr-08__s4__2138443ebff5.mp3",
+   "text": "넷째 칸, 목구멍처럼 좁은 협곡. 바닥 길을 셋이 걷는다, 흰 옷 노인 폐, 폐계가 곧 후롱이다. 대머리 장사 신, 순후롱 협설본. 요리사 위, 순후롱. 후롱에 직접 닿는 셋, 폐, 신, 위. 밀짚모자 농부는 협곡 안이 아니라 벼랑 위 가장자리를 걷는다, 비는 협인, 목을 낄 뿐이다. 초록 장군은 협곡에 들어오지 않고 건너편 먼 들판 길로 돌아간다, 간은 순후롱지후 상입항상, 후롱의 뒤를 따라 오른다.",
+   "text_sha256": "2138443ebff5df0214620a5de2708f3c3a0350338c948a62b3619f584e06d0af",
+   "audio_sha256": "05b73983c7d86557b6bdd718f607a3804152921cd8f7e82ad0b1604b306416eb",
+   "image_sha256": "d60a9d06aa5935b53d5067468757cc31455599b4a698d696583b780b59397891",
+   "source_commit": "8e93db777756e2408ec7d86a96469404e02a92b6",
+   "station_sha256": "57d71dfa79458ff68830ae70efa1486c63948ff752805ead6dd4198db4c86835",
+   "original_wav_sha256": "a6ff80c0051ea3d8bc3658b239d7f95f59e29fa62b200b7325870ab1c2338732",
+   "original_wav_filename": "new-gr-08.full.wav"
+  },
+  "new-gr-08#5": {
+   "src": "audio/narration/new-gr-08__s5__85ad1d889fe7.mp3",
+   "text": "아래 줄 첫 칸, 산의 가장 낮은 골짜기, 몸으로 치면 음기다. 둥근 샘을 초록 장군과 대머리 장사가 빙 돌아 걷는다. 장군이 두 번 보이는 것은 한 바퀴 도는 모습이다. 족궐음간은 입모중 과음기, 그리고 신, 요음기는 간, 신 둘. 같은 기출 묶음은 후롱에 비까지 넣어 폐, 신, 위, 비 넷으로 친다, 앞 칸 벼랑 위 농부까지 센 셈이다. 삼경이냐 사경이냐는 보기에 맞춰 고른다.",
+   "text_sha256": "85ad1d889fe77621eb602e4e22ce446faf0db2ea9cf3b9afddb67a1c6ca2b832",
+   "audio_sha256": "1c03a2708b9e98050717742207a742728461ddd6ee678d8fe8bcd926674b0108",
+   "image_sha256": "d60a9d06aa5935b53d5067468757cc31455599b4a698d696583b780b59397891",
+   "source_commit": "8e93db777756e2408ec7d86a96469404e02a92b6",
+   "station_sha256": "8a26d55b9ede644aeaf9de982bc2a4947003fc54d3f1ba440dcc2dee5922743e",
+   "original_wav_sha256": "a6ff80c0051ea3d8bc3658b239d7f95f59e29fa62b200b7325870ab1c2338732",
+   "original_wav_filename": "new-gr-08.full.wav"
+  },
+  "new-gr-08#6": {
+   "src": "audio/narration/new-gr-08__s6__67425748d261.mp3",
+   "text": "둘째 칸은 장군의 길. 먼저 요리사의 부엌을 끼고 지난다, 협위. 제 몸 간에 속하고, 저울 든 초록 옷 재판관 곁을 지난다, 낙담. 그리고 길 위쪽 굽이에 선 흰 옷 노인에게 오른다, 복종간 별관격 상주폐. 간경이 잇는 장부는 간, 담, 폐, 위, 넷이다.",
+   "text_sha256": "67425748d2617a0ce24c03bf62a20cd7fbbbf9fffe2c8f2a72bd426272edd35a",
+   "audio_sha256": "2b7af58770cf6317996d864855dc9e5bb64c24f62a9febc268e0035cf0e15e46",
+   "image_sha256": "d60a9d06aa5935b53d5067468757cc31455599b4a698d696583b780b59397891",
+   "source_commit": "8e93db777756e2408ec7d86a96469404e02a92b6",
+   "station_sha256": "e0351904df59c798fb230223062b7959566e661a3cedd72bdf2dfdb67fdeed40",
+   "original_wav_sha256": "a6ff80c0051ea3d8bc3658b239d7f95f59e29fa62b200b7325870ab1c2338732",
+   "original_wav_filename": "new-gr-08.full.wav"
+  },
+  "new-gr-08#7": {
+   "src": "audio/narration/new-gr-08__s7__d8638e93dc9f.mp3",
+   "text": "셋째 칸은 장사의 길. 대머리 장사가 물장수의 물지게를 메고 출발한다, 속신 낙방광. 길을 오르며 장군을 지나고, 관간격, 흰 옷 노인에게, 입폐중, 맨 끝 금관 임금에게 닿는다, 종폐출 낙심. 신경이 잇는 장부는 신, 방광, 간, 폐, 심, 다섯. 장사와 장군 사이 길가에서 물기둥이 솟는다, 신허수범. 넘친 물이 이 길을 타고 올라 임금을 덮치면 심계, 능심이고, 노인을 덮치면 해천, 사폐다. 근거는 신경이 낙심 입폐하기 때문이다.",
+   "text_sha256": "d8638e93dc9fbaa29cc1cb0e392b6414dd064182faad128eccbb421b54535b30",
+   "audio_sha256": "632a360fe9f9cc37ef373494e852f4dbe3365176587426ebacfa8f2e6259b8d4",
+   "image_sha256": "d60a9d06aa5935b53d5067468757cc31455599b4a698d696583b780b59397891",
+   "source_commit": "8e93db777756e2408ec7d86a96469404e02a92b6",
+   "station_sha256": "dc315eff3dda572180f52dfca567caf4a7f8ab527e143f0fb9d1bf4780781c8f",
+   "original_wav_sha256": "a6ff80c0051ea3d8bc3658b239d7f95f59e29fa62b200b7325870ab1c2338732",
+   "original_wav_filename": "new-gr-08.full.wav"
+  },
+  "new-gr-08#8": {
+   "src": "audio/narration/new-gr-08__s8__25230cf1632b.mp3",
+   "text": "마지막 칸, 스키장. 왼쪽 끝을 따라 내려오는 밧줄이 몸 앞 정중선, 임맥이다. 그 곁에 바싹 붙은 대머리 장사, 신경, 배에서 정중선 옆 0.5촌. 다음 요리사, 위경, 2촌. 다음 밀짚모자 농부, 비경, 4촌. 맨 바깥 초록 장군, 간경, 옆구리 쪽. 임, 신, 위, 비, 간. 가슴에서는 간격이 더 벌어져 신 2촌, 위 4촌, 비 6촌, 흉부는 넓고 복부는 좁다. 슬로프 위쪽이 좁아 보이는 것은 원근 때문일 뿐이다.",
+   "text_sha256": "25230cf1632b3f642d6b5a9e53a368ca4ace69566ff5d2562bd182e60c586bd7",
+   "audio_sha256": "475e27cad95532652585a2ff78ddfe484dd159b146f8d14f131f254c7dcfdde9",
+   "image_sha256": "d60a9d06aa5935b53d5067468757cc31455599b4a698d696583b780b59397891",
+   "source_commit": "8e93db777756e2408ec7d86a96469404e02a92b6",
+   "station_sha256": "94268b7784a89bd0c30ef32b244a0846bbc7106f0e0c97b3bd2591cbe60b8cb4",
+   "original_wav_sha256": "a6ff80c0051ea3d8bc3658b239d7f95f59e29fa62b200b7325870ab1c2338732",
+   "original_wav_filename": "new-gr-08.full.wav"
+  },
+  "new-gr-08#9": {
+   "src": "audio/narration/new-gr-08__s9__ab75a6481841.mp3",
+   "text": "다시 본다. 꼭대기 셋, 전정은 방광, 간, 독. 기슭에 앉은 노인과 방패병, 두면 못 가는 폐, 심포, 쌍안경 임금 심경은 목계에 닿는다. 입술 동굴, 위, 간, 충, 독, 임. 목구멍 협곡, 안은 폐, 신, 위, 벼랑 위 농부 비는 협인, 먼 들판 장군 간은 후롱지후. 골짜기 샘, 요음기 간, 신. 장군의 길, 위, 담, 폐. 장사의 길, 방광, 간, 폐, 심, 넘친 물은 능심 사폐. 스키장, 임, 신 0.5, 위 2, 비 4, 간.",
+   "text_sha256": "ab75a648184121b433b15ef691bedd99f49160403fa711d9c5791a42f1a03378",
+   "audio_sha256": "d0fa76e5a321ea9dcbe3440b3e4fe31b515d9c81244f91036f65e45794424b38",
+   "image_sha256": "d60a9d06aa5935b53d5067468757cc31455599b4a698d696583b780b59397891",
+   "source_commit": "8e93db777756e2408ec7d86a96469404e02a92b6",
+   "station_sha256": "a91cf8c76585146f1e08cf539618b76d3cb229519eafa7e1dd23a80ec5b0890b",
+   "original_wav_sha256": "a6ff80c0051ea3d8bc3658b239d7f95f59e29fa62b200b7325870ab1c2338732",
+   "original_wav_filename": "new-gr-08.full.wav"
   }
  }
 }

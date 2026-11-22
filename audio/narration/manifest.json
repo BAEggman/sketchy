@@ -4829,6 +4829,72 @@
    "station_sha256": "2cd3d77f92337b2c9f560ef78263ce1700613fbd6b27605b44bb6e6949f10633",
    "original_wav_sha256": "bb03b843d88aba22ec8472ed159d5945452450de54eed210d4e2d5218256fd40",
    "original_wav_filename": "suchi-18.full.wav"
+  },
+  "suchi-19#0": {
+   "src": "audio/narration/suchi-19__s0__5fe6755b5ab2.mp3",
+   "text": "작업대 위에 길쭉한 대나무 찜기가 놓이고 아래엔 불이 줄지어 있어. 물에 잠기지 않고 김만 쬐지, 찌는 증법이야. 보료를 넣어 찌기도 하고, 아무것도 안 넣고 그냥 찌기도 해, 청증. 증, 자, 천은 보료가 없어도 날것과 익힌 것, 생숙만으로 성질이 바뀌어. 찜기 한가운데 대나무 칸막이가 있지? 왼쪽은 일번 성능 변화, 용약범위, 오른칸은 이번 부작용감소. 왼쪽 둘 지하, 오른칸 둘 황대.",
+   "text_sha256": "5fe6755b5ab21cfa474e10263f879bb15fc4b13b5b640f6f308ee890ee305cab",
+   "audio_sha256": "e9264af5a561c0381a2e2dfd8a6161c88b532db5e9503fe1cfcbfe9c17c7f7ce",
+   "image_sha256": "a846e2c3f5ad67197771c69b4e26b87c2a19c971dfbe47b4b966f94ed0d518d3",
+   "source_commit": "8e1ad7e07c6ff086a8bbf07ea11de6ea66d8486e",
+   "station_sha256": "2beea85a8ae3a6a2c7d392e85333e2ddee4776dce164de9c79fe57d668702a1b",
+   "original_wav_sha256": "ab1056a0b47b07c93979fc8a81b4ad8d86991c63a464e4a1840397eeb5078975",
+   "original_wav_filename": "suchi-19.full.wav"
+  },
+  "suchi-19#1": {
+   "src": "audio/narration/suchi-19__s1__fab866ed10d0.mp3",
+   "text": "왼칸 흙굴 속엔 온통 검은 옷에 검은 왕관을 쓴 황제가 노트를 펴고 숙제를 해. 지하의 황제는 지황 가족이고, 숙제하는 지하 황제니까 숙지황. 교재는 증법 일번에 지황이라고만 적었어. 칸 가장자리엔 하얀 날생선이 버려졌지, 그림에서 날생선은 날 생의 표지야. 날것을 버리고 숙제, 생숙으로 성질이 바뀐다는 그 말. 황제 옆으로 뚜껑이 들리고, 그 틈으로 김이 앞 바닥으로 쏟아져 내려.",
+   "text_sha256": "fab866ed10d05c0d492ba52767446a9016cde4da6440f6851b35eb0fdb377715",
+   "audio_sha256": "5f2be2ccf58f0037f05ea3ba55dd69414207fe63f495df7630f788e5695a3b8d",
+   "image_sha256": "a846e2c3f5ad67197771c69b4e26b87c2a19c971dfbe47b4b966f94ed0d518d3",
+   "source_commit": "8e1ad7e07c6ff086a8bbf07ea11de6ea66d8486e",
+   "station_sha256": "076ad5a30210c74cd998d4258f33fa92b7acc3b79dfde274bd30ad7eda60741b",
+   "original_wav_sha256": "ab1056a0b47b07c93979fc8a81b4ad8d86991c63a464e4a1840397eeb5078975",
+   "original_wav_filename": "suchi-19.full.wav"
+  },
+  "suchi-19#2": {
+   "src": "audio/narration/suchi-19__s2__019bd0f3f80e.mp3",
+   "text": "쏟아진 김이 바닥으로 흘러들자, 하수구 맨홀에서 오뚝이가 쑥 솟아 까딱까딱. 하수구의 하수, 오뚝이의 오, 하수오. 윤기 나는 새까만 머리가 눈에 띄지? 이름 글자 수오에 머리와 까마귀가 들어 있어. 지황하고 하수오, 지하 둘이 일번 성능 변화, 용약범위. 그림에서는 오뚝이가 칸막이 너머 마네킹까지 닿지는 않으니, 김을 따라 눈을 오른칸으로 옮겨.",
+   "text_sha256": "019bd0f3f80e17ba0b71c7870aaffac8dd752790dbc6f21297dd62654e616446",
+   "audio_sha256": "87c8e437e6222625bcd67ace9e7ad7b1f2cbc0b21c2258359e3d5da441cf2a96",
+   "image_sha256": "a846e2c3f5ad67197771c69b4e26b87c2a19c971dfbe47b4b966f94ed0d518d3",
+   "source_commit": "8e1ad7e07c6ff086a8bbf07ea11de6ea66d8486e",
+   "station_sha256": "a681e8961e5230a747f37f8c78b7b49eb9f330b6381d47cf2f9c5eed56956c44",
+   "original_wav_sha256": "ab1056a0b47b07c93979fc8a81b4ad8d86991c63a464e4a1840397eeb5078975",
+   "original_wav_filename": "suchi-19.full.wav"
+  },
+  "suchi-19#3": {
+   "src": "audio/narration/suchi-19__s3__f4f40dd19aa7.mp3",
+   "text": "대나무 칸막이 너머 오른칸엔 마네킹이 샛노란 정장을 입었는데 너무 꽉 껴. 김을 쐬니 단추가 톡톡 튕겨 나가. 노랑은 누를 황 가족, 정장의 정, 황정. 여기부터가 이번 부작용감소야. 튕긴 단추 하나가 오른쪽으로 날아가 황소 이마로.",
+   "text_sha256": "f4f40dd19aa7cd944753be8d425846a55d1065c7a479232a3329a7256b941fe6",
+   "audio_sha256": "0168cc04b9fb2a972fd3979a4e244e59c61ec0fa573d28a51ecb325558a3afb0",
+   "image_sha256": "a846e2c3f5ad67197771c69b4e26b87c2a19c971dfbe47b4b966f94ed0d518d3",
+   "source_commit": "8e1ad7e07c6ff086a8bbf07ea11de6ea66d8486e",
+   "station_sha256": "7647b3ced374e73fd647d973a5ddd06087ac69adcb6acc71e4c0631892cb8157",
+   "original_wav_sha256": "ab1056a0b47b07c93979fc8a81b4ad8d86991c63a464e4a1840397eeb5078975",
+   "original_wav_filename": "suchi-19.full.wav"
+  },
+  "suchi-19#4": {
+   "src": "audio/narration/suchi-19__s4__ab9634013a61.mp3",
+   "text": "맨 오른쪽 왕좌엔 거대한 누런 황소가 대왕처럼 앉아 있어. 대왕의 대, 황소의 황, 대황. 단추가 이마로 날아와도 눈을 반쯤 감고 배를 느긋이 쓰다듬지, 그림에서는 이게 부작용이 줄어 순해진 모습이야. 황정하고 대황, 황대 둘이 이번 부작용감소. 같은 황소가 술 작업대 주자에선 왕좌째 위로 떠올랐지, 거긴 일번 상행. 술이면 위로, 찜이면 순하게.",
+   "text_sha256": "ab9634013a6169a8b937065893600e5d7c5602695a9efd41de9dc3aba098b6e2",
+   "audio_sha256": "348e7fdd85ac0f74121c5815e5cb3d6296bbdffae059d3c747f6fac5ebe23c51",
+   "image_sha256": "a846e2c3f5ad67197771c69b4e26b87c2a19c971dfbe47b4b966f94ed0d518d3",
+   "source_commit": "8e1ad7e07c6ff086a8bbf07ea11de6ea66d8486e",
+   "station_sha256": "161c6074b7f3407d8ca3bf027e8bd653551bf6522e78c5b83501a220aaf2b3d2",
+   "original_wav_sha256": "ab1056a0b47b07c93979fc8a81b4ad8d86991c63a464e4a1840397eeb5078975",
+   "original_wav_filename": "suchi-19.full.wav"
+  },
+  "suchi-19#5": {
+   "src": "audio/narration/suchi-19__s5__c91a07e1b224.mp3",
+   "text": "한 바퀴. 숙제하는 검은 황제 옆 뚜껑이 들려 김이 쏟아지고, 맨홀 오뚝이가 솟아 까딱, 칸막이 너머 노란 정장 단추가 튕겨 왕좌 황소 이마에 톡, 황소는 느긋. 지하 황대. 그림에서 왼쪽은 검은 둘, 성능 변화, 용약범위. 오른칸은 순해진 둘, 부작용감소. 대황은 주자 일번에도 증법 이번에도 나와서 문제가 목적을 바꿔 내. 초오를 감초, 흑두로 쪄서 독성을 줄인다는 건 수치 목적의 예이지 증법 목록이 아니야. 다음 장은 같은 찜기를 열어 꺼내는 삼번, 사번.",
+   "text_sha256": "c91a07e1b224ee72d3df8d2980ac882bb34f49f347135daec97ff036f9ba5471",
+   "audio_sha256": "0250d5568dd962c9f65a94e8fa8497d8fcfc11886e44a9d78191ed20f23115c5",
+   "image_sha256": "a846e2c3f5ad67197771c69b4e26b87c2a19c971dfbe47b4b966f94ed0d518d3",
+   "source_commit": "8e1ad7e07c6ff086a8bbf07ea11de6ea66d8486e",
+   "station_sha256": "1168cbf71aefce65e4af0a628d2a2af64957808c2c3da9cdbcc8de29ba31f2da",
+   "original_wav_sha256": "ab1056a0b47b07c93979fc8a81b4ad8d86991c63a464e4a1840397eeb5078975",
+   "original_wav_filename": "suchi-19.full.wav"
   }
  }
 }

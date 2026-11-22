@@ -8,3 +8,6 @@ hist-01b
 hist-02a
 hist-02b
 hist-03a
+hist-03b
+hist-03c
+hist-04

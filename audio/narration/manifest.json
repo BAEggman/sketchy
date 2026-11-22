@@ -6963,6 +6963,116 @@
    "station_sha256": "f33c1b3f724b23b6e38dda2f812f0bc37e7057309923f7a62cc5f166bf99fcfe",
    "original_wav_sha256": "adce1e9647043166ee5e815f9c7f7a6bf39eb9db91b4b553b3f6c3613743fd8b",
    "original_wav_filename": "new-jq-05.full.wav"
+  },
+  "new-jq-12#0": {
+   "src": "audio/narration/new-jq-12__s0__8fefa0894b1a.mp3",
+   "text": "언덕 위 서낭당이다. 신이라는 글자는 제단 시에 번개 신, 제단에 번개가 내리친다. 하늘의 큰 뜻부터, 사람 얼굴에 드러나는 생기, 마음속 생각까지가 모두 신이다. 하늘, 춤꾼, 당집 안 임금, 다락 등불, 우물과 화로, 앞쪽 두 사람을 차례로 본다.",
+   "text_sha256": "8fefa0894b1a338fb306634a51caf895232bb16140a1ad0aa52f5afb78977eae",
+   "audio_sha256": "e836cf23be609bba97e5024b03bc1ce1e8fb3b5bffb2d5325daa272ff1fc8e88",
+   "image_sha256": "ffb268249c130738dcee9a41f5575dedf358c4c1d6d740cc727d9473a052d884",
+   "source_commit": "2482bc9f139975b3976b95a8ba6e7b4bab23602e",
+   "station_sha256": "5c5655ce7153bc0486e359a25eb5a5881521ad5abc13f938f34f01a2a8efaf26",
+   "original_wav_sha256": "3d85985aff95183a49077210ebce7c7c3a87e8cac1c978a46437986d6322004a",
+   "original_wav_filename": "new-jq-12.full.wav"
+  },
+  "new-jq-12#1": {
+   "src": "audio/narration/new-jq-12__s1__004ae82c71aa.mp3",
+   "text": "하늘이 반은 낮, 반은 밤이다, 해와 달이 번갈아 도는 천지의 법칙. 그 법칙을 주재하는 것이 자연 측면의 신, 넓은 뜻의 신이다. 음양불측위지신, 음양이 헤아릴 수 없이 바뀌는 것을 신이라 한다.",
+   "text_sha256": "004ae82c71aa4f06b26db845f06dd92f1ec4808a74589d37ac8f4d84f939f2f0",
+   "audio_sha256": "4ce3814d46334c70a2acd83b89570662c76420bd57f768d74e7a00f9aae55366",
+   "image_sha256": "ffb268249c130738dcee9a41f5575dedf358c4c1d6d740cc727d9473a052d884",
+   "source_commit": "2482bc9f139975b3976b95a8ba6e7b4bab23602e",
+   "station_sha256": "43201a7e8f0aa081d86ded06a1a6ffac038d0a061373594a5013cb77fce28862",
+   "original_wav_sha256": "3d85985aff95183a49077210ebce7c7c3a87e8cac1c978a46437986d6322004a",
+   "original_wav_filename": "new-jq-12.full.wav"
+  },
+  "new-jq-12#2": {
+   "src": "audio/narration/new-jq-12__s2__f3f5c4eca97f.mp3",
+   "text": "오른쪽 춤꾼을 본다. 볼이 발그레하다, 면색. 눈이 반짝인다, 안신, 눈빛. 입 벌려 노래한다, 언어. 팔다리를 흔든다, 지체활동. 생명활동이 밖으로 드러난 모습, 사람 측면의 넓은 뜻 신이다.",
+   "text_sha256": "f3f5c4eca97f6a412ef9397188d9054ad3cb1206d569d6927c9848032e1e3ef3",
+   "audio_sha256": "9fab1368f55c50da1000349f5a05e86ae0a484a549ee6c237b2171e76c7b8073",
+   "image_sha256": "ffb268249c130738dcee9a41f5575dedf358c4c1d6d740cc727d9473a052d884",
+   "source_commit": "2482bc9f139975b3976b95a8ba6e7b4bab23602e",
+   "station_sha256": "08376107e354a48d87dc964994cdd44dbc9c5b9117616297a8963b279c8e6301",
+   "original_wav_sha256": "3d85985aff95183a49077210ebce7c7c3a87e8cac1c978a46437986d6322004a",
+   "original_wav_filename": "new-jq-12.full.wav"
+  },
+  "new-jq-12#3": {
+   "src": "audio/narration/new-jq-12__s3__63badd613d0c.mp3",
+   "text": "당집 안 임금이 턱을 괴고 생각에 잠겼고 머리 위에 전구가 켜졌다. 임금은 심, 심이 주재하는 정신과 사유활동이 좁은 뜻의 신이다. 넓은 뜻은 춤꾼처럼 얼굴, 눈빛, 말, 몸짓으로 드러난 것, 좁은 뜻은 속에서 하는 생각이다.",
+   "text_sha256": "63badd613d0ccb6fcac16c374e7c212c52bd72f105723d5dfc66f1a47b36ab1c",
+   "audio_sha256": "219f8483a138317b33d41d4ffc68791addfcb234b951d55b117dfa7522603fe2",
+   "image_sha256": "ffb268249c130738dcee9a41f5575dedf358c4c1d6d740cc727d9473a052d884",
+   "source_commit": "2482bc9f139975b3976b95a8ba6e7b4bab23602e",
+   "station_sha256": "c2a8fd1489f6535ce6f0ed7df226fafd9e035acb5bfd3b7b667f0912c32f0e40",
+   "original_wav_sha256": "3d85985aff95183a49077210ebce7c7c3a87e8cac1c978a46437986d6322004a",
+   "original_wav_filename": "new-jq-12.full.wav"
+  },
+  "new-jq-12#4": {
+   "src": "audio/narration/new-jq-12__s4__9a08686b6429.mp3",
+   "text": "번개가 예고 없이 제단에 내리꽂힌다, 변화불측위지신, 변화를 헤아릴 수 없는 것이 신이다. 카드는 출전을 영추 본신이라 적었는데, 의심 표시가 붙어 있다. 제단 위 쌀밥과 과일, 신자수곡지정기야, 영추 평인절곡. 신은 먹은 음식의 정미로운 기운으로 길러진다.",
+   "text_sha256": "9a08686b64297a87844315841e90e1ac28ba06a3377d97953da494e1caf7ee97",
+   "audio_sha256": "9535809d6ab564af552ecd9610fdeeef10ca89b128e05b422f850d6746df8445",
+   "image_sha256": "ffb268249c130738dcee9a41f5575dedf358c4c1d6d740cc727d9473a052d884",
+   "source_commit": "2482bc9f139975b3976b95a8ba6e7b4bab23602e",
+   "station_sha256": "38dc3e94280372d407725d3513b30e16a69184e633f022dadd98fea136f57348",
+   "original_wav_sha256": "3d85985aff95183a49077210ebce7c7c3a87e8cac1c978a46437986d6322004a",
+   "original_wav_filename": "new-jq-12.full.wav"
+  },
+  "new-jq-12#5": {
+   "src": "audio/narration/new-jq-12__s5__293294d175a9.mp3",
+   "text": "앞쪽 오른쪽, 환한 등불, 신을 든 남자는 꼿꼿이 서서 웃는다, 득신자창, 신을 얻은 이는 번성한다. 옆의 남자는 등이 꺼져 연기만 나고, 잿빛 얼굴로 쓰러졌다, 실신자망, 신을 잃은 이는 죽는다. 소문 이정변기론.",
+   "text_sha256": "293294d175a9d3f4dd77cb28023fbd52e10ed3afdd298b6ee42c6e92914bbf15",
+   "audio_sha256": "8927a2533d3ad82933f1c72edb25050901b11d7185180d879d4e3661656adaea",
+   "image_sha256": "ffb268249c130738dcee9a41f5575dedf358c4c1d6d740cc727d9473a052d884",
+   "source_commit": "2482bc9f139975b3976b95a8ba6e7b4bab23602e",
+   "station_sha256": "2f5ea5a4f5c1b5729255c9c279f888326d3ec1234620ffa641c21fe0d9b04659",
+   "original_wav_sha256": "3d85985aff95183a49077210ebce7c7c3a87e8cac1c978a46437986d6322004a",
+   "original_wav_filename": "new-jq-12.full.wav"
+  },
+  "new-jq-12#6": {
+   "src": "audio/narration/new-jq-12__s6__28c13f6f7b0a.mp3",
+   "text": "옥좌의 임금에게서 금빛 빛살이 사방으로 뻗는다. 소문 영란비전론, 심자 군주지관 신명출언. 심은 임금의 벼슬이고, 신명이 거기서 나온다.",
+   "text_sha256": "28c13f6f7b0a6d793c21ac1d6ae14bd0680bde49fce4733502d2c2d147149467",
+   "audio_sha256": "b8e4a5c95f4c30ef28971883f7b4e210f6b73df6efd01b60d6ac0173e4347034",
+   "image_sha256": "ffb268249c130738dcee9a41f5575dedf358c4c1d6d740cc727d9473a052d884",
+   "source_commit": "2482bc9f139975b3976b95a8ba6e7b4bab23602e",
+   "station_sha256": "e7bee0f899ac09dbedd042e20bcc43dec18e740163fd0b0a50dd95624797b4ca",
+   "original_wav_sha256": "3d85985aff95183a49077210ebce7c7c3a87e8cac1c978a46437986d6322004a",
+   "original_wav_filename": "new-jq-12.full.wav"
+  },
+  "new-jq-12#7": {
+   "src": "audio/narration/new-jq-12__s7__0696338180e3.mp3",
+   "text": "당집 아래층은 새빨간 방, 강궁, 붉은 궁궐이다. 강궁위신지사, 심이 신의 집이다. 위층은 머리 모양 흙 다락, 진흙 공 이환, 이환위신지부, 뇌가 신의 곳간이다. 그 안에도 등불이 탄다. 황정도 뇌를 가리킨다.",
+   "text_sha256": "0696338180e36e750732494376f097fcd4317e8dc2c48419fff526705a0a13c5",
+   "audio_sha256": "4ccc9fc80114577f12a5a830d51c40ee7a867e72fa3524c8051fea55eae0e4d9",
+   "image_sha256": "ffb268249c130738dcee9a41f5575dedf358c4c1d6d740cc727d9473a052d884",
+   "source_commit": "2482bc9f139975b3976b95a8ba6e7b4bab23602e",
+   "station_sha256": "a4d8b93355d96c2c40f74802f8c7a1f6a41e52ea0c8f728faaa3e90c7bbf63b6",
+   "original_wav_sha256": "3d85985aff95183a49077210ebce7c7c3a87e8cac1c978a46437986d6322004a",
+   "original_wav_filename": "new-jq-12.full.wav"
+  },
+  "new-jq-12#8": {
+   "src": "audio/narration/new-jq-12__s8__8b213c661321.mp3",
+   "text": "앞쪽 왼쪽, 우물 곁에서 대머리 장사, 신이 과녁을 겨눈다, 뜻을 두고 겨누는 것, 지. 수지정위지, 물의 정은 지가 된다. 당집 오른쪽 화로가 활활 탄다, 화지정위신, 불의 정은 신이 된다. 그래서 신은 지를, 심은 신을 갈무리한다. 황원어 소문현해.",
+   "text_sha256": "8b213c661321017670b6b4d4b527b92b9646ad56c549cf3ccb968d379e9ede32",
+   "audio_sha256": "394e31bb91428b82a5a3e69a9bd5f2f7efe33374271b0b4b743ca07486e402b3",
+   "image_sha256": "ffb268249c130738dcee9a41f5575dedf358c4c1d6d740cc727d9473a052d884",
+   "source_commit": "2482bc9f139975b3976b95a8ba6e7b4bab23602e",
+   "station_sha256": "1329eb0cefc17767a84ae5845e0a548faf51cbf3ac386fc810ac9befbade1b6c",
+   "original_wav_sha256": "3d85985aff95183a49077210ebce7c7c3a87e8cac1c978a46437986d6322004a",
+   "original_wav_filename": "new-jq-12.full.wav"
+  },
+  "new-jq-12#9": {
+   "src": "audio/narration/new-jq-12__s9__3b5dfa527be1.mp3",
+   "text": "다시 본다. 낮밤 하늘, 자연의 신, 음양불측. 춤꾼의 얼굴, 눈빛, 노래, 춤, 사람의 넓은 신. 생각하는 임금, 좁은 신, 심의 사유. 번개와 쌀밥, 변화불측, 수곡지정기. 등불 든 사람과 쓰러진 사람, 득신자창 실신자망. 임금의 빛, 심자군주지관 신명출언. 붉은 방 강궁은 심, 흙 다락 이환은 뇌. 우물가 궁수와 화로, 수지정위지 화지정위신.",
+   "text_sha256": "3b5dfa527be13846687405e846c2289c2e8205e1f97668995020cc97525a11f3",
+   "audio_sha256": "2178267edac8e5b692b27c34a9c7d57fb240d5e9f23317a531da5564a42a9e0d",
+   "image_sha256": "ffb268249c130738dcee9a41f5575dedf358c4c1d6d740cc727d9473a052d884",
+   "source_commit": "2482bc9f139975b3976b95a8ba6e7b4bab23602e",
+   "station_sha256": "66229d9918fcf9618887264e75532e2114e21abf7d3a8aa1155a78d11af03020",
+   "original_wav_sha256": "3d85985aff95183a49077210ebce7c7c3a87e8cac1c978a46437986d6322004a",
+   "original_wav_filename": "new-jq-12.full.wav"
   }
  }
 }

@@ -9273,6 +9273,72 @@
    "station_sha256": "e9aa224716cfe03c94316471ab9c6487e61274c209e455c0caaf4837c8811c92",
    "original_wav_sha256": "2e77aa9a2a1f19457477b3cdd48d8d70d9838244839c8bdfc56c26a54d7246d0",
    "original_wav_filename": "new-gr-39.full.wav"
+  },
+  "new-gr-40#0": {
+   "src": "audio/narration/new-gr-40__s0__89ebec583a8f.mp3",
+   "text": "동원 십이경 인경보사, 경락마다 약을 이끄는 길잡이 약물 과다. 장소는 열두 대문 역참, 장원소, 이동원의 인경보사 약물이 각 경락 문으로 들어가는 역참. 정본 경락 인물과 공용 부호, 뜻, 소리 고리를 따라 차례로 읽는다.",
+   "text_sha256": "89ebec583a8f480a050fb29a5c443b15a848888cd6e4a5646a5601376c072e24",
+   "audio_sha256": "a3b93043d2c2c4ca1154c6b7b552fc0b071e2b27d546daddbe442fb354f1dc9d",
+   "image_sha256": "f1db9e36ffd7f77403af7e0cd7177b226fce3ed96602e1940582d0da33bdf934",
+   "source_commit": "70b00a7e0b9ab1274cfdd0ef94697d8f86e1adc0",
+   "station_sha256": "36054dd9d1a64ff052fe178440d4c70d2751db1eb1f4dc6cf389f9160fbee9cd",
+   "original_wav_sha256": "96328aad0478362ef0eac48ebff36a3f3ecbb51fa7122995100b40f82d49dbc3",
+   "original_wav_filename": "new-gr-40.full.wav"
+  },
+  "new-gr-40#1": {
+   "src": "audio/narration/new-gr-40__s1__eb22cd8a8908.mp3",
+   "text": "열두 대문 역참의 #1 정거장이다. 수태음폐, 승마, 백지, 총백, 길경, 수양명대장, 백지, 승마, 석고.",
+   "text_sha256": "eb22cd8a89089df080b8cf31623b5767ca277c24eaabfc094117f4dc6aac7d41",
+   "audio_sha256": "00ff2c0c98b53df1dac85ca0338995c100277794abe735ff78a4a724f0f87af8",
+   "image_sha256": "f1db9e36ffd7f77403af7e0cd7177b226fce3ed96602e1940582d0da33bdf934",
+   "source_commit": "70b00a7e0b9ab1274cfdd0ef94697d8f86e1adc0",
+   "station_sha256": "44822f463f3982c626f6abd8621c65fd0accb8cf2ce3c1bd24f9dd3bb4978380",
+   "original_wav_sha256": "96328aad0478362ef0eac48ebff36a3f3ecbb51fa7122995100b40f82d49dbc3",
+   "original_wav_filename": "new-gr-40.full.wav"
+  },
+  "new-gr-40#2": {
+   "src": "audio/narration/new-gr-40__s2__2ca7fc213954.mp3",
+   "text": "열두 대문 역참의 #2 정거장이다. 족양명위, 백지, 승마, 석고, 갈근, 족태음비, 승마, 창출, 갈근, 백작.",
+   "text_sha256": "2ca7fc213954c074e9038ed6bc8471aedc00f98ee967ef572b31d0e00196bf63",
+   "audio_sha256": "8995751d01a38cb9b507dd7b3c8112d27e74bcb70899e636bebd30dd98d1cf51",
+   "image_sha256": "f1db9e36ffd7f77403af7e0cd7177b226fce3ed96602e1940582d0da33bdf934",
+   "source_commit": "70b00a7e0b9ab1274cfdd0ef94697d8f86e1adc0",
+   "station_sha256": "c28614848989cffc4b789c1f08ba82f0151cc8cad98d77d5dae323749f8a7de8",
+   "original_wav_sha256": "96328aad0478362ef0eac48ebff36a3f3ecbb51fa7122995100b40f82d49dbc3",
+   "original_wav_filename": "new-gr-40.full.wav"
+  },
+  "new-gr-40#3": {
+   "src": "audio/narration/new-gr-40__s3__d8c8ac22822f.mp3",
+   "text": "열두 대문 역참의 #3 정거장이다. 수소음심, 황련, 세신, 수태양소장, 고본, 황백, 족태양방광, 강활, 족소음신, 독활, 지모, 육계, 세신.",
+   "text_sha256": "d8c8ac22822f235dfac64717cb86a3241fc9fa79a25eb7679afdc490e57ab72d",
+   "audio_sha256": "e67dc4f28fd733ff555392fd9efbd842a1db71fad5665b9fad0fc694814d17f8",
+   "image_sha256": "f1db9e36ffd7f77403af7e0cd7177b226fce3ed96602e1940582d0da33bdf934",
+   "source_commit": "70b00a7e0b9ab1274cfdd0ef94697d8f86e1adc0",
+   "station_sha256": "0e9f418b2f22146f562335f7cf85d4af7ec2dfde26c84723c97202bbc8946ece",
+   "original_wav_sha256": "96328aad0478362ef0eac48ebff36a3f3ecbb51fa7122995100b40f82d49dbc3",
+   "original_wav_filename": "new-gr-40.full.wav"
+  },
+  "new-gr-40#4": {
+   "src": "audio/narration/new-gr-40__s4__49f626f4ccd6.mp3",
+   "text": "열두 대문 역참의 #4 정거장이다. 수궐음심포, 시호, 모단피, 수소양삼초, 시호, 연교, 상초황금, 중초청피, 하초부자, 족소양담, 시호, 청피, 족궐음간, 시호, 천궁, 청피, 오수유.",
+   "text_sha256": "49f626f4ccd6ac794d19fbaf6b49c699a5dbf52d48d4d13ca2deacd219796c8e",
+   "audio_sha256": "622e02c129afb71a6cf10ff959ebe20ea746abc2bde0328675f727791363f088",
+   "image_sha256": "f1db9e36ffd7f77403af7e0cd7177b226fce3ed96602e1940582d0da33bdf934",
+   "source_commit": "70b00a7e0b9ab1274cfdd0ef94697d8f86e1adc0",
+   "station_sha256": "816a204ec975cf14bc9a8929e89e7dafa16052c8ccab66a92150c85c439c2eba",
+   "original_wav_sha256": "96328aad0478362ef0eac48ebff36a3f3ecbb51fa7122995100b40f82d49dbc3",
+   "original_wav_filename": "new-gr-40.full.wav"
+  },
+  "new-gr-40#5": {
+   "src": "audio/narration/new-gr-40__s5__c498ebe020bf.mp3",
+   "text": "처음부터 한 바퀴 되짚는다. 수태음폐, 승마, 백지, 총백, 길경, 수양명대장, 백지, 승마, 석고, / 족양명위, 백지, 승마, 석고, 갈근, 족태음비, 승마, 창출, 갈근, 백작, / 수소음심, 황련, 세신, 수태양소장, 고본, 황백, 족태양방광, 강활, 족소음신, 독활, 지모, 육계, 세신, / 수궐음심포, 시호, 모단피, 수소양삼초, 시호, 연교, 상초황금, 중초청피, 하초부자, 족소양담, 시호, 청피,",
+   "text_sha256": "c498ebe020bf50df5b5b7d090350353fe933f4670a2e83fd679d0716014b700b",
+   "audio_sha256": "dd0dfe9e826167c9670661d493740c7f63c874a55562b8c66c2626e42092f3f9",
+   "image_sha256": "f1db9e36ffd7f77403af7e0cd7177b226fce3ed96602e1940582d0da33bdf934",
+   "source_commit": "70b00a7e0b9ab1274cfdd0ef94697d8f86e1adc0",
+   "station_sha256": "415237c270e2f3cd65747851cf1660fa3497d38019eb6f6d66577dd25e7c8762",
+   "original_wav_sha256": "96328aad0478362ef0eac48ebff36a3f3ecbb51fa7122995100b40f82d49dbc3",
+   "original_wav_filename": "new-gr-40.full.wav"
   }
  }
 }

@@ -10010,6 +10010,72 @@
    "station_sha256": "4a3f3c7bf7a7301a8ec1e0f751a7dacb561b8a4162a2bc461ff17468b1eab250",
    "original_wav_sha256": "16c1765e39788a92ba6cca121cd792768405d78eb6dfbc5c2826f2ebfa9702f6",
    "original_wav_filename": "new-gr-09.full.wav"
+  },
+  "new-gr-42#0": {
+   "src": "audio/narration/new-gr-42__s0__7ec055170fe6.mp3",
+   "text": "유주 원문 ① 폐, 대장, 기어중초, 환순위구, 입하치, 교인중, 상협비공 과다. 장소는 순례길 1구간, 금빛 호흡 고개, 폐 노인와 대장 흰 작업복의 원문 굴곡점. 정본 경락 인물과 공용 부호, 뜻, 소리 고리를 따라 차례로 읽는다.",
+   "text_sha256": "7ec055170fe6ceff32a9713a06d87182fcee3cf24eeb08c9cb21b34fef933e0e",
+   "audio_sha256": "2411e2e409a80eb68481b691108fcacf70338aed92ae4a2a40cd2fc8d32cc920",
+   "image_sha256": "658a5d45603670896de33d7ef4d49da552929f88501fcc69f58e01f97c067f10",
+   "source_commit": "96507ada6781e989d134ba3d19a267c69a8a8f2a",
+   "station_sha256": "2882cf9ddbe31c1a9838aa17f4ac1334991df1565aa0712ae6e7464ecaec4bf4",
+   "original_wav_sha256": "f23cca96241484c4e6a50f8eef607596526402daa2f50338cc9873c35da81425",
+   "original_wav_filename": "new-gr-42.full.wav"
+  },
+  "new-gr-42#1": {
+   "src": "audio/narration/new-gr-42__s1__4754a3244829.mp3",
+   "text": "순례길 1구간 금빛 호흡 고개의 #1 정거장이다. 폐경 원문: 기어중초, 하락대장, 환순위구, 상격속폐, 종폐계횡출액하.",
+   "text_sha256": "4754a3244829b7c14b66acb2e67431661d72fb339319414b13186825d5558d85",
+   "audio_sha256": "4ecf5dce5261e31b14b1e4f12efb524d4b7e1a5407ce7e6445f64bf85846ff7f",
+   "image_sha256": "658a5d45603670896de33d7ef4d49da552929f88501fcc69f58e01f97c067f10",
+   "source_commit": "96507ada6781e989d134ba3d19a267c69a8a8f2a",
+   "station_sha256": "05656c6cc3f38795123adcebe5592ba5537bbb624561dcebf7f3a70013b3808a",
+   "original_wav_sha256": "f23cca96241484c4e6a50f8eef607596526402daa2f50338cc9873c35da81425",
+   "original_wav_filename": "new-gr-42.full.wav"
+  },
+  "new-gr-42#2": {
+   "src": "audio/narration/new-gr-42__s2__1633bacb7f7a.mp3",
+   "text": "순례길 1구간 금빛 호흡 고개의 #2 정거장이다. 폐경 원문: 행소음심주지전, 입촌구 상어 순어제, 출대지지단, 지자 출차지내렴.",
+   "text_sha256": "1633bacb7f7a43c808beca60511ccbe9fbc2204f480ae85d72914d9139aa1d5b",
+   "audio_sha256": "3b1e742ef41bbc7d49347392374d3e54f7431152337609d0102cd2895a66fe5b",
+   "image_sha256": "658a5d45603670896de33d7ef4d49da552929f88501fcc69f58e01f97c067f10",
+   "source_commit": "96507ada6781e989d134ba3d19a267c69a8a8f2a",
+   "station_sha256": "80b353c89a4a5691597e1e94ecff5bdeca3471a69b0c5944485e4a3ff68ca704",
+   "original_wav_sha256": "f23cca96241484c4e6a50f8eef607596526402daa2f50338cc9873c35da81425",
+   "original_wav_filename": "new-gr-42.full.wav"
+  },
+  "new-gr-42#3": {
+   "src": "audio/narration/new-gr-42__s3__c52309ed34fe.mp3",
+   "text": "순례길 1구간 금빛 호흡 고개의 #3 정거장이다. 대장경 원문: 기어대지차지지단, 출합곡량골지간, 출우골지전렴, 상출어주골지회상, 대추.",
+   "text_sha256": "c52309ed34fea229215f2b7bf28b729bdcee2fda703245b8cbf1b2eefe03e5c7",
+   "audio_sha256": "99a691f7c296de4fbf6e0e2b0a731012f24bb91c54865ae09ec7d0457e0f5613",
+   "image_sha256": "658a5d45603670896de33d7ef4d49da552929f88501fcc69f58e01f97c067f10",
+   "source_commit": "96507ada6781e989d134ba3d19a267c69a8a8f2a",
+   "station_sha256": "f4d5c3df8177438fce9c843a3d08f1d0bc45c3bdc47279ea4e4ca7bf71e5dc45",
+   "original_wav_sha256": "f23cca96241484c4e6a50f8eef607596526402daa2f50338cc9873c35da81425",
+   "original_wav_filename": "new-gr-42.full.wav"
+  },
+  "new-gr-42#4": {
+   "src": "audio/narration/new-gr-42__s4__5e88a2ec479e.mp3",
+   "text": "순례길 1구간 금빛 호흡 고개의 #4 정거장이다. 대장경 원문: 하입결분 낙폐 하격속대장, 지자 입하치중, 교인중 좌지우 우지좌 상협비공.",
+   "text_sha256": "5e88a2ec479eb028c1905da4cfb12e7ee2bf3d55ba3fd3df6b8fe2ceb681275d",
+   "audio_sha256": "92f8fe890be2978dd4ee5772fae9145f895d0770eb5f91b5c63e967f167287ac",
+   "image_sha256": "658a5d45603670896de33d7ef4d49da552929f88501fcc69f58e01f97c067f10",
+   "source_commit": "96507ada6781e989d134ba3d19a267c69a8a8f2a",
+   "station_sha256": "e18d672654efb61a747e1a3b7ffcc7e62781e3dc3b06e245985ae403c840c2e5",
+   "original_wav_sha256": "f23cca96241484c4e6a50f8eef607596526402daa2f50338cc9873c35da81425",
+   "original_wav_filename": "new-gr-42.full.wav"
+  },
+  "new-gr-42#5": {
+   "src": "audio/narration/new-gr-42__s5__a2bed4ba01a6.mp3",
+   "text": "처음부터 한 바퀴 되짚는다. 폐경 원문: 기어중초, 하락대장, 환순위구, 상격속폐, 종폐계횡출액하 / 폐경 원문: 행소음심주지전, 입촌구 상어 순어제, 출대지지단, 지자 출차지내렴, / 대장경 원문: 기어대지차지지단, 출합곡량골지간, 출우골지전렴, 상출어주골지회상, 대추, / 대장경 원문: 하입결분 낙폐 하격속대장, 지자 입하치중, 교인중 좌지우 우지좌 상협비공",
+   "text_sha256": "a2bed4ba01a6689ffaea192603f9387a2fe9bd0849c0d35093672cc2ea229b1d",
+   "audio_sha256": "335a4db3a1f93f1c96b53280d682b7244203e214f485f1128a8b7b42196b25cb",
+   "image_sha256": "658a5d45603670896de33d7ef4d49da552929f88501fcc69f58e01f97c067f10",
+   "source_commit": "96507ada6781e989d134ba3d19a267c69a8a8f2a",
+   "station_sha256": "6d214608deb197b98ba5a23d827304b29e9f184367c6d59593c6f704f19aee2b",
+   "original_wav_sha256": "f23cca96241484c4e6a50f8eef607596526402daa2f50338cc9873c35da81425",
+   "original_wav_filename": "new-gr-42.full.wav"
   }
  }
 }

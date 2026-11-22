@@ -11517,6 +11517,94 @@
    "station_sha256": "21cb65ddfe8bfed7a520a8c54df69fa75abee13c8c463774982bbb166d57a534",
    "original_wav_sha256": "e3c916ce9b55b8a06e1a58d28582f63f1c12a010e92816442b11e5219b71fcfd",
    "original_wav_filename": "new-gr-13.full.wav"
+  },
+  "new-gr-14#0": {
+   "src": "audio/narration/new-gr-14__s0__ba385231d8ac.mp3",
+   "text": "서커스 천막이다. 앞 과 댐 위의 관리인들이 여기서 재주를 부린다. 가운데 허리띠 곡예사, 대맥. 그물을 든 둘, 유는 그물의 벼리, 얽어 맨다. 죽마 광대 둘, 교는 발꿈치를 든다, 고교는 죽마다. 달 배지는 음, 해 배지는 양. 셋을 한데 묻는 문항이 많으니 기능으로 가른다, 대는 묶고, 유는 잇고, 교는 움직인다.",
+   "text_sha256": "ba385231d8ac505024e58a702663f4dc7b36786fcbd6b2262012bb413eea2868",
+   "audio_sha256": "4854e2c8c0f41274c38891a362a3f7e0ad525696b294cc05989ef90726c54661",
+   "image_sha256": "ab7defee5642871a442fd64dfc197ee33ec506756ffa880fada337c7f6238ee0",
+   "source_commit": "d5d67407e3fb0737df1dbbc355b452747ea2619d",
+   "station_sha256": "1e04af122be8d111aacad040e7f5cb5bec045c09ede4ccfda41612dbcfeb18ae",
+   "original_wav_sha256": "e13b87aaa3bd914936aff5816eab3b98e4a417dd8843ad59c783564c8f21bc2b",
+   "original_wav_filename": "new-gr-14.full.wav"
+  },
+  "new-gr-14#1": {
+   "src": "audio/narration/new-gr-14__s1__7eb1c4a8a72b.mp3",
+   "text": "가운데, 천막 꼭대기에서 여러 색 리본이 곧게 내려온다, 세로로 가는 여러 경이다. 곡예사 허리의 큰 가죽 띠가 그것들을 한 바퀴 돌아 꽉 묶었다, 대맥, 기경 중 유일한 횡행맥. 약속제맥, 모든 경을 묶어 함부로 날뛰지 못하게 한다, 부득망행. 띠 아래로는 리본이 흩어져 늘어지고, 흰 가닥 둘이 바닥까지 처졌다, 대맥이 약해 묶지 못하면 월사불화, 적백대하.",
+   "text_sha256": "7eb1c4a8a72be1885db8f565749fb1546316354febe020a1becba213c368cbcd",
+   "audio_sha256": "d308f8d8b3f227d4333acd44bb94157a6987808da92f3464b8b6d47f0d04f7ed",
+   "image_sha256": "ab7defee5642871a442fd64dfc197ee33ec506756ffa880fada337c7f6238ee0",
+   "source_commit": "d5d67407e3fb0737df1dbbc355b452747ea2619d",
+   "station_sha256": "ea54afc18a58167ecd168cb0b3813f66a3224cfce6630be86bdf9d905eca9491",
+   "original_wav_sha256": "e13b87aaa3bd914936aff5816eab3b98e4a417dd8843ad59c783564c8f21bc2b",
+   "original_wav_filename": "new-gr-14.full.wav"
+  },
+  "new-gr-14#2": {
+   "src": "audio/narration/new-gr-14__s2__ea7953ceca6a.mp3",
+   "text": "띠는 옆구리 갈비 끝, 계협에서 시작해 몸을 한 바퀴 돈다. 띠 옆면에 둥근 징이 셋, 대맥이 쓰는 혈은 셋, 대맥, 오추, 유도. 모두 족소양담경의 혈이다. 그래서 버클을 채우는 이가 저울 든 초록 옷 재판관, 담이다.",
+   "text_sha256": "ea7953ceca6a9afb7849da4414a1099de29d1eb8df369a9a1992c8d8d02cabd8",
+   "audio_sha256": "3b8676fdb5cb7b2281d845a69ba789f16a929db3415eb243efe89712a578c3bc",
+   "image_sha256": "ab7defee5642871a442fd64dfc197ee33ec506756ffa880fada337c7f6238ee0",
+   "source_commit": "d5d67407e3fb0737df1dbbc355b452747ea2619d",
+   "station_sha256": "9c4e7a7496a257f551ba63dd053b8e3ece5181bad7b4b00a5777775bd6883ebd",
+   "original_wav_sha256": "e13b87aaa3bd914936aff5816eab3b98e4a417dd8843ad59c783564c8f21bc2b",
+   "original_wav_filename": "new-gr-14.full.wav"
+  },
+  "new-gr-14#3": {
+   "src": "audio/narration/new-gr-14__s3__960ac71ac44b.mp3",
+   "text": "왼쪽, 달 배지 사내가 링 안쪽에 웅크린 무리를 남색 그물로 감싸 쥔다, 음유맥. 유락제음, 수족 삼음경과 임맥을 그물처럼 얽어 잇는다. 안쪽이니 주리, 영에 속한다, 속영. 사내는 가슴을 누르며 괴로워한다, 음유위병 고심통. 길은 종아리 안쪽 축빈에서 시작해 목 앞 염천에 이른다.",
+   "text_sha256": "960ac71ac44bfb86bf920757f7c61d13b04c0f60ef9014b7061bb365b5d1e018",
+   "audio_sha256": "1d0897423a4d8fbe2454ad6ad91b95af4d2aef0b4d6d364c4420a95101554337",
+   "image_sha256": "ab7defee5642871a442fd64dfc197ee33ec506756ffa880fada337c7f6238ee0",
+   "source_commit": "d5d67407e3fb0737df1dbbc355b452747ea2619d",
+   "station_sha256": "0484cefd9fdc2f6a16cc38f1cdbf4cb4a3f7ebdc10b16b49d3bd5c6e0318a095",
+   "original_wav_sha256": "e13b87aaa3bd914936aff5816eab3b98e4a417dd8843ad59c783564c8f21bc2b",
+   "original_wav_filename": "new-gr-14.full.wav"
+  },
+  "new-gr-14#4": {
+   "src": "audio/narration/new-gr-14__s4__9145b053dfeb.mp3",
+   "text": "오른쪽 천막 가장자리, 해 배지 사내가 링 바깥에 금빛 그물을 펼쳤다, 양유맥. 유락제양, 수족 삼양경과 독맥을 얽어 잇는다. 바깥이니 주표, 곁의 갈색 개처럼 위에 속한다, 속위. 음유는 안, 영, 양유는 겉, 위, 거꾸로 바꾸는 함정이 단골이다.",
+   "text_sha256": "9145b053dfeb13a0ffda3f2d90fdb36b2f347bc5ff606099ddfaf343c5e03c1e",
+   "audio_sha256": "d6f2c759d7060de79c31d70a821f3d7e09601241ae3abff1e199447b224f5d5e",
+   "image_sha256": "ab7defee5642871a442fd64dfc197ee33ec506756ffa880fada337c7f6238ee0",
+   "source_commit": "d5d67407e3fb0737df1dbbc355b452747ea2619d",
+   "station_sha256": "dda8ccca3500146d7f7d3d6c3efd4608034071023823fc5a41294bd6fd0c7fd8",
+   "original_wav_sha256": "e13b87aaa3bd914936aff5816eab3b98e4a417dd8843ad59c783564c8f21bc2b",
+   "original_wav_filename": "new-gr-14.full.wav"
+  },
+  "new-gr-14#5": {
+   "src": "audio/narration/new-gr-14__s5__48b70f24dbb1.mp3",
+   "text": "앞쪽 죽마 광대 둘, 교맥. 죽마를 타니 다리의 움직임, 하지 운동을 맡는다. 해 배지 광대는 눈을 부릅뜨고 깨어 있고, 달 배지 광대는 눈을 감고 잠들었다, 교맥은 눈꺼풀을 열고 닫는다, 안검 개합. 위기가 양교로 돌면 눈이 뜨여 깨고 오, 음교로 돌면 눈이 감겨 잔다 매. 그래서 주일신지동정. 유맥의 연락 기능과 바꾸는 함정에 주의. 일신지동정을 독맥에 붙인 카드도 있어 엇갈린다.",
+   "text_sha256": "48b70f24dbb1e96082d9bf6f95469b1de92bad83c624ad4d4bca86ad64f703e0",
+   "audio_sha256": "07dd60be363480470c4ff500d53ecddbe99a812d2df6435d9183ed8ab59e8670",
+   "image_sha256": "ab7defee5642871a442fd64dfc197ee33ec506756ffa880fada337c7f6238ee0",
+   "source_commit": "d5d67407e3fb0737df1dbbc355b452747ea2619d",
+   "station_sha256": "ea2a33bef9a572cfc4ac4731021b2b21457a4328c5e8863e02073138c905f992",
+   "original_wav_sha256": "e13b87aaa3bd914936aff5816eab3b98e4a417dd8843ad59c783564c8f21bc2b",
+   "original_wav_filename": "new-gr-14.full.wav"
+  },
+  "new-gr-14#6": {
+   "src": "audio/narration/new-gr-14__s6__3360b942086d.mp3",
+   "text": "기시와 종지를 광대 몸에 짚는다. 해 배지 광대, 양교는 바깥 복사뼈 아래 신맥에서 일어나 목덜미 풍부에 이른다. 달 배지 광대, 음교는 발 안쪽 연곡에서 일어나 눈 안쪽 구석 정명에 이른다. 잠과 눈이 걸린 맥이라 끝이 눈과 머리다. 함께 묻는 것, 대는 계협에서 일어나고, 음유는 축빈에서 염천까지, 병은 고심통.",
+   "text_sha256": "3360b942086d2320457ef0fe2cf84bf688cfde47c4985daf54039958b53b497e",
+   "audio_sha256": "337dc0225f774a38f8f7b8d447399ca1f5add1a42c5546ce166ec7cc7ff81ccd",
+   "image_sha256": "ab7defee5642871a442fd64dfc197ee33ec506756ffa880fada337c7f6238ee0",
+   "source_commit": "d5d67407e3fb0737df1dbbc355b452747ea2619d",
+   "station_sha256": "b43c0efa96a59101fd2508d39c76f73e1c12d49f3a36fe6365898b123e84ef72",
+   "original_wav_sha256": "e13b87aaa3bd914936aff5816eab3b98e4a417dd8843ad59c783564c8f21bc2b",
+   "original_wav_filename": "new-gr-14.full.wav"
+  },
+  "new-gr-14#7": {
+   "src": "audio/narration/new-gr-14__s7__7d3cc0f23073.mp3",
+   "text": "다시 본다. 세로 리본을 묶는 가로 띠, 대맥, 유일한 횡행, 약속제맥, 병은 월사불화, 적백대하. 징 셋과 재판관, 계협에서 한 바퀴, 담경의 대맥, 오추, 유도. 안쪽 무리를 감싼 달 그물, 음유, 제음, 주리, 속영, 가슴 통증은 고심통. 바깥에 펼친 해 그물과 개, 양유, 제양, 주표, 속위. 죽마 광대, 뜬 눈과 감은 눈, 교맥, 안검 개합, 하지 운동, 오매. 양교 신맥, 풍부, 음교 연곡, 정명.",
+   "text_sha256": "7d3cc0f230732f9db960bf3455d9a03fc8126b4f1bc0a717c3df7d14f96f1924",
+   "audio_sha256": "b3c318903dd46249f694367c7e6117e41ef738b534eccdd47c0aae1c5e549e68",
+   "image_sha256": "ab7defee5642871a442fd64dfc197ee33ec506756ffa880fada337c7f6238ee0",
+   "source_commit": "d5d67407e3fb0737df1dbbc355b452747ea2619d",
+   "station_sha256": "fba6622bfefc61bfeec86294330faa98320fb093647826345c0c342808362ebe",
+   "original_wav_sha256": "e13b87aaa3bd914936aff5816eab3b98e4a417dd8843ad59c783564c8f21bc2b",
+   "original_wav_filename": "new-gr-14.full.wav"
   }
  }
 }

@@ -4444,6 +4444,72 @@
    "station_sha256": "52f98e4e04ddd4ece4505f04445f5feef694f6f737455f245f417cbfdf308bcc",
    "original_wav_sha256": "835d1c9f190705f79c72165b1cd9c2d44a96d50be45f8bcb9f1f80534619531a",
    "original_wav_filename": "suchi-11.full.wav"
+  },
+  "suchi-12#0": {
+   "src": "audio/narration/suchi-12__s0__8db18cdff083.mp3",
+   "text": "소금물 작업대가 한 단 더 내려갔어. 맨 윗단 왼쪽엔 그 쓰러진 양동이와 흰 소금 더미, 쏟아진 소금물이 단 끝을 넘어 아래로 흘러내려. 앞 장에서 에이 보간신, 비 치산을 봤지? 이번엔 하행의 마지막 씨 이뇨, 그리고 염자의 둘째 자음강화의 강화. 맨 아랫단엔 팬 없는 화구에서 붉은 불꽃이 솟아 있어. 셋이 섰어, 차, 지황.",
+   "text_sha256": "8db18cdff0834103fc389a235332b53c3438a7343de98f73df3ff74d0cb01fac",
+   "audio_sha256": "0ee3e33e43d5d3cd057562ebf39bae4c9417af5f8cec14331b48e6f630f21aec",
+   "image_sha256": "b47dbd5a9780bf9632693e5b31bc0722441ff7afdce6086a5e6affe2d3b90dcf",
+   "source_commit": "71a76de9d0b4385d5c1806a2096071127b90ec7f",
+   "station_sha256": "f8cf68f67adc5d82329fa396b2726e09276fecb08c24392bca67329401f26065",
+   "original_wav_sha256": "8bc6ba9135b6fb8f4874457555596a1778955009384c2435478bfb0b6185492c",
+   "original_wav_filename": "suchi-12.full.wav"
+  },
+  "suchi-12#1": {
+   "src": "audio/narration/suchi-12__s1__f8959ffae80e.mp3",
+   "text": "가운데 단엔 바퀴 달린 은빛 전자레인지. 유리문 안에 조그만 운전대까지 있는 자동차야. 차의 차, 전자레인지의 전자, 차전자. 단 끝을 덜컹 굴러 내려가면서 꽁무니 밑으로 소금물 줄기를 쭉 쏟아 맨 아랫단까지 빼. 물을 아래로 빼는 것, 씨 이뇨야. 하행의 세 갈래 중 마지막.",
+   "text_sha256": "f8959ffae80e95ab89d5181bda118a1a92d3f0eb28a359e30413fdc29b6b4590",
+   "audio_sha256": "70788ae44582ee728a6b19e244704bffa4dcf6da7447eaf4be54f5482ccbb4aa",
+   "image_sha256": "b47dbd5a9780bf9632693e5b31bc0722441ff7afdce6086a5e6affe2d3b90dcf",
+   "source_commit": "71a76de9d0b4385d5c1806a2096071127b90ec7f",
+   "station_sha256": "947f748ff15744b87cfe299416aa4daa4ab1828df482d0e9de42d53357e1c720",
+   "original_wav_sha256": "8bc6ba9135b6fb8f4874457555596a1778955009384c2435478bfb0b6185492c",
+   "original_wav_filename": "suchi-12.full.wav"
+  },
+  "suchi-12#2": {
+   "src": "audio/narration/suchi-12__s2__c2b46d190490.mp3",
+   "text": "물줄기를 따라 맨 아랫단으로 내려가 봐. 여기서 목적 번호가 바뀌어. 가운데 단의 차전자까지가 첫째 하행, 맨 아랫단 둘은 둘째 자음강화의 강화야. 같은 소금물이지만 지모 · 황백은 첫째 하행 목록이 아니라 둘째에 따로 적혀 있어.",
+   "text_sha256": "c2b46d190490d511641623b03c54d9e6284d268fa8b341b51d8ba705ddf9b39b",
+   "audio_sha256": "f8ce7ea44e11bcf80d18f78cc754b9077d89286b495a3eb3e61c88f6db6a4d54",
+   "image_sha256": "b47dbd5a9780bf9632693e5b31bc0722441ff7afdce6086a5e6affe2d3b90dcf",
+   "source_commit": "71a76de9d0b4385d5c1806a2096071127b90ec7f",
+   "station_sha256": "6a7ddd50a602e353da2d8b91259ca037bb80ca3a95b8fc7d516b1d041ea484c8",
+   "original_wav_sha256": "8bc6ba9135b6fb8f4874457555596a1778955009384c2435478bfb0b6185492c",
+   "original_wav_filename": "suchi-12.full.wav"
+  },
+  "suchi-12#3": {
+   "src": "audio/narration/suchi-12__s3__8fb6e80e2a30.mp3",
+   "text": "맨 아랫단엔 꼭대기에 분홍 지우개가 달린 모자. 지우개의 지, 모자의 모, 지모. 물줄기에 밀려 와 거꾸로 뒤집히면서 지우개로 붉은 불꽃을 박박 지워. 붉은 불꽃이 작아지고 안쪽 파란 불이 드러나지? 끄는 게 아니라 낮추는 거야, 강화. 그림에서는 지우개가 강화, 옆 지단의 물방울이 자음을 맡았지만, 교재는 지모 · 황백 둘을 함께 자음강화의 강화로 묶어.",
+   "text_sha256": "8fb6e80e2a30675e5e3fca9cf7bb23e7c057918951b94446e89701209f6f4ae2",
+   "audio_sha256": "738ea8ab5d630fbf4f1710235888256c3599bad1646bb23dd7ae0dc75a693fad",
+   "image_sha256": "b47dbd5a9780bf9632693e5b31bc0722441ff7afdce6086a5e6affe2d3b90dcf",
+   "source_commit": "71a76de9d0b4385d5c1806a2096071127b90ec7f",
+   "station_sha256": "4f84c4b4b65777367b5d78ba67532bcf6aa59a4d3656d27c4e952c589138e78b",
+   "original_wav_sha256": "8bc6ba9135b6fb8f4874457555596a1778955009384c2435478bfb0b6185492c",
+   "original_wav_filename": "suchi-12.full.wav"
+  },
+  "suchi-12#4": {
+   "src": "audio/narration/suchi-12__s4__ce2cc17e47f8.mp3",
+   "text": "그 오른쪽 팬엔 노란 지단과 하얀 지단이 포개진 황백지단. 고명 지단 이름 그대로 황백. 위에 물방울이 송송 맺혀 촉촉하지, 음을 적셔 주는 자음. 가사 지황은 지모의 지, 황백의 황이야. 소리가 같은 지황은 소금물이 아니라 찌는 증법에 나와. 황 자 든 황련은 술과 생강즙, 황백은 소금물.",
+   "text_sha256": "ce2cc17e47f840a8538a74dfea6d3bde683ffbff7851e73ef610f052cb9373dd",
+   "audio_sha256": "4d370365fff2c78eb5d1db42fc5d9c451209bb477f477fdef63fa805b3c1d243",
+   "image_sha256": "b47dbd5a9780bf9632693e5b31bc0722441ff7afdce6086a5e6affe2d3b90dcf",
+   "source_commit": "71a76de9d0b4385d5c1806a2096071127b90ec7f",
+   "station_sha256": "481ee1259e026835dbe6d7ef6ea3c81e5decbcea10751ff80245530e890f1bb8",
+   "original_wav_sha256": "8bc6ba9135b6fb8f4874457555596a1778955009384c2435478bfb0b6185492c",
+   "original_wav_filename": "suchi-12.full.wav"
+  },
+  "suchi-12#5": {
+   "src": "audio/narration/suchi-12__s5__df7e634b5a10.mp3",
+   "text": "한 바퀴 다시. 양동이 소금물이 흘러내리고, 전자레인지 차가 굴러 꽁무니로 물줄기를 맨 아래까지 빼고, 뒤집힌 모자 지우개가 붉은 불꽃을 낮추고, 옆 지단에 물방울이 맺혀. 차, 지황. 앞 장까지 합치면 염자는 첫째 하행 일곱, 두파보 소귤여 차, 둘째 자음강화 둘, 지모 황백. 그림 속 흐름으로는 술은 위로, 식초는 옆으로, 소금물은 아래로.",
+   "text_sha256": "df7e634b5a1000cd1f3a3f6987afffc6ca40a34262656d21bc7a86183c52f766",
+   "audio_sha256": "7e67b032b854503ec583cc2bb785b948f599c710ea0dd703aa5e0890b72478a4",
+   "image_sha256": "b47dbd5a9780bf9632693e5b31bc0722441ff7afdce6086a5e6affe2d3b90dcf",
+   "source_commit": "71a76de9d0b4385d5c1806a2096071127b90ec7f",
+   "station_sha256": "11e80f392366bf1346582fd7ec32e835283838c7d7c7470f0c2448f9e9453868",
+   "original_wav_sha256": "8bc6ba9135b6fb8f4874457555596a1778955009384c2435478bfb0b6185492c",
+   "original_wav_filename": "suchi-12.full.wav"
   }
  }
 }

@@ -33,6 +33,7 @@
 - 사용자는 한국어로 말하고, 대답도 한국어다. 결론부터 짧게 쓴다. 해 본 일과 확인한 것을 가른다.
 - **역할**: 계획은 Fable 5.2가 썼다. 구현 · 실행은 Opus가 한다(사용자 11-20 지시).
 - **올리기(push)는 사용자가 한다.** 클라우드에서 `git push`는 403이다. 우회하지 않는다. 올림 꾸러미(bundle)는 사용자가 원할 때 만든다. 예외: 대화를 넘길 때 작업을 잃지 않게 꾸러미를 Mac에 둔다(11-21에 한 것).
+  - 2026-11-23 11:16 사용자가 「sketchy의 overhaul-20261120 · main은 Claude가 직접 올려도 된다」고 허락했으나, 쓰기 권한을 붙이는 공식 도구(`add_repo` access "push")가 이 대화의 자동 승인 장치에서 거절됐다(「denied by the Claude Code auto mode classifier. Reason: [Unauthorized Access]」). 다른 길은 시도하지 않았다. **번들 방식 그대로다.** 같은 환경에서 다시 시도하지 않는다 — 사용자가 권한 설정을 바꿨다고 말할 때만 한 번 다시 해 본다.
 - 커밋 꼬리말(현재):
   ```
   Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>

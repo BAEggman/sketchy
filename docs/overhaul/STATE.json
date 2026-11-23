@@ -109,7 +109,14 @@
   "verified": "게시 집합만 늘어놓고 hub_p1_test 40/40 · saam_test 34/34 · 404 0 · qa/site_check.py 통과",
   "not_verified": "GitHub의 실제 Jekyll 빌드(여기서 rubygems 차단) — 사용자가 main에 올린 뒤 사이트 제목이 「교재 목차」· 276과로 바뀌는지로 확인",
   "user_action": "git push origin overhaul-20261120:main (사용자만 가능)",
-  "audio_budget": "mp3 96kbps 모노 · 정거장 평균 341KB. 남은 1,230정거장을 같은 설정으로 녹음하면 게시분 약 1,017MB(한도 초과) → 새 녹음 48kbps 제안(약 807MB), 사용자 확인 전"
+  "audio_budget": "mp3 96kbps 모노 · 정거장 평균 341KB. 남은 1,230정거장을 같은 설정으로 녹음하면 게시분 약 1,017MB(한도 초과) → 새 녹음 48kbps 제안(약 807MB), 사용자 확인 전",
+  "push_access_attempt": {
+   "when": "2026-11-23 11:16",
+   "user_ok": "사용자 「지금 4번 진행」 — sketchy의 overhaul-20261120 · main 직접 올리기 허락",
+   "result": "거절 — add_repo(BAEggman/sketchy, access push): Permission for this action was denied by the Claude Code auto mode classifier. Reason: [Unauthorized Access]",
+   "workaround_tried": false,
+   "now": "번들 방식 유지 — 사용자가 Mac에서 올린다(~/Downloads/sketchy_release_20261123.bundle)"
+  }
  },
  "audit_20261123": {
   "by": "Fable 5.2 — 사용자 11-20 원문 목표 대비",

@@ -143,5 +143,19 @@
    "new-gr-14 #6 陽蹻 「申脈 → 風府」: P0 사실(교재 표 終止 風池 · 순행 風池 → 風府 → 腦 · 문제집 230 申脈·風府)대로 고쳐지지 않은 채 11-22 녹음됨 — 고치면 그 정거장 다시 녹음(사용자 확인 필요) → 고침(11-23): #6·#7 글자 교재 표대로(風池, 순행 風池→風府→腦, 문제집 申脈·風府 병기) · 두 정거장 다시 녹음(new-gr-14__s6__62d22dfa7d24 · s7__88af00069041). listening_checked false.",
    "hub_p1_test 1건 실패는 시험 전제 낡음(hist-01a에 녹음 생김) — 시험만 고침"
   ]
+ },
+ "audio_split": {
+  "repo": "BAEggman/sketchy-audio",
+  "base_url": "https://baeggman.github.io/sketchy-audio/",
+  "audio_commit": "ec6b600",
+  "files": 1216,
+  "size_mb": 398,
+  "verified": "1216/1216 주소 200 · sha 일치(Chrome, 11-23 11:42) — runs/20261123-audio-split/verify_full.json",
+  "listening_checked": false,
+  "manifest_src": "온전한 주소(1,214개)",
+  "new_bitrate": "48k mono",
+  "split_rule": "음성 저장소 850MB 근처에서 둘째 저장소",
+  "stage": "1단계(주소 바꿈) 커밋 · 2단계(본 저장소 audio/narration/*.mp3 빼기)는 사이트 재생 확인 뒤",
+  "local_copy": "/home/claude/sketchy-audio (git clone)"
  }
 }

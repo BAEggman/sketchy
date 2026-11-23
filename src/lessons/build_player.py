@@ -11,6 +11,7 @@
 """
 import json
 import hashlib
+import os
 import re
 import sys
 from pathlib import Path
@@ -152,11 +153,28 @@ def check_curriculum(C, ids, errors, warns):
         warns.append(f'목차: 그림 없는 절 {empty}개(목록에 「그림 없음 — 감사 대상」으로 보인다)')
 
 
+# 음성은 별도 저장소 BAEggman/sketchy-audio(Pages)에 둔다(2026-11-23). manifest의 src는 온전한 주소다.
+# 해시 대조는 로컬 사본이 있을 때만 한다: SKETCHY_AUDIO_DIR(기본 ROOT의 형제 폴더 sketchy-audio) → 옛 자리 audio/narration.
+AUDIO_DIR = Path(os.environ.get('SKETCHY_AUDIO_DIR', str(ROOT.parent / 'sketchy-audio')))
+
+
+def local_audio(src):
+    if not src.startswith('http'):
+        p = ROOT / src
+        return p if p.is_file() else None
+    name = src.rsplit('/', 1)[-1]
+    for p in (AUDIO_DIR / name, ROOT / 'audio/narration' / name):
+        if p.is_file():
+            return p
+    return None
+
+
 def main():
     errors, warns, lessons = [], [], []
     audio_path = ROOT / 'audio/narration/manifest.json'
     recordings = json.loads(audio_path.read_text())['records'] if audio_path.exists() else {}
     applied = set()
+    audio_unchecked = []
     for p in sorted(LDIR.glob('*.json')):
         try:
             L = json.loads(p.read_text(encoding='utf-8'))
@@ -172,8 +190,15 @@ def main():
             digest = lambda data: hashlib.sha256(data).hexdigest()
             if digest(json.dumps(st, ensure_ascii=False, sort_keys=True).encode()) != a['station_sha256']:
                 errors.append(f'{key}: 녹음 승인 후 정거장 변경 — 재검토 필요')
-            if digest(a['text'].encode()) != a['text_sha256'] or digest((ROOT / a['src']).read_bytes()) != a['audio_sha256']:
-                errors.append(f'{key}: 대본/음성 해시 불일치')
+            if digest(a['text'].encode()) != a['text_sha256']:
+                errors.append(f'{key}: 대본 해시 불일치')
+            local = local_audio(a['src'])
+            if local is None:
+                if not a['src'].startswith('http'):
+                    errors.append(f"{key}: 음성 파일 없음 {a['src']}")
+                audio_unchecked.append(key)
+            elif digest(local.read_bytes()) != a['audio_sha256']:
+                errors.append(f'{key}: 음성 해시 불일치 ({local})')
             if digest((ROOT / L['image']).read_bytes()) != a['image_sha256']:
                 errors.append(f'{key}: 녹음 승인 후 그림 변경 — 재검토 필요')
             st['recording'] = {'src': a['src'], 'text': a['text']}
@@ -195,6 +220,9 @@ def main():
         errors.append('목차 src/lessons/curriculum.json이 없다')
     else:
         check_curriculum(cur, [L.get('id') for L in lessons], errors, warns)
+    if audio_unchecked:
+        print(f'알림: 음성 {len(audio_unchecked)}개는 로컬 사본이 없어 manifest의 audio_sha256을 그대로 믿었다'
+              f' (사본 폴더 {AUDIO_DIR} — 대조하려면 sketchy-audio를 거기에 clone)', file=sys.stderr)
     for w in warns:
         print('경고:', w, file=sys.stderr)
     if errors:

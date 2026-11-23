@@ -155,7 +155,14 @@
   "manifest_src": "온전한 주소(1,214개)",
   "new_bitrate": "48k mono",
   "split_rule": "음성 저장소 850MB 근처에서 둘째 저장소",
-  "stage": "1단계 87df67d 올림 · 사이트 재생 주소 확인(11:50) / 2단계 f3f716b(본 저장소 mp3 뺌, 게시분 183.7MB) — 올림 대기",
+  "stage": "끝 — 1단계 87df67d · 2단계 7285fea 모두 올림, 사이트에서 옛 경로 404 · 새 주소 재생 확인(소리 끈 채, listening_checked false)",
   "local_copy": "/home/claude/sketchy-audio (git clone)"
+ },
+ "pilots_placement": {
+  "date": "2026-11-23",
+  "pilot-duben": "ch01-s1 金·元(hist-06b 뒤)",
+  "pilot-gv": "ch05-s7 奇經八脈(new-gr-13 뒤)",
+  "pilot-cho": "ch10-s3 修治 장면(suchi-10 뒤)",
+  "pilot_chapter": "없앰(사용자 지시)"
  }
 }

@@ -10,47 +10,6 @@
  },
  "chapters": [
   {
-   "id": "pilot",
-   "title": "P2 시범 — 검수용(넓히기 전 · 새 문법)",
-   "sections": [
-    {
-     "id": "pilot-s1",
-     "title": "시범 그림 · 유주도",
-     "note": "갈아엎기 P2 시범(2026-11-21). 기존 과를 덮지 않고 새 id로 둔다. 사용자 검수 뒤 해당 절로 옮긴다",
-     "items": [
-      {
-       "lesson": "pilot-duben",
-       "level": 2,
-       "see_also": [
-        "hist-06b"
-       ],
-       "note": "Run 1 시범 — 기존 과 hist-06b를 덮지 않음"
-      },
-      {
-       "lesson": "pilot-gv",
-       "level": 2,
-       "prereq": [
-        "new-gr-13"
-       ],
-       "see_also": [
-        "new-gr-12",
-        "new-gr-14"
-       ],
-       "note": "코드로 그린 유주도 · 빈 판 images/lessons/pilot-gv-blank.webp"
-      },
-      {
-       "lesson": "pilot-cho",
-       "level": 2,
-       "see_also": [
-        "hp-04"
-       ],
-       "note": "Run 2 시범 — 醋炙 ① 여덟 약 · 기존 과 hp-04(修治)를 덮지 않음"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "base",
    "title": "韓醫學槪論을 위한 基本常識",
    "page": 6,
@@ -150,6 +109,15 @@
       {
        "lesson": "hist-06b",
        "level": 2,
+       "sub": "金 · 元"
+      },
+      {
+       "lesson": "pilot-duben",
+       "level": 2,
+       "see_also": [
+        "hist-06b"
+       ],
+       "note": "P2 시범에서 옮김(2026-11-23) · hist-06b와 같은 杜本",
        "sub": "金 · 元"
       },
       {
@@ -894,6 +862,19 @@
        "prereq": [
         "new-gr-12"
        ],
+       "sub": "3. 奇經八脈"
+      },
+      {
+       "lesson": "pilot-gv",
+       "level": 2,
+       "prereq": [
+        "new-gr-13"
+       ],
+       "see_also": [
+        "new-gr-12",
+        "new-gr-14"
+       ],
+       "note": "P2 시범에서 옮김(2026-11-23) · 코드로 그린 유주도 · 빈 판 images/lessons/pilot-gv-blank.webp",
        "sub": "3. 奇經八脈"
       },
       {
@@ -1803,6 +1784,18 @@
        ],
        "see_also": [
         "pilot-cho"
+       ]
+      },
+      {
+       "lesson": "pilot-cho",
+       "level": 2,
+       "see_also": [
+        "hp-04"
+       ],
+       "note": "P2 시범에서 옮김(2026-11-23) · 醋炙 ① 여덟 약",
+       "sub": "修治 장면",
+       "prereq": [
+        "hp-04"
        ]
       },
       {

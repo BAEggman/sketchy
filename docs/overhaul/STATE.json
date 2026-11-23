@@ -155,7 +155,7 @@
   "manifest_src": "온전한 주소(1,214개)",
   "new_bitrate": "48k mono",
   "split_rule": "음성 저장소 850MB 근처에서 둘째 저장소",
-  "stage": "1단계(주소 바꿈) 커밋 · 2단계(본 저장소 audio/narration/*.mp3 빼기)는 사이트 재생 확인 뒤",
+  "stage": "1단계 87df67d 올림 · 사이트 재생 주소 확인(11:50) / 2단계 f3f716b(본 저장소 mp3 뺌, 게시분 183.7MB) — 올림 대기",
   "local_copy": "/home/claude/sketchy-audio (git clone)"
  }
 }

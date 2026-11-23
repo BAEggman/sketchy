@@ -1,6 +1,6 @@
 # Sketchy 갈아엎기 — 마스터노트 (새 대화 인계용)
 
-마지막 갱신 2026-11-23 11:20(원래 목표 대비 점검 · 사이트 게시 준비 — 5-2절부터 읽는다. 낭독 본녹음 3·4·5장 78과 끝 · 가지는 GitHub에 있음 · 사이트(main) 반영은 사용자 대기 · 사용자 청취 대기) — 앞선 상태: 2026-11-22 12:20(P3-2 본초 장면 · 명세 · 혼동 고치기 끝) · 작성 Opus 5.5 · 프로젝트 문서 `claude/Sketchy_갈아엎기_마스터노트_20261121.md`와 저장소 `docs/overhaul/MASTER_NOTE.md`는 같은 글이다.
+마지막 갱신 2026-11-23 11:50(음성 분리 — 5-3절 · 원래 목표 대비 점검 · 사이트 게시 준비 — 5-2절부터 읽는다. 낭독 본녹음 3·4·5장 78과 끝 · 가지는 GitHub에 있음 · 사이트(main) 반영은 사용자 대기 · 사용자 청취 대기) — 앞선 상태: 2026-11-22 12:20(P3-2 본초 장면 · 명세 · 혼동 고치기 끝) · 작성 Opus 5.5 · 프로젝트 문서 `claude/Sketchy_갈아엎기_마스터노트_20261121.md`와 저장소 `docs/overhaul/MASTER_NOTE.md`는 같은 글이다.
 
 새 대화는 이 노트 하나로 이어 간다. 0절부터 차례로 하면 된다.
 
@@ -164,14 +164,23 @@ P2 시범 여섯은 사용자 검수를 통과했다(11-21 12:54). P3 의학사�
 - **미녹음**: 6·7·8·9·11·13장 등 나머지 장 + 보관함 15과. 다음 장은 사용자가 정한다.
 - **방법**(`runs/20261122-narr-prod/`): 과마다 `mkprompt.py`가 만든 프롬프트 파일 → Gemini 새 태스크에 파일 올림 → Kore · 번호 사이 3초 무음 · WAV 하나 → 내려받아 Mac → 스테이징 → `finish.sh <lid>`(ingest.py가 ffmpeg silencedetect −45dB · 2.6초로 자름 → build_player.py → 커밋). **한 번에 한 과**(둘 동시는 CAPTCHA 위험), 과당 약 8~9분. 보내기 화살표 좌표는 창 크기마다 다르니 스크린샷으로 확인. 다운로드 단추는 `aria-label="오디오 다운로드"`만 쓴다(넓은 선택자는 삭제 메뉴를 연다).
 - 단일 정거장 다시 녹음은 속도 · 음색이 조금 달라질 수 있다(녹음 다시 만들기는 사용자 확인 뒤).
+- **11-23부터 음성은 별도 저장소**(5-3절). 녹음 전에 `git clone https://github.com/BAEggman/sketchy-audio.git /home/claude/sketchy-audio`(약 400MB). `ingest.py`는 그 폴더에 48kbps mp3를 쓰고 manifest `src`에 온전한 주소를 적는다. 정거장만 다시: `ingest.py <lid> <wav> 6 7` · 프롬프트 `mkprompt.py <lid> 6 7`. 올리기는 **sketchy-audio 먼저**(번들 둘), 그다음 sketchy.
 - Mac 잔여물: `prod_hist-0*.log` · Gemini 임시 대화 몇 개. 색인 `claude/Sketchy_작업기록_색인.md`에는 이 절을 아직 반영하지 않았다.
+
+### 5-3. 음성 분리 (2026-11-23, Opus 5.5)
+
+- 음성 저장소 `BAEggman/sketchy-audio`(공개 · Pages main / root · `.nojekyll`). 주소 `https://baeggman.github.io/sketchy-audio/<파일>`. 첫 커밋 ec6b600 = mp3 1,216개(398MB, 옛 new-gr-14 s6 · s7 둘 포함). 저장소 생성 · Pages Save는 사용자가 눌렀다(화면은 Claude in Chrome이 채움).
+- 확인: Chrome에서 1,216개 모두 200 · sha 일치(`runs/20261123-audio-split/verify_full.json`). 이 작업 공간과 Mac device_bash는 baeggman.github.io에 못 닿는다(프록시 403 · 000) — **사이트 확인은 Chrome 탭의 fetch로 한다.** 사람이 들어 본 것은 아니다.
+- 1단계 87df67d: manifest `src` 1,214개 → 온전한 주소(`src/lessons/tools/audio_to_remote.py --verified <json>`), `build_player.py` 음성 해시는 로컬 사본(`SKETCHY_AUDIO_DIR`, 기본 `../sketchy-audio` → `audio/narration`)이 있을 때만 대조, 없으면 알림. 새 녹음 48kbps · 같은 이름이면 `_v2`. 2단계: 본 저장소 나무에서 `audio/narration/*.mp3` 뺌(이력에 남음) → 본 사이트 게시분 596.9MB → **183.7MB**.
+- 1단계 사이트 확인(11-23 11:50, Chrome): 게시된 `lessons.html`에 음성 저장소 주소 1,214개 · new-gr-14 정거장 6 자동 재생 시 재생기가 `https://baeggman.github.io/sketchy-audio/new-gr-14__s6__62d22dfa7d24.mp3`를 불러 길이 43.7초를 읽음(소리는 끈 채 확인 — 사람이 들어 본 것은 아님).
+- 규칙: 올린 mp3는 이름을 바꾸거나 지우지 않는다. 음성 저장소가 850MB에 가까워지면 둘째 음성 저장소(예상: 전체 녹음 끝에 약 610MB).
 
 ### 5-2. 2026-11-23 점검(사용자 11-20 원문 목표 대비 · Fable 5.2) · 사이트 반영
 
 - **사이트는 main을 보여 준다.** 11-23 오전까지 main = `0e16b7c`(「Carbon v7 · 227과」)였고, 11-20 이후 작업(교재 목차 허브 · 네 기능 · 새 그림 · 낭독 · `saam.html`)은 전부 `overhaul-20261120`에만 있었다. 계획서 7절 「P1은 여기서 먼저 내보낸다」가 지켜지지 않았다. **가지를 올린 것만으로는 사이트가 안 바뀐다. 사용자에게 「반영됐다」고 말할 때는 사이트(main)인지 가지인지 가려 말한다.**
 - 사이트에 올리는 명령(사용자만): `git push origin overhaul-20261120:main`. 올린 뒤 `lessons.html?v=<날짜>`의 제목이 「교재 목차」이고 276과인지 본다.
 - **게시 한도**: Pages 게시 사이트 ≤ 1GB · 배포 ≤ 10분(GitHub Docs). 추적 파일이 1,226MB라 `_config.yml`의 `exclude`로 작업 폴더(runs · carbon · src · qa · docs/overhaul · docs/handoff-20261120)를 게시에서 뺐다 — 게시분 596.9MB · 2,678개. 저장소 내용은 그대로다. 올리기 전에 `python3 qa/site_check.py`(용량 · 깨진 경로)를 돌린다. `--out DIR`로 게시 집합을 늘어놓고 그 폴더를 서버로 띄워 `hub_p1_test.js` · `saam_test.js`를 돌릴 수 있다(11-23: 40/40 · 34/34 · 404 0). GitHub의 실제 Jekyll 빌드는 여기서 못 돌린다(rubygems 차단) — 확인 필요로 남는다.
-- **음성 분리(biology2 방식) — 검토 결과 「가능 · 권장」, 사용자 결정 대기**: biology2는 음성만 `BAEggman/biology2-audio`(Pages, mp3 588개가 뿌리에)에 두고 본 저장소 manifest의 `src`에 온전한 주소를 적는다. 같은 baeggman.github.io 아래라 재생 · 자동 넘김이 그대로다. 올린 파일은 이름을 바꾸거나 지우지 않고, 다시 녹음하면 판 번호를 올린다. Sketchy에 옮기는 일: ① 사용자가 `sketchy-audio` 저장소를 만들고 Pages를 켠다 ② mp3 1,214개를 그리로 옮기고 본 저장소 나무에서 뺀다(이력에는 남는다) ③ manifest `src` → `https://baeggman.github.io/sketchy-audio/<파일>` ④ `build_player.py`의 음성 해시 검사(`ROOT / a['src']`를 읽는 줄)를 「로컬 사본이 있으면 대조, 없으면 manifest 값」으로 ⑤ `finish.sh` · `ingest.py`가 음성 저장소 쪽에 쓰게 ⑥ 올린 뒤 주소마다 200 · sha 확인. 재생기는 `new Audio(st.recording.src)`라 고칠 것이 없다. 효과: 본 사이트 게시분 약 183MB · 음성 사이트 414MB. 전체 녹음(약 2,444정거장)이면 음성만 약 834MB(96kbps 기준)라 음성 사이트도 1GB에 가까워진다 → 새 녹음 48kbps 또는 음성 저장소를 둘로 나눈다(manifest가 주소를 들고 있어 나누기 쉽다).
+- **음성 분리(biology2 방식) — 11-23 실행함(5-3절)**: biology2는 음성만 `BAEggman/biology2-audio`(Pages, mp3 588개가 뿌리에)에 두고 본 저장소 manifest의 `src`에 온전한 주소를 적는다. 같은 baeggman.github.io 아래라 재생 · 자동 넘김이 그대로다. 올린 파일은 이름을 바꾸거나 지우지 않고, 다시 녹음하면 판 번호를 올린다. Sketchy에 옮기는 일: ① 사용자가 `sketchy-audio` 저장소를 만들고 Pages를 켠다 ② mp3 1,214개를 그리로 옮기고 본 저장소 나무에서 뺀다(이력에는 남는다) ③ manifest `src` → `https://baeggman.github.io/sketchy-audio/<파일>` ④ `build_player.py`의 음성 해시 검사(`ROOT / a['src']`를 읽는 줄)를 「로컬 사본이 있으면 대조, 없으면 manifest 값」으로 ⑤ `finish.sh` · `ingest.py`가 음성 저장소 쪽에 쓰게 ⑥ 올린 뒤 주소마다 200 · sha 확인. 재생기는 `new Audio(st.recording.src)`라 고칠 것이 없다. 효과: 본 사이트 게시분 약 183MB · 음성 사이트 414MB. 전체 녹음(약 2,444정거장)이면 음성만 약 834MB(96kbps 기준)라 음성 사이트도 1GB에 가까워진다 → 새 녹음 48kbps 또는 음성 저장소를 둘로 나눈다(manifest가 주소를 들고 있어 나누기 쉽다).
 - 분리하지 않고 지금 설정 그대로 전체를 녹음하면 본 사이트 게시분이 약 1,017MB로 한도를 넘는다. **다음 녹음 묶음 전에 분리 또는 비트레이트를 정한다.**
 - 점검 결과(끝난 것 · 안 한 것 · 흠)는 `STATE.json`의 `audit_20261123`. 미착수: 유주도 19장(帶 · 維 · 蹻 포함) · 舍岩 寒格 · 熱格 · 본초 분류 무대 · 전 단원 감사(T6) · 마감. 흠: `new-gr-14` #6·#7 陽蹻 끝이 「風府」인 채로 녹음됨 → **11-23 고침**(風池 · 순행 風池→風府→腦 · 문제집 申脈·風府 병기, 두 정거장 다시 녹음, 커밋 e3a05ff). 들어 본 사람 없음. qoaq 카드 GRG2-009는 風府로 묻는다 — 카드 쪽 확인 필요. `ingest.py` · `mkprompt.py`는 끝에 정거장 번호를 주면 그 정거장만 처리(예: `ingest.py <lid> <wav> 6 7`).
 - `hub_p1_test.js`의 읽어 주기 실패 시험은 녹음 없는 과를 골라 쓴다(고정 id `hist-01a`에 녹음이 생겨 1건 실패하던 것).
@@ -195,7 +204,7 @@ P2 시범 여섯은 사용자 검수를 통과했다(11-21 12:54). P3 의학사�
 | Gemini 원본 | Mac `~/Downloads/sketchy_opus/gemini_raw/`(p2-hist_T1~T4 · p2-cho_v0/v1/v2, 2752×1536 JPEG) |
 | 받은 묶음(11-20) | `docs/handoff-20261120/`(GPT 인계 `opus-handoff/`, 본초 6+1 `herb-cue-six-plus-one/`, 낭독 지시문, 사용자 지시 원문 · Gemini 본초 사전 대화) |
 | 과 · 그림 | `src/lessons/l/<id>.json` · `images/lessons/<id>.webp` · 설계 `src/lessons/design/<id>/` |
-| 낭독 | `audio/narration/manifest.json`(녹음 해시 — 정거장 · 그림을 바꾸면 빌드가 멈춘다) · `docs/narration-review-20261120/` |
+| 낭독 | `audio/narration/manifest.json`(녹음 해시 — 정거장 · 그림을 바꾸면 빌드가 멈춘다; src는 sketchy-audio 주소) · mp3는 `BAEggman/sketchy-audio` · 분리 기록 `runs/20261123-audio-split/` · `docs/narration-review-20261120/` |
 | Carbon 산출 | `carbon/`(장부 · 판독 · 문항 · 도해) |
 | Mac 작업장 | `~/Downloads/sketchy_opus/`(계획서 사본 · 꾸러미 · 앞으로 gemini_raw/) · `~/Downloads/sketchy_carbon/`(Carbon 작업장 · 교재 사본 `refs/교재/`) |
 | 사용자 자료 | `~/Downloads/_정리됨/한의학/학습자료/`(유주 마스터표 · 교회혈 니모닉 등) · 암기송 `~/Downloads/_정리됨/한의학/암기송/`(「5장 경락학설 起源과 穴數변천.mp3」 — 가사 미확인) |

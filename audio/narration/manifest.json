@@ -11585,26 +11585,26 @@
    "original_wav_filename": "new-gr-14.full.wav"
   },
   "new-gr-14#6": {
-   "src": "audio/narration/new-gr-14__s6__3360b942086d.mp3",
-   "text": "기시와 종지를 광대 몸에 짚는다. 해 배지 광대, 양교는 바깥 복사뼈 아래 신맥에서 일어나 목덜미 풍부에 이른다. 달 배지 광대, 음교는 발 안쪽 연곡에서 일어나 눈 안쪽 구석 정명에 이른다. 잠과 눈이 걸린 맥이라 끝이 눈과 머리다. 함께 묻는 것, 대는 계협에서 일어나고, 음유는 축빈에서 염천까지, 병은 고심통.",
-   "text_sha256": "3360b942086d2320457ef0fe2cf84bf688cfde47c4985daf54039958b53b497e",
-   "audio_sha256": "337dc0225f774a38f8f7b8d447399ca1f5add1a42c5546ce166ec7cc7ff81ccd",
+   "src": "audio/narration/new-gr-14__s6__62d22dfa7d24.mp3",
+   "text": "기시와 종지를 광대 몸에 짚는다. 해 배지 광대, 양교는 바깥 복사뼈 아래 신맥에서 일어나 목덜미 풍지에 이른다. 교재 표의 끝은 풍지이고, 순행은 풍지를 지나 풍부에서 뇌로 들어간다. 문제집은 신맥, 풍부 짝도 맞는 보기로 둔다. 달 배지 광대, 음교는 발 안쪽 연곡에서 일어나 눈 안쪽 구석 정명에 이른다. 잠과 눈이 걸린 맥이라 끝이 눈과 머리다. 함께 묻는 것, 대는 계협에서 일어나고, 음유는 축빈에서 염천까지, 병은 고심통.",
+   "text_sha256": "62d22dfa7d243cd676e4703fe62db30be5f72d0f61bf4cd7613d57d7c02287a5",
+   "audio_sha256": "9bb16490d45b90eb3aca9d0915ffc8d162198b81dfd89e5b33c35992b25e0fdb",
    "image_sha256": "ab7defee5642871a442fd64dfc197ee33ec506756ffa880fada337c7f6238ee0",
-   "source_commit": "d5d67407e3fb0737df1dbbc355b452747ea2619d",
-   "station_sha256": "b43c0efa96a59101fd2508d39c76f73e1c12d49f3a36fe6365898b123e84ef72",
-   "original_wav_sha256": "e13b87aaa3bd914936aff5816eab3b98e4a417dd8843ad59c783564c8f21bc2b",
-   "original_wav_filename": "new-gr-14.full.wav"
+   "source_commit": "ddb719167d1d744bf70dbcdc2ad8a9e756cf55da",
+   "station_sha256": "573a07448bb72682174ccfd6fc9a494e0840084bf03e3a55782c7eaf9b8f367c",
+   "original_wav_sha256": "88ac350f9bdae21ef1fc8471fe8e8c96508d60069527c7a71e03cbf066e7c9bb",
+   "original_wav_filename": "new-gr-14_s6-7.wav"
   },
   "new-gr-14#7": {
-   "src": "audio/narration/new-gr-14__s7__7d3cc0f23073.mp3",
-   "text": "다시 본다. 세로 리본을 묶는 가로 띠, 대맥, 유일한 횡행, 약속제맥, 병은 월사불화, 적백대하. 징 셋과 재판관, 계협에서 한 바퀴, 담경의 대맥, 오추, 유도. 안쪽 무리를 감싼 달 그물, 음유, 제음, 주리, 속영, 가슴 통증은 고심통. 바깥에 펼친 해 그물과 개, 양유, 제양, 주표, 속위. 죽마 광대, 뜬 눈과 감은 눈, 교맥, 안검 개합, 하지 운동, 오매. 양교 신맥, 풍부, 음교 연곡, 정명.",
-   "text_sha256": "7d3cc0f230732f9db960bf3455d9a03fc8126b4f1bc0a717c3df7d14f96f1924",
-   "audio_sha256": "b3c318903dd46249f694367c7e6117e41ef738b534eccdd47c0aae1c5e549e68",
+   "src": "audio/narration/new-gr-14__s7__88af00069041.mp3",
+   "text": "다시 본다. 세로 리본을 묶는 가로 띠, 대맥, 유일한 횡행, 약속제맥, 병은 월사불화, 적백대하. 징 셋과 재판관, 계협에서 한 바퀴, 담경의 대맥, 오추, 유도. 안쪽 무리를 감싼 달 그물, 음유, 제음, 주리, 속영, 가슴 통증은 고심통. 바깥에 펼친 해 그물과 개, 양유, 제양, 주표, 속위. 죽마 광대, 뜬 눈과 감은 눈, 교맥, 안검 개합, 하지 운동, 오매. 양교 신맥, 풍지, 지나서 풍부, 뇌. 음교 연곡, 정명.",
+   "text_sha256": "88af00069041e2aed18e3bd183a8498d43d93312ea9ba5b1ec86da03f70af04d",
+   "audio_sha256": "2fc773eeec6271a0d96af76b8deaf3cdacc0e963f769e35e0365901d41ddb71e",
    "image_sha256": "ab7defee5642871a442fd64dfc197ee33ec506756ffa880fada337c7f6238ee0",
-   "source_commit": "d5d67407e3fb0737df1dbbc355b452747ea2619d",
-   "station_sha256": "fba6622bfefc61bfeec86294330faa98320fb093647826345c0c342808362ebe",
-   "original_wav_sha256": "e13b87aaa3bd914936aff5816eab3b98e4a417dd8843ad59c783564c8f21bc2b",
-   "original_wav_filename": "new-gr-14.full.wav"
+   "source_commit": "ddb719167d1d744bf70dbcdc2ad8a9e756cf55da",
+   "station_sha256": "7553906da065129b8bfcb3aff0d3b0f81e409d23848497e42d1a4b413257c5f7",
+   "original_wav_sha256": "88ac350f9bdae21ef1fc8471fe8e8c96508d60069527c7a71e03cbf066e7c9bb",
+   "original_wav_filename": "new-gr-14_s6-7.wav"
   },
   "new-gr-06#0": {
    "src": "audio/narration/new-gr-06__s0__f126c4b3f860.mp3",

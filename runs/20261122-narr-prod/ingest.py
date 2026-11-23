@@ -2,7 +2,9 @@ import json,sys,re,subprocess,hashlib
 from pathlib import Path
 R=Path('/home/claude/work'); lid=sys.argv[1]; wav=Path(sys.argv[2])
 L=json.loads((R/f'src/lessons/l/{lid}.json').read_text())
-sts=L['stations']; N=len(sts)
+SEL=[int(x) for x in sys.argv[3:]]  # 선택 인자: 정거장 번호(n). 없으면 과 전체
+sts=[s for s in L['stations'] if (not SEL or s['n'] in SEL)]; N=len(sts)
+if SEL and N!=len(SEL): sys.exit(f'FAIL 정거장 번호 {SEL} 중 없는 것이 있다')
 sha=lambda b:hashlib.sha256(b).hexdigest()
 out=subprocess.run(['ffmpeg','-hide_banner','-i',str(wav),'-af','silencedetect=noise=-45dB:d=2.6','-f','null','-'],capture_output=True,text=True).stderr
 dur=float(re.search(r'Duration: (\d+):(\d+):([\d.]+)',out).group(1))*3600+float(re.search(r'Duration: (\d+):(\d+):([\d.]+)',out).group(2))*60+float(re.search(r'Duration: (\d+):(\d+):([\d.]+)',out).group(3))

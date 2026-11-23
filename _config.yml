@@ -1,0 +1,13 @@
+# GitHub Pages(Jekyll) 게시 설정 — 2026-11-23
+# 저장소에는 작업 기록을 모두 두고, 사이트(baeggman.github.io/sketchy)에는 화면이 쓰는 파일만 올린다.
+# 까닭: 게시 사이트 한도 1GB · 배포 10분 제한(GitHub Docs "GitHub Pages limits").
+#       2026-11-23 추적 파일 1,226MB → 아래 폴더를 빼면 약 600MB.
+# 화면이 쓰는 것: 뿌리의 *.html · images/ · audio/ · docs/narration-review-20261120/
+# 이 목록을 바꾸면 `python3 qa/site_check.py`로 용량과 깨진 경로를 다시 본다.
+exclude:
+  - runs
+  - carbon
+  - src
+  - qa
+  - docs/overhaul
+  - docs/handoff-20261120

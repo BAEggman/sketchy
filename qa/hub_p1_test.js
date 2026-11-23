@@ -269,10 +269,17 @@ async function tick(page, ms) { await page.clock.runFor(ms); }
     const { ctx, page } = await fresh(browser, { init: mute, clock: true });
     await page.goto(BASE);
     await page.click('[data-act="autonext"]');
-    await page.click('.lrow[data-id="hist-01a"] a.lt');
-    await page.click('[data-act="auto"]');
-    await tick(page, 200000);
-    ok('읽어 주기 끝 신호가 없으면 실패로 멈춤', await page.isVisible('#playErr') && lid(page) === 'hist-01a', await page.textContent('#playErrMsg'));
+    // 녹음이 하나도 없는 과로 시험한다(읽어 주기 길). 2026-11-23: hist-01a에 녹음이 생겨 고정 id를 버림.
+    const recLids = new Set(Object.keys(JSON.parse(fs.readFileSync(path.join(ROOT, 'audio/narration/manifest.json'), 'utf8')).records).map(k => k.split('#')[0]));
+    const ttsId = BOOK.find(id => !recLids.has(id));
+    if (!ttsId) {
+      ok('읽어 주기 끝 신호가 없으면 실패로 멈춤', true, '녹음 없는 과가 없어 건너뜀');
+    } else {
+      await page.click(`.lrow[data-id="${ttsId}"] a.lt`);
+      await page.click('[data-act="auto"]');
+      await tick(page, 200000);
+      ok('읽어 주기 끝 신호가 없으면 실패로 멈춤', await page.isVisible('#playErr') && lid(page) === ttsId, `${ttsId} · ` + await page.textContent('#playErrMsg'));
+    }
     await ctx.close();
   }
 

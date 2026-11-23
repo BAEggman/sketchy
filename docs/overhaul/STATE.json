@@ -52,7 +52,7 @@
   }
  ],
  "next": [
-  "남은 Gemini 편집 · 과 만들기 · 판독 → 의학사 묶음 끝 보고",
+  "사용자: 낭독 들어 보고 어색한 정거장 알림 · 보류 5과 결정 · 다음 녹음 장 선택",
   "P3-2 본초 148 사전 · 포제 · 금기",
   "P3-3 유주도 20",
   "P3-4 舍岩 寒熱格",
@@ -75,7 +75,7 @@
   "20261121-p3-jinyuan": "E1~E6 완료 · 두 판독자 11/12 · commit af95169"
  },
  "master_note": "docs/overhaul/MASTER_NOTE.md (= 프로젝트 claude/Sketchy_갈아엎기_마스터노트_20261121.md)",
- "handoff_bundle": "~/Downloads/sketchy_opus/sketchy_overhaul_20261121d.bundle (eb1c7e5, 중간본)",
+ "handoff_bundle": "push 완료 — origin/overhaul-20261120 = a85102c (옛 꾸러미 불필요)",
  "pilots": {
   "pilot-tao": "T1 v1",
   "pilot-wangbing": "T2 v2(편집 1회)",
@@ -83,5 +83,22 @@
   "pilot-xue": "T4 v2(옆 단면 새로)",
   "pilot-gv": "코드 SVG",
   "pilot-cho": "Run 2 v2(바탕 + 편집 3)"
+ },
+ "narration": {
+  "updated": "2026-11-23",
+  "recorded_lessons": 137,
+  "scope_done": "3·4·5장 78과(queue345) 전부 Gemini Kore 본녹음·반영 — 마지막 커밋 a85102c(mer-12), GitHub overhaul-20261120에 올라감(사용자 push 확인 2026-11-23)",
+  "build": "276과(목차 261·보관함 15)·정거장 2444·그림 276/276·썸네일 276/276·경고 31",
+  "listening_checked": false,
+  "listening_note": "사람이 들어 본 클립 없음. 자동 확인은 구간 수 = 무음 간격 수 + 1 뿐",
+  "hold_lessons": [
+   "suchi-06",
+   "suchi-14",
+   "suchi-16",
+   "qiqing-09",
+   "hist-06b"
+  ],
+  "not_recorded": "6·7·8·9·11·13장 등 나머지 장 + 보관함 15과 — 다음 장은 사용자가 정함",
+  "tools": "runs/20261122-narr-prod/(finish.sh · mkprompt.py · ingest.py · queue345.json · done.txt)"
  }
 }

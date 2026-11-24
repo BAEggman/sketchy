@@ -612,6 +612,7 @@
     lessonTimer = setTimeout(function () {
       lessonTimer = 0;
       if (gen !== lessonGen || !hub.autoNext || S.mode !== 'tour' || paused || document.hidden) return;
+      markAuto(true);                                 // 다음 그림 자동이면 새 그림도 정거장 자동으로 이어 간다(11-24 사용자)
       goLesson(id, true);
     }, 1500);
   }
@@ -891,7 +892,9 @@
       var ctx = t.dataset.ctx;
       if (ctx === 'shelf') setPlaylist(SHELF, 'shelf');
       else if (ctx === 'book' || ctx === 'path' || ctx === 'stars') setPlaylist(viewIds(ctx), ctx);
-      pushUrl(t.dataset.go, 'tour'); return;
+      pushUrl(t.dataset.go, 'tour');
+      if (hub.autoNext && S.L && S.L.id === t.dataset.go && S.mode === 'tour' && !S.auto) setAuto(true);   // 다음 그림 자동이 켜져 있으면 고른 그림부터 정거장 자동
+      return;
     }
     if (t.dataset.star) { setStar(t.dataset.id, +t.dataset.star); return; }
     if (t.dataset.ab) {
@@ -928,10 +931,10 @@
       case 'autonext':
         hub.autoNext = !hub.autoNext; saveHub(); syncHubControls();
         if (!hub.autoNext) { clearTimeout(lessonTimer); note(''); }
-        else if (S.L && S.mode === 'tour' && !S.auto) note('정거장 자동이 꺼져 있으면 되짚기까지 직접 넘긴 뒤 다음 그림으로 간다.');
+        else if (S.L && S.mode === 'tour' && !S.auto) setAuto(true);   // 다음 그림 자동을 켜면 정거장 자동도 함께 켠다
         break;
-      case 'prevlesson': goLesson(neighbor(-1, false), false); break;
-      case 'nextlesson': goLesson(neighbor(1, false), false); break;
+      case 'prevlesson': if (hub.autoNext) markAuto(true); goLesson(neighbor(-1, false), hub.autoNext); break;
+      case 'nextlesson': if (hub.autoNext) markAuto(true); goLesson(neighbor(1, false), hub.autoNext); break;
       case 'skip':
         hideErr();
         if (S.i < S.L.stations.length - 1) goTour(S.i + 1);

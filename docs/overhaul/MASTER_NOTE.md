@@ -108,7 +108,7 @@
 - 기능: 왼쪽 썸네일(`images/thumbs/<id>.webp`, 240px, `src/lessons/tools/make_thumbs.py`) · 오른쪽 별 0~3 · 보기 셋(교재 순서 · 추천 학습 순서 · 별표만) · 다음 그림 자동 넘김(「정거장 자동」과 따로) · 반복(끔 · 이 그림 · 구간 A–B · 전체) · 재생 목록은 재생 시작 순간의 보기로 고정(sessionStorage) · 별표 · 설정 내보내기/가져오기 · 저장 막힘이면 메모리로 돌고 알림 · 탭 숨김이면 걸린 타이머를 지우고 「이어서」 · 녹음 · 읽어 주기가 끝 신호 없이 멈추면 실패(다시 · 건너뛰기).
 - 저장 키: `sketchy_hub_v1`(별표 · 설정), `sketchy_hub_playlist_v1`(세션), 기존 `sketchy_lessons_v1`(시험 기록) · `sketchy_lessons_prefs_v1`는 그대로.
 - 빌드: `python3 src/lessons/tools/make_thumbs.py && python3 src/lessons/build_player.py`. 빌더가 목차를 검사한다(한 번씩 · 없는 id · level · 선행 순환).
-- 시험: `python3 -m http.server 8765 --bind 127.0.0.1 &` 뒤 `node qa/hub_p1_test.js 8765`(40항목, Playwright clock 사용). 캡처는 `docs/overhaul/p1_shots/`.
+- 시험: `python3 -m http.server 8765 --bind 127.0.0.1 &` 뒤 `node qa/hub_p1_test.js 8765`(41항목 — 11-24 「다음 그림 자동 → 정거장 자동 이어짐」 추가, Playwright clock 사용). 캡처는 `docs/overhaul/p1_shots/`.
 - 허브 `index.html` 맨 위에 「교재 목차로 보기」 링크(빌더 `src/build_local.py`에도 넣음).
 
 ### P2 Run 1 — 의학사 시범 넷 (`runs/20261120-p2-hist/`)

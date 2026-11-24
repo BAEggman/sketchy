@@ -27,6 +27,8 @@ async function fresh(browser, opts = {}) {
 }
 const lid = page => new URL(page.url()).searchParams.get('l');
 async function tick(page, ms) { await page.clock.runFor(ms); }
+// 정거장 자동을 켠다(이미 켜져 있으면 그대로). 11-24부터 다음 그림 자동이 켜져 있으면 과를 열 때 저절로 켜진다.
+async function autoOn(page) { if ((await page.getAttribute('[data-act="auto"]', 'aria-pressed')) !== 'true') await page.click('[data-act="auto"]'); }
 
 (async () => {
   const browser = await chromium.launch();
@@ -134,7 +136,7 @@ async function tick(page, ms) { await page.clock.runFor(ms); }
     const r = await autoRun('자동: 반복 끔 → 교재 다음 과', async p => {
       await p.click('[data-act="autonext"]');
       await p.click('.lrow[data-id="hist-14"] a.lt');
-      await p.click('[data-act="auto"]');
+      await autoOn(p);
     }, ['hist-14', BOOK[i + 1]]);
     await r.ctx.close();
   }
@@ -144,7 +146,7 @@ async function tick(page, ms) { await page.clock.runFor(ms); }
     await page.goto(BASE);
     await page.click('[data-act="autonext"]');
     await page.click(`.lrow[data-id="${last}"] a.lt`);
-    await page.click('[data-act="auto"]');
+    await autoOn(page);
     for (let k = 0; k < 20; k++) await tick(page, 15000);
     ok('자동: 반복 끔 · 재생 목록 끝에서 멈춤', lid(page) === last && (await page.textContent('#autoNote')).includes('끝'), lid(page));
     await ctx.close();
@@ -155,7 +157,7 @@ async function tick(page, ms) { await page.clock.runFor(ms); }
     await page.click('[data-act="autonext"]');
     await page.selectOption('#listView select[data-role="repeat"]', 'one');
     await page.click('.lrow[data-id="hist-11"] a.lt');
-    await page.click('[data-act="auto"]');
+    await autoOn(page);
     let back = false;
     for (let k = 0; k < 30 && !back; k++) {
       await tick(page, 5000);
@@ -172,7 +174,7 @@ async function tick(page, ms) { await page.clock.runFor(ms); }
       await p.click('.lrow[data-id="hist-13"] [data-ab="a"]');
       await p.click('.lrow[data-id="hist-14"] [data-ab="b"]');
       await p.click('.lrow[data-id="hist-13"] a.lt');
-      await p.click('[data-act="auto"]');
+      await autoOn(p);
     }, ['hist-13', 'hist-14', 'hist-13']);
     await r.ctx.close();
   }
@@ -184,7 +186,7 @@ async function tick(page, ms) { await page.clock.runFor(ms); }
       await p.selectOption('#listView select[data-role="repeat"]', 'all');
       await p.click('[data-view="stars"]');
       await p.click('.lrow[data-id="yyox-11"] a.lt');
-      await p.click('[data-act="auto"]');
+      await autoOn(p);
     }, ['yyox-11', 'yyox-13', 'yyox-11']);
     const pos = await r.page.textContent('#plPos');
     ok('재생 목록 표시', pos.includes('/ 2') && pos.includes('별표만'), pos);
@@ -196,7 +198,7 @@ async function tick(page, ms) { await page.clock.runFor(ms); }
     await page.selectOption('#listView select[data-role="repeat"]', 'all');
     const last = BOOK[BOOK.length - 1];
     await page.click(`.lrow[data-id="${last}"] a.lt`);
-    await page.click('[data-act="auto"]');
+    await autoOn(page);
     for (let k = 0; k < 15; k++) await tick(page, 15000);
     ok('자동 넘김 끔이면 반복이 켜져도 저절로 안 넘어감', lid(page) === last);
     await page.click('[data-act="nextlesson"]');
@@ -222,7 +224,7 @@ async function tick(page, ms) { await page.clock.runFor(ms); }
     await tick(page, 120000);
     ok('시험 모드에서는 자동으로 안 넘어감', lid(page) === 'hist-12');
     await page.goto(BASE + '?l=hist-12');
-    await page.click('[data-act="auto"]');
+    await autoOn(page);
     await page.evaluate(() => { Object.defineProperty(document, 'hidden', { configurable: true, get: () => true }); document.dispatchEvent(new Event('visibilitychange')); });
     const i0 = await page.textContent('#tCount');
     await tick(page, 120000);
@@ -255,7 +257,7 @@ async function tick(page, ms) { await page.clock.runFor(ms); }
     await page.click(`.lrow[data-id="${rid}"] a.lt`);
     const idx = await page.evaluate(n => [...document.querySelectorAll('#tDots .dot')].findIndex(d => d.textContent === n || (n === '0' && d.textContent === '틀')), rn);
     await page.click(`#tDots .dot[data-i="${Math.max(0, idx)}"]`);
-    await page.click('[data-act="auto"]');
+    await autoOn(page);
     await tick(page, 3000);
     const c0 = await page.textContent('#tCount');
     await tick(page, 60000);
@@ -276,7 +278,7 @@ async function tick(page, ms) { await page.clock.runFor(ms); }
       ok('읽어 주기 끝 신호가 없으면 실패로 멈춤', true, '녹음 없는 과가 없어 건너뜀');
     } else {
       await page.click(`.lrow[data-id="${ttsId}"] a.lt`);
-      await page.click('[data-act="auto"]');
+      await autoOn(page);
       await tick(page, 200000);
       ok('읽어 주기 끝 신호가 없으면 실패로 멈춤', await page.isVisible('#playErr') && lid(page) === ttsId, `${ttsId} · ` + await page.textContent('#playErrMsg'));
     }
@@ -324,6 +326,21 @@ async function tick(page, ms) { await page.clock.runFor(ms); }
     await ctx.close();
   }
 
+  {   // 11-24: 다음 그림 자동을 켜면 정거장 자동도 켜지고, 다음 그림에서도 정거장 자동이 이어진다
+    const okAudio = `window.Audio = function(src){ var a = { src:src, playbackRate:1, onended:null, onerror:null, pause(){}, load(){}, removeAttribute(){},
+      play(){ var self=this; setTimeout(function(){ self.onended && self.onended(new Event('ended')); }, 50); return Promise.resolve(); } }; return a; };
+      localStorage.setItem('sketchy_lessons_prefs_v1', JSON.stringify({rate:1, voice:true}));`;
+    const { ctx, page } = await fresh(browser, { init: okAudio, clock: true });
+    await page.goto(BASE);
+    await page.click('.lrow[data-id="new-gr-14"] a.lt');
+    await tick(page, 300);
+    await page.click('[data-act="autonext"]:visible');
+    const on1 = await page.getAttribute('[data-act="auto"]', 'aria-pressed');
+    let moved = 0, l0 = lid(page);
+    for (let k = 0; k < 60 && moved < 2; k++) { await tick(page, 2000); const l = lid(page); if (l !== l0) { moved++; l0 = l; } }
+    ok('다음 그림 자동 → 정거장 자동도 켜지고 그림이 바뀌어도 이어짐', on1 === 'true' && moved >= 2 && (await page.getAttribute('[data-act="auto"]', 'aria-pressed')) === 'true', `넘어간 그림 ${moved}`);
+    await ctx.close();
+  }
   await browser.close();
   const pass = results.filter(r => r.pass).length;
   results.forEach(r => console.log((r.pass ? 'PASS ' : 'FAIL ') + r.name + (r.extra ? '  — ' + r.extra : '')));

@@ -1,2303 +1,2056 @@
 {
- "book": "한의학개론(理知 아카데미)",
- "version": "2026-11-20",
- "source": "목차 = 교재 目次(원문 p.5). 줄 번호 = 한의학개론_p001-250_최종.txt. 배치 근거 = docs/overhaul/P1_placement.md",
- "levels": {
-  "0": "공용 사전",
-  "1": "총론",
-  "2": "각론",
-  "3": "감별 · 혼동 · 원문 · 표 인출"
- },
- "chapters": [
-  {
-   "id": "base",
-   "title": "韓醫學槪論을 위한 基本常識",
-   "page": 6,
-   "sections": [
+  "book": "한의학개론(理知 아카데미)",
+  "version": "2026-11-20",
+  "source": "목차 = 교재 目次(원문 p.5). 줄 번호 = 한의학개론_p001-250_최종.txt. 배치 근거 = docs/overhaul/P1_placement.md",
+  "levels": {
+    "0": "공용 사전",
+    "1": "총론",
+    "2": "각론",
+    "3": "감별 · 혼동 · 원문 · 표 인출"
+  },
+  "chapters": [
     {
-     "id": "base",
-     "title": "韓醫學槪論을 위한 基本常識",
-     "page": 6,
-     "lines": [
-      70,
-      139
-     ],
-     "gap": "기본상식(동서의학 차이 · 整體觀念 · 辨證論治) 과 없음",
-     "items": []
+      "id": "base",
+      "title": "韓醫學槪論을 위한 基本常識",
+      "page": 6,
+      "sections": [
+        {
+          "id": "base",
+          "title": "韓醫學槪論을 위한 基本常識",
+          "page": 6,
+          "lines": [
+            70,
+            139
+          ],
+          "gap": "기본상식(동서의학 차이 · 整體觀念 · 辨證論治) 과 없음",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "ch01",
+      "title": "제1장 醫學史",
+      "page": 8,
+      "sections": [
+        {
+          "id": "ch01-s1",
+          "title": "제1절 中國醫學史",
+          "page": 8,
+          "lines": [
+            141,
+            422
+          ],
+          "items": [
+            {
+              "lesson": "new-etc-01",
+              "level": 1,
+              "sub": "先秦 · 漢 · 晉"
+            },
+            {
+              "lesson": "hist-01a",
+              "level": 2,
+              "sub": "先秦 · 漢 · 晉"
+            },
+            {
+              "lesson": "hist-01b",
+              "level": 2,
+              "sub": "先秦 · 漢 · 晉"
+            },
+            {
+              "lesson": "hist-02a",
+              "level": 2,
+              "sub": "南北朝 · 隋"
+            },
+            {
+              "lesson": "hist-02b",
+              "level": 2,
+              "sub": "南北朝 · 隋"
+            },
+            {
+              "lesson": "hist-03a",
+              "level": 2,
+              "sub": "唐"
+            },
+            {
+              "lesson": "hist-03b",
+              "level": 2,
+              "sub": "唐"
+            },
+            {
+              "lesson": "hist-03c",
+              "level": 2,
+              "sub": "唐"
+            },
+            {
+              "lesson": "hist-04",
+              "level": 2,
+              "sub": "宋"
+            },
+            {
+              "lesson": "new-etc-02",
+              "level": 2,
+              "sub": "宋"
+            },
+            {
+              "lesson": "new-etc-03",
+              "level": 2,
+              "sub": "宋"
+            },
+            {
+              "lesson": "hist-05a",
+              "level": 2,
+              "sub": "宋"
+            },
+            {
+              "lesson": "hist-06a",
+              "level": 2,
+              "sub": "金 · 元"
+            },
+            {
+              "lesson": "hist-06b",
+              "level": 2,
+              "sub": "金 · 元"
+            },
+            {
+              "lesson": "pilot-duben",
+              "level": 2,
+              "see_also": [
+                "hist-06b"
+              ],
+              "note": "P2 시범에서 옮김(2026-11-23) · hist-06b와 같은 杜本",
+              "sub": "金 · 元"
+            },
+            {
+              "lesson": "hist-05b",
+              "level": 2,
+              "prereq": [
+                "hist-05a"
+              ],
+              "sub": "金 · 元 → 明 · 淸 本草書"
+            },
+            {
+              "lesson": "hist-07a",
+              "level": 2,
+              "see_also": [
+                "new-gr-02",
+                "new-gr-31",
+                "new-gr-32"
+              ],
+              "sub": "鍼灸書 · 혈 수 계보"
+            },
+            {
+              "lesson": "hist-07b",
+              "level": 2,
+              "prereq": [
+                "hist-07a"
+              ],
+              "sub": "鍼灸書 · 혈 수 계보"
+            },
+            {
+              "lesson": "hist-08a",
+              "level": 2,
+              "sub": "明 · 淸"
+            },
+            {
+              "lesson": "hist-08b",
+              "level": 2,
+              "prereq": [
+                "hist-08a"
+              ],
+              "sub": "明 · 淸"
+            },
+            {
+              "lesson": "hist-09",
+              "level": 2,
+              "sub": "明 · 淸"
+            },
+            {
+              "lesson": "hist-10",
+              "level": 2,
+              "sub": "明 · 淸"
+            },
+            {
+              "lesson": "new-etc-04",
+              "level": 2,
+              "sub": "方書 계보(통시)"
+            }
+          ]
+        },
+        {
+          "id": "ch01-s2",
+          "title": "제2절 韓國醫學史",
+          "lines": [
+            423,
+            448
+          ],
+          "items": [
+            {
+              "lesson": "hist-11",
+              "level": 1
+            },
+            {
+              "lesson": "hist-12",
+              "level": 2
+            },
+            {
+              "lesson": "hist-13",
+              "level": 2
+            },
+            {
+              "lesson": "hist-14",
+              "level": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "title": "제2장 天人相應과 醫易(陰陽五行)",
+      "page": 16,
+      "sections": [
+        {
+          "id": "ch02-s1",
+          "title": "제1절 天人相應",
+          "page": 16,
+          "lines": [
+            450,
+            472
+          ],
+          "items": [
+            {
+              "lesson": "yyox-01",
+              "level": 1
+            },
+            {
+              "lesson": "yyox-05",
+              "level": 2,
+              "prereq": [
+                "yyox-03"
+              ]
+            },
+            {
+              "lesson": "new-uk-01",
+              "level": 3,
+              "prereq": [
+                "yyox-01"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch02-s2",
+          "title": "제2절 醫易",
+          "lines": [
+            473,
+            691
+          ],
+          "items": [
+            {
+              "lesson": "yyox-02",
+              "level": 1
+            },
+            {
+              "lesson": "new-uk-04",
+              "level": 2,
+              "prereq": [
+                "yyox-02"
+              ]
+            },
+            {
+              "lesson": "new-uk-06",
+              "level": 2,
+              "prereq": [
+                "yyox-02"
+              ]
+            },
+            {
+              "lesson": "new-uk-03",
+              "level": 3,
+              "prereq": [
+                "yyox-02"
+              ]
+            },
+            {
+              "lesson": "new-uk-05",
+              "level": 3,
+              "prereq": [
+                "yyox-02"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch02-s3",
+          "title": "제3절 五行學說",
+          "lines": [
+            692,
+            904
+          ],
+          "items": [
+            {
+              "lesson": "yyox-03",
+              "level": 1
+            },
+            {
+              "lesson": "yyox-04",
+              "level": 2
+            },
+            {
+              "lesson": "new-uk-07",
+              "level": 2,
+              "see_also": [
+                "yyox-06"
+              ],
+              "note": "교재 줄 근거 약함 — 확인 필요"
+            },
+            {
+              "lesson": "yyox-07",
+              "level": 2
+            },
+            {
+              "lesson": "yyox-08",
+              "level": 2
+            },
+            {
+              "lesson": "yyox-09",
+              "level": 2
+            },
+            {
+              "lesson": "yyox-10",
+              "level": 2,
+              "prereq": [
+                "yyox-08"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch02-s4",
+          "title": "제4절 八卦",
+          "lines": [
+            905,
+            932
+          ],
+          "items": [
+            {
+              "lesson": "yyox-11",
+              "level": 1
+            },
+            {
+              "lesson": "yyox-12",
+              "level": 2,
+              "prereq": [
+                "yyox-11"
+              ]
+            },
+            {
+              "lesson": "yyox-13",
+              "level": 2,
+              "prereq": [
+                "yyox-11"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ch03",
+      "title": "제3장 五運六氣",
+      "page": 31,
+      "sections": [
+        {
+          "id": "ch03-s1",
+          "title": "제1절 槪說",
+          "page": 31,
+          "lines": [
+            934,
+            1226
+          ],
+          "items": [
+            {
+              "lesson": "yyox-14",
+              "level": 1
+            },
+            {
+              "lesson": "new-uk-08",
+              "level": 2,
+              "prereq": [
+                "yyox-14"
+              ]
+            },
+            {
+              "lesson": "new-uk-09",
+              "level": 2,
+              "prereq": [
+                "new-uk-08"
+              ]
+            },
+            {
+              "lesson": "new-uk-10",
+              "level": 2,
+              "prereq": [
+                "yyox-14"
+              ]
+            },
+            {
+              "lesson": "new-uk-11",
+              "level": 2,
+              "prereq": [
+                "new-uk-10"
+              ]
+            },
+            {
+              "lesson": "new-uk-12",
+              "level": 2,
+              "prereq": [
+                "new-uk-11"
+              ]
+            },
+            {
+              "lesson": "new-uk-13",
+              "level": 3,
+              "prereq": [
+                "new-uk-08",
+                "new-uk-11"
+              ]
+            },
+            {
+              "lesson": "new-uk-14",
+              "level": 2,
+              "prereq": [
+                "new-uk-10"
+              ]
+            },
+            {
+              "lesson": "new-uk-15",
+              "level": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ch04",
+      "title": "제4장 精神氣血津液",
+      "page": 41,
+      "sections": [
+        {
+          "id": "ch04-s0",
+          "title": "(장 머리) 精·神·氣·血·津液",
+          "page": 41,
+          "lines": [
+            1227,
+            1247
+          ],
+          "items": [
+            {
+              "lesson": "new-jq-01",
+              "level": 1
+            },
+            {
+              "lesson": "new-jq-02",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "id": "ch04-s1",
+          "title": "제1절 精",
+          "lines": [
+            1248,
+            1282
+          ],
+          "items": [
+            {
+              "lesson": "new-jq-03",
+              "level": 1
+            },
+            {
+              "lesson": "new-jq-04",
+              "level": 2
+            },
+            {
+              "lesson": "new-jq-05",
+              "level": 2
+            }
+          ]
+        },
+        {
+          "id": "ch04-s2",
+          "title": "제2절 神",
+          "lines": [
+            1283,
+            1323
+          ],
+          "items": [
+            {
+              "lesson": "new-jq-12",
+              "level": 1
+            },
+            {
+              "lesson": "new-jq-13",
+              "level": 2
+            },
+            {
+              "lesson": "new-jq-14",
+              "level": 2
+            }
+          ]
+        },
+        {
+          "id": "ch04-s3",
+          "title": "제3절 氣",
+          "lines": [
+            1324,
+            1475
+          ],
+          "items": [
+            {
+              "lesson": "new-jq-06",
+              "level": 1
+            },
+            {
+              "lesson": "new-jq-07",
+              "level": 2
+            },
+            {
+              "lesson": "new-jq-08",
+              "level": 2
+            },
+            {
+              "lesson": "new-jq-09",
+              "level": 2,
+              "prereq": [
+                "new-jq-06"
+              ]
+            },
+            {
+              "lesson": "new-jq-10",
+              "level": 2,
+              "prereq": [
+                "new-jq-06"
+              ]
+            },
+            {
+              "lesson": "new-jq-11",
+              "level": 2,
+              "prereq": [
+                "new-jq-06"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch04-s4",
+          "title": "제4절 血",
+          "lines": [
+            1476,
+            1517
+          ],
+          "items": [
+            {
+              "lesson": "new-jq-16",
+              "level": 1
+            },
+            {
+              "lesson": "new-jq-17",
+              "level": 2
+            }
+          ]
+        },
+        {
+          "id": "ch04-s5",
+          "title": "제5절 津液",
+          "lines": [
+            1518,
+            1561
+          ],
+          "items": [
+            {
+              "lesson": "new-jq-18",
+              "level": 1
+            },
+            {
+              "lesson": "new-jq-19",
+              "level": 2
+            }
+          ]
+        },
+        {
+          "id": "ch04-s6",
+          "title": "제6절 氣, 血, 津液의 相互關係",
+          "lines": [
+            1562,
+            1613
+          ],
+          "items": [
+            {
+              "lesson": "new-jq-20",
+              "level": 2
+            },
+            {
+              "lesson": "new-jq-21",
+              "level": 2
+            },
+            {
+              "lesson": "new-jq-22",
+              "level": 2
+            },
+            {
+              "lesson": "new-jq-23",
+              "level": 3,
+              "prereq": [
+                "new-jq-02"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ch05",
+      "title": "제5장 經絡",
+      "page": 56,
+      "sections": [
+        {
+          "id": "ch05-s1",
+          "title": "제1절 經絡의 槪念",
+          "page": 56,
+          "lines": [
+            1615,
+            1624
+          ],
+          "items": [
+            {
+              "lesson": "new-gr-01",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "id": "ch05-s2",
+          "title": "제2절 경락학설",
+          "lines": [
+            1625,
+            1648
+          ],
+          "items": [
+            {
+              "lesson": "new-gr-02",
+              "level": 2,
+              "see_also": [
+                "hist-07a",
+                "hist-07b"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch05-s3",
+          "title": "제3절 經絡의 構成",
+          "lines": [
+            1649,
+            1671
+          ],
+          "items": [
+            {
+              "lesson": "new-gr-04",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "id": "ch05-s4",
+          "title": "제4절 經絡의 生理機能",
+          "lines": [
+            1672,
+            1683
+          ],
+          "items": [
+            {
+              "lesson": "new-gr-03",
+              "level": 2
+            }
+          ]
+        },
+        {
+          "id": "ch05-s5",
+          "title": "제5절 經絡學說의 운용",
+          "lines": [
+            1684,
+            1712
+          ],
+          "items": [
+            {
+              "lesson": "new-gr-39",
+              "level": 2
+            },
+            {
+              "lesson": "new-gr-40",
+              "level": 2,
+              "see_also": [
+                "new-etc-15"
+              ]
+            },
+            {
+              "lesson": "new-gr-18",
+              "level": 2
+            }
+          ]
+        },
+        {
+          "id": "ch05-s6",
+          "title": "제6절 十二經脈",
+          "lines": [
+            1713,
+            1888
+          ],
+          "items": [
+            {
+              "lesson": "mer-02",
+              "level": 1,
+              "sub": "1. 개념 · 분포"
+            },
+            {
+              "lesson": "mer-04",
+              "level": 2,
+              "sub": "1. 개념 · 분포"
+            },
+            {
+              "lesson": "new-gr-08",
+              "level": 2,
+              "sub": "1. 개념 · 분포"
+            },
+            {
+              "lesson": "new-gr-07",
+              "level": 1,
+              "sub": "2. 流注"
+            },
+            {
+              "lesson": "new-gr-35",
+              "level": 2,
+              "sub": "2. 流注"
+            },
+            {
+              "lesson": "new-gr-09",
+              "level": 3,
+              "prereq": [
+                "new-gr-07"
+              ],
+              "sub": "2. 流注"
+            },
+            {
+              "lesson": "new-gr-42",
+              "level": 3,
+              "prereq": [
+                "new-gr-07"
+              ],
+              "sub": "2. 流注 — 원문"
+            },
+            {
+              "lesson": "new-gr-43",
+              "level": 3,
+              "prereq": [
+                "new-gr-07"
+              ],
+              "sub": "2. 流注 — 원문"
+            },
+            {
+              "lesson": "new-gr-44",
+              "level": 3,
+              "prereq": [
+                "new-gr-07"
+              ],
+              "sub": "2. 流注 — 원문"
+            },
+            {
+              "lesson": "new-gr-45",
+              "level": 3,
+              "prereq": [
+                "new-gr-07"
+              ],
+              "sub": "2. 流注 — 원문"
+            },
+            {
+              "lesson": "new-gr-46",
+              "level": 3,
+              "prereq": [
+                "new-gr-07"
+              ],
+              "sub": "2. 流注 — 원문"
+            },
+            {
+              "lesson": "new-gr-47",
+              "level": 3,
+              "prereq": [
+                "new-gr-07"
+              ],
+              "sub": "2. 流注 — 원문"
+            },
+            {
+              "lesson": "new-gr-10",
+              "level": 1,
+              "sub": "3. 是動 · 所生"
+            },
+            {
+              "lesson": "mer-03",
+              "level": 2,
+              "prereq": [
+                "new-gr-10"
+              ],
+              "sub": "3. 是動 · 所生"
+            },
+            {
+              "lesson": "new-gr-11",
+              "level": 2,
+              "prereq": [
+                "new-gr-10"
+              ],
+              "sub": "3. 是動 · 所生"
+            },
+            {
+              "lesson": "new-gr-15",
+              "level": 2,
+              "sub": "4. 標本 · 根結 · 氣街"
+            },
+            {
+              "lesson": "new-gr-31",
+              "level": 2,
+              "sub": "經穴圖 · 혈 수"
+            },
+            {
+              "lesson": "new-gr-32",
+              "level": 2,
+              "sub": "經穴圖 · 혈 수"
+            },
+            {
+              "lesson": "new-gr-36",
+              "level": 2,
+              "sub": "經穴圖 · 혈 수",
+              "note": "骨度는 교재 본문에 없다(사용자 기본서)"
+            },
+            {
+              "lesson": "new-gr-41",
+              "level": 3,
+              "sub": "經穴圖 · 혈 수"
+            }
+          ]
+        },
+        {
+          "id": "ch05-s7",
+          "title": "제7절 十二經別 · 15絡脈 · 奇經八脈 · 十二經筋 · 十二皮部",
+          "lines": [
+            1889,
+            2023
+          ],
+          "items": [
+            {
+              "lesson": "new-gr-05",
+              "level": 2,
+              "sub": "1. 經別 · 4. 經筋"
+            },
+            {
+              "lesson": "new-gr-12",
+              "level": 1,
+              "sub": "3. 奇經八脈"
+            },
+            {
+              "lesson": "new-gr-13",
+              "level": 2,
+              "prereq": [
+                "new-gr-12"
+              ],
+              "sub": "3. 奇經八脈"
+            },
+            {
+              "lesson": "pilot-gv",
+              "level": 2,
+              "prereq": [
+                "new-gr-13"
+              ],
+              "see_also": [
+                "new-gr-12",
+                "new-gr-14"
+              ],
+              "note": "P2 시범에서 옮김(2026-11-23) · 코드로 그린 유주도 · 빈 판 images/lessons/pilot-gv-blank.webp",
+              "sub": "3. 奇經八脈"
+            },
+            {
+              "lesson": "new-gr-14",
+              "level": 2,
+              "prereq": [
+                "new-gr-12"
+              ],
+              "sub": "3. 奇經八脈"
+            },
+            {
+              "lesson": "new-gr-06",
+              "level": 2,
+              "sub": "5. 皮部"
+            }
+          ]
+        },
+        {
+          "id": "ch05-s8",
+          "title": "(7절 뒤) 腧穴 — 五腧穴 · 特殊穴 · 常用穴",
+          "lines": [
+            2024,
+            2114
+          ],
+          "items": [
+            {
+              "lesson": "mer-05",
+              "level": 1,
+              "sub": "五腧穴"
+            },
+            {
+              "lesson": "mer-06",
+              "level": 2,
+              "prereq": [
+                "mer-05"
+              ],
+              "sub": "五腧穴"
+            },
+            {
+              "lesson": "new-gr-16",
+              "level": 2,
+              "prereq": [
+                "mer-05"
+              ],
+              "sub": "五腧穴"
+            },
+            {
+              "lesson": "mer-09",
+              "level": 2,
+              "sub": "特殊穴"
+            },
+            {
+              "lesson": "mer-10",
+              "level": 2,
+              "sub": "特殊穴"
+            },
+            {
+              "lesson": "new-gr-33",
+              "level": 2,
+              "sub": "特殊穴"
+            },
+            {
+              "lesson": "new-gr-34",
+              "level": 2,
+              "prereq": [
+                "new-gr-33"
+              ],
+              "sub": "特殊穴"
+            },
+            {
+              "lesson": "mer-08",
+              "level": 2,
+              "sub": "特殊穴"
+            },
+            {
+              "lesson": "mer-07",
+              "level": 2,
+              "sub": "特殊穴"
+            },
+            {
+              "lesson": "mer-13",
+              "level": 2,
+              "sub": "特殊穴"
+            },
+            {
+              "lesson": "new-gr-37",
+              "level": 2,
+              "sub": "特殊穴"
+            },
+            {
+              "lesson": "new-gr-17",
+              "level": 2,
+              "sub": "常用穴"
+            },
+            {
+              "lesson": "new-gr-38",
+              "level": 2,
+              "sub": "常用穴"
+            }
+          ]
+        },
+        {
+          "id": "ch05-x1",
+          "title": "(보충) 舍岩鍼法 — 교재 본문 밖, 사용자 기본서 5장",
+          "note": "교재에는 서명만 있다(15장 1절). 표는 사용자 기본서 5장과 사암 노래 문서",
+          "items": [
+            {
+              "lesson": "mer-11",
+              "level": 2,
+              "prereq": [
+                "mer-06"
+              ]
+            },
+            {
+              "lesson": "mer-12",
+              "level": 2,
+              "prereq": [
+                "mer-11"
+              ]
+            }
+          ],
+          "links": [
+            {
+              "href": "saam.html",
+              "label": "舍岩 표 트레이너 (正格 · 勝格) — 24칸을 규칙으로 풀고 내 문장으로 검산"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ch06",
+      "title": "제6장 臟象論",
+      "page": 93,
+      "sections": [
+        {
+          "id": "ch06-s0",
+          "title": "(장 머리) 藏象 총론",
+          "page": 93,
+          "lines": [
+            2115,
+            2186
+          ],
+          "items": [
+            {
+              "lesson": "new-zj-01",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "id": "ch06-s1",
+          "title": "제1절 五臟六腑의 機能",
+          "lines": [
+            2187,
+            2775
+          ],
+          "items": [
+            {
+              "lesson": "new-zj-02",
+              "level": 2,
+              "sub": "1. 肝 · 膽"
+            },
+            {
+              "lesson": "zds-01",
+              "level": 2,
+              "sub": "1. 肝 · 膽"
+            },
+            {
+              "lesson": "new-zj-03",
+              "level": 2,
+              "sub": "2. 心 · 小腸"
+            },
+            {
+              "lesson": "zds-02",
+              "level": 2,
+              "sub": "2. 心 · 小腸"
+            },
+            {
+              "lesson": "new-zj-04",
+              "level": 2,
+              "sub": "3. 脾 · 胃"
+            },
+            {
+              "lesson": "zds-03",
+              "level": 2,
+              "sub": "3. 脾 · 胃"
+            },
+            {
+              "lesson": "new-zj-05",
+              "level": 2,
+              "sub": "4. 肺 · 大腸"
+            },
+            {
+              "lesson": "zds-04",
+              "level": 2,
+              "sub": "4. 肺 · 大腸"
+            },
+            {
+              "lesson": "new-zj-06",
+              "level": 2,
+              "sub": "5. 腎 · 膀胱"
+            },
+            {
+              "lesson": "zds-05",
+              "level": 2,
+              "sub": "5. 腎 · 膀胱"
+            },
+            {
+              "lesson": "new-zj-07",
+              "level": 2,
+              "prereq": [
+                "new-zj-06"
+              ],
+              "sub": "6. 命門"
+            },
+            {
+              "lesson": "new-zj-08",
+              "level": 2,
+              "sub": "本神(五臟 공통)"
+            },
+            {
+              "lesson": "new-jq-15",
+              "level": 2,
+              "prereq": [
+                "new-jq-13"
+              ],
+              "sub": "本神(五臟 공통)"
+            },
+            {
+              "lesson": "new-zj-09",
+              "level": 2,
+              "sub": "六腑 · 7. 三焦"
+            },
+            {
+              "lesson": "new-zj-10",
+              "level": 2,
+              "sub": "六腑 · 7. 三焦"
+            },
+            {
+              "lesson": "new-zj-11",
+              "level": 2,
+              "sub": "9. 奇恒之府"
+            },
+            {
+              "lesson": "new-zj-13",
+              "level": 2,
+              "sub": "10. 臟腑 사이의 관계"
+            },
+            {
+              "lesson": "new-zj-14",
+              "level": 2,
+              "sub": "10. 臟腑 사이의 관계"
+            },
+            {
+              "lesson": "new-zj-12",
+              "level": 2,
+              "sub": "11. 七衝門"
+            },
+            {
+              "lesson": "new-zj-15",
+              "level": 3,
+              "sub": "대조표 · 원문"
+            },
+            {
+              "lesson": "zds-06",
+              "level": 3,
+              "sub": "대조표 · 원문"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ch07",
+      "title": "제7장 病因學說과 發病",
+      "page": 123,
+      "sections": [
+        {
+          "id": "ch07-s1",
+          "title": "제1절 病因",
+          "page": 123,
+          "lines": [
+            2782,
+            2982
+          ],
+          "items": [
+            {
+              "lesson": "new-etc-05",
+              "level": 1
+            },
+            {
+              "lesson": "hp-08",
+              "level": 2
+            },
+            {
+              "lesson": "hp-09",
+              "level": 2
+            },
+            {
+              "lesson": "hp-10",
+              "level": 2
+            },
+            {
+              "lesson": "new-etc-08",
+              "level": 2,
+              "prereq": [
+                "hp-08"
+              ]
+            },
+            {
+              "lesson": "hp-11",
+              "level": 2
+            },
+            {
+              "lesson": "new-etc-06",
+              "level": 2,
+              "prereq": [
+                "hp-11"
+              ]
+            },
+            {
+              "lesson": "hp-13",
+              "level": 2
+            },
+            {
+              "lesson": "new-etc-07",
+              "level": 2,
+              "prereq": [
+                "hp-13"
+              ]
+            },
+            {
+              "lesson": "hp-12",
+              "level": 2
+            }
+          ]
+        },
+        {
+          "id": "ch07-s2",
+          "title": "제2절 發病原理",
+          "lines": [
+            2983,
+            3003
+          ],
+          "gap": "發病原理 과 없음",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "ch08",
+      "title": "제8장 病機學說",
+      "page": 134,
+      "sections": [
+        {
+          "id": "ch08-s0",
+          "title": "(장 머리) 基本病機 · 十九病機",
+          "page": 134,
+          "lines": [
+            3004,
+            3012
+          ],
+          "gap": "장 머리(基本病機 개관) 과 없음 — 病機十九條는 7절로",
+          "items": []
+        },
+        {
+          "id": "ch08-s1",
+          "title": "제1절 邪正盛衰(虛實)",
+          "lines": [
+            3013,
+            3024
+          ],
+          "items": [
+            {
+              "lesson": "hp-14",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "id": "ch08-s2",
+          "title": "제2절 陰陽失調",
+          "lines": [
+            3025,
+            3039
+          ],
+          "items": [
+            {
+              "lesson": "hp-15",
+              "level": 2
+            },
+            {
+              "lesson": "new-etc-10",
+              "level": 2,
+              "prereq": [
+                "hp-15"
+              ]
+            },
+            {
+              "lesson": "hp-16",
+              "level": 3,
+              "prereq": [
+                "hp-15"
+              ]
+            },
+            {
+              "lesson": "hp-17",
+              "level": 2
+            }
+          ]
+        },
+        {
+          "id": "ch08-s3",
+          "title": "제3절 氣血失調",
+          "lines": [
+            3040,
+            3046
+          ],
+          "items": [
+            {
+              "lesson": "hp-18",
+              "level": 2
+            },
+            {
+              "lesson": "new-etc-11",
+              "level": 2,
+              "prereq": [
+                "hp-18"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch08-s4",
+          "title": "제4절 津液代謝 失常",
+          "lines": [
+            3047,
+            3049
+          ],
+          "items": [
+            {
+              "lesson": "new-etc-12",
+              "level": 2
+            }
+          ]
+        },
+        {
+          "id": "ch08-s5",
+          "title": "제5절 內生五邪",
+          "lines": [
+            3050,
+            3068
+          ],
+          "items": [
+            {
+              "lesson": "hp-19",
+              "level": 2
+            }
+          ]
+        },
+        {
+          "id": "ch08-s6",
+          "title": "제6절 經絡病機",
+          "lines": [
+            3069,
+            3071
+          ],
+          "gap": "經絡病機 과 없음",
+          "items": []
+        },
+        {
+          "id": "ch08-s7",
+          "title": "제7절 臟腑病機",
+          "lines": [
+            3072,
+            3147
+          ],
+          "gap": "臟腑病機는 病機十九條 1과뿐",
+          "items": [
+            {
+              "lesson": "new-etc-09a",
+              "level": 2
+            },
+            {
+              "lesson": "new-etc-09b",
+              "level": 2,
+              "prereq": [
+                "new-etc-09a"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ch09",
+      "title": "제9장 辨證",
+      "page": 152,
+      "sections": [
+        {
+          "id": "ch09-s1",
+          "title": "제1절 基本辨證(八綱 · 氣血)",
+          "page": 152,
+          "lines": [
+            3160,
+            3196
+          ],
+          "gap": "氣血辨證 과 없음(八綱만)",
+          "items": [
+            {
+              "lesson": "zds-13",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "id": "ch09-s2",
+          "title": "제2절 應用辨證(經絡 · 臟腑 · 體質 · 外感熱病)",
+          "lines": [
+            3197,
+            3397
+          ],
+          "gap": "臟腑辨證은 감별 2과뿐 · 經絡辨證 · 體質辨證 과 없음",
+          "items": [
+            {
+              "lesson": "zds-07",
+              "level": 3,
+              "sub": "臟腑辨證"
+            },
+            {
+              "lesson": "zds-08",
+              "level": 3,
+              "sub": "臟腑辨證"
+            },
+            {
+              "lesson": "zds-14",
+              "level": 2,
+              "sub": "外感熱病 — 六經"
+            },
+            {
+              "lesson": "zds-15",
+              "level": 2,
+              "prereq": [
+                "zds-14"
+              ],
+              "sub": "外感熱病 — 六經"
+            },
+            {
+              "lesson": "new-etc-29",
+              "level": 3,
+              "prereq": [
+                "zds-14"
+              ],
+              "sub": "外感熱病 — 六經"
+            },
+            {
+              "lesson": "new-etc-30",
+              "level": 3,
+              "prereq": [
+                "zds-14",
+                "zds-15"
+              ],
+              "sub": "外感熱病 — 六經"
+            },
+            {
+              "lesson": "zds-16",
+              "level": 2,
+              "sub": "外感熱病 — 衛氣營血"
+            },
+            {
+              "lesson": "new-etc-31",
+              "level": 2,
+              "prereq": [
+                "zds-16"
+              ],
+              "sub": "外感熱病 — 三焦"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ch10",
+      "title": "제10장 本草",
+      "page": 173,
+      "sections": [
+        {
+          "id": "ch10-s1",
+          "title": "제1절 本草學의 定義",
+          "page": 173,
+          "lines": [
+            3399,
+            3425
+          ],
+          "items": [
+            {
+              "lesson": "new-etc-13",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "id": "ch10-s2",
+          "title": "제2절 氣味論",
+          "lines": [
+            3426,
+            3513
+          ],
+          "items": [
+            {
+              "lesson": "hp-01",
+              "level": 1
+            },
+            {
+              "lesson": "yyox-06",
+              "level": 2,
+              "prereq": [
+                "yyox-03"
+              ],
+              "see_also": [
+                "new-uk-07"
+              ]
+            },
+            {
+              "lesson": "hp-02",
+              "level": 2
+            },
+            {
+              "lesson": "new-etc-17",
+              "level": 2,
+              "prereq": [
+                "hp-01"
+              ]
+            },
+            {
+              "lesson": "new-etc-14",
+              "level": 2
+            },
+            {
+              "lesson": "new-etc-16",
+              "level": 2
+            },
+            {
+              "lesson": "new-etc-15",
+              "level": 2,
+              "prereq": [
+                "new-etc-14"
+              ],
+              "see_also": [
+                "new-gr-40"
+              ]
+            },
+            {
+              "lesson": "hp-03",
+              "level": 2
+            },
+            {
+              "lesson": "qiqing-coop",
+              "level": 2,
+              "sub": "七情 장면",
+              "prereq": [
+                "hp-03"
+              ]
+            },
+            {
+              "lesson": "qiqing-conflict",
+              "level": 2,
+              "sub": "七情 장면",
+              "prereq": [
+                "hp-03",
+                "qiqing-coop"
+              ]
+            },
+            {
+              "lesson": "fan18",
+              "level": 2,
+              "sub": "十八反 장면",
+              "prereq": [
+                "hp-03"
+              ]
+            },
+            {
+              "lesson": "wei19",
+              "level": 2,
+              "sub": "十九畏 장면",
+              "prereq": [
+                "hp-03"
+              ]
+            },
+            {
+              "lesson": "new-etc-18",
+              "level": 2
+            }
+          ]
+        },
+        {
+          "id": "ch10-s3",
+          "title": "제3절 修治",
+          "lines": [
+            3514,
+            3560
+          ],
+          "items": [
+            {
+              "lesson": "hp-04",
+              "level": 1
+            },
+            {
+              "lesson": "suchi-qingchao",
+              "level": 2,
+              "sub": "修治 장면",
+              "prereq": [
+                "hp-04"
+              ]
+            },
+            {
+              "lesson": "suchi-gabo1",
+              "level": 2,
+              "sub": "修治 장면",
+              "prereq": [
+                "hp-04"
+              ]
+            },
+            {
+              "lesson": "suchi-gabo2",
+              "level": 2,
+              "sub": "修治 장면",
+              "prereq": [
+                "hp-04"
+              ]
+            },
+            {
+              "lesson": "suchi-ju-cho",
+              "level": 2,
+              "sub": "修治 장면",
+              "prereq": [
+                "hp-04"
+              ]
+            },
+            {
+              "lesson": "suchi-yeom-gang",
+              "level": 2,
+              "sub": "修治 장면",
+              "prereq": [
+                "hp-04"
+              ]
+            },
+            {
+              "lesson": "suchi-mil-yu",
+              "level": 2,
+              "sub": "修治 장면",
+              "prereq": [
+                "hp-04"
+              ]
+            },
+            {
+              "lesson": "suchi-dan",
+              "level": 2,
+              "sub": "修治 장면",
+              "prereq": [
+                "hp-04"
+              ]
+            },
+            {
+              "lesson": "suchi-suhwa",
+              "level": 2,
+              "sub": "修治 장면",
+              "prereq": [
+                "hp-04"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch10-s4",
+          "title": "제4절 韓藥의 分類",
+          "lines": [
+            3561,
+            3617
+          ],
+          "items": [
+            {
+              "lesson": "new-etc-19",
+              "level": 2
+            },
+            {
+              "lesson": "new-etc-20",
+              "level": 2
+            },
+            {
+              "lesson": "new-etc-21",
+              "level": 2
+            },
+            {
+              "lesson": "new-etc-22",
+              "level": 2
+            },
+            {
+              "lesson": "hp-05",
+              "level": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ch11",
+      "title": "제11장 方劑",
+      "page": 194,
+      "sections": [
+        {
+          "id": "ch11-s0",
+          "title": "方劑",
+          "page": 194,
+          "lines": [
+            3618,
+            3643
+          ],
+          "items": [
+            {
+              "lesson": "hp-06",
+              "level": 1
+            },
+            {
+              "lesson": "new-etc-23",
+              "level": 2
+            },
+            {
+              "lesson": "new-etc-24",
+              "level": 2
+            },
+            {
+              "lesson": "hp-07",
+              "level": 2
+            },
+            {
+              "lesson": "new-etc-25",
+              "level": 2
+            },
+            {
+              "lesson": "new-etc-26",
+              "level": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ch12",
+      "title": "제12장 診斷",
+      "page": 198,
+      "sections": [
+        {
+          "id": "ch12-s1",
+          "title": "제1절 四診",
+          "page": 198,
+          "lines": [
+            3645,
+            3721
+          ],
+          "items": [
+            {
+              "lesson": "new-zj-16",
+              "level": 1,
+              "sub": "望診"
+            },
+            {
+              "lesson": "zds-09",
+              "level": 2,
+              "sub": "望診"
+            },
+            {
+              "lesson": "zds-10",
+              "level": 2,
+              "sub": "望診"
+            },
+            {
+              "lesson": "new-zj-17",
+              "level": 2,
+              "sub": "望診"
+            },
+            {
+              "lesson": "new-zj-18",
+              "level": 2,
+              "sub": "望診 — 舌診"
+            },
+            {
+              "lesson": "new-zj-19",
+              "level": 2,
+              "prereq": [
+                "new-zj-18"
+              ],
+              "sub": "望診 — 舌診"
+            },
+            {
+              "lesson": "new-zj-20",
+              "level": 2,
+              "prereq": [
+                "new-zj-18"
+              ],
+              "sub": "望診 — 舌診"
+            },
+            {
+              "lesson": "new-zj-21",
+              "level": 2,
+              "prereq": [
+                "new-zj-18"
+              ],
+              "sub": "望診 — 舌診"
+            },
+            {
+              "lesson": "new-zj-22",
+              "level": 2,
+              "sub": "聞診"
+            },
+            {
+              "lesson": "zds-11",
+              "level": 2,
+              "sub": "問診"
+            },
+            {
+              "lesson": "new-zj-23",
+              "level": 2,
+              "sub": "問診"
+            },
+            {
+              "lesson": "new-zj-24",
+              "level": 2,
+              "sub": "問診"
+            },
+            {
+              "lesson": "new-zj-25",
+              "level": 2,
+              "sub": "問診"
+            },
+            {
+              "lesson": "new-zj-26",
+              "level": 1,
+              "sub": "切診"
+            },
+            {
+              "lesson": "zds-12",
+              "level": 2,
+              "sub": "切診"
+            },
+            {
+              "lesson": "new-zj-27",
+              "level": 2,
+              "prereq": [
+                "new-zj-26"
+              ],
+              "sub": "切診"
+            },
+            {
+              "lesson": "new-zj-28",
+              "level": 2,
+              "prereq": [
+                "new-zj-26"
+              ],
+              "sub": "切診"
+            },
+            {
+              "lesson": "new-uk-02",
+              "level": 3,
+              "prereq": [
+                "new-zj-26"
+              ],
+              "sub": "切診"
+            },
+            {
+              "lesson": "new-zj-29",
+              "level": 2,
+              "sub": "切診 — 觸診"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ch13",
+      "title": "제13장 治則과 治法",
+      "page": 209,
+      "sections": [
+        {
+          "id": "ch13-s1",
+          "title": "제1절 治療法則(治則)",
+          "page": 209,
+          "lines": [
+            3724,
+            3749
+          ],
+          "items": [
+            {
+              "lesson": "new-etc-27",
+              "level": 1
+            },
+            {
+              "lesson": "new-etc-28",
+              "level": 2
+            }
+          ]
+        },
+        {
+          "id": "ch13-s2",
+          "title": "제2절 治療의 八法",
+          "lines": [
+            3750,
+            3765
+          ],
+          "gap": "八法 과 없음(消 · 淸만 13장 1절 과에 섞임)",
+          "items": []
+        },
+        {
+          "id": "ch13-s3",
+          "title": "제3절 藥物外治法",
+          "lines": [
+            3766,
+            3769
+          ],
+          "gap": "藥物外治法 과 없음",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "ch14",
+      "title": "제14장 辨證槪要 : 주요 證候 鑑別",
+      "page": 215,
+      "sections": [
+        {
+          "id": "ch14-s0",
+          "title": "주요 證候 鑑別",
+          "page": 215,
+          "lines": [
+            3770,
+            3788
+          ],
+          "gap": "證候 鑑別 과 없음",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "ch15",
+      "title": "제15장 臨床各科",
+      "page": 220,
+      "sections": [
+        {
+          "id": "ch15-s1",
+          "title": "제1절 鍼灸",
+          "page": 220,
+          "lines": [
+            3790,
+            3813
+          ],
+          "gap": "鍼灸 과 없음(刺法은 5장 5절)",
+          "items": []
+        },
+        {
+          "id": "ch15-s2",
+          "title": "제2~9절 內科 · 婦人 · 小兒 · 五官 · 外科 · 傷科 · 氣功 · 推拿",
+          "lines": [
+            3814,
+            3823
+          ],
+          "gap": "內科 ~ 推拿 과 없음",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "ch16",
+      "title": "제16장 養生과 看護",
+      "page": 224,
+      "sections": [
+        {
+          "id": "ch16-s1",
+          "title": "제1절 養生 · 제2절 豫防(治未病)",
+          "page": 224,
+          "lines": [
+            3824,
+            3835
+          ],
+          "gap": "養生 · 豫防 과 없음",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "app",
+      "title": "附錄",
+      "page": 225,
+      "sections": [
+        {
+          "id": "app-1",
+          "title": "中國歷史年代簡表 · 時代別 醫家 정리",
+          "page": 225,
+          "lines": [
+            3836,
+            3887
+          ],
+          "gap": "年代簡表 · 時代別 醫家 정리 과 없음 — 의학사 시험과 바로 닿음",
+          "items": []
+        },
+        {
+          "id": "app-2",
+          "title": "인체 部位 名稱",
+          "page": 235,
+          "note": "추출본에 본문이 없다(사용자 「인체부위_이명정리」가 따로 있음)",
+          "gap": "인체 部位 名稱 과 없음",
+          "items": []
+        }
+      ]
     }
-   ]
-  },
-  {
-   "id": "ch01",
-   "title": "제1장 醫學史",
-   "page": 8,
-   "sections": [
+  ],
+  "shelf": [
     {
-     "id": "ch01-s1",
-     "title": "제1절 中國醫學史",
-     "page": 8,
-     "lines": [
-      141,
-      422
-     ],
-     "items": [
-      {
-       "lesson": "new-etc-01",
-       "level": 1,
-       "sub": "先秦 · 漢 · 晉"
-      },
-      {
-       "lesson": "hist-01a",
-       "level": 2,
-       "sub": "先秦 · 漢 · 晉"
-      },
-      {
-       "lesson": "hist-01b",
-       "level": 2,
-       "sub": "先秦 · 漢 · 晉"
-      },
-      {
-       "lesson": "hist-02a",
-       "level": 2,
-       "sub": "南北朝 · 隋"
-      },
-      {
-       "lesson": "hist-02b",
-       "level": 2,
-       "sub": "南北朝 · 隋"
-      },
-      {
-       "lesson": "hist-03a",
-       "level": 2,
-       "sub": "唐"
-      },
-      {
-       "lesson": "hist-03b",
-       "level": 2,
-       "sub": "唐"
-      },
-      {
-       "lesson": "hist-03c",
-       "level": 2,
-       "sub": "唐"
-      },
-      {
-       "lesson": "hist-04",
-       "level": 2,
-       "sub": "宋"
-      },
-      {
-       "lesson": "new-etc-02",
-       "level": 2,
-       "sub": "宋"
-      },
-      {
-       "lesson": "new-etc-03",
-       "level": 2,
-       "sub": "宋"
-      },
-      {
-       "lesson": "hist-05a",
-       "level": 2,
-       "sub": "宋"
-      },
-      {
-       "lesson": "hist-06a",
-       "level": 2,
-       "sub": "金 · 元"
-      },
-      {
-       "lesson": "hist-06b",
-       "level": 2,
-       "sub": "金 · 元"
-      },
-      {
-       "lesson": "pilot-duben",
-       "level": 2,
-       "see_also": [
-        "hist-06b"
-       ],
-       "note": "P2 시범에서 옮김(2026-11-23) · hist-06b와 같은 杜本",
-       "sub": "金 · 元"
-      },
-      {
-       "lesson": "hist-05b",
-       "level": 2,
-       "prereq": [
-        "hist-05a"
-       ],
-       "sub": "金 · 元 → 明 · 淸 本草書"
-      },
-      {
-       "lesson": "hist-07a",
-       "level": 2,
-       "see_also": [
-        "new-gr-02",
-        "new-gr-31",
-        "new-gr-32"
-       ],
-       "sub": "鍼灸書 · 혈 수 계보"
-      },
-      {
-       "lesson": "hist-07b",
-       "level": 2,
-       "prereq": [
-        "hist-07a"
-       ],
-       "sub": "鍼灸書 · 혈 수 계보"
-      },
-      {
-       "lesson": "hist-08a",
-       "level": 2,
-       "sub": "明 · 淸"
-      },
-      {
-       "lesson": "hist-08b",
-       "level": 2,
-       "prereq": [
-        "hist-08a"
-       ],
-       "sub": "明 · 淸"
-      },
-      {
-       "lesson": "hist-09",
-       "level": 2,
-       "sub": "明 · 淸"
-      },
-      {
-       "lesson": "hist-10",
-       "level": 2,
-       "sub": "明 · 淸"
-      },
-      {
-       "lesson": "new-etc-04",
-       "level": 2,
-       "sub": "方書 계보(통시)"
-      }
-     ]
+      "lesson": "new-gr-19",
+      "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
     },
     {
-     "id": "ch01-s2",
-     "title": "제2절 韓國醫學史",
-     "lines": [
-      423,
-      448
-     ],
-     "items": [
-      {
-       "lesson": "hist-11",
-       "level": 1
-      },
-      {
-       "lesson": "hist-12",
-       "level": 2
-      },
-      {
-       "lesson": "hist-13",
-       "level": 2
-      },
-      {
-       "lesson": "hist-14",
-       "level": 2
-      }
-     ]
+      "lesson": "new-gr-20",
+      "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
+    },
+    {
+      "lesson": "new-gr-21",
+      "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
+    },
+    {
+      "lesson": "new-gr-22",
+      "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
+    },
+    {
+      "lesson": "new-gr-23",
+      "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
+    },
+    {
+      "lesson": "new-gr-24",
+      "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
+    },
+    {
+      "lesson": "new-gr-25",
+      "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
+    },
+    {
+      "lesson": "new-gr-26",
+      "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
+    },
+    {
+      "lesson": "new-gr-27",
+      "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
+    },
+    {
+      "lesson": "new-gr-28",
+      "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
+    },
+    {
+      "lesson": "new-gr-29",
+      "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
+    },
+    {
+      "lesson": "new-gr-30",
+      "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
+    },
+    {
+      "lesson": "pilot-tao",
+      "why": "P2 시범 陶弘景 — hist-02a 구역 수정 그림(C1~C4)으로 들어감. 지우지 않고 여기서 볼 수 있다"
+    },
+    {
+      "lesson": "pilot-wangbing",
+      "why": "P2 시범 王冰 — hist-03c로 들어감(그림 그대로). 지우지 않고 여기서 볼 수 있다"
+    },
+    {
+      "lesson": "pilot-xue",
+      "why": "P2 시범 혈 수 계보 — hist-07a로 들어감(그림 그대로). 지우지 않고 여기서 볼 수 있다"
     }
-   ]
-  },
-  {
-   "id": "ch02",
-   "title": "제2장 天人相應과 醫易(陰陽五行)",
-   "page": 16,
-   "sections": [
-    {
-     "id": "ch02-s1",
-     "title": "제1절 天人相應",
-     "page": 16,
-     "lines": [
-      450,
-      472
-     ],
-     "items": [
-      {
-       "lesson": "yyox-01",
-       "level": 1
-      },
-      {
-       "lesson": "yyox-05",
-       "level": 2,
-       "prereq": [
-        "yyox-03"
-       ]
-      },
-      {
-       "lesson": "new-uk-01",
-       "level": 3,
-       "prereq": [
-        "yyox-01"
-       ]
-      }
-     ]
-    },
-    {
-     "id": "ch02-s2",
-     "title": "제2절 醫易",
-     "lines": [
-      473,
-      691
-     ],
-     "items": [
-      {
-       "lesson": "yyox-02",
-       "level": 1
-      },
-      {
-       "lesson": "new-uk-04",
-       "level": 2,
-       "prereq": [
-        "yyox-02"
-       ]
-      },
-      {
-       "lesson": "new-uk-06",
-       "level": 2,
-       "prereq": [
-        "yyox-02"
-       ]
-      },
-      {
-       "lesson": "new-uk-03",
-       "level": 3,
-       "prereq": [
-        "yyox-02"
-       ]
-      },
-      {
-       "lesson": "new-uk-05",
-       "level": 3,
-       "prereq": [
-        "yyox-02"
-       ]
-      }
-     ]
-    },
-    {
-     "id": "ch02-s3",
-     "title": "제3절 五行學說",
-     "lines": [
-      692,
-      904
-     ],
-     "items": [
-      {
-       "lesson": "yyox-03",
-       "level": 1
-      },
-      {
-       "lesson": "yyox-04",
-       "level": 2
-      },
-      {
-       "lesson": "new-uk-07",
-       "level": 2,
-       "see_also": [
-        "yyox-06"
-       ],
-       "note": "교재 줄 근거 약함 — 확인 필요"
-      },
-      {
-       "lesson": "yyox-07",
-       "level": 2
-      },
-      {
-       "lesson": "yyox-08",
-       "level": 2
-      },
-      {
-       "lesson": "yyox-09",
-       "level": 2
-      },
-      {
-       "lesson": "yyox-10",
-       "level": 2,
-       "prereq": [
-        "yyox-08"
-       ]
-      }
-     ]
-    },
-    {
-     "id": "ch02-s4",
-     "title": "제4절 八卦",
-     "lines": [
-      905,
-      932
-     ],
-     "items": [
-      {
-       "lesson": "yyox-11",
-       "level": 1
-      },
-      {
-       "lesson": "yyox-12",
-       "level": 2,
-       "prereq": [
-        "yyox-11"
-       ]
-      },
-      {
-       "lesson": "yyox-13",
-       "level": 2,
-       "prereq": [
-        "yyox-11"
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ch03",
-   "title": "제3장 五運六氣",
-   "page": 31,
-   "sections": [
-    {
-     "id": "ch03-s1",
-     "title": "제1절 槪說",
-     "page": 31,
-     "lines": [
-      934,
-      1226
-     ],
-     "items": [
-      {
-       "lesson": "yyox-14",
-       "level": 1
-      },
-      {
-       "lesson": "new-uk-08",
-       "level": 2,
-       "prereq": [
-        "yyox-14"
-       ]
-      },
-      {
-       "lesson": "new-uk-09",
-       "level": 2,
-       "prereq": [
-        "new-uk-08"
-       ]
-      },
-      {
-       "lesson": "new-uk-10",
-       "level": 2,
-       "prereq": [
-        "yyox-14"
-       ]
-      },
-      {
-       "lesson": "new-uk-11",
-       "level": 2,
-       "prereq": [
-        "new-uk-10"
-       ]
-      },
-      {
-       "lesson": "new-uk-12",
-       "level": 2,
-       "prereq": [
-        "new-uk-11"
-       ]
-      },
-      {
-       "lesson": "new-uk-13",
-       "level": 3,
-       "prereq": [
-        "new-uk-08",
-        "new-uk-11"
-       ]
-      },
-      {
-       "lesson": "new-uk-14",
-       "level": 2,
-       "prereq": [
-        "new-uk-10"
-       ]
-      },
-      {
-       "lesson": "new-uk-15",
-       "level": 2
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ch04",
-   "title": "제4장 精神氣血津液",
-   "page": 41,
-   "sections": [
-    {
-     "id": "ch04-s0",
-     "title": "(장 머리) 精·神·氣·血·津液",
-     "page": 41,
-     "lines": [
-      1227,
-      1247
-     ],
-     "items": [
-      {
-       "lesson": "new-jq-01",
-       "level": 1
-      },
-      {
-       "lesson": "new-jq-02",
-       "level": 1
-      }
-     ]
-    },
-    {
-     "id": "ch04-s1",
-     "title": "제1절 精",
-     "lines": [
-      1248,
-      1282
-     ],
-     "items": [
-      {
-       "lesson": "new-jq-03",
-       "level": 1
-      },
-      {
-       "lesson": "new-jq-04",
-       "level": 2
-      },
-      {
-       "lesson": "new-jq-05",
-       "level": 2
-      }
-     ]
-    },
-    {
-     "id": "ch04-s2",
-     "title": "제2절 神",
-     "lines": [
-      1283,
-      1323
-     ],
-     "items": [
-      {
-       "lesson": "new-jq-12",
-       "level": 1
-      },
-      {
-       "lesson": "new-jq-13",
-       "level": 2
-      },
-      {
-       "lesson": "new-jq-14",
-       "level": 2
-      }
-     ]
-    },
-    {
-     "id": "ch04-s3",
-     "title": "제3절 氣",
-     "lines": [
-      1324,
-      1475
-     ],
-     "items": [
-      {
-       "lesson": "new-jq-06",
-       "level": 1
-      },
-      {
-       "lesson": "new-jq-07",
-       "level": 2
-      },
-      {
-       "lesson": "new-jq-08",
-       "level": 2
-      },
-      {
-       "lesson": "new-jq-09",
-       "level": 2,
-       "prereq": [
-        "new-jq-06"
-       ]
-      },
-      {
-       "lesson": "new-jq-10",
-       "level": 2,
-       "prereq": [
-        "new-jq-06"
-       ]
-      },
-      {
-       "lesson": "new-jq-11",
-       "level": 2,
-       "prereq": [
-        "new-jq-06"
-       ]
-      }
-     ]
-    },
-    {
-     "id": "ch04-s4",
-     "title": "제4절 血",
-     "lines": [
-      1476,
-      1517
-     ],
-     "items": [
-      {
-       "lesson": "new-jq-16",
-       "level": 1
-      },
-      {
-       "lesson": "new-jq-17",
-       "level": 2
-      }
-     ]
-    },
-    {
-     "id": "ch04-s5",
-     "title": "제5절 津液",
-     "lines": [
-      1518,
-      1561
-     ],
-     "items": [
-      {
-       "lesson": "new-jq-18",
-       "level": 1
-      },
-      {
-       "lesson": "new-jq-19",
-       "level": 2
-      }
-     ]
-    },
-    {
-     "id": "ch04-s6",
-     "title": "제6절 氣, 血, 津液의 相互關係",
-     "lines": [
-      1562,
-      1613
-     ],
-     "items": [
-      {
-       "lesson": "new-jq-20",
-       "level": 2
-      },
-      {
-       "lesson": "new-jq-21",
-       "level": 2
-      },
-      {
-       "lesson": "new-jq-22",
-       "level": 2
-      },
-      {
-       "lesson": "new-jq-23",
-       "level": 3,
-       "prereq": [
-        "new-jq-02"
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ch05",
-   "title": "제5장 經絡",
-   "page": 56,
-   "sections": [
-    {
-     "id": "ch05-s1",
-     "title": "제1절 經絡의 槪念",
-     "page": 56,
-     "lines": [
-      1615,
-      1624
-     ],
-     "items": [
-      {
-       "lesson": "new-gr-01",
-       "level": 1
-      }
-     ]
-    },
-    {
-     "id": "ch05-s2",
-     "title": "제2절 경락학설",
-     "lines": [
-      1625,
-      1648
-     ],
-     "items": [
-      {
-       "lesson": "new-gr-02",
-       "level": 2,
-       "see_also": [
-        "hist-07a",
-        "hist-07b"
-       ]
-      }
-     ]
-    },
-    {
-     "id": "ch05-s3",
-     "title": "제3절 經絡의 構成",
-     "lines": [
-      1649,
-      1671
-     ],
-     "items": [
-      {
-       "lesson": "new-gr-04",
-       "level": 1
-      }
-     ]
-    },
-    {
-     "id": "ch05-s4",
-     "title": "제4절 經絡의 生理機能",
-     "lines": [
-      1672,
-      1683
-     ],
-     "items": [
-      {
-       "lesson": "new-gr-03",
-       "level": 2
-      }
-     ]
-    },
-    {
-     "id": "ch05-s5",
-     "title": "제5절 經絡學說의 운용",
-     "lines": [
-      1684,
-      1712
-     ],
-     "items": [
-      {
-       "lesson": "new-gr-39",
-       "level": 2
-      },
-      {
-       "lesson": "new-gr-40",
-       "level": 2,
-       "see_also": [
-        "new-etc-15"
-       ]
-      },
-      {
-       "lesson": "new-gr-18",
-       "level": 2
-      }
-     ]
-    },
-    {
-     "id": "ch05-s6",
-     "title": "제6절 十二經脈",
-     "lines": [
-      1713,
-      1888
-     ],
-     "items": [
-      {
-       "lesson": "mer-02",
-       "level": 1,
-       "sub": "1. 개념 · 분포"
-      },
-      {
-       "lesson": "mer-04",
-       "level": 2,
-       "sub": "1. 개념 · 분포"
-      },
-      {
-       "lesson": "new-gr-08",
-       "level": 2,
-       "sub": "1. 개념 · 분포"
-      },
-      {
-       "lesson": "new-gr-07",
-       "level": 1,
-       "sub": "2. 流注"
-      },
-      {
-       "lesson": "new-gr-35",
-       "level": 2,
-       "sub": "2. 流注"
-      },
-      {
-       "lesson": "new-gr-09",
-       "level": 3,
-       "prereq": [
-        "new-gr-07"
-       ],
-       "sub": "2. 流注"
-      },
-      {
-       "lesson": "new-gr-42",
-       "level": 3,
-       "prereq": [
-        "new-gr-07"
-       ],
-       "sub": "2. 流注 — 원문"
-      },
-      {
-       "lesson": "new-gr-43",
-       "level": 3,
-       "prereq": [
-        "new-gr-07"
-       ],
-       "sub": "2. 流注 — 원문"
-      },
-      {
-       "lesson": "new-gr-44",
-       "level": 3,
-       "prereq": [
-        "new-gr-07"
-       ],
-       "sub": "2. 流注 — 원문"
-      },
-      {
-       "lesson": "new-gr-45",
-       "level": 3,
-       "prereq": [
-        "new-gr-07"
-       ],
-       "sub": "2. 流注 — 원문"
-      },
-      {
-       "lesson": "new-gr-46",
-       "level": 3,
-       "prereq": [
-        "new-gr-07"
-       ],
-       "sub": "2. 流注 — 원문"
-      },
-      {
-       "lesson": "new-gr-47",
-       "level": 3,
-       "prereq": [
-        "new-gr-07"
-       ],
-       "sub": "2. 流注 — 원문"
-      },
-      {
-       "lesson": "new-gr-10",
-       "level": 1,
-       "sub": "3. 是動 · 所生"
-      },
-      {
-       "lesson": "mer-03",
-       "level": 2,
-       "prereq": [
-        "new-gr-10"
-       ],
-       "sub": "3. 是動 · 所生"
-      },
-      {
-       "lesson": "new-gr-11",
-       "level": 2,
-       "prereq": [
-        "new-gr-10"
-       ],
-       "sub": "3. 是動 · 所生"
-      },
-      {
-       "lesson": "new-gr-15",
-       "level": 2,
-       "sub": "4. 標本 · 根結 · 氣街"
-      },
-      {
-       "lesson": "new-gr-31",
-       "level": 2,
-       "sub": "經穴圖 · 혈 수"
-      },
-      {
-       "lesson": "new-gr-32",
-       "level": 2,
-       "sub": "經穴圖 · 혈 수"
-      },
-      {
-       "lesson": "new-gr-36",
-       "level": 2,
-       "sub": "經穴圖 · 혈 수",
-       "note": "骨度는 교재 본문에 없다(사용자 기본서)"
-      },
-      {
-       "lesson": "new-gr-41",
-       "level": 3,
-       "sub": "經穴圖 · 혈 수"
-      }
-     ]
-    },
-    {
-     "id": "ch05-s7",
-     "title": "제7절 十二經別 · 15絡脈 · 奇經八脈 · 十二經筋 · 十二皮部",
-     "lines": [
-      1889,
-      2023
-     ],
-     "items": [
-      {
-       "lesson": "new-gr-05",
-       "level": 2,
-       "sub": "1. 經別 · 4. 經筋"
-      },
-      {
-       "lesson": "new-gr-12",
-       "level": 1,
-       "sub": "3. 奇經八脈"
-      },
-      {
-       "lesson": "new-gr-13",
-       "level": 2,
-       "prereq": [
-        "new-gr-12"
-       ],
-       "sub": "3. 奇經八脈"
-      },
-      {
-       "lesson": "pilot-gv",
-       "level": 2,
-       "prereq": [
-        "new-gr-13"
-       ],
-       "see_also": [
-        "new-gr-12",
-        "new-gr-14"
-       ],
-       "note": "P2 시범에서 옮김(2026-11-23) · 코드로 그린 유주도 · 빈 판 images/lessons/pilot-gv-blank.webp",
-       "sub": "3. 奇經八脈"
-      },
-      {
-       "lesson": "new-gr-14",
-       "level": 2,
-       "prereq": [
-        "new-gr-12"
-       ],
-       "sub": "3. 奇經八脈"
-      },
-      {
-       "lesson": "new-gr-06",
-       "level": 2,
-       "sub": "5. 皮部"
-      }
-     ]
-    },
-    {
-     "id": "ch05-s8",
-     "title": "(7절 뒤) 腧穴 — 五腧穴 · 特殊穴 · 常用穴",
-     "lines": [
-      2024,
-      2114
-     ],
-     "items": [
-      {
-       "lesson": "mer-05",
-       "level": 1,
-       "sub": "五腧穴"
-      },
-      {
-       "lesson": "mer-06",
-       "level": 2,
-       "prereq": [
-        "mer-05"
-       ],
-       "sub": "五腧穴"
-      },
-      {
-       "lesson": "new-gr-16",
-       "level": 2,
-       "prereq": [
-        "mer-05"
-       ],
-       "sub": "五腧穴"
-      },
-      {
-       "lesson": "mer-09",
-       "level": 2,
-       "sub": "特殊穴"
-      },
-      {
-       "lesson": "mer-10",
-       "level": 2,
-       "sub": "特殊穴"
-      },
-      {
-       "lesson": "new-gr-33",
-       "level": 2,
-       "sub": "特殊穴"
-      },
-      {
-       "lesson": "new-gr-34",
-       "level": 2,
-       "prereq": [
-        "new-gr-33"
-       ],
-       "sub": "特殊穴"
-      },
-      {
-       "lesson": "mer-08",
-       "level": 2,
-       "sub": "特殊穴"
-      },
-      {
-       "lesson": "mer-07",
-       "level": 2,
-       "sub": "特殊穴"
-      },
-      {
-       "lesson": "mer-13",
-       "level": 2,
-       "sub": "特殊穴"
-      },
-      {
-       "lesson": "new-gr-37",
-       "level": 2,
-       "sub": "特殊穴"
-      },
-      {
-       "lesson": "new-gr-17",
-       "level": 2,
-       "sub": "常用穴"
-      },
-      {
-       "lesson": "new-gr-38",
-       "level": 2,
-       "sub": "常用穴"
-      }
-     ]
-    },
-    {
-     "id": "ch05-x1",
-     "title": "(보충) 舍岩鍼法 — 교재 본문 밖, 사용자 기본서 5장",
-     "note": "교재에는 서명만 있다(15장 1절). 표는 사용자 기본서 5장과 사암 노래 문서",
-     "items": [
-      {
-       "lesson": "mer-11",
-       "level": 2,
-       "prereq": [
-        "mer-06"
-       ]
-      },
-      {
-       "lesson": "mer-12",
-       "level": 2,
-       "prereq": [
-        "mer-11"
-       ]
-      }
-     ],
-     "links": [
-      {
-       "href": "saam.html",
-       "label": "舍岩 표 트레이너 (正格 · 勝格) — 24칸을 규칙으로 풀고 내 문장으로 검산"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ch06",
-   "title": "제6장 臟象論",
-   "page": 93,
-   "sections": [
-    {
-     "id": "ch06-s0",
-     "title": "(장 머리) 藏象 총론",
-     "page": 93,
-     "lines": [
-      2115,
-      2186
-     ],
-     "items": [
-      {
-       "lesson": "new-zj-01",
-       "level": 1
-      }
-     ]
-    },
-    {
-     "id": "ch06-s1",
-     "title": "제1절 五臟六腑의 機能",
-     "lines": [
-      2187,
-      2775
-     ],
-     "items": [
-      {
-       "lesson": "new-zj-02",
-       "level": 2,
-       "sub": "1. 肝 · 膽"
-      },
-      {
-       "lesson": "zds-01",
-       "level": 2,
-       "sub": "1. 肝 · 膽"
-      },
-      {
-       "lesson": "new-zj-03",
-       "level": 2,
-       "sub": "2. 心 · 小腸"
-      },
-      {
-       "lesson": "zds-02",
-       "level": 2,
-       "sub": "2. 心 · 小腸"
-      },
-      {
-       "lesson": "new-zj-04",
-       "level": 2,
-       "sub": "3. 脾 · 胃"
-      },
-      {
-       "lesson": "zds-03",
-       "level": 2,
-       "sub": "3. 脾 · 胃"
-      },
-      {
-       "lesson": "new-zj-05",
-       "level": 2,
-       "sub": "4. 肺 · 大腸"
-      },
-      {
-       "lesson": "zds-04",
-       "level": 2,
-       "sub": "4. 肺 · 大腸"
-      },
-      {
-       "lesson": "new-zj-06",
-       "level": 2,
-       "sub": "5. 腎 · 膀胱"
-      },
-      {
-       "lesson": "zds-05",
-       "level": 2,
-       "sub": "5. 腎 · 膀胱"
-      },
-      {
-       "lesson": "new-zj-07",
-       "level": 2,
-       "prereq": [
-        "new-zj-06"
-       ],
-       "sub": "6. 命門"
-      },
-      {
-       "lesson": "new-zj-08",
-       "level": 2,
-       "sub": "本神(五臟 공통)"
-      },
-      {
-       "lesson": "new-jq-15",
-       "level": 2,
-       "prereq": [
-        "new-jq-13"
-       ],
-       "sub": "本神(五臟 공통)"
-      },
-      {
-       "lesson": "new-zj-09",
-       "level": 2,
-       "sub": "六腑 · 7. 三焦"
-      },
-      {
-       "lesson": "new-zj-10",
-       "level": 2,
-       "sub": "六腑 · 7. 三焦"
-      },
-      {
-       "lesson": "new-zj-11",
-       "level": 2,
-       "sub": "9. 奇恒之府"
-      },
-      {
-       "lesson": "new-zj-13",
-       "level": 2,
-       "sub": "10. 臟腑 사이의 관계"
-      },
-      {
-       "lesson": "new-zj-14",
-       "level": 2,
-       "sub": "10. 臟腑 사이의 관계"
-      },
-      {
-       "lesson": "new-zj-12",
-       "level": 2,
-       "sub": "11. 七衝門"
-      },
-      {
-       "lesson": "new-zj-15",
-       "level": 3,
-       "sub": "대조표 · 원문"
-      },
-      {
-       "lesson": "zds-06",
-       "level": 3,
-       "sub": "대조표 · 원문"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ch07",
-   "title": "제7장 病因學說과 發病",
-   "page": 123,
-   "sections": [
-    {
-     "id": "ch07-s1",
-     "title": "제1절 病因",
-     "page": 123,
-     "lines": [
-      2782,
-      2982
-     ],
-     "items": [
-      {
-       "lesson": "new-etc-05",
-       "level": 1
-      },
-      {
-       "lesson": "hp-08",
-       "level": 2
-      },
-      {
-       "lesson": "hp-09",
-       "level": 2
-      },
-      {
-       "lesson": "hp-10",
-       "level": 2
-      },
-      {
-       "lesson": "new-etc-08",
-       "level": 2,
-       "prereq": [
-        "hp-08"
-       ]
-      },
-      {
-       "lesson": "hp-11",
-       "level": 2
-      },
-      {
-       "lesson": "new-etc-06",
-       "level": 2,
-       "prereq": [
-        "hp-11"
-       ]
-      },
-      {
-       "lesson": "hp-13",
-       "level": 2
-      },
-      {
-       "lesson": "new-etc-07",
-       "level": 2,
-       "prereq": [
-        "hp-13"
-       ]
-      },
-      {
-       "lesson": "hp-12",
-       "level": 2
-      }
-     ]
-    },
-    {
-     "id": "ch07-s2",
-     "title": "제2절 發病原理",
-     "lines": [
-      2983,
-      3003
-     ],
-     "gap": "發病原理 과 없음",
-     "items": []
-    }
-   ]
-  },
-  {
-   "id": "ch08",
-   "title": "제8장 病機學說",
-   "page": 134,
-   "sections": [
-    {
-     "id": "ch08-s0",
-     "title": "(장 머리) 基本病機 · 十九病機",
-     "page": 134,
-     "lines": [
-      3004,
-      3012
-     ],
-     "gap": "장 머리(基本病機 개관) 과 없음 — 病機十九條는 7절로",
-     "items": []
-    },
-    {
-     "id": "ch08-s1",
-     "title": "제1절 邪正盛衰(虛實)",
-     "lines": [
-      3013,
-      3024
-     ],
-     "items": [
-      {
-       "lesson": "hp-14",
-       "level": 1
-      }
-     ]
-    },
-    {
-     "id": "ch08-s2",
-     "title": "제2절 陰陽失調",
-     "lines": [
-      3025,
-      3039
-     ],
-     "items": [
-      {
-       "lesson": "hp-15",
-       "level": 2
-      },
-      {
-       "lesson": "new-etc-10",
-       "level": 2,
-       "prereq": [
-        "hp-15"
-       ]
-      },
-      {
-       "lesson": "hp-16",
-       "level": 3,
-       "prereq": [
-        "hp-15"
-       ]
-      },
-      {
-       "lesson": "hp-17",
-       "level": 2
-      }
-     ]
-    },
-    {
-     "id": "ch08-s3",
-     "title": "제3절 氣血失調",
-     "lines": [
-      3040,
-      3046
-     ],
-     "items": [
-      {
-       "lesson": "hp-18",
-       "level": 2
-      },
-      {
-       "lesson": "new-etc-11",
-       "level": 2,
-       "prereq": [
-        "hp-18"
-       ]
-      }
-     ]
-    },
-    {
-     "id": "ch08-s4",
-     "title": "제4절 津液代謝 失常",
-     "lines": [
-      3047,
-      3049
-     ],
-     "items": [
-      {
-       "lesson": "new-etc-12",
-       "level": 2
-      }
-     ]
-    },
-    {
-     "id": "ch08-s5",
-     "title": "제5절 內生五邪",
-     "lines": [
-      3050,
-      3068
-     ],
-     "items": [
-      {
-       "lesson": "hp-19",
-       "level": 2
-      }
-     ]
-    },
-    {
-     "id": "ch08-s6",
-     "title": "제6절 經絡病機",
-     "lines": [
-      3069,
-      3071
-     ],
-     "gap": "經絡病機 과 없음",
-     "items": []
-    },
-    {
-     "id": "ch08-s7",
-     "title": "제7절 臟腑病機",
-     "lines": [
-      3072,
-      3147
-     ],
-     "gap": "臟腑病機는 病機十九條 1과뿐",
-     "items": [
-      {
-       "lesson": "new-etc-09",
-       "level": 2
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ch09",
-   "title": "제9장 辨證",
-   "page": 152,
-   "sections": [
-    {
-     "id": "ch09-s1",
-     "title": "제1절 基本辨證(八綱 · 氣血)",
-     "page": 152,
-     "lines": [
-      3160,
-      3196
-     ],
-     "gap": "氣血辨證 과 없음(八綱만)",
-     "items": [
-      {
-       "lesson": "zds-13",
-       "level": 1
-      }
-     ]
-    },
-    {
-     "id": "ch09-s2",
-     "title": "제2절 應用辨證(經絡 · 臟腑 · 體質 · 外感熱病)",
-     "lines": [
-      3197,
-      3397
-     ],
-     "gap": "臟腑辨證은 감별 2과뿐 · 經絡辨證 · 體質辨證 과 없음",
-     "items": [
-      {
-       "lesson": "zds-07",
-       "level": 3,
-       "sub": "臟腑辨證"
-      },
-      {
-       "lesson": "zds-08",
-       "level": 3,
-       "sub": "臟腑辨證"
-      },
-      {
-       "lesson": "zds-14",
-       "level": 2,
-       "sub": "外感熱病 — 六經"
-      },
-      {
-       "lesson": "zds-15",
-       "level": 2,
-       "prereq": [
-        "zds-14"
-       ],
-       "sub": "外感熱病 — 六經"
-      },
-      {
-       "lesson": "new-etc-29",
-       "level": 3,
-       "prereq": [
-        "zds-14"
-       ],
-       "sub": "外感熱病 — 六經"
-      },
-      {
-       "lesson": "new-etc-30",
-       "level": 3,
-       "prereq": [
-        "zds-14",
-        "zds-15"
-       ],
-       "sub": "外感熱病 — 六經"
-      },
-      {
-       "lesson": "zds-16",
-       "level": 2,
-       "sub": "外感熱病 — 衛氣營血"
-      },
-      {
-       "lesson": "new-etc-31",
-       "level": 2,
-       "prereq": [
-        "zds-16"
-       ],
-       "sub": "外感熱病 — 三焦"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ch10",
-   "title": "제10장 本草",
-   "page": 173,
-   "sections": [
-    {
-     "id": "ch10-s1",
-     "title": "제1절 本草學의 定義",
-     "page": 173,
-     "lines": [
-      3399,
-      3425
-     ],
-     "items": [
-      {
-       "lesson": "new-etc-13",
-       "level": 1
-      }
-     ]
-    },
-    {
-     "id": "ch10-s2",
-     "title": "제2절 氣味論",
-     "lines": [
-      3426,
-      3513
-     ],
-     "items": [
-      {
-       "lesson": "hp-01",
-       "level": 1
-      },
-      {
-       "lesson": "yyox-06",
-       "level": 2,
-       "prereq": [
-        "yyox-03"
-       ],
-       "see_also": [
-        "new-uk-07"
-       ]
-      },
-      {
-       "lesson": "hp-02",
-       "level": 2
-      },
-      {
-       "lesson": "new-etc-17",
-       "level": 2,
-       "prereq": [
-        "hp-01"
-       ]
-      },
-      {
-       "lesson": "new-etc-14",
-       "level": 2
-      },
-      {
-       "lesson": "new-etc-16",
-       "level": 2
-      },
-      {
-       "lesson": "new-etc-15",
-       "level": 2,
-       "prereq": [
-        "new-etc-14"
-       ],
-       "see_also": [
-        "new-gr-40"
-       ]
-      },
-      {
-       "lesson": "hp-03",
-       "level": 2
-      },
-      {
-       "lesson": "qiqing-01",
-       "level": 2,
-       "sub": "七情 장면",
-       "prereq": [
-        "hp-03"
-       ]
-      },
-      {
-       "lesson": "qiqing-02",
-       "level": 2,
-       "sub": "七情 장면",
-       "prereq": [
-        "hp-03"
-       ]
-      },
-      {
-       "lesson": "qiqing-03",
-       "level": 2,
-       "sub": "七情 장면",
-       "prereq": [
-        "hp-03"
-       ]
-      },
-      {
-       "lesson": "qiqing-04",
-       "level": 2,
-       "sub": "七情 장면",
-       "prereq": [
-        "hp-03"
-       ]
-      },
-      {
-       "lesson": "qiqing-05",
-       "level": 2,
-       "sub": "七情 장면",
-       "prereq": [
-        "hp-03"
-       ]
-      },
-      {
-       "lesson": "qiqing-06",
-       "level": 2,
-       "sub": "七情 장면",
-       "prereq": [
-        "hp-03"
-       ]
-      },
-      {
-       "lesson": "qiqing-07",
-       "level": 2,
-       "sub": "七情 장면",
-       "prereq": [
-        "hp-03"
-       ]
-      },
-      {
-       "lesson": "qiqing-08",
-       "level": 2,
-       "sub": "七情 장면",
-       "prereq": [
-        "hp-03"
-       ]
-      },
-      {
-       "lesson": "qiqing-09",
-       "level": 2,
-       "sub": "七情 장면",
-       "prereq": [
-        "hp-03"
-       ]
-      },
-      {
-       "lesson": "qiqing-10",
-       "level": 2,
-       "sub": "七情 장면",
-       "prereq": [
-        "hp-03"
-       ]
-      },
-      {
-       "lesson": "qiqing-11",
-       "level": 2,
-       "sub": "七情 장면",
-       "prereq": [
-        "hp-03"
-       ]
-      },
-      {
-       "lesson": "qiqing-12",
-       "level": 2,
-       "sub": "七情 장면",
-       "prereq": [
-        "hp-03"
-       ]
-      },
-      {
-       "lesson": "fan18-1",
-       "level": 2,
-       "sub": "十八反 장면",
-       "prereq": [
-        "hp-03"
-       ]
-      },
-      {
-       "lesson": "fan18-2",
-       "level": 2,
-       "sub": "十八反 장면",
-       "prereq": [
-        "hp-03"
-       ]
-      },
-      {
-       "lesson": "fan18-3",
-       "level": 2,
-       "sub": "十八反 장면",
-       "prereq": [
-        "hp-03"
-       ]
-      },
-      {
-       "lesson": "fan18-4",
-       "level": 2,
-       "sub": "十八反 장면",
-       "prereq": [
-        "hp-03"
-       ]
-      },
-      {
-       "lesson": "wei19-1",
-       "level": 2,
-       "sub": "十九畏 장면",
-       "prereq": [
-        "hp-03"
-       ]
-      },
-      {
-       "lesson": "wei19-2",
-       "level": 2,
-       "sub": "十九畏 장면",
-       "prereq": [
-        "hp-03"
-       ]
-      },
-      {
-       "lesson": "wei19-3",
-       "level": 2,
-       "sub": "十九畏 장면",
-       "prereq": [
-        "hp-03"
-       ]
-      },
-      {
-       "lesson": "wei19-4",
-       "level": 2,
-       "sub": "十九畏 장면",
-       "prereq": [
-        "hp-03"
-       ]
-      },
-      {
-       "lesson": "new-etc-18",
-       "level": 2
-      }
-     ]
-    },
-    {
-     "id": "ch10-s3",
-     "title": "제3절 修治",
-     "lines": [
-      3514,
-      3560
-     ],
-     "items": [
-      {
-       "lesson": "hp-04",
-       "level": 1
-      },
-      {
-       "lesson": "suchi-01",
-       "level": 2,
-       "sub": "修治 장면",
-       "prereq": [
-        "hp-04"
-       ]
-      },
-      {
-       "lesson": "suchi-02",
-       "level": 2,
-       "sub": "修治 장면",
-       "prereq": [
-        "hp-04"
-       ]
-      },
-      {
-       "lesson": "suchi-03",
-       "level": 2,
-       "sub": "修治 장면",
-       "prereq": [
-        "hp-04"
-       ]
-      },
-      {
-       "lesson": "suchi-04",
-       "level": 2,
-       "sub": "修治 장면",
-       "prereq": [
-        "hp-04"
-       ]
-      },
-      {
-       "lesson": "suchi-05",
-       "level": 2,
-       "sub": "修治 장면",
-       "prereq": [
-        "hp-04"
-       ]
-      },
-      {
-       "lesson": "suchi-06",
-       "level": 2,
-       "sub": "修治 장면",
-       "prereq": [
-        "hp-04"
-       ]
-      },
-      {
-       "lesson": "suchi-07",
-       "level": 2,
-       "sub": "修治 장면",
-       "prereq": [
-        "hp-04"
-       ]
-      },
-      {
-       "lesson": "suchi-08",
-       "level": 2,
-       "sub": "修治 장면",
-       "prereq": [
-        "hp-04"
-       ]
-      },
-      {
-       "lesson": "suchi-09",
-       "level": 2,
-       "sub": "修治 장면",
-       "prereq": [
-        "hp-04"
-       ]
-      },
-      {
-       "lesson": "suchi-10",
-       "level": 2,
-       "sub": "修治 장면",
-       "prereq": [
-        "hp-04"
-       ],
-       "see_also": [
-        "pilot-cho"
-       ]
-      },
-      {
-       "lesson": "pilot-cho",
-       "level": 2,
-       "see_also": [
-        "hp-04"
-       ],
-       "note": "P2 시범에서 옮김(2026-11-23) · 醋炙 ① 여덟 약",
-       "sub": "修治 장면",
-       "prereq": [
-        "hp-04"
-       ]
-      },
-      {
-       "lesson": "suchi-11",
-       "level": 2,
-       "sub": "修治 장면",
-       "prereq": [
-        "hp-04"
-       ]
-      },
-      {
-       "lesson": "suchi-12",
-       "level": 2,
-       "sub": "修治 장면",
-       "prereq": [
-        "hp-04"
-       ]
-      },
-      {
-       "lesson": "suchi-13",
-       "level": 2,
-       "sub": "修治 장면",
-       "prereq": [
-        "hp-04"
-       ]
-      },
-      {
-       "lesson": "suchi-14",
-       "level": 2,
-       "sub": "修治 장면",
-       "prereq": [
-        "hp-04"
-       ]
-      },
-      {
-       "lesson": "suchi-15",
-       "level": 2,
-       "sub": "修治 장면",
-       "prereq": [
-        "hp-04"
-       ]
-      },
-      {
-       "lesson": "suchi-16",
-       "level": 2,
-       "sub": "修治 장면",
-       "prereq": [
-        "hp-04"
-       ]
-      },
-      {
-       "lesson": "suchi-17",
-       "level": 2,
-       "sub": "修治 장면",
-       "prereq": [
-        "hp-04"
-       ]
-      },
-      {
-       "lesson": "suchi-18",
-       "level": 2,
-       "sub": "修治 장면",
-       "prereq": [
-        "hp-04"
-       ]
-      },
-      {
-       "lesson": "suchi-19",
-       "level": 2,
-       "sub": "修治 장면",
-       "prereq": [
-        "hp-04"
-       ]
-      },
-      {
-       "lesson": "suchi-20",
-       "level": 2,
-       "sub": "修治 장면",
-       "prereq": [
-        "hp-04"
-       ]
-      },
-      {
-       "lesson": "suchi-21",
-       "level": 2,
-       "sub": "修治 장면",
-       "prereq": [
-        "hp-04"
-       ]
-      },
-      {
-       "lesson": "suchi-22",
-       "level": 2,
-       "sub": "修治 장면",
-       "prereq": [
-        "hp-04"
-       ]
-      }
-     ]
-    },
-    {
-     "id": "ch10-s4",
-     "title": "제4절 韓藥의 分類",
-     "lines": [
-      3561,
-      3617
-     ],
-     "items": [
-      {
-       "lesson": "new-etc-19",
-       "level": 2
-      },
-      {
-       "lesson": "new-etc-20",
-       "level": 2
-      },
-      {
-       "lesson": "new-etc-21",
-       "level": 2
-      },
-      {
-       "lesson": "new-etc-22",
-       "level": 2
-      },
-      {
-       "lesson": "hp-05",
-       "level": 2
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ch11",
-   "title": "제11장 方劑",
-   "page": 194,
-   "sections": [
-    {
-     "id": "ch11-s0",
-     "title": "方劑",
-     "page": 194,
-     "lines": [
-      3618,
-      3643
-     ],
-     "items": [
-      {
-       "lesson": "hp-06",
-       "level": 1
-      },
-      {
-       "lesson": "new-etc-23",
-       "level": 2
-      },
-      {
-       "lesson": "new-etc-24",
-       "level": 2
-      },
-      {
-       "lesson": "hp-07",
-       "level": 2
-      },
-      {
-       "lesson": "new-etc-25",
-       "level": 2
-      },
-      {
-       "lesson": "new-etc-26",
-       "level": 2
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ch12",
-   "title": "제12장 診斷",
-   "page": 198,
-   "sections": [
-    {
-     "id": "ch12-s1",
-     "title": "제1절 四診",
-     "page": 198,
-     "lines": [
-      3645,
-      3721
-     ],
-     "items": [
-      {
-       "lesson": "new-zj-16",
-       "level": 1,
-       "sub": "望診"
-      },
-      {
-       "lesson": "zds-09",
-       "level": 2,
-       "sub": "望診"
-      },
-      {
-       "lesson": "zds-10",
-       "level": 2,
-       "sub": "望診"
-      },
-      {
-       "lesson": "new-zj-17",
-       "level": 2,
-       "sub": "望診"
-      },
-      {
-       "lesson": "new-zj-18",
-       "level": 2,
-       "sub": "望診 — 舌診"
-      },
-      {
-       "lesson": "new-zj-19",
-       "level": 2,
-       "prereq": [
-        "new-zj-18"
-       ],
-       "sub": "望診 — 舌診"
-      },
-      {
-       "lesson": "new-zj-20",
-       "level": 2,
-       "prereq": [
-        "new-zj-18"
-       ],
-       "sub": "望診 — 舌診"
-      },
-      {
-       "lesson": "new-zj-21",
-       "level": 2,
-       "prereq": [
-        "new-zj-18"
-       ],
-       "sub": "望診 — 舌診"
-      },
-      {
-       "lesson": "new-zj-22",
-       "level": 2,
-       "sub": "聞診"
-      },
-      {
-       "lesson": "zds-11",
-       "level": 2,
-       "sub": "問診"
-      },
-      {
-       "lesson": "new-zj-23",
-       "level": 2,
-       "sub": "問診"
-      },
-      {
-       "lesson": "new-zj-24",
-       "level": 2,
-       "sub": "問診"
-      },
-      {
-       "lesson": "new-zj-25",
-       "level": 2,
-       "sub": "問診"
-      },
-      {
-       "lesson": "new-zj-26",
-       "level": 1,
-       "sub": "切診"
-      },
-      {
-       "lesson": "zds-12",
-       "level": 2,
-       "sub": "切診"
-      },
-      {
-       "lesson": "new-zj-27",
-       "level": 2,
-       "prereq": [
-        "new-zj-26"
-       ],
-       "sub": "切診"
-      },
-      {
-       "lesson": "new-zj-28",
-       "level": 2,
-       "prereq": [
-        "new-zj-26"
-       ],
-       "sub": "切診"
-      },
-      {
-       "lesson": "new-uk-02",
-       "level": 3,
-       "prereq": [
-        "new-zj-26"
-       ],
-       "sub": "切診"
-      },
-      {
-       "lesson": "new-zj-29",
-       "level": 2,
-       "sub": "切診 — 觸診"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ch13",
-   "title": "제13장 治則과 治法",
-   "page": 209,
-   "sections": [
-    {
-     "id": "ch13-s1",
-     "title": "제1절 治療法則(治則)",
-     "page": 209,
-     "lines": [
-      3724,
-      3749
-     ],
-     "items": [
-      {
-       "lesson": "new-etc-27",
-       "level": 1
-      },
-      {
-       "lesson": "new-etc-28",
-       "level": 2
-      }
-     ]
-    },
-    {
-     "id": "ch13-s2",
-     "title": "제2절 治療의 八法",
-     "lines": [
-      3750,
-      3765
-     ],
-     "gap": "八法 과 없음(消 · 淸만 13장 1절 과에 섞임)",
-     "items": []
-    },
-    {
-     "id": "ch13-s3",
-     "title": "제3절 藥物外治法",
-     "lines": [
-      3766,
-      3769
-     ],
-     "gap": "藥物外治法 과 없음",
-     "items": []
-    }
-   ]
-  },
-  {
-   "id": "ch14",
-   "title": "제14장 辨證槪要 : 주요 證候 鑑別",
-   "page": 215,
-   "sections": [
-    {
-     "id": "ch14-s0",
-     "title": "주요 證候 鑑別",
-     "page": 215,
-     "lines": [
-      3770,
-      3788
-     ],
-     "gap": "證候 鑑別 과 없음",
-     "items": []
-    }
-   ]
-  },
-  {
-   "id": "ch15",
-   "title": "제15장 臨床各科",
-   "page": 220,
-   "sections": [
-    {
-     "id": "ch15-s1",
-     "title": "제1절 鍼灸",
-     "page": 220,
-     "lines": [
-      3790,
-      3813
-     ],
-     "gap": "鍼灸 과 없음(刺法은 5장 5절)",
-     "items": []
-    },
-    {
-     "id": "ch15-s2",
-     "title": "제2~9절 內科 · 婦人 · 小兒 · 五官 · 外科 · 傷科 · 氣功 · 推拿",
-     "lines": [
-      3814,
-      3823
-     ],
-     "gap": "內科 ~ 推拿 과 없음",
-     "items": []
-    }
-   ]
-  },
-  {
-   "id": "ch16",
-   "title": "제16장 養生과 看護",
-   "page": 224,
-   "sections": [
-    {
-     "id": "ch16-s1",
-     "title": "제1절 養生 · 제2절 豫防(治未病)",
-     "page": 224,
-     "lines": [
-      3824,
-      3835
-     ],
-     "gap": "養生 · 豫防 과 없음",
-     "items": []
-    }
-   ]
-  },
-  {
-   "id": "app",
-   "title": "附錄",
-   "page": 225,
-   "sections": [
-    {
-     "id": "app-1",
-     "title": "中國歷史年代簡表 · 時代別 醫家 정리",
-     "page": 225,
-     "lines": [
-      3836,
-      3887
-     ],
-     "gap": "年代簡表 · 時代別 醫家 정리 과 없음 — 의학사 시험과 바로 닿음",
-     "items": []
-    },
-    {
-     "id": "app-2",
-     "title": "인체 部位 名稱",
-     "page": 235,
-     "note": "추출본에 본문이 없다(사용자 「인체부위_이명정리」가 따로 있음)",
-     "gap": "인체 部位 名稱 과 없음",
-     "items": []
-    }
-   ]
-  }
- ],
- "shelf": [
-  {
-   "lesson": "new-gr-19",
-   "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
-  },
-  {
-   "lesson": "new-gr-20",
-   "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
-  },
-  {
-   "lesson": "new-gr-21",
-   "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
-  },
-  {
-   "lesson": "new-gr-22",
-   "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
-  },
-  {
-   "lesson": "new-gr-23",
-   "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
-  },
-  {
-   "lesson": "new-gr-24",
-   "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
-  },
-  {
-   "lesson": "new-gr-25",
-   "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
-  },
-  {
-   "lesson": "new-gr-26",
-   "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
-  },
-  {
-   "lesson": "new-gr-27",
-   "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
-  },
-  {
-   "lesson": "new-gr-28",
-   "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
-  },
-  {
-   "lesson": "new-gr-29",
-   "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
-  },
-  {
-   "lesson": "new-gr-30",
-   "why": "舍岩 12경 방 그림 — 표 트레이너(saam.html)로 대체. 그동안 여기서 볼 수 있다"
-  },
-  {
-   "lesson": "pilot-tao",
-   "why": "P2 시범 陶弘景 — hist-02a 구역 수정 그림(C1~C4)으로 들어감. 지우지 않고 여기서 볼 수 있다"
-  },
-  {
-   "lesson": "pilot-wangbing",
-   "why": "P2 시범 王冰 — hist-03c로 들어감(그림 그대로). 지우지 않고 여기서 볼 수 있다"
-  },
-  {
-   "lesson": "pilot-xue",
-   "why": "P2 시범 혈 수 계보 — hist-07a로 들어감(그림 그대로). 지우지 않고 여기서 볼 수 있다"
-  }
- ]
+  ]
 }

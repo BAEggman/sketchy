@@ -1,0 +1,8658 @@
+[
+ {
+  "lesson": "fan18",
+  "title": "十八反 — 烏頭 · 甘草 · 藜蘆 세 패거리 한 판",
+  "chapter": "ch10",
+  "group": "A",
+  "stations": 7,
+  "high": 0,
+  "mid": 4,
+  "codes": {
+   "S": 5,
+   "P": 4
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 4,
+  "weight": 0,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "hist-01a",
+  "title": "漢 — 四大經典과 內經 · 難經 · 神農本草經",
+  "chapter": "ch01",
+  "group": "A",
+  "stations": 10,
+  "high": 4,
+  "mid": 5,
+  "codes": {
+   "M": 7,
+   "S": 4,
+   "N": 4,
+   "P": 1,
+   "G": 1
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [
+   1
+  ],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 17,
+  "weight": 0,
+  "high_stations": [
+   1,
+   5,
+   7,
+   10
+  ],
+  "notes": [
+   "#1 扁鵲 보존 · 秦越人 본명 carrier 없음 · 戰國 안 실림",
+   "#5 寸關尺 · 浮中沈 carrier 없음(손목 짚기만)",
+   "#7 靈樞 · 王冰 · 史崧 소리 고리 없음 · 9권 수 없음",
+   "#10 甲乙經 · 皇甫謐 이름 고리 없음(다른 과 가능 — 확인 필요) · 구분 정거장"
+  ]
+ },
+ {
+  "lesson": "hist-01b",
+  "title": "東漢 · 晉 — 張仲景 · 華佗 · 王叔和 · 葛洪",
+  "chapter": "ch01",
+  "group": "A",
+  "stations": 9,
+  "high": 0,
+  "mid": 5,
+  "codes": {
+   "M": 5,
+   "G": 4,
+   "S": 4
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 5,
+  "weight": 0,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "hist-02a",
+  "title": "南北朝 — 本草와 製藥 (陶弘景 · 雷斅 · 徐之才)",
+  "chapter": "ch01",
+  "group": "A",
+  "stations": 10,
+  "high": 0,
+  "mid": 5,
+  "codes": {
+   "M": 5,
+   "S": 3,
+   "P": 2,
+   "G": 1
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 5,
+  "weight": 0,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "hist-02b",
+  "title": "南北朝 · 隋 — 內經 주석 · 病理 · 外科 (全元起 · 楊上善 · 巢元方 · 劉涓子)",
+  "chapter": "ch01",
+  "group": "A",
+  "stations": 7,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "M": 3,
+   "P": 2,
+   "G": 2,
+   "N": 1,
+   "S": 1
+  },
+  "cards": 0,
+  "recorded": 9,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 6,
+  "weight": 0,
+  "high_stations": [
+   1
+  ],
+  "notes": [
+   "#1 劉涓子 보존 · 龔慶宣 이름 고리 없음 · 晉末 안 실림"
+  ]
+ },
+ {
+  "lesson": "hist-03a",
+  "title": "唐 ① — 孫思邈 · 甄權 · 蘇敬 『新修本草』",
+  "chapter": "ch01",
+  "group": "A",
+  "stations": 8,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "M": 5,
+   "P": 3,
+   "N": 1,
+   "S": 1
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [
+   4,
+   6
+  ],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 6,
+  "weight": 0,
+  "high_stations": [
+   4
+  ],
+  "notes": [
+   "#4 明堂三人圖 소리 고리 없음 · 滑壽 · 陳會 carrier 없음"
+  ]
+ },
+ {
+  "lesson": "hist-03b",
+  "title": "唐 ② — 陳藏器 · 孟詵 · 李珣 · 王燾",
+  "chapter": "ch01",
+  "group": "A",
+  "stations": 6,
+  "high": 0,
+  "mid": 1,
+  "codes": {
+   "P": 3,
+   "S": 1,
+   "M": 1
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "그대로",
+  "score": 1,
+  "weight": 0,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "hist-03c",
+  "title": "唐 ③ — 王冰(啓玄子) 素問 注釋 · 運氣 7편 증보 · 益火 · 壯水",
+  "chapter": "ch01",
+  "group": "A",
+  "stations": 7,
+  "high": 0,
+  "mid": 2,
+  "codes": {
+   "G": 1,
+   "P": 1,
+   "N": 1
+  },
+  "cards": 0,
+  "recorded": 9,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 2,
+  "weight": 0,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "hist-04",
+  "title": "宋 — 국가 方書와 錢乙 · 許叔微 · 陳言",
+  "chapter": "ch01",
+  "group": "A",
+  "stations": 8,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 4,
+   "M": 4,
+   "G": 2
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 6,
+  "weight": 0,
+  "high_stations": [
+   7
+  ],
+  "notes": [
+   "#7 버블 셋 = 三因 약속 필요 · 極一 · 病證方論 carrier 없음"
+  ]
+ },
+ {
+  "lesson": "hist-05a",
+  "title": "本草書 계보 ① 宋 — 開寶 · 嘉祐 · 圖經(蘇頌) · 證類(唐愼微) · 政和 · 衍義",
+  "chapter": "ch01",
+  "group": "A",
+  "stations": 8,
+  "high": 0,
+  "mid": 4,
+  "codes": {
+   "M": 4,
+   "S": 2
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 4,
+  "weight": 0,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "hist-05b",
+  "title": "本草書 계보 ② 金 · 元 · 明 · 淸 — 張元素 · 王好古 · 李時珍 · 趙學敏 · 姚瀾",
+  "chapter": "ch01",
+  "group": "A",
+  "stations": 7,
+  "high": 0,
+  "mid": 5,
+  "codes": {
+   "S": 5,
+   "M": 5,
+   "G": 1
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 5,
+  "weight": 0,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "hist-06a",
+  "title": "金·元 ① 金元四大家 — 劉完素 · 張從正 · 李杲(金) · 朱震亨(元)",
+  "chapter": "ch01",
+  "group": "A",
+  "stations": 10,
+  "high": 1,
+  "mid": 5,
+  "codes": {
+   "M": 6,
+   "S": 5,
+   "N": 2,
+   "G": 1
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   9
+  ],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 8,
+  "weight": 0,
+  "high_stations": [
+   3
+  ],
+  "notes": [
+   "#3 子和=분홍 연꽃 소리 안 맞음 · 汗吐下 세 갈래 carrier 없음"
+  ]
+ },
+ {
+  "lesson": "hist-06b",
+  "title": "金 · 元 ② — 成無已(成無己)의 傷寒論 注解 · 杜本의 舌診",
+  "chapter": "ch01",
+  "group": "A",
+  "stations": 8,
+  "high": 0,
+  "mid": 1,
+  "codes": {
+   "M": 2,
+   "P": 2,
+   "G": 1
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "그대로",
+  "score": 1,
+  "weight": 0,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "hist-07a",
+  "title": "혈 수 계보 — 349 → 354 → 359 = 359 → 361 (晉 → 北宋 → 南宋 → 明 → 淸)",
+  "chapter": "ch01",
+  "group": "A",
+  "stations": 9,
+  "high": 0,
+  "mid": 5,
+  "codes": {
+   "G": 5,
+   "M": 3,
+   "S": 2
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 5,
+  "weight": 0,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "hist-07b",
+  "title": "鍼灸書 인물 — 河若愚 · 竇默(漢卿) · 滑壽(伯仁) · 徐鳳 · 高武 · 汪機",
+  "chapter": "ch01",
+  "group": "A",
+  "stations": 9,
+  "high": 2,
+  "mid": 4,
+  "codes": {
+   "M": 7,
+   "S": 6,
+   "G": 2,
+   "N": 2
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [
+   5
+  ],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 10,
+  "weight": 0,
+  "high_stations": [
+   3,
+   5
+  ],
+  "notes": [
+   "#3 두 賦 이름 carrier 없음",
+   "#5 구분 정거장 — 陳會 · 神應經 carrier 없음(타 과 가능 — 확인 필요)"
+  ]
+ },
+ {
+  "lesson": "hist-08a",
+  "title": "溫補學派 ① — 薛己 · 張介賓(景岳)",
+  "chapter": "ch01",
+  "group": "A",
+  "stations": 6,
+  "high": 0,
+  "mid": 1,
+  "codes": {
+   "M": 4,
+   "P": 1,
+   "S": 1
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "그대로",
+  "score": 1,
+  "weight": 0,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "hist-08b",
+  "title": "溫補學派 ② — 趙獻可 · 孫一奎 · 李中梓와 補陰派 徐大椿",
+  "chapter": "ch01",
+  "group": "A",
+  "stations": 7,
+  "high": 1,
+  "mid": 4,
+  "codes": {
+   "M": 5,
+   "S": 2,
+   "G": 1,
+   "N": 1
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 7,
+  "weight": 0,
+  "high_stations": [
+   7
+  ],
+  "notes": [
+   "#7 obj에 陳念祖 인물이 없고 소리 고리 없음"
+  ]
+ },
+ {
+  "lesson": "hist-09",
+  "title": "溫病學派 — 王履 · 吳有性에서 淸 四大家까지",
+  "chapter": "ch01",
+  "group": "A",
+  "stations": 10,
+  "high": 1,
+  "mid": 5,
+  "codes": {
+   "S": 5,
+   "G": 4,
+   "M": 4,
+   "N": 1,
+   "P": 1
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [
+   7
+  ],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 8,
+  "weight": 0,
+  "high_stations": [
+   6
+  ],
+  "notes": [
+   "#6 색 약속(파·노·빨·꽃)을 알아야 — 衛 · 營 소리 고리 없음 · 표 · 트레이너로"
+  ]
+ },
+ {
+  "lesson": "hist-10",
+  "title": "明 · 淸 — 주석하고 모으고 바로잡은 책들(註證發微 · 醫方集解 · 雜病源流犀燭 · 醫林改錯)",
+  "chapter": "ch01",
+  "group": "A",
+  "stations": 7,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "M": 5,
+   "S": 4,
+   "G": 1
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 3,
+  "weight": 0,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "hist-11",
+  "title": "한국 의료기관 연혁 — 新羅 醫學 · 藥典 → 高麗 → 朝鮮 內醫院",
+  "chapter": "ch01",
+  "group": "A",
+  "stations": 8,
+  "high": 1,
+  "mid": 7,
+  "codes": {
+   "M": 7,
+   "S": 5,
+   "G": 5
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "그릇바꿈(표 · 트레이너)",
+  "score": 10,
+  "weight": 0,
+  "high_stations": [
+   4
+  ],
+  "notes": [
+   "#4 간판 부호표(태양=太 · 큰 눈=監 · 석탑=寺)를 알아야 — 도해/표로 · 太醫院 · 食醫 carrier 없음"
+  ]
+ },
+ {
+  "lesson": "hist-12",
+  "title": "삼국 · 고려 · 조선 전기 의서 — 鄕藥의 길",
+  "chapter": "ch01",
+  "group": "A",
+  "stations": 7,
+  "high": 1,
+  "mid": 0,
+  "codes": {
+   "M": 2,
+   "S": 1,
+   "N": 1
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   1
+  ],
+  "fact_split": [
+   3
+  ],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 3,
+  "weight": 0,
+  "high_stations": [
+   1
+  ],
+  "notes": [
+   "#1 新羅法師方 carrier 없음 · 984 carrier 없음"
+  ]
+ },
+ {
+  "lesson": "hist-13",
+  "title": "조선 후기 · 근대 의서 — 東醫寶鑑에서 東醫壽世保元까지",
+  "chapter": "ch01",
+  "group": "A",
+  "stations": 7,
+  "high": 5,
+  "mid": 1,
+  "codes": {
+   "N": 6,
+   "M": 6,
+   "S": 4
+  },
+  "cards": 0,
+  "recorded": 9,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [
+   1,
+   3
+  ],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 16,
+  "weight": 0,
+  "high_stations": [
+   1,
+   4,
+   5,
+   6,
+   7
+  ],
+  "notes": [
+   "#1 許浚 소리 고리 없음 · 東醫 carrier 없음 · 撰集/共編 표기 갈림은 F",
+   "#4 茶山의 山 안 실림 · 책 둘 이름 carrier 없음",
+   "#5 두 원본 이름 carrier 없음 · 淵 안 실림",
+   "#6 崔圭 안 실림 · 李圭浚 · 扶陽論 · 醫方撮要 carrier 없음"
+  ]
+ },
+ {
+  "lesson": "hist-14",
+  "title": "한국 근대 — 서양식 병원과 한의학 교육기관(1877 → 1964)",
+  "chapter": "ch01",
+  "group": "A",
+  "stations": 7,
+  "high": 0,
+  "mid": 6,
+  "codes": {
+   "M": 7,
+   "S": 3,
+   "G": 2
+  },
+  "cards": 0,
+  "recorded": 9,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 6,
+  "weight": 0,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "hp-01",
+  "title": "藥性 ① 四氣五味 — 차고 더운 네 기운 · 다섯 맛의 작용",
+  "chapter": "ch10",
+  "group": "C",
+  "stations": 7,
+  "high": 0,
+  "mid": 1,
+  "codes": {
+   "S": 5,
+   "M": 4
+  },
+  "cards": 11,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   2
+  ],
+  "fact_split": [],
+  "picture_atoms": 22,
+  "picture_text_only": 6,
+  "name_reader_named": 5,
+  "name_reader_guess": 2,
+  "obj_vs_picture_mismatch": 2,
+  "eyes_checked": true,
+  "verdict": "그대로",
+  "score": 1,
+  "weight": 11,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "hp-02",
+  "title": "藥性 ② 升降浮沈 — 약이 가는 방향과 그것을 바꾸는 포제",
+  "chapter": "ch10",
+  "group": "C",
+  "stations": 8,
+  "high": 0,
+  "mid": 1,
+  "codes": {
+   "S": 1,
+   "M": 1
+  },
+  "cards": 7,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   5,
+   6,
+   7,
+   8
+  ],
+  "fact_split": [],
+  "picture_atoms": 14,
+  "picture_text_only": 2,
+  "name_reader_named": 6,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "그대로",
+  "score": 1,
+  "weight": 7,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "hp-03",
+  "title": "配伍 — 七情 일곱 관계와 禁忌(十八反·十九畏)",
+  "chapter": "ch10",
+  "group": "C",
+  "stations": 9,
+  "high": 3,
+  "mid": 4,
+  "codes": {
+   "N′": 7,
+   "N": 3,
+   "M": 2,
+   "P": 1
+  },
+  "cards": 19,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   5
+  ],
+  "fact_split": [],
+  "picture_atoms": 19,
+  "picture_text_only": 2,
+  "name_reader_named": 5,
+  "name_reader_guess": 3,
+  "obj_vs_picture_mismatch": 1,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 13,
+  "weight": 19,
+  "high_stations": [
+   2,
+   6,
+   7
+  ],
+  "notes": [
+   "#2 須는 훈이 안 보이고 소리 고리 없음. 石膏·知母는 색깔 묘사뿐(사전: 석고 조각상·지우개 모자)",
+   "#6 惡(미워할)은 훈이 안 맞아 안 보임인데 하는 일만 그림. 萊菔子는 사전 '난폭자'를 안 씀",
+   "#7 甘遂는 이름 고리 없음, 甘草는 사전 '약방의 감초'와 다름"
+  ]
+ },
+ {
+  "lesson": "hp-04",
+  "title": "修治(炮製) — 독하고 거친 약은 손질해서: 生半夏 · 炒·炙·煅 · 黃芪 生↔炙",
+  "chapter": "ch10",
+  "group": "C",
+  "stations": 12,
+  "high": 3,
+  "mid": 7,
+  "codes": {
+   "M": 8,
+   "S": 6,
+   "N′": 3,
+   "G": 3,
+   "N": 3
+  },
+  "cards": 14,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 37,
+  "picture_text_only": 12,
+  "name_reader_named": 10,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 1,
+  "eyes_checked": true,
+  "verdict": "그릇바꿈(표 · 트레이너)",
+  "score": 16,
+  "weight": 14,
+  "high_stations": [
+   3,
+   11,
+   12
+  ],
+  "notes": [
+   "#3 원자 4. 山楂는 열매 색뿐(소리 없음), 梔子는 나를 물건 없음",
+   "#11 爐甘石 물건 없음, 自然銅은 구릿빛 돌(소리 없음)",
+   "#12 乾漆 물건 없음, 血餘=머리카락은 실물 지식 필요"
+  ]
+ },
+ {
+  "lesson": "hp-05",
+  "title": "효능별 대표약 — 人參·附子·當歸·大黃·半夏 (+先煎·後下)",
+  "chapter": "ch10",
+  "group": "C",
+  "stations": 9,
+  "high": 2,
+  "mid": 6,
+  "codes": {
+   "S": 6,
+   "M": 6,
+   "N′": 4,
+   "N": 3,
+   "G": 1
+  },
+  "cards": 9,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 42,
+  "picture_text_only": 6,
+  "name_reader_named": 10,
+  "name_reader_guess": 2,
+  "obj_vs_picture_mismatch": 1,
+  "eyes_checked": true,
+  "verdict": "그릇바꿈(표 · 트레이너)",
+  "score": 12,
+  "weight": 9,
+  "high_stations": [
+   7,
+   9
+  ],
+  "notes": [
+   "#7 원자 4. 芒硝는 소리 고리 없음. 大黃은 사전 대왕 황소와 다름",
+   "#9 원자 5. 半夏는 보존 '반바지 하마'를 안 씀, 天南星은 天南 소리 없음, 白附子 물건 없음"
+  ]
+ },
+ {
+  "lesson": "hp-06",
+  "title": "君臣佐使 — 한 처방의 네 자리 (麻黃湯)",
+  "chapter": "ch11",
+  "group": "C",
+  "stations": 7,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "N′": 3,
+   "S": 1,
+   "M": 1
+  },
+  "cards": 11,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 14,
+  "picture_text_only": 3,
+  "name_reader_named": 7,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 1,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 3,
+  "weight": 11,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "hp-07",
+  "title": "基本方 짝 — 四君子·四物 → 八珍 / 六味·腎氣丸 / 和解 小柴胡湯",
+  "chapter": "ch11",
+  "group": "C",
+  "stations": 6,
+  "high": 2,
+  "mid": 3,
+  "codes": {
+   "M": 6,
+   "S": 4,
+   "N′": 4,
+   "N": 1
+  },
+  "cards": 11,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 20,
+  "picture_text_only": 7,
+  "name_reader_named": 4,
+  "name_reader_guess": 3,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 9,
+  "weight": 11,
+  "high_stations": [
+   1,
+   2
+  ],
+  "notes": [
+   "#1 원자 5. 四君子 동음어는 훌륭. 白朮은 소리·가족 고리 없음, 茯苓·甘草는 사전을 안 씀, 補氣 물건 없음",
+   "#2 원자 4. 當歸·川芎은 보존 '당나귀 귀부인'·'천사 궁수'를 안 쓰고 색·모양만"
+  ]
+ },
+ {
+  "lesson": "hp-08",
+  "title": "六淫 ① 風 — 百病之長",
+  "chapter": "ch07",
+  "group": "C",
+  "stations": 5,
+  "high": 0,
+  "mid": 2,
+  "codes": {
+   "S": 2,
+   "M": 2
+  },
+  "cards": 10,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 18,
+  "picture_text_only": 4,
+  "name_reader_named": 8,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 2,
+  "weight": 10,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "hp-09",
+  "title": "六淫 ② 寒·濕 — 陰邪 둘(陽을 상한다)",
+  "chapter": "ch07",
+  "group": "C",
+  "stations": 8,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "M": 5,
+   "S": 2
+  },
+  "cards": 7,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 25,
+  "picture_text_only": 7,
+  "name_reader_named": 10,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 3,
+  "weight": 7,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "hp-10",
+  "title": "六淫 ③ 暑·火·燥 — 진액을 태우고 말리는 셋",
+  "chapter": "ch07",
+  "group": "C",
+  "stations": 9,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "M": 5,
+   "S": 4,
+   "N": 2
+  },
+  "cards": 19,
+  "recorded": 0,
+  "fact_diff": [
+   7
+  ],
+  "fact_not_in_textbook": [
+   6
+  ],
+  "fact_split": [],
+  "picture_atoms": 32,
+  "picture_text_only": 9,
+  "name_reader_named": 11,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 10,
+  "weight": 19,
+  "high_stations": [
+   8
+  ],
+  "notes": [
+   "#8 嬌臟 소리 고리 없음 · 皮毛 · 가장 높음 물건 없음 · 원자 5"
+  ]
+ },
+ {
+  "lesson": "hp-11",
+  "title": "七情 — 감정이 기를 움직이는 여섯 방향(擧痛論)",
+  "chapter": "ch07",
+  "group": "C",
+  "stations": 6,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 4,
+   "M": 4,
+   "N": 1
+  },
+  "cards": 6,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 22,
+  "picture_text_only": 12,
+  "name_reader_named": 7,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 6,
+  "weight": 6,
+  "high_stations": [
+   1
+  ],
+  "notes": [
+   "#1 薄厥(안 보임) 물건 없음 · 嘔血 · 血菀于上 물건 없음 · 원자 5"
+  ]
+ },
+ {
+  "lesson": "hp-12",
+  "title": "痰飮·瘀血 — 병이 만든 병인(병리산물)",
+  "chapter": "ch07",
+  "group": "A2",
+  "stations": 6,
+  "high": 2,
+  "mid": 2,
+  "codes": {
+   "M": 4,
+   "S": 3,
+   "N": 2
+  },
+  "cards": 14,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   6
+  ],
+  "fact_split": [
+   1
+  ],
+  "picture_atoms": 24,
+  "picture_text_only": 8,
+  "name_reader_named": 13,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 8,
+  "weight": 14,
+  "high_stations": [
+   1,
+   3
+  ],
+  "notes": [
+   "#1 瘰癧 소리 고리 없음 · 痰核 물건 없음 · 원자 6",
+   "#3 瘀(안 보임) 소리 고리 없음 — 색과 모습만"
+  ]
+ },
+ {
+  "lesson": "hp-13",
+  "title": "飮食·勞逸 — 지나쳐도 모자라도 병",
+  "chapter": "ch07",
+  "group": "C",
+  "stations": 5,
+  "high": 0,
+  "mid": 2,
+  "codes": {
+   "S": 2,
+   "M": 2,
+   "W": 1
+  },
+  "cards": 3,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   2
+  ],
+  "fact_split": [],
+  "picture_atoms": 14,
+  "picture_text_only": 3,
+  "name_reader_named": 7,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 2,
+  "weight": 3,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "hp-14",
+  "title": "邪正盛衰 ① 虛實 — 邪氣盛則實 · 精氣奪則虛",
+  "chapter": "ch08",
+  "group": "C",
+  "stations": 5,
+  "high": 0,
+  "mid": 4,
+  "codes": {
+   "S": 4,
+   "M": 3,
+   "N": 1
+  },
+  "cards": 10,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 19,
+  "picture_text_only": 5,
+  "name_reader_named": 10,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 4,
+  "weight": 10,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "hp-15",
+  "title": "陰陽失調 ① 偏盛·偏衰 — 실한 寒熱과 허한 寒熱",
+  "chapter": "ch08",
+  "group": "A2",
+  "stations": 7,
+  "high": 2,
+  "mid": 4,
+  "codes": {
+   "S": 5,
+   "M": 5,
+   "N": 2,
+   "N′": 2
+  },
+  "cards": 13,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [
+   7
+  ],
+  "picture_atoms": 32,
+  "picture_text_only": 8,
+  "name_reader_named": 13,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 10,
+  "weight": 13,
+  "high_stations": [
+   5,
+   7
+  ],
+  "notes": [
+   "#5 腎氣丸 소리 고리 없음 · 地黃(사전: 지하 황제) 안 씀 · 陰病治陽 물건 없음",
+   "#7 六味地黃丸 이름 소리 고리 없음 · 地黃(사전 지하 황제) 안 씀"
+  ]
+ },
+ {
+  "lesson": "hp-16",
+  "title": "眞假 — 겉과 속이 다른 넷 (虛實眞假 · 陰陽格拒)",
+  "chapter": "ch08",
+  "group": "C",
+  "stations": 7,
+  "high": 2,
+  "mid": 2,
+  "codes": {
+   "S": 4,
+   "M": 3,
+   "N": 2,
+   "N′": 2
+  },
+  "cards": 17,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   2
+  ],
+  "fact_split": [],
+  "picture_atoms": 25,
+  "picture_text_only": 7,
+  "name_reader_named": 6,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 3,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 8,
+  "weight": 17,
+  "high_stations": [
+   5,
+   7
+  ],
+  "notes": [
+   "#5 通脈四逆湯 소리 고리 없음 · 附子 사전(부자 도련님) 안 씀 · 원자 5",
+   "#7 承氣湯 소리 고리 없음 · 大黃 사전(대왕 황소) 안 씀 · 下法 물건 없음"
+  ]
+ },
+ {
+  "lesson": "hp-17",
+  "title": "陰陽失調 ③ 亡陽·亡陰 — 땀으로 갈린다",
+  "chapter": "ch08",
+  "group": "C",
+  "stations": 4,
+  "high": 2,
+  "mid": 2,
+  "codes": {
+   "M": 3,
+   "S": 2,
+   "N": 2,
+   "N′": 2
+  },
+  "cards": 5,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [
+   3
+  ],
+  "picture_atoms": 18,
+  "picture_text_only": 4,
+  "name_reader_named": 9,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 2,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 8,
+  "weight": 5,
+  "high_stations": [
+   2,
+   4
+  ],
+  "notes": [
+   "#2 四逆湯 · 參附湯 소리 고리 없음 · 附子 사전(부자 도련님) 안 씀",
+   "#4 生脈散 소리 고리 없음 · 麥門冬 사전(맥주 동태) 안 씀 · 益氣救陰 물건 없음"
+  ]
+ },
+ {
+  "lesson": "hp-18",
+  "title": "氣血失常 — 氣 넷(虛·滯·逆·陷) · 血 셋(虛·瘀·熱)",
+  "chapter": "ch08",
+  "group": "C",
+  "stations": 7,
+  "high": 0,
+  "mid": 7,
+  "codes": {
+   "S": 7,
+   "M": 7
+  },
+  "cards": 14,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 28,
+  "picture_text_only": 16,
+  "name_reader_named": 7,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 2,
+  "eyes_checked": true,
+  "verdict": "그릇바꿈(표 · 트레이너)",
+  "score": 7,
+  "weight": 14,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "hp-19",
+  "title": "內生五邪 — 안에서 생긴 風寒濕燥火",
+  "chapter": "ch08",
+  "group": "C",
+  "stations": 6,
+  "high": 0,
+  "mid": 5,
+  "codes": {
+   "S": 5,
+   "M": 4
+  },
+  "cards": 19,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 24,
+  "picture_text_only": 10,
+  "name_reader_named": 7,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 2,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 5,
+  "weight": 19,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "mer-02",
+  "title": "十二經脈 ① 사지 六面 — 팔·다리 앞·가운데·뒤",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 6,
+  "high": 1,
+  "mid": 4,
+  "codes": {
+   "S": 5,
+   "M": 2,
+   "N": 1,
+   "G": 1
+  },
+  "cards": 11,
+  "recorded": 8,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 7,
+  "weight": 11,
+  "high_stations": [
+   6
+  ],
+  "notes": [
+   "#6 三陰三陽 이름 여섯에 소리 고리 없음 · 색→장부→이름 두 걸음"
+  ]
+ },
+ {
+  "lesson": "mer-03",
+  "title": "十二經脈 ② 是動·所生 — 是主 일곱과 겹치는 병후",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 12,
+  "high": 0,
+  "mid": 5,
+  "codes": {
+   "M": 4,
+   "S": 4,
+   "N": 1
+  },
+  "cards": 39,
+  "recorded": 14,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 5,
+  "weight": 39,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "mer-04",
+  "title": "十二經脈 ③ 경맥이 닿는 곳 — 起·止·連屬",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 6,
+  "high": 2,
+  "mid": 2,
+  "codes": {
+   "S": 4,
+   "M": 3,
+   "N": 2
+  },
+  "cards": 19,
+  "recorded": 8,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 8,
+  "weight": 19,
+  "high_stations": [
+   5,
+   6
+  ],
+  "notes": [
+   "#5 혈 이름 여섯이 자리로만 실림 — 소리 고리 없음 · 표 · 트레이너 후보",
+   "#6 혈 이름 소리 고리 없음 — 자리(눈꼬리)만 · 표 후보"
+  ]
+ },
+ {
+  "lesson": "mer-05",
+  "title": "五輸穴 ① 井滎兪經合의 오행 — 陰井木 · 陽井金",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 8,
+  "high": 2,
+  "mid": 5,
+  "codes": {
+   "S": 5,
+   "M": 5,
+   "G": 3,
+   "N": 2
+  },
+  "cards": 9,
+  "recorded": 10,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   4
+  ],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(표 · 트레이너)",
+  "score": 11,
+  "weight": 9,
+  "high_stations": [
+   5,
+   6
+  ],
+  "notes": [
+   "#5 혈 이름 여섯 모두 소리 고리 없음 — 오행 색 물건 곁 사람(자리)뿐 · 60혈 이름은 표 · 트레이너로",
+   "#6 5번과 같은 병 · 足三里는 胃 21/45 단서가 다른 곳에 있음"
+  ]
+ },
+ {
+  "lesson": "mer-06",
+  "title": "五輸穴 ② 열두 경 예순 이름",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 12,
+  "high": 0,
+  "mid": 12,
+  "codes": {
+   "G": 12,
+   "M": 12,
+   "S": 12
+  },
+  "cards": 16,
+  "recorded": 14,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(표 · 트레이너)",
+  "score": 12,
+  "weight": 16,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "mer-07",
+  "title": "背兪穴 — 등 1.5寸 위 열두 장부의 높이",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 8,
+  "high": 0,
+  "mid": 8,
+  "codes": {
+   "G": 5,
+   "M": 4,
+   "S": 4
+  },
+  "cards": 20,
+  "recorded": 10,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(표 · 트레이너)",
+  "score": 8,
+  "weight": 20,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "mer-08",
+  "title": "募穴 — 몸 앞 열둘, 남의 경에 세 든 셋",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 9,
+  "high": 7,
+  "mid": 1,
+  "codes": {
+   "N": 7,
+   "M": 5,
+   "S": 2,
+   "G": 1
+  },
+  "cards": 10,
+  "recorded": 11,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 22,
+  "weight": 10,
+  "high_stations": [
+   1,
+   2,
+   4,
+   6,
+   7,
+   8,
+   9
+  ],
+  "notes": [
+   "#1 募 · 兪 이름 소리 고리 없음 · 前募後兪(앞=陰)와 兪陰性病/募陽性病이 겉으로 반대로 읽혀 혼동 쌍(C 후보) · 보존 목록 8절(募穴 · 八會穴 · 八脈交會",
+   "#2 혈 이름 소리 고리 없음 · 寸 수 물건 없음 · 보존 목록 8절(募穴 · 八會穴 · 八脈交會穴 사용자 문장) 해당 과 — 문장은 정거장 글에 없음, 판정은 참고",
+   "#4 세 이름 소리 고리 없음 · 寸 수는 순서로 세어야 함 · 원자 6 · 보존 목록 8절(募穴 · 八會穴 · 八脈交會穴 사용자 문장) 해당 과 — 문장은 정거장 글",
+   "#6 期門 · 日月 소리 고리 없음 · 肋間 수 물건 없음 · 보존 목록 8절(募穴 · 八會穴 · 八脈交會穴 사용자 문장) 해당 과 — 문장은 정거장 글에 없음, 판정"
+  ]
+ },
+ {
+  "lesson": "mer-09",
+  "title": "原穴 · 主客原絡 — 주인은 제자리, 손님은 짝집에서",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 9,
+  "high": 9,
+  "mid": 0,
+  "codes": {
+   "N": 9,
+   "M": 8,
+   "S": 8
+  },
+  "cards": 18,
+  "recorded": 11,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(표 · 트레이너)",
+  "score": 27,
+  "weight": 18,
+  "high_stations": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "notes": [
+   "#1 혈 이름 넷 소리 고리 없음 — 인물이 짝(原/絡)만 알려 줌 · 主客原絡 표로",
+   "#2 혈 이름 넷 소리 고리 없음 — 인물이 짝(原/絡)만 알려 줌 · 主客原絡 표로",
+   "#3 혈 이름 넷 소리 고리 없음 — 인물이 짝(原/絡)만 알려 줌 · 主客原絡 표로",
+   "#4 혈 이름 넷 소리 고리 없음 — 인물이 짝(原/絡)만 알려 줌 · 主客原絡 표로"
+  ]
+ },
+ {
+  "lesson": "mer-10",
+  "title": "絡穴 — 十五絡과 八脈交會의 絡穴 넷",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 7,
+  "high": 3,
+  "mid": 1,
+  "codes": {
+   "N": 3,
+   "M": 2,
+   "G": 1
+  },
+  "cards": 16,
+  "recorded": 9,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   6
+  ],
+  "fact_split": [
+   3
+  ],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 10,
+  "weight": 16,
+  "high_stations": [
+   4,
+   5,
+   7
+  ],
+  "notes": [
+   "#4 列缺 · 公孫 소리 고리 없음",
+   "#5 內 · 外는 글에만 — 關을 나르는 물건 없음 · 안/밖 자리로만",
+   "#7 太淵 · 列缺 소리 고리 없음 — 자리로만 가름"
+  ]
+ },
+ {
+  "lesson": "mer-11",
+  "title": "舍岩鍼法 ① 正格 · 勝格 — 補母瀉官 · 補官瀉子",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 10,
+  "high": 2,
+  "mid": 2,
+  "codes": {
+   "P": 4,
+   "M": 2,
+   "N": 2,
+   "S": 2,
+   "G": 1
+  },
+  "cards": 27,
+  "recorded": 12,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 8,
+  "weight": 27,
+  "high_stations": [
+   2,
+   3
+  ],
+  "notes": [
+   "#2 正格 이름 소리 고리 없음 — 왼쪽 찬장 자리뿐",
+   "#3 勝格 이름 소리 고리 없음 — 오른쪽 찬장 자리뿐 · 正格과 한 가지 차이(칸)로 갈림은 좋음"
+  ]
+ },
+ {
+  "lesson": "mer-12",
+  "title": "舍岩鍼法 ② 寒格 · 熱格 — 補火瀉水 · 補水瀉土(火)",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 9,
+  "high": 4,
+  "mid": 2,
+  "codes": {
+   "N": 4,
+   "M": 4,
+   "S": 3
+  },
+  "cards": 13,
+  "recorded": 11,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 14,
+  "weight": 13,
+  "high_stations": [
+   1,
+   3,
+   8,
+   9
+  ],
+  "notes": [
+   "#1 寒格 이름 자체를 나르는 물건 없음 — 補火만 실림(2번의 눈 오는 창이 寒을 겨우 보탬)",
+   "#3 熱格 이름 나르는 물건 없음 — 補水만 실림",
+   "#8 혈 이름 넷 소리 고리 없음 · 寒熱格 사용자 문장 있는지 확인 필요(11-21 결정에는 正格 · 勝格 24줄만)",
+   "#9 8번과 같은 병"
+  ]
+ },
+ {
+  "lesson": "mer-13",
+  "title": "八會穴 — 여덟이 모이는 자리",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 9,
+  "high": 4,
+  "mid": 2,
+  "codes": {
+   "N": 4,
+   "M": 2
+  },
+  "cards": 12,
+  "recorded": 11,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   9
+  ],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 14,
+  "weight": 12,
+  "high_stations": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "notes": [
+   "#1 章門 소리 고리 없음 · 臟會는 상자(藏)로 통함 · 보존 목록 8절(募穴 · 八會穴 · 八脈交會穴 사용자 문장) 해당 과 — 문장은 정거장 글에 없음, 판정은 ",
+   "#2 中脘 소리 고리 없음 · 太倉은 곳간이라 통하나 답이 아님 · 보존 목록 8절(募穴 · 八會穴 · 八脈交會穴 사용자 문장) 해당 과 — 문장은 정거장 글에 없음,",
+   "#3 膻中 소리 고리 없음 · 보존 목록 8절(募穴 · 八會穴 · 八脈交會穴 사용자 문장) 해당 과 — 문장은 정거장 글에 없음, 판정은 참고",
+   "#4 mer-07 3번은 가로막처럼 가로 놓인 천으로 膈을 실었으나 여기는 붉은 천만 — 과마다 꼴이 다름(C 후보) · 보존 목록 8절(募穴 · 八會穴 · 八脈交會穴"
+  ]
+ },
+ {
+  "lesson": "new-etc-01",
+  "title": "先秦·漢 — 의학의 기원과 첫 기록(기원설 셋·甲骨·周禮·扁鵲·帛書·藝文志)",
+  "chapter": "ch01",
+  "group": "C",
+  "stations": 10,
+  "high": 4,
+  "mid": 2,
+  "codes": {
+   "S": 6,
+   "M": 5,
+   "N": 4,
+   "W": 1,
+   "P": 1
+  },
+  "cards": 11,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   5,
+   8,
+   10
+  ],
+  "fact_split": [
+   6
+  ],
+  "picture_atoms": 36,
+  "picture_text_only": 8,
+  "name_reader_named": 16,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 1,
+  "eyes_checked": true,
+  "verdict": "다시 그림",
+  "score": 14,
+  "weight": 11,
+  "high_stations": [
+   3,
+   4,
+   9,
+   10
+  ],
+  "notes": [
+   "#3 다섯 인물이 하는 일로만 실림 — 神農 · 伏羲 · 燧人 · 岐伯 소리 고리 없음(伏羲=양은 까닭 없음)",
+   "#4 盤庚 소리 고리 없음 · 20여 종 수 안 실림",
+   "#9 두 책 이름 carrier 없음 · 穴名 없음=점 없음 부정만 실림",
+   "#10 班固 동음 고리 있음 · 藝文志 이름 · 十八卷 · 13方 수 carrier 없음 · 최초=금메달 약속"
+  ]
+ },
+ {
+  "lesson": "new-etc-02",
+  "title": "宋 분과 전문서 — 脈(崔嘉彦·施發) · 婦人(陳自明) · 小兒(董汲)",
+  "chapter": "ch01",
+  "group": "A2",
+  "stations": 5,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "M": 5,
+   "G": 2,
+   "S": 2
+  },
+  "cards": 5,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 15,
+  "picture_text_only": 6,
+  "name_reader_named": 4,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 1,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 3,
+  "weight": 5,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-etc-03",
+  "title": "傷寒 補充·연구서 — 朱肱·郭雍·楊士瀛(宋) · 尤怡(淸)",
+  "chapter": "ch01",
+  "group": "A2",
+  "stations": 4,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "M": 3,
+   "S": 2,
+   "G": 1
+  },
+  "cards": 4,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 14,
+  "picture_text_only": 2,
+  "name_reader_named": 5,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 2,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 3,
+  "weight": 4,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-etc-04",
+  "title": "方書의 계보 — 兩晉隋唐 方書 붐 → 濟生方·得效方 → 普濟方·醫方考 → 衷中參西錄",
+  "chapter": "ch01",
+  "group": "A2",
+  "stations": 6,
+  "high": 0,
+  "mid": 5,
+  "codes": {
+   "S": 5,
+   "M": 4,
+   "G": 1
+  },
+  "cards": 6,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   5,
+   6
+  ],
+  "fact_split": [],
+  "picture_atoms": 23,
+  "picture_text_only": 4,
+  "name_reader_named": 5,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 1,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 5,
+  "weight": 6,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-etc-05",
+  "title": "病因學說의 발전 — 醫和 六氣 · 調經論 陰陽 · 金匱 三條 · 癘氣",
+  "chapter": "ch07",
+  "group": "C",
+  "stations": 7,
+  "high": 3,
+  "mid": 2,
+  "codes": {
+   "M": 4,
+   "N": 3,
+   "S": 2
+  },
+  "cards": 9,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   1,
+   7
+  ],
+  "fact_split": [],
+  "picture_atoms": 21,
+  "picture_text_only": 7,
+  "name_reader_named": 4,
+  "name_reader_guess": 8,
+  "obj_vs_picture_mismatch": 2,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 11,
+  "weight": 9,
+  "high_stations": [
+   1,
+   3,
+   6
+  ],
+  "notes": [
+   "#1 醫和(사람 이름) 소리 고리 없음 · 六淫과의 구분 물건 없음",
+   "#3 陳無擇(사람) 소리 고리 없음 · 七情과의 구분 물건 없음",
+   "#6 癘 · 戾 소리 고리 없음 · 이명 넷 물건 없음 · 원자 6"
+  ]
+ },
+ {
+  "lesson": "new-etc-06",
+  "title": "七情 ② 감정과 五臟 — 배속·傷臟·五志相勝·有餘不足·本神",
+  "chapter": "ch07",
+  "group": "A2",
+  "stations": 6,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "S": 3,
+   "M": 3,
+   "G": 1,
+   "W": 1
+  },
+  "cards": 6,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   2,
+   3,
+   6
+  ],
+  "fact_split": [
+   5
+  ],
+  "picture_atoms": 25,
+  "picture_text_only": 3,
+  "name_reader_named": 8,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 1,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 3,
+  "weight": 6,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-etc-07",
+  "title": "飮食 ② 不潔·偏嗜 — 五味所傷(五藏生成篇)",
+  "chapter": "ch07",
+  "group": "C",
+  "stations": 7,
+  "high": 1,
+  "mid": 5,
+  "codes": {
+   "M": 6,
+   "S": 1,
+   "N": 1
+  },
+  "cards": 9,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 17,
+  "picture_text_only": 7,
+  "name_reader_named": 5,
+  "name_reader_guess": 2,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 8,
+  "weight": 9,
+  "high_stations": [
+   6
+  ],
+  "notes": [
+   "#6 胝 · 䐢 훈으로 안 풀림 — 모습만 그림 · 五行 · 臟 물건 없음"
+  ]
+ },
+ {
+  "lesson": "new-etc-08",
+  "title": "六淫 ④ 성질 보충 — 風勝則動 · 傷寒↔中寒 · 濕·燥의 化火",
+  "chapter": "ch07",
+  "group": "A2",
+  "stations": 5,
+  "high": 0,
+  "mid": 1,
+  "codes": {
+   "S": 1,
+   "M": 1
+  },
+  "cards": 5,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   5
+  ],
+  "fact_split": [],
+  "picture_atoms": 16,
+  "picture_text_only": 3,
+  "name_reader_named": 5,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "그대로",
+  "score": 1,
+  "weight": 5,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-etc-09a",
+  "title": "病機十九條 ① — 五臟 5 · 上下 2 · 風寒濕 3 (+ 劉完素 燥 1)",
+  "chapter": "ch08",
+  "group": "A2",
+  "stations": 11,
+  "high": 3,
+  "mid": 2,
+  "codes": {
+   "N": 4,
+   "S": 2
+  },
+  "cards": 11,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 20,
+  "picture_text_only": 2,
+  "name_reader_named": 10,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 1,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 11,
+  "weight": 11,
+  "high_stations": [
+   3,
+   6,
+   11
+  ],
+  "notes": [
+   "#3 膹(안 보임) 소리 고리 없음 — 숨 막힘 모습만",
+   "#6 痿(안 보임) 소리 고리 없음 · 원자 4",
+   "#11 劉完素(사람) 소리 고리 없음 — 학자 실루엣뿐 · 書名 고리 없음"
+  ]
+ },
+ {
+  "lesson": "new-etc-09b",
+  "title": "病機十九條 ② — 火 5條 ↔ 熱 4條",
+  "chapter": "ch08",
+  "group": "A2",
+  "stations": 9,
+  "high": 1,
+  "mid": 0,
+  "codes": {
+   "N": 1,
+   "S": 1
+  },
+  "cards": 9,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 15,
+  "picture_text_only": 2,
+  "name_reader_named": 9,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 3,
+  "weight": 9,
+  "high_stations": [
+   1
+  ],
+  "notes": [
+   "#1 瞀 · 瘈 안 보이는 글자 소리 고리 없음 · 열 자 함정 구분 물건 없음"
+  ]
+ },
+ {
+  "lesson": "new-etc-10",
+  "title": "陰陽失調 ② 互損과 臟腑 陰陽 — 陰損及陽·陽損及陰 · 腎=陰陽之本",
+  "chapter": "ch08",
+  "group": "A2",
+  "stations": 6,
+  "high": 0,
+  "mid": 4,
+  "codes": {
+   "S": 4,
+   "M": 4
+  },
+  "cards": 7,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 20,
+  "picture_text_only": 8,
+  "name_reader_named": 7,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 4,
+  "weight": 7,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-etc-11",
+  "title": "氣閉·氣脫 · 氣隨津脫 · 氣血互根 실조 다섯",
+  "chapter": "ch08",
+  "group": "C",
+  "stations": 4,
+  "high": 0,
+  "mid": 2,
+  "codes": {
+   "S": 3,
+   "M": 2
+  },
+  "cards": 4,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 18,
+  "picture_text_only": 3,
+  "name_reader_named": 7,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 2,
+  "weight": 4,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-etc-12",
+  "title": "津液 失常 — 원인 넷 · 水停(氣阻·阻肺·凌心·中焦) · 津虧가 血로",
+  "chapter": "ch08",
+  "group": "C",
+  "stations": 7,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "S": 4,
+   "M": 2
+  },
+  "cards": 7,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 27,
+  "picture_text_only": 5,
+  "name_reader_named": 9,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 3,
+  "weight": 7,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-etc-13",
+  "title": "本草 입문 — 韓藥·民間藥·生藥 · 神農本草經 三品 · 六陳八新",
+  "chapter": "ch10",
+  "group": "C",
+  "stations": 7,
+  "high": 1,
+  "mid": 0,
+  "codes": {
+   "S": 3,
+   "N′": 1,
+   "M": 1
+  },
+  "cards": 7,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 19,
+  "picture_text_only": 1,
+  "name_reader_named": 3,
+  "name_reader_guess": 7,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 3,
+  "weight": 7,
+  "high_stations": [
+   7
+  ],
+  "notes": [
+   "#7 吳茱萸 · 半夏 · 枳實 · 麻黃 · 狼毒 다섯 모두 사전에 고리가 있는데(오리 수유 · 반바지 하마 · 지퍼 실 · 마왕 · 낭독 늑대) 안 씀 · 八新 여덟 "
+  ]
+ },
+ {
+  "lesson": "new-etc-14",
+  "title": "歸經 — 정의와 色味歸經(五色·五味 → 表裏 두 經)",
+  "chapter": "ch10",
+  "group": "C",
+  "stations": 6,
+  "high": 0,
+  "mid": 5,
+  "codes": {
+   "S": 5,
+   "G": 5
+  },
+  "cards": 6,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 26,
+  "picture_text_only": 0,
+  "name_reader_named": 10,
+  "name_reader_guess": 2,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "그릇바꿈(표 · 트레이너)",
+  "score": 5,
+  "weight": 6,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-etc-15",
+  "title": "頭痛 引經藥 — 川芎과 부위별 일곱",
+  "chapter": "ch10",
+  "group": "C",
+  "stations": 7,
+  "high": 0,
+  "mid": 5,
+  "codes": {
+   "G": 7,
+   "N′": 6
+  },
+  "cards": 7,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 7,
+  "picture_text_only": 0,
+  "name_reader_named": 10,
+  "name_reader_guess": 3,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 5,
+  "weight": 7,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-etc-16",
+  "title": "苦欲補瀉 — 五臟의 괴로움과 바람(藏氣法時論)",
+  "chapter": "ch10",
+  "group": "C",
+  "stations": 5,
+  "high": 0,
+  "mid": 5,
+  "codes": {
+   "S": 5,
+   "G": 5,
+   "M": 5
+  },
+  "cards": 5,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 26,
+  "picture_text_only": 10,
+  "name_reader_named": 2,
+  "name_reader_guess": 4,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 5,
+  "weight": 5,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-etc-17",
+  "title": "氣味 厚薄 · 淡味·澀味",
+  "chapter": "ch10",
+  "group": "C",
+  "stations": 4,
+  "high": 1,
+  "mid": 1,
+  "codes": {
+   "S": 2,
+   "G": 1,
+   "N": 1,
+   "N′": 1,
+   "M": 1
+  },
+  "cards": 4,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   2,
+   3
+  ],
+  "fact_split": [],
+  "picture_atoms": 15,
+  "picture_text_only": 0,
+  "name_reader_named": 4,
+  "name_reader_guess": 2,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 4,
+  "weight": 4,
+  "high_stations": [
+   4
+  ],
+  "notes": [
+   "#4 원자 7. 藥名 4개 중 龍骨만 훈 뜻 고리. 茯苓·澤瀉는 사전(볼링공·택시)과 다른 꼴(N′), 薏苡仁·訶子는 소리 고리 없음(N). 利竅는 나를 물건 없음"
+  ]
+ },
+ {
+  "lesson": "new-etc-18",
+  "title": "毒·用量·妊娠禁忌·複製法 — 약을 얼마나, 어떻게 안전하게",
+  "chapter": "ch10",
+  "group": "C",
+  "stations": 9,
+  "high": 2,
+  "mid": 1,
+  "codes": {
+   "S": 2,
+   "N": 2,
+   "M": 1,
+   "N′": 1
+  },
+  "cards": 9,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 25,
+  "picture_text_only": 2,
+  "name_reader_named": 12,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 1,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 7,
+  "weight": 9,
+  "high_stations": [
+   7,
+   9
+  ],
+  "notes": [
+   "#7 원자 7. 砒霜·莪朮 물건 없음, 巴豆는 콩(豆)만",
+   "#9 天南은 소리 고리 없음(별만). suchi-suhwa에는 천하장사 남성+별(천남성)이 있어 덱 안에서 꼴이 갈림"
+  ]
+ },
+ {
+  "lesson": "new-etc-19",
+  "title": "효능별 약 ① 解表·淸熱·瀉下·祛濕",
+  "chapter": "ch10",
+  "group": "C",
+  "stations": 7,
+  "high": 2,
+  "mid": 5,
+  "codes": {
+   "M": 7,
+   "S": 6,
+   "N′": 3,
+   "N": 2
+  },
+  "cards": 7,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 36,
+  "picture_text_only": 17,
+  "name_reader_named": 7,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 2,
+  "eyes_checked": true,
+  "verdict": "그릇바꿈(표 · 트레이너)",
+  "score": 11,
+  "weight": 7,
+  "high_stations": [
+   2,
+   7
+  ],
+  "notes": [
+   "#2 원자 5(약 8). 生地는 소리 고리 없음, 石膏·黃連은 사전(석고 조각상·노란 연꽃)을 안 씀, 芩·柏 물건 없음",
+   "#7 원자 6. 薏苡仁 소리 고리 없음, 茯苓은 사전 볼링공을 안 씀, 나머지 넷 물건 없음"
+  ]
+ },
+ {
+  "lesson": "new-etc-20",
+  "title": "효능별 약 ② 理氣·消食·驅蟲·止血·活血",
+  "chapter": "ch10",
+  "group": "C",
+  "stations": 8,
+  "high": 1,
+  "mid": 7,
+  "codes": {
+   "M": 7,
+   "S": 5,
+   "N′": 3,
+   "N": 1
+  },
+  "cards": 8,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 38,
+  "picture_text_only": 18,
+  "name_reader_named": 11,
+  "name_reader_guess": 3,
+  "obj_vs_picture_mismatch": 1,
+  "eyes_checked": true,
+  "verdict": "그릇바꿈(표 · 트레이너)",
+  "score": 10,
+  "weight": 8,
+  "high_stations": [
+   7
+  ],
+  "notes": [
+   "#7 伏龍肝은 아궁이 흙이라는 실물 지식 필요, 소리 고리 없음. 艾葉은 사전 '애 업기'를 안 씀(뜻 고리는 성립)"
+  ]
+ },
+ {
+  "lesson": "new-etc-21",
+  "title": "효능별 약 ③ 化痰止咳·安神·平肝·開竅",
+  "chapter": "ch10",
+  "group": "C",
+  "stations": 5,
+  "high": 1,
+  "mid": 4,
+  "codes": {
+   "S": 5,
+   "M": 5,
+   "N′": 2,
+   "N": 1
+  },
+  "cards": 5,
+  "recorded": 0,
+  "fact_diff": [
+   3
+  ],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 35,
+  "picture_text_only": 12,
+  "name_reader_named": 12,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 1,
+  "eyes_checked": true,
+  "verdict": "그릇바꿈(표 · 트레이너)",
+  "score": 11,
+  "weight": 5,
+  "high_stations": [
+   4
+  ],
+  "notes": [
+   "#4 원자 10. 石決明·代赭石은 소리 고리 없음, 天麻 물건 없음, 牡蠣는 이 정거장 물건에 없음"
+  ]
+ },
+ {
+  "lesson": "new-etc-22",
+  "title": "효능별 약 ④ 補陽·補陰·補益 주의 셋 · 收澀 · 涌吐",
+  "chapter": "ch10",
+  "group": "C",
+  "stations": 9,
+  "high": 4,
+  "mid": 2,
+  "codes": {
+   "S": 5,
+   "M": 5,
+   "N": 4,
+   "N′": 4
+  },
+  "cards": 10,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 37,
+  "picture_text_only": 13,
+  "name_reader_named": 11,
+  "name_reader_guess": 3,
+  "obj_vs_picture_mismatch": 1,
+  "eyes_checked": true,
+  "verdict": "그릇바꿈(표 · 트레이너)",
+  "score": 14,
+  "weight": 10,
+  "high_stations": [
+   1,
+   7,
+   8,
+   9
+  ],
+  "notes": [
+   "#1 원자 7. 杜仲은 사전 두꺼비 충전을 안 씀(소리 고리 없이 실물 지식), 넷 물건 없음. suchi 과에는 고리가 있음",
+   "#7 원자 5. 訶子 소리 고리 없음, 烏梅는 사전 '오매!'를 안 씀(훈 고리는 성립), 五倍子 물건 없음",
+   "#8 원자 7. 五味子·金櫻子·桑螵蛸 소리 고리 없음(桑螵蛸는 사전 '상표 택'을 안 씀), 둘 물건 없음",
+   "#9 원자 4. 膽礬 소리 고리 없음, 둘 물건 없음"
+  ]
+ },
+ {
+  "lesson": "new-etc-23",
+  "title": "七方 — 大·小·緩·急·奇·偶·複(至眞要大論)",
+  "chapter": "ch11",
+  "group": "C",
+  "stations": 5,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 2,
+   "M": 2,
+   "N": 1,
+   "G": 1,
+   "N′": 1
+  },
+  "cards": 5,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 16,
+  "picture_text_only": 3,
+  "name_reader_named": 8,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 1,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 6,
+  "weight": 5,
+  "high_stations": [
+   1
+  ],
+  "notes": [
+   "#1 출전 책 이름은 두루마리(일반 물건)뿐이라 소리 고리 없음"
+  ]
+ },
+ {
+  "lesson": "new-etc-24",
+  "title": "十劑 · 方劑 命名 — 輕重澀滑燥濕 · 용량비·특수약물·주치",
+  "chapter": "ch11",
+  "group": "A2",
+  "stations": 7,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 2,
+   "M": 2,
+   "N′": 2,
+   "N": 1
+  },
+  "cards": 7,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 14,
+  "picture_text_only": 1,
+  "name_reader_named": 8,
+  "name_reader_guess": 3,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 6,
+  "weight": 7,
+  "high_stations": [
+   3
+  ],
+  "notes": [
+   "#3 滑石은 소리 고리 없음, 甘草는 사전 '약방의 감초'를 안 씀. 수는 개수로 정확"
+  ]
+ },
+ {
+  "lesson": "new-etc-25",
+  "title": "湯劑와 특수 煎法 · 火力 — 包煎·別煎·沖服·烊化 · 武火·文火",
+  "chapter": "ch11",
+  "group": "C",
+  "stations": 7,
+  "high": 3,
+  "mid": 2,
+  "codes": {
+   "S": 3,
+   "N": 3,
+   "M": 2,
+   "G": 2,
+   "N′": 1
+  },
+  "cards": 7,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 24,
+  "picture_text_only": 3,
+  "name_reader_named": 1,
+  "name_reader_guess": 6,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 11,
+  "weight": 7,
+  "high_stations": [
+   2,
+   4,
+   5
+  ],
+  "notes": [
+   "#2 두 약 모두 소리 고리 없이 특징만",
+   "#4 원자 4. 琥珀·三七은 소리 고리 없이 색만",
+   "#5 원자 5. 芒硝 소리 고리 없음, 鹿角膠 물건 없음"
+  ]
+ },
+ {
+  "lesson": "new-etc-26",
+  "title": "服藥 시간 — 병 자리와 약 성질에 따라",
+  "chapter": "ch11",
+  "group": "A2",
+  "stations": 7,
+  "high": 0,
+  "mid": 0,
+  "codes": {},
+  "cards": 11,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 10,
+  "picture_text_only": 0,
+  "name_reader_named": 4,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "그대로",
+  "score": 0,
+  "weight": 11,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-etc-27",
+  "title": "治則 ① 治未病·標本緩急·扶正祛邪·反治(從治)",
+  "chapter": "ch13",
+  "group": "C",
+  "stations": 8,
+  "high": 1,
+  "mid": 4,
+  "codes": {
+   "S": 5,
+   "M": 2,
+   "N": 1
+  },
+  "cards": 10,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 24,
+  "picture_text_only": 5,
+  "name_reader_named": 0,
+  "name_reader_guess": 3,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 7,
+  "weight": 10,
+  "high_stations": [
+   8
+  ],
+  "notes": [
+   "#8 熱結旁流(열결방류) 소리 · 뜻 고리 없음"
+  ]
+ },
+ {
+  "lesson": "new-etc-28",
+  "title": "三因制宜와 治法 — 因時·因地 · 高者越之 · 八法(消·淸)",
+  "chapter": "ch13",
+  "group": "C",
+  "stations": 6,
+  "high": 1,
+  "mid": 2,
+  "codes": {
+   "S": 3,
+   "M": 2,
+   "N": 1
+  },
+  "cards": 7,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   4
+  ],
+  "fact_split": [
+   1
+  ],
+  "picture_atoms": 28,
+  "picture_text_only": 7,
+  "name_reader_named": 6,
+  "name_reader_guess": 3,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 5,
+  "weight": 7,
+  "high_stations": [
+   4
+  ],
+  "notes": [
+   "#4 程鍾齡(정종령) · 醫學心悟 이름 고리 없음 · 여덟 칸 한 상자"
+  ]
+ },
+ {
+  "lesson": "new-etc-29",
+  "title": "太陽 變證 — 蓄水↔蓄血 · 痞(瀉心湯 셋)↔結胸 · 陽虛水泛(眞武湯)",
+  "chapter": "ch09",
+  "group": "C",
+  "stations": 6,
+  "high": 1,
+  "mid": 4,
+  "codes": {
+   "S": 3,
+   "N′": 3,
+   "M": 2,
+   "N": 1,
+   "G": 1
+  },
+  "cards": 6,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "fact_split": [
+   1
+  ],
+  "picture_atoms": 16,
+  "picture_text_only": 0,
+  "name_reader_named": 6,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 7,
+  "weight": 6,
+  "high_stations": [
+   1
+  ],
+  "notes": [
+   "#1 五苓의 苓 · 承氣 소리 고리 없음 · 원자 6"
+  ]
+ },
+ {
+  "lesson": "new-etc-30",
+  "title": "合病·傳變 — 柴胡桂枝湯·大柴胡湯 · 表裏傳·兩感",
+  "chapter": "ch09",
+  "group": "A2",
+  "stations": 4,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "N′": 2,
+   "G": 1,
+   "S": 1
+  },
+  "cards": 4,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   2,
+   3
+  ],
+  "fact_split": [],
+  "picture_atoms": 9,
+  "picture_text_only": 0,
+  "name_reader_named": 6,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 3,
+  "weight": 4,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-etc-31",
+  "title": "三焦辨證 — 上焦 肺·心包 → 中焦 胃燥·脾濕 → 下焦 腎·肝",
+  "chapter": "ch09",
+  "group": "A2",
+  "stations": 6,
+  "high": 0,
+  "mid": 4,
+  "codes": {
+   "G": 3,
+   "S": 1,
+   "N": 1,
+   "M": 1
+  },
+  "cards": 6,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   4,
+   6
+  ],
+  "fact_split": [],
+  "picture_atoms": 16,
+  "picture_text_only": 0,
+  "name_reader_named": 10,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "그릇바꿈(표 · 트레이너)",
+  "score": 4,
+  "weight": 6,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-gr-01",
+  "title": "經絡의 정의와 원문 — 行血氣 · 內屬外絡 · 決死生 · 節",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 6,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 3,
+   "M": 2,
+   "N": 2,
+   "G": 1
+  },
+  "cards": 10,
+  "recorded": 8,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [
+   6
+  ],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 6,
+  "weight": 10,
+  "high_stations": [
+   6
+  ],
+  "notes": [
+   "#6 張介賓 사람 이름 고리 없음 — 출전을 답으로 묻는지 확인 필요 · 365는 사계절=일 년 약속"
+  ]
+ },
+ {
+  "lesson": "new-gr-02",
+  "title": "經絡學 원류 — 馬王堆 帛書(11脈)에서 孫思邈 千金要方까지",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 6,
+  "high": 1,
+  "mid": 2,
+  "codes": {
+   "G": 2,
+   "N": 1,
+   "S": 1,
+   "P": 1,
+   "M": 1
+  },
+  "cards": 10,
+  "recorded": 8,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   6
+  ],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 5,
+  "weight": 10,
+  "high_stations": [
+   1
+  ],
+  "notes": [
+   "#1 馬王堆 이름 고리 없음 · 十一은 주사위 1·1을 겹쳐 읽는 약속"
+  ]
+ },
+ {
+  "lesson": "new-gr-03",
+  "title": "經絡의 다섯 기능과 經氣 — 營衛가 돌고 宗氣가 밀고 元氣가 받친다",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 10,
+  "high": 1,
+  "mid": 1,
+  "codes": {
+   "M": 3,
+   "S": 2,
+   "N": 1,
+   "G": 1
+  },
+  "cards": 16,
+  "recorded": 12,
+  "fact_diff": [
+   9
+  ],
+  "fact_not_in_textbook": [
+   10
+  ],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 8,
+  "weight": 16,
+  "high_stations": [
+   8
+  ],
+  "notes": [
+   "#8 虛里=허리 통째 동음어가 있는데 안 씀(왼쪽 가슴만) · 胃之大絡 물건 없음"
+  ]
+ },
+ {
+  "lesson": "new-gr-04",
+  "title": "經絡系統 지도 — 經 · 絡 · 孫 · 浮와 經脈系統 · 絡脈系統 · 連屬部分",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 8,
+  "high": 0,
+  "mid": 4,
+  "codes": {
+   "M": 4,
+   "S": 3
+  },
+  "cards": 8,
+  "recorded": 10,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   2
+  ],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 4,
+  "weight": 8,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-gr-05",
+  "title": "十二經別 · 十二經筋 — 離入出合 ↔ 結聚散絡",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 7,
+  "high": 0,
+  "mid": 4,
+  "codes": {
+   "S": 4,
+   "M": 2
+  },
+  "cards": 8,
+  "recorded": 9,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   7
+  ],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 4,
+  "weight": 8,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-gr-06",
+  "title": "十二皮部 — 最外層 · 邪의 입구 · 六經 皮部名",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 10,
+  "high": 0,
+  "mid": 4,
+  "codes": {
+   "G": 3,
+   "S": 1
+  },
+  "cards": 11,
+  "recorded": 12,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   5,
+   6,
+   7
+  ],
+  "fact_split": [
+   3,
+   8,
+   9,
+   10
+  ],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 4,
+  "weight": 11,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-gr-07",
+  "title": "十二經脈 走向 · 交接 · 流注 — 胸 → 手 → 頭 → 足 → 胸 세 바퀴",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 6,
+  "high": 0,
+  "mid": 2,
+  "codes": {
+   "S": 2,
+   "M": 1
+  },
+  "cards": 13,
+  "recorded": 8,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 2,
+  "weight": 13,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-gr-08",
+  "title": "한 자리에 모이는 경맥 — 巓頂 · 脣口 · 喉嚨 · 陰器, 頭面 못 가는 둘, 胸腹 차례",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 8,
+  "high": 1,
+  "mid": 5,
+  "codes": {
+   "S": 6,
+   "N": 3,
+   "M": 2,
+   "G": 1
+  },
+  "cards": 11,
+  "recorded": 10,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [
+   5
+  ],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 8,
+  "weight": 11,
+  "high_stations": [
+   3
+  ],
+  "notes": [
+   "#3 衝·督·任 이름 셋이 줄 둘로 실림 — 소리 고리 없음"
+  ]
+ },
+ {
+  "lesson": "new-gr-09",
+  "title": "유주 원문 식별 — 한 구절로 경 맞히기",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 11,
+  "high": 1,
+  "mid": 9,
+  "codes": {
+   "S": 10,
+   "M": 8,
+   "N": 2
+  },
+  "cards": 13,
+  "recorded": 13,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   11
+  ],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 12,
+  "weight": 13,
+  "high_stations": [
+   2
+  ],
+  "notes": [
+   "#2 胃 구절 일곱 · 혈 이름 넷 소리 고리 없음"
+  ]
+ },
+ {
+  "lesson": "new-gr-10",
+  "title": "是動 · 所生 — 經氣가 먼저 움직인 병 ↔ 臟腑에서 생겨 번진 병",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 5,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "S": 2,
+   "M": 1,
+   "N": 1,
+   "G": 1
+  },
+  "cards": 7,
+  "recorded": 7,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 3,
+  "weight": 7,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-gr-11",
+  "title": "경마다 是動 대표증상 — 頭似脫 · 肩似拔 · 棄衣而走 …",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 9,
+  "high": 0,
+  "mid": 8,
+  "codes": {
+   "M": 9,
+   "S": 6
+  },
+  "cards": 18,
+  "recorded": 11,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 8,
+  "weight": 18,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-gr-12",
+  "title": "奇經八脈 총론 — 여덟 이름 · 正經과 다른 점 · 넘치면 받는 저수",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 6,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 3,
+   "N": 2,
+   "M": 2,
+   "G": 1,
+   "P": 1
+  },
+  "cards": 8,
+  "recorded": 8,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 6,
+  "weight": 8,
+  "high_stations": [
+   1
+  ],
+  "notes": [
+   "#1 蹻 고리 없음(장대는 하는 일) · 陰蹻·陽蹻 감은 눈·뜬 눈이 보존 목록인데 장대로 바뀜 — 확인 필요 · 이름 여덟이 한 정거장"
+  ]
+ },
+ {
+  "lesson": "new-gr-13",
+  "title": "任 · 督 · 衝 — 一源三岐, 胞中 한 샘에서 세 갈래",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 11,
+  "high": 3,
+  "mid": 6,
+  "codes": {
+   "S": 6,
+   "G": 4,
+   "M": 4,
+   "N": 3,
+   "N′": 1,
+   "P": 1
+  },
+  "cards": 21,
+  "recorded": 13,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   5,
+   11
+  ],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 15,
+  "weight": 21,
+  "high_stations": [
+   4,
+   7,
+   9
+  ],
+  "notes": [
+   "#4 長强 · 齦交 소리 고리 없음 — 자리만 · 28은 숫자 물건 읽기",
+   "#7 會陰 · 承漿 · 承泣 소리 고리 없음 · 目眶下 물건 없음",
+   "#9 氣衝 · 幽門 자리만 — 소리 고리 없음 · 並少陰之經 물건 없음"
+  ]
+ },
+ {
+  "lesson": "new-gr-14",
+  "title": "帶 · 維 · 蹻 — 허리띠 · 그물 벼리 · 죽마",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 6,
+  "high": 3,
+  "mid": 3,
+  "codes": {
+   "S": 6,
+   "M": 3,
+   "N": 3,
+   "G": 1
+  },
+  "cards": 10,
+  "recorded": 8,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 12,
+  "weight": 10,
+  "high_stations": [
+   2,
+   3,
+   6
+  ],
+  "notes": [
+   "#2 五樞 · 維道 소리 고리 없음 — 징 셋은 개수일 뿐 · 재판관은 膽 인물(공용)",
+   "#3 築賓 · 廉泉 · 屬營 나를 물건 없음 · 원자 6",
+   "#6 혈 이름 다섯 자리만(발목 · 목덜미 · 눈 안쪽) — 소리 고리 없음 · 되짚기 성격이라 유주도로 갈음 가능"
+  ]
+ },
+ {
+  "lesson": "new-gr-15",
+  "title": "標本 · 根結 · 氣街 · 四海 — 四肢 끝과 머리 · 몸통을 잇는 네 이론",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 8,
+  "high": 2,
+  "mid": 3,
+  "codes": {
+   "N": 3,
+   "S": 2
+  },
+  "cards": 10,
+  "recorded": 10,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 9,
+  "weight": 10,
+  "high_stations": [
+   2,
+   8
+  ],
+  "notes": [
+   "#2 井穴 이름 고리 없음 — 빛방울은 우물이 아님",
+   "#8 衝脈 이름 고리 없음 — 分泉 하는 일만"
+  ]
+ },
+ {
+  "lesson": "new-gr-16",
+  "title": "合과 會 — 五輸 主治 · 下合穴(合治內府) · 交會穴",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 8,
+  "high": 2,
+  "mid": 4,
+  "codes": {
+   "S": 3,
+   "G": 3,
+   "N": 2,
+   "M": 1
+  },
+  "cards": 8,
+  "recorded": 10,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   4,
+   5,
+   7,
+   8
+  ],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 10,
+  "weight": 8,
+  "high_stations": [
+   3,
+   5
+  ],
+  "notes": [
+   "#3 혈 이름 셋 소리 고리 없음 — 사람 순서(위 · 가운데 · 아래)가 上 · 下 자리만 알려 줌 · 巨虛 없음",
+   "#5 關元 이름 고리 없음 — 4경 의자 수만 · 임신부는 任의 소리 고리로 통함"
+  ]
+ },
+ {
+  "lesson": "new-gr-17",
+  "title": "總穴 — 四總穴 · 六總穴 · 陰陽二總穴 + 八邪",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 9,
+  "high": 4,
+  "mid": 2,
+  "codes": {
+   "N": 4,
+   "G": 1,
+   "S": 1,
+   "M": 1
+  },
+  "cards": 9,
+  "recorded": 11,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 14,
+  "weight": 9,
+  "high_stations": [
+   1,
+   2,
+   3,
+   7
+  ],
+  "notes": [
+   "#1 合谷 소리 고리 없음 — 인물이 大腸임만 알려 줌",
+   "#2 足三里 소리 고리 없음(gr-38 2번은 삼지창 이정표로 실림 — 과마다 다름)",
+   "#3 委中 소리 고리 없음 — 굽힌 무릎(委中=오금)은 자리 지식",
+   "#7 合谷 소리 고리 없음 · 1번과 같은 인물로만 연결"
+  ]
+ },
+ {
+  "lesson": "new-gr-18",
+  "title": "刺法 — 巨刺 · 繆刺 · 迎隨補瀉 · 九鍼 · 得氣",
+  "chapter": "ch05",
+  "group": "C",
+  "stations": 5,
+  "high": 2,
+  "mid": 1,
+  "codes": {
+   "N": 2,
+   "S": 2,
+   "M": 1
+  },
+  "cards": 9,
+  "recorded": 7,
+  "fact_diff": [
+   2
+  ],
+  "fact_not_in_textbook": [
+   3
+  ],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 11,
+  "weight": 9,
+  "high_stations": [
+   2,
+   4
+  ],
+  "notes": [
+   "#2 繆 글자가 안 보이고 소리 고리 없음 — 하는 일(교차)만",
+   "#4 鍉鍼 이름 고리 없음(시침 동음 안 씀) · 癰腫 · 熱病 물건 없음"
+  ]
+ },
+ {
+  "lesson": "new-gr-19",
+  "title": "舍岩 ① 手太陰肺經 — 正格 · 勝格 · 寒格 · 熱格",
+  "chapter": "shelf",
+  "group": "B",
+  "stations": 7,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 4,
+   "P": 2,
+   "G": 2,
+   "N": 1,
+   "M": 1
+  },
+  "cards": 8,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(舍岩 표 연습 — 이미 saam.html)",
+  "score": 6,
+  "weight": 8,
+  "high_stations": [
+   7
+  ],
+  "notes": [
+   "#7 原穴 · 絡穴 물건 없음(제 경 오수혈 모형 · 락혈 패뿐) — 어디에도 물건 없는 이름: 偏歷"
+  ]
+ },
+ {
+  "lesson": "new-gr-20",
+  "title": "舍岩 ② 手陽明大腸經 — 正格 · 勝格 · 寒格 · 熱格",
+  "chapter": "shelf",
+  "group": "B",
+  "stations": 6,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 4,
+   "P": 2,
+   "M": 2,
+   "G": 2,
+   "N": 1
+  },
+  "cards": 7,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(舍岩 표 연습 — 이미 saam.html)",
+  "score": 6,
+  "weight": 7,
+  "high_stations": [
+   6
+  ],
+  "notes": [
+   "#6 原穴 · 絡穴 물건 없음(제 경 오수혈 모형 · 락혈 패뿐) — 어디에도 물건 없는 이름: 合谷 · 列缺"
+  ]
+ },
+ {
+  "lesson": "new-gr-21",
+  "title": "舍岩 ③ 足陽明胃經 — 正格 · 勝格 · 寒格 · 熱格",
+  "chapter": "shelf",
+  "group": "B",
+  "stations": 6,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 4,
+   "M": 4,
+   "P": 2,
+   "G": 2,
+   "N": 1
+  },
+  "cards": 7,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(舍岩 표 연습 — 이미 saam.html)",
+  "score": 6,
+  "weight": 7,
+  "high_stations": [
+   6
+  ],
+  "notes": [
+   "#6 原穴 · 絡穴 물건 없음(제 경 오수혈 모형 · 락혈 패뿐) — 어디에도 물건 없는 이름: 厲兌 · 衝陽 · 公孫"
+  ]
+ },
+ {
+  "lesson": "new-gr-22",
+  "title": "舍岩 ④ 足太陰脾經 — 正格 · 勝格 · 寒格 · 熱格",
+  "chapter": "shelf",
+  "group": "B",
+  "stations": 6,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 4,
+   "P": 2,
+   "M": 2,
+   "G": 2,
+   "N": 1
+  },
+  "cards": 7,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(舍岩 표 연습 — 이미 saam.html)",
+  "score": 6,
+  "weight": 7,
+  "high_stations": [
+   6
+  ],
+  "notes": [
+   "#6 原穴 · 絡穴 물건 없음(제 경 오수혈 모형 · 락혈 패뿐) — 어디에도 물건 없는 이름: 豊隆"
+  ]
+ },
+ {
+  "lesson": "new-gr-23",
+  "title": "舍岩 ⑤ 手少陰心經 — 正格 · 勝格 · 寒格 · 熱格",
+  "chapter": "shelf",
+  "group": "B",
+  "stations": 6,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 4,
+   "P": 2,
+   "M": 2,
+   "G": 2,
+   "N": 1
+  },
+  "cards": 7,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(舍岩 표 연습 — 이미 saam.html)",
+  "score": 6,
+  "weight": 7,
+  "high_stations": [
+   6
+  ],
+  "notes": [
+   "#6 原穴 · 絡穴 물건 없음(제 경 오수혈 모형 · 락혈 패뿐) — 어디에도 물건 없는 이름: 神門 · 神門 · 支正"
+  ]
+ },
+ {
+  "lesson": "new-gr-24",
+  "title": "舍岩 ⑥ 手太陽小腸經 — 正格 · 勝格 · 寒格 · 熱格",
+  "chapter": "shelf",
+  "group": "B",
+  "stations": 6,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 4,
+   "P": 2,
+   "M": 2,
+   "G": 2,
+   "N": 1
+  },
+  "cards": 7,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(舍岩 표 연습 — 이미 saam.html)",
+  "score": 6,
+  "weight": 7,
+  "high_stations": [
+   6
+  ],
+  "notes": [
+   "#6 原穴 · 絡穴 물건 없음(제 경 오수혈 모형 · 락혈 패뿐) — 어디에도 물건 없는 이름: 腕骨 · 通里"
+  ]
+ },
+ {
+  "lesson": "new-gr-25",
+  "title": "舍岩 ⑦ 足太陽膀胱經 — 正格 · 勝格 · 寒格 · 熱格",
+  "chapter": "shelf",
+  "group": "B",
+  "stations": 6,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 4,
+   "P": 2,
+   "M": 2,
+   "G": 2,
+   "N": 1
+  },
+  "cards": 7,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(舍岩 표 연습 — 이미 saam.html)",
+  "score": 6,
+  "weight": 7,
+  "high_stations": [
+   6
+  ],
+  "notes": [
+   "#6 原穴 · 絡穴 물건 없음(제 경 오수혈 모형 · 락혈 패뿐) — 어디에도 물건 없는 이름: 束骨 · 京骨 · 大鍾"
+  ]
+ },
+ {
+  "lesson": "new-gr-26",
+  "title": "舍岩 ⑧ 足少陰腎經 — 正格 · 勝格 · 寒格 · 熱格",
+  "chapter": "shelf",
+  "group": "B",
+  "stations": 6,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 4,
+   "P": 2,
+   "M": 2,
+   "G": 2,
+   "N": 1
+  },
+  "cards": 7,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(舍岩 표 연습 — 이미 saam.html)",
+  "score": 6,
+  "weight": 7,
+  "high_stations": [
+   6
+  ],
+  "notes": [
+   "#6 原穴 · 絡穴 물건 없음(제 경 오수혈 모형 · 락혈 패뿐) — 어디에도 물건 없는 이름: 湧泉 · 飛揚"
+  ]
+ },
+ {
+  "lesson": "new-gr-27",
+  "title": "舍岩 ⑨ 手厥陰心包經 — 正格 · 勝格 · 寒格 · 熱格",
+  "chapter": "shelf",
+  "group": "B",
+  "stations": 6,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 4,
+   "P": 2,
+   "M": 2,
+   "G": 2,
+   "N": 1
+  },
+  "cards": 7,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(舍岩 표 연습 — 이미 saam.html)",
+  "score": 6,
+  "weight": 7,
+  "high_stations": [
+   6
+  ],
+  "notes": [
+   "#6 原穴 · 絡穴 물건 없음(제 경 오수혈 모형 · 락혈 패뿐) — 어디에도 물건 없는 이름: 外關"
+  ]
+ },
+ {
+  "lesson": "new-gr-28",
+  "title": "舍岩 ⑩ 手少陽三焦經 — 正格 · 勝格 · 寒格 · 熱格",
+  "chapter": "shelf",
+  "group": "B",
+  "stations": 6,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 4,
+   "P": 2,
+   "M": 2,
+   "G": 2,
+   "N": 1
+  },
+  "cards": 7,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(舍岩 표 연습 — 이미 saam.html)",
+  "score": 6,
+  "weight": 7,
+  "high_stations": [
+   6
+  ],
+  "notes": [
+   "#6 原穴 · 絡穴 물건 없음(제 경 오수혈 모형 · 락혈 패뿐) — 어디에도 물건 없는 이름: 天井 · 陽池 · 內關"
+  ]
+ },
+ {
+  "lesson": "new-gr-29",
+  "title": "舍岩 ⑪ 足少陽膽經 — 正格 · 勝格 · 寒格 · 熱格",
+  "chapter": "shelf",
+  "group": "B",
+  "stations": 6,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 4,
+   "P": 2,
+   "M": 2,
+   "G": 2,
+   "N": 1
+  },
+  "cards": 7,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(舍岩 표 연습 — 이미 saam.html)",
+  "score": 6,
+  "weight": 7,
+  "high_stations": [
+   6
+  ],
+  "notes": [
+   "#6 原穴 · 絡穴 물건 없음(제 경 오수혈 모형 · 락혈 패뿐) — 어디에도 물건 없는 이름: 丘墟 · 蠡溝"
+  ]
+ },
+ {
+  "lesson": "new-gr-30",
+  "title": "舍岩 ⑫ 足厥陰肝經 — 正格 · 勝格 · 寒格 · 熱格",
+  "chapter": "shelf",
+  "group": "B",
+  "stations": 6,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 4,
+   "P": 2,
+   "M": 2,
+   "G": 2,
+   "N": 1
+  },
+  "cards": 8,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(舍岩 표 연습 — 이미 saam.html)",
+  "score": 6,
+  "weight": 8,
+  "high_stations": [
+   6
+  ],
+  "notes": [
+   "#6 原穴 · 絡穴 물건 없음(제 경 오수혈 모형 · 락혈 패뿐) — 어디에도 물건 없는 이름: 光明"
+  ]
+ },
+ {
+  "lesson": "new-gr-31",
+  "title": "경맥별 經穴 수 ① 手六經 — 肺 11 · 大腸 20 · 心 9 · 小腸 19 · 心包 9 · 三焦 23",
+  "chapter": "ch05",
+  "group": "B",
+  "stations": 6,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "G": 6,
+   "P": 3
+  },
+  "cards": 6,
+  "recorded": 8,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 3,
+  "weight": 6,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-gr-32",
+  "title": "경맥별 經穴 수 ② 足六經과 총합 361 — 胃 45 · 脾 21 · 膀胱 67 · 腎 27 · 膽 44 · 肝 14",
+  "chapter": "ch05",
+  "group": "B",
+  "stations": 6,
+  "high": 0,
+  "mid": 2,
+  "codes": {
+   "G": 6,
+   "P": 5,
+   "S": 1,
+   "M": 1
+  },
+  "cards": 6,
+  "recorded": 8,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 2,
+  "weight": 6,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-gr-33",
+  "title": "十六郄穴 ① 手六經 — 孔最 · 溫溜 · 陰郄 · 養老 · 郄門 · 會宗",
+  "chapter": "ch05",
+  "group": "B",
+  "stations": 6,
+  "high": 0,
+  "mid": 2,
+  "codes": {
+   "S": 2,
+   "G": 1
+  },
+  "cards": 6,
+  "recorded": 8,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 2,
+  "weight": 6,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-gr-34",
+  "title": "十六郄穴 ② 足六經 + 奇經 넷 — 梁丘 · 地機 · 金門 · 水泉 · 外丘 · 中都 + 跗陽 · 交信 · 陽交 · 築賓",
+  "chapter": "ch05",
+  "group": "B",
+  "stations": 5,
+  "high": 0,
+  "mid": 0,
+  "codes": {},
+  "cards": 6,
+  "recorded": 7,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   4,
+   5
+  ],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그대로",
+  "score": 0,
+  "weight": 6,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-gr-35",
+  "title": "子午流注와 脈長 · 氣血多少 — 寅時 肺(3~5시)에서 丑時 肝(1~3시)까지",
+  "chapter": "ch05",
+  "group": "B",
+  "stations": 5,
+  "high": 0,
+  "mid": 5,
+  "codes": {
+   "S": 5,
+   "M": 5,
+   "G": 5,
+   "N": 1
+  },
+  "cards": 5,
+  "recorded": 7,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(유주도) — 물건 칸이 틀 문구 그대로",
+  "score": 5,
+  "weight": 5,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-gr-36",
+  "title": "骨度分寸法 — 같은 치수끼리 모은 전신 뼈 눈금 (3寸 · 8寸 · 9寸 · 12寸 · 하지)",
+  "chapter": "ch05",
+  "group": "B",
+  "stations": 5,
+  "high": 1,
+  "mid": 4,
+  "codes": {
+   "S": 5,
+   "G": 5,
+   "M": 4,
+   "N": 1
+  },
+  "cards": 5,
+  "recorded": 7,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(표 · 트레이너)",
+  "score": 7,
+  "weight": 5,
+  "high_stations": [
+   5
+  ],
+  "notes": [
+   "#5 치수 여섯이 삼지창 하나(3)로 — 여섯 수를 나를 물건 없음"
+  ]
+ },
+ {
+  "lesson": "new-gr-37",
+  "title": "八脈交會穴 여덟 짝 — 公孫·內關 / 後谿·申脈 / 足臨泣·外關 / 列缺·照海",
+  "chapter": "ch05",
+  "group": "B",
+  "stations": 4,
+  "high": 4,
+  "mid": 0,
+  "codes": {
+   "N": 4,
+   "M": 4,
+   "S": 4
+  },
+  "cards": 8,
+  "recorded": 6,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(유주도) — 물건 칸이 틀 문구 그대로",
+  "score": 12,
+  "weight": 8,
+  "high_stations": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "notes": [
+   "#1 물건 칸이 「구역 #n의 경락 정본 인물과 상징 소품」 지시문 — 그림 확인 필요 · 사용자 문장(八脈交會穴)은 정거장 글에 없음 · 여덟 이름 모두 소리 고리 ",
+   "#2 물건 칸이 「구역 #n의 경락 정본 인물과 상징 소품」 지시문 — 그림 확인 필요 · 사용자 문장(八脈交會穴)은 정거장 글에 없음 · 後谿만 실림 · 合於 부위 ",
+   "#3 물건 칸이 「구역 #n의 경락 정본 인물과 상징 소품」 지시문 — 그림 확인 필요 · 사용자 문장(八脈交會穴)은 정거장 글에 없음 · 足臨泣은 泣 훈 거침 · 합",
+   "#4 물건 칸이 「구역 #n의 경락 정본 인물과 상징 소품」 지시문 — 그림 확인 필요 · 사용자 문장(八脈交會穴)은 정거장 글에 없음 · 보존 목록 8절(募穴 · 八"
+  ]
+ },
+ {
+  "lesson": "new-gr-38",
+  "title": "中風七處穴과 구급 상용혈 — 百會 · 肩井 · 曲池 · 風市 · 足三里 · 絶骨 · 曲鬢 + 兩商 · 兩間",
+  "chapter": "ch05",
+  "group": "B",
+  "stations": 4,
+  "high": 4,
+  "mid": 0,
+  "codes": {
+   "N": 4,
+   "M": 3,
+   "S": 3
+  },
+  "cards": 4,
+  "recorded": 6,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   1,
+   2
+  ],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(유주도) — 물건 칸이 틀 문구 그대로",
+  "score": 12,
+  "weight": 4,
+  "high_stations": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "notes": [
+   "#1 물건 칸이 지시문 형태(「구역 #n의 …」) · 고리 칸이 잘림 — 확인 필요 · 세 이름 나를 물건이 적혀 있지 않음",
+   "#2 물건 칸이 지시문 형태(「구역 #n의 …」) · 고리 칸이 잘림 — 확인 필요 · 風市 · 絶骨 소리 고리 없음 · 원자 4",
+   "#3 물건 칸이 지시문 형태(「구역 #n의 …」) · 고리 칸이 잘림 — 확인 필요 · 二間 · 商陽만 실림 · 氣絶 · 頭齒手指痛 물건 없음 · 원자 5",
+   "#4 물건 칸이 지시문 형태(「구역 #n의 …」) · 고리 칸이 잘림 — 확인 필요 · 合谷 · 十宣 나를 물건 없음"
+  ]
+ },
+ {
+  "lesson": "new-gr-39",
+  "title": "경락 병리 반응과 진단 — 兩肘·兩腋·兩髀·兩膕(邪客) · 切尺膚·切兪募 · 診絡 · 頭痛 분경",
+  "chapter": "ch05",
+  "group": "B",
+  "stations": 4,
+  "high": 4,
+  "mid": 0,
+  "codes": {
+   "N": 4,
+   "M": 4,
+   "S": 4,
+   "P": 3
+  },
+  "cards": 4,
+  "recorded": 6,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(유주도) — 물건 칸이 틀 문구 그대로",
+  "score": 12,
+  "weight": 4,
+  "high_stations": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "notes": [
+   "#1 期門 · 淵腋 고리 없음 · 이 정거장은 肺心 쪽 둘만 실림 · hook 칸이 fact 앞부분 복사(고리 글 없음)",
+   "#2 箕門 · 衝門 · 髀 · 膕 고리 없음 · hook 칸 복사",
+   "#3 소품 하나가 넷을 가리킴(실제 물건 없음) · 四關 · 十二原 고리 없음 · 표 · 트레이너 후보",
+   "#4 원자 여섯 이상 · 물건은 물고기 하나 · 표 후보 · hook 칸 복사"
+  ]
+ },
+ {
+  "lesson": "new-gr-40",
+  "title": "東垣 十二經 引經報使 — 경락마다 약을 이끄는 길잡이 약물",
+  "chapter": "ch05",
+  "group": "B",
+  "stations": 4,
+  "high": 0,
+  "mid": 4,
+  "codes": {
+   "P": 4,
+   "N′": 4,
+   "M": 4,
+   "S": 4
+  },
+  "cards": 5,
+  "recorded": 6,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(유주도) — 물건 칸이 틀 문구 그대로",
+  "score": 4,
+  "weight": 5,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-gr-41",
+  "title": "동음 혈명 구별 — 期門↔箕門 · 肩貞↔肩井 · 少海↔小海 · 完骨↔腕骨 · 禾髎↔和髎 · 巨髎↔居髎 · 天井↔天鼎",
+  "chapter": "ch05",
+  "group": "B",
+  "stations": 4,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 4,
+   "M": 2,
+   "P": 1,
+   "N": 1
+  },
+  "cards": 4,
+  "recorded": 6,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(유주도) — 물건 칸이 틀 문구 그대로",
+  "score": 6,
+  "weight": 4,
+  "high_stations": [
+   4
+  ],
+  "notes": [
+   "#4 물건 칸이 天井 하나뿐 — 나머지 열한 이름 물건 없음 · fact 칸이 巨髎 뒤에서 잘림"
+  ]
+ },
+ {
+  "lesson": "new-gr-42",
+  "title": "流注 원문 ① 肺 · 大腸 — 起於中焦·還循胃口 ↔ 入下齒·交人中·上挾鼻孔",
+  "chapter": "ch05",
+  "group": "B",
+  "stations": 4,
+  "high": 3,
+  "mid": 1,
+  "codes": {
+   "S": 4,
+   "M": 4,
+   "N": 3,
+   "P": 1
+  },
+  "cards": 4,
+  "recorded": 6,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(유주도) — 물건 칸이 틀 문구 그대로",
+  "score": 10,
+  "weight": 4,
+  "high_stations": [
+   1,
+   3,
+   4
+  ],
+  "notes": [
+   "#1 원문 한 줄(다섯 구절)이 소품 자리표시로만 실림 — 표 · 경로 그릇 후보 · hook 칸이 fact 앞부분 복사",
+   "#3 大椎 · 髃骨 고리 없음 · hook 칸이 fact 앞부분 복사",
+   "#4 缺盆 고리 없음 · 左右交叉 물건 없음 · hook 칸이 fact 앞부분 복사"
+  ]
+ },
+ {
+  "lesson": "new-gr-43",
+  "title": "流注 원문 ② 胃 · 脾 — 起於鼻交頞中·入上齒·環脣 ↔ 交出厥陰之前·連舌本散舌下",
+  "chapter": "ch05",
+  "group": "B",
+  "stations": 4,
+  "high": 3,
+  "mid": 1,
+  "codes": {
+   "S": 4,
+   "M": 4,
+   "N": 3,
+   "G": 1
+  },
+  "cards": 4,
+  "recorded": 6,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(유주도) — 물건 칸이 틀 문구 그대로",
+  "score": 10,
+  "weight": 4,
+  "high_stations": [
+   1,
+   2,
+   3
+  ],
+  "notes": [
+   "#1 胃經 원문 한 줄 — 頞 · 承漿 고리 없음 · hook 칸이 fact 앞부분 복사",
+   "#2 氣街 · 膝臏 고리 없음 · hook 칸이 fact 앞부분 복사",
+   "#3 核骨 고리 없음 · 8촌 숫자 물건 없음 · hook 칸이 fact 앞부분 복사"
+  ]
+ },
+ {
+  "lesson": "new-gr-44",
+  "title": "流注 원문 ③ 心 · 小腸 — 出屬心系·繫目系 ↔ 出肘內側兩筋之間·繞肩胛·至目內外眥",
+  "chapter": "ch05",
+  "group": "B",
+  "stations": 4,
+  "high": 4,
+  "mid": 0,
+  "codes": {
+   "S": 4,
+   "M": 4,
+   "N": 4,
+   "P": 1
+  },
+  "cards": 4,
+  "recorded": 6,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(유주도) — 물건 칸이 틀 문구 그대로",
+  "score": 12,
+  "weight": 4,
+  "high_stations": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "notes": [
+   "#1 心經 원문 다섯 구절 자리표시뿐 · hook 칸이 fact 앞부분 복사",
+   "#2 神門 소품은 있으나 銳骨 등 나머지 구절 물건 없음 · 보존 여부 확인 필요 · hook 칸이 fact 앞부분 복사",
+   "#3 小腸經 구절 열 개 넘음 — 가름 후보 · hook 칸이 fact 앞부분 복사",
+   "#4 䪼 글자 어려움 · 內外眥 둘 다 닿는 것이 시험 요점 · hook 칸이 fact 앞부분 복사"
+  ]
+ },
+ {
+  "lesson": "new-gr-45",
+  "title": "流注 원문 ④ 膀胱 · 腎 — 起於目內眥·交巔·入絡腦 ↔ 邪走足心·貫脊屬腎·貫肝入肺·挾舌本",
+  "chapter": "ch05",
+  "group": "B",
+  "stations": 4,
+  "high": 2,
+  "mid": 2,
+  "codes": {
+   "S": 4,
+   "M": 4,
+   "N": 2,
+   "P": 2
+  },
+  "cards": 4,
+  "recorded": 6,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(유주도) — 물건 칸이 틀 문구 그대로",
+  "score": 8,
+  "weight": 4,
+  "high_stations": [
+   1,
+   2
+  ],
+  "notes": [
+   "#1 膀胱經 원문 다섯 구절 · hook 칸이 fact 앞부분 복사",
+   "#2 委中 소품 있음 · 京骨 · 腨 고리 없음 · 보존 여부 확인 필요 · hook 칸이 fact 앞부분 복사"
+  ]
+ },
+ {
+  "lesson": "new-gr-46",
+  "title": "流注 원문 ⑤ 心包 · 三焦 — 歷絡三焦·行太陰少陰之間 ↔ 布膻中·繫耳後·出耳上角",
+  "chapter": "ch05",
+  "group": "B",
+  "stations": 4,
+  "high": 2,
+  "mid": 2,
+  "codes": {
+   "S": 4,
+   "M": 4,
+   "N": 2,
+   "G": 1
+  },
+  "cards": 4,
+  "recorded": 6,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(유주도) — 물건 칸이 틀 문구 그대로",
+  "score": 8,
+  "weight": 4,
+  "high_stations": [
+   3,
+   4
+  ],
+  "notes": [
+   "#3 三焦經 구절 여덟 — 膻中 · 缺盆 고리 없음 · hook 칸이 fact 앞부분 복사",
+   "#4 三焦 지맥 여섯 구절 · hook 칸이 fact 앞부분 복사"
+  ]
+ },
+ {
+  "lesson": "new-gr-47",
+  "title": "流注 원문 ⑥ 膽 · 肝 — 起於目銳眥·繞毛際·出三毛 ↔ 交出太陰之後·過陰器·會於巔·環脣內",
+  "chapter": "ch05",
+  "group": "B",
+  "stations": 4,
+  "high": 4,
+  "mid": 0,
+  "codes": {
+   "S": 4,
+   "M": 4,
+   "N": 4,
+   "G": 1
+  },
+  "cards": 4,
+  "recorded": 6,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "그릇바꿈(유주도) — 물건 칸이 틀 문구 그대로",
+  "score": 12,
+  "weight": 4,
+  "high_stations": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "notes": [
+   "#1 膽經 구절 여섯 · hook 칸이 fact 앞부분 복사",
+   "#2 膽經 구절 여덟 — 髀厭 · 環跳 · 絶骨 소리 고리 없음 · hook 칸이 fact 앞부분 복사",
+   "#3 肝經 구절 일곱 · 八寸 수 물건 없음 · hook 칸이 fact 앞부분 복사",
+   "#4 肝經 구절 일곱 — 頏顙 고리 없음 · hook 칸이 fact 앞부분 복사"
+  ]
+ },
+ {
+  "lesson": "new-jq-01",
+  "title": "精氣神 三寶 — 三丹田 · 東醫寶鑑 身形",
+  "chapter": "ch04",
+  "group": "C",
+  "stations": 4,
+  "high": 0,
+  "mid": 0,
+  "codes": {
+   "S": 1,
+   "N": 1
+  },
+  "cards": 5,
+  "recorded": 6,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   2,
+   3,
+   4
+  ],
+  "fact_split": [
+   1
+  ],
+  "picture_atoms": 13,
+  "picture_text_only": 2,
+  "name_reader_named": 6,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "그대로",
+  "score": 0,
+  "weight": 5,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-jq-02",
+  "title": "決氣 ① 六氣의 정의 — 一氣가 나뉜 精 · 氣 · 津 · 液 · 血 · 脈",
+  "chapter": "ch04",
+  "group": "C",
+  "stations": 7,
+  "high": 1,
+  "mid": 2,
+  "codes": {
+   "S": 3,
+   "M": 2,
+   "N": 1
+  },
+  "cards": 10,
+  "recorded": 9,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   2,
+   6,
+   7
+  ],
+  "fact_split": [],
+  "picture_atoms": 20,
+  "picture_text_only": 7,
+  "name_reader_named": 0,
+  "name_reader_guess": 7,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 5,
+  "weight": 10,
+  "high_stations": [
+   3
+  ],
+  "notes": [
+   "#3 津(진)이 땀임을 아는 것은 뜻풀이 — 소리·훈 고리 없음. 溱溱(진진) 소리가 있으나 물건에 안 실림."
+  ]
+ },
+ {
+  "lesson": "new-jq-03",
+  "title": "精 ① 개념 · 先天/後天 · 분류 · 기능",
+  "chapter": "ch04",
+  "group": "C",
+  "stations": 8,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 3,
+   "M": 2,
+   "N": 1
+  },
+  "cards": 14,
+  "recorded": 10,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 27,
+  "picture_text_only": 8,
+  "name_reader_named": 0,
+  "name_reader_guess": 16,
+  "obj_vs_picture_mismatch": 7,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 6,
+  "weight": 14,
+  "high_stations": [
+   7
+  ],
+  "notes": [
+   "#7 髓(수) 소리·훈 고리 없음 — 쌀뜨물은 하는 일."
+  ]
+ },
+ {
+  "lesson": "new-jq-04",
+  "title": "精 ② 東醫寶鑑 精 — 心 主宰 · 腎 閉藏 · 肝 疏泄 · 五臟精 부실",
+  "chapter": "ch04",
+  "group": "C",
+  "stations": 8,
+  "high": 1,
+  "mid": 0,
+  "codes": {
+   "N": 1
+  },
+  "cards": 16,
+  "recorded": 10,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "fact_split": [],
+  "picture_atoms": 16,
+  "picture_text_only": 1,
+  "name_reader_named": 15,
+  "name_reader_guess": 2,
+  "obj_vs_picture_mismatch": 3,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 3,
+  "weight": 16,
+  "high_stations": [
+   3
+  ],
+  "notes": [
+   "#3 疏泄(소설) 소리·훈 고리 없음(소=트일 소, 설=샐 설은 어려움)."
+  ]
+ },
+ {
+  "lesson": "new-jq-05",
+  "title": "天癸 — 上古天眞論 女七男八",
+  "chapter": "ch04",
+  "group": "A2",
+  "stations": 9,
+  "high": 3,
+  "mid": 5,
+  "codes": {
+   "G": 9,
+   "S": 7,
+   "N": 3,
+   "M": 2
+  },
+  "cards": 10,
+  "recorded": 0,
+  "fact_diff": [
+   5
+  ],
+  "fact_not_in_textbook": [],
+  "fact_split": [
+   6
+  ],
+  "picture_atoms": 39,
+  "picture_text_only": 10,
+  "name_reader_named": 19,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 4,
+  "eyes_checked": true,
+  "verdict": "그릇바꿈(표 · 트레이너)",
+  "score": 18,
+  "weight": 10,
+  "high_stations": [
+   1,
+   3,
+   8
+  ],
+  "notes": [
+   "#1 天癸는 3번에서 비로 나오나 소리·훈 고리 없음. 7·8을 눈금으로 겹쳐 읽음. 연표는 표가 맞는 그릇.",
+   "#3 원자 일곱쯤. 任脈通·太衝脈盛을 나를 물건 없음. 天癸 이름 소리 고리 없음.",
+   "#8 원자 일곱 이상. 任脈·太衝脈 없음. 天癸 이름 고리 없음."
+  ]
+ },
+ {
+  "lesson": "new-jq-06",
+  "title": "氣 ① 개념 · 생성 · 이름",
+  "chapter": "ch04",
+  "group": "C",
+  "stations": 5,
+  "high": 0,
+  "mid": 1,
+  "codes": {
+   "S": 1,
+   "M": 1
+  },
+  "cards": 12,
+  "recorded": 7,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 15,
+  "picture_text_only": 3,
+  "name_reader_named": 6,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 2,
+  "eyes_checked": true,
+  "verdict": "그대로",
+  "score": 1,
+  "weight": 12,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-jq-07",
+  "title": "氣 ② 여섯 기능 — 推動 · 溫煦 · 防禦 · 固攝 · 氣化 · 營養 + 固攝 실조",
+  "chapter": "ch04",
+  "group": "C",
+  "stations": 12,
+  "high": 0,
+  "mid": 7,
+  "codes": {
+   "S": 9,
+   "M": 8
+  },
+  "cards": 14,
+  "recorded": 14,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 41,
+  "picture_text_only": 20,
+  "name_reader_named": 11,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 3,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 7,
+  "weight": 14,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-jq-08",
+  "title": "氣機 — 升降出入과 다섯 실조의 치법(滯 · 逆 · 陷 · 脫 · 閉)",
+  "chapter": "ch04",
+  "group": "C",
+  "stations": 6,
+  "high": 0,
+  "mid": 4,
+  "codes": {
+   "S": 5,
+   "M": 4
+  },
+  "cards": 10,
+  "recorded": 8,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 25,
+  "picture_text_only": 10,
+  "name_reader_named": 11,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 3,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 4,
+  "weight": 10,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-jq-09",
+  "title": "元氣 — 腎에서 나 三焦를 타고, 命門에 매인 생명의 원동력",
+  "chapter": "ch04",
+  "group": "C",
+  "stations": 6,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "G": 2,
+   "S": 2,
+   "M": 2,
+   "W": 1
+  },
+  "cards": 12,
+  "recorded": 8,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 16,
+  "picture_text_only": 6,
+  "name_reader_named": 7,
+  "name_reader_guess": 3,
+  "obj_vs_picture_mismatch": 3,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 3,
+  "weight": 12,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-jq-10",
+  "title": "宗氣 — 胸中에 모여 走息道 · 貫心脈, 虛里로 본다",
+  "chapter": "ch04",
+  "group": "C",
+  "stations": 10,
+  "high": 1,
+  "mid": 1,
+  "codes": {
+   "M": 2,
+   "N": 2,
+   "S": 2,
+   "W": 1
+  },
+  "cards": 21,
+  "recorded": 12,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   9,
+   10
+  ],
+  "fact_split": [],
+  "picture_atoms": 27,
+  "picture_text_only": 10,
+  "name_reader_named": 7,
+  "name_reader_guess": 3,
+  "obj_vs_picture_mismatch": 10,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 4,
+  "weight": 21,
+  "high_stations": [
+   8
+  ],
+  "notes": [
+   "#8 虛里(허리)는 소리가 '허리'인데 쓰지 않음 — 소리 고리 없음. 원자 다섯."
+  ]
+ },
+ {
+  "lesson": "new-jq-11",
+  "title": "營氣 · 衛氣 — 脈中의 맑은 기와 脈外의 사나운 기",
+  "chapter": "ch04",
+  "group": "C",
+  "stations": 7,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "S": 3,
+   "M": 2
+  },
+  "cards": 12,
+  "recorded": 9,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 20,
+  "picture_text_only": 4,
+  "name_reader_named": 28,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 4,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 3,
+  "weight": 12,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-jq-12",
+  "title": "神 ① 개념 — 廣義 · 狹義와 神이 깃드는 곳",
+  "chapter": "ch04",
+  "group": "C",
+  "stations": 8,
+  "high": 0,
+  "mid": 0,
+  "codes": {
+   "W": 2,
+   "S": 2,
+   "M": 1
+  },
+  "cards": 9,
+  "recorded": 10,
+  "fact_diff": [
+   4
+  ],
+  "fact_not_in_textbook": [
+   7,
+   8
+  ],
+  "fact_split": [],
+  "picture_atoms": 25,
+  "picture_text_only": 7,
+  "name_reader_named": 14,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 3,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 4,
+  "weight": 9,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-jq-13",
+  "title": "本神 ① 神 · 魂 · 魄 — 兩精相搏 · 隨神往來 · 並精出入",
+  "chapter": "ch04",
+  "group": "C",
+  "stations": 6,
+  "high": 3,
+  "mid": 2,
+  "codes": {
+   "N": 5,
+   "S": 1
+  },
+  "cards": 10,
+  "recorded": 8,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 15,
+  "picture_text_only": 3,
+  "name_reader_named": 12,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 3,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 11,
+  "weight": 10,
+  "high_stations": [
+   2,
+   3,
+   4
+  ],
+  "notes": [
+   "#2 魂(혼)은 글자 구성(구름+귀신)으로만 — 소리·훈 고리 없음. 글자 모양 고리는 쓰지 않는 원칙(부록 A 29)과 부딪힘.",
+   "#3 魄(백)도 글자 구성(흰+귀신)으로만. 魂과 魄이 같은 귀신 꼴의 색 차이로 갈림 — 함정 쌍의 변별이 약함.",
+   "#4 원자 다섯이 한 정거장. 意·志는 14번에서 따로 다뤄지므로 겹침. 意·志 소리 고리 없음."
+  ]
+ },
+ {
+  "lesson": "new-jq-14",
+  "title": "本神 ② 사유의 여섯 단계 — 心 → 意 → 志 → 思 → 慮 → 智 · 五臟 정신경향",
+  "chapter": "ch04",
+  "group": "A2",
+  "stations": 10,
+  "high": 5,
+  "mid": 0,
+  "codes": {
+   "N": 5,
+   "S": 2,
+   "W": 2
+  },
+  "cards": 17,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 17,
+  "picture_text_only": 2,
+  "name_reader_named": 2,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 1,
+  "eyes_checked": true,
+  "verdict": "다시 그림",
+  "score": 15,
+  "weight": 17,
+  "high_stations": [
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "notes": [
+   "#3 意(의)는 뜻 해설만 실림 — 소리·훈 고리 없음.",
+   "#4 志(지) 소리 고리 없음. 원문 세 구절을 한 물건에.",
+   "#5 思(사) 소리 고리 없음.",
+   "#6 慮(려) 소리 고리 없음."
+  ]
+ },
+ {
+  "lesson": "new-jq-15",
+  "title": "本神 ③ 五臟의 藏 · 舍와 虛實",
+  "chapter": "ch06",
+  "group": "A2",
+  "stations": 10,
+  "high": 0,
+  "mid": 4,
+  "codes": {
+   "S": 3,
+   "M": 2,
+   "G": 1
+  },
+  "cards": 15,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   2,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "fact_split": [],
+  "picture_atoms": 25,
+  "picture_text_only": 4,
+  "name_reader_named": 7,
+  "name_reader_guess": 2,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 4,
+  "weight": 15,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-jq-16",
+  "title": "血 ① 생성 · 성질 · 기능 · 순환관",
+  "chapter": "ch04",
+  "group": "C",
+  "stations": 9,
+  "high": 0,
+  "mid": 4,
+  "codes": {
+   "S": 1,
+   "M": 1,
+   "G": 1,
+   "N": 1
+  },
+  "cards": 13,
+  "recorded": 11,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   3,
+   4,
+   5
+  ],
+  "fact_split": [],
+  "picture_atoms": 15,
+  "picture_text_only": 1,
+  "name_reader_named": 10,
+  "name_reader_guess": 9,
+  "obj_vs_picture_mismatch": 7,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 4,
+  "weight": 13,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-jq-17",
+  "title": "血 ② 血을 돌리는 다섯 장부와 정상 운행 3조건",
+  "chapter": "ch04",
+  "group": "C",
+  "stations": 9,
+  "high": 0,
+  "mid": 1,
+  "codes": {
+   "M": 1,
+   "W": 1
+  },
+  "cards": 19,
+  "recorded": 11,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 13,
+  "picture_text_only": 3,
+  "name_reader_named": 5,
+  "name_reader_guess": 4,
+  "obj_vs_picture_mismatch": 4,
+  "eyes_checked": true,
+  "verdict": "그대로",
+  "score": 1,
+  "weight": 19,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-jq-18",
+  "title": "津液 ① 개념 — 津과 液의 갈림",
+  "chapter": "ch04",
+  "group": "C",
+  "stations": 7,
+  "high": 0,
+  "mid": 4,
+  "codes": {
+   "M": 3,
+   "S": 3
+  },
+  "cards": 16,
+  "recorded": 9,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 28,
+  "picture_text_only": 7,
+  "name_reader_named": 18,
+  "name_reader_guess": 4,
+  "obj_vs_picture_mismatch": 4,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 4,
+  "weight": 16,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-jq-19",
+  "title": "津液 ② 대사 — 생성 · 수포(脾 · 肺 · 腎 · 肝 · 三焦) · 배설",
+  "chapter": "ch04",
+  "group": "C",
+  "stations": 8,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 2,
+   "M": 2,
+   "W": 1,
+   "N": 1
+  },
+  "cards": 20,
+  "recorded": 10,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 21,
+  "picture_text_only": 3,
+  "name_reader_named": 12,
+  "name_reader_guess": 2,
+  "obj_vs_picture_mismatch": 5,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 6,
+  "weight": 20,
+  "high_stations": [
+   8
+  ],
+  "notes": [
+   "#8 氣門(異名) 소리·형태 고리 없음 — 시험이 답으로 묻는지 확인 필요"
+  ]
+ },
+ {
+  "lesson": "new-jq-20",
+  "title": "氣血 관계 — 氣爲血之帥 · 血爲氣之母",
+  "chapter": "ch04",
+  "group": "C",
+  "stations": 10,
+  "high": 1,
+  "mid": 5,
+  "codes": {
+   "S": 6,
+   "M": 2,
+   "N": 1
+  },
+  "cards": 24,
+  "recorded": 12,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 31,
+  "picture_text_only": 9,
+  "name_reader_named": 10,
+  "name_reader_guess": 4,
+  "obj_vs_picture_mismatch": 4,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 8,
+  "weight": 24,
+  "high_stations": [
+   7
+  ],
+  "notes": [
+   "#7 歸脾湯 이름 고리 없음 · 便血·崩漏 물건 없음(출혈 한 장면)"
+  ]
+ },
+ {
+  "lesson": "new-jq-21",
+  "title": "氣와 津液 — 生津 · 行津 · 攝津 · 津能載氣",
+  "chapter": "ch04",
+  "group": "C",
+  "stations": 6,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "S": 2,
+   "M": 2
+  },
+  "cards": 11,
+  "recorded": 8,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 17,
+  "picture_text_only": 3,
+  "name_reader_named": 10,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 4,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 3,
+  "weight": 11,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-jq-22",
+  "title": "同源 셋 — 津血同源 · 汗血同源 · 精血(乙癸)同源",
+  "chapter": "ch04",
+  "group": "C",
+  "stations": 7,
+  "high": 1,
+  "mid": 1,
+  "codes": {
+   "S": 1,
+   "M": 1,
+   "N": 1,
+   "G": 1
+  },
+  "cards": 12,
+  "recorded": 9,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 18,
+  "picture_text_only": 6,
+  "name_reader_named": 15,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 6,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 4,
+  "weight": 12,
+  "high_stations": [
+   6
+  ],
+  "notes": [
+   "#6 乙癸 소리·형태 고리 없음 · 乙=肝 癸=腎은 오행 약속을 알아야"
+  ]
+ },
+ {
+  "lesson": "new-jq-23",
+  "title": "決氣 ② 六氣의 脫證 — 精脫耳聾 · 氣脫目不明 …",
+  "chapter": "ch04",
+  "group": "C",
+  "stations": 6,
+  "high": 0,
+  "mid": 1,
+  "codes": {
+   "M": 2,
+   "S": 1
+  },
+  "cards": 14,
+  "recorded": 8,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [
+   6
+  ],
+  "picture_atoms": 13,
+  "picture_text_only": 2,
+  "name_reader_named": 8,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 2,
+  "eyes_checked": true,
+  "verdict": "그대로",
+  "score": 1,
+  "weight": 14,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-uk-01",
+  "title": "天人相應 원문 — 金匱眞言 四時 · 藏精 · 伏邪 · 四氣調神 + 靈樞 邪客",
+  "chapter": "ch02",
+  "group": "C",
+  "stations": 9,
+  "high": 0,
+  "mid": 6,
+  "codes": {
+   "S": 7,
+   "G": 4,
+   "M": 4
+  },
+  "cards": 10,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   1,
+   5,
+   6,
+   7,
+   8
+  ],
+  "fact_split": [],
+  "picture_atoms": 37,
+  "picture_text_only": 6,
+  "name_reader_named": 19,
+  "name_reader_guess": 2,
+  "obj_vs_picture_mismatch": 8,
+  "eyes_checked": true,
+  "verdict": "그릇바꿈(표 · 트레이너)",
+  "score": 6,
+  "weight": 10,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-uk-02",
+  "title": "脈要精微論 · 玉機眞藏論 — 六府 · 規矩衡權 · 春脈 太過 · 不及 · 五藏 傳變",
+  "chapter": "ch12",
+  "group": "C",
+  "stations": 9,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "S": 3,
+   "M": 1,
+   "G": 1
+  },
+  "cards": 10,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   7,
+   8
+  ],
+  "fact_split": [],
+  "picture_atoms": 23,
+  "picture_text_only": 0,
+  "name_reader_named": 13,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 3,
+  "weight": 10,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-uk-03",
+  "title": "陰陽 원문 — 天地之道 · 陽化氣陰成形 · 세 짝 · 藏精衛外 · 出入升降",
+  "chapter": "ch02",
+  "group": "C",
+  "stations": 6,
+  "high": 0,
+  "mid": 1,
+  "codes": {
+   "S": 3
+  },
+  "cards": 8,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 19,
+  "picture_text_only": 0,
+  "name_reader_named": 16,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "그대로",
+  "score": 1,
+  "weight": 8,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-uk-04",
+  "title": "陰陽으로 나누기 — 부위 · 작용 · 脈 · 藥性 · 하루 + 五行 歸類 두 방법",
+  "chapter": "ch02",
+  "group": "C",
+  "stations": 6,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "S": 4,
+   "M": 3,
+   "G": 1
+  },
+  "cards": 9,
+  "recorded": 0,
+  "fact_diff": [
+   6
+  ],
+  "fact_not_in_textbook": [
+   2
+  ],
+  "fact_split": [
+   1,
+   3,
+   4
+  ],
+  "picture_atoms": 27,
+  "picture_text_only": 2,
+  "name_reader_named": 23,
+  "name_reader_guess": 2,
+  "obj_vs_picture_mismatch": 5,
+  "eyes_checked": true,
+  "verdict": "그릇바꿈(표 · 트레이너)",
+  "score": 7,
+  "weight": 9,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-uk-05",
+  "title": "調經論 寒熱과 損益 — 虛는 外寒·內熱, 盛은 外熱·內寒 → 損其有餘·補其不足",
+  "chapter": "ch02",
+  "group": "C",
+  "stations": 6,
+  "high": 0,
+  "mid": 6,
+  "codes": {
+   "S": 6,
+   "G": 3,
+   "M": 2
+  },
+  "cards": 8,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   5
+  ],
+  "fact_split": [],
+  "picture_atoms": 20,
+  "picture_text_only": 2,
+  "name_reader_named": 28,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 1,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 6,
+  "weight": 8,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-uk-06",
+  "title": "求其屬 · 陰中求陽 · 從陰引陽 — 互根을 쓰는 치료",
+  "chapter": "ch02",
+  "group": "C",
+  "stations": 6,
+  "high": 0,
+  "mid": 2,
+  "codes": {
+   "M": 5,
+   "S": 2,
+   "G": 1
+  },
+  "cards": 6,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   3,
+   6
+  ],
+  "fact_split": [
+   5
+  ],
+  "picture_atoms": 20,
+  "picture_text_only": 5,
+  "name_reader_named": 12,
+  "name_reader_guess": 6,
+  "obj_vs_picture_mismatch": 1,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 2,
+  "weight": 6,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-uk-07",
+  "title": "宣明五氣 五氣所病 — 心噫·肺咳·肝語·脾吞·腎欠嚏 (+胃·膽)",
+  "chapter": "ch02",
+  "group": "C",
+  "stations": 6,
+  "high": 2,
+  "mid": 1,
+  "codes": {
+   "N": 3,
+   "S": 2
+  },
+  "cards": 6,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "fact_split": [],
+  "picture_atoms": 11,
+  "picture_text_only": 0,
+  "name_reader_named": 5,
+  "name_reader_guess": 3,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 7,
+  "weight": 6,
+  "high_stations": [
+   1,
+   6
+  ],
+  "notes": [
+   "#1 噫(애)는 소리·훈으로 안 풀리는 한자. 뜻(트림)만 실림. 소리 고리 없음.",
+   "#6 噦(얼, 딸꾹질)는 안 보이는 글자에 소리 고리 없음. 胃 셋 + 膽 하나 두 인물이 한 정거장, 氣逆은 물건 없음(M)."
+  ]
+ },
+ {
+  "lesson": "new-uk-08",
+  "title": "五運 ① 大運 — 天干 合化(化五運)와 太過·不及의 해",
+  "chapter": "ch03",
+  "group": "C",
+  "stations": 9,
+  "high": 7,
+  "mid": 1,
+  "codes": {
+   "N": 8,
+   "G": 6,
+   "S": 1,
+   "M": 1
+  },
+  "cards": 12,
+  "recorded": 11,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   8
+  ],
+  "fact_split": [],
+  "picture_atoms": 22,
+  "picture_text_only": 0,
+  "name_reader_named": 8,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "다시 그림",
+  "score": 22,
+  "weight": 12,
+  "high_stations": [
+   1,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "notes": [
+   "#1 다섯 합 쌍(10개 천간)의 이름을 나르는 소리 고리 없음. 원자 다섯.",
+   "#4 甲 이름 소리 고리 없음 — 식탁 첫째라는 약속뿐.",
+   "#5 庚 이름 고리 없음. 乙(왼쪽 신부)과 가름은 6번 몫.",
+   "#6 乙·酉 이름이 안 실림(酉=닭도 안 그림). 勝氣는 사건으로 맞음."
+  ]
+ },
+ {
+  "lesson": "new-uk-09",
+  "title": "五運 ② 主運·客運 — 五音 太·少와 三氣 15이름(平氣·太過·不及)",
+  "chapter": "ch03",
+  "group": "C",
+  "stations": 8,
+  "high": 4,
+  "mid": 1,
+  "codes": {
+   "N": 5,
+   "S": 5,
+   "G": 1
+  },
+  "cards": 10,
+  "recorded": 10,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 33,
+  "picture_text_only": 2,
+  "name_reader_named": 11,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "그릇바꿈(표 · 트레이너)",
+  "score": 13,
+  "weight": 10,
+  "high_stations": [
+   4,
+   5,
+   6,
+   7
+  ],
+  "notes": [
+   "#4 오음 다섯 이름 소리 고리 없음. 徵(징)=북, 商=징으로 소리 혼동 — 확인 필요.",
+   "#5 평기 다섯 이름 중 敷和·備化·審平은 소리 고리 없음. 한 줄 다섯 악기가 한 정거장.",
+   "#6 赫曦·敦阜·流衍 소리 고리 없음.",
+   "#7 卑監·涸流 등 소리 고리 없음. 涸 독음(후/학) 확인 필요."
+  ]
+ },
+ {
+  "lesson": "new-uk-10",
+  "title": "六氣 ① 본성 — 三陰三陽 本氣 · 上下中 자리 · 작용 · 勝",
+  "chapter": "ch03",
+  "group": "C",
+  "stations": 4,
+  "high": 1,
+  "mid": 1,
+  "codes": {
+   "S": 4,
+   "N": 2,
+   "G": 1
+  },
+  "cards": 6,
+  "recorded": 6,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   4
+  ],
+  "fact_split": [],
+  "picture_atoms": 22,
+  "picture_text_only": 1,
+  "name_reader_named": 14,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 4,
+  "weight": 6,
+  "high_stations": [
+   1
+  ],
+  "notes": [
+   "#1 三陰三陽 이름 여섯을 원판 모양 약속으로만 읽음. 厥陰(궐음) 같은 이름의 소리 고리 없음. 표가 맞는 내용."
+  ]
+ },
+ {
+  "lesson": "new-uk-11",
+  "title": "六氣 ② 司天·在泉 — 地支가 정하는 하늘 기운·샘 기운과 間氣",
+  "chapter": "ch03",
+  "group": "C",
+  "stations": 10,
+  "high": 0,
+  "mid": 8,
+  "codes": {
+   "G": 7,
+   "M": 3,
+   "S": 2
+  },
+  "cards": 16,
+  "recorded": 12,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 25,
+  "picture_text_only": 4,
+  "name_reader_named": 29,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 3,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 8,
+  "weight": 16,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-uk-12",
+  "title": "六氣 ③ 主氣·客氣와 客主加臨 — 여섯 침대의 아래 칸·위 칸 + 勝復",
+  "chapter": "ch03",
+  "group": "C",
+  "stations": 10,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "S": 3,
+   "G": 2,
+   "N": 1
+  },
+  "cards": 10,
+  "recorded": 12,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 30,
+  "picture_text_only": 4,
+  "name_reader_named": 12,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 5,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 3,
+  "weight": 10,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-uk-13",
+  "title": "運氣相臨·平氣 — 順化·天刑·小逆·不和와 平氣 세 길",
+  "chapter": "ch03",
+  "group": "C",
+  "stations": 8,
+  "high": 0,
+  "mid": 0,
+  "codes": {
+   "M": 2,
+   "S": 1
+  },
+  "cards": 9,
+  "recorded": 10,
+  "fact_diff": [
+   7
+  ],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 19,
+  "picture_text_only": 4,
+  "name_reader_named": 6,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 1,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 4,
+  "weight": 9,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-uk-14",
+  "title": "標本中氣 — 本(六氣)·標(三陰三陽)·中氣(表裏) 와 從本·從標·從中",
+  "chapter": "ch03",
+  "group": "C",
+  "stations": 10,
+  "high": 0,
+  "mid": 6,
+  "codes": {
+   "G": 5,
+   "S": 3,
+   "M": 3,
+   "N": 1
+  },
+  "cards": 16,
+  "recorded": 12,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 26,
+  "picture_text_only": 1,
+  "name_reader_named": 3,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 2,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 6,
+  "weight": 16,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-uk-15",
+  "title": "三陰三陽 — 開闔樞 · 陰陽數 · 形氣 단계 · 氣血多少",
+  "chapter": "ch03",
+  "group": "C",
+  "stations": 9,
+  "high": 1,
+  "mid": 4,
+  "codes": {
+   "S": 4,
+   "G": 3,
+   "N": 2,
+   "M": 1
+  },
+  "cards": 9,
+  "recorded": 11,
+  "fact_diff": [
+   8
+  ],
+  "fact_not_in_textbook": [
+   3,
+   4
+  ],
+  "fact_split": [
+   9
+  ],
+  "picture_atoms": 32,
+  "picture_text_only": 4,
+  "name_reader_named": 24,
+  "name_reader_guess": 4,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 11,
+  "weight": 9,
+  "high_stations": [
+   1
+  ],
+  "notes": [
+   "#1 闔(합)·樞(추)는 한자 훈이 어려운데 소리 고리 없음. 關 판본 차이는 물건에 없음."
+  ]
+ },
+ {
+  "lesson": "new-zj-01",
+  "title": "藏象 총론 — 五臟 · 六腑의 갈래(滿而不實 · 實而不滿)와 表裏",
+  "chapter": "ch06",
+  "group": "C",
+  "stations": 8,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 3,
+   "N": 1,
+   "G": 1
+  },
+  "cards": 10,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [
+   2
+  ],
+  "picture_atoms": 22,
+  "picture_text_only": 2,
+  "name_reader_named": 10,
+  "name_reader_guess": 5,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 6,
+  "weight": 10,
+  "high_stations": [
+   1
+  ],
+  "notes": [
+   "#1 素問 책 이름 소리 고리 없음 · 藏象論은 2번 창고 · 쇼윈도가 잇는다"
+  ]
+ },
+ {
+  "lesson": "new-zj-02",
+  "title": "肝의 기능 — 主疏泄 다섯 방면 · 剛臟 · 藏血의 실조",
+  "chapter": "ch06",
+  "group": "C",
+  "stations": 8,
+  "high": 0,
+  "mid": 4,
+  "codes": {
+   "S": 4,
+   "M": 2,
+   "G": 1
+  },
+  "cards": 12,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [
+   1,
+   3,
+   5
+  ],
+  "picture_atoms": 26,
+  "picture_text_only": 5,
+  "name_reader_named": 20,
+  "name_reader_guess": 4,
+  "obj_vs_picture_mismatch": 2,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 4,
+  "weight": 12,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-zj-03",
+  "title": "心의 기능 — 主血脈 · 主神志와 心의 虛證",
+  "chapter": "ch06",
+  "group": "C",
+  "stations": 7,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 3,
+   "M": 3,
+   "N": 1
+  },
+  "cards": 8,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   5
+  ],
+  "fact_split": [
+   1
+  ],
+  "picture_atoms": 22,
+  "picture_text_only": 2,
+  "name_reader_named": 0,
+  "name_reader_guess": 6,
+  "obj_vs_picture_mismatch": 2,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 6,
+  "weight": 8,
+  "high_stations": [
+   7
+  ],
+  "notes": [
+   "#7 膻中 소리 고리 없음 · 臣使 물건 없음"
+  ]
+ },
+ {
+  "lesson": "new-zj-04",
+  "title": "脾의 기능 — 運化 · 升淸 · 統血과 脾氣虛의 네 갈래",
+  "chapter": "ch06",
+  "group": "C",
+  "stations": 11,
+  "high": 0,
+  "mid": 7,
+  "codes": {
+   "M": 6,
+   "S": 6,
+   "W": 1
+  },
+  "cards": 16,
+  "recorded": 0,
+  "fact_diff": [
+   10
+  ],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 42,
+  "picture_text_only": 12,
+  "name_reader_named": 2,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 1,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 11,
+  "weight": 16,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-zj-05",
+  "title": "肺의 기능 — 主氣 · 宣發肅降 · 通調水道 · 朝百脈",
+  "chapter": "ch06",
+  "group": "C",
+  "stations": 9,
+  "high": 1,
+  "mid": 5,
+  "codes": {
+   "S": 4,
+   "M": 3,
+   "N": 1
+  },
+  "cards": 14,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   8
+  ],
+  "fact_split": [
+   4
+  ],
+  "picture_atoms": 23,
+  "picture_text_only": 2,
+  "name_reader_named": 4,
+  "name_reader_guess": 4,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 8,
+  "weight": 14,
+  "high_stations": [
+   7
+  ],
+  "notes": [
+   "#7 治節 이름을 나르는 물건 없음 — 助心行血만 실림"
+  ]
+ },
+ {
+  "lesson": "new-zj-06",
+  "title": "腎의 기능 — 藏精 · 天癸 · 主水 · 納氣",
+  "chapter": "ch06",
+  "group": "C",
+  "stations": 7,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "S": 3,
+   "M": 3,
+   "G": 1
+  },
+  "cards": 9,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 21,
+  "picture_text_only": 6,
+  "name_reader_named": 6,
+  "name_reader_guess": 2,
+  "obj_vs_picture_mismatch": 1,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 3,
+  "weight": 9,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-zj-07",
+  "title": "命門 — 첫 등장 · 자리 넷 · 실체설 셋(孫一奎 · 張介賓 · 李時珍)",
+  "chapter": "ch06",
+  "group": "A2",
+  "stations": 5,
+  "high": 1,
+  "mid": 4,
+  "codes": {
+   "S": 4,
+   "M": 3,
+   "G": 2,
+   "N": 1
+  },
+  "cards": 6,
+  "recorded": 0,
+  "fact_diff": [
+   4,
+   5
+  ],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 20,
+  "picture_text_only": 2,
+  "name_reader_named": 11,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 15,
+  "weight": 6,
+  "high_stations": [
+   1
+  ],
+  "notes": [
+   "#1 靈樞 · 36難 이름 · 수 나를 물건 없음 · 원자 5"
+  ]
+ },
+ {
+  "lesson": "new-zj-08",
+  "title": "本神 — 五臟이 갈무리하는 것 · 머무는 神 · 虛實 + 五志 · 天年",
+  "chapter": "ch06",
+  "group": "C",
+  "stations": 5,
+  "high": 0,
+  "mid": 5,
+  "codes": {
+   "S": 5,
+   "M": 4,
+   "G": 2
+  },
+  "cards": 5,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   1,
+   2,
+   3
+  ],
+  "fact_split": [],
+  "picture_atoms": 22,
+  "picture_text_only": 1,
+  "name_reader_named": 8,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 5,
+  "weight": 5,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-zj-09",
+  "title": "六腑 ① 膽 · 胃 · 小腸 · 大腸 — 받고 · 삭히고 · 거르고 · 내보냄",
+  "chapter": "ch06",
+  "group": "C",
+  "stations": 9,
+  "high": 0,
+  "mid": 7,
+  "codes": {
+   "S": 6,
+   "M": 4
+  },
+  "cards": 9,
+  "recorded": 0,
+  "fact_diff": [
+   5
+  ],
+  "fact_not_in_textbook": [
+   4,
+   6
+  ],
+  "fact_split": [],
+  "picture_atoms": 33,
+  "picture_text_only": 9,
+  "name_reader_named": 5,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 11,
+  "weight": 9,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-zj-10",
+  "title": "六腑 ② 膀胱 · 三焦 — 州都 · 決瀆, 如霧 · 如漚 · 如瀆",
+  "chapter": "ch06",
+  "group": "C",
+  "stations": 6,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 3,
+   "G": 1,
+   "M": 1,
+   "N": 1,
+   "N′": 1
+  },
+  "cards": 7,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   5
+  ],
+  "fact_split": [
+   6
+  ],
+  "picture_atoms": 19,
+  "picture_text_only": 2,
+  "name_reader_named": 7,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 6,
+  "weight": 7,
+  "high_stations": [
+   5
+  ],
+  "notes": [
+   "#5 難經은 zj-07 2번에서 난초 + 안경으로 실렸는데 여기서는 안 씀(N′) · 內經 소리 고리 없음"
+  ]
+ },
+ {
+  "lesson": "new-zj-11",
+  "title": "奇恒之府 — 腑의 꼴, 臟의 일(藏而不瀉)",
+  "chapter": "ch06",
+  "group": "C",
+  "stations": 5,
+  "high": 1,
+  "mid": 2,
+  "codes": {
+   "S": 2,
+   "M": 2,
+   "N": 1
+  },
+  "cards": 5,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 22,
+  "picture_text_only": 4,
+  "name_reader_named": 2,
+  "name_reader_guess": 2,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 5,
+  "weight": 5,
+  "high_stations": [
+   1
+  ],
+  "notes": [
+   "#1 奇恒之府 이름을 나르는 물건 없음 · 원자 8 · 단지 여섯이 각각 서 있어 가를 수 있음(틀 정거장 확인 필요)"
+  ]
+ },
+ {
+  "lesson": "new-zj-12",
+  "title": "七衝門 · 咽喉 — 소화관의 일곱 관문과 몸의 문",
+  "chapter": "ch06",
+  "group": "C",
+  "stations": 5,
+  "high": 2,
+  "mid": 1,
+  "codes": {
+   "N": 2,
+   "S": 2,
+   "M": 2
+  },
+  "cards": 5,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   3
+  ],
+  "fact_split": [
+   1
+  ],
+  "picture_atoms": 20,
+  "picture_text_only": 2,
+  "name_reader_named": 5,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 7,
+  "weight": 5,
+  "high_stations": [
+   1,
+   2
+  ],
+  "notes": [
+   "#1 賁門 · 幽門 자리만 — 소리 고리 없음 · 원자 8 · 문 일곱이 한 정거장",
+   "#2 咽 · 喉 · 會厭 이름 소리 고리 없음 — 하는 일만 그림"
+  ]
+ },
+ {
+  "lesson": "new-zj-13",
+  "title": "臟腑 相關 ① 氣·血·水로 묶인 짝 — 心肺·心脾·肺脾·肺腎",
+  "chapter": "ch06",
+  "group": "C",
+  "stations": 7,
+  "high": 2,
+  "mid": 2,
+  "codes": {
+   "S": 4,
+   "M": 3,
+   "N": 2
+  },
+  "cards": 8,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 26,
+  "picture_text_only": 2,
+  "name_reader_named": 0,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 8,
+  "weight": 8,
+  "high_stations": [
+   1,
+   4
+  ],
+  "notes": [
+   "#1 宗氣 이름 소리 고리 없음(zj-05 1번은 아예 물건 없음) · 원자 4",
+   "#4 宗氣 소리 고리 없음 · 원자 4"
+  ]
+ },
+ {
+  "lesson": "new-zj-14",
+  "title": "臟腑 相關 ② 升降의 축과 바퀴 — 中軸 脾胃 · 外輪 肝肺 + 乙癸同源 · 先後天",
+  "chapter": "ch06",
+  "group": "C",
+  "stations": 8,
+  "high": 2,
+  "mid": 4,
+  "codes": {
+   "S": 3,
+   "M": 3,
+   "N": 2
+  },
+  "cards": 9,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 27,
+  "picture_text_only": 5,
+  "name_reader_named": 3,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 10,
+  "weight": 9,
+  "high_stations": [
+   7,
+   8
+  ],
+  "notes": [
+   "#7 乙癸(천간 배속) 소리 고리 없음 · 藏泄互用 물건 없음",
+   "#8 先 · 後 이름 자체를 나르는 물건 없음 — 생/양 방향만 사건 · 확인 필요(先後 훈으로 충분한지)"
+  ]
+ },
+ {
+  "lesson": "new-zj-15",
+  "title": "~之府 · ~之餘 — 몸의 별칭 대조표",
+  "chapter": "ch06",
+  "group": "C",
+  "stations": 9,
+  "high": 1,
+  "mid": 4,
+  "codes": {
+   "S": 3,
+   "M": 3,
+   "N": 1
+  },
+  "cards": 9,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   3,
+   4
+  ],
+  "fact_split": [
+   5
+  ],
+  "picture_atoms": 27,
+  "picture_text_only": 3,
+  "name_reader_named": 6,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 7,
+  "weight": 9,
+  "high_stations": [
+   9
+  ],
+  "notes": [
+   "#9 衝脈 이름 고리 없음 · 衝脈 · 十二經之海는 물건이 胃 칸에 얹힘"
+  ]
+ },
+ {
+  "lesson": "new-zj-16",
+  "title": "四診 — 神聖工巧와 望診의 근거",
+  "chapter": "ch12",
+  "group": "C",
+  "stations": 6,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "G": 4,
+   "S": 2,
+   "M": 2
+  },
+  "cards": 10,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "fact_split": [],
+  "picture_atoms": 13,
+  "picture_text_only": 2,
+  "name_reader_named": 4,
+  "name_reader_guess": 2,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 3,
+  "weight": 10,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-zj-17",
+  "title": "五輪 — 눈의 다섯 자리와 大惑論",
+  "chapter": "ch12",
+  "group": "C",
+  "stations": 7,
+  "high": 4,
+  "mid": 0,
+  "codes": {
+   "N": 4,
+   "S": 1
+  },
+  "cards": 7,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 17,
+  "picture_text_only": 0,
+  "name_reader_named": 8,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "다시 그림",
+  "score": 12,
+  "weight": 7,
+  "high_stations": [
+   2,
+   3,
+   6,
+   7
+  ],
+  "notes": [
+   "#2 二眥(이자) 소리 고리 없음 — 눈구석 뜻만 실림, 眥 훈이 안 보임",
+   "#3 上下胞(상하포) 소리 고리 없음 — 눈꺼풀 뜻만, 胞 훈이 눈꺼풀로 안 풀림",
+   "#6 大惑論(대혹론) 편명 고리 없음(발문에 주어지면 낮춤 — 확인 필요) · 窠=둥지 뜻 고리는 있음",
+   "#7 約束(눈꺼풀) 고리 없음(약속 소리 동음어 미사용) · 정기 다섯이 한 정거장 — 물건 다섯 따로"
+  ]
+ },
+ {
+  "lesson": "new-zj-18",
+  "title": "舌診 ① 근거 · 舌質과 舌苔 · 부위",
+  "chapter": "ch12",
+  "group": "A2",
+  "stations": 9,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "S": 2,
+   "M": 2,
+   "G": 1
+  },
+  "cards": 10,
+  "recorded": 0,
+  "fact_diff": [
+   3
+  ],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 24,
+  "picture_text_only": 6,
+  "name_reader_named": 6,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 7,
+  "weight": 10,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-zj-19",
+  "title": "舌診 ② 舌形 — 혀의 꼴 일곱",
+  "chapter": "ch12",
+  "group": "C",
+  "stations": 7,
+  "high": 0,
+  "mid": 2,
+  "codes": {
+   "M": 2
+  },
+  "cards": 7,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 10,
+  "picture_text_only": 2,
+  "name_reader_named": 6,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 2,
+  "weight": 7,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-zj-20",
+  "title": "舌診 ③ 舌態 — 혀의 움직임 여섯",
+  "chapter": "ch12",
+  "group": "C",
+  "stations": 6,
+  "high": 0,
+  "mid": 1,
+  "codes": {
+   "M": 1
+  },
+  "cards": 6,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 8,
+  "picture_text_only": 0,
+  "name_reader_named": 4,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "그대로",
+  "score": 1,
+  "weight": 6,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-zj-21",
+  "title": "舌診 ④ 舌苔 — 苔質 넷 · 苔色 넷 · 鏡面舌",
+  "chapter": "ch12",
+  "group": "C",
+  "stations": 9,
+  "high": 0,
+  "mid": 4,
+  "codes": {
+   "M": 4,
+   "S": 1
+  },
+  "cards": 9,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 16,
+  "picture_text_only": 5,
+  "name_reader_named": 7,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 4,
+  "weight": 9,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-zj-22",
+  "title": "聞診 — 소리로 가르기: 譫語 · 鄭聲 · 咳 · 嗽 · 嘔 · 吐",
+  "chapter": "ch12",
+  "group": "A2",
+  "stations": 7,
+  "high": 1,
+  "mid": 0,
+  "codes": {
+   "N": 1
+  },
+  "cards": 7,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 9,
+  "picture_text_only": 0,
+  "name_reader_named": 3,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 3,
+  "weight": 7,
+  "high_stations": [
+   1
+  ],
+  "notes": [
+   "#1 譫(섬) · 鄭(정) 훈이 안 보임 · 實/虛 대비 + 하는 일만으로 소리(섬어 · 정성) 고리 없음"
+  ]
+ },
+ {
+  "lesson": "new-zj-23",
+  "title": "問診 ① 寒熱 · 汗 · 口味",
+  "chapter": "ch12",
+  "group": "C",
+  "stations": 9,
+  "high": 0,
+  "mid": 2,
+  "codes": {
+   "M": 3,
+   "S": 1
+  },
+  "cards": 9,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 17,
+  "picture_text_only": 4,
+  "name_reader_named": 1,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 2,
+  "weight": 9,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-zj-24",
+  "title": "問診 ② 疼痛 — 아픈 성질 넷 · 頭痛 자리 다섯(經)",
+  "chapter": "ch12",
+  "group": "C",
+  "stations": 9,
+  "high": 0,
+  "mid": 2,
+  "codes": {
+   "G": 1,
+   "M": 1
+  },
+  "cards": 9,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 9,
+  "picture_text_only": 0,
+  "name_reader_named": 11,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 2,
+  "weight": 9,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-zj-25",
+  "title": "二便 — 묻고(裏急後重 · 氣墜 · 滑泄) 맡기(酸臭 · 腥臭 · 臭濁)",
+  "chapter": "ch12",
+  "group": "C",
+  "stations": 6,
+  "high": 2,
+  "mid": 0,
+  "codes": {
+   "N": 2
+  },
+  "cards": 6,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 7,
+  "picture_text_only": 1,
+  "name_reader_named": 5,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 6,
+  "weight": 6,
+  "high_stations": [
+   1,
+   5
+  ],
+  "notes": [
+   "#1 痢疾(이질) 소리 고리 없음 — 裏急 · 後重 뜻만",
+   "#5 溏薄(당박) 나를 물건 없음 — 훈 어려운 이름"
+  ]
+ },
+ {
+  "lesson": "new-zj-26",
+  "title": "脈診 ① 부위 · 寸口 · 指法 · 平脈 · 舍證從脈",
+  "chapter": "ch12",
+  "group": "C",
+  "stations": 8,
+  "high": 3,
+  "mid": 4,
+  "codes": {
+   "M": 4,
+   "S": 3,
+   "N": 3
+  },
+  "cards": 10,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 25,
+  "picture_text_only": 6,
+  "name_reader_named": 6,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 13,
+  "weight": 10,
+  "high_stations": [
+   3,
+   4,
+   6
+  ],
+  "notes": [
+   "#3 人迎(인영) · 氣口(기구) · 寸口(촌구) 소리 고리 없음 — 짚는 자리만",
+   "#4 氣口 · 寸口 고리 없음(자리만) · 3번 칸과 같은 짚는 모습이라 人迎 ↔ 寸口 한 가지 차이(목 유무)로만 갈림",
+   "#6 擧 · 尋 · 按 세 글자 소리 · 훈 고리 없음 — 깊이(자리)만 · 腑 · 胃氣 · 臟 대응 물건 없음"
+  ]
+ },
+ {
+  "lesson": "new-zj-27",
+  "title": "脈診 ② 浮 · 沈 · 遲數의 곁가지 — 芤 · 散 · 伏 · 牢 · 緩 · 疾",
+  "chapter": "ch12",
+  "group": "C",
+  "stations": 6,
+  "high": 0,
+  "mid": 1,
+  "codes": {
+   "S": 1,
+   "M": 1
+  },
+  "cards": 6,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   6
+  ],
+  "fact_split": [],
+  "picture_atoms": 15,
+  "picture_text_only": 1,
+  "name_reader_named": 5,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "그대로",
+  "score": 1,
+  "weight": 6,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "new-zj-28",
+  "title": "脈診 ③ 細類 · 洪弦緊 · 歇止(代 · 促 · 結) · 七怪脈",
+  "chapter": "ch12",
+  "group": "A2",
+  "stations": 10,
+  "high": 1,
+  "mid": 2,
+  "codes": {
+   "S": 2,
+   "N": 1
+  },
+  "cards": 10,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   4,
+   7
+  ],
+  "fact_split": [],
+  "picture_atoms": 28,
+  "picture_text_only": 0,
+  "name_reader_named": 12,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 5,
+  "weight": 10,
+  "high_stations": [
+   7
+  ],
+  "notes": [
+   "#7 代(대신할 대) 뜻 · 소리 고리 없음 — 규칙적 쉼의 하는 일만 · 代 · 促 · 結 세 짝 중 代만 이름 고리 빠짐"
+  ]
+ },
+ {
+  "lesson": "new-zj-29",
+  "title": "觸診 — 손발 寒熱 · 虛里 · 癥瘕積聚",
+  "chapter": "ch12",
+  "group": "C",
+  "stations": 7,
+  "high": 1,
+  "mid": 1,
+  "codes": {
+   "S": 2,
+   "N": 1,
+   "M": 1
+  },
+  "cards": 7,
+  "recorded": 0,
+  "fact_diff": [
+   4
+  ],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 18,
+  "picture_text_only": 1,
+  "name_reader_named": 4,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 8,
+  "weight": 7,
+  "high_stations": [
+   5
+  ],
+  "notes": [
+   "#5 虛里(허리) 소리 고리 없음(동음어 허리 미사용) · 胃之大絡 물건 없음 · 정상 / 이상 두 사람이 한 상자"
+  ]
+ },
+ {
+  "lesson": "pilot-duben",
+  "title": "杜本(元) — 敖氏傷寒金鏡錄을 땅에서 처음 뽑아 혀를 비춤 · 최초 舌診 · 舌象 36(시범)",
+  "chapter": "ch01",
+  "group": "A",
+  "stations": 7,
+  "high": 0,
+  "mid": 1,
+  "codes": {
+   "P": 3,
+   "G": 1
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   1
+  ],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "그대로",
+  "score": 1,
+  "weight": 0,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "pilot-gv",
+  "title": "督脈 유주도 — 長强에서 齦交까지 28혈(시범 · 코드로 그림)",
+  "chapter": "ch05",
+  "group": "A",
+  "stations": 7,
+  "high": 0,
+  "mid": 1,
+  "codes": {
+   "P": 5,
+   "S": 5,
+   "M": 2
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "글만 고침",
+  "score": 1,
+  "weight": 0,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "pilot-tao",
+  "title": "陶弘景(梁) — 本經과 別錄을 한 주전자에 쏟아 섞어 本草經集注 730(시범 · 새 문법)",
+  "chapter": "shelf",
+  "group": "A",
+  "stations": 8,
+  "high": 0,
+  "mid": 4,
+  "codes": {
+   "G": 3,
+   "P": 2,
+   "N′": 2,
+   "M": 1
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "구역 고침",
+  "score": 4,
+  "weight": 0,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "pilot-wangbing",
+  "title": "王冰(唐 · 啓玄子) — 열쇠로 검은 구슬을 열고 素問에 쪽지 · 運氣 七篇 補入(시범)",
+  "chapter": "shelf",
+  "group": "A",
+  "stations": 7,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "M": 4,
+   "P": 3,
+   "N": 1,
+   "N′": 1,
+   "S": 1
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "구역 고침",
+  "score": 6,
+  "weight": 0,
+  "high_stations": [
+   7
+  ],
+  "notes": [
+   "#7 全元起(전원 기립) · 楊上善 보존 단서가 있는데 안 씀 · 吳崑 · 書名 셋 고리 없음 · 대비 그림만"
+  ]
+ },
+ {
+  "lesson": "pilot-xue",
+  "title": "혈 수 계보 349 → 354 → 359 = 359 → 361 — 돌계단 다섯 자리(시범)",
+  "chapter": "shelf",
+  "group": "A",
+  "stations": 8,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "N": 3,
+   "G": 1,
+   "P": 1,
+   "N′": 1,
+   "M": 1
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": false,
+  "verdict": "구역 고침",
+  "score": 3,
+  "weight": 0,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "qiqing-conflict",
+  "title": "七情 ② 억제·충돌 — 相惡 · 相畏 · 相殺 · 相反",
+  "chapter": "ch10",
+  "group": "A",
+  "stations": 11,
+  "high": 5,
+  "mid": 2,
+  "codes": {
+   "N": 6,
+   "S": 4,
+   "P": 2,
+   "M": 1
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 17,
+  "weight": 0,
+  "high_stations": [
+   1,
+   2,
+   3,
+   5,
+   7
+  ],
+  "notes": [
+   "#1 원자 4·인물 여섯. 惡은 하는 일(꺼진 전구)뿐",
+   "#2 원자 4·인물 여섯",
+   "#3 畏(두려워함)를 그리지 않고 결과(구름 흩어짐)만",
+   "#5 원자 4. 十九畏와 가르는 바리케이드 유무는 약속"
+  ]
+ },
+ {
+  "lesson": "qiqing-coop",
+  "title": "七情 ① 협동 — 單行 · 相須 · 相使",
+  "chapter": "ch10",
+  "group": "A",
+  "stations": 12,
+  "high": 6,
+  "mid": 2,
+  "codes": {
+   "N": 6,
+   "P": 4,
+   "G": 4
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 20,
+  "weight": 0,
+  "high_stations": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "notes": [
+   "#3 須(모름지기)는 안 보이고 소리 고리 없음. 약 고리는 사전과 일치",
+   "#4 相須 고리 없음 동일. 柴胡·黃芩 보존 단서",
+   "#5 相須 고리 없음 동일",
+   "#6 相須 고리 없음 동일. 甘草는 '약방의 감초'(사전 일치)"
+  ]
+ },
+ {
+  "lesson": "suchi-dan",
+  "title": "修治 ⑦ 煅法 — 明煅 · 煅淬 · 悶煅",
+  "chapter": "ch10",
+  "group": "A",
+  "stations": 8,
+  "high": 0,
+  "mid": 4,
+  "codes": {
+   "M": 7,
+   "S": 4,
+   "G": 1
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 4,
+  "weight": 0,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "suchi-gabo1",
+  "title": "修治 ② 加輔料炒 전반 — 麩炒 · 米炒 · 土炒",
+  "chapter": "ch10",
+  "group": "A",
+  "stations": 7,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 4,
+   "M": 3,
+   "N": 1
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 6,
+  "weight": 0,
+  "high_stations": [
+   6
+  ],
+  "notes": [
+   "#6 원자 4. 伏龍肝은 '부뚜막 흙'이라는 실물 지식이 필요하고 소리 고리 없음. 效能 물건 없음"
+  ]
+ },
+ {
+  "lesson": "suchi-gabo2",
+  "title": "修治 ③ 加輔料炒 후반 — 砂炒 · 滑石粉炒 · 蛤粉炒",
+  "chapter": "ch10",
+  "group": "A",
+  "stations": 8,
+  "high": 0,
+  "mid": 4,
+  "codes": {
+   "M": 5,
+   "S": 5,
+   "P": 1,
+   "G": 1
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 4,
+  "weight": 0,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "suchi-ju-cho",
+  "title": "修治 ④ 酒炙法(5) · 醋炙法(13)",
+  "chapter": "ch10",
+  "group": "A",
+  "stations": 10,
+  "high": 0,
+  "mid": 6,
+  "codes": {
+   "S": 6,
+   "M": 6,
+   "P": 5
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 6,
+  "weight": 0,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "suchi-mil-yu",
+  "title": "修治 ⑥ 蜜炙法(9) · 油炙法(4)",
+  "chapter": "ch10",
+  "group": "A",
+  "stations": 9,
+  "high": 0,
+  "mid": 2,
+  "codes": {
+   "S": 2,
+   "M": 2,
+   "P": 1
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 2,
+  "weight": 0,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "suchi-qingchao",
+  "title": "修治 ① 淸炒 — 炒焦(4) · 炒炭 止血(14)",
+  "chapter": "ch10",
+  "group": "A",
+  "stations": 9,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "S": 3,
+   "M": 3,
+   "P": 1
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 3,
+  "weight": 0,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "suchi-suhwa",
+  "title": "修治 ⑧ 水火共制 — 蒸 · 煮 · 燀 · 複制法",
+  "chapter": "ch10",
+  "group": "A",
+  "stations": 10,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "M": 4,
+   "S": 4,
+   "P": 2
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 3,
+  "weight": 0,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "suchi-yeom-gang",
+  "title": "修治 ⑤ 鹽炙法(9) · 薑炙法(3)",
+  "chapter": "ch10",
+  "group": "A",
+  "stations": 8,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "M": 4,
+   "S": 2
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 3,
+  "weight": 0,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "wei19",
+  "title": "十九畏 — 9쌍 3×3 한 판",
+  "chapter": "ch10",
+  "group": "A",
+  "stations": 9,
+  "high": 0,
+  "mid": 0,
+  "codes": {
+   "P": 1
+  },
+  "cards": 0,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 0,
+  "picture_text_only": 0,
+  "name_reader_named": 0,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "그대로",
+  "score": 0,
+  "weight": 0,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "yyox-01",
+  "title": "天人相應 — 다섯 땅의 다섯 치법(異法方宜)과 衛氣의 낮·밤",
+  "chapter": "ch02",
+  "group": "C",
+  "stations": 6,
+  "high": 0,
+  "mid": 6,
+  "codes": {
+   "S": 5,
+   "M": 4
+  },
+  "cards": 14,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 23,
+  "picture_text_only": 2,
+  "name_reader_named": 15,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 9,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 6,
+  "weight": 14,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "yyox-02",
+  "title": "陰陽 — 속성(全一·對待·統一)·分化와 네 관계(互根·制約·消長·轉化) + 원문 둘",
+  "chapter": "ch02",
+  "group": "C",
+  "stations": 10,
+  "high": 0,
+  "mid": 0,
+  "codes": {
+   "S": 3,
+   "M": 2
+  },
+  "cards": 22,
+  "recorded": 7,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 25,
+  "picture_text_only": 6,
+  "name_reader_named": 10,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 2,
+  "eyes_checked": true,
+  "verdict": "그대로",
+  "score": 0,
+  "weight": 22,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "yyox-03",
+  "title": "五行 왕국 — 다섯 인물(臟·色·官)과 그 성질(曲直·炎上·稼穡·從革·潤下)",
+  "chapter": "ch02",
+  "group": "C",
+  "stations": 10,
+  "high": 3,
+  "mid": 1,
+  "codes": {
+   "S": 5,
+   "N": 4
+  },
+  "cards": 20,
+  "recorded": 2,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [
+   7
+  ],
+  "picture_atoms": 25,
+  "picture_text_only": 1,
+  "name_reader_named": 11,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 1,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 10,
+  "weight": 20,
+  "high_stations": [
+   6,
+   7,
+   8
+  ],
+  "notes": [
+   "#6 稼·穡 훈(심을 가·거둘 색)이 어려워 안 보임 낱말인데 소리 고리 없음 — 뜻 고리만. 化生·承載 속성은 안 실림.",
+   "#7 相傅=재상(보좌)은 교재 뜻풀이를 알아야 연결 — 훈으로 안 풀림, 소리 고리 없음. 治節도 안 실림.",
+   "#8 革=가죽→바꿈, 從=따름 두 걸음. 소리 고리 없음. 속성 넷 중 안 실린 것 있음."
+  ]
+ },
+ {
+  "lesson": "yyox-04",
+  "title": "五行의 자리와 수 — 五方 · 相生 · 相剋 · 生成數(水火木金土)",
+  "chapter": "ch02",
+  "group": "C",
+  "stations": 8,
+  "high": 0,
+  "mid": 8,
+  "codes": {
+   "G": 6,
+   "S": 3,
+   "M": 2
+  },
+  "cards": 6,
+  "recorded": 10,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 28,
+  "picture_text_only": 15,
+  "name_reader_named": 7,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "그릇바꿈(표 · 트레이너)",
+  "score": 8,
+  "weight": 6,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "yyox-05",
+  "title": "金匱眞言論 다섯 방위 — 竅·數·音·臭 (일반 배속과 갈리는 자리)",
+  "chapter": "ch02",
+  "group": "C",
+  "stations": 5,
+  "high": 0,
+  "mid": 5,
+  "codes": {
+   "S": 5,
+   "G": 5
+  },
+  "cards": 14,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [
+   2,
+   5
+  ],
+  "picture_atoms": 25,
+  "picture_text_only": 0,
+  "name_reader_named": 11,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 8,
+  "eyes_checked": true,
+  "verdict": "그릇바꿈(표 · 트레이너)",
+  "score": 5,
+  "weight": 14,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "yyox-06",
+  "title": "宣明五氣의 길 — 五味所入 · 五味所走 · 五精所并 (+ 靈樞 五果·五菜)",
+  "chapter": "ch10",
+  "group": "C",
+  "stations": 6,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 4,
+   "N": 2,
+   "M": 2,
+   "G": 1
+  },
+  "cards": 11,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   4
+  ],
+  "fact_split": [],
+  "picture_atoms": 25,
+  "picture_text_only": 1,
+  "name_reader_named": 17,
+  "name_reader_guess": 4,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 6,
+  "weight": 11,
+  "high_stations": [
+   3
+  ],
+  "notes": [
+   "#3 九針論 소리 고리 없음 — 침 묶음만 · 뒤바뀜 구분을 시험이 묻는다면 편명이 답"
+  ]
+ },
+ {
+  "lesson": "yyox-07",
+  "title": "나를 가운데 놓는 다섯 자리 — 旺相休囚死 · 五邪(虛·實·賊·微·正)",
+  "chapter": "ch02",
+  "group": "C",
+  "stations": 8,
+  "high": 0,
+  "mid": 1,
+  "codes": {
+   "W": 2,
+   "S": 1,
+   "M": 1
+  },
+  "cards": 17,
+  "recorded": 1,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 21,
+  "picture_text_only": 2,
+  "name_reader_named": 6,
+  "name_reader_guess": 6,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "그대로",
+  "score": 1,
+  "weight": 17,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "yyox-08",
+  "title": "相生相剋의 균형과 깨짐 — 制化·亢害承制·勝復 ↔ 母子相及·相乘·相侮",
+  "chapter": "ch02",
+  "group": "C",
+  "stations": 8,
+  "high": 0,
+  "mid": 4,
+  "codes": {
+   "M": 4,
+   "S": 3,
+   "G": 1,
+   "W": 1
+  },
+  "cards": 15,
+  "recorded": 0,
+  "fact_diff": [
+   4
+  ],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 26,
+  "picture_text_only": 7,
+  "name_reader_named": 8,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 8,
+  "weight": 15,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "yyox-09",
+  "title": "五行으로 읽는 병의 신호 — 主色·客色 · 色 겸화 · 五脈 · 五變動",
+  "chapter": "ch02",
+  "group": "C",
+  "stations": 6,
+  "high": 1,
+  "mid": 0,
+  "codes": {
+   "S": 2,
+   "N": 1
+  },
+  "cards": 10,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 19,
+  "picture_text_only": 2,
+  "name_reader_named": 15,
+  "name_reader_guess": 2,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 3,
+  "weight": 10,
+  "high_stations": [
+   6
+  ],
+  "notes": [
+   "#6 원자 다섯이 병풍 다섯. 噦(얼)은 딸꾹질 뜻만 — 소리 고리 없음. 慄(률)도 훈 어려움."
+  ]
+ },
+ {
+  "lesson": "yyox-10",
+  "title": "五行 치법 — 전변 예방 · 虛則補其母 實則瀉其子 · 여덟 치법",
+  "chapter": "ch02",
+  "group": "C",
+  "stations": 11,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "M": 3,
+   "N": 1,
+   "S": 1,
+   "G": 1
+  },
+  "cards": 18,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   3
+  ],
+  "fact_split": [
+   5
+  ],
+  "picture_atoms": 26,
+  "picture_text_only": 11,
+  "name_reader_named": 9,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 3,
+  "weight": 18,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "yyox-11",
+  "title": "八卦 ① 여덟 괘의 象 — 自然·家族·身體(近取諸身)",
+  "chapter": "ch02",
+  "group": "C",
+  "stations": 8,
+  "high": 8,
+  "mid": 0,
+  "codes": {
+   "N": 8
+  },
+  "cards": 16,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "fact_split": [],
+  "picture_atoms": 24,
+  "picture_text_only": 0,
+  "name_reader_named": 2,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "다시 그림",
+  "score": 24,
+  "weight": 16,
+  "high_stations": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "notes": [
+   "#1 乾(건)이라는 이름으로 가는 소리 고리 없음 — 象(天·父·首)만 실림.",
+   "#2 坤(곤) 이름 고리 없음.",
+   "#3 震(진) 이름 고리 없음.",
+   "#4 坎(감) 이름 고리 없음."
+  ]
+ },
+ {
+  "lesson": "yyox-12",
+  "title": "八卦 ② 先天(伏羲) — 一乾天…八坤地 번호와 마주 보는 네 쌍(對待)",
+  "chapter": "ch02",
+  "group": "A2",
+  "stations": 8,
+  "high": 2,
+  "mid": 3,
+  "codes": {
+   "G": 5,
+   "S": 4,
+   "N": 3,
+   "M": 1
+  },
+  "cards": 3,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   4,
+   5,
+   6,
+   7
+  ],
+  "fact_split": [],
+  "picture_atoms": 25,
+  "picture_text_only": 1,
+  "name_reader_named": 1,
+  "name_reader_guess": 2,
+  "obj_vs_picture_mismatch": 1,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 9,
+  "weight": 3,
+  "high_stations": [
+   1,
+   2
+  ],
+  "notes": [
+   "#1 원자 넷, 물건 넷이 한 정거장. 번호는 숫자 물건 겹쳐 읽기. 乾·兌·離·震 이름 소리 고리 없음. 시계 방위도 약속.",
+   "#2 巽만 손(가락) 소리 고리. 坎·艮·坤은 번호 물건뿐 이름 고리 없음."
+  ]
+ },
+ {
+  "lesson": "yyox-13",
+  "title": "八卦 ③ 後天(文王) — 帝出乎震, 한 해를 도는 여덟 동작과 방위",
+  "chapter": "ch02",
+  "group": "A2",
+  "stations": 10,
+  "high": 7,
+  "mid": 2,
+  "codes": {
+   "N": 7,
+   "G": 1,
+   "S": 1,
+   "M": 1
+  },
+  "cards": 9,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "fact_split": [],
+  "picture_atoms": 31,
+  "picture_text_only": 10,
+  "name_reader_named": 11,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 1,
+  "eyes_checked": true,
+  "verdict": "다시 그림",
+  "score": 23,
+  "weight": 9,
+  "high_stations": [
+   1,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "notes": [
+   "#1 震 이름 소리 고리 없음(번개=뜻은 있으나 震 훈 우레 진은 안 보임으로 침). 괘패 줄 모양은 부호.",
+   "#3 離(이) 소리 고리 없음. 꿩은 이유 없는 소품(W).",
+   "#4 坤(곤) 소리 고리 없음. 致役/致養 두 글자 헷갈림(교재 판본)을 나를 물건 없음 — 확인 필요.",
+   "#5 兌(태) 소리 고리 없음. 說은 설/열 두 음 — 기쁠 열은 안 보임."
+  ]
+ },
+ {
+  "lesson": "yyox-14",
+  "title": "五運六氣 ① 干支 五行과 同化年 — 天符·歲會·太一天符·同天符·同歲會",
+  "chapter": "ch03",
+  "group": "C",
+  "stations": 9,
+  "high": 2,
+  "mid": 4,
+  "codes": {
+   "S": 5,
+   "G": 4,
+   "N": 3,
+   "M": 3
+  },
+  "cards": 8,
+  "recorded": 11,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   6,
+   9
+  ],
+  "fact_split": [
+   5
+  ],
+  "picture_atoms": 40,
+  "picture_text_only": 13,
+  "name_reader_named": 4,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 10,
+  "weight": 8,
+  "high_stations": [
+   1,
+   5
+  ],
+  "notes": [
+   "#1 천간 열 이름 소리 고리 없음 — 색과 크기 약속으로만.",
+   "#5 네 해를 午丑未酉 띠 짐승으로만 — 戊 己 乙 이름은 안 실림."
+  ]
+ },
+ {
+  "lesson": "zds-01",
+  "title": "肝 — 華爪·充筋·竅目 · 惡風·液淚·久行傷筋",
+  "chapter": "ch06",
+  "group": "C",
+  "stations": 6,
+  "high": 1,
+  "mid": 3,
+  "codes": {
+   "S": 4,
+   "N": 1,
+   "M": 1
+  },
+  "cards": 10,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   4
+  ],
+  "fact_split": [],
+  "picture_atoms": 22,
+  "picture_text_only": 13,
+  "name_reader_named": 4,
+  "name_reader_guess": 3,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 6,
+  "weight": 10,
+  "high_stations": [
+   3
+  ],
+  "notes": [
+   "#3 罷極之本 · 血海 소리 고리 없음 · 원자 4"
+  ]
+ },
+ {
+  "lesson": "zds-02",
+  "title": "心 — 華面·充血脈·竅舌 · 惡熱·液汗·久視傷血",
+  "chapter": "ch06",
+  "group": "C",
+  "stations": 6,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "S": 3
+  },
+  "cards": 12,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   4
+  ],
+  "fact_split": [],
+  "picture_atoms": 12,
+  "picture_text_only": 3,
+  "name_reader_named": 4,
+  "name_reader_guess": 4,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 3,
+  "weight": 12,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "zds-03",
+  "title": "脾 — 華脣四白·充肌·竅口 · 惡濕·液涎·久坐傷肉",
+  "chapter": "ch06",
+  "group": "C",
+  "stations": 6,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "M": 2,
+   "S": 1
+  },
+  "cards": 12,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 13,
+  "picture_text_only": 5,
+  "name_reader_named": 6,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 3,
+  "weight": 12,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "zds-04",
+  "title": "肺 — 華毛·充皮·竅鼻 · 惡寒·液涕·久臥傷氣",
+  "chapter": "ch06",
+  "group": "C",
+  "stations": 6,
+  "high": 0,
+  "mid": 4,
+  "codes": {
+   "S": 4,
+   "M": 1,
+   "C": 1
+  },
+  "cards": 9,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   4
+  ],
+  "fact_split": [],
+  "picture_atoms": 15,
+  "picture_text_only": 6,
+  "name_reader_named": 7,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 4,
+  "weight": 9,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "zds-05",
+  "title": "腎 — 華髮·充骨·竅耳 · 惡燥·液唾·久立傷骨",
+  "chapter": "ch06",
+  "group": "C",
+  "stations": 6,
+  "high": 0,
+  "mid": 4,
+  "codes": {
+   "M": 3,
+   "S": 2,
+   "C": 1
+  },
+  "cards": 9,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 14,
+  "picture_text_only": 7,
+  "name_reader_named": 4,
+  "name_reader_guess": 3,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 4,
+  "weight": 9,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "zds-06",
+  "title": "藏象 원문 대조 — 五臟 陰陽 배속 · 新校正 · 편마다 갈리는 開竅 · 倉廩之本 · 所藏",
+  "chapter": "ch06",
+  "group": "C",
+  "stations": 6,
+  "high": 3,
+  "mid": 3,
+  "codes": {
+   "M": 5,
+   "S": 3,
+   "N": 3,
+   "N′": 1
+  },
+  "cards": 19,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [
+   2,
+   3
+  ],
+  "picture_atoms": 23,
+  "picture_text_only": 12,
+  "name_reader_named": 4,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "다시 그림",
+  "score": 12,
+  "weight": 19,
+  "high_stations": [
+   3,
+   4,
+   6
+  ],
+  "notes": [
+   "#3 陰陽應象大論 고리 없음 · 舌 쪽 물건 없음",
+   "#4 陰陽應象大論 · 耳 쪽 물건 없음",
+   "#6 罷極(안 보임) 고리 없음 · 所藏 다섯 · 원자 6"
+  ]
+ },
+ {
+  "lesson": "zds-07",
+  "title": "장부병리 감별 ① — 心火↔肝火 · 腎陽虛↔腎陰虛 · 心腎相交(水火)",
+  "chapter": "ch09",
+  "group": "A2",
+  "stations": 7,
+  "high": 2,
+  "mid": 3,
+  "codes": {
+   "S": 5,
+   "M": 5,
+   "N": 2,
+   "N′": 1
+  },
+  "cards": 13,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   3,
+   7
+  ],
+  "fact_split": [],
+  "picture_atoms": 27,
+  "picture_text_only": 7,
+  "name_reader_named": 10,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 1,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 9,
+  "weight": 13,
+  "high_stations": [
+   1,
+   7
+  ],
+  "notes": [
+   "#1 糜爛 소리 고리 없음 · 心移熱於小腸 · 脈數 물건 없음 · 원자 5",
+   "#7 黃連阿膠湯 소리 고리 없음 · 黃連 사전(쓴맛 노란 연꽃) 안 씀"
+  ]
+ },
+ {
+  "lesson": "zds-08",
+  "title": "장부병리 감별 ② — 肝血不足 ↔ 肝陽上亢(↔肝火), 갈림축 頭重脚輕",
+  "chapter": "ch09",
+  "group": "C",
+  "stations": 8,
+  "high": 0,
+  "mid": 3,
+  "codes": {
+   "S": 6,
+   "M": 6,
+   "N": 1
+  },
+  "cards": 6,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   6
+  ],
+  "fact_split": [
+   5
+  ],
+  "picture_atoms": 31,
+  "picture_text_only": 6,
+  "name_reader_named": 11,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 3,
+  "weight": 6,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "zds-09",
+  "title": "望色 ① — 靑·赤·黃 (五色主病)",
+  "chapter": "ch12",
+  "group": "C",
+  "stations": 11,
+  "high": 0,
+  "mid": 6,
+  "codes": {
+   "M": 7,
+   "S": 3
+  },
+  "cards": 11,
+  "recorded": 0,
+  "fact_diff": [
+   7
+  ],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 27,
+  "picture_text_only": 4,
+  "name_reader_named": 7,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 10,
+  "weight": 11,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "zds-10",
+  "title": "望色 ② — 白·黑 · 善色↔惡色(光澤)",
+  "chapter": "ch12",
+  "group": "C",
+  "stations": 9,
+  "high": 0,
+  "mid": 5,
+  "codes": {
+   "M": 6,
+   "S": 5
+  },
+  "cards": 8,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   5,
+   7
+  ],
+  "fact_split": [],
+  "picture_atoms": 26,
+  "picture_text_only": 5,
+  "name_reader_named": 7,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 5,
+  "weight": 8,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "zds-11",
+  "title": "問診 — 十問歌 一問~十問의 차례",
+  "chapter": "ch12",
+  "group": "C",
+  "stations": 12,
+  "high": 1,
+  "mid": 2,
+  "codes": {
+   "M": 3,
+   "S": 2,
+   "N": 1
+  },
+  "cards": 2,
+  "recorded": 5,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 20,
+  "picture_text_only": 3,
+  "name_reader_named": 9,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 5,
+  "weight": 2,
+  "high_stations": [
+   11
+  ],
+  "notes": [
+   "#11 사람 · 책 이름 넷에 소리 고리 없음 — 두꺼운 옛 책/얇은 새 책 구분만"
+  ]
+ },
+ {
+  "lesson": "zds-12",
+  "title": "切診 — 綱領脈 네 쌍: 浮沈·遲數·虛實·滑澁",
+  "chapter": "ch12",
+  "group": "C",
+  "stations": 8,
+  "high": 0,
+  "mid": 6,
+  "codes": {
+   "M": 6,
+   "S": 3
+  },
+  "cards": 14,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 27,
+  "picture_text_only": 13,
+  "name_reader_named": 8,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "구역 고침",
+  "score": 6,
+  "weight": 14,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "zds-13",
+  "title": "八綱 — 總綱 陰陽 아래 表裏·寒熱·虛實",
+  "chapter": "ch09",
+  "group": "C",
+  "stations": 5,
+  "high": 0,
+  "mid": 1,
+  "codes": {
+   "M": 1,
+   "G": 1,
+   "S": 1
+  },
+  "cards": 13,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [],
+  "fact_split": [],
+  "picture_atoms": 14,
+  "picture_text_only": 0,
+  "name_reader_named": 7,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "그대로",
+  "score": 1,
+  "weight": 13,
+  "high_stations": [],
+  "notes": []
+ },
+ {
+  "lesson": "zds-14",
+  "title": "六經 ① 三陽 — 太陽(中風·傷寒)·陽明(經證·腑證)·少陽",
+  "chapter": "ch09",
+  "group": "A2",
+  "stations": 12,
+  "high": 4,
+  "mid": 4,
+  "codes": {
+   "M": 9,
+   "S": 6,
+   "N′": 4,
+   "N": 3
+  },
+  "cards": 14,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   6,
+   8
+  ],
+  "fact_split": [
+   7
+  ],
+  "picture_atoms": 42,
+  "picture_text_only": 7,
+  "name_reader_named": 11,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "다시 그림",
+  "score": 16,
+  "weight": 14,
+  "high_stations": [
+   1,
+   3,
+   4,
+   7
+  ],
+  "notes": [
+   "#1 太陽 이름을 나르는 소리 · 뜻 고리 없음 — 대문 밖 자리 약속뿐 · 膀胱 물건 없음",
+   "#3 桂枝 사전(계피 나뭇가지 지팡이)과 다른 꼴 · 太陽中風 소리 고리 없음 · 發熱 · 惡風 물건 없음 · 원자 6",
+   "#4 麻黃 사전(땀 흘리는 마왕)과 다른 꼴 · 表實 물건 없음 · 원자 6",
+   "#7 承氣湯 소리 고리 없음 · 大黃 사전(대왕 황소) 안 씀 · 痞滿燥實 물건 없음 · 원자 7"
+  ]
+ },
+ {
+  "lesson": "zds-15",
+  "title": "六經 ② 三陰 — 太陰·少陰(寒化↔熱化)·厥陰 + 傳變(循經·越經·直中)",
+  "chapter": "ch09",
+  "group": "C",
+  "stations": 12,
+  "high": 5,
+  "mid": 3,
+  "codes": {
+   "M": 9,
+   "N": 6,
+   "S": 5,
+   "N′": 2,
+   "G": 1
+  },
+  "cards": 15,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   1,
+   2,
+   8
+  ],
+  "fact_split": [],
+  "picture_atoms": 46,
+  "picture_text_only": 15,
+  "name_reader_named": 16,
+  "name_reader_guess": 0,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "다시 그림",
+  "score": 18,
+  "weight": 15,
+  "high_stations": [
+   4,
+   6,
+   7,
+   8,
+   10
+  ],
+  "notes": [
+   "#4 太陰 이름 소리 · 뜻 고리 없음 — 부엌 자리만 · 원자 5",
+   "#6 理中湯 소리 고리 없음",
+   "#7 四逆湯 · 少陰 소리 고리 없음 · 원자 6 · 脈微細 물건 없음",
+   "#8 黃連 사전(쓴맛 노란 연꽃) 안 씀 · 黃連阿膠湯 · 麻黃附子細辛湯 소리 고리 없음"
+  ]
+ },
+ {
+  "lesson": "zds-16",
+  "title": "溫病 衛氣營血 — 네 단계 × 證·舌·方",
+  "chapter": "ch09",
+  "group": "C",
+  "stations": 12,
+  "high": 0,
+  "mid": 8,
+  "codes": {
+   "M": 8,
+   "S": 7,
+   "N′": 4
+  },
+  "cards": 18,
+  "recorded": 0,
+  "fact_diff": [],
+  "fact_not_in_textbook": [
+   12
+  ],
+  "fact_split": [],
+  "picture_atoms": 41,
+  "picture_text_only": 16,
+  "name_reader_named": 15,
+  "name_reader_guess": 1,
+  "obj_vs_picture_mismatch": 0,
+  "eyes_checked": true,
+  "verdict": "글만 고침",
+  "score": 8,
+  "weight": 18,
+  "high_stations": [],
+  "notes": []
+ }
+]

@@ -1,0 +1,240 @@
+{"lesson": "new-etc-20", "n": 1, "atom": "理氣—陳皮", "carrier": "부채질하는 할머니, 누운 아이의 더부룩한 배, 소쿠리의 마른 주황 귤껍질", "xywh": [499, 262, 570, 435], "count_dir_touch": "아이 1, 귤껍질 여러 조각", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 1, "atom": "靑皮", "carrier": "소쿠리의 작고 푸른 덜 익은 귤", "xywh": [640, 589, 109, 102], "count_dir_touch": "5~6개", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 1, "atom": "枳實", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 1, "atom": "木香", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 1, "atom": "香附子", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 1, "atom": "烏藥", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 2, "atom": "消食—山楂", "carrier": "빨간 산사 탕후루 꼬치", "xywh": [1139, 602, 166, 83], "count_dir_touch": "열매 4", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 2, "atom": "神麴", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 2, "atom": "麥芽", "carrier": "초록 싹이 돋은 보리 다발", "xywh": [1357, 563, 243, 147], "count_dir_touch": "1다발", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 2, "atom": "萊菔子", "carrier": "큰 흰 무(씨앗이 아니라 뿌리)", "xywh": [1338, 512, 154, 128], "count_dir_touch": "무 1", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-20", "n": 2, "atom": "雞內金", "carrier": "평상 아래 모이 쪼는 암탉", "xywh": [1318, 698, 179, 147], "count_dir_touch": "닭 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 3, "atom": "驅蟲—使君子", "carrier": "초록 모기향 연기에 모기 떼가 달아남", "xywh": [122, 422, 416, 173], "count_dir_touch": "모기 4~5", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 3, "atom": "苦楝皮", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 3, "atom": "檳榔", "carrier": "곁 그릇의 갈색 열매", "xywh": [269, 608, 109, 64], "count_dir_touch": "그릇 1", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-20", "n": 3, "atom": "雷丸", "carrier": "작은 번개가 튀는 둥근 공", "xywh": [403, 550, 64, 64], "count_dir_touch": "공 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 4, "atom": "收斂止血—仙鶴草", "carrier": "무릎을 감싼 소녀 곁에 선 하얀 두루미", "xywh": [877, 755, 128, 333], "count_dir_touch": "두루미 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 4, "atom": "白及", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 4, "atom": "藕節", "carrier": "앞 접시의 연근 마디 조각", "xywh": [621, 1037, 122, 77], "count_dir_touch": "접시 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 5, "atom": "凉血止血—大薊", "carrier": "보라 가시 엉겅퀴 꽃(코피 소년의 얼음주머니와 함께)", "xywh": [1216, 934, 211, 205], "count_dir_touch": "꽃 3~4", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 5, "atom": "小薊", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "엉겅퀴는 하나로, 大·小 구분 없음", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 5, "atom": "地楡", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 5, "atom": "槐花", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 5, "atom": "側柏葉", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 5, "atom": "白茅根", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 6, "atom": "化瘀止血—三七", "carrier": "소년 팔에 검게 굳어 엉긴 상처(三七은 안 보임)", "xywh": [1498, 941, 77, 109], "count_dir_touch": "상처 1", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-20", "n": 6, "atom": "蒲黃", "carrier": "연못 부들 이삭에서 날아와 앉는 노란 꽃가루", "xywh": [1722, 915, 275, 179], "count_dir_touch": "부들 3, 가루 여럿", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 6, "atom": "茜草", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 7, "atom": "溫經止血—艾葉", "carrier": "할머니가 소녀 배 가까이에 대 주는 쑥 뭉치", "xywh": [320, 883, 70, 70], "count_dir_touch": "뭉치 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 7, "atom": "伏龍肝", "carrier": "따뜻하게 빛나는 흙 아궁이", "xywh": [0, 691, 160, 410], "count_dir_touch": "아궁이 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 7, "atom": "虛寒", "carrier": "창백하고 파랗게 추워하는 소녀", "xywh": [179, 781, 134, 326], "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 8, "atom": "活血祛瘀—川芎", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 8, "atom": "乳香", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 8, "atom": "沒藥", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 8, "atom": "丹參", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 8, "atom": "益母草", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 8, "atom": "桃仁", "carrier": "뒤의 복숭아 달린 나무", "xywh": [1645, 26, 397, 422], "count_dir_touch": "복숭아 약 12", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 8, "atom": "紅花", "carrier": "소년 정강이 파란 멍에 문지르는 주황빛 잇꽃 기름", "xywh": [1722, 749, 218, 115], "count_dir_touch": "병 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-20", "n": 8, "atom": "牛膝", "carrier": "무릎 꿇고 누운 갈색 소", "xywh": [1587, 346, 397, 198], "count_dir_touch": "소 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 1, "atom": "淸化熱痰—前胡", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 1, "atom": "桔梗", "carrier": "탁자 위 보라 별 모양 도라지꽃", "xywh": [102, 794, 134, 128], "count_dir_touch": "꽃 3", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 1, "atom": "瓜蔞", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 1, "atom": "貝母", "carrier": "바닥의 둥근 흰 비늘줄기(두 비늘이 조개처럼 감쌈)", "xywh": [442, 1024, 128, 83], "count_dir_touch": "구근 5~6", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 1, "atom": "竹茹", "carrier": "바닥의 대나무 깎은 부스러기", "xywh": [288, 1011, 134, 83], "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 1, "atom": "海藻", "carrier": "바닥의 길게 늘어진 다시마류 해초(海藻·昆布로 나뉘지 않음)", "xywh": [19, 1005, 275, 128], "count_dir_touch": "해초 1무더기", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-21", "n": 1, "atom": "昆布", "carrier": "바닥의 긴 다시마", "xywh": [19, 1005, 275, 128], "count_dir_touch": "", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-21", "n": 1, "atom": "淸化熱痰 (전체)", "carrier": "얼굴 붉은 손님이 노란 끈적한 가래를 휴지에 뱉음", "xywh": [45, 422, 538, 666], "count_dir_touch": "휴지 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 2, "atom": "止咳平喘—杏仁", "carrier": "탁자 위 살구 그릇", "xywh": [429, 550, 70, 51], "count_dir_touch": "살구 4~5", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 2, "atom": "百部", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 2, "atom": "紫菀", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 2, "atom": "款冬花", "carrier": "화분의 눈 속을 뚫고 핀 노란 머위꽃", "xywh": [819, 422, 134, 141], "count_dir_touch": "꽃 4", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 2, "atom": "蘇子", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 2, "atom": "桑白皮", "carrier": "초록 뽕잎 가지와 흰 뿌리껍질 띠(뽕잎·껍질)", "xywh": [467, 544, 147, 90], "count_dir_touch": "", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-21", "n": 2, "atom": "葶藶子", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 3, "atom": "安神 重鎭—朱砂", "carrier": "이불 위에 꿰맨 붉은 돌 셋", "xywh": [666, 723, 243, 128], "count_dir_touch": "돌 3", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 3, "atom": "磁石", "carrier": "이불 위 말굽자석", "xywh": [909, 819, 90, 70], "count_dir_touch": "자석 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 3, "atom": "龍骨", "carrier": "이불 위 용(짐승) 뼈", "xywh": [781, 858, 109, 83], "count_dir_touch": "뼈 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 3, "atom": "牡蠣", "carrier": "이불 위 굴 껍데기", "xywh": [902, 915, 77, 51], "count_dir_touch": "1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 3, "atom": "安神 滋養—酸棗仁", "carrier": "둘째 침대 머리맡 접시의 대추씨·작은 씨앗", "xywh": [1318, 730, 83, 38], "count_dir_touch": "접시 1", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-21", "n": 3, "atom": "柏子仁", "carrier": "머리맡 접시의 작은 씨앗(구분 안 됨)", "xywh": [1318, 730, 83, 38], "count_dir_touch": "", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-21", "n": 3, "atom": "遠志", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 4, "atom": "平肝 息風—羚羊角", "carrier": "벽의 영양 뿔", "xywh": [1306, 186, 109, 205], "count_dir_touch": "뿔 2", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 4, "atom": "鉤藤", "carrier": "직원이 쥔 갈고리 달린 덩굴", "xywh": [1203, 320, 339, 352], "count_dir_touch": "덩굴 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 4, "atom": "天麻", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 4, "atom": "全蝎", "carrier": "선반의 장난감 전갈", "xywh": [1472, 186, 90, 70], "count_dir_touch": "1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 4, "atom": "蜈蚣", "carrier": "선반의 지네", "xywh": [1594, 218, 109, 51], "count_dir_touch": "1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 4, "atom": "潛陽—石決明", "carrier": "장군 머리 위에 눌러 놓은 구멍 한 줄 난 귀 모양 전복 껍데기", "xywh": [1542, 326, 122, 64], "count_dir_touch": "1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 4, "atom": "牡蠣", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "이 장면엔 따로 굴 껍데기 없음", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 4, "atom": "代赭石", "carrier": "다른 직원 손의 붉은 돌", "xywh": [1683, 442, 64, 64], "count_dir_touch": "1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 5, "atom": "開竅—麝香", "carrier": "기절한 손님 코밑에 대는 털 난 사향 주머니", "xywh": [1747, 768, 90, 83], "count_dir_touch": "주머니 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 5, "atom": "冰片", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 5, "atom": "石菖蒲", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 5, "atom": "蘇合香", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-21", "n": 5, "atom": "丸散用·煎劑 부적합", "carrier": "곁의 뚜껑 열린 알약 상자와, 끓는 냄비에서 허공으로 날아가는 향", "xywh": [1702, 947, 333, 192], "count_dir_touch": "알약 상자 1, 냄비 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 1, "atom": "補陽—鹿茸", "carrier": "탁자 위 뭉툭한 갈색 어린 사슴뿔", "xywh": [550, 506, 134, 77], "count_dir_touch": "뿔 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 1, "atom": "巴戟天", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 1, "atom": "肉蓯蓉", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 1, "atom": "淫羊藿", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 1, "atom": "杜仲", "carrier": "찢으면 흰 실이 늘어나는 나무껍질", "xywh": [666, 538, 141, 90], "count_dir_touch": "껍질 2~3조각", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 1, "atom": "補骨脂", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 1, "atom": "冬蟲夏草", "carrier": "머리에 풀싹이 난 애벌레", "xywh": [474, 563, 83, 64], "count_dir_touch": "1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 2, "atom": "補陰—沙參", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 2, "atom": "麥門冬", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 2, "atom": "天門冬", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 2, "atom": "石斛", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 2, "atom": "枸杞子", "carrier": "빨간 구기자 접시", "xywh": [1171, 474, 70, 45], "count_dir_touch": "접시 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 2, "atom": "龜板", "carrier": "거북 등딱지 바늘꽂이", "xywh": [858, 467, 115, 70], "count_dir_touch": "1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 2, "atom": "鱉甲", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "거북 하나뿐, 鱉甲과 구분 안 됨", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 2, "atom": "補陰 (전체)", "carrier": "조수가 얇게 해진 비단 옷을 촉촉한 파란 비단실로 기움", "xywh": [858, 205, 410, 397], "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 3, "atom": "補益 주의①—見藥不見人", "carrier": "견습생이 고개를 숙여 천 조각만 보며 튼튼한 아저씨 새 셔츠 팔에 헝겊을 덧대고 아저씨는 어리둥절", "xywh": [1344, 128, 461, 486], "count_dir_touch": "사람 2", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 4, "atom": "補益 주의②—閉門留寇", "carrier": "소녀가 찢어진 자루를 꿰매 닫는데 안에 회색 쥐가 갇힘", "xywh": [1395, 442, 378, 333], "count_dir_touch": "쥐 1, 자루 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 5, "atom": "補益 주의③—虛不受補", "carrier": "소년이 든 얇게 삭은 천에 두껍고 무거운 갈색 가죽 덧대기를 달자 둘레가 더 찢어짐", "xywh": [1766, 371, 262, 320], "count_dir_touch": "덧대기 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 6, "atom": "止汗—浮小麥", "carrier": "물에 둥둥 뜬 밀알 그릇과 땀 닦는 아저씨", "xywh": [19, 659, 531, 474], "count_dir_touch": "그릇 1, 밀알 여럿", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 6, "atom": "麻黃根", "carrier": "가는 갈색 뿌리 다발", "xywh": [19, 1024, 243, 115], "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 7, "atom": "止瀉—訶子", "carrier": "쭈글쭈글 마른 열매(콩이 새는 자루 곁)", "xywh": [800, 1056, 115, 77], "count_dir_touch": "", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-22", "n": 7, "atom": "肉豆蔲", "carrier": "갈색 육두구", "xywh": [838, 1062, 90, 64], "count_dir_touch": "", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-22", "n": 7, "atom": "赤石脂", "carrier": "붉은 흙돌", "xywh": [966, 1056, 102, 70], "count_dir_touch": "1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 7, "atom": "烏梅", "carrier": "검은 매실 접시", "xywh": [614, 1030, 160, 83], "count_dir_touch": "접시 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 7, "atom": "五倍子", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 7, "atom": "止瀉 (전체)", "carrier": "콩이 새어 흩어진 삼베 자루 밑을 꿰매는 남자", "xywh": [602, 614, 506, 512], "count_dir_touch": "남자 1, 자루 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 8, "atom": "澀精縮尿止帶—五味子", "carrier": "주둥이 끈을 꽉 졸라맨 작은 천 주머니 곁 빨간 열매 송이", "xywh": [1165, 838, 205, 192], "count_dir_touch": "주머니 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 8, "atom": "蓮子肉", "carrier": "흰 연밥 알", "xywh": [1363, 934, 90, 90], "count_dir_touch": "5~6", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 8, "atom": "芡實", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 8, "atom": "山茱萸", "carrier": "곁의 빨간 열매 둘(작음)", "xywh": [1286, 1005, 58, 38], "count_dir_touch": "", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-22", "n": 8, "atom": "金櫻子", "carrier": "가시 돋은 주황 열매", "xywh": [1427, 1030, 109, 90], "count_dir_touch": "3", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 8, "atom": "桑螵蛸", "carrier": "거품 같은 사마귀 알집 달린 가지", "xywh": [1216, 1011, 243, 77], "count_dir_touch": "알집 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 9, "atom": "涌吐—瓜蒂", "carrier": "긴 꼭지 달린 노란 참외", "xywh": [1702, 1050, 154, 83], "count_dir_touch": "1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 9, "atom": "常山", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 9, "atom": "膽礬", "carrier": "파란 결정", "xywh": [1933, 1024, 77, 109], "count_dir_touch": "1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 9, "atom": "藜蘆", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-22", "n": 9, "atom": "涌吐 (전체)", "carrier": "단추를 삼킨 아이가 그릇에 단추를 토하고 할머니가 등을 두드림", "xywh": [1568, 691, 467, 448], "count_dir_touch": "단추 1, 그릇 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 1, "atom": "補氣藥—人參", "carrier": "커다란 사람 모양 인삼", "xywh": [19, 486, 237, 333], "count_dir_touch": "1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 1, "atom": "黨參", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 1, "atom": "黃芪", "carrier": "노란 뿌리 묶음(이름 글자 없음)", "xywh": [128, 506, 211, 134], "count_dir_touch": "", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "hp-05", "n": 1, "atom": "白朮", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 1, "atom": "山藥", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 1, "atom": "甘草", "carrier": "감초 막대 다발 둘", "xywh": [19, 723, 339, 102], "count_dir_touch": "다발 2", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 1, "atom": "大棗", "carrier": "그릇의 붉은 대추", "xywh": [192, 659, 134, 90], "count_dir_touch": "그릇 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 1, "atom": "補氣 (전체)", "carrier": "좌판 위 둥실 뜬 풍선 다발(氣=바람 은유)", "xywh": [45, 6, 416, 346], "count_dir_touch": "풍선 약 10", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "hp-05", "n": 2, "atom": "溫裏藥—附子", "carrier": "울퉁불퉁한 검은 뿌리", "xywh": [403, 659, 147, 115], "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 2, "atom": "乾薑", "carrier": "말린 생강 조각", "xywh": [550, 646, 128, 102], "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 2, "atom": "肉桂", "carrier": "말아 놓은 계피", "xywh": [659, 685, 90, 77], "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 2, "atom": "吳茱萸", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 2, "atom": "丁香", "carrier": "정향 접시", "xywh": [570, 730, 83, 45], "count_dir_touch": "접시 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 2, "atom": "溫裏 (전체)", "carrier": "벌건 숯 화로", "xywh": [410, 378, 160, 269], "count_dir_touch": "화로 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 3, "atom": "回陽救逆—眞寒 위급", "carrier": "손발에 고드름과 서리가 앉은 손님이 김 나는 그릇을 마심(볼에는 온기)", "xywh": [704, 653, 230, 467], "count_dir_touch": "1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 3, "atom": "亡陽·四肢厥冷", "carrier": "서리 앉은 손과 발", "xywh": [710, 781, 218, 333], "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 3, "atom": "四逆湯(附子)", "carrier": "김 나는 그릇(손님이 마심). 附子는 둘째 좌판에 따로 있고 같은 그릇 속 재료는 안 보임", "xywh": [717, 806, 77, 64], "count_dir_touch": "", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "hp-05", "n": 4, "atom": "先煎—광석", "carrier": "끓는 냄비 속 조약돌", "xywh": [589, 486, 154, 77], "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 4, "atom": "先煎—패각", "carrier": "냄비 속 조개껍데기", "xywh": [602, 493, 77, 64], "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 4, "atom": "先煎—독성약", "carrier": "냄비 속 거친 검은 덩어리", "xywh": [685, 467, 58, 58], "count_dir_touch": "", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "hp-05", "n": 4, "atom": "石膏", "carrier": "냄비 속 조약돌 같은 흰 돌(구분 안 됨)", "xywh": [589, 486, 154, 77], "count_dir_touch": "", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "hp-05", "n": 4, "atom": "牡蠣", "carrier": "냄비 속 조개껍데기", "xywh": [602, 493, 77, 64], "count_dir_touch": "", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "hp-05", "n": 4, "atom": "生草烏", "carrier": "거친 검은 덩어리", "xywh": [685, 467, 58, 58], "count_dir_touch": "", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "hp-05", "n": 5, "atom": "補血藥—當歸", "carrier": "작은 집 그림 팻말(歸=돌아감)과 갈래진 갈색 뿌리", "xywh": [883, 384, 160, 294], "count_dir_touch": "팻말 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 5, "atom": "熟地黃", "carrier": "새까만 찐 뿌리", "xywh": [1037, 582, 154, 83], "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 5, "atom": "白芍", "carrier": "흰 뿌리", "xywh": [883, 659, 154, 115], "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 5, "atom": "何首烏", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 5, "atom": "阿膠", "carrier": "갈색 아교 덩이", "xywh": [1043, 678, 128, 90], "count_dir_touch": "덩이 3", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 5, "atom": "龍眼肉", "carrier": "동그란 용안 열매", "xywh": [1152, 672, 90, 115], "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 6, "atom": "氣能生血—當歸補血湯", "carrier": "바구니의 노란 뿌리와 갈색 뿌리", "xywh": [1088, 819, 205, 250], "count_dir_touch": "노란 4 + 갈색 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 6, "atom": "黃芪:當歸=5:1", "carrier": "노란 뿌리 4 대 갈색 뿌리 1(5:1 아님)", "xywh": [1088, 819, 205, 250], "count_dir_touch": "4 대 1", "obj_missing": "물건 수가 5:1이 아니라 4:1", "confidence": "높음"}
+{"lesson": "hp-05", "n": 7, "atom": "攻下藥—大黃", "carrier": "굵은 대황 줄기와 큰 잎", "xywh": [1203, 435, 288, 352], "count_dir_touch": "줄기 3~4", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 7, "atom": "芒硝", "carrier": "흰 결정 더미", "xywh": [1453, 672, 128, 77], "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 7, "atom": "蘆薈", "carrier": "알로에 화분", "xywh": [1568, 659, 122, 122], "count_dir_touch": "1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 7, "atom": "瀉下攻積", "carrier": "카운터 위 뚫어뻥과 배수관에서 갈색 덩어리가 아래로 빠져 내려감", "xywh": [1402, 582, 256, 499], "count_dir_touch": "덩어리 2~3", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 8, "atom": "後下—薄荷·砂仁", "carrier": "끓는 냄비에 맨 마지막으로 넣는 싱싱한 박하 잎과 피어오르는 향, 울리는 자명종(砂仁은 구분 안 됨)", "xywh": [1530, 371, 275, 301], "count_dir_touch": "잎 4~5, 자명종 1", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "hp-05", "n": 9, "atom": "溫化寒痰藥—半夏", "carrier": "작은 흰 덩이줄기", "xywh": [1754, 582, 128, 115], "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 9, "atom": "天南星", "carrier": "별 모양 열매(南星=별로 짐작)", "xywh": [1920, 685, 122, 102], "count_dir_touch": "1~2", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "hp-05", "n": 9, "atom": "白附子", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 9, "atom": "白芥子", "carrier": "흰 겨자씨 그릇", "xywh": [1830, 666, 90, 77], "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 9, "atom": "皂莢", "carrier": "길고 검은 꼬투리", "xywh": [1754, 698, 154, 115], "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "hp-05", "n": 9, "atom": "溫化寒痰 (전체)", "carrier": "따뜻한 전등 아래 그릇에서 묽어져 넘쳐흐르는 끈적한 흰 점액", "xywh": [1882, 371, 166, 301], "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 1, "atom": "기원설 ① 經驗說 — 생활 경험의 축적", "carrier": "동굴 앞 털옷 원시인들이 고기를 굽고 풀잎을 씹으며 돌연장을 씀", "xywh": [0, 365, 301, 410], "count_dir_touch": "원시인 2", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 2, "atom": "기원설 ② 巫醫說 — 醫起于巫(샤머니즘)", "carrier": "가면 쓴 무당이 북을 치며 누운 병자 위에서 춤춤", "xywh": [294, 346, 243, 314], "count_dir_touch": "무당 1, 병자 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 3, "atom": "기원설 ③ 聖人創製說", "carrier": "무대 위 성인 다섯", "xywh": [557, 262, 710, 288], "count_dir_touch": "사람 5", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 3, "atom": "神農 — 약물", "carrier": "풀잎 망토로 약초를 씹는 사람", "xywh": [563, 275, 109, 269], "count_dir_touch": "1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 3, "atom": "伏羲 — 목축", "carrier": "뱀 꼬리에 잎 망토로 양을 모는 사람", "xywh": [666, 269, 237, 275], "count_dir_touch": "양 2", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 3, "atom": "燧人 — 用火", "carrier": "막대를 돌려 불을 일으키는 사람", "xywh": [883, 288, 128, 262], "count_dir_touch": "불 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 3, "atom": "黃帝 · 岐伯 — 이론 · 침구", "carrier": "노란 옷 임금과 두루마리·긴 침을 든 흰 수염 노인", "xywh": [1005, 262, 256, 275], "count_dir_touch": "사람 2, 두루마리 1, 침 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 4, "atom": "殷 尙書 盤庚 — 心腹腎腸(內臟名)", "carrier": "나무 인체판에 심장·배(위)·콩팥·창자만 그림", "xywh": [1126, 531, 128, 243], "count_dir_touch": "장기 4", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 4, "atom": "甲骨卜辭", "carrier": "불 위에 거북 등딱지를 든 점쟁이", "xywh": [595, 582, 294, 198], "count_dir_touch": "등딱지 1, 불 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 4, "atom": "疒 — 질병명 20여 종", "carrier": "침대에서 몸을 일으켜 기댄 병자(疒 글자·20여 종은 안 보임)", "xywh": [883, 531, 256, 192], "count_dir_touch": "병자 1", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-01", "n": 5, "atom": "食醫", "carrier": "국그릇을 든 요리사 의사", "xywh": [698, 800, 122, 262], "count_dir_touch": "그릇 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 5, "atom": "疾醫", "carrier": "손 모은 의사", "xywh": [819, 806, 122, 262], "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 5, "atom": "瘍醫", "carrier": "작은 칼을 든 의사", "xywh": [954, 774, 122, 294], "count_dir_touch": "칼 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 5, "atom": "獸醫", "carrier": "말 곁의 의사", "xywh": [1069, 819, 166, 250], "count_dir_touch": "말 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 5, "atom": "鍼醫", "carrier": "가는 침을 든 의사", "xywh": [1248, 806, 128, 262], "count_dir_touch": "침 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 5, "atom": "灸醫", "carrier": "맨등 환자 곁 연기 나는 뜸대", "xywh": [1363, 806, 141, 256], "count_dir_touch": "뜸대 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 5, "atom": "按摩", "carrier": "환자의 어깨를 주무르는 손", "xywh": [1453, 813, 77, 160], "count_dir_touch": "손 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 5, "atom": "咒禁醫", "carrier": "노란 부적을 든 노인", "xywh": [1574, 813, 141, 256], "count_dir_touch": "부적 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 6, "atom": "鄒衍 — 戰國 陰陽家", "carrier": "연줄에 매달린 무거운 쇠 추(鄒=추 소리)", "xywh": [1389, 621, 58, 58], "count_dir_touch": "추 1", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-01", "n": 6, "atom": "陰陽說 + 五行說 결합", "carrier": "흑백 태극 얼굴 연에 다섯 색 꼬리", "xywh": [1312, 186, 198, 224], "count_dir_touch": "꼬리 5색", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 7, "atom": "扁鵲 — 납작 까치", "carrier": "지붕 위에 날개를 펴고 납작 엎드린 까치", "xywh": [1542, 211, 256, 128], "count_dir_touch": "까치 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 7, "atom": "切脈 — 손목", "carrier": "의사가 환자 손목을 짚음", "xywh": [1523, 550, 192, 115], "count_dir_touch": "손 닿음 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 7, "atom": "望色 — 얼굴", "carrier": "의사가 환자 얼굴을 봄", "xywh": [1523, 538, 102, 90], "count_dir_touch": "", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-01", "n": 7, "atom": "聽聲", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 7, "atom": "寫形", "carrier": "곁 이젤의 환자 몸 윤곽 그림", "xywh": [1702, 486, 96, 192], "count_dir_touch": "그림 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 7, "atom": "扁鵲 不待", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 8, "atom": "山海經 — 작자 미상 고대 지리서", "carrier": "얼굴 없는 두건 쓴 사람이 산과 바다 지도를 펼쳐 듦", "xywh": [1850, 518, 179, 173], "count_dir_touch": "지도 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 8, "atom": "扁鵲 저서 아님", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 9, "atom": "馬王堆 帛書 足臂 · 陰陽十一脈灸經", "carrier": "언덕 무덤 앞 선만 그어진 비단 두루마리들(꼭대기에 돌 말과 돌 임금)", "xywh": [1709, 224, 333, 666], "count_dir_touch": "두루마리 3", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-01", "n": 9, "atom": "脈名만", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 9, "atom": "穴名 없음", "carrier": "두루마리의 선만 있고 점(穴)이 없음", "xywh": [1715, 742, 192, 147], "count_dir_touch": "", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-01", "n": 9, "atom": "臟腑 絡屬 없음", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 10, "atom": "漢書 藝文志", "carrier": "서가의 금메달과 노란 끈 묶은 죽간 묶음", "xywh": [1792, 698, 256, 422], "count_dir_touch": "죽간 묶음 3~4, 메달 1", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-01", "n": 10, "atom": "黃帝內經 十八卷 첫 기록", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "열여덟을 세는 표시 없음", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 10, "atom": "經方 서적 처음 수록", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-01", "n": 10, "atom": "內經 13方", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-02", "n": 1, "atom": "崔嘉彦 紫虛脈訣", "carrier": "거대 흰 어금니 · 붉은 입술 · 큰 가위 · 자주색 허리띠 · 맥박선이 그려진 책", "xywh": [370, 34, 808, 791], "count_dir_touch": "어금니 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-02", "n": 1, "atom": "28종 脈象", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "28을 세는 표시 없음", "confidence": "높음"}
+{"lesson": "new-etc-02", "n": 1, "atom": "南宋", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-02", "n": 2, "atom": "施發 察病指南", "carrier": "빨간 신발 모자를 쓴 의원, 양끝 삼지창 바늘 놋쇠 나침반, 물결 맥 그림 책", "xywh": [1539, 34, 1015, 826], "count_dir_touch": "신발 1, 나침반 1, 책 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-02", "n": 2, "atom": "33종 脈圖", "carrier": "펼친 책의 물결 맥 그림(33을 세는 표시 없음)", "xywh": [1737, 550, 654, 189], "count_dir_touch": "", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-02", "n": 2, "atom": "以圖視脈", "carrier": "물결 모양 맥을 그림으로 펼쳐 보는 책", "xywh": [1737, 550, 654, 189], "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-02", "n": 3, "atom": "陳自明(자 良甫)", "carrier": "진주 목걸이와 황금 자명종을 찬 부인(良甫 글자는 안 보임)", "xywh": [146, 611, 740, 920], "count_dir_touch": "", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-02", "n": 3, "atom": "婦人大全良方", "carrier": "부인이 큰 궁전과 약꽃이 새겨진 붉은 책을 읽음", "xywh": [292, 1049, 499, 370], "count_dir_touch": "책 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-02", "n": 3, "atom": "宋 · 金 · 元 부인과 대표서", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-02", "n": 4, "atom": "劉昉 幼幼新書", "carrier": "젖소 무늬 방석·우유 병 2·우유 팩 곁의 의원, 금 리본 새 책", "xywh": [972, 628, 1144, 894], "count_dir_touch": "병 2, 팩 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-02", "n": 4, "atom": "虎口三關指紋法", "carrier": "책 속 아기 손과 검지(세 마디 핏줄 그림)", "xywh": [1479, 886, 464, 344], "count_dir_touch": "손 1, 검지 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-02", "n": 4, "atom": "南宋", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-02", "n": 5, "atom": "董汲 小兒斑疹備急方", "carrier": "얼굴·머리에 붉은 반점이 가득한 동자승, 경광등 달린 빨간 십자 구급 책", "xywh": [2116, 869, 490, 628], "count_dir_touch": "반점 여러 개, 경광등 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-02", "n": 5, "atom": "錢乙 後序", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-02", "n": 5, "atom": "小兒藥證直訣과 구별", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-03", "n": 1, "atom": "朱肱 南陽活人書", "carrier": "구리 주전자를 머리에 쓰고 곡괭이를 든 의원이 태양 그려진 빛나는 책을 펼침, 오색 선이 얼음 인형에 흘러 녹여 살림", "xywh": [34, 301, 817, 1187], "count_dir_touch": "인형 1, 책 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-03", "n": 1, "atom": "傷寒 六經을 經絡으로 인식", "carrier": "책에서 얼음 인형 몸으로 이어지는 빛나는 선 여섯 줄(보라·파랑·초록·노랑·주황·붉은 주황)", "xywh": [396, 860, 301, 404], "count_dir_touch": "선 6", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-03", "n": 2, "atom": "郭雍 傷寒補亡論", "carrier": "곽티슈 상자를 머리에 쓰고 큰 옹기 뒤에 선 의원이 얼음 맺힌 책 곁에서 천을 기워 붙임", "xywh": [800, 361, 576, 1058], "count_dir_touch": "티슈 1, 옹기 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-03", "n": 2, "atom": "傷寒論 缺脫 보충", "carrier": "얼음 맺히고 구멍 난 책에 노란 천을 덧대 기움", "xywh": [817, 817, 490, 275], "count_dir_touch": "구멍 1, 천 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-03", "n": 2, "atom": "五種 斑疹", "carrier": "노란 천의 얼룩 반점이 다섯이 아니라 여섯(빨강 1·보라 2·분홍 3)", "xywh": [937, 817, 353, 258], "count_dir_touch": "반점 6", "obj_missing": "반점이 다섯 아닌 여섯", "confidence": "높음"}
+{"lesson": "new-etc-03", "n": 3, "atom": "楊士瀛 仁齋直指方", "carrier": "머리 위에 흰 양을 얹고 영사기를 든 의원이 펼친 책을 손가락으로 곧장 가리킴", "xywh": [1273, 344, 714, 1101], "count_dir_touch": "양 1, 영사기 1, 손가락 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-03", "n": 3, "atom": "傷寒類證活人總括", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-03", "n": 3, "atom": "氣者血之帥", "carrier": "장군 투구를 쓴 흰 풍선(氣)과 그 뒤를 줄지어 따르는 붉은 핏방울", "xywh": [1281, 344, 224, 318], "count_dir_touch": "풍선 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-03", "n": 3, "atom": "氣行則血行", "carrier": "풍선 쪽으로 핏방울이 줄지어 따라가는 모양", "xywh": [1428, 645, 224, 456], "count_dir_touch": "핏방울 7~8", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-03", "n": 4, "atom": "尤怡(尤在涇)", "carrier": "노란 우비를 입은 의원", "xywh": [2176, 404, 533, 980], "count_dir_touch": "사람 1", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-03", "n": 4, "atom": "傷寒貫珠集", "carrier": "파란 구슬을 꿴 얼음 책", "xywh": [2184, 688, 215, 370], "count_dir_touch": "구슬 여러 개, 책 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-03", "n": 4, "atom": "金匱要略心典", "carrier": "붉은 하트가 박힌 금빛 궤짝 모양 책", "xywh": [2451, 679, 249, 275], "count_dir_touch": "책 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-03", "n": 4, "atom": "醫學讀書記", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "책은 둘뿐, 셋째 책 없음", "confidence": "높음"}
+{"lesson": "new-etc-03", "n": 4, "atom": "淸", "carrier": "맑은 유리 방", "xywh": [1737, 344, 430, 1032], "count_dir_touch": "유리 벽 1", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-04", "n": 1, "atom": "兩晉隋唐", "carrier": "진달래 두 덤불 · 파란 수국 · 막대사탕 셋(이름 소리로만 짝)", "xywh": [0, 86, 929, 705], "count_dir_touch": "진달래 2무더기, 사탕 3", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-04", "n": 1, "atom": "임상경험 · 方書 대량 출현", "carrier": "산더미처럼 쌓인 책", "xywh": [155, 413, 275, 327], "count_dir_touch": "책 9~10권", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-04", "n": 1, "atom": "이론 · 진단 정체", "carrier": "거미줄 친 모래시계", "xywh": [619, 490, 189, 181], "count_dir_touch": "1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-04", "n": 1, "atom": "石藥服用 괴벽", "carrier": "학자가 주먹만 한 회색 돌을 삼키려 함", "xywh": [224, 112, 413, 361], "count_dir_touch": "돌 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-04", "n": 2, "atom": "嚴用和 濟生方", "carrier": "분홍 엄마 앞치마를 두르고 구명 튜브를 멘 초록 용", "xywh": [1015, 43, 533, 740], "count_dir_touch": "용 1, 구명 튜브 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-04", "n": 2, "atom": "補脾不若補腎", "carrier": "발치의 화살·빈 노란 그릇을 건너뛰고 붉은 쌍 콩팥에 보약을 부음", "xywh": [1049, 370, 654, 447], "count_dir_touch": "콩팥 2, 그릇 1(빈), 화살 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-04", "n": 2, "atom": "許叔微 本事方 · 張銳 鷄峰普濟方과 구별", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-04", "n": 2, "atom": "宋", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-04", "n": 3, "atom": "危亦林 世醫得效方", "carrier": "들보 위 역기 도르래에 매달린 뼈와 생크림 짤주머니가 크림을 바름, 머리 위 숲", "xywh": [1978, 17, 757, 757], "count_dir_touch": "뼈 1, 역기 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-04", "n": 3, "atom": "骨折 懸吊復位", "carrier": "도르래 끈으로 매달린 뼈(아래 한쪽 끝에 크림 바름)", "xywh": [2167, 198, 482, 490], "count_dir_touch": "뼈 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-04", "n": 3, "atom": "麻醉法", "carrier": "보라 마취 약초 곁에서 잠든 환자", "xywh": [2167, 542, 568, 224], "count_dir_touch": "환자 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-04", "n": 3, "atom": "元", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-04", "n": 4, "atom": "朱橚", "carrier": "보자기 두른 사람 키의 초대형 책을 짚은 학자(이름 글자 없음)", "xywh": [26, 808, 791, 705], "count_dir_touch": "책 1", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-04", "n": 4, "atom": "普濟方 168권", "carrier": "초대형 책 하나(168을 세는 표시 없음)", "xywh": [396, 808, 396, 619], "count_dir_touch": "책 1", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-04", "n": 4, "atom": "救荒本草", "carrier": "주걱 위 숙주나물을 들풀 책 위에 올림", "xywh": [224, 1264, 585, 258], "count_dir_touch": "주걱 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-04", "n": 4, "atom": "중국 최대 方書", "carrier": "사람 키보다 큰 책", "xywh": [396, 808, 396, 619], "count_dir_touch": "", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-04", "n": 5, "atom": "吳崑", "carrier": "붉은 곤봉을 멘 빨간 오징어(이름은 소리로만)", "xywh": [1032, 826, 722, 705], "count_dir_touch": "오징어 1, 곤봉 1", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-etc-04", "n": 5, "atom": "醫方考", "carrier": "오징어가 큰 돋보기로 살피는 펼친 책", "xywh": [1101, 1118, 568, 344], "count_dir_touch": "책 1, 돋보기 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-04", "n": 5, "atom": "門 분류", "carrier": "펼친 책 안의 작은 나무 문 칸막이", "xywh": [1101, 1127, 550, 327], "count_dir_touch": "문 8 안팎", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-04", "n": 5, "atom": "原典 72門 · 요약 7門", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "72와 7을 세는 표시 없음", "confidence": "높음"}
+{"lesson": "new-etc-04", "n": 6, "atom": "張錫純 醫學衷中參西錄", "carrier": "노란 장화 신은 빨간 코 순록 의사가 U자 자석·한약 탕기·청진기가 한 표지에 합쳐진 책을 듦", "xywh": [2150, 774, 447, 740], "count_dir_touch": "책 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-04", "n": 6, "atom": "中西結合의 선구", "carrier": "한 표지에 자석·탕기·청진기가 같이 그려짐", "xywh": [2236, 1049, 292, 258], "count_dir_touch": "3", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-etc-04", "n": 6, "atom": "淸末民初", "carrier": "맑은 유리 방 앞", "xywh": [1978, 791, 774, 722], "count_dir_touch": "", "obj_missing": "", "confidence": "낮음"}

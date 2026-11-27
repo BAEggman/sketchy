@@ -1,0 +1,8422 @@
+{
+ "bundle": "L5",
+ "pass": "a",
+ "chapters": [
+  "ch06"
+ ],
+ "items": [
+  {
+   "line": 2118,
+   "end": 2118,
+   "kind": "정의",
+   "term": "藏象 藏居於內 象見於外",
+   "where": [
+    "new-zj-01#2",
+    "new-zj-01#9"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2119,
+   "end": 2119,
+   "kind": "정의",
+   "term": "生理病理의 外的反映",
+   "where": [
+    "new-zj-01#2"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2120,
+   "end": 2120,
+   "kind": "정의",
+   "term": "藏=五臟六腑 象=形態機能",
+   "where": [
+    "new-zj-01#2",
+    "new-zj-01#9"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2122,
+   "end": 2122,
+   "kind": "번호",
+   "term": "形成基礎 3(解剖 관찰 경험",
+   "where": [
+    "new-zj-01#2",
+    "new-zj-01#9"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2123,
+   "end": 2123,
+   "kind": "정의",
+   "term": "基本特徵 五臟中心 整體觀",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 총론 슬로건 한 줄(내용은 2125-2127에 있음) [문제집 L3044행에 같은 말 있음]"
+  },
+  {
+   "line": 2125,
+   "end": 2125,
+   "kind": "번호",
+   "term": "整體觀㉠ 表裏 4갈래",
+   "where": [
+    "new-zj-01#8",
+    "new-zj-01#9",
+    "new-zj-14#5",
+    "new-zj-14#9"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2126,
+   "end": 2126,
+   "kind": "번호",
+   "term": "整體觀㉡ 五臟 形體諸竅",
+   "where": [
+    "zds-01#1",
+    "zds-01#2",
+    "zds-01#3",
+    "zds-02#1",
+    "zds-03#1",
+    "zds-04#1",
+    "zds-05#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2127,
+   "end": 2127,
+   "kind": "번호",
+   "term": "整體觀㉢ 五臟 精神情志",
+   "where": [
+    "new-zj-08#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2128,
+   "end": 2128,
+   "kind": "정의",
+   "term": "臟象 3분류",
+   "where": [
+    "new-zj-09#1",
+    "new-zj-11#0",
+    "new-zj-11#1",
+    "zds-02#1",
+    "new-zj-10#0",
+    "new-zj-09#0"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2130,
+   "end": 2130,
+   "kind": "※",
+   "term": "臟 藏精氣而不瀉 滿而不實",
+   "where": [
+    "new-zj-01#3",
+    "new-zj-01#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2131,
+   "end": 2131,
+   "kind": "※",
+   "term": "腑 傳化物而不藏 實而不滿",
+   "where": [
+    "new-zj-01#4",
+    "new-zj-01#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2132,
+   "end": 2132,
+   "kind": "※",
+   "term": "奇恒之府 形腑 能臟",
+   "where": [
+    "new-zj-09#1",
+    "new-zj-11#0",
+    "new-zj-11#1",
+    "new-zj-11#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2134,
+   "end": 2134,
+   "kind": "번호",
+   "term": "五臟 藏精神氣血魂魄(本藏)",
+   "where": [
+    "new-zj-01#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2135,
+   "end": 2135,
+   "kind": "번호",
+   "term": "五臟 滿而不能實(五藏別論)",
+   "where": [
+    "new-zj-01#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2136,
+   "end": 2136,
+   "kind": "번호",
+   "term": "五臟 相互生成制約",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 五臟 공통점 총론 줄, 相生相剋은 5장(yyox)에서 [문제집 L252,L432,L435행에 같은 말 있음]"
+  },
+  {
+   "line": 2137,
+   "end": 2137,
+   "kind": "번호",
+   "term": "五臟 生理病理의 중심",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 총론 슬로건 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2139,
+   "end": 2139,
+   "kind": "번호",
+   "term": "六腑 化水穀而行津液(本藏)",
+   "where": [
+    "new-zj-01#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2140,
+   "end": 2140,
+   "kind": "번호",
+   "term": "六腑 傳化物而不藏(五藏別論)",
+   "where": [
+    "new-zj-01#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2141,
+   "end": 2141,
+   "kind": "※",
+   "term": "六腑 以降爲順 以通爲用",
+   "where": [
+    "new-zj-01#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2142,
+   "end": 2142,
+   "kind": "번호",
+   "term": "各腑 사이 移動消化 관계",
+   "where": [
+    "new-zj-09#0",
+    "new-zj-09#10"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2143,
+   "end": 2143,
+   "kind": "※",
+   "term": "傳化之府 胃大小腸三焦膀胱",
+   "where": [
+    "new-zj-11#2"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2145,
+   "end": 2145,
+   "kind": "※",
+   "term": "倉廩之本 六기관(六節藏象論)",
+   "where": [
+    "zds-06#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2146,
+   "end": 2146,
+   "kind": "※",
+   "term": "臟腑 근본 구별 貯藏化生/轉",
+   "where": [
+    "new-zj-01#3",
+    "new-zj-01#4"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2147,
+   "end": 2147,
+   "kind": "※",
+   "term": "藏 貯藏 靜 內守 / 生財",
+   "where": [
+    "new-zj-01#7",
+    "new-zj-01#9"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2148,
+   "end": 2148,
+   "kind": "※",
+   "term": "府 充庫 動 主外 / 用之",
+   "where": [
+    "new-zj-01#7",
+    "new-zj-01#9"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2149,
+   "end": 2149,
+   "kind": "번호",
+   "term": "乙癸同源 肝腎同治 精血互化",
+   "where": [
+    "new-zj-14#7",
+    "new-zj-14#8",
+    "new-zj-14#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2150,
+   "end": 2150,
+   "kind": "번호",
+   "term": "水火相濟(水火旣濟 心腎相交)",
+   "where": [
+    "new-zj-13#1",
+    "zds-07#0",
+    "zds-07#6",
+    "zds-07#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2152,
+   "end": 2152,
+   "kind": "※",
+   "term": "腎陰上滋心 心火下交腎",
+   "where": [
+    "zds-07#6",
+    "new-zj-13#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2153,
+   "end": 2153,
+   "kind": "번호",
+   "term": "心陽下助腎陽·相互制約·陰陽平",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 2152 水火相濟 요약의 되풀이 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2155,
+   "end": 2155,
+   "kind": "번호",
+   "term": "臟象발전① 內經이전 체계 없",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 한 줄 연표, 문제집 출제 흔적 없음 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2156,
+   "end": 2156,
+   "kind": "번호",
+   "term": "臟象발전② 臟象 첫 등장 六",
+   "where": [
+    "zds-02#1",
+    "new-zj-09#1",
+    "zds-06#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2157,
+   "end": 2157,
+   "kind": "번호",
+   "term": "臟象발전③ 難經 解剖形態機能",
+   "where": [
+    "new-zj-07#1",
+    "new-zj-07#2",
+    "new-zj-07#6",
+    "new-zj-01#2",
+    "new-zj-01#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2158,
+   "end": 2158,
+   "kind": "번호",
+   "term": "難經 左腎右命門·腎間動氣·奇",
+   "where": [
+    "new-zj-07#2",
+    "new-zj-07#6",
+    "hist-01a#3",
+    "hist-01a#11",
+    "hist-08b#3",
+    "mer-13#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2159,
+   "end": 2159,
+   "kind": "번호",
+   "term": "臟象발전④ 張仲景 傷寒雜病論",
+   "where": [
+    "hist-01b#1",
+    "hist-01b#7",
+    "hist-01b#10"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2160,
+   "end": 2160,
+   "kind": "번호",
+   "term": "臟象발전⑤ 皇甫謐 甲乙經 3",
+   "where": [
+    "pilot-xue#0",
+    "pilot-xue#2",
+    "pilot-xue#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2161,
+   "end": 2161,
+   "kind": "번호",
+   "term": "臟象발전⑥ 孫思邈 千金方 臟",
+   "where": [
+    "hist-03a#2"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2162,
+   "end": 2162,
+   "kind": "번호",
+   "term": "臟象발전⑦ 宋慈 洗寃錄 檢骨",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 臟象 발전 연표(2155-2166) 한 장; 의학사 장에도 洗寃錄 없음 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2163,
+   "end": 2163,
+   "kind": "번호",
+   "term": "臟象발전⑧ 金元 劉李朱滑",
+   "where": [
+    "hist-08a#6",
+    "hist-06a#7",
+    "hist-06a#10",
+    "hist-03a#4",
+    "hist-07b#4",
+    "hist-07b#5"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2164,
+   "end": 2164,
+   "kind": "번호",
+   "term": "臟象발전⑨ 明 孫趙張李",
+   "where": [
+    "new-zj-07#3",
+    "new-zj-07#6",
+    "new-zj-07#2",
+    "hist-08b#1",
+    "hist-08b#2",
+    "hist-08b#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2165,
+   "end": 2165,
+   "kind": "번호",
+   "term": "臟象발전⑩ 淸 王淸任 靈機記",
+   "where": [
+    "hist-10#6",
+    "hist-10#7",
+    "hist-10#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2166,
+   "end": 2166,
+   "kind": "※",
+   "term": "錢乙 張潔古 朱丹溪 臟腑證治",
+   "where": [
+    "new-etc-02#5",
+    "hist-04#4",
+    "hist-04#9",
+    "hist-06a#8",
+    "hist-06a#11"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2171,
+   "end": 2171,
+   "kind": "표행",
+   "term": "上古天眞論 女子 七年 주기",
+   "where": [
+    "new-jq-05#1",
+    "new-jq-05#2",
+    "new-jq-05#3",
+    "new-jq-05#6",
+    "new-jq-05#7",
+    "new-jq-05#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2171,
+   "end": 2171,
+   "kind": "표행",
+   "term": "上古天眞論 丈夫 八年 주기",
+   "where": [
+    "new-jq-05#1",
+    "new-jq-05#2",
+    "new-jq-05#3",
+    "new-jq-05#6",
+    "new-jq-05#7",
+    "new-jq-05#8",
+    "new-jq-05#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2173,
+   "end": 2173,
+   "kind": "원문",
+   "term": "天年 十歲 五藏始定 好走",
+   "where": [
+    "new-zj-08#5",
+    "new-zj-08#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2174,
+   "end": 2174,
+   "kind": "원문",
+   "term": "天年 二十歲 好趨",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 天年 연령 열 줄 중 빠진 줄(20세) · 8장 好走/好步/好坐와 한 줄 연표로 묶기 [문제집 L1567행에 같은 말 있음]"
+  },
+  {
+   "line": 2175,
+   "end": 2175,
+   "kind": "원문",
+   "term": "天年 三十歲 五藏大定 好步",
+   "where": [
+    "new-zj-08#5",
+    "new-zj-08#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2176,
+   "end": 2176,
+   "kind": "원문",
+   "term": "天年 四十歲 腠理始疏 好坐",
+   "where": [
+    "new-zj-08#5",
+    "new-zj-08#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2177,
+   "end": 2177,
+   "kind": "원문",
+   "term": "天年 五十歲 肝氣始衰 目始不",
+   "where": [
+    "new-zj-08#5"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2178,
+   "end": 2178,
+   "kind": "원문",
+   "term": "天年 六十歲 心氣始衰 好臥",
+   "where": [
+    "new-zj-08#5"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2179,
+   "end": 2179,
+   "kind": "원문",
+   "term": "天年 七十歲 脾氣虛 皮膚枯",
+   "where": [
+    "new-zj-04#9",
+    "new-zj-04#12",
+    "new-jq-15#4",
+    "new-zj-08#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2180,
+   "end": 2180,
+   "kind": "원문",
+   "term": "天年 八十歲 肺氣衰 魄離",
+   "where": [
+    "new-zj-08#5",
+    "new-zj-08#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2181,
+   "end": 2181,
+   "kind": "원문",
+   "term": "天年 九十歲 腎氣焦",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 天年 연표에 90세 줄 추가(new-zj-08#5는 80세까지) [문제집 L1567행에 같은 말 있음]"
+  },
+  {
+   "line": 2182,
+   "end": 2182,
+   "kind": "원문",
+   "term": "天年 百歲 五藏皆虛 形骸獨居",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 天年 연표에 百歲 줄 추가 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2183,
+   "end": 2183,
+   "kind": "※",
+   "term": "生命過程 결정적 작용 腎氣",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 결론 해설 줄(腎氣가 결정적), new-jq-05가 腎氣 흐름을 이미 그림 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2185,
+   "end": 2185,
+   "kind": "※",
+   "term": "五情 生活機能 怒氣上~恐氣下",
+   "where": [
+    "hp-11#1",
+    "hp-11#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2189,
+   "end": 2189,
+   "kind": "정의",
+   "term": "肝 주요기능 疏泄 藏血",
+   "where": [
+    "new-zj-02#0",
+    "new-zj-02#1",
+    "new-zj-02#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2190,
+   "end": 2190,
+   "kind": "※",
+   "term": "肝 생리특징 主動 主升",
+   "where": [
+    "new-zj-14#2"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2191,
+   "end": 2191,
+   "kind": "※",
+   "term": "肝 별칭 剛急 喜條達 牡臟 ",
+   "where": [
+    "new-zj-02#6",
+    "new-zj-12#3"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2192,
+   "end": 2192,
+   "kind": "※",
+   "term": "剛臟 將軍之官 肝陽上亢",
+   "where": [
+    "new-zj-02#0",
+    "new-zj-02#6",
+    "new-zj-02#9",
+    "zds-01#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2193,
+   "end": 2193,
+   "kind": "※",
+   "term": "肝之勇而能斷 故曰將軍(王冰)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 王冰 주석 한 구절(將軍=勇而能斷), 剛臟 정거장(new-zj-02#6)에 붙일 수 있음 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2195,
+   "end": 2195,
+   "kind": "목록",
+   "term": "肝氣升發 喜條達 惡抑鬱",
+   "where": [
+    "new-zj-12#3",
+    "new-zj-02#2",
+    "new-zj-02#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2196,
+   "end": 2196,
+   "kind": "목록",
+   "term": "肝氣肝陽 有餘證 / 肝血肝陰",
+   "where": [
+    "zds-07#2",
+    "yyox-08#4",
+    "yyox-10#4"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2197,
+   "end": 2197,
+   "kind": "※",
+   "term": "肝陰 > 肝血 食氣入胃散精于",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 肝陰>肝血 비교 설명, 문제집 흔적 없음 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2198,
+   "end": 2198,
+   "kind": "목록",
+   "term": "肝氣鬱 · 肝火 氣鬱化火 ·",
+   "where": [
+    "new-zj-02#8",
+    "new-zj-02#9",
+    "zds-07#2",
+    "yyox-08#4",
+    "yyox-10#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2199,
+   "end": 2199,
+   "kind": "정의",
+   "term": "肝主疏泄 이론기초 主動主升",
+   "where": [
+    "new-zj-14#3",
+    "new-zj-14#6",
+    "new-zj-09#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2200,
+   "end": 2200,
+   "kind": "정의",
+   "term": "疏泄 全身氣機 血液津液 推動",
+   "where": [
+    "new-zj-14#0",
+    "new-zj-14#1",
+    "new-zj-14#2",
+    "new-zj-10#1",
+    "new-zj-10#7",
+    "new-zj-05#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2201,
+   "end": 2201,
+   "kind": "번호",
+   "term": "疏泄① 調暢氣機 氣機=升降出",
+   "where": [
+    "new-zj-02#1",
+    "new-zj-02#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2202,
+   "end": 2202,
+   "kind": "※",
+   "term": "疏泄 정상시 氣機調暢 氣血調",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 疏泄 정상시 결과 4(氣機調暢 등)는 new-zj-02#1로 갈음 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2204,
+   "end": 2204,
+   "kind": "번호",
+   "term": "疏泄失調㉠ 肝失疏泄 肝氣鬱結",
+   "where": [
+    "new-zj-02#8",
+    "mer-03#11",
+    "new-gr-11#1",
+    "new-gr-11#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2205,
+   "end": 2205,
+   "kind": "번호",
+   "term": "疏泄失調㉡ 肝升太過 肝氣上逆",
+   "where": [
+    "new-zj-14#3",
+    "new-zj-02#8",
+    "new-zj-02#9",
+    "hp-15#1",
+    "hp-11#1"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2206,
+   "end": 2206,
+   "kind": "※",
+   "term": "氣火上逆 吐血 昏仆 氣厥 薄",
+   "where": [
+    "new-etc-11#1",
+    "new-etc-11#5",
+    "new-uk-12#11",
+    "hp-11#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2207,
+   "end": 2207,
+   "kind": "※",
+   "term": "氣機鬱滯→血瘀痰停 癥積痰核",
+   "where": [
+    "new-zj-29#6",
+    "new-zj-29#7",
+    "new-zj-29#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2209,
+   "end": 2209,
+   "kind": "※",
+   "term": "氣逆太過 → 出血",
+   "where": [
+    "new-zj-04#9",
+    "new-zj-02#7"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2211,
+   "end": 2211,
+   "kind": "번호",
+   "term": "疏泄② 脾胃運化 促進",
+   "where": [
+    "new-zj-14#1",
+    "new-zj-14#9",
+    "new-zj-02#3",
+    "new-zj-09#2",
+    "new-zj-09#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2213,
+   "end": 2213,
+   "kind": "번호",
+   "term": "疏泄失調 脾升淸不利 胃降濁不",
+   "where": [
+    "hp-12#1",
+    "zds-08#4",
+    "new-etc-08#1",
+    "new-zj-09#5"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2215,
+   "end": 2215,
+   "kind": "번호",
+   "term": "疏泄 膽汁分泌 직접영향",
+   "where": [
+    "new-zj-09#2",
+    "new-zj-09#10",
+    "new-zj-02#3"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2216,
+   "end": 2216,
+   "kind": "※",
+   "term": "疏泄失調→膽汁不利 口苦 黃疸",
+   "where": [
+    "new-zj-09#2",
+    "new-zj-09#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2218,
+   "end": 2218,
+   "kind": "번호",
+   "term": "異常病理 脾主升淸失調",
+   "where": [
+    "new-zj-04#6"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2219,
+   "end": 2219,
+   "kind": "번호",
+   "term": "異常病理 胃主降濁失調",
+   "where": [
+    "new-zj-04#10",
+    "new-zj-09#2"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2220,
+   "end": 2220,
+   "kind": "번호",
+   "term": "異常病理 膽汁異常 厭油膩",
+   "where": [
+    "new-zj-09#2",
+    "new-zj-09#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2221,
+   "end": 2221,
+   "kind": "※",
+   "term": "肝氣犯脾 肝氣犯胃 肝木乘土",
+   "where": [
+    "new-zj-14#6"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2222,
+   "end": 2222,
+   "kind": "※",
+   "term": "土得木而達",
+   "where": [
+    "new-zj-14#6",
+    "new-zj-14#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2223,
+   "end": 2223,
+   "kind": "※",
+   "term": "脾運化 散精 膽汁排泄 疏泄 ",
+   "where": [
+    "new-zj-14#3",
+    "new-zj-14#6",
+    "new-zj-09#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2224,
+   "end": 2224,
+   "kind": "번호",
+   "term": "疏泄③ 調暢情志(七情 五志)",
+   "where": [
+    "new-zj-02#2"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2227,
+   "end": 2227,
+   "kind": "※",
+   "term": "血有餘卽怒 不足卽恐",
+   "where": [
+    "new-etc-06#4",
+    "new-etc-06#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2228,
+   "end": 2228,
+   "kind": "※",
+   "term": "肝失疏泄 悲憂善慮 太過 易怒",
+   "where": [
+    "new-zj-02#2",
+    "new-zj-02#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2229,
+   "end": 2229,
+   "kind": "번호",
+   "term": "疏泄④ 月經 排精",
+   "where": [
+    "new-gr-13#0",
+    "new-gr-13#11",
+    "new-gr-13#12",
+    "new-zj-02#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2230,
+   "end": 2230,
+   "kind": "번호",
+   "term": "疏泄⑤ 三焦通調水道 任衝 膽",
+   "where": [
+    "new-gr-13#1",
+    "new-gr-13#12",
+    "new-zj-09#2",
+    "new-zj-09#10",
+    "new-zj-02#3"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2231,
+   "end": 2231,
+   "kind": "※",
+   "term": "氣行卽血行 氣滯卽血滯",
+   "where": [
+    "new-zj-02#4",
+    "new-zj-02#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2232,
+   "end": 2232,
+   "kind": "cf",
+   "term": "肝氣鬱結 / 肝氣犯胃 / 肝",
+   "where": [
+    "new-zj-14#6",
+    "new-zj-04#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2234,
+   "end": 2234,
+   "kind": "번호",
+   "term": "藏血① 貯藏 血量조절 人臥血",
+   "where": [
+    "new-etc-12#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2235,
+   "end": 2235,
+   "kind": "※",
+   "term": "血量조절 藏血(휴식) 疏泄(",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 肝 藏血(휴식)/疏泄(활동) 혈량 조절은 new-zj-02에 정거장 없음; 體陰用陽과 한 정거장 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2236,
+   "end": 2236,
+   "kind": "※",
+   "term": "體陰用陽 藏血=體陰 疏泄=用",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 體陰用陽(2236·2263)은 5장 yyox-03#1 인물 칸 밖에 정거장 없음 [문제집 L2129,L2410행에 같은 말 있음]"
+  },
+  {
+   "line": 2238,
+   "end": 2238,
+   "kind": "※",
+   "term": "藏血減退→肝血虛→肝陽上亢 肝",
+   "where": [
+    "zds-08#1",
+    "new-etc-31#5",
+    "hp-19#2",
+    "hp-19#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2240,
+   "end": 2240,
+   "kind": "※",
+   "term": "藏血減退 出血 吐血 衄血 崩",
+   "where": [
+    "new-zj-04#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2241,
+   "end": 2241,
+   "kind": "※",
+   "term": "肝藏魂 魂=不自主 神=自主",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 魂=不自主, 神=自主 대비(2241)는 new-zj-08/jq-15 魂 정거장에 한 줄 보탤 만함 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2242,
+   "end": 2242,
+   "kind": "※",
+   "term": "血舍魂 肝不藏血→魂不守舍",
+   "where": [
+    "new-zj-02#7",
+    "new-zj-02#9",
+    "new-zj-03#4",
+    "new-zj-03#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2243,
+   "end": 2243,
+   "kind": "번호",
+   "term": "藏血② 疏泄藏血 相補相成",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 疏泄·藏血 相補相成 한 줄 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2244,
+   "end": 2244,
+   "kind": "번호",
+   "term": "藏血③ 心主血脈과 관련",
+   "where": [
+    "new-zj-03#1",
+    "new-zj-03#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2245,
+   "end": 2245,
+   "kind": "번호",
+   "term": "肝主風木氣",
+   "where": [
+    "new-uk-12#2",
+    "new-uk-10#1",
+    "new-uk-10#5"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2246,
+   "end": 2246,
+   "kind": "번호",
+   "term": "肝主筋 其華在爪 罷極之本 爪",
+   "where": [
+    "zds-01#1",
+    "zds-01#7",
+    "zds-01#3",
+    "zds-06#6",
+    "new-zj-15#6",
+    "new-zj-15#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2249,
+   "end": 2249,
+   "kind": "※",
+   "term": "肝血不足 血不養筋 手足震顫",
+   "where": [
+    "new-jq-23#4",
+    "new-jq-23#7",
+    "zds-08#2"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2250,
+   "end": 2250,
+   "kind": "※",
+   "term": "熱入營血 四肢抽搐 角弓反張 ",
+   "where": [
+    "new-etc-08#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2251,
+   "end": 2251,
+   "kind": "※",
+   "term": "諸風掉眩皆屬于肝",
+   "where": [
+    "new-etc-09a#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2252,
+   "end": 2252,
+   "kind": "번호",
+   "term": "肝開竅於目 目=精明",
+   "where": [
+    "zds-01#3",
+    "zds-01#7",
+    "new-zj-15#1",
+    "new-zj-15#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2253,
+   "end": 2253,
+   "kind": "※",
+   "term": "五臟六腑之精氣 皆上注於目",
+   "where": [
+    "new-zj-17#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2254,
+   "end": 2254,
+   "kind": "※",
+   "term": "肝和卽目能辨五色 肝受血而能視",
+   "where": [
+    "zds-08#3"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2255,
+   "end": 2255,
+   "kind": "※",
+   "term": "肝陰血不足 兩目乾澁 夜盲",
+   "where": [
+    "zds-08#3",
+    "zds-08#6",
+    "zds-08#9"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2256,
+   "end": 2256,
+   "kind": "※",
+   "term": "肝經風熱·肝火·肝陽·肝風 目",
+   "where": [
+    "zds-07#2",
+    "hp-15#1",
+    "hp-11#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2257,
+   "end": 2257,
+   "kind": "cf",
+   "term": "五和 肝目五色 心舌五味 脾口",
+   "where": [
+    "zds-02#3"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2258,
+   "end": 2258,
+   "kind": "※",
+   "term": "其液爲淚 目者宗脈之所聚",
+   "where": [
+    "zds-01#5",
+    "zds-01#7"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2260,
+   "end": 2260,
+   "kind": "번호",
+   "term": "在志爲怒 暴怒傷陰傷肝",
+   "where": [
+    "new-zj-02#8",
+    "new-zj-08#4"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2261,
+   "end": 2261,
+   "kind": "번호",
+   "term": "怒則氣上·氣逆 嘔血 飱泄·薄",
+   "where": [
+    "hp-11#1",
+    "hp-11#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2262,
+   "end": 2262,
+   "kind": "※",
+   "term": "怒의 가장 주요 영향 氣逆",
+   "where": [
+    "new-zj-14#4"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2263,
+   "end": 2263,
+   "kind": "번호",
+   "term": "體陰用陽 體陰=下焦 陰血",
+   "where": [
+    "yyox-03#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2264,
+   "end": 2264,
+   "kind": "번호",
+   "term": "用陽 疏泄 條達 升 動",
+   "where": [
+    "yyox-03#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2265,
+   "end": 2265,
+   "kind": "※",
+   "term": "罷極之本 여러 설",
+   "where": [
+    "zds-01#3",
+    "zds-06#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2266,
+   "end": 2266,
+   "kind": "번호",
+   "term": "罷極① 筋이 피로의 근본",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 罷極之本 두 설 중 ①(筋이 피로의 근본)이 빠짐; 문제집 罷極之本 의미(교재 2273 ◎) [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2267,
+   "end": 2267,
+   "kind": "번호",
+   "term": "罷極② 疲勞를 忍耐 能極",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 罷極之本 ②(能極=耐極으로 읽음) 읽기 함정, zds-01#3은 이름만 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2268,
+   "end": 2268,
+   "kind": "※",
+   "term": "肝主謀慮",
+   "where": [
+    "yyox-03#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2269,
+   "end": 2269,
+   "kind": "번호",
+   "term": "謀慮① 將軍之官 謀慮出焉",
+   "where": [
+    "yyox-03#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2270,
+   "end": 2270,
+   "kind": "번호",
+   "term": "謀慮② 肝 고급신경기능",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 肝 고급신경기능 해설 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2271,
+   "end": 2271,
+   "kind": "번호",
+   "term": "謀慮③ 藏血 疏泄 情志",
+   "where": [
+    "yyox-03#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2272,
+   "end": 2272,
+   "kind": "번호",
+   "term": "謀慮④ 肝氣 太過·不足 恐怖",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 肝氣 太過/不足 → 躁怒/恐怖(血有餘卽怒 不足卽恐) 한 줄, new-etc-06#4와 묶기 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2274,
+   "end": 2274,
+   "kind": "정의",
+   "term": "膽 外界不通 清淨液 六府+奇",
+   "where": [
+    "new-zj-09#1",
+    "new-zj-11#0",
+    "new-zj-11#1",
+    "new-zj-09#2",
+    "new-zj-09#10",
+    "new-zj-02#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2275,
+   "end": 2275,
+   "kind": "번호",
+   "term": "膽 기능 4(膽汁·決斷·主升",
+   "where": [
+    "new-zj-09#1",
+    "new-zj-09#10"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2277,
+   "end": 2277,
+   "kind": "번호",
+   "term": "膽者 中精之府 中淨 中淸",
+   "where": [
+    "new-zj-09#1",
+    "new-zj-15#3"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2278,
+   "end": 2278,
+   "kind": "번호",
+   "term": "膽 肝之餘氣 精汁(東醫寶鑑)",
+   "where": [
+    "new-zj-11#3"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2280,
+   "end": 2280,
+   "kind": "※",
+   "term": "肝失疏泄→膽汁排泄不利 便溏",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — new-zj-09#2가 膽汁 장애를 이미 실음 [문제집 L2808,L2810,L2816행에 같은 말 있음]"
+  },
+  {
+   "line": 2281,
+   "end": 2281,
+   "kind": "※",
+   "term": "肝泄太過→膽汁上逆 口苦 黃疸",
+   "where": [
+    "new-zj-23#5",
+    "new-zj-23#10",
+    "mer-03#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2282,
+   "end": 2282,
+   "kind": "번호",
+   "term": "膽 主決斷 中正之官",
+   "where": [
+    "new-zj-09#1",
+    "new-zj-09#10",
+    "new-zj-03#7"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2283,
+   "end": 2283,
+   "kind": "번호",
+   "term": "膽氣主升 少陽 多氣少血",
+   "where": [
+    "new-uk-12#2",
+    "new-uk-12#11",
+    "new-uk-10#1"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2284,
+   "end": 2284,
+   "kind": "번호",
+   "term": "膽 主勇怯",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 膽 主勇怯(驚悸 怔忡 치료) 정거장 없음; new-zj-09#1 옆에 추가 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2285,
+   "end": 2285,
+   "kind": "※",
+   "term": "凡十一臟取決於膽 開闔樞",
+   "where": [
+    "new-zj-09#1",
+    "new-uk-15#0",
+    "new-uk-15#4"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2287,
+   "end": 2287,
+   "kind": "정의",
+   "term": "心 기능 主血脈 主神志",
+   "where": [
+    "new-zj-03#1",
+    "new-zj-03#8",
+    "new-zj-03#0",
+    "new-zj-03#2",
+    "new-zj-03#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2289,
+   "end": 2289,
+   "kind": "목록",
+   "term": "心氣心血 物質基礎",
+   "where": [
+    "new-jq-15#6",
+    "new-zj-03#1",
+    "new-zj-08#3"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2290,
+   "end": 2290,
+   "kind": "목록",
+   "term": "心陰 搏動 和緩 安靜",
+   "where": [
+    "new-zj-03#4",
+    "new-zj-03#5"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2291,
+   "end": 2291,
+   "kind": "목록",
+   "term": "心陽 搏動 有力 興奮",
+   "where": [
+    "new-zj-03#5",
+    "new-zj-03#6",
+    "new-zj-03#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2292,
+   "end": 2292,
+   "kind": "※",
+   "term": "心 未開花 연꽃",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 心=未開花 연꽃 비유 한 줄 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2293,
+   "end": 2293,
+   "kind": "번호",
+   "term": "心主血脈 一身之血 一身之脈",
+   "where": [
+    "new-zj-03#1",
+    "new-zj-03#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2294,
+   "end": 2294,
+   "kind": "번호",
+   "term": "血 心臟搏動에 의지",
+   "where": [
+    "new-zj-03#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2295,
+   "end": 2295,
+   "kind": "번호",
+   "term": "心氣의 推動 心主血脈 關鍵",
+   "where": [
+    "new-zj-03#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2296,
+   "end": 2296,
+   "kind": "※",
+   "term": "宗氣 盛衰 心氣 搏動 영향",
+   "where": [
+    "new-zj-05#1",
+    "new-zj-05#7",
+    "new-zj-03#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2297,
+   "end": 2297,
+   "kind": "※",
+   "term": "血液運行 關鍵 5(心氣 搏動",
+   "where": [
+    "new-jq-17#7",
+    "new-jq-17#9",
+    "new-jq-17#10",
+    "new-jq-17#8",
+    "new-jq-02#6",
+    "new-jq-02#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2298,
+   "end": 2298,
+   "kind": "※",
+   "term": "心主血脈 외재표현 脈象 面色",
+   "where": [
+    "hist-06b#8",
+    "hist-01a#10",
+    "new-etc-02#1",
+    "new-zj-03#4"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2300,
+   "end": 2300,
+   "kind": "번호",
+   "term": "心陽 化赤 生血",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 心陽의 化赤 작용(心生血) 한 줄; new-zj-03#1과 묶기 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2301,
+   "end": 2301,
+   "kind": "번호",
+   "term": "脈 密閉系統",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 脈=密閉系統 서술(new-zj-03#1과 중복) [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2302,
+   "end": 2302,
+   "kind": "번호",
+   "term": "血脈 정상 판단 脈象 舌色 ",
+   "where": [
+    "hist-06b#8",
+    "hist-01a#10",
+    "new-etc-02#1"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2303,
+   "end": 2303,
+   "kind": "※",
+   "term": "心者生之本 神之變 華面 充血",
+   "where": [
+    "zds-02#1",
+    "new-zj-09#4",
+    "zds-06#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2305,
+   "end": 2305,
+   "kind": "번호",
+   "term": "心藏神 五臟六腑之大主 神明之",
+   "where": [
+    "zds-02#1",
+    "new-zj-03#0"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2306,
+   "end": 2306,
+   "kind": "번호",
+   "term": "神明① 精神思惟 主宰 狹義",
+   "where": [
+    "new-zj-03#2",
+    "new-zj-03#8",
+    "new-jq-12#3",
+    "new-jq-12#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2307,
+   "end": 2307,
+   "kind": "※",
+   "term": "心主神明 目",
+   "where": [
+    "new-zj-03#0",
+    "new-zj-04#5",
+    "new-zj-07#1",
+    "new-zj-07#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2308,
+   "end": 2308,
+   "kind": "번호",
+   "term": "神② 廣義 生命活動 外的表現",
+   "where": [
+    "new-jq-12#1",
+    "new-jq-12#2",
+    "new-jq-12#3",
+    "new-zj-03#2",
+    "new-zj-03#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2309,
+   "end": 2309,
+   "kind": "목록",
+   "term": "心 정상 氣血流通 神志淸晰",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 정상 상태 서술(神志淸晰) [문제집 L2247행에 같은 말 있음]"
+  },
+  {
+   "line": 2310,
+   "end": 2310,
+   "kind": "목록",
+   "term": "心血虛 心悸 失眠 多夢 健忘",
+   "where": [
+    "new-zj-03#4",
+    "new-zj-03#5",
+    "new-zj-03#8",
+    "new-zj-02#7",
+    "new-zj-13#2"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2311,
+   "end": 2311,
+   "kind": "목록",
+   "term": "痰迷心竅 神昏 痴呆",
+   "where": [
+    "hp-12#2",
+    "hp-12#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2312,
+   "end": 2312,
+   "kind": "목록",
+   "term": "痰火擾心 喜笑不休 狂躁",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 痰火擾心(喜笑不休 狂躁)은 new-zj-02#7 「狂言發狂은 心」 한 줄뿐; 痰迷心竅와 한 쌍으로 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2313,
+   "end": 2313,
+   "kind": "번호",
+   "term": "任物者謂之心",
+   "where": [
+    "new-zj-03#2",
+    "new-zj-03#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2314,
+   "end": 2314,
+   "kind": "번호",
+   "term": "心主汗液 汗爲心之液 陽加於陰",
+   "where": [
+    "zds-02#5",
+    "zds-02#7"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2315,
+   "end": 2315,
+   "kind": "※",
+   "term": "汗 陽氣蒸化陰液 血汗同源",
+   "where": [
+    "new-jq-16#3"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2316,
+   "end": 2316,
+   "kind": "※",
+   "term": "氣虛自汗 陽虛大汗 陰虛盜汗",
+   "where": [
+    "new-zj-05#8",
+    "new-zj-03#4",
+    "new-jq-21#6",
+    "new-etc-11#3",
+    "hp-17#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2317,
+   "end": 2317,
+   "kind": "※",
+   "term": "奪血者無汗 奪汗者無血",
+   "where": [
+    "new-jq-22#3",
+    "new-jq-22#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2318,
+   "end": 2318,
+   "kind": "※",
+   "term": "汗 營衛 衛氣開闔腠理",
+   "where": [
+    "hp-01#6",
+    "new-jq-11#7",
+    "new-jq-11#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2319,
+   "end": 2319,
+   "kind": "번호",
+   "term": "心開竅於舌 舌者音聲之機",
+   "where": [
+    "zds-02#3",
+    "zds-02#7"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2320,
+   "end": 2320,
+   "kind": "번호",
+   "term": "舌爲心之苗 舌爲心之外候",
+   "where": [
+    "new-zj-18#0",
+    "new-zj-18#1",
+    "new-zj-18#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2322,
+   "end": 2322,
+   "kind": "번호",
+   "term": "心氣通於舌 心和卽舌能知五味",
+   "where": [
+    "zds-02#3"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2323,
+   "end": 2323,
+   "kind": "번호",
+   "term": "舌 脾腎肝 經脈 舌苔 脾胃之",
+   "where": [
+    "new-zj-21#0",
+    "new-zj-18#0",
+    "new-zj-18#5",
+    "new-zj-18#1",
+    "new-zj-18#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2325,
+   "end": 2325,
+   "kind": "※",
+   "term": "心經別絡 舌本",
+   "where": [
+    "new-gr-09#7",
+    "new-gr-09#10",
+    "new-gr-09#12"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2326,
+   "end": 2326,
+   "kind": "번호",
+   "term": "在體合脈 其華在面",
+   "where": [
+    "zds-02#1",
+    "zds-02#7",
+    "zds-02#2"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2327,
+   "end": 2327,
+   "kind": "번호",
+   "term": "心華在面 근거 3",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 面部 血脈 풍부 근거, zds-02#1이 華面을 이미 실음 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2329,
+   "end": 2329,
+   "kind": "cf",
+   "term": "心包=心包絡=膻中 代心受邪 ",
+   "where": [
+    "new-zj-03#7",
+    "new-zj-03#8"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2330,
+   "end": 2330,
+   "kind": "정의",
+   "term": "小腸 受盛化物 泌別淸濁 外候",
+   "where": [
+    "new-zj-09#7",
+    "new-zj-09#10",
+    "new-zj-15#3",
+    "new-zj-09#0",
+    "new-zj-09#8",
+    "new-gr-09#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2331,
+   "end": 2331,
+   "kind": "번호",
+   "term": "受盛化物 3의미",
+   "where": [
+    "new-zj-09#7",
+    "new-zj-09#10",
+    "new-zj-15#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2335,
+   "end": 2335,
+   "kind": "※",
+   "term": "小腸 受盛化物 감퇴 腹痛泄瀉",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 小腸 기능 감퇴 증상 한 줄(腹痛泄瀉) [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2336,
+   "end": 2336,
+   "kind": "※",
+   "term": "受盛之官 化物出焉",
+   "where": [
+    "new-zj-09#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2337,
+   "end": 2337,
+   "kind": "번호",
+   "term": "泌別淸濁 ㉠精微殘渣 ㉡ ㉢",
+   "where": [
+    "new-zj-09#0",
+    "new-zj-09#8",
+    "new-zj-09#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2340,
+   "end": 2340,
+   "kind": "번호",
+   "term": "小腸主液",
+   "where": [
+    "new-zj-09#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2341,
+   "end": 2341,
+   "kind": "※",
+   "term": "泌別失調 泄瀉 小便短少",
+   "where": [
+    "new-etc-12#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2342,
+   "end": 2342,
+   "kind": "※",
+   "term": "淸濁 흐름도 淸→脾 濁→大腸",
+   "where": [
+    "new-zj-10#6",
+    "new-zj-09#0",
+    "new-zj-09#8",
+    "new-zj-10#0",
+    "new-zj-10#1",
+    "new-zj-10#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2343,
+   "end": 2343,
+   "kind": "※",
+   "term": "小腸爲水道之上源",
+   "where": [
+    "new-zj-05#4",
+    "new-zj-05#10",
+    "new-zj-13#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2344,
+   "end": 2344,
+   "kind": "정의",
+   "term": "脾胃 倉廩之官 氣血生化之源 ",
+   "where": [
+    "zds-03#2",
+    "new-zj-04#2",
+    "new-zj-04#12",
+    "new-zj-10#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2345,
+   "end": 2345,
+   "kind": "정의",
+   "term": "脾 기능 運化 升淸 統血",
+   "where": [
+    "new-zj-04#0",
+    "new-zj-04#1",
+    "new-zj-04#3",
+    "new-zj-04#5",
+    "new-zj-04#6",
+    "new-zj-04#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2348,
+   "end": 2348,
+   "kind": "번호",
+   "term": "脾 後天之本 氣血生化之源",
+   "where": [
+    "new-zj-04#2",
+    "new-zj-04#12",
+    "zds-03#2"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2349,
+   "end": 2349,
+   "kind": "번호",
+   "term": "脾氣主升 淸陽上升",
+   "where": [
+    "new-zj-04#0",
+    "new-zj-04#5",
+    "new-zj-04#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2350,
+   "end": 2350,
+   "kind": "번호",
+   "term": "脾 喜燥惡濕 太陰濕土",
+   "where": [
+    "zds-03#4",
+    "new-zj-09#4"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2351,
+   "end": 2351,
+   "kind": "번호",
+   "term": "脾主交通心腎 氣之升降 樞",
+   "where": [
+    "new-zj-10#6",
+    "new-zj-10#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2352,
+   "end": 2352,
+   "kind": "번호",
+   "term": "脾主運化 氣血化生 精微輸布",
+   "where": [
+    "new-zj-04#1",
+    "new-zj-04#3",
+    "new-zj-04#9",
+    "new-zj-04#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2353,
+   "end": 2353,
+   "kind": "번호",
+   "term": "運化水穀",
+   "where": [
+    "new-zj-04#1",
+    "new-zj-04#3",
+    "new-zj-04#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2354,
+   "end": 2354,
+   "kind": "원문",
+   "term": "脾脈者土也 孤藏以灌四傍",
+   "where": [
+    "new-zj-04#0",
+    "new-zj-04#11",
+    "new-zj-04#12"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2355,
+   "end": 2355,
+   "kind": "※",
+   "term": "脾氣虛弱 運化失調 食少 腹脹",
+   "where": [
+    "new-zj-04#3",
+    "new-zj-13#2",
+    "new-zj-04#10",
+    "new-zj-04#12"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2356,
+   "end": 2356,
+   "kind": "※",
+   "term": "水穀精微 輸布 肺宣發 脾升淸",
+   "where": [
+    "new-zj-05#5",
+    "new-zj-05#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2357,
+   "end": 2357,
+   "kind": "번호",
+   "term": "運化水液(水濕)",
+   "where": [
+    "new-zj-04#1",
+    "new-zj-04#4",
+    "new-zj-04#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2358,
+   "end": 2358,
+   "kind": "※",
+   "term": "脾爲生痰之源 脾虛水腫",
+   "where": [
+    "new-zj-13#4",
+    "new-zj-13#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2359,
+   "end": 2359,
+   "kind": "※",
+   "term": "內濕 脾喜燥惡濕",
+   "where": [
+    "hp-19#1",
+    "hp-19#4",
+    "hp-19#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2360,
+   "end": 2360,
+   "kind": "원문",
+   "term": "脾爲胃行其津液 / 飮入於胃 ",
+   "where": [
+    "new-zj-05#5",
+    "new-zj-05#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2361,
+   "end": 2361,
+   "kind": "cf",
+   "term": "諸濕腫滿皆屬于脾(病機19條)",
+   "where": [
+    "new-etc-09a#4",
+    "hp-19#4"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2362,
+   "end": 2362,
+   "kind": "※",
+   "term": "脾失健運 증상",
+   "where": [
+    "new-zj-04#10",
+    "new-zj-09#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2363,
+   "end": 2363,
+   "kind": "번호",
+   "term": "脾主升淸",
+   "where": [
+    "new-zj-04#0",
+    "new-zj-04#5",
+    "new-zj-04#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2364,
+   "end": 2364,
+   "kind": "번호",
+   "term": "氣機升降之樞",
+   "where": [
+    "new-zj-10#6",
+    "new-zj-10#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2365,
+   "end": 2365,
+   "kind": "번호",
+   "term": "脾氣散精 頭者精明之府 升擧",
+   "where": [
+    "new-zj-04#5",
+    "new-zj-05#5",
+    "new-zj-05#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2366,
+   "end": 2366,
+   "kind": "번호",
+   "term": "升淸↔降濁 心肺頭目 氣血化生",
+   "where": [
+    "new-zj-04#5"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2367,
+   "end": 2367,
+   "kind": "번호",
+   "term": "脾氣虛弱 不能升淸 / 脾氣下",
+   "where": [
+    "new-zj-04#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2368,
+   "end": 2368,
+   "kind": "cf",
+   "term": "淸氣在下 飱泄 濁氣在上 䐜脹",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 淸氣在下則生飱泄 濁氣在上則生䐜脹(교재 2368·2673·2751 세 번 나옴); 문제집 흔적 확인 필요 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2370,
+   "end": 2370,
+   "kind": "번호",
+   "term": "脾主統血 生血 固攝 裹血",
+   "where": [
+    "new-zj-04#0",
+    "new-zj-04#7",
+    "new-zj-04#8",
+    "new-zj-04#12"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2371,
+   "end": 2371,
+   "kind": "※",
+   "term": "武之望 濟陰綱目 血生于脾",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 武之望 濟陰綱目 출전 한 줄 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2372,
+   "end": 2372,
+   "kind": "번호",
+   "term": "脾藏營",
+   "where": [
+    "new-jq-15#3",
+    "new-jq-15#11",
+    "new-zj-08#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2373,
+   "end": 2373,
+   "kind": "번호",
+   "term": "脾主肌肉 四末",
+   "where": [
+    "zds-03#2"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2374,
+   "end": 2374,
+   "kind": "원문",
+   "term": "四肢者諸陽之本 陽盛則四肢實",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 四肢者諸陽之本(2374) 원문; zds-03#2 근처 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2375,
+   "end": 2375,
+   "kind": "원문",
+   "term": "脾病四肢不用 爲胃行其津液 (",
+   "where": [
+    "new-jq-15#4",
+    "new-jq-15#11",
+    "new-zj-08#2"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2376,
+   "end": 2376,
+   "kind": "번호",
+   "term": "脾開竅於口 其華在脣",
+   "where": [
+    "zds-03#3",
+    "zds-03#7",
+    "zds-03#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2377,
+   "end": 2377,
+   "kind": "번호",
+   "term": "口爲脾之官 脾和能知五穀 飛門",
+   "where": [
+    "new-zj-15#4",
+    "new-zj-15#10",
+    "new-zj-12#1",
+    "new-zj-12#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2378,
+   "end": 2378,
+   "kind": "정의",
+   "term": "胃 기능 受納 腐熟 通降",
+   "where": [
+    "new-zj-09#0",
+    "new-zj-09#3",
+    "new-zj-09#6",
+    "new-zj-10#6",
+    "new-zj-09#5",
+    "new-zj-09#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2379,
+   "end": 2379,
+   "kind": "※",
+   "term": "賁門 幽門",
+   "where": [
+    "new-zj-12#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2380,
+   "end": 2380,
+   "kind": "※",
+   "term": "胃 異名(太倉 水穀之海 六腑",
+   "where": [
+    "new-zj-09#3",
+    "new-zj-09#10",
+    "new-zj-15#9",
+    "new-zj-09#4"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2381,
+   "end": 2381,
+   "kind": "번호",
+   "term": "胃氣以下行爲順 胃主降濁",
+   "where": [
+    "new-zj-04#5"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2382,
+   "end": 2382,
+   "kind": "※",
+   "term": "胃氣不降 / 胃氣上逆 증상",
+   "where": [
+    "new-zj-09#5"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2383,
+   "end": 2383,
+   "kind": "번호",
+   "term": "胃 喜濕惡燥",
+   "where": [
+    "zds-03#4",
+    "new-zj-09#4",
+    "new-zj-09#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2384,
+   "end": 2384,
+   "kind": "번호",
+   "term": "胃主受納",
+   "where": [
+    "new-zj-09#0",
+    "new-zj-09#3",
+    "new-zj-09#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2385,
+   "end": 2385,
+   "kind": "번호",
+   "term": "胃主腐熟 食糜 中焦如漚",
+   "where": [
+    "new-zj-10#6",
+    "new-zj-09#0",
+    "new-zj-09#3",
+    "new-zj-10#0",
+    "new-zj-10#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2386,
+   "end": 2386,
+   "kind": "목록",
+   "term": "食之精氣→肝 / 食之濁氣→心",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 食之精氣→肝 · 食之濁氣→心 · 飮之精氣→脾→肺 세 갈래(2386-2388)는 胃 腐熟 후 분배; new-zj-09#3 옆 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2389,
+   "end": 2389,
+   "kind": "원문",
+   "term": "邪客篇 五穀入胃 糟粕津液宗氣",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 邪客篇 五穀入胃 糟粕 津液 宗氣 三隧 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2391,
+   "end": 2391,
+   "kind": "번호",
+   "term": "胃主通降 食糜 아래로",
+   "where": [
+    "new-zj-09#5",
+    "new-zj-09#10",
+    "new-zj-02#3"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2392,
+   "end": 2392,
+   "kind": "※",
+   "term": "胃通降失調 納食減退 噯氣 嘔",
+   "where": [
+    "new-zj-09#5"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2393,
+   "end": 2393,
+   "kind": "번호",
+   "term": "胃氣의 의미 4",
+   "where": [
+    "new-zj-04#10",
+    "new-zj-09#2",
+    "new-zj-09#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2394,
+   "end": 2394,
+   "kind": "번호",
+   "term": "胃氣㉠ 受納腐熟의 작용",
+   "where": [
+    "new-zj-09#0",
+    "new-zj-09#3",
+    "new-zj-09#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2395,
+   "end": 2395,
+   "kind": "번호",
+   "term": "胃氣㉡ 脾胃 消化機能",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 胃氣의 의미 ㉡ 脾胃 消化機能 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2396,
+   "end": 2396,
+   "kind": "번호",
+   "term": "胃氣㉢ 五藏者皆稟氣于胃(玉機",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 五藏者皆稟氣于胃(玉機眞藏論) [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2397,
+   "end": 2397,
+   "kind": "번호",
+   "term": "胃氣㉣ 元氣陽氣營氣衛氣穀氣",
+   "where": [
+    "new-zj-10#6",
+    "new-zj-15#9",
+    "new-zj-15#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2398,
+   "end": 2398,
+   "kind": "※",
+   "term": "胃氣 표현 食慾 舌苔 脈象 ",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 胃氣 표현(食慾 舌苔 脈象 面色 · 脈弱而滑) [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2400,
+   "end": 2400,
+   "kind": "정의",
+   "term": "肺 기능 主氣 宣發肅降 通水",
+   "where": [
+    "new-zj-05#0",
+    "new-zj-05#6",
+    "new-zj-05#10",
+    "new-zj-05#7",
+    "new-zj-05#2",
+    "new-zj-05#3"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2401,
+   "end": 2401,
+   "kind": "※",
+   "term": "肺 별칭 華蓋 臟之長 橐籥 ",
+   "where": [
+    "yyox-03#7"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2402,
+   "end": 2402,
+   "kind": "※",
+   "term": "肺者臟之蓋 華蓋",
+   "where": [
+    "yyox-03#7"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2403,
+   "end": 2403,
+   "kind": "※",
+   "term": "肺 생리특징 3",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 肺 생리특징 3 요약(2403)은 new-zj-05 frame과 중복 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2404,
+   "end": 2404,
+   "kind": "번호",
+   "term": "肺主氣 司呼吸 諸氣者皆屬于肺",
+   "where": [
+    "new-zj-05#1",
+    "new-zj-05#10",
+    "new-zj-06#6"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2405,
+   "end": 2405,
+   "kind": "번호",
+   "term": "肺主一身之氣 ㉠淸氣 宗氣 ㉡",
+   "where": [
+    "new-zj-05#1",
+    "new-zj-05#7",
+    "new-zj-03#3",
+    "new-zj-05#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2408,
+   "end": 2408,
+   "kind": "번호",
+   "term": "肺主呼吸之氣 肺者生氣之源",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 肺者生氣之源(2408); new-zj-05#1에 붙임 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2409,
+   "end": 2409,
+   "kind": "번호",
+   "term": "呼吸 중요성 4",
+   "where": [
+    "new-zj-05#1",
+    "new-zj-05#7",
+    "new-zj-05#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2410,
+   "end": 2410,
+   "kind": "번호",
+   "term": "呼吸 영향 4(宗氣不足 水液",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 呼吸에 영향 4(宗氣不足 水液停滯 氣機失調 心血瘀阻) [문제집 L2886행에 같은 말 있음]"
+  },
+  {
+   "line": 2411,
+   "end": 2411,
+   "kind": "번호",
+   "term": "肺爲氣之主 腎爲氣之本",
+   "where": [
+    "zds-06#6",
+    "new-zj-13#7"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2412,
+   "end": 2412,
+   "kind": "cf",
+   "term": "肺者氣之本 魄之處 華毛 充皮",
+   "where": [
+    "new-zj-13#7",
+    "zds-06#6"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2413,
+   "end": 2413,
+   "kind": "※",
+   "term": "宣發 肅降 朝百脈 모두 呼吸",
+   "where": [
+    "new-zj-09#1",
+    "new-zj-09#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2415,
+   "end": 2415,
+   "kind": "정의",
+   "term": "肺主宣發肅降 총론",
+   "where": [
+    "new-zj-05#0",
+    "new-zj-05#2",
+    "new-zj-05#3",
+    "new-zj-05#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2416,
+   "end": 2416,
+   "kind": "번호",
+   "term": "宣發 宣布發散 衛氣 津液",
+   "where": [
+    "new-zj-05#0",
+    "new-zj-05#2",
+    "new-zj-05#3",
+    "zds-04#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2417,
+   "end": 2417,
+   "kind": "원문",
+   "term": "上焦開發 宣五穀味 霧露之漑(",
+   "where": [
+    "new-zj-05#2",
+    "new-zj-10#4"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2418,
+   "end": 2418,
+   "kind": "번호",
+   "term": "宣發㉠ 氣化 濁氣 呼出 淸氣",
+   "where": [
+    "new-zj-05#2",
+    "new-zj-05#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2419,
+   "end": 2419,
+   "kind": "번호",
+   "term": "宣發㉡ 水穀精微 全身 皮毛",
+   "where": [
+    "zds-04#2",
+    "new-zj-05#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2420,
+   "end": 2420,
+   "kind": "번호",
+   "term": "宣發㉢ 衛氣 溫分肉 充皮膚 ",
+   "where": [
+    "new-jq-11#7",
+    "new-jq-11#8",
+    "new-zj-12#4"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2421,
+   "end": 2421,
+   "kind": "※",
+   "term": "肺氣失宣 鼻塞 噴嚏 無汗 痰",
+   "where": [
+    "new-jq-15#8",
+    "new-jq-15#11",
+    "new-zj-08#3",
+    "new-jq-22#3",
+    "new-jq-22#8",
+    "zds-14#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2422,
+   "end": 2422,
+   "kind": "번호",
+   "term": "肅降 淸肅下降 金氣 收斂",
+   "where": [
+    "new-zj-05#0",
+    "new-zj-05#3",
+    "new-zj-05#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2423,
+   "end": 2423,
+   "kind": "번호",
+   "term": "肅降㉠ 淸氣 吸引 腎에 下納",
+   "where": [
+    "new-zj-06#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2424,
+   "end": 2424,
+   "kind": "번호",
+   "term": "肅降㉡ 水液 腎膀胱으로 下輸",
+   "where": [
+    "new-zj-05#5",
+    "new-zj-05#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2425,
+   "end": 2425,
+   "kind": "번호",
+   "term": "肅降㉢ 呼吸道 淨潔 糟粕 下",
+   "where": [
+    "new-zj-05#3",
+    "new-zj-05#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2426,
+   "end": 2426,
+   "kind": "※",
+   "term": "肺失肅降 肺氣上逆 咳喘 咳血",
+   "where": [
+    "new-gr-08#7",
+    "mer-03#11",
+    "new-jq-08#3"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2427,
+   "end": 2427,
+   "kind": "※",
+   "term": "肺失宣降 胸悶 諸氣膹鬱皆屬于",
+   "where": [
+    "new-etc-09a#3",
+    "new-etc-09a#12"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2428,
+   "end": 2428,
+   "kind": "번호",
+   "term": "通調水道 水液 輸布 運行 排",
+   "where": [
+    "new-zj-05#4",
+    "new-zj-05#5",
+    "new-zj-05#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2429,
+   "end": 2429,
+   "kind": "번호",
+   "term": "肺爲水之上源 肺主行水",
+   "where": [
+    "new-zj-05#4",
+    "new-zj-05#10",
+    "new-zj-13#5",
+    "new-zj-02#1",
+    "new-zj-02#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2430,
+   "end": 2430,
+   "kind": "cf",
+   "term": "水液 汗 尿 呼吸 大便 排出",
+   "where": [
+    "new-etc-29#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2431,
+   "end": 2431,
+   "kind": "번호",
+   "term": "肺朝百脈 聚會",
+   "where": [
+    "new-zj-05#0",
+    "new-zj-05#6",
+    "new-zj-05#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2433,
+   "end": 2433,
+   "kind": "원문",
+   "term": "食氣入胃 濁氣歸心 淫精於脈 ",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 食氣入胃 濁氣歸心 淫精於脈 …(經脈別論) 원문; new-zj-05#6 朝百脈에 원문 한 줄 추가 [문제집 L1617,L2095행에 같은 말 있음]"
+  },
+  {
+   "line": 2434,
+   "end": 2434,
+   "kind": "※",
+   "term": "血液運行 基本動力 心臟搏動",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 血運行 기본동력=心臟搏動(2434)은 new-zj-03#1과 중복 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2435,
+   "end": 2435,
+   "kind": "번호",
+   "term": "治節 肺者相傅之官 治節出焉",
+   "where": [
+    "new-zj-05#7",
+    "new-zj-05#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2436,
+   "end": 2436,
+   "kind": "번호",
+   "term": "肺 心을 補佐 氣血運行 治理",
+   "where": [
+    "new-zj-05#7",
+    "new-zj-05#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2437,
+   "end": 2437,
+   "kind": "번호",
+   "term": "肺主治節 방면 ㉠㉡㉢",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 2438-2440의 머리 줄 [문제집 L2163행에 같은 말 있음]"
+  },
+  {
+   "line": 2438,
+   "end": 2438,
+   "kind": "번호",
+   "term": "治節㉠ 肺主氣 肺氣=血運行 ",
+   "where": [
+    "new-jq-09#4",
+    "new-jq-09#6",
+    "new-jq-09#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2439,
+   "end": 2439,
+   "kind": "번호",
+   "term": "治節㉡ 司呼吸 一身氣之本 氣",
+   "where": [
+    "new-zj-14#0",
+    "new-zj-14#1",
+    "new-zj-14#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2440,
+   "end": 2440,
+   "kind": "번호",
+   "term": "治節㉢ 宣發肅降 津液 治理",
+   "where": [
+    "new-zj-10#1",
+    "new-zj-10#7",
+    "new-zj-05#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2442,
+   "end": 2442,
+   "kind": "※",
+   "term": "血液運行 心氣推動 + 肺氣補",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 血行=心氣 推動 + 肺氣 補助(2442-2443); new-zj-05#7 治節 정거장에 근거 원문으로 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2443,
+   "end": 2443,
+   "kind": "원문",
+   "term": "諸氣者皆屬于肺 / 宗氣積於胸",
+   "where": [
+    "new-jq-10#2"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2444,
+   "end": 2444,
+   "kind": "번호",
+   "term": "肺開竅於鼻 肺主聲",
+   "where": [
+    "zds-04#3",
+    "zds-04#7"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2445,
+   "end": 2445,
+   "kind": "번호",
+   "term": "喉=肺門戶 會厭=音聲之戶=吸",
+   "where": [
+    "new-zj-12#1",
+    "new-zj-12#2",
+    "new-zj-12#3"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2446,
+   "end": 2446,
+   "kind": "※",
+   "term": "金實不鳴 宣肺 / 金破不鳴 ",
+   "where": [
+    "new-zj-05#9",
+    "new-zj-05#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2447,
+   "end": 2447,
+   "kind": "번호",
+   "term": "鼻 外邪犯肺의 門戶 嗅覺",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 鼻=外邪犯肺 門戶 해설, zds-04#3 이 竅를 실음 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2448,
+   "end": 2448,
+   "kind": "※",
+   "term": "外邪 肺失宣肅 鼻塞流涕 鼻翼",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 肺寒/邪熱壅閉/肺胃燥熱 코 증상 셋(鼻塞流涕 鼻翼煽動 鼻乾); 外感 장에서 다룰 수도 [문제집 L3188,L3341,L3342행에 같은 말 있음]"
+  },
+  {
+   "line": 2449,
+   "end": 2449,
+   "kind": "번호",
+   "term": "肺爲嬌臟 嬌嫩 不耐寒熱",
+   "where": [
+    "hp-10#8",
+    "yyox-03#7"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2450,
+   "end": 2450,
+   "kind": "번호",
+   "term": "肺主皮毛 衛氣 溫分肉 充皮膚",
+   "where": [
+    "zds-04#2",
+    "new-zj-05#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2451,
+   "end": 2451,
+   "kind": "※",
+   "term": "衛氣 宣發 溫分肉 司開闔",
+   "where": [
+    "new-jq-11#7",
+    "new-jq-11#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2452,
+   "end": 2452,
+   "kind": "※",
+   "term": "皮毛 第一 보호막 / 汗孔 ",
+   "where": [
+    "new-zj-12#5",
+    "new-zj-12#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2453,
+   "end": 2453,
+   "kind": "번호",
+   "term": "在志爲憂 悲憂 悲自外來 憂自",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 肺 在志爲憂(悲自外來 憂自內發) 구별; new-etc-06 七情② 5장에는 있을 수 있음, 확인 필요 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2454,
+   "end": 2454,
+   "kind": "※",
+   "term": "鼻 風寒 淸涕 風熱 濁涕 /",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 鼻淵(腦漏) 병증, 外感 장 소관 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2455,
+   "end": 2455,
+   "kind": "※",
+   "term": "治節 心肺 靈蘭秘典 재론",
+   "where": [
+    "new-zj-05#7",
+    "new-zj-05#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2460,
+   "end": 2460,
+   "kind": "정의",
+   "term": "大腸 主津 傳道糟粕",
+   "where": [
+    "new-zj-09#7",
+    "new-zj-09#9",
+    "new-zj-09#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2461,
+   "end": 2461,
+   "kind": "※",
+   "term": "大腸 結腸 廣腸 回腸",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 結腸·廣腸 해부 설명 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2462,
+   "end": 2462,
+   "kind": "※",
+   "term": "大腸 外候 鼻隆 / 傳道之官",
+   "where": [
+    "new-zj-09#9"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2464,
+   "end": 2464,
+   "kind": "※",
+   "term": "大腸司魄門 魄門亦爲五藏使",
+   "where": [
+    "new-zj-12#4",
+    "new-zj-12#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2465,
+   "end": 2465,
+   "kind": "※",
+   "term": "大腸 表寒內熱 惡寒發熱",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 大腸 表寒內熱(惡寒發熱) 한 줄 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2466,
+   "end": 2466,
+   "kind": "※",
+   "term": "大腸 傳導失調 便秘 腹瀉",
+   "where": [
+    "new-zj-09#5"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2467,
+   "end": 2467,
+   "kind": "※",
+   "term": "大腸傳道 영향 4(肺肅降 胃",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 大腸 傳道에 영향 4(肺肅降 胃降濁 腎氣化 小腸泌別); 문제집 211번 [문제집 L2937,L4230행에 같은 말 있음]"
+  },
+  {
+   "line": 2468,
+   "end": 2468,
+   "kind": "※",
+   "term": "糞便 정상 배출 條件 3",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 大便 정상 배출 조건 3(津液 · 肺氣 · 胃氣) [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2469,
+   "end": 2469,
+   "kind": "※",
+   "term": "津液不足 腸燥便秘 肺胃氣逆 ",
+   "where": [
+    "zds-14#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2471,
+   "end": 2471,
+   "kind": "정의",
+   "term": "腎 기능 藏精 主水 納氣",
+   "where": [
+    "new-zj-07#1",
+    "new-zj-07#6",
+    "new-jq-15#9",
+    "new-zj-06#0",
+    "new-zj-06#4",
+    "new-zj-06#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2472,
+   "end": 2472,
+   "kind": "※",
+   "term": "腎 별칭 先天之本 性命之根 ",
+   "where": [
+    "zds-05#1",
+    "zds-06#6"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2473,
+   "end": 2473,
+   "kind": "번호",
+   "term": "腎藏精 閉藏 / 生長發育生殖",
+   "where": [
+    "new-zj-06#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2474,
+   "end": 2474,
+   "kind": "번호",
+   "term": "腎主閉藏 攝納 貯藏 封藏",
+   "where": [
+    "zds-05#1",
+    "new-zj-06#0",
+    "new-zj-06#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2475,
+   "end": 2475,
+   "kind": "원문",
+   "term": "腎者主蟄 封藏之本 / 腎者主",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 腎者主蟄 封藏之本 精之處也 / 腎者主水 受五臟六腑之精而藏之; zds-05#1은 이름만 [문제집 L2374,L2398행에 같은 말 있음]"
+  },
+  {
+   "line": 2476,
+   "end": 2476,
+   "kind": "번호",
+   "term": "腎主生長發育生殖",
+   "where": [
+    "new-zj-06#1",
+    "new-zj-06#3",
+    "new-zj-06#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2477,
+   "end": 2477,
+   "kind": "번호",
+   "term": "腎中精氣 來源 2(先天之精·",
+   "where": [
+    "new-zj-06#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2478,
+   "end": 2478,
+   "kind": "번호",
+   "term": "腎中精氣 作用(生長發育 生殖",
+   "where": [
+    "new-zj-06#1",
+    "new-zj-06#2",
+    "new-zj-06#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2479,
+   "end": 2479,
+   "kind": "※",
+   "term": "天癸 腎中精氣 充盈 생성",
+   "where": [
+    "new-zj-06#2",
+    "new-zj-06#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2481,
+   "end": 2481,
+   "kind": "번호",
+   "term": "腎陰 滋潤 濡養 元陰 眞陰",
+   "where": [
+    "new-jq-17#5",
+    "hist-08a#5",
+    "hist-08a#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2482,
+   "end": 2482,
+   "kind": "번호",
+   "term": "腎陽 溫煦 推動 元陽 眞陽",
+   "where": [
+    "new-jq-17#5",
+    "new-uk-06#0",
+    "new-uk-06#2"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2484,
+   "end": 2484,
+   "kind": "※",
+   "term": "腎陰不足 潮熱盜汗 耳鳴 遺精",
+   "where": [
+    "new-zj-05#8"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2485,
+   "end": 2485,
+   "kind": "※",
+   "term": "腎陰不足→肝陽上亢 / 心腎不",
+   "where": [
+    "yyox-08#4",
+    "yyox-10#4",
+    "yyox-10#7"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2486,
+   "end": 2486,
+   "kind": "※",
+   "term": "腎陽不足 腰膝冷痛 形寒肢冷 ",
+   "where": [
+    "hp-19#6",
+    "zds-07#4"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2487,
+   "end": 2487,
+   "kind": "※",
+   "term": "腎陽不足→脾腎陽虛 / 心腎陽",
+   "where": [
+    "hp-19#6",
+    "new-zj-25#3",
+    "new-zj-25#7",
+    "new-zj-03#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2488,
+   "end": 2488,
+   "kind": "※",
+   "term": "腎精不足(腎氣虛) 寒熱 不明",
+   "where": [
+    "new-jq-15#10",
+    "new-zj-08#3"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2489,
+   "end": 2489,
+   "kind": "번호",
+   "term": "腎主水 腎者水臟 主津液",
+   "where": [
+    "new-zj-06#4",
+    "new-zj-06#8",
+    "new-zj-13#5"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2490,
+   "end": 2490,
+   "kind": "번호",
+   "term": "水液代謝 2방면(津液 輸送 ",
+   "where": [
+    "new-zj-10#2",
+    "new-zj-10#7"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2493,
+   "end": 2493,
+   "kind": "※",
+   "term": "脾轉輸 肺宣降 腎氣化開闔 三",
+   "where": [
+    "new-zj-12#4",
+    "new-zj-10#0",
+    "new-zj-10#3",
+    "new-zj-10#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2494,
+   "end": 2494,
+   "kind": "번호",
+   "term": "腎陽 氣化 완성",
+   "where": [
+    "new-zj-10#1",
+    "new-zj-10#2",
+    "new-zj-10#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2495,
+   "end": 2495,
+   "kind": "번호",
+   "term": "淸中淸 淸中濁 濁中淸 濁中濁",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 淸中淸·淸中濁·濁中淸·濁中濁 水液 4갈래(2495); new-zj-06#4 보일러 정거장에 추가 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2496,
+   "end": 2496,
+   "kind": "번호",
+   "term": "腎之開闔",
+   "where": [
+    "new-zj-12#4"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2497,
+   "end": 2497,
+   "kind": "번호",
+   "term": "開=腎陽 尿 生成排出 / 闔",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 腎 開闔(腎陽爲開 · 腎陰爲闔) 2497-2499 정거장 없음; 문제집 腎主水 開闔 문항 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2499,
+   "end": 2499,
+   "kind": "번호",
+   "term": "陰虛陽亢 開多闔少 / 陽虛陰",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 陰虛陽亢=開多闔少 / 陽虛陰盛=開少闔多(水腫) [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2500,
+   "end": 2500,
+   "kind": "원문",
+   "term": "腎者胃之關也 關門不利 聚水 ",
+   "where": [
+    "new-zj-06#5",
+    "new-zj-06#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2501,
+   "end": 2501,
+   "kind": "번호",
+   "term": "腎主納氣 閉藏의 일부",
+   "where": [
+    "new-zj-06#0",
+    "new-zj-06#6",
+    "new-zj-06#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2502,
+   "end": 2502,
+   "kind": "번호",
+   "term": "腎爲氣之根 呼出心與肺 吸入腎",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 腎爲氣之根 · 呼出心與肺 吸入腎與肝(2502·2680) [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2503,
+   "end": 2503,
+   "kind": "※",
+   "term": "腎不納氣 呼多吸少 動輒氣喘",
+   "where": [
+    "new-zj-06#7",
+    "new-zj-06#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2504,
+   "end": 2504,
+   "kind": "번호",
+   "term": "腎主骨 精生髓 通於腦 腎生骨",
+   "where": [
+    "new-jq-03#7",
+    "zds-05#2"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2505,
+   "end": 2505,
+   "kind": "번호",
+   "term": "腎藏精→精生髓→髓養骨 齒爲骨",
+   "where": [
+    "new-zj-15#8",
+    "zds-05#2"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2507,
+   "end": 2507,
+   "kind": "※",
+   "term": "腎精不足 髓海不足 神疲 耳鳴",
+   "where": [
+    "new-zj-11#5",
+    "new-zj-11#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2508,
+   "end": 2508,
+   "kind": "번호",
+   "term": "精血同源 髮爲血之餘",
+   "where": [
+    "new-zj-15#7"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2509,
+   "end": 2509,
+   "kind": "※",
+   "term": "作强之官 伎巧出焉",
+   "where": [
+    "zds-05#0"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2510,
+   "end": 2510,
+   "kind": "번호",
+   "term": "腎藏精→精生髓→髓養骨 腦爲髓",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 2505의 되풀이 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2511,
+   "end": 2511,
+   "kind": "번호",
+   "term": "腎主骨 腦髓 충만 思惟 敏捷",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 腎主骨 효과 서술 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2512,
+   "end": 2512,
+   "kind": "번호",
+   "term": "腎其華在髮",
+   "where": [
+    "zds-05#1",
+    "zds-05#7"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2513,
+   "end": 2513,
+   "kind": "번호",
+   "term": "腎開竅於耳 司二陰 腎爲耳聾之",
+   "where": [
+    "zds-05#3",
+    "zds-05#7",
+    "zds-06#3",
+    "zds-06#4",
+    "zds-06#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2514,
+   "end": 2514,
+   "kind": "번호",
+   "term": "前陰 排尿 生殖",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 前陰 설명, zds-05#3 이 二陰을 실음 [문제집 L341,L2241행에 같은 말 있음]"
+  },
+  {
+   "line": 2516,
+   "end": 2516,
+   "kind": "※",
+   "term": "腎精氣虛衰 遺精 早泄 遺尿 ",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 腎中精氣虛衰 遺精 早泄 遺尿 尿頻 尿閉 증상(2516); 5장 밖 진단에서 다룰 수도 [문제집 L2184,L2225,L2406행에 같은 말 있음]"
+  },
+  {
+   "line": 2517,
+   "end": 2517,
+   "kind": "번호",
+   "term": "後陰 排便 腎氣化",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 後陰 설명 [문제집 L341행에 같은 말 있음]"
+  },
+  {
+   "line": 2518,
+   "end": 2518,
+   "kind": "※",
+   "term": "腎陽虛衰 便秘 / 腎陽不足 ",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 腎陽虛衰 便秘 / 腎陽不足 便溏 / 腎氣不固 久泄脫肛 / 腎陰不足 便秘 네 갈래 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2519,
+   "end": 2519,
+   "kind": "※",
+   "term": "腎精不足 耳鳴 聽力減退",
+   "where": [
+    "new-zj-11#5",
+    "new-zj-11#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2520,
+   "end": 2520,
+   "kind": "번호",
+   "term": "腎爲胃之關 關門不利 胕腫",
+   "where": [
+    "new-zj-06#5",
+    "new-zj-06#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2521,
+   "end": 2521,
+   "kind": "번호",
+   "term": "在志爲恐(恐自內生 驚自外生)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 在志爲恐(恐自內生 驚自外生) · 在液爲唾 多唾; zds-05#5가 唾만 실음, new-etc-06 확인 필요 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2522,
+   "end": 2522,
+   "kind": "정의",
+   "term": "膀胱 貯尿 排尿",
+   "where": [
+    "new-zj-10#0",
+    "new-zj-10#1",
+    "new-zj-10#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2523,
+   "end": 2523,
+   "kind": "원문",
+   "term": "膀胱 津液之府 虛受水 有上口",
+   "where": [
+    "new-zj-15#4",
+    "new-zj-15#10"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2524,
+   "end": 2524,
+   "kind": "원문",
+   "term": "津液藏焉 氣化則能出矣",
+   "where": [
+    "new-zj-10#1",
+    "new-zj-10#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2525,
+   "end": 2525,
+   "kind": "※",
+   "term": "腎氣化 尿液 生成→膀胱",
+   "where": [
+    "new-zj-10#2"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2526,
+   "end": 2526,
+   "kind": "※",
+   "term": "膀胱氣化不利 小便不利 癃閉 ",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — new-zj-10#2 癃閉·遺尿가 이미 실음 [문제집 L4602,L4604,L4655행에 같은 말 있음]"
+  },
+  {
+   "line": 2527,
+   "end": 2527,
+   "kind": "cf",
+   "term": "膀胱·腎 相互屬絡 表裏 固攝",
+   "where": [
+    "new-zj-12#4"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2529,
+   "end": 2529,
+   "kind": "※",
+   "term": "膀胱不利爲癃 不約爲遺溺",
+   "where": [
+    "new-zj-10#2",
+    "new-zj-10#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2530,
+   "end": 2530,
+   "kind": "※",
+   "term": "淸者 上蒸 汗 / 濁者 下注",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 氣化 産物: 淸者 上蒸 汗 / 濁者 下注 尿 · 小便과 땀은 氣化 産物 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2531,
+   "end": 2531,
+   "kind": "※",
+   "term": "膀胱 外候 鼻孔 / 脬 尿脬",
+   "where": [
+    "new-gr-09#1",
+    "new-gr-42#0",
+    "new-gr-42#4"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2534,
+   "end": 2534,
+   "kind": "번호",
+   "term": "命門 靈樞 目",
+   "where": [
+    "new-zj-07#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2535,
+   "end": 2535,
+   "kind": "번호",
+   "term": "命門 素問 兩腎之間 七節之旁",
+   "where": [
+    "new-zj-07#2",
+    "new-zj-07#3"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2536,
+   "end": 2536,
+   "kind": "번호",
+   "term": "命門 難經 左腎右命門",
+   "where": [
+    "new-zj-07#2",
+    "new-zj-07#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2537,
+   "end": 2537,
+   "kind": "번호",
+   "term": "命門 虞摶 醫學正傳 兩腎總命",
+   "where": [
+    "new-zj-07#2",
+    "new-zj-07#6"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2538,
+   "end": 2538,
+   "kind": "번호",
+   "term": "命門 張景岳 兩腎之間 子宮命",
+   "where": [
+    "new-zj-07#4",
+    "new-zj-07#5",
+    "new-zj-07#6",
+    "new-zj-07#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2539,
+   "end": 2539,
+   "kind": "번호",
+   "term": "命門 孫一奎 醫旨緖餘 腎間動",
+   "where": [
+    "new-zj-07#3",
+    "new-zj-07#6",
+    "hist-08b#3",
+    "hist-08b#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2540,
+   "end": 2540,
+   "kind": "번호",
+   "term": "命門 外候 印堂(明堂 命堂)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 命門 外候 印堂; new-zj-07에 정거장 없음 [문제집 L3122,L3125,L3203행에 같은 말 있음]"
+  },
+  {
+   "line": 2541,
+   "end": 2541,
+   "kind": "번호",
+   "term": "命門 생리 元氣之根 熱生産 ",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 命門 생리기능 첫째(元氣의 근본 · 熱生産 發源地); new-zj-07은 이름 학설만 [문제집 L1228,L2555행에 같은 말 있음]"
+  },
+  {
+   "line": 2542,
+   "end": 2542,
+   "kind": "번호",
+   "term": "命門 三焦氣化 脾胃 溫煦 性",
+   "where": [
+    "new-uk-04#2",
+    "new-etc-10#4",
+    "new-etc-10#7",
+    "new-zj-06#1",
+    "new-zj-06#2",
+    "new-zj-02#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2543,
+   "end": 2543,
+   "kind": "원문",
+   "term": "命門爲諸神精之所舍 原氣之所繫",
+   "where": [
+    "new-jq-09#3",
+    "new-jq-09#7"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2544,
+   "end": 2544,
+   "kind": "원문",
+   "term": "命門水火之府 陰陽之宅 命門眞",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 命門水火之府 陰陽之宅 命門眞火(2544); new-zj-15#5가 腎에 붙임 → 갈림 정리 후 카드로 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2545,
+   "end": 2545,
+   "kind": "cf",
+   "term": "邪客篇 心者五藏六府之大主",
+   "where": [
+    "zds-02#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2546,
+   "end": 2546,
+   "kind": "정의",
+   "term": "三焦 孤腑 決瀆之官 水道出焉",
+   "where": [
+    "new-zj-04#11",
+    "new-zj-10#4",
+    "new-zj-10#7",
+    "new-zj-10#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2548,
+   "end": 2548,
+   "kind": "번호",
+   "term": "上焦 在心下隔 胃上口 心肺",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 三焦 部位 세 줄(上焦 在心下隔 · 中焦 在胃中脘 · 下焦 當膀胱上口)과 居之 臟(2548-2550); new-zj-10은 층 이름만 [문제집 L2207행에 같은 말 있음]"
+  },
+  {
+   "line": 2549,
+   "end": 2549,
+   "kind": "번호",
+   "term": "中焦 在胃中脘 脾胃",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 위 2548과 한 묶음 [문제집 L1202 외 8곳에 같은 말]"
+  },
+  {
+   "line": 2550,
+   "end": 2550,
+   "kind": "번호",
+   "term": "下焦 當膀胱上口 肝腎大小腸膀",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 下焦 當膀胱上口(肝 腎 大腸 小腸 膀胱 居之); 上中下焦 部位 세 줄 짝(2548-2550) [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2553,
+   "end": 2553,
+   "kind": "번호",
+   "term": "三焦 有名而無形(難經 25難",
+   "where": [
+    "new-zj-10#5",
+    "new-zj-10#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2554,
+   "end": 2554,
+   "kind": "번호",
+   "term": "三焦 網膜說 脂膜(陳無擇) ",
+   "where": [
+    "hist-02b#5",
+    "hist-01b#4",
+    "hist-01b#10"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2556,
+   "end": 2556,
+   "kind": "번호",
+   "term": "三焦 主持諸氣 全身氣機 氣化",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 2557-2561의 머리 줄 [문제집 L2212,L2386,L2636행에 같은 말 있음]"
+  },
+  {
+   "line": 2557,
+   "end": 2557,
+   "kind": "번호",
+   "term": "主持諸氣 津液氣化 決瀆",
+   "where": [
+    "new-zj-10#0",
+    "new-zj-10#3",
+    "new-zj-10#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2558,
+   "end": 2558,
+   "kind": "번호",
+   "term": "主持諸氣 水穀精微 運化",
+   "where": [
+    "new-zj-04#1",
+    "new-zj-04#5",
+    "new-zj-14#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2559,
+   "end": 2559,
+   "kind": "번호",
+   "term": "主持諸氣 全身氣化 調節 總括",
+   "where": [
+    "new-zj-10#1",
+    "new-zj-10#2",
+    "new-zj-10#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2560,
+   "end": 2560,
+   "kind": "번호",
+   "term": "三焦 原氣之別使 元氣 十二經",
+   "where": [
+    "new-zj-10#3",
+    "new-zj-10#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2561,
+   "end": 2561,
+   "kind": "번호",
+   "term": "三焦 命門之火 升降出入",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 三焦 命門之火 升降出入 [문제집 L144,L146,L279행에 같은 말 있음]"
+  },
+  {
+   "line": 2562,
+   "end": 2562,
+   "kind": "번호",
+   "term": "三焦 水穀運行 道路(難經 水",
+   "where": [
+    "new-zj-10#3",
+    "new-zj-05#0",
+    "new-zj-05#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2563,
+   "end": 2563,
+   "kind": "번호",
+   "term": "上焦主納 中焦主化 下焦主出",
+   "where": [
+    "new-zj-10#4"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2564,
+   "end": 2564,
+   "kind": "번호",
+   "term": "三焦者決瀆之官 水液 升降出入",
+   "where": [
+    "new-zj-10#3",
+    "new-zj-10#7"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2566,
+   "end": 2566,
+   "kind": "번호",
+   "term": "上焦 橫膈膜以上 心肺 頭面",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 上焦 橫膈膜以上(心肺 頭面部); 層 경계(橫膈 · 臍)를 빨래방 층 그림에 표시 [문제집 L1297 외 16곳에 같은 말]"
+  },
+  {
+   "line": 2567,
+   "end": 2567,
+   "kind": "번호",
+   "term": "上焦 기능 水穀受納(口) 精",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — new-zj-10#4 上焦如霧 로 갈음 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2568,
+   "end": 2568,
+   "kind": "원문",
+   "term": "上焦開發 宣五穀味 / 上焦如",
+   "where": [
+    "new-zj-10#4",
+    "new-zj-10#7"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2569,
+   "end": 2569,
+   "kind": "번호",
+   "term": "中焦 橫膈以下~臍以上 脾胃",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 中焦 橫膈以下~臍以上; 위 2566과 한 묶음 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2570,
+   "end": 2570,
+   "kind": "번호",
+   "term": "中焦 기능 4(腐熟 蒸化 化",
+   "where": [
+    "new-zj-10#6",
+    "new-zj-09#0",
+    "new-zj-09#3",
+    "new-jq-16#3"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2571,
+   "end": 2571,
+   "kind": "원문",
+   "term": "中焦亦並胃中 泌糟粕 蒸津液 ",
+   "where": [
+    "new-jq-11#2",
+    "new-jq-22#3"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2572,
+   "end": 2572,
+   "kind": "※",
+   "term": "中焦如漚 主腐熟水穀",
+   "where": [
+    "new-zj-10#0",
+    "new-zj-10#4",
+    "new-zj-10#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2574,
+   "end": 2574,
+   "kind": "번호",
+   "term": "下焦 肝腎小腸大腸膀胱生殖器",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 下焦 肝腎小腸大腸膀胱生殖器 居處(2574) [문제집 L210 외 27곳에 같은 말]"
+  },
+  {
+   "line": 2575,
+   "end": 2575,
+   "kind": "번호",
+   "term": "下焦 기능 糟粕傳化 二便排出",
+   "where": [
+    "new-zj-10#4"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2576,
+   "end": 2576,
+   "kind": "원문",
+   "term": "水穀者 常並居于胃中 成糟粕 ",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 下焦 水穀 滲入膀胱 원문(靈樞 營衛生會) [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2577,
+   "end": 2577,
+   "kind": "※",
+   "term": "下焦如瀆",
+   "where": [
+    "new-zj-10#0",
+    "new-zj-10#4",
+    "new-zj-10#7"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2578,
+   "end": 2578,
+   "kind": "cf",
+   "term": "上焦如霧 不散則喘滿",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 上焦如霧 不散則喘滿 · 中焦如漚 不利則留飮 · 下焦如瀆 不利則腫滿(2578-2580) 실조 세 줄; 2580만 약하게 걸림 [문제집 L2330,L3040행에 같은 말 있음]"
+  },
+  {
+   "line": 2579,
+   "end": 2579,
+   "kind": "cf",
+   "term": "中焦如漚 不利則留飮",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 위 2578과 한 쌍 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2580,
+   "end": 2580,
+   "kind": "cf",
+   "term": "下焦如瀆 不利則腫滿",
+   "where": [
+    "new-etc-09a#4",
+    "new-etc-09a#12",
+    "hp-19#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2582,
+   "end": 2582,
+   "kind": "번호",
+   "term": "膻中(氣海) 臣使之官 喜樂出",
+   "where": [
+    "new-zj-03#7"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2583,
+   "end": 2583,
+   "kind": "원문",
+   "term": "膻中者心主之宮城 / 氣之海",
+   "where": [
+    "new-gr-15#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2584,
+   "end": 2584,
+   "kind": "번호",
+   "term": "膻中 營衛氣血 運行 關與 心",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 膻中: 營衛氣血 運行 關與, 心肺 활동 조절(2584) [문제집 L3515행에 같은 말 있음]"
+  },
+  {
+   "line": 2585,
+   "end": 2585,
+   "kind": "번호",
+   "term": "心包 代心受邪",
+   "where": [
+    "new-zj-03#7",
+    "new-zj-03#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2586,
+   "end": 2586,
+   "kind": "원문",
+   "term": "諸邪之在於心者 皆在於心之包絡",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 諸邪之在於心者 皆在於心之包絡(邪客) 원문 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2587,
+   "end": 2587,
+   "kind": "cf",
+   "term": "心包病證 熱入心包 痰閉心包",
+   "where": [
+    "new-zj-20#1",
+    "new-zj-20#7",
+    "zds-16#7"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2589,
+   "end": 2589,
+   "kind": "번호",
+   "term": "奇恒之府 6종 腦髓骨脈膽女子",
+   "where": [
+    "new-zj-07#4",
+    "new-zj-07#5",
+    "new-zj-07#6",
+    "zds-05#2",
+    "new-zj-15#1",
+    "new-zj-15#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2590,
+   "end": 2590,
+   "kind": "번호",
+   "term": "奇恒之府 形態 中腔 機能 藏",
+   "where": [
+    "new-zj-11#0",
+    "new-zj-11#1",
+    "new-zj-11#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2591,
+   "end": 2591,
+   "kind": "원문",
+   "term": "地氣之所生 藏於陰而象於地 (",
+   "where": [
+    "new-zj-11#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2592,
+   "end": 2592,
+   "kind": "번호",
+   "term": "膽 六腑 / 나머지 表裏 五",
+   "where": [
+    "new-zj-11#4",
+    "new-zj-11#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2593,
+   "end": 2593,
+   "kind": "번호",
+   "term": "腦髓骨女子胞 腎에 속함",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 腦 髓 骨 女子胞는 腎에 속함(腦者髓之海 腎之合骨也); 문제집 奇恒之府 문항 확인 필요 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2594,
+   "end": 2594,
+   "kind": "cf",
+   "term": "傳化之腑 天氣之所生",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 傳化之腑 大腸 小腸 胃 膀胱 三焦 天氣所生; 奇恒之府 地氣所生과 대비(new-zj-11#1) [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2595,
+   "end": 2595,
+   "kind": "번호",
+   "term": "腦 腦爲髓之海 諸髓者皆屬于腦",
+   "where": [
+    "zds-05#2"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2596,
+   "end": 2596,
+   "kind": "원문",
+   "term": "五臟六府之精氣 皆上注于目 .",
+   "where": [
+    "new-zj-17#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2597,
+   "end": 2597,
+   "kind": "원문",
+   "term": "髓海不足 腦轉耳鳴(海論) /",
+   "where": [
+    "new-zj-11#5",
+    "new-zj-11#6",
+    "new-zj-15#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2599,
+   "end": 2599,
+   "kind": "번호",
+   "term": "腦爲元神之府 李時珍 汪昂 王",
+   "where": [
+    "new-zj-07#5",
+    "new-zj-07#6",
+    "new-zj-15#3",
+    "hist-10#2",
+    "hist-10#3",
+    "hist-10#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2600,
+   "end": 2600,
+   "kind": "번호",
+   "term": "腦髓不足 질병 五遲 塡精補髓",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 腦髓不足 질병(先天大腦發育不全 骨軟 五遲); 문제집 확인 필요 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2601,
+   "end": 2601,
+   "kind": "번호",
+   "term": "頭爲諸陽之會 陽氣不升 眩暈",
+   "where": [
+    "mer-02#6",
+    "new-gr-16#6",
+    "new-gr-16#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2603,
+   "end": 2603,
+   "kind": "번호",
+   "term": "骨 形體維持 內臟保護 用力",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 骨 기능 개괄 서술 [문제집 L2326,L2327행에 같은 말 있음]"
+  },
+  {
+   "line": 2604,
+   "end": 2604,
+   "kind": "번호",
+   "term": "骨 生長發育 腎中精氣 盛衰",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 腎精과 骨 성장, zds-05#2가 實는 실음 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2605,
+   "end": 2605,
+   "kind": "※",
+   "term": "腎精不足 囟門閉遲 骨軟 腰膝",
+   "where": [
+    "new-zj-06#3",
+    "new-zj-06#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2606,
+   "end": 2606,
+   "kind": "번호",
+   "term": "髓 腎中精氣 化生",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 髓는 腎中精氣에서 化生(zds-05#2와 중복) [문제집 L3606행에 같은 말 있음]"
+  },
+  {
+   "line": 2607,
+   "end": 2607,
+   "kind": "번호",
+   "term": "髓 생리 骨格營養 腦髓充養",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 髓 생리기능 서술 [문제집 L1536,L1539,L1650행에 같은 말 있음]"
+  },
+  {
+   "line": 2609,
+   "end": 2609,
+   "kind": "원문",
+   "term": "夫脈者血之府 壅遏營氣(決氣篇",
+   "where": [
+    "new-zj-15#2",
+    "new-zj-15#10",
+    "new-zj-03#1",
+    "new-jq-02#6",
+    "new-jq-02#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2610,
+   "end": 2610,
+   "kind": "※",
+   "term": "脈機能失調 出血 血瘀 脈管閉",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 脈 機能失調: 壅遏營氣 減弱→出血 / 通利失調→血瘀(2610) [문제집 L1352 외 17곳에 같은 말]"
+  },
+  {
+   "line": 2611,
+   "end": 2611,
+   "kind": "번호",
+   "term": "女子胞=胞宮 月經 出産 胎兒",
+   "where": [
+    "new-gr-13#0",
+    "new-gr-13#1",
+    "new-gr-13#11"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2612,
+   "end": 2612,
+   "kind": "번호",
+   "term": "天癸와 腎 天癸=腎中精氣 化",
+   "where": [
+    "new-zj-06#2",
+    "new-zj-06#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2613,
+   "end": 2613,
+   "kind": "번호",
+   "term": "天癸 性腺 發育 生殖機能 維",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — new-zj-06#2 天癸 정거장과 중복 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2614,
+   "end": 2614,
+   "kind": "번호",
+   "term": "天癸 至·竭 月經來潮 전제",
+   "where": [
+    "new-jq-05#1",
+    "new-jq-05#8",
+    "new-jq-05#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2616,
+   "end": 2616,
+   "kind": "번호",
+   "term": "衝脈 腎經 並行 陽明 十二經",
+   "where": [
+    "new-zj-15#9",
+    "zds-01#3"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2617,
+   "end": 2617,
+   "kind": "번호",
+   "term": "任脈 足三陰 相會 陰脈之海",
+   "where": [
+    "new-zj-06#2",
+    "new-zj-06#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2618,
+   "end": 2618,
+   "kind": "번호",
+   "term": "腎精 充盛→天癸至→衝任 生殖",
+   "where": [
+    "new-gr-13#1",
+    "new-gr-13#12"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2619,
+   "end": 2619,
+   "kind": "※",
+   "term": "衝任脈失調 月經不調 不姙",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 衝任脈失調 月經不調 不姙; new-gr-13이 經脈 쪽을 실음 [문제집 L2922,L3001행에 같은 말 있음]"
+  },
+  {
+   "line": 2621,
+   "end": 2621,
+   "kind": "번호",
+   "term": "心肝脾와 女子胞",
+   "where": [
+    "new-gr-13#12"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2622,
+   "end": 2622,
+   "kind": "※",
+   "term": "胞宮과 가장 밀접 心肝脾",
+   "where": [
+    "new-gr-13#12"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2623,
+   "end": 2623,
+   "kind": "※",
+   "term": "心脾兩虛 月經量少 / 脾不統",
+   "where": [
+    "new-zj-04#8"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2625,
+   "end": 2625,
+   "kind": "목록",
+   "term": "氣血失調 倒經",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 氣血失調 倒經(吐衄); 女子胞 기능실조 셋 정거장 없음 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2626,
+   "end": 2626,
+   "kind": "목록",
+   "term": "心肝脾腎失調 陰挺",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 心肝脾腎 실조 陰挺(胞宮下垂) [문제집 L2305,L2308,L4013행에 같은 말 있음]"
+  },
+  {
+   "line": 2627,
+   "end": 2627,
+   "kind": "목록",
+   "term": "衝任失調 月經紊亂 痛經 帶下",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 衝任脈 실조(月經紊亂 痛經 帶下 早産 流産) 정거장 없음(2625-2627 묶음) [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2628,
+   "end": 2628,
+   "kind": "질문",
+   "term": "腦 밀접 臟腑 心 肝 腎",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 腦와 밀접한 臟腑 = 心 肝 腎(2628 ◎ 출제 질문 줄) [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2631,
+   "end": 2631,
+   "kind": "번호",
+   "term": "肝心 血液 神志 心主血而藏神",
+   "where": [
+    "new-gr-13#12",
+    "mer-04#4",
+    "mer-04#7"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2632,
+   "end": 2632,
+   "kind": "번호",
+   "term": "肝心 血液방면 肝藏血 心行血",
+   "where": [
+    "new-zj-02#0",
+    "new-zj-03#1"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2633,
+   "end": 2633,
+   "kind": "※",
+   "term": "血虛證 心肝血虛 心悸 失眠 ",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 血虛證 心肝血虛(心悸 失眠 面色不華 視物昏花 爪甲不榮 月經量少) [문제집 L3107행에 같은 말 있음]"
+  },
+  {
+   "line": 2634,
+   "end": 2634,
+   "kind": "번호",
+   "term": "肝心 精神방면 心主神志 肝疏",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 肝 疏泄 정상→心情舒暢, 心主神志(2634) [문제집 L706,L708,L2143행에 같은 말 있음]"
+  },
+  {
+   "line": 2635,
+   "end": 2635,
+   "kind": "※",
+   "term": "肝血不足 心血心陰不足 神志不",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 肝血不足 心血 心陰不足 神志不安 / 心肝火旺 [문제집 L3103행에 같은 말 있음]"
+  },
+  {
+   "line": 2636,
+   "end": 2636,
+   "kind": "번호",
+   "term": "肝腎 精血同源 乙癸同源 肝腎",
+   "where": [
+    "new-zj-14#7",
+    "new-zj-14#8",
+    "new-zj-14#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2637,
+   "end": 2637,
+   "kind": "번호",
+   "term": "肝腎 藏血 藏精 / 疏泄 藏",
+   "where": [
+    "new-zj-14#7"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2638,
+   "end": 2638,
+   "kind": "※",
+   "term": "肝腎同源 腎陰不足→肝陽上亢(",
+   "where": [
+    "yyox-08#4",
+    "yyox-10#4",
+    "new-zj-07#3"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2639,
+   "end": 2639,
+   "kind": "번호",
+   "term": "肝肺 氣機升降 外輪 肝升肺降",
+   "where": [
+    "new-zj-14#1",
+    "new-zj-14#2",
+    "new-zj-14#4",
+    "new-zj-14#0",
+    "new-zj-14#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2640,
+   "end": 2640,
+   "kind": "※",
+   "term": "肝乘太過 肺降不及 氣火上逆 ",
+   "where": [
+    "new-zj-14#3",
+    "new-zj-14#9",
+    "new-zj-14#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2641,
+   "end": 2641,
+   "kind": "번호",
+   "term": "肝脾 疏泄 運化 血生成貯藏",
+   "where": [
+    "new-zj-14#3",
+    "new-zj-14#6",
+    "new-zj-09#2",
+    "new-zj-04#0",
+    "new-zj-04#1",
+    "new-zj-04#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2642,
+   "end": 2642,
+   "kind": "※",
+   "term": "肝脾不和 肝氣鬱結 脾失健運 ",
+   "where": [
+    "new-zj-14#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2644,
+   "end": 2644,
+   "kind": "※",
+   "term": "土壅木鬱 濕困脾陽 熏蒸肝膽 ",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 土壅木鬱(脾失健運 濕熱 熏蒸肝膽 黃疸); new-zj-14#6 木疏土의 짝 [문제집 L597,L637행에 같은 말 있음]"
+  },
+  {
+   "line": 2645,
+   "end": 2645,
+   "kind": "번호",
+   "term": "肝膽 表裏",
+   "where": [
+    "new-zj-11#4"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2646,
+   "end": 2646,
+   "kind": "※",
+   "term": "肝失疏泄↔膽機能失調 脇肋脹痛",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 肝失疏泄↔膽機能失調 서로 영향(脇肋脹痛 黃疸 …) [문제집 L534 외 11곳에 같은 말]"
+  },
+  {
+   "line": 2647,
+   "end": 2647,
+   "kind": "※",
+   "term": "肝膽火旺 肝膽濕熱 黃疸 脇痛",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — new-zj-09#2 黃疸로 갈음 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2649,
+   "end": 2649,
+   "kind": "번호",
+   "term": "心小腸 相爲表裏",
+   "where": [
+    "zds-02#3"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2650,
+   "end": 2650,
+   "kind": "※",
+   "term": "心火熾盛 → 小腸火熱 尿赤 ",
+   "where": [
+    "zds-07#1"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2651,
+   "end": 2651,
+   "kind": "번호",
+   "term": "心脾 血液生成 運行 心脾氣血",
+   "where": [
+    "new-zj-13#2",
+    "new-zj-13#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2652,
+   "end": 2652,
+   "kind": "※",
+   "term": "心主血 脾統血 氣血生化之源",
+   "where": [
+    "new-zj-04#0",
+    "new-zj-04#7",
+    "new-zj-04#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2653,
+   "end": 2653,
+   "kind": "번호",
+   "term": "心腎 心腎相交 水火相濟",
+   "where": [
+    "zds-07#0",
+    "zds-07#6",
+    "zds-07#8",
+    "new-zj-13#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2654,
+   "end": 2654,
+   "kind": "※",
+   "term": "心火下降 以資腎陽 / 腎水上",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 心火下降 以資腎陽 / 腎水上濟 以資心陰(2654); zds-07#6 일부 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2655,
+   "end": 2655,
+   "kind": "※",
+   "term": "心腎不交 心火亢盛 夢遺 夢交",
+   "where": [
+    "zds-07#0",
+    "zds-07#7",
+    "zds-07#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2656,
+   "end": 2656,
+   "kind": "※",
+   "term": "腎陽虛 水氣凌心",
+   "where": [
+    "new-zj-03#6",
+    "new-zj-03#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2657,
+   "end": 2657,
+   "kind": "※",
+   "term": "心陰不足→腎陰不足 心煩 失眠",
+   "where": [
+    "new-zj-05#8",
+    "new-zj-03#4"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2658,
+   "end": 2658,
+   "kind": "번호",
+   "term": "心肺 氣血 宗氣 心肺氣虛",
+   "where": [
+    "new-zj-05#1",
+    "new-zj-05#7",
+    "new-zj-03#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2659,
+   "end": 2659,
+   "kind": "※",
+   "term": "氣爲血之帥 血爲氣之母",
+   "where": [
+    "new-jq-20#0",
+    "new-jq-20#2",
+    "new-jq-20#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2660,
+   "end": 2660,
+   "kind": "※",
+   "term": "心肺 氣를 연결 중심 宗氣 ",
+   "where": [
+    "new-jq-10#2",
+    "new-jq-10#5",
+    "new-jq-10#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2661,
+   "end": 2661,
+   "kind": "※",
+   "term": "肺氣虛弱→血行遲滯 心血瘀阻 ",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 肺氣虛弱→心血瘀阻 / 心氣不足→肺氣上逆(2661) [문제집 L2886행에 같은 말 있음]"
+  },
+  {
+   "line": 2663,
+   "end": 2663,
+   "kind": "번호",
+   "term": "肝脾(脾편) 肝氣犯胃 肝脾不",
+   "where": [
+    "new-zj-14#6"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2664,
+   "end": 2664,
+   "kind": "번호",
+   "term": "脾腎 先天之本 後天之本 相互",
+   "where": [
+    "zds-05#1",
+    "new-zj-04#2",
+    "new-zj-04#12",
+    "zds-03#2",
+    "new-zj-14#8",
+    "new-zj-14#9"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2665,
+   "end": 2665,
+   "kind": "※",
+   "term": "腎陽不足→脾腎陽虛 五更泄瀉 ",
+   "where": [
+    "zds-07#4",
+    "new-zj-25#0"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2666,
+   "end": 2666,
+   "kind": "※",
+   "term": "陽氣不足 脾腎 가장 밀접",
+   "where": [
+    "new-zj-14#0",
+    "new-zj-14#8",
+    "new-zj-14#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2668,
+   "end": 2668,
+   "kind": "번호",
+   "term": "脾胃 膜으로 連結",
+   "where": [
+    "new-zj-14#5",
+    "new-zj-14#9"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2669,
+   "end": 2669,
+   "kind": "원문",
+   "term": "脾爲使 胃爲市(刺禁論)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 脾爲使 胃爲市(刺禁論); new-zj-14#5 에 한 줄 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2670,
+   "end": 2670,
+   "kind": "번호",
+   "term": "脾主升淸 胃主降濁 脾爲胃行其",
+   "where": [
+    "new-zj-04#0",
+    "new-zj-04#5",
+    "new-zj-04#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2671,
+   "end": 2671,
+   "kind": "※",
+   "term": "納食主胃 運化主脾 脾宜昇則健",
+   "where": [
+    "new-zj-14#5",
+    "new-zj-14#9"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2672,
+   "end": 2672,
+   "kind": "※",
+   "term": "脾主昇不調 中氣下陷 / 胃主",
+   "where": [
+    "new-zj-04#6",
+    "new-zj-04#9",
+    "new-zj-04#12",
+    "new-zj-09#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2673,
+   "end": 2673,
+   "kind": "※",
+   "term": "淸氣不昇→濁氣不降 / 濁氣不",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 淸氣不昇→濁氣不降 / 濁氣不降→淸氣不昇(苔厚膩 소화불량) [문제집 L4182행에 같은 말 있음]"
+  },
+  {
+   "line": 2674,
+   "end": 2674,
+   "kind": "※",
+   "term": "脾主運化 胃主受納 相互依存",
+   "where": [
+    "new-zj-04#0",
+    "new-zj-04#1",
+    "new-zj-04#3",
+    "new-zj-09#0",
+    "new-zj-09#3",
+    "new-zj-09#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2675,
+   "end": 2675,
+   "kind": "※",
+   "term": "脾喜燥 胃喜濕 燥濕相濟 胃陽",
+   "where": [
+    "new-zj-14#5"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2676,
+   "end": 2676,
+   "kind": "※",
+   "term": "脾胃居中 上下升降之樞紐",
+   "where": [
+    "new-zj-10#6",
+    "new-zj-10#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2677,
+   "end": 2677,
+   "kind": "※",
+   "term": "脾虛運化失職 / 胃失和降 상",
+   "where": [
+    "new-zj-04#10",
+    "new-zj-09#5",
+    "new-zj-09#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2679,
+   "end": 2679,
+   "kind": "번호",
+   "term": "肺腎 呼吸 水液代謝",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 2680-2685의 머리 줄 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2680,
+   "end": 2680,
+   "kind": "번호",
+   "term": "肺腎 呼吸 肺爲氣之主 腎爲氣",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 肺爲氣之主 腎爲氣之根 呼出心與肺 吸入腎與肝(2680) [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2681,
+   "end": 2681,
+   "kind": "※",
+   "term": "腎氣虛衰→腎不納氣 動則氣喘",
+   "where": [
+    "new-zj-06#7",
+    "new-zj-06#8",
+    "new-zj-13#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2682,
+   "end": 2682,
+   "kind": "번호",
+   "term": "肺腎 水液 水腫 가능",
+   "where": [
+    "new-zj-13#5"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2683,
+   "end": 2683,
+   "kind": "번호",
+   "term": "肺 水之上源 / 腎 氣化 腎",
+   "where": [
+    "new-zj-05#4",
+    "new-zj-05#10",
+    "new-zj-13#5",
+    "new-zj-06#5",
+    "new-zj-06#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2685,
+   "end": 2685,
+   "kind": "※",
+   "term": "肺腎陰虛 兩顴嫩紅 骨蒸潮熱 ",
+   "where": [
+    "zds-09#6",
+    "hp-16#4",
+    "hp-19#3"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2686,
+   "end": 2686,
+   "kind": "번호",
+   "term": "肺脾 氣의 生成 水液代謝",
+   "where": [
+    "new-zj-13#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2687,
+   "end": 2687,
+   "kind": "번호",
+   "term": "肺脾 氣生成 肺脾氣虛 淸氣 ",
+   "where": [
+    "new-zj-13#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2689,
+   "end": 2689,
+   "kind": "번호",
+   "term": "肺脾 水液 肺通調 脾運化 水",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 肺 水之上源 + 脾 水液代謝之樞紐 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2690,
+   "end": 2690,
+   "kind": "※",
+   "term": "肺爲貯痰之器 脾爲生痰之源",
+   "where": [
+    "new-zj-13#4",
+    "new-zj-13#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2691,
+   "end": 2691,
+   "kind": "번호",
+   "term": "肺大腸 肅降↔傳導",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 肺↔大腸(肺氣肅降이 傳導를 돕고 傳導가 肅降을 도움 · 氣虛便秘 · 實熱結→喘咳); 문제집 211번 [문제집 L551 외 33곳에 같은 말]"
+  },
+  {
+   "line": 2692,
+   "end": 2692,
+   "kind": "※",
+   "term": "肺氣虛弱 氣虛便秘 / 大腸不",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 肺氣虛弱 氣虛便秘/泄瀉失禁 · 大腸實熱→肺氣肅降失常(2692) [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2695,
+   "end": 2695,
+   "kind": "번호",
+   "term": "腎 肺爲氣之主 腎爲氣之本",
+   "where": [
+    "zds-06#6",
+    "new-zj-13#7"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2696,
+   "end": 2696,
+   "kind": "번호",
+   "term": "腎主水 脾運化水液 火不生土",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 腎主水 脾運化水液 · 火不生土 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2698,
+   "end": 2698,
+   "kind": "번호",
+   "term": "六腑 傳道 化物 협동",
+   "where": [
+    "new-zj-09#7",
+    "new-zj-09#9",
+    "new-zj-11#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2699,
+   "end": 2699,
+   "kind": "번호",
+   "term": "胃腐熟→小腸淸濁→大腸燥化傳道",
+   "where": [
+    "new-zj-09#0",
+    "new-zj-09#8",
+    "new-zj-09#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2700,
+   "end": 2700,
+   "kind": "번호",
+   "term": "膽汁分泌 消化 도움",
+   "where": [
+    "new-zj-09#2",
+    "new-zj-09#10",
+    "new-zj-02#3"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2701,
+   "end": 2701,
+   "kind": "번호",
+   "term": "三焦 水道疏通 消化吸收排泄",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 2707 三焦氣化不利와 묶음, new-zj-10 소관 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2703,
+   "end": 2703,
+   "kind": "※",
+   "term": "胃實熱 津液消灼 大腸傳導不利",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 六腑 병리 상호영향(胃實熱→大腸 等) 네 줄(2703-2706); new-zj-09 이후 정거장 없음 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2704,
+   "end": 2704,
+   "kind": "※",
+   "term": "大腸燥結 胃氣上逆 惡心 嘔吐",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 2703과 같은 묶음 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2705,
+   "end": 2705,
+   "kind": "※",
+   "term": "膽火熾盛 犯胃 嘔吐苦水",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 六腑 病理 상호영향 네 줄(胃實熱→大腸 · 大腸燥結→胃 · 膽火→胃 · 脾胃濕熱→肝膽)(2703-2706) [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2706,
+   "end": 2706,
+   "kind": "※",
+   "term": "脾胃濕熱 熏蒸肝膽 黃疸",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 위 2705와 한 묶음 [문제집 L2856행에 같은 말 있음]"
+  },
+  {
+   "line": 2707,
+   "end": 2707,
+   "kind": "※",
+   "term": "三焦氣化不利 上焦 中焦 下焦",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 三焦氣化不利 上焦 中焦 下焦 각 영향 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2708,
+   "end": 2708,
+   "kind": "질문",
+   "term": "膽의 藏象學的 의의와 근거",
+   "where": [
+    "new-zj-09#0",
+    "new-zj-09#1",
+    "new-zj-09#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2709,
+   "end": 2709,
+   "kind": "질문",
+   "term": "天癸 정의 腎精 化生 男女 ",
+   "where": [
+    "new-zj-06#2",
+    "new-zj-06#8",
+    "new-uk-03#3",
+    "new-uk-03#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2710,
+   "end": 2710,
+   "kind": "질문",
+   "term": "腦髓骨 腎 관계 骨藏精 精生",
+   "where": [
+    "new-jq-03#7"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2711,
+   "end": 2711,
+   "kind": "질문",
+   "term": "靈蘭秘典論 十二官 원문 五臟",
+   "where": [
+    "new-zj-10#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2713,
+   "end": 2713,
+   "kind": "표행",
+   "term": "五臟六腑 및 奇恒之腑 주요 ",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 五臟六腑 및 奇恒之腑 기능 요약표(원문 p.129, 본문 줄 없음 — 표 이미지) [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2715,
+   "end": 2715,
+   "kind": "표행",
+   "term": "靈蘭秘典論 각 장부 官名(표",
+   "where": [
+    "zds-02#1",
+    "zds-01#3",
+    "new-zj-03#7",
+    "new-zj-09#1",
+    "new-zj-09#7",
+    "new-zj-09#9",
+    "new-zj-10#1",
+    "new-zj-10#3",
+    "yyox-03#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2716,
+   "end": 2716,
+   "kind": "정의",
+   "term": "七衝門 難經 四十四難(교재 ",
+   "where": [
+    "new-zj-12#0",
+    "new-zj-12#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2717,
+   "end": 2717,
+   "kind": "번호",
+   "term": "飛門 脣",
+   "where": [
+    "new-zj-12#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2718,
+   "end": 2718,
+   "kind": "번호",
+   "term": "戶門 齒",
+   "where": [
+    "new-zj-12#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2719,
+   "end": 2719,
+   "kind": "번호",
+   "term": "吸門 會厭 聲音之戶",
+   "where": [
+    "new-zj-12#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2720,
+   "end": 2720,
+   "kind": "번호",
+   "term": "賁門 胃의 上口",
+   "where": [
+    "new-zj-12#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2722,
+   "end": 2722,
+   "kind": "번호",
+   "term": "幽門 胃의 下口",
+   "where": [
+    "new-zj-12#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2723,
+   "end": 2723,
+   "kind": "번호",
+   "term": "闌門 小腸大腸 접경",
+   "where": [
+    "new-zj-12#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2724,
+   "end": 2724,
+   "kind": "번호",
+   "term": "魄門 肛門",
+   "where": [
+    "new-zj-12#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2726,
+   "end": 2726,
+   "kind": "정의",
+   "term": "氣化 生化代謝 物質 에너지",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 氣化 정의 + 升浮(陽·散) vs 沈降(陰·聚)(2726-2727); new-jq-08은 氣機 升降出入만 [문제집 L645 외 59곳에 같은 말]"
+  },
+  {
+   "line": 2727,
+   "end": 2727,
+   "kind": "번호",
+   "term": "氣化 升降浮沈 升浮=陽=散 ",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 위 2726과 한 묶음 [문제집 L4695,L4780행에 같은 말 있음]"
+  },
+  {
+   "line": 2729,
+   "end": 2729,
+   "kind": "원문",
+   "term": "人之生也 氣之聚也",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 人之生也 氣之聚也(2729) [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2730,
+   "end": 2730,
+   "kind": "원문",
+   "term": "氣化不休 生命不息",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 氣化不休 生命不息(2730) [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2731,
+   "end": 2731,
+   "kind": "번호",
+   "term": "氣=精氣津液血脈 六氣 相互化",
+   "where": [
+    "new-jq-02#0",
+    "new-jq-02#7",
+    "new-uk-12#0"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2732,
+   "end": 2732,
+   "kind": "원문",
+   "term": "陽化氣 陰成形",
+   "where": [
+    "new-uk-03#0",
+    "new-uk-03#2",
+    "new-uk-03#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2733,
+   "end": 2733,
+   "kind": "번호",
+   "term": "水化爲氣 / 氣化爲水(水穀→",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 水化爲氣 / 氣化爲水(水穀→肺→氣, 氣→腎→膀胱→尿) [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2734,
+   "end": 2734,
+   "kind": "번호",
+   "term": "氣化 動力 腎間動氣 胸中宗氣",
+   "where": [
+    "hist-01a#3",
+    "hist-01a#11",
+    "hist-08b#3"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2735,
+   "end": 2735,
+   "kind": "번호",
+   "term": "腎間動氣 命門火 原初動力",
+   "where": [
+    "hist-01a#3",
+    "hist-01a#11",
+    "hist-08b#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2736,
+   "end": 2736,
+   "kind": "번호",
+   "term": "胸中宗氣 內氣外氣 起點",
+   "where": [
+    "new-jq-10#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2737,
+   "end": 2737,
+   "kind": "번호",
+   "term": "宗氣 胸中陽氣 淸氣 穀氣 相",
+   "where": [
+    "new-jq-10#2"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2738,
+   "end": 2738,
+   "kind": "번호",
+   "term": "宗氣 氣海=膻中",
+   "where": [
+    "new-gr-01#7",
+    "new-gr-15#5",
+    "new-gr-15#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2739,
+   "end": 2739,
+   "kind": "번호",
+   "term": "氣化 規律 升降出入",
+   "where": [
+    "new-zj-02#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2740,
+   "end": 2740,
+   "kind": "번호",
+   "term": "脾胃 樞軸 肝肺 外輪 心腎 ",
+   "where": [
+    "new-zj-14#0",
+    "new-zj-14#1",
+    "new-zj-14#9",
+    "new-zj-03#6"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2741,
+   "end": 2741,
+   "kind": "원문",
+   "term": "升已而降 降者謂天 降已而升 ",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 升已而降 降已而升(六微旨大論) [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2742,
+   "end": 2742,
+   "kind": "번호",
+   "term": "脾胃 升降之樞軸 脾升胃降",
+   "where": [
+    "new-zj-14#1"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2743,
+   "end": 2743,
+   "kind": "번호",
+   "term": "肝肺 升降外輪 肝左升 肺右降",
+   "where": [
+    "hist-09#4",
+    "hist-09#5",
+    "hist-09#11",
+    "new-zj-14#0",
+    "new-zj-14#1",
+    "new-zj-14#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2744,
+   "end": 2744,
+   "kind": "번호",
+   "term": "心腎 升降根本 心火下降 腎水",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 心腎=升降之根本(心火下降 腎水上升); new-zj-14는 中軸·外輪 둘만 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2747,
+   "end": 2747,
+   "kind": "번호",
+   "term": "升降失調 降多升少 陽氣下陷 ",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 降多升少=陽氣下陷 / 升多降少=氣逆上衝 [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2748,
+   "end": 2748,
+   "kind": "번호",
+   "term": "九種氣病",
+   "where": [
+    "hp-11#1",
+    "hp-11#7"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2750,
+   "end": 2750,
+   "kind": "번호",
+   "term": "脾胃 升降失調 脾氣下陷 飱泄",
+   "where": [
+    "new-zj-04#6",
+    "new-zj-09#5"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2752,
+   "end": 2752,
+   "kind": "번호",
+   "term": "肝肺 升降失調 肝喜條達 肺喜",
+   "where": [
+    "new-zj-14#2"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2753,
+   "end": 2753,
+   "kind": "번호",
+   "term": "心腎 升降失調 心腎不交 水火",
+   "where": [
+    "zds-07#6"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2754,
+   "end": 2754,
+   "kind": "원문",
+   "term": "寒之不寒 壯水之主 / 熱之不",
+   "where": [
+    "new-uk-05#6",
+    "new-uk-05#7",
+    "hp-15#5"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2755,
+   "end": 2755,
+   "kind": "번호",
+   "term": "九種氣病의 病理(p.127 ",
+   "where": [
+    "hp-11#1",
+    "hp-11#7"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2756,
+   "end": 2756,
+   "kind": "질문",
+   "term": "氣化 기본형식 升降出入 非出",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 氣化 기본형식 升降出入, 非出入無以生長壯老已(2756) [문제집에 같은 말 없음]"
+  },
+  {
+   "line": 2758,
+   "end": 2758,
+   "kind": "번호",
+   "term": "五味 肝苦急 急食甘以緩之",
+   "where": [
+    "new-etc-16#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2759,
+   "end": 2759,
+   "kind": "번호",
+   "term": "五味 心苦緩 急食酸以收之",
+   "where": [
+    "new-etc-16#2"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2760,
+   "end": 2760,
+   "kind": "번호",
+   "term": "五味 脾苦濕 急食苦以燥之",
+   "where": [
+    "new-etc-16#3"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2761,
+   "end": 2761,
+   "kind": "번호",
+   "term": "五味 肺苦氣上逆 急食苦以泄之",
+   "where": [
+    "new-etc-16#4"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2762,
+   "end": 2762,
+   "kind": "번호",
+   "term": "五味 腎苦燥 急食辛以潤之",
+   "where": [
+    "new-etc-16#5"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2764,
+   "end": 2764,
+   "kind": "원문",
+   "term": "腰者腎之府 轉腰不能 腎將憊",
+   "where": [
+    "new-zj-15#1"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 2765,
+   "end": 2765,
+   "kind": "원문",
+   "term": "背者胸中之府 背曲肩隨 府將壞",
+   "where": [
+    "new-zj-15#1",
+    "new-zj-15#3"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2766,
+   "end": 2766,
+   "kind": "원문",
+   "term": "頭者精明之府 頭傾視深 精神將",
+   "where": [
+    "new-zj-15#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 2767,
+   "end": 2767,
+   "kind": "원문",
+   "term": "骨者髓之府 不能久立 行則振掉",
+   "where": [
+    "new-zj-15#1",
+    "new-zj-15#2",
+    "new-uk-02#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2768,
+   "end": 2768,
+   "kind": "원문",
+   "term": "膝者筋之府 屈伸不能 行則僂附",
+   "where": [
+    "new-zj-15#1",
+    "new-uk-02#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2769,
+   "end": 2769,
+   "kind": "cf",
+   "term": "脈은 血之府",
+   "where": [
+    "new-zj-15#2",
+    "new-zj-15#10",
+    "new-zj-03#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2770,
+   "end": 2770,
+   "kind": "cf",
+   "term": "汗孔 玄府 氣門 元府 鬼門 ",
+   "where": [
+    "new-zj-12#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2771,
+   "end": 2771,
+   "kind": "cf",
+   "term": "三焦 孤府",
+   "where": [
+    "new-zj-04#11",
+    "new-zj-10#4",
+    "new-zj-10#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 2772,
+   "end": 2772,
+   "kind": "cf",
+   "term": "腦 元神之府 髓之海 / 津液",
+   "where": [
+    "new-zj-07#5",
+    "new-zj-07#6",
+    "new-zj-15#3",
+    "new-zj-15#4",
+    "new-zj-15#10"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  }
+ ],
+ "stations": [
+  {
+   "lesson": "new-zj-01",
+   "n": 0,
+   "lines": [
+    2118,
+    2120,
+    2128
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-01",
+   "n": 1,
+   "lines": [
+    2156
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-01",
+   "n": 2,
+   "lines": [
+    2118,
+    2122
+   ],
+   "check": "갈림",
+   "note": "교재 2122는 기초 셋(해부·관찰·의료경험)인데 덱은 陰陽五行說까지 넷. 문제집 170번(L2676)은 陰陽五行說 도입 포함 모두 정답 — 원리상 둘 다 성립"
+  },
+  {
+   "lesson": "new-zj-01",
+   "n": 3,
+   "lines": [
+    2130,
+    2135
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-01",
+   "n": 4,
+   "lines": [
+    2131,
+    2140
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-01",
+   "n": 5,
+   "lines": [
+    2134,
+    2139
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-01",
+   "n": 6,
+   "lines": [
+    2141
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-01",
+   "n": 7,
+   "lines": [
+    2147,
+    2148
+   ],
+   "check": "맞음",
+   "note": "雌 글자는 교재에 없고 雄만(2148). 靜·動·內·外는 일치 — 대응어로 보이나 확인 필요"
+  },
+  {
+   "lesson": "new-zj-01",
+   "n": 8,
+   "lines": [
+    2125
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-01",
+   "n": 9,
+   "lines": [
+    2130,
+    2131,
+    2134,
+    2141,
+    2156
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-02",
+   "n": 0,
+   "lines": [
+    2189,
+    2192
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-02",
+   "n": 1,
+   "lines": [
+    2201,
+    2230
+   ],
+   "check": "갈림",
+   "note": "덱의 다섯 방면(氣機·情志·脾胃·血行·水液)과 교재 2201-2230의 다섯 항(氣機·脾胃·情志·月經排精·기타) 분류가 다름. 둘 다 疏泄의 통설 — 총강 확인 필요"
+  },
+  {
+   "lesson": "new-zj-02",
+   "n": 2,
+   "lines": [
+    2224,
+    2227,
+    2228
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-02",
+   "n": 3,
+   "lines": [
+    2210,
+    2215,
+    2637
+   ],
+   "check": "갈림",
+   "note": "脾胃 協調·膽汁은 교재 2210-2216 일치. 「腎 封藏과는 제약」은 교재 2637(肝疏泄·腎藏精의 관계=月經·泄精)의 협조 서술과 결이 다르고 new-zj-14#7(藏泄互用)과도 안 맞음 — 한쪽 판정 말고 나란히"
+  },
+  {
+   "lesson": "new-zj-02",
+   "n": 4,
+   "lines": [
+    2231
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-02",
+   "n": 5,
+   "lines": [
+    2229,
+    2230
+   ],
+   "check": "교재에없음",
+   "note": "水液·生殖 두 축 + 「6기능설」 구분은 교재에 없음(교재는 월경·배정을 ④로, 三焦 通調水道는 ⑤ 기타로). 카드 JSG-051, 총강 확인 필요"
+  },
+  {
+   "lesson": "new-zj-02",
+   "n": 6,
+   "lines": [
+    2191,
+    2192,
+    2193
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-02",
+   "n": 7,
+   "lines": [
+    2240,
+    2241,
+    2242
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-02",
+   "n": 8,
+   "lines": [
+    2198,
+    2260
+   ],
+   "check": "맞음",
+   "note": "원인 셋(鬱結化火·暴怒傷肝·七情所傷)은 교재 2198·2260에 흩어져 있고 한 목록으로는 교재에 없음(JSG2-010)"
+  },
+  {
+   "lesson": "new-zj-02",
+   "n": 9,
+   "lines": [
+    2201,
+    2224,
+    2210,
+    2231,
+    2192,
+    2242
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-01",
+   "n": 0,
+   "lines": [
+    2246,
+    2252,
+    2258
+   ],
+   "check": "맞음",
+   "note": "惡 바람·勞 오래 걷기는 교재 6장에 없음(아래 정거장 참조)"
+  },
+  {
+   "lesson": "zds-01",
+   "n": 1,
+   "lines": [
+    2246
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-01",
+   "n": 2,
+   "lines": [
+    2246
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-01",
+   "n": 3,
+   "lines": [
+    2252,
+    2246,
+    2236
+   ],
+   "check": "맞음",
+   "note": "數 八·音 角·臭 臊는 교재 오행표(782행 부근)에 있음. 「血海」(肝)는 교재 6장에서 衝脈에만 붙음(2616) — 확인 필요"
+  },
+  {
+   "lesson": "zds-01",
+   "n": 4,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "五臟所惡(肝惡風 心惡熱 脾惡濕 肺惡寒 腎惡燥)는 宣明五氣 원전·카드 JSG-026. 교재 오행표 五畏 줄(782행 부근)은 다른 짝이고, 腎惡燥·脾惡濕은 7장(2826·3061·3143)에 따로 나옴"
+  },
+  {
+   "lesson": "zds-01",
+   "n": 5,
+   "lines": [
+    2258
+   ],
+   "check": "맞음",
+   "note": "五臟化液 목록은 교재 오행표(849-850행)"
+  },
+  {
+   "lesson": "zds-01",
+   "n": 6,
+   "lines": [
+    2943
+   ],
+   "check": "맞음",
+   "note": "五勞所傷은 교재 7장 2943행(범위 밖)"
+  },
+  {
+   "lesson": "zds-01",
+   "n": 7,
+   "lines": [
+    2246,
+    2252,
+    2258
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-03",
+   "n": 0,
+   "lines": [
+    2287
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-03",
+   "n": 1,
+   "lines": [
+    2293,
+    2609
+   ],
+   "check": "갈림",
+   "note": "諸血者皆屬於心(五臟生成論)은 교재 6장에 없음. 夫脈者血之府를 덱은 素問 脈要精微論, 교재 2609는 靈樞 決氣篇으로 적음 — 두 편에 모두 근거 구절이 있어 출전만 갈림"
+  },
+  {
+   "lesson": "new-zj-03",
+   "n": 2,
+   "lines": [
+    2304,
+    2305,
+    2306,
+    2308,
+    2313
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-03",
+   "n": 3,
+   "lines": [
+    2309,
+    2310,
+    2311,
+    2312,
+    2443
+   ],
+   "check": "맞음",
+   "note": "得神者昌 失神者亡은 교재 6장에 없음"
+  },
+  {
+   "lesson": "new-zj-03",
+   "n": 4,
+   "lines": [
+    2310,
+    2633,
+    2657
+   ],
+   "check": "맞음",
+   "note": "共通·血虛(面色無華)는 교재 2310·2633. 陰虛의 五心煩熱 · 脈 細/細數은 교재 6장에 없음(JSG-036)"
+  },
+  {
+   "lesson": "new-zj-03",
+   "n": 5,
+   "lines": [
+    2661,
+    2316
+   ],
+   "check": "교재에없음",
+   "note": "心陽虛 證(心胸憋悶刺痛·肢冷·脈伏)과 瘀血薄心脈은 교재 6장에 없음(2661 心血瘀阻 脣靑 舌紫 정도) — 카드 JSG2-014 · JSG3-008"
+  },
+  {
+   "lesson": "new-zj-03",
+   "n": 6,
+   "lines": [
+    2656
+   ],
+   "check": "맞음",
+   "note": "「心陽·脾陽虛로도」는 교재 2656에 腎陽虛만 — 보충"
+  },
+  {
+   "lesson": "new-zj-03",
+   "n": 7,
+   "lines": [
+    2329,
+    2582,
+    2585
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-03",
+   "n": 8,
+   "lines": [
+    2287,
+    2293,
+    2304,
+    2310,
+    2656,
+    2585
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-02",
+   "n": 0,
+   "lines": [
+    2287
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-02",
+   "n": 1,
+   "lines": [
+    2303,
+    2326,
+    2328
+   ],
+   "check": "맞음",
+   "note": "「색이 아니라 윤」은 덱의 단순화 — 교재 2328은 色澤·光彩(색 포함). 확인 필요"
+  },
+  {
+   "lesson": "zds-02",
+   "n": 2,
+   "lines": [
+    2326
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-02",
+   "n": 3,
+   "lines": [
+    2319,
+    2322,
+    2650
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-02",
+   "n": 4,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "心惡熱(五臟所惡) — 宣明五氣·카드 JSG-026. 교재 6장에 없음"
+  },
+  {
+   "lesson": "zds-02",
+   "n": 5,
+   "lines": [
+    2314
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-02",
+   "n": 6,
+   "lines": [
+    2943,
+    2254
+   ],
+   "check": "맞음",
+   "note": "五勞所傷 2943행(범위 밖)"
+  },
+  {
+   "lesson": "zds-02",
+   "n": 7,
+   "lines": [
+    2303,
+    2326,
+    2319,
+    2314
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-04",
+   "n": 0,
+   "lines": [
+    2345
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-04",
+   "n": 1,
+   "lines": [
+    2352,
+    2353,
+    2357
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-04",
+   "n": 2,
+   "lines": [
+    2348
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-04",
+   "n": 3,
+   "lines": [
+    2355
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-04",
+   "n": 4,
+   "lines": [
+    2357,
+    2358
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-04",
+   "n": 5,
+   "lines": [
+    2363,
+    2364,
+    2365,
+    2366
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-04",
+   "n": 6,
+   "lines": [
+    2367
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-04",
+   "n": 7,
+   "lines": [
+    2370,
+    2371
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-04",
+   "n": 8,
+   "lines": [
+    2623,
+    2370
+   ],
+   "check": "맞음",
+   "note": "便血은 교재 6장 어디에도 없음 — 崩漏(2623)와 量多色淡은 확인 필요"
+  },
+  {
+   "lesson": "new-zj-04",
+   "n": 9,
+   "lines": [
+    2355,
+    2358,
+    2367,
+    2370
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-04",
+   "n": 10,
+   "lines": [
+    2362,
+    2355
+   ],
+   "check": "다름",
+   "note": "脾失健運 증상: 교재 2362는 不思飮食·水腫·脘腹墜脹·眩暈. 덱은 眩暈이 빠지고 便血·苔膩이 더해짐(腹瀉·肢倦은 2355). JSG2-015"
+  },
+  {
+   "lesson": "new-zj-04",
+   "n": 11,
+   "lines": [
+    2354,
+    2546
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-04",
+   "n": 12,
+   "lines": [
+    2352,
+    2358,
+    2367,
+    2370
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-03",
+   "n": 0,
+   "lines": [
+    2376,
+    2373,
+    2350
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-03",
+   "n": 1,
+   "lines": [
+    2376
+   ],
+   "check": "맞음",
+   "note": "四白은 교재에 없음(其華在脣만)"
+  },
+  {
+   "lesson": "zds-03",
+   "n": 2,
+   "lines": [
+    2373
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-03",
+   "n": 3,
+   "lines": [
+    2376
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-03",
+   "n": 4,
+   "lines": [
+    2350,
+    2383
+   ],
+   "check": "맞음",
+   "note": "喜燥惡濕 ↔ 喜濕惡燥는 교재 2350·2383. 五臟所惡 일람은 교재에 없음"
+  },
+  {
+   "lesson": "zds-03",
+   "n": 5,
+   "lines": [
+    850
+   ],
+   "check": "맞음",
+   "note": "五液 표는 교재 849-850행(범위 밖)"
+  },
+  {
+   "lesson": "zds-03",
+   "n": 6,
+   "lines": [
+    2943
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-03",
+   "n": 7,
+   "lines": [
+    2376,
+    2373,
+    2350
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-05",
+   "n": 0,
+   "lines": [
+    2400
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-05",
+   "n": 1,
+   "lines": [
+    2404,
+    2405,
+    2408
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-05",
+   "n": 2,
+   "lines": [
+    2416,
+    2418,
+    2419,
+    2420
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-05",
+   "n": 3,
+   "lines": [
+    2422,
+    2423,
+    2424,
+    2425
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-05",
+   "n": 4,
+   "lines": [
+    2428,
+    2429,
+    2343
+   ],
+   "check": "갈림",
+   "note": "「小腸을 上源으로 바꾸는 함정」: 교재 2343은 小腸爲水道之上源으로 적고, 문제집 L1403-1405는 水道之上源=肺·小腸은 아니라고 해설. 교재와 문제집이 엇갈림"
+  },
+  {
+   "lesson": "new-zj-05",
+   "n": 5,
+   "lines": [
+    2360,
+    2433
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-05",
+   "n": 6,
+   "lines": [
+    2431,
+    2432
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-05",
+   "n": 7,
+   "lines": [
+    2435,
+    2436,
+    2437,
+    2442
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-05",
+   "n": 8,
+   "lines": [
+    2692,
+    2685
+   ],
+   "check": "교재에없음",
+   "note": "肺氣虛(自汗·易感冒·少氣)·肺陰虛(潮熱盜汗·痰中帶血) 감별은 교재 6장에 부분적(2685 肺腎陰虛, 2692 氣虛便秘)뿐 — 카드 JSG-037"
+  },
+  {
+   "lesson": "new-zj-05",
+   "n": 9,
+   "lines": [
+    2446
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-05",
+   "n": 10,
+   "lines": [
+    2404,
+    2416,
+    2422,
+    2429,
+    2431,
+    2435,
+    2446
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-04",
+   "n": 0,
+   "lines": [
+    2412
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-04",
+   "n": 1,
+   "lines": [
+    2412
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-04",
+   "n": 2,
+   "lines": [
+    2412
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-04",
+   "n": 3,
+   "lines": [
+    2444
+   ],
+   "check": "맞음",
+   "note": "西方·數九·音商·臭腥은 교재 오행표(735-740행 부근)"
+  },
+  {
+   "lesson": "zds-04",
+   "n": 4,
+   "lines": [
+    2449
+   ],
+   "check": "교재에없음",
+   "note": "肺惡寒(五臟所惡) — 宣明五氣·JSG-026. 교재 2449는 肺爲嬌臟(不耐寒熱)까지"
+  },
+  {
+   "lesson": "zds-04",
+   "n": 5,
+   "lines": [
+    850
+   ],
+   "check": "맞음",
+   "note": "五液 표 849-850행 · 肺의 憂는 2453"
+  },
+  {
+   "lesson": "zds-04",
+   "n": 6,
+   "lines": [
+    2943
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-04",
+   "n": 7,
+   "lines": [
+    2412,
+    2444
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-06",
+   "n": 0,
+   "lines": [
+    2471
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-06",
+   "n": 1,
+   "lines": [
+    2477,
+    2473
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-06",
+   "n": 2,
+   "lines": [
+    2479,
+    2612,
+    2171,
+    2709
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-06",
+   "n": 3,
+   "lines": [
+    2605,
+    2478
+   ],
+   "check": "맞음",
+   "note": "齒牙松動은 교재 6장에 직접 없음(2478 齒更髮長) — 확인 필요"
+  },
+  {
+   "lesson": "new-zj-06",
+   "n": 4,
+   "lines": [
+    2489,
+    2490,
+    2494,
+    2497
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-06",
+   "n": 5,
+   "lines": [
+    2500,
+    2520
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-06",
+   "n": 6,
+   "lines": [
+    2501,
+    2502
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-06",
+   "n": 7,
+   "lines": [
+    2503
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-06",
+   "n": 8,
+   "lines": [
+    2473,
+    2479,
+    2605,
+    2494,
+    2500,
+    2501,
+    2503
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-05",
+   "n": 0,
+   "lines": [
+    2471
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-05",
+   "n": 1,
+   "lines": [
+    2512,
+    2472,
+    2544
+   ],
+   "check": "맞음",
+   "note": "水火之宅은 교재 2544·1469가 命門에 붙임 — 腎에 붙인 점은 new-zj-15#5 참조"
+  },
+  {
+   "lesson": "zds-05",
+   "n": 2,
+   "lines": [
+    2504,
+    2505
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-05",
+   "n": 3,
+   "lines": [
+    2513
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-05",
+   "n": 4,
+   "lines": [
+    3143
+   ],
+   "check": "맞음",
+   "note": "腎惡燥는 7장 3143행(범위 밖). 五臟所惡 일람은 교재에 없음"
+  },
+  {
+   "lesson": "zds-05",
+   "n": 5,
+   "lines": [
+    2521
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-05",
+   "n": 6,
+   "lines": [
+    2943
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-05",
+   "n": 7,
+   "lines": [
+    2512,
+    2504,
+    2513,
+    2521
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-07",
+   "n": 0,
+   "lines": [
+    2532
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-07",
+   "n": 1,
+   "lines": [
+    2534,
+    2543,
+    1374
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-07",
+   "n": 2,
+   "lines": [
+    2535,
+    2536,
+    2537,
+    2538
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-07",
+   "n": 3,
+   "lines": [
+    2539,
+    2164
+   ],
+   "check": "맞음",
+   "note": "非水非火는 교재에 없음(孫一奎 원전) — 확인 필요"
+  },
+  {
+   "lesson": "new-zj-07",
+   "n": 4,
+   "lines": [
+    2538
+   ],
+   "check": "다름",
+   "note": "張介賓 子宮命門說: 교재 2538은 「男子는 精室, 女子는 産門」, 덱은 「子宮·精管·産門」 — 精室↔精管 한 글자. 확인 필요"
+  },
+  {
+   "lesson": "new-zj-07",
+   "n": 5,
+   "lines": [
+    2164,
+    2599
+   ],
+   "check": "다름",
+   "note": "덱은 「교재는 腦爲命門說로 묶는다」고 적음. 교재 2164·2599는 李時珍=腦爲元神之府說이고 命門 절(2532-2545)에 李時珍·腦 줄이 없음. 문제집도 腦爲元神之府(L2627-2629)"
+  },
+  {
+   "lesson": "new-zj-07",
+   "n": 6,
+   "lines": [
+    2534,
+    2535,
+    2536,
+    2537,
+    2538,
+    2539
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-08",
+   "n": 0,
+   "lines": [
+    2134,
+    2242
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-08",
+   "n": 1,
+   "lines": [
+    2242,
+    2372
+   ],
+   "check": "교재에없음",
+   "note": "肝血魂만 교재(2242 血舍魂) · 脾藏營(2372). 心脈神·脾營意·肺氣魄·腎精志 짝은 교재 6장에 없음 — 문제집 131-135번(L2536-2548)·카드 JSG-022"
+  },
+  {
+   "lesson": "new-zj-08",
+   "n": 2,
+   "lines": [
+    2227
+   ],
+   "check": "교재에없음",
+   "note": "肝氣虛則恐·實則怒 / 脾氣虛則四肢不用 虛實 — 교재 6장엔 血有餘則怒·不足則恐(2227)뿐. 문제집 131-132번 · 7장 2895행 부근 ㉧ 心氣虛則悲만"
+  },
+  {
+   "lesson": "new-zj-08",
+   "n": 3,
+   "lines": [
+    2310
+   ],
+   "check": "교재에없음",
+   "note": "心·肺·腎 虛實 증상은 교재 6장에 없음(7장 2895·2899행 心氣虛則悲 實則笑不休만). 문제집 133-135번"
+  },
+  {
+   "lesson": "new-zj-08",
+   "n": 4,
+   "lines": [
+    2127,
+    2260,
+    2453,
+    2521
+   ],
+   "check": "맞음",
+   "note": "五精所并(肝憂·脾畏)은 교재에 없음(宣明五氣)"
+  },
+  {
+   "lesson": "new-zj-08",
+   "n": 5,
+   "lines": [
+    2173,
+    2175,
+    2176,
+    2177,
+    2178,
+    2179,
+    2180
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-08",
+   "n": 6,
+   "lines": [
+    2242,
+    2372,
+    2173
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-15",
+   "n": 0,
+   "lines": [
+    2134
+   ],
+   "check": "교재에없음",
+   "note": "본신 藏·舍·虛實 구성은 문제집 131-135번(L2536-2548)에 있고 교재 6장엔 血舍魂·藏營만"
+  },
+  {
+   "lesson": "new-jq-15",
+   "n": 1,
+   "lines": [
+    2242
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-15",
+   "n": 2,
+   "lines": [
+    2227
+   ],
+   "check": "교재에없음",
+   "note": "肝氣虛則恐·實則怒 — 문제집 131번 · 교재는 血有餘則怒 不足則恐(2227)"
+  },
+  {
+   "lesson": "new-jq-15",
+   "n": 3,
+   "lines": [
+    2372,
+    740
+   ],
+   "check": "맞음",
+   "note": "營舍意는 교재 740행 五精표(意)로 간접; 脾藏營 2372"
+  },
+  {
+   "lesson": "new-jq-15",
+   "n": 4,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "脾氣虛則四肢不用 · 實則腹脹 經溲不利 — 문제집 132번. 교재 6장엔 四肢不用(2375 太陰陽明論)만"
+  },
+  {
+   "lesson": "new-jq-15",
+   "n": 5,
+   "lines": [
+    740
+   ],
+   "check": "교재에없음",
+   "note": "心藏脈 脈舍神 — 문제집 133번. 교재는 神만(740·2305)"
+  },
+  {
+   "lesson": "new-jq-15",
+   "n": 6,
+   "lines": [
+    2895
+   ],
+   "check": "교재에없음",
+   "note": "心氣虛則悲 實則笑不休 — 교재 7장 2895·2899행, 문제집 133번"
+  },
+  {
+   "lesson": "new-jq-15",
+   "n": 7,
+   "lines": [
+    2412
+   ],
+   "check": "교재에없음",
+   "note": "肺藏氣 氣舍魄 — 문제집 134번. 교재 2412는 肺者氣之本 魄之處也"
+  },
+  {
+   "lesson": "new-jq-15",
+   "n": 8,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "肺氣虛則鼻塞不利少氣 · 實則喘喝 胸盈仰息 — 문제집 134번"
+  },
+  {
+   "lesson": "new-jq-15",
+   "n": 9,
+   "lines": [
+    2472
+   ],
+   "check": "교재에없음",
+   "note": "腎藏精 精舍志 — 문제집 135번. 교재 2472는 精之處也"
+  },
+  {
+   "lesson": "new-jq-15",
+   "n": 10,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "腎氣虛則厥 · 實則脹 — 문제집 135번"
+  },
+  {
+   "lesson": "new-jq-15",
+   "n": 11,
+   "lines": [
+    2242,
+    2372
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-09",
+   "n": 0,
+   "lines": [
+    2336,
+    2337,
+    2462
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-09",
+   "n": 1,
+   "lines": [
+    2282,
+    2285,
+    2277,
+    2274
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-09",
+   "n": 2,
+   "lines": [
+    2280,
+    2281,
+    2220,
+    2706
+   ],
+   "check": "맞음",
+   "note": "原因 중 陰虛火旺은 교재 6장에 없음(JSG2-029) — 확인 필요"
+  },
+  {
+   "lesson": "new-zj-09",
+   "n": 3,
+   "lines": [
+    2380,
+    2384,
+    2385
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-09",
+   "n": 4,
+   "lines": [
+    2380,
+    2383
+   ],
+   "check": "교재에없음",
+   "note": "胃氣=養生之本은 교재 2393-2398 胃氣 의미 4에 없음(카드 JSG-019). 六腑之大源·喜潤惡燥는 2380·2383 일치"
+  },
+  {
+   "lesson": "new-zj-09",
+   "n": 5,
+   "lines": [
+    2382,
+    2392,
+    2141
+   ],
+   "check": "다름",
+   "note": "덱은 「內려가야 순하다(以降爲和)」. 교재 2141은 六腑 以降爲順(2671은 胃宜降則和). 順↔和 한 글자 — JSG2-017 확인 필요"
+  },
+  {
+   "lesson": "new-zj-09",
+   "n": 6,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "胃氣虛(受納腐熟 감퇴 · 脘腹脹痛) ↔ 胃陰虛(口燥咽乾 · 飢不欲食) 감별은 교재 6장에 없음(카드 JSG-042)"
+  },
+  {
+   "lesson": "new-zj-09",
+   "n": 7,
+   "lines": [
+    2336
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-09",
+   "n": 8,
+   "lines": [
+    2337,
+    2338,
+    2339,
+    2340
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-09",
+   "n": 9,
+   "lines": [
+    2460,
+    2462,
+    2340
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-09",
+   "n": 10,
+   "lines": [
+    2282,
+    2380,
+    2336,
+    2337,
+    2462
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-10",
+   "n": 0,
+   "lines": [
+    2522,
+    2546
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-10",
+   "n": 1,
+   "lines": [
+    2523,
+    2524
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-10",
+   "n": 2,
+   "lines": [
+    2529,
+    2526
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-10",
+   "n": 3,
+   "lines": [
+    2546,
+    2564,
+    2560
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-10",
+   "n": 4,
+   "lines": [
+    2568,
+    2572,
+    2577,
+    2578,
+    2771
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-10",
+   "n": 5,
+   "lines": [
+    2553
+   ],
+   "check": "교재에없음",
+   "note": "「內經 有名有形」은 교재 6장에 없음(2553은 難經 有名無形만). 문제집 86번(마) L2386 · 카드 JSG3-004"
+  },
+  {
+   "lesson": "new-zj-10",
+   "n": 6,
+   "lines": [
+    2570,
+    2571,
+    2572
+   ],
+   "check": "갈림",
+   "note": "「糟粕을 거르는 일은 下焦, 中焦에 섞는 함정」: 교재 2570은 中焦 기능에 ㉣ 泌糟粕을 넣고 2571 營衛生會도 중초 泌糟粕. 문제집 210번(L2796-2798)은 泌糟粕=下焦로 해설 — 교재와 문제집이 엇갈림"
+  },
+  {
+   "lesson": "new-zj-10",
+   "n": 7,
+   "lines": [
+    2524,
+    2564,
+    2568,
+    2553
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-11",
+   "n": 0,
+   "lines": [
+    2589
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-11",
+   "n": 1,
+   "lines": [
+    2589,
+    2591
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-11",
+   "n": 2,
+   "lines": [
+    2590
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-11",
+   "n": 3,
+   "lines": [
+    2274,
+    2279
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-11",
+   "n": 4,
+   "lines": [
+    2592
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-11",
+   "n": 5,
+   "lines": [
+    2597
+   ],
+   "check": "맞음",
+   "note": "腦轉耳鳴 외 脛痠眩冒·目無所見·懈怠安臥는 교재 2597에 없음(靈樞 海論 원문) — 확인 필요"
+  },
+  {
+   "lesson": "new-zj-11",
+   "n": 6,
+   "lines": [
+    2589,
+    2592,
+    2597
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-13",
+   "n": 0,
+   "lines": [
+    2629
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-13",
+   "n": 1,
+   "lines": [
+    2658,
+    2659,
+    2660,
+    2653
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-13",
+   "n": 2,
+   "lines": [
+    2651,
+    2652,
+    2623,
+    2310
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-13",
+   "n": 3,
+   "lines": [
+    2623
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-13",
+   "n": 4,
+   "lines": [
+    2687,
+    2688,
+    2690
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-13",
+   "n": 5,
+   "lines": [
+    2683
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-13",
+   "n": 6,
+   "lines": [
+    2680
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-13",
+   "n": 7,
+   "lines": [
+    2411,
+    2412,
+    2687
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-13",
+   "n": 8,
+   "lines": [
+    2658,
+    2651,
+    2687,
+    2683
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-14",
+   "n": 0,
+   "lines": [
+    2740
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-14",
+   "n": 1,
+   "lines": [
+    2740,
+    2742
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-14",
+   "n": 2,
+   "lines": [
+    2743,
+    2639
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-14",
+   "n": 3,
+   "lines": [
+    2640,
+    2638
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-14",
+   "n": 4,
+   "lines": [
+    2640
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-14",
+   "n": 5,
+   "lines": [
+    2668,
+    2674,
+    2675,
+    2676
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-14",
+   "n": 6,
+   "lines": [
+    2222,
+    2641,
+    2642
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-14",
+   "n": 7,
+   "lines": [
+    2149,
+    2636,
+    2637
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-14",
+   "n": 8,
+   "lines": [
+    2664
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-14",
+   "n": 9,
+   "lines": [
+    2740,
+    2640,
+    2222,
+    2149,
+    2664
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-12",
+   "n": 0,
+   "lines": [
+    2716
+   ],
+   "check": "다름",
+   "note": "덱 「難經 四十四難」, 교재 2716 「難經 四七難」. 難經 七衝門은 44難이 통설이라 교재 오기일 수 있음 — 확인 필요"
+  },
+  {
+   "lesson": "new-zj-12",
+   "n": 1,
+   "lines": [
+    2717,
+    2718,
+    2719,
+    2720,
+    2722,
+    2723,
+    2724
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-12",
+   "n": 2,
+   "lines": [
+    2445,
+    2719
+   ],
+   "check": "맞음",
+   "note": "咽=水穀之道는 교재 6장에 없음(2445는 喉嚨 氣之所以上下)"
+  },
+  {
+   "lesson": "new-zj-12",
+   "n": 3,
+   "lines": [
+    2719
+   ],
+   "check": "교재에없음",
+   "note": "身之藥籠=會厭은 교재 2719(吸門 會厭=聲音之戶)에 없음. 문제집 L2119 · L2235 · 카드 JSG2-034"
+  },
+  {
+   "lesson": "new-zj-12",
+   "n": 4,
+   "lines": [
+    2464
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-12",
+   "n": 5,
+   "lines": [
+    2314,
+    2452,
+    2770
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-12",
+   "n": 6,
+   "lines": [
+    2717,
+    2445,
+    2464,
+    2770
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-15",
+   "n": 0,
+   "lines": [
+    2772
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-15",
+   "n": 1,
+   "lines": [
+    2764,
+    2765,
+    2766,
+    2767,
+    2768
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-15",
+   "n": 2,
+   "lines": [
+    2769,
+    2767,
+    2772
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-15",
+   "n": 3,
+   "lines": [
+    2278,
+    2772
+   ],
+   "check": "교재에없음",
+   "note": "傳道之府(大腸)·受盛之府(小腸)·元神之府의 목록은 문제집 110-115번(L2469-2484) · 교재 2772는 津液之府·傳化之府만. 中精之府(膽)는 교재 2277"
+  },
+  {
+   "lesson": "new-zj-15",
+   "n": 4,
+   "lines": [
+    2380,
+    2523,
+    2771
+   ],
+   "check": "교재에없음",
+   "note": "中瀆之府(三焦) 표기는 교재에 없음(교재는 孤府 2771). 五穀之府(胃)·津液之府(膀胱)는 일치. 문제집 115번 L2484"
+  },
+  {
+   "lesson": "new-zj-15",
+   "n": 5,
+   "lines": [
+    2544,
+    1469
+   ],
+   "check": "갈림",
+   "note": "덱은 「水火之府=腎」, 교재 2544·1469는 命門(水火之府·陰陽之宅), 문제집 L2256 해설도 「水火之府는 命門」. 腎에 命門이 속해 腎을 水火之宅이라 부르는 설도 있어 갈림"
+  },
+  {
+   "lesson": "new-zj-15",
+   "n": 6,
+   "lines": [
+    2248,
+    2246
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-15",
+   "n": 7,
+   "lines": [
+    2512
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-15",
+   "n": 8,
+   "lines": [
+    2505
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-15",
+   "n": 9,
+   "lines": [
+    2384,
+    2616
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-15",
+   "n": 10,
+   "lines": [
+    2764,
+    2769,
+    2772,
+    2278,
+    2380,
+    2523
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-06",
+   "n": 0,
+   "lines": [
+    740
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-06",
+   "n": 1,
+   "lines": [
+    740,
+    93,
+    563
+   ],
+   "check": "맞음",
+   "note": "王冰本 肝 陽中之少陽 等 거꾸로 적은 한 종은 교재에 없음(원전 판본 비교)"
+  },
+  {
+   "lesson": "zds-06",
+   "n": 2,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "新校正·全元起本 등 판본 교정은 교재에 없음(원전: 素問 六節藏象論 新校正)"
+  },
+  {
+   "lesson": "zds-06",
+   "n": 3,
+   "lines": [
+    2319
+   ],
+   "check": "교재에없음",
+   "note": "心 開竅於耳(金匱眞言論)·心寄竅於耳(新校正)는 교재 6장에 없음. 교재는 舌(2319, 850행)"
+  },
+  {
+   "lesson": "zds-06",
+   "n": 4,
+   "lines": [
+    2513,
+    850
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-06",
+   "n": 5,
+   "lines": [
+    2145
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-06",
+   "n": 6,
+   "lines": [
+    2303,
+    2412,
+    2265,
+    2472
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-06",
+   "n": 7,
+   "lines": [
+    740,
+    2145
+   ],
+   "check": "맞음",
+   "note": ""
+  }
+ ],
+ "zongang": "안 함",
+ "summary": {
+  "items": 543,
+  "없음": 130,
+  "글로만": 154,
+  "약함": 76,
+  "그림후보": 183,
+  "stations": 199,
+  "다름": 5,
+  "교재에없음": 26,
+  "갈림": 7
+ }
+}

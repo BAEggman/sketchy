@@ -1,0 +1,4949 @@
+{
+ "bundle": "L2",
+ "pass": "a",
+ "chapters": [
+  "ch02"
+ ],
+ "items": [
+  {
+   "line": 450,
+   "end": 452,
+   "kind": "정의",
+   "term": "天人相應 合一體",
+   "where": [
+    "new-uk-01#0",
+    "yyox-01#0"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 453,
+   "end": 455,
+   "kind": "번호목록",
+   "term": "天人相應규율 氣機",
+   "where": [
+    "new-uk-01#0"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 456,
+   "end": 456,
+   "kind": "원문",
+   "term": "天覆地載 莫貴於人",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 문제집 흔적 없음"
+  },
+  {
+   "line": 457,
+   "end": 457,
+   "kind": "원문",
+   "term": "天暑衣厚 腠理開",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 五癃津液別 구절, 문제집 흔적 없음"
+  },
+  {
+   "line": 458,
+   "end": 458,
+   "kind": "원문",
+   "term": "天寒腠理閉 尿與氣",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — new-jq-18#4는 五癃津液別의 다른 구절만 인용"
+  },
+  {
+   "line": 459,
+   "end": 459,
+   "kind": "원문",
+   "term": "頭圓足方 日月兩目",
+   "where": [
+    "new-uk-01#7"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 460,
+   "end": 460,
+   "kind": "원문",
+   "term": "天有晝夜 人有臥起",
+   "where": [
+    "yyox-01#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 461,
+   "end": 462,
+   "kind": "원문",
+   "term": "天人共通 旦慧晝安",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 카드 없음(dropped s09x01), 문제집 흔적 없음"
+  },
+  {
+   "line": 463,
+   "end": 463,
+   "kind": "원문",
+   "term": "衛氣 晝行陽夜行陰",
+   "where": [
+    "yyox-01#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 464,
+   "end": 465,
+   "kind": "암기",
+   "term": "異法方宜 地勢使然",
+   "where": [
+    "yyox-01#0"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 466,
+   "end": 466,
+   "kind": "표행",
+   "term": "東方 魚鹽 癰瘍砭石",
+   "where": [
+    "yyox-01#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 467,
+   "end": 467,
+   "kind": "표행",
+   "term": "西方 金玉 毒藥",
+   "where": [
+    "yyox-01#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 468,
+   "end": 468,
+   "kind": "표행",
+   "term": "北方 乳食 灸焫",
+   "where": [
+    "yyox-01#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 469,
+   "end": 469,
+   "kind": "표행",
+   "term": "南方 嗜酸 微鍼",
+   "where": [
+    "yyox-01#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 470,
+   "end": 470,
+   "kind": "표행",
+   "term": "中央 食雜 導引按蹻",
+   "where": [
+    "yyox-01#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 471,
+   "end": 471,
+   "kind": "암기",
+   "term": "春鼽衄 仲夏胸脇…",
+   "where": [
+    "new-uk-01#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 474,
+   "end": 477,
+   "kind": "번호목록",
+   "term": "無極~太極 列子",
+   "where": [
+    "yyox-12#0"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 478,
+   "end": 482,
+   "kind": "정의",
+   "term": "陰陽학설 정의",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 정의 서술문, 문제집 흔적 없음"
+  },
+  {
+   "line": 483,
+   "end": 483,
+   "kind": "※",
+   "term": "陰陽 속성 全一對待統一",
+   "where": [
+    "yyox-02#1",
+    "yyox-02#2",
+    "yyox-02#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 484,
+   "end": 484,
+   "kind": "※",
+   "term": "발전변화 分化 消長",
+   "where": [
+    "yyox-02#4",
+    "yyox-02#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 485,
+   "end": 485,
+   "kind": "※",
+   "term": "整體觀 恒動觀",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 문제집 흔적 없음(恒動觀 0)"
+  },
+  {
+   "line": 486,
+   "end": 487,
+   "kind": "번호목록",
+   "term": "基本槪念 相對·普遍·可分",
+   "where": [
+    "yyox-02#2",
+    "yyox-02#4"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 488,
+   "end": 488,
+   "kind": "번호목록",
+   "term": "學說 內容 互根轉化制約消長",
+   "where": [
+    "yyox-02#5",
+    "yyox-02#6",
+    "yyox-02#7",
+    "yyox-02#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 489,
+   "end": 489,
+   "kind": "정의",
+   "term": "互根 相互依存爲用",
+   "where": [
+    "yyox-02#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 490,
+   "end": 490,
+   "kind": "원문",
+   "term": "陽根於陰 無陽則陰無生",
+   "where": [
+    "yyox-02#5"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 491,
+   "end": 491,
+   "kind": "원문",
+   "term": "獨陰不生 獨陽不生",
+   "where": [
+    "yyox-02#5"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 492,
+   "end": 492,
+   "kind": "※",
+   "term": "陰損及陽 陽損及陰",
+   "where": [
+    "yyox-02#5",
+    "new-etc-10#2",
+    "new-etc-10#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 493,
+   "end": 495,
+   "kind": "원문",
+   "term": "陰在內陽之守 陽之使",
+   "where": [
+    "yyox-02#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 496,
+   "end": 496,
+   "kind": "원문",
+   "term": "陽强不能密 陰平陽秘",
+   "where": [
+    "yyox-02#10"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 497,
+   "end": 498,
+   "kind": "해설",
+   "term": "陽外越→秘 陰內守→平",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 해설문, 문제집 흔적 없음"
+  },
+  {
+   "line": 499,
+   "end": 500,
+   "kind": "해설",
+   "term": "陰平陽秘/離決 의미",
+   "where": [
+    "yyox-02#10"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 502,
+   "end": 502,
+   "kind": "※",
+   "term": "從陰引陽 從陽引陰",
+   "where": [
+    "new-uk-06#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 503,
+   "end": 503,
+   "kind": "원문",
+   "term": "藏精起亟 衛外爲固",
+   "where": [
+    "new-uk-03#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 504,
+   "end": 504,
+   "kind": "원문",
+   "term": "陽生陰長 陽殺陰藏",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 카드 없음(dropped), 문제집 흔적 없음"
+  },
+  {
+   "line": 505,
+   "end": 506,
+   "kind": "※",
+   "term": "陰中求陽 陽中求陰",
+   "where": [
+    "new-uk-06#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 507,
+   "end": 507,
+   "kind": "※",
+   "term": "互根=相對屬性 해설",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 해설문"
+  },
+  {
+   "line": 508,
+   "end": 508,
+   "kind": "정의",
+   "term": "陰陽轉化 정의",
+   "where": [
+    "yyox-02#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 509,
+   "end": 509,
+   "kind": "원문",
+   "term": "生化極變",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 문제집 흔적 없음"
+  },
+  {
+   "line": 510,
+   "end": 510,
+   "kind": "원문",
+   "term": "物極必反 寒極生熱",
+   "where": [
+    "yyox-02#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 511,
+   "end": 511,
+   "kind": "해설",
+   "term": "轉化=생리·病機 설명",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 해설문"
+  },
+  {
+   "line": 512,
+   "end": 512,
+   "kind": "※",
+   "term": "冬至→夏至 陰消陽長",
+   "where": [
+    "yyox-02#7"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 513,
+   "end": 513,
+   "kind": "※",
+   "term": "冬至 寒極生熱 一陽生",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — yyox-02#8 轉化 곁에 얹기(문제집 173 출제)"
+  },
+  {
+   "line": 514,
+   "end": 515,
+   "kind": "정의",
+   "term": "對立制約 相對平衡",
+   "where": [
+    "yyox-02#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 516,
+   "end": 516,
+   "kind": "※",
+   "term": "陰陽相薄 相逐",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 문제집 흔적 없음"
+  },
+  {
+   "line": 517,
+   "end": 517,
+   "kind": "※",
+   "term": "陰陽格拒 陰盛格陽",
+   "where": [
+    "hp-16#0",
+    "hp-16#4",
+    "hp-16#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 518,
+   "end": 518,
+   "kind": "원문",
+   "term": "動極鎭之以靜 陰亢勝陽",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — yyox-02#6 줄다리기 곁에 얹기(문제집 19, 정답 對立制約)"
+  },
+  {
+   "line": 519,
+   "end": 519,
+   "kind": "원문",
+   "term": "剛柔相推 繫辭",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 문제집 흔적 없음"
+  },
+  {
+   "line": 520,
+   "end": 520,
+   "kind": "※",
+   "term": "白晝黑夜 相對平衡",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 예시문"
+  },
+  {
+   "line": 521,
+   "end": 521,
+   "kind": "※",
+   "term": "陰病治陽 陽病治陰",
+   "where": [
+    "new-uk-05#6",
+    "hp-15#5",
+    "hp-15#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 522,
+   "end": 522,
+   "kind": "※",
+   "term": "陰勝卽陽病 陽勝卽陰病",
+   "where": [
+    "yyox-02#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 523,
+   "end": 523,
+   "kind": "해설",
+   "term": "寒者熱之 熱者寒之",
+   "where": [
+    "yyox-02#6",
+    "new-uk-05#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 524,
+   "end": 524,
+   "kind": "정의",
+   "term": "消長平衡 陽化氣陰成形",
+   "where": [
+    "new-uk-03#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 525,
+   "end": 525,
+   "kind": "번호목록",
+   "term": "陰陽自體 消長·相互盛衰",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 해설문"
+  },
+  {
+   "line": 526,
+   "end": 527,
+   "kind": "번호목록",
+   "term": "陰陽 不均等 各有多少",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 三陰三陽은 3장 new-uk-14가 진다"
+  },
+  {
+   "line": 528,
+   "end": 528,
+   "kind": "번호목록",
+   "term": "人體·自然 陰陽 관련",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 일반 서술"
+  },
+  {
+   "line": 529,
+   "end": 529,
+   "kind": "번호목록",
+   "term": "正常 陰平陽秘 平衡",
+   "where": [
+    "yyox-02#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 532,
+   "end": 532,
+   "kind": "번호목록",
+   "term": "消長 一方만 一日主外",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 카드 없음(dropped s09x06)"
+  },
+  {
+   "line": 533,
+   "end": 533,
+   "kind": "번호목록",
+   "term": "陽長陰消 陰長陽消",
+   "where": [
+    "yyox-02#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 534,
+   "end": 534,
+   "kind": "번호목록",
+   "term": "互長 陽生陰長",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 카드 없음(dropped s09x06#2)"
+  },
+  {
+   "line": 535,
+   "end": 535,
+   "kind": "번호목록",
+   "term": "互消 陽殺陰藏",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 카드 없음(dropped s09x06#3)"
+  },
+  {
+   "line": 536,
+   "end": 536,
+   "kind": "※",
+   "term": "陽順陰逆",
+   "where": [
+    "new-uk-04#2"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 538,
+   "end": 538,
+   "kind": "표행",
+   "term": "作用 陽 發生推進 躁生殺",
+   "where": [
+    "new-uk-04#2"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 539,
+   "end": 539,
+   "kind": "표행",
+   "term": "作用 至陰(土) 統合機能",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 土 統合機能은 五行 쪽 歸類표 몫"
+  },
+  {
+   "line": 540,
+   "end": 540,
+   "kind": "표행",
+   "term": "作用 陰 抑制沈靜 靜長藏",
+   "where": [
+    "new-uk-04#2"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 542,
+   "end": 542,
+   "kind": "원문",
+   "term": "上下所在 左右道路",
+   "where": [
+    "new-uk-04#1",
+    "new-uk-03#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 543,
+   "end": 543,
+   "kind": "※",
+   "term": "陽在外 陰在內 內外",
+   "where": [
+    "new-uk-04#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 545,
+   "end": 547,
+   "kind": "표행",
+   "term": "體用化 乾坤 水火 形氣",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 문제집 흔적 없음"
+  },
+  {
+   "line": 548,
+   "end": 548,
+   "kind": "원문",
+   "term": "水火徵兆 陰陽性情",
+   "where": [
+    "new-uk-03#3"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 549,
+   "end": 550,
+   "kind": "표행",
+   "term": "水 寒冷濕潤 火 炎烈乾燥",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — new-uk-03#3 물방울·불꽃 곁에 속성 얹기(문제집 106)"
+  },
+  {
+   "line": 551,
+   "end": 551,
+   "kind": "원문",
+   "term": "血氣男女 陽爲氣 陰爲味",
+   "where": [
+    "new-uk-03#3",
+    "new-uk-03#2"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 553,
+   "end": 554,
+   "kind": "표행",
+   "term": "用語 陰中之陽 至陰",
+   "where": [
+    "zds-06#1",
+    "new-uk-04#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 555,
+   "end": 555,
+   "kind": "※",
+   "term": "相對屬性 同一範疇",
+   "where": [
+    "yyox-02#2"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 557,
+   "end": 557,
+   "kind": "표행",
+   "term": "공간 上左外東南/下右內西北",
+   "where": [
+    "new-uk-04#1",
+    "new-uk-03#4"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 558,
+   "end": 558,
+   "kind": "표행",
+   "term": "시간·계절 晝春夏/夜秋冬",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 문제집 흔적 없음"
+  },
+  {
+   "line": 559,
+   "end": 559,
+   "kind": "표행",
+   "term": "성질 熱輕淸/寒重濁",
+   "where": [
+    "new-uk-03#4"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 560,
+   "end": 560,
+   "kind": "표행",
+   "term": "운동 動上升外出/靜下降內入",
+   "where": [
+    "new-uk-04#2"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 561,
+   "end": 561,
+   "kind": "표행",
+   "term": "天日火男雄/地月水女雌",
+   "where": [
+    "new-uk-03#0",
+    "new-uk-03#3",
+    "new-uk-03#4"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 562,
+   "end": 562,
+   "kind": "표행",
+   "term": "부위 背表上皮毛腑四肢",
+   "where": [
+    "new-uk-06#5",
+    "new-uk-04#1"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 563,
+   "end": 563,
+   "kind": "표행",
+   "term": "五臟 心肺腎肝脾 牡臟",
+   "where": [
+    "zds-06#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 564,
+   "end": 564,
+   "kind": "표행",
+   "term": "氣血 氣衛/血營",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 陰陽 속성표(문제집 318 氣=陽 血=陰)"
+  },
+  {
+   "line": 565,
+   "end": 565,
+   "kind": "표행",
+   "term": "機能·物質",
+   "where": [
+    "new-uk-03#2"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 566,
+   "end": 566,
+   "kind": "표행",
+   "term": "興奮亢進/抑制衰退",
+   "where": [
+    "new-uk-04#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 569,
+   "end": 569,
+   "kind": "번호목록",
+   "term": "법칙1 陽化氣陰成形",
+   "where": [
+    "new-uk-03#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 570,
+   "end": 570,
+   "kind": "번호목록",
+   "term": "법칙2 陽從左 陰從右",
+   "where": [
+    "new-uk-03#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 571,
+   "end": 571,
+   "kind": "번호목록",
+   "term": "법칙3 陽主熱 陰主寒",
+   "where": [
+    "new-uk-03#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 572,
+   "end": 572,
+   "kind": "번호목록",
+   "term": "법칙4 天地之道…神明之府",
+   "where": [
+    "new-uk-03#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 573,
+   "end": 573,
+   "kind": "번호목록",
+   "term": "법칙5 男女 道路 徵兆",
+   "where": [
+    "new-uk-03#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 574,
+   "end": 574,
+   "kind": "cf",
+   "term": "陰道偶 陽道奇",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — yyox-02#1·#4 곁에 얹기(奇=全一·統一, 偶=分化; 문제집 325 보기)"
+  },
+  {
+   "line": 576,
+   "end": 579,
+   "kind": "표행",
+   "term": "五種特性 左前中右後 臟",
+   "where": [
+    "zds-06#1"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 580,
+   "end": 580,
+   "kind": "표행",
+   "term": "春木 夏火 長夏土 秋金 冬水",
+   "where": [
+    "yyox-03#0"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 581,
+   "end": 581,
+   "kind": "표행",
+   "term": "發陳 蕃秀 容平 閉藏",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 문제집 흔적 없음"
+  },
+  {
+   "line": 582,
+   "end": 583,
+   "kind": "표행",
+   "term": "發生推進統合抑制沈靜",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 五行 歸類표(문제집 59 五種機能 출제)"
+  },
+  {
+   "line": 584,
+   "end": 584,
+   "kind": "표행",
+   "term": "風發生 暑成長 濕營養…",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 문제집 흔적 없음"
+  },
+  {
+   "line": 585,
+   "end": 585,
+   "kind": "표행",
+   "term": "時間 鷄鳴~平旦…",
+   "where": [
+    "new-uk-04#5"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 587,
+   "end": 592,
+   "kind": "번호목록",
+   "term": "陰陽 出入 新陳代謝",
+   "where": [
+    "new-uk-03#6"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 593,
+   "end": 597,
+   "kind": "번호목록",
+   "term": "陰陽 昇降 寒熱代謝",
+   "where": [
+    "new-uk-03#6"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 598,
+   "end": 599,
+   "kind": "번호목록",
+   "term": "地食五味 天食五氣",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 문제집 흔적 없음"
+  },
+  {
+   "line": 602,
+   "end": 603,
+   "kind": "번호목록",
+   "term": "出入廢 神機化滅 升降息",
+   "where": [
+    "new-uk-03#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 604,
+   "end": 605,
+   "kind": "번호목록",
+   "term": "根於中 神機 根於外 氣立",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — new-uk-03#6 멈춘 회전문·승강대 곁에 얹기(문제집 138·139)"
+  },
+  {
+   "line": 608,
+   "end": 608,
+   "kind": "※",
+   "term": "八要脈 浮沈遲數滑澁虛實",
+   "where": [
+    "new-uk-04#3"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 610,
+   "end": 611,
+   "kind": "표행",
+   "term": "속성 組織 筋骨/皮毛",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 陰陽 속성표(문제집 318)"
+  },
+  {
+   "line": 610,
+   "end": 611,
+   "kind": "표행",
+   "term": "속성 臟腑 五臟/六腑",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 陰陽 속성표(문제집 318)"
+  },
+  {
+   "line": 610,
+   "end": 611,
+   "kind": "표행",
+   "term": "속성 血氣 營衛",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 陰陽 속성표(문제집 318)"
+  },
+  {
+   "line": 610,
+   "end": 611,
+   "kind": "표행",
+   "term": "속성 五臟 脾肺腎/肝心",
+   "where": [
+    "zds-06#1"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 610,
+   "end": 611,
+   "kind": "표행",
+   "term": "속성 脈象",
+   "where": [
+    "new-uk-04#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 610,
+   "end": 611,
+   "kind": "표행",
+   "term": "속성 四氣",
+   "where": [
+    "new-uk-04#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 610,
+   "end": 611,
+   "kind": "표행",
+   "term": "속성 五味 辛甘/酸苦鹹",
+   "where": [
+    "new-uk-04#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 610,
+   "end": 611,
+   "kind": "표행",
+   "term": "속성 계절 秋冬/春夏",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 계절 배속은 yyox-03이 진다"
+  },
+  {
+   "line": 610,
+   "end": 611,
+   "kind": "표행",
+   "term": "속성 診斷 惡寒惡熱 口渴",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 陰陽 진단표(문제집 5)"
+  },
+  {
+   "line": 613,
+   "end": 613,
+   "kind": "원문",
+   "term": "藏精起亟 衛外爲固",
+   "where": [
+    "new-uk-03#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 614,
+   "end": 618,
+   "kind": "해설",
+   "term": "陰=物質 陽=機能 固密",
+   "where": [
+    "new-uk-03#5"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 619,
+   "end": 619,
+   "kind": "※",
+   "term": "陰精=物質 陽氣=化生",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 해설문"
+  },
+  {
+   "line": 620,
+   "end": 620,
+   "kind": "번호목록",
+   "term": "陰平陽秘 動態的 平衡",
+   "where": [
+    "yyox-02#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 621,
+   "end": 621,
+   "kind": "번호목록",
+   "term": "陰陽均衡",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 정의문"
+  },
+  {
+   "line": 622,
+   "end": 622,
+   "kind": "번호목록",
+   "term": "病理 偏盛衰互損格拒亡失",
+   "where": [
+    "hp-15#0",
+    "new-etc-10#0",
+    "hp-16#0",
+    "hp-17#0"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 624,
+   "end": 624,
+   "kind": "해설",
+   "term": "陰勝陽病 陰=陰寒邪氣",
+   "where": [
+    "yyox-02#6"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 625,
+   "end": 625,
+   "kind": "원문",
+   "term": "陽勝則熱 陰勝則寒",
+   "where": [
+    "hp-15#1",
+    "hp-15#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 626,
+   "end": 626,
+   "kind": "원문",
+   "term": "陽盛則外熱 調經論",
+   "where": [
+    "new-uk-05#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 627,
+   "end": 628,
+   "kind": "원문",
+   "term": "陰盛則內寒 調經論",
+   "where": [
+    "new-uk-05#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 630,
+   "end": 631,
+   "kind": "원문",
+   "term": "陽虛則外寒 調經論",
+   "where": [
+    "new-uk-05#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 632,
+   "end": 632,
+   "kind": "원문",
+   "term": "陰虛則內熱 調經論",
+   "where": [
+    "new-uk-05#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 633,
+   "end": 634,
+   "kind": "번호목록",
+   "term": "陰損及陽 陽損及陰 병리",
+   "where": [
+    "new-etc-10#2",
+    "new-etc-10#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 635,
+   "end": 635,
+   "kind": "번호목록",
+   "term": "陰盛格陽 陽盛隔陰",
+   "where": [
+    "hp-16#4",
+    "hp-16#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 636,
+   "end": 638,
+   "kind": "※",
+   "term": "發病 外因 邪正 內因 陰陽",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 해설문, 문제집 흔적 없음"
+  },
+  {
+   "line": 641,
+   "end": 641,
+   "kind": "표행",
+   "term": "陽勝 實熱證 熱者寒之",
+   "where": [
+    "hp-15#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 642,
+   "end": 642,
+   "kind": "표행",
+   "term": "陰勝 寒實證 寒者熱之",
+   "where": [
+    "hp-15#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 643,
+   "end": 643,
+   "kind": "표행",
+   "term": "陽虛 虛寒證 益火消陰",
+   "where": [
+    "hp-15#4",
+    "hp-15#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 644,
+   "end": 644,
+   "kind": "표행",
+   "term": "陰虛 虛熱證 壯水制陽",
+   "where": [
+    "hp-15#6",
+    "hp-15#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 647,
+   "end": 647,
+   "kind": "표행",
+   "term": "氣虛 症狀 陽虛=溫煦減退",
+   "where": [
+    "hp-18#1"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 648,
+   "end": 648,
+   "kind": "표행",
+   "term": "血虛 症狀 陰虛=滋養寧靜",
+   "where": [
+    "hp-18#5",
+    "hp-18#8"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 650,
+   "end": 650,
+   "kind": "※",
+   "term": "偏盛偏衰 가장 두드러진 寒熱",
+   "where": [
+    "hp-15#3"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 651,
+   "end": 651,
+   "kind": "※",
+   "term": "陰陽格拒 정의",
+   "where": [
+    "hp-16#0"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 652,
+   "end": 653,
+   "kind": "번호목록",
+   "term": "陰盛格陽 眞寒假熱 戴陽",
+   "where": [
+    "hp-16#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 654,
+   "end": 654,
+   "kind": "번호목록",
+   "term": "陽盛格陰 眞熱假寒 陽厥",
+   "where": [
+    "hp-16#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 656,
+   "end": 656,
+   "kind": "※",
+   "term": "戴陽證 兩顴潮紅 下利淸穀",
+   "where": [
+    "hp-16#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 657,
+   "end": 657,
+   "kind": "※",
+   "term": "虛熱證 兩顴潮紅",
+   "where": [
+    "zds-09#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 658,
+   "end": 659,
+   "kind": "원문",
+   "term": "善診者 察色按脈 別陰陽",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 문제집 흔적 없음"
+  },
+  {
+   "line": 660,
+   "end": 662,
+   "kind": "번호목록",
+   "term": "八綱 總綱 陰陽",
+   "where": [
+    "zds-13#0",
+    "zds-13#1",
+    "zds-13#5",
+    "hp-14#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 663,
+   "end": 666,
+   "kind": "번호목록",
+   "term": "陰陽類別 表裏 寒熱 虛實",
+   "where": [
+    "zds-13#2",
+    "zds-13#3",
+    "zds-13#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 667,
+   "end": 667,
+   "kind": "번호목록",
+   "term": "四組矛盾 相對 聯系",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 해설문"
+  },
+  {
+   "line": 668,
+   "end": 668,
+   "kind": "※",
+   "term": "四診 望聞問切",
+   "where": [
+    "new-etc-01#7"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 670,
+   "end": 671,
+   "kind": "표행",
+   "term": "진단 色·色澤 黃赤/靑白黑",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 陰陽 진단표(문제집 5·223)"
+  },
+  {
+   "line": 672,
+   "end": 673,
+   "kind": "표행",
+   "term": "진단 聲音 호흡 氣粗/氣怯",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 陰陽 진단표(문제집 223)"
+  },
+  {
+   "line": 672,
+   "end": 673,
+   "kind": "표행",
+   "term": "진단 惡熱/惡寒 潤燥 動靜",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 陰陽 진단표(문제집 5·22-24)"
+  },
+  {
+   "line": 672,
+   "end": 673,
+   "kind": "표행",
+   "term": "진단 脈 寸尺 至去 數遲",
+   "where": [
+    "new-uk-04#3"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 674,
+   "end": 676,
+   "kind": "해설",
+   "term": "陰陽이 總綱인 이유",
+   "where": [
+    "zds-13#1",
+    "zds-13#5"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 677,
+   "end": 678,
+   "kind": "표행",
+   "term": "八綱 表實熱/裏虛寒",
+   "where": [
+    "zds-13#5",
+    "hp-14#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 679,
+   "end": 679,
+   "kind": "표행",
+   "term": "望五色 紅黃/靑白黑",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 陰陽 진단표(문제집 223)"
+  },
+  {
+   "line": 680,
+   "end": 680,
+   "kind": "표행",
+   "term": "聞聲音 氣粗聲高/氣弱",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 陰陽 진단표(문제집 223 陽證=氣粗聲高)"
+  },
+  {
+   "line": 681,
+   "end": 681,
+   "kind": "표행",
+   "term": "問診 發熱口渴便秘/便溏",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 陰陽 진단표(문제집 22-24)"
+  },
+  {
+   "line": 682,
+   "end": 682,
+   "kind": "표행",
+   "term": "脈診 浮大滑數/沈細遲澁",
+   "where": [
+    "new-uk-04#3"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 684,
+   "end": 684,
+   "kind": "번호목록",
+   "term": "損其有餘 補其不足",
+   "where": [
+    "new-uk-05#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 685,
+   "end": 685,
+   "kind": "번호목록",
+   "term": "치료 기본요점 관찰→조정",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 절차 서술"
+  },
+  {
+   "line": 686,
+   "end": 686,
+   "kind": "번호목록",
+   "term": "寒熱之 虛實 補瀉 원칙",
+   "where": [
+    "new-uk-05#4",
+    "new-uk-05#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 687,
+   "end": 687,
+   "kind": "번호목록",
+   "term": "陰病治陽 益火之源 取之陽",
+   "where": [
+    "new-uk-05#6",
+    "new-uk-06#2",
+    "hp-15#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 688,
+   "end": 688,
+   "kind": "번호목록",
+   "term": "陽病治陰 壯水之主 取之陰",
+   "where": [
+    "new-uk-05#6",
+    "new-uk-06#1",
+    "hp-15#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 689,
+   "end": 691,
+   "kind": "번호목록",
+   "term": "陰平陽秘 損有餘 虛補實瀉",
+   "where": [
+    "yyox-02#10",
+    "new-uk-05#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 693,
+   "end": 693,
+   "kind": "정의",
+   "term": "五行學說 정의",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 정의 서술문"
+  },
+  {
+   "line": 694,
+   "end": 694,
+   "kind": "번호목록",
+   "term": "五行의 형성 洪範九疇",
+   "where": [
+    "yyox-03#6",
+    "yyox-03#11"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 695,
+   "end": 695,
+   "kind": "번호목록",
+   "term": "鄒衍 五行相剋 五德終始",
+   "where": [
+    "new-etc-01#6"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 696,
+   "end": 696,
+   "kind": "번호목록",
+   "term": "劉向 五行相生說",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 문제집 흔적 없음(劉向 0)"
+  },
+  {
+   "line": 698,
+   "end": 698,
+   "kind": "번호목록",
+   "term": "生成數 水1·6~土5·10",
+   "where": [
+    "yyox-04#3",
+    "yyox-04#4",
+    "yyox-04#5",
+    "yyox-04#6",
+    "yyox-04#7",
+    "yyox-04#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 699,
+   "end": 702,
+   "kind": "번호목록",
+   "term": "水火輕淸 造化 土統四方",
+   "where": [
+    "yyox-04#8"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 704,
+   "end": 705,
+   "kind": "※",
+   "term": "陰陽 待對 五行 循環 其然",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 해설문"
+  },
+  {
+   "line": 710,
+   "end": 710,
+   "kind": "표행",
+   "term": "木曰曲直 疏泄",
+   "where": [
+    "yyox-03#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 711,
+   "end": 711,
+   "kind": "표행",
+   "term": "火曰炎上 主血推動",
+   "where": [
+    "yyox-03#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 712,
+   "end": 712,
+   "kind": "표행",
+   "term": "土爰稼穡 運化",
+   "where": [
+    "yyox-03#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 713,
+   "end": 713,
+   "kind": "표행",
+   "term": "金曰從革 宣肅",
+   "where": [
+    "yyox-03#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 714,
+   "end": 714,
+   "kind": "표행",
+   "term": "水曰潤下 閉藏",
+   "where": [
+    "yyox-03#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 715,
+   "end": 715,
+   "kind": "※",
+   "term": "潤下 腎 藏精 主水液",
+   "where": [
+    "yyox-03#9",
+    "yyox-03#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 717,
+   "end": 720,
+   "kind": "cf",
+   "term": "河圖 洛書 기원 體用",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 카드 없음(dropped s10x01), 문제집 흔적 없음"
+  },
+  {
+   "line": 721,
+   "end": 721,
+   "kind": "번호목록",
+   "term": "歸類 取象類比 推演繹絡",
+   "where": [
+    "new-uk-04#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 726,
+   "end": 726,
+   "kind": "표행",
+   "term": "洪範 曲直炎上稼穡從革潤下",
+   "where": [
+    "yyox-03#2",
+    "yyox-03#4",
+    "yyox-03#6",
+    "yyox-03#8",
+    "yyox-03#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 727,
+   "end": 727,
+   "kind": "표행",
+   "term": "歸類 五方 東南中西北",
+   "where": [
+    "yyox-04#0",
+    "yyox-05#1",
+    "yyox-05#2",
+    "yyox-05#3",
+    "yyox-05#4",
+    "yyox-05#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 728,
+   "end": 728,
+   "kind": "표행",
+   "term": "歸類 五時 春夏長夏秋冬",
+   "where": [
+    "yyox-03#0"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 729,
+   "end": 729,
+   "kind": "표행",
+   "term": "歸類 時間 後半夜~前半夜",
+   "where": [
+    "new-uk-04#5"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 730,
+   "end": 730,
+   "kind": "표행",
+   "term": "歸類 五氣 風暑濕燥寒",
+   "where": [
+    "hp-08#1"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 731,
+   "end": 731,
+   "kind": "표행",
+   "term": "歸類 端高平潔明",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 五行 歸類표(문제집 59 ① 출제)"
+  },
+  {
+   "line": 732,
+   "end": 732,
+   "kind": "표행",
+   "term": "歸類 五化 生長化收藏",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 카드 없음(dropped s09u01), 3장 new-uk-03#6은 升降 맥락만"
+  },
+  {
+   "line": 733,
+   "end": 733,
+   "kind": "표행",
+   "term": "歸類 性 溫熱平凉寒",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 문제집 흔적 없음"
+  },
+  {
+   "line": 734,
+   "end": 734,
+   "kind": "표행",
+   "term": "歸類 色 靑赤黃白黑",
+   "where": [
+    "yyox-03#1",
+    "yyox-03#3",
+    "yyox-03#5",
+    "yyox-03#7",
+    "yyox-03#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 735,
+   "end": 735,
+   "kind": "표행",
+   "term": "歸類 味 酸苦甘辛鹹 효능",
+   "where": [
+    "yyox-06#1",
+    "yyox-06#7"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 736,
+   "end": 736,
+   "kind": "표행",
+   "term": "歸類 音 角徵宮商羽",
+   "where": [
+    "yyox-05#1",
+    "yyox-05#2",
+    "yyox-05#3",
+    "yyox-05#4",
+    "yyox-05#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 737,
+   "end": 737,
+   "kind": "표행",
+   "term": "歸類 五役 色臭味聲液",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 문제집 흔적 없음"
+  },
+  {
+   "line": 738,
+   "end": 738,
+   "kind": "표행",
+   "term": "歸類 數 3·8 2·7…",
+   "where": [
+    "yyox-04#3",
+    "yyox-04#4",
+    "yyox-04#5",
+    "yyox-04#6",
+    "yyox-04#7",
+    "yyox-05#1",
+    "yyox-05#2",
+    "yyox-05#3",
+    "yyox-05#4",
+    "yyox-05#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 740,
+   "end": 740,
+   "kind": "표행",
+   "term": "歸類 臟 肝心脾肺腎",
+   "where": [
+    "yyox-03#1",
+    "yyox-03#3",
+    "yyox-03#5",
+    "yyox-03#7",
+    "yyox-03#9",
+    "zds-06#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 741,
+   "end": 741,
+   "kind": "표행",
+   "term": "歸類 脈 弦鉤代毛石",
+   "where": [
+    "yyox-09#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 742,
+   "end": 742,
+   "kind": "표행",
+   "term": "歸類 有邪 腋肘股肘膕",
+   "where": [
+    "new-uk-01#9",
+    "new-gr-39#1",
+    "new-gr-39#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 743,
+   "end": 743,
+   "kind": "표행",
+   "term": "歸類 腑 膽小腸胃大腸膀胱",
+   "where": [
+    "new-etc-14#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 744,
+   "end": 744,
+   "kind": "표행",
+   "term": "歸類 五腧穴 主病",
+   "where": [
+    "new-gr-16#1",
+    "mer-05#0"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 745,
+   "end": 745,
+   "kind": "표행",
+   "term": "歸類 五精(五神) 魂神意魄志",
+   "where": [
+    "new-jq-13#4",
+    "zds-06#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 746,
+   "end": 746,
+   "kind": "표행",
+   "term": "歸類 五種機能 發生衝動…",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 五行 歸類표(문제집 59 정답 ④와 교재 746 용어가 어긋남 — 확인 필요)"
+  },
+  {
+   "line": 747,
+   "end": 747,
+   "kind": "표행",
+   "term": "歸類 志 怒喜思憂恐 血鬱",
+   "where": [
+    "hp-11#1",
+    "hp-11#2",
+    "hp-11#4",
+    "hp-11#6"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 748,
+   "end": 748,
+   "kind": "표행",
+   "term": "歸類 五體 筋脈肉皮毛骨",
+   "where": [
+    "zds-01#2",
+    "zds-02#2",
+    "zds-03#2",
+    "zds-04#2",
+    "zds-05#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 749,
+   "end": 749,
+   "kind": "표행",
+   "term": "歸類 官竅 目舌口鼻耳",
+   "where": [
+    "zds-01#3",
+    "zds-02#3",
+    "zds-03#3",
+    "zds-04#3",
+    "zds-05#3",
+    "zds-06#3",
+    "zds-06#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 750,
+   "end": 750,
+   "kind": "표행",
+   "term": "歸類 五支 爪毛乳息髮",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 五行 歸類표(문제집 28 출제, 정답 顴이 교재 750 火=毛과 어긋남 — 확인 필요)"
+  },
+  {
+   "line": 751,
+   "end": 751,
+   "kind": "표행",
+   "term": "歸類 五液 淚汗涎涕唾",
+   "where": [
+    "zds-01#5",
+    "zds-02#5",
+    "zds-03#5",
+    "zds-04#5",
+    "zds-05#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 752,
+   "end": 752,
+   "kind": "표행",
+   "term": "歸類 五聲 呼笑歌哭呻",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 五行 歸類표(문제집 29·41 출제, 카드 없음)"
+  },
+  {
+   "line": 753,
+   "end": 753,
+   "kind": "표행",
+   "term": "歸類 五華 爪面脣毛髮",
+   "where": [
+    "zds-01#1",
+    "zds-02#1",
+    "zds-03#1",
+    "zds-04#1",
+    "zds-05#1",
+    "new-zj-15#6",
+    "new-zj-15#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 754,
+   "end": 754,
+   "kind": "표행",
+   "term": "歸類 五輪 風血肉氣水",
+   "where": [
+    "new-zj-17#1",
+    "new-zj-17#2",
+    "new-zj-17#3",
+    "new-zj-17#4",
+    "new-zj-17#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 755,
+   "end": 755,
+   "kind": "표행",
+   "term": "歸類 五變 握憂噦欬慄",
+   "where": [
+    "yyox-09#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 756,
+   "end": 756,
+   "kind": "표행",
+   "term": "歸類 構成 血神津液氣精",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 문제집 흔적 없음"
+  },
+  {
+   "line": 758,
+   "end": 760,
+   "kind": "표행",
+   "term": "歸類 令·政·化 五氣候",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 五行 歸類표(문제집 27·86·124 雲雨·霪雨·鬱蒸 출제)"
+  },
+  {
+   "line": 762,
+   "end": 762,
+   "kind": "표행",
+   "term": "五運 平氣 敷和~靜順",
+   "where": [
+    "new-uk-09#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 763,
+   "end": 763,
+   "kind": "표행",
+   "term": "五運 不及 委和~涸流",
+   "where": [
+    "new-uk-09#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 764,
+   "end": 764,
+   "kind": "표행",
+   "term": "五運 太過 發生~流衍",
+   "where": [
+    "new-uk-09#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 766,
+   "end": 766,
+   "kind": "표행",
+   "term": "天干 甲乙 丙丁…壬癸",
+   "where": [
+    "yyox-14#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 767,
+   "end": 767,
+   "kind": "표행",
+   "term": "夫婦五行 丁壬 戊癸…",
+   "where": [
+    "new-uk-08#0",
+    "new-uk-08#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 768,
+   "end": 768,
+   "kind": "표행",
+   "term": "地支 寅卯 巳午 辰戌丑未",
+   "where": [
+    "yyox-14#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 770,
+   "end": 770,
+   "kind": "표행",
+   "term": "旺相 旺休囚死相",
+   "where": [
+    "yyox-07#1",
+    "yyox-07#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 772,
+   "end": 772,
+   "kind": "표행",
+   "term": "五邪 正實微賊虛",
+   "where": [
+    "yyox-07#4",
+    "yyox-07#5",
+    "yyox-07#6",
+    "yyox-07#7",
+    "yyox-07#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 774,
+   "end": 774,
+   "kind": "표행",
+   "term": "萬物 五穀 麥黍稷稻豆",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 카드 없음(dropped s09x17), 문제집 흔적 없음"
+  },
+  {
+   "line": 775,
+   "end": 775,
+   "kind": "표행",
+   "term": "萬物 五果 李杏棗桃栗",
+   "where": [
+    "yyox-06#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 776,
+   "end": 776,
+   "kind": "표행",
+   "term": "萬物 五畜 鷄羊牛馬彘",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 카드 없음(dropped s09x17)"
+  },
+  {
+   "line": 777,
+   "end": 777,
+   "kind": "표행",
+   "term": "萬物 形 枝葉花莖果根",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 문제집 흔적 없음"
+  },
+  {
+   "line": 778,
+   "end": 778,
+   "kind": "표행",
+   "term": "萬物 五菜 韭薤葵蔥藿",
+   "where": [
+    "yyox-06#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 779,
+   "end": 779,
+   "kind": "표행",
+   "term": "萬物 蟲 毛羽倮介鱗",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 카드 없음(dropped s09x19)"
+  },
+  {
+   "line": 780,
+   "end": 781,
+   "kind": "표행",
+   "term": "萬物 五用 五性",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 문제집 흔적 없음"
+  },
+  {
+   "line": 782,
+   "end": 782,
+   "kind": "표행",
+   "term": "萬物 臭 臊焦香腥腐",
+   "where": [
+    "yyox-05#1",
+    "yyox-05#2",
+    "yyox-05#3",
+    "yyox-05#4",
+    "yyox-05#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 784,
+   "end": 784,
+   "kind": "표행",
+   "term": "기타 五畏",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 문제집 흔적 없음"
+  },
+  {
+   "line": 785,
+   "end": 785,
+   "kind": "표행",
+   "term": "기타 五德 和顯濡淸寒",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 五行 歸類표(문제집 29·41 출제)"
+  },
+  {
+   "line": 786,
+   "end": 786,
+   "kind": "표행",
+   "term": "기타 五眚",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 문제집 흔적 없음"
+  },
+  {
+   "line": 789,
+   "end": 789,
+   "kind": "정의",
+   "term": "旺相死囚休 부호",
+   "where": [
+    "yyox-07#0",
+    "yyox-07#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 790,
+   "end": 790,
+   "kind": "번호목록",
+   "term": "我=旺",
+   "where": [
+    "yyox-07#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 791,
+   "end": 791,
+   "kind": "번호목록",
+   "term": "生我者=相",
+   "where": [
+    "yyox-07#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 792,
+   "end": 792,
+   "kind": "번호목록",
+   "term": "克我者=死",
+   "where": [
+    "yyox-07#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 793,
+   "end": 793,
+   "kind": "번호목록",
+   "term": "我克者=囚",
+   "where": [
+    "yyox-07#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 794,
+   "end": 794,
+   "kind": "번호목록",
+   "term": "我生者=休",
+   "where": [
+    "yyox-07#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 796,
+   "end": 802,
+   "kind": "표행",
+   "term": "旺相休囚死 계절표",
+   "where": [
+    "yyox-07#3"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 804,
+   "end": 804,
+   "kind": "번호목록",
+   "term": "虛邪 從後來 母病及子",
+   "where": [
+    "yyox-07#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 805,
+   "end": 805,
+   "kind": "번호목록",
+   "term": "實邪 從前來 子盜母氣",
+   "where": [
+    "yyox-07#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 806,
+   "end": 806,
+   "kind": "번호목록",
+   "term": "賊邪 從所不勝來 相乘",
+   "where": [
+    "yyox-07#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 807,
+   "end": 807,
+   "kind": "번호목록",
+   "term": "微邪 從所勝來 相侮",
+   "where": [
+    "yyox-07#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 808,
+   "end": 808,
+   "kind": "번호목록",
+   "term": "正邪 自病",
+   "where": [
+    "yyox-07#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 810,
+   "end": 813,
+   "kind": "표행",
+   "term": "五邪傳變論 我=脾",
+   "where": [
+    "yyox-07#4",
+    "yyox-07#5",
+    "yyox-07#6",
+    "yyox-07#7",
+    "yyox-07#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 817,
+   "end": 817,
+   "kind": "표행",
+   "term": "相生 資生助長促進",
+   "where": [
+    "yyox-04#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 817,
+   "end": 817,
+   "kind": "표행",
+   "term": "母能令子虛 子能令母實",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 문제집 흔적 없음(實則瀉其子는 yyox-10#3)"
+  },
+  {
+   "line": 818,
+   "end": 818,
+   "kind": "표행",
+   "term": "相克 相勝 制約 心火克金",
+   "where": [
+    "yyox-04#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 819,
+   "end": 819,
+   "kind": "표행",
+   "term": "制化 亢害承制",
+   "where": [
+    "yyox-08#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 820,
+   "end": 820,
+   "kind": "표행",
+   "term": "相乘 土虛木乘 土衰木賊",
+   "where": [
+    "yyox-08#5",
+    "yyox-08#7",
+    "yyox-08#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 821,
+   "end": 821,
+   "kind": "표행",
+   "term": "相侮 反侮 反克",
+   "where": [
+    "yyox-08#6",
+    "yyox-08#7",
+    "yyox-08#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 822,
+   "end": 822,
+   "kind": "표행",
+   "term": "勝復 子復母仇",
+   "where": [
+    "yyox-08#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 824,
+   "end": 826,
+   "kind": "※",
+   "term": "相乘相侮 肝木 중심 순차",
+   "where": [
+    "yyox-08#7",
+    "yyox-08#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 828,
+   "end": 829,
+   "kind": "번호목록",
+   "term": "生克=生理(制化) 乘侮=病理",
+   "where": [
+    "yyox-08#1"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 830,
+   "end": 833,
+   "kind": "번호목록",
+   "term": "相生 相克 相乘 相侮 정의",
+   "where": [
+    "yyox-04#1",
+    "yyox-04#2",
+    "yyox-08#5",
+    "yyox-08#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 834,
+   "end": 835,
+   "kind": "번호목록",
+   "term": "生克=制化 乘侮=勝復 요약",
+   "where": [
+    "yyox-08#1",
+    "yyox-08#2"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 836,
+   "end": 836,
+   "kind": "표행",
+   "term": "肝木 太過 不足 乘侮",
+   "where": [
+    "yyox-08#7",
+    "yyox-08#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 837,
+   "end": 838,
+   "kind": "원문",
+   "term": "五藏受氣於其所生…",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 문제집 흔적 없음(玉機眞藏 0)"
+  },
+  {
+   "line": 839,
+   "end": 840,
+   "kind": "원문",
+   "term": "氣不足己所不勝侮而乘之",
+   "where": [
+    "yyox-08#5",
+    "yyox-08#6",
+    "yyox-08#7",
+    "yyox-08#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 846,
+   "end": 850,
+   "kind": "표행",
+   "term": "응용표 比類 五合",
+   "where": [
+    "yyox-03#1",
+    "yyox-03#2",
+    "yyox-03#3",
+    "yyox-03#4",
+    "zds-01#1",
+    "zds-01#2",
+    "zds-01#3",
+    "zds-01#5"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 851,
+   "end": 851,
+   "kind": "번호목록",
+   "term": "응용 4가지 요약",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 요약문"
+  },
+  {
+   "line": 853,
+   "end": 855,
+   "kind": "번호목록",
+   "term": "傳變 相生·相克",
+   "where": [
+    "yyox-07#4",
+    "yyox-07#5",
+    "yyox-07#6",
+    "yyox-07#7",
+    "yyox-08#3",
+    "yyox-08#4",
+    "yyox-08#5",
+    "yyox-08#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 858,
+   "end": 858,
+   "kind": "표행",
+   "term": "發病 계절 春肝病 夏心病",
+   "where": [
+    "yyox-07#3",
+    "yyox-03#0"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 859,
+   "end": 859,
+   "kind": "표행",
+   "term": "相生 傳變 腎精虛→肝血不足",
+   "where": [
+    "yyox-08#3"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 860,
+   "end": 860,
+   "kind": "표행",
+   "term": "相生 傳變 子盜母氣",
+   "where": [
+    "yyox-08#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 861,
+   "end": 861,
+   "kind": "표행",
+   "term": "相克 傳變 木旺乘土 土虛水侮",
+   "where": [
+    "yyox-08#5",
+    "yyox-08#6",
+    "yyox-10#9",
+    "yyox-10#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 864,
+   "end": 864,
+   "kind": "번호목록",
+   "term": "內臟病 外部 현상",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 총론 문장"
+  },
+  {
+   "line": 866,
+   "end": 866,
+   "kind": "표행",
+   "term": "望色 五色 臟腑 靑肝 赤心",
+   "where": [
+    "yyox-09#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 867,
+   "end": 867,
+   "kind": "표행",
+   "term": "色澤 生克 木旺乘土 水來乘火",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 카드 없음(dropped s09x13), 문제집 흔적 없음"
+  },
+  {
+   "line": 868,
+   "end": 868,
+   "kind": "표행",
+   "term": "靑赤合化 順 靑黃兼化 逆",
+   "where": [
+    "yyox-09#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 869,
+   "end": 869,
+   "kind": "표행",
+   "term": "主色·客色 順逆",
+   "where": [
+    "yyox-09#1",
+    "yyox-09#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 870,
+   "end": 870,
+   "kind": "표행",
+   "term": "口味 쓰면 心火 달면 脾熱",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — yyox-09 곁에 口味 얹기(문제집 189 肝病 診斷根據에 口味苦)"
+  },
+  {
+   "line": 871,
+   "end": 871,
+   "kind": "표행",
+   "term": "色脈合參 色脈相得 肺金乘肝木",
+   "where": [
+    "yyox-09#4"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 872,
+   "end": 878,
+   "kind": "표행",
+   "term": "脈象 浮表 沈裏 遲寒 數熱…",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 脈象 有力/無力표(문제집 흔적 없음, 12장 과와 겹침 확인 필요)"
+  },
+  {
+   "line": 879,
+   "end": 879,
+   "kind": "※",
+   "term": "四診合參 중요",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 총론 문장"
+  },
+  {
+   "line": 880,
+   "end": 880,
+   "kind": "번호목록",
+   "term": "五行 진단 활용 靑酸弦→肝病",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 870과 함께 yyox-09 곁(문제집 189 面色靑·脈弦·口味苦)"
+  },
+  {
+   "line": 882,
+   "end": 882,
+   "kind": "번호목록",
+   "term": "傳變 방지 肝病脾實",
+   "where": [
+    "yyox-10#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 884,
+   "end": 886,
+   "kind": "번호목록",
+   "term": "虛則補其母 實則瀉其子",
+   "where": [
+    "yyox-10#2",
+    "yyox-10#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 887,
+   "end": 889,
+   "kind": "번호목록",
+   "term": "相克 실증 抑强 허증 扶弱",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 카드 없음(dropped s09x15#3), 문제집 흔적 없음"
+  },
+  {
+   "line": 894,
+   "end": 894,
+   "kind": "표행",
+   "term": "滋水涵木法",
+   "where": [
+    "yyox-10#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 895,
+   "end": 895,
+   "kind": "표행",
+   "term": "益火生土法 心火·命門",
+   "where": [
+    "yyox-10#5"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 896,
+   "end": 896,
+   "kind": "표행",
+   "term": "培土生金法",
+   "where": [
+    "yyox-10#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 897,
+   "end": 897,
+   "kind": "표행",
+   "term": "金水相生法",
+   "where": [
+    "yyox-10#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 899,
+   "end": 899,
+   "kind": "표행",
+   "term": "抑木扶土法",
+   "where": [
+    "yyox-10#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 900,
+   "end": 900,
+   "kind": "표행",
+   "term": "培土制水法",
+   "where": [
+    "yyox-10#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 901,
+   "end": 901,
+   "kind": "표행",
+   "term": "佐金平木法",
+   "where": [
+    "yyox-10#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 902,
+   "end": 902,
+   "kind": "표행",
+   "term": "瀉南補北法 滋陰降火",
+   "where": [
+    "yyox-10#11"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 906,
+   "end": 906,
+   "kind": "※",
+   "term": "地天泰 天地否 旣濟 未濟",
+   "where": [
+    "zds-07#6",
+    "zds-07#7"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 908,
+   "end": 915,
+   "kind": "표행",
+   "term": "卦象 三連上絶虛中下連…",
+   "where": [
+    "yyox-12#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 908,
+   "end": 915,
+   "kind": "표행",
+   "term": "卦 自然 天澤火雷風水山地",
+   "where": [
+    "yyox-11#1",
+    "yyox-11#2",
+    "yyox-11#3",
+    "yyox-11#4",
+    "yyox-11#5",
+    "yyox-11#6",
+    "yyox-11#7",
+    "yyox-11#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 908,
+   "end": 915,
+   "kind": "표행",
+   "term": "卦 사람 父母長男中男少男…",
+   "where": [
+    "yyox-11#1",
+    "yyox-11#2",
+    "yyox-11#3",
+    "yyox-11#4",
+    "yyox-11#5",
+    "yyox-11#6",
+    "yyox-11#7",
+    "yyox-11#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 908,
+   "end": 915,
+   "kind": "표행",
+   "term": "卦 방위 西北西南東…",
+   "where": [
+    "yyox-13#1",
+    "yyox-13#2",
+    "yyox-13#3",
+    "yyox-13#4",
+    "yyox-13#5",
+    "yyox-13#6",
+    "yyox-13#7",
+    "yyox-13#8",
+    "yyox-13#10",
+    "bagua"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 908,
+   "end": 915,
+   "kind": "표행",
+   "term": "卦 四象 太陽少陰少陽太陰",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — bagua.html에 四象 열 얹기(카드 없음, 문제집 126은 자연·사람·방위만 출제)"
+  },
+  {
+   "line": 917,
+   "end": 920,
+   "kind": "표행",
+   "term": "先天八卦圖 1~8 번호",
+   "where": [
+    "yyox-12#1",
+    "yyox-12#2",
+    "yyox-12#3",
+    "yyox-12#4",
+    "bagua"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 921,
+   "end": 924,
+   "kind": "표행",
+   "term": "後天八卦圖 方位 文王",
+   "where": [
+    "yyox-13#1",
+    "yyox-13#2",
+    "yyox-13#3",
+    "yyox-13#4",
+    "yyox-13#5",
+    "yyox-13#6",
+    "yyox-13#7",
+    "yyox-13#8",
+    "yyox-13#10",
+    "bagua"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 922,
+   "end": 924,
+   "kind": "표행",
+   "term": "後天 洛書 숫자 1~9",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — bagua.html 후천 칸에 숫자(카드 없음·문제집 흔적 없음 — 후순위)"
+  },
+  {
+   "line": 925,
+   "end": 928,
+   "kind": "표행",
+   "term": "河圖 七二 八三 五十",
+   "where": [
+    "yyox-04#3",
+    "yyox-04#4",
+    "yyox-04#5",
+    "yyox-04#6",
+    "yyox-04#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 929,
+   "end": 930,
+   "kind": "번호목록",
+   "term": "內生數1~5 外成數6~10",
+   "where": [
+    "yyox-04#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 931,
+   "end": 931,
+   "kind": "번호목록",
+   "term": "河圖配數圖 木3·8 東",
+   "where": [
+    "yyox-04#3",
+    "yyox-04#4",
+    "yyox-04#5",
+    "yyox-04#6",
+    "yyox-04#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  }
+ ],
+ "stations": [
+  {
+   "lesson": "yyox-01",
+   "n": 0,
+   "lines": [
+    450,
+    472
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-01",
+   "n": 1,
+   "lines": [
+    450,
+    472
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-01",
+   "n": 2,
+   "lines": [
+    450,
+    472
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-01",
+   "n": 3,
+   "lines": [
+    450,
+    472
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-01",
+   "n": 4,
+   "lines": [
+    450,
+    472
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-01",
+   "n": 5,
+   "lines": [
+    450,
+    472
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-01",
+   "n": 6,
+   "lines": [
+    450,
+    472
+   ],
+   "check": "맞음",
+   "note": "25周는 교재 1429, 衛氣 晝夜"
+  },
+  {
+   "lesson": "yyox-01",
+   "n": 7,
+   "lines": [
+    450,
+    472
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-05",
+   "n": 0,
+   "lines": [
+    749,
+    752
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-05",
+   "n": 1,
+   "lines": [
+    749,
+    752
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-05",
+   "n": 2,
+   "lines": [
+    749,
+    752
+   ],
+   "check": "갈림",
+   "note": "心竅 耳(金匱眞言論) vs 교재 749 心=舌, 腎 竅 850"
+  },
+  {
+   "lesson": "yyox-05",
+   "n": 3,
+   "lines": [
+    749,
+    752
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-05",
+   "n": 4,
+   "lines": [
+    749,
+    752
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-05",
+   "n": 5,
+   "lines": [
+    749,
+    752
+   ],
+   "check": "갈림",
+   "note": "腎竅 二陰 vs 교재 749/850 耳·二陰"
+  },
+  {
+   "lesson": "yyox-05",
+   "n": 6,
+   "lines": [
+    749,
+    752
+   ],
+   "check": "갈림",
+   "note": "되짚기: 心竅 耳 갈림 재진술"
+  },
+  {
+   "lesson": "new-uk-01",
+   "n": 0,
+   "lines": [
+    450,
+    472
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-01",
+   "n": 1,
+   "lines": [
+    450,
+    472
+   ],
+   "check": "교재에없음",
+   "note": "俞在頸項 CI-19, 교재 없음"
+  },
+  {
+   "lesson": "new-uk-01",
+   "n": 2,
+   "lines": [
+    450,
+    472
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-01",
+   "n": 3,
+   "lines": [
+    450,
+    472
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-01",
+   "n": 4,
+   "lines": [
+    450,
+    472
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-01",
+   "n": 5,
+   "lines": [
+    450,
+    472
+   ],
+   "check": "교재에없음",
+   "note": "秋三月 OHG-045"
+  },
+  {
+   "lesson": "new-uk-01",
+   "n": 6,
+   "lines": [
+    450,
+    472
+   ],
+   "check": "교재에없음",
+   "note": "春生夏長 OHG-046"
+  },
+  {
+   "lesson": "new-uk-01",
+   "n": 7,
+   "lines": [
+    450,
+    472
+   ],
+   "check": "교재에없음",
+   "note": "邪客 九竅·經水·泉脈 교재 없음; 頭圓足方·日月 兩目은 459"
+  },
+  {
+   "lesson": "new-uk-01",
+   "n": 8,
+   "lines": [
+    450,
+    472
+   ],
+   "check": "교재에없음",
+   "note": "夫妻 OHG-047"
+  },
+  {
+   "lesson": "new-uk-01",
+   "n": 9,
+   "lines": [
+    450,
+    472
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-01",
+   "n": 10,
+   "lines": [
+    450,
+    472
+   ],
+   "check": "교재에없음",
+   "note": "되짚기: 위 교재에없음 포함"
+  },
+  {
+   "lesson": "yyox-02",
+   "n": 0,
+   "lines": [
+    483,
+    566
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-02",
+   "n": 1,
+   "lines": [
+    483,
+    566
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-02",
+   "n": 2,
+   "lines": [
+    483,
+    566
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-02",
+   "n": 3,
+   "lines": [
+    483,
+    566
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-02",
+   "n": 4,
+   "lines": [
+    483,
+    566
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-02",
+   "n": 5,
+   "lines": [
+    483,
+    566
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-02",
+   "n": 6,
+   "lines": [
+    483,
+    566
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-02",
+   "n": 7,
+   "lines": [
+    483,
+    566
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-02",
+   "n": 8,
+   "lines": [
+    483,
+    566
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-02",
+   "n": 9,
+   "lines": [
+    483,
+    566
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-02",
+   "n": 10,
+   "lines": [
+    483,
+    566
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-02",
+   "n": 11,
+   "lines": [
+    483,
+    566
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-04",
+   "n": 0,
+   "lines": [
+    536,
+    682
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-04",
+   "n": 1,
+   "lines": [
+    536,
+    682
+   ],
+   "check": "갈림",
+   "note": "上下者陰陽之所在 교재 542 있음, 문제집 1번은 經文에 없다고 함"
+  },
+  {
+   "lesson": "new-uk-04",
+   "n": 2,
+   "lines": [
+    536,
+    682
+   ],
+   "check": "교재에없음",
+   "note": "推動·溫煦 용어 문제집 168"
+  },
+  {
+   "lesson": "new-uk-04",
+   "n": 3,
+   "lines": [
+    536,
+    682
+   ],
+   "check": "갈림",
+   "note": "陽脈/陰脈 목록 문제집 131/623 따름; 교재 610-611·672-673과 虛·短微弱 차이"
+  },
+  {
+   "lesson": "new-uk-04",
+   "n": 4,
+   "lines": [
+    536,
+    682
+   ],
+   "check": "갈림",
+   "note": "辛甘淡 문제집 318/607 vs 교재 611 辛甘"
+  },
+  {
+   "lesson": "new-uk-04",
+   "n": 5,
+   "lines": [
+    536,
+    682
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-04",
+   "n": 6,
+   "lines": [
+    536,
+    682
+   ],
+   "check": "다름",
+   "note": "取象比類/推演絡繹 vs 교재 721 取象類比·推演繹絡(844 取象比類法) — 한 글자 차이"
+  },
+  {
+   "lesson": "new-uk-04",
+   "n": 7,
+   "lines": [
+    536,
+    682
+   ],
+   "check": "갈림",
+   "note": "되짚기: 辛甘淡 갈림 포함"
+  },
+  {
+   "lesson": "new-uk-06",
+   "n": 0,
+   "lines": [
+    502,
+    688
+   ],
+   "check": "교재에없음",
+   "note": "求其屬 용어 문제집 6/12/14"
+  },
+  {
+   "lesson": "new-uk-06",
+   "n": 1,
+   "lines": [
+    502,
+    688
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-06",
+   "n": 2,
+   "lines": [
+    502,
+    688
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-06",
+   "n": 3,
+   "lines": [
+    502,
+    688
+   ],
+   "check": "교재에없음",
+   "note": "取之陰=腎陰精 교재 없음; 水火之宅은 1469"
+  },
+  {
+   "lesson": "new-uk-06",
+   "n": 4,
+   "lines": [
+    502,
+    688
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-06",
+   "n": 5,
+   "lines": [
+    502,
+    688
+   ],
+   "check": "갈림",
+   "note": "從陰引陽 방향: 교재 502·2036·문제집 142 일치, 문제집 3652-3653 脾胃論은 반대"
+  },
+  {
+   "lesson": "new-uk-06",
+   "n": 6,
+   "lines": [
+    502,
+    688
+   ],
+   "check": "교재에없음",
+   "note": "背兪·陽經·上部 문제집 153; 교재 1709는 左病右治만"
+  },
+  {
+   "lesson": "new-uk-06",
+   "n": 7,
+   "lines": [
+    502,
+    688
+   ],
+   "check": "갈림",
+   "note": "되짚기: 從陰引陽 방향 갈림 포함"
+  },
+  {
+   "lesson": "new-uk-03",
+   "n": 0,
+   "lines": [
+    524,
+    605
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-03",
+   "n": 1,
+   "lines": [
+    524,
+    605
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-03",
+   "n": 2,
+   "lines": [
+    524,
+    605
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-03",
+   "n": 3,
+   "lines": [
+    524,
+    605
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-03",
+   "n": 4,
+   "lines": [
+    524,
+    605
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-03",
+   "n": 5,
+   "lines": [
+    524,
+    605
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-03",
+   "n": 6,
+   "lines": [
+    524,
+    605
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-03",
+   "n": 7,
+   "lines": [
+    524,
+    605
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-05",
+   "n": 0,
+   "lines": [
+    626,
+    691
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-05",
+   "n": 1,
+   "lines": [
+    626,
+    691
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-05",
+   "n": 2,
+   "lines": [
+    626,
+    691
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-05",
+   "n": 3,
+   "lines": [
+    626,
+    691
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-05",
+   "n": 4,
+   "lines": [
+    626,
+    691
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-05",
+   "n": 5,
+   "lines": [
+    626,
+    691
+   ],
+   "check": "교재에없음",
+   "note": "損其有餘=寒熱之만 문제집 16/4494"
+  },
+  {
+   "lesson": "new-uk-05",
+   "n": 6,
+   "lines": [
+    626,
+    691
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-05",
+   "n": 7,
+   "lines": [
+    626,
+    691
+   ],
+   "check": "교재에없음",
+   "note": "되짚기: 損其有餘 문제집 근거"
+  },
+  {
+   "lesson": "yyox-03",
+   "n": 0,
+   "lines": [
+    580,
+    714
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-03",
+   "n": 1,
+   "lines": [
+    580,
+    714
+   ],
+   "check": "맞음",
+   "note": "體陰而用陽 교재 없음 — 확인 필요"
+  },
+  {
+   "lesson": "yyox-03",
+   "n": 2,
+   "lines": [
+    580,
+    714
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-03",
+   "n": 3,
+   "lines": [
+    580,
+    714
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-03",
+   "n": 4,
+   "lines": [
+    580,
+    714
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-03",
+   "n": 5,
+   "lines": [
+    580,
+    714
+   ],
+   "check": "맞음",
+   "note": "州都之官 교재 없음 — 확인 필요"
+  },
+  {
+   "lesson": "yyox-03",
+   "n": 6,
+   "lines": [
+    580,
+    714
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-03",
+   "n": 7,
+   "lines": [
+    580,
+    714
+   ],
+   "check": "교재에없음",
+   "note": "相傅之官 교재 없음(治節 2400)"
+  },
+  {
+   "lesson": "yyox-03",
+   "n": 8,
+   "lines": [
+    580,
+    714
+   ],
+   "check": "맞음",
+   "note": "潔淨 미탑재, 收斂 849"
+  },
+  {
+   "lesson": "yyox-03",
+   "n": 9,
+   "lines": [
+    580,
+    714
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-03",
+   "n": 10,
+   "lines": [
+    580,
+    714
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-03",
+   "n": 11,
+   "lines": [
+    580,
+    714
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-04",
+   "n": 0,
+   "lines": [
+    698,
+    738
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-04",
+   "n": 1,
+   "lines": [
+    698,
+    738
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-04",
+   "n": 2,
+   "lines": [
+    698,
+    738
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-04",
+   "n": 3,
+   "lines": [
+    698,
+    738
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-04",
+   "n": 4,
+   "lines": [
+    698,
+    738
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-04",
+   "n": 5,
+   "lines": [
+    698,
+    738
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-04",
+   "n": 6,
+   "lines": [
+    698,
+    738
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-04",
+   "n": 7,
+   "lines": [
+    698,
+    738
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-04",
+   "n": 8,
+   "lines": [
+    698,
+    738
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-04",
+   "n": 9,
+   "lines": [
+    698,
+    738
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-07",
+   "n": 0,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "五氣所病 SUP-BYEONG-11~16, 교재 없음"
+  },
+  {
+   "lesson": "new-uk-07",
+   "n": 1,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "五氣所病 SUP-BYEONG-11~16, 교재 없음"
+  },
+  {
+   "lesson": "new-uk-07",
+   "n": 2,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "五氣所病 SUP-BYEONG-11~16, 교재 없음"
+  },
+  {
+   "lesson": "new-uk-07",
+   "n": 3,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "五氣所病 SUP-BYEONG-11~16, 교재 없음"
+  },
+  {
+   "lesson": "new-uk-07",
+   "n": 4,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "五氣所病 SUP-BYEONG-11~16, 교재 없음"
+  },
+  {
+   "lesson": "new-uk-07",
+   "n": 5,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "五氣所病 SUP-BYEONG-11~16, 교재 없음"
+  },
+  {
+   "lesson": "new-uk-07",
+   "n": 6,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "五氣所病 SUP-BYEONG-11~16, 교재 없음"
+  },
+  {
+   "lesson": "new-uk-07",
+   "n": 7,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "五氣所病 SUP-BYEONG-11~16, 교재 없음"
+  },
+  {
+   "lesson": "yyox-07",
+   "n": 0,
+   "lines": [
+    770,
+    813
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-07",
+   "n": 1,
+   "lines": [
+    770,
+    813
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-07",
+   "n": 2,
+   "lines": [
+    770,
+    813
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-07",
+   "n": 3,
+   "lines": [
+    770,
+    813
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-07",
+   "n": 4,
+   "lines": [
+    770,
+    813
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-07",
+   "n": 5,
+   "lines": [
+    770,
+    813
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-07",
+   "n": 6,
+   "lines": [
+    770,
+    813
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-07",
+   "n": 7,
+   "lines": [
+    770,
+    813
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-07",
+   "n": 8,
+   "lines": [
+    770,
+    813
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-07",
+   "n": 9,
+   "lines": [
+    770,
+    813
+   ],
+   "check": "교재에없음",
+   "note": "微<虛<實<賊 서열 교재 없음"
+  },
+  {
+   "lesson": "yyox-08",
+   "n": 0,
+   "lines": [
+    815,
+    840
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-08",
+   "n": 1,
+   "lines": [
+    815,
+    840
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-08",
+   "n": 2,
+   "lines": [
+    815,
+    840
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-08",
+   "n": 3,
+   "lines": [
+    815,
+    840
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-08",
+   "n": 4,
+   "lines": [
+    815,
+    840
+   ],
+   "check": "갈림",
+   "note": "水不涵木·肝陽上亢을 子盜母氣 예로 씀(문제집 45/182); 교재 804 虛邪 母病及子·859"
+  },
+  {
+   "lesson": "yyox-08",
+   "n": 5,
+   "lines": [
+    815,
+    840
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-08",
+   "n": 6,
+   "lines": [
+    815,
+    840
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-08",
+   "n": 7,
+   "lines": [
+    815,
+    840
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-08",
+   "n": 8,
+   "lines": [
+    815,
+    840
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-08",
+   "n": 9,
+   "lines": [
+    815,
+    840
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-09",
+   "n": 0,
+   "lines": [
+    866,
+    880
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-09",
+   "n": 1,
+   "lines": [
+    866,
+    880
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-09",
+   "n": 2,
+   "lines": [
+    866,
+    880
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-09",
+   "n": 3,
+   "lines": [
+    866,
+    880
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-09",
+   "n": 4,
+   "lines": [
+    866,
+    880
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-09",
+   "n": 5,
+   "lines": [
+    866,
+    880
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-09",
+   "n": 6,
+   "lines": [
+    866,
+    880
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-09",
+   "n": 7,
+   "lines": [
+    866,
+    880
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-10",
+   "n": 0,
+   "lines": [
+    882,
+    902
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-10",
+   "n": 1,
+   "lines": [
+    882,
+    902
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-10",
+   "n": 2,
+   "lines": [
+    882,
+    902
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-10",
+   "n": 3,
+   "lines": [
+    882,
+    902
+   ],
+   "check": "교재에없음",
+   "note": "行間/少海 문제집 3922-3923"
+  },
+  {
+   "lesson": "yyox-10",
+   "n": 4,
+   "lines": [
+    882,
+    902
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-10",
+   "n": 5,
+   "lines": [
+    882,
+    902
+   ],
+   "check": "갈림",
+   "note": "益火生土 命門火만(문제집 36/156); 교재 895 心火·腎陽"
+  },
+  {
+   "lesson": "yyox-10",
+   "n": 6,
+   "lines": [
+    882,
+    902
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-10",
+   "n": 7,
+   "lines": [
+    882,
+    902
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-10",
+   "n": 8,
+   "lines": [
+    882,
+    902
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-10",
+   "n": 9,
+   "lines": [
+    882,
+    902
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-10",
+   "n": 10,
+   "lines": [
+    882,
+    902
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-10",
+   "n": 11,
+   "lines": [
+    882,
+    902
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-10",
+   "n": 12,
+   "lines": [
+    882,
+    902
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-11",
+   "n": 0,
+   "lines": [
+    907,
+    915
+   ],
+   "check": "교재에없음",
+   "note": "近取諸身 PG-05; 자연/사람은 908-915"
+  },
+  {
+   "lesson": "yyox-11",
+   "n": 1,
+   "lines": [
+    907,
+    915
+   ],
+   "check": "교재에없음",
+   "note": "近取諸身 PG-05; 자연/사람은 908-915"
+  },
+  {
+   "lesson": "yyox-11",
+   "n": 2,
+   "lines": [
+    907,
+    915
+   ],
+   "check": "교재에없음",
+   "note": "近取諸身 PG-05; 자연/사람은 908-915"
+  },
+  {
+   "lesson": "yyox-11",
+   "n": 3,
+   "lines": [
+    907,
+    915
+   ],
+   "check": "교재에없음",
+   "note": "近取諸身 PG-05; 자연/사람은 908-915"
+  },
+  {
+   "lesson": "yyox-11",
+   "n": 4,
+   "lines": [
+    907,
+    915
+   ],
+   "check": "교재에없음",
+   "note": "近取諸身 PG-05; 자연/사람은 908-915"
+  },
+  {
+   "lesson": "yyox-11",
+   "n": 5,
+   "lines": [
+    907,
+    915
+   ],
+   "check": "교재에없음",
+   "note": "近取諸身 PG-05; 자연/사람은 908-915"
+  },
+  {
+   "lesson": "yyox-11",
+   "n": 6,
+   "lines": [
+    907,
+    915
+   ],
+   "check": "교재에없음",
+   "note": "近取諸身 PG-05; 자연/사람은 908-915"
+  },
+  {
+   "lesson": "yyox-11",
+   "n": 7,
+   "lines": [
+    907,
+    915
+   ],
+   "check": "교재에없음",
+   "note": "近取諸身 PG-05; 자연/사람은 908-915"
+  },
+  {
+   "lesson": "yyox-11",
+   "n": 8,
+   "lines": [
+    907,
+    915
+   ],
+   "check": "교재에없음",
+   "note": "近取諸身 PG-05; 자연/사람은 908-915"
+  },
+  {
+   "lesson": "yyox-11",
+   "n": 9,
+   "lines": [
+    907,
+    915
+   ],
+   "check": "교재에없음",
+   "note": "近取諸身 PG-05; 자연/사람은 908-915"
+  },
+  {
+   "lesson": "yyox-12",
+   "n": 0,
+   "lines": [
+    917,
+    931
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-12",
+   "n": 1,
+   "lines": [
+    917,
+    931
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-12",
+   "n": 2,
+   "lines": [
+    917,
+    931
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-12",
+   "n": 3,
+   "lines": [
+    917,
+    931
+   ],
+   "check": "맞음",
+   "note": "짝수 합 9는 교재 숫자로 계산"
+  },
+  {
+   "lesson": "yyox-12",
+   "n": 4,
+   "lines": [
+    917,
+    931
+   ],
+   "check": "교재에없음",
+   "note": "天地定位·山澤通氣·雷風相薄 PG-03"
+  },
+  {
+   "lesson": "yyox-12",
+   "n": 5,
+   "lines": [
+    917,
+    931
+   ],
+   "check": "교재에없음",
+   "note": "天地定位·山澤通氣·雷風相薄 PG-03"
+  },
+  {
+   "lesson": "yyox-12",
+   "n": 6,
+   "lines": [
+    917,
+    931
+   ],
+   "check": "교재에없음",
+   "note": "天地定位·山澤通氣·雷風相薄 PG-03"
+  },
+  {
+   "lesson": "yyox-12",
+   "n": 7,
+   "lines": [
+    917,
+    931
+   ],
+   "check": "교재에없음",
+   "note": "天地定位·山澤通氣·雷風相薄 PG-03"
+  },
+  {
+   "lesson": "yyox-12",
+   "n": 8,
+   "lines": [
+    917,
+    931
+   ],
+   "check": "맞음",
+   "note": "陽息陰消은 덱 해설"
+  },
+  {
+   "lesson": "yyox-12",
+   "n": 9,
+   "lines": [
+    917,
+    931
+   ],
+   "check": "교재에없음",
+   "note": "天地定位·山澤通氣·雷風相薄 PG-03"
+  },
+  {
+   "lesson": "yyox-13",
+   "n": 0,
+   "lines": [
+    921,
+    924
+   ],
+   "check": "교재에없음",
+   "note": "說卦傳 帝出乎震 PG-06; 방위·자연은 908-915"
+  },
+  {
+   "lesson": "yyox-13",
+   "n": 1,
+   "lines": [
+    921,
+    924
+   ],
+   "check": "교재에없음",
+   "note": "說卦傳 帝出乎震 PG-06; 방위·자연은 908-915"
+  },
+  {
+   "lesson": "yyox-13",
+   "n": 2,
+   "lines": [
+    921,
+    924
+   ],
+   "check": "교재에없음",
+   "note": "說卦傳 帝出乎震 PG-06; 방위·자연은 908-915"
+  },
+  {
+   "lesson": "yyox-13",
+   "n": 3,
+   "lines": [
+    921,
+    924
+   ],
+   "check": "교재에없음",
+   "note": "說卦傳 帝出乎震 PG-06; 방위·자연은 908-915"
+  },
+  {
+   "lesson": "yyox-13",
+   "n": 4,
+   "lines": [
+    921,
+    924
+   ],
+   "check": "교재에없음",
+   "note": "說卦傳 帝出乎震 PG-06; 방위·자연은 908-915"
+  },
+  {
+   "lesson": "yyox-13",
+   "n": 5,
+   "lines": [
+    921,
+    924
+   ],
+   "check": "교재에없음",
+   "note": "說卦傳 帝出乎震 PG-06; 방위·자연은 908-915"
+  },
+  {
+   "lesson": "yyox-13",
+   "n": 6,
+   "lines": [
+    921,
+    924
+   ],
+   "check": "교재에없음",
+   "note": "說卦傳 帝出乎震 PG-06; 방위·자연은 908-915"
+  },
+  {
+   "lesson": "yyox-13",
+   "n": 7,
+   "lines": [
+    921,
+    924
+   ],
+   "check": "교재에없음",
+   "note": "說卦傳 帝出乎震 PG-06; 방위·자연은 908-915"
+  },
+  {
+   "lesson": "yyox-13",
+   "n": 8,
+   "lines": [
+    921,
+    924
+   ],
+   "check": "교재에없음",
+   "note": "說卦傳 帝出乎震 PG-06; 방위·자연은 908-915"
+  },
+  {
+   "lesson": "yyox-13",
+   "n": 9,
+   "lines": [
+    921,
+    924
+   ],
+   "check": "교재에없음",
+   "note": "說卦傳 帝出乎震 PG-06; 방위·자연은 908-915"
+  },
+  {
+   "lesson": "yyox-13",
+   "n": 10,
+   "lines": [
+    921,
+    924
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-13",
+   "n": 11,
+   "lines": [
+    921,
+    924
+   ],
+   "check": "교재에없음",
+   "note": "說卦傳 帝出乎震 PG-06; 방위·자연은 908-915"
+  }
+ ],
+ "zongang": "안 함",
+ "summary": {
+  "items": 289,
+  "없음": 83,
+  "글로만": 5,
+  "약함": 49,
+  "그림후보": 152,
+  "stations": 173,
+  "다름": 1,
+  "교재에없음": 49,
+  "갈림": 11
+ }
+}

@@ -1,0 +1,7038 @@
+{
+ "bundle": "L1",
+ "pass": "a",
+ "chapters": [
+  "base",
+  "ch01",
+  "ch14",
+  "ch15",
+  "ch16",
+  "app"
+ ],
+ "items": [
+  {
+   "line": 73,
+   "end": 73,
+   "kind": "표행",
+   "term": "自然觀 天人合一",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 동서 비교 1행 · 문제집 줄 99"
+  },
+  {
+   "line": 74,
+   "end": 74,
+   "kind": "표행",
+   "term": "人體觀 小宇宙 氣一元論",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 동서 비교 2행 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 75,
+   "end": 75,
+   "kind": "표행",
+   "term": "疾病觀 正氣 內因 補法",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 동서 비교 3행 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 76,
+   "end": 76,
+   "kind": "표행",
+   "term": "診斷治療觀 辨證위주",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 동서 비교 4행 — 辨證/辨病 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 77,
+   "end": 77,
+   "kind": "표행",
+   "term": "관찰관점 演繹 整體觀 恒動觀",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 동서 비교 5행 · 문제집 줄 3044"
+  },
+  {
+   "line": 79,
+   "end": 84,
+   "kind": "정의",
+   "term": "陰陽學說 정의 宇宙觀方法論",
+   "where": [
+    "yyox-02#0"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "相對屬性·消長은 yyox-02#0에 있으나 인식·해석·탐구 세 목적(宇宙觀·方法論) 없음"
+  },
+  {
+   "line": 87,
+   "end": 87,
+   "kind": "표행",
+   "term": "陰陽 공간 上下左右內外東南西",
+   "where": [
+    "new-uk-04#1",
+    "new-uk-03#3"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "內外·上下만 있고 左右·東南/西北 없음"
+  },
+  {
+   "line": 88,
+   "end": 88,
+   "kind": "표행",
+   "term": "陰陽 시간 晝夜 春夏秋冬",
+   "where": [
+    "new-uk-04#5"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "하루 4구분만 있고 晝夜·春夏/秋冬 짝 없음"
+  },
+  {
+   "line": 89,
+   "end": 89,
+   "kind": "표행",
+   "term": "陰陽 성질 熱輕淸/寒重濁",
+   "where": [
+    "new-uk-04#4"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "熱·寒(四氣)만 있고 輕重·淸濁 없음"
+  },
+  {
+   "line": 90,
+   "end": 90,
+   "kind": "표행",
+   "term": "陰陽 운동 動靜 上升下降",
+   "where": [
+    "new-uk-04#2"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "升發·下降은 있고 動/靜 · 外出/內入 없음"
+  },
+  {
+   "line": 91,
+   "end": 91,
+   "kind": "표행",
+   "term": "陰陽 천지일월화수 男女",
+   "where": [
+    "new-uk-03#3",
+    "new-zj-01#7"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "男女(血氣之男女)·水火만 — 天地·日月·雄雌 짝은 臟腑 雌雄뿐"
+  },
+  {
+   "line": 92,
+   "end": 92,
+   "kind": "표행",
+   "term": "陰陽 인체 부위 背腹表裏筋骨",
+   "where": [
+    "new-uk-04#1"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "內外·上下만 — 背腹·皮毛/筋骨·腑臟·四肢/軀幹 없음"
+  },
+  {
+   "line": 93,
+   "end": 93,
+   "kind": "표행",
+   "term": "陰陽 五臟 陽中之陽 牡臟",
+   "where": [
+    "zds-06#1",
+    "zds-06#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "牡臟 표기는 없음"
+  },
+  {
+   "line": 94,
+   "end": 94,
+   "kind": "표행",
+   "term": "陰陽 氣血 氣衛/血營",
+   "where": [
+    "new-gr-10#6",
+    "new-gr-14#7"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "是動/所生·維脈 맥락의 衛·營뿐 — 氣陽 血陰 짝 자체는 없음"
+  },
+  {
+   "line": 95,
+   "end": 95,
+   "kind": "표행",
+   "term": "陰陽 機能/物質",
+   "where": [
+    "new-uk-03#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "陽化氣 陰成形(무형/유형)로 나름"
+  },
+  {
+   "line": 96,
+   "end": 96,
+   "kind": "표행",
+   "term": "陰陽 興奮亢進/抑制衰退",
+   "where": [
+    "new-uk-04#2"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "興奮·抑制는 있고 亢進·衰退 없음"
+  },
+  {
+   "line": 98,
+   "end": 98,
+   "kind": "목록",
+   "term": "陰陽互根",
+   "where": [
+    "yyox-02#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 99,
+   "end": 99,
+   "kind": "목록",
+   "term": "陰陽制約",
+   "where": [
+    "yyox-02#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 100,
+   "end": 100,
+   "kind": "목록",
+   "term": "陰陽轉化",
+   "where": [
+    "yyox-02#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 101,
+   "end": 101,
+   "kind": "목록",
+   "term": "消長平衡",
+   "where": [
+    "yyox-02#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 103,
+   "end": 107,
+   "kind": "목록",
+   "term": "韓醫學的 應用 5가지",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 陰陽 응용 개괄(해부·생리·병리·진단·치료) · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 108,
+   "end": 108,
+   "kind": "정의",
+   "term": "五行學說 정의 五氣聚散",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 五行 정의 한 줄 — 교재 691-692 3절 정의와 겹침 · 문제집 줄 261·709·712"
+  },
+  {
+   "line": 109,
+   "end": 111,
+   "kind": "목록",
+   "term": "少陽生·太陽長·少陰收·太陰藏",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 陰陽消長 세분→五行 연결고리, 덱에 없음 · 문제집 줄 1995·2023·2025"
+  },
+  {
+   "line": 113,
+   "end": 113,
+   "kind": "목록",
+   "term": "木=陽始生 少陽",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 五行 性象 — yyox-03은 曲直 등 洪範 성질이라 다름 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 114,
+   "end": 114,
+   "kind": "목록",
+   "term": "火=陽極 太陽",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 위와 같은 묶음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 115,
+   "end": 115,
+   "kind": "목록",
+   "term": "金=陰始生 少陰",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 위와 같은 묶음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 116,
+   "end": 116,
+   "kind": "목록",
+   "term": "水=陰極 太陰",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 위와 같은 묶음 · 문제집 줄 666"
+  },
+  {
+   "line": 117,
+   "end": 119,
+   "kind": "목록",
+   "term": "土=陰陽 包含",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 위와 같은 묶음"
+  },
+  {
+   "line": 120,
+   "end": 122,
+   "kind": "목록",
+   "term": "하루·역사의 五行 흐름",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 朝晝午後夕夜 / 發生隆盛變化衰退滅亡 · 문제집 줄 235·237·782"
+  },
+  {
+   "line": 123,
+   "end": 123,
+   "kind": "정의",
+   "term": "五臟 相生相剋 健康",
+   "where": [
+    "yyox-03#1",
+    "yyox-10#12"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "五臟 배속은 있으나 「健康=相生相剋」 문장 없음"
+  },
+  {
+   "line": 124,
+   "end": 124,
+   "kind": "정의",
+   "term": "五行 변화규율 4",
+   "where": [
+    "yyox-04#1",
+    "yyox-08#0"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "相生·相剋·相乘·相侮 모두 있음"
+  },
+  {
+   "line": 125,
+   "end": 126,
+   "kind": "정의",
+   "term": "相生相克=정상 · 相乘相侮=",
+   "where": [
+    "yyox-08#0",
+    "yyox-08#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 128,
+   "end": 131,
+   "kind": "목록",
+   "term": "韓醫學槪論 주요내용 4갈래",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 목차 소개 문장 — 시험 대상 아님"
+  },
+  {
+   "line": 133,
+   "end": 133,
+   "kind": "정의",
+   "term": "生命觀 唯物 3가지",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 人稟天地之氣而生·形與神俱·疾病可知 — 총론 문구 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 134,
+   "end": 134,
+   "kind": "정의",
+   "term": "辨證觀 標本緩急 正治反治",
+   "where": [
+    "new-etc-27#3",
+    "new-etc-27#7",
+    "yyox-01#0"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "標本緩急·反治·異法方宜는 있으나 正治反治(正治)·病治異同 묶음 없음"
+  },
+  {
+   "line": 137,
+   "end": 137,
+   "kind": "정의",
+   "term": "整體觀念 有機整體",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 整體觀念 단어 자체가 덱에 없음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 138,
+   "end": 138,
+   "kind": "정의",
+   "term": "人間-自然 統一性",
+   "where": [
+    "yyox-01#0",
+    "new-uk-01#0"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "天人相應(異法方宜·金匱眞言)로 간접"
+  },
+  {
+   "line": 139,
+   "end": 139,
+   "kind": "정의",
+   "term": "辨證論治 同病異治異病同治",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 辨證論治 개념 자체가 덱에 없음(傷寒論 최초 문헌 언급만) · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 143,
+   "end": 143,
+   "kind": "목록",
+   "term": "經驗說",
+   "where": [
+    "new-etc-01#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 144,
+   "end": 144,
+   "kind": "목록",
+   "term": "巫醫說 醫起于巫",
+   "where": [
+    "new-etc-01#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 145,
+   "end": 145,
+   "kind": "목록",
+   "term": "聖人創製說",
+   "where": [
+    "new-etc-01#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 146,
+   "end": 146,
+   "kind": "목록",
+   "term": "神農 農業 藥物",
+   "where": [
+    "new-etc-01#3",
+    "hist-01a#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 147,
+   "end": 147,
+   "kind": "인용",
+   "term": "神農 一日遇七十毒",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 기원설 일화 인용 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 148,
+   "end": 148,
+   "kind": "목록",
+   "term": "伏羲 牧畜",
+   "where": [
+    "new-etc-01#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 149,
+   "end": 149,
+   "kind": "목록",
+   "term": "燧人 用火",
+   "where": [
+    "new-etc-01#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 150,
+   "end": 150,
+   "kind": "목록",
+   "term": "黃帝岐伯 體系化 鍼灸",
+   "where": [
+    "new-etc-01#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 153,
+   "end": 153,
+   "kind": "정의",
+   "term": "殷 盤庚 心腹腎腸",
+   "where": [
+    "new-etc-01#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 154,
+   "end": 155,
+   "kind": "정의",
+   "term": "甲骨卜辭 疒 20여종",
+   "where": [
+    "new-etc-01#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "疾年·雨疾·降疾 유행병 최초 인식은 낭독에만"
+  },
+  {
+   "line": 155,
+   "end": 155,
+   "kind": "정의",
+   "term": "疾年 雨疾 降疾",
+   "where": [
+    "new-etc-01#4"
+   ],
+   "verdict": "글로만",
+   "proposal": "",
+   "note": "say에만 있음"
+  },
+  {
+   "line": 157,
+   "end": 157,
+   "kind": "정의",
+   "term": "선조·귀신의 재앙 병인",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 초기 병인 인식 한 줄 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 158,
+   "end": 159,
+   "kind": "정의",
+   "term": "음식·기후 呂氏春秋 古樂",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 呂氏春秋 陰濕 인용 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 160,
+   "end": 160,
+   "kind": "정의",
+   "term": "山海經 38種",
+   "where": [
+    "new-etc-01#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "山海經은 있으나 질병 38종 기재·인식 진보는 없음"
+  },
+  {
+   "line": 162,
+   "end": 163,
+   "kind": "정의",
+   "term": "專業醫 대량 출현",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 전국시대 사회배경 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 166,
+   "end": 166,
+   "kind": "인용",
+   "term": "四診 切脈望色聽聲寫形",
+   "where": [
+    "new-etc-01#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 167,
+   "end": 167,
+   "kind": "인용",
+   "term": "周禮 以五味五穀五藥養其病",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 周禮 인용 — 八種醫(周禮)와 다른 문장 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 168,
+   "end": 169,
+   "kind": "인용",
+   "term": "五毒·五氣·五藥·五味 酸養骨",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 酸養骨·辛養筋·鹹養脈·苦養氣·甘養肉·滑養竅 — 五味所走(yyox-06)와 짝 비교표 후보 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 170,
+   "end": 170,
+   "kind": "정의",
+   "term": "內經 穴位 300+ 穴名 1",
+   "where": [
+    "hist-07a#9"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "「160=內經」 함정 한 줄만 — 300개 이상 없음"
+  },
+  {
+   "line": 171,
+   "end": 171,
+   "kind": "정의",
+   "term": "巨刺 繆刺 補瀉",
+   "where": [
+    "new-gr-18#1",
+    "new-gr-18#2",
+    "new-gr-18#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 172,
+   "end": 172,
+   "kind": "정의",
+   "term": "인체구조 초보 인식",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 내용 없는 제목 줄"
+  },
+  {
+   "line": 173,
+   "end": 173,
+   "kind": "정의",
+   "term": "기초이론 확립 精氣神 陰陽五",
+   "where": [
+    "new-jq-01#5",
+    "new-uk-01#0"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "精氣神·天人相應은 해당 장 과에 있고 이 줄 요약 자체는 없음"
+  },
+  {
+   "line": 174,
+   "end": 174,
+   "kind": "※",
+   "term": "四大經典",
+   "where": [
+    "hist-01a#0"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 176,
+   "end": 176,
+   "kind": "정의",
+   "term": "內經 最古 素問9 靈樞9",
+   "where": [
+    "hist-01a#6",
+    "hist-01a#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 177,
+   "end": 177,
+   "kind": "정의",
+   "term": "西漢 완성 黃帝 依託",
+   "where": [
+    "hist-01a#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 179,
+   "end": 179,
+   "kind": "정의",
+   "term": "天人相應",
+   "where": [
+    "yyox-01#0",
+    "new-uk-01#0"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 180,
+   "end": 180,
+   "kind": "정의",
+   "term": "治未病 治病必求于本",
+   "where": [
+    "new-etc-27#1",
+    "new-uk-03#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 181,
+   "end": 181,
+   "kind": "정의",
+   "term": "질병발생 邪氣",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 邪氣 일반론 — 병인 과들에서 다룸"
+  },
+  {
+   "line": 182,
+   "end": 182,
+   "kind": "정의",
+   "term": "치료 못 할 병은 없다",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 내경 총평 문장 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 183,
+   "end": 183,
+   "kind": "정의",
+   "term": "內經 鍼刺 위주 · 藥物 1",
+   "where": [
+    "new-etc-01#10"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "13方만 藝文志 정거장 fact에 있음 · 11곳 · 鍼刺 위주 없음"
+  },
+  {
+   "line": 184,
+   "end": 184,
+   "kind": "인용",
+   "term": "拘于鬼神者 미신 반대",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 187,
+   "end": 187,
+   "kind": "정의",
+   "term": "王冰 現存 素問",
+   "where": [
+    "hist-03c#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 188,
+   "end": 188,
+   "kind": "정의",
+   "term": "靈樞 宋 史崧 개편",
+   "where": [
+    "hist-01a#7"
+   ],
+   "verdict": "글로만",
+   "proposal": "",
+   "note": "fact에만 있음"
+  },
+  {
+   "line": 190,
+   "end": 192,
+   "kind": "목록",
+   "term": "全面的 注釋 5인(王冰 吳崑",
+   "where": [
+    "hist-03c#7",
+    "hist-10#1"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "王冰·吳崑·馬蒔만 · 張志聰·高世栻 없음"
+  },
+  {
+   "line": 194,
+   "end": 194,
+   "kind": "목록",
+   "term": "分類 編纂 楊上善 張介賓",
+   "where": [
+    "hist-02b#6",
+    "hist-08a#3",
+    "hist-02b#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 195,
+   "end": 196,
+   "kind": "목록",
+   "term": "主題別 注 劉完素 李中梓 汪",
+   "where": [
+    "hist-10#2",
+    "hist-08b#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 199,
+   "end": 199,
+   "kind": "정의",
+   "term": "神農本草經 最古 藥物學",
+   "where": [
+    "hist-01a#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 200,
+   "end": 200,
+   "kind": "정의",
+   "term": "傷寒論 出現 · 淳于意 診籍",
+   "where": [
+    "hist-01b#2"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "傷寒論만 — 淳于意 診籍 없음(lesson_map 「카드 없음」으로 버림)"
+  },
+  {
+   "line": 201,
+   "end": 201,
+   "kind": "정의",
+   "term": "鍼灸 진보 甲乙經",
+   "where": [
+    "hist-07a#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 203,
+   "end": 203,
+   "kind": "정의",
+   "term": "難經 秦越人=扁鵲",
+   "where": [
+    "hist-01a#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 204,
+   "end": 204,
+   "kind": "정의",
+   "term": "難經 問答형식",
+   "where": [
+    "hist-01a#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 205,
+   "end": 205,
+   "kind": "정의",
+   "term": "難經 81難",
+   "where": [
+    "hist-01a#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 206,
+   "end": 207,
+   "kind": "정의",
+   "term": "難經 寸關尺 浮中沈",
+   "where": [
+    "hist-01a#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 208,
+   "end": 208,
+   "kind": "정의",
+   "term": "難經 奇經八脈說 八會穴",
+   "where": [
+    "new-gr-12#2",
+    "mer-13#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 209,
+   "end": 209,
+   "kind": "정의",
+   "term": "左腎右命門 腎間動氣",
+   "where": [
+    "hist-01a#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 210,
+   "end": 210,
+   "kind": "정의",
+   "term": "三焦有名無形",
+   "where": [
+    "hist-01a#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 211,
+   "end": 211,
+   "kind": "정의",
+   "term": "傷寒 5종 58難",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 中風·傷寒·濕溫·熱病·溫病 다섯 — 溫病학 과와 이어짐 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 212,
+   "end": 212,
+   "kind": "정의",
+   "term": "虛者補其母 實者瀉其子",
+   "where": [
+    "yyox-10#2",
+    "yyox-10#3",
+    "mer-11#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 212,
+   "end": 212,
+   "kind": "cf",
+   "term": "邪氣盛則實 精氣奪則虛",
+   "where": [
+    "hp-14#1",
+    "hp-14#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 213,
+   "end": 213,
+   "kind": "정의",
+   "term": "積聚 五臟積 六腑聚",
+   "where": [
+    "new-zj-29#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "癥積·瘕聚(觸診)만 — 五臟에서 生=積 六腑=聚 구분 없음"
+  },
+  {
+   "line": 214,
+   "end": 214,
+   "kind": "정의",
+   "term": "傷寒雜病論 張機 方書之祖",
+   "where": [
+    "hist-01b#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 215,
+   "end": 215,
+   "kind": "정의",
+   "term": "王叔和 再撰 傷寒論·金匱 분",
+   "where": [
+    "hist-01b#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 216,
+   "end": 216,
+   "kind": "정의",
+   "term": "勤求古訓 博採衆方",
+   "where": [
+    "hist-01b#1"
+   ],
+   "verdict": "글로만",
+   "proposal": "",
+   "note": "fact에만"
+  },
+  {
+   "line": 217,
+   "end": 217,
+   "kind": "정의",
+   "term": "傷寒論 辨證論治 최초 전문서",
+   "where": [
+    "hist-01b#2"
+   ],
+   "verdict": "글로만",
+   "proposal": "",
+   "note": "fact에만 — 물건·고리는 六經만 나름"
+  },
+  {
+   "line": 218,
+   "end": 218,
+   "kind": "인용",
+   "term": "以六經統百病 六經傳變",
+   "where": [
+    "hist-01b#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "六經形症·分經辨證은 없음"
+  },
+  {
+   "line": 219,
+   "end": 219,
+   "kind": "정의",
+   "term": "金匱 臟腑經絡先後 40여종",
+   "where": [
+    "hist-01b#3"
+   ],
+   "verdict": "글로만",
+   "proposal": "",
+   "note": "fact에만 — 고리는 세 칸 궤짝(不越三條)"
+  },
+  {
+   "line": 220,
+   "end": 220,
+   "kind": "인용",
+   "term": "千般疢難 不越三條 → 三因",
+   "where": [
+    "hist-01b#3",
+    "hist-04#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 222,
+   "end": 222,
+   "kind": "※",
+   "term": "張機貢獻 脈證 병중",
+   "where": [
+    "new-zj-26#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "舍證從脈 맥락만 — 張機 공헌 문장 아님"
+  },
+  {
+   "line": 223,
+   "end": 223,
+   "kind": "※",
+   "term": "張機貢獻 內經 熱病學說 발전",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 張機 공헌 5줄 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 224,
+   "end": 224,
+   "kind": "※",
+   "term": "張機貢獻 방제 보존",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 위와 같은 묶음"
+  },
+  {
+   "line": 225,
+   "end": 225,
+   "kind": "※",
+   "term": "張機貢獻 저작학풍",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 위와 같은 묶음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 226,
+   "end": 226,
+   "kind": "※",
+   "term": "張機貢獻 辨證論治 기초",
+   "where": [
+    "hist-01b#2"
+   ],
+   "verdict": "글로만",
+   "proposal": "",
+   "note": "fact에만"
+  },
+  {
+   "line": 228,
+   "end": 228,
+   "kind": "정의",
+   "term": "神農本草經 東漢",
+   "where": [
+    "hist-01a#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 229,
+   "end": 229,
+   "kind": "정의",
+   "term": "365종 + 別錄 365 =",
+   "where": [
+    "hist-01a#8",
+    "hist-02a#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 230,
+   "end": 230,
+   "kind": "정의",
+   "term": "三品 上中下 毒性",
+   "where": [
+    "hist-01a#9",
+    "new-etc-13#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 231,
+   "end": 231,
+   "kind": "정의",
+   "term": "本經 五味 외 四氣 강조",
+   "where": [
+    "hp-01#0"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "四氣 일반(hp-01)만 — 本經이 四氣도 강조했다는 줄 없음"
+  },
+  {
+   "line": 232,
+   "end": 232,
+   "kind": "정의",
+   "term": "久服神仙不死 폐단",
+   "where": [
+    "new-etc-13#4",
+    "new-etc-13#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "「不可久服」로 간접 — 神仙不死 폐단 문장은 없음"
+  },
+  {
+   "line": 236,
+   "end": 236,
+   "kind": "정의",
+   "term": "兩晉隋唐 특징 方書 대량",
+   "where": [
+    "new-etc-04#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 238,
+   "end": 238,
+   "kind": "정의",
+   "term": "기본이론·진단 정체",
+   "where": [
+    "new-etc-04#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 240,
+   "end": 240,
+   "kind": "정의",
+   "term": "石藥服用 怪癖",
+   "where": [
+    "new-etc-04#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 242,
+   "end": 243,
+   "kind": "정의",
+   "term": "王叔和 脈經 24종 寸關尺",
+   "where": [
+    "hist-01b#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "24종·寸關尺 배속은 fact에만"
+  },
+  {
+   "line": 244,
+   "end": 244,
+   "kind": "정의",
+   "term": "傷寒雜病論 정리 전함",
+   "where": [
+    "hist-01b#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 245,
+   "end": 245,
+   "kind": "정의",
+   "term": "千金方 外臺秘要 방제",
+   "where": [
+    "hist-03a#3",
+    "hist-03b#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 246,
+   "end": 246,
+   "kind": "정의",
+   "term": "皇甫謐 甲乙經 최초 침구서",
+   "where": [
+    "hist-07a#1",
+    "hist-07a#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 248,
+   "end": 248,
+   "kind": "정의",
+   "term": "陶弘景 本草經集注",
+   "where": [
+    "hist-02a#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 249,
+   "end": 249,
+   "kind": "정의",
+   "term": "陳藏器 本草拾遺 十劑說",
+   "where": [
+    "hist-03b#2",
+    "hist-03b#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 250,
+   "end": 250,
+   "kind": "정의",
+   "term": "蘇敬 新修本草 朝撰本草",
+   "where": [
+    "hist-03a#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 251,
+   "end": 251,
+   "kind": "정의",
+   "term": "雷斅 炮炙論",
+   "where": [
+    "hist-02a#7",
+    "hist-02a#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 252,
+   "end": 252,
+   "kind": "정의",
+   "term": "徐之才 雷公藥對",
+   "where": [
+    "hist-02a#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 253,
+   "end": 253,
+   "kind": "정의",
+   "term": "劉涓子鬼遺方 외과",
+   "where": [
+    "hist-02b#1",
+    "hist-02b#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 255,
+   "end": 255,
+   "kind": "목록",
+   "term": "皇甫謐 甲乙經",
+   "where": [
+    "hist-07a#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 256,
+   "end": 256,
+   "kind": "목록",
+   "term": "王叔和 脈經",
+   "where": [
+    "hist-01b#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 257,
+   "end": 257,
+   "kind": "목록",
+   "term": "葛洪 肘後備急方 抱朴子",
+   "where": [
+    "hist-01b#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 258,
+   "end": 258,
+   "kind": "목록",
+   "term": "魏陽伯 周易參同契",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 259,
+   "end": 259,
+   "kind": "목록",
+   "term": "陶弘景 別錄 百一方 養性延命",
+   "where": [
+    "hist-02a#2",
+    "hist-02a#5",
+    "hist-02a#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 260,
+   "end": 260,
+   "kind": "목록",
+   "term": "巢元方 諸病源候論",
+   "where": [
+    "hist-02b#4",
+    "hist-02b#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 262,
+   "end": 262,
+   "kind": "목록",
+   "term": "孫思邈 千金要方",
+   "where": [
+    "hist-03a#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 263,
+   "end": 263,
+   "kind": "목록",
+   "term": "王燾 外臺秘要",
+   "where": [
+    "hist-03b#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 264,
+   "end": 264,
+   "kind": "목록",
+   "term": "全元起 內經訓解",
+   "where": [
+    "hist-02b#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 265,
+   "end": 265,
+   "kind": "목록",
+   "term": "楊上善 黃帝內經太素",
+   "where": [
+    "hist-02b#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 266,
+   "end": 267,
+   "kind": "목록",
+   "term": "王冰 運氣7편 益火壯水",
+   "where": [
+    "hist-03c#4",
+    "hist-03c#5",
+    "hist-03c#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 268,
+   "end": 268,
+   "kind": "목록",
+   "term": "許仁則 中風 內因",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 269,
+   "end": 269,
+   "kind": "목록",
+   "term": "華陀 中藏經",
+   "where": [
+    "hist-01b#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 270,
+   "end": 270,
+   "kind": "목록",
+   "term": "范汪 姚僧垣 陳延之 謝士泰",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 기타 방서 4인 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 274,
+   "end": 274,
+   "kind": "목록",
+   "term": "傷寒論 발전 3갈래 注解·整",
+   "where": [
+    "hist-06b#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 275,
+   "end": 275,
+   "kind": "목록",
+   "term": "成無已 注解傷寒論",
+   "where": [
+    "hist-06b#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 276,
+   "end": 276,
+   "kind": "목록",
+   "term": "許叔微 百證歌 發微論 九十論",
+   "where": [
+    "hist-04#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 277,
+   "end": 277,
+   "kind": "목록",
+   "term": "朱肱 南陽活人書",
+   "where": [
+    "new-etc-03#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 278,
+   "end": 278,
+   "kind": "목록",
+   "term": "龐安時 傷寒總病論",
+   "where": [
+    "hist-06b#4"
+   ],
+   "verdict": "글로만",
+   "proposal": "",
+   "note": "say에서 이름만"
+  },
+  {
+   "line": 279,
+   "end": 279,
+   "kind": "목록",
+   "term": "郭雍 傷寒補亡論",
+   "where": [
+    "new-etc-03#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 280,
+   "end": 280,
+   "kind": "목록",
+   "term": "董汲 小兒斑疹備急方",
+   "where": [
+    "new-etc-02#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 281,
+   "end": 281,
+   "kind": "목록",
+   "term": "韓祗和 傷寒微旨",
+   "where": [
+    "hist-06b#4"
+   ],
+   "verdict": "글로만",
+   "proposal": "",
+   "note": "say에서 韓祇和로만 — 傷寒微旨 책명 없음 · 교재 281 祗 / 3853 祇"
+  },
+  {
+   "line": 282,
+   "end": 282,
+   "kind": "목록",
+   "term": "楊士瀛 氣者血之帥",
+   "where": [
+    "new-etc-03#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 284,
+   "end": 284,
+   "kind": "목록",
+   "term": "국가 方書 聖惠·局方·聖濟",
+   "where": [
+    "hist-04#1",
+    "hist-04#2",
+    "hist-04#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 285,
+   "end": 285,
+   "kind": "목록",
+   "term": "개인 方書 蘇軾 許叔微 嚴用",
+   "where": [
+    "hist-04#6",
+    "new-etc-04#2"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "蘇學士方(蘇軾) 없음"
+  },
+  {
+   "line": 286,
+   "end": 286,
+   "kind": "목록",
+   "term": "滑壽 難經本義",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 難經 주해서 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 288,
+   "end": 288,
+   "kind": "목록",
+   "term": "唐 新修本草 전면 수정",
+   "where": [
+    "hist-05a#0"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "宋 本草 편수 차례 틀로만 — 「新修本草를 전면 수정」 문장은 없음"
+  },
+  {
+   "line": 289,
+   "end": 289,
+   "kind": "목록",
+   "term": "開寶本草",
+   "where": [
+    "hist-05a#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 290,
+   "end": 290,
+   "kind": "목록",
+   "term": "嘉祐補注本草",
+   "where": [
+    "hist-05a#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 291,
+   "end": 291,
+   "kind": "목록",
+   "term": "圖經本草 蘇頌",
+   "where": [
+    "hist-05a#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 292,
+   "end": 292,
+   "kind": "목록",
+   "term": "證類本草 唐愼微",
+   "where": [
+    "hist-05a#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 293,
+   "end": 293,
+   "kind": "목록",
+   "term": "政和本草 曹孝忠",
+   "where": [
+    "hist-05a#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 297,
+   "end": 297,
+   "kind": "목록",
+   "term": "陳言 三因極一病證方論",
+   "where": [
+    "hist-04#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 298,
+   "end": 300,
+   "kind": "목록",
+   "term": "三因 內因七情·外因六淫·不內",
+   "where": [
+    "hist-04#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "세부(喜怒憂思悲恐驚·蟲獸傷 등)는 fact에만"
+  },
+  {
+   "line": 302,
+   "end": 302,
+   "kind": "목록",
+   "term": "高陽生 脈訣 歌訣",
+   "where": [
+    "hist-01b#9"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "脈訣=王叔和 아님(僞書) 함정만 — 高陽生 이름 없음"
+  },
+  {
+   "line": 303,
+   "end": 303,
+   "kind": "목록",
+   "term": "崔嘉彦 紫虛脈訣 28脈",
+   "where": [
+    "new-etc-02#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 304,
+   "end": 304,
+   "kind": "목록",
+   "term": "施發 察病指南 33脈圖",
+   "where": [
+    "new-etc-02#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 305,
+   "end": 305,
+   "kind": "목록",
+   "term": "滑壽 診家樞要",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 306,
+   "end": 306,
+   "kind": "목록",
+   "term": "杜本 金鏡錄 舌象 36",
+   "where": [
+    "hist-06b#5",
+    "hist-06b#6",
+    "pilot-duben#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 308,
+   "end": 308,
+   "kind": "목록",
+   "term": "王維一 銅人腧穴 354穴 銅",
+   "where": [
+    "hist-07a#3",
+    "hist-07a#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 309,
+   "end": 309,
+   "kind": "cf",
+   "term": "349·354·359·361",
+   "where": [
+    "hist-07a#0",
+    "hist-07a#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 310,
+   "end": 310,
+   "kind": "목록",
+   "term": "王執中 資生經 同身寸",
+   "where": [
+    "hist-07a#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 311,
+   "end": 311,
+   "kind": "목록",
+   "term": "子午流注 河若愚 流注指微賦",
+   "where": [
+    "hist-07b#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 312,
+   "end": 312,
+   "kind": "목록",
+   "term": "竇默 鍼經指南",
+   "where": [
+    "hist-07b#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 313,
+   "end": 313,
+   "kind": "목록",
+   "term": "標幽賦 通玄指要賦",
+   "where": [
+    "hist-07b#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 314,
+   "end": 315,
+   "kind": "목록",
+   "term": "滑壽 十四經發揮 14正經",
+   "where": [
+    "hist-07b#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 317,
+   "end": 317,
+   "kind": "목록",
+   "term": "董汲 脚氣治法總要",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 318,
+   "end": 318,
+   "kind": "목록",
+   "term": "葛乾孫 十藥神書",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 虛勞吐血 經驗良方 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 319,
+   "end": 319,
+   "kind": "목록",
+   "term": "張銳 鷄峰普濟方 水腫",
+   "where": [
+    "new-etc-04#2"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "濟生方 구별 줄에 이름만 — 水腫 시치 없음"
+  },
+  {
+   "line": 320,
+   "end": 320,
+   "kind": "목록",
+   "term": "李杲 脾胃論 張子和 儒門事親",
+   "where": [
+    "hist-06a#4",
+    "hist-06a#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 322,
+   "end": 322,
+   "kind": "목록",
+   "term": "聖惠方 內消托裏 外科",
+   "where": [
+    "hist-04#1"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "聖惠方 이름만 — 內消托裏 없음"
+  },
+  {
+   "line": 323,
+   "end": 323,
+   "kind": "목록",
+   "term": "李迅 集驗背疽方",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 외과 소수 서명 · 문제집 줄 1028"
+  },
+  {
+   "line": 324,
+   "end": 324,
+   "kind": "목록",
+   "term": "陳自明 外科精要",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 외과 서명 — 陳自明은 婦人大全良方으로만 등장 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 325,
+   "end": 325,
+   "kind": "목록",
+   "term": "齊德之 外科精義",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 326,
+   "end": 326,
+   "kind": "목록",
+   "term": "癰 기록 衛濟寶書 仁齋直指方",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 교재 326은 癰 · 3856은 癌으로 표기가 갈림 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 329,
+   "end": 329,
+   "kind": "목록",
+   "term": "楊康候 十産論 轉胎",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 異常胎位 轉位術 최초 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 330,
+   "end": 330,
+   "kind": "목록",
+   "term": "朱端章 衛生家寶産科備要",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 331,
+   "end": 331,
+   "kind": "목록",
+   "term": "陳自明 婦人大全良方",
+   "where": [
+    "new-etc-02#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 333,
+   "end": 333,
+   "kind": "목록",
+   "term": "錢乙 小兒藥證直訣 五臟辨證",
+   "where": [
+    "hist-04#4",
+    "hist-04#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 334,
+   "end": 334,
+   "kind": "목록",
+   "term": "劉昉 幼幼新書 虎口三關",
+   "where": [
+    "new-etc-02#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 335,
+   "end": 335,
+   "kind": "목록",
+   "term": "曾世榮 活幼心書",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 337,
+   "end": 338,
+   "kind": "목록",
+   "term": "법의학 內恕錄 洗寃錄 등 6",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 법의학 서명 6개 — 의학사 표에 한 묶음으로 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 339,
+   "end": 339,
+   "kind": "목록",
+   "term": "五官科 眼科 발달",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 내용 없는 한 줄 · 문제집 줄 519"
+  },
+  {
+   "line": 341,
+   "end": 341,
+   "kind": "목록",
+   "term": "張元素 易水學派 珍珠囊 啓源",
+   "where": [
+    "hist-05b#1",
+    "hist-05b#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "醫學啓源·臟腑標本藥式은 없음"
+  },
+  {
+   "line": 342,
+   "end": 342,
+   "kind": "목록",
+   "term": "王好古 湯液本草 此事難知",
+   "where": [
+    "hist-05b#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 343,
+   "end": 343,
+   "kind": "목록",
+   "term": "羅天益 衛生寶鑑",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 344,
+   "end": 344,
+   "kind": "목록",
+   "term": "危亦林 世醫得效方",
+   "where": [
+    "new-etc-04#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 345,
+   "end": 345,
+   "kind": "목록",
+   "term": "滑壽 저서(素問鈔·本義·樞要",
+   "where": [
+    "hist-07b#4"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "十四經發揮만"
+  },
+  {
+   "line": 346,
+   "end": 346,
+   "kind": "목록",
+   "term": "王履·寇宗奭·劉溫舒",
+   "where": [
+    "hist-09#1",
+    "hist-05a#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "劉溫舒 素問論奧 없음"
+  },
+  {
+   "line": 349,
+   "end": 349,
+   "kind": "표행",
+   "term": "四大家 劉完素",
+   "where": [
+    "hist-06a#1",
+    "hist-06a#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 350,
+   "end": 350,
+   "kind": "표행",
+   "term": "四大家 張從正",
+   "where": [
+    "hist-06a#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 351,
+   "end": 351,
+   "kind": "표행",
+   "term": "四大家 李杲 張元素 사제",
+   "where": [
+    "hist-06a#5",
+    "hist-06a#6",
+    "hist-05b#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 352,
+   "end": 352,
+   "kind": "표행",
+   "term": "四大家 朱震亨 王履 戴思恭",
+   "where": [
+    "hist-06a#7",
+    "hist-09#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "戴思恭 없음"
+  },
+  {
+   "line": 354,
+   "end": 355,
+   "kind": "목록",
+   "term": "劉完素 運氣 病機19條 저서",
+   "where": [
+    "hist-06a#2"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "宣明論方만 — 玄機原病式·傷寒直格·素問要旨 없음"
+  },
+  {
+   "line": 356,
+   "end": 357,
+   "kind": "목록",
+   "term": "張從正 汗吐下 儒門事親",
+   "where": [
+    "hist-06a#3",
+    "hist-06a#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 358,
+   "end": 358,
+   "kind": "목록",
+   "term": "李杲 百病皆由脾胃衰 胃土爲本",
+   "where": [
+    "hist-06a#5"
+   ],
+   "verdict": "글로만",
+   "proposal": "",
+   "note": "say에만"
+  },
+  {
+   "line": 359,
+   "end": 359,
+   "kind": "목록",
+   "term": "李杲 저서 3",
+   "where": [
+    "hist-06a#5"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "脾胃論만 — 內外傷辨惑論·蘭室秘藏 없음"
+  },
+  {
+   "line": 360,
+   "end": 361,
+   "kind": "목록",
+   "term": "朱震亨 補陰精抑相火 格致餘論",
+   "where": [
+    "hist-06a#8",
+    "hist-06a#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 364,
+   "end": 364,
+   "kind": "목록",
+   "term": "李時珍·趙學敏·吳其濬 本草",
+   "where": [
+    "hist-05b#4",
+    "hist-05b#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "吳其濬 植物名實圖考 없음"
+  },
+  {
+   "line": 366,
+   "end": 366,
+   "kind": "목록",
+   "term": "吳其濬 植物名實圖考",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 淸 本草 3종 중 하나 · 문제집 줄 1271"
+  },
+  {
+   "line": 367,
+   "end": 369,
+   "kind": "목록",
+   "term": "本草綱目 綱目체계",
+   "where": [
+    "hist-05b#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 370,
+   "end": 370,
+   "kind": "목록",
+   "term": "醫方 朱橚 吳崑 汪昂 吳儀洛",
+   "where": [
+    "new-etc-04#4",
+    "new-etc-04#5",
+    "hist-10#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "吳儀洛 成方切用 없음"
+  },
+  {
+   "line": 372,
+   "end": 372,
+   "kind": "정의",
+   "term": "溫病 熱性病 총칭",
+   "where": [
+    "hist-09#0"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 374,
+   "end": 375,
+   "kind": "목록",
+   "term": "吳有性 溫疫論 戾氣 一病一氣",
+   "where": [
+    "hist-09#2",
+    "hist-09#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 376,
+   "end": 376,
+   "kind": "cf",
+   "term": "溫疫 口鼻 / 傷寒 毛孔",
+   "where": [
+    "hist-09#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 378,
+   "end": 378,
+   "kind": "목록",
+   "term": "葉桂 溫熱論 溫邪上受",
+   "where": [
+    "hist-09#4",
+    "hist-09#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 379,
+   "end": 379,
+   "kind": "목록",
+   "term": "薛雪 溫熱病篇",
+   "where": [
+    "hist-09#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 380,
+   "end": 380,
+   "kind": "목록",
+   "term": "吳瑭 溫病條辨 三焦",
+   "where": [
+    "hist-09#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 381,
+   "end": 381,
+   "kind": "목록",
+   "term": "王士雄 溫熱經緯",
+   "where": [
+    "hist-09#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 385,
+   "end": 385,
+   "kind": "목록",
+   "term": "馬蒔 註證發微 內經 최초 주",
+   "where": [
+    "hist-10#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 386,
+   "end": 386,
+   "kind": "목록",
+   "term": "張志聰 素問集註 靈樞集註",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 교재 190·386·392·3867에 반복 등장 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 387,
+   "end": 387,
+   "kind": "목록",
+   "term": "張介賓 類經 12분류",
+   "where": [
+    "hist-08a#3",
+    "hist-08a#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 388,
+   "end": 388,
+   "kind": "목록",
+   "term": "李中梓 內經知要 汪昂 類纂約",
+   "where": [
+    "hist-10#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 390,
+   "end": 390,
+   "kind": "목록",
+   "term": "方有執 傷寒論條辨",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — lesson_map에서 「카드 없음」으로 버림 · 傷寒論 연구 첫 사람 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 391,
+   "end": 391,
+   "kind": "목록",
+   "term": "王履 張仲景傷寒方法考",
+   "where": [
+    "hist-09#1"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "醫經溯洄集만 — 방법고 없음"
+  },
+  {
+   "line": 392,
+   "end": 393,
+   "kind": "목록",
+   "term": "喩昌 張遂辰 張志聰 柯琴 傷",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 傷寒論 연구가 5인 — 한 표로 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 394,
+   "end": 394,
+   "kind": "목록",
+   "term": "尤怡 傷寒貫珠集",
+   "where": [
+    "new-etc-03#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 396,
+   "end": 397,
+   "kind": "목록",
+   "term": "金匱 연구 徐彬 尤怡 吳謙",
+   "where": [
+    "new-etc-03#4"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "尤怡만 — 徐彬 論注·吳謙 訂正注 없음"
+  },
+  {
+   "line": 399,
+   "end": 399,
+   "kind": "정의",
+   "term": "溫補派 vs 補陰派 논쟁",
+   "where": [
+    "hist-08a#0",
+    "hist-08b#0"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 400,
+   "end": 400,
+   "kind": "목록",
+   "term": "溫補派 薛己 張介賓 趙獻可",
+   "where": [
+    "hist-08a#1",
+    "hist-08a#4",
+    "hist-08b#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 401,
+   "end": 401,
+   "kind": "목록",
+   "term": "補陰派 徐大椿 陳念祖",
+   "where": [
+    "hist-08b#5",
+    "hist-08b#6",
+    "hist-08b#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 402,
+   "end": 402,
+   "kind": "목록",
+   "term": "內科 종합 王綸 龔廷賢 王肯",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — lesson_map에서 王肯堂 證治準繩 「카드 없음」 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 404,
+   "end": 404,
+   "kind": "목록",
+   "term": "薛己 외과 저서 5",
+   "where": [
+    "hist-08a#2"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "外科發揮만"
+  },
+  {
+   "line": 405,
+   "end": 405,
+   "kind": "목록",
+   "term": "薛己 가장 유명한 外科醫",
+   "where": [
+    "hist-08a#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 406,
+   "end": 406,
+   "kind": "목록",
+   "term": "汪機 外科理例",
+   "where": [
+    "hist-07b#8"
+   ],
+   "verdict": "글로만",
+   "proposal": "",
+   "note": "fact에만"
+  },
+  {
+   "line": 407,
+   "end": 407,
+   "kind": "목록",
+   "term": "王肯堂 瘍醫證治準繩 外科啓玄",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 408,
+   "end": 408,
+   "kind": "목록",
+   "term": "婦人科 王肯堂 武之望 傅山",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 明 婦人科 3인 — 분과 표 한 묶음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 409,
+   "end": 409,
+   "kind": "목록",
+   "term": "小兒科 萬全 저서",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 明 小兒科 — 분과 표 한 묶음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 410,
+   "end": 410,
+   "kind": "목록",
+   "term": "薛鎧 保嬰撮要 陳復正 幼幼集",
+   "where": [
+    "hist-08b#7"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "陳復正 이름만(함정) — 保嬰撮要 없음"
+  },
+  {
+   "line": 411,
+   "end": 411,
+   "kind": "목록",
+   "term": "鍼灸科 高武 楊繼洲 徐鳳",
+   "where": [
+    "hist-07b#6",
+    "hist-07b#7",
+    "hist-07a#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 412,
+   "end": 412,
+   "kind": "목록",
+   "term": "汪機 雷豊 廖潤鴻 鍼灸書",
+   "where": [
+    "hist-07b#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "汪機만 — 雷豊 灸法秘傳·廖潤鴻 勉學堂鍼灸集成 없음"
+  },
+  {
+   "line": 414,
+   "end": 415,
+   "kind": "목록",
+   "term": "五官科 王肯堂 傅仁宇 薛己 ",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 416,
+   "end": 417,
+   "kind": "목록",
+   "term": "診斷學 瀕湖脈學 診家正眼 十",
+   "where": [
+    "hist-08a#4"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "十問篇만 — 나머지 4서 없음"
+  },
+  {
+   "line": 418,
+   "end": 418,
+   "kind": "목록",
+   "term": "李梴 孫一奎 陳實功",
+   "where": [
+    "hist-08b#3"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "孫一奎만 — 醫學入門·外科正宗 없음"
+  },
+  {
+   "line": 419,
+   "end": 419,
+   "kind": "목록",
+   "term": "王綸 樓英 虞摶 서명",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 420,
+   "end": 420,
+   "kind": "목록",
+   "term": "沈金鰲 喩昌 程國彭 章楠",
+   "where": [
+    "hist-10#5"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "沈金鰲만 — 喩昌 醫門法律·程國彭 醫學心悟·章楠 없음(醫學心悟는 new-etc-28#4에 이름만)"
+  },
+  {
+   "line": 421,
+   "end": 421,
+   "kind": "목록",
+   "term": "唐宗海 本草問答 血證論",
+   "where": [
+    "hist-10#7"
+   ],
+   "verdict": "글로만",
+   "proposal": "",
+   "note": "血證論 이름만 fact에"
+  },
+  {
+   "line": 422,
+   "end": 422,
+   "kind": "목록",
+   "term": "王淸任 醫林改錯 活血祛瘀",
+   "where": [
+    "hist-10#6",
+    "hist-10#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 424,
+   "end": 424,
+   "kind": "목록",
+   "term": "삼국이전 桓雄 創始祖",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 425,
+   "end": 425,
+   "kind": "목록",
+   "term": "삼국·통일신라 僧侶醫學",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 426,
+   "end": 426,
+   "kind": "목록",
+   "term": "고려 印度醫說 영향",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 427,
+   "end": 427,
+   "kind": "목록",
+   "term": "김영석 濟衆立效方 최종준 撮",
+   "where": [
+    "hist-12#2",
+    "hist-12#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 428,
+   "end": 429,
+   "kind": "목록",
+   "term": "鄕藥救急方 現存 最古",
+   "where": [
+    "hist-12#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 430,
+   "end": 430,
+   "kind": "목록",
+   "term": "鄭道傳 診脈圖訣",
+   "where": [
+    "hist-12#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 431,
+   "end": 431,
+   "kind": "목록",
+   "term": "鄕藥 方書 5종",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 三和子鄕藥方·鄕藥古方·東人經驗方·惠民經驗方·簡易方 — 한국 의서 표에 묶음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 433,
+   "end": 433,
+   "kind": "목록",
+   "term": "鄕藥集成方 世宗",
+   "where": [
+    "hist-12#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 434,
+   "end": 434,
+   "kind": "목록",
+   "term": "醫方類聚 世宗",
+   "where": [
+    "hist-12#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 435,
+   "end": 435,
+   "kind": "목록",
+   "term": "東醫寶鑑 許浚",
+   "where": [
+    "hist-13#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 436,
+   "end": 436,
+   "kind": "목록",
+   "term": "許任 鍼灸經驗方",
+   "where": [
+    "hist-13#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 437,
+   "end": 437,
+   "kind": "목록",
+   "term": "柳重臨 徐有榘 康命吉 李景華",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 조선 후기 의서 4종 — 한국 의서 표에 묶음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 438,
+   "end": 438,
+   "kind": "목록",
+   "term": "周命新 醫門寶鑑",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 439,
+   "end": 439,
+   "kind": "목록",
+   "term": "鄭茶山 麻科會通 種痘 醫零",
+   "where": [
+    "hist-13#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "種痘心法要旨·醫零은 fact에만"
+  },
+  {
+   "line": 440,
+   "end": 440,
+   "kind": "목록",
+   "term": "아담 살 主制郡徵",
+   "where": [
+    "hist-13#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 441,
+   "end": 441,
+   "kind": "목록",
+   "term": "박지원 荷蘭陀方 崔漢綺 漢譯",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 444,
+   "end": 444,
+   "kind": "목록",
+   "term": "黃度淵 醫宗損益 醫方活套 方",
+   "where": [
+    "hist-13#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 445,
+   "end": 445,
+   "kind": "목록",
+   "term": "이규준 扶陽論 氣血論 醫方撮",
+   "where": [
+    "hist-13#6"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "구별 fact에만 — 氣血論 없음"
+  },
+  {
+   "line": 446,
+   "end": 446,
+   "kind": "목록",
+   "term": "崔圭憲 小兒醫方",
+   "where": [
+    "hist-13#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 447,
+   "end": 448,
+   "kind": "목록",
+   "term": "李濟馬 東醫壽世保元 四象",
+   "where": [
+    "hist-13#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3772,
+   "end": 3772,
+   "kind": "표",
+   "term": "表證 寒熱虛實 鑑別表",
+   "where": [
+    "zds-14#3",
+    "zds-14#4",
+    "new-zj-23#1"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "표 본문이 추출본에 없음(이미지) — 太陽 中風=表虛·傷寒=表實만 · 확인 필요"
+  },
+  {
+   "line": 3773,
+   "end": 3773,
+   "kind": "표",
+   "term": "裏證 寒熱虛實 鑑別表",
+   "where": [
+    "new-zj-23#2",
+    "new-zj-23#3"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "표 본문 없음 — 裏寒·裏熱만 · 확인 필요"
+  },
+  {
+   "line": 3774,
+   "end": 3774,
+   "kind": "표",
+   "term": "寒證·熱證의 虛實 鑑別表",
+   "where": [
+    "hp-15#1",
+    "hp-15#2",
+    "hp-15#4",
+    "hp-15#6"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "實熱·實寒·虛寒·虛熱 네 짝은 hp-15에 있으나 감별표 틀은 아님 · 확인 필요"
+  },
+  {
+   "line": 3775,
+   "end": 3775,
+   "kind": "표",
+   "term": "氣虛·陽虛 / 血虛·陰虛 鑑",
+   "where": [
+    "zds-10#10",
+    "new-zj-23#4"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "면색·自汗 낱개만 — 표 틀 없음 · 확인 필요"
+  },
+  {
+   "line": 3777,
+   "end": 3777,
+   "kind": "표",
+   "term": "亡陰亡陽 鑑別法",
+   "where": [
+    "hp-17#1",
+    "hp-17#3",
+    "hp-17#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3779,
+   "end": 3779,
+   "kind": "표",
+   "term": "五臟辨證 肝",
+   "where": [
+    "zds-08#1",
+    "new-zj-02#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "표 본문 없음 — 肝血不足·肝火 낱개 · 확인 필요"
+  },
+  {
+   "line": 3781,
+   "end": 3781,
+   "kind": "표",
+   "term": "五臟辨證 心 虛證",
+   "where": [
+    "new-zj-03#4",
+    "new-zj-03#5"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "표 본문 없음 · 확인 필요"
+  },
+  {
+   "line": 3782,
+   "end": 3782,
+   "kind": "표",
+   "term": "五臟辨證 心 實證",
+   "where": [
+    "zds-07#0"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "心火만 · 확인 필요"
+  },
+  {
+   "line": 3784,
+   "end": 3784,
+   "kind": "표",
+   "term": "五臟辨證 脾",
+   "where": [
+    "new-zj-04#9"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "脾氣虛 네 갈래 · 확인 필요"
+  },
+  {
+   "line": 3786,
+   "end": 3786,
+   "kind": "표",
+   "term": "五臟辨證 肺",
+   "where": [
+    "new-zj-05#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "肺氣虛·肺陰虛 · 확인 필요"
+  },
+  {
+   "line": 3787,
+   "end": 3787,
+   "kind": "표",
+   "term": "五臟辨證 腎",
+   "where": [
+    "zds-07#0",
+    "new-zj-06#3"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "腎陽虛·腎陰虛 · 확인 필요"
+  },
+  {
+   "line": 3792,
+   "end": 3792,
+   "kind": "목록",
+   "term": "馬王堆 帛書 出土 6서",
+   "where": [
+    "new-etc-01#9",
+    "new-gr-02#1",
+    "new-gr-02#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "脈法·陰陽脈死候·却穀食氣는 없음"
+  },
+  {
+   "line": 3792,
+   "end": 3792,
+   "kind": "목록",
+   "term": "難經 奇經·五臟穴·背兪·腹募",
+   "where": [
+    "mer-13#9",
+    "mer-07#0",
+    "mer-08#0"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "難經 출처 표기 없이 穴 자체로만"
+  },
+  {
+   "line": 3792,
+   "end": 3792,
+   "kind": "목록",
+   "term": "皇甫謐 최초 鍼灸 교과서",
+   "where": [
+    "hist-07a#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3792,
+   "end": 3792,
+   "kind": "목록",
+   "term": "肘後備急方 隔物灸",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 隔物灸 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3792,
+   "end": 3792,
+   "kind": "목록",
+   "term": "千金要方 阿是穴 經外奇穴",
+   "where": [
+    "hist-03a#5",
+    "new-gr-02#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3793,
+   "end": 3793,
+   "kind": "※",
+   "term": "經穴 배열 체계 明堂類成→銅",
+   "where": [
+    "hist-02b#7",
+    "hist-07a#3",
+    "hist-07b#4"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "忽泰必烈 金蘭循經取穴圖解 없음 · 배열 체계 흐름으로는 안 엮음"
+  },
+  {
+   "line": 3794,
+   "end": 3794,
+   "kind": "목록",
+   "term": "何若愚·閻明廣 子午流注鍼經",
+   "where": [
+    "hist-07b#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "閻明廣 없음"
+  },
+  {
+   "line": 3794,
+   "end": 3794,
+   "kind": "목록",
+   "term": "王國瑞 玉龍經 飛騰八法",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 八脈交會穴(mer-10·new-gr-37)과 이어지는 응용 — 飛騰八法 이름 없음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3794,
+   "end": 3794,
+   "kind": "목록",
+   "term": "竇默 針經指南 八法·14法",
+   "where": [
+    "hist-07b#2",
+    "hist-07b#3"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "燒山火·透天凉 등 鍼刺 14法 없음"
+  },
+  {
+   "line": 3794,
+   "end": 3794,
+   "kind": "목록",
+   "term": "竇材 扁鵲心書 脾腎溫補灸",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 · 문제집 줄 1206·3718"
+  },
+  {
+   "line": 3794,
+   "end": 3794,
+   "kind": "목록",
+   "term": "資生經·聚英·大成·大全·金鑒",
+   "where": [
+    "hist-07a#5",
+    "hist-07b#7",
+    "hist-07a#7",
+    "hist-07b#6",
+    "hist-07a#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3795,
+   "end": 3795,
+   "kind": "목록",
+   "term": "百濟新集方·新羅法師方",
+   "where": [
+    "hist-12#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3795,
+   "end": 3795,
+   "kind": "목록",
+   "term": "鍼灸擇日編 세종 29 김순의",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — lesson_map 「카드 신설 후보」로 남김 — 침구 전문서 최초 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3795,
+   "end": 3795,
+   "kind": "목록",
+   "term": "鍼灸要訣 柳成龍",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3795,
+   "end": 3795,
+   "kind": "목록",
+   "term": "東醫寶鑑·鍼灸經驗方 許任",
+   "where": [
+    "hist-13#1",
+    "hist-13#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3795,
+   "end": 3795,
+   "kind": "목록",
+   "term": "舍岩道人鍼灸要訣 · 팔체질침",
+   "where": [
+    "mer-11#0",
+    "saam"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "舍岩鍼法·舍岩 표 연습은 있으나 서명(舍岩道人鍼灸要訣)·팔체질침법 없음"
+  },
+  {
+   "line": 3796,
+   "end": 3796,
+   "kind": "정의",
+   "term": "鍼灸의 작용 穴位자극→經絡 ",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 총론 한 줄 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3797,
+   "end": 3797,
+   "kind": "목록",
+   "term": "鍼=急性·熱·實 / 灸=慢性",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 鍼灸 적응 대비 — 한 표 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3797,
+   "end": 3797,
+   "kind": "목록",
+   "term": "鍼灸 장점 6",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음"
+  },
+  {
+   "line": 3797,
+   "end": 3797,
+   "kind": "인용",
+   "term": "調氣 用鍼之類在於調氣",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 靈樞 刺節眞邪 인용 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3797,
+   "end": 3797,
+   "kind": "인용",
+   "term": "治神 制其神令氣易行",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 素問 鍼解 인용 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3800,
+   "end": 3800,
+   "kind": "목록",
+   "term": "九鍼 ① 鑱鍼",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 九鍼 아홉 중 둘만 있어 한 표로 묶음 · 문제집 줄 98·217·248"
+  },
+  {
+   "line": 3800,
+   "end": 3800,
+   "kind": "목록",
+   "term": "九鍼 ② 圓針",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 위와 같음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3800,
+   "end": 3800,
+   "kind": "목록",
+   "term": "九鍼 ③ 鍉鍼",
+   "where": [
+    "new-gr-18#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3800,
+   "end": 3800,
+   "kind": "목록",
+   "term": "九鍼 ④ 鋒鍼",
+   "where": [
+    "new-gr-18#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3800,
+   "end": 3800,
+   "kind": "목록",
+   "term": "九鍼 ⑤ 鈹鍼",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 위와 같음 · 문제집 줄 3863·3934"
+  },
+  {
+   "line": 3800,
+   "end": 3800,
+   "kind": "목록",
+   "term": "九鍼 ⑥ 圓利針",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 위와 같음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3800,
+   "end": 3800,
+   "kind": "목록",
+   "term": "九鍼 ⑦ 毫鍼",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 위와 같음 — 현재 가장 많이 씀 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3800,
+   "end": 3800,
+   "kind": "목록",
+   "term": "九鍼 ⑧ 長鍼",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 위와 같음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3800,
+   "end": 3800,
+   "kind": "목록",
+   "term": "九鍼 ⑨ 大針",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 위와 같음 · 문제집 줄 3863·3934"
+  },
+  {
+   "line": 3801,
+   "end": 3801,
+   "kind": "cf",
+   "term": "皮膚針·陶鍼·皮內鍼·芒鍼·溫",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 변형 침 5종 — 九鍼 표 뒤에 붙임 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3801,
+   "end": 3801,
+   "kind": "cf",
+   "term": "刺絡(刺血) 三稜鍼·鋒鍼 유",
+   "where": [
+    "new-gr-18#4"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "三稜鍼=鋒鍼만 — 刺絡 소량 10ml 등 없음"
+  },
+  {
+   "line": 3801,
+   "end": 3801,
+   "kind": "※",
+   "term": "砭石=最古 鍼刺道具",
+   "where": [
+    "yyox-01#1",
+    "yyox-01#7"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "東方 砭石으로만 — 「最古 도구」 문장 없음"
+  },
+  {
+   "line": 3801,
+   "end": 3801,
+   "kind": "※",
+   "term": "刺絡方法 點刺·挑刺·叢刺·散",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 네 방법 한 표 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3803,
+   "end": 3803,
+   "kind": "정의",
+   "term": "補瀉法 治療效果 極大化",
+   "where": [
+    "new-gr-18#3"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "迎隨補瀉만"
+  },
+  {
+   "line": 3805,
+   "end": 3805,
+   "kind": "목록",
+   "term": "綜合手技法 燒山火·透天凉·陽",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 총강 867·869 참조 지시 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3806,
+   "end": 3806,
+   "kind": "목록",
+   "term": "灸療法 艾柱灸·艾卷灸·溫筒灸",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 灸 분류 한 표 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3807,
+   "end": 3807,
+   "kind": "목록",
+   "term": "附缸 拔罐法 금기",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3809,
+   "end": 3809,
+   "kind": "정의",
+   "term": "調氣治神과 通卽不痛 源流",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 靈樞 刺節眞邪 · 素問 寶命全形論 인용 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3809,
+   "end": 3809,
+   "kind": "정의",
+   "term": "不通則痛 · 筋膜疼痛 · 阿",
+   "where": [
+    "hp-09#2",
+    "new-gr-02#6"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "不通則痛(hp-09)과 阿是穴(new-gr-02) 따로 — 鍼灸 원리로는 안 엮음"
+  },
+  {
+   "line": 3811,
+   "end": 3811,
+   "kind": "목록",
+   "term": "灸 溫補散寒 · 附缸 祛邪 ",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음"
+  },
+  {
+   "line": 3812,
+   "end": 3812,
+   "kind": "인용",
+   "term": "寧失其穴 勿失其經",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 選穴 원칙 문장 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3813,
+   "end": 3813,
+   "kind": "목록",
+   "term": "選穴法 5(辨證·體質·有效穴",
+   "where": [
+    "new-gr-02#6",
+    "new-gr-35#0"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "阿是穴·納支(子午流注)만"
+  },
+  {
+   "line": 3813,
+   "end": 3813,
+   "kind": "목록",
+   "term": "前後配列 募穴·兪穴",
+   "where": [
+    "mer-08#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3813,
+   "end": 3813,
+   "kind": "목록",
+   "term": "表裏配列 陰陽經 表裏",
+   "where": [
+    "saam"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "舍岩 표 연습의 主客原絡 칸으로만"
+  },
+  {
+   "line": 3813,
+   "end": 3813,
+   "kind": "목록",
+   "term": "上下配列 咽喉痛 合谷·內庭",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3813,
+   "end": 3813,
+   "kind": "목록",
+   "term": "左右配列",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 巨刺·繆刺(new-gr-18)와 겹침"
+  },
+  {
+   "line": 3813,
+   "end": 3813,
+   "kind": "목록",
+   "term": "遠近配列 中脘·內關·足三里",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음"
+  },
+  {
+   "line": 3813,
+   "end": 3813,
+   "kind": "목록",
+   "term": "補瀉配列 肺寒 少府魚際補",
+   "where": [
+    "saam",
+    "mer-11#11"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "舍岩 표 트레이너에서 보사 칸으로 다룸"
+  },
+  {
+   "line": 3813,
+   "end": 3813,
+   "kind": "목록",
+   "term": "五行配列 補其母 瀉其官",
+   "where": [
+    "saam",
+    "mer-11#11"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3814,
+   "end": 3814,
+   "kind": "제목",
+   "term": "제2절 內科 五臟六府 생리·",
+   "where": [
+    "zds-07#0",
+    "zds-08#0"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "제목 줄 — 내용은 6장 장상 과들에 흩어져 있음"
+  },
+  {
+   "line": 3815,
+   "end": 3819,
+   "kind": "제목",
+   "term": "3~7절 婦人·小兒·五官·外",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 교재에 제목만 있고 내용 줄 없음"
+  },
+  {
+   "line": 3820,
+   "end": 3820,
+   "kind": "정의",
+   "term": "氣功 導引吐納 정의",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 導=引入 · 引=屈伸 · 吐納=呼吸 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3821,
+   "end": 3821,
+   "kind": "목록",
+   "term": "氣功 調意·調息·調身",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 意守入靜·吐故納新·引體按蹻 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3822,
+   "end": 3822,
+   "kind": "정의",
+   "term": "推拿 按蹻·按摩·按抓",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3822,
+   "end": 3822,
+   "kind": "인용",
+   "term": "中央者… 其治宜導引按蹻",
+   "where": [
+    "yyox-01#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3826,
+   "end": 3826,
+   "kind": "인용",
+   "term": "虛邪賊風 避之有時 恬惔虛無",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 素問 上古天眞論 인용 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3826,
+   "end": 3826,
+   "kind": "인용",
+   "term": "法于陰陽 提挈天地",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3826,
+   "end": 3826,
+   "kind": "인용",
+   "term": "順應自然 春發陳 夏蕃秀 秋容",
+   "where": [
+    "new-uk-01#5",
+    "new-uk-01#6"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "四氣調神 秋·春·冬 정거장은 있으나 發陳·蕃秀·容平·閉藏 이름 없음"
+  },
+  {
+   "line": 3826,
+   "end": 3826,
+   "kind": "인용",
+   "term": "恬愉樂俗 · 積精全神",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음"
+  },
+  {
+   "line": 3826,
+   "end": 3826,
+   "kind": "인용",
+   "term": "調節飮食 飮食自倍 腸胃乃傷",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 五味 과와 이어지는 양생 문장 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3826,
+   "end": 3826,
+   "kind": "인용",
+   "term": "導引按蹻 氣功 調意·調息·調",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 15장 氣功 줄과 같은 묶음"
+  },
+  {
+   "line": 3828,
+   "end": 3829,
+   "kind": "목록",
+   "term": "未病先防 正氣 提高 4가지 ",
+   "where": [
+    "new-etc-27#1"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "未病先防 이름만 — 精神調攝·身體鍛鍊·휴식·人工免役 없음"
+  },
+  {
+   "line": 3830,
+   "end": 3831,
+   "kind": "목록",
+   "term": "旣病防變 早期診斷 先安未受邪",
+   "where": [
+    "new-etc-27#1",
+    "yyox-10#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "葉天士 甘寒養胃·鹹寒滋腎 없음"
+  },
+  {
+   "line": 3833,
+   "end": 3833,
+   "kind": "목록",
+   "term": "調衣食 少食多餐 · 五味所宜",
+   "where": [
+    "new-etc-16#1"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "藏氣法時論 苦欲補瀉(new-etc-16)는 있으나 五味所宜·靈樞 五味篇 所禁·少食多餐 없음"
+  },
+  {
+   "line": 3833,
+   "end": 3833,
+   "kind": "목록",
+   "term": "五味所走 酸筋 苦骨 甘肉 辛",
+   "where": [
+    "yyox-06#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3835,
+   "end": 3835,
+   "kind": "목록",
+   "term": "節氣候 寒傷形 熱傷氣",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음"
+  },
+  {
+   "line": 3835,
+   "end": 3835,
+   "kind": "목록",
+   "term": "節情志 七情內傷",
+   "where": [
+    "hp-11#0"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "七情 병인 과(hp-11)에 있으나 看護 원칙 줄은 아님"
+  },
+  {
+   "line": 3836,
+   "end": 3837,
+   "kind": "표",
+   "term": "中國歷史年代簡表",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 의학사 시험과 바로 닿는 시대 순서표 — 원문이 그림이라 본문 없음(확인 필요)"
+  },
+  {
+   "line": 3840,
+   "end": 3840,
+   "kind": "목록",
+   "term": "戰國 四診·周禮·鍼灸 · 巫",
+   "where": [
+    "new-etc-01#7",
+    "new-etc-01#9"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "四診·帛書는 있고 周禮·專業醫 없음"
+  },
+  {
+   "line": 3840,
+   "end": 3840,
+   "kind": "※",
+   "term": "五行學說 기원 五方說·五材說",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 五行 기원 세 설 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3841,
+   "end": 3841,
+   "kind": "목록",
+   "term": "醫珣(秦)·文摯(宋)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3841,
+   "end": 3841,
+   "kind": "목록",
+   "term": "扁鵲 秦越人 難經",
+   "where": [
+    "hist-01a#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3843,
+   "end": 3843,
+   "kind": "목록",
+   "term": "秦漢 정황 神農本草經·傷寒論",
+   "where": [
+    "hist-01a#9",
+    "hist-01b#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3844,
+   "end": 3844,
+   "kind": "목록",
+   "term": "淳于意 診籍 倉公列傳",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — lesson_map 「카드 없음」 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3844,
+   "end": 3844,
+   "kind": "목록",
+   "term": "治病百方 內經52病方→傷寒論",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3844,
+   "end": 3844,
+   "kind": "목록",
+   "term": "難經 脈診·經絡·臟腑·鍼灸",
+   "where": [
+    "hist-01a#2",
+    "hist-01a#3",
+    "hist-01a#4",
+    "hist-01a#5",
+    "yyox-10#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3844,
+   "end": 3844,
+   "kind": "목록",
+   "term": "難經 傷寒 5종 (中風…溫病",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 208줄 항목과 같음"
+  },
+  {
+   "line": 3844,
+   "end": 3844,
+   "kind": "목록",
+   "term": "五邪傳變說 五十難",
+   "where": [
+    "yyox-07#4",
+    "yyox-07#5",
+    "yyox-07#6",
+    "yyox-07#7",
+    "yyox-07#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3846,
+   "end": 3846,
+   "kind": "목록",
+   "term": "神農本草經 365 730 三",
+   "where": [
+    "hist-01a#8",
+    "hist-01a#9",
+    "hist-02a#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3846,
+   "end": 3846,
+   "kind": "목록",
+   "term": "華佗 麻沸散 五禽戱",
+   "where": [
+    "hist-01b#4",
+    "hist-01b#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3846,
+   "end": 3846,
+   "kind": "목록",
+   "term": "張機 傷寒雜病論",
+   "where": [
+    "hist-01b#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3847,
+   "end": 3847,
+   "kind": "※",
+   "term": "傷寒雜病論 王叔和 撰 · 六",
+   "where": [
+    "hist-01b#2",
+    "hist-01b#3",
+    "hist-01b#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3849,
+   "end": 3849,
+   "kind": "목록",
+   "term": "兩晉隋唐 특징",
+   "where": [
+    "new-etc-04#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3850,
+   "end": 3850,
+   "kind": "목록",
+   "term": "皇甫謐·王叔和·葛洪·陶弘景·",
+   "where": [
+    "hist-07a#1",
+    "hist-01b#6",
+    "hist-01b#8",
+    "hist-02a#3",
+    "hist-02b#4",
+    "hist-03a#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3850,
+   "end": 3850,
+   "kind": "목록",
+   "term": "魏陽伯 周易參同契",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 258줄과 같음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3850,
+   "end": 3850,
+   "kind": "목록",
+   "term": "陳藏器·孟詵·李珣·蘇敬·劉涓",
+   "where": [
+    "hist-03b#2",
+    "hist-03b#1",
+    "hist-03b#4",
+    "hist-03a#7",
+    "hist-02b#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3851,
+   "end": 3851,
+   "kind": "목록",
+   "term": "內經연구 全元起·楊上善·王冰",
+   "where": [
+    "hist-02b#3",
+    "hist-02b#6",
+    "hist-03c#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3851,
+   "end": 3851,
+   "kind": "목록",
+   "term": "許仁則·褚澄 虛勞血證",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3851,
+   "end": 3851,
+   "kind": "목록",
+   "term": "綜合 孫思邈 千金·翼方 · ",
+   "where": [
+    "hist-03a#3",
+    "hist-03b#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3851,
+   "end": 3851,
+   "kind": "목록",
+   "term": "徐之才·雷斅·甄權",
+   "where": [
+    "hist-02a#9",
+    "hist-02a#7",
+    "hist-03a#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3853,
+   "end": 3853,
+   "kind": "목록",
+   "term": "傷寒論 注解·整理·補充(成無",
+   "where": [
+    "hist-06b#2",
+    "hist-04#6",
+    "new-etc-03#1",
+    "new-etc-03#2",
+    "new-etc-03#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "劉河間 表裏雙解·韓祇和 傷寒微旨·龐安時 없음"
+  },
+  {
+   "line": 3854,
+   "end": 3854,
+   "kind": "목록",
+   "term": "국가 方書 · 개인 방서 ·",
+   "where": [
+    "hist-04#1",
+    "hist-04#6"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "국가 方書는 있으나 蘇軾·滑壽 難經本義 없음"
+  },
+  {
+   "line": 3854,
+   "end": 3854,
+   "kind": "목록",
+   "term": "本草書 수정 開寶→政和 · ",
+   "where": [
+    "hist-05a#1",
+    "hist-05a#2",
+    "hist-05a#3",
+    "hist-05a#4",
+    "hist-05a#6",
+    "hist-05a#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3856,
+   "end": 3856,
+   "kind": "목록",
+   "term": "陳言 三因 · 崔嘉彦 · 施",
+   "where": [
+    "hist-04#7",
+    "new-etc-02#1",
+    "new-etc-02#2",
+    "hist-06b#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3856,
+   "end": 3856,
+   "kind": "목록",
+   "term": "王維一·王執中·子午流注·竇默",
+   "where": [
+    "hist-07a#3",
+    "hist-07a#5",
+    "hist-07b#1",
+    "hist-07b#2",
+    "hist-07b#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3856,
+   "end": 3856,
+   "kind": "목록",
+   "term": "內科 葛乾孫 十藥神書 · 李",
+   "where": [
+    "hist-06a#4",
+    "hist-06a#5"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "葛乾孫 十藥神書 없음 · 癌 기록(衛濟寶書 仁齋直指方) 없음"
+  },
+  {
+   "line": 3856,
+   "end": 3856,
+   "kind": "목록",
+   "term": "外科 內消托裏·外科精要·外科",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3856,
+   "end": 3856,
+   "kind": "목록",
+   "term": "婦科 楊康侯 十産論 · 陳自",
+   "where": [
+    "new-etc-02#3"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "陳自明만 — 十産論 없음"
+  },
+  {
+   "line": 3858,
+   "end": 3858,
+   "kind": "목록",
+   "term": "兒科 錢乙·劉昉 · 曾世榮",
+   "where": [
+    "hist-04#4",
+    "new-etc-02#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "曾世榮 活幼心書 없음"
+  },
+  {
+   "line": 3858,
+   "end": 3858,
+   "kind": "목록",
+   "term": "법의학 內恕錄·洗冤集錄 · ",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 337 줄과 같음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3859,
+   "end": 3859,
+   "kind": "목록",
+   "term": "張元素·王好古·羅天益·王履·",
+   "where": [
+    "hist-05b#1",
+    "hist-05b#3",
+    "hist-09#1",
+    "new-etc-04#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "羅天益 衛生寶鑑 없음 · 九味羌活湯 없음"
+  },
+  {
+   "line": 3859,
+   "end": 3859,
+   "kind": "목록",
+   "term": "孫用和·陳文中·許國禎·沙圖穆",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3859,
+   "end": 3859,
+   "kind": "목록",
+   "term": "張銳 補腎不如補脾 · 嚴用和",
+   "where": [
+    "new-etc-04#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3859,
+   "end": 3859,
+   "kind": "목록",
+   "term": "滑壽·羅知悌 寒凉派 · 竇默",
+   "where": [
+    "hist-07b#2"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "竇默만 — 羅知悌 없음"
+  },
+  {
+   "line": 3862,
+   "end": 3862,
+   "kind": "목록",
+   "term": "金元四大家 + 張介賓 陽非有",
+   "where": [
+    "hist-06a#1",
+    "hist-06a#3",
+    "hist-06a#5",
+    "hist-06a#7",
+    "hist-08a#5",
+    "hist-06a#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3865,
+   "end": 3865,
+   "kind": "목록",
+   "term": "明淸 本草 李時珍·趙學敏·吳",
+   "where": [
+    "hist-05b#4",
+    "hist-05b#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "吳其濬 없음"
+  },
+  {
+   "line": 3865,
+   "end": 3865,
+   "kind": "목록",
+   "term": "醫方 朱橚·吳崑·汪昂 · 吳",
+   "where": [
+    "new-etc-04#4",
+    "new-etc-04#5",
+    "hist-10#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "吳儀洛·費伯雄 없음"
+  },
+  {
+   "line": 3866,
+   "end": 3866,
+   "kind": "목록",
+   "term": "溫病 戾氣·葉桂·薛雪·吳瑭·",
+   "where": [
+    "hist-09#2",
+    "hist-09#4",
+    "hist-09#7",
+    "hist-09#8",
+    "hist-09#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3867,
+   "end": 3867,
+   "kind": "목록",
+   "term": "內經 연구 馬蒔·張志聰·張介",
+   "where": [
+    "hist-10#1",
+    "hist-10#2",
+    "hist-08a#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "張志聰 없음"
+  },
+  {
+   "line": 3867,
+   "end": 3867,
+   "kind": "목록",
+   "term": "傷寒論 연구 方有執·喩昌·張",
+   "where": [
+    "new-etc-03#4"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "尤怡만"
+  },
+  {
+   "line": 3869,
+   "end": 3869,
+   "kind": "목록",
+   "term": "金匱要略 연구 徐彬·尤怡·吳",
+   "where": [
+    "new-etc-03#4"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "尤怡만"
+  },
+  {
+   "line": 3870,
+   "end": 3870,
+   "kind": "목록",
+   "term": "溫補派·補陰派 · 종합 內科",
+   "where": [
+    "hist-08a#1",
+    "hist-08b#1",
+    "hist-08b#5",
+    "hist-08b#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "王綸·龔廷賢·王肯堂 종합서 없음"
+  },
+  {
+   "line": 3870,
+   "end": 3870,
+   "kind": "목록",
+   "term": "外傷·婦人·小兒·五官 明淸 ",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 407~415줄과 같음 — 분과 표에 묶음"
+  },
+  {
+   "line": 3870,
+   "end": 3870,
+   "kind": "목록",
+   "term": "明淸 鍼灸 高武·楊繼洲·徐鳳",
+   "where": [
+    "hist-07b#6",
+    "hist-07b#7",
+    "hist-07a#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "廖潤鴻 없음"
+  },
+  {
+   "line": 3870,
+   "end": 3870,
+   "kind": "목록",
+   "term": "明淸 診斷學 瀕湖脈學 等",
+   "where": [
+    "hist-08a#4"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "416줄과 같음"
+  },
+  {
+   "line": 3871,
+   "end": 3871,
+   "kind": "목록",
+   "term": "李梴·孫一奎·王士雄·唐宗海·",
+   "where": [
+    "hist-08b#3",
+    "hist-09#9",
+    "hist-10#6",
+    "hist-10#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "李梴 醫學入門 없음"
+  },
+  {
+   "line": 3873,
+   "end": 3873,
+   "kind": "목록",
+   "term": "明代 趙獻可·李時珍·張介賓",
+   "where": [
+    "hist-08b#1",
+    "hist-05b#4",
+    "hist-08a#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": "",
+   "note": "奇經八脈考는 있음 · 瀕湖脈學 없음"
+  },
+  {
+   "line": 3873,
+   "end": 3873,
+   "kind": "목록",
+   "term": "明代 王綸·陳嘉謨·繆希雍·劉",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 明代 醫家 9인 — 明代 醫家 표 한 묶음 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3875,
+   "end": 3875,
+   "kind": "목록",
+   "term": "明代 汪機·孫一奎·李中梓·吳",
+   "where": [
+    "hist-07b#8",
+    "hist-08b#3",
+    "hist-08b#4",
+    "hist-09#2",
+    "new-etc-04#4",
+    "hist-07b#7",
+    "hist-07a#7",
+    "new-etc-04#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3875,
+   "end": 3875,
+   "kind": "목록",
+   "term": "明代 龔廷賢·李梴·王肯堂·萬",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 明代 醫家 6인 — 위 표와 합침 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3877,
+   "end": 3877,
+   "kind": "목록",
+   "term": "淸代 葉桂·薛雪·吳塘·徐大椿",
+   "where": [
+    "hist-09#4",
+    "hist-09#7",
+    "hist-09#8",
+    "hist-08b#5",
+    "hist-10#3",
+    "hist-07a#8",
+    "hist-08b#7",
+    "hist-10#6",
+    "new-etc-04#6",
+    "hist-09#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3877,
+   "end": 3877,
+   "kind": "목록",
+   "term": "淸代 喩昌·程國彭·唐宗海·陳",
+   "where": [
+    "hist-10#8",
+    "new-etc-28#4",
+    "hist-10#7",
+    "hist-08b#7"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "이름만 걸린 곳이 많음 — 醫門法律·尙論篇·醫學心悟·血證論 책명 단서는 약함"
+  },
+  {
+   "line": 3877,
+   "end": 3877,
+   "kind": "목록",
+   "term": "淸代 張璐·傅山·陳士鐸·柯琴",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 淸代 醫家 7인 — 淸代 醫家 표 한 묶음 · 문제집 줄 1279·1280"
+  },
+  {
+   "line": 3879,
+   "end": 3879,
+   "kind": "목록",
+   "term": "武之望 濟陰綱目 · 姚瀾 本",
+   "where": [
+    "hist-05b#7"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "姚瀾만 — 武之望 없음"
+  },
+  {
+   "line": 3883,
+   "end": 3883,
+   "kind": "목록",
+   "term": "部位 온몸 百骸 百節 廉",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 인체 部位 名稱 — 부록 2 과 없음 · 문제집 줄 1528·3188·3266"
+  },
+  {
+   "line": 3885,
+   "end": 3885,
+   "kind": "목록",
+   "term": "部位 顚頂 頭顱骨 頭蓋",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 머리 부위 이름 표 · 문제집에서 흔적 못 찾음"
+  },
+  {
+   "line": 3885,
+   "end": 3885,
+   "kind": "목록",
+   "term": "部位 顖 숫구멍(2년 안 닫",
+   "where": [
+    "new-zj-06#3"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "囟門遲閉로만 — 顖 이름·2년 안 닫힘 없음"
+  },
+  {
+   "line": 3887,
+   "end": 3887,
+   "kind": "목록",
+   "term": "部位 髮際 額 庭 闕 顳顬 ",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 이마·관자놀이 부위 이름 10여 개 — 경혈 위치 설명에 쓰임 · 문제집 줄 3122·3123·3125"
+  }
+ ],
+ "stations": [
+  {
+   "lesson": "new-etc-01",
+   "n": 0,
+   "lines": [],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-01",
+   "n": 1,
+   "lines": [],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-01",
+   "n": 2,
+   "lines": [],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-01",
+   "n": 3,
+   "lines": [],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-01",
+   "n": 4,
+   "lines": [],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-01",
+   "n": 5,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "周禮 四醫+鍼醫灸醫按摩咒禁醫 八種醫는 교재 해당 범위·검색한 줄에 없음. 카드 UHG-009 출처"
+  },
+  {
+   "lesson": "new-etc-01",
+   "n": 6,
+   "lines": [],
+   "check": "갈림",
+   "note": "교재 695 = 鄒衍 五行相剋說·五德終始篇 / 문제집 902-904 = 陰陽說과 五行說 결합. 서로 다른 면이라 나란히"
+  },
+  {
+   "lesson": "new-etc-01",
+   "n": 7,
+   "lines": [],
+   "check": "맞음",
+   "note": "교재 166 인용 맞음. 괄호 「扁鵲은 不待」·원문 越人之爲方也 不待…는 교재에 없는 원전 보충(확인 필요)"
+  },
+  {
+   "lesson": "new-etc-01",
+   "n": 8,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "「작자 미상 고대 지리서 · 扁鵲 저서 아님」은 카드 UHG-069. 교재 160은 질병 38종 기재만"
+  },
+  {
+   "lesson": "new-etc-01",
+   "n": 9,
+   "lines": [],
+   "check": "맞음",
+   "note": "교재 1631-1635 · 3792 맞음. 낭독의 繫於腎·入心中은 교재에 없는 보충"
+  },
+  {
+   "lesson": "new-etc-01",
+   "n": 10,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "黃帝內經 十八卷·첫 기록은 문제집 905-907. 교재 3641은 藝文志=최초 方劑學 서적 · 內經 13首 方劑까지만"
+  },
+  {
+   "lesson": "new-etc-01",
+   "n": 11,
+   "lines": [],
+   "check": "맞음",
+   "note": "정거장 5·6·8·10 참조"
+  },
+  {
+   "lesson": "hist-01a",
+   "n": 0,
+   "lines": [
+    174
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-01a",
+   "n": 1,
+   "lines": [
+    203,
+    204,
+    3841
+   ],
+   "check": "갈림",
+   "note": "교재 203-204 = 秦越人 著 / 문제집 1266-1269 = 저자 미상·전설상 扁鵲. 덱이 둘 다 적음"
+  },
+  {
+   "lesson": "hist-01a",
+   "n": 2,
+   "lines": [
+    204,
+    205
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-01a",
+   "n": 3,
+   "lines": [
+    209,
+    210
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-01a",
+   "n": 4,
+   "lines": [
+    209,
+    210
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-01a",
+   "n": 5,
+   "lines": [
+    206,
+    207,
+    1696,
+    3718,
+    243
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-01a",
+   "n": 6,
+   "lines": [
+    176,
+    177
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-01a",
+   "n": 7,
+   "lines": [
+    176,
+    187,
+    188
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-01a",
+   "n": 8,
+   "lines": [
+    146,
+    147,
+    228,
+    229
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-01a",
+   "n": 9,
+   "lines": [
+    199,
+    230,
+    3407,
+    3843
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-01a",
+   "n": 10,
+   "lines": [
+    246
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-01a",
+   "n": 11,
+   "lines": [
+    174,
+    177,
+    203,
+    210,
+    228,
+    230
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-01b",
+   "n": 0,
+   "lines": [
+    197,
+    214,
+    233,
+    256,
+    257,
+    269,
+    3846
+   ],
+   "check": "갈림",
+   "note": "교재 269는 華陀를 兩晉隋唐 醫家에, 3846은 秦漢에 둠 — 교재 안에서 갈림"
+  },
+  {
+   "lesson": "hist-01b",
+   "n": 1,
+   "lines": [
+    214,
+    216,
+    3846
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-01b",
+   "n": 2,
+   "lines": [
+    217,
+    218,
+    3847
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-01b",
+   "n": 3,
+   "lines": [
+    219,
+    220,
+    2788,
+    3847
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-01b",
+   "n": 4,
+   "lines": [
+    269,
+    3846
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-01b",
+   "n": 5,
+   "lines": [
+    3846
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-01b",
+   "n": 6,
+   "lines": [
+    242,
+    243,
+    256,
+    3850
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-01b",
+   "n": 7,
+   "lines": [
+    215,
+    244,
+    256,
+    3847,
+    3850
+   ],
+   "check": "맞음",
+   "note": "교재 215 「晉나라시대 王叔和」 / 3847 「西秦 王叔和」 표기 병존"
+  },
+  {
+   "lesson": "hist-01b",
+   "n": 8,
+   "lines": [
+    257,
+    3850,
+    3792
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-01b",
+   "n": 9,
+   "lines": [],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-01b",
+   "n": 10,
+   "lines": [
+    214,
+    220,
+    242,
+    244,
+    257,
+    3846
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-02a",
+   "n": 0,
+   "lines": [
+    248,
+    251,
+    252
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-02a",
+   "n": 1,
+   "lines": [
+    229,
+    248,
+    259,
+    3417
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-02a",
+   "n": 2,
+   "lines": [
+    229,
+    259,
+    3850
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-02a",
+   "n": 3,
+   "lines": [
+    229,
+    248,
+    3417,
+    3424
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-02a",
+   "n": 4,
+   "lines": [
+    3417
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-02a",
+   "n": 5,
+   "lines": [
+    259,
+    2789,
+    257
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-02a",
+   "n": 6,
+   "lines": [
+    259
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-02a",
+   "n": 7,
+   "lines": [
+    251,
+    3417
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-02a",
+   "n": 8,
+   "lines": [
+    251,
+    3532,
+    3851
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-02a",
+   "n": 9,
+   "lines": [
+    252,
+    3641,
+    3851,
+    249,
+    3625
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-02a",
+   "n": 10,
+   "lines": [
+    249,
+    251,
+    252,
+    3625,
+    3641
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-02a",
+   "n": 11,
+   "lines": [
+    229,
+    248,
+    251,
+    252,
+    259,
+    3417
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-02b",
+   "n": 0,
+   "lines": [
+    253,
+    260,
+    264,
+    265
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-02b",
+   "n": 1,
+   "lines": [
+    253,
+    3641
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-02b",
+   "n": 2,
+   "lines": [
+    253,
+    3641,
+    3850
+   ],
+   "check": "맞음",
+   "note": "교재 표현 세 가지(253 현존 가장 오래된 / 3641 현존 최초 / 3850 중국 최초)를 덱이 병기"
+  },
+  {
+   "lesson": "hist-02b",
+   "n": 3,
+   "lines": [
+    264,
+    3851
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-02b",
+   "n": 4,
+   "lines": [
+    260,
+    3850
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-02b",
+   "n": 5,
+   "lines": [
+    260,
+    3850
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-02b",
+   "n": 6,
+   "lines": [
+    194,
+    265,
+    3851
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-02b",
+   "n": 7,
+   "lines": [
+    187,
+    196,
+    3793
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-02b",
+   "n": 8,
+   "lines": [
+    253,
+    260,
+    264,
+    265
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-03a",
+   "n": 0,
+   "lines": [
+    233,
+    250,
+    262
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-03a",
+   "n": 1,
+   "lines": [
+    262,
+    1641,
+    3850,
+    3851
+   ],
+   "check": "맞음",
+   "note": "교재 262 「孫思邈(晉)」은 1641·3850 「唐」과 달라 교재 표기 오류로 보임 — 덱은 唐 채택·병기"
+  },
+  {
+   "lesson": "hist-03a",
+   "n": 2,
+   "lines": [
+    262,
+    3850
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-03a",
+   "n": 3,
+   "lines": [
+    245,
+    3851
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-03a",
+   "n": 4,
+   "lines": [
+    1641
+   ],
+   "check": "갈림",
+   "note": "교재 1641 = 千金要方이 經絡 經路를 색칠(「최초」「天然色」「明堂三人圖」 없음) / 문제집 경락 239 = 滑伯仁 · 의학사 108 = 陳會 / DECISIONS 11-17 결정 8 · P0 #4 = 滑壽 최초 天然色. 덱은 孫思邈로 적어 결정과 어긋남 — 사용자 확인 필요"
+  },
+  {
+   "lesson": "hist-03a",
+   "n": 5,
+   "lines": [
+    3792
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-03a",
+   "n": 6,
+   "lines": [
+    1640,
+    3850,
+    3851
+   ],
+   "check": "갈림",
+   "note": "교재 1640 = 甄權 明堂圖 수정 / 3850 = 孫思邈(…明堂圖 수정) — 교재 안 갈림, 덱이 병기"
+  },
+  {
+   "lesson": "hist-03a",
+   "n": 7,
+   "lines": [
+    250,
+    3418,
+    3850
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-03a",
+   "n": 8,
+   "lines": [],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-03a",
+   "n": 9,
+   "lines": [
+    250,
+    262,
+    1640,
+    1641,
+    3792
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-03b",
+   "n": 0,
+   "lines": [
+    3418,
+    3850,
+    3851
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-03b",
+   "n": 1,
+   "lines": [
+    3418,
+    3850
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-03b",
+   "n": 2,
+   "lines": [
+    249,
+    3418
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-03b",
+   "n": 3,
+   "lines": [
+    249,
+    3625,
+    3641
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-03b",
+   "n": 4,
+   "lines": [
+    3850
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-03b",
+   "n": 5,
+   "lines": [
+    245,
+    263,
+    3851
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-03b",
+   "n": 6,
+   "lines": [],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-03b",
+   "n": 7,
+   "lines": [
+    249,
+    263,
+    3418,
+    3850
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-03c",
+   "n": 0,
+   "lines": [
+    187,
+    266,
+    267,
+    3851
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-03c",
+   "n": 1,
+   "lines": [
+    266,
+    3851
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-03c",
+   "n": 2,
+   "lines": [
+    266,
+    3851
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-03c",
+   "n": 3,
+   "lines": [
+    186,
+    190
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-03c",
+   "n": 4,
+   "lines": [
+    266,
+    3851
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-03c",
+   "n": 5,
+   "lines": [
+    267,
+    3851
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-03c",
+   "n": 6,
+   "lines": [
+    267,
+    3851
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-03c",
+   "n": 7,
+   "lines": [
+    187,
+    196,
+    264,
+    266,
+    3851
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-03c",
+   "n": 8,
+   "lines": [
+    187,
+    266,
+    267
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-04",
+   "n": 0,
+   "lines": [
+    283,
+    285,
+    3854
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-04",
+   "n": 1,
+   "lines": [
+    284,
+    3641,
+    3854
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-04",
+   "n": 2,
+   "lines": [
+    284,
+    3641
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-04",
+   "n": 3,
+   "lines": [
+    284,
+    3854
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-04",
+   "n": 4,
+   "lines": [
+    333,
+    3641,
+    3858
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-04",
+   "n": 5,
+   "lines": [
+    333,
+    2166,
+    3858
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-04",
+   "n": 6,
+   "lines": [
+    275,
+    276,
+    285,
+    3853
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-04",
+   "n": 7,
+   "lines": [
+    297,
+    300,
+    2790,
+    3856
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-04",
+   "n": 8,
+   "lines": [
+    280,
+    284,
+    297,
+    317,
+    334,
+    2789
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-04",
+   "n": 9,
+   "lines": [],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-02",
+   "n": 0,
+   "lines": [],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-02",
+   "n": 1,
+   "lines": [],
+   "check": "맞음",
+   "note": "교재 303·3856"
+  },
+  {
+   "lesson": "new-etc-02",
+   "n": 2,
+   "lines": [],
+   "check": "맞음",
+   "note": "교재 304·3856"
+  },
+  {
+   "lesson": "new-etc-02",
+   "n": 3,
+   "lines": [],
+   "check": "맞음",
+   "note": "교재 331 · 3856. 「宋·金·元」 범위 표현은 덱 보충"
+  },
+  {
+   "lesson": "new-etc-02",
+   "n": 4,
+   "lines": [],
+   "check": "맞음",
+   "note": "교재 334·3858"
+  },
+  {
+   "lesson": "new-etc-02",
+   "n": 5,
+   "lines": [],
+   "check": "맞음",
+   "note": "董汲(北宋) 교재 280·317. 「錢乙이 後序」는 교재에 없는 카드 보충(UHG-057)"
+  },
+  {
+   "lesson": "new-etc-02",
+   "n": 6,
+   "lines": [],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-03",
+   "n": 0,
+   "lines": [],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-03",
+   "n": 1,
+   "lines": [],
+   "check": "맞음",
+   "note": "교재 277 經絡을 중시함 / 「六經을 經絡으로」는 해석(UHG-047)"
+  },
+  {
+   "lesson": "new-etc-03",
+   "n": 2,
+   "lines": [],
+   "check": "맞음",
+   "note": "교재 279 · 3853. 「缺脫 보충」은 補亡의 풀이"
+  },
+  {
+   "lesson": "new-etc-03",
+   "n": 3,
+   "lines": [],
+   "check": "맞음",
+   "note": "교재 282 · 3853"
+  },
+  {
+   "lesson": "new-etc-03",
+   "n": 4,
+   "lines": [],
+   "check": "맞음",
+   "note": "傷寒貫珠集 394 · 金匱要略心典 396. 尤在涇·醫學讀書記는 교재에 없는 보충(UHG-040)"
+  },
+  {
+   "lesson": "new-etc-03",
+   "n": 5,
+   "lines": [],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-05a",
+   "n": 0,
+   "lines": [
+    288,
+    293,
+    3419,
+    3854
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-05a",
+   "n": 1,
+   "lines": [
+    289,
+    3419,
+    3854
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-05a",
+   "n": 2,
+   "lines": [
+    290,
+    3419
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-05a",
+   "n": 3,
+   "lines": [
+    290,
+    291,
+    3419
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-05a",
+   "n": 4,
+   "lines": [
+    292,
+    3419
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-05a",
+   "n": 5,
+   "lines": [
+    289,
+    292,
+    3419
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-05a",
+   "n": 6,
+   "lines": [
+    293,
+    3419,
+    3422
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-05a",
+   "n": 7,
+   "lines": [
+    346,
+    1711,
+    3419,
+    3854
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-05a",
+   "n": 8,
+   "lines": [
+    346,
+    1711,
+    3419,
+    3854
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-05a",
+   "n": 9,
+   "lines": [
+    3854,
+    3419
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-06a",
+   "n": 0,
+   "lines": [
+    347,
+    352
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-06a",
+   "n": 1,
+   "lines": [
+    349,
+    354
+   ],
+   "check": "맞음",
+   "note": "六氣皆從火化는 교재에 없고 문제집 969(서술형 정답)에만"
+  },
+  {
+   "lesson": "hist-06a",
+   "n": 2,
+   "lines": [
+    354,
+    355
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-06a",
+   "n": 3,
+   "lines": [
+    350,
+    356
+   ],
+   "check": "맞음",
+   "note": "邪去則正安은 교재에 없고 문제집 969에만"
+  },
+  {
+   "lesson": "hist-06a",
+   "n": 4,
+   "lines": [
+    357
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-06a",
+   "n": 5,
+   "lines": [
+    351,
+    358,
+    359
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-06a",
+   "n": 6,
+   "lines": [
+    351
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-06a",
+   "n": 7,
+   "lines": [
+    352,
+    360
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-06a",
+   "n": 8,
+   "lines": [
+    360,
+    361
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-06a",
+   "n": 9,
+   "lines": [
+    284,
+    361
+   ],
+   "check": "교재에없음",
+   "note": "『局方發揮』 책명만 교재 361. 「향조·온열약 남용 비판」 설명은 교재·문제집에서 못 찾음(원전 사실로는 통설, 확인 필요)"
+  },
+  {
+   "lesson": "hist-06a",
+   "n": 10,
+   "lines": [
+    3862
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-06a",
+   "n": 11,
+   "lines": [
+    349,
+    352
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-06b",
+   "n": 0,
+   "lines": [
+    271,
+    275,
+    306,
+    3853,
+    3856
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-06b",
+   "n": 1,
+   "lines": [
+    275,
+    3853
+   ],
+   "check": "맞음",
+   "note": "교재 275·3853 成無已 / 다른 표기 成無己 병기(DECISIONS 11-21). 교재 3853은 傷寒明理論도 같은 글자"
+  },
+  {
+   "lesson": "hist-06b",
+   "n": 2,
+   "lines": [
+    275,
+    3853
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-06b",
+   "n": 3,
+   "lines": [
+    3853
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-06b",
+   "n": 4,
+   "lines": [
+    275,
+    282,
+    3853
+   ],
+   "check": "맞음",
+   "note": "낭독의 韓祇和: 교재 281 韓祗和 / 3853 韓祇和 병존 — DECISIONS에 보류로 남은 항목"
+  },
+  {
+   "lesson": "hist-06b",
+   "n": 5,
+   "lines": [
+    271,
+    306
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-06b",
+   "n": 6,
+   "lines": [
+    306
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-06b",
+   "n": 7,
+   "lines": [
+    306,
+    3856
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-06b",
+   "n": 8,
+   "lines": [
+    302,
+    306,
+    309,
+    3856
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-06b",
+   "n": 9,
+   "lines": [],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "pilot-duben",
+   "n": 0,
+   "lines": [],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "pilot-duben",
+   "n": 1,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "왕조 元은 교재에 없음(306·3856은 宋·金元 묶음). 杜本(1276~1350) 원전 사실로는 元"
+  },
+  {
+   "lesson": "pilot-duben",
+   "n": 2,
+   "lines": [],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "pilot-duben",
+   "n": 3,
+   "lines": [],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "pilot-duben",
+   "n": 4,
+   "lines": [
+    306
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "pilot-duben",
+   "n": 5,
+   "lines": [
+    3856
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "pilot-duben",
+   "n": 6,
+   "lines": [
+    306,
+    3856
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "pilot-duben",
+   "n": 7,
+   "lines": [],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-05b",
+   "n": 0,
+   "lines": [
+    3420,
+    3423
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-05b",
+   "n": 1,
+   "lines": [
+    341,
+    351,
+    1711,
+    3477,
+    3478
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-05b",
+   "n": 2,
+   "lines": [
+    341,
+    3420
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-05b",
+   "n": 3,
+   "lines": [
+    342,
+    351,
+    3420
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-05b",
+   "n": 4,
+   "lines": [
+    364,
+    1645,
+    3422,
+    3865,
+    3873
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-05b",
+   "n": 5,
+   "lines": [
+    365,
+    3423,
+    3865
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-05b",
+   "n": 6,
+   "lines": [
+    3423,
+    3865
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-05b",
+   "n": 7,
+   "lines": [
+    1647,
+    1711,
+    3879
+   ],
+   "check": "맞음",
+   "note": "교재 1647 姚蘭 / 3879 姚瀾 병존 — 덱이 병기"
+  },
+  {
+   "lesson": "hist-05b",
+   "n": 8,
+   "lines": [],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-07a",
+   "n": 0,
+   "lines": [
+    309,
+    1638,
+    1648
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-07a",
+   "n": 1,
+   "lines": [
+    246,
+    255,
+    1638,
+    2160,
+    3850
+   ],
+   "check": "맞음",
+   "note": "교재 246·255·3850 晉 / 1638 「秦」 표기 병존"
+  },
+  {
+   "lesson": "hist-07a",
+   "n": 2,
+   "lines": [
+    246,
+    309,
+    3792
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-07a",
+   "n": 3,
+   "lines": [
+    308,
+    1642,
+    3793,
+    3856
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-07a",
+   "n": 4,
+   "lines": [
+    308
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-07a",
+   "n": 5,
+   "lines": [
+    310,
+    3794,
+    3856
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-07a",
+   "n": 6,
+   "lines": [
+    309,
+    1643
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-07a",
+   "n": 7,
+   "lines": [
+    309,
+    411,
+    1646,
+    3794
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-07a",
+   "n": 8,
+   "lines": [
+    309,
+    1648,
+    3877
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-07a",
+   "n": 9,
+   "lines": [
+    1636
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-07a",
+   "n": 10,
+   "lines": [
+    309,
+    1638,
+    1648
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-07b",
+   "n": 0,
+   "lines": [
+    311,
+    315,
+    411,
+    412
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-07b",
+   "n": 1,
+   "lines": [
+    311,
+    3794,
+    3856
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-07b",
+   "n": 2,
+   "lines": [
+    312,
+    3794
+   ],
+   "check": "맞음",
+   "note": "교재 312 竇默(初名 傑 字 漢卿) / 3794 竇杰·竇漢卿 / 문제집 「寶漢卿」 — 덱이 병기"
+  },
+  {
+   "lesson": "hist-07b",
+   "n": 3,
+   "lines": [
+    313
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-07b",
+   "n": 4,
+   "lines": [
+    314,
+    315,
+    1644,
+    3856
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-07b",
+   "n": 5,
+   "lines": [
+    1641
+   ],
+   "check": "갈림",
+   "note": "hist-03a#4와 같은 쟁점: 교재 1641 孫思邈 색칠 / 문제집 경락 239 滑伯仁·의학사 Q108 陳會 / DECISIONS 결정 8 滑壽"
+  },
+  {
+   "lesson": "hist-07b",
+   "n": 6,
+   "lines": [
+    411,
+    3794
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-07b",
+   "n": 7,
+   "lines": [
+    411,
+    3794,
+    3875
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-07b",
+   "n": 8,
+   "lines": [
+    406,
+    412,
+    3875
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-07b",
+   "n": 9,
+   "lines": [
+    3794
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-07b",
+   "n": 10,
+   "lines": [
+    311,
+    315,
+    411,
+    412
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-08a",
+   "n": 0,
+   "lines": [
+    399,
+    400,
+    3870
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-08a",
+   "n": 1,
+   "lines": [
+    400,
+    404
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-08a",
+   "n": 2,
+   "lines": [
+    404,
+    405
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-08a",
+   "n": 3,
+   "lines": [
+    194,
+    387,
+    3867
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-08a",
+   "n": 4,
+   "lines": [
+    387,
+    400,
+    416,
+    2538
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-08a",
+   "n": 5,
+   "lines": [
+    3862
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-08a",
+   "n": 6,
+   "lines": [
+    352,
+    3862,
+    401
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-08a",
+   "n": 7,
+   "lines": [
+    387,
+    400,
+    404,
+    3862
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-08b",
+   "n": 0,
+   "lines": [
+    399,
+    401,
+    3870,
+    3876,
+    3877
+   ],
+   "check": "갈림",
+   "note": "교재 400 = 薛己·張介賓·趙獻可 / 문제집 해설 1123 = 孫一奎·李中梓 포함 — 덱이 병기"
+  },
+  {
+   "lesson": "hist-08b",
+   "n": 1,
+   "lines": [
+    400,
+    2535,
+    3870,
+    3873
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-08b",
+   "n": 2,
+   "lines": [
+    2164,
+    2535
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-08b",
+   "n": 3,
+   "lines": [
+    418,
+    2164,
+    2539,
+    3871,
+    3875
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-08b",
+   "n": 4,
+   "lines": [
+    388,
+    416,
+    3178,
+    3875
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-08b",
+   "n": 5,
+   "lines": [
+    401,
+    3870,
+    3876,
+    3877
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-08b",
+   "n": 6,
+   "lines": [
+    401,
+    3870,
+    3877
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-08b",
+   "n": 7,
+   "lines": [
+    387,
+    401,
+    410,
+    3870,
+    3877
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-08b",
+   "n": 8,
+   "lines": [
+    388,
+    400,
+    401,
+    418,
+    2535,
+    3877
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-09",
+   "n": 0,
+   "lines": [
+    372,
+    3866,
+    2795
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-09",
+   "n": 1,
+   "lines": [
+    346,
+    352,
+    391,
+    3859
+   ],
+   "check": "맞음",
+   "note": "王履 醫經溯洄集·朱震亨 제자는 교재 346·352·391·3859. 「溫病不得混稱傷寒」은 문제집 1156에만"
+  },
+  {
+   "lesson": "hist-09",
+   "n": 2,
+   "lines": [
+    374,
+    375,
+    2795,
+    2881,
+    3866
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-09",
+   "n": 3,
+   "lines": [
+    374,
+    376,
+    2881
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-09",
+   "n": 4,
+   "lines": [
+    378,
+    3866,
+    3877
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-09",
+   "n": 5,
+   "lines": [
+    378,
+    3378,
+    3877
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-09",
+   "n": 6,
+   "lines": [
+    378,
+    3378,
+    3380,
+    3877
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-09",
+   "n": 7,
+   "lines": [
+    379,
+    3380,
+    3866,
+    3877
+   ],
+   "check": "갈림",
+   "note": "교재 379 溫熱病篇 · 3866 溫熱病論 · 3380 濕熱辨證 / 문제집 937 · 1045-1047 / 원전 濕熱條辨(濕熱病篇) — 덱은 원전 채택하고 「교재 오식」으로 표기"
+  },
+  {
+   "lesson": "hist-09",
+   "n": 8,
+   "lines": [
+    380,
+    3380,
+    3866,
+    3877
+   ],
+   "check": "맞음",
+   "note": "교재 380 吳瑭 / 3877 吳塘 병존 — 덱이 병기"
+  },
+  {
+   "lesson": "hist-09",
+   "n": 9,
+   "lines": [
+    381,
+    3871,
+    3877
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-09",
+   "n": 10,
+   "lines": [
+    374,
+    378,
+    381
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-09",
+   "n": 11,
+   "lines": [
+    372,
+    381
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-10",
+   "n": 0,
+   "lines": [
+    191,
+    385,
+    3865,
+    3867,
+    420,
+    422,
+    3643
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-10",
+   "n": 1,
+   "lines": [
+    191,
+    385,
+    3867
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-10",
+   "n": 2,
+   "lines": [
+    190,
+    196,
+    385,
+    388
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-10",
+   "n": 3,
+   "lines": [
+    370,
+    3643,
+    3865,
+    3877
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-10",
+   "n": 4,
+   "lines": [
+    3423,
+    2599,
+    3643
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-10",
+   "n": 5,
+   "lines": [
+    420,
+    2513
+   ],
+   "check": "맞음",
+   "note": "교재 420 雜病源流犀燭 / 2513 難病源流犀燭 병존 — 덱이 병기"
+  },
+  {
+   "lesson": "hist-10",
+   "n": 6,
+   "lines": [
+    422,
+    2165,
+    2599,
+    3871
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-10",
+   "n": 7,
+   "lines": [
+    421,
+    422,
+    2797,
+    2979
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-10",
+   "n": 8,
+   "lines": [
+    370,
+    385,
+    420,
+    422
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-04",
+   "n": 0,
+   "lines": [],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-04",
+   "n": 1,
+   "lines": [],
+   "check": "맞음",
+   "note": "교재 236-240"
+  },
+  {
+   "lesson": "new-etc-04",
+   "n": 2,
+   "lines": [],
+   "check": "맞음",
+   "note": "嚴用和 濟生方·補腎論 3859 · 285. 교재 張銳 서명이 319 鷄峰普濟方 / 3859 鷄峰備急方으로 병존"
+  },
+  {
+   "lesson": "new-etc-04",
+   "n": 3,
+   "lines": [],
+   "check": "맞음",
+   "note": "교재 344 正骨 기초·世醫得效方. 懸吊復位·麻醉法은 교재에 없는 보충(UHG-050)"
+  },
+  {
+   "lesson": "new-etc-04",
+   "n": 4,
+   "lines": [],
+   "check": "맞음",
+   "note": "교재 3643 역사상 最大 方書 · 3875 救荒本草. 168권은 교재에 없는 보충(UHG-051)"
+  },
+  {
+   "lesson": "new-etc-04",
+   "n": 5,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "교재엔 吳崑 醫方考 서명만(370·3643). 「門으로 분류·72門」은 카드 UHG-039"
+  },
+  {
+   "lesson": "new-etc-04",
+   "n": 6,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "교재 3877엔 張錫純 醫學衷中參西錄 서명만. 「中西結合의 선구」는 카드 UHG-052"
+  },
+  {
+   "lesson": "new-etc-04",
+   "n": 7,
+   "lines": [],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-11",
+   "n": 0,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "문제집 줄 문제집 851–883 · 911–916(참고 의학사) — 교재 해당 범위·전체에서 못 찾음"
+  },
+  {
+   "lesson": "hist-11",
+   "n": 1,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "문제집 줄 문제집 869–871 — 교재 해당 범위·전체에서 못 찾음"
+  },
+  {
+   "lesson": "hist-11",
+   "n": 2,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "문제집 줄 문제집 851–853 — 교재 해당 범위·전체에서 못 찾음"
+  },
+  {
+   "lesson": "hist-11",
+   "n": 3,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "문제집 줄 문제집 881–883 — 교재 해당 범위·전체에서 못 찾음"
+  },
+  {
+   "lesson": "hist-11",
+   "n": 4,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "문제집 줄 문제집 866–868 · 875–877 · 914 — 교재 해당 범위·전체에서 못 찾음"
+  },
+  {
+   "lesson": "hist-11",
+   "n": 5,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "문제집 줄 문제집 872–874 — 교재 해당 범위·전체에서 못 찾음"
+  },
+  {
+   "lesson": "hist-11",
+   "n": 6,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "문제집 줄 문제집 911–913 · 890–892 — 교재 해당 범위·전체에서 못 찾음"
+  },
+  {
+   "lesson": "hist-11",
+   "n": 7,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "문제집 줄 문제집 914–916 · 866 — 교재 해당 범위·전체에서 못 찾음"
+  },
+  {
+   "lesson": "hist-11",
+   "n": 8,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "문제집 줄 문제집 878–880 — 교재 해당 범위·전체에서 못 찾음"
+  },
+  {
+   "lesson": "hist-11",
+   "n": 9,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "문제집 줄 문제집 851–916 — 교재 해당 범위·전체에서 못 찾음"
+  },
+  {
+   "lesson": "hist-12",
+   "n": 0,
+   "lines": [
+    425,
+    427,
+    432,
+    434
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-12",
+   "n": 1,
+   "lines": [
+    3795
+   ],
+   "check": "맞음",
+   "note": "百濟新集方·新羅法師方 교재 3795. 일본 醫心方(984) 인용은 문제집 863-865"
+  },
+  {
+   "lesson": "hist-12",
+   "n": 2,
+   "lines": [
+    427,
+    431
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-12",
+   "n": 3,
+   "lines": [
+    427
+   ],
+   "check": "갈림",
+   "note": "교재 427 = 최종준 新集御醫撮要方 / 문제집 1127 해설 = 金永碩의 新集御醫撮要方 — 덱은 교재대로 적음"
+  },
+  {
+   "lesson": "hist-12",
+   "n": 4,
+   "lines": [
+    428,
+    429
+   ],
+   "check": "맞음",
+   "note": "現存 最古는 교재 429. 「저자 미상」은 문제집 1127에만"
+  },
+  {
+   "lesson": "hist-12",
+   "n": 5,
+   "lines": [
+    430
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-12",
+   "n": 6,
+   "lines": [
+    433,
+    3425
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-12",
+   "n": 7,
+   "lines": [
+    434,
+    3425
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-12",
+   "n": 8,
+   "lines": [
+    427,
+    434,
+    3425,
+    3795
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-13",
+   "n": 0,
+   "lines": [
+    432,
+    441,
+    443,
+    448
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-13",
+   "n": 1,
+   "lines": [
+    435
+   ],
+   "check": "갈림",
+   "note": "교재 435 = 許浚 撰集 / 문제집 884-886·1128-1130 = 허준·정예남 등 共編 — 덱이 병기"
+  },
+  {
+   "lesson": "hist-13",
+   "n": 2,
+   "lines": [
+    436,
+    3795
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-13",
+   "n": 3,
+   "lines": [
+    440
+   ],
+   "check": "갈림",
+   "note": "교재 440 主制郡徵 / 문제집 893-895 主制群徵 — 郡/群 표기 갈림. 「서양 의학 소개」는 문제집"
+  },
+  {
+   "lesson": "hist-13",
+   "n": 4,
+   "lines": [
+    439
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-13",
+   "n": 5,
+   "lines": [
+    444
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-13",
+   "n": 6,
+   "lines": [
+    445,
+    446
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-13",
+   "n": 7,
+   "lines": [
+    447,
+    448,
+    3349
+   ],
+   "check": "맞음",
+   "note": "교재 447-448. 1894는 문제집 887-889"
+  },
+  {
+   "lesson": "hist-13",
+   "n": 8,
+   "lines": [
+    435,
+    448
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hist-14",
+   "n": 0,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "문제집 줄 문제집 854–862 · 890–901 · 917–919 — 교재 해당 범위·전체에서 못 찾음"
+  },
+  {
+   "lesson": "hist-14",
+   "n": 1,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "문제집 줄 문제집 890–892 · 911–913 — 교재 해당 범위·전체에서 못 찾음"
+  },
+  {
+   "lesson": "hist-14",
+   "n": 2,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "문제집 줄 문제집 896–898 — 교재 해당 범위·전체에서 못 찾음"
+  },
+  {
+   "lesson": "hist-14",
+   "n": 3,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "문제집 줄 문제집 899–901 — 교재 해당 범위·전체에서 못 찾음"
+  },
+  {
+   "lesson": "hist-14",
+   "n": 4,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "문제집 줄 문제집 854–856 — 교재 해당 범위·전체에서 못 찾음"
+  },
+  {
+   "lesson": "hist-14",
+   "n": 5,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "문제집 줄 문제집 860–862 — 교재 해당 범위·전체에서 못 찾음"
+  },
+  {
+   "lesson": "hist-14",
+   "n": 6,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "문제집 줄 문제집 917–919 — 교재 해당 범위·전체에서 못 찾음"
+  },
+  {
+   "lesson": "hist-14",
+   "n": 7,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "문제집 줄 문제집 857–859 · 918–919 — 교재 해당 범위·전체에서 못 찾음"
+  },
+  {
+   "lesson": "hist-14",
+   "n": 8,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "문제집 줄 문제집 854–919 — 교재 해당 범위·전체에서 못 찾음"
+  }
+ ],
+ "zongang": "안 함",
+ "summary": {
+  "items": 396,
+  "없음": 122,
+  "글로만": 11,
+  "약함": 74,
+  "그림후보": 189,
+  "stations": 260,
+  "다름": 0,
+  "교재에없음": 26,
+  "갈림": 11
+ }
+}

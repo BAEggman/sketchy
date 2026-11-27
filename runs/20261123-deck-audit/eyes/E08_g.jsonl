@@ -1,0 +1,235 @@
+{"lesson":"new-etc-07","n":1,"j":0,"seen":"왼쪽 선반 곁 문간으로 뒤돌아 나가며 달리는 사내아이, 얼굴과 팔이 초록색; 선반 위 곰팡이 핀 식빵 한 덩이와 파리 3마리","count":"아이 1, 식빵 1, 파리 3","text_or_numbers":"없음","arrows_tables_signs":"문에 사람 모양 그림 표지","size":"보통","confidence":"높음"}
+{"lesson":"new-etc-07","n":2,"j":0,"seen":"안경 쓴 대머리 할아버지 가게 주인이 앞치마를 두르고 저울 한쪽 접시의 초콜릿 막대 아이스크림 여러 개를 가리킴; 다른 쪽 접시는 비어 높이 떠 있음","count":"저울 1, 접시 2(한쪽에 막대 약 6개, 한쪽 빔), 주인 1","text_or_numbers":"없음","arrows_tables_signs":"큰 황동 막대저울","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-07","n":3,"j":0,"seen":"보라색 피부의 여자아이가 두 손으로 큰 흰 소금덩이 같은 네모 덩어리를 들고 혀로 핥음; 팔과 다리에 굵은 핏줄 같은 줄무늬","count":"아이 1, 덩어리 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"new-etc-07","n":4,"j":0,"seen":"갈색 티 사내아이가 종이컵을 입에 대고 마심, 얼굴 팔 다리 피부가 갈라져 메마른 모양, 눈을 위로 치뜸; 발치에 빈 종이컵 탑과 엎어진 컵 여러 개, 구겨진 종이 2","count":"아이 1, 컵 약 10, 구겨진 종이 2","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"new-etc-07","n":5,"j":0,"seen":"빨간 얼굴의 사내아이가 빨간 고추를 베어 물고 찡그림; 앞에 고추가 가득 쌓인 나무 상자","count":"아이 1, 고추 약 10+ , 상자 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"new-etc-07","n":6,"j":0,"seen":"주황 머리 여자아이가 얼굴을 잔뜩 구기며 레몬 조각을 베어 물음; 앞 나무 상자 위 그릇에 레몬 조각 3~4개","count":"아이 1, 레몬 조각 약 4","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"new-etc-07","n":7,"j":0,"seen":"머리숱 적은 아이(어른처럼 보임)가 눈물을 흘리며 무릎에 두 손을 짚고 구부정하게 서 있음; 옆 탁자에 꿀단지(벌 그림 라벨)와 막대사탕 여러 개","count":"아이 1, 꿀단지 1, 막대사탕 약 6","text_or_numbers":"벌 그림 라벨","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"new-etc-07","n":8,"j":0,"seen":"왼쪽 선반 곁 문간으로 달려 나가는 초록 얼굴 사내아이, 곰팡이 빵, 파리","count":"아이 1, 빵 1, 파리 3","text_or_numbers":"없음","arrows_tables_signs":"문 위 사람 모양 표지","size":"보통","confidence":"높음"}
+{"lesson":"new-etc-07","n":8,"j":1,"seen":"안경 쓴 주인과 막대저울, 한쪽 접시에 초콜릿 아이스크림 막대 여러 개","count":"저울 1, 막대 약 6","text_or_numbers":"없음","arrows_tables_signs":"저울","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-07","n":8,"j":2,"seen":"가게 바닥 줄: 아이 6명이 나란히(초록 아이 포함 왼쪽부터 보라, 마른 아이, 빨간 아이, 레몬 아이, 우는 아이), 소금덩이, 컵더미, 고추상자, 레몬그릇, 꿀단지, 사탕","count":"아이 5~6","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-07","n":"scene","one_scene":true,"crowded":false,"seams":"없음","lowres":false,"note":"한 가게 장면, 인물 6+주인; 약간 많지만 한 줄로 정리됨"}
+{"lesson":"hp-12","n":1,"j":0,"seen":"위가 열린 통에 누런 갈색 끈적한 덩어리가 부글거리며 넘쳐 옆으로 길게 흘러내림","count":"통 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"hp-12","n":1,"j":1,"seen":"옆의 맑은 물이 찰랑이는 둥근 통(회색 금속), 넘치지 않음","count":"통 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"hp-12","n":1,"j":2,"seen":"작업복 입은 남자가 허리를 굽히고 손으로 입을 막은 채 누런 걸쭉한 것을 토함, 발치에 양동이","count":"사람 1, 양동이 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"hp-12","n":1,"j":3,"seen":"세로로 선 투명 유리관(속에 흰 연기 같은 물결)과 가로 관이 연결, 아래에 토하는 남자와 양동이","count":"유리관 1, 가로관 1","text_or_numbers":"없음","arrows_tables_signs":"관 이음 테두리","size":"큼","confidence":"낮음"}
+{"lesson":"hp-12","n":2,"j":0,"seen":"하트 모양 창 안에 소용돌이 눈(어지러운 눈)의 남자가 책상 앞에 앉아 손잡이 레버를 잡음; 창 유리에 얼룩과 누런 흘러내린 자국","count":"사람 1, 레버 1","text_or_numbers":"없음","arrows_tables_signs":"하트 창","size":"큼","confidence":"높음"}
+{"lesson":"hp-12","n":2,"j":1,"seen":"파란 셔츠 남자가 찡그린 얼굴로 두 손으로 자기 목을 움켜쥠","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"말풍선 꼬리가 확대 원으로 이어짐","size":"보통","confidence":"높음"}
+{"lesson":"hp-12","n":2,"j":2,"seen":"동그란 확대 원 안에 코-입-목 단면 그림, 목구멍 아래 길에 보라색 둥근 열매(자두 같은) 하나가 걸려 있음","count":"보라 열매 1","text_or_numbers":"없음","arrows_tables_signs":"확대 원(말풍선 모양)","size":"보통","confidence":"높음"}
+{"lesson":"hp-12","n":3,"j":0,"seen":"어두운 쇠 파이프의 꺾인 곳이 터져 짙은 자주색 액체가 쏟아져 바닥에 웅덩이가 고임; 압력계 하나","count":"파이프 균열 1, 웅덩이 1","text_or_numbers":"없음","arrows_tables_signs":"압력계","size":"큼","confidence":"높음"}
+{"lesson":"hp-12","n":4,"j":0,"seen":"세로 파이프 중간이 불룩해지고 안에 검은 덩어리(석탄 같은)가 가득 막혀 있음, 아래로 자주색 액이 흐름","count":"덩어리 다수(약 10+)","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"hp-12","n":4,"j":1,"seen":"앉은 남자 옆구리 옷에 흰 못(핀) 하나가 가로로 꽂혀 있고 둘레에 빨간 짧은 선들","count":"못 1","text_or_numbers":"없음","arrows_tables_signs":"빨간 방사선","size":"작음","confidence":"높음"}
+{"lesson":"hp-12","n":4,"j":2,"seen":"멜빵바지 입은 남자가 의자에 앉아 겁먹은 표정으로 두 손을 앞에 펴고, 흰 가운 입은 의사가 어깨를 짚음; 위에 그릇","count":"사람 2","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"hp-12","n":4,"j":3,"seen":"밤 창문 속 노란 초승달과 별들","count":"달 1","text_or_numbers":"없음","arrows_tables_signs":"창틀","size":"큼","confidence":"높음"}
+{"lesson":"hp-12","n":5,"j":0,"seen":"수도꼭지에서 짙은 자주색 액체가 방울방울 떨어져 아래 흰 그릇에 고임(그릇엔 자주색 덩어리 섞임)","count":"수도꼭지 1, 방울 2~3, 그릇 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"hp-12","n":6,"j":0,"seen":"남자 얼굴이 놀라 창백하고 입술과 손이 보랏빛, 두 손바닥을 펴 앞으로 내밈","count":"사람 1, 손 2","text_or_numbers":"없음","arrows_tables_signs":"얼굴 옆 짧은 떨림 선","size":"보통","confidence":"높음"}
+{"lesson":"hp-12","n":7,"j":0,"seen":"갈색 끈적한 통 + 맑은 물 통 + 하트 창 속 남자가 한 칸에 모임","count":"통 2, 사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"hp-12","n":7,"j":1,"seen":"왼쪽 아래: 토하는 남자, 유리관, 양동이","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"hp-12","n":7,"j":2,"seen":"하트 창 속 남자, 목 잡은 남자와 확대 원 (보라 열매)","count":"사람 2","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"hp-12","n":7,"j":3,"seen":"오른쪽 어두운 반: 불룩 막힌 파이프와 터진 자국, 압력계들","count":"압력계 4~5","text_or_numbers":"없음","arrows_tables_signs":"압력계 눈금","size":"큼","confidence":"낮음"}
+{"lesson":"hp-12","n":7,"j":4,"seen":"오른쪽 위/가운데: 달 창, 수도꼭지, 그릇, 의사와 앉은 남자","count":"사람 2","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"hp-12","n":"scene","one_scene":false,"crowded":true,"seams":"가운데 세로 콘크리트 벽 기둥으로 왼쪽(밝은 회색, 누런 찌꺼기)과 오른쪽(어두움, 자주색)이 갈라진 두 장면","lowres":false,"note":"두 쪽이 한 방 안 대비로 읽히긴 하나 장면이 둘; 7번 상자는 거의 그림 전체를 덮음"}
+{"lesson":"zds-13","n":1,"j":0,"seen":"그림 한가운데를 위에서 아래로 내리뻗은 굵은 꼬인 밧줄 한 가닥, 위 가로대에 묶임","count":"밧줄 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"zds-13","n":1,"j":1,"seen":"대머리 늙은 어부가 갈색 옷과 장화 차림으로 한 손으로 가운데 밧줄을 붙잡고 서서 정면을 봄","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"zds-13","n":2,"j":0,"seen":"왼쪽 가로줄에 걸린 빨강-노랑 둥근 공(허리에 하늘색 띠), 부표 같음","count":"공 1","text_or_numbers":"없음","arrows_tables_signs":"갈고리 걸림","size":"보통","confidence":"높음"}
+{"lesson":"zds-13","n":2,"j":1,"seen":"오른쪽 가로줄에 걸린 검은 쇠 추(윗부분이 좁은 사다리꼴 덩이)","count":"추 1","text_or_numbers":"없음","arrows_tables_signs":"갈고리 걸림","size":"보통","confidence":"높음"}
+{"lesson":"zds-13","n":3,"j":0,"seen":"왼쪽 둘째 줄에 걸린 화로(작은 바가지에 불꽃), 연기 한 줄기가 피어오름","count":"화로 1, 불꽃 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"zds-13","n":3,"j":1,"seen":"오른쪽 둘째 줄에 걸린 네모난 얼음 덩어리, 아래로 물방울이 떨어짐","count":"얼음 1, 물방울 2~3","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"zds-13","n":4,"j":0,"seen":"왼쪽 셋째 줄에 매달린 그물 자루, 안에 물고기가 가득 차 불룩함","count":"그물 1, 물고기 약 8+","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"zds-13","n":4,"j":1,"seen":"오른쪽 셋째 줄에 걸린 빈 그물, 늘어져 축 처지고 안에 아무것도 없음","count":"그물 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"zds-13","n":5,"j":0,"seen":"왼쪽 밝은 낮 반: 해변 모래, 배 3척, 통, 그물 더미, 화로와 공, 물고기 찬 그물","count":"배 3","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"zds-13","n":5,"j":1,"seen":"오른쪽 어두운 푸른 반: 창고 건물, 통, 얼음, 추, 빈 그물, 밧줄 사림","count":"통 3","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"zds-13","n":6,"j":0,"seen":"그림 가운데 세로 밧줄과 그 둘레의 좁은 띠(왼쪽 노란 하늘/오른쪽 푸른 하늘이 맞닿는 선)","count":"밧줄 1","text_or_numbers":"없음","arrows_tables_signs":"색이 갈라지는 경계 세로선","size":"작음","confidence":"높음"}
+{"lesson":"zds-13","n":6,"j":1,"seen":"왼쪽 절반 전체: 따뜻한 노랑 하늘, 모래 해변, 바다, 배, 가로 막대 틀","count":"없음","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"zds-13","n":6,"j":2,"seen":"오른쪽 절반 전체: 푸른 하늘, 어두운 헛간, 큰 통, 얼음 추 빈 그물이 걸림","count":"없음","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"zds-13","n":"scene","one_scene":true,"crowded":false,"seams":"가운데 밧줄 줄을 따라 왼쪽 노란 낮/오른쪽 푸른 밤처럼 색이 곧장 갈림(의도된 반반 대비로 보이나 이음 자국처럼 보이는 직선 경계)","lowres":false,"note":"가로줄 3개에 위치 짝지어 걸린 물건이라 정돈됨"}
+{"lesson":"zds-07","n":1,"j":0,"seen":"금관 쓴 수염 임금이 모피 달린 붉은 망토 차림으로 혀를 길게 내밀고, 혀에 붉은 점들이 박힘; 앞 탁자에 붉은 액체가 든 흰 컵","count":"사람 1, 컵 1, 혀 점 약 5","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"zds-07","n":2,"j":0,"seen":"깃털 달린 투구와 초록 갑옷의 병사가 눈 주위가 붉고 입을 크게 벌려 소리치며 한 손(장갑)으로 붉게 달아오른 배를 움켜쥠; 머리 양옆에 떨림 선","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"떨림 선","size":"큼","confidence":"높음"}
+{"lesson":"zds-07","n":3,"j":0,"seen":"창백한 파란 얼굴의 대머리 남자가 식은땀 한 방울 맺고 혀를 길게 내밀며 두 팔로 몸을 감쌈 (털옷)","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"높음"}
+{"lesson":"zds-07","n":3,"j":1,"seen":"붉은 얼굴의 대머리 남자가 땀방울 여러 개를 흘리며 입을 벌려 혀를 내밀고, 가슴 한가운데가 붉게 빛남","count":"사람 1, 땀방울 4","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"높음"}
+{"lesson":"zds-07","n":4,"j":0,"seen":"파란 방 창밖에 닭 그림자와 새벽 노을 하늘; 창에서 한 줄기 빛이 아래로 비침","count":"닭 1, 창 1","text_or_numbers":"없음","arrows_tables_signs":"빛줄기","size":"작음","confidence":"높음"}
+{"lesson":"zds-07","n":4,"j":1,"seen":"닭 실루엣이 창틀 안에 선 모습, 뒤로 분홍 노랑 노을","count":"닭 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"높음"}
+{"lesson":"zds-07","n":5,"j":0,"seen":"의자에 앉아 땀 흘리는 붉은 얼굴 남자, 양손바닥과 양발바닥이 붉게 달아올라 활짝 펴고 가슴도 붉게 빛남, 허리 띠 가운데에 둥근 장식","count":"손바닥 2, 발바닥 2, 가슴 붉은 점 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"zds-07","n":5,"j":1,"seen":"창밖 어두운 밤하늘에 둥근 보름달과 별, 산 능선 실루엣","count":"달 1","text_or_numbers":"없음","arrows_tables_signs":"창틀 십자","size":"작음","confidence":"높음"}
+{"lesson":"zds-07","n":6,"j":0,"seen":"위에 불꽃, 아래에 파란 물결 반원이 있고, 빨간 화살표가 불에서 아래로, 파란 화살표가 물에서 위로 둥글게 이어지는 순환 그림","count":"불 1, 물 1, 화살표 2","text_or_numbers":"없음","arrows_tables_signs":"원형 순환 화살표 2","size":"큼","confidence":"높음"}
+{"lesson":"zds-07","n":7,"j":0,"seen":"불꽃 아래 회색 돌벽(벽돌 줄)이 가로로 놓여 빨간 화살표가 벽에 맞고 튕겨 올라가고, 벽 아래 물 반원에서 파란 화살표가 벽 밑을 돌아감","count":"불 1, 벽 1줄, 화살표 2","text_or_numbers":"없음","arrows_tables_signs":"튕기는 빨간 화살표, 돌아가는 파란 화살표","size":"큼","confidence":"높음"}
+{"lesson":"zds-07","n":7,"j":1,"seen":"밤 침실: 왕관 쓴 수염 임금이 이불 속에서 눈을 크게 뜨고 놀란 표정, 창에 초승달과 별, 협탁에 쟁반 위 노란 뿌리 같은 것 여러 개와 갈색 덩어리 3개 쌓임","count":"뿌리 약 4, 갈색 덩어리 3","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"zds-07","n":8,"j":0,"seen":"첫칸 임금과 붉은 액체 컵","count":"사람 1, 컵 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"zds-07","n":8,"j":1,"seen":"병사가 배를 움켜쥔 칸","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"zds-07","n":8,"j":2,"seen":"파란 방 칸 전체: 떠는 파란 얼굴 남자, 흰 물주전자, 닭 창","count":"사람 1, 주전자 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"zds-07","n":8,"j":3,"seen":"오른쪽 중간 칸 전체: 붉은 남자, 보름달 창","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"zds-07","n":8,"j":4,"seen":"원형 순환 화살표 칸(불과 물)","count":"화살표 2","text_or_numbers":"없음","arrows_tables_signs":"원형 화살표","size":"큼","confidence":"낮음"}
+{"lesson":"zds-07","n":8,"j":5,"seen":"불, 벽, 화살표 칸","count":"벽 1줄","text_or_numbers":"없음","arrows_tables_signs":"화살표","size":"큼","confidence":"낮음"}
+{"lesson":"zds-07","n":"scene","one_scene":false,"crowded":false,"seams":"굵은 나무틀이 그림을 6칸으로 가른 만화 칸 모음(의도된 칸막이); 마지막 두 칸은 크기가 다름","lowres":false,"note":"한 장면이 아니라 칸 6개 모음; 칸마다 한 가지씩이라 헷갈림은 적음"}
+{"lesson":"zds-08","n":1,"j":0,"seen":"흰 장갑 같은 창백한 손이 다섯 손가락을 펴 앞으로 뻗고, 손가락 마디에 작은 무늬/주름; 위 수도꼭지에서 물 한 방울이 떨어지는데 손에 닿지 않음","count":"손 1, 물방울 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"높음"}
+{"lesson":"zds-08","n":2,"j":0,"seen":"앉은 사람의 구부린 다리와 초록 장화 둘레에 꼬불꼬불 떨림 선 여러 개","count":"다리 2, 떨림 선 약 6","text_or_numbers":"없음","arrows_tables_signs":"떨림 선","size":"작음","confidence":"높음"}
+{"lesson":"zds-08","n":3,"j":0,"seen":"흰 손이 투명 작은 병(파란 물 든)을 이마 쪽에 기울여 물을 한 방울 떨어뜨리려 함","count":"병 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"높음"}
+{"lesson":"zds-08","n":3,"j":1,"seen":"상투 튼 창백한 얼굴의 사람이 눈이 노랗게 충혈되고 처진 입으로 힘없이 있고, 이마 위에서 병을 기울임","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"높음"}
+{"lesson":"zds-08","n":4,"j":0,"seen":"오른쪽 사람의 머리가 풍선처럼 둥글게 부풀고 붉게 빛나며 정수리 위에 김 3줄이 오르고, 두 손으로 머리 옆을 감싸쥐고 얼굴을 찡그림","count":"머리 1, 김 3줄","text_or_numbers":"없음","arrows_tables_signs":"열기 선","size":"큼","confidence":"높음"}
+{"lesson":"zds-08","n":5,"j":0,"seen":"오른쪽 사람의 다리와 초록 장화가 후들후들 떨리는 선에 둘러싸임","count":"다리 2, 떨림 선 약 6","text_or_numbers":"없음","arrows_tables_signs":"떨림 선","size":"작음","confidence":"높음"}
+{"lesson":"zds-08","n":5,"j":1,"seen":"가는 나무 막대기 다리 4개에 올려진 큰 녹슨 물탱크, 다리가 휘고 기울어졌고 가운데 관이 내려와 수도꼭지로 이어짐","count":"다리 4, 탱크 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"zds-08","n":6,"j":0,"seen":"창백한 흰 얼굴(눈 노랗고 눈밑 처짐) 사내가 상투를 틀고 힘없는 표정으로 이마에 물약을 떨어뜨리려 함","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"높음"}
+{"lesson":"zds-08","n":6,"j":1,"seen":"어두운 하늘에 가는 초승달 하나, 희미하게 둥근 달 그림자","count":"달 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"높음"}
+{"lesson":"zds-08","n":7,"j":0,"seen":"머리가 풍선처럼 부푼 사람이 두 손으로 머리를 쥐고 서서 다리를 떨며 서 있는 전신, 옆에 물탱크 다리","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"열기 선, 떨림 선","size":"큼","confidence":"높음"}
+{"lesson":"zds-08","n":8,"j":0,"seen":"맨 위에 큰 불꽃이 타오르는 벽돌 굴뚝 한 개(연통)","count":"굴뚝 1, 불꽃 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"zds-08","n":8,"j":1,"seen":"물탱크 아래 가는 관이 꺾여 수도꼭지로 나오고 물방울이 맺힘, 탱크 다리 4개","count":"수도꼭지 1, 탱크 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"zds-08","n":9,"j":0,"seen":"주저앉은 사람(초록 비늘무늬 옷, 상투, 창백)이 한 손으로 이마에 물병을 기울이고 다른 손은 앞으로 뻗어 수도꼭지 물방울을 받으려 하나 닿지 않음, 다리가 떨림","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"떨림 선","size":"큼","confidence":"높음"}
+{"lesson":"zds-08","n":9,"j":1,"seen":"큰 물탱크와 가는 다리 4개, 수도꼭지 한 개에서 물이 한 방울씩 떨어짐","count":"탱크 1, 수도꼭지 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"zds-08","n":9,"j":2,"seen":"머리가 붉게 부푼 사람이 머리를 감싸쥐고 서 있음","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"열기 선","size":"큼","confidence":"높음"}
+{"lesson":"zds-08","n":9,"j":3,"seen":"맨 위 불꽃이 타는 벽돌 굴뚝 (노을 하늘)","count":"굴뚝 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"zds-08","n":"scene","one_scene":true,"crowded":false,"seams":"없음","lowres":false,"note":"갈라진 사막 땅 한 장면, 두 인물+탱크+굴뚝; 단순하고 선명. 달 하나가 작고 흐림"}
+{"lesson":"zds-14","n":1,"j":0,"seen":"왼쪽 문 앞 길: 갈색 옷 두 남자가 나란히 서 있고 하늘에 바람 소용돌이 선, 맨 오른쪽에 반쯤 얼음 입은 사람 일부가 걸침","count":"사람 2(+1 일부)","text_or_numbers":"없음","arrows_tables_signs":"바람 선","size":"큼","confidence":"낮음"}
+{"lesson":"zds-14","n":2,"j":0,"seen":"머리띠 맨 남자가 한 손으로 목 뒤를 짚고 땀을 흘리며 서서 팔에 갈색 막대 다발을 안음; 몸 옆에 떨림 선, 얼굴 옆에 바람 선","count":"사람 1, 막대 약 7","text_or_numbers":"없음","arrows_tables_signs":"바람 선, 떨림 선","size":"큼","confidence":"높음"}
+{"lesson":"zds-14","n":2,"j":1,"seen":"회색 두루마기 남자가 머리띠 맨 채 목 뒤를 짚고 입을 벌려 하얀 입김을 내뿜고, 양옆에 빨간 번개 모양 선, 팔에 초록 풀줄기 한 줌을 안음","count":"사람 1, 풀줄기 약 10","text_or_numbers":"없음","arrows_tables_signs":"빨간 번개 선 4","size":"큼","confidence":"높음"}
+{"lesson":"zds-14","n":3,"j":0,"seen":"머리띠 땀 흘리는 남자와 갈색 막대 묶음, 발아래 물이 담긴 나무통에 밧줄이 감겨 있고 두 발이 통 속에 담김","count":"사람 1, 통 1, 막대 약 7","text_or_numbers":"없음","arrows_tables_signs":"바람 선","size":"큼","confidence":"높음"}
+{"lesson":"zds-14","n":4,"j":0,"seen":"회색 두루마기 남자와 초록 풀 한 줌, 발아래 물 든 나무통, 통에 밧줄 걸침","count":"사람 1, 통 1","text_or_numbers":"없음","arrows_tables_signs":"빨간 선","size":"큼","confidence":"높음"}
+{"lesson":"zds-14","n":5,"j":0,"seen":"오른쪽 마당: 붉은 노을 하늘에 해, 붉은 기운에 휩싸인 남자가 그릇 물을 들이켜고, 바닥에 큰 파도치는 붉은 고기 같은 것이 담긴 가마, 흰 호랑이 누움, 배 나온 윗옷 벗은 남자","count":"사람 2, 호랑이 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"zds-14","n":6,"j":0,"seen":"흰 털에 푸른 줄무늬 호랑이가 바닥에 엎드려 코에서 푸른 입김 구름을 내뿜음","count":"호랑이 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"zds-14","n":6,"j":1,"seen":"호랑이와 그 옆의 맨 배 남자: 부풀어 튀어나온 배 위에 다른 사람의 손 하나가 얹혀 눌러 봄","count":"배 1, 손 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"zds-14","n":7,"j":0,"seen":"웃통 벗은 남자가 두 손을 번쩍 들고 얼굴을 찡그림, 머리 위에 먹구름과 번개 3개, 뒤로 지는 해; 배가 크게 나오고 발치에 검은 알갱이 여러 개","count":"사람 1, 번개 3, 검은 알갱이 약 15","text_or_numbers":"없음","arrows_tables_signs":"번개","size":"큼","confidence":"높음"}
+{"lesson":"zds-14","n":7,"j":1,"seen":"바닥의 누런 뿌리(생강 같은 마디 덩이) 2개와 동그란 노란 얇은 조각 2개, 흰 가루 한 무더기, 옆 돌도랑에 물이 떨어짐","count":"뿌리 2, 조각 2, 흰 가루 1, 물줄기 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"zds-14","n":8,"j":0,"seen":"붉은 기운이 몸 둘레에 불꽃처럼 일고 땀을 흘리는 남자가 큰 그릇을 두 손으로 들어 물을 벌컥 마시며 물이 튐","count":"사람 1, 그릇 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"zds-14","n":8,"j":1,"seen":"윗옷 벗은 배 나온 남자가 양손을 들고 얼굴을 찡그리며 서 있고, 한쪽 배는 누가 손으로 짚음, 머리 위 번개 구름","count":"사람 1, 손 3(자기 2+남의 손 1)","text_or_numbers":"없음","arrows_tables_signs":"번개","size":"큼","confidence":"높음"}
+{"lesson":"zds-14","n":9,"j":0,"seen":"한가운데 사람이 왼쪽 반은 얼음이고 오른쪽 반은 불꽃인 몸으로 서 있고, 등에 땔감 나무 더미와 호리병박을 짐, 발아래 작은 저울(얼음 쪽/불 쪽)과 현악기","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"zds-14","n":10,"j":0,"seen":"얼음 반/불 반 몸 사람 전체, 눈이 소용돌이, 초록 혀를 내밀고 두 손으로 배를 감쌈, 발치에 저울(한쪽에 얼음 한쪽에 불꽃)","count":"사람 1, 저울 1","text_or_numbers":"없음","arrows_tables_signs":"저울","size":"큼","confidence":"높음"}
+{"lesson":"zds-14","n":11,"j":0,"seen":"얼음 손(왼쪽)과 불 손(오른쪽)이 각각 배에 얹힘, 가운데에 띠 매듭","count":"손 2","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"zds-14","n":12,"j":0,"seen":"소용돌이 눈에 초록색 혀를 길게 내민 얼굴, 이마 반은 얼음 반은 불, 뒤에 땔감과 호리병박","count":"얼굴 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"높음"}
+{"lesson":"zds-14","n":12,"j":1,"seen":"발치 마루 위 눕혀놓은 현악기(줄 여러 가닥, 한쪽 끝에 말려 올라간 부분)","count":"악기 1, 줄 약 6","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"높음"}
+{"lesson":"zds-14","n":13,"j":0,"seen":"왼쪽 면 전체: 바람 부는 문 앞길에 두 남자","count":"사람 2","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"zds-14","n":13,"j":1,"seen":"가운데 면 전체: 한옥 기둥 사이 얼음불 반반 사람","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"zds-14","n":13,"j":2,"seen":"오른쪽 면 전체: 붉은 노을 마당, 물 마시는 남자, 호랑이, 배 나온 남자, 생강 뿌리, 도랑","count":"사람 2, 호랑이 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"zds-14","n":"scene","one_scene":false,"crowded":true,"seams":"한옥 기둥/처마가 그림을 왼쪽 문 앞길(맑은 낮), 가운데 마루(얼음+불 사람), 오른쪽 노을 마당 3구역으로 갈라 이어 붙인 모양","lowres":false,"note":"인물 5명에 소품이 많아 빽빽함; 구역마다 하늘 색이 다름"}
+{"lesson":"zds-15","n":1,"j":0,"seen":"왼쪽 어두운 길에 발자국 무늬가 새겨진 납작한 돌 7개가 이어 놓이고, 한 사람이 그 위를 뛰어 달려감","count":"디딤돌 7, 발자국 쌍 약 7","text_or_numbers":"없음","arrows_tables_signs":"발자국","size":"큼","confidence":"높음"}
+{"lesson":"zds-15","n":2,"j":0,"seen":"상투 튼 흰 옷 남자가 한쪽 주먹을 쥐고 성큼 뛰어 달려가는 모습, 밤 담장 문 앞","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"발 밑 그림자","size":"보통","confidence":"높음"}
+{"lesson":"zds-15","n":3,"j":0,"seen":"방 안 작은 창(문)으로 흰 옷 남자가 바닥에 두 손을 짚고 엉금엉금 기어 들어오는 모습","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"창","size":"작음","confidence":"높음"}
+{"lesson":"zds-15","n":4,"j":0,"seen":"흰 옷 남자가 허리를 굽히고 한 손으로 붉게 부은 배를 짚고 다른 손은 펴 앞으로 내밀며 입에서 누런 줄기 같은 것을 토해 냄","count":"사람 1, 토 줄기 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"zds-15","n":5,"j":0,"seen":"쟁반 위에 흰 밥 한 그릇과 물 컵 하나","count":"밥그릇 1, 컵 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"높음"}
+{"lesson":"zds-15","n":6,"j":0,"seen":"아궁이 구멍 안에서 장작에 불이 타는 모습","count":"불 1, 장작 약 4","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"높음"}
+{"lesson":"zds-15","n":7,"j":0,"seen":"방 바닥 이불(알록달록 네모 조각보)을 덮고 온몸이 파랗게 얼음 낀 사람이 웅크려 누움, 발이 이불 밖","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"zds-15","n":8,"j":0,"seen":"방 안에 누워 얼굴을 찡그린 흰 옷 남자의 발과 앞 작은 상","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"낮음"}
+{"lesson":"zds-15","n":8,"j":1,"seen":"작은 상 위에 누런 손가락 모양 뿌리 줄기 여러 개, 옆 접시에 갈색 네모 덩어리 하나(두부/엿 같은)","count":"뿌리 약 3, 덩어리 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"높음"}
+{"lesson":"zds-15","n":9,"j":0,"seen":"조각보 이불 덮은 파란 얼음 낀 사람이 눈을 감고 웅크려 누움","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"zds-15","n":9,"j":1,"seen":"베개 베고 비스듬히 누워 눈을 부릅뜨고 가슴에 손을 얹은 흰 옷 남자, 옆에 뿌리와 갈색 덩어리","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"머리 옆 작은 선","size":"보통","confidence":"높음"}
+{"lesson":"zds-15","n":10,"j":0,"seen":"머리 위에 불꽃이 타오르고 김이 오르며 땀방울이 튀는 붉은 얼굴 남자, 그릇을 입에 대고 마심","count":"불꽃 1, 땀방울 4","text_or_numbers":"없음","arrows_tables_signs":"열기 선","size":"보통","confidence":"높음"}
+{"lesson":"zds-15","n":10,"j":1,"seen":"나무 대야 속 얼음이 둥둥 뜬 물에 두 발을 담가 서 있음, 얼음 조각 약 5개","count":"대야 1, 얼음 5","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"zds-15","n":11,"j":0,"seen":"얼굴 붉은 사람이 그릇을 입에 대고 마시는데 입 끝에서 흰 끈 같은 긴 줄(관/국수 가닥)이 그릇 속으로 이어짐","count":"그릇 1, 줄 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"낮음"}
+{"lesson":"zds-15","n":12,"j":0,"seen":"입에서 무늬 있는 긴 끈 같은 줄(뱀이나 회충처럼 꿈틀)이 아래로 길게 늘어져 가슴 앞까지 내려옴","count":"줄 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"낮음"}
+{"lesson":"zds-15","n":12,"j":1,"seen":"손바닥 위에 작은 짙은 보라 남색 알 하나(오디나 자두처럼 보임)를 쥠","count":"알 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"낮음"}
+{"lesson":"zds-15","n":13,"j":0,"seen":"왼쪽 마당: 디딤돌 위 달리는 사람과 밤하늘","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"zds-15","n":13,"j":1,"seen":"부엌 마루칸: 아궁이, 솥 2개, 토하는 사람, 밥상","count":"사람 1, 솥 2","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"zds-15","n":13,"j":2,"seen":"방 칸: 창으로 기어드는 사람, 누운 파란 사람, 누운 찡그린 사람, 작은 상","count":"사람 3","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"zds-15","n":13,"j":3,"seen":"오른쪽 어두운 칸: 불 머리 사람이 얼음 대야에 발 담그고 그릇을 마심","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"zds-15","n":"scene","one_scene":true,"crowded":false,"seams":"없음","lowres":false,"note":"한옥 단면 한 장면에 여러 칸; 인물 6명이 한 밤 마당과 세 칸에 나뉘어 읽힘. 불 머리 칸 어둡고 줄이 작아 흐림"}
+{"lesson":"new-etc-29","n":1,"j":0,"seen":"뚱뚱한 남자가 컵으로 물을 들이켜 물이 튀고, 배가 투명한 물이 가득 찬 둥근 주머니처럼 보임; 옆 구조요원이 쟁반에 작은 컵 5개를 들고 서 있음","count":"사람 2, 쟁반 컵 5","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-29","n":1,"j":1,"seen":"겁먹어 두 팔을 번쩍 든 수영복 남자의 배꼽 아래가 검붉게 변해 있고 소변 방울이 아래로 튀고, 구조요원이 복숭아를 건넴","count":"사람 2, 복숭아 1, 방울 3","text_or_numbers":"없음","arrows_tables_signs":"놀람 선","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-29","n":2,"j":0,"seen":"보라 돗자리에 온몸이 붉게 달아오른 남자가 누워 하트 튜브를 배에 두름, 옆에 마른 나무뿌리 2뭉치","count":"사람 1, 뿌리 2","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-29","n":3,"j":0,"seen":"흰 돗자리에 누운 남자가 몸 위는 붉고 아래쪽은 살색이며, 하트 튜브를 배에 낌, 옆에 김 나는 냄비, 수박 한 쪽, 생강 조각들","count":"사람 1, 냄비 1, 수박 1, 생강 약 3","text_or_numbers":"없음","arrows_tables_signs":"김","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-29","n":4,"j":0,"seen":"파란 돗자리에 온몸이 파랗고 추워 떠는 남자가 누워 하트 튜브를 배에 두르고, 가슴 위에 아기가 안겨 있음","count":"사람 2(어른 1, 아기 1)","text_or_numbers":"없음","arrows_tables_signs":"떨림 선","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-29","n":5,"j":0,"seen":"웃통 벗은 남자의 가슴에 회색 돌판이 붙어 이를 악물고 아파하고, 구조요원 둘이 있는데 하나는 등을 받치고 하나는 큰 바위를 밀고 있고 옆에 파인 구덩이","count":"사람 3, 바위 1, 구덩이 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-29","n":6,"j":0,"seen":"물가에 소용돌이 눈으로 떨며 두 손을 가슴에 모은 남자, 옆에 큰 검은 거북이 등에 검은 뱀이 감겨 올라탐, 모닥불, 모래성","count":"사람 1, 거북 1, 뱀 1, 모닥불 1, 모래성 1","text_or_numbers":"없음","arrows_tables_signs":"떨림 선, 소용돌이 표시","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-29","n":7,"j":0,"seen":"왼쪽 위 공중화장실 곁 물 든 배 남자와 구조요원","count":"사람 2","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"new-etc-29","n":7,"j":1,"seen":"왼쪽 아래 놀라 뛰는 남자와 복숭아 든 구조요원","count":"사람 2","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"new-etc-29","n":7,"j":2,"seen":"보라 돗자리 붉은 남자 칸","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"new-etc-29","n":7,"j":3,"seen":"흰 돗자리 반반 남자 칸","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"new-etc-29","n":7,"j":4,"seen":"파란 돗자리 남자와 아기 칸","count":"사람 2","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"new-etc-29","n":7,"j":5,"seen":"오른쪽 위 돌 가슴 남자와 구조요원 둘","count":"사람 3","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"new-etc-29","n":7,"j":6,"seen":"오른쪽 아래 물가: 떠는 남자, 거북+뱀, 모닥불","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"new-etc-29","n":"scene","one_scene":true,"crowded":true,"seams":"없음","lowres":false,"note":"해변 한 장면; 사람 11명 안팎에 소품이 흩어져 많음. 가운데 돗자리 3개가 중심이라 읽히긴 함. 7번 상자 7개가 그림 거의 전체를 덮음"}
+{"lesson":"new-etc-30","n":1,"j":0,"seen":"왼쪽 파란 회색 옷 남자가 갈색 두루마리 모양 막대 다발을 안고 서서, 가운데 베옷 남자와 손을 맞잡음; 뒤에 열린 대문","count":"사람 2, 두루마리 막대 약 5","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-30","n":2,"j":0,"seen":"가운데 흰 옷 남자(등에 나무 땔감 지고)와 오른쪽 뚱뚱한 주황 옷 남자(장작 다발 안음)가 손을 맞잡음, 뒤에 해, 위에 빈 현판","count":"사람 2, 해 1, 장작 약 12","text_or_numbers":"없음(현판 비어 있음)","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-30","n":3,"j":0,"seen":"오른쪽 맨 위 칸: 왼쪽 대문 앞 남자와 오른쪽 어두운 방 안 남자가 서로 손을 내밀고, 가운데 붉게 빛나는 공에 양쪽 화살표; 방 안 사람은 푸른 이불 위에 앉음","count":"사람 3, 공 1, 화살표 1(양방향)","text_or_numbers":"없음","arrows_tables_signs":"양방향 빨간 화살표+빨간 공","size":"보통","confidence":"높음"}
+{"lesson":"new-etc-30","n":3,"j":1,"seen":"두 번째 칸: 해 아래 마당의 주황 옷 뚱뚱한 남자와 부엌 항아리 곁 남자가 서로 손을 내밀고 가운데 빨간 공 양방향 화살표, 부엌 안 서 있는 사람 1","count":"사람 3, 항아리 약 4","text_or_numbers":"없음","arrows_tables_signs":"양방향 빨간 화살표+빨간 공","size":"보통","confidence":"높음"}
+{"lesson":"new-etc-30","n":3,"j":2,"seen":"세 번째 칸: 열린 문 앞에서 땔감 진 남자와 어두운 창고(궤짝 쌓임) 쪽 남자가 손을 내밀고 가운데 빨간 공과 양방향 화살표, 창고 안에 서 있는 사람 1","count":"사람 3, 궤짝 3","text_or_numbers":"없음","arrows_tables_signs":"양방향 빨간 화살표+빨간 공","size":"보통","confidence":"높음"}
+{"lesson":"new-etc-30","n":4,"j":0,"seen":"맨 아래 폭풍 칸: 먹구름에서 번개가 내리꽂혀 마당의 두 사람 머리에 번쩍(노란 별 터짐), 한 명은 주저앉고 한 명은 이불 위에 쓰러짐; 검은 옷 사람이 약 상자를 들고 달려옴","count":"사람 3, 번개 1, 별 터짐 2","text_or_numbers":"없음","arrows_tables_signs":"번개","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-30","n":5,"j":0,"seen":"왼쪽 큰 장면 전체: 세 남자(파란/베/주황)가 손을 맞잡은 줄, 앞 열린 대문, 해, 바람 선","count":"사람 3","text_or_numbers":"없음","arrows_tables_signs":"바람 선","size":"큼","confidence":"낮음"}
+{"lesson":"new-etc-30","n":5,"j":1,"seen":"오른쪽 3개 칸 묶음(각 칸에 양방향 화살표 빨간 공과 두 사람)","count":"칸 3","text_or_numbers":"없음","arrows_tables_signs":"양방향 빨간 화살표 3","size":"큼","confidence":"낮음"}
+{"lesson":"new-etc-30","n":5,"j":2,"seen":"오른쪽 맨 아래 번개 칸 전체","count":"사람 3","text_or_numbers":"없음","arrows_tables_signs":"번개","size":"큼","confidence":"낮음"}
+{"lesson":"new-etc-30","n":"scene","one_scene":false,"crowded":false,"seams":"굵은 세로 기둥으로 큰 장면(왼쪽 2/3)과 쌓인 작은 칸 4개(오른쪽)로 나뉜 구성; 의도된 칸막이","lowres":false,"note":"왼쪽은 선명한 한 장면, 오른쪽 칸은 작고 인물이 작게 그려져 세부가 작음"}
+{"lesson":"zds-16","n":1,"j":0,"seen":"군복 입은 남자가 외투를 어깨에 걸치고 눈을 찡그린 채 한 손을 목에 대고 혀를 길게 내밀며, 다른 손에 꽃다발을 쥠; 뒤에 열린 철문","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"zds-16","n":2,"j":0,"seen":"내민 혀가 붉고 끝이 분홍으로 두드러지게 크게 나옴","count":"혀 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"높음"}
+{"lesson":"zds-16","n":3,"j":0,"seen":"손에 쥔 꽃 다발: 흰색 꽃(여러 송이) 한 가지와 노란 꽃 한 가지가 섞여 있음","count":"꽃 두 종류, 송이 약 8","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"zds-16","n":4,"j":0,"seen":"머리 깎은 군복 남자가 땀을 비 오듯 흘리며 군용 물통을 입에 대고 들이킴","count":"사람 1, 땀방울 약 5","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"zds-16","n":5,"j":0,"seen":"입으로 들어가는 물통 입구에 주황-빨강 둥근 것(복숭아 같은 과일 한 조각)이 보임","count":"과일 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"낮음"}
+{"lesson":"zds-16","n":6,"j":0,"seen":"흰 털에 검은 줄무늬 호랑이가 사람 옆에 앉아 정면을 봄","count":"호랑이 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"zds-16","n":6,"j":1,"seen":"바닥에 놓인 흰 돌덩이(각진 바위 같은 덩어리) 2개, 호랑이 발과 사람 장화 옆","count":"돌덩이 2","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"zds-16","n":7,"j":0,"seen":"2층 침대 위 칸에 군복 입은 사람이 누워 입을 벌려 혀를 내밀고, 얼굴 손 발에 붉은 점이 돋아 있음","count":"사람 1, 점 다수","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"zds-16","n":7,"j":1,"seen":"밤하늘의 노란 초승달 하나","count":"달 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"높음"}
+{"lesson":"zds-16","n":8,"j":0,"seen":"침대에 누운 사람 얼굴이 눈을 감고 입을 벌려 큼직한 붉은 혀를 내밀고 볼과 이마에 붉은 점이 흩어져 있음","count":"혀 1, 점 약 10","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"높음"}
+{"lesson":"zds-16","n":9,"j":0,"seen":"침대 옆 작은 탁자 위 물이 담긴 그릇에 검은 깃털(또는 뿔 조각)이 비스듬히 꽂혀 있음","count":"그릇 1, 검은 물건 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"낮음"}
+{"lesson":"zds-16","n":10,"j":0,"seen":"오른쪽 침대에 온몸에 보라-자주색 반점이 퍼진 남자가 한 팔을 들고 누워 코에서 피를 흘림, 머리 뒤 베개","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"떨림 선","size":"큼","confidence":"높음"}
+{"lesson":"zds-16","n":10,"j":1,"seen":"침대 아래 바닥 대야에 핏방울이 3방울 떨어지고 핏물이 고이고 옆 바닥에도 튐","count":"대야 1, 핏방울 3","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"zds-16","n":11,"j":0,"seen":"자주 반점 얼굴에서 콧구멍으로 붉은 피가 한 줄 흘러 가슴으로 떨어지고 입은 벌어져 어두운 혀가 보임","count":"피 줄기 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"높음"}
+{"lesson":"zds-16","n":12,"j":0,"seen":"침대 옆 서랍장 위에 회색 코뿔소 장난감 조각상 하나(뿔 1개)","count":"코뿔소 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"높음"}
+{"lesson":"zds-16","n":12,"j":1,"seen":"반대편 서랍장 위에 검은 문어 다리처럼 뻗은 마른 뿌리 같은 덩어리(여러 갈래)","count":"덩어리 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"낮음"}
+{"lesson":"zds-16","n":13,"j":0,"seen":"맨 왼쪽 칸(낮, 흙길, 철망 울타리): 꽃 든 군인","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"zds-16","n":13,"j":1,"seen":"두 번째 칸(낮): 물 마시는 군인과 호랑이, 흰 돌","count":"사람 1, 호랑이 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"zds-16","n":13,"j":2,"seen":"세 번째 칸(밤): 막사 안 2층 침대와 달","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"zds-16","n":13,"j":3,"seen":"네 번째 칸(더 어두운 밤): 반점 환자와 피 대야","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"zds-16","n":"scene","one_scene":false,"crowded":false,"seams":"세로 검은 선과 색이 바뀌는 경계로 네 칸이 나란히 이어 붙은 모양(낮 두 칸, 밤 두 칸)","lowres":false,"note":"칸마다 한 사람과 소품 몇 개라 덜 빽빽함; 철망과 길이 칸을 넘어 이어져 이음이 어색함"}
+{"lesson":"new-etc-31","n":1,"j":0,"seen":"왼쪽 둥근 동전(구리색) 한 개, 안에 펼친 손바닥(손가락 다섯) 모양이 새겨짐","count":"동전 1, 손가락 5","text_or_numbers":"없음","arrows_tables_signs":"손 그림 새김","size":"작음","confidence":"높음"}
+{"lesson":"new-etc-31","n":1,"j":1,"seen":"흰 수염 노인이 흰 옷에 푸른 고무장갑을 끼고 기침하듯 주먹을 입에 대며, 가슴에 은색 둥근 판(동그란 거울 같은 것)을 대고 구부정하게 서 있음","count":"사람 1, 은색 원 1","text_or_numbers":"없음","arrows_tables_signs":"입김 선","size":"보통","confidence":"높음"}
+{"lesson":"new-etc-31","n":1,"j":2,"seen":"노인 쪽에서 오른쪽으로 길게 뻗는 굵은 빨간 화살표, 끝이 보라 옷 입은 심장 쪽을 향하고 화살표 꼬리는 갈라진 제비꼬리 모양","count":"화살표 1","text_or_numbers":"없음","arrows_tables_signs":"큰 빨간 화살표","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-31","n":1,"j":3,"seen":"심장 모양(붉은 근육 덩이)이 보라 망토를 입고 가슴에 검은 동그라미를 단 채 눈을 찡그리고 불꽃에 휩싸여 주저앉음, 머리 위에 빙빙 도는 소용돌이 표시","count":"심장 1, 검은 원 1","text_or_numbers":"없음","arrows_tables_signs":"어지럼 소용돌이, 불꽃","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-31","n":2,"j":0,"seen":"왼쪽 둥근 동전에 발 하나(발가락 5)가 새겨짐","count":"동전 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"높음"}
+{"lesson":"new-etc-31","n":2,"j":1,"seen":"주황 사막 칸: 요리사 모자에 해 무늬 노란 앞치마 입은 사람이 땀 흘리며 우는 얼굴로 서고, 옆에 금간 흙 항아리, 흰 호랑이가 누움, 위로 아지랑이 선","count":"사람 1, 호랑이 1, 항아리 1","text_or_numbers":"없음","arrows_tables_signs":"열기 선","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-31","n":2,"j":2,"seen":"회색 안개 칸: 밀짚모자 쓴 남자가 젖은 망토로 물바닥에 앉아 있고 가슴에 하얀 동그라미, 오른쪽 창으로 빛과 김","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-31","n":3,"j":0,"seen":"흰 털에 푸른 줄무늬 호랑이가 사막 갈라진 땅에 엎드림, 위에 구불구불한 열기 선 4개","count":"호랑이 1, 열기 선 4","text_or_numbers":"없음","arrows_tables_signs":"열기 선","size":"보통","confidence":"높음"}
+{"lesson":"new-etc-31","n":3,"j":1,"seen":"안개 낀 방 안 물에 앉은 밀짚모자 남자, 가슴에 흰 원, 이마와 턱에서 물방울이 떨어짐","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-31","n":4,"j":0,"seen":"밀짚모자에 젖은 망토를 걸치고 슬픈 얼굴로 물웅덩이에 발을 담그고 앉아 얼굴에서 물이 흐름, 가슴에 흰 동그라미 단추","count":"사람 1, 흰 원 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"new-etc-31","n":4,"j":1,"seen":"오른쪽 창틀과 햇빛 줄기, 하얀 김 구름이 창 쪽으로 자욱함","count":"창 1","text_or_numbers":"없음","arrows_tables_signs":"햇빛줄기","size":"보통","confidence":"높음"}
+{"lesson":"new-etc-31","n":5,"j":0,"seen":"왼쪽 아래 둥근 동전에 발 하나가 새겨짐","count":"동전 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"높음"}
+{"lesson":"new-etc-31","n":5,"j":1,"seen":"검은 옷 노인이 가슴에 하얀 초승달 무늬를 달고 지친 얼굴로 돌 우물에 기대 앉음, 옆에 쓰러진 양동이, 바닥이 갈라짐","count":"사람 1, 우물 1, 양동이 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-31","n":5,"j":2,"seen":"초록 갑옷 무사가 가슴에 검은 원을 달고 몸을 떨며 서 있고 둘레에 초록 회오리 바람이 휘감음","count":"사람 1, 회오리 1","text_or_numbers":"없음","arrows_tables_signs":"떨림 선","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-31","n":6,"j":0,"seen":"가운데 크게 녹아 흘러내리는 하얀 양초와 위에 불꽃 하나, 심지","count":"초 1, 불꽃 1","text_or_numbers":"없음","arrows_tables_signs":"촛농 흘러내림","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-31","n":6,"j":1,"seen":"노인 칸에서 심장 칸까지 가는 길고 굵은 빨간 화살표가 양초 위를 가로지름","count":"화살표 1","text_or_numbers":"없음","arrows_tables_signs":"빨간 화살표","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-31","n":7,"j":0,"seen":"맨 위 칸 전체: 노인-화살표-심장","count":"사람 1, 심장 1","text_or_numbers":"없음","arrows_tables_signs":"화살표","size":"큼","confidence":"낮음"}
+{"lesson":"new-etc-31","n":7,"j":1,"seen":"가운데 줄 전체: 사막 칸과 안개 칸","count":"칸 2","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"new-etc-31","n":7,"j":2,"seen":"맨 아래 줄 전체: 우물 노인과 초록 무사","count":"칸 2","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"new-etc-31","n":"scene","one_scene":true,"crowded":false,"seams":"없음","lowres":false,"note":"굵은 양초를 가운데로 3층 단면 케이크처럼 6칸으로 나눔; 칸마다 한 인물; 정돈됨. 한 장면이라기보다 칸 구성"}
+{"lesson":"hp-14","n":1,"j":0,"seen":"왼쪽 아래 성문 앞: 붉은 갑옷 병사 무리가 꽉 차고 큰 통나무를 모아 들고 성문을 향해 밀어붙이며 성 위 파란 병사들이 소리침, 성문 옆 구멍에서 물이 쏟아짐","count":"붉은 병사 약 30","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"hp-14","n":1,"j":1,"seen":"붉은 병사 떼가 어깨로 굵은 통나무를 들어 나무 성문에 부딪치려 함, 붉은 깃발 하나, 칼 든 병사도 섞임","count":"통나무 1, 병사 약 20, 깃발 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"hp-14","n":2,"j":0,"seen":"성벽 구멍 문이 열려 쏟아지는 물줄기를 타고 붉은 병사 여러 명이 엉켜 휩쓸려 떠내려가며 물보라","count":"붉은 병사 약 10","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"hp-14","n":3,"j":0,"seen":"오른쪽 허물어진 파란 성 위 탑에 늙은 지친 병사 하나가 창을 쥐고 앉아 졸 듯한 얼굴, 한 입김 같은 하얀 점","count":"병사 1, 창 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"hp-14","n":3,"j":1,"seen":"늙고 눈 처진 병사가 창을 짚고 탑 위에 걸터앉음","count":"병사 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"hp-14","n":3,"j":2,"seen":"붉은 병사 2명이 길을 걸어 무너진 성문 쪽으로 걸어들어감, 아무도 막지 않음","count":"붉은 병사 2","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"높음"}
+{"lesson":"hp-14","n":4,"j":0,"seen":"자루가 가득 쌓인 짐수레 한 대와 파란 병사들이 수레를 끌고 옴","count":"수레 1, 자루 약 6","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"hp-14","n":4,"j":1,"seen":"파란 병사 약 20명이 창을 들고 구불구불한 길을 따라 줄지어 걸어옴, 맨 뒤에 수레","count":"병사 약 20, 수레 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"hp-14","n":5,"j":0,"seen":"왼쪽 절반: 따뜻한 노란 하늘 아래 튼튼한 갈색 성과 붉은 군대","count":"성 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"hp-14","n":5,"j":1,"seen":"오른쪽 절반: 짙은 파란 하늘 아래 금 간 파란 성과 파란 병사 줄","count":"성 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"hp-14","n":6,"j":0,"seen":"왼쪽 성 위 성가퀴에 파란 두건 병사 7명이 얼굴을 붉히고 소리치며 창과 주먹을 휘두르고 머리 옆에 김 표시","count":"병사 7","text_or_numbers":"없음","arrows_tables_signs":"김 표시","size":"큼","confidence":"높음"}
+{"lesson":"hp-14","n":6,"j":1,"seen":"성벽 물구멍(위로 열린 나무 뚜껑)에서 쏟아지는 물과 떠내려가는 붉은 병사","count":"물줄기 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"hp-14","n":6,"j":2,"seen":"오른쪽 금 가고 무너진 파란 성 전체와 문, 성문 앞 길의 붉은 병사 2","count":"성 1","text_or_numbers":"없음","arrows_tables_signs":"균열","size":"큼","confidence":"높음"}
+{"lesson":"hp-14","n":6,"j":3,"seen":"자루 쌓인 수레와 병사 3명 얼굴","count":"수레 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"작음","confidence":"높음"}
+{"lesson":"hp-14","n":"scene","one_scene":true,"crowded":true,"seams":"하늘 색이 왼쪽 노랑에서 오른쪽 파랑으로 번지고, 두 성 사이 풀밭 경계가 어색하게 맞닿음(대비 의도로 보임)","lowres":false,"note":"왼쪽 아래가 붉은 병사로 매우 빽빽하고 성 위에도 7명; 병사 수 정확히 세기 어려움"}
+{"lesson":"hp-15","n":1,"j":0,"seen":"첫째 칸: 시소 왼쪽 빨간 끝에 앉은 사내아이가 온몸이 불에 싸이고 얼굴이 붉어 땀을 흘리며, 불 그림이 있는 검은 큰 추를 끌어안음; 오른쪽 파란 끝에 노란 옷 아이가 가볍게 앉아 높이 올라가 있음(왼쪽이 내려앉음)","count":"아이 2, 추 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"hp-15","n":1,"j":1,"seen":"불에 싸인 붉은 얼굴 아이가 땀을 흘리며 불 무늬 검은 추를 품에 안고 앉음, 신발은 빨간색","count":"아이 1, 추 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"hp-15","n":2,"j":0,"seen":"둘째 칸: 시소 오른쪽 파란 끝이 큰 얼음 덩어리 안에 갇혀 있고 파란 옷 아이가 몸을 떨며 배를 움켜쥠; 반대쪽 빨간 끝엔 노란 옷 아이가 높이 올라가 앉음","count":"아이 2, 얼음 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"hp-15","n":2,"j":1,"seen":"얼음 덩어리 속 아이가 눈을 찡그리고 떨며 배를 감싸 안음, 얼음 안 의자에 초승달 무늬","count":"아이 1","text_or_numbers":"없음","arrows_tables_signs":"떨림 선","size":"큼","confidence":"높음"}
+{"lesson":"hp-15","n":3,"j":0,"seen":"빨간 의자 등받이에 노란 해 무늬(빛살 달린 원)","count":"해 무늬 1","text_or_numbers":"없음","arrows_tables_signs":"해 문양","size":"작음","confidence":"높음"}
+{"lesson":"hp-15","n":3,"j":1,"seen":"파란 의자 등받이에 노란 초승달 무늬","count":"달 무늬 1","text_or_numbers":"없음","arrows_tables_signs":"달 문양","size":"작음","confidence":"높음"}
+{"lesson":"hp-15","n":4,"j":0,"seen":"셋째 칸: 담요를 뒤집어쓴 창백한 파란 얼굴 사람이 떨며 시소 왼쪽 끝(빨간 쪽)에 웅크려 앉고, 시소가 한쪽이 높이 들림","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"떨림 선","size":"보통","confidence":"높음"}
+{"lesson":"hp-15","n":4,"j":1,"seen":"추워하는 사람 얼굴이 푸르스름하고 눈썹이 처지고 담요에 쌓임","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"떨림 선","size":"보통","confidence":"높음"}
+{"lesson":"hp-15","n":5,"j":0,"seen":"여자가 열린 금빛 상자를 들고 있고 상자 속에 검고 둥근 알(구슬) 여덟 개가 두 줄로 놓임","count":"상자 1, 알 8","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"hp-15","n":5,"j":1,"seen":"세발 달린 구리 화로에 불꽃이 활활 타고 주황 땔감이 보임, 시소 아래에 놓임","count":"화로 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"hp-15","n":6,"j":0,"seen":"넷째 칸: 웃통 벗은 마른 아이가 땀 흘리고 얼굴이 붉으며 양 손바닥에서 불꽃이 일고, 시소 오른쪽 파란 끝에 높이 앉음","count":"아이 1, 불꽃 2","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"hp-15","n":6,"j":1,"seen":"마른 아이 얼굴이 붉고 땀이 흐르며 두 손바닥에 불이 붙음","count":"불꽃 2","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"보통","confidence":"높음"}
+{"lesson":"hp-15","n":7,"j":0,"seen":"남자가 한 손으로 물병을 기울여 파란 대야에 물을 붓고(물이 튐), 다른 손에 쟁반을 들고 있으며 쟁반에 검은 알 5개가 놓임","count":"대야 1, 병 1, 알 5","text_or_numbers":"없음","arrows_tables_signs":"물방울","size":"보통","confidence":"높음"}
+{"lesson":"hp-15","n":8,"j":0,"seen":"첫째 칸 전체: 불 아이와 노란 옷 아이, 시소","count":"아이 2","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"hp-15","n":8,"j":1,"seen":"둘째 칸 전체: 얼음 속 아이와 노란 옷 아이","count":"아이 2","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"hp-15","n":8,"j":2,"seen":"셋째 칸 전체: 담요 사람, 화로, 상자 든 여자, 노란 옷 아이","count":"사람 3","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"hp-15","n":8,"j":3,"seen":"넷째 칸 전체: 불꽃 손 아이, 물 붓는 남자, 노란 옷 아이","count":"사람 3","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"hp-15","n":"scene","one_scene":false,"crowded":false,"seams":"세로 가로 옅은 선으로 같은 놀이터를 4칸 만화로 나눔(의도된 칸막이)","lowres":false,"note":"칸마다 시소 한 대, 같은 구도 반복이라 읽기 쉬움; 정돈됨"}
+{"lesson":"new-etc-10","n":1,"j":0,"seen":"밀짚모자 쓴 농부가 이삭 그림 자루를 기울여 낱알(작은 알갱이)을 황금빛 깔때기에 쏟아 붓고, 깔때기 안은 금화 같은 동그란 알로 가득함","count":"농부 1, 자루 1, 깔때기 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-10","n":1,"j":1,"seen":"땅속에 두 갈래로 갈라진 금빛 관이 알갱이를 나르며, 왼쪽 빨간 통(해 무늬)과 오른쪽 파란 통(초승달 무늬)에 각각 닿고, 두 통 사이에 둥근 금속 문(타원 안에 타원)","count":"통 2, 관 2갈래","text_or_numbers":"없음","arrows_tables_signs":"해/달 문양","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-10","n":2,"j":0,"seen":"위 칸: 투명한 통 2개; 왼쪽엔 노란 초승달 무늬와 푸른 물이 바닥에서 새고 금이 감, 오른쪽엔 빨간 해 무늬와 붉은 액체가 금간 곳으로 흘러나옴; 사이 관에 빨간 화살표 ◀◀◀ 3개가 왼쪽을 향함","count":"통 2, 화살표 3(왼쪽)","text_or_numbers":"없음","arrows_tables_signs":"빨간 화살표 3(왼쪽), 달/해 문양","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-10","n":3,"j":0,"seen":"아래 칸: 왼쪽 통엔 파란 동그라미(둥글게 이지러진 달) 무늬와 소용돌이 치는 푸른 물, 오른쪽 통엔 주황 해 무늬와 붉은 액체가 금간 바닥으로 새어 나옴; 사이 관에 파란 화살표 ▶▶▶ 3개가 오른쪽을 향함","count":"통 2, 화살표 3(오른쪽)","text_or_numbers":"없음","arrows_tables_signs":"파란 화살표 3(오른쪽)","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-10","n":4,"j":0,"seen":"빨간 작업복에 모자 쓴 남자가 손수레(상자 3개)를 끌며 걷고 손에 풍선 3개(분홍 초록 빨강)를 들고, 뒤의 전기히터가 붉게 달아오르고 열 선이 나옴","count":"사람 1, 상자 3, 풍선 3, 히터 1","text_or_numbers":"없음","arrows_tables_signs":"열 선","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-10","n":5,"j":0,"seen":"파란 정장 입은 여자가 눈을 감고 화분에 물뿌리개로 물을 주고, 다른 손으로 벽 스위치를 아래로 눌렀고, 위에 파란 아래 화살표, 발치에 흰 고양이가 잠자고 물그릇 있음","count":"사람 1, 화분 1, 고양이 1, 그릇 1, 화살표 1","text_or_numbers":"없음","arrows_tables_signs":"파란 아래쪽 화살표, 벽 스위치","size":"큼","confidence":"높음"}
+{"lesson":"new-etc-10","n":6,"j":0,"seen":"위 오른쪽 칸: 풍선 든 작업복 남자, 히터","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"열 선","size":"큼","confidence":"낮음"}
+{"lesson":"new-etc-10","n":6,"j":1,"seen":"아래 오른쪽 칸: 물주는 정장 여자, 화분, 고양이, 스위치와 화살표","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"아래 화살표","size":"큼","confidence":"낮음"}
+{"lesson":"new-etc-10","n":7,"j":0,"seen":"왼쪽 땅 위 농부와 땅속 두 통 전체","count":"통 2","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"new-etc-10","n":7,"j":1,"seen":"가운데 위 통 두 개 칸 전체","count":"통 2","text_or_numbers":"없음","arrows_tables_signs":"빨간 화살표","size":"큼","confidence":"낮음"}
+{"lesson":"new-etc-10","n":7,"j":2,"seen":"가운데 아래 통 두 개 칸 전체","count":"통 2","text_or_numbers":"없음","arrows_tables_signs":"파란 화살표","size":"큼","confidence":"낮음"}
+{"lesson":"new-etc-10","n":7,"j":3,"seen":"오른쪽 위 칸 전체(풍선 남자, 히터)","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"new-etc-10","n":7,"j":4,"seen":"오른쪽 아래 칸 전체(물주는 여자)","count":"사람 1","text_or_numbers":"없음","arrows_tables_signs":"없음","size":"큼","confidence":"낮음"}
+{"lesson":"new-etc-10","n":"scene","one_scene":false,"crowded":false,"seams":"벽돌 기둥과 가로 칸막이로 땅속·위아래 통·오른쪽 두 칸 등 5구역으로 나뉜 구성(의도된 칸막이)","lowres":false,"note":"구역마다 한 가지씩이라 단순함; 통 4개가 거의 같아 구별은 문양과 액체 상태로만 가능"}

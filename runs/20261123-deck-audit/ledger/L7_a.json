@@ -1,0 +1,10043 @@
+{
+ "bundle": "L7",
+ "pass": "a",
+ "chapters": [
+  "ch10",
+  "ch11",
+  "ch12",
+  "ch13"
+ ],
+ "items": [
+  {
+   "line": 3400,
+   "end": 3400,
+   "kind": "정의",
+   "term": "本草學 정의(起源·採集·炮製·性味·效能)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 정의 한 줄. new-etc-13 frame 낭독 한 줄로 충분(문제집 흔적 없음)"
+  },
+  {
+   "line": 3401,
+   "end": 3401,
+   "kind": "정의",
+   "term": "韓藥",
+   "where": [
+    "new-etc-13#0",
+    "new-etc-13#1",
+    "new-etc-13#3",
+    "new-etc-13#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3402,
+   "end": 3402,
+   "kind": "정의",
+   "term": "民間藥",
+   "where": [
+    "new-etc-13#0",
+    "new-etc-13#2",
+    "new-etc-13#3",
+    "new-etc-13#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3403,
+   "end": 3403,
+   "kind": "정의",
+   "term": "生藥",
+   "where": [
+    "new-etc-13#0",
+    "new-etc-13#3",
+    "new-etc-13#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3407,
+   "end": 3407,
+   "kind": "정의",
+   "term": "神農本草經 三品 120·120·125종",
+   "where": [
+    "new-etc-13#0",
+    "new-etc-13#4",
+    "new-etc-13#5",
+    "new-etc-13#6",
+    "new-etc-13#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "上·中·下品 3품은 실렸고 120·120·125종 수는 없음(365종은 있음)"
+  },
+  {
+   "line": 3407,
+   "end": 3407,
+   "kind": "정의",
+   "term": "神農本草經 최초 藥物學 專門書·漢代 이전 用藥경험",
+   "where": [
+    "hist-01a#0",
+    "hist-01a#8",
+    "hist-01a#9",
+    "hist-01a#10",
+    "hist-01a#11",
+    "hist-01b#0"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3409,
+   "end": 3409,
+   "kind": "번호",
+   "term": "本經 ④ 君臣佐使 구별",
+   "where": [
+    "hp-06#0",
+    "new-etc-13#0"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3410,
+   "end": 3410,
+   "kind": "번호",
+   "term": "本經 ⑤ 陰陽配合·子母·根莖花實·草石骨肉·七情",
+   "where": [
+    "hp-03#0"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "七情은 hp-03 · qiqing에 있음. 陰陽配합 · 子母 · 根莖花實 · 草石骨肉은 없음"
+  },
+  {
+   "line": 3411,
+   "end": 3411,
+   "kind": "번호",
+   "term": "本經 ⑥ 五味四氣·有毒無毒·陰乾陽乾·採取時期·産地·眞僞·新久",
+   "where": [
+    "hp-01#0",
+    "new-etc-18#1"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "五味 · 四氣(hp-01) · 有毒無毒(new-etc-18)은 있음. 陰乾 · 陽乾 · 採取時期 · 産地 · 眞僞 · 新久는 없음"
+  },
+  {
+   "line": 3412,
+   "end": 3412,
+   "kind": "번호",
+   "term": "本經 ⑦ 丸散水煮酒漬膏煎 법칙",
+   "where": [
+    "hp-07#4",
+    "hp-07#5",
+    "hp-07#7"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "1/2만 실림. 빠진 것: 酒漬"
+  },
+  {
+   "line": 3413,
+   "end": 3413,
+   "kind": "번호",
+   "term": "本經 ⑧ 疾病治療 먼저 원인관찰-服藥",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 本經 일반 원칙 한 줄, 문제집 흔적 없음"
+  },
+  {
+   "line": 3414,
+   "end": 3414,
+   "kind": "번호",
+   "term": "本經 ⑨ 毒藥 黍粟 소량",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 本經 일반 원칙 한 줄(黍粟), 문제집 흔적 없음"
+  },
+  {
+   "line": 3415,
+   "end": 3415,
+   "kind": "번호",
+   "term": "本經 ⑩ 治寒用熱藥 治熱用寒藥",
+   "where": [
+    "hp-01#2"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3416,
+   "end": 3416,
+   "kind": "번호",
+   "term": "本經 ⑪ 병 위치별 服藥 시간(胸膈以上 食後·心腹以上 食前·四肢血脈 空腹早·骨髓 滿腹)",
+   "where": [
+    "new-etc-26#0",
+    "new-etc-26#1",
+    "new-etc-26#2",
+    "new-etc-26#3",
+    "new-etc-26#4",
+    "new-etc-26#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3417,
+   "end": 3417,
+   "kind": "정의",
+   "term": "本草經集註 陶弘景 730종",
+   "where": [
+    "hist-02a#2",
+    "hist-02a#3",
+    "hist-02a#11"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3417,
+   "end": 3417,
+   "kind": "정의",
+   "term": "雷公炮炙論(雷斅)",
+   "where": [
+    "suchi-qingchao#0"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3418,
+   "end": 3418,
+   "kind": "정의",
+   "term": "新修本草 蘇敬 659 최초 勅選 약전",
+   "where": [
+    "hist-03a#0",
+    "hist-03a#7",
+    "hist-03a#8",
+    "hist-03a#9"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3418,
+   "end": 3418,
+   "kind": "정의",
+   "term": "食療本草 孟詵",
+   "where": [
+    "hist-03b#1",
+    "hist-03b#4",
+    "hist-03b#6",
+    "hist-03b#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3418,
+   "end": 3418,
+   "kind": "정의",
+   "term": "本草拾遺 陳藏器 十劑說",
+   "where": [
+    "hist-02a#9",
+    "hist-02a#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3419,
+   "end": 3419,
+   "kind": "정의",
+   "term": "宋代 本草(開寶·嘉祐·圖經·證類·政和·衍義)",
+   "where": [
+    "hist-05a#1",
+    "hist-05a#2",
+    "hist-05a#3",
+    "hist-05a#4",
+    "hist-05a#5",
+    "hist-05a#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3419,
+   "end": 3419,
+   "kind": "정의",
+   "term": "證類本草 唐愼微 → 大觀本草",
+   "where": [
+    "hist-05a#4",
+    "hist-05a#6",
+    "hist-05a#9"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3420,
+   "end": 3420,
+   "kind": "정의",
+   "term": "金元 本草(珍珠囊 張元素·湯液本草 王好古·衍義拾遺 朱丹溪)",
+   "where": [
+    "hist-05b#0",
+    "hist-05b#1",
+    "hist-05b#2",
+    "hist-05b#3",
+    "hist-05b#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "4/5만 실림. 빠진 것: 本草衍義拾遺"
+  },
+  {
+   "line": 3422,
+   "end": 3422,
+   "kind": "정의",
+   "term": "明代 本草(品彙精要·救荒本草·蒙筌·綱目)",
+   "where": [
+    "hist-05b#0",
+    "hist-05b#4",
+    "hist-05b#5",
+    "hist-05b#6",
+    "hist-05b#8",
+    "new-etc-04#4"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "3/5만 실림. 빠진 것: 本草品彙精要 · 本草蒙筌"
+  },
+  {
+   "line": 3423,
+   "end": 3423,
+   "kind": "정의",
+   "term": "淸代 本草(備要·從新·綱目拾遺·求眞·名實圖考)",
+   "where": [
+    "hist-05b#5",
+    "hist-05b#6",
+    "hist-05b#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "2/5만 실림. 빠진 것: 本草從新 · 本草求眞 · 植物名實圖考"
+  },
+  {
+   "line": 3424,
+   "end": 3424,
+   "kind": "암기",
+   "term": "本草書 저작순서",
+   "where": [
+    "hist-03a#0",
+    "hist-03a#7",
+    "hist-03a#8",
+    "hist-03a#9",
+    "hist-05a#0",
+    "hist-05a#3"
+   ],
+   "verdict": "약함",
+   "proposal": "표 · 트레이너(순서 맞추기)",
+   "note": "저작순서(本經→別錄→新修→圖經→證類→湯液→綱目) 순서 목록으로는 정거장 없음. 책마다 hist-03a · 05a · 05b에 흩어짐"
+  },
+  {
+   "line": 3425,
+   "end": 3425,
+   "kind": "※",
+   "term": "鄕藥集成方·醫方類聚 世宗",
+   "where": [
+    "hist-12#6",
+    "hist-12#7",
+    "hist-12#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "2/3만 실림. 빠진 것: 世宗"
+  },
+  {
+   "line": 3429,
+   "end": 3429,
+   "kind": "정의",
+   "term": "四氣 = 陰陽에 입각한 藥性 分類",
+   "where": [
+    "hp-01#0",
+    "hp-01#1",
+    "hp-01#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3430,
+   "end": 3430,
+   "kind": "표행",
+   "term": "溫藥 春 發育 — 强壯補益·開胃·通經絡·活血·止瀉·散寒·溫裏",
+   "where": [
+    "new-etc-19#5",
+    "new-etc-19#6",
+    "new-gr-40#2",
+    "new-gr-40#3",
+    "new-gr-40#4",
+    "new-gr-40#5"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "7/9만 실림. 빠진 것: 發育 · 葱白"
+  },
+  {
+   "line": 3431,
+   "end": 3431,
+   "kind": "표행",
+   "term": "熱藥 夏 暢達 — 附子·乾薑·肉桂·海狗腎",
+   "where": [
+    "hp-05#2",
+    "hp-05#3",
+    "hp-05#4",
+    "hp-05#9",
+    "hp-05#10"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "3/5만 실림. 빠진 것: 暢達 · 海狗腎"
+  },
+  {
+   "line": 3432,
+   "end": 3432,
+   "kind": "표행",
+   "term": "凉藥 秋 肅淸 — 補陰·凉血止血·淸虛熱·發散風熱",
+   "where": [
+    "new-etc-20#5",
+    "fan18#6",
+    "fan18#8",
+    "new-etc-19#1",
+    "new-etc-19#2"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "7/8만 실림. 빠진 것: 肅淸"
+  },
+  {
+   "line": 3434,
+   "end": 3434,
+   "kind": "표행",
+   "term": "寒藥 冬 殺伐 — 淸熱瀉火·燥濕·凉血·解毒·攻下·涌吐",
+   "where": [
+    "new-etc-19#2",
+    "new-etc-19#8",
+    "hp-04#4",
+    "hp-04#7",
+    "hp-05#4",
+    "hp-05#7"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "9/12만 실림. 빠진 것: 殺伐 · 常山 · 瓜蒂"
+  },
+  {
+   "line": 3435,
+   "end": 3435,
+   "kind": "※",
+   "term": "藥의 香氣 芳香性 精油 效能",
+   "where": [
+    "new-etc-18#7",
+    "new-etc-19#6",
+    "new-etc-19#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "2/6만 실림. 빠진 것: 精油 · 樟腦 · 安息香 · 沈香"
+  },
+  {
+   "line": 3436,
+   "end": 3436,
+   "kind": "정의",
+   "term": "五味 酸苦甘辛鹹 · 五能 收堅緩散軟",
+   "where": [
+    "hp-01#1",
+    "hp-01#3",
+    "hp-01#4",
+    "hp-01#5",
+    "hp-01#6",
+    "hp-01#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3437,
+   "end": 3437,
+   "kind": "정의",
+   "term": "五味 臟腑 有機的 相關 · 辛甘=陽 酸苦鹹=陰",
+   "where": [
+    "hp-01#1",
+    "hp-01#4",
+    "hp-01#7",
+    "hp-01#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3438,
+   "end": 3438,
+   "kind": "표행",
+   "term": "酸 能收能澁 — 斂汗·斂氣·止嗽·止瀉·澁精·縮尿·止帶·止血·生津 + 약(五倍子·五味子·仙鶴草·白芨·赤石脂·石榴皮·金櫻子·桑螵蛸·烏梅·木瓜)",
+   "where": [
+    "new-etc-22#7",
+    "new-etc-22#8",
+    "new-etc-22#10",
+    "hp-03#8",
+    "hp-03#9",
+    "suchi-suhwa#3"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "8/11만 실림. 빠진 것: 斂汗 · 仙鶴草 · 石榴皮"
+  },
+  {
+   "line": 3439,
+   "end": 3439,
+   "kind": "표행",
+   "term": "苦 能瀉能燥能堅 — 通泄·降泄·淸泄·苦燥·堅陰 + 약(大黃·杏仁·梔子·黃連·蒼朮·黃柏·知母)",
+   "where": [
+    "new-etc-19#0",
+    "new-etc-19#2",
+    "new-etc-19#6",
+    "hp-04#3",
+    "hp-04#5",
+    "hp-04#7"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "7/11만 실림. 빠진 것: 通泄 · 淸泄 · 苦燥 · 杏仁"
+  },
+  {
+   "line": 3439,
+   "end": 3439,
+   "kind": "암기",
+   "term": "腎欲堅 急食苦以堅之",
+   "where": [
+    "new-etc-16#5"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3440,
+   "end": 3440,
+   "kind": "표행",
+   "term": "甘 能補能和能緩 — 補氣·養陰生津·和中緩急·調和諸藥·潤肺化痰·潤腸通便 + 약",
+   "where": [
+    "fan18#0",
+    "fan18#1",
+    "fan18#2",
+    "fan18#3",
+    "fan18#4",
+    "fan18#5"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "8/15만 실림. 빠진 것: 養陰生津 · 緩急止痛 · 調和諸藥 · 潤肺化痰 · 潤腸通便 · 蜂蜜 · 火麻仁"
+  },
+  {
+   "line": 3442,
+   "end": 3442,
+   "kind": "표행",
+   "term": "辛 能散能潤能橫行 — 發散表邪·行氣活血·腎陽扶助 蒸化津液·行氣助運 + 약",
+   "where": [
+    "new-etc-20#0",
+    "new-etc-20#1",
+    "new-etc-20#8",
+    "new-etc-20#9",
+    "hp-05#2",
+    "hp-05#3"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "7/11만 실림. 빠진 것: 發散表邪 · 蒸化津液 · 行氣助運 · 荊芥"
+  },
+  {
+   "line": 3443,
+   "end": 3443,
+   "kind": "표행",
+   "term": "鹹 能下能軟堅 — 瀉下·軟堅散結·補腎强壯·凉血 + 약(芒硝·牡蠣·紫河車·鹿茸·蛤蚧·犀角·玄參)",
+   "where": [
+    "suchi-dan#1",
+    "suchi-dan#3",
+    "suchi-dan#9",
+    "hp-03#8",
+    "hp-03#9",
+    "hp-05#4"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "7/10만 실림. 빠진 것: 紫河車 · 蛤蚧 · 瘰癧"
+  },
+  {
+   "line": 3444,
+   "end": 3444,
+   "kind": "※",
+   "term": "淡味 能利竅能滲泄 / 澁味 收斂固澁",
+   "where": [
+    "new-etc-17#0",
+    "new-etc-17#4",
+    "new-etc-17#5",
+    "zds-09#2",
+    "zds-09#5"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "9/11만 실림. 빠진 것: 收斂固澁 · 燈心草"
+  },
+  {
+   "line": 3446,
+   "end": 3446,
+   "kind": "■",
+   "term": "五味之所傷 多食鹹→脈凝泣·苦→皮槁毛拔·甘→骨痛髮落·辛→筋急爪枯·酸→肉胝脣揭",
+   "where": [
+    "new-etc-07#3",
+    "new-etc-07#4",
+    "new-etc-07#5",
+    "new-etc-07#6",
+    "new-etc-07#7",
+    "new-etc-07#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3448,
+   "end": 3448,
+   "kind": "■",
+   "term": "五味所走 酸走筋·苦走骨·甘走肉·辛走氣·鹹走血 (筋病無多食酸)",
+   "where": [
+    "yyox-06#2"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3448,
+   "end": 3448,
+   "kind": "■",
+   "term": "九針論 五走(苦走血·鹹走骨)",
+   "where": [
+    "yyox-06#3",
+    "yyox-06#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3448,
+   "end": 3448,
+   "kind": "■",
+   "term": "宣明五氣 五味所入(酸入肝…) · 五禁",
+   "where": [
+    "yyox-06#1"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "5/6만 실림. 빠진 것: 五禁"
+  },
+  {
+   "line": 3451,
+   "end": 3451,
+   "kind": "정의",
+   "term": "升降浮沈 정의(升·降·浮·沈)",
+   "where": [
+    "hp-02#0",
+    "hp-02#2",
+    "hp-02#9"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3452,
+   "end": 3452,
+   "kind": "표행",
+   "term": "升浮 陽性 作用·臨床·예(荊芥·升麻·柴胡·葛根·薄荷·黃芪)",
+   "where": [
+    "new-etc-19#1",
+    "new-etc-19#2",
+    "new-etc-19#8",
+    "hp-02#3",
+    "hp-04#4",
+    "hp-04#6"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "9/12만 실림. 빠진 것: 透疹 · 中氣下陷 · 內臟下垂"
+  },
+  {
+   "line": 3453,
+   "end": 3453,
+   "kind": "표행",
+   "term": "沈降 陰性 作用·臨床·예(牛膝·木通·桑白皮·黃芩)",
+   "where": [
+    "hp-02#3",
+    "hp-02#7",
+    "new-etc-17#2",
+    "new-etc-17#4",
+    "new-etc-20#4",
+    "new-etc-20#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "4/9만 실림. 빠진 것: 肝陽上亢 · 呃逆 · 熱結便秘 · 桑白皮 · 黃芩"
+  },
+  {
+   "line": 3454,
+   "end": 3454,
+   "kind": "※",
+   "term": "雙向性 川芎",
+   "where": [
+    "hp-02#4"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3456,
+   "end": 3456,
+   "kind": "표행",
+   "term": "藥의 陰陽 [陰] 味厚陰中之陰泄·味薄陰中之陽通·陰味出下竅·濁陰走五臟·濁陰歸六腑",
+   "where": [
+    "new-uk-04#5"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "2/5만 실림. 빠진 것: 陰味出下竅 · 濁陰走五臟 · 濁陰歸六腑"
+  },
+  {
+   "line": 3457,
+   "end": 3457,
+   "kind": "표행",
+   "term": "藥의 陰陽 [陽] 氣厚陽中之陽·氣薄陽中之陰·陽氣出上竅·淸陽發腠理·淸陽實四肢",
+   "where": [
+    "new-uk-04#5"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "2/5만 실림. 빠진 것: 陽氣出上竅 · 淸陽發腠理 · 淸陽實四肢"
+  },
+  {
+   "line": 3458,
+   "end": 3458,
+   "kind": "◉",
+   "term": "味厚泄下=大黃·味薄通利=木通·氣薄發泄=麻黃·氣厚發熱=附子",
+   "where": [
+    "new-etc-17#1",
+    "new-etc-17#2",
+    "new-etc-17#3",
+    "new-etc-17#5"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3458,
+   "end": 3458,
+   "kind": "※",
+   "term": "氣味厚薄 味薄升而生·氣厚浮而長·氣味平化而成·氣薄降而收·味厚沈而藏",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "낭독 · 표 — new-etc-17 되짚기에 한 줄(味薄升而生…沈而藏)이면 충분. 문제집 흔적 없음"
+  },
+  {
+   "line": 3459,
+   "end": 3459,
+   "kind": "※",
+   "term": "辛甘溫熱 升浮·苦酸鹹寒凉 沈降 / 升降浮沈 配伍·炮製에 따라 轉化",
+   "where": [
+    "hp-02#3",
+    "hp-02#4",
+    "hp-02#9"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3459,
+   "end": 3459,
+   "kind": "※",
+   "term": "炮製 轉化 酒升·薑汁散·醋收斂·鹽水下行·蜜緩和",
+   "where": [
+    "hp-02#5",
+    "hp-02#6",
+    "hp-02#7",
+    "hp-02#8",
+    "hp-02#9"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "4/5만 실림. 빠진 것: 蜜製"
+  },
+  {
+   "line": 3461,
+   "end": 3462,
+   "kind": "◉",
+   "term": "氣味厚薄寒熱陰陽昇降圖(湯液本草·馬蒔·張介賓) · 麻黃 氣薄 味苦",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 교재도 보류 지시",
+   "note": "馬蒔 · 張介賓은 hist(明)에만 인명으로 있음. 昇降圖와 麻黃 氣薄 味苦 메모는 없음(교재가 「나중에 볼 것」이라 함)"
+  },
+  {
+   "line": 3464,
+   "end": 3464,
+   "kind": "정의",
+   "term": "歸經 정의·歸經理論",
+   "where": [
+    "new-etc-14#0",
+    "new-etc-14#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3466,
+   "end": 3466,
+   "kind": "표행",
+   "term": "歸經 色·味·五行·歸經 5줄(비고 手厥陰心包·手少陽三焦)",
+   "where": [
+    "new-etc-14#2",
+    "new-etc-14#3",
+    "new-etc-14#4",
+    "new-etc-14#5",
+    "new-etc-14#6",
+    "new-etc-14#7"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3468,
+   "end": 3468,
+   "kind": "정의",
+   "term": "補瀉 정의 補不足 瀉有餘",
+   "where": [
+    "new-uk-05#5"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "1/2만 실림. 빠진 것: 瀉有餘"
+  },
+  {
+   "line": 3471,
+   "end": 3471,
+   "kind": "표행",
+   "term": "肝 苦急 甘緩(甘草)·欲散 辛散(川芎)·瀉 酸(赤芍藥)·補 辛(細辛)",
+   "where": [
+    "new-etc-16#1"
+   ],
+   "verdict": "약함",
+   "proposal": "그림(new-etc-16 장면에 약 예시 물건 보탬) 또는 표",
+   "note": "五味 規則(苦·欲·補·瀉)은 new-etc-16에 있으나 교재의 예시 약(甘草·川芎·赤芍藥·細辛 등)은 이 과에 없음"
+  },
+  {
+   "line": 3472,
+   "end": 3472,
+   "kind": "표행",
+   "term": "心 苦緩 酸收(五味子)·欲軟 鹹軟(芒硝)·瀉 甘(甘草·人參·黃芪)·補 鹹(澤瀉)",
+   "where": [
+    "new-etc-16#2"
+   ],
+   "verdict": "약함",
+   "proposal": "그림(new-etc-16 장면에 약 예시 물건 보탬) 또는 표",
+   "note": "五味 規則(苦·欲·補·瀉)은 new-etc-16에 있으나 교재의 예시 약(甘草·川芎·赤芍藥·細辛 등)은 이 과에 없음"
+  },
+  {
+   "line": 3473,
+   "end": 3473,
+   "kind": "표행",
+   "term": "脾 苦濕 苦燥(白朮)·欲緩 甘緩(炙甘草)·瀉 苦(黃連)·補 甘(人蔘)",
+   "where": [
+    "new-etc-16#3"
+   ],
+   "verdict": "약함",
+   "proposal": "그림(new-etc-16 장면에 약 예시 물건 보탬) 또는 표",
+   "note": "五味 規則(苦·欲·補·瀉)은 new-etc-16에 있으나 교재의 예시 약(甘草·川芎·赤芍藥·細辛 등)은 이 과에 없음"
+  },
+  {
+   "line": 3474,
+   "end": 3474,
+   "kind": "표행",
+   "term": "肺 苦氣逆 苦泄(訶子)·欲收 酸收(白芍藥)·瀉 辛(桑白皮)·補 酸(五味子)",
+   "where": [
+    "new-etc-16#4"
+   ],
+   "verdict": "약함",
+   "proposal": "그림(new-etc-16 장면에 약 예시 물건 보탬) 또는 표",
+   "note": "五味 規則(苦·欲·補·瀉)은 new-etc-16에 있으나 교재의 예시 약(甘草·川芎·赤芍藥·細辛 등)은 이 과에 없음"
+  },
+  {
+   "line": 3475,
+   "end": 3475,
+   "kind": "표행",
+   "term": "腎 苦燥 辛潤(黃柏·知母)·欲堅 苦堅(知母)·瀉 鹹(澤瀉)·補 苦(黃柏)",
+   "where": [
+    "new-etc-16#5"
+   ],
+   "verdict": "약함",
+   "proposal": "그림(new-etc-16 장면에 약 예시 물건 보탬) 또는 표",
+   "note": "五味 規則(苦·欲·補·瀉)은 new-etc-16에 있으나 교재의 예시 약(甘草·川芎·赤芍藥·細辛 등)은 이 과에 없음"
+  },
+  {
+   "line": 3476,
+   "end": 3476,
+   "kind": "⇒",
+   "term": "苦欲補瀉 苦=太過 實證·欲=不足 虛證 · 脾 中央 散↔收 軟↔堅 바뀜",
+   "where": [
+    "new-etc-16#6"
+   ],
+   "verdict": "글로만",
+   "proposal": "",
+   "note": "脾는 中央으로 그대로 · 散↔收 · 軟↔堅이 바뀜은 new-etc-16 어디에도 따로 없음(규칙 5줄만)"
+  },
+  {
+   "line": 3478,
+   "end": 3478,
+   "kind": "정의",
+   "term": "引經藥 정의 張潔古 創案·李東垣 等 體系化",
+   "where": [
+    "hist-05b#1",
+    "hist-05b#7"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3479,
+   "end": 3479,
+   "kind": "번호",
+   "term": "引經藥 (1)藥性 (2)表裏經絡 (3)手足經 中等量",
+   "where": [
+    "new-etc-14#0"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "1/3만 실림. 빠진 것: 手足經 · 中等量"
+  },
+  {
+   "line": 3481,
+   "end": 3481,
+   "kind": "표행",
+   "term": "引經藥 手太陰·足太陰",
+   "where": [
+    "new-gr-40#1",
+    "new-gr-40#2",
+    "new-gr-40#5",
+    "fan18#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3482,
+   "end": 3482,
+   "kind": "표행",
+   "term": "引經藥 手太陽·足太陽",
+   "where": [
+    "new-gr-40#3",
+    "new-gr-40#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3483,
+   "end": 3483,
+   "kind": "표행",
+   "term": "引經藥 手陽明·足陽明",
+   "where": [
+    "new-gr-40#1",
+    "new-gr-40#2",
+    "new-gr-40#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3484,
+   "end": 3484,
+   "kind": "표행",
+   "term": "引經藥 手少陰·足少陰",
+   "where": [
+    "new-gr-40#1",
+    "new-gr-40#3",
+    "new-gr-40#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3485,
+   "end": 3485,
+   "kind": "표행",
+   "term": "引經藥 手少陽·足少陽",
+   "where": [
+    "new-gr-40#4",
+    "new-gr-40#5",
+    "new-etc-19#1",
+    "new-etc-19#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3486,
+   "end": 3486,
+   "kind": "표행",
+   "term": "引經藥 手厥陰·足厥陰",
+   "where": [
+    "new-gr-40#4",
+    "new-gr-40#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3487,
+   "end": 3487,
+   "kind": "예",
+   "term": "頭痛 引經藥(川芎·蔓荊子·白芷·半夏·細辛·吳茱萸·藁本)",
+   "where": [
+    "new-etc-15#0",
+    "new-etc-15#1",
+    "new-etc-15#2",
+    "new-etc-15#3",
+    "new-etc-15#4",
+    "new-etc-15#5"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3489,
+   "end": 3489,
+   "kind": "정의",
+   "term": "藥物의 七情 정의 · 單行",
+   "where": [
+    "qiqing-coop#0",
+    "qiqing-coop#1",
+    "qiqing-coop#2",
+    "qiqing-coop#6",
+    "qiqing-coop#13"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3491,
+   "end": 3491,
+   "kind": "표행",
+   "term": "相須 정의 + 예 6쌍",
+   "where": [
+    "qiqing-coop#0",
+    "qiqing-coop#1",
+    "qiqing-coop#3",
+    "qiqing-coop#4",
+    "qiqing-coop#5",
+    "qiqing-coop#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3492,
+   "end": 3492,
+   "kind": "표행",
+   "term": "相使 정의 + 예 4쌍",
+   "where": [
+    "qiqing-coop#0",
+    "qiqing-coop#2",
+    "qiqing-coop#3",
+    "qiqing-coop#4",
+    "qiqing-coop#9",
+    "qiqing-coop#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3493,
+   "end": 3493,
+   "kind": "표행",
+   "term": "相惡 정의 + 예 7쌍",
+   "where": [
+    "qiqing-conflict#0",
+    "qiqing-conflict#1",
+    "qiqing-conflict#2",
+    "qiqing-conflict#3",
+    "qiqing-conflict#6",
+    "qiqing-conflict#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3494,
+   "end": 3494,
+   "kind": "표행",
+   "term": "相畏 정의 + 예 3쌍",
+   "where": [
+    "fan18#1",
+    "fan18#5",
+    "fan18#6",
+    "fan18#7",
+    "fan18#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3495,
+   "end": 3495,
+   "kind": "표행",
+   "term": "相殺 정의 + 예 3쌍",
+   "where": [
+    "qiqing-conflict#0",
+    "qiqing-conflict#1",
+    "qiqing-conflict#3",
+    "qiqing-conflict#6",
+    "qiqing-conflict#7",
+    "qiqing-conflict#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3496,
+   "end": 3496,
+   "kind": "표행",
+   "term": "相反 정의 + 예 3쌍",
+   "where": [
+    "qiqing-conflict#0",
+    "qiqing-conflict#1",
+    "qiqing-conflict#9",
+    "qiqing-conflict#10",
+    "qiqing-conflict#11",
+    "qiqing-conflict#12"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3497,
+   "end": 3497,
+   "kind": "※",
+   "term": "藥性 강해짐 相須·相使 / 약해짐 相惡 / 毒性 약해짐 相畏·相殺 / 강해짐 相反",
+   "where": [
+    "fan18#0",
+    "fan18#1",
+    "fan18#3",
+    "fan18#4",
+    "fan18#5",
+    "fan18#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3499,
+   "end": 3499,
+   "kind": "정의",
+   "term": "證候禁忌",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 문제집 흔적 없음(이 항목의 핵심어 기준)"
+  },
+  {
+   "line": 3500,
+   "end": 3500,
+   "kind": "표행",
+   "term": "十八反 烏頭 반 半夏·瓜蔞·貝母·白斂",
+   "where": [
+    "fan18#0",
+    "fan18#1",
+    "fan18#2",
+    "fan18#7",
+    "fan18#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3500,
+   "end": 3500,
+   "kind": "표행",
+   "term": "十八反 甘草 반 大戟·芫花·甘遂·海藻",
+   "where": [
+    "fan18#0",
+    "fan18#3",
+    "fan18#4",
+    "fan18#5",
+    "fan18#7",
+    "fan18#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3500,
+   "end": 3500,
+   "kind": "표행",
+   "term": "十八反 藜蘆 반 五參·細辛·芍藥",
+   "where": [
+    "fan18#0",
+    "fan18#3",
+    "fan18#5",
+    "fan18#6",
+    "fan18#7",
+    "fan18#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3500,
+   "end": 3500,
+   "kind": "표행",
+   "term": "十九畏 9쌍",
+   "where": [
+    "wei19#1",
+    "wei19#2",
+    "wei19#3",
+    "wei19#4",
+    "wei19#5",
+    "wei19#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3501,
+   "end": 3501,
+   "kind": "표행",
+   "term": "姙娠禁用藥 목록(水銀·砒霜·雄黃·輕粉·斑猫·蟾酥·馬錢子·皀角·藜蘆·瓜蒂·乾漆·蜈蚣·麝香·甘遂·大戟·芫花·巴豆·續隨子·商陸·川烏·草烏·水蛭·芒硝·蘆薈·三稜·莪朮)",
+   "where": [
+    "hp-03#7",
+    "hp-03#8",
+    "hp-03#9",
+    "hp-03#10",
+    "fan18#0",
+    "fan18#1"
+   ],
+   "verdict": "약함",
+   "proposal": "표 · 트레이너(姙娠 禁用·愼用 두 목록)",
+   "note": "禁用 27종 중 약 절반만 여러 과에 흩어짐; 목록 정거장 없음(hp-03#7·new-etc-18#7은 대표 6종)"
+  },
+  {
+   "line": 3503,
+   "end": 3503,
+   "kind": "표행",
+   "term": "姙娠愼用藥 목록(肉桂·牡丹皮·大黃·木通·乳香·沒藥·五靈脂·王不留行·枳實·枳殼·附子·冬葵子·桃仁·紅花·乾薑·半夏·益母草·貫衆·薏苡仁·代赭石·瞿麥·槐角)",
+   "where": [
+    "new-etc-20#8",
+    "suchi-ju-cho#1",
+    "suchi-ju-cho#3",
+    "suchi-ju-cho#4",
+    "suchi-ju-cho#6",
+    "suchi-ju-cho#10"
+   ],
+   "verdict": "약함",
+   "proposal": "표 · 트레이너(姙娠 禁用·愼用 두 목록)",
+   "note": "愼用 22종 목록 정거장 없음; 약재 몇은 포제 과에 부수적으로 나옴"
+  },
+  {
+   "line": 3504,
+   "end": 3504,
+   "kind": "정의",
+   "term": "服藥時 飮食禁忌(生冷·粘膩·腥臭)",
+   "where": [
+    "new-zj-25#0",
+    "new-zj-25#5",
+    "new-zj-25#7"
+   ],
+   "verdict": "약함",
+   "proposal": "낭독 한 줄 또는 싣지 않음(문제집 흔적 없음)",
+   "note": "1/3만 실림. 빠진 것: 生冷 · 粘膩"
+  },
+  {
+   "line": 3506,
+   "end": 3506,
+   "kind": "표행",
+   "term": "六陳藥(吳茱萸·陳皮·半夏·枳實·麻黃·狼毒)",
+   "where": [
+    "new-etc-13#0",
+    "new-etc-13#7",
+    "new-etc-13#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3506,
+   "end": 3506,
+   "kind": "표행",
+   "term": "八新藥(蘇葉·薄荷葉·菊花·桃花·赤小豆·澤蘭·槐花·款冬花)",
+   "where": [
+    "new-etc-13#0",
+    "new-etc-13#7",
+    "new-etc-13#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3507,
+   "end": 3507,
+   "kind": "※",
+   "term": "採集·貯藏 ① 根·根莖 休眠시기 ② 樹皮·根皮 4·5월 ③ 果實·種子 未成熟(靑皮·梔子·枳實)",
+   "where": [
+    "new-etc-20#1",
+    "new-etc-20#9",
+    "hp-04#3"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "採集 · 貯藏 ※는 약 예(靑皮 · 梔子 · 枳實)만 다른 과에 있고 시기 · 부위 규칙은 없음"
+  },
+  {
+   "line": 3507,
+   "end": 3507,
+   "kind": "※",
+   "term": "貯藏 20~30℃·低溫 -5℃·經驗저장(澤瀉·牧丹皮)",
+   "where": [
+    "new-etc-17#4",
+    "new-etc-17#5",
+    "suchi-qingchao#4",
+    "suchi-qingchao#10",
+    "hist-13#2",
+    "hist-13#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "3/5만 실림. 빠진 것: 低溫 · -5"
+  },
+  {
+   "line": 3507,
+   "end": 3507,
+   "kind": "※",
+   "term": "乾燥法 陽乾·陰乾·火乾·蒸乾·湯浸",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 또는 싣지 않음 — 건조 5종(陽乾 · 陰乾 · 火乾 · 蒸乾 · 湯浸), 문제집 흔적 없음"
+  },
+  {
+   "line": 3509,
+   "end": 3509,
+   "kind": "정의",
+   "term": "毒 = 氣味之偏性 藥以治病 因毒爲能",
+   "where": [
+    "new-etc-18#1",
+    "new-etc-18#10"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "1/2만 실림. 빠진 것: 因毒爲能"
+  },
+  {
+   "line": 3509,
+   "end": 3509,
+   "kind": "정의",
+   "term": "有毒藥 急性 無毒藥 慢性",
+   "where": [
+    "new-etc-18#2",
+    "new-etc-18#6",
+    "new-etc-18#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3509,
+   "end": 3509,
+   "kind": "정의",
+   "term": "神農本草經 365種 上中下品 毒",
+   "where": [
+    "new-etc-13#0",
+    "new-etc-13#4",
+    "new-etc-13#5",
+    "new-etc-13#6",
+    "new-etc-13#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3511,
+   "end": 3511,
+   "kind": "번호",
+   "term": "毒性 影響 要素 7(品種·炮製·配伍·劑型·煎法·服法·體質)",
+   "where": [
+    "new-etc-25#0",
+    "hist-13#7"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "2/5만 실림. 빠진 것: 品種 · 劑型 · 服法"
+  },
+  {
+   "line": 3511,
+   "end": 3511,
+   "kind": "예",
+   "term": "毒性 增減 예(炮製: 半夏·甘遂 減/雄黃 增 · 配伍: 甘草·附子, 大黃·巴豆 減/十八反 增)",
+   "where": [
+    "qiqing-conflict#0",
+    "qiqing-conflict#2",
+    "qiqing-conflict#3",
+    "qiqing-conflict#4",
+    "qiqing-conflict#5",
+    "qiqing-conflict#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3513,
+   "end": 3513,
+   "kind": "정의",
+   "term": "藥의 用量(약성·성상·제형·병세·연령)",
+   "where": [
+    "new-etc-18#3",
+    "new-etc-18#4",
+    "new-etc-18#5",
+    "new-etc-18#6",
+    "new-etc-18#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3513,
+   "end": 3513,
+   "kind": "정의",
+   "term": "小兒 용량(10세 이상 성인·5~6세 절반·嬰兒 1/3)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 문제집 嬰兒는 1904행에 한 번(본초 용량과 무관) · 확인 필요"
+  },
+  {
+   "line": 3516,
+   "end": 3516,
+   "kind": "정의",
+   "term": "修治 개괄(法製·炮製·炮炙·修事)",
+   "where": [
+    "hp-04#0",
+    "hp-04#9",
+    "hist-02a#0",
+    "hist-02a#7",
+    "hist-02a#8",
+    "hist-02a#10"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "3/5만 실림. 빠진 것: 修事 · 法製"
+  },
+  {
+   "line": 3518,
+   "end": 3518,
+   "kind": "번호",
+   "term": "修治 목적 7(毒性低下·藥性緩和·效果增大·作用部位·調劑·貯藏·服用)",
+   "where": [
+    "suchi-gabo1#0",
+    "suchi-gabo1#1",
+    "suchi-gabo1#2",
+    "suchi-gabo1#5",
+    "suchi-gabo1#8",
+    "suchi-suhwa#2"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "6/8만 실림. 빠진 것: 作用部位 · 調劑"
+  },
+  {
+   "line": 3518,
+   "end": 3518,
+   "kind": "예",
+   "term": "草烏 甘草·黑豆 減毒 / 麻黃 生用 辛散解表·蜜炙 潤肺止咳",
+   "where": [
+    "fan18#1",
+    "fan18#3",
+    "hp-04#9",
+    "hp-04#13",
+    "suchi-suhwa#2",
+    "suchi-suhwa#5"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3520,
+   "end": 3520,
+   "kind": "번호",
+   "term": "洗淨加工 ① 雜質 제거 4(挑選·篩選·風選·洗漂)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 修治 총론 세부(挑選·篩選·風選·洗漂), 문제집 흔적 없음"
+  },
+  {
+   "line": 3522,
+   "end": 3522,
+   "kind": "번호",
+   "term": "非藥用部位 去莖·去根·去枝莖·去皮殼·去毛·去蘆·去心·去核·去頭尾足翅·기타",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 또는 표 — 去皮 · 去毛 · 去蘆 · 去心 · 去核 9종 묶음 한 과 후보(사용자 보류 범위인지 확인 필요)",
+   "note": "去莖·去根·去皮殼 등 9종은 없음(杏仁 去皮尖은 suchi-suhwa#7 燀法에서만 언급)"
+  },
+  {
+   "line": 3524,
+   "end": 3524,
+   "kind": "번호",
+   "term": "飮片切制 목적 5",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 飮片切制 목적 5, 문제집 흔적 없음"
+  },
+  {
+   "line": 3525,
+   "end": 3525,
+   "kind": "번호",
+   "term": "切制 方法 切·鎊·刨·剉·劈",
+   "where": [
+    "wei19#7",
+    "suchi-gabo2#3"
+   ],
+   "verdict": "약함",
+   "proposal": "표 · 트레이너(切·鎊·刨·剉·劈)",
+   "note": "切制 方法 5종 중 鎊 · 劈만 수치 과에 부수적으로 나옴(犀角 · 虎骨)"
+  },
+  {
+   "line": 3527,
+   "end": 3527,
+   "kind": "표행",
+   "term": "常用輔料 液體(술·食醋·蜂蜜·生薑汁·甘草汁·黑豆汁·米泔水·食鹽水·膽汁·油)",
+   "where": [
+    "new-etc-18#9"
+   ],
+   "verdict": "약함",
+   "proposal": "표",
+   "note": "液體輔料 열 가지 중 술 · 蜂蜜 · 生薑汁 · 食醋만 炙法 과에서 쓰임. 米泔水 · 黑豆汁 · 甘草汁 · 食鹽水 · 膽汁(천남성 제외) · 鱉血 · 羊脂油 목록은 없음"
+  },
+  {
+   "line": 3527,
+   "end": 3527,
+   "kind": "표행",
+   "term": "常用輔料 固體(쌀·麥麩·硼砂·豆腐·흙·蛤粉·滑石粉·河沙)",
+   "where": [
+    "suchi-gabo1#0",
+    "suchi-gabo1#1",
+    "suchi-gabo1#6",
+    "suchi-gabo1#8",
+    "suchi-gabo2#0",
+    "suchi-gabo2#4"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "5/7만 실림. 빠진 것: 豆腐 · 河沙"
+  },
+  {
+   "line": 3530,
+   "end": 3530,
+   "kind": "정의",
+   "term": "炒法 방법·목적(治療效果·性能·毒性·矯臭矯味·製劑)",
+   "where": [
+    "suchi-qingchao#0",
+    "suchi-gabo1#0"
+   ],
+   "verdict": "글로만",
+   "proposal": "",
+   "note": "炒法 방법 · 목적 5는 suchi-qingchao#0 · suchi-gabo1#0 낭독에 흩어짐"
+  },
+  {
+   "line": 3531,
+   "end": 3531,
+   "kind": "표행",
+   "term": "淸炒法 炒黃(子·仁類)",
+   "where": [
+    "hp-04#2",
+    "hp-04#13"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "2/3만 실림. 빠진 것: 炒爆"
+  },
+  {
+   "line": 3531,
+   "end": 3531,
+   "kind": "표행",
+   "term": "淸炒法 炒焦(山査·川楝子·梔子·檳榔)",
+   "where": [
+    "suchi-qingchao#0",
+    "suchi-qingchao#1",
+    "suchi-qingchao#2",
+    "suchi-qingchao#6",
+    "suchi-qingchao#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3531,
+   "end": 3531,
+   "kind": "표행",
+   "term": "淸炒法 炒炭 14종",
+   "where": [
+    "suchi-qingchao#0",
+    "suchi-qingchao#2",
+    "suchi-qingchao#3",
+    "suchi-qingchao#4",
+    "suchi-qingchao#5",
+    "suchi-qingchao#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3532,
+   "end": 3532,
+   "kind": "※",
+   "term": "韓藥炮炙 최초 전문서적 雷公炮炙論",
+   "where": [
+    "suchi-qingchao#0"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3533,
+   "end": 3533,
+   "kind": "표행",
+   "term": "加輔料炒 목적 5 · 종류(麩·米·土·砂·蛤粉·滑石粉)",
+   "where": [
+    "suchi-gabo1#0"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3533,
+   "end": 3533,
+   "kind": "표행",
+   "term": "麩炒 ① 補脾(白朮·山藥) ② 緩和(枳實·蒼朮) ③ 矯味(白彊蠶)",
+   "where": [
+    "suchi-gabo1#0",
+    "suchi-gabo1#1",
+    "suchi-gabo1#2",
+    "suchi-gabo1#3",
+    "suchi-gabo1#5",
+    "suchi-gabo1#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3535,
+   "end": 3535,
+   "kind": "표행",
+   "term": "米炒 ① 健脾止瀉(鷰參) ② 減毒(斑猫)",
+   "where": [
+    "suchi-gabo1#0",
+    "suchi-gabo1#4",
+    "suchi-gabo1#5",
+    "suchi-gabo1#7",
+    "suchi-gabo1#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3536,
+   "end": 3536,
+   "kind": "표행",
+   "term": "土炒 伏龍肝 溫中補脾 → 固脾止泄(山藥·白朮)",
+   "where": [
+    "suchi-gabo1#0",
+    "suchi-gabo1#1",
+    "suchi-gabo1#6",
+    "suchi-gabo1#7",
+    "suchi-gabo1#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3537,
+   "end": 3537,
+   "kind": "표행",
+   "term": "砂炒 ① 狗脊·穿山甲·虎骨 ② 馬錢子 ③ 矯味 ④ 骨碎補·馬錢子",
+   "where": [
+    "suchi-gabo2#0",
+    "suchi-gabo2#1",
+    "suchi-gabo2#2",
+    "suchi-gabo2#3",
+    "suchi-gabo2#4",
+    "suchi-gabo2#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3538,
+   "end": 3538,
+   "kind": "표행",
+   "term": "蛤粉炒 / 滑石粉炒(象皮·黃狗腎·水蛭)",
+   "where": [
+    "suchi-gabo2#0",
+    "suchi-gabo2#4",
+    "suchi-gabo2#6",
+    "suchi-gabo2#7",
+    "suchi-gabo2#8",
+    "suchi-gabo2#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3540,
+   "end": 3540,
+   "kind": "정의",
+   "term": "炙法 정의·목적 4·종류 6 · 炙法 vs 加輔料炒法 차이",
+   "where": [
+    "suchi-yeom-gang#0",
+    "suchi-yeom-gang#1",
+    "suchi-yeom-gang#2",
+    "suchi-yeom-gang#3",
+    "suchi-yeom-gang#4",
+    "suchi-yeom-gang#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3542,
+   "end": 3542,
+   "kind": "표행",
+   "term": "酒炙 ① 上行(黃連·大黃) ② 活血通絡(當歸·川芎) ③ 矯臭(烏梢蛇)",
+   "where": [
+    "suchi-ju-cho#0",
+    "suchi-ju-cho#1",
+    "suchi-ju-cho#2",
+    "suchi-ju-cho#3",
+    "suchi-ju-cho#7",
+    "suchi-ju-cho#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3543,
+   "end": 3543,
+   "kind": "표행",
+   "term": "醋炙 ① 疏肝活血止痛 8약 ② 減毒 4약 ③ 矯臭 3약",
+   "where": [
+    "suchi-ju-cho#0",
+    "suchi-ju-cho#2",
+    "suchi-ju-cho#3",
+    "suchi-ju-cho#4",
+    "suchi-ju-cho#5",
+    "suchi-ju-cho#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3544,
+   "end": 3544,
+   "kind": "표행",
+   "term": "鹽炙 ① 補肝腎(杜冲·巴戟·補骨脂) 治疝(小茴香·橘核·荔枝核) 利尿(車前子) ② 知母·黃柏",
+   "where": [
+    "suchi-yeom-gang#0",
+    "suchi-yeom-gang#1",
+    "suchi-yeom-gang#2",
+    "suchi-yeom-gang#3",
+    "suchi-yeom-gang#4",
+    "suchi-yeom-gang#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3545,
+   "end": 3545,
+   "kind": "표행",
+   "term": "薑炙 ① 黃連·竹茹 ② 厚朴",
+   "where": [
+    "suchi-yeom-gang#0",
+    "suchi-yeom-gang#5",
+    "suchi-yeom-gang#6",
+    "suchi-yeom-gang#7",
+    "suchi-yeom-gang#8",
+    "suchi-yeom-gang#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3546,
+   "end": 3546,
+   "kind": "표행",
+   "term": "蜜炙 ① 潤肺止咳 5약 ② 補脾益氣 ③ 緩和 ④ 馬兜鈴",
+   "where": [
+    "suchi-mil-yu#0",
+    "suchi-mil-yu#1",
+    "suchi-mil-yu#2",
+    "suchi-mil-yu#3",
+    "suchi-mil-yu#4",
+    "suchi-mil-yu#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3546,
+   "end": 3546,
+   "kind": "표행",
+   "term": "油炙 ① 淫羊藿 ② 虎骨·豹骨·蛤蚧",
+   "where": [
+    "suchi-mil-yu#0",
+    "suchi-mil-yu#7",
+    "suchi-mil-yu#8",
+    "suchi-mil-yu#9",
+    "suchi-mil-yu#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3549,
+   "end": 3549,
+   "kind": "정의",
+   "term": "煅法 방법·목적(300-700℃·淬)",
+   "where": [
+    "suchi-dan#0",
+    "suchi-dan#1",
+    "suchi-dan#2",
+    "suchi-dan#3",
+    "suchi-dan#4",
+    "suchi-dan#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3550,
+   "end": 3550,
+   "kind": "표행",
+   "term": "明煅 ① 白礬·硼砂·石決明·代赭石 ② 牡蠣·赤石脂",
+   "where": [
+    "suchi-dan#0",
+    "suchi-dan#1",
+    "suchi-dan#2",
+    "suchi-dan#3",
+    "suchi-dan#4",
+    "suchi-dan#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3550,
+   "end": 3550,
+   "kind": "표행",
+   "term": "煅淬(水火共制) 磁石·赭石·自然銅·爐甘石",
+   "where": [
+    "suchi-dan#0",
+    "suchi-dan#2",
+    "suchi-dan#4",
+    "suchi-dan#5",
+    "suchi-dan#6",
+    "suchi-dan#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3550,
+   "end": 3550,
+   "kind": "표행",
+   "term": "悶煅 血餘炭·乾漆",
+   "where": [
+    "hp-04#12",
+    "hp-04#13"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3552,
+   "end": 3552,
+   "kind": "표행",
+   "term": "蒸法 ①~④ (地黃·何首烏·黃精·大黃·黃芩·桑螵蛸·宣木瓜)",
+   "where": [
+    "suchi-suhwa#0",
+    "suchi-suhwa#1",
+    "suchi-suhwa#2",
+    "suchi-suhwa#3",
+    "suchi-suhwa#4",
+    "suchi-suhwa#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3553,
+   "end": 3553,
+   "kind": "표행",
+   "term": "煮法(川烏·遠志·珍珠)·燀法(杏仁·萹豆)",
+   "where": [
+    "suchi-suhwa#0",
+    "suchi-suhwa#3",
+    "suchi-suhwa#5",
+    "suchi-suhwa#6",
+    "suchi-suhwa#7",
+    "suchi-suhwa#11"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3556,
+   "end": 3556,
+   "kind": "표행",
+   "term": "複制法 방법·목적(白附子·半夏·天南星)",
+   "where": [
+    "suchi-suhwa#0",
+    "suchi-suhwa#8",
+    "suchi-suhwa#9",
+    "suchi-suhwa#10",
+    "suchi-suhwa#11"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3558,
+   "end": 3558,
+   "kind": "표행",
+   "term": "醱酵法(30~37℃·70~80%) · 發芽法(蘖法 18~25℃ 3일)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 醱酵 · 發芽 두 줄, 문제집 흔적 없음"
+  },
+  {
+   "line": 3560,
+   "end": 3560,
+   "kind": "번호",
+   "term": "其他制法 烘焙·煨·制霜·提淨·水飛·乾餾",
+   "where": [
+    "suchi-gabo2#7"
+   ],
+   "verdict": "약함",
+   "proposal": "표 · 트레이너(其他制法 6)",
+   "note": "煨法(생강 · 附子 · 訶子) 등 6법 중 水飛만 수치 부수적으로 나옴(朱砂 · 滑石)"
+  },
+  {
+   "line": 3562,
+   "end": 3562,
+   "kind": "정의",
+   "term": "解表藥 정의",
+   "where": [
+    "new-etc-19#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3563,
+   "end": 3563,
+   "kind": "표행",
+   "term": "發散風寒藥(辛溫·증후)+약 15",
+   "where": [
+    "new-etc-19#1",
+    "new-etc-19#8",
+    "new-etc-15#2",
+    "new-etc-15#3",
+    "new-etc-15#5",
+    "new-etc-15#7"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "11/16만 실림. 빠진 것: 辛夷 · 香薷 · 葱白 · 檉柳 · 蒼耳子"
+  },
+  {
+   "line": 3563,
+   "end": 3563,
+   "kind": "표행",
+   "term": "發散風熱藥(辛凉·증후)+약 12",
+   "where": [
+    "new-etc-19#1",
+    "new-etc-19#2",
+    "new-etc-19#8",
+    "new-etc-15#0",
+    "new-etc-15#2"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "10/13만 실림. 빠진 것: 淡豆豉 · 浮萍 · 木賊"
+  },
+  {
+   "line": 3565,
+   "end": 3565,
+   "kind": "정의",
+   "term": "淸熱藥 정의·주의(陰盛格陽·眞寒假熱=溫裏藥)",
+   "where": [
+    "hp-16#4",
+    "hp-16#5",
+    "hp-16#6",
+    "hp-16#8",
+    "new-etc-19#2"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3566,
+   "end": 3566,
+   "kind": "표행",
+   "term": "淸熱瀉火藥 증후+약 14",
+   "where": [
+    "new-etc-19#2",
+    "new-etc-19#8",
+    "suchi-qingchao#2",
+    "suchi-qingchao#6",
+    "suchi-qingchao#10"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "5/15만 실림. 빠진 것: 蘆根 · 天花粉 · 竹葉 · 夏枯草 · 淡竹葉 · 寒水石 · 鴨跖草 · 穀精草 · 密蒙花 · 靑葙子"
+  },
+  {
+   "line": 3567,
+   "end": 3567,
+   "kind": "표행",
+   "term": "淸熱燥濕藥 증후(腸胃·肝膽·下焦 濕熱)+약 7",
+   "where": [
+    "new-etc-19#2",
+    "fan18#5",
+    "fan18#6",
+    "fan18#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "6/8만 실림. 빠진 것: 白鮮皮 · 大豆黃卷"
+  },
+  {
+   "line": 3568,
+   "end": 3568,
+   "kind": "표행",
+   "term": "淸熱凉血藥 증후+약 6",
+   "where": [
+    "new-etc-19#2",
+    "fan18#5",
+    "fan18#7",
+    "fan18#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "6/7만 실림. 빠진 것: 紫草"
+  },
+  {
+   "line": 3569,
+   "end": 3569,
+   "kind": "표행",
+   "term": "淸熱解毒藥 증후+약 30",
+   "where": [
+    "new-etc-19#2",
+    "fan18#2",
+    "fan18#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "5/29만 실림. 빠진 것: 紫花地丁 · 大靑葉 · 板藍根 · 靑黛 · 牛黃 · 蚤休 · 半邊蓮 · 土茯笭/土茯苓 · 魚腥草 · 射干 · 山豆根 · 馬勃 · 馬齒莧 · 白頭"
+  },
+  {
+   "line": 3570,
+   "end": 3570,
+   "kind": "표행",
+   "term": "淸虛熱藥 증후+약 5",
+   "where": [
+    "new-etc-19#2",
+    "new-etc-19#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "5/6만 실림. 빠진 것: 白薇"
+  },
+  {
+   "line": 3571,
+   "end": 3571,
+   "kind": "정의",
+   "term": "瀉下藥 정의",
+   "where": [
+    "new-etc-28#5",
+    "zds-10#4",
+    "zds-10#5",
+    "zds-10#10"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "2/3만 실림. 빠진 것: 瀉下藥"
+  },
+  {
+   "line": 3572,
+   "end": 3572,
+   "kind": "표행",
+   "term": "攻下藥(大黃·芒硝·蘆薈)·潤下藥(火麻仁·郁李仁)",
+   "where": [
+    "hp-05#7",
+    "hp-05#10",
+    "new-etc-19#0",
+    "new-etc-19#3",
+    "new-etc-19#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3572,
+   "end": 3572,
+   "kind": "표행",
+   "term": "峻下逐水藥 7(甘遂·大戟·芫花·牽牛子·商陸·巴豆·續隨子)",
+   "where": [
+    "new-etc-19#4",
+    "new-etc-19#8",
+    "fan18#0",
+    "fan18#3",
+    "fan18#4",
+    "fan18#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "7/8만 실림. 빠진 것: 續隨子"
+  },
+  {
+   "line": 3574,
+   "end": 3574,
+   "kind": "정의",
+   "term": "祛風濕藥 정의",
+   "where": [
+    "new-etc-19#5",
+    "new-etc-19#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "1/2만 실림. 빠진 것: 風濕痺痛"
+  },
+  {
+   "line": 3575,
+   "end": 3575,
+   "kind": "표행",
+   "term": "祛風濕止痺痛藥 9",
+   "where": [
+    "new-etc-19#5",
+    "fan18#1",
+    "suchi-gabo2#4",
+    "suchi-gabo2#5",
+    "suchi-gabo2#9"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "6/9만 실림. 빠진 것: 海桐皮 · 蠶沙 · 菝葜"
+  },
+  {
+   "line": 3575,
+   "end": 3575,
+   "kind": "표행",
+   "term": "舒筋活絡藥 10",
+   "where": [
+    "suchi-ju-cho#3",
+    "suchi-ju-cho#10",
+    "suchi-ju-cho#11",
+    "suchi-suhwa#4",
+    "suchi-suhwa#11"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "3/11만 실림. 빠진 것: 絡石藤 · 桑枝 · 白花蛇 · 豨薟草 · 徐長卿 · 絲瓜絡 · 臭梧桐 · 海風藤"
+  },
+  {
+   "line": 3575,
+   "end": 3575,
+   "kind": "표행",
+   "term": "祛風濕强筋骨藥 4",
+   "where": [
+    "new-etc-19#5",
+    "suchi-gabo2#3",
+    "suchi-gabo2#5",
+    "suchi-gabo2#9"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "3/5만 실림. 빠진 것: 强筋骨 · 槲寄生"
+  },
+  {
+   "line": 3576,
+   "end": 3577,
+   "kind": "표행",
+   "term": "芳香化濕藥 증후+약 8",
+   "where": [
+    "new-etc-19#6",
+    "new-etc-19#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "6/9만 실림. 빠진 것: 草豆蔲 · 草果 · 佩蘭"
+  },
+  {
+   "line": 3578,
+   "end": 3578,
+   "kind": "정의",
+   "term": "利水滲濕藥 정의",
+   "where": [
+    "new-etc-19#7",
+    "new-etc-19#8",
+    "new-jq-19#3",
+    "new-jq-19#6",
+    "new-jq-19#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3579,
+   "end": 3579,
+   "kind": "표행",
+   "term": "利水退腫藥 9",
+   "where": [
+    "new-etc-17#4",
+    "new-etc-17#5",
+    "new-etc-13#7"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "4/10만 실림. 빠진 것: 利水退腫 · 猪笭/豬苓 · 冬瓜皮 · 蝼蛄 · 玉米鬚 · 澤漆"
+  },
+  {
+   "line": 3579,
+   "end": 3579,
+   "kind": "표행",
+   "term": "利尿通淋藥 13",
+   "where": [
+    "qiqing-conflict#4",
+    "qiqing-conflict#8",
+    "suchi-yeom-gang#4",
+    "suchi-yeom-gang#9",
+    "new-etc-17#2"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "5/14만 실림. 빠진 것: 通草 · 海金沙 · 萆薢 · 地膚子 · 萹蓄 · 瞿麥 · 冬葵子 · 燈心草 · 三白草"
+  },
+  {
+   "line": 3579,
+   "end": 3579,
+   "kind": "표행",
+   "term": "利濕退黃藥(茵陳蒿·金錢草)",
+   "where": [
+    "new-etc-19#7"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3580,
+   "end": 3581,
+   "kind": "표행",
+   "term": "溫裏藥 정의+약 12",
+   "where": [
+    "hp-05#2",
+    "hp-05#3",
+    "hp-05#4",
+    "hp-05#9",
+    "hp-05#10",
+    "suchi-yeom-gang#3"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "7/13만 실림. 빠진 것: 川烏頭 · 蜀椒 · 蓽撥 · 蓽澄茄 · 高良薑 · 胡椒"
+  },
+  {
+   "line": 3582,
+   "end": 3583,
+   "kind": "표행",
+   "term": "理氣藥 정의+약 18",
+   "where": [
+    "new-etc-20#1",
+    "new-etc-20#9",
+    "suchi-qingchao#1",
+    "suchi-qingchao#10",
+    "suchi-yeom-gang#3",
+    "suchi-yeom-gang#9"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "9/19만 실림. 빠진 것: 枳殼 · 沈香 · 靑木香 · 薤白 · 檀香 · 柿蒂 · 玫瑰花 · 大腹皮 · 土木香 · 甘松香"
+  },
+  {
+   "line": 3584,
+   "end": 3585,
+   "kind": "표행",
+   "term": "消食藥 6(山査·神麯·麥芽·穀芽·萊菔子·鷄內金)",
+   "where": [
+    "new-etc-20#2",
+    "new-etc-20#9"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "5/7만 실림. 빠진 것: 神麯 · 穀芽"
+  },
+  {
+   "line": 3586,
+   "end": 3587,
+   "kind": "표행",
+   "term": "驅蟲藥 8",
+   "where": [
+    "new-etc-20#3",
+    "new-etc-20#9",
+    "suchi-qingchao#2",
+    "suchi-qingchao#5",
+    "suchi-qingchao#6",
+    "suchi-qingchao#10"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "6/9만 실림. 빠진 것: 鶴虱 · 榧子 · 蕪荑"
+  },
+  {
+   "line": 3589,
+   "end": 3589,
+   "kind": "표행",
+   "term": "收斂止血藥 4(仙鶴草·白及·棕櫚皮·藕節)",
+   "where": [
+    "new-etc-20#4",
+    "new-etc-20#9"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "4/5만 실림. 빠진 것: 棕櫚皮"
+  },
+  {
+   "line": 3591,
+   "end": 3591,
+   "kind": "표행",
+   "term": "凉血止血藥 8",
+   "where": [
+    "new-etc-20#5",
+    "new-etc-20#6",
+    "new-etc-20#9"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "7/9만 실림. 빠진 것: 苧麻根 · 羊蹄根"
+  },
+  {
+   "line": 3591,
+   "end": 3591,
+   "kind": "표행",
+   "term": "化瘀止血藥 4(三七·蒲黃·茜草·花蕊石)",
+   "where": [
+    "new-etc-20#6",
+    "new-etc-20#9"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "4/5만 실림. 빠진 것: 花蕊石"
+  },
+  {
+   "line": 3591,
+   "end": 3591,
+   "kind": "표행",
+   "term": "溫經止血藥(艾葉·伏龍肝)",
+   "where": [
+    "new-etc-20#7",
+    "new-etc-20#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3592,
+   "end": 3593,
+   "kind": "표행",
+   "term": "活血祛瘀藥 정의+약 32",
+   "where": [
+    "new-etc-20#8",
+    "new-etc-20#9",
+    "suchi-ju-cho#2",
+    "suchi-ju-cho#3",
+    "suchi-ju-cho#4",
+    "suchi-ju-cho#5"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "16/33만 실림. 빠진 것: 薑黃 · 虎杖根 · 穿山甲 · 蟅蟲 · 水蛭 · 虻蟲 · 澤蘭 · 凌霄花 · 王不留行 · 劉寄奴 · 蘇木 · 皀角刺 · 血竭 · 馬鞭草 · 茺蔚"
+  },
+  {
+   "line": 3595,
+   "end": 3595,
+   "kind": "표행",
+   "term": "溫化寒痰藥 7",
+   "where": [
+    "hp-05#9",
+    "hp-05#10",
+    "new-etc-25#2",
+    "new-etc-25#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "6/8만 실림. 빠진 것: 皀莢 · 白前"
+  },
+  {
+   "line": 3595,
+   "end": 3595,
+   "kind": "표행",
+   "term": "淸化熱痰藥 18",
+   "where": [
+    "new-etc-21#1",
+    "new-etc-21#6",
+    "fan18#1",
+    "fan18#2",
+    "fan18#4",
+    "fan18#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "10/18만 실림. 빠진 것: 天竺黃 · 竹瀝 · 海浮石 · 文蛤 · 靑礞石 · 胖大海 · 瓦楞子 · 冬瓜子"
+  },
+  {
+   "line": 3595,
+   "end": 3595,
+   "kind": "표행",
+   "term": "止咳平喘藥 9",
+   "where": [
+    "new-etc-21#2",
+    "new-etc-21#6",
+    "suchi-mil-yu#1",
+    "suchi-mil-yu#2",
+    "suchi-mil-yu#3",
+    "suchi-mil-yu#6"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "9/10만 실림. 빠진 것: 白果"
+  },
+  {
+   "line": 3597,
+   "end": 3597,
+   "kind": "표행",
+   "term": "重鎭安神藥(朱砂·磁石·龍骨·琥珀)·滋養安神藥(酸棗仁·柏子仁·遠志·合歡皮·靈芝·夜交藤)",
+   "where": [
+    "new-etc-21#3",
+    "new-etc-21#6",
+    "new-etc-25#4",
+    "new-etc-25#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "9/12만 실림. 빠진 것: 合歡皮 · 靈芝 · 夜交藤"
+  },
+  {
+   "line": 3599,
+   "end": 3599,
+   "kind": "표행",
+   "term": "平肝息風藥 8(羚羊角·釣鉤藤·天麻·白彊蠶·全蝎·蜈蚣·蚯蚓·決明子)",
+   "where": [
+    "new-etc-21#4",
+    "new-etc-21#6",
+    "suchi-gabo1#3",
+    "suchi-gabo1#5",
+    "suchi-gabo1#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "6/9만 실림. 빠진 것: 平肝息風 · 蚯蚓 · 決明子"
+  },
+  {
+   "line": 3599,
+   "end": 3599,
+   "kind": "표행",
+   "term": "平肝潛陽藥 7(石決明·牡蠣·珍珠·珍珠母·玳瑁·代赭石·白蒺藜)",
+   "where": [
+    "suchi-dan#2",
+    "suchi-dan#3",
+    "suchi-dan#4",
+    "suchi-dan#6",
+    "suchi-dan#9",
+    "suchi-suhwa#3"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "5/8만 실림. 빠진 것: 珍珠母 · 玳瑁 · 白蒺藜"
+  },
+  {
+   "line": 3601,
+   "end": 3601,
+   "kind": "표행",
+   "term": "開竅藥 7(麝香·氷片·石菖蒲·蘇合香·安息香·蟾酥·樟腦)",
+   "where": [
+    "new-etc-21#5",
+    "new-etc-21#6"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "5/8만 실림. 빠진 것: 安息香 · 蟾酥 · 樟腦"
+  },
+  {
+   "line": 3601,
+   "end": 3601,
+   "kind": "※",
+   "term": "開竅藥 辛香走竄·휘발 → 丸·散劑만, 煎劑 안좋음 · 脫證 神昏은 回陽救逆",
+   "where": [
+    "new-etc-21#5",
+    "new-etc-21#6",
+    "hp-05#3",
+    "hp-05#10",
+    "new-jq-23#0",
+    "new-jq-23#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3604,
+   "end": 3604,
+   "kind": "표행",
+   "term": "補氣藥 증후(脾·肺·心氣虛)+약 9",
+   "where": [
+    "hp-05#1",
+    "hp-05#6",
+    "hp-05#10",
+    "suchi-mil-yu#0",
+    "suchi-mil-yu#4",
+    "suchi-mil-yu#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3605,
+   "end": 3605,
+   "kind": "표행",
+   "term": "補陽藥 28(鹿茸·鹿角·鹿角膠·鹿角霜·巴戟天…海馬·蛇床子)",
+   "where": [
+    "new-etc-22#1",
+    "new-etc-22#10",
+    "suchi-yeom-gang#1",
+    "suchi-yeom-gang#2",
+    "suchi-yeom-gang#9",
+    "suchi-gabo2#1"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "10/28만 실림. 빠진 것: 鹿角 · 鹿角膠 · 鹿角霜 · 仙茅 · 胡蘆巴 · 續斷 · 益智仁 · 蛤蚧 · 胡桃肉 · 紫河車 · 菟絲子 · 沙苑子 · 鎖陽 · 韭子 · 陽起"
+  },
+  {
+   "line": 3606,
+   "end": 3606,
+   "kind": "표행",
+   "term": "補血藥 증후+약 6(當歸·熟地黃·白芍藥·何首烏·阿膠·龍眼肉)",
+   "where": [
+    "hp-05#5",
+    "hp-05#6",
+    "hp-05#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3607,
+   "end": 3607,
+   "kind": "표행",
+   "term": "補陰藥 증후(肺·胃·腎·肝陰虛)+약 15",
+   "where": [
+    "new-etc-22#2",
+    "new-etc-22#10",
+    "suchi-suhwa#2",
+    "suchi-suhwa#11"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "9/16만 실림. 빠진 것: 玉竹 · 百合 · 桑椹子 · 旱蓮草 · 女貞子 · 黑芝麻 · 楮實子"
+  },
+  {
+   "line": 3607,
+   "end": 3607,
+   "kind": "※",
+   "term": "補藥 주의 見藥不見人·閉門留寇·虛不受補",
+   "where": [
+    "new-etc-22#3",
+    "new-etc-22#4",
+    "new-etc-22#5",
+    "new-etc-22#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3609,
+   "end": 3609,
+   "kind": "표행",
+   "term": "止汗藥(浮小麥·麻黃根·糯稻根) + 氣虛·陰虛·燥熱 盜汗 구분(黃芪·白朮/當歸·白芍·生地/地骨皮·知母)",
+   "where": [
+    "new-etc-22#6",
+    "new-etc-22#10"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "3/6만 실림. 빠진 것: 糯稻根 · 益氣固表 · 養血滋陰"
+  },
+  {
+   "line": 3609,
+   "end": 3609,
+   "kind": "표행",
+   "term": "止瀉藥 9(訶子·肉豆蔲·赤石脂·烏梅·罌粟殼·禹餘糧·石榴皮·椿皮·五倍子)",
+   "where": [
+    "new-etc-22#7",
+    "new-etc-22#10",
+    "wei19#9"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "7/10만 실림. 빠진 것: 罌粟殼 · 禹餘糧 · 椿皮"
+  },
+  {
+   "line": 3609,
+   "end": 3609,
+   "kind": "표행",
+   "term": "澁精縮尿止帶藥 9(五味子·蓮子肉·芡實·山茱萸·金櫻子·桑螵蛸·覆盆子·海螵蛸·白礬)",
+   "where": [
+    "new-etc-22#8",
+    "new-etc-22#10",
+    "suchi-suhwa#3",
+    "suchi-suhwa#6",
+    "suchi-suhwa#11"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "7/9만 실림. 빠진 것: 覆盆子 · 海螵蛸"
+  },
+  {
+   "line": 3611,
+   "end": 3612,
+   "kind": "표행",
+   "term": "湧吐藥 4(瓜蒂·常山·膽礬·藜蘆)",
+   "where": [
+    "new-etc-22#0",
+    "new-etc-22#9",
+    "new-etc-22#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3613,
+   "end": 3614,
+   "kind": "표행",
+   "term": "外用藥 11종(硫黃·砒石·雄黃·輕粉·鉛丹·爐甘石·硼砂·斑蝥·露蜂房·大風子·木槿皮)",
+   "where": [
+    "suchi-dan#1",
+    "suchi-dan#6",
+    "suchi-dan#9",
+    "wei19#1",
+    "wei19#3",
+    "qiqing-conflict#7"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "5/11만 실림. 빠진 것: 砒石 · 輕粉 · 鉛丹 · 露蜂房 · 大風子 · 木槿皮"
+  },
+  {
+   "line": 3614,
+   "end": 3614,
+   "kind": "표행",
+   "term": "外用藥 5효능(殺蟲止痒·消腫散結·化腐排膿·生肌收口·收斂護膚)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 외용약 5효능은 약재 각론(보류)"
+  },
+  {
+   "line": 3614,
+   "end": 3614,
+   "kind": "※",
+   "term": "外用藥 毒性 要注意(水銀·輕粉·銀硃·鉛丹·密陀僧·砒石·升丹·白降丹)",
+   "where": [
+    "wei19#3"
+   ],
+   "verdict": "약함",
+   "proposal": "싣지 않음(약재 각론 보류)",
+   "note": "密陀僧은 wei19#3 十九畏에서만 이름으로 나옴"
+  },
+  {
+   "line": 3616,
+   "end": 3616,
+   "kind": "표",
+   "term": "本草 效能別 정리표(p.207 표 — 텍스트 없음)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너 — 원본 표 확인 후",
+   "note": "p.207 효능별 정리표는 텍스트가 없는 그림 표(교재 3616) — 확인 필요"
+  },
+  {
+   "line": 3620,
+   "end": 3620,
+   "kind": "정의",
+   "term": "君臣佐使 정의(君·臣·佐·使 4자리)",
+   "where": [
+    "hp-06#1",
+    "hp-06#2",
+    "hp-06#3",
+    "hp-06#4",
+    "hp-06#5",
+    "hp-06#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3620,
+   "end": 3620,
+   "kind": "정의",
+   "term": "佐 3종(佐助·佐制·反佐[藥物反佐·服用反佐])",
+   "where": [
+    "hp-06#3",
+    "hp-06#4",
+    "hp-06#5",
+    "hp-06#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3620,
+   "end": 3620,
+   "kind": "정의",
+   "term": "使藥 = 引經藥(少陽 柴胡·靑皮, 陽明 白芷) · 調和諸藥",
+   "where": [
+    "hp-06#6",
+    "hp-06#7",
+    "hp-06#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3620,
+   "end": 3620,
+   "kind": "※",
+   "term": "麻黃湯 君麻黃·臣桂枝·佐杏仁·使甘草",
+   "where": [
+    "hp-06#0",
+    "hp-06#1",
+    "hp-06#2",
+    "hp-06#3",
+    "hp-06#7",
+    "hp-06#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3622,
+   "end": 3622,
+   "kind": "■",
+   "term": "七方 출전 至眞要大論(治有緩急 方有大小·補上治上制以緩 補下治下制以急·君一臣二 奇·君二臣四 偶·奇之不去則偶之 重方)",
+   "where": [
+    "new-etc-23#1",
+    "new-etc-23#2",
+    "new-etc-23#4",
+    "new-etc-23#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3623,
+   "end": 3623,
+   "kind": "표행",
+   "term": "大方(邪氣强盛·君二臣三佐九·大承氣湯·下焦重病)",
+   "where": [
+    "new-etc-23#0",
+    "new-etc-23#2",
+    "new-etc-23#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3623,
+   "end": 3623,
+   "kind": "표행",
+   "term": "小方(邪氣輕淺·君一臣二·小承氣湯·葱豉湯·上焦病)",
+   "where": [
+    "new-etc-23#0",
+    "new-etc-23#2",
+    "new-etc-23#6"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "3/4만 실림. 빠진 것: 葱豉湯"
+  },
+  {
+   "line": 3623,
+   "end": 3623,
+   "kind": "표행",
+   "term": "緩方(慢性虛弱·甘味 平順·四君子湯·補上治上)",
+   "where": [
+    "new-etc-23#0",
+    "new-etc-23#1",
+    "new-etc-23#3",
+    "new-etc-23#6"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "3/4만 실림. 빠진 것: 不厭頻而小"
+  },
+  {
+   "line": 3623,
+   "end": 3623,
+   "kind": "표행",
+   "term": "急方(急性·强厚·四逆湯·補下治下)",
+   "where": [
+    "new-etc-23#0",
+    "new-etc-23#1",
+    "new-etc-23#3",
+    "new-etc-23#6"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "3/4만 실림. 빠진 것: 不厭頻而多"
+  },
+  {
+   "line": 3623,
+   "end": 3623,
+   "kind": "표행",
+   "term": "奇方(단순 病因·홀수 약·獨蔘湯)",
+   "where": [
+    "new-etc-23#0",
+    "new-etc-23#1",
+    "new-etc-23#4",
+    "new-etc-23#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3623,
+   "end": 3623,
+   "kind": "표행",
+   "term": "偶方(病因複雜·짝수 약·金匱腎氣丸)",
+   "where": [
+    "hp-07#4",
+    "hp-07#5",
+    "hp-07#7"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3623,
+   "end": 3623,
+   "kind": "표행",
+   "term": "複方(合二三方爲一·柴胡桂枝湯·大靑龍湯)",
+   "where": [
+    "new-etc-23#0",
+    "new-etc-23#5",
+    "new-etc-23#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3625,
+   "end": 3625,
+   "kind": "정의",
+   "term": "十劑 陳藏器 本草拾遺 처음 제창",
+   "where": [
+    "new-etc-24#0"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3626,
+   "end": 3626,
+   "kind": "표행",
+   "term": "十劑 宣(宣可去壅 薑·橘 二陳湯·瓜蒂散)",
+   "where": [
+    "hp-07#1"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "2/3만 실림. 빠진 것: 瓜蒂散"
+  },
+  {
+   "line": 3626,
+   "end": 3626,
+   "kind": "표행",
+   "term": "十劑 通(通可去滯 防己 十棗湯)",
+   "where": [
+    "hp-07#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3626,
+   "end": 3626,
+   "kind": "표행",
+   "term": "十劑 補(補可去弱 人蔘·羊肉 四君子湯)",
+   "where": [
+    "hp-07#1"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "1/2만 실림. 빠진 것: 羊肉"
+  },
+  {
+   "line": 3626,
+   "end": 3626,
+   "kind": "표행",
+   "term": "十劑 泄(泄可去閉 葶藶·大黃 大承氣湯)",
+   "where": [
+    "hp-07#1",
+    "new-etc-21#2"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3626,
+   "end": 3626,
+   "kind": "표행",
+   "term": "十劑 輕(輕可去實 麻黃·葛根 麻黃湯)",
+   "where": [
+    "new-etc-24#1",
+    "new-etc-24#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3626,
+   "end": 3626,
+   "kind": "표행",
+   "term": "十劑 重(重可去怯 磁石·鐵粉 朱砂安神丸)",
+   "where": [
+    "new-etc-24#1",
+    "new-etc-24#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "2/3만 실림. 빠진 것: 鐵粉"
+  },
+  {
+   "line": 3626,
+   "end": 3626,
+   "kind": "표행",
+   "term": "十劑 澁(澁可去脫 牡蠣·龍骨 金鎖固精丸·養臟湯)",
+   "where": [
+    "new-etc-24#1",
+    "new-etc-24#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "1/3만 실림. 빠진 것: 澁可去脫 · 養臟湯"
+  },
+  {
+   "line": 3626,
+   "end": 3626,
+   "kind": "표행",
+   "term": "十劑 滑(滑可去著 冬葵·楡皮 葵子散·麻子仁丸)",
+   "where": [
+    "new-etc-24#1",
+    "new-etc-24#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "1/3만 실림. 빠진 것: 滑可去著 · 葵子散"
+  },
+  {
+   "line": 3626,
+   "end": 3626,
+   "kind": "표행",
+   "term": "十劑 燥(燥可去濕 桑白皮·赤小豆 二妙丸)",
+   "where": [
+    "new-etc-24#2",
+    "new-etc-24#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3626,
+   "end": 3626,
+   "kind": "표행",
+   "term": "十劑 濕(濕可去枯 白石英·紫石英 瓊玉膏)",
+   "where": [
+    "new-etc-24#2",
+    "new-etc-24#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3628,
+   "end": 3628,
+   "kind": "정의",
+   "term": "湯劑 정의·장점·煎劑 동의",
+   "where": [
+    "new-etc-25#0",
+    "new-etc-25#1",
+    "new-etc-25#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3628,
+   "end": 3628,
+   "kind": "표행",
+   "term": "先煎(鑛石·貝殼 石膏·牡蠣·毒性 生南星·生草烏)",
+   "where": [
+    "hp-05#0",
+    "hp-05#4",
+    "hp-05#10"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "4/5만 실림. 빠진 것: 生南星"
+  },
+  {
+   "line": 3628,
+   "end": 3628,
+   "kind": "표행",
+   "term": "後下(芳香性 薄荷·砂仁)",
+   "where": [
+    "hp-05#0",
+    "hp-05#8",
+    "hp-05#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3628,
+   "end": 3628,
+   "kind": "표행",
+   "term": "包煎(粘性 車前子·帶毛 旋覆花)",
+   "where": [
+    "new-etc-25#0",
+    "new-etc-25#2",
+    "new-etc-25#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3628,
+   "end": 3628,
+   "kind": "표행",
+   "term": "別煎(귀중품 人蔘·犀角)",
+   "where": [
+    "new-etc-25#0",
+    "new-etc-25#3",
+    "new-etc-25#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3628,
+   "end": 3628,
+   "kind": "표행",
+   "term": "沖服(琥珀·朱砂·三七根)",
+   "where": [
+    "new-etc-25#0",
+    "new-etc-25#4",
+    "new-etc-25#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3628,
+   "end": 3628,
+   "kind": "표행",
+   "term": "溶化(烊化)服(阿膠·芒硝·鹿角膠·飴糖)",
+   "where": [
+    "new-etc-25#0",
+    "new-etc-25#5",
+    "new-etc-25#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3629,
+   "end": 3629,
+   "kind": "표행",
+   "term": "丸劑 ①長期虛弱(六味地黃丸·腎氣丸)②瘀血 癥瘕(抵當丸·舟車丸)③毒性藥(備急丸)④冰片·麝香(至寶丹·蘇合香丸)",
+   "where": [
+    "hp-07#1",
+    "hp-07#4",
+    "hp-07#7"
+   ],
+   "verdict": "약함",
+   "proposal": "표 · 트레이너(劑型 ①②③④ 예 처방)",
+   "note": "丸劑 장점 4갈래(長期虛弱·瘀血癥瘕·毒性藥·冰片麝香)는 hp-07#4 六味地黃丸 한 칸만; 抵當丸 · 舟車丸 · 備急丸 · 至寶丹 · 蘇合香丸 없음"
+  },
+  {
+   "line": 3629,
+   "end": 3629,
+   "kind": "표행",
+   "term": "散劑 聖劑經 散者 漸漬而散解 五苓散·平胃散",
+   "where": [
+    "hp-07#2",
+    "hp-07#4",
+    "hp-07#5"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "散劑 정의(聖劑經 漸漬而散解)는 없고 五苓散 · 平胃散은 이름으로만"
+  },
+  {
+   "line": 3631,
+   "end": 3631,
+   "kind": "표행",
+   "term": "膏劑 內服(瓊玉膏) · 外用(薄貼→膏藥)",
+   "where": [
+    "new-etc-24#2"
+   ],
+   "verdict": "약함",
+   "proposal": "표 · 트레이너(劑型 14종 일람)",
+   "note": "膏劑는 瓊玉膏(new-etc-24#2 十劑 濕)로만 나옴. 膏劑 정의 · 外用 薄貼 → 膏藥은 없음"
+  },
+  {
+   "line": 3631,
+   "end": 3631,
+   "kind": "표행",
+   "term": "丹劑·酒醴(鷄矢醴·紅鹽花酒)·藥露(金銀花露)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너(劑型 14종 일람) — 湯·丸·散·膏 외 丹劑·酒醴·藥露 등. 문제집 흔적 없음"
+  },
+  {
+   "line": 3632,
+   "end": 3632,
+   "kind": "표행",
+   "term": "錠劑·餠劑·條劑·線劑",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너(劑型 14종 일람)"
+  },
+  {
+   "line": 3632,
+   "end": 3632,
+   "kind": "표행",
+   "term": "浸洗劑·熏劑·導藥(蜜煎導法)·坐藥",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너(劑型 14종 일람)"
+  },
+  {
+   "line": 3633,
+   "end": 3633,
+   "kind": "※",
+   "term": "煎藥法 發表 武火·補益 文火·芳香 나중·鑛物 먼저",
+   "where": [
+    "new-etc-25#6",
+    "new-etc-25#7",
+    "hp-05#4",
+    "hp-05#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "武火 · 文火는 new-etc-25#6·#7 있음. 芳香性 나중 · 鑛物性 먼저는 hp-05(後下·先煎)에 있음"
+  },
+  {
+   "line": 3633,
+   "end": 3633,
+   "kind": "※",
+   "term": "服藥法 骨髓 夕食後·滋補 空腹·四肢血脈 아침·胃腸刺戟 食後·胸膈上 食後·胸膈下 食前·瘧疾 2時間前·安神 睡眠前",
+   "where": [
+    "new-etc-26#1",
+    "new-etc-26#2",
+    "new-etc-26#3",
+    "new-etc-26#4",
+    "new-etc-26#5",
+    "new-etc-26#6"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "服藥時間 7조건은 new-etc-26에 모두 있음 — 「就寢前」 표현 차이뿐"
+  },
+  {
+   "line": 3635,
+   "end": 3635,
+   "kind": "※",
+   "term": "服藥時 주의 瓜蒂 吐不止→麝香煎湯 · 藜蘆→葱白煎湯 · 下劑 空腹",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "낭독 한 줄(new-etc-26 말미) 또는 싣지 않음 — 문제집 흔적 없음"
+  },
+  {
+   "line": 3636,
+   "end": 3636,
+   "kind": "정의",
+   "term": "處方의 命名 근거(藥物·效能·主治·用法·出典·創方者·合方·加味)",
+   "where": [
+    "new-etc-24#0",
+    "new-etc-24#3",
+    "new-etc-24#4",
+    "new-etc-24#5",
+    "new-etc-24#6",
+    "new-etc-24#7"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3637,
+   "end": 3637,
+   "kind": "표행",
+   "term": "命名 構成藥物(六一散 6:1·二陳湯·藥物數 六味地黃元·五苓散·六君子湯·四物湯)",
+   "where": [
+    "hp-07#1",
+    "hp-07#2",
+    "hp-07#3",
+    "hp-07#4",
+    "hp-07#7",
+    "new-etc-24#3"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3638,
+   "end": 3638,
+   "kind": "표행",
+   "term": "命名 效能(理中湯·淸暑益氣湯·生脈散·補中益氣湯 …逍遙散·白虎湯)",
+   "where": [
+    "hp-17#4",
+    "hp-17#5",
+    "zds-15#4",
+    "zds-15#6",
+    "zds-15#13"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "6/23만 실림. 빠진 것: 淸暑益氣湯 · 擧元煎 · 潤血飮 · 滋陰降火湯 · 定喘湯 · 安胎飮 · 達生散 · 洗肝明目湯 · 溫經湯 · 附子裏中湯 · 鹿茸大補湯 · 星香正氣"
+  },
+  {
+   "line": 3639,
+   "end": 3639,
+   "kind": "표행",
+   "term": "命名 主治病證(五淋散·五積散·三氣飮·六鬱湯·內消散)",
+   "where": [
+    "new-etc-24#5",
+    "new-etc-24#6",
+    "new-etc-24#7",
+    "new-etc-24#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "3/5만 실림. 빠진 것: 三氣飮 · 內消散"
+  },
+  {
+   "line": 3639,
+   "end": 3639,
+   "kind": "표행",
+   "term": "命名 用法(冷附湯·四磨散·鷄鳴散·吹喉散)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표(명명 근거 8갈래 일람) — new-etc-24에 용법·合方·加味 칸 보탬 후보"
+  },
+  {
+   "line": 3639,
+   "end": 3639,
+   "kind": "표행",
+   "term": "命名 出典·創方者(金匱腎氣丸·錢氏白朮散·陶氏平胃散)",
+   "where": [
+    "hp-07#5",
+    "hp-07#7"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3639,
+   "end": 3639,
+   "kind": "표행",
+   "term": "命名 合方(建理湯·柴平湯·平陳湯·胃苓湯·君苓湯·柴胡四物湯)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표(명명 근거 8갈래 일람)"
+  },
+  {
+   "line": 3639,
+   "end": 3639,
+   "kind": "표행",
+   "term": "命名 加味(加味大補湯·加味歸脾湯·加味平胃散)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표(명명 근거 8갈래 일람)"
+  },
+  {
+   "line": 3641,
+   "end": 3641,
+   "kind": "정의",
+   "term": "方劑學史 漢書藝文志 최초 方劑學 서적 · 內經 13首",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 또는 hist-01a 보탬",
+   "note": "漢書藝文志 · 內經 13首는 方劑學史 요약줄. hist 쪽에 있는지 확인 필요(漢書藝文志는 카드 gaps 「의학 기원」 칸)"
+  },
+  {
+   "line": 3641,
+   "end": 3641,
+   "kind": "정의",
+   "term": "張仲景 傷寒雜病論 최초 辨證論治 經典",
+   "where": [
+    "hist-01b#1",
+    "hist-01b#2",
+    "hist-01b#7",
+    "hist-01b#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3641,
+   "end": 3641,
+   "kind": "정의",
+   "term": "劉涓子鬼遺方 현존 최초 外科 專門書(晉末 劉涓子·南齊 龔慶宣)",
+   "where": [
+    "hist-02b#1",
+    "hist-02b#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3641,
+   "end": 3641,
+   "kind": "정의",
+   "term": "徐之才 藥對 十種 / 十劑說 陳藏器·聖濟經",
+   "where": [
+    "hist-02a#0",
+    "hist-02a#9",
+    "hist-02a#10",
+    "hist-02a#11"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "3/4만 실림. 빠진 것: 聖濟經"
+  },
+  {
+   "line": 3641,
+   "end": 3641,
+   "kind": "정의",
+   "term": "太平聖惠方 국가 第一 方書 · 太平惠民和劑局方 최초 旣成藥典(四物·四君子·逍遙·紫雪丹·至寶丹)",
+   "where": [
+    "hp-07#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3641,
+   "end": 3641,
+   "kind": "정의",
+   "term": "錢乙 小兒藥證直訣 최초 兒科 專門書",
+   "where": [
+    "hist-04#0",
+    "hist-04#4",
+    "hist-04#5",
+    "hist-04#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3643,
+   "end": 3643,
+   "kind": "정의",
+   "term": "張元素 新方 九味羌活湯 臟腑標本藥式 醫學啓源",
+   "where": [
+    "hist-05b#2"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "2/3만 실림. 빠진 것: 九味羌活湯"
+  },
+  {
+   "line": 3643,
+   "end": 3643,
+   "kind": "정의",
+   "term": "李杲 脾胃 益氣升陽說 甘溫除熱法 補中益氣湯 內外傷辨惑論 脾胃論 蘭室秘藏",
+   "where": [
+    "hist-06a#0",
+    "hist-06a#5",
+    "hist-06a#6",
+    "hist-06a#11"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "2/6만 실림. 빠진 것: 益氣升陽 · 甘溫除熱 · 內外傷辨惑論 · 蘭室秘藏"
+  },
+  {
+   "line": 3643,
+   "end": 3643,
+   "kind": "정의",
+   "term": "朱橚 普濟方 역사상 最大 方書",
+   "where": [
+    "new-etc-04#0",
+    "new-etc-04#2",
+    "new-etc-04#4",
+    "new-etc-04#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3643,
+   "end": 3643,
+   "kind": "정의",
+   "term": "吳崑 醫方考 · 張介賓 景岳全書 新方八陳·古方八陳 · 陳實功 外科正宗",
+   "where": [
+    "new-etc-04#0",
+    "new-etc-04#5",
+    "new-etc-04#7"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "1/4만 실림. 빠진 것: 新方八陳 · 古方八陳 · 外科正宗"
+  },
+  {
+   "line": 3643,
+   "end": 3643,
+   "kind": "정의",
+   "term": "汪昂 醫方集解·湯頭歌訣·本草備要",
+   "where": [
+    "hist-10#2",
+    "hist-10#3",
+    "hist-10#4",
+    "hist-10#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3646,
+   "end": 3646,
+   "kind": "정의",
+   "term": "四診 望聞問切 요약 · 四診合參",
+   "where": [
+    "new-zj-16#0",
+    "new-zj-16#1",
+    "new-zj-16#2",
+    "new-zj-16#3",
+    "new-zj-16#4",
+    "new-zj-16#5"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "4/5만 실림. 빠진 것: 四診合參"
+  },
+  {
+   "line": 3647,
+   "end": 3648,
+   "kind": "정의",
+   "term": "望診 神色形態 有諸內必形于外 · 神·色·形·態 4요소",
+   "where": [
+    "new-zj-16#0",
+    "new-zj-16#1",
+    "new-zj-16#2",
+    "new-zj-16#4",
+    "new-zj-16#5",
+    "new-zj-16#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3650,
+   "end": 3650,
+   "kind": "번호",
+   "term": "望神 得神·失神·假神(回光返照·殘燈復明) 失神者死·得神者生",
+   "where": [
+    "zds-10#9",
+    "zds-10#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3651,
+   "end": 3651,
+   "kind": "번호",
+   "term": "望色 光澤=精氣 盛衰 · 五臟生成論 死色 5(靑如草玆·黃如枳實·黑如炲·赤如衃血·白如枯骨)",
+   "where": [
+    "zds-10#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3651,
+   "end": 3651,
+   "kind": "원문",
+   "term": "面黃 … 皆不死也",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 원문 한 구절, 문제집 흔적 없음"
+  },
+  {
+   "line": 3652,
+   "end": 3652,
+   "kind": "번호",
+   "term": "望形體·動態 肥人多濕·肥人多痰·瘦人多火·瘦人多勞嗽",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 또는 낭독 — 望形體 4구(肥人多濕 등), 문제집 흔적 없음"
+  },
+  {
+   "line": 3652,
+   "end": 3652,
+   "kind": "원문",
+   "term": "脈要精微論 頭者精明之府·背者胸中之府·腰者腎之府·膝者筋之府·骨者髓之府",
+   "where": [
+    "new-uk-02#2",
+    "new-uk-02#3",
+    "new-uk-02#4",
+    "new-uk-02#5",
+    "new-uk-02#6",
+    "new-uk-02#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3655,
+   "end": 3655,
+   "kind": "번호",
+   "term": "望頭面 ① 頭部(諸陽之會·腦髓·小兒顖門) ② 毛髮 ③ 얼굴",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 局部望診(頭面 毛髮 顖門)"
+  },
+  {
+   "line": 3656,
+   "end": 3656,
+   "kind": "표행",
+   "term": "面部 五色望診 靑(寒·痛·氣閉·瘀血·驚風)",
+   "where": [
+    "zds-09#0",
+    "zds-09#1",
+    "zds-09#2",
+    "zds-09#3",
+    "zds-09#4",
+    "zds-09#11"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3656,
+   "end": 3656,
+   "kind": "표행",
+   "term": "面部 五色 赤(熱·赤甚實熱·微赤虛熱)",
+   "where": [
+    "zds-09#5",
+    "zds-09#6",
+    "zds-09#12"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "3/4만 실림. 빠진 것: 赤甚"
+  },
+  {
+   "line": 3656,
+   "end": 3656,
+   "kind": "표행",
+   "term": "面部 五色 黃(虛證·濕)/白(虛·寒·脫血·脫氣)/黑(腎虛·寒·痛·水飮·瘀血)",
+   "where": [
+    "zds-10#1",
+    "zds-10#4",
+    "zds-10#5",
+    "zds-10#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3657,
+   "end": 3657,
+   "kind": "표행",
+   "term": "④ 目 五輪說(肝風輪·心血輪·脾肉輪·肺氣輪·腎水輪)",
+   "where": [
+    "new-zj-17#1",
+    "new-zj-17#2",
+    "new-zj-17#3",
+    "new-zj-17#4",
+    "new-zj-17#5",
+    "new-zj-17#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3658,
+   "end": 3658,
+   "kind": "번호",
+   "term": "⑤ 鼻(肺·胃 病變) ⑥ 齒齦(齒=骨之餘·腎·齦=陽明) ⑦ 口脣(脾·手足陽明) ⑧ 耳(腎·少陽·宗脈之所聚)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 또는 표 — 문제집 흔적: 骨之餘 (2351,2416행) · 확인 필요",
+   "note": "耳 · 齒齦 · 口脣 등은 다른 장 장부 과에 이름만"
+  },
+  {
+   "line": 3658,
+   "end": 3658,
+   "kind": "번호",
+   "term": "⑨ 咽喉(咽=飮食·喉=呼吸 · 乳蛾) ⑩ 頸項",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 咽喉 · 頸項 · 乳蛾"
+  },
+  {
+   "line": 3659,
+   "end": 3659,
+   "kind": "번호",
+   "term": "(2) 四肢 望診 ① 胸腹背腰 ② 四肢(掌腕 朱砂 肝經 血脈凝滯·指甲 肝膽 外候) ③ 皮膚(斑疹·癮疹·風疹·白痞·水痘·癰·疽·疔·癤)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 四肢 · 皮膚 望診(癮疹 · 白痞 · 水痘 · 疔 · 癤 · 癰疽는 hp-10#6에 한 줄)"
+  },
+  {
+   "line": 3659,
+   "end": 3659,
+   "kind": "표행",
+   "term": "癰[陽證]·疽[陰證]",
+   "where": [
+    "hp-10#6"
+   ],
+   "verdict": "글로만",
+   "proposal": "",
+   "note": "hp-10#6에 癰 · 疽가 나옴(望診 맥락 아님)"
+  },
+  {
+   "line": 3661,
+   "end": 3661,
+   "kind": "번호",
+   "term": "④ 前陰·後陰(陰囊病 水疝·癩疝·狐疝·下疳·陰挺·脫肛·痔瘡)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 그림 — 前陰 · 後陰 병증(水疝 · 癩疝 · 狐疝 · 下疳 · 陰挺 · 脫肛 · 痔瘡)"
+  },
+  {
+   "line": 3663,
+   "end": 3663,
+   "kind": "번호",
+   "term": "望舌 근거 ① 舌爲心之苗 ② 舌爲脾胃之外候 ③ 經絡 相互聯關(5經 舌本)",
+   "where": [
+    "new-zj-18#0",
+    "new-zj-18#1",
+    "new-zj-18#2",
+    "new-zj-18#3",
+    "new-zj-18#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3663,
+   "end": 3663,
+   "kind": "번호",
+   "term": "舌 臟腑별 분할 舌尖 心肺·舌中 脾胃·舌邊 肝膽·舌根 腎",
+   "where": [
+    "new-zj-18#6",
+    "new-zj-18#7",
+    "new-zj-18#8",
+    "new-zj-18#9"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3664,
+   "end": 3664,
+   "kind": "정의",
+   "term": "舌診 舌質(血病)·舌苔(氣病) · 정상 淡紅 薄白苔",
+   "where": [
+    "new-zj-18#0",
+    "new-zj-18#4",
+    "new-zj-18#5",
+    "new-zj-18#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3665,
+   "end": 3665,
+   "kind": "표행",
+   "term": "舌質 ① 舌神(榮) ② 舌色 淡·紅·絳·紫",
+   "where": [
+    "new-zj-18#4"
+   ],
+   "verdict": "약함",
+   "proposal": "낭독 한 줄(new-zj-18#4에 舌神 보탬)",
+   "note": "舌神(榮) 칸이 없음"
+  },
+  {
+   "line": 3665,
+   "end": 3665,
+   "kind": "표행",
+   "term": "舌形 粗老·細嫩·肥大(重舌)·瘦薄·裂紋·齒痕·芒刺",
+   "where": [
+    "new-zj-19#0",
+    "new-zj-19#1",
+    "new-zj-19#2",
+    "new-zj-19#4",
+    "new-zj-19#5",
+    "new-zj-19#6"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "6/8만 실림. 빠진 것: 肥大 · 重舌"
+  },
+  {
+   "line": 3665,
+   "end": 3665,
+   "kind": "표행",
+   "term": "舌態 强硬·痿軟·顫動·歪斜·吐弄·短縮(捲縮)",
+   "where": [
+    "new-zj-20#0",
+    "new-zj-20#2",
+    "new-zj-20#3",
+    "new-zj-20#4",
+    "new-zj-20#5",
+    "new-zj-20#6"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "5/6만 실림. 빠진 것: 强硬"
+  },
+  {
+   "line": 3667,
+   "end": 3667,
+   "kind": "표행",
+   "term": "苔質 厚薄·潤燥·膩腐·剝落·有根/無根",
+   "where": [
+    "new-zj-21#1",
+    "new-zj-21#2",
+    "new-zj-21#3",
+    "new-zj-21#4"
+   ],
+   "verdict": "약함",
+   "proposal": "그림(new-zj-21 장면 보탬)",
+   "note": "苔質 厚薄 · 潤燥 · 膩腐 · 剝落 · 有根/無根 중 潤 · 燥 · 膩 · 腐(new-zj-21)는 있고 厚薄 · 剝落 · 有根無根은 없음"
+  },
+  {
+   "line": 3667,
+   "end": 3667,
+   "kind": "표행",
+   "term": "苔色 黃·白·灰·黑",
+   "where": [
+    "new-zj-21#5",
+    "new-zj-21#6",
+    "new-zj-21#7",
+    "new-zj-21#8",
+    "new-zj-21#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3667,
+   "end": 3667,
+   "kind": "※",
+   "term": "鏡面舌 剝苔 胃陰枯渴 胃無發生之氣",
+   "where": [
+    "new-zj-21#0",
+    "new-zj-21#9",
+    "new-zj-21#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3669,
+   "end": 3669,
+   "kind": "번호",
+   "term": "望排泄物 諸病水液 澄澈淸冷 皆屬於寒 · 諸轉反戾 水液混濁 皆屬於熱",
+   "where": [
+    "new-etc-09a#9"
+   ],
+   "verdict": "약함",
+   "proposal": "낭독 한 줄 또는 싣지 않음",
+   "note": "諸病水液澄澈淸冷皆屬於寒은 병기 과(new-etc-09a)에만 있고 望診 맥락의 배설물(痰涎 · 嘔吐物 · 噴射)은 없음"
+  },
+  {
+   "line": 3669,
+   "end": 3669,
+   "kind": "번호",
+   "term": "痰中帶血(肺陰虛) · 嘔吐物 噴射狀(腦病) · 望髮 의의",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 痰中帶血 · 噴射狀 嘔吐 · 望髮 3줄"
+  },
+  {
+   "line": 3671,
+   "end": 3671,
+   "kind": "번호",
+   "term": "聞診 聽聲音 ① 言語(實則譫語·虛則鄭聲) ② 呼吸(氣微·氣粗·哮·喘·鼻鼾)",
+   "where": [
+    "new-zj-22#1"
+   ],
+   "verdict": "약함",
+   "proposal": "그림(new-zj-22 장면 보탬) 또는 표",
+   "note": "譫語 · 鄭聲(new-zj-22)은 있고 呼吸(氣微 · 氣粗 · 哮 · 喘 · 鼻鼾)은 없음"
+  },
+  {
+   "line": 3671,
+   "end": 3671,
+   "kind": "번호",
+   "term": "③ 咳嗽(咳·嗽·咳嗽) ④ 嘔吐·呃逆·噯氣(嘔·吐·乾嘔) ⑤ 嘆息=氣鬱",
+   "where": [
+    "hp-18#3",
+    "new-zj-22#0",
+    "new-zj-22#7",
+    "new-zj-22#8",
+    "mer-03#9"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "4/5만 실림. 빠진 것: 氣鬱"
+  },
+  {
+   "line": 3673,
+   "end": 3673,
+   "kind": "번호",
+   "term": "聞氣臭 ① 病臭 ② 口臭·痰涕(鼻淵) ③ 二便 臭",
+   "where": [
+    "new-zj-25#4",
+    "new-zj-25#5",
+    "new-zj-25#6"
+   ],
+   "verdict": "약함",
+   "proposal": "표 또는 싣지 않음",
+   "note": "二便 臭(酸臭 · 腸寒 · 濕熱)는 new-zj-25에 있고 病臭 · 口臭 · 痰涕(鼻淵)는 없음"
+  },
+  {
+   "line": 3675,
+   "end": 3675,
+   "kind": "암기",
+   "term": "十問歌 一問寒熱 … 十問(1~10)",
+   "where": [
+    "zds-11#1",
+    "zds-11#2",
+    "zds-11#3",
+    "zds-11#4",
+    "zds-11#5",
+    "zds-11#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3675,
+   "end": 3675,
+   "kind": "암기",
+   "term": "十問歌 婦人必問經期·兒科 天花麻疹",
+   "where": [
+    "zds-11#12"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "2/3만 실림. 빠진 것: 婦人必問經期"
+  },
+  {
+   "line": 3674,
+   "end": 3674,
+   "kind": "정의",
+   "term": "問診 출전 陳修園 醫學實在易·張景岳 景岳全書",
+   "where": [
+    "zds-11#11",
+    "zds-11#13"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3677,
+   "end": 3677,
+   "kind": "표행",
+   "term": "問寒熱 ① 但寒不熱(裏虛寒·裏實寒)",
+   "where": [
+    "new-zj-23#2",
+    "new-zj-23#10",
+    "zds-15#5"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "裏虛寒 · 裏實寒 구분은 없고 但寒不熱=裏寒證 한 줄만"
+  },
+  {
+   "line": 3677,
+   "end": 3677,
+   "kind": "표행",
+   "term": "② 但熱不寒 壯熱(陽明·氣分)·潮熱(陽明潮熱 日晡·濕溫潮熱·陰虛潮熱)·微熱",
+   "where": [
+    "new-zj-23#3",
+    "zds-14#6",
+    "zds-14#7",
+    "new-etc-31#3",
+    "new-etc-31#4",
+    "new-etc-31#7"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "壯熱 · 潮熱 · 微熱 세 갈래는 있고 日晡 · 濕溫 · 陰虛潮熱 세부는 없음"
+  },
+  {
+   "line": 3677,
+   "end": 3677,
+   "kind": "표행",
+   "term": "③ 惡寒發熱 ④ 寒熱往來(少陽病·溫病·瘧疾)",
+   "where": [
+    "new-zj-23#0",
+    "new-zj-23#1",
+    "new-zj-23#10",
+    "zds-14#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3677,
+   "end": 3677,
+   "kind": "표행",
+   "term": "氣虛發熱 長期微熱 · 小兒夏季熱",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 氣虛發熱 · 小兒夏季熱 두 줄"
+  },
+  {
+   "line": 3679,
+   "end": 3679,
+   "kind": "번호",
+   "term": "問汗 ① 無汗 ② 有汗(實熱·亡陽·自汗·盜汗)",
+   "where": [
+    "hp-17#0",
+    "hp-17#1",
+    "hp-17#3",
+    "hp-17#5",
+    "new-zj-23#0",
+    "new-zj-23#4"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3681,
+   "end": 3681,
+   "kind": "번호",
+   "term": "問疼痛 實證(通하지 않음)·虛證(營養 못 받음)",
+   "where": [
+    "new-zj-22#1",
+    "hp-09#2",
+    "hp-09#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3682,
+   "end": 3682,
+   "kind": "표행",
+   "term": "疼痛 性質 10(脹·刺·絞·串·掣·灼·冷·重·空·隱)",
+   "where": [
+    "new-zj-24#6",
+    "new-zj-24#7",
+    "new-zj-24#8",
+    "new-zj-24#9",
+    "new-zj-24#10",
+    "hp-18#2"
+   ],
+   "verdict": "약함",
+   "proposal": "그림(new-zj-24 장면 보탬)",
+   "note": "脹 · 刺 · 絞 · 空 · 隱(+竄)은 있고 串(竄)=游走 외 掣 · 灼 · 冷 · 重 4종은 없음"
+  },
+  {
+   "line": 3683,
+   "end": 3683,
+   "kind": "표행",
+   "term": "頭痛 外感(風寒·風熱·風濕 首如裹)·內傷(氣虛·血虛·腎虛·脾虛·血瘀·痰濁·食積·肝火上炎)",
+   "where": [],
+   "verdict": "약함",
+   "proposal": "표 · 트레이너(頭痛 병인 11)",
+   "note": "頭痛 內傷 8갈래 · 外感 3갈래는 이름으로 hp-18 등에 흩어짐. 頭痛 병인 표로는 없음"
+  },
+  {
+   "line": 3683,
+   "end": 3683,
+   "kind": "표행",
+   "term": "頭痛 經絡(頭項痛 太陽·前額 陽明·前頭 太陰·頭側 少陽·頭頂 厥陰·少陰 齒)",
+   "where": [
+    "new-zj-24#1",
+    "new-zj-24#2",
+    "new-zj-24#3",
+    "new-zj-24#4"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "4/5만 실림. 빠진 것: 前頭痛"
+  },
+  {
+   "line": 3683,
+   "end": 3683,
+   "kind": "표행",
+   "term": "胸痛·脇痛·胃脘痛(上脘·中脘·下脘·嘈雜)·腹痛(大腹·中腹·小腹·少腹)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 또는 표(痛症 部位별)",
+   "note": "胸痛 · 脇痛 · 胃脘痛 · 腹痛 부위별 문진은 문진 과에 없음(new-gr-11은 경락 증상)"
+  },
+  {
+   "line": 3683,
+   "end": 3683,
+   "kind": "표행",
+   "term": "腰痛(腰爲腎之府)·背痛(督脈·膀胱經)·四肢痛(痺)·全身痛",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 또는 표(痛症 部位별)"
+  },
+  {
+   "line": 3684,
+   "end": 3684,
+   "kind": "번호",
+   "term": "周身 眩暈(淸陽不升·風火上擾·腦部失養) · 目眩(肝陽上亢·肝火上炎·肝腎虧虛)",
+   "where": [
+    "zds-08#0"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "眩暈 · 目眩은 zds-08(변증)에서 언급되고 문진 맥락의 眩暈 3 · 目眩 3 감별은 없음"
+  },
+  {
+   "line": 3686,
+   "end": 3686,
+   "kind": "번호",
+   "term": "耳痛·耳鳴·重聽·耳聾 · 胸悶 · 心悸(驚悸·怔忡) · 腹脹 · 疳積 · 麻木",
+   "where": [],
+   "verdict": "약함",
+   "proposal": "표 또는 싣지 않음",
+   "note": "耳鳴 · 耳聾 · 胸悶 · 腹脹 · 麻木은 다른 과에 이름만. 重聽 · 驚悸 · 疳積 없음"
+  },
+  {
+   "line": 3687,
+   "end": 3687,
+   "kind": "◉",
+   "term": "頭痛 問診 의의 頭=諸陽之會·腦=髓之海",
+   "where": [
+    "mer-02#6",
+    "new-gr-13#2",
+    "new-gr-15#5"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3688,
+   "end": 3689,
+   "kind": "번호",
+   "term": "問口渴과 飮水 原因(津液不足·輸布障碍) · 蓄水證·痰飮證",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 또는 표 — 口渴 원인 둘 · 蓄水證 · 痰飮證(zds-15 등 변증 과에 있는지 확인 필요)"
+  },
+  {
+   "line": 3691,
+   "end": 3691,
+   "kind": "번호",
+   "term": "問飮食 · 口味 口苦·口鹹·口酸·口澁·口淡·口甘·口臭",
+   "where": [
+    "new-zj-23#5",
+    "new-zj-23#6",
+    "new-zj-23#7",
+    "new-zj-23#8",
+    "new-zj-23#9",
+    "new-zj-23#10"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "5/6만 실림. 빠진 것: 口澁"
+  },
+  {
+   "line": 3692,
+   "end": 3693,
+   "kind": "번호",
+   "term": "問大便 便秘·溏瀉·五更泄(腎陽虛 命門火衰)",
+   "where": [
+    "hp-16#3"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "便秘 · 五更泄(腎陽虛)은 있고 溏瀉 구분은 없음"
+  },
+  {
+   "line": 3695,
+   "end": 3695,
+   "kind": "번호",
+   "term": "排便感覺 肛門灼熱·排便不爽·裏急後重·滑泄失禁·肛門氣墜",
+   "where": [
+    "new-zj-25#0",
+    "new-zj-25#1",
+    "new-zj-25#2",
+    "new-zj-25#3",
+    "new-zj-25#7"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "3/5만 실림. 빠진 것: 肛門灼熱 · 排便不爽"
+  },
+  {
+   "line": 3696,
+   "end": 3696,
+   "kind": "번호",
+   "term": "問小便 尿量 增多·減少 · 回數(頻數) · 排尿異常(尿痛·癃閉·餘瀝不盡·失禁·遺尿)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 또는 표 — 尿量 · 回數 · 排尿異常(癃閉 · 餘瀝不盡 · 遺尿)"
+  },
+  {
+   "line": 3697,
+   "end": 3697,
+   "kind": "번호",
+   "term": "問睡眠 失眠 嗜眠",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 失眠 · 嗜眠 두 줄"
+  },
+  {
+   "line": 3699,
+   "end": 3699,
+   "kind": "번호",
+   "term": "問婦女 經帶胎産 · 月經先期(血熱妄行·氣虛不攝)·後期(血寒·血虛·血瘀)·先後不定期(肝氣鬱結…)·崩漏·經行腹痛",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 問婦女 月經先期 · 後期 · 先後不定期 · 崩漏 · 經行腹痛(崩漏은 hp-16 · new-etc-11에서 병기로 언급)"
+  },
+  {
+   "line": 3700,
+   "end": 3700,
+   "kind": "번호",
+   "term": "問小兒 虎口三關指紋法(風關·氣關·命關)",
+   "where": [
+    "zds-11#12"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3702,
+   "end": 3702,
+   "kind": "정의",
+   "term": "切診 脈診(中國·韓國)·觸診(日本)",
+   "where": [
+    "new-zj-26#0",
+    "new-zj-26#2",
+    "new-zj-29#0",
+    "zds-12#0"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3704,
+   "end": 3704,
+   "kind": "원문",
+   "term": "脈診 意義 夫脈者血之府 長氣治 短氣病 數煩心 大病進 (脈要精微論) · 脈之盛衰 所以候氣之虛實(靈樞 逆順論)",
+   "where": [
+    "new-zj-26#1"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "脈者血之府 구절은 있음(new-zj-26#1). 靈樞 逆順論 구절 없음"
+  },
+  {
+   "line": 3706,
+   "end": 3706,
+   "kind": "번호",
+   "term": "脈診 部位 ① 遍診法(三部九候論·머리·손·발·天地人) ② 三部診法(人迎·寸口·趺陽) ③ 寸口診法",
+   "where": [
+    "new-zj-26#0",
+    "new-zj-26#2",
+    "new-zj-26#3",
+    "new-zj-26#4",
+    "new-zj-26#5",
+    "new-zj-26#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3706,
+   "end": 3706,
+   "kind": "번호",
+   "term": "內經 脈診部位 3(遍診法·人迎氣口脈法·氣口脈法)",
+   "where": [
+    "new-zj-26#2",
+    "new-zj-26#3",
+    "new-zj-26#4",
+    "new-zj-26#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3707,
+   "end": 3707,
+   "kind": "■",
+   "term": "難經 寸口 診法 三部者寸關尺·三候者浮中沈",
+   "where": [
+    "hist-01a#0",
+    "hist-01a#1",
+    "hist-01a#2",
+    "hist-01a#4",
+    "hist-01a#5",
+    "hist-01a#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3708,
+   "end": 3708,
+   "kind": "■",
+   "term": "王叔和 脈經 寸關尺 臟腑배합(左手 心·肝·腎, 右手 肺·脾·命門)",
+   "where": [
+    "hist-01a#5",
+    "hist-01a#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3709,
+   "end": 3709,
+   "kind": "■",
+   "term": "寸口脈診 原理 肺朝百脈 · 肺經 中焦 · 脾胃 後天之本",
+   "where": [
+    "new-zj-26#5",
+    "new-zj-26#9",
+    "new-zj-04#2",
+    "new-zj-04#12"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3710,
+   "end": 3710,
+   "kind": "번호",
+   "term": "脈診時間 平旦·50搏動 이상",
+   "where": [
+    "suchi-gabo2#4",
+    "new-uk-04#5"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3712,
+   "end": 3712,
+   "kind": "번호",
+   "term": "指法 擧·按·尋 · 浮按 六腑·中按 胃氣·沈按 五臟 · 總按·單按",
+   "where": [
+    "new-zj-26#6",
+    "new-zj-26#9"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "3/5만 실림. 빠진 것: 總按 · 單按"
+  },
+  {
+   "line": 3713,
+   "end": 3713,
+   "kind": "번호",
+   "term": "平脈 一息 4~5회 · 胃神根 · 脈合四時(弦洪毛石·規矩衡權)",
+   "where": [
+    "new-zj-26#7"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "胃神根 · 平脈은 있음(new-zj-26#7) 脈有根 표현 차이뿐"
+  },
+  {
+   "line": 3714,
+   "end": 3714,
+   "kind": "번호",
+   "term": "傷寒緊·傷風緩·熱病數·中暑虛 · 陽證陽脈 順·陰證陽脈 吉",
+   "where": [
+    "zds-14#0",
+    "zds-14#2",
+    "zds-14#3",
+    "zds-14#4",
+    "zds-14#13",
+    "new-zj-28#0"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "6/8만 실림. 빠진 것: 傷風 · 中暑"
+  },
+  {
+   "line": 3714,
+   "end": 3714,
+   "kind": "번호",
+   "term": "六要脈(浮沈遲數滑澁)",
+   "where": [
+    "zds-12#0",
+    "zds-12#1",
+    "zds-12#2",
+    "zds-12#3",
+    "zds-12#4",
+    "zds-12#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3714,
+   "end": 3714,
+   "kind": "번호",
+   "term": "七表脈·八裏脈",
+   "where": [
+    "new-zj-28#0",
+    "new-zj-27#0"
+   ],
+   "verdict": "약함",
+   "proposal": "표 · 트레이너(七表·八裏 묶음)",
+   "note": "七表脈 · 八裏脈 이름 묶음은 없고 개별 脈은 new-zj-27 · 28에 있음(濇=澁)"
+  },
+  {
+   "line": 3714,
+   "end": 3714,
+   "kind": "번호",
+   "term": "七怪脈(魚翔·蝦游·釜沸·解索·雀啄·屋漏·彈石)",
+   "where": [
+    "new-zj-28#10",
+    "new-zj-28#11"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3714,
+   "end": 3714,
+   "kind": "번호",
+   "term": "脈證相應·不相應 · 舍證從脈·舍脈從證",
+   "where": [
+    "new-zj-26#8",
+    "new-zj-26#9"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3715,
+   "end": 3715,
+   "kind": "표행",
+   "term": "浮脈·芤脈·散脈",
+   "where": [
+    "new-zj-27#1",
+    "new-zj-27#2",
+    "new-zj-27#7",
+    "zds-12#1",
+    "zds-12#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3715,
+   "end": 3715,
+   "kind": "표행",
+   "term": "沈脈·伏脈·牢脈",
+   "where": [
+    "new-zj-27#3",
+    "new-zj-27#4",
+    "new-zj-27#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3717,
+   "end": 3717,
+   "kind": "표행",
+   "term": "遲脈·緩脈",
+   "where": [
+    "new-zj-27#5",
+    "zds-12#3",
+    "zds-12#9"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3717,
+   "end": 3717,
+   "kind": "표행",
+   "term": "數脈·疾脈",
+   "where": [
+    "new-zj-27#6",
+    "new-zj-27#7",
+    "zds-12#4",
+    "zds-12#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3717,
+   "end": 3717,
+   "kind": "표행",
+   "term": "虛脈·短脈",
+   "where": [
+    "zds-12#5",
+    "zds-12#9",
+    "new-jq-22#4",
+    "new-jq-22#8",
+    "new-zj-02#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "3/4만 실림. 빠진 것: 短脈"
+  },
+  {
+   "line": 3717,
+   "end": 3717,
+   "kind": "표행",
+   "term": "實脈·長脈",
+   "where": [
+    "zds-12#6"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "實脈은 있고 長脈은 없음(zds-12#6)"
+  },
+  {
+   "line": 3717,
+   "end": 3717,
+   "kind": "표행",
+   "term": "滑脈·動脈",
+   "where": [
+    "zds-12#7"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "滑脈은 있고 動脈(關上 豆隆然 驚恐 痛甚)은 없음"
+  },
+  {
+   "line": 3717,
+   "end": 3717,
+   "kind": "표행",
+   "term": "澁脈",
+   "where": [
+    "zds-12#8",
+    "zds-12#9"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3717,
+   "end": 3717,
+   "kind": "표행",
+   "term": "細脈·濡脈·微脈·弱脈",
+   "where": [
+    "new-zj-28#1",
+    "new-zj-28#2",
+    "new-zj-28#3",
+    "hp-17#1"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "4/5만 실림. 빠진 것: 亡陽症"
+  },
+  {
+   "line": 3717,
+   "end": 3717,
+   "kind": "표행",
+   "term": "洪脈",
+   "where": [
+    "new-zj-28#4",
+    "new-zj-28#11"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3717,
+   "end": 3717,
+   "kind": "표행",
+   "term": "弦脈·緊脈·革脈",
+   "where": [
+    "new-zj-28#5",
+    "new-zj-28#6"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "弦 · 緊은 new-zj-28에 있고 革脈(外强中虛)은 없음"
+  },
+  {
+   "line": 3717,
+   "end": 3717,
+   "kind": "표행",
+   "term": "代脈·促脈·結脈",
+   "where": [
+    "new-zj-28#0",
+    "new-zj-28#7",
+    "new-zj-28#8",
+    "new-zj-28#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3718,
+   "end": 3718,
+   "kind": "◉",
+   "term": "獨取寸口法 근거 難經 (脈學上 가장 特徵 있는 책)",
+   "where": [
+    "hist-01a#0",
+    "hist-01a#1",
+    "hist-01a#2",
+    "hist-01a#4",
+    "hist-01a#5",
+    "hist-01a#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3720,
+   "end": 3720,
+   "kind": "정의",
+   "term": "觸診(按診) 정의",
+   "where": [
+    "new-zj-29#0"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "1/2만 실림. 빠진 것: 按診"
+  },
+  {
+   "line": 3721,
+   "end": 3721,
+   "kind": "번호",
+   "term": "皮膚觸診(寒熱·潤燥·腫脹·瘡瘍·皮膚甲錯=瘀血)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 皮膚觸診 · 腹部觸診 보탬(new-zj-29)"
+  },
+  {
+   "line": 3721,
+   "end": 3721,
+   "kind": "번호",
+   "term": "四肢觸診 手足俱冷·手心熱·手背熱·小兒 中指",
+   "where": [
+    "new-zj-29#1",
+    "new-zj-29#2",
+    "new-zj-29#3",
+    "new-zj-29#4",
+    "new-zj-29#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3721,
+   "end": 3721,
+   "kind": "번호",
+   "term": "胸部觸診 虛里(左乳下 4~5肋·胃之大絡)",
+   "where": [
+    "new-zj-29#0",
+    "new-zj-29#5",
+    "new-zj-29#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3721,
+   "end": 3721,
+   "kind": "번호",
+   "term": "腹部觸診 喜按·拒按·癥積·瘕聚·結胸·痞氣",
+   "where": [
+    "new-zj-29#6",
+    "new-zj-29#7"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "癥積 · 瘕聚 · 喜按 · 拒按은 있고 結胸 · 痞氣는 없음"
+  },
+  {
+   "line": 3721,
+   "end": 3721,
+   "kind": "번호",
+   "term": "兪穴按診 壓痛點·背兪穴(膀胱經 1.5寸)·肝病→肝兪·期門",
+   "where": [],
+   "verdict": "약함",
+   "proposal": "그림 또는 싣지 않음",
+   "note": "壓痛點 · 肝兪 · 期門은 경락 과(mer-04 등)에서 별개 맥락"
+  },
+  {
+   "line": 3723,
+   "end": 3723,
+   "kind": "정의",
+   "term": "治法 外治法(鍼灸·推拿·外用藥物)·內治法(八法)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "낭독 한 줄(new-etc-28)",
+   "note": "13장 서두(外治法 · 內治法 · 八法)는 new-etc-28#4에 八法 이름만"
+  },
+  {
+   "line": 3725,
+   "end": 3726,
+   "kind": "정의",
+   "term": "治病求本 · 正治(逆者正治) 治寒以熱·治熱以寒·實則瀉之·虛則補之",
+   "where": [
+    "hp-14#2"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "5/7만 실림. 빠진 것: 治病求本 · 逆者正治"
+  },
+  {
+   "line": 3728,
+   "end": 3728,
+   "kind": "표행",
+   "term": "反治 ① 熱因熱用(眞寒假熱 陰盛格陽·通脈四逆湯)",
+   "where": [
+    "hp-16#4",
+    "hp-16#5",
+    "hp-16#6",
+    "hp-16#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3728,
+   "end": 3728,
+   "kind": "표행",
+   "term": "反治 ② 寒因寒用(眞熱假寒 陽盛格陰·熱厥 熱深厥深)",
+   "where": [
+    "hp-16#6",
+    "hp-16#7",
+    "hp-16#8"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "2/3만 실림. 빠진 것: 熱深厥深"
+  },
+  {
+   "line": 3728,
+   "end": 3728,
+   "kind": "표행",
+   "term": "反治 ③ 塞因塞用(以補開塞·以澁通痞·脾虛 脘腹脹滿 時脹時減)",
+   "where": [
+    "new-etc-27#7"
+   ],
+   "verdict": "약함",
+   "proposal": "그림(new-etc-27 장면 보탬)",
+   "note": "塞因塞用 이름과 정의는 new-etc-27#7에 있고 以補開塞 · 以澁通痞 · 脾虛 脘腹脹滿 時脹時減 사례는 없음"
+  },
+  {
+   "line": 3728,
+   "end": 3728,
+   "kind": "표행",
+   "term": "反治 ④ 通因通用(食積泄瀉·濕熱痢疾·血瘀崩漏)",
+   "where": [
+    "new-etc-27#5",
+    "new-etc-27#7",
+    "new-etc-27#8",
+    "new-etc-27#9"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3728,
+   "end": 3728,
+   "kind": "표행",
+   "term": "反治 ⑤ 反佐法(用藥反佐·服用反佐·熱藥冷服) · cf)",
+   "where": [
+    "hp-06#5"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "3/4만 실림. 빠진 것: 熱藥冷服"
+  },
+  {
+   "line": 3728,
+   "end": 3728,
+   "kind": "cf",
+   "term": "cf) 眞熱假寒→寒因寒用 · 眞寒假熱→熱因熱用 · 裏實表虛→通因通用",
+   "where": [
+    "hp-16#4",
+    "hp-16#5",
+    "hp-16#6",
+    "hp-16#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3729,
+   "end": 3730,
+   "kind": "표행",
+   "term": "標本治法 本/標 감별 표(原因·正氣·先發·眞證·裏證·本證 ‖ 現象·邪氣·後病·假證·表證·兼證)",
+   "where": [
+    "new-etc-27#2"
+   ],
+   "verdict": "약함",
+   "proposal": "표 · 트레이너(標本 감별표)",
+   "note": "本/標 감별표 한 줄(正氣·邪氣·先病·新病·原因·症狀)은 new-etc-27#2에 있고 眞證/假證 · 裏/表 · 本證/兼證 · 原因/對症治療 칸은 없음"
+  },
+  {
+   "line": 3731,
+   "end": 3731,
+   "kind": "번호",
+   "term": "急則治其標 · 예(肝硬化 腹水·蛔厥·大出血·喘促·神昏·高熱·大汗·吐瀉)",
+   "where": [
+    "new-etc-27#3"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "급치標 사례는 new-etc-27#3에 원칙만. 사례(肝硬化 腹水 등) 없음"
+  },
+  {
+   "line": 3733,
+   "end": 3733,
+   "kind": "번호",
+   "term": "緩則治其本 · 標本同治(虛人感冒·熱盛傷陰·表證未解+裏證·標本 危重)",
+   "where": [
+    "new-etc-27#3",
+    "new-etc-27#4"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "緩則治其本 · 標本兼治는 new-etc-27#3. 標本同治 4갈래 중 虛人感冒만 new-etc-27#4"
+  },
+  {
+   "line": 3735,
+   "end": 3735,
+   "kind": "정의",
+   "term": "虛實補瀉 · 是動病=實證 瀉法·所生病=虛證 補法",
+   "where": [
+    "new-gr-10#0"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "是動病=實證 · 所生病=虛證은 경락 과(new-gr-10)에 있으나 治則 맥락(瀉法 · 補法)은 없음"
+  },
+  {
+   "line": 3737,
+   "end": 3737,
+   "kind": "번호",
+   "term": "因時制宜(必先歲氣 無伐天和·用寒遠凉·春善病鼽衄·仲夏胸脇·長夏洞泄寒中·秋風瘧·冬痺厥)",
+   "where": [
+    "new-etc-28#1",
+    "new-etc-28#7",
+    "new-uk-01#2",
+    "new-uk-01#10"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "4/6만 실림. 빠진 것: 用寒遠凉 · 善病鼽衄"
+  },
+  {
+   "line": 3737,
+   "end": 3737,
+   "kind": "번호",
+   "term": "因地制宜(西北之氣 散而寒之·東南之氣 收而溫之·同病異治 五常政大論)",
+   "where": [
+    "new-etc-28#2"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "同病異治 · 異法方宜論은 new-etc-28#2에 있음. 西北之氣 散而寒之 · 東南之氣 收而溫之 없음"
+  },
+  {
+   "line": 3737,
+   "end": 3737,
+   "kind": "번호",
+   "term": "因人制宜(年齡·性別·體質·生活慣習)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 또는 낭독 — new-etc-28에 因人制宜 한 칸 보탬(出題 흔적: 문제집 4462 · 4515 · 4566행)",
+   "note": "文章 3737의 因人制宜 항목명 없음. 문제집 4462·4515·4566행에 因人制宜 흔적 있음"
+  },
+  {
+   "line": 3739,
+   "end": 3739,
+   "kind": "번호",
+   "term": "祛邪와 扶正 ① 扶正 ② 祛邪(其在皮者 汗而發之·其高者 越之·中滿者 瀉之于內·其下者 引而竭之)",
+   "where": [
+    "new-etc-28#3",
+    "new-etc-27#6"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "祛邪 3구(其高者 越之 · 其下者 竭之 · 中滿者 瀉之于內)는 new-etc-28#3. 其在皮者 汗而發之 없음 · 扶正 · 祛邪 정의는 new-etc-27"
+  },
+  {
+   "line": 3739,
+   "end": 3739,
+   "kind": "번호",
+   "term": "③ 扶正祛邪 兼用 ④ 先祛邪後扶正(瘀血崩漏·腎陽虛水泛 水腫)",
+   "where": [
+    "new-etc-27#6"
+   ],
+   "verdict": "약함",
+   "proposal": "그림(new-etc-27 장면 보탬)",
+   "note": "先祛邪後扶正 · 扶正祛邪 兼用(正虛邪實) 없음; 先扶正後祛邪만 new-etc-27#6"
+  },
+  {
+   "line": 3741,
+   "end": 3741,
+   "kind": "번호",
+   "term": "⑤ 先扶正後祛邪(蟲積 脾氣虛衰極·氣虛血瘀 心痺) · 先攻後補·先補後攻·攻補兼施",
+   "where": [
+    "new-etc-27#6"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "先扶正後祛邪는 new-etc-27#6. 蟲積 · 心痺 예 · 先攻後補 · 先補後攻 · 攻補兼施 용어 없음"
+  },
+  {
+   "line": 3743,
+   "end": 3743,
+   "kind": "번호",
+   "term": "陰陽調整 ① 偏盛調整(損其有餘·陰勝則陽病 瀉陰補陽·陽勝則陰病 瀉陽補陰)",
+   "where": [
+    "hp-15#0",
+    "hp-15#5"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "偏盛調整(損其有餘 · 瀉陰補陽 · 瀉陽補陰)은 hp-15에 일부"
+  },
+  {
+   "line": 3743,
+   "end": 3743,
+   "kind": "번호",
+   "term": "② 偏衰調整(壯水之主以制陽光·益火之源以消陰翳·陽病治陰·陰病治陽·諸寒之而熱者取之陰)",
+   "where": [
+    "hp-15#5",
+    "hp-15#7",
+    "hp-15#8"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3743,
+   "end": 3743,
+   "kind": "번호",
+   "term": "陰損及陽·陽損及陽 · 陰中求陽·陽中求陰",
+   "where": [
+    "hist-08a#5",
+    "new-etc-10#0",
+    "new-etc-10#2",
+    "new-etc-10#3",
+    "new-etc-10#7"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 3744,
+   "end": 3744,
+   "kind": "■",
+   "term": "陰陽학설 활용 예 5 · 素問 陰陽應象大論 形不足者 溫之以氣·精不足者 補之以味·定其血氣 各守其鄕",
+   "where": [],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "陰陽應象大論 구절은 hp-15 등에 흩어짐"
+  },
+  {
+   "line": 3746,
+   "end": 3746,
+   "kind": "번호",
+   "term": "臟腑機能調整 ① 쇠퇴·항진 조정 ② 平衡(肝升 肺降·脾升 胃降)",
+   "where": [],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "肝升肺降 · 脾升胃降은 변증 과(new-zj-14)에서 별개 맥락"
+  },
+  {
+   "line": 3748,
+   "end": 3748,
+   "kind": "번호",
+   "term": "氣血調整 氣能生血·治血先治氣·氣降卽血止·益氣活血·理氣活血",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "낭독 한 줄 또는 그림",
+   "note": "氣能生血은 hp-05#6에만(보혈 맥락). 治血先治氣 · 氣降卽血止 · 益氣活血 · 理氣活血 없음"
+  },
+  {
+   "line": 3751,
+   "end": 3751,
+   "kind": "정의",
+   "term": "治療八法 汗吐下和溫淸補消",
+   "where": [
+    "new-etc-28#0",
+    "new-etc-28#1",
+    "new-etc-28#3",
+    "new-etc-28#4",
+    "new-etc-28#5",
+    "new-etc-28#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 3752,
+   "end": 3752,
+   "kind": "표행",
+   "term": "汗法 解表法(辛溫 麻黃湯·桂枝湯 / 辛凉 銀翹散·桑菊飮·藿朴夏苓湯) ☆禁忌(吐瀉後·淋家·瘡家·亡血家·尺脈遲)",
+   "where": [],
+   "verdict": "약함",
+   "proposal": "그림 새 과(八法 8과 — curriculum gap) 또는 표",
+   "note": "汗法: 麻黃湯 · 桂枝湯 · 銀翹散 정도 이름만 흩어짐. 汗法 정의 · 禁忌(淋家 · 瘡家 · 亡血家 · 尺脈遲) 없음"
+  },
+  {
+   "line": 3753,
+   "end": 3753,
+   "kind": "표행",
+   "term": "吐法(其高者 因而越之·張子和 儒門事親) ☆禁忌",
+   "where": [
+    "new-etc-28#3",
+    "hist-06a#4",
+    "hist-06a#11"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "2/3만 실림. 빠진 것: 張子和"
+  },
+  {
+   "line": 3754,
+   "end": 3754,
+   "kind": "표행",
+   "term": "下法 寒下·溫下·潤下·逐水·攻補兼施(黃龍湯) · 禁忌",
+   "where": [],
+   "verdict": "약함",
+   "proposal": "그림 새 과(八法) 또는 표",
+   "note": "下法 4갈래(寒下 · 潤下 · 逐水 · 攻補)는 약 목록(new-etc-19)과 이름으로 일부. 溫下 · 黃龍湯 · 巴豆霜 · 五仁丸 · 控涎丹 없음"
+  },
+  {
+   "line": 3755,
+   "end": 3755,
+   "kind": "표행",
+   "term": "和法(小柴胡湯·少陽病·肝脾不和) ☆禁忌",
+   "where": [
+    "hp-07#6"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "和法은 hp-07#6 小柴胡湯으로 있음. 調和營衛 · 表裏雙解 · 禁忌 없음"
+  },
+  {
+   "line": 3756,
+   "end": 3756,
+   "kind": "표행",
+   "term": "溫法 ① 回陽救逆(四逆湯) ② 溫中散寒(理中湯) ③ 溫經散寒(當歸四逆湯) ☆禁忌",
+   "where": [
+    "hp-05#3"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "溫法 ① 回陽救逆(hp-05#3)만; ② 溫中散寒(理中湯) ③ 溫經散寒(當歸四逆湯) 없음"
+  },
+  {
+   "line": 3758,
+   "end": 3758,
+   "kind": "표행",
+   "term": "淸法 淸氣(白虎湯·黃連解毒湯·白頭翁湯)·淸營(淸營湯)·凉血(犀角地黃湯) ☆禁忌",
+   "where": [
+    "new-etc-28#6"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "淸法 淸氣 · 淸營 · 凉血 3갈래 이름은 zds-16(변증)에서 별개 맥락; 治法 맥락 없음"
+  },
+  {
+   "line": 3759,
+   "end": 3759,
+   "kind": "표행",
+   "term": "補法 補氣(四君子湯·補中益氣湯)·補血(四物湯·當歸補血湯)·補陽(右歸丸·金匱腎氣丸)·補陰(六味地黃丸·左歸丸) ☆禁忌",
+   "where": [
+    "hp-07#1",
+    "hp-07#2",
+    "hp-07#4",
+    "hp-07#5"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "補法 4갈래(補氣 · 補血 · 補陽 · 補陰)는 hp-07 基本方 짝이 담음. 補中益氣湯 · 當歸補血湯 · 右歸丸 · 左歸丸 없음"
+  },
+  {
+   "line": 3760,
+   "end": 3760,
+   "kind": "표행",
+   "term": "消法(堅者削之 結者散之) · cf 下法=猛攻急下·消法=慢性 ☆禁忌",
+   "where": [
+    "new-etc-28#5",
+    "new-etc-28#7"
+   ],
+   "verdict": "약함",
+   "proposal": "",
+   "note": "3/4만 실림. 빠진 것: 消導"
+  },
+  {
+   "line": 3761,
+   "end": 3761,
+   "kind": "표행",
+   "term": "9) 理氣法 10) 理血法 11) 祛濕法(平胃散·藿香正氣散·五苓散·八正散·苓桂朮甘湯·羌活勝濕湯)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 새 과(治法 9~16) 또는 표 · 트레이너(治法 8종 + 8종 이름 · 대표 처방)",
+   "note": "curriculum gap: 「八法 과 없음」 — 9~16 번째 治法은 교재 3761~3763에만"
+  },
+  {
+   "line": 3761,
+   "end": 3761,
+   "kind": "표행",
+   "term": "12) 祛痰法(止咳散·半夏白朮天麻湯·二陳湯·貝母瓜蔞散·見痰治休痰)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 새 과(治法 9~16) 또는 표 · 트레이너(治法 8종 + 8종 이름 · 대표 처방)",
+   "note": "curriculum gap: 「八法 과 없음」 — 9~16 번째 治法은 교재 3761~3763에만"
+  },
+  {
+   "line": 3763,
+   "end": 3763,
+   "kind": "표행",
+   "term": "13) 治風法(疏散外風·平息內風)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 새 과(治法 9~16) 또는 표 · 트레이너(治法 8종 + 8종 이름 · 대표 처방)",
+   "note": "curriculum gap: 「八法 과 없음」 — 9~16 번째 治法은 교재 3761~3763에만"
+  },
+  {
+   "line": 3763,
+   "end": 3763,
+   "kind": "표행",
+   "term": "14) 開竅法(凉開·溫開 · 脫症宜固·閉症宜開)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 새 과(治法 9~16) 또는 표 · 트레이너(治法 8종 + 8종 이름 · 대표 처방)",
+   "note": "curriculum gap: 「八法 과 없음」 — 9~16 번째 治法은 교재 3761~3763에만"
+  },
+  {
+   "line": 3763,
+   "end": 3763,
+   "kind": "표행",
+   "term": "15) 固澁法(固表止汗·澁精止遺·澁腸固脫 眞人養臟湯·四神丸·固崩)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 새 과(治法 9~16) 또는 표 · 트레이너(治法 8종 + 8종 이름 · 대표 처방)",
+   "note": "curriculum gap: 「八法 과 없음」 — 9~16 번째 治法은 교재 3761~3763에만"
+  },
+  {
+   "line": 3763,
+   "end": 3763,
+   "kind": "표행",
+   "term": "16) 驅蟲法",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 새 과(治法 9~16) 또는 표 · 트레이너(治法 8종 + 8종 이름 · 대표 처방)",
+   "note": "curriculum gap: 「八法 과 없음」 — 9~16 번째 治法은 교재 3761~3763에만"
+  },
+  {
+   "line": 3765,
+   "end": 3765,
+   "kind": "번호",
+   "term": "治法의 倂合運用 汗下倂用·溫淸倂用·攻補倂用·消補倂用(枳實消痞丸)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표 · 트레이너(倂用 4: 汗下 · 溫淸 · 攻補 · 消補)"
+  },
+  {
+   "line": 3767,
+   "end": 3767,
+   "kind": "번호",
+   "term": "藥物外治法 1)薰蒸法 2)浸浴法 3)敷罨法 4)薄貼法 5)熨法 6)齅鼻法 7)含漱法 8)塞法 9)摩擦法 10)撲粉法 11)起泡法",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 새 과(藥物外治法 14법) 또는 표 · 트레이너",
+   "note": "curriculum gap: 「藥物外治法 과 없음」"
+  },
+  {
+   "line": 3769,
+   "end": 3769,
+   "kind": "번호",
+   "term": "外治法 12)探吐法 13)導法 14)噴粉法",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 새 과(藥物外治法 14법) 또는 표 · 트레이너"
+  }
+ ],
+ "stations": [
+  {
+   "lesson": "new-etc-13",
+   "n": 0,
+   "lines": [
+    3400
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-13",
+   "n": 1,
+   "lines": [
+    3400
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-13",
+   "n": 2,
+   "lines": [
+    3402
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-13",
+   "n": 3,
+   "lines": [
+    3403
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-13",
+   "n": 4,
+   "lines": [
+    3407
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-13",
+   "n": 5,
+   "lines": [
+    3407
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-13",
+   "n": 6,
+   "lines": [
+    3407
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-13",
+   "n": 7,
+   "lines": [
+    3399,
+    3425
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-13",
+   "n": 8,
+   "lines": [
+    3400
+   ],
+   "check": "교재에없음",
+   "note": "神農本草經 序錄(君臣佐使 三品 天地人) — 교재 3407에 三品만, 확인 필요"
+  },
+  {
+   "lesson": "hp-01",
+   "n": 0,
+   "lines": [
+    3427
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-01",
+   "n": 1,
+   "lines": [
+    3428
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-01",
+   "n": 2,
+   "lines": [
+    3426,
+    3513
+   ],
+   "check": "교재에없음",
+   "note": "素問 至眞要大論 寒者熱之 · 本草 序例 — 교재 3453에 요지만, 확인 필요"
+  },
+  {
+   "lesson": "hp-01",
+   "n": 3,
+   "lines": [
+    3438
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-01",
+   "n": 4,
+   "lines": [
+    3439
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-01",
+   "n": 5,
+   "lines": [
+    3436
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-01",
+   "n": 6,
+   "lines": [
+    3442
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-01",
+   "n": 7,
+   "lines": [
+    3437
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-01",
+   "n": 8,
+   "lines": [
+    3459
+   ],
+   "check": "교재에없음",
+   "note": "素問 藏氣法時論 — 교재 3459에 있음(酸收 苦堅…은 문구 다름, 맞음 가능)"
+  },
+  {
+   "lesson": "yyox-06",
+   "n": 0,
+   "lines": [
+    3448
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-06",
+   "n": 1,
+   "lines": [
+    3448
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-06",
+   "n": 2,
+   "lines": [
+    3448
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-06",
+   "n": 3,
+   "lines": [
+    3448
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-06",
+   "n": 4,
+   "lines": [
+    3426,
+    3513
+   ],
+   "check": "교재에없음",
+   "note": "靈樞 九針論 · 素問 宣明五氣(五精所并) — 교재 해당 범위에 없음, 확인 필요"
+  },
+  {
+   "lesson": "yyox-06",
+   "n": 5,
+   "lines": [
+    3426,
+    3513
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-06",
+   "n": 6,
+   "lines": [
+    3426,
+    3513
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-06",
+   "n": 7,
+   "lines": [
+    3426,
+    3513
+   ],
+   "check": "교재에없음",
+   "note": "靈樞 九針論 五走/五入 — 교재에 없음, 확인 필요"
+  },
+  {
+   "lesson": "hp-02",
+   "n": 0,
+   "lines": [
+    3450
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-02",
+   "n": 1,
+   "lines": [
+    3451
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-02",
+   "n": 2,
+   "lines": [
+    3451
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-02",
+   "n": 3,
+   "lines": [
+    3452
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-02",
+   "n": 4,
+   "lines": [
+    3459
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-02",
+   "n": 5,
+   "lines": [
+    3426,
+    3513
+   ],
+   "check": "교재에없음",
+   "note": "本草綱目 序例/炮炙 구결(酒炒則升 등) — 교재 3432 부근 修治 목적에는 없음, 확인 필요"
+  },
+  {
+   "lesson": "hp-02",
+   "n": 6,
+   "lines": [
+    3426,
+    3513
+   ],
+   "check": "교재에없음",
+   "note": "위와 같음"
+  },
+  {
+   "lesson": "hp-02",
+   "n": 7,
+   "lines": [
+    3432
+   ],
+   "check": "교재에없음",
+   "note": "위와 같음(교재 3432 「醋」 언급은 있음)"
+  },
+  {
+   "lesson": "hp-02",
+   "n": 8,
+   "lines": [
+    3426,
+    3513
+   ],
+   "check": "교재에없음",
+   "note": "위와 같음"
+  },
+  {
+   "lesson": "hp-02",
+   "n": 9,
+   "lines": [
+    3459
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-17",
+   "n": 0,
+   "lines": [
+    3458
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-17",
+   "n": 1,
+   "lines": [
+    3458
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-17",
+   "n": 2,
+   "lines": [
+    3426,
+    3513
+   ],
+   "check": "교재에없음",
+   "note": "素問 陰陽應象大論 — 교재 3453 부근 요약에 없음, 문제집 2회 인용 흔적 있음(氣薄則發泄)"
+  },
+  {
+   "lesson": "new-etc-17",
+   "n": 3,
+   "lines": [
+    3426,
+    3513
+   ],
+   "check": "교재에없음",
+   "note": "素問 陰陽應象大論 — 문제집 흔적 있음(氣薄則發泄 2행)"
+  },
+  {
+   "lesson": "new-etc-17",
+   "n": 4,
+   "lines": [
+    3444
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-17",
+   "n": 5,
+   "lines": [
+    3458
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-14",
+   "n": 0,
+   "lines": [
+    3427
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-14",
+   "n": 1,
+   "lines": [
+    3464
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-14",
+   "n": 2,
+   "lines": [
+    3466
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-14",
+   "n": 3,
+   "lines": [
+    3466
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-14",
+   "n": 4,
+   "lines": [
+    3466
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-14",
+   "n": 5,
+   "lines": [
+    3466
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-14",
+   "n": 6,
+   "lines": [
+    3466
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-14",
+   "n": 7,
+   "lines": [
+    3426,
+    3513
+   ],
+   "check": "교재에없음",
+   "note": "素問 至眞要大論/本草 歸經 구결 — 교재 3459 부근에 이 문구 없음, 확인 필요"
+  },
+  {
+   "lesson": "new-etc-16",
+   "n": 0,
+   "lines": [
+    3470
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-16",
+   "n": 1,
+   "lines": [
+    3471
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-16",
+   "n": 2,
+   "lines": [
+    3472
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-16",
+   "n": 3,
+   "lines": [
+    3473
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-16",
+   "n": 4,
+   "lines": [
+    3474
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-16",
+   "n": 5,
+   "lines": [
+    3475
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-16",
+   "n": 6,
+   "lines": [
+    3426,
+    3513
+   ],
+   "check": "교재에없음",
+   "note": "素問 藏氣法時論 (肝急食甘以緩 …) — 교재 3459~ 에는 규칙 5줄 요약만, 확인 필요"
+  },
+  {
+   "lesson": "new-etc-15",
+   "n": 0,
+   "lines": [
+    3487
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-15",
+   "n": 1,
+   "lines": [
+    3487
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-15",
+   "n": 2,
+   "lines": [
+    3482
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-15",
+   "n": 3,
+   "lines": [
+    3487
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-15",
+   "n": 4,
+   "lines": [
+    3487
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-15",
+   "n": 5,
+   "lines": [
+    3487
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-15",
+   "n": 6,
+   "lines": [
+    3487
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-15",
+   "n": 7,
+   "lines": [
+    3487
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-15",
+   "n": 8,
+   "lines": [
+    3487
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-03",
+   "n": 0,
+   "lines": [
+    3500
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-03",
+   "n": 1,
+   "lines": [
+    3488
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-03",
+   "n": 2,
+   "lines": [
+    3491
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-03",
+   "n": 3,
+   "lines": [
+    3492
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-03",
+   "n": 4,
+   "lines": [
+    3494
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-03",
+   "n": 5,
+   "lines": [
+    3495
+   ],
+   "check": "교재에없음",
+   "note": "本草 七情 설명 예(生薑殺半夏毒) — 교재 3495에 相殺 정의만, 확인 필요"
+  },
+  {
+   "lesson": "hp-03",
+   "n": 6,
+   "lines": [
+    3493
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-03",
+   "n": 7,
+   "lines": [
+    3496
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-03",
+   "n": 8,
+   "lines": [
+    3500
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-03",
+   "n": 9,
+   "lines": [
+    3494
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-03",
+   "n": 10,
+   "lines": [
+    3497
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-coop",
+   "n": 0,
+   "lines": [
+    3497
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-coop",
+   "n": 1,
+   "lines": [
+    3489
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-coop",
+   "n": 2,
+   "lines": [
+    3442
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-coop",
+   "n": 3,
+   "lines": [
+    3491
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-coop",
+   "n": 4,
+   "lines": [
+    3491
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-coop",
+   "n": 5,
+   "lines": [
+    3491
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-coop",
+   "n": 6,
+   "lines": [
+    3491
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-coop",
+   "n": 7,
+   "lines": [
+    3491
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-coop",
+   "n": 8,
+   "lines": [
+    3491
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-coop",
+   "n": 9,
+   "lines": [
+    3492
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-coop",
+   "n": 10,
+   "lines": [
+    3492
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-coop",
+   "n": 11,
+   "lines": [
+    3492
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-coop",
+   "n": 12,
+   "lines": [
+    3511
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-coop",
+   "n": 13,
+   "lines": [
+    3492
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-conflict",
+   "n": 0,
+   "lines": [
+    3497
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-conflict",
+   "n": 1,
+   "lines": [
+    3493
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-conflict",
+   "n": 2,
+   "lines": [
+    3493
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-conflict",
+   "n": 3,
+   "lines": [
+    3494
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-conflict",
+   "n": 4,
+   "lines": [
+    3494
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-conflict",
+   "n": 5,
+   "lines": [
+    3494
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-conflict",
+   "n": 6,
+   "lines": [
+    3495
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-conflict",
+   "n": 7,
+   "lines": [
+    3495
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-conflict",
+   "n": 8,
+   "lines": [
+    3495
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-conflict",
+   "n": 9,
+   "lines": [
+    3496
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-conflict",
+   "n": 10,
+   "lines": [
+    3496
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-conflict",
+   "n": 11,
+   "lines": [
+    3496
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "qiqing-conflict",
+   "n": 12,
+   "lines": [
+    3497
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "fan18",
+   "n": 0,
+   "lines": [
+    3511
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "fan18",
+   "n": 1,
+   "lines": [
+    3500
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "fan18",
+   "n": 2,
+   "lines": [
+    3500
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "fan18",
+   "n": 3,
+   "lines": [
+    3496
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "fan18",
+   "n": 4,
+   "lines": [
+    3496
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "fan18",
+   "n": 5,
+   "lines": [
+    3500
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "fan18",
+   "n": 6,
+   "lines": [
+    3500
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "fan18",
+   "n": 7,
+   "lines": [
+    3500
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "fan18",
+   "n": 8,
+   "lines": [
+    3500
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "wei19",
+   "n": 0,
+   "lines": [
+    3494
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "wei19",
+   "n": 1,
+   "lines": [
+    3500
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "wei19",
+   "n": 2,
+   "lines": [
+    3500
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "wei19",
+   "n": 3,
+   "lines": [
+    3500
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "wei19",
+   "n": 4,
+   "lines": [
+    3511
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "wei19",
+   "n": 5,
+   "lines": [
+    3500
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "wei19",
+   "n": 6,
+   "lines": [
+    3500
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "wei19",
+   "n": 7,
+   "lines": [
+    3500
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "wei19",
+   "n": 8,
+   "lines": [
+    3500
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "wei19",
+   "n": 9,
+   "lines": [
+    3500
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "wei19",
+   "n": 10,
+   "lines": [
+    3500
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-18",
+   "n": 0,
+   "lines": [
+    3512
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-18",
+   "n": 1,
+   "lines": [
+    3509
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-18",
+   "n": 2,
+   "lines": [
+    3509
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-18",
+   "n": 3,
+   "lines": [
+    3513
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-18",
+   "n": 4,
+   "lines": [
+    3513
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-18",
+   "n": 5,
+   "lines": [
+    3513
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-18",
+   "n": 6,
+   "lines": [
+    3513
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-18",
+   "n": 7,
+   "lines": [
+    3501
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-18",
+   "n": 8,
+   "lines": [
+    3430
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-18",
+   "n": 9,
+   "lines": [
+    3479
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-18",
+   "n": 10,
+   "lines": [
+    3509
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-04",
+   "n": 0,
+   "lines": [
+    3516
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-04",
+   "n": 1,
+   "lines": [
+    3556
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-04",
+   "n": 2,
+   "lines": [
+    3531
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-04",
+   "n": 3,
+   "lines": [
+    3531
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-04",
+   "n": 4,
+   "lines": [
+    3531
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-04",
+   "n": 5,
+   "lines": [
+    3542
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-04",
+   "n": 6,
+   "lines": [
+    3543
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-04",
+   "n": 7,
+   "lines": [
+    3544
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-04",
+   "n": 8,
+   "lines": [
+    3545
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-04",
+   "n": 9,
+   "lines": [
+    3546
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-04",
+   "n": 10,
+   "lines": [
+    3550
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-04",
+   "n": 11,
+   "lines": [
+    3550
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-04",
+   "n": 12,
+   "lines": [
+    3550
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-04",
+   "n": 13,
+   "lines": [
+    3531
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-qingchao",
+   "n": 0,
+   "lines": [
+    3531
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-qingchao",
+   "n": 1,
+   "lines": [
+    3531
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-qingchao",
+   "n": 2,
+   "lines": [
+    3531
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-qingchao",
+   "n": 3,
+   "lines": [
+    3531
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-qingchao",
+   "n": 4,
+   "lines": [
+    3531
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-qingchao",
+   "n": 5,
+   "lines": [
+    3531
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-qingchao",
+   "n": 6,
+   "lines": [
+    3531
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-qingchao",
+   "n": 7,
+   "lines": [
+    3531
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-qingchao",
+   "n": 8,
+   "lines": [
+    3531
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-qingchao",
+   "n": 9,
+   "lines": [
+    3531
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-qingchao",
+   "n": 10,
+   "lines": [
+    3531
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-gabo1",
+   "n": 0,
+   "lines": [
+    3540
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-gabo1",
+   "n": 1,
+   "lines": [
+    3533
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-gabo1",
+   "n": 2,
+   "lines": [
+    3533
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-gabo1",
+   "n": 3,
+   "lines": [
+    3533
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-gabo1",
+   "n": 4,
+   "lines": [
+    3535
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-gabo1",
+   "n": 5,
+   "lines": [
+    3535
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-gabo1",
+   "n": 6,
+   "lines": [
+    3536
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-gabo1",
+   "n": 7,
+   "lines": [
+    3533
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-gabo1",
+   "n": 8,
+   "lines": [
+    3533
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-gabo2",
+   "n": 0,
+   "lines": [
+    3540
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-gabo2",
+   "n": 1,
+   "lines": [
+    3537
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-gabo2",
+   "n": 2,
+   "lines": [
+    3537
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-gabo2",
+   "n": 3,
+   "lines": [
+    3537
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-gabo2",
+   "n": 4,
+   "lines": [
+    3537
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-gabo2",
+   "n": 5,
+   "lines": [
+    3537
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-gabo2",
+   "n": 6,
+   "lines": [
+    3538
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-gabo2",
+   "n": 7,
+   "lines": [
+    3538
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-gabo2",
+   "n": 8,
+   "lines": [
+    3538
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-gabo2",
+   "n": 9,
+   "lines": [
+    3538
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-ju-cho",
+   "n": 0,
+   "lines": [
+    3540
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-ju-cho",
+   "n": 1,
+   "lines": [
+    3542
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-ju-cho",
+   "n": 2,
+   "lines": [
+    3542
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-ju-cho",
+   "n": 3,
+   "lines": [
+    3542
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-ju-cho",
+   "n": 4,
+   "lines": [
+    3543
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-ju-cho",
+   "n": 5,
+   "lines": [
+    3543
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-ju-cho",
+   "n": 6,
+   "lines": [
+    3543
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-ju-cho",
+   "n": 7,
+   "lines": [
+    3543
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-ju-cho",
+   "n": 8,
+   "lines": [
+    3543
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-ju-cho",
+   "n": 9,
+   "lines": [
+    3543
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-ju-cho",
+   "n": 10,
+   "lines": [
+    3543
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-ju-cho",
+   "n": 11,
+   "lines": [
+    3542
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-yeom-gang",
+   "n": 0,
+   "lines": [
+    3544
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-yeom-gang",
+   "n": 1,
+   "lines": [
+    3544
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-yeom-gang",
+   "n": 2,
+   "lines": [
+    3537
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-yeom-gang",
+   "n": 3,
+   "lines": [
+    3544
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-yeom-gang",
+   "n": 4,
+   "lines": [
+    3544
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-yeom-gang",
+   "n": 5,
+   "lines": [
+    3544
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-yeom-gang",
+   "n": 6,
+   "lines": [
+    3545
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-yeom-gang",
+   "n": 7,
+   "lines": [
+    3545
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-yeom-gang",
+   "n": 8,
+   "lines": [
+    3545
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-yeom-gang",
+   "n": 9,
+   "lines": [
+    3544
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-mil-yu",
+   "n": 0,
+   "lines": [
+    3546
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-mil-yu",
+   "n": 1,
+   "lines": [
+    3518
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-mil-yu",
+   "n": 2,
+   "lines": [
+    3546
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-mil-yu",
+   "n": 3,
+   "lines": [
+    3546
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-mil-yu",
+   "n": 4,
+   "lines": [
+    3546
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-mil-yu",
+   "n": 5,
+   "lines": [
+    3546
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-mil-yu",
+   "n": 6,
+   "lines": [
+    3543
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-mil-yu",
+   "n": 7,
+   "lines": [
+    3546
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-mil-yu",
+   "n": 8,
+   "lines": [
+    3546
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-mil-yu",
+   "n": 9,
+   "lines": [
+    3546
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-mil-yu",
+   "n": 10,
+   "lines": [
+    3546
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-dan",
+   "n": 0,
+   "lines": [
+    3549
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-dan",
+   "n": 1,
+   "lines": [
+    3550
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-dan",
+   "n": 2,
+   "lines": [
+    3550
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-dan",
+   "n": 3,
+   "lines": [
+    3550
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-dan",
+   "n": 4,
+   "lines": [
+    3550
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-dan",
+   "n": 5,
+   "lines": [
+    3550
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-dan",
+   "n": 6,
+   "lines": [
+    3550
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-dan",
+   "n": 7,
+   "lines": [
+    3550
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-dan",
+   "n": 8,
+   "lines": [
+    3550
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-dan",
+   "n": 9,
+   "lines": [
+    3550
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-suhwa",
+   "n": 0,
+   "lines": [
+    3552
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-suhwa",
+   "n": 1,
+   "lines": [
+    3552
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-suhwa",
+   "n": 2,
+   "lines": [
+    3552
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-suhwa",
+   "n": 3,
+   "lines": [
+    3552
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-suhwa",
+   "n": 4,
+   "lines": [
+    3552
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-suhwa",
+   "n": 5,
+   "lines": [
+    3553
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-suhwa",
+   "n": 6,
+   "lines": [
+    3553
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-suhwa",
+   "n": 7,
+   "lines": [
+    3553
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-suhwa",
+   "n": 8,
+   "lines": [
+    3556
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-suhwa",
+   "n": 9,
+   "lines": [
+    3556
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-suhwa",
+   "n": 10,
+   "lines": [
+    3556
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "suchi-suhwa",
+   "n": 11,
+   "lines": [
+    3556
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-19",
+   "n": 0,
+   "lines": [
+    3571
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-19",
+   "n": 1,
+   "lines": [
+    3563
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-19",
+   "n": 2,
+   "lines": [
+    3566
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-19",
+   "n": 3,
+   "lines": [
+    3572
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-19",
+   "n": 4,
+   "lines": [
+    3572
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-19",
+   "n": 5,
+   "lines": [
+    3575
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-19",
+   "n": 6,
+   "lines": [
+    3577
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-19",
+   "n": 7,
+   "lines": [
+    3579
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-19",
+   "n": 8,
+   "lines": [
+    3572
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-20",
+   "n": 0,
+   "lines": [
+    3582
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-20",
+   "n": 1,
+   "lines": [
+    3583
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-20",
+   "n": 2,
+   "lines": [
+    3585
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-20",
+   "n": 3,
+   "lines": [
+    3587
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-20",
+   "n": 4,
+   "lines": [
+    3589
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-20",
+   "n": 5,
+   "lines": [
+    3591
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-20",
+   "n": 6,
+   "lines": [
+    3591
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-20",
+   "n": 7,
+   "lines": [
+    3591
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-20",
+   "n": 8,
+   "lines": [
+    3593
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-20",
+   "n": 9,
+   "lines": [
+    3591
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-21",
+   "n": 0,
+   "lines": [
+    3594
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-21",
+   "n": 1,
+   "lines": [
+    3595
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-21",
+   "n": 2,
+   "lines": [
+    3595
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-21",
+   "n": 3,
+   "lines": [
+    3597
+   ],
+   "check": "다름",
+   "note": "교재 3597 重鎭安神藥 = 朱砂 · 磁石 · 龍骨 · 琥珀. 과는 琥珀 대신 牡蠣(교재 3599 牡蠣는 平肝潛陽藥). 확인 필요: 牡蠣 重鎭 설은 교재 밖"
+  },
+  {
+   "lesson": "new-etc-21",
+   "n": 4,
+   "lines": [
+    3599
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-21",
+   "n": 5,
+   "lines": [
+    3601
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-21",
+   "n": 6,
+   "lines": [
+    3595
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-22",
+   "n": 0,
+   "lines": [
+    3603
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-22",
+   "n": 1,
+   "lines": [
+    3605
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-22",
+   "n": 2,
+   "lines": [
+    3607
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-22",
+   "n": 3,
+   "lines": [
+    3603
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-22",
+   "n": 4,
+   "lines": [
+    3603
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-22",
+   "n": 5,
+   "lines": [
+    3607
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-22",
+   "n": 6,
+   "lines": [
+    3609
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-22",
+   "n": 7,
+   "lines": [
+    3609
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-22",
+   "n": 8,
+   "lines": [
+    3609
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-22",
+   "n": 9,
+   "lines": [
+    3612
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-22",
+   "n": 10,
+   "lines": [
+    3607
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-05",
+   "n": 0,
+   "lines": [
+    3565
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-05",
+   "n": 1,
+   "lines": [
+    3604
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-05",
+   "n": 2,
+   "lines": [
+    3581
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-05",
+   "n": 3,
+   "lines": [
+    3560
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-05",
+   "n": 4,
+   "lines": [
+    3566
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-05",
+   "n": 5,
+   "lines": [
+    3606
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-05",
+   "n": 6,
+   "lines": [
+    3609
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-05",
+   "n": 7,
+   "lines": [
+    3572
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-05",
+   "n": 8,
+   "lines": [
+    3563
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-05",
+   "n": 9,
+   "lines": [
+    3595
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-05",
+   "n": 10,
+   "lines": [
+    3595
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-06",
+   "n": 0,
+   "lines": [
+    3619
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-06",
+   "n": 1,
+   "lines": [
+    3620
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-06",
+   "n": 2,
+   "lines": [
+    3620
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-06",
+   "n": 3,
+   "lines": [
+    3620
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-06",
+   "n": 4,
+   "lines": [
+    3620
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-06",
+   "n": 5,
+   "lines": [
+    3620
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-06",
+   "n": 6,
+   "lines": [
+    3620
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-06",
+   "n": 7,
+   "lines": [
+    3620
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-06",
+   "n": 8,
+   "lines": [
+    3620
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-23",
+   "n": 0,
+   "lines": [
+    3621
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-23",
+   "n": 1,
+   "lines": [
+    3622
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-23",
+   "n": 2,
+   "lines": [
+    3623
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-23",
+   "n": 3,
+   "lines": [
+    3623
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-23",
+   "n": 4,
+   "lines": [
+    3623
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-23",
+   "n": 5,
+   "lines": [
+    3623
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-23",
+   "n": 6,
+   "lines": [
+    3623
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-24",
+   "n": 0,
+   "lines": [
+    3641
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-24",
+   "n": 1,
+   "lines": [
+    3626
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-24",
+   "n": 2,
+   "lines": [
+    3626
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-24",
+   "n": 3,
+   "lines": [
+    3620
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-24",
+   "n": 4,
+   "lines": [
+    3637
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-24",
+   "n": 5,
+   "lines": [
+    3636
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-24",
+   "n": 6,
+   "lines": [
+    3636
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-24",
+   "n": 7,
+   "lines": [
+    3636
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-24",
+   "n": 8,
+   "lines": [
+    3626
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-07",
+   "n": 0,
+   "lines": [
+    3618,
+    3643
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-07",
+   "n": 1,
+   "lines": [
+    3623
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-07",
+   "n": 2,
+   "lines": [
+    3637
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-07",
+   "n": 3,
+   "lines": [
+    3641
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-07",
+   "n": 4,
+   "lines": [
+    3629
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-07",
+   "n": 5,
+   "lines": [
+    3623
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-07",
+   "n": 6,
+   "lines": [
+    3618,
+    3643
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "hp-07",
+   "n": 7,
+   "lines": [
+    3623
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-25",
+   "n": 0,
+   "lines": [
+    3628
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-25",
+   "n": 1,
+   "lines": [
+    3628
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-25",
+   "n": 2,
+   "lines": [
+    3628
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-25",
+   "n": 3,
+   "lines": [
+    3628
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-25",
+   "n": 4,
+   "lines": [
+    3628
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-25",
+   "n": 5,
+   "lines": [
+    3628
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-25",
+   "n": 6,
+   "lines": [
+    3633
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-25",
+   "n": 7,
+   "lines": [
+    3633
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-25",
+   "n": 8,
+   "lines": [
+    3628
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-26",
+   "n": 0,
+   "lines": [
+    3633
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-26",
+   "n": 1,
+   "lines": [
+    3633
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-26",
+   "n": 2,
+   "lines": [
+    3633
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-26",
+   "n": 3,
+   "lines": [
+    3633
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-26",
+   "n": 4,
+   "lines": [
+    3633
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-26",
+   "n": 5,
+   "lines": [
+    3618,
+    3643
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-26",
+   "n": 6,
+   "lines": [
+    3618,
+    3643
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-26",
+   "n": 7,
+   "lines": [
+    3633
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-26",
+   "n": 8,
+   "lines": [
+    3633
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-16",
+   "n": 0,
+   "lines": [
+    3645
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-16",
+   "n": 1,
+   "lines": [
+    3647
+   ],
+   "check": "교재에없음",
+   "note": "難經 六十一難(원전 문구) — 교재 3647은 神聖工巧를 풀이로만 적음"
+  },
+  {
+   "lesson": "new-zj-16",
+   "n": 2,
+   "lines": [
+    3645,
+    3721
+   ],
+   "check": "교재에없음",
+   "note": "難經 六十一難"
+  },
+  {
+   "lesson": "new-zj-16",
+   "n": 3,
+   "lines": [
+    3645,
+    3721
+   ],
+   "check": "교재에없음",
+   "note": "難經 六十一難"
+  },
+  {
+   "lesson": "new-zj-16",
+   "n": 4,
+   "lines": [
+    3706
+   ],
+   "check": "교재에없음",
+   "note": "難經 六十一難"
+  },
+  {
+   "lesson": "new-zj-16",
+   "n": 5,
+   "lines": [
+    3647
+   ],
+   "check": "교재에없음",
+   "note": "丹溪心法/朱震亨 有諸內者 必形諸外 — 교재 3647에 근거 한 줄이 있는지 확인 필요"
+  },
+  {
+   "lesson": "new-zj-16",
+   "n": 6,
+   "lines": [
+    3655
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-16",
+   "n": 7,
+   "lines": [
+    3645,
+    3721
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-09",
+   "n": 0,
+   "lines": [
+    3651
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-09",
+   "n": 1,
+   "lines": [
+    3656
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-09",
+   "n": 2,
+   "lines": [
+    3656
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-09",
+   "n": 3,
+   "lines": [
+    3648
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-09",
+   "n": 4,
+   "lines": [
+    3656
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-09",
+   "n": 5,
+   "lines": [
+    3656
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-09",
+   "n": 6,
+   "lines": [
+    3656
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-09",
+   "n": 7,
+   "lines": [
+    3251,
+    3259
+   ],
+   "check": "다름",
+   "note": "교재 3251 · 3259: 心煩은 心血虛 · 心陰虛의 공유증상. 과는 「心陰虛만의 특이 증상」으로 적어 心煩을 心陰虛 전용으로 말함(盜汗 · 脈細數은 心陰虛 특유로 3259와 맞음)"
+  },
+  {
+   "lesson": "zds-09",
+   "n": 8,
+   "lines": [
+    3679
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-09",
+   "n": 9,
+   "lines": [
+    3665
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-09",
+   "n": 10,
+   "lines": [
+    3665
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-09",
+   "n": 11,
+   "lines": [
+    3683
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-09",
+   "n": 12,
+   "lines": [
+    3656
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-10",
+   "n": 0,
+   "lines": [
+    3651
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-10",
+   "n": 1,
+   "lines": [
+    3656
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-10",
+   "n": 2,
+   "lines": [
+    3656
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-10",
+   "n": 3,
+   "lines": [
+    3677
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-10",
+   "n": 4,
+   "lines": [
+    3656
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-10",
+   "n": 5,
+   "lines": [
+    3656
+   ],
+   "check": "교재에없음",
+   "note": "望診遵經/醫宗金鑑 면색 — 확인 필요"
+  },
+  {
+   "lesson": "zds-10",
+   "n": 6,
+   "lines": [
+    3656
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-10",
+   "n": 7,
+   "lines": [
+    3651
+   ],
+   "check": "교재에없음",
+   "note": "醫宗金鑑 · 望診遵經 善色/惡色 — 확인 필요"
+  },
+  {
+   "lesson": "zds-10",
+   "n": 8,
+   "lines": [
+    3651
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-10",
+   "n": 9,
+   "lines": [
+    3650
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-10",
+   "n": 10,
+   "lines": [
+    3656
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-17",
+   "n": 0,
+   "lines": [
+    3709
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-17",
+   "n": 1,
+   "lines": [
+    3657
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-17",
+   "n": 2,
+   "lines": [
+    3657
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-17",
+   "n": 3,
+   "lines": [
+    3657
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-17",
+   "n": 4,
+   "lines": [
+    3657
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-17",
+   "n": 5,
+   "lines": [
+    3657
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-17",
+   "n": 6,
+   "lines": [
+    2596
+   ],
+   "check": "맞음",
+   "note": "大惑論은 교재 463 · 2596(精之窠) — 범위 밖 인접"
+  },
+  {
+   "lesson": "new-zj-17",
+   "n": 7,
+   "lines": [
+    2596
+   ],
+   "check": "맞음",
+   "note": "교재 2596 五輪(骨之精=瞳子 등)에서 인접"
+  },
+  {
+   "lesson": "new-zj-17",
+   "n": 8,
+   "lines": [
+    3657
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-18",
+   "n": 0,
+   "lines": [
+    3663
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-18",
+   "n": 1,
+   "lines": [
+    3663
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-18",
+   "n": 2,
+   "lines": [
+    3663
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-18",
+   "n": 3,
+   "lines": [
+    3663
+   ],
+   "check": "다름",
+   "note": "교재 3663 舌本 연계 경락 = 心(別絡) · 脾 · 肝 · 腎 + 膀胱經筋(5). 과는 4經이라 함(肺 제외 자체는 맞음). 膀胱經筋 누락 — 4/5 수가 교재와 다름"
+  },
+  {
+   "lesson": "new-zj-18",
+   "n": 4,
+   "lines": [
+    3664
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-18",
+   "n": 5,
+   "lines": [
+    3664
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-18",
+   "n": 6,
+   "lines": [
+    3663
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-18",
+   "n": 7,
+   "lines": [
+    3663
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-18",
+   "n": 8,
+   "lines": [
+    3663
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-18",
+   "n": 9,
+   "lines": [
+    3663
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-18",
+   "n": 10,
+   "lines": [
+    3663
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-19",
+   "n": 0,
+   "lines": [
+    3665
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-19",
+   "n": 1,
+   "lines": [
+    3665
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-19",
+   "n": 2,
+   "lines": [
+    3665
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-19",
+   "n": 3,
+   "lines": [
+    3665
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-19",
+   "n": 4,
+   "lines": [
+    3665
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-19",
+   "n": 5,
+   "lines": [
+    3665
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-19",
+   "n": 6,
+   "lines": [
+    3665
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-19",
+   "n": 7,
+   "lines": [
+    3665
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-19",
+   "n": 8,
+   "lines": [
+    3665
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-20",
+   "n": 0,
+   "lines": [
+    3665
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-20",
+   "n": 1,
+   "lines": [
+    3665
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-20",
+   "n": 2,
+   "lines": [
+    3665
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-20",
+   "n": 3,
+   "lines": [
+    3665
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-20",
+   "n": 4,
+   "lines": [
+    3665
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-20",
+   "n": 5,
+   "lines": [
+    3665
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-20",
+   "n": 6,
+   "lines": [
+    3665
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-20",
+   "n": 7,
+   "lines": [
+    3665
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-21",
+   "n": 0,
+   "lines": [
+    3667
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-21",
+   "n": 1,
+   "lines": [
+    3667
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-21",
+   "n": 2,
+   "lines": [
+    3665
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-21",
+   "n": 3,
+   "lines": [
+    3667
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-21",
+   "n": 4,
+   "lines": [
+    3667
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-21",
+   "n": 5,
+   "lines": [
+    3656
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-21",
+   "n": 6,
+   "lines": [
+    3667
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-21",
+   "n": 7,
+   "lines": [
+    3667
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-21",
+   "n": 8,
+   "lines": [
+    3667
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-21",
+   "n": 9,
+   "lines": [
+    3667
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-21",
+   "n": 10,
+   "lines": [
+    3667
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-22",
+   "n": 0,
+   "lines": [
+    3671
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-22",
+   "n": 1,
+   "lines": [
+    3671
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-22",
+   "n": 2,
+   "lines": [
+    3671
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-22",
+   "n": 3,
+   "lines": [
+    3671
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-22",
+   "n": 4,
+   "lines": [
+    3671
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-22",
+   "n": 5,
+   "lines": [
+    3671
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-22",
+   "n": 6,
+   "lines": [
+    3671
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-22",
+   "n": 7,
+   "lines": [
+    3671
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-22",
+   "n": 8,
+   "lines": [
+    3671
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-11",
+   "n": 0,
+   "lines": [
+    3674
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-11",
+   "n": 1,
+   "lines": [
+    3675
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-11",
+   "n": 2,
+   "lines": [
+    3675
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-11",
+   "n": 3,
+   "lines": [
+    3675
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-11",
+   "n": 4,
+   "lines": [
+    3675
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-11",
+   "n": 5,
+   "lines": [
+    3675
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-11",
+   "n": 6,
+   "lines": [
+    3675
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-11",
+   "n": 7,
+   "lines": [
+    3675
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-11",
+   "n": 8,
+   "lines": [
+    3645,
+    3721
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-11",
+   "n": 9,
+   "lines": [
+    3675
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-11",
+   "n": 10,
+   "lines": [
+    3674
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-11",
+   "n": 11,
+   "lines": [
+    3674
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-11",
+   "n": 12,
+   "lines": [
+    3675
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-11",
+   "n": 13,
+   "lines": [
+    3675
+   ],
+   "check": "교재에없음",
+   "note": "張景岳 十問歌 — 교재 3675는 問診 항목 나열(十問歌 숫자 구호는 확인 필요)"
+  },
+  {
+   "lesson": "new-zj-23",
+   "n": 0,
+   "lines": [
+    3664
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-23",
+   "n": 1,
+   "lines": [
+    3677
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-23",
+   "n": 2,
+   "lines": [
+    3677
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-23",
+   "n": 3,
+   "lines": [
+    3677
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-23",
+   "n": 4,
+   "lines": [
+    3679
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-23",
+   "n": 5,
+   "lines": [
+    3691
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-23",
+   "n": 6,
+   "lines": [
+    3691
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-23",
+   "n": 7,
+   "lines": [
+    3691
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-23",
+   "n": 8,
+   "lines": [
+    3656
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-23",
+   "n": 9,
+   "lines": [
+    3691
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-23",
+   "n": 10,
+   "lines": [
+    3677
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-24",
+   "n": 0,
+   "lines": [
+    3682
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-24",
+   "n": 1,
+   "lines": [
+    3683
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-24",
+   "n": 2,
+   "lines": [
+    3658
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-24",
+   "n": 3,
+   "lines": [
+    3658
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-24",
+   "n": 4,
+   "lines": [
+    3683
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-24",
+   "n": 5,
+   "lines": [
+    3669
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-24",
+   "n": 6,
+   "lines": [
+    3682
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-24",
+   "n": 7,
+   "lines": [
+    3682
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-24",
+   "n": 8,
+   "lines": [
+    3682
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-24",
+   "n": 9,
+   "lines": [
+    3682
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-24",
+   "n": 10,
+   "lines": [
+    3683
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-25",
+   "n": 0,
+   "lines": [
+    3695
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-25",
+   "n": 1,
+   "lines": [
+    3695
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-25",
+   "n": 2,
+   "lines": [
+    3695
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-25",
+   "n": 3,
+   "lines": [
+    3695
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-25",
+   "n": 4,
+   "lines": [
+    3673
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-25",
+   "n": 5,
+   "lines": [
+    3673
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-25",
+   "n": 6,
+   "lines": [
+    3673
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-25",
+   "n": 7,
+   "lines": [
+    3695
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-26",
+   "n": 0,
+   "lines": [
+    3706
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-26",
+   "n": 1,
+   "lines": [
+    3704
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-26",
+   "n": 2,
+   "lines": [
+    3706
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-26",
+   "n": 3,
+   "lines": [
+    3706
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-26",
+   "n": 4,
+   "lines": [
+    3706
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-26",
+   "n": 5,
+   "lines": [
+    3709
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-26",
+   "n": 6,
+   "lines": [
+    3712
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-26",
+   "n": 7,
+   "lines": [
+    3713
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-26",
+   "n": 8,
+   "lines": [
+    3714
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-26",
+   "n": 9,
+   "lines": [
+    3706
+   ],
+   "check": "교재에없음",
+   "note": "素問 脈要精微論 長則氣治 短則氣病 數則煩心 大則病進 — 교재 3706~3711에 일부, 확인 필요"
+  },
+  {
+   "lesson": "zds-12",
+   "n": 0,
+   "lines": [
+    3709
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-12",
+   "n": 1,
+   "lines": [
+    3715
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-12",
+   "n": 2,
+   "lines": [
+    3667
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-12",
+   "n": 3,
+   "lines": [
+    3717
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-12",
+   "n": 4,
+   "lines": [
+    3717
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-12",
+   "n": 5,
+   "lines": [
+    3665
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-12",
+   "n": 6,
+   "lines": [
+    3717
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-12",
+   "n": 7,
+   "lines": [
+    3717
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-12",
+   "n": 8,
+   "lines": [
+    3717
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "zds-12",
+   "n": 9,
+   "lines": [
+    3717
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-27",
+   "n": 0,
+   "lines": [
+    3702
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-27",
+   "n": 1,
+   "lines": [
+    3715
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-27",
+   "n": 2,
+   "lines": [
+    3715
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-27",
+   "n": 3,
+   "lines": [
+    3715
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-27",
+   "n": 4,
+   "lines": [
+    3715
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-27",
+   "n": 5,
+   "lines": [
+    3717
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-27",
+   "n": 6,
+   "lines": [
+    3713
+   ],
+   "check": "교재에없음",
+   "note": "瀕湖脈學 疾脈 — 교재 3713에 「七八至」 문구 확인 필요"
+  },
+  {
+   "lesson": "new-zj-27",
+   "n": 7,
+   "lines": [
+    3715
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-28",
+   "n": 0,
+   "lines": [
+    3714
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-28",
+   "n": 1,
+   "lines": [
+    3665
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-28",
+   "n": 2,
+   "lines": [
+    3665
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-28",
+   "n": 3,
+   "lines": [
+    3665
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-28",
+   "n": 4,
+   "lines": [
+    3717
+   ],
+   "check": "교재에없음",
+   "note": "瀕湖脈學 洪脈 來盛去衰 — 교재 3717에 洪脈 정의가 있는지 확인 필요"
+  },
+  {
+   "lesson": "new-zj-28",
+   "n": 5,
+   "lines": [
+    3717
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-28",
+   "n": 6,
+   "lines": [
+    3645,
+    3721
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-28",
+   "n": 7,
+   "lines": [
+    3717
+   ],
+   "check": "교재에없음",
+   "note": "瀕湖脈學 代脈 — 교재 3717/3719 확인 필요"
+  },
+  {
+   "lesson": "new-zj-28",
+   "n": 8,
+   "lines": [
+    3717
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-28",
+   "n": 9,
+   "lines": [
+    3717
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-28",
+   "n": 10,
+   "lines": [
+    3714
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-28",
+   "n": 11,
+   "lines": [
+    3717
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-02",
+   "n": 0,
+   "lines": [
+    3721
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-02",
+   "n": 1,
+   "lines": [
+    3704
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-02",
+   "n": 2,
+   "lines": [
+    3652
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-02",
+   "n": 3,
+   "lines": [
+    3652
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-02",
+   "n": 4,
+   "lines": [
+    3652
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-02",
+   "n": 5,
+   "lines": [
+    3652
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-02",
+   "n": 6,
+   "lines": [
+    3652
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-02",
+   "n": 7,
+   "lines": [
+    3645,
+    3721
+   ],
+   "check": "교재에없음",
+   "note": "素問 脈要精微論 (春應中規 …) — 교재 3721 부근에 이름만, 문제집 흔적 있음(春應中規 1행)"
+  },
+  {
+   "lesson": "new-uk-02",
+   "n": 8,
+   "lines": [
+    3721
+   ],
+   "check": "교재에없음",
+   "note": "素問 玉機眞藏論 — 교재 3721은 論名만, 확인 필요"
+  },
+  {
+   "lesson": "new-uk-02",
+   "n": 9,
+   "lines": [
+    838
+   ],
+   "check": "맞음",
+   "note": "교재 838(5장 범위 밖) 五藏 受氣於其所生… 문구와 일치"
+  },
+  {
+   "lesson": "new-uk-02",
+   "n": 10,
+   "lines": [
+    3652
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-29",
+   "n": 0,
+   "lines": [
+    3721
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-29",
+   "n": 1,
+   "lines": [
+    3721
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-29",
+   "n": 2,
+   "lines": [
+    3721
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-29",
+   "n": 3,
+   "lines": [
+    3721
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-29",
+   "n": 4,
+   "lines": [
+    3721
+   ],
+   "check": "다름",
+   "note": "교재 3721은 「中指獨冷=外感風寒」(손가락 끝 冷). 과는 「中指獨熱=外感風寒」로 熱/冷이 반대. 中指末獨冷 麻痘將發은 교재에 없음(원전 확인 필요)"
+  },
+  {
+   "lesson": "new-zj-29",
+   "n": 5,
+   "lines": [
+    3721
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-29",
+   "n": 6,
+   "lines": [
+    3721
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-29",
+   "n": 7,
+   "lines": [
+    3721
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-zj-29",
+   "n": 8,
+   "lines": [
+    3721
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-27",
+   "n": 0,
+   "lines": [
+    3722,
+    3827
+   ],
+   "check": "맞음",
+   "note": "교재 3722 · 3827(治未病 인접)"
+  },
+  {
+   "lesson": "new-etc-27",
+   "n": 1,
+   "lines": [
+    3827,
+    3831
+   ],
+   "check": "맞음",
+   "note": "교재 3827~3831 治未病 (이 절 범위 밖, 인접)"
+  },
+  {
+   "lesson": "new-etc-27",
+   "n": 2,
+   "lines": [
+    3730
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-27",
+   "n": 3,
+   "lines": [
+    3731
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-27",
+   "n": 4,
+   "lines": [
+    3739
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-27",
+   "n": 5,
+   "lines": [
+    3739
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-27",
+   "n": 6,
+   "lines": [
+    3741
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-27",
+   "n": 7,
+   "lines": [
+    3728
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-27",
+   "n": 8,
+   "lines": [
+    3728
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-27",
+   "n": 9,
+   "lines": [
+    3728
+   ],
+   "check": "맞음",
+   "note": "되짚기 — 3728 · 3827 요지 반복"
+  },
+  {
+   "lesson": "new-etc-28",
+   "n": 0,
+   "lines": [
+    3723
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-28",
+   "n": 1,
+   "lines": [
+    3737
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-28",
+   "n": 2,
+   "lines": [
+    465,
+    3737
+   ],
+   "check": "맞음",
+   "note": "교재 465 異法方宜論 — 범위 밖 인접, 3737과 함께"
+  },
+  {
+   "lesson": "new-etc-28",
+   "n": 3,
+   "lines": [
+    3739
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-28",
+   "n": 4,
+   "lines": [
+    3750
+   ],
+   "check": "교재에없음",
+   "note": "醫學心悟 程鍾齡 — 교재 3750에 八法 이름은 있고 저자명은 없음(교재 3877 醫學心悟만)"
+  },
+  {
+   "lesson": "new-etc-28",
+   "n": 5,
+   "lines": [
+    3724,
+    3749
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-28",
+   "n": 6,
+   "lines": [
+    3743
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-etc-28",
+   "n": 7,
+   "lines": [
+    3737
+   ],
+   "check": "교재에없음",
+   "note": "素問 陰陽應象大論 其高者因而越之 等 — 교재 3743 부근 확인 필요"
+  }
+ ],
+ "zongang": "안 함",
+ "summary": {
+  "items": 379,
+  "없음": 50,
+  "글로만": 78,
+  "약함": 163,
+  "그림후보": 88,
+  "stations": 544,
+  "다름": 4,
+  "교재에없음": 30,
+  "갈림": 0
+ }
+}

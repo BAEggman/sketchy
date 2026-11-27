@@ -1,0 +1,6029 @@
+{
+ "bundle": "L3",
+ "pass": "a",
+ "chapters": [
+  "ch03",
+  "ch04"
+ ],
+ "items": [
+  {
+   "line": 935,
+   "end": 936,
+   "kind": "정의",
+   "term": "運氣學說 정의",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 개념 서술, 문제집 2편에 개념 문항 없음"
+  },
+  {
+   "line": 937,
+   "end": 938,
+   "kind": "정의",
+   "term": "干支 부호·天人相應",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 서술 줄, 시험 흔적 없음"
+  },
+  {
+   "line": 939,
+   "end": 941,
+   "kind": "번호목록",
+   "term": "五行·五運·六氣 차이",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 五運=변화 · 六氣=지구에만 한 줄 대비(시험 흔적은 문제집 2편 Q32 主客氣 대비 정도)"
+  },
+  {
+   "line": 942,
+   "end": 944,
+   "kind": "※",
+   "term": "五運=天氣 六氣=地氣",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 五運 天氣 歲運추측 / 六氣 地氣 歲氣추측 둘 대비"
+  },
+  {
+   "line": 947,
+   "end": 948,
+   "kind": "표행",
+   "term": "陽干 太過·陰干 不及",
+   "where": [
+    "new-uk-08#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 949,
+   "end": 950,
+   "kind": "표행",
+   "term": "陽支·陰支",
+   "where": [
+    "new-uk-11#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 953,
+   "end": 957,
+   "kind": "표행",
+   "term": "天干 配五行(兄弟)",
+   "where": [
+    "yyox-14#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 958,
+   "end": 962,
+   "kind": "표행",
+   "term": "天干 化五運(夫婦)",
+   "where": [
+    "new-uk-08#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 959,
+   "end": 960,
+   "kind": "정의",
+   "term": "大運·客運 정의",
+   "where": [
+    "new-uk-08#3",
+    "new-uk-09#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 964,
+   "end": 968,
+   "kind": "표행",
+   "term": "地支 配五行·方位",
+   "where": [
+    "yyox-14#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 967,
+   "end": 967,
+   "kind": "표행",
+   "term": "地支 오행 ↔ 음력 달",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 시험 흔적 없음(문제집 2편 Q4·Q29는 地支 오행만)"
+  },
+  {
+   "line": 969,
+   "end": 969,
+   "kind": "※",
+   "term": "四正方·四隅 → 歲會",
+   "where": [
+    "yyox-14#4"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 970,
+   "end": 972,
+   "kind": "표행",
+   "term": "地支 化氣 三陰三陽",
+   "where": [
+    "new-uk-11#2",
+    "new-uk-11#3",
+    "new-uk-11#4",
+    "new-uk-11#5",
+    "new-uk-11#6",
+    "new-uk-11#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 973,
+   "end": 973,
+   "kind": "※",
+   "term": "天干=運 地支=氣",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 한 줄 암기(문제집 2편 Q16: 地支에 배합하는 것은 客氣)"
+  },
+  {
+   "line": 976,
+   "end": 979,
+   "kind": "번호목록",
+   "term": "大運: 10년·陽干太過",
+   "where": [
+    "new-uk-08#2",
+    "new-uk-08#3",
+    "new-uk-08#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 980,
+   "end": 984,
+   "kind": "번호목록",
+   "term": "主運: 5단계·大寒·73일",
+   "where": [
+    "new-uk-09#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 985,
+   "end": 989,
+   "kind": "번호목록",
+   "term": "客運: 大運=初運·相生",
+   "where": [
+    "new-uk-09#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 990,
+   "end": 993,
+   "kind": "표행",
+   "term": "主運·客運 표·客運五音",
+   "where": [
+    "new-uk-09#2",
+    "new-uk-09#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 994,
+   "end": 994,
+   "kind": "※",
+   "term": "궁상우각치 기재 순서",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 교재 993행과 1084행 五音 표기가 서로 어긋나는 줄(확인 필요)"
+  },
+  {
+   "line": 995,
+   "end": 995,
+   "kind": "※",
+   "term": "主運 初運 木 고정",
+   "where": [
+    "new-uk-09#1",
+    "new-uk-09#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 997,
+   "end": 1001,
+   "kind": "번호목록",
+   "term": "主氣: 정상·고정·순서",
+   "where": [
+    "new-uk-12#1",
+    "new-uk-12#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1002,
+   "end": 1005,
+   "kind": "번호목록",
+   "term": "客氣: 異常·12년·三之氣",
+   "where": [
+    "new-uk-12#4",
+    "new-uk-12#5",
+    "new-uk-11#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1006,
+   "end": 1006,
+   "kind": "※",
+   "term": "客氣 陰陽多少 순서",
+   "where": [
+    "new-uk-12#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1007,
+   "end": 1007,
+   "kind": "예",
+   "term": "甲子年 子=少陰 司天",
+   "where": [
+    "new-uk-11#2",
+    "new-uk-12#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1010,
+   "end": 1016,
+   "kind": "표행",
+   "term": "年支-司天-在泉 6행",
+   "where": [
+    "new-uk-11#2",
+    "new-uk-11#3",
+    "new-uk-11#4",
+    "new-uk-11#5",
+    "new-uk-11#6",
+    "new-uk-11#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1017,
+   "end": 1017,
+   "kind": "※",
+   "term": "司天·在泉 陰陽 相反",
+   "where": [
+    "new-uk-11#11"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1018,
+   "end": 1021,
+   "kind": "번호목록",
+   "term": "司天=上半年·在泉=下半年",
+   "where": [
+    "new-uk-11#0",
+    "new-uk-11#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1022,
+   "end": 1027,
+   "kind": "표행",
+   "term": "左右間氣·위치 표",
+   "where": [
+    "new-uk-11#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1024,
+   "end": 1024,
+   "kind": "예",
+   "term": "少陰 司天 → 右間 厥陰",
+   "where": [
+    "new-uk-11#9",
+    "new-uk-11#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1028,
+   "end": 1031,
+   "kind": "번호목록",
+   "term": "不遷正·不退位",
+   "where": [
+    "new-uk-11#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1032,
+   "end": 1037,
+   "kind": "번호목록",
+   "term": "客氣 勝復",
+   "where": [
+    "new-uk-12#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1039,
+   "end": 1041,
+   "kind": "정의",
+   "term": "客主加臨 정의",
+   "where": [
+    "new-uk-12#0",
+    "new-uk-12#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1042,
+   "end": 1045,
+   "kind": "번호목록",
+   "term": "氣化之逆順 順·逆·同氣",
+   "where": [
+    "new-uk-12#7",
+    "new-uk-12#8",
+    "new-uk-12#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1046,
+   "end": 1051,
+   "kind": "표행",
+   "term": "甲子年 客主加臨 표",
+   "where": [
+    "new-uk-12#6",
+    "new-uk-12#7",
+    "new-uk-12#9"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1052,
+   "end": 1055,
+   "kind": "※",
+   "term": "加臨·相得·同化·平氣 구분",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표·트레이너 — 네 개념의 대상(客·主 / 大運·司天 / 大運·司天·年支·在泉 / 大運) 분류 연습(문제집 2편 Q14·Q30 혼동형)"
+  },
+  {
+   "line": 1056,
+   "end": 1061,
+   "kind": "번호목록",
+   "term": "運氣相臨 4(主·次 포함)",
+   "where": [
+    "new-uk-13#1",
+    "new-uk-13#2",
+    "new-uk-13#3",
+    "new-uk-13#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1062,
+   "end": 1062,
+   "kind": "♣",
+   "term": "運=부모 氣=자식 암기",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 덱은 판사(氣 위)·피고(運 아래) 비유로 대체, 교재 비유와 방향이 반대라 섞으면 혼선"
+  },
+  {
+   "line": 1065,
+   "end": 1065,
+   "kind": "번호목록",
+   "term": "天符",
+   "where": [
+    "yyox-14#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1066,
+   "end": 1066,
+   "kind": "번호목록",
+   "term": "歲會",
+   "where": [
+    "yyox-14#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1067,
+   "end": 1067,
+   "kind": "번호목록",
+   "term": "太乙天符",
+   "where": [
+    "yyox-14#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1068,
+   "end": 1068,
+   "kind": "번호목록",
+   "term": "同天符",
+   "where": [
+    "yyox-14#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1069,
+   "end": 1069,
+   "kind": "번호목록",
+   "term": "同歲會",
+   "where": [
+    "yyox-14#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1072,
+   "end": 1072,
+   "kind": "번호목록",
+   "term": "運太過而被抑",
+   "where": [
+    "new-uk-13#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1073,
+   "end": 1073,
+   "kind": "번호목록",
+   "term": "運不及而得助",
+   "where": [
+    "new-uk-13#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1074,
+   "end": 1074,
+   "kind": "번호목록",
+   "term": "干德符",
+   "where": [
+    "new-uk-13#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1075,
+   "end": 1077,
+   "kind": "표행",
+   "term": "三氣之紀 平氣 5",
+   "where": [
+    "new-uk-09#5",
+    "new-uk-09#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1078,
+   "end": 1078,
+   "kind": "표행",
+   "term": "三氣之紀 不及之氣 5",
+   "where": [
+    "new-uk-09#7",
+    "new-uk-09#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1079,
+   "end": 1079,
+   "kind": "표행",
+   "term": "三氣之紀 太過之氣 5",
+   "where": [
+    "new-uk-09#6",
+    "new-uk-09#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1080,
+   "end": 1080,
+   "kind": "※",
+   "term": "五音 太·少·正",
+   "where": [
+    "new-uk-09#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1081,
+   "end": 1085,
+   "kind": "예",
+   "term": "甲子年 客運·主運 五音",
+   "where": [
+    "new-uk-09#3"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1091,
+   "end": 1092,
+   "kind": "표행",
+   "term": "主運 年中시기 두 책",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 두 책 시기 표기가 갈리고 시험 흔적 없음"
+  },
+  {
+   "line": 1093,
+   "end": 1093,
+   "kind": "표행",
+   "term": "次序 生長化收藏",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 五行 일반(ch02) 항목과 겹침, 운기 쪽 시험 흔적 없음"
+  },
+  {
+   "line": 1094,
+   "end": 1096,
+   "kind": "표행",
+   "term": "五方·五時·五行",
+   "where": [
+    "yyox-14#1",
+    "yyox-14#2"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1097,
+   "end": 1097,
+   "kind": "표행",
+   "term": "天干 陽·陰 太過·不及",
+   "where": [
+    "new-uk-08#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1098,
+   "end": 1099,
+   "kind": "표행",
+   "term": "主運 運序 木火土金水",
+   "where": [
+    "new-uk-09#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1100,
+   "end": 1100,
+   "kind": "표행",
+   "term": "主運 기후 多風…多寒",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 化五運 기후(濕勝…)와 겹치고 문제집 2편에 主運 기후 문항 없음"
+  },
+  {
+   "line": 1101,
+   "end": 1102,
+   "kind": "표행",
+   "term": "主運 인체·질병",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 시험 흔적 없음(질병 예는 甲子年 脾病이 대신)"
+  },
+  {
+   "line": 1103,
+   "end": 1103,
+   "kind": "※",
+   "term": "五時는 化五運과 불일치",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 시험 흔적 없음"
+  },
+  {
+   "line": 1105,
+   "end": 1107,
+   "kind": "표행",
+   "term": "化五運 천간·기후",
+   "where": [
+    "new-uk-08#1",
+    "new-uk-08#4",
+    "new-uk-08#5",
+    "new-uk-08#7",
+    "new-uk-08#8",
+    "new-uk-08#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1108,
+   "end": 1108,
+   "kind": "표행",
+   "term": "化五運 地面 영향",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 기후 칸과 중복, 시험 흔적 없음"
+  },
+  {
+   "line": 1109,
+   "end": 1109,
+   "kind": "예",
+   "term": "客運 예: 庚辰年 淸明日",
+   "where": [
+    "new-uk-09#2"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1116,
+   "end": 1119,
+   "kind": "표행",
+   "term": "地支↔客氣①~⑥ 배속",
+   "where": [
+    "new-uk-11#2",
+    "new-uk-11#3",
+    "new-uk-11#4",
+    "new-uk-11#5",
+    "new-uk-11#6",
+    "new-uk-11#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1120,
+   "end": 1120,
+   "kind": "표행",
+   "term": "陰陽多少 一陰~三陽",
+   "where": [
+    "new-uk-15#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1121,
+   "end": 1122,
+   "kind": "표행",
+   "term": "五行·六氣 風暑濕火燥寒",
+   "where": [
+    "new-uk-10#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1123,
+   "end": 1124,
+   "kind": "표행",
+   "term": "中氣-本氣 / 中氣",
+   "where": [
+    "new-uk-14#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1127,
+   "end": 1127,
+   "kind": "표행",
+   "term": "主氣 六步 절기",
+   "where": [
+    "new-uk-12#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1128,
+   "end": 1128,
+   "kind": "표행",
+   "term": "主氣 순서",
+   "where": [
+    "new-uk-12#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1129,
+   "end": 1129,
+   "kind": "표행",
+   "term": "下承之氣",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 시험 흔적 없음(亢害承制 원리는 yyox-08에 따로)"
+  },
+  {
+   "line": 1130,
+   "end": 1130,
+   "kind": "표행",
+   "term": "主氣 해당 인체 병",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 시험 흔적 없음"
+  },
+  {
+   "line": 1131,
+   "end": 1131,
+   "kind": "※",
+   "term": "客氣 설명·庚辰 예·6등분",
+   "where": [
+    "new-uk-12#4",
+    "new-uk-12#6"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1137,
+   "end": 1137,
+   "kind": "표행",
+   "term": "小逆 運生氣 (辛亥)",
+   "where": [
+    "new-uk-13#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1138,
+   "end": 1138,
+   "kind": "표행",
+   "term": "不和 運克氣 (甲辰)",
+   "where": [
+    "new-uk-13#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1139,
+   "end": 1139,
+   "kind": "표행",
+   "term": "順化 氣生運 (甲子)",
+   "where": [
+    "new-uk-13#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1140,
+   "end": 1140,
+   "kind": "표행",
+   "term": "天刑 氣克運 (己亥)",
+   "where": [
+    "new-uk-13#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1137,
+   "end": 1140,
+   "kind": "예",
+   "term": "相臨 예시 연도 4",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표·트레이너 — 年柱 → 運氣相臨 판별 연습(문제집 2편 Q1 己亥·Q12 辛巳 출제)"
+  },
+  {
+   "line": 1142,
+   "end": 1146,
+   "kind": "표행",
+   "term": "同化 5행 예시 연도",
+   "where": [
+    "yyox-14#3",
+    "yyox-14#4",
+    "yyox-14#5",
+    "yyox-14#7",
+    "yyox-14#8"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1148,
+   "end": 1150,
+   "kind": "표행",
+   "term": "平氣 예 戊戌·癸巳·壬申",
+   "where": [
+    "new-uk-13#6",
+    "new-uk-13#7",
+    "new-uk-13#8"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1155,
+   "end": 1155,
+   "kind": "표행",
+   "term": "五運·六氣 정의 비교",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 서술 비교, 개별 항목은 각 과가 나름"
+  },
+  {
+   "line": 1156,
+   "end": 1157,
+   "kind": "표행",
+   "term": "大運·主運·主氣 산정",
+   "where": [
+    "new-uk-08#3",
+    "new-uk-09#1",
+    "new-uk-12#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1158,
+   "end": 1158,
+   "kind": "표행",
+   "term": "客運10·客氣12·間氣6년",
+   "where": [
+    "new-uk-11#9",
+    "new-uk-08#3"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1159,
+   "end": 1159,
+   "kind": "표행",
+   "term": "大運>客運>主運 우선",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 우선순위 한 줄"
+  },
+  {
+   "line": 1159,
+   "end": 1159,
+   "kind": "표행",
+   "term": "主氣=節序만 / 客氣=全年",
+   "where": [
+    "new-uk-12#1",
+    "new-uk-12#4"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1167,
+   "end": 1168,
+   "kind": "표행",
+   "term": "步별 主氣 표",
+   "where": [
+    "new-uk-12#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1173,
+   "end": 1176,
+   "kind": "표행",
+   "term": "표리 寒熱·風火·燥濕",
+   "where": [
+    "new-uk-14#3",
+    "new-uk-14#4",
+    "new-uk-14#5",
+    "new-uk-14#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1178,
+   "end": 1184,
+   "kind": "표행",
+   "term": "三陰三陽 서열(三陽…一陰)",
+   "where": [
+    "new-uk-15#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1178,
+   "end": 1184,
+   "kind": "표행",
+   "term": "氣血多少 칸",
+   "where": [
+    "new-uk-15#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1178,
+   "end": 1184,
+   "kind": "표행",
+   "term": "陰陽多少 칸 陽多·次少·又少",
+   "where": [
+    "new-uk-15#7"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1178,
+   "end": 1184,
+   "kind": "표행",
+   "term": "形氣관계 칸",
+   "where": [
+    "new-uk-15#6",
+    "new-uk-15#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1178,
+   "end": 1184,
+   "kind": "표행",
+   "term": "開闔樞 칸",
+   "where": [
+    "new-uk-15#1",
+    "new-uk-15#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1178,
+   "end": 1184,
+   "kind": "표행",
+   "term": "陰陽進退(時間) 칸",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 문 전시장 창에 進退 한 줄 얹기(문제집 6편 Q6 陽進前·陰已盡 출제)"
+  },
+  {
+   "line": 1178,
+   "end": 1184,
+   "kind": "표행",
+   "term": "六氣와 관계(에너지) 칸",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표·트레이너 — 六氣별 에너지 한 줄(문제집 6편 Q10 太陽寒·太陰濕 에너지 설명 출제)"
+  },
+  {
+   "line": 1178,
+   "end": 1184,
+   "kind": "표행",
+   "term": "作用 및 性質 칸",
+   "where": [
+    "new-uk-10#3"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1178,
+   "end": 1184,
+   "kind": "표행",
+   "term": "위치 在上·在下·中央",
+   "where": [
+    "new-uk-10#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1186,
+   "end": 1186,
+   "kind": "원문",
+   "term": "燥以乾之…火以溫之",
+   "where": [
+    "new-uk-10#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1187,
+   "end": 1188,
+   "kind": "정의",
+   "term": "標本中氣 개념",
+   "where": [
+    "new-uk-14#0"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1189,
+   "end": 1190,
+   "kind": "번호목록",
+   "term": "本=六氣 · 標=三陰三陽",
+   "where": [
+    "new-uk-14#1",
+    "new-uk-14#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1191,
+   "end": 1191,
+   "kind": "번호목록",
+   "term": "中氣=表裏之氣",
+   "where": [
+    "new-uk-14#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1193,
+   "end": 1193,
+   "kind": "※",
+   "term": "中氣 風火 밀접/寒熱 상반",
+   "where": [
+    "new-uk-14#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1194,
+   "end": 1194,
+   "kind": "번호목록",
+   "term": "標本相移 轉化性",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 시험 흔적 없음"
+  },
+  {
+   "line": 1195,
+   "end": 1195,
+   "kind": "번호목록",
+   "term": "從化性 六氣標本 所從不同",
+   "where": [
+    "new-uk-14#9"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1197,
+   "end": 1198,
+   "kind": "번호목록",
+   "term": "從本化 少陽·太陰",
+   "where": [
+    "new-uk-14#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1199,
+   "end": 1200,
+   "kind": "번호목록",
+   "term": "從本從標 少陰·太陽",
+   "where": [
+    "new-uk-14#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1201,
+   "end": 1202,
+   "kind": "번호목록",
+   "term": "從中氣化 陽明·厥陰",
+   "where": [
+    "new-uk-14#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1205,
+   "end": 1210,
+   "kind": "표행",
+   "term": "12經脈 標本中氣 배속 6행",
+   "where": [
+    "new-uk-14#4",
+    "new-uk-14#5",
+    "new-uk-14#6"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1211,
+   "end": 1215,
+   "kind": "♣",
+   "term": "十二經脈 配合原則 4",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 네 원칙 한 줄씩(문제집 6편 Q13 출제, 정답 ⑤ 가나다라 [교재 확인 권장])"
+  },
+  {
+   "line": 1217,
+   "end": 1218,
+   "kind": "번호목록",
+   "term": "三陽 下降·三陰 上升",
+   "where": [
+    "new-uk-14#10"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1220,
+   "end": 1222,
+   "kind": "번호목록",
+   "term": "臟腑氣 升降: 脾胃·肺大腸",
+   "where": [
+    "new-uk-14#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1223,
+   "end": 1225,
+   "kind": "※",
+   "term": "標·本·中 / 從本·從本從標",
+   "where": [
+    "new-uk-14#0",
+    "new-uk-14#7",
+    "new-uk-14#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1228,
+   "end": 1232,
+   "kind": "도해",
+   "term": "天地人 陰陽升降 도해",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 神·心(위) 肝·血(왼) 肺·氣(오른) 精·腎(아래) 십자 도해(시험 흔적은 없음 — 확인 필요)"
+  },
+  {
+   "line": 1233,
+   "end": 1233,
+   "kind": "원문",
+   "term": "左血右氣",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 한 줄(시험 흔적 없음)"
+  },
+  {
+   "line": 1234,
+   "end": 1235,
+   "kind": "도해",
+   "term": "上者右旋·下者左旋",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 시험 흔적 없음"
+  },
+  {
+   "line": 1236,
+   "end": 1239,
+   "kind": "정의",
+   "term": "東洋 方位(俯察地理圖)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 시험 흔적 없음"
+  },
+  {
+   "line": 1240,
+   "end": 1241,
+   "kind": "원문",
+   "term": "加行歌訣",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 시험 흔적 없음"
+  },
+  {
+   "line": 1242,
+   "end": 1246,
+   "kind": "표행",
+   "term": "神·氣·血·精 體用·陰陽",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "표·트레이너 — 神氣血精 ↔ 陽中之陽…陰中之陰 짝짓기(문제집 4편 Q28·Q142 精氣血神 설명 출제)"
+  },
+  {
+   "line": 1247,
+   "end": 1247,
+   "kind": "※",
+   "term": "陽化氣 + 陰成形",
+   "where": [
+    "new-jq-07#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1250,
+   "end": 1251,
+   "kind": "정의",
+   "term": "精 개념 夫精者身之本",
+   "where": [
+    "new-jq-03#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1252,
+   "end": 1252,
+   "kind": "원문",
+   "term": "兩神相搏 合而成形(決氣)",
+   "where": [
+    "new-jq-02#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1253,
+   "end": 1256,
+   "kind": "번호목록",
+   "term": "狹義·廣義의 精",
+   "where": [
+    "new-jq-03#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1259,
+   "end": 1260,
+   "kind": "번호목록",
+   "term": "先天之精",
+   "where": [
+    "new-jq-03#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1261,
+   "end": 1261,
+   "kind": "원문",
+   "term": "人始生 先成精 …(經脈)",
+   "where": [
+    "new-jq-03#7"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1262,
+   "end": 1262,
+   "kind": "번호목록",
+   "term": "後天之精",
+   "where": [
+    "new-jq-03#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1263,
+   "end": 1265,
+   "kind": "번호목록",
+   "term": "기능별 精 분류",
+   "where": [
+    "new-jq-03#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1267,
+   "end": 1267,
+   "kind": "번호목록",
+   "term": "精 기능 ① 생식·생장발육",
+   "where": [
+    "new-jq-03#6",
+    "new-jq-05#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1270,
+   "end": 1270,
+   "kind": "표행",
+   "term": "上古天眞論 女子 七七",
+   "where": [
+    "new-jq-05#2",
+    "new-jq-05#3",
+    "new-jq-05#4",
+    "new-jq-05#5",
+    "new-jq-05#6",
+    "new-jq-05#7",
+    "new-jq-05#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1270,
+   "end": 1270,
+   "kind": "표행",
+   "term": "上古天眞論 丈夫 八八",
+   "where": [
+    "new-jq-05#2",
+    "new-jq-05#3",
+    "new-jq-05#4",
+    "new-jq-05#5",
+    "new-jq-05#6",
+    "new-jq-05#7",
+    "new-jq-05#8",
+    "new-jq-05#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1270,
+   "end": 1270,
+   "kind": "원문",
+   "term": "腎者主水 受五臟六腑之精",
+   "where": [
+    "new-jq-05#9"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1271,
+   "end": 1273,
+   "kind": "번호목록",
+   "term": "精 기능 ② 腦髓",
+   "where": [
+    "new-jq-03#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1274,
+   "end": 1274,
+   "kind": "번호목록",
+   "term": "精 기능 ③ 질병 예방",
+   "where": [
+    "new-jq-03#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1277,
+   "end": 1277,
+   "kind": "번호목록",
+   "term": "精病 虛症 · 腰者腎之府",
+   "where": [
+    "new-zj-15#1"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1278,
+   "end": 1278,
+   "kind": "※",
+   "term": "天癸란?",
+   "where": [
+    "new-jq-05#0",
+    "new-jq-05#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1280,
+   "end": 1282,
+   "kind": "번호목록",
+   "term": "氣血의 來源=後天之精",
+   "where": [
+    "new-jq-16#1",
+    "new-jq-19#2"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1285,
+   "end": 1285,
+   "kind": "번호목록",
+   "term": "神 자연측면 陰陽不測",
+   "where": [
+    "new-jq-12#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1286,
+   "end": 1286,
+   "kind": "원문",
+   "term": "天地之大紀 人神之通應",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 한 줄(문제집 4편 Q8 神 설명 조합에 포함)"
+  },
+  {
+   "line": 1287,
+   "end": 1287,
+   "kind": "번호목록",
+   "term": "神 인간측면 廣義",
+   "where": [
+    "new-jq-12#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1288,
+   "end": 1288,
+   "kind": "원문",
+   "term": "神機·氣立(五常政大論)",
+   "where": [
+    "new-uk-03#6"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1289,
+   "end": 1289,
+   "kind": "원문",
+   "term": "得神者昌 失神者亡",
+   "where": [
+    "new-jq-12#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1290,
+   "end": 1291,
+   "kind": "번호목록",
+   "term": "神 思惟 狹義 · 君主之官",
+   "where": [
+    "new-jq-12#3",
+    "new-jq-12#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1293,
+   "end": 1293,
+   "kind": "번호목록",
+   "term": "神의 生成 ① 兩精相搏",
+   "where": [
+    "new-jq-13#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1294,
+   "end": 1296,
+   "kind": "번호목록",
+   "term": "神의 生成 ② 水穀精微 보충",
+   "where": [
+    "new-jq-12#4"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1297,
+   "end": 1297,
+   "kind": "※",
+   "term": "神의 물질기초 氣血(血)",
+   "where": [
+    "new-jq-16#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 1299,
+   "end": 1301,
+   "kind": "번호목록",
+   "term": "神의 機能 3",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 神爲一身之主 · 精神機能의 總師 · 外反映 3줄(문제집 4편 Q136 神의 내용 문항)"
+  },
+  {
+   "line": 1304,
+   "end": 1304,
+   "kind": "정의",
+   "term": "神의 분류 개괄",
+   "where": [
+    "new-jq-14#0"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1307,
+   "end": 1307,
+   "kind": "표행",
+   "term": "肝(魂) 衝動傾向 運動",
+   "where": [
+    "new-jq-14#8",
+    "new-jq-15#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1308,
+   "end": 1308,
+   "kind": "표행",
+   "term": "心(神) 欲求傾向 成長",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — new-jq-14 윗층 세 방(肝·脾·腎)에 心 방을 더함(문제집 4편 Q37 五臟-五志 출제)"
+  },
+  {
+   "line": 1309,
+   "end": 1309,
+   "kind": "표행",
+   "term": "脾(意) 融和傾向 營養",
+   "where": [
+    "new-jq-14#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1310,
+   "end": 1310,
+   "kind": "표행",
+   "term": "肺(魄) 制止傾向 呼吸",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — new-jq-14 윗층에 肺 방을 더함(문제집 4편 Q37 출제)"
+  },
+  {
+   "line": 1311,
+   "end": 1311,
+   "kind": "표행",
+   "term": "腎(志) 創造傾向 排泄",
+   "where": [
+    "new-jq-14#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1306,
+   "end": 1311,
+   "kind": "표행",
+   "term": "五種機能活動 칸(發生…沈靜)",
+   "where": [
+    "new-jq-14#8",
+    "new-jq-14#9",
+    "new-jq-14#10"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1313,
+   "end": 1313,
+   "kind": "번호목록",
+   "term": "神 精氣之化成",
+   "where": [
+    "new-jq-13#1",
+    "new-jq-13#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1314,
+   "end": 1314,
+   "kind": "번호목록",
+   "term": "魂 神氣之輔弼",
+   "where": [
+    "new-jq-13#2",
+    "new-jq-13#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1315,
+   "end": 1315,
+   "kind": "번호목록",
+   "term": "魄 精氣之匡佐",
+   "where": [
+    "new-jq-13#3",
+    "new-jq-13#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1316,
+   "end": 1321,
+   "kind": "번호목록",
+   "term": "心·意·志·思·慮·智 6",
+   "where": [
+    "new-jq-14#2",
+    "new-jq-14#3",
+    "new-jq-14#4",
+    "new-jq-14#5",
+    "new-jq-14#6",
+    "new-jq-14#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1322,
+   "end": 1323,
+   "kind": "※",
+   "term": "魂之爲言 · 魄之爲用",
+   "where": [
+    "new-jq-13#5",
+    "new-jq-13#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1325,
+   "end": 1325,
+   "kind": "정의",
+   "term": "氣의 기본개념",
+   "where": [
+    "new-jq-06#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1326,
+   "end": 1327,
+   "kind": "원문",
+   "term": "通天下一氣耳(莊子)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 한 줄(문제집 4편 Q90 氣의 기본 의미 문항)"
+  },
+  {
+   "line": 1328,
+   "end": 1330,
+   "kind": "번호목록",
+   "term": "有形의 氣·無形의 氣",
+   "where": [
+    "new-jq-06#2",
+    "new-jq-06#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1331,
+   "end": 1331,
+   "kind": "번호목록",
+   "term": "氣 생성 장부 腎脾肺",
+   "where": [
+    "new-jq-06#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1332,
+   "end": 1333,
+   "kind": "번호목록",
+   "term": "先天의 精氣",
+   "where": [
+    "new-jq-06#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1335,
+   "end": 1336,
+   "kind": "번호목록",
+   "term": "水穀之氣",
+   "where": [
+    "new-jq-06#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1337,
+   "end": 1337,
+   "kind": "번호목록",
+   "term": "淸氣",
+   "where": [
+    "new-jq-06#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1338,
+   "end": 1338,
+   "kind": "암기",
+   "term": "氣 기능 6 · 추온방고기영",
+   "where": [
+    "new-jq-07#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1339,
+   "end": 1339,
+   "kind": "번호목록",
+   "term": "推動作用",
+   "where": [
+    "new-jq-07#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1340,
+   "end": 1340,
+   "kind": "번호목록",
+   "term": "溫煦作用",
+   "where": [
+    "new-jq-07#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1341,
+   "end": 1343,
+   "kind": "※",
+   "term": "溫煦 失常 ㉠㉡",
+   "where": [
+    "new-jq-07#3"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1344,
+   "end": 1346,
+   "kind": "번호목록",
+   "term": "防禦作用",
+   "where": [
+    "new-jq-07#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1347,
+   "end": 1351,
+   "kind": "번호목록",
+   "term": "固攝作用",
+   "where": [
+    "new-jq-07#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1352,
+   "end": 1355,
+   "kind": "번호목록",
+   "term": "固攝失司 · 문제 판단",
+   "where": [
+    "new-jq-07#8",
+    "new-jq-07#9",
+    "new-jq-07#10",
+    "new-jq-07#11",
+    "new-jq-07#12"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1356,
+   "end": 1357,
+   "kind": "번호목록",
+   "term": "氣化作用",
+   "where": [
+    "new-jq-07#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1358,
+   "end": 1358,
+   "kind": "번호목록",
+   "term": "氣의 化生 3(營衛·宗·元)",
+   "where": [
+    "new-jq-09#1",
+    "new-jq-10#1",
+    "new-jq-11#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1359,
+   "end": 1359,
+   "kind": "번호목록",
+   "term": "淸氣→濁氣",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 시험 흔적 없음"
+  },
+  {
+   "line": 1360,
+   "end": 1360,
+   "kind": "※",
+   "term": "陽化氣 陰成形 氣化 본질",
+   "where": [
+    "new-jq-07#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1361,
+   "end": 1361,
+   "kind": "번호목록",
+   "term": "營養作用",
+   "where": [
+    "new-jq-07#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1363,
+   "end": 1363,
+   "kind": "정의",
+   "term": "氣 명칭 기준 3",
+   "where": [
+    "new-jq-06#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1365,
+   "end": 1366,
+   "kind": "번호목록",
+   "term": "眞氣 구성·분류 7",
+   "where": [
+    "new-jq-09#5"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1367,
+   "end": 1369,
+   "kind": "번호목록",
+   "term": "元氣 이명·원동력",
+   "where": [
+    "new-jq-09#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1370,
+   "end": 1372,
+   "kind": "번호목록",
+   "term": "元氣 組成 腎中精氣",
+   "where": [
+    "new-jq-09#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1373,
+   "end": 1373,
+   "kind": "☆",
+   "term": "三焦=元氣의 別使·通道",
+   "where": [
+    "new-jq-09#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1374,
+   "end": 1374,
+   "kind": "☆",
+   "term": "命門者 …元氣之所係",
+   "where": [
+    "new-jq-09#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1375,
+   "end": 1375,
+   "kind": "번호목록",
+   "term": "元氣 주요기능",
+   "where": [
+    "new-jq-09#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1376,
+   "end": 1376,
+   "kind": "※",
+   "term": "氣 철학용어(王充 論衡)",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 시험 흔적 없음"
+  },
+  {
+   "line": 1377,
+   "end": 1377,
+   "kind": "정의",
+   "term": "宗氣 胸中·膻中·氣海",
+   "where": [
+    "new-jq-10#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1378,
+   "end": 1379,
+   "kind": "번호목록",
+   "term": "宗氣 組成과 분포",
+   "where": [
+    "new-jq-10#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1381,
+   "end": 1381,
+   "kind": "원문",
+   "term": "五穀入于胃 … 宗氣積于胸中",
+   "where": [
+    "new-jq-10#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1382,
+   "end": 1383,
+   "kind": "원문",
+   "term": "宗氣 두 방향",
+   "where": [
+    "new-jq-10#4",
+    "new-jq-10#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1384,
+   "end": 1386,
+   "kind": "번호목록",
+   "term": "宗氣 기능 走息道·貫心脈",
+   "where": [
+    "new-jq-10#3",
+    "new-jq-10#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1387,
+   "end": 1387,
+   "kind": "※",
+   "term": "胃之大絡 虛里 宗氣의 盛衰",
+   "where": [
+    "new-jq-10#8",
+    "new-jq-10#9",
+    "new-jq-10#10"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1388,
+   "end": 1390,
+   "kind": "번호목록",
+   "term": "宗氣: 氣의 起點·動氣·활동",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 시험 흔적 없음(문제집 4편 Q38 宗氣 문항은 위 항목으로 풀림)"
+  },
+  {
+   "line": 1391,
+   "end": 1391,
+   "kind": "번호목록",
+   "term": "上氣海 積 走息道",
+   "where": [
+    "new-jq-10#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1392,
+   "end": 1392,
+   "kind": "번호목록",
+   "term": "營衛 運行의 원동력",
+   "where": [
+    "new-jq-10#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1393,
+   "end": 1396,
+   "kind": "cf",
+   "term": "基礎=原氣 · 原動力=宗氣",
+   "where": [
+    "new-jq-09#6",
+    "new-jq-10#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1397,
+   "end": 1398,
+   "kind": "정의",
+   "term": "營氣 정의(脈中·衛와 대)",
+   "where": [
+    "new-jq-11#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1399,
+   "end": 1401,
+   "kind": "번호목록",
+   "term": "營氣 生成",
+   "where": [
+    "new-jq-11#1",
+    "new-jq-11#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1403,
+   "end": 1406,
+   "kind": "번호목록",
+   "term": "營氣 ① 血液化生",
+   "where": [
+    "new-jq-11#3",
+    "new-jq-16#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1407,
+   "end": 1408,
+   "kind": "번호목록",
+   "term": "營氣 ② 全身 營養",
+   "where": [
+    "new-jq-11#1"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 1409,
+   "end": 1409,
+   "kind": "번호목록",
+   "term": "營氣 운행 脈中 50회",
+   "where": [
+    "new-jq-11#4"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1410,
+   "end": 1410,
+   "kind": "번호목록",
+   "term": "營氣 經絡循行·別者 任督",
+   "where": [
+    "new-jq-11#1"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1411,
+   "end": 1411,
+   "kind": "표행",
+   "term": "十二經脈 流注 순서",
+   "where": [
+    "mer-06#0"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1412,
+   "end": 1414,
+   "kind": "번호목록",
+   "term": "衛氣 정의·방어 a",
+   "where": [
+    "new-jq-11#5",
+    "new-jq-11#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1415,
+   "end": 1417,
+   "kind": "번호목록",
+   "term": "衛氣 溫養·腠理開闔",
+   "where": [
+    "new-jq-11#7"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1418,
+   "end": 1418,
+   "kind": "원문",
+   "term": "衛氣者 溫分肉 充皮膚(本藏)",
+   "where": [
+    "new-jq-11#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1419,
+   "end": 1424,
+   "kind": "번호목록",
+   "term": "衛氣 순행 3論",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 營衛 야영장에 衛氣 낮·밤 순회 한 장면(문제집 4편에 순행 문항 없음, 시험 흔적 약함 — 확인 필요)"
+  },
+  {
+   "line": 1425,
+   "end": 1428,
+   "kind": "번호목록",
+   "term": "衛氣 근본下·영양中·개발上",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 下焦·中焦·上焦 세 줄(문제집 4편 Q161 보기 ③ 下焦에 根源하는 元氣 혼동과 연결)"
+  },
+  {
+   "line": 1429,
+   "end": 1429,
+   "kind": "표행",
+   "term": "衛氣 晝夜 순행 경로",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 경로 순서 상세, 시험 흔적 없음"
+  },
+  {
+   "line": 1431,
+   "end": 1434,
+   "kind": "도해",
+   "term": "五行 圓運動 도해",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 시험 흔적 없음(1228행 도해와 같이 판단)"
+  },
+  {
+   "line": 1436,
+   "end": 1439,
+   "kind": "표행",
+   "term": "營氣·衛氣 비교표",
+   "where": [
+    "new-jq-11#2",
+    "new-jq-11#5",
+    "new-jq-11#6"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1440,
+   "end": 1443,
+   "kind": "원문",
+   "term": "營衛의 生成 (邪客)",
+   "where": [
+    "new-jq-10#2",
+    "new-jq-11#3",
+    "new-jq-11#5"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1445,
+   "end": 1448,
+   "kind": "번호목록",
+   "term": "臟腑之氣·經絡之氣",
+   "where": [
+    "new-jq-09#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1449,
+   "end": 1451,
+   "kind": "번호목록",
+   "term": "穀氣·眞氣·正氣 정의",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 세 줄(문제집 4편 Q161 正氣 개념 출제)"
+  },
+  {
+   "line": 1453,
+   "end": 1455,
+   "kind": "♣",
+   "term": "營衛中焦·宗氣·正氣",
+   "where": [
+    "new-jq-11#1"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1456,
+   "end": 1456,
+   "kind": "♣",
+   "term": "三寶 精·氣·神",
+   "where": [
+    "new-jq-01#0",
+    "new-jq-01#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1457,
+   "end": 1457,
+   "kind": "정의",
+   "term": "氣機 升降出入",
+   "where": [
+    "new-jq-08#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1458,
+   "end": 1458,
+   "kind": "번호목록",
+   "term": "氣機 정상 필수요소",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 두 요소 한 줄(문제집 4편 Q154 氣의 운행 문항)"
+  },
+  {
+   "line": 1459,
+   "end": 1459,
+   "kind": "※",
+   "term": "陰土↑ 臟脾 / 陽土↓ 腑胃",
+   "where": [
+    "new-uk-14#10"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1461,
+   "end": 1461,
+   "kind": "번호목록",
+   "term": "氣滯",
+   "where": [
+    "new-jq-08#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1462,
+   "end": 1462,
+   "kind": "번호목록",
+   "term": "氣逆",
+   "where": [
+    "new-jq-08#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1463,
+   "end": 1463,
+   "kind": "번호목록",
+   "term": "氣陷",
+   "where": [
+    "new-jq-08#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1464,
+   "end": 1464,
+   "kind": "번호목록",
+   "term": "氣脫",
+   "where": [
+    "new-jq-08#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1465,
+   "end": 1465,
+   "kind": "번호목록",
+   "term": "氣閉",
+   "where": [
+    "new-jq-08#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1467,
+   "end": 1472,
+   "kind": "번호목록",
+   "term": "臟腑와 氣機 6줄",
+   "where": [
+    "new-zj-05#4",
+    "new-zj-06#6",
+    "new-jq-07#11",
+    "new-uk-14#10"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1473,
+   "end": 1474,
+   "kind": "도해",
+   "term": "營·衛와 宗氣 관련도",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 시험 흔적 없음"
+  },
+  {
+   "line": 1478,
+   "end": 1479,
+   "kind": "정의",
+   "term": "血 개념 · 脈者血之府",
+   "where": [
+    "new-jq-16#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1481,
+   "end": 1482,
+   "kind": "번호목록",
+   "term": "血 生成 ① 營氣+津液",
+   "where": [
+    "new-jq-16#2",
+    "new-jq-02#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1483,
+   "end": 1483,
+   "kind": "번호목록",
+   "term": "血 生成 ② 肺脈·孫絡",
+   "where": [
+    "new-jq-11#3",
+    "new-jq-16#2"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1484,
+   "end": 1484,
+   "kind": "번호목록",
+   "term": "血 生成 ③ 精血同源",
+   "where": [
+    "new-jq-22#5",
+    "new-jq-22#6",
+    "new-jq-22#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1485,
+   "end": 1485,
+   "kind": "번호목록",
+   "term": "血 生成 ④ 津液→血",
+   "where": [
+    "new-jq-18#2",
+    "new-jq-22#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1486,
+   "end": 1486,
+   "kind": "※",
+   "term": "總講 血化生 · 氣血生化之源",
+   "where": [
+    "new-jq-17#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1487,
+   "end": 1489,
+   "kind": "번호목록",
+   "term": "血의 機能 血主濡之",
+   "where": [
+    "new-jq-16#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1490,
+   "end": 1491,
+   "kind": "원문",
+   "term": "肝受血而能視 · 血虛 증상",
+   "where": [
+    "zds-08#3",
+    "hp-18#5"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1492,
+   "end": 1493,
+   "kind": "번호목록",
+   "term": "血 정신기초·血虛 정신증",
+   "where": [
+    "new-jq-16#6"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 1495,
+   "end": 1500,
+   "kind": "번호목록",
+   "term": "血의 循行 두 견해",
+   "where": [
+    "new-jq-16#7",
+    "new-jq-16#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1502,
+   "end": 1502,
+   "kind": "번호목록",
+   "term": "心主血脈",
+   "where": [
+    "new-jq-17#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1503,
+   "end": 1503,
+   "kind": "번호목록",
+   "term": "肺 主氣·朝百脈",
+   "where": [
+    "new-jq-17#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1504,
+   "end": 1504,
+   "kind": "번호목록",
+   "term": "肝藏血·疏泄",
+   "where": [
+    "new-jq-17#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1505,
+   "end": 1505,
+   "kind": "번호목록",
+   "term": "脾統血·生血",
+   "where": [
+    "new-jq-17#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1506,
+   "end": 1507,
+   "kind": "번호목록",
+   "term": "腎 元陰元陽 · 陰虛·陽虛",
+   "where": [
+    "new-jq-17#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1509,
+   "end": 1510,
+   "kind": "※",
+   "term": "血行 臟腑 총결 心肝脾",
+   "where": [
+    "new-jq-17#10"
+   ],
+   "verdict": "글로만",
+   "proposal": ""
+  },
+  {
+   "line": 1512,
+   "end": 1513,
+   "kind": "번호목록",
+   "term": "血行 3조건",
+   "where": [
+    "new-jq-17#6",
+    "new-jq-17#7",
+    "new-jq-17#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1515,
+   "end": 1515,
+   "kind": "※",
+   "term": "血行 필요: 心氣·肺·肝·脾",
+   "where": [
+    "new-jq-17#1",
+    "new-jq-17#2",
+    "new-jq-17#3",
+    "new-jq-17#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1516,
+   "end": 1516,
+   "kind": "※",
+   "term": "血液循環系統=心·肺·脈",
+   "where": [
+    "new-jq-16#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1517,
+   "end": 1517,
+   "kind": "※",
+   "term": "필수조건 아닌 것 三焦通利",
+   "where": [
+    "new-jq-17#9"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1520,
+   "end": 1520,
+   "kind": "정의",
+   "term": "津液 개념",
+   "where": [
+    "new-jq-18#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1521,
+   "end": 1523,
+   "kind": "번호목록",
+   "term": "脈外 津液 · 脈內 血",
+   "where": [
+    "new-jq-18#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1524,
+   "end": 1524,
+   "kind": "번호목록",
+   "term": "津液 구별 · 小腸",
+   "where": [
+    "new-jq-18#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1526,
+   "end": 1526,
+   "kind": "표행",
+   "term": "津 행(성상·분포·기능)",
+   "where": [
+    "new-jq-18#5",
+    "new-jq-18#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1527,
+   "end": 1527,
+   "kind": "표행",
+   "term": "液 행(성상·분포·기능)",
+   "where": [
+    "new-jq-18#6",
+    "new-jq-18#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1526,
+   "end": 1527,
+   "kind": "표행",
+   "term": "津·液 순행 칸",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "그림 — 나루터 津(강물)에 衛 개, 液(독)에 營 물길 한 줄(문제집 4편 Q58 津液 조합 문항에 近)"
+  },
+  {
+   "line": 1528,
+   "end": 1530,
+   "kind": "원문",
+   "term": "腠理發泄·穀入氣滿",
+   "where": [
+    "new-jq-02#3",
+    "new-jq-02#4",
+    "new-jq-18#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1531,
+   "end": 1536,
+   "kind": "원문",
+   "term": "經脈別論 飮食物 輸布",
+   "where": [
+    "new-jq-19#1",
+    "new-jq-19#2",
+    "new-jq-19#3",
+    "new-jq-16#8"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1537,
+   "end": 1541,
+   "kind": "번호목록",
+   "term": "津液 生成",
+   "where": [
+    "new-jq-19#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1543,
+   "end": 1543,
+   "kind": "번호목록",
+   "term": "脾의 津液轉輸",
+   "where": [
+    "new-jq-19#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1544,
+   "end": 1544,
+   "kind": "※",
+   "term": "津液 중추 장부=脾",
+   "where": [
+    "new-jq-19#2"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1545,
+   "end": 1545,
+   "kind": "번호목록",
+   "term": "肺의 通調水道",
+   "where": [
+    "new-jq-19#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1546,
+   "end": 1548,
+   "kind": "번호목록",
+   "term": "腎의 蒸騰氣化",
+   "where": [
+    "new-jq-19#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1549,
+   "end": 1549,
+   "kind": "※",
+   "term": "津液 가장 중요 장부=腎",
+   "where": [
+    "new-jq-19#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1550,
+   "end": 1550,
+   "kind": "번호목록",
+   "term": "肝의 疏泄",
+   "where": [
+    "new-jq-19#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1551,
+   "end": 1551,
+   "kind": "●",
+   "term": "三焦氣化 · 主宰=腎",
+   "where": [
+    "new-jq-19#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1552,
+   "end": 1555,
+   "kind": "번호목록",
+   "term": "津液 排泄 汗·呼氣·大便",
+   "where": [
+    "new-jq-19#7",
+    "new-jq-19#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1558,
+   "end": 1561,
+   "kind": "번호목록",
+   "term": "津液 기능 滋潤·營養·載氣",
+   "where": [
+    "new-jq-18#7",
+    "new-jq-21#5",
+    "new-jq-21#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1563,
+   "end": 1563,
+   "kind": "정의",
+   "term": "氣血津液 來源 脾胃運化",
+   "where": [
+    "new-jq-22#1"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1564,
+   "end": 1564,
+   "kind": "정의",
+   "term": "氣主煦之 血主濡之",
+   "where": [
+    "new-jq-20#1"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1566,
+   "end": 1567,
+   "kind": "번호목록",
+   "term": "氣能生血",
+   "where": [
+    "new-jq-20#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1568,
+   "end": 1569,
+   "kind": "번호목록",
+   "term": "氣能行血",
+   "where": [
+    "new-jq-20#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1570,
+   "end": 1571,
+   "kind": "번호목록",
+   "term": "氣能攝血 裹血",
+   "where": [
+    "new-jq-20#7"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1572,
+   "end": 1574,
+   "kind": "번호목록",
+   "term": "血爲氣之母 載體·營養",
+   "where": [
+    "new-jq-20#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1575,
+   "end": 1575,
+   "kind": "※",
+   "term": "氣隨血脫 益氣固脫",
+   "where": [
+    "new-jq-20#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1577,
+   "end": 1578,
+   "kind": "※",
+   "term": "氣行則血行 · 血行 心脾肝",
+   "where": [
+    "new-jq-20#2",
+    "new-jq-17#10"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1579,
+   "end": 1579,
+   "kind": "번호목록",
+   "term": "血爲氣母(血爲氣配)",
+   "where": [
+    "new-jq-20#8"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1580,
+   "end": 1580,
+   "kind": "번호목록",
+   "term": "氣溫則血滑 氣寒則血澁",
+   "where": [
+    "new-jq-20#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1580,
+   "end": 1582,
+   "kind": "번호목록",
+   "term": "血從氣行·氣血 相互轉化",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "카드 — 氣可化血·血可化氣 한 줄(문제집 4편 Q34·Q79 氣血 관계 문항)"
+  },
+  {
+   "line": 1583,
+   "end": 1583,
+   "kind": "cf",
+   "term": "血爲下流本體 · 氣舍于血",
+   "where": [
+    "new-jq-20#9"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1586,
+   "end": 1588,
+   "kind": "번호목록",
+   "term": "氣能生津",
+   "where": [
+    "new-jq-21#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1589,
+   "end": 1591,
+   "kind": "번호목록",
+   "term": "氣能行津 · 水停則氣阻",
+   "where": [
+    "new-jq-21#3"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1592,
+   "end": 1594,
+   "kind": "번호목록",
+   "term": "氣能攝津",
+   "where": [
+    "new-jq-21#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1595,
+   "end": 1595,
+   "kind": "※",
+   "term": "腎氣虛 封藏상실 → 滑精",
+   "where": [
+    "new-jq-07#10"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1596,
+   "end": 1597,
+   "kind": "번호목록",
+   "term": "津液載氣 · 氣隨津脫",
+   "where": [
+    "new-jq-21#5",
+    "new-jq-21#6"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1598,
+   "end": 1600,
+   "kind": "번호목록",
+   "term": "津血同源",
+   "where": [
+    "new-jq-22#1",
+    "new-jq-22#2"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1603,
+   "end": 1604,
+   "kind": "※",
+   "term": "自汗 vs 盜汗 구분",
+   "where": [
+    "new-jq-21#4",
+    "hp-15#6",
+    "new-zj-03#4"
+   ],
+   "verdict": "약함",
+   "proposal": ""
+  },
+  {
+   "line": 1605,
+   "end": 1605,
+   "kind": "원문",
+   "term": "腎病者 寢汗出 憎風",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 시험 흔적 없음"
+  },
+  {
+   "line": 1606,
+   "end": 1606,
+   "kind": "번호목록",
+   "term": "汗血同源",
+   "where": [
+    "new-jq-22#3",
+    "new-jq-22#4"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  },
+  {
+   "line": 1607,
+   "end": 1607,
+   "kind": "※",
+   "term": "脫의 정의",
+   "where": [],
+   "verdict": "없음",
+   "proposal": "싣지 않음 — 脫證 6칸이 정의를 대신"
+  },
+  {
+   "line": 1608,
+   "end": 1612,
+   "kind": "번호목록",
+   "term": "精脫~血脫 5",
+   "where": [
+    "new-jq-23#1",
+    "new-jq-23#2",
+    "new-jq-23#3",
+    "new-jq-23#4",
+    "new-jq-23#5"
+   ],
+   "verdict": "그림후보",
+   "proposal": ""
+  }
+ ],
+ "stations": [
+  {
+   "lesson": "yyox-14",
+   "n": 0,
+   "lines": [
+    1064
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-14",
+   "n": 1,
+   "lines": [
+    953,
+    956
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-14",
+   "n": 2,
+   "lines": [
+    965,
+    968
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-14",
+   "n": 3,
+   "lines": [
+    1065,
+    1142
+   ],
+   "check": "맞음",
+   "note": "執法 비유·열두 해 교재에없음(OGI-SANG-02·六微旨大論)"
+  },
+  {
+   "lesson": "yyox-14",
+   "n": 4,
+   "lines": [
+    1066,
+    1143
+   ],
+   "check": "맞음",
+   "note": "歲會 여덟 해 열거·當位·氣之平·行令은 교재에없음(OGI-SANG-03); 교재 예시는 甲戌(1143)"
+  },
+  {
+   "lesson": "yyox-14",
+   "n": 5,
+   "lines": [
+    1067,
+    1146
+   ],
+   "check": "갈림",
+   "note": "교재 1067·1146·문제집 2편 Q1·Q21은 太乙天符, 덱은 太一天符(素問 六微旨大論 표기, 덱 say가 알고 적음) — 乙/一 한 글자, 둘 다 통용. 네 해 열거(戊午·己丑·己未·乙酉)는 교재엔 己未 예만"
+  },
+  {
+   "lesson": "yyox-14",
+   "n": 6,
+   "lines": [
+    1066,
+    1143
+   ],
+   "check": "교재에없음",
+   "note": "순수 歲會 丁卯·丙子 / 甲辰·甲戌은 同天符 겸함 — 교재에 없는 추론(원리상 맞음, 교재 예시 甲戌=歲會 1143과 모순 없음). 확인 필요"
+  },
+  {
+   "lesson": "yyox-14",
+   "n": 7,
+   "lines": [
+    1068,
+    1144
+   ],
+   "check": "맞음",
+   "note": "여섯 해 열거 교재에없음(교재 예 庚子 1144); 원리상 맞음"
+  },
+  {
+   "lesson": "yyox-14",
+   "n": 8,
+   "lines": [
+    1069,
+    1145
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "yyox-14",
+   "n": 9,
+   "lines": [
+    1065,
+    1069
+   ],
+   "check": "교재에없음",
+   "note": "執法 病速而危·行令 病徐而持·貴人 病暴而死 — 교재에없음(OGI-SANG-07, 素問 六微旨大論). 교재 1065~1069는 변화 크기(큼/완만/극렬)만"
+  },
+  {
+   "lesson": "yyox-14",
+   "n": 10,
+   "lines": [
+    1064
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-08",
+   "n": 0,
+   "lines": [
+    958,
+    978
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-08",
+   "n": 1,
+   "lines": [
+    962
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-08",
+   "n": 2,
+   "lines": [
+    978
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-08",
+   "n": 3,
+   "lines": [
+    959,
+    977
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-08",
+   "n": 4,
+   "lines": [
+    979,
+    1107
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-08",
+   "n": 5,
+   "lines": [
+    1107
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-08",
+   "n": 6,
+   "lines": [
+    978
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-08",
+   "n": 7,
+   "lines": [
+    1107
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-08",
+   "n": 8,
+   "lines": [
+    1107
+   ],
+   "check": "교재에없음",
+   "note": "壬年 木運太過 風勝은 교재 1107 맞음, 歲木太過 脾土受邪(飧泄·腸鳴)는 교재에없음 — 문제집 2편 Q13·Q20 출제, 氣交變大論"
+  },
+  {
+   "lesson": "new-uk-08",
+   "n": 9,
+   "lines": [
+    1107
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-08",
+   "n": 10,
+   "lines": [
+    962
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-09",
+   "n": 0,
+   "lines": [
+    985,
+    990
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-09",
+   "n": 1,
+   "lines": [
+    982,
+    983,
+    995
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-09",
+   "n": 2,
+   "lines": [
+    986,
+    987,
+    992
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-09",
+   "n": 3,
+   "lines": [
+    990,
+    993,
+    1084
+   ],
+   "check": "맞음",
+   "note": "교재 993행 客運五音 「太宮 少商 太羽 太角 少徵」은 太少 번갈기와 어긋나고 1084행(少角·太徵)과 다름 — 교재 내부 불일치, 덱은 1084행·원리를 따름. 확인 필요"
+  },
+  {
+   "lesson": "new-uk-09",
+   "n": 4,
+   "lines": [
+    1080,
+    1081,
+    994
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-09",
+   "n": 5,
+   "lines": [
+    1077
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-09",
+   "n": 6,
+   "lines": [
+    1079
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-09",
+   "n": 7,
+   "lines": [
+    1078
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-09",
+   "n": 8,
+   "lines": [
+    1076
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-09",
+   "n": 9,
+   "lines": [
+    990
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-10",
+   "n": 0,
+   "lines": [
+    1186
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-10",
+   "n": 1,
+   "lines": [
+    972,
+    1121
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-10",
+   "n": 2,
+   "lines": [
+    1186,
+    1179
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-10",
+   "n": 3,
+   "lines": [
+    1186
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-10",
+   "n": 4,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "風勝則動·熱勝則腫·燥勝則乾·寒勝則浮·濕勝則濡泄(陰陽應象大論) — 교재 1179~1184 作用 칸엔 없음, 문제집 2편 Q3 출제"
+  },
+  {
+   "lesson": "new-uk-10",
+   "n": 5,
+   "lines": [
+    972
+   ],
+   "check": "맞음",
+   "note": "review — 勝 증상(動·腫·乾·浮·濡泄)은 교재에없음(#4); 나머지 맞음"
+  },
+  {
+   "lesson": "new-uk-11",
+   "n": 0,
+   "lines": [
+    1018,
+    1020,
+    1021
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-11",
+   "n": 1,
+   "lines": [
+    949,
+    950
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-11",
+   "n": 2,
+   "lines": [
+    1011
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-11",
+   "n": 3,
+   "lines": [
+    1012
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-11",
+   "n": 4,
+   "lines": [
+    1013
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-11",
+   "n": 5,
+   "lines": [
+    1014
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-11",
+   "n": 6,
+   "lines": [
+    1015,
+    968
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-11",
+   "n": 7,
+   "lines": [
+    1016
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-11",
+   "n": 8,
+   "lines": [
+    1020,
+    1021,
+    1048
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-11",
+   "n": 9,
+   "lines": [
+    1024,
+    1026,
+    1027,
+    1158
+   ],
+   "check": "맞음",
+   "note": "司天·在泉 12년/間氣 6년 카드 문구는 교재 1004(괄호)와 1158(司天·在泉·左右間氣 6년, 客氣 12년)이 갈려 있음 — 덱 설명은 1158과 맞음. 북/남 방위 설명은 교재에없음"
+  },
+  {
+   "lesson": "new-uk-11",
+   "n": 10,
+   "lines": [
+    1029,
+    1030
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-11",
+   "n": 11,
+   "lines": [
+    1010,
+    1017
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-12",
+   "n": 0,
+   "lines": [
+    1040,
+    1169
+   ],
+   "check": "맞음",
+   "note": "교재 1169 「客氣 위에 主氣를 더하는 것」은 1040 「客氣가 主氣 위에 加臨」과 방향 표기가 반대 — 교재 내부 불일치, 덱은 1040 따름"
+  },
+  {
+   "lesson": "new-uk-12",
+   "n": 1,
+   "lines": [
+    998,
+    1000
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-12",
+   "n": 2,
+   "lines": [
+    1001,
+    1157
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-12",
+   "n": 3,
+   "lines": [
+    1127
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-12",
+   "n": 4,
+   "lines": [
+    1003
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-12",
+   "n": 5,
+   "lines": [
+    1006
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-12",
+   "n": 6,
+   "lines": [
+    1040,
+    1048
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-12",
+   "n": 7,
+   "lines": [
+    1043,
+    1050
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-12",
+   "n": 8,
+   "lines": [
+    1044
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-12",
+   "n": 9,
+   "lines": [
+    1045,
+    1050
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-12",
+   "n": 10,
+   "lines": [
+    1033,
+    1035,
+    1037
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-12",
+   "n": 11,
+   "lines": [
+    1001,
+    1006
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-13",
+   "n": 0,
+   "lines": [
+    1058,
+    1061
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-13",
+   "n": 1,
+   "lines": [
+    1058
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-13",
+   "n": 2,
+   "lines": [
+    1059
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-13",
+   "n": 3,
+   "lines": [
+    1060
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-13",
+   "n": 4,
+   "lines": [
+    1061
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-13",
+   "n": 5,
+   "lines": [
+    1070,
+    1074
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-13",
+   "n": 6,
+   "lines": [
+    1072,
+    1148
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-13",
+   "n": 7,
+   "lines": [
+    1073,
+    1149
+   ],
+   "check": "다름",
+   "note": "교재 1073은 不及한 運을 「같은 오행 司天」 또는 「같은 年支」가 돕는 것(同)만 — 덱 fact의 「司天이 生(同)」·그림의 쇠 주전자(金生水)는 生이 교재에 없음(카드 OGI-SAM-01-M03). 예시 乙卯·丁卯는 맞음. 확인 필요(보존 목록 여부)"
+  },
+  {
+   "lesson": "new-uk-13",
+   "n": 8,
+   "lines": [
+    1074,
+    1150
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-13",
+   "n": 9,
+   "lines": [
+    1058,
+    1074
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-14",
+   "n": 0,
+   "lines": [
+    1187,
+    1191
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-14",
+   "n": 1,
+   "lines": [
+    1189
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-14",
+   "n": 2,
+   "lines": [
+    1190
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-14",
+   "n": 3,
+   "lines": [
+    1191,
+    1173,
+    1176
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-14",
+   "n": 4,
+   "lines": [
+    1206,
+    1210
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-14",
+   "n": 5,
+   "lines": [
+    1205,
+    1208
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-14",
+   "n": 6,
+   "lines": [
+    1207,
+    1209
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-14",
+   "n": 7,
+   "lines": [
+    1197,
+    1198
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-14",
+   "n": 8,
+   "lines": [
+    1199,
+    1200
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-14",
+   "n": 9,
+   "lines": [
+    1201,
+    1202
+   ],
+   "check": "맞음",
+   "note": "「陽明厥陰 不從標本 從乎中也」 직접 인용은 교재에없음(교재는 설명만)"
+  },
+  {
+   "lesson": "new-uk-14",
+   "n": 10,
+   "lines": [
+    1217,
+    1221,
+    1222
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-14",
+   "n": 11,
+   "lines": [
+    1197,
+    1202
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-15",
+   "n": 0,
+   "lines": [
+    1178
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-15",
+   "n": 1,
+   "lines": [
+    1179,
+    1184
+   ],
+   "check": "맞음",
+   "note": "開를 關으로 적는 판본 언급은 교재에없음"
+  },
+  {
+   "lesson": "new-uk-15",
+   "n": 2,
+   "lines": [
+    1182,
+    1184
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-15",
+   "n": 3,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "開=발산·闔=수납·樞=전환 해설은 교재 표에 없음(카드 SU2-SAM-03)"
+  },
+  {
+   "lesson": "new-uk-15",
+   "n": 4,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "陰陽離合論·熱論·傷寒論 책자 — 교재에없음(카드 SU2-SAM-04)"
+  },
+  {
+   "lesson": "new-uk-15",
+   "n": 5,
+   "lines": [
+    1178,
+    1184
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-15",
+   "n": 6,
+   "lines": [
+    1179,
+    1181
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-15",
+   "n": 7,
+   "lines": [
+    1181,
+    1175
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-uk-15",
+   "n": 8,
+   "lines": [
+    1182,
+    1184
+   ],
+   "check": "다름",
+   "note": "교재 1183 少陰 形氣=陰始生(陰微少)인데 덱은 少陰=樞(전환)·모래시계로만 적음 — 開闔樞 칸의 樞가 形氣 자리에 들어감(틀림이라기보다 누락·혼동). 太陰·厥陰은 맞음"
+  },
+  {
+   "lesson": "new-uk-15",
+   "n": 9,
+   "lines": [
+    1179,
+    1184
+   ],
+   "check": "갈림",
+   "note": "교재 1183 少陰=多血 / 덱 少陰=少血多氣 — 문제집 6편 Q8·素問 血氣形志는 少陰 少血多氣라 덱과 맞음. 교재 표 오기 가능, 확인 필요. 太陰 多氣少血은 교재(多氣)·문제집 일치(素問 원문은 太陰 多血少氣라 또 다름)"
+  },
+  {
+   "lesson": "new-uk-15",
+   "n": 10,
+   "lines": [
+    1179
+   ],
+   "check": "맞음",
+   "note": "review — 開闔 해설·책자는 교재에없음(#3·#4), 少陰 氣血은 갈림(#9)"
+  },
+  {
+   "lesson": "new-jq-01",
+   "n": 0,
+   "lines": [
+    1456
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-01",
+   "n": 1,
+   "lines": [
+    1456
+   ],
+   "check": "갈림",
+   "note": "교재 1456은 三寶 精(地)·氣(天)·神(人), 덱은 天三寶 日月星·地三寶 水火風·人三寶 精氣神(카드 JGG-010·문제집 4편 Q156 해설). 문제집 Q156 정답 ⑤ 精/氣/神은 [교재 확인 권장] 표시. 확인 필요"
+  },
+  {
+   "lesson": "new-jq-01",
+   "n": 2,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "三丹田 下丹田精·中丹田氣·上丹田神 — 교재에없음(카드 JQ-SHIN-13)"
+  },
+  {
+   "lesson": "new-jq-01",
+   "n": 3,
+   "lines": [
+    1251
+   ],
+   "check": "교재에없음",
+   "note": "東醫寶鑑 身形 精者身之本·氣者神之主·形者神之宅 — 교재에없음(카드 JQ-JEONG-03). 교재 1251은 素問 夫精者身之本也만"
+  },
+  {
+   "lesson": "new-jq-01",
+   "n": 4,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "形不足者溫之以氣·精不足者補之以味 — 교재에없음(카드 JQ-JEONG-04)"
+  },
+  {
+   "lesson": "new-jq-01",
+   "n": 5,
+   "lines": [
+    1456
+   ],
+   "check": "교재에없음",
+   "note": "review — 三丹田·東醫寶鑑 身形은 교재에없음(#2·#3), 三寶 개념은 교재 1456"
+  },
+  {
+   "lesson": "new-jq-02",
+   "n": 0,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "決氣 六氣(精氣津液血脈) 틀 자체는 교재에없음 — 교재엔 精(1252)·津(1528)·液(1529)·血(1482) 정의만 흩어져 있음. 문제집 4편 Q147·Q148"
+  },
+  {
+   "lesson": "new-jq-02",
+   "n": 1,
+   "lines": [
+    1252
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-02",
+   "n": 2,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "氣 若霧露之漑 — 교재에없음, 문제집 4편 Q127 출제"
+  },
+  {
+   "lesson": "new-jq-02",
+   "n": 3,
+   "lines": [
+    1528
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-02",
+   "n": 4,
+   "lines": [
+    1529
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-02",
+   "n": 5,
+   "lines": [
+    1482
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-02",
+   "n": 6,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "脈 壅遏營氣 令無所避 — 교재에없음, 문제집 4편 Q147 출제"
+  },
+  {
+   "lesson": "new-jq-02",
+   "n": 7,
+   "lines": [
+    1252,
+    1482,
+    1528,
+    1529
+   ],
+   "check": "교재에없음",
+   "note": "六氣의 차례 精氣津液血脈 — 교재에없음, 문제집 4편 Q147·Q148"
+  },
+  {
+   "lesson": "new-jq-02",
+   "n": 8,
+   "lines": [
+    1252
+   ],
+   "check": "맞음",
+   "note": "정거장 여섯 중 精·津·液·血은 교재에 있고 氣·脈 정의는 교재에없음"
+  },
+  {
+   "lesson": "new-jq-03",
+   "n": 0,
+   "lines": [
+    1250
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-03",
+   "n": 1,
+   "lines": [
+    1250,
+    1251
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-03",
+   "n": 2,
+   "lines": [
+    1259,
+    1260
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-03",
+   "n": 3,
+   "lines": [
+    1262
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-03",
+   "n": 4,
+   "lines": [
+    1253,
+    1254,
+    1264,
+    1265
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-03",
+   "n": 5,
+   "lines": [
+    1254
+   ],
+   "check": "맞음",
+   "note": "精은 腎에서만 생성 X는 교재 1254와 맞음. 「至陰의 液」 표현은 교재에없음"
+  },
+  {
+   "lesson": "new-jq-03",
+   "n": 6,
+   "lines": [
+    1267,
+    1271,
+    1274
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-03",
+   "n": 7,
+   "lines": [
+    1272,
+    1273
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-03",
+   "n": 8,
+   "lines": [
+    1274
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-03",
+   "n": 9,
+   "lines": [
+    1250
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-04",
+   "n": 0,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "東醫寶鑑 精門 틀 — 교재에없음(카드 JQ-JEONG-11~13)"
+  },
+  {
+   "lesson": "new-jq-04",
+   "n": 1,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "東醫寶鑑 精門 — 교재에없음(카드 JQ-JEONG-11~13·HUBJQ-0069~0075)"
+  },
+  {
+   "lesson": "new-jq-04",
+   "n": 2,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "東醫寶鑑 精門 — 교재에없음(카드 JQ-JEONG-11~13·HUBJQ-0069~0075)"
+  },
+  {
+   "lesson": "new-jq-04",
+   "n": 3,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "東醫寶鑑 精門 — 교재에없음(카드 JQ-JEONG-11~13·HUBJQ-0069~0075)"
+  },
+  {
+   "lesson": "new-jq-04",
+   "n": 4,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "東醫寶鑑 精門 — 교재에없음(카드 JQ-JEONG-11~13·HUBJQ-0069~0075)"
+  },
+  {
+   "lesson": "new-jq-04",
+   "n": 5,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "東醫寶鑑 精門 — 교재에없음(카드 JQ-JEONG-11~13·HUBJQ-0069~0075)"
+  },
+  {
+   "lesson": "new-jq-04",
+   "n": 6,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "東醫寶鑑 精門 — 교재에없음(카드 JQ-JEONG-11~13·HUBJQ-0069~0075)"
+  },
+  {
+   "lesson": "new-jq-04",
+   "n": 7,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "東醫寶鑑 精門 — 교재에없음(카드 JQ-JEONG-11~13·HUBJQ-0069~0075)"
+  },
+  {
+   "lesson": "new-jq-04",
+   "n": 8,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "東醫寶鑑 精門 — 교재에없음(카드 JQ-JEONG-11~13·HUBJQ-0069~0075)"
+  },
+  {
+   "lesson": "new-jq-04",
+   "n": 9,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "東醫寶鑑 精門 틀 — 교재에없음(카드 JQ-JEONG-11~13)"
+  },
+  {
+   "lesson": "new-jq-05",
+   "n": 0,
+   "lines": [
+    1278,
+    1270
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-05",
+   "n": 1,
+   "lines": [
+    1270
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-05",
+   "n": 2,
+   "lines": [
+    1270
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-05",
+   "n": 3,
+   "lines": [
+    1270
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-05",
+   "n": 4,
+   "lines": [
+    1270
+   ],
+   "check": "맞음",
+   "note": "靈樞 天年 四藏經脈空虛는 교재에없음(JGG-013); 3열 본문은 맞음"
+  },
+  {
+   "lesson": "new-jq-05",
+   "n": 5,
+   "lines": [
+    1270
+   ],
+   "check": "다름",
+   "note": "교재 1270 四七 「身體盛長」 / 덱 「身體盛壯」 — 한 글자(長/壯). 素問 원문은 盛壯으로 알려져 교재 오기 가능, 확인 필요"
+  },
+  {
+   "lesson": "new-jq-05",
+   "n": 6,
+   "lines": [
+    1270
+   ],
+   "check": "다름",
+   "note": "교재 1270 五八 「髮墮齒枯」 / 덱 「髮墮齒槁」 — 한 글자(枯/槁). 素問 원문은 齒槁(문제집 4편 Q82는 齒枯), 확인 필요"
+  },
+  {
+   "lesson": "new-jq-05",
+   "n": 7,
+   "lines": [
+    1270
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-05",
+   "n": 8,
+   "lines": [
+    1270
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-05",
+   "n": 9,
+   "lines": [
+    1270
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-05",
+   "n": 10,
+   "lines": [
+    1270
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-12",
+   "n": 0,
+   "lines": [
+    1285,
+    1287,
+    1290
+   ],
+   "check": "맞음",
+   "note": "神 字源(示+申)은 교재에없음; 廣義·狹義 구분은 맞음"
+  },
+  {
+   "lesson": "new-jq-12",
+   "n": 1,
+   "lines": [
+    1285
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-12",
+   "n": 2,
+   "lines": [
+    1287
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-12",
+   "n": 3,
+   "lines": [
+    1290,
+    1291
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-12",
+   "n": 4,
+   "lines": [
+    1285,
+    1296
+   ],
+   "check": "다름",
+   "note": "교재 1296은 「平人節穀篇」, 덱·문제집 4편 Q124 해설은 「平人絶穀」 — 교재 오기 가능(節/絶 한 글자). 「變化不測謂之神」은 교재에없음(교재 1285는 陰陽不測)"
+  },
+  {
+   "lesson": "new-jq-12",
+   "n": 5,
+   "lines": [
+    1289
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-12",
+   "n": 6,
+   "lines": [
+    1291
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-12",
+   "n": 7,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "絳宮爲神之舍·泥丸爲神之府 — 교재에없음(카드 JQ-SHIN-12)"
+  },
+  {
+   "lesson": "new-jq-12",
+   "n": 8,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "水之精爲志·火之精爲神(黃元御) — 교재에없음(카드 JQ-SHIN-11)"
+  },
+  {
+   "lesson": "new-jq-12",
+   "n": 9,
+   "lines": [
+    1285,
+    1291
+   ],
+   "check": "맞음",
+   "note": "review — 絳宮·泥丸·水志火神은 교재에없음(#7·#8), 平人節穀 표기는 다름(#4)"
+  },
+  {
+   "lesson": "new-jq-13",
+   "n": 0,
+   "lines": [
+    1313,
+    1315
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-13",
+   "n": 1,
+   "lines": [
+    1293
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-13",
+   "n": 2,
+   "lines": [
+    1314
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-13",
+   "n": 3,
+   "lines": [
+    1315
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-13",
+   "n": 4,
+   "lines": [
+    1313,
+    1314,
+    1315,
+    1317,
+    1318
+   ],
+   "check": "맞음",
+   "note": "「專意不移者謂之志」는 교재에없음(교재 1318은 意之所存謂之志만); 意·神·魂·魄 정의는 맞음"
+  },
+  {
+   "lesson": "new-jq-13",
+   "n": 5,
+   "lines": [
+    1322
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-13",
+   "n": 6,
+   "lines": [
+    1323
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-13",
+   "n": 7,
+   "lines": [
+    1313
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-14",
+   "n": 0,
+   "lines": [
+    1304
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-14",
+   "n": 1,
+   "lines": [
+    1304,
+    1316,
+    1321
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-14",
+   "n": 2,
+   "lines": [
+    1316
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-14",
+   "n": 3,
+   "lines": [
+    1317
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-14",
+   "n": 4,
+   "lines": [
+    1318
+   ],
+   "check": "맞음",
+   "note": "「專意而不移·意已決而卓有所立」은 교재에없음; 意之所存謂之志는 교재 1318"
+  },
+  {
+   "lesson": "new-jq-14",
+   "n": 5,
+   "lines": [
+    1319
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-14",
+   "n": 6,
+   "lines": [
+    1320
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-14",
+   "n": 7,
+   "lines": [
+    1321
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-14",
+   "n": 8,
+   "lines": [
+    1307
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-14",
+   "n": 9,
+   "lines": [
+    1309
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-14",
+   "n": 10,
+   "lines": [
+    1311
+   ],
+   "check": "맞음",
+   "note": "교재 1311 腎=沈靜(필요한 기억만 잔존)·創造傾向·排泄 — 덱의 「최종 결정·저장」 표현은 교재와 결이 다름(沈靜·殘存 언급 없음)"
+  },
+  {
+   "lesson": "new-jq-14",
+   "n": 11,
+   "lines": [
+    1304
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-06",
+   "n": 0,
+   "lines": [
+    1325
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-06",
+   "n": 1,
+   "lines": [
+    1325,
+    1328
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-06",
+   "n": 2,
+   "lines": [
+    1329
+   ],
+   "check": "다름",
+   "note": "교재 1329 「臟, 腑, 瘀, 精, 血, 津液」의 瘀 / 덱 「臟 · 腑 · 竅」 — 교재 瘀는 竅의 오기(OCR 포함)로 보이나 확인 필요"
+  },
+  {
+   "lesson": "new-jq-06",
+   "n": 3,
+   "lines": [
+    1330
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-06",
+   "n": 4,
+   "lines": [
+    1331,
+    1337
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-06",
+   "n": 5,
+   "lines": [
+    1363
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-06",
+   "n": 6,
+   "lines": [
+    1325
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-07",
+   "n": 0,
+   "lines": [
+    1338
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-07",
+   "n": 1,
+   "lines": [
+    1338
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-07",
+   "n": 2,
+   "lines": [
+    1339
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-07",
+   "n": 3,
+   "lines": [
+    1340,
+    1343
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-07",
+   "n": 4,
+   "lines": [
+    1344,
+    1346
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-07",
+   "n": 5,
+   "lines": [
+    1347,
+    1355
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-07",
+   "n": 6,
+   "lines": [
+    1356,
+    1360
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-07",
+   "n": 7,
+   "lines": [
+    1361
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-07",
+   "n": 8,
+   "lines": [
+    1353
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-07",
+   "n": 9,
+   "lines": [
+    1353
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-07",
+   "n": 10,
+   "lines": [
+    1353
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-07",
+   "n": 11,
+   "lines": [
+    1354
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-07",
+   "n": 12,
+   "lines": [
+    1352,
+    1355
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-07",
+   "n": 13,
+   "lines": [
+    1338
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-08",
+   "n": 0,
+   "lines": [
+    1457
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-08",
+   "n": 1,
+   "lines": [
+    1457
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-08",
+   "n": 2,
+   "lines": [
+    1461
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-08",
+   "n": 3,
+   "lines": [
+    1462
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-08",
+   "n": 4,
+   "lines": [
+    1463
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-08",
+   "n": 5,
+   "lines": [
+    1464
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-08",
+   "n": 6,
+   "lines": [
+    1465
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-08",
+   "n": 7,
+   "lines": [
+    1457,
+    1465
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-09",
+   "n": 0,
+   "lines": [
+    1367
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-09",
+   "n": 1,
+   "lines": [
+    1370,
+    1372
+   ],
+   "check": "맞음",
+   "note": "교재 1370~1372는 腎中精氣=先天之精+後天之精 종합이고 水穀精氣의 滋養을 받음 — 덱은 先天之精만 적음(1372과는 맞음)"
+  },
+  {
+   "lesson": "new-jq-09",
+   "n": 2,
+   "lines": [
+    1372,
+    1373
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-09",
+   "n": 3,
+   "lines": [
+    1374
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-09",
+   "n": 4,
+   "lines": [
+    1367,
+    1375
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-09",
+   "n": 5,
+   "lines": [
+    1445,
+    1448
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-09",
+   "n": 6,
+   "lines": [
+    1393,
+    1394
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-09",
+   "n": 7,
+   "lines": [
+    1367
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-10",
+   "n": 0,
+   "lines": [
+    1377
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-10",
+   "n": 1,
+   "lines": [
+    1377,
+    1379
+   ],
+   "check": "맞음",
+   "note": "덱 fact의 「後天之氣」 라벨은 교재에없음 — 교재 1378 괄호는 宗氣를 眞氣 派生·先天之氣 機能化로도 설명(1379 淸氣+水穀精氣 聚集은 덱과 맞음). 확인 필요"
+  },
+  {
+   "lesson": "new-jq-10",
+   "n": 2,
+   "lines": [
+    1381
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-10",
+   "n": 3,
+   "lines": [
+    1385
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-10",
+   "n": 4,
+   "lines": [
+    1383
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-10",
+   "n": 5,
+   "lines": [
+    1386
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-10",
+   "n": 6,
+   "lines": [
+    1382
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-10",
+   "n": 7,
+   "lines": [
+    1392,
+    1395,
+    1396
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-10",
+   "n": 8,
+   "lines": [
+    1387
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-10",
+   "n": 9,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "虛里 按之應手·動而不緊·緩而不急=無病 — 교재에없음(素問 平人氣象論, 카드 HUBJQ-0034)"
+  },
+  {
+   "lesson": "new-jq-10",
+   "n": 10,
+   "lines": [
+    1387
+   ],
+   "check": "교재에없음",
+   "note": "其動微而不見=不及 — 교재에없음(카드 HUBJQ-0035). 교재 1387은 乳之下其動應衣=宗氣泄"
+  },
+  {
+   "lesson": "new-jq-10",
+   "n": 11,
+   "lines": [
+    1377
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-11",
+   "n": 0,
+   "lines": [
+    1397,
+    1412
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-11",
+   "n": 1,
+   "lines": [
+    1397,
+    1399,
+    1410
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-11",
+   "n": 2,
+   "lines": [
+    1400,
+    1401
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-11",
+   "n": 3,
+   "lines": [
+    1404,
+    1405
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-11",
+   "n": 4,
+   "lines": [
+    1401
+   ],
+   "check": "맞음",
+   "note": "「四肢分肉之間」 구절은 교재에없음(JGG-018); 如環無端은 교재 1401"
+  },
+  {
+   "lesson": "new-jq-11",
+   "n": 5,
+   "lines": [
+    1412,
+    1424,
+    1443
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-11",
+   "n": 6,
+   "lines": [
+    1412,
+    1414
+   ],
+   "check": "맞음",
+   "note": "「衛者 元氣之別名」은 교재에없음; 衛陽·浮氣·濁氣 이명은 교재 1412와 맞음"
+  },
+  {
+   "lesson": "new-jq-11",
+   "n": 7,
+   "lines": [
+    1415,
+    1418
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-11",
+   "n": 8,
+   "lines": [
+    1397,
+    1412
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-16",
+   "n": 0,
+   "lines": [
+    1478,
+    1482
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-16",
+   "n": 1,
+   "lines": [
+    1478,
+    1479
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-16",
+   "n": 2,
+   "lines": [
+    1481,
+    1482,
+    1483
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-16",
+   "n": 3,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "血이 心火로 赤色이 된다는 설명 — 교재에없음(카드 HUBJQ-0096)"
+  },
+  {
+   "lesson": "new-jq-16",
+   "n": 4,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "陰體陽用 — 교재에없음(카드 HUBJQ-0097)"
+  },
+  {
+   "lesson": "new-jq-16",
+   "n": 5,
+   "lines": [],
+   "check": "교재에없음",
+   "note": "血의 근본은 腎水 — 교재에없음(카드 HUBJQ-0098)"
+  },
+  {
+   "lesson": "new-jq-16",
+   "n": 6,
+   "lines": [
+    1487,
+    1489,
+    1492
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-16",
+   "n": 7,
+   "lines": [
+    1496
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-16",
+   "n": 8,
+   "lines": [
+    1497,
+    1498
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-16",
+   "n": 9,
+   "lines": [
+    1516
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-16",
+   "n": 10,
+   "lines": [
+    1478
+   ],
+   "check": "맞음",
+   "note": "review — 心火 赤·陰體陽用·腎水 근본은 교재에없음(#3~#5)"
+  },
+  {
+   "lesson": "new-jq-17",
+   "n": 0,
+   "lines": [
+    1494
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-17",
+   "n": 1,
+   "lines": [
+    1502
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-17",
+   "n": 2,
+   "lines": [
+    1504
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-17",
+   "n": 3,
+   "lines": [
+    1505
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-17",
+   "n": 4,
+   "lines": [
+    1503
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-17",
+   "n": 5,
+   "lines": [
+    1506,
+    1507
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-17",
+   "n": 6,
+   "lines": [
+    1512,
+    1513
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-17",
+   "n": 7,
+   "lines": [
+    1486,
+    1512
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-17",
+   "n": 8,
+   "lines": [
+    1513
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-17",
+   "n": 9,
+   "lines": [
+    1517
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-17",
+   "n": 10,
+   "lines": [
+    1512
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-18",
+   "n": 0,
+   "lines": [
+    1520
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-18",
+   "n": 1,
+   "lines": [
+    1520
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-18",
+   "n": 2,
+   "lines": [
+    1521,
+    1522
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-18",
+   "n": 3,
+   "lines": [
+    1524
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-18",
+   "n": 4,
+   "lines": [
+    1530
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-18",
+   "n": 5,
+   "lines": [
+    1526
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-18",
+   "n": 6,
+   "lines": [
+    1527
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-18",
+   "n": 7,
+   "lines": [
+    1558,
+    1559,
+    1560
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-18",
+   "n": 8,
+   "lines": [
+    1526,
+    1527
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-19",
+   "n": 0,
+   "lines": [
+    1531,
+    1533
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-19",
+   "n": 1,
+   "lines": [
+    1540
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-19",
+   "n": 2,
+   "lines": [
+    1543
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-19",
+   "n": 3,
+   "lines": [
+    1545
+   ],
+   "check": "맞음",
+   "note": "「水之上源은 肺」는 교재에없음(카드 JQ-JIN-05-03); 肺 通調水道는 교재 1545"
+  },
+  {
+   "lesson": "new-jq-19",
+   "n": 4,
+   "lines": [
+    1546,
+    1551
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-19",
+   "n": 5,
+   "lines": [
+    1550
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-19",
+   "n": 6,
+   "lines": [
+    1526
+   ],
+   "check": "맞음",
+   "note": "「決瀆之官」은 교재에없음; 三焦=水道는 교재 1526"
+  },
+  {
+   "lesson": "new-jq-19",
+   "n": 7,
+   "lines": [
+    1552,
+    1555
+   ],
+   "check": "맞음",
+   "note": "「嘔吐 X」는 교재에없음; 배설 汗·呼氣·大便·尿는 교재 1552~1555"
+  },
+  {
+   "lesson": "new-jq-19",
+   "n": 8,
+   "lines": [
+    1553
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-19",
+   "n": 9,
+   "lines": [
+    1531
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-20",
+   "n": 0,
+   "lines": [
+    1564
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-20",
+   "n": 1,
+   "lines": [
+    1564
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-20",
+   "n": 2,
+   "lines": [
+    1565,
+    1572
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-20",
+   "n": 3,
+   "lines": [
+    1565
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-20",
+   "n": 4,
+   "lines": [
+    1566,
+    1567
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-20",
+   "n": 5,
+   "lines": [
+    1568,
+    1569
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-20",
+   "n": 6,
+   "lines": [
+    1580
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-20",
+   "n": 7,
+   "lines": [
+    1570,
+    1571
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-20",
+   "n": 8,
+   "lines": [
+    1572,
+    1573,
+    1574
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-20",
+   "n": 9,
+   "lines": [
+    1579,
+    1583
+   ],
+   "check": "맞음",
+   "note": "「血爲氣之宅」은 교재에없음; 氣舍于血은 교재 1583 cf"
+  },
+  {
+   "lesson": "new-jq-20",
+   "n": 10,
+   "lines": [
+    1575
+   ],
+   "check": "맞음",
+   "note": "獨蔘湯·「有形之血不能速生 無形之氣所當急固」는 교재에없음; 氣隨血脫·益氣固脫은 교재 1575"
+  },
+  {
+   "lesson": "new-jq-20",
+   "n": 11,
+   "lines": [
+    1564
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-21",
+   "n": 0,
+   "lines": [
+    1585
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-21",
+   "n": 1,
+   "lines": [
+    1586,
+    1597
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-21",
+   "n": 2,
+   "lines": [
+    1586,
+    1587
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-21",
+   "n": 3,
+   "lines": [
+    1589,
+    1590
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-21",
+   "n": 4,
+   "lines": [
+    1592,
+    1593,
+    1594
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-21",
+   "n": 5,
+   "lines": [
+    1596
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-21",
+   "n": 6,
+   "lines": [
+    1597
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-21",
+   "n": 7,
+   "lines": [
+    1585
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-22",
+   "n": 0,
+   "lines": [
+    1598
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-22",
+   "n": 1,
+   "lines": [
+    1599,
+    1600
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-22",
+   "n": 2,
+   "lines": [
+    1599
+   ],
+   "check": "맞음",
+   "note": "「津虧則血燥 血燥則津枯」 직접 구절은 교재에없음; 상호전화는 교재 1599"
+  },
+  {
+   "lesson": "new-jq-22",
+   "n": 3,
+   "lines": [
+    1606
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-22",
+   "n": 4,
+   "lines": [
+    1606
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-22",
+   "n": 5,
+   "lines": [
+    1484
+   ],
+   "check": "맞음",
+   "note": "「血即精之屬也」 구절은 교재에없음; 精血同源 상호자생은 교재 1484"
+  },
+  {
+   "lesson": "new-jq-22",
+   "n": 6,
+   "lines": [
+    1484
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-22",
+   "n": 7,
+   "lines": [
+    1484
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-22",
+   "n": 8,
+   "lines": [
+    1598
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-23",
+   "n": 0,
+   "lines": [
+    1607
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-23",
+   "n": 1,
+   "lines": [
+    1608
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-23",
+   "n": 2,
+   "lines": [
+    1609
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-23",
+   "n": 3,
+   "lines": [
+    1610
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-23",
+   "n": 4,
+   "lines": [
+    1611
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-23",
+   "n": 5,
+   "lines": [
+    1612
+   ],
+   "check": "맞음",
+   "note": ""
+  },
+  {
+   "lesson": "new-jq-23",
+   "n": 6,
+   "lines": [
+    1612
+   ],
+   "check": "갈림",
+   "note": "교재 1612는 其脈空虛를 血脫에 붙여 脫證 5개, 덱은 脈脫을 여섯째로 둠(靈樞 決氣 원문·문제집 4편 Q148 해설은 脈脫 포함, JGG-003). 둘 다 성립"
+  },
+  {
+   "lesson": "new-jq-23",
+   "n": 7,
+   "lines": [
+    1608,
+    1612
+   ],
+   "check": "맞음",
+   "note": ""
+  }
+ ],
+ "zongang": "안 함",
+ "summary": {
+  "items": 281,
+  "없음": 49,
+  "글로만": 4,
+  "약함": 43,
+  "그림후보": 185,
+  "stations": 307,
+  "다름": 6,
+  "교재에없음": 31,
+  "갈림": 4
+ }
+}

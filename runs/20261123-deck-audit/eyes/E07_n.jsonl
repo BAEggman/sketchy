@@ -1,0 +1,281 @@
+{"lesson": "new-uk-10", "n": 1, "j": 0, "object": "까만 둥근 창", "word": "厥陰·少陰·太陰·少陽·陽明·太陽", "why": "글자 뜻", "detail": "해·달 없음=陰 쪽 창 하나(어느 것인지는 못 가림)", "steps": 1}
+{"lesson": "new-uk-10", "n": 1, "j": 1, "object": "초승달 창", "word": "厥陰·少陰·太陰·少陽·陽明·太陽", "why": "글자 뜻", "detail": "달=陰, 작은 초승달=少陰 쪽 짐작(여섯 중 어느 칸인지는 낮음)", "steps": 1}
+{"lesson": "new-uk-10", "n": 1, "j": 2, "object": "보름달 창", "word": "厥陰·少陰·太陰·少陽·陽明·太陽", "why": "글자 뜻", "detail": "달=陰, 큰 보름달=太陰 쪽(칸 지정은 낮음)", "steps": 1}
+{"lesson": "new-uk-10", "n": 1, "j": 3, "object": "작은 해 명판", "word": "厥陰·少陰·太陰·少陽·陽明·太陽", "why": "글자 뜻", "detail": "해=陽, 작음=少陽 쪽(칸 지정은 낮음)", "steps": 1}
+{"lesson": "new-uk-10", "n": 1, "j": 4, "object": "해+초승달 반반 창", "word": "厥陰·少陰·太陰·少陽·陽明·太陽", "why": "글자 뜻", "detail": "해와 달이 같이=陽明 쪽(밝음 둘)(칸 지정 낮음)", "steps": 2}
+{"lesson": "new-uk-10", "n": 1, "j": 5, "object": "큰 해 창", "word": "厥陰·少陰·太陰·少陽·陽明·太陽", "why": "글자 뜻", "detail": "해=陽, 큼=太陽", "steps": 1}
+{"lesson": "new-uk-10", "n": 2, "j": 0, "object": "아래층 방(바람·얼음)", "word": "在下·在上·在中", "why": "하는 일·자리", "detail": "아래층=在下", "steps": 1}
+{"lesson": "new-uk-10", "n": 2, "j": 1, "object": "위층 방(빨래·연기)", "word": "在下·在上·在中", "why": "하는 일·자리", "detail": "위층=在上", "steps": 1}
+{"lesson": "new-uk-10", "n": 2, "j": 2, "object": "가운데 층 방(물·곰팡이)", "word": "在下·在上·在中", "why": "하는 일·자리", "detail": "가운데=在中", "steps": 1}
+{"lesson": "new-uk-10", "n": 2, "j": 3, "object": "위아래 화살표 승강기 통로", "word": "승강", "why": "글자 뜻", "detail": "昇降=오르내림, 화살표 위아래", "steps": 1}
+{"lesson": "new-uk-10", "n": 3, "j": 0, "object": "선풍기와 날리는 종이", "word": "動·堅·蒸·潤·乾·溫", "why": "하는 일·자리", "detail": "바람에 움직임=動(動·腫·乾·浮·濡泄 목록의 動일 수도 있음)", "steps": 1}
+{"lesson": "new-uk-10", "n": 3, "j": 1, "object": "큰 얼음덩어리", "word": "動·堅·蒸·潤·乾·溫", "why": "글자 뜻", "detail": "단단한 얼음=堅", "steps": 1}
+{"lesson": "new-uk-10", "n": 3, "j": 2, "object": "검은 돌 더미에서 오르는 연기", "word": "動·堅·蒸·潤·乾·溫", "why": "글자 뜻", "detail": "김이 오름=蒸", "steps": 1}
+{"lesson": "new-uk-10", "n": 3, "j": 3, "object": "물방울·곰팡이·젖은 스펀지", "word": "動·堅·蒸·潤·乾·溫", "why": "글자 뜻", "detail": "젖음=潤", "steps": 1}
+{"lesson": "new-uk-10", "n": 3, "j": 4, "object": "마른 빨래·시든 화분", "word": "動·堅·蒸·潤·乾·溫", "why": "글자 뜻", "detail": "마름=乾", "steps": 1}
+{"lesson": "new-uk-10", "n": 3, "j": 5, "object": "불타는 화로", "word": "動·堅·蒸·潤·乾·溫", "why": "하는 일·자리", "detail": "불로 따뜻함=溫(蒸과 갈릴 수 있음)", "steps": 1}
+{"lesson": "new-uk-10", "n": 4, "j": 0, "object": "떨며 웅크린 남자", "word": "動·腫·乾·浮·濡泄", "why": "하는 일·자리", "detail": "떨림=動 짐작, 낮음", "steps": 2}
+{"lesson": "new-uk-10", "n": 4, "j": 1, "object": "얼굴 붉고 볼 부은 남자", "word": "動·腫·乾·浮·濡泄", "why": "글자 뜻", "detail": "부음=腫", "steps": 1}
+{"lesson": "new-uk-10", "n": 4, "j": 2, "object": "입술 핥는 거친 피부 남자", "word": "動·腫·乾·浮·濡泄", "why": "글자 뜻", "detail": "마름=乾(燥와도 닮음)", "steps": 1}
+{"lesson": "new-uk-10", "n": 4, "j": 3, "object": "두껍게 둥글게 부푼 눈사람 같은 인물", "word": "動·腫·乾·浮·濡泄", "why": "글자 뜻", "detail": "부풀어 뜸=浮(낮음)", "steps": 2}
+{"lesson": "new-uk-10", "n": 4, "j": 4, "object": "배 움켜쥐고 달리는 남자", "word": "動·腫·乾·浮·濡泄", "why": "하는 일·자리", "detail": "설사로 급히 뜀=濡泄", "steps": 1}
+{"lesson": "new-uk-10", "n": 5, "j": 0, "object": "위층 방 둘 전체", "word": "在下·在上·在中", "why": "하는 일·자리", "detail": "위층=在上", "steps": 1}
+{"lesson": "new-uk-10", "n": 5, "j": 1, "object": "가운데 층 방 전체", "word": "在下·在上·在中", "why": "하는 일·자리", "detail": "가운데=在中", "steps": 1}
+{"lesson": "new-uk-10", "n": 5, "j": 2, "object": "아래층 방 둘 전체", "word": "在下·在上·在中", "why": "하는 일·자리", "detail": "아래층=在下", "steps": 1}
+{"lesson": "new-uk-10", "n": 5, "j": 3, "object": "위아래 화살표 승강기 통로", "word": "승강", "why": "글자 뜻", "detail": "昇降=오르내림", "steps": 1}
+{"lesson": "new-uk-11", "n": 1, "j": 0, "object": "말과 지붕 위 쥐가 있는 곳간", "word": "子午", "why": "글자 뜻", "detail": "쥐=子, 말=午(띠 동물)", "steps": 1}
+{"lesson": "new-uk-11", "n": 1, "j": 1, "object": "호랑이·원숭이 곳간, 불꽃", "word": "寅申", "why": "글자 뜻", "detail": "호랑이=寅, 원숭이=申", "steps": 1}
+{"lesson": "new-uk-11", "n": 1, "j": 2, "object": "용·개 곳간, 얼음", "word": "辰戌", "why": "글자 뜻", "detail": "용=辰, 개=戌", "steps": 1}
+{"lesson": "new-uk-11", "n": 1, "j": 3, "object": "소·양 곳간, 물방울", "word": "丑未", "why": "글자 뜻", "detail": "소=丑, 양=未", "steps": 1}
+{"lesson": "new-uk-11", "n": 1, "j": 4, "object": "토끼·수탉 곳간, 눈송이", "word": "卯酉", "why": "글자 뜻", "detail": "토끼=卯, 닭=酉", "steps": 1}
+{"lesson": "new-uk-11", "n": 1, "j": 5, "object": "뱀·돼지 곳간, 바람 줄무늬", "word": "巳亥", "why": "글자 뜻", "detail": "뱀=巳, 돼지=亥", "steps": 1}
+{"lesson": "new-uk-11", "n": 2, "j": 0, "object": "말과 쥐 곳간(붉은 후광)", "word": "子午", "why": "글자 뜻", "detail": "쥐=子, 말=午", "steps": 1}
+{"lesson": "new-uk-11", "n": 2, "j": 1, "object": "토끼·수탉 곳간", "word": "卯酉", "why": "글자 뜻", "detail": "토끼=卯, 닭=酉", "steps": 1}
+{"lesson": "new-uk-11", "n": 2, "j": 2, "object": "눈송이·낙엽 뜬 연못", "word": "모름", "why": "모름", "detail": "낙엽=가을, 눈송이=겨울이라 하나로 못 정함", "steps": 0}
+{"lesson": "new-uk-11", "n": 3, "j": 0, "object": "소·양 곳간(물방울)", "word": "丑未", "why": "글자 뜻", "detail": "소=丑, 양=未", "steps": 1}
+{"lesson": "new-uk-11", "n": 3, "j": 1, "object": "용·개 곳간(얼음)", "word": "辰戌", "why": "글자 뜻", "detail": "용=辰, 개=戌", "steps": 1}
+{"lesson": "new-uk-11", "n": 4, "j": 0, "object": "호랑이·원숭이 곳간", "word": "寅申", "why": "글자 뜻", "detail": "호랑이=寅, 원숭이=申", "steps": 1}
+{"lesson": "new-uk-11", "n": 4, "j": 1, "object": "뱀·돼지 곳간", "word": "巳亥", "why": "글자 뜻", "detail": "뱀=巳, 돼지=亥", "steps": 1}
+{"lesson": "new-uk-11", "n": 5, "j": 0, "object": "토끼·수탉 곳간", "word": "卯酉", "why": "글자 뜻", "detail": "토끼=卯, 닭=酉", "steps": 1}
+{"lesson": "new-uk-11", "n": 5, "j": 1, "object": "말과 쥐 곳간", "word": "子午", "why": "글자 뜻", "detail": "쥐=子, 말=午", "steps": 1}
+{"lesson": "new-uk-11", "n": 6, "j": 0, "object": "용·개 곳간", "word": "辰戌", "why": "글자 뜻", "detail": "용=辰, 개=戌", "steps": 1}
+{"lesson": "new-uk-11", "n": 6, "j": 1, "object": "소·양 곳간", "word": "丑未", "why": "글자 뜻", "detail": "소=丑, 양=未", "steps": 1}
+{"lesson": "new-uk-11", "n": 7, "j": 0, "object": "뱀·돼지 곳간", "word": "巳亥", "why": "글자 뜻", "detail": "뱀=巳, 돼지=亥", "steps": 1}
+{"lesson": "new-uk-11", "n": 7, "j": 1, "object": "호랑이·원숭이 곳간", "word": "寅申", "why": "글자 뜻", "detail": "호랑이=寅, 원숭이=申", "steps": 1}
+{"lesson": "new-uk-11", "n": 8, "j": 0, "object": "관람차 위쪽 곳간 셋과 해", "word": "司天·在泉", "why": "글자 뜻", "detail": "위=天(司天), 上半年·下半年과 갈림. 낮음", "steps": 2}
+{"lesson": "new-uk-11", "n": 8, "j": 1, "object": "말과 쥐 곳간", "word": "子午", "why": "글자 뜻", "detail": "쥐=子, 말=午", "steps": 1}
+{"lesson": "new-uk-11", "n": 8, "j": 2, "object": "토끼·수탉 곳간", "word": "卯酉", "why": "글자 뜻", "detail": "토끼=卯, 닭=酉", "steps": 1}
+{"lesson": "new-uk-11", "n": 8, "j": 3, "object": "낙엽·눈송이 뜬 연못(아래쪽)", "word": "司天·在泉", "why": "글자 뜻", "detail": "연못=泉(在泉). 낮음", "steps": 2}
+{"lesson": "new-uk-11", "n": 9, "j": 0, "object": "소·양 곳간", "word": "丑未", "why": "글자 뜻", "detail": "소=丑, 양=未", "steps": 1}
+{"lesson": "new-uk-11", "n": 9, "j": 1, "object": "뱀·돼지 곳간", "word": "巳亥", "why": "글자 뜻", "detail": "뱀=巳, 돼지=亥", "steps": 1}
+{"lesson": "new-uk-11", "n": 9, "j": 2, "object": "용·개 곳간", "word": "辰戌", "why": "글자 뜻", "detail": "용=辰, 개=戌", "steps": 1}
+{"lesson": "new-uk-11", "n": 9, "j": 3, "object": "호랑이·원숭이 곳간", "word": "寅申", "why": "글자 뜻", "detail": "호랑이=寅, 원숭이=申", "steps": 1}
+{"lesson": "new-uk-11", "n": 10, "j": 0, "object": "지붕 위 이 드러낸 쥐", "word": "子午", "why": "글자 뜻", "detail": "쥐=子(말 짝은 안 보임). 낮음", "steps": 1}
+{"lesson": "new-uk-11", "n": 10, "j": 1, "object": "말과 쥐 곳간", "word": "子午", "why": "글자 뜻", "detail": "쥐=子, 말=午", "steps": 1}
+{"lesson": "new-uk-11", "n": 10, "j": 2, "object": "소·양 곳간", "word": "丑未", "why": "글자 뜻", "detail": "소=丑, 양=未", "steps": 1}
+{"lesson": "new-uk-11", "n": 11, "j": 0, "object": "곳간 여섯 달린 관람차 전체", "word": "모름", "why": "모름", "detail": "전체 틀이라 한 낱말로 못 정함", "steps": 0}
+{"lesson": "new-uk-11", "n": 11, "j": 1, "object": "벚꽃 가지·큰 해·위쪽 곳간 셋", "word": "司天·在泉", "why": "글자 뜻", "detail": "위=天. 上半年·下半年과 갈림. 낮음", "steps": 2}
+{"lesson": "new-uk-12", "n": 1, "j": 0, "object": "아래 층 침대 사람 줄", "word": "主氣 차례", "why": "하는 일·자리", "detail": "아래층에 사는 줄 선 이들=主氣 짐작. 主氣와 갈림. 낮음", "steps": 2}
+{"lesson": "new-uk-12", "n": 1, "j": 1, "object": "침대 발치 장식 여섯 장", "word": "大寒·春分·小滿·大暑·秋分·小雪", "why": "글자 뜻", "detail": "눈송이·벚꽃·새싹·해·단풍·눈결정=여섯 절기. 낱낱의 이름은 장식마다 아래서 가름", "steps": 1}
+{"lesson": "new-uk-12", "n": 2, "j": 0, "object": "눈송이 장식 침대 칸", "word": "大寒", "why": "글자 뜻", "detail": "눈송이=寒", "steps": 1}
+{"lesson": "new-uk-12", "n": 2, "j": 1, "object": "벚꽃 장식 침대 칸", "word": "春分", "why": "글자 뜻", "detail": "벚꽃=春", "steps": 1}
+{"lesson": "new-uk-12", "n": 2, "j": 2, "object": "새싹+초승달 장식 침대 칸", "word": "小滿", "why": "하는 일·자리", "detail": "싹이 자라 차오름=小滿 짐작, 낮음", "steps": 2}
+{"lesson": "new-uk-12", "n": 2, "j": 3, "object": "해 장식 침대 칸", "word": "大暑", "why": "글자 뜻", "detail": "해=暑", "steps": 1}
+{"lesson": "new-uk-12", "n": 2, "j": 4, "object": "단풍 장식에 손이 머리를 짚는 칸", "word": "秋分", "why": "글자 뜻", "detail": "단풍=秋. 손이 머리 짚음은 加臨 쪽", "steps": 1}
+{"lesson": "new-uk-12", "n": 2, "j": 5, "object": "진초록 눈결정 장식, 슬리퍼 차는 칸", "word": "小雪", "why": "글자 뜻", "detail": "눈=雪, 작은 결정=小", "steps": 1}
+{"lesson": "new-uk-12", "n": 3, "j": 0, "object": "위 층 발치 장식 여섯", "word": "大寒·春分·小滿·大暑·秋分·小雪", "why": "글자 뜻", "detail": "눈·꽃·싹·해·단풍·눈결정=여섯 절기", "steps": 1}
+{"lesson": "new-uk-12", "n": 3, "j": 1, "object": "아래 층 발치 장식 여섯", "word": "大寒·春分·小滿·大暑·秋分·小雪", "why": "글자 뜻", "detail": "같은 여섯 장식", "steps": 1}
+{"lesson": "new-uk-12", "n": 4, "j": 0, "object": "위 층 사람 줄과 벽 둥근 판", "word": "客氣 차례", "why": "하는 일·자리", "detail": "위층 손님 줄=客氣 짐작. 客氣와 갈림. 낮음", "steps": 2}
+{"lesson": "new-uk-12", "n": 5, "j": 0, "object": "위 층 사람 줄과 벽 둥근 판", "word": "客氣 차례", "why": "하는 일·자리", "detail": "위층 손님 줄. 낮음", "steps": 2}
+{"lesson": "new-uk-12", "n": 6, "j": 0, "object": "의자에 앉은 왕관 수염 왕", "word": "主氣", "why": "하는 일·자리", "detail": "아래 칸 붙박이 주인 짐작. 낮음", "steps": 2}
+{"lesson": "new-uk-12", "n": 6, "j": 1, "object": "위 층 사람 줄", "word": "客氣 차례", "why": "하는 일·자리", "detail": "위층 손님 줄. 낮음", "steps": 2}
+{"lesson": "new-uk-12", "n": 7, "j": 0, "object": "앉은 왕관 왕", "word": "主氣", "why": "하는 일·자리", "detail": "자기 자리에 앉은 주인. 낮음", "steps": 2}
+{"lesson": "new-uk-12", "n": 7, "j": 1, "object": "등불 든 검은 모자 남자", "word": "主氣", "why": "하는 일·자리", "detail": "제 칸의 주인 한 사람. 낮음", "steps": 2}
+{"lesson": "new-uk-12", "n": 7, "j": 2, "object": "새싹 화분에 물 붓는 여자", "word": "主氣", "why": "하는 일·자리", "detail": "제 칸의 주인 한 사람. 낮음", "steps": 2}
+{"lesson": "new-uk-12", "n": 7, "j": 3, "object": "장작 안은 웃옷 벗은 남자", "word": "主氣", "why": "하는 일·자리", "detail": "제 칸의 주인 한 사람. 낮음", "steps": 2}
+{"lesson": "new-uk-12", "n": 7, "j": 4, "object": "주전자로 양동이에 물 붓는 여자", "word": "主氣", "why": "하는 일·자리", "detail": "제 칸의 주인 한 사람. 낮음", "steps": 2}
+{"lesson": "new-uk-12", "n": 7, "j": 5, "object": "위 침대에서 아래 사람 머리 짚는 남자", "word": "加臨", "why": "글자 뜻", "detail": "加=얹음, 臨=위에서 내려옴", "steps": 1}
+{"lesson": "new-uk-12", "n": 8, "j": 0, "object": "위 침대에서 뛰는 남자와 슬리퍼 차는 왕", "word": "逆", "why": "하는 일·자리", "detail": "아래서 위로 거슬러 참=逆 짐작. 낮음", "steps": 2}
+{"lesson": "new-uk-12", "n": 9, "j": 0, "object": "위아래 같은 차림의 수건 머리 두 사람", "word": "同氣", "why": "글자 뜻", "detail": "같은(同) 차림 둘", "steps": 1}
+{"lesson": "new-uk-12", "n": 10, "j": 0, "object": "빨간 권투 장갑", "word": "勝復", "why": "글자 뜻", "detail": "맞서 치고 받음=勝·復(勝氣와 갈림)", "steps": 1}
+{"lesson": "new-uk-12", "n": 10, "j": 1, "object": "파란 권투 장갑", "word": "勝復", "why": "글자 뜻", "detail": "맞받아침=復(勝氣와 갈림)", "steps": 1}
+{"lesson": "new-uk-12", "n": 11, "j": 0, "object": "아래 층 사람 줄 전체", "word": "主氣 차례", "why": "하는 일·자리", "detail": "아래층 줄. 낮음", "steps": 2}
+{"lesson": "new-uk-12", "n": 11, "j": 1, "object": "위 층 사람 줄 전체", "word": "客氣 차례", "why": "하는 일·자리", "detail": "위층 줄. 낮음", "steps": 2}
+{"lesson": "new-uk-12", "n": 11, "j": 2, "object": "뛰는 남자와 슬리퍼 차는 왕 조각", "word": "逆", "why": "하는 일·자리", "detail": "거슬러 참. 낮음", "steps": 2}
+{"lesson": "new-uk-12", "n": 11, "j": 3, "object": "빨간 권투 장갑", "word": "勝復", "why": "글자 뜻", "detail": "치고 받음", "steps": 1}
+{"lesson": "new-uk-12", "n": 11, "j": 4, "object": "파란 권투 장갑", "word": "勝復", "why": "글자 뜻", "detail": "치고 받음", "steps": 1}
+{"lesson": "new-uk-13", "n": 1, "j": 0, "object": "햇살 칸, 꽃다발 건네는 노인과 웃는 소년", "word": "順化", "why": "하는 일·자리", "detail": "순하게 꽃을 주고받음=順. 화(和)로움. 낮음", "steps": 1}
+{"lesson": "new-uk-13", "n": 2, "j": 0, "object": "먹구름 번개 칸, 망치 내려치는 노인", "word": "天刑", "why": "글자 뜻", "detail": "번개(하늘)+망치 판결=天刑(형벌)", "steps": 1}
+{"lesson": "new-uk-13", "n": 3, "j": 0, "object": "사다리 올라 과일 올리는 소년, 걱정하는 노인", "word": "小逆", "why": "하는 일·자리", "detail": "아래가 위로 바치려 거슬러 오름, 작음. 낮음", "steps": 2}
+{"lesson": "new-uk-13", "n": 4, "j": 0, "object": "신발 날려 노인 때리는 성난 소년", "word": "不和", "why": "글자 뜻", "detail": "싸움=不和", "steps": 1}
+{"lesson": "new-uk-13", "n": 5, "j": 0, "object": "수평 빈 천칭", "word": "平氣", "why": "글자 뜻", "detail": "평평=平", "steps": 1}
+{"lesson": "new-uk-13", "n": 6, "j": 0, "object": "빨간 남자 머리를 눌러 물 붓는 손", "word": "被抑", "why": "글자 뜻", "detail": "눌림=抑", "steps": 1}
+{"lesson": "new-uk-13", "n": 7, "j": 0, "object": "물방울 셋 껴안고 물 부어 주는 손", "word": "得助", "why": "글자 뜻", "detail": "도움 받음=助", "steps": 1}
+{"lesson": "new-uk-13", "n": 8, "j": 0, "object": "눈 내리는 문 앞에서 나무 조각 반쪽 맞추는 두 사람", "word": "干德符", "why": "글자 뜻", "detail": "맞춘 조각=符", "steps": 1}
+{"lesson": "new-uk-13", "n": 9, "j": 0, "object": "윗줄 네 칸 전체", "word": "모름", "why": "모름", "detail": "네 칸 묶음이라 한 낱말로 못 정함", "steps": 0}
+{"lesson": "new-uk-13", "n": 9, "j": 1, "object": "천칭", "word": "平氣", "why": "글자 뜻", "detail": "평평=平", "steps": 1}
+{"lesson": "new-uk-13", "n": 9, "j": 2, "object": "빨간 남자와 물 붓는 손들", "word": "被抑", "why": "글자 뜻", "detail": "눌림=抑", "steps": 1}
+{"lesson": "new-uk-13", "n": 9, "j": 3, "object": "물방울 셋과 주전자", "word": "得助", "why": "글자 뜻", "detail": "도움=助", "steps": 1}
+{"lesson": "new-uk-13", "n": 9, "j": 4, "object": "눈 내리는 문 앞 두 사람과 나무 조각", "word": "干德符", "why": "글자 뜻", "detail": "맞춘 조각=符", "steps": 1}
+{"lesson": "new-uk-14", "n": 1, "j": 0, "object": "옷걸이 봉과 여섯 쌍 옷걸이(눈송이 불꽃 바람 낙엽 물방울 그림)", "word": "本", "why": "하는 일·자리", "detail": "옷걸이 그림=여섯 기운의 뿌리 짐작. 낮음", "steps": 2}
+{"lesson": "new-uk-14", "n": 2, "j": 0, "object": "옷 밑 꼬리표 여섯(해·달·까만 원)", "word": "標", "why": "글자 뜻", "detail": "꼬리표=標(표지). 해달 그림은 三陰三陽 쪽도 가능", "steps": 1}
+{"lesson": "new-uk-14", "n": 3, "j": 0, "object": "불꽃 빨간 스웨터, 눈송이 옷걸이, 해 꼬리표(옆에 얼음 코트)", "word": "足太陽膀胱", "why": "하는 일·자리", "detail": "눈송이(寒)+큰 해=太陽→膀胱. 겉은 불, 걸이는 눈=서로 반대", "steps": 2}
+{"lesson": "new-uk-14", "n": 3, "j": 1, "object": "구겨진 초록 셔츠, 불꽃 옷걸이, 해 꼬리표", "word": "手少陽三焦", "why": "하는 일·자리", "detail": "불+해=少陽 相火→三焦. 手少陰心과 갈림. 낮음", "steps": 2}
+{"lesson": "new-uk-14", "n": 3, "j": 2, "object": "물 흐르는 파란 수건, 낙엽 옷걸이, 해+달 꼬리표", "word": "手陽明大腸", "why": "하는 일·자리", "detail": "낙엽(마름)+해달 같이=陽明→大腸", "steps": 2}
+{"lesson": "new-uk-14", "n": 4, "j": 0, "object": "불꽃 빨간 스웨터, 눈송이 옷걸이, 해 꼬리표", "word": "足太陽膀胱", "why": "하는 일·자리", "detail": "눈송이+큰 해=太陽→膀胱", "steps": 2}
+{"lesson": "new-uk-14", "n": 4, "j": 1, "object": "얼음 덮인 코트, 불꽃 옷걸이, 노란 초승달 꼬리표", "word": "手少陰心", "why": "하는 일·자리", "detail": "불+초승달=少陰 君火→心. 手少陽三焦와 갈림. 낮음", "steps": 2}
+{"lesson": "new-uk-14", "n": 5, "j": 0, "object": "구겨진 초록 셔츠, 불꽃 옷걸이, 해 꼬리표", "word": "手少陽三焦", "why": "하는 일·자리", "detail": "불+해=少陽→三焦. 낮음", "steps": 2}
+{"lesson": "new-uk-14", "n": 5, "j": 1, "object": "주황 셔츠, 바람 옷걸이, 까만 원 꼬리표", "word": "足厥陰肝", "why": "하는 일·자리", "detail": "바람(風木)+까만 꼬리표=厥陰→肝", "steps": 2}
+{"lesson": "new-uk-14", "n": 6, "j": 0, "object": "물 흐르는 파란 수건, 낙엽 옷걸이, 해+달 꼬리표", "word": "手陽明大腸", "why": "하는 일·자리", "detail": "낙엽+해달 같이=陽明→大腸", "steps": 2}
+{"lesson": "new-uk-14", "n": 6, "j": 1, "object": "흰 셔츠, 물방울 옷걸이, 흰 둥근달 꼬리표", "word": "足太陰脾", "why": "하는 일·자리", "detail": "물방울(濕)+보름달=太陰→脾", "steps": 2}
+{"lesson": "new-uk-14", "n": 7, "j": 0, "object": "구겨진 초록 셔츠, 불꽃 옷걸이, 해 꼬리표", "word": "手少陽三焦", "why": "하는 일·자리", "detail": "불+해=少陽→三焦. 낮음", "steps": 2}
+{"lesson": "new-uk-14", "n": 7, "j": 1, "object": "흰 셔츠, 물방울 옷걸이, 흰 달 꼬리표", "word": "足太陰脾", "why": "하는 일·자리", "detail": "물방울+보름달=太陰→脾", "steps": 2}
+{"lesson": "new-uk-14", "n": 8, "j": 0, "object": "불꽃 빨간 스웨터, 눈송이 옷걸이, 해 꼬리표", "word": "足太陽膀胱", "why": "하는 일·자리", "detail": "눈송이+큰 해=太陽→膀胱", "steps": 2}
+{"lesson": "new-uk-14", "n": 8, "j": 1, "object": "얼음 코트, 불꽃 옷걸이, 노란 초승달 꼬리표", "word": "手少陰心", "why": "하는 일·자리", "detail": "불+초승달=少陰→心. 낮음", "steps": 2}
+{"lesson": "new-uk-14", "n": 9, "j": 0, "object": "주황 셔츠, 바람 옷걸이, 까만 원 꼬리표", "word": "足厥陰肝", "why": "하는 일·자리", "detail": "바람+까만 꼬리표=厥陰→肝", "steps": 2}
+{"lesson": "new-uk-14", "n": 9, "j": 1, "object": "물 흐르는 파란 수건, 낙엽 옷걸이, 해+달 꼬리표", "word": "手陽明大腸", "why": "하는 일·자리", "detail": "낙엽+해달=陽明→大腸", "steps": 2}
+{"lesson": "new-uk-14", "n": 10, "j": 0, "object": "도르래 줄 빨래 바구니", "word": "승강", "why": "글자 뜻", "detail": "줄로 오르내림=昇降", "steps": 1}
+{"lesson": "new-uk-14", "n": 10, "j": 1, "object": "미끄럼 위 자루", "word": "승강", "why": "글자 뜻", "detail": "미끄러져 내려감=降. 낮음", "steps": 1}
+{"lesson": "new-uk-14", "n": 11, "j": 0, "object": "옷걸이 봉과 여섯 옷걸이 전체", "word": "本", "why": "하는 일·자리", "detail": "옷걸이 그림 여섯. 낮음", "steps": 2}
+{"lesson": "new-uk-14", "n": 11, "j": 1, "object": "아래 꼬리표 여섯과 점원·세탁기·자루", "word": "標", "why": "글자 뜻", "detail": "꼬리표=標", "steps": 1}
+{"lesson": "new-uk-14", "n": 11, "j": 2, "object": "왼쪽 옷 두 벌(불 스웨터·얼음 코트)", "word": "表裏", "why": "하는 일·자리", "detail": "겉과 걸이가 서로 반대인 짝. 낮음", "steps": 2}
+{"lesson": "new-uk-14", "n": 11, "j": 3, "object": "가운데 옷 두 벌", "word": "表裏", "why": "하는 일·자리", "detail": "짝지은 두 벌. 낮음", "steps": 2}
+{"lesson": "new-uk-14", "n": 11, "j": 4, "object": "오른쪽 수건·셔츠·자루", "word": "모름", "why": "모름", "detail": "한 낱말로 못 정함", "steps": 0}
+{"lesson": "new-uk-14", "n": 11, "j": 5, "object": "도르래 바구니", "word": "승강", "why": "글자 뜻", "detail": "昇降", "steps": 1}
+{"lesson": "new-uk-15", "n": 1, "j": 0, "object": "활짝 열린 낮 문(해 셋), 큰 양동이·작은 풍선", "word": "開", "why": "글자 뜻", "detail": "열린 문=開. 양동이 많고 풍선 적음", "steps": 1}
+{"lesson": "new-uk-15", "n": 1, "j": 1, "object": "잠금쇠 달린 낮 문(해 둘), 큰 풍선", "word": "闔", "why": "글자 뜻", "detail": "잠긴 문=闔. 낮음", "steps": 1}
+{"lesson": "new-uk-15", "n": 1, "j": 2, "object": "반쯤 열린 낮 문(해 하나), 반짝이는 금 경첩", "word": "樞", "why": "글자 뜻", "detail": "경첩=樞(지도리)", "steps": 1}
+{"lesson": "new-uk-15", "n": 2, "j": 0, "object": "열린 밤 문(초승달 셋), 작은 양동이·큰 풍선", "word": "開", "why": "글자 뜻", "detail": "열린 문=開. 풍선 크고 양동이 작음은 多氣少血도 가능", "steps": 1}
+{"lesson": "new-uk-15", "n": 2, "j": 1, "object": "열린 밤 문(달 둘), 은빛 경첩, 모래시계 창", "word": "樞", "why": "글자 뜻", "detail": "경첩=樞", "steps": 1}
+{"lesson": "new-uk-15", "n": 2, "j": 2, "object": "닫힌 밤 문(달 하나), 잠금쇠", "word": "闔", "why": "글자 뜻", "detail": "닫힌 문=闔", "steps": 1}
+{"lesson": "new-uk-15", "n": 3, "j": 0, "object": "열린 낮 문 + 양동이 + 풍선", "word": "開", "why": "글자 뜻", "detail": "열린 문=開", "steps": 1}
+{"lesson": "new-uk-15", "n": 3, "j": 1, "object": "낮 가운데 문과 큰 풍선, 금 경첩", "word": "樞", "why": "글자 뜻", "detail": "경첩=樞. 낮음", "steps": 1}
+{"lesson": "new-uk-15", "n": 3, "j": 2, "object": "금빛 경첩 하나", "word": "樞", "why": "글자 뜻", "detail": "경첩=樞", "steps": 1}
+{"lesson": "new-uk-15", "n": 3, "j": 3, "object": "은빛 경첩 하나", "word": "樞", "why": "글자 뜻", "detail": "경첩=樞", "steps": 1}
+{"lesson": "new-uk-15", "n": 4, "j": 0, "object": "바구니 속 책자 셋(문 · 불꽃 · 눈송이)", "word": "모름", "why": "모름", "detail": "책 셋 묶음: 불꽃=熱論, 눈송이=傷寒論(글자 뜻) 짐작하나 한 낱말로 못 정함", "steps": 0}
+{"lesson": "new-uk-15", "n": 5, "j": 0, "object": "문의 해 모양 셋", "word": "모름", "why": "모름", "detail": "해 개수만 보이고 이름 말이 없음", "steps": 0}
+{"lesson": "new-uk-15", "n": 5, "j": 1, "object": "문의 해 모양 둘", "word": "모름", "why": "모름", "detail": "해 개수만 보임", "steps": 0}
+{"lesson": "new-uk-15", "n": 5, "j": 2, "object": "문의 해 모양 하나", "word": "모름", "why": "모름", "detail": "해 개수만 보임", "steps": 0}
+{"lesson": "new-uk-15", "n": 5, "j": 3, "object": "문의 초승달 셋", "word": "一陰·二陰·三陰", "why": "글자 뜻", "detail": "달 셋=三陰(수)", "steps": 1}
+{"lesson": "new-uk-15", "n": 5, "j": 4, "object": "문의 초승달 둘", "word": "一陰·二陰·三陰", "why": "글자 뜻", "detail": "달 둘=二陰(수)", "steps": 1}
+{"lesson": "new-uk-15", "n": 5, "j": 5, "object": "문의 초승달 하나", "word": "一陰·二陰·三陰", "why": "글자 뜻", "detail": "달 하나=一陰(수)", "steps": 1}
+{"lesson": "new-uk-15", "n": 6, "j": 0, "object": "둥근 창: 노을 바다", "word": "老陽", "why": "글자 뜻", "detail": "저무는 해=늙은 해. 낮음", "steps": 2}
+{"lesson": "new-uk-15", "n": 6, "j": 1, "object": "둥근 창: 큰 해", "word": "陽長成", "why": "하는 일·자리", "detail": "해가 가득 커짐. 낮음", "steps": 2}
+{"lesson": "new-uk-15", "n": 6, "j": 2, "object": "둥근 창: 언덕 위 떠오르는 해", "word": "陽初生", "why": "글자 뜻", "detail": "막 떠오름=初生", "steps": 1}
+{"lesson": "new-uk-15", "n": 7, "j": 0, "object": "반쯤 열린 낮 문, 금 경첩, 풍선 둘·양동이", "word": "樞", "why": "글자 뜻", "detail": "경첩=樞", "steps": 1}
+{"lesson": "new-uk-15", "n": 7, "j": 1, "object": "밤 문 둘, 은 경첩, 큰 양동이·작은 풍선", "word": "樞", "why": "글자 뜻", "detail": "경첩=樞. 낮음", "steps": 1}
+{"lesson": "new-uk-15", "n": 8, "j": 0, "object": "둥근 창: 구름과 흙", "word": "陰盛成形", "why": "하는 일·자리", "detail": "구름·땅이 쌓임=形. 낮음", "steps": 2}
+{"lesson": "new-uk-15", "n": 8, "j": 1, "object": "둥근 창: 모래시계", "word": "交盡", "why": "글자 뜻", "detail": "모래가 다 흐름=盡. 陰盡과 갈림. 낮음", "steps": 2}
+{"lesson": "new-uk-15", "n": 8, "j": 2, "object": "둥근 창: 초승달과 바람 줄", "word": "陰盡", "why": "하는 일·자리", "detail": "달 작아져 다함. 交盡과 갈림. 낮음", "steps": 2}
+{"lesson": "new-uk-15", "n": 9, "j": 0, "object": "큰 양동이·작은 풍선", "word": "氣血多少", "why": "글자 뜻", "detail": "풍선=氣, 물=血, 크고 작음. 血 많고 氣 적음", "steps": 1}
+{"lesson": "new-uk-15", "n": 9, "j": 1, "object": "중간 양동이·큰 풍선", "word": "氣血多少", "why": "글자 뜻", "detail": "풍선=氣, 양동이=血", "steps": 1}
+{"lesson": "new-uk-15", "n": 9, "j": 2, "object": "작은 양동이·중간 풍선", "word": "氣血多少", "why": "글자 뜻", "detail": "풍선=氣, 양동이=血", "steps": 1}
+{"lesson": "new-uk-15", "n": 9, "j": 3, "object": "작은 양동이·큰 풍선", "word": "多氣少血", "why": "글자 뜻", "detail": "큰 풍선(氣 많음) 작은 양동이(血 적음)", "steps": 1}
+{"lesson": "new-uk-15", "n": 9, "j": 4, "object": "중간 양동이·큰 풍선", "word": "氣血多少", "why": "글자 뜻", "detail": "풍선=氣, 양동이=血", "steps": 1}
+{"lesson": "new-uk-15", "n": 9, "j": 5, "object": "큰 양동이·작은 풍선", "word": "氣血多少", "why": "글자 뜻", "detail": "양동이 큼, 풍선 작음", "steps": 1}
+{"lesson": "new-uk-15", "n": 10, "j": 0, "object": "낮 쪽 방 전체", "word": "모름", "why": "모름", "detail": "틀 전체", "steps": 0}
+{"lesson": "new-uk-15", "n": 10, "j": 1, "object": "밤 쪽 방 전체", "word": "모름", "why": "모름", "detail": "틀 전체", "steps": 0}
+{"lesson": "new-uk-15", "n": 10, "j": 2, "object": "책자 바구니", "word": "모름", "why": "모름", "detail": "책 셋. 불꽃=熱論, 눈송이=傷寒論 짐작만", "steps": 0}
+{"lesson": "new-etc-05", "n": 1, "j": 0, "object": "세로 간판 잡고 선 수염 푸른 옷 남자", "word": "모름", "why": "모름", "detail": "안내하는 사람. 이름(醫和·陳無擇)을 낼 근거 없음", "steps": 0}
+{"lesson": "new-etc-05", "n": 1, "j": 1, "object": "간판의 둥근 창 여섯(까만 반·해·바람·물방울·밤달·등불)", "word": "陰陽風雨晦明", "why": "글자 뜻", "detail": "어둠·해·바람·비·밤·불빛=陰·陽·風·雨·晦·明", "steps": 1}
+{"lesson": "new-etc-05", "n": 2, "j": 0, "object": "길 위 회오리·눈사람·불덩이·비구름, 마스크 사람", "word": "風雨寒暑", "why": "글자 뜻", "detail": "바람·비·추위·더위", "steps": 1}
+{"lesson": "new-etc-05", "n": 2, "j": 1, "object": "방 안 마스크·음식 접시·집 모형·두 사람·웃고 우는 가면", "word": "內傷", "why": "하는 일·자리", "detail": "집 안, 먹고 지내고 감정. 內所因과 갈림. 낮음", "steps": 2}
+{"lesson": "new-etc-05", "n": 3, "j": 0, "object": "작은 집 개울을 걷는 회색 동물", "word": "모름", "why": "모름", "detail": "한 낱말로 못 정함. 癘氣 계열 짐작만", "steps": 0}
+{"lesson": "new-etc-05", "n": 3, "j": 1, "object": "개울 속 회색 둥근 동물", "word": "모름", "why": "모름", "detail": "癘氣·戾氣·異氣·雜氣 중 못 가림", "steps": 0}
+{"lesson": "new-etc-05", "n": 3, "j": 2, "object": "문 열린 어두운 작은 집, 개울", "word": "모름", "why": "모름", "detail": "한 낱말로 못 정함", "steps": 0}
+{"lesson": "new-etc-05", "n": 4, "j": 0, "object": "벽돌 담 사이로 수레 넷 지나감, 판자 미는 사람들, 천막 침대·칼·뱀·개", "word": "傳染性", "why": "하는 일·자리", "detail": "수레가 줄지어 옮겨 감. 낮음", "steps": 2}
+{"lesson": "new-etc-05", "n": 5, "j": 0, "object": "천막 침대·칼·초록 뱀·짖는 개", "word": "金刃", "why": "글자 뜻", "detail": "칼=金刃. 뱀·개=蟲獸, 침대 따로. 묶음이라 낮음", "steps": 1}
+{"lesson": "new-etc-05", "n": 6, "j": 0, "object": "마스크 사람 셋이 판자로 세균 덤불을 막음, 개", "word": "모름", "why": "모름", "detail": "癘氣 계열 짐작하나 낱낱 못 가림", "steps": 0}
+{"lesson": "new-etc-05", "n": 6, "j": 1, "object": "마스크 사람 셋이 판자로 덤불을 막음", "word": "모름", "why": "모름", "detail": "전염 막기 짐작, 이름 못 정함", "steps": 0}
+{"lesson": "new-etc-05", "n": 7, "j": 0, "object": "비 내리는 회색 구름", "word": "風雨寒暑", "why": "글자 뜻", "detail": "비=雨. 낮음", "steps": 1}
+{"lesson": "new-etc-05", "n": 7, "j": 1, "object": "마스크 사람 셋 판자 밀기(멀리)", "word": "모름", "why": "모름", "detail": "한 낱말로 못 정함", "steps": 0}
+{"lesson": "new-etc-05", "n": 7, "j": 2, "object": "마스크 사람 셋 판자 밀기", "word": "모름", "why": "모름", "detail": "한 낱말로 못 정함", "steps": 0}
+{"lesson": "new-etc-05", "n": 8, "j": 0, "object": "간판의 둥근 창 여섯", "word": "陰陽風雨晦明", "why": "글자 뜻", "detail": "陰·陽·風·雨·晦·明", "steps": 1}
+{"lesson": "new-etc-05", "n": 8, "j": 1, "object": "회오리·눈사람·불덩이·비구름·마스크 사람", "word": "風雨寒暑", "why": "글자 뜻", "detail": "바람·추위·더위·비", "steps": 1}
+{"lesson": "new-etc-05", "n": 8, "j": 2, "object": "방 안 마스크·접시·집·두 사람·가면", "word": "內傷", "why": "하는 일·자리", "detail": "집 안. 낮음", "steps": 2}
+{"lesson": "new-etc-05", "n": 8, "j": 3, "object": "집·개울의 회색 동물·담·수레", "word": "모름", "why": "모름", "detail": "한 낱말로 못 정함", "steps": 0}
+{"lesson": "new-etc-05", "n": 8, "j": 4, "object": "벽돌 담, 수레 넷, 천막 침대·칼·뱀·개", "word": "傳染性", "why": "하는 일·자리", "detail": "수레 줄지음. 낮음", "steps": 2}
+{"lesson": "new-etc-05", "n": 8, "j": 5, "object": "천막 침대·칼·뱀·짖는 개 한 줄", "word": "金刃", "why": "글자 뜻", "detail": "칼=金刃. 뱀·개는 蟲獸", "steps": 1}
+{"lesson": "new-etc-05", "n": 8, "j": 6, "object": "덤불 앞 판자 미는 사람 셋·구름·개", "word": "모름", "why": "모름", "detail": "한 낱말로 못 정함", "steps": 0}
+{"lesson": "new-etc-06", "n": 1, "j": 0, "object": "줄에 매달린 표정 가면 일곱", "word": "喜怒憂思悲恐驚", "why": "글자 뜻", "detail": "웃음·화남·근심·눈물·떨림·놀람=일곱 감정", "steps": 1}
+{"lesson": "new-etc-06", "n": 1, "j": 1, "object": "받침 다섯 위 장기와 둘레 화살표 다섯, 둥근 바닥", "word": "五志相勝", "why": "하는 일·자리", "detail": "화살표가 서로 이어 이김. 긴 구절 목록과 갈림. 낮음", "steps": 2}
+{"lesson": "new-etc-06", "n": 2, "j": 0, "object": "금 간 붉은 심장과 빛줄기", "word": "傷臟", "why": "글자 뜻", "detail": "금 간 장기=臟 상함. 傷神과 갈림. 낮음", "steps": 1}
+{"lesson": "new-etc-06", "n": 2, "j": 1, "object": "갈라진 받침 위 간, 쏟아지는 물줄기", "word": "傷臟", "why": "글자 뜻", "detail": "금 간 장기=傷臟. 낮음", "steps": 1}
+{"lesson": "new-etc-06", "n": 3, "j": 0, "object": "둥근 바닥 위 장기 다섯과 얼굴, 시계 방향 화살표", "word": "五志相勝", "why": "하는 일·자리", "detail": "화살표로 서로 누름. 悲勝怒… 구절과 갈림. 낮음", "steps": 2}
+{"lesson": "new-etc-06", "n": 4, "j": 0, "object": "환한 하트 등불과 웃는 가면", "word": "神有餘", "why": "글자 뜻", "detail": "밝은 불빛 넘침=神有餘. 낮음", "steps": 1}
+{"lesson": "new-etc-06", "n": 4, "j": 1, "object": "꺼져 가는 등불과 우는 가면", "word": "神不足", "why": "글자 뜻", "detail": "불빛 모자람=神不足", "steps": 1}
+{"lesson": "new-etc-06", "n": 4, "j": 2, "object": "넘치는 붉은 통과 화난 가면", "word": "血有餘", "why": "글자 뜻", "detail": "붉은 액체 넘침=血有餘. 實則怒와 갈림. 낮음", "steps": 1}
+{"lesson": "new-etc-06", "n": 5, "j": 0, "object": "겁먹고 떠는 작은 장군과 소리 지르는 큰 장군", "word": "實則怒", "why": "글자 뜻", "detail": "큰 장군 노함=實. 작은 장군은 虛則恐", "steps": 1}
+{"lesson": "new-etc-06", "n": 6, "j": 0, "object": "얼굴 감싸고 슬퍼하는 왕, 녹는 촛불, 빠진 머리카락", "word": "憂 ↔ 悲", "why": "글자 뜻", "detail": "슬퍼함. 머리카락은 毛悴色夭 가능", "steps": 1}
+{"lesson": "new-etc-06", "n": 7, "j": 0, "object": "줄에 매달린 표정 가면 일곱", "word": "喜怒憂思悲恐驚", "why": "글자 뜻", "detail": "일곱 감정", "steps": 1}
+{"lesson": "new-etc-06", "n": 7, "j": 1, "object": "받침 다섯 위 장기와 화살표", "word": "五志相勝", "why": "하는 일·자리", "detail": "화살표로 서로 누름. 낮음", "steps": 2}
+{"lesson": "new-etc-06", "n": 7, "j": 2, "object": "선반 위층 등불 둘·통·가면 셋", "word": "모름", "why": "모름", "detail": "세 묶음이라 한 낱말로 못 정함", "steps": 0}
+{"lesson": "new-etc-06", "n": 7, "j": 3, "object": "선반 가운데 장군 둘", "word": "實則怒", "why": "글자 뜻", "detail": "큰 장군 노함. 작은 장군은 虛則恐", "steps": 1}
+{"lesson": "new-etc-06", "n": 7, "j": 4, "object": "선반 아래 슬퍼하는 왕과 촛불", "word": "憂 ↔ 悲", "why": "글자 뜻", "detail": "슬퍼함", "steps": 1}
+{"lesson": "new-etc-08", "n": 1, "j": 0, "object": "눈 치뜨고 별이 도는 휘청이는 남자, 바람 줄", "word": "眩暈", "why": "글자 뜻", "detail": "머리 위 별=어지러움. 兩目上視·震顫도 닮음", "steps": 1}
+{"lesson": "new-etc-08", "n": 2, "j": 0, "object": "눈보라에 몸 감싸는 남자, 비친 붉은 장기", "word": "傷寒", "why": "글자 뜻", "detail": "찬 눈보라가 몸을 상함. 肌表와 갈림", "steps": 1}
+{"lesson": "new-etc-08", "n": 3, "j": 0, "object": "눈밭에서 얼음 창에 관통당한 남자", "word": "直中", "why": "글자 뜻", "detail": "곧장 속에 맞음. 中寒과 갈림", "steps": 1}
+{"lesson": "new-etc-08", "n": 4, "j": 0, "object": "파란 물방울 항아리에서 불꽃 터지는 항아리로 화살표", "word": "濕鬱化火", "why": "글자 뜻", "detail": "물(濕)이 뚜껑에 막혀(鬱) 불로 변함(化火)", "steps": 1}
+{"lesson": "new-etc-08", "n": 5, "j": 0, "object": "모래시계와 짚단이 불타고 땅 갈라짐", "word": "燥久化火", "why": "글자 뜻", "detail": "마른 것이 오래되어 불로 변함", "steps": 1}
+{"lesson": "new-etc-08", "n": 6, "j": 0, "object": "눈 치뜨고 별이 도는 남자, 바람 줄", "word": "眩暈", "why": "글자 뜻", "detail": "별=어지러움", "steps": 1}
+{"lesson": "new-etc-08", "n": 6, "j": 1, "object": "눈보라에 몸 감싼 남자", "word": "傷寒", "why": "글자 뜻", "detail": "찬 눈보라가 몸을 상함", "steps": 1}
+{"lesson": "new-etc-08", "n": 6, "j": 2, "object": "얼음 창에 관통당한 남자", "word": "直中", "why": "글자 뜻", "detail": "곧장 맞음", "steps": 1}
+{"lesson": "new-etc-08", "n": 6, "j": 3, "object": "물방울 항아리에서 불꽃 항아리로 화살표", "word": "濕鬱化火", "why": "글자 뜻", "detail": "濕이 쌓여 불로 변함", "steps": 1}
+{"lesson": "new-etc-08", "n": 6, "j": 4, "object": "모래시계 짚단에서 불타는 짚단으로 화살표", "word": "燥久化火", "why": "글자 뜻", "detail": "마름이 오래되어 불로 변함", "steps": 1}
+{"lesson": "hp-08", "n": 1, "j": 0, "object": "언덕 위 벚꽃나무와 날리는 꽃잎, 바람 줄", "word": "春風 夏暑 長夏濕 秋燥 冬寒", "why": "글자 뜻", "detail": "벚꽃=봄 바람. 낮음", "steps": 1}
+{"lesson": "hp-08", "n": 1, "j": 1, "object": "벚꽃나무 둘", "word": "春風 夏暑 長夏濕 秋燥 冬寒", "why": "글자 뜻", "detail": "벚꽃=봄", "steps": 1}
+{"lesson": "hp-08", "n": 2, "j": 0, "object": "지팡이 노인과 점선으로 이어진 빨간 아픔 표시 여섯", "word": "行痺", "why": "글자 뜻", "detail": "아픔이 옮겨 다님(行), 저림(痺). 善行과 갈림", "steps": 1}
+{"lesson": "hp-08", "n": 2, "j": 1, "object": "지팡이 노인과 점선 아픔 표시", "word": "行痺", "why": "글자 뜻", "detail": "아픔이 옮겨 다님", "steps": 1}
+{"lesson": "hp-08", "n": 3, "j": 0, "object": "풍향계 수탉과 사방 화살 방향", "word": "風無常方", "why": "글자 뜻", "detail": "방향(方)이 일정치 않음", "steps": 1}
+{"lesson": "hp-08", "n": 4, "j": 0, "object": "머리 감싸고 땀 흘리는 떠는 청년", "word": "惡風", "why": "글자 뜻", "detail": "바람을 싫어함", "steps": 1}
+{"lesson": "hp-08", "n": 4, "j": 1, "object": "바람에 날아가는 모자", "word": "輕揚開泄", "why": "글자 뜻", "detail": "가볍게 날아오름(輕揚)", "steps": 1}
+{"lesson": "hp-08", "n": 4, "j": 2, "object": "풍차·벚꽃나무와 바람", "word": "春風 夏暑 長夏濕 秋燥 冬寒", "why": "글자 뜻", "detail": "벚꽃 봄바람. 낮음", "steps": 1}
+{"lesson": "hp-08", "n": 5, "j": 0, "object": "화난 큰 구름이 바람 불고 얼음·물방울·낙엽·불꽃 넷이 탐", "word": "百病之長", "why": "하는 일·자리", "detail": "바람이 다른 기운을 태워 데려감. 易襲陽位와 갈림", "steps": 2}
+{"lesson": "hp-08", "n": 6, "j": 0, "object": "풍차·벚꽃나무·바람 줄 넓은 장면", "word": "春風 夏暑 長夏濕 秋燥 冬寒", "why": "글자 뜻", "detail": "벚꽃 봄바람. 낮음", "steps": 1}
+{"lesson": "hp-08", "n": 6, "j": 1, "object": "지팡이 노인과 점선 아픔 표시", "word": "行痺", "why": "글자 뜻", "detail": "옮겨 다니는 아픔", "steps": 1}
+{"lesson": "hp-08", "n": 6, "j": 2, "object": "풍향계 수탉", "word": "風無常方", "why": "글자 뜻", "detail": "방향이 바뀜", "steps": 1}
+{"lesson": "hp-08", "n": 6, "j": 3, "object": "머리 감싸고 땀 흘리는 청년", "word": "惡風", "why": "글자 뜻", "detail": "바람을 싫어함", "steps": 1}
+{"lesson": "hp-08", "n": 6, "j": 4, "object": "화난 큰 구름과 올라탄 넷", "word": "百病之長", "why": "하는 일·자리", "detail": "바람이 다른 기운을 데려감", "steps": 2}
+{"lesson": "hp-09", "n": 1, "j": 0, "object": "눈 덮여 사그라지는 작은 모닥불", "word": "損傷陽氣", "why": "글자 뜻", "detail": "불(陽) 약해짐. 傷陽과 갈림", "steps": 1}
+{"lesson": "hp-09", "n": 1, "j": 1, "object": "담요 쓰고 덜덜 떠는 사람", "word": "惡寒", "why": "글자 뜻", "detail": "추위를 싫어해 떪", "steps": 1}
+{"lesson": "hp-09", "n": 2, "j": 0, "object": "무릎에 아픔 표시를 쥐고 구부정한 남자, 얼음길", "word": "不通則痛", "why": "하는 일·자리", "detail": "언 길에서 막혀 아픔. 著痺와 갈림. 낮음", "steps": 2}
+{"lesson": "hp-09", "n": 2, "j": 1, "object": "무릎 아픔 표시의 같은 남자", "word": "不通則痛", "why": "하는 일·자리", "detail": "막혀 아픔. 낮음", "steps": 2}
+{"lesson": "hp-09", "n": 3, "j": 0, "object": "눈 위에 웅크리고 손가락 굽은 남자", "word": "收引", "why": "글자 뜻", "detail": "오그라듦=收引", "steps": 1}
+{"lesson": "hp-09", "n": 4, "j": 0, "object": "눈 덮인 얼음 지대 왼쪽 절반", "word": "寒 冬 主氣", "why": "글자 뜻", "detail": "눈·얼음=寒·冬", "steps": 1}
+{"lesson": "hp-09", "n": 5, "j": 0, "object": "흰 수건 머리에 두른 걱정 얼굴", "word": "首如裹", "why": "글자 뜻", "detail": "머리를 싼 듯함", "steps": 1}
+{"lesson": "hp-09", "n": 5, "j": 1, "object": "몸 앞뒤로 무거운 자루 셋", "word": "重濁", "why": "글자 뜻", "detail": "무거움=重", "steps": 1}
+{"lesson": "hp-09", "n": 6, "j": 0, "object": "진흙에서 끈끈하게 늘어지는 장화", "word": "黏滯", "why": "글자 뜻", "detail": "끈끈함=黏", "steps": 1}
+{"lesson": "hp-09", "n": 7, "j": 0, "object": "장화 속에 분홍으로 부은 발목", "word": "水腫", "why": "글자 뜻", "detail": "부음=腫", "steps": 1}
+{"lesson": "hp-09", "n": 7, "j": 1, "object": "진흙이 늘어지는 장화", "word": "黏滯", "why": "글자 뜻", "detail": "끈끈함=黏", "steps": 1}
+{"lesson": "hp-09", "n": 8, "j": 0, "object": "연기와 안개 낀 통나무집", "word": "濕 長夏 主氣", "why": "글자 뜻", "detail": "안개 낀 습함. 낮음", "steps": 1}
+{"lesson": "hp-09", "n": 9, "j": 0, "object": "눈 덮인 모닥불", "word": "損傷陽氣", "why": "글자 뜻", "detail": "불이 약해짐", "steps": 1}
+{"lesson": "hp-09", "n": 9, "j": 1, "object": "얼음 안에 갇힌 장작", "word": "凝滯", "why": "글자 뜻", "detail": "얼어 엉겨 멈춤=凝滯", "steps": 1}
+{"lesson": "hp-09", "n": 9, "j": 2, "object": "웅크려 떠는 남자", "word": "收引", "why": "글자 뜻", "detail": "오그라듦. 惡寒과 갈림", "steps": 1}
+{"lesson": "hp-09", "n": 9, "j": 3, "object": "진흙에서 자루 멘 사람", "word": "重濁", "why": "글자 뜻", "detail": "무거움. 낮음", "steps": 1}
+{"lesson": "hp-09", "n": 9, "j": 4, "object": "안개 낀 통나무집", "word": "濕 長夏 主氣", "why": "글자 뜻", "detail": "안개=濕. 낮음", "steps": 1}
+{"lesson": "hp-10", "n": 1, "j": 0, "object": "땀 흘리며 물 마시는 붉은 얼굴 남자, 수박", "word": "暑", "why": "글자 뜻", "detail": "땀·김=더위. 飮과 갈림", "steps": 1}
+{"lesson": "hp-10", "n": 1, "j": 1, "object": "쟁반 위 수박 조각 셋", "word": "暑", "why": "하는 일·자리", "detail": "여름 과일. 낮음", "steps": 2}
+{"lesson": "hp-10", "n": 2, "j": 0, "object": "땀범벅 병 물 마시는 남자", "word": "暑", "why": "글자 뜻", "detail": "땀·김=더위", "steps": 1}
+{"lesson": "hp-10", "n": 3, "j": 0, "object": "안개·물방울 맺힌 타일 방", "word": "挾濕", "why": "글자 뜻", "detail": "더위에 습기가 끼어 있음. 낮음", "steps": 2}
+{"lesson": "hp-10", "n": 4, "j": 0, "object": "머리 위로 치솟은 불꽃", "word": "炎上", "why": "글자 뜻", "detail": "불꽃(炎)이 위로(上)", "steps": 1}
+{"lesson": "hp-10", "n": 4, "j": 1, "object": "불꽃 머리에 충혈된 눈·코피 남자", "word": "動血", "why": "글자 뜻", "detail": "코피=血이 움직여 나옴", "steps": 1}
+{"lesson": "hp-10", "n": 5, "j": 0, "object": "불꽃 머리 남자의 떠는 손", "word": "生風", "why": "하는 일·자리", "detail": "떨림=바람 일어남 짐작. 낮음", "steps": 2}
+{"lesson": "hp-10", "n": 6, "j": 0, "object": "붉게 부은 팔뚝을 가리키는 남자", "word": "癰", "why": "글자 뜻", "detail": "고름 든 종기. 腫瘍과 갈림", "steps": 1}
+{"lesson": "hp-10", "n": 6, "j": 1, "object": "가운데 노란 점 둘 있는 붉게 부은 곳", "word": "癰", "why": "글자 뜻", "detail": "고름집. 腫瘍과 갈림", "steps": 1}
+{"lesson": "hp-10", "n": 7, "j": 0, "object": "갈라진 바닥과 앉은 사람의 갈라진 다리", "word": "乾澀", "why": "글자 뜻", "detail": "말라 갈라짐", "steps": 1}
+{"lesson": "hp-10", "n": 7, "j": 1, "object": "시든 마른 나무 화분", "word": "乾澀", "why": "글자 뜻", "detail": "말라 시듦", "steps": 1}
+{"lesson": "hp-10", "n": 7, "j": 2, "object": "가슴 움켜쥐고 기침하는 갈라진 피부의 남자", "word": "易傷肺", "why": "하는 일·자리", "detail": "기침, 가슴. 皮毛와 갈림", "steps": 1}
+{"lesson": "hp-10", "n": 8, "j": 0, "object": "가슴 움켜쥐고 기침하는 남자", "word": "易傷肺", "why": "하는 일·자리", "detail": "기침, 가슴", "steps": 1}
+{"lesson": "hp-10", "n": 9, "j": 0, "object": "단풍잎과 해가 있는 창", "word": "溫燥", "why": "글자 뜻", "detail": "해(따뜻)+마른 단풍", "steps": 1}
+{"lesson": "hp-10", "n": 9, "j": 1, "object": "잎 없는 가지와 서리 낀 유리 창", "word": "凉燥", "why": "글자 뜻", "detail": "서리(서늘)+마른 가지", "steps": 1}
+{"lesson": "hp-10", "n": 10, "j": 0, "object": "땀 흘리며 물 마시는 남자", "word": "暑", "why": "글자 뜻", "detail": "땀·김", "steps": 1}
+{"lesson": "hp-10", "n": 10, "j": 1, "object": "불꽃 머리 충혈 남자", "word": "動血", "why": "글자 뜻", "detail": "코피", "steps": 1}
+{"lesson": "hp-10", "n": 10, "j": 2, "object": "붉게 부은 팔뚝 가리키는 남자", "word": "癰", "why": "글자 뜻", "detail": "고름 종기", "steps": 1}
+{"lesson": "hp-10", "n": 10, "j": 3, "object": "가슴 움켜쥐고 기침하는 남자", "word": "易傷肺", "why": "하는 일·자리", "detail": "기침", "steps": 1}
+{"lesson": "hp-13", "n": 1, "j": 0, "object": "음식을 가득 먹는 뚱뚱한 남자", "word": "過飽", "why": "글자 뜻", "detail": "너무 배부름", "steps": 1}
+{"lesson": "hp-13", "n": 2, "j": 0, "object": "빈 접시 든 비쩍 마른 남자", "word": "過飢", "why": "글자 뜻", "detail": "너무 굶음", "steps": 1}
+{"lesson": "hp-13", "n": 3, "j": 0, "object": "높이 짐 진 땀 흘리는 남자", "word": "勞則氣耗", "why": "하는 일·자리", "detail": "힘써 일해 숨참. 久行과 갈림. 낮음", "steps": 1}
+{"lesson": "hp-13", "n": 4, "j": 0, "object": "책 더미 곁에 앉아 읽는 지친 남자", "word": "久視", "why": "글자 뜻", "detail": "오래 봄(視). 久坐傷肉과 갈림", "steps": 1}
+{"lesson": "hp-13", "n": 4, "j": 1, "object": "짚신과 배낭의 앉은 모험가", "word": "久行", "why": "글자 뜻", "detail": "오래 걸음(行)", "steps": 1}
+{"lesson": "hp-13", "n": 4, "j": 2, "object": "경광봉 든 서 있는 경찰, 거미줄", "word": "久立", "why": "글자 뜻", "detail": "오래 서 있음(立)", "steps": 1}
+{"lesson": "hp-13", "n": 5, "j": 0, "object": "침대에서 자는 남자와 쭈글쭈글한 풍선", "word": "久臥傷氣", "why": "글자 뜻", "detail": "오래 누움, 풍선=氣 시듦", "steps": 1}
+{"lesson": "hp-13", "n": 5, "j": 1, "object": "안마의자에서 조는 배 나온 남자", "word": "久坐傷肉", "why": "글자 뜻", "detail": "오래 앉음, 살찜", "steps": 1}
+{"lesson": "hp-13", "n": 6, "j": 0, "object": "음식을 가득 먹는 남자", "word": "過飽", "why": "글자 뜻", "detail": "너무 배부름", "steps": 1}
+{"lesson": "hp-13", "n": 6, "j": 1, "object": "빈 접시 든 마른 남자", "word": "過飢", "why": "글자 뜻", "detail": "너무 굶음", "steps": 1}
+{"lesson": "hp-13", "n": 6, "j": 2, "object": "높이 짐 진 남자", "word": "勞則氣耗", "why": "하는 일·자리", "detail": "힘써 일함. 낮음", "steps": 1}
+{"lesson": "hp-13", "n": 6, "j": 3, "object": "책 더미 곁에 읽는 남자", "word": "久視", "why": "글자 뜻", "detail": "오래 봄", "steps": 1}
+{"lesson": "hp-13", "n": 6, "j": 4, "object": "침대에 자는 남자와 시든 풍선", "word": "久臥傷氣", "why": "글자 뜻", "detail": "오래 누움, 풍선=氣", "steps": 1}
+{"lesson": "hp-13", "n": 6, "j": 5, "object": "안마의자에서 조는 남자", "word": "久坐傷肉", "why": "글자 뜻", "detail": "오래 앉음", "steps": 1}
+{"lesson": "hp-11", "n": 1, "j": 0, "object": "탁자 위 붉은 얼굴 남자, 높이 뜬 풍선", "word": "怒則氣上", "why": "글자 뜻", "detail": "화냄, 풍선(氣) 위로", "steps": 1}
+{"lesson": "hp-11", "n": 2, "j": 0, "object": "웃으며 가슴에 손, 풍선 줄 구불구불", "word": "喜則氣緩", "why": "글자 뜻", "detail": "웃음, 줄 느슨", "steps": 1}
+{"lesson": "hp-11", "n": 3, "j": 0, "object": "눈물 여자, 쪼그라드는 풍선", "word": "悲則氣消", "why": "글자 뜻", "detail": "슬픔, 바람 빠짐=消", "steps": 1}
+{"lesson": "hp-11", "n": 4, "j": 0, "object": "바닥 구멍에 빠진 남자, 가라앉은 풍선", "word": "恐則氣下", "why": "글자 뜻", "detail": "겁, 풍선 아래로=下", "steps": 1}
+{"lesson": "hp-11", "n": 5, "j": 0, "object": "놀라 뛰는 남자, 엉킨 풍선 줄", "word": "驚則氣亂", "why": "글자 뜻", "detail": "놀람, 엉킴=亂", "steps": 1}
+{"lesson": "hp-11", "n": 6, "j": 0, "object": "턱 괴고 걱정하는 남자, 매듭 풍선 줄", "word": "思則氣結", "why": "글자 뜻", "detail": "생각, 매듭=結", "steps": 1}
+{"lesson": "hp-11", "n": 6, "j": 1, "object": "풍선 줄의 꽁꽁 꼬인 매듭", "word": "思則氣結", "why": "글자 뜻", "detail": "매듭=結", "steps": 1}
+{"lesson": "hp-11", "n": 7, "j": 0, "object": "탁자 위 붉은 얼굴 남자, 높이 뜬 풍선", "word": "怒則氣上", "why": "글자 뜻", "detail": "풍선 위로", "steps": 1}
+{"lesson": "hp-11", "n": 7, "j": 1, "object": "웃으며 가슴에 손, 구불구불 줄", "word": "喜則氣緩", "why": "글자 뜻", "detail": "느슨", "steps": 1}
+{"lesson": "hp-11", "n": 7, "j": 2, "object": "눈물 여자, 쪼그라든 풍선", "word": "悲則氣消", "why": "글자 뜻", "detail": "바람 빠짐", "steps": 1}
+{"lesson": "hp-11", "n": 7, "j": 3, "object": "구멍에 빠진 남자, 가라앉은 풍선", "word": "恐則氣下", "why": "글자 뜻", "detail": "아래로", "steps": 1}
+{"lesson": "hp-11", "n": 7, "j": 4, "object": "놀라 뛰는 남자, 엉킨 줄", "word": "驚則氣亂", "why": "글자 뜻", "detail": "엉킴", "steps": 1}
+{"lesson": "hp-11", "n": 7, "j": 5, "object": "턱 괴고 걱정, 매듭 줄", "word": "思則氣結", "why": "글자 뜻", "detail": "매듭", "steps": 1}

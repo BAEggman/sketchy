@@ -1,0 +1,316 @@
+{"lesson": "new-jq-01", "n": 1, "atom": "天三寶 日·月·星", "carrier": "하늘의 해(둥근 노란 원)·초승달·별 여럿", "xywh": [150, 58, 1700, 150], "count_dir_touch": "해1 달1 별 7개 안팎(해 [150,58,128,128] 달 [1760,70,90,110])", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-01", "n": 1, "atom": "地三寶 水·火·風", "carrier": "시냇물 [0,905,277,238] · 향로 불 [566,920,200,186] · 깃발 다섯 장 [1547,487,501,395]", "xywh": [0, 487, 2048, 656], "count_dir_touch": "물1 불1 깃발5(바람에 휘날림)", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-01", "n": 1, "atom": "人三寶 精·氣·神", "carrier": "3층 법당(쌀독·풍선·등불 세 층)", "xywh": [721, 0, 613, 966], "count_dir_touch": "층3", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-01", "n": 2, "atom": "下丹田 藏精", "carrier": "스님 모은 손 위 흰 빛 덩이", "xywh": [1000, 951, 52, 49], "count_dir_touch": "빛1 흰색 아랫배", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-01", "n": 2, "atom": "中丹田 藏氣", "carrier": "스님 가슴 하늘색 빛 덩이", "xywh": [1000, 859, 52, 49], "count_dir_touch": "빛1 하늘색 가슴", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-01", "n": 2, "atom": "上丹田 藏神", "carrier": "스님 이마 위 금빛 덩이", "xywh": [994, 715, 58, 55], "count_dir_touch": "빛1 금색 이마", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-01", "n": 3, "atom": "精者身之本", "carrier": "맨 아래층 쌀독(쌀 수북, 스님 머리 뒤)", "xywh": [920, 631, 215, 208], "count_dir_touch": "독1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-01", "n": 3, "atom": "氣者神之主", "carrier": "가운데층 풍선(하늘색)", "xywh": [905, 372, 236, 187], "count_dir_touch": "풍선1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-01", "n": 3, "atom": "形者神之宅也", "carrier": "3층 법당 건물 자체가 집, 맨 위 등불이 그 안에 듦", "xywh": [721, 0, 613, 966], "count_dir_touch": "등불 [905,161,236,159] 집 안", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-01", "n": 3, "atom": "本·主 관계(之本/之主)", "carrier": "글로만", "xywh": null, "count_dir_touch": "쌀독과 풍선이 몸·神을 받치거나 이끄는 동작 없음 — 층 쌓임만", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-01", "n": 4, "atom": "形不足者 溫之以氣", "carrier": "담요 두른 젊은 스님 + 숯 화로(불 빛남)", "xywh": [1460, 732, 445, 352], "count_dir_touch": "스님1 화로1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-01", "n": 4, "atom": "精不足者 補之以味", "carrier": "스님이 든 김 나는 음식 그릇과 젓가락", "xywh": [1620, 900, 110, 90], "count_dir_touch": "그릇1 손이 그릇에 닿음", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-01", "n": 4, "atom": "출처 陰陽應象大論", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-02", "n": 1, "atom": "精 = 兩神相搏", "carrier": "진흙 속에 맞붙은 금빛 씨앗 둘", "xywh": [184, 242, 236, 179], "count_dir_touch": "씨앗 2, 서로 맞닿음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-02", "n": 1, "atom": "合而成形", "carrier": "두 씨앗 사이로 돋은 초록 새싹", "xywh": [290, 255, 50, 80], "count_dir_touch": "싹1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-02", "n": 1, "atom": "常先身生", "carrier": "글로만", "xywh": null, "count_dir_touch": "씨앗이 몸보다 먼저라는 앞뒤는 그림에 없음(몸 인물은 셋째 논배미 남자뿐이고 순서 표시 없음)", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-02", "n": 2, "atom": "氣 = 上焦開發", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-02", "n": 2, "atom": "宣五穀味", "carrier": "글로만", "xywh": null, "count_dir_touch": "벼는 있으나 五穀味를 펴 내는 동작·맛 표시 없음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-02", "n": 2, "atom": "熏膚充身澤毛", "carrier": "어린 벼 위를 덮은 옅은 안개", "xywh": [0, 430, 680, 438], "count_dir_touch": "안개 한 덩어리(몸·살갗·털은 없고 벼 잎만)", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-02", "n": 2, "atom": "若霧露之漑", "carrier": "안개와 어린 벼 잎 위의 흰 이슬방울", "xywh": [0, 430, 680, 438], "count_dir_touch": "이슬방울 20개 안팎", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-02", "n": 3, "atom": "津 = 腠理發泄", "carrier": "글로만", "xywh": null, "count_dir_touch": "땀구멍·살결 표시 없음(땀방울만)", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-02", "n": 3, "atom": "汗出溱溱", "carrier": "허리 굽힌 남자의 얼굴·팔에서 떨어지는 굵은 땀방울", "xywh": [617, 494, 308, 359], "count_dir_touch": "방울 6~7, 얼굴과 팔에서 튐", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-02", "n": 4, "atom": "液 = 穀入氣滿", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-02", "n": 4, "atom": "淖澤注於骨", "carrier": "기름통에서 쏟아져 나무 인형 무릎에 부어지는 금빛 기름", "xywh": [1136, 141, 402, 755], "count_dir_touch": "기름줄 1, 무릎에 닿아 튀김(닿음 있음)", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-02", "n": 4, "atom": "骨屬屈伸洩澤", "carrier": "나무 인형 무릎 관절(오른쪽 다리가 굽어 정강이가 꺾임)", "xywh": [1190, 640, 130, 200], "count_dir_touch": "관절1 굽힘 1", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-02", "n": 4, "atom": "補益腦髓", "carrier": "글로만", "xywh": null, "count_dir_touch": "기름이 머리로 가지 않음(인형 머리에 닿음 없음)", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-02", "n": 4, "atom": "皮膚潤澤", "carrier": "글로만", "xywh": null, "count_dir_touch": "인형은 나무라 살갗 없음, 기름 윤기는 무릎에만", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-02", "n": 5, "atom": "血 = 中焦受氣取汁", "carrier": "볏단을 꿴 나무 압착기가 즙을 짜냄", "xywh": [1568, 235, 453, 553], "count_dir_touch": "압착기1 볏단 2~3", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-02", "n": 5, "atom": "變化而赤", "carrier": "금빛 볏단에서 나오는 새빨간 즙 웅덩이", "xywh": [1640, 486, 350, 300], "count_dir_touch": "즙줄 1 → 웅덩이 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-02", "n": 6, "atom": "脈 = 壅遏營氣", "carrier": "양옆을 막은 높은 돌담 물길", "xywh": [1547, 783, 501, 360], "count_dir_touch": "담 2줄(양쪽), 물길 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-02", "n": 6, "atom": "令無所避", "carrier": "빈틈없는 돌담 안에 갇혀 새지 않는 물", "xywh": [1547, 783, 501, 360], "count_dir_touch": "담에 구멍·틈 없음, 물은 담 안으로만", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-02", "n": 7, "atom": "六氣 차례 精氣津液血脈", "carrier": "씨앗→안개→땀→기름→붉은 즙→돌담 여섯 장면이 왼쪽에서 오른쪽으로", "xywh": [0, 22, 2048, 1121], "count_dir_touch": "장면 6, 방향 왼→오른쪽(안개는 왼쪽 아래, 돌담은 오른쪽 아래)", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-02", "n": 7, "atom": "一氣가 여섯 이름", "carrier": "왼쪽 위 샘에서 나와 여섯 장면을 모두 지나는 하나의 물길", "xywh": [77, 50, 250, 115], "count_dir_touch": "샘 1, 물길 이어짐", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-03", "n": 1, "atom": "精 = 身之本", "carrier": "도정기 아래 바닥에 쌓인 흰 쌀 더미(큰 산)", "xywh": [519, 620, 992, 479], "count_dir_touch": "더미1, 도정기에서 쌀이 쏟아져 내림", "obj_missing": "쌀 더미는 바닥 '전체'를 받치지 않고 도정기 앞 한 무더기", "confidence": "높음"}
+{"lesson": "new-jq-03", "n": 1, "atom": "가장 기본 물질", "carrier": "글로만", "xywh": null, "count_dir_touch": "쌀 더미가 크다는 것뿐, '기본'은 그림에 없음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-03", "n": 1, "atom": "출전 素問 金匱眞言論", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-03", "n": 2, "atom": "先天之精", "carrier": "노부부가 젊은이에게 건네는 불 붙은 단지", "xywh": [473, 487, 99, 157], "count_dir_touch": "단지1 불꽃1 세 사람 손이 단지에 닿음", "obj_missing": "볍씨 단지: 단지 안 볍씨는 안 보이고 불꽃만 보임", "confidence": "높음"}
+{"lesson": "new-jq-03", "n": 2, "atom": "부모에게 받음", "carrier": "할아버지·할머니(둘)가 젊은이에게 단지를 내미는 동작", "xywh": [242, 430, 467, 409], "count_dir_touch": "어른 2 → 젊은이 1, 건넴 방향 왼→오른쪽", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-03", "n": 2, "atom": "命門의 火氣", "carrier": "단지 위 붉은 불꽃", "xywh": [473, 487, 99, 60], "count_dir_touch": "불꽃1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-03", "n": 2, "atom": "生之來謂之精(靈樞 本神)", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-03", "n": 3, "atom": "後天之精", "carrier": "볏단 실은 소달구지(열린 문 밖)", "xywh": [84, 134, 402, 301], "count_dir_touch": "수레1 소1 볏단 더미", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-03", "n": 3, "atom": "水穀精微에서 化生", "carrier": "도정기가 벼(갈색 낟알)를 받아 흰 쌀로 쏟아냄", "xywh": [749, 0, 555, 836], "count_dir_touch": "기계1 입구 갈색 낟알 → 아래 흰 쌀", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-03", "n": 3, "atom": "五臟六腑에 輸布", "carrier": "다섯 색 문 아래 비스듬한 미끄럼틀 다섯 줄에서 쌀이 흘러내림", "xywh": [1287, 257, 690, 424], "count_dir_touch": "미끄럼틀 5, 바닥으로 흐르는 쌀줄 3", "obj_missing": "여섯 腑는 없고 다섯 줄뿐(문 색 5)", "confidence": "낮음"}
+{"lesson": "new-jq-03", "n": 3, "atom": "남는 것은 腎에 저장", "carrier": "쌀이 가득 든 검은 쇠 금고", "xywh": [1647, 357, 401, 323], "count_dir_touch": "금고1, 문 열림, 안에 쌀 가득", "obj_missing": "맨 오른쪽 쌀줄은 금고 안이 아니라 열린 금고 문 앞 바닥으로 떨어짐(금고로 들어가지 않음)", "confidence": "높음"}
+{"lesson": "new-jq-03", "n": 4, "atom": "협의 = 生殖之精", "carrier": "화분에 심은 쌀알에서 돋은 새싹", "xywh": [437, 689, 150, 215], "count_dir_touch": "화분1 새싹1", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-03", "n": 4, "atom": "광의 = 五臟六腑之精", "carrier": "초록·빨강·노랑·흰·검은 다섯 창고문", "xywh": [1330, 112, 676, 200], "count_dir_touch": "문 5(초록 빨강 노랑 흰 검정)", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-03", "n": 4, "atom": "기능별 분류도 둘", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-03", "n": 5, "atom": "精은 腎에서만 생성 X", "carrier": "글로만", "xywh": null, "count_dir_touch": "다섯 문에서 모두 쌀이 나오는 것으로 '腎만은 아님'을 짐작할 수 있으나 문장 그대로의 부정은 그림에 없음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-03", "n": 5, "atom": "十二藏의 生化에서 기원", "carrier": "다섯 색 문 아래 쌀이 흐르는 다섯 미끄럼틀", "xywh": [1287, 257, 690, 424], "count_dir_touch": "문 5(十二 아님)", "obj_missing": "十二藏 대신 다섯 문 — 수가 다름", "confidence": "낮음"}
+{"lesson": "new-jq-03", "n": 5, "atom": "腎은 저장", "carrier": "검은 쇠 금고, 안에 쌀", "xywh": [1647, 357, 401, 323], "count_dir_touch": "금고1 쌀 가득", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-03", "n": 6, "atom": "生殖", "carrier": "화분 새싹", "xywh": [437, 689, 150, 215], "count_dir_touch": "새싹1", "obj_missing": "생식 자체(남녀·아기)는 없음", "confidence": "낮음"}
+{"lesson": "new-jq-03", "n": 6, "atom": "生長發育", "carrier": "화분의 자란 새싹(두 잎)", "xywh": [437, 689, 150, 215], "count_dir_touch": "새싹1(위 생식과 같은 물건 공유)", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-03", "n": 6, "atom": "腦髓 생성", "carrier": "사람 얼굴 모양 큰 독에 부어지는 뽀얀 쌀뜨물", "xywh": [98, 689, 373, 454], "count_dir_touch": "독1 붓는 사람1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-03", "n": 6, "atom": "질병 예방", "carrier": "두 팔 들어 환호하는 건강한 남자", "xywh": [1560, 820, 140, 290], "count_dir_touch": "남자1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-03", "n": 7, "atom": "精生髓 髓充腦", "carrier": "일꾼이 들통에서 얼굴 독으로 쌀뜨물을 부음(독 입구로 들어감)", "xywh": [98, 689, 373, 454], "count_dir_touch": "흐름 1줄 통→독, 닿음 있음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-03", "n": 7, "atom": "腦爲髓之海(靈樞 海論)", "carrier": "머리 모양 독에 뽀얀 액이 담김(독=머리, 액=髓)", "xywh": [250, 820, 220, 290], "count_dir_touch": "독1", "obj_missing": "'바다'는 없음", "confidence": "낮음"}
+{"lesson": "new-jq-03", "n": 7, "atom": "精成而腦髓生(靈樞 經脈)", "carrier": "글로만", "xywh": null, "count_dir_touch": "먼저 精이 이루어지고 나서 髓가 생긴다는 앞뒤는 그림에 없음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-03", "n": 8, "atom": "藏於精者 春不病溫", "carrier": "쌀 가득 든 눈 덮인 헛간 앞, 봄꽃 속 팔 들어 웃는 남자", "xywh": [1503, 653, 545, 490], "count_dir_touch": "남자1 헛간1(안에 쌀) 분홍 꽃 여럿", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-03", "n": 8, "atom": "冬不藏精 春必病溫", "carrier": "글로만", "xywh": null, "count_dir_touch": "쌀이 빈 헛간·아픈 남자 같은 반대 장면 없음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-03", "n": 8, "atom": "출전 素問 金匱眞言論", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-04", "n": 1, "atom": "精之主宰在心", "carrier": "위층 유리 관제실 책상의 금관 임금", "xywh": [1568, 120, 215, 179], "count_dir_touch": "임금1 관제실1(오른쪽 위)", "obj_missing": "내려다보는 동작은 불확실: 임금은 책상 서류를 보는 듯한 자세", "confidence": "낮음"}
+{"lesson": "new-jq-04", "n": 1, "atom": "精之藏制在腎", "carrier": "왼쪽 큰 금고(둥근 문, 손잡이 바퀴)", "xywh": [29, 252, 588, 879], "count_dir_touch": "금고1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-04", "n": 1, "atom": "출전 東醫寶鑑 精", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-04", "n": 2, "atom": "主閉藏者 腎也", "carrier": "대머리 장사가 금고 문 손잡이 바퀴를 두 손으로 잡고 미는 모습", "xywh": [293, 638, 453, 467], "count_dir_touch": "장사1 손 2개가 바퀴에 닿음", "obj_missing": "금고 문은 이미 거의 닫힌 모양이라 '밀어 닫는' 중인지는 낮은 확신", "confidence": "높음"}
+{"lesson": "new-jq-04", "n": 3, "atom": "司疏泄者 肝也", "carrier": "초록 갑옷 장군이 창구 밖으로 씨앗 봉투를 내밈", "xywh": [747, 552, 373, 316], "count_dir_touch": "장군1 봉투1(손에 쥠) 창구 턱 위 씨앗 8알 안팎", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-04", "n": 4, "atom": "二臟皆有相火", "carrier": "장사 허리춤 횃불 · 창구 옆 벽 횃불", "xywh": [538, 804, 63, 121], "count_dir_touch": "횃불 2(장사 허리 [538,804,63,121], 벽 [1095,649,50,151])", "obj_missing": "장군 허리춤에도 작은 불꽃이 더 있음([1020,755,40,50]) → 불 3", "confidence": "높음"}
+{"lesson": "new-jq-04", "n": 4, "atom": "而其系上屬於心", "carrier": "횃불 두 개에서 위층 임금 책상까지 이어진 붉은 줄", "xywh": [574, 271, 1058, 611], "count_dir_touch": "줄 묶음 2(각 두 가닥), 방향 아래 횃불 → 위 책상", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-04", "n": 4, "atom": "감독은 心(君火)", "carrier": "임금 책상 위 붉은 초(불 켜짐)", "xywh": [1482, 192, 49, 107], "count_dir_touch": "초1 불꽃1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-04", "n": 5, "atom": "肝精不固", "carrier": "초록 서랍이 헐렁하게 빠져 씨앗이 쏟아짐", "xywh": [1208, 675, 186, 366], "count_dir_touch": "서랍1 쏟아진 씨앗 줄 3 안팎, 바닥에 씨앗 무더기", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-04", "n": 5, "atom": "目眩無光", "carrier": "서랍장 위 소용돌이 렌즈 안경", "xywh": [1222, 588, 200, 85], "count_dir_touch": "안경1 렌즈 2, 둘 다 소용돌이", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-04", "n": 6, "atom": "肺精不足", "carrier": "흰 서랍(아래 칸이 빈 채)", "xywh": [1402, 675, 186, 366], "count_dir_touch": "서랍1 아래칸 비어 있음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-04", "n": 6, "atom": "肌肉消瘦", "carrier": "빈 흰 칸 앞에 선 가느다란 나무 인형", "xywh": [1431, 732, 135, 381], "count_dir_touch": "인형1 팔다리 가늘음", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-04", "n": 7, "atom": "腎精不固", "carrier": "검은 서랍이 헐렁하게 빠져 씨앗이 쏟아짐", "xywh": [1590, 675, 200, 366], "count_dir_touch": "서랍1 쏟아진 씨앗 줄 2 안팎", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-04", "n": 7, "atom": "齒髮浮落", "carrier": "서랍장 위 머리카락 엉킨 빗과 옆에 빠진 이 하나", "xywh": [1575, 588, 236, 78], "count_dir_touch": "빗1 이 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-04", "n": 8, "atom": "脾精不堅", "carrier": "금이 가 부서진 노란 서랍(위·아래 모두 금)", "xywh": [1784, 675, 200, 366], "count_dir_touch": "서랍 2 칸 모두 금", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-04", "n": 8, "atom": "神氣減少", "carrier": "서랍장 위 불꽃이 작게 깜박이는 남포등", "xywh": [1835, 502, 92, 164], "count_dir_touch": "등1 불꽃 작음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 1, "atom": "女七 男八 天癸 연표", "carrier": "왼쪽 분홍 관·파란 관 유리 우량계 둘, 오른쪽으로 7·8열 사람 줄", "xywh": [35, 460, 275, 995], "count_dir_touch": "관 2(분홍 [78,480,80,590], 파랑 [195,480,90,590])", "obj_missing": "눈금이 분홍 14개·파랑 15개 안팎으로 7·8이 아님(짧은 눈금·긴 눈금이 섞여 있고 긴 것은 각각 3개)", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 1, "atom": "출전 素問 上古天眞論", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 1, "atom": "天癸", "carrier": "구름에서 쏟아지는 굵은 푸른 물줄기(둘째 열)", "xywh": [654, 163, 292, 740], "count_dir_touch": "물기둥 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 2, "atom": "女 一七(7) 腎氣盛", "carrier": "글로만", "xywh": null, "count_dir_touch": "웃는 7세 소녀 표정뿐, 腎 표시 없음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 2, "atom": "齒更髮長", "carrier": "양갈래 땋은 머리 소녀가 빠진 젖니를 든 손을 들어 올림", "xywh": [399, 461, 206, 430], "count_dir_touch": "이1 (소녀 [400,461,206,430])", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 2, "atom": "男 一八(8) 腎氣實", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 2, "atom": "髮長齒更", "carrier": "머리 자란 8세 소년이 젖니를 든 손을 들어 올림", "xywh": [392, 1032, 215, 353], "count_dir_touch": "이1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 3, "atom": "女 二七(14) 天癸至", "carrier": "푸른 물줄기를 맞고 서 있는 14세 소녀", "xywh": [731, 392, 146, 430], "count_dir_touch": "소녀1, 물이 머리 위로 쏟아짐", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 3, "atom": "任脈通·太衝脈盛·月事", "carrier": "소녀 옆 활짝 핀 빨간 꽃 한 송이(月事로 짐작되는 유일한 물건)", "xywh": [662, 688, 86, 120], "count_dir_touch": "꽃1", "obj_missing": "脈 표시는 없음, 꽃은 낮은 확신", "confidence": "낮음"}
+{"lesson": "new-jq-05", "n": 3, "atom": "男 二八(16) 天癸至", "carrier": "소녀 발판에서 아래 소년의 물병으로 떨어지는 물줄기", "xywh": [808, 860, 86, 344], "count_dir_touch": "물줄기 1, 위→아래", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 3, "atom": "精氣溢瀉", "carrier": "소년의 물병에서 넘쳐 튀는 물", "xywh": [774, 1115, 120, 129], "count_dir_touch": "병1 넘침 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 4, "atom": "女 三七(21)·男 三八(24) 腎氣平均", "carrier": "위아래 두 사람 사이를 잇는 키 재기 막대(눈금 자)에 둘 다 손을 올림", "xywh": [920, 249, 344, 1204], "count_dir_touch": "막대 1, 여자 손은 윗가로대·남자 손은 아랫가로대", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 4, "atom": "眞牙生而長極", "carrier": "두 사람 볼 옆에 반짝이는 사랑니", "xywh": [963, 387, 69, 69], "count_dir_touch": "이 2(여자 쪽 [963,387,69,69], 남자 쪽 [954,1015,69,69])", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 4, "atom": "男 筋骨勁强", "carrier": "글로만", "xywh": null, "count_dir_touch": "소년이 한 손을 허리에 짚은 자세뿐, 근육 표시는 다음 열", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 5, "atom": "女 四七(28) 筋骨堅", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 5, "atom": "髮長極", "carrier": "허리까지 풍성하게 흘러내린 긴 검은 머리 28세 여자", "xywh": [1290, 318, 284, 516], "count_dir_touch": "여자1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 5, "atom": "身體盛壯", "carrier": "글로만", "xywh": null, "count_dir_touch": "여자는 손을 허리에 짚고 선 자세뿐", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-05", "n": 5, "atom": "男 四八(32) 筋骨隆盛", "carrier": "양팔 알통을 뽐내는 근육질 남자", "xywh": [1238, 912, 344, 516], "count_dir_touch": "남자1 팔 2 모두 굽혀 알통", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 5, "atom": "肌肉滿壯", "carrier": "같은 근육질 몸(가슴·복근)", "xywh": [1238, 912, 344, 516], "count_dir_touch": "남자1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 6, "atom": "女 五七(35) 陽明脈衰", "carrier": "글로만", "xywh": null, "count_dir_touch": "여자 위의 흐려진 해 1개는 있으나 陽明脈과 이어지지 않음", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-05", "n": 6, "atom": "面始焦", "carrier": "거울을 든 여자의 다크서클 있는 칙칙한 얼굴", "xywh": [1634, 353, 198, 482], "count_dir_touch": "여자1 거울1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 6, "atom": "髮始墮", "carrier": "여자가 한 손에 쥔 빠진 머리카락 가닥", "xywh": [1643, 533, 60, 69], "count_dir_touch": "가닥 여러 올, 손에 닿음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 6, "atom": "男 五八(40) 腎氣衰", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 6, "atom": "髮墮齒槁", "carrier": "M자로 벗겨진 이마 선과 누렇게 마른 이를 드러낸 놀란 남자", "xywh": [1608, 972, 215, 378], "count_dir_touch": "남자1 이 열 개 남짓 누런색", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 7, "atom": "女 六七(42) 三陽脈衰於上", "carrier": "머리 위의 꺼져 연기 나는 회색 해 셋", "xywh": [1892, 241, 249, 112], "count_dir_touch": "해 3, 머리 위쪽", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 7, "atom": "面皆焦", "carrier": "주름과 다크서클 칙칙한 얼굴의 42세 여자", "xywh": [1935, 344, 172, 464], "count_dir_touch": "여자1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 7, "atom": "髮始白", "carrier": "정수리 가르마에 난 흰 머리 한 줄", "xywh": [1961, 353, 86, 69], "count_dir_touch": "흰 줄 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 7, "atom": "男 六八(48) 陽氣衰竭於上", "carrier": "머리 위 꺼진 회색 해 한 개", "xywh": [1978, 886, 69, 69], "count_dir_touch": "해 1, 위쪽", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 7, "atom": "髮鬢頒白", "carrier": "귀밑머리까지 회색인 머리, 손으로 관자놀이를 짚음", "xywh": [1892, 972, 215, 396], "count_dir_touch": "남자1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 8, "atom": "女 七七(49) 任脈虛", "carrier": "금 간 빈 화분(속이 비어 있음)", "xywh": [2382, 636, 120, 120], "count_dir_touch": "화분1 금", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-05", "n": 8, "atom": "太衝脈衰少", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 8, "atom": "天癸竭", "carrier": "남자 물병에서 떨어지는 마지막 물방울(남녀 공통 天癸竭의 물건)", "xywh": [2176, 1170, 112, 103], "count_dir_touch": "방울 2 안팎", "obj_missing": "女 쪽 天癸竭 따로 표시 없음", "confidence": "낮음"}
+{"lesson": "new-jq-05", "n": 8, "atom": "地道不通", "carrier": "여자 옆 돌로 막힌 마른 수로", "xywh": [2494, 714, 258, 181], "count_dir_touch": "수로1 돌로 막힘", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 8, "atom": "男 七八(56) 肝氣衰", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 8, "atom": "筋不能動", "carrier": "지팡이를 짚고 몸이 굳어 굽은 56세 남자", "xywh": [2167, 998, 258, 387], "count_dir_touch": "남자1 지팡이1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 8, "atom": "天癸竭·精少", "carrier": "남자 손의 푸른 물병에서 물이 한두 방울만 떨어짐", "xywh": [2176, 1170, 112, 103], "count_dir_touch": "병1 방울 2 안팎", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 9, "atom": "男 八八(64) 齒髮去", "carrier": "머리털 없는 대머리, 이가 거의 없는 노인", "xywh": [2520, 1006, 172, 396], "count_dir_touch": "노인1", "obj_missing": "이가 모두 빠졌는지는 확인 불가(입 작게 웃음)", "confidence": "낮음"}
+{"lesson": "new-jq-05", "n": 9, "atom": "五臟皆衰", "carrier": "발치의 꺼져 가는 색깔 등불 다섯 개(연기)", "xywh": [2442, 1238, 292, 275], "count_dir_touch": "등불 5(초록·빨강·주황·노랑·파랑)", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-05", "n": 9, "atom": "남자 8단계 단독", "carrier": "여자 없이 아래 줄에만 선 남자(위 칸은 비어 있음)", "xywh": [2410, 1005, 335, 530], "count_dir_touch": "남자1, 여자 0", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-12", "n": 1, "atom": "廣義 자연측면", "carrier": "하늘: 왼쪽은 해가 뜬 낮, 오른쪽은 초승달과 별의 밤", "xywh": [577, 0, 1471, 288], "count_dir_touch": "해1 [833,32,169,167] 달1 [1780,65,108,120] 별 8개 안팎", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-12", "n": 1, "atom": "천지만물 현상의 규율·주재", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-12", "n": 1, "atom": "陰陽不測謂之神", "carrier": "낮(해)과 밤(달)이 한 하늘에 이어짐", "xywh": [577, 0, 1471, 288], "count_dir_touch": "해1 달1 방향 왼 낮 → 오른 밤", "obj_missing": "不測(헤아릴 수 없음)은 글로만", "confidence": "낮음"}
+{"lesson": "new-jq-12", "n": 2, "atom": "廣義 인간측면", "carrier": "오른쪽 위 노래하며 춤추는 마을 사람", "xywh": [1698, 401, 245, 366], "count_dir_touch": "사람1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-12", "n": 2, "atom": "생명활동의 외재 표현", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-12", "n": 2, "atom": "面色", "carrier": "발그레한 볼", "xywh": [1798, 448, 90, 90], "count_dir_touch": "볼 2 붉음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-12", "n": 2, "atom": "眼神", "carrier": "반짝 크게 뜬 눈", "xywh": [1798, 448, 90, 90], "count_dir_touch": "눈 2 크게 뜸", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-12", "n": 2, "atom": "언어", "carrier": "벌린 입과 머리 옆 음표", "xywh": [1747, 403, 205, 64], "count_dir_touch": "음표 2([1747,416,40,45],[1894,403,45,45])", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-12", "n": 2, "atom": "지체활동", "carrier": "두 팔 들고 한 다리를 든 춤 동작", "xywh": [1698, 401, 245, 366], "count_dir_touch": "팔 2 올림, 다리 1 듦", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-12", "n": 3, "atom": "狹義 사유측면", "carrier": "턱을 괴고 생각하는 임금 머리 위 켜진 전구", "xywh": [1088, 454, 173, 321], "count_dir_touch": "임금1 전구1 [1165,467,45,50]", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-12", "n": 3, "atom": "心이 주재하는 정신·사유활동", "carrier": "글로만", "xywh": null, "count_dir_touch": "임금이 心이라는 표시는 없음(붉은 방은 7번)", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-12", "n": 3, "atom": "廣義 = 외재 표현", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-12", "n": 4, "atom": "變化不測謂之神", "carrier": "왼쪽 하늘에서 제단 뒤로 내리꽂히는 번개", "xywh": [507, 0, 365, 565], "count_dir_touch": "번개 1 위→아래, 제단 부근에서 번쩍", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-12", "n": 4, "atom": "神者水穀之精氣也(靈樞 平人絶穀)", "carrier": "제단 위 흰 쌀밥 그릇과 과일 제물", "xywh": [320, 464, 300, 225], "count_dir_touch": "밥그릇 1~2 과일 6개 안팎", "obj_missing": "水(물) 낱말은 그림에 없음(곡식만)", "confidence": "낮음"}
+{"lesson": "new-jq-12", "n": 5, "atom": "得神者昌", "carrier": "환한 등불을 들고 웃으며 꼿꼿이 선 남자", "xywh": [1352, 724, 323, 369], "count_dir_touch": "남자1 등불1(켜짐), 손이 등 손잡이를 쥠", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-12", "n": 5, "atom": "失神者亡(素問 移精變氣論)", "carrier": "연기 나는 꺼진 등 옆에 잿빛 얼굴로 쓰러진 남자", "xywh": [1640, 920, 375, 193], "count_dir_touch": "남자1 등1(꺼짐, 연기 한 줄)", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-12", "n": 6, "atom": "心者 君主之官", "carrier": "붉은 방 옥좌의 금관 임금", "xywh": [1088, 454, 173, 321], "count_dir_touch": "임금1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-12", "n": 6, "atom": "神明出焉(素問 靈蘭祕典論)", "carrier": "임금에게서 사방으로 뻗는 금빛 빛살", "xywh": [1000, 455, 350, 330], "count_dir_touch": "빛살 12줄 안팎, 임금 몸에서 바깥 방향", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-12", "n": 7, "atom": "絳宮爲神之舍(心)", "carrier": "당집 아래층 새빨간 방", "xywh": [948, 421, 461, 369], "count_dir_touch": "방1 붉음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-12", "n": 7, "atom": "泥丸爲神之府(腦)", "carrier": "당집 위층 둥근 흙 다락과 그 안의 등불", "xywh": [954, 141, 432, 274], "count_dir_touch": "다락1 등불1", "obj_missing": "머리 모양은 낮은 확신", "confidence": "낮음"}
+{"lesson": "new-jq-12", "n": 7, "atom": "黃庭", "carrier": "글로만", "xywh": null, "count_dir_touch": "노란 마당·뜰 표시 없음(흙 다락은 泥丸 쪽)", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-12", "n": 8, "atom": "水之精爲志", "carrier": "돌우물과 우물가에서 과녁을 겨누는 대머리 장사", "xywh": [386, 646, 352, 438], "count_dir_touch": "우물1 [98,862,308,222] 장사1 과녁1 [761,651,121,167]", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-12", "n": 8, "atom": "火之精爲神", "carrier": "당집 오른쪽의 활활 타는 화로", "xywh": [1496, 415, 208, 323], "count_dir_touch": "화로1 불 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-12", "n": 8, "atom": "腎藏志·心藏神", "carrier": "글로만", "xywh": null, "count_dir_touch": "腎·心이 들고 있다는 담김 관계는 없음(물건 두 쌍이 따로 놓임)", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-12", "n": 8, "atom": "출전 黃元御 素問懸解", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-13", "n": 1, "atom": "兩精相搏謂之神(靈樞 本神)", "carrier": "빛나는 흰 주먹밥 둘이 맞부딪혀 불꽃이 튀고 그 위 종이 등불이 켜짐", "xywh": [288, 353, 346, 235], "count_dir_touch": "주먹밥 2, 불꽃 1(부딪힘 있음), 등불 1 [427,133,112,202] 켜짐, 방향 불꽃 → 위 등불", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-13", "n": 1, "atom": "兩神相搏 = 精(決氣)과 엇갈림", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-13", "n": 2, "atom": "隨神往來者謂之魂(靈樞 本神)", "carrier": "장대 등불을 들고 걷는 남자와 그 뒤를 따르는 구름 귀신", "xywh": [814, 242, 324, 337], "count_dir_touch": "남자1 등불1 구름 귀신1 [1084,248,202,182], 귀신이 남자 뒤(오른쪽)에서 따라옴", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-13", "n": 3, "atom": "並精而出入者謂之魄", "carrier": "쌀자루를 진 남자와 자루를 같이 받쳐 든 흰 보자기 귀신", "xywh": [231, 709, 444, 360], "count_dir_touch": "남자1 쌀자루1(쌀 보임) 귀신1, 귀신 손이 자루 밑에 닿음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-13", "n": 3, "atom": "魂이 아님(함정)", "carrier": "글로만", "xywh": null, "count_dir_touch": "구름 귀신(회청색 뭉게)과 흰 보자기 귀신은 생김새가 달라 구별은 되나 '함정' 자체는 없음", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-13", "n": 4, "atom": "魂 = 神氣之輔弼", "carrier": "구름 귀신이 등불 든 남자 바로 뒤에서 곁을 따름", "xywh": [1084, 248, 202, 182], "count_dir_touch": "귀신1", "obj_missing": "받쳐 줌: 귀신 팔이 남자 등에 닿는지는 낮은 확신", "confidence": "낮음"}
+{"lesson": "new-jq-13", "n": 4, "atom": "魄 = 精氣之匡佐", "carrier": "흰 귀신이 쌀자루를 함께 들어 줌", "xywh": [421, 781, 254, 225], "count_dir_touch": "귀신1 자루 밑에 손", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-13", "n": 4, "atom": "神 = 精氣之化成", "carrier": "주먹밥(精)이 부딪혀 불꽃이 나 등불(神)을 켬", "xywh": [288, 353, 346, 235], "count_dir_touch": "주먹밥 2 → 불꽃 → 등불1", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-13", "n": 4, "atom": "意 = 記而不忘", "carrier": "손가락에 붉은 실을 묶는 밀짚모자 농부", "xywh": [1381, 747, 222, 337], "count_dir_touch": "농부1 실 1줄 손가락에 닿음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-13", "n": 4, "atom": "志 = 專意不移", "carrier": "벽의 과녁 하나를 노려보는 대머리 장사", "xywh": [1626, 709, 300, 355], "count_dir_touch": "장사1 과녁1(오른쪽 벽) [1894,806,60,100]", "obj_missing": "시선 방향이 과녁인지는 중간 확신", "confidence": "낮음"}
+{"lesson": "new-jq-13", "n": 5, "atom": "魂 = 如夢寐恍惚", "carrier": "자는 남자 위 소용돌이 꿈 풍선 속 구름 귀신", "xywh": [1449, 133, 411, 288], "count_dir_touch": "자는 남자1 [1387,440,504,148] 꿈 풍선1 귀신1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-13", "n": 5, "atom": "변환·유행의 정신활동", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-13", "n": 6, "atom": "魄 = 能動能作", "carrier": "남자가 한 발로 펄쩍 뛰며 움직임", "xywh": [1006, 738, 236, 326], "count_dir_touch": "남자1 한 발 듦", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-13", "n": 6, "atom": "痛癢由之而覺", "carrier": "흰 귀신이 든 깃털(간지럼)과 은 바늘(따끔), 남자 몸 곳곳의 붉은 표시", "xywh": [973, 860, 77, 64], "count_dir_touch": "깃털1 바늘1, 붉은 표시 4~5곳", "obj_missing": "깃털·바늘이 발에 닿는 순간인지는 낮은 확신", "confidence": "낮음"}
+{"lesson": "new-jq-13", "n": 6, "atom": "본능적 감각·동작", "carrier": "찌르자 반사로 뛰며 찡그린 얼굴", "xywh": [1006, 738, 236, 326], "count_dir_touch": "남자1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-14", "n": 1, "atom": "사유 순서 心→意→志→思→慮→智", "carrier": "아랫층에 왼쪽에서 오른쪽으로 서 있는 여섯 인물(왕→기록자→구슬 고정→톱니→망원경→상자 여는 노인)", "xywh": [50, 790, 2665, 740], "count_dir_touch": "인물 6, 방향 왼→오른쪽, 앞 사람의 물건이 다음 사람에게 이어짐(구슬·기둥·톱니·망원경·상자)", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-14", "n": 1, "atom": "意·志 순서 함정", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-14", "n": 2, "atom": "所以任物者謂之心", "carrier": "가슴에 붉은 심장을 단 임금이 청록 보물상자를 두 팔로 품에 안음", "xywh": [55, 895, 555, 625], "count_dir_touch": "임금1 상자1 팔 2가 상자를 감쌈(닿음 있음) 심장1 [318,1118,100,100]", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-14", "n": 3, "atom": "心有所憶謂之意", "carrier": "임금 심장에서 황금 빛줄기로 날아와 기록자 손에 든 황금 구슬", "xywh": [378, 1006, 344, 155], "count_dir_touch": "구슬1 빛줄기 1, 방향 심장→기록자", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-14", "n": 3, "atom": "記而不忘者謂之意", "carrier": "노트에 펜으로 별을 그려 적는 기록자와 쓰레기통에 버려진 지우개", "xywh": [495, 980, 465, 540], "count_dir_touch": "노트1 별 1 지우개 1(통 안)", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-14", "n": 4, "atom": "意之所存謂之志", "carrier": "황금 구슬을 돌좌대에 단단히 고정한 인물", "xywh": [989, 963, 456, 516], "count_dir_touch": "구슬1 좌대1, 두 손이 구슬에 닿음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-14", "n": 4, "atom": "專意而不移者謂之志", "carrier": "바람 선이 몰아쳐도 서서 구슬을 붙든 인물", "xywh": [989, 963, 456, 516], "count_dir_touch": "바람선 4~5줄", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-14", "n": 4, "atom": "意已決而卓有所立", "carrier": "발치 나무 망치와 우뚝 선 황금 기둥", "xywh": [1221, 800, 404, 722], "count_dir_touch": "망치1 [1221,1402,170,95] 기둥1 [1453,800,172,697]", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-14", "n": 5, "atom": "因志而存變謂之思", "carrier": "앞 단계 황금 기둥에 한 손을 댄 채 톱니바퀴·색깔 큐브를 굴리는 인물", "xywh": [1445, 800, 516, 688], "count_dir_touch": "기둥1 손이 기둥에 닿음 톱니 4~5 큐브 8개 안팎", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-14", "n": 6, "atom": "因思而遠慕謂之慮", "carrier": "앞 단계 톱니바퀴를 손에 쥐고 창밖 먼 황금 산을 망원경으로 보는 인물", "xywh": [1926, 834, 456, 688], "count_dir_touch": "톱니1 손에 쥠 망원경1 산1 [2180,860,200,270]", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-14", "n": 7, "atom": "因慮而處物謂之智", "carrier": "망원경을 팔에 끼고 보석 든 청록 상자를 여는 노인", "xywh": [2275, 975, 455, 555], "count_dir_touch": "노인1 망원경1 팔에 낌 상자1 열림 보석 여러 개", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-14", "n": 8, "atom": "肝 = 충동경향(관능·운동)", "carrier": "초록 갑옷 장군이 신나서 앞으로 크게 내딛음", "xywh": [30, 80, 895, 655], "count_dir_touch": "장군1", "obj_missing": "'관능' 낱말은 글로만, 활기찬 동작만", "confidence": "낮음"}
+{"lesson": "new-jq-14", "n": 8, "atom": "계획 수립·창작", "carrier": "칠판에 도형과 화살표로 그린 계획도", "xywh": [112, 112, 499, 447], "count_dir_touch": "칠판1 도형 5(네모 3, 동그라미 2) 화살표 6줄 안팎", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-14", "n": 9, "atom": "脾 = 융화경향(비교분석·심사숙고)", "carrier": "돋보기로 퍼즐 조각을 들여다보는 농부", "xywh": [970, 175, 795, 555], "count_dir_touch": "농부1 돋보기1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-14", "n": 9, "atom": "기억을 통합·자기화", "carrier": "여러 색 퍼즐 조각이 한 그림으로 맞춰진 책상 위", "xywh": [1152, 456, 464, 103], "count_dir_touch": "퍼즐 조각 20개 안팎, 한 판으로 맞춰짐", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-14", "n": 10, "atom": "腎 = 창조경향(작강관능·배설)", "carrier": "글로만", "xywh": null, "count_dir_touch": "대머리 장사와 검은 금고뿐, 창조·배설 표시 없음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-14", "n": 10, "atom": "최종 결정·저장", "carrier": "서류에 붉은 도장을 꾹 눌러 찍는 장사 / 열린 검은 금고 안 두루마리", "xywh": [1865, 115, 875, 620], "count_dir_touch": "도장1 손으로 누름(닿음 있음), 서류1 붉은 도장 자국1, 금고1 두루마리 7개 안팎", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-06", "n": 1, "atom": "氣 = 형체 없이 끊임없이 운동", "carrier": "시루에서 정해진 모양 없이 소용돌이치며 오르는 흰 김", "xywh": [259, 0, 1701, 663], "count_dir_touch": "김 덩어리 갈래 여러 개, 위쪽 방향, 소용돌이 말림 5곳 안팎", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-06", "n": 1, "atom": "몸을 이루고 생명활동 유지하는 기본 물질", "carrier": "글로만", "xywh": null, "count_dir_touch": "김이 몸이나 생명활동에 쓰인다는 표시 없음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-06", "n": 2, "atom": "有形의 氣 = 臟", "carrier": "흰 떡으로 빚은 하트와 콩팥 모양", "xywh": [6, 570, 186, 192], "count_dir_touch": "떡 2(하트 [10,572,185,190], 콩팥 [215,570,135,185])", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-06", "n": 2, "atom": "有形의 氣 = 腑", "carrier": "흰 떡으로 빚은 위장 모양", "xywh": [346, 538, 122, 154], "count_dir_touch": "떡1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-06", "n": 2, "atom": "有形의 氣 = 竅", "carrier": "눈 모양 흰 떡(눈동자 있음)", "xywh": [64, 819, 192, 128], "count_dir_touch": "떡1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-06", "n": 2, "atom": "有形의 氣 = 精·血·津液", "carrier": "흰 물방울 모양 떡 둘(하나는 울퉁불퉁)", "xywh": [275, 736, 237, 166], "count_dir_touch": "떡 2(精·血·津液 셋에 비해 2)", "obj_missing": "물방울 떡 2개뿐이라 셋을 나눠 나르지 못함, 붉은 피 색도 없음", "confidence": "낮음"}
+{"lesson": "new-jq-06", "n": 3, "atom": "無形의 氣 = 元氣", "carrier": "시루에서 오르는 흰 김 갈래", "xywh": [259, 0, 1701, 663], "count_dir_touch": "김 갈래 3~5(이름 구분 없음)", "obj_missing": "세 氣를 구별하는 표시 없음", "confidence": "낮음"}
+{"lesson": "new-jq-06", "n": 3, "atom": "宗氣", "carrier": "글로만", "xywh": null, "count_dir_touch": "김 갈래 사이를 가르는 이름·색 없음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-06", "n": 3, "atom": "衛氣", "carrier": "글로만", "xywh": null, "count_dir_touch": "같음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-06", "n": 4, "atom": "先天之精(腎)", "carrier": "검은 단지 곁에서 집게로 숯을 아궁이에 넣는 대머리 남자(검은 옷)", "xywh": [566, 718, 359, 395], "count_dir_touch": "남자1 단지1 숯 6~7덩이, 집게가 숯에 닿음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-06", "n": 4, "atom": "水穀之氣(脾胃)", "carrier": "시루에 쌀을 쏟아 붓는 밀짚모자 농부", "xywh": [1056, 242, 258, 517], "count_dir_touch": "농부1 자루1 쌀줄 1, 쌀이 시루 안으로 들어감", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-06", "n": 4, "atom": "淸氣(肺)", "carrier": "풀무로 바람을 넣는 흰 수염 흰옷 노인", "xywh": [1201, 566, 373, 510], "count_dir_touch": "노인1 풀무1, 풀무 입이 화덕 쪽(왼쪽)을 향함", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-06", "n": 5, "atom": "組成成分", "carrier": "곡식·씨앗이 든 바구니", "xywh": [1600, 672, 160, 102], "count_dir_touch": "바구니1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-06", "n": 5, "atom": "分布部位", "carrier": "작은 집 모형이 든 바구니", "xywh": [1754, 653, 134, 96], "count_dir_touch": "바구니1 집1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-06", "n": 5, "atom": "機能特性", "carrier": "둥근 방패가 든 바구니", "xywh": [1907, 678, 122, 122], "count_dir_touch": "바구니1 방패1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 1, "atom": "推動", "carrier": "피스톤 막대가 구동 바퀴를 미는 장치", "xywh": [1449, 713, 382, 151], "count_dir_touch": "바퀴 2 큰 것, 막대 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 1, "atom": "溫煦", "carrier": "열린 화실 안 주황 불꽃", "xywh": [1510, 627, 77, 77], "count_dir_touch": "불꽃 1덩이", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 1, "atom": "防禦", "carrier": "기관차 맨 앞 빨간 배장기(선로 장애물을 밀어냄)", "xywh": [1818, 730, 141, 128], "count_dir_touch": "장치1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 1, "atom": "固攝", "carrier": "차량 사이 쇠사슬 고리", "xywh": [314, 728, 78, 115], "count_dir_touch": "사슬 5곳 [314,728,78,115] [569,728,48,79] [819,728,43,79] [1041,728,40,79] [1228,728,40,79]", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 1, "atom": "氣化", "carrier": "보일러·돔과 굴뚝에서 나는 증기", "xywh": [1607, 396, 252, 288], "count_dir_touch": "보일러1 굴뚝1 증기 구름 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 1, "atom": "營養", "carrier": "탄수차 석탄 더미와 삽", "xywh": [1248, 538, 166, 154], "count_dir_touch": "석탄 더미1 삽1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 2, "atom": "推動 — 생장발육·장부활동", "carrier": "글로만", "xywh": null, "count_dir_touch": "바퀴가 도는 것뿐, 몸·장부 표시 없음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 2, "atom": "血 생성·운행, 津液 수포", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 2, "atom": "부족 → 血瘀", "carrier": "글로만", "xywh": null, "count_dir_touch": "피스톤이 멈추거나 막힌 장면 없음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 3, "atom": "溫煦 — 氣主煦之(難經)", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 3, "atom": "체온 유지(心火·脾陽·腎陽·命門火)", "carrier": "화실의 불 하나와 운전석 기관사", "xywh": [1427, 483, 216, 231], "count_dir_touch": "불 1 (心·脾·腎·命門 네 불을 나누는 표시 없음)", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-07", "n": 3, "atom": "부족 → 寒", "carrier": "글로만", "xywh": null, "count_dir_touch": "꺼진 화실·추운 장면 없음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 4, "atom": "防禦 — 衛氣가 肌表 호위", "carrier": "기관차 맨 앞 몸 바깥쪽에 달린 빨간 배장기", "xywh": [1818, 730, 141, 128], "count_dir_touch": "장치1, 맨 앞", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 4, "atom": "腠理 開闔 조절", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 4, "atom": "邪氣所湊 其氣必虛", "carrier": "선로를 가로지른 나뭇가지와 흩어진 돌(邪로 짐작되는 장애물)", "xywh": [1792, 666, 243, 288], "count_dir_touch": "가지1 돌 3 안팎", "obj_missing": "其氣必虛(虛한 곳에 모임)은 글로만", "confidence": "낮음"}
+{"lesson": "new-jq-07", "n": 5, "atom": "固攝 — 血·汗·尿·精液이 새지 않게", "carrier": "차량을 사슬로 묶음 / 새는 차량 셋(붉은 탱크·물탱크·진주 화차)은 8·9·10번 칸", "xywh": [314, 728, 914, 115], "count_dir_touch": "사슬 5", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-07", "n": 5, "atom": "統攝", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 5, "atom": "대표 예 脾統血", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 6, "atom": "氣化", "carrier": "보일러 · 굴뚝에서 피어오르는 흰 증기 구름", "xywh": [1059, 50, 749, 368], "count_dir_touch": "증기 한 줄기 길게", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 6, "atom": "陽化氣 陰成形", "carrier": "글로만", "xywh": null, "count_dir_touch": "증기(氣)는 있으나 陰이 형체를 이루는 장면 없음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 6, "atom": "精·氣·血·津液의 생성·대사", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 6, "atom": "相互轉化", "carrier": "석탄 → 화실 불 → 보일러 → 증기로 이어지는 차례", "xywh": [1218, 389, 822, 476], "count_dir_touch": "단계 4, 방향 탄수차 → 기관차 → 위", "obj_missing": "상호(서로 오감)가 아니라 한 방향", "confidence": "낮음"}
+{"lesson": "new-jq-07", "n": 7, "atom": "營養 — 氣者 精神之根蔕也", "carrier": "탄수차 석탄 더미 위로 삽이 석탄을 떠 올림", "xywh": [1218, 432, 202, 418], "count_dir_touch": "삽1 석탄 덩이 3~4", "obj_missing": "根蔕는 글로만", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 8, "atom": "固攝 실조① 氣不攝血", "carrier": "금 간 빨간 탱크 차량", "xywh": [1067, 591, 180, 324], "count_dir_touch": "차량1 금 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 8, "atom": "출혈", "carrier": "금 틈에서 선로로 뚝뚝 떨어진 붉은 액체 웅덩이", "xywh": [1170, 860, 50, 45], "count_dir_touch": "방울 3 안팎 웅덩이 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 9, "atom": "固攝 실조② 津液失攝", "carrier": "투명 물탱크 차량의 헐거운 수도꼭지에서 새는 물", "xywh": [847, 588, 212, 277], "count_dir_touch": "수도꼭지 2 물줄기 2", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 9, "atom": "유뇨", "carrier": "글로만", "xywh": null, "count_dir_touch": "소변 표시 없음(물만 샘)", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 9, "atom": "야뇨", "carrier": "글로만", "xywh": null, "count_dir_touch": "하늘이 낮이라 밤이 아님", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 9, "atom": "한출", "carrier": "글로만", "xywh": null, "count_dir_touch": "물이 새는 것뿐, 땀과 소변 구별 없음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 10, "atom": "固攝 실조③ 氣不攝精", "carrier": "흰 진주를 실은 화차 옆문", "xywh": [602, 562, 248, 353], "count_dir_touch": "화차1 옆문 열림 진주 흘러내림 40알 안팎", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 10, "atom": "유정", "carrier": "옆문으로 흘러내리는 진주", "xywh": [690, 820, 60, 110], "count_dir_touch": "진주 줄 1", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-07", "n": 10, "atom": "활정", "carrier": "글로만", "xywh": null, "count_dir_touch": "유정과 구별되는 흐름 없음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 10, "atom": "조설", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 11, "atom": "固攝 실조④ 腎不納氣", "carrier": "검은 화차 위 큰 깔때기와 가는 관", "xywh": [353, 396, 440, 454], "count_dir_touch": "깔때기1 가는 관1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 11, "atom": "천식", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 11, "atom": "呼多吸少", "carrier": "큰 나팔 깔때기에서 넓게 쏟아지는 바람 / 옆 가는 관의 가는 줄기 하나", "xywh": [461, 429, 128, 160], "count_dir_touch": "큰 바람 줄 5~6, 가는 관1 [435,531,19,58] 줄기 1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 12, "atom": "固攝 실조⑤ 장기를 못 잡음", "carrier": "바닥이 꺼져 처진 부서진 나무 화차와 떨어진 자루", "xywh": [43, 605, 368, 360], "count_dir_touch": "차량1 처진 바닥 [77,691,243,141]", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 12, "atom": "위하수", "carrier": "글로만", "xywh": null, "count_dir_touch": "처진 바닥은 있으나 위(胃) 표시 없음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 12, "atom": "탈항", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-07", "n": 12, "atom": "탈음", "carrier": "글로만", "xywh": null, "count_dir_touch": "바닥에 떨어진 자루 둘 [179,832,51,58] [230,896,70,64]이 셋 중 둘에 해당할 수는 있으나 구분 표시 없음", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-07", "n": 12, "atom": "固攝 대상에서 빼는 카드도 있음", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-08", "n": 1, "atom": "氣機 = 升·降·出·入", "carrier": "글로만", "xywh": null, "count_dir_touch": "네 낱말을 합치는 하나의 표시는 없음(위쪽 네 장면이 따로 놓임)", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-08", "n": 1, "atom": "升", "carrier": "기수를 들고 이륙하는 왼쪽 비행기", "xywh": [79, 86, 411, 159], "count_dir_touch": "비행기1 기수 위", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-08", "n": 1, "atom": "降", "carrier": "기수를 숙여 착륙하는 오른쪽 비행기", "xywh": [1614, 159, 382, 219], "count_dir_touch": "비행기1 기수 아래", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-08", "n": 1, "atom": "出", "carrier": "왼쪽 문 앞 노란 셔틀버스에 오르는 사람 셋", "xywh": [288, 378, 447, 167], "count_dir_touch": "사람 3 버스1", "obj_missing": "터미널에서 나온 것인지 방향은 낮은 확신", "confidence": "낮음"}
+{"lesson": "new-jq-08", "n": 1, "atom": "入", "carrier": "두 문으로 줄지어 들어가는 여행객(가방 끎)", "xywh": [728, 372, 235, 150], "count_dir_touch": "왼쪽 문 줄 7명 안팎, 오른쪽 문 줄 [1088,360,418,187] 14명 안팎", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-08", "n": 2, "atom": "氣滯 = 氣機 失暢·阻滯", "carrier": "꼬리를 물고 선 비행기 다섯 줄", "xywh": [7, 559, 393, 572], "count_dir_touch": "비행기 5 한 줄", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-08", "n": 2, "atom": "치법 疏通(行氣)", "carrier": "맨 앞 주황 조끼 유도원이 양손 유도봉을 들어 비행기를 이끎", "xywh": [154, 998, 109, 128], "count_dir_touch": "유도원1 봉 2", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-08", "n": 2, "atom": "氣行則血行", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-08", "n": 2, "atom": "氣滯則血瘀", "carrier": "글로만", "xywh": null, "count_dir_touch": "血 표시 없음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-08", "n": 3, "atom": "氣逆 = 上升 太過", "carrier": "기수를 세우고 치솟는 비행기", "xywh": [415, 565, 370, 538], "count_dir_touch": "비행기1 기수 거의 수직", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-08", "n": 3, "atom": "下降 不及", "carrier": "글로만", "xywh": null, "count_dir_touch": "내려오지 못함은 밧줄이 당길 뿐 그림에 '못 내림' 표시 없음", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-08", "n": 3, "atom": "치법 降氣", "carrier": "비행기 꼬리에 맨 밧줄을 지상 요원 셋이 아래로 당김", "xywh": [429, 819, 198, 275], "count_dir_touch": "요원 3 밧줄1 꼬리에 매임, 방향 아래", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-08", "n": 3, "atom": "肺 咳喘", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-08", "n": 3, "atom": "胃 噯氣嘔逆", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-08", "n": 4, "atom": "氣陷 = 淸氣가 처져 升擧 못함", "carrier": "배가 진흙 구덩이에 빠진 비행기", "xywh": [797, 594, 428, 476], "count_dir_touch": "비행기1 진흙 [819,973,294,90]", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-08", "n": 4, "atom": "치법 升提", "carrier": "노란 크레인이 띠로 묶어 비행기를 들어 올림", "xywh": [986, 608, 237, 320], "count_dir_touch": "크레인1 띠 2가닥", "obj_missing": "들어 올려지는 중이나 아직 진흙에 박힘", "confidence": "높음"}
+{"lesson": "new-jq-08", "n": 4, "atom": "위하수", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-08", "n": 4, "atom": "탈항", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-08", "n": 4, "atom": "탈음", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-08", "n": 5, "atom": "氣脫 = 氣虛 극심", "carrier": "문마다 펴진 비상 슬라이드", "xywh": [1232, 656, 404, 428], "count_dir_touch": "슬라이드 3 안팎(문마다 다 펴졌는지는 낮은 확신)", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-08", "n": 5, "atom": "안을 못 지켜 밖으로 離散", "carrier": "사방으로 흩어지는 승객들", "xywh": [1261, 730, 358, 256], "count_dir_touch": "승객 14명 안팎, 사방", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-08", "n": 5, "atom": "氣絶 임박", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-08", "n": 5, "atom": "치법 固攝", "carrier": "직원들이 양끝을 잡아 펴든 큰 그물", "xywh": [1280, 966, 256, 90], "count_dir_touch": "직원 2 그물1", "obj_missing": "그물이 승객을 붙드는 장면은 아님(바닥에 펼침)", "confidence": "낮음"}
+{"lesson": "new-jq-08", "n": 6, "atom": "氣閉 = 鬱結·閉塞", "carrier": "굵은 사슬과 큰 자물쇠로 잠긴 격납고 문", "xywh": [1664, 691, 384, 256], "count_dir_touch": "사슬 2 이상 교차 자물쇠1 [1830,870,51,77]", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-08", "n": 6, "atom": "치법 開泄", "carrier": "절단기로 사슬을 끊는 일꾼, 문틈으로 터져 나오는 먼지 공기", "xywh": [1709, 781, 300, 256], "count_dir_touch": "일꾼1 절단기1(사슬에 닿음) 먼지 덩이 2([1645,781,128,128] 밖, 문 안)", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-09", "n": 1, "atom": "元氣 = 腎中精氣(先天之精)에서 化生", "carrier": "대머리 장사가 빛나는 흰 쌀 자루를 노심에 쏟아 넣음, 노심이 빛남", "xywh": [382, 187, 295, 310], "count_dir_touch": "장사1 자루1 쌀줄 1(자루→노심), 노심 [320,430,190,240] 발광", "obj_missing": "腎(콩팥) 낱말은 없음, 쌀=精으로만 연결", "confidence": "높음"}
+{"lesson": "new-jq-09", "n": 2, "atom": "三焦者 元氣之別使也", "carrier": "송전탑 셋과 맨 앞 탑을 타고 오르는 삽 멘 주황 작업복 인부", "xywh": [800, 58, 915, 721], "count_dir_touch": "탑 3([1011,58,218,696] [1363,83,141,448] [1606,109,84,326]), 인부1 [1131,392,125,202]", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-09", "n": 2, "atom": "難經 66難", "carrier": "탑 발치의 주사위 두 개, 6과 6", "xywh": [1160, 660, 159, 82], "count_dir_touch": "주사위 2(6·6)", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-09", "n": 2, "atom": "三焦를 타고 온몸에", "carrier": "탑 사이 굵은 전선이 오른쪽 집·가로등 쪽으로 이어짐", "xywh": [800, 58, 1250, 500], "count_dir_touch": "전선 여러 가닥, 방향 왼→오른쪽", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-09", "n": 3, "atom": "命門者 諸神精之所舍", "carrier": "붉은 금고 안의 등불 셋과 흰 쌀자루 더미", "xywh": [360, 713, 598, 356], "count_dir_touch": "등불 3([448,794,45,64] [525,755,51,64] [582,794,45,64]) 쌀자루 6개 안팎", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-09", "n": 3, "atom": "元氣之所繫也", "carrier": "노심에 매듭지어 묶인 금빛 밧줄이 돔 벽을 타고 금고문까지 내려옴", "xywh": [320, 538, 436, 576], "count_dir_touch": "밧줄 1 매듭 1 [448,576,64,64], 양끝이 노심과 금고문에 닿음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-09", "n": 3, "atom": "命門爲元氣之本(景岳全書)", "carrier": "글로만", "xywh": null, "count_dir_touch": "밧줄이 매인 금고가 본(뿌리)이라는 표시는 없음", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-09", "n": 3, "atom": "難經 36難", "carrier": "돔 발치 주사위 둘, 3과 6", "xywh": [144, 847, 159, 86], "count_dir_touch": "주사위 2(3·6)", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-09", "n": 4, "atom": "생명 原動力", "carrier": "글로만", "xywh": null, "count_dir_touch": "발전소 노심이 동력이긴 하나 '생명'을 가리키는 표시 없음", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-09", "n": 4, "atom": "생장발육·생식", "carrier": "환한 등불 아래 자라는 유리 온실의 어린 새싹들", "xywh": [1636, 713, 385, 365], "count_dir_touch": "새싹 14줄기 안팎 등 3", "obj_missing": "생식은 글로만", "confidence": "높음"}
+{"lesson": "new-jq-09", "n": 4, "atom": "장부경락 활동 推動", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-09", "n": 4, "atom": "이명 眞氣·原氣·生氣(充氣 X)", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-09", "n": 5, "atom": "臟腑之氣·經絡之氣의 물질기초 = 元氣", "carrier": "창마다 불이 켜진 다섯 색 집(초록·빨강·노랑·하양·반쯤 걸친 짙은 회색)", "xywh": [1391, 378, 657, 379], "count_dir_touch": "집 5(초록 [1395,550,192,205] 빨강 [1555,493,179,186] 노랑 [1677,467,166,179] 하양 [1843,410,166,160] 회색 [1997,384,51,90])", "obj_missing": "臟腑 구분은 글로만(집 5, 臟腑 11 아님)", "confidence": "낮음"}
+{"lesson": "new-jq-09", "n": 5, "atom": "經絡之氣 = 眞氣·經氣", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-09", "n": 6, "atom": "元氣 = 경락이 機能·活動하는 基礎", "carrier": "굽은 흙길을 따라 환히 켜진 가로등 셋", "xywh": [1297, 545, 721, 481], "count_dir_touch": "가로등 3 켜짐(길 1) [1325,698,32,192] [1568,787,45,218] [1997,550,32,166]", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-09", "n": 6, "atom": "宗氣 = 순환을 미는 原動力", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-10", "n": 1, "atom": "宗氣 = 肺의 淸氣 + 脾胃의 水穀精氣", "carrier": "노인이 입으로 부는 하늘색 바람 + 농부가 든 김 나는 쌀 쟁반, 둘이 가운데서 금빛 구름으로 모임", "xywh": [540, 334, 841, 394], "count_dir_touch": "갈래 2(바람 [634,425,411,187], 쌀 김 [1197,410,58,90]) → 구름1 [847,334,331,259]", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-10", "n": 1, "atom": "胸中(膻中·氣海)에 모인 後天之氣", "carrier": "대청 한가운데에 모인 금빛 구름", "xywh": [847, 334, 331, 259], "count_dir_touch": "구름1", "obj_missing": "胸·膻中·氣海 같은 몸 자리는 글로만(구름은 마루 가운데에 떠 있음)", "confidence": "낮음"}
+{"lesson": "new-jq-10", "n": 2, "atom": "宗氣 積於胸中 出於喉嚨", "carrier": "금빛 구름과 노인 입에서 나가는 푸른 바람", "xywh": [640, 429, 403, 179], "count_dir_touch": "구름1 바람1, 방향 입 → 오른쪽", "obj_missing": "喉嚨(목구멍)은 입으로만", "confidence": "낮음"}
+{"lesson": "new-jq-10", "n": 2, "atom": "以貫心脈而行呼吸", "carrier": "통나무로 종을 치는 남자(심장 박동 짐작) / 노인이 부는 숨", "xywh": [1438, 483, 208, 336], "count_dir_touch": "남자1 통나무1(종에 닿음) 종 1", "obj_missing": "呼吸은 날숨만, 心脈과 숨이 이어진 표시 없음", "confidence": "낮음"}
+{"lesson": "new-jq-10", "n": 2, "atom": "두 갈래", "carrier": "푸른 바람과 쌀 김 두 줄기가 구름으로 모임", "xywh": [847, 334, 331, 259], "count_dir_touch": "갈래 2", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-10", "n": 3, "atom": "走息道 — 호흡·언어·성음", "carrier": "큰 종이 떨리며 울리는 소리(호선 · 음표)와 종 옆에서 입을 크게 벌려 노래하는 소년", "xywh": [1698, 793, 161, 320], "count_dir_touch": "소년1 입 벌림 음표 3~4([1734,640,109,128]) 떨림 호선 2~3줄", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-10", "n": 4, "atom": "出於肺 循喉嚨", "carrier": "흰 옷 노인의 입에서 길게 나가는 하늘색 바람", "xywh": [634, 425, 411, 187], "count_dir_touch": "노인1 바람 1줄 방향 입 → 오른쪽", "obj_missing": "肺는 글로만", "confidence": "낮음"}
+{"lesson": "new-jq-10", "n": 4, "atom": "故呼則出 吸則入(靈樞 五味)", "carrier": "글로만", "xywh": null, "count_dir_touch": "날숨만 있고 들숨(吸) 장면 없음", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-10", "n": 4, "atom": "走息道", "carrier": "노인이 풀무를 쥐고 입으로 부는 바람길", "xywh": [540, 411, 324, 317], "count_dir_touch": "풀무1 [640,627,205,102]", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-10", "n": 5, "atom": "貫心脈 行氣血", "carrier": "통나무로 큰 종을 치는 남자(종에 닿음)", "xywh": [1446, 582, 192, 96], "count_dir_touch": "남자1 통나무1", "obj_missing": "行氣血의 血은 6·7번 붉은 물, 여기에는 없음", "confidence": "높음"}
+{"lesson": "new-jq-10", "n": 5, "atom": "心搏(脈搏)의 강약·규율을 主", "carrier": "종 몸통에서 퍼지는 떨림 호선", "xywh": [1603, 640, 70, 240], "count_dir_touch": "호선 3줄", "obj_missing": "박자의 일정함은 한 장면이라 확인 불가", "confidence": "낮음"}
+{"lesson": "new-jq-10", "n": 6, "atom": "宗氣留于海", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-10", "n": 6, "atom": "其下者注於氣街(靈樞 刺節眞邪)", "carrier": "마루 앞 끝에서 기단 벽을 타고 아래로 흘러내리는 붉은 물", "xywh": [46, 718, 682, 303], "count_dir_touch": "물줄기 1(폭포식), 방향 아래", "obj_missing": "氣街 자리는 글로만", "confidence": "높음"}
+{"lesson": "new-jq-10", "n": 6, "atom": "貫心脈 쪽", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-10", "n": 7, "atom": "경락 循環의 原動力 = 宗氣", "carrier": "종 치는 박자와 붉은 물이 이어지는 장면(서로 떨어져 있음)", "xywh": [46, 718, 1600, 303], "count_dir_touch": "종과 붉은 물이 둘 다 있으나 잇는 선 없음", "obj_missing": "원동력(밀어 줌)이 그림에 안 나옴", "confidence": "낮음"}
+{"lesson": "new-jq-10", "n": 7, "atom": "氣血 운행의 推進에너지", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-10", "n": 7, "atom": "基礎는 元氣", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-10", "n": 8, "atom": "胃之大絡", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-10", "n": 8, "atom": "名曰虛里", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-10", "n": 8, "atom": "出於左乳下", "carrier": "초록 치마 여인이 큰 종 몸통 왼쪽 아래에 손바닥을 댐", "xywh": [1606, 755, 64, 64], "count_dir_touch": "여인1 손바닥 2 종에 닿음", "obj_missing": "종의 '왼쪽 아래'는 보이나 乳下 연결은 글로만", "confidence": "낮음"}
+{"lesson": "new-jq-10", "n": 8, "atom": "其動應衣", "carrier": "글로만", "xywh": null, "count_dir_touch": "옷이 떨리는 표시 없음(종 호선만)", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-10", "n": 8, "atom": "脈宗氣也", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-10", "n": 9, "atom": "虛里 按之應手", "carrier": "여인이 손바닥으로 누른 종의 떨림이 손에 전해짐", "xywh": [1606, 755, 64, 64], "count_dir_touch": "손 2 종에 닿음, 호선 2~3줄", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-10", "n": 9, "atom": "動而不緊 緩而不急", "carrier": "글로만", "xywh": null, "count_dir_touch": "호선이 적고 부드럽다는 인상뿐, 재 볼 수 없음", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-10", "n": 9, "atom": "無病(宗氣가 胸中에 잘 쌓임)", "carrier": "편안한 얼굴의 여인", "xywh": [1420, 675, 241, 418], "count_dir_touch": "여인1 미소", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-10", "n": 10, "atom": "虛里 其動微而不見", "carrier": "떨림 표시 없이 조용한 작은 종", "xywh": [1920, 525, 96, 128], "count_dir_touch": "종1 호선 0", "obj_missing": "먼지 낀 모습은 보이지 않음(그냥 어두운 청동 종)", "confidence": "높음"}
+{"lesson": "new-jq-10", "n": 10, "atom": "不及(宗氣 부족)", "carrier": "작은 종 아랫단을 만진 시무룩한 얼굴의 여인", "xywh": [1920, 717, 109, 397], "count_dir_touch": "여인1 손 1 종에 닿음 [1914,640,32,51]", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-11", "n": 1, "atom": "營 — 水穀之精氣", "carrier": "노란 앞치마 요리사가 냄비의 맑은 파란 물을 부음", "xywh": [1055, 401, 187, 251], "count_dir_touch": "요리사1 냄비1 물줄기 1 → 바닥 물길", "obj_missing": "곡식(穀)은 없고 맑은 물뿐", "confidence": "높음"}
+{"lesson": "new-jq-11", "n": 1, "atom": "營 — 脈中을 행함", "carrier": "텐트 안 바닥에 둥글게 파인 물길 속 물", "xywh": [718, 487, 630, 236], "count_dir_touch": "물길 1 고리", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-11", "n": 1, "atom": "營 — 血 化生·전신 營養", "carrier": "부은 자리에서 물이 빨갛게 변해 감", "xywh": [1049, 512, 298, 209], "count_dir_touch": "붉은 구간 1(고리 오른쪽·위)", "obj_missing": "전신 營養은 글로만", "confidence": "낮음"}
+{"lesson": "new-jq-11", "n": 1, "atom": "異名 營血·營陰", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-11", "n": 2, "atom": "淸者爲營 濁者爲衛", "carrier": "텐트 안 맑은 파란 물 대 울타리 밖 흙 얼룩진 갈색 개", "xywh": [718, 487, 630, 236], "count_dir_touch": "물길1(맑음), 개 4 중 흙 얼룩은 위쪽 둘", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-11", "n": 2, "atom": "營在脈中 衛在脈外", "carrier": "물길은 텐트 안, 개는 둥근 나무 울타리 밖", "xywh": [141, 291, 1793, 793], "count_dir_touch": "안쪽 고리1, 바깥 개 4, 울타리 1바퀴", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-11", "n": 3, "atom": "營氣 — 津液을 脈에 부어 血로 化", "carrier": "부은 자리부터 물이 차츰 빨갛게 되는 물길", "xywh": [1049, 512, 298, 209], "count_dir_touch": "붓는 곳 1, 파랑 → 빨강 구간", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-11", "n": 4, "atom": "營氣 — 如環無端", "carrier": "텐트 바닥의 시작도 끝도 없는 둥근 물길", "xywh": [718, 487, 630, 236], "count_dir_touch": "고리1", "obj_missing": "색이 파랑에서 빨강으로 바뀌어 시작·끝 구분이 되기도 함", "confidence": "높음"}
+{"lesson": "new-jq-11", "n": 4, "atom": "營氣 — 四肢分肉之間을 두루", "carrier": "글로만", "xywh": null, "count_dir_touch": "사지·살 표시 없음(고리 안쪽 바닥만)", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-11", "n": 5, "atom": "衛氣 — 水穀之悍氣", "carrier": "이를 드러내고 사납게 달리는 갈색 개", "xywh": [141, 767, 366, 317], "count_dir_touch": "개 4([213,291,265,210] [141,767,366,317] [1617,724,317,340] [1453,242,251,159])", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-11", "n": 5, "atom": "衛氣 — 慓疾滑利", "carrier": "개 뒤로 끌리는 속도선과 앞으로 내뻗은 다리", "xywh": [1617, 724, 317, 340], "count_dir_touch": "속도선 개마다 2~4줄", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-11", "n": 5, "atom": "衛氣 — 脈外", "carrier": "물길 밖, 울타리 바깥을 도는 개들", "xywh": [141, 291, 1793, 793], "count_dir_touch": "개 4 울타리 밖", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-11", "n": 6, "atom": "衛氣 — 外邪 방어", "carrier": "갈색 개가 숲 가장자리의 회색 늑대를 쫓아냄", "xywh": [1453, 242, 251, 159], "count_dir_touch": "개1 늑대1 [1689,248,254,187], 늑대가 오른쪽 숲으로 달아남", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-11", "n": 6, "atom": "異名 衛陽", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-11", "n": 6, "atom": "異名 浮氣", "carrier": "글로만", "xywh": null, "count_dir_touch": "", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-11", "n": 6, "atom": "異名 濁氣", "carrier": "흙 얼룩진 개 몸", "xywh": [213, 291, 265, 210], "count_dir_touch": "개 2 얼룩", "obj_missing": "", "confidence": "낮음"}
+{"lesson": "new-jq-11", "n": 7, "atom": "衛氣 — 溫分肉", "carrier": "모닥불과 곁 통나무에 앉은 사람", "xywh": [983, 675, 444, 294], "count_dir_touch": "불1 사람1", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-11", "n": 7, "atom": "衛氣 — 充皮膚", "carrier": "매끈하게 부풀어 팽팽한 텐트 천", "xywh": [569, 123, 879, 360], "count_dir_touch": "천 1장", "obj_missing": "", "confidence": "높음"}
+{"lesson": "new-jq-11", "n": 7, "atom": "衛氣 — 肥腠理", "carrier": "두툼한 누빔 바닥 매트", "xywh": [637, 476, 807, 329], "count_dir_touch": "매트1", "obj_missing": "腠理와의 연결은 낮은 확신", "confidence": "낮음"}
+{"lesson": "new-jq-11", "n": 7, "atom": "衛氣 — 司開闔", "carrier": "V자로 열린 텐트 지퍼와 손잡이를 쥔 손", "xywh": [1265, 329, 274, 395], "count_dir_touch": "지퍼1 손1 [1434,506,102,58] 손잡이에 닿음", "obj_missing": "", "confidence": "높음"}

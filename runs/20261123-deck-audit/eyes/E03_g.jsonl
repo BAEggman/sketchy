@@ -1,0 +1,274 @@
+{"lesson": "new-uk-03", "n": 1, "j": 0, "seen": "천막 스크린 윗칸: 그물 해먹 하나, 검은 그림자 어른 둘이 손잡고 아이 하나, 새싹과 잎, 집(창에 불빛), 해와 구름", "count": "그림자 사람 3(어른2 아이1), 해 1, 집 1, 그물 1, 새싹 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-03", "n": 1, "j": 1, "seen": "안경 쓴 헝클어진 머리 남자가 무릎 꿇고 뿌리째 뽑은 어린 풀 한 포기를 쥐고 있음, 표정은 걱정스러움", "count": "사람 1, 풀 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "new-uk-03", "n": 2, "j": 0, "seen": "웃는 얼굴 불꽃 해 인형을 오른손에, 웃는 얼굴 푸른 반짝 달 인형을 왼손에 낀 남자, 옆에 김 나는 얼음덩이와 램프, 쿠키 모양 갈색 인형", "count": "인형 2, 얼음 1, 램프 1, 갈색 인형 1", "text_or_numbers": "없음", "arrows_tables_signs": "김(연기) 가닥", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-03", "n": 3, "j": 0, "seen": "스크린 아랫칸: 마주 선 검은 그림자 남자와 여자, 가운데 물방울 하나와 불꽃 하나, 두 갈래로 갈라지는 길", "count": "그림자 사람 2, 물방울 1, 불꽃 1, 갈림길 1", "text_or_numbers": "없음", "arrows_tables_signs": "갈림길 화살표 모양 길", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-03", "n": 4, "j": 0, "seen": "얼음덩이가 녹아 물이 고여 있고 그 위로 김이 피어오름, 옆에 램프 불빛, 웃는 갈색 쿠키 인형, 해·달 인형 든 남자", "count": "얼음 1, 램프 1, 쿠키 인형 1", "text_or_numbers": "없음", "arrows_tables_signs": "김", "size": "보통", "confidence": "높음"}
+{"lesson": "new-uk-03", "n": 5, "j": 0, "seen": "여자가 밥 담은 그릇을 들어 올리고 다른 그릇도 하나 더 들고 있음(옷에 달 무늬), 항아리 셋, 투구 쓴 수염 기사가 해 무늬 방패를 들고 문 앞에 서 있음, 바람 소용돌이 무늬", "count": "그릇 2, 항아리 3, 사람 2, 방패 1", "text_or_numbers": "없음", "arrows_tables_signs": "바람 소용돌이 선", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-03", "n": 6, "j": 0, "seen": "유리 회전문, 낙엽이 문 위와 바닥에 흩날림, 문틈으로 푸른 바람", "count": "문 1", "text_or_numbers": "없음", "arrows_tables_signs": "바람 선", "size": "작음", "confidence": "높음"}
+{"lesson": "new-uk-03", "n": 6, "j": 1, "seen": "벽에 걸린 검은 쇠 랜턴, 불 꺼져 있음", "count": "랜턴 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "작음", "confidence": "높음"}
+{"lesson": "new-uk-03", "n": 6, "j": 2, "seen": "알록달록 색 옷의 꼭두각시 인형이 매달린 나무 단 위에서 팔을 벌리고 휘청거림, 놀란 표정, 흔들림 선", "count": "인형 1", "text_or_numbers": "없음", "arrows_tables_signs": "흔들림 선", "size": "보통", "confidence": "높음"}
+{"lesson": "new-uk-03", "n": 7, "j": 0, "seen": "스크린 윗칸 전체(그물 해먹, 가족 그림자, 새싹, 집, 해)", "count": "1장면", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-03", "n": 7, "j": 1, "seen": "해·달 인형 든 남자, 김 나는 얼음, 램프, 쿠키 인형", "count": "한 무더기", "text_or_numbers": "없음", "arrows_tables_signs": "김", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-03", "n": 7, "j": 2, "seen": "스크린 아랫칸 전체(마주 선 그림자 둘, 물방울, 불꽃, 갈림길)", "count": "1장면", "text_or_numbers": "없음", "arrows_tables_signs": "갈림길", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-03", "n": 7, "j": 3, "seen": "해·달 인형 든 남자와 얼음, 쿠키 인형(세로로 좁게 자른 것)", "count": "한 무더기", "text_or_numbers": "없음", "arrows_tables_signs": "김", "size": "보통", "confidence": "높음"}
+{"lesson": "new-uk-03", "n": 7, "j": 4, "seen": "밥그릇 든 여자, 항아리, 방패 든 기사, 문", "count": "사람 2", "text_or_numbers": "없음", "arrows_tables_signs": "바람", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-03", "n": 7, "j": 5, "seen": "회전문과 낙엽, 방패 가장자리", "count": "문 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "작음", "confidence": "높음"}
+{"lesson": "new-uk-03", "n": "scene", "one_scene": true, "crowded": false, "seams": "없음", "lowres": false, "note": "한 창고 안에 가운데 큰 천막 스크린과 둘레 소품이 놓인 한 장면. 칸이 좀 많아 보이나 질서 있음. 7번은 앞 장면을 다시 크게 묶은 상자"}
+{"lesson": "new-uk-05", "n": 1, "j": 0, "seen": "얼음이 덮이고 고드름 달린 오두막. 안에서 담요를 뒤집어쓴 사람이 떨고 있음, 작은 난로에 불씨 약하게, 위에 쇠 주전자/통, 앞에 큰 통나무를 안은 파란 모자 일꾼", "count": "사람 2, 난로 1, 통나무 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 1, "j": 1, "seen": "눈 덮인 나무 오두막. 안이 빨갛고 런닝 차림 남자가 땀 흘리며 부채질, 옆에서 일꾼이 양동이 물을 남자 쪽으로 붓고 있음, 아래 나무 물통", "count": "사람 2, 부채 1, 양동이 1, 물통 1", "text_or_numbers": "없음", "arrows_tables_signs": "김(땀 물결선)", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 1, "j": 2, "seen": "빨갛게 달아오른 오두막, 굴뚝, 문 안쪽에서 큰 불꽃이 활활 타는 난로, 창문과 문에 나무판자 X자로 막음, 창에 갇힌 개 한 마리, 호스로 물을 뿌리는 일꾼", "count": "불 1, 개 1, 호스 1", "text_or_numbers": "없음", "arrows_tables_signs": "열기 물결선", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 1, "j": 3, "seen": "한쪽이 투명한 오두막 안에 얼음 덩어리가 가득 쌓이고 빨간 배관이 지나감, 파란 옷 남자가 팔짱 끼고 떨고 있음, 바깥에 삽으로 얼음 푸는 일꾼, 빨간 난방기 든 털모자 일꾼", "count": "사람 1(안), 얼음 약 12", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 2, "j": 0, "seen": "얼음 오두막 전체: 담요 쓴 사람, 난로, 통, 통나무 든 일꾼", "count": "사람 2", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 2, "j": 1, "seen": "작은 검은 쇠 난로, 작은 불꽃이 유리창에 보이고 연통에 가는 연기 한 줄, 주변 얼음", "count": "난로 1, 불꽃 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 2, "j": 2, "seen": "눈이 쌓인 작은 나무 굴뚝 뚜껑 같은 사각 구조물", "count": "1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "작음", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 2, "j": 3, "seen": "런닝 차림 남자가 땀 흘리며 손부채를 흔들고 있음, 머리 위 물결선, 양동이 물줄기가 발 쪽으로", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "물결선", "size": "보통", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 3, "j": 0, "seen": "불길 치솟는 난로와 판자 X로 막힌 창과 문, 창 속에 개가 얼굴을 내밀음", "count": "불 1, 개 1, 판자 여러 장", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 3, "j": 1, "seen": "판자 사이로 내다보는 갈색 개, 불안한 표정", "count": "개 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 3, "j": 2, "seen": "얼음 덩어리가 겹겹이 쌓인 방, 오른쪽 팔짱 낀 남자", "count": "얼음 약 12, 사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 3, "j": 3, "seen": "빨간 배관에 고드름이 맺히고 남자가 팔짱 끼고 몸을 움츠림, 입김/떨림 선", "count": "사람 1, 관 1", "text_or_numbers": "없음", "arrows_tables_signs": "떨림선", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 3, "j": 4, "seen": "팔짱 낀 파란 점퍼 남자 확대, 겁먹은 표정", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 4, "j": 0, "seen": "통나무 든 일꾼, 양동이로 물을 나무통에 붓는 일꾼, 빨간 모자 일꾼, 초록 호스", "count": "사람 3, 통나무 1, 양동이 1, 통 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 4, "j": 1, "seen": "호스, 장작 실은 손수레 미는 일꾼, 삽으로 얼음 푸는 일꾼, 빨간 난방기 옆 털모자 일꾼", "count": "사람 4, 손수레 1, 얼음 3, 난방기 1", "text_or_numbers": "없음", "arrows_tables_signs": "난방기 바람선", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 5, "j": 0, "seen": "빨간 모자 일꾼이 호스로 물을 뿜음, 옆에 장작 실은 손수레", "count": "사람 1~2, 장작 약 8", "text_or_numbers": "없음", "arrows_tables_signs": "물줄기", "size": "보통", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 5, "j": 1, "seen": "털모자 수염 일꾼이 빨간 격자 난방기 곁에 서 있고 바람선, 발치에 얼음덩이", "count": "사람 1, 난방기 1", "text_or_numbers": "없음", "arrows_tables_signs": "바람선", "size": "보통", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 5, "j": 2, "seen": "파란 모자 일꾼이 큰 통나무를 안고 걸어감", "count": "사람 1, 통나무 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 5, "j": 3, "seen": "일꾼이 양동이를 들어 물을 큰 나무통에 쏟아 넣음", "count": "사람 1, 양동이 1, 통 1", "text_or_numbers": "없음", "arrows_tables_signs": "물줄기", "size": "보통", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 6, "j": 0, "seen": "통나무를 옆구리에 안고 걷는 파란 모자 일꾼", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 6, "j": 1, "seen": "얼음 덮인 오두막과 담요 쓴 사람", "count": "오두막 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 6, "j": 2, "seen": "양동이 물을 통에 붓는 일꾼", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "물줄기", "size": "보통", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 6, "j": 3, "seen": "눈 덮인 오두막 안 부채질하는 런닝 남자", "count": "오두막 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 7, "j": 0, "seen": "얼음 오두막 전체", "count": "1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 7, "j": 1, "seen": "눈 덮인 오두막과 부채질 남자", "count": "1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 7, "j": 2, "seen": "불타는 판자막이 오두막", "count": "1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 7, "j": 3, "seen": "얼음 가득한 오두막과 팔짱 낀 남자", "count": "1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 7, "j": 4, "seen": "왼쪽 일꾼들(통나무, 양동이, 통)", "count": "3", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": 7, "j": 5, "seen": "오른쪽 일꾼들(호스, 손수레, 삽, 난방기)", "count": "4", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-05", "n": "scene", "one_scene": true, "crowded": false, "seams": "없음", "lowres": false, "note": "눈 덮인 마을에 오두막 네 채가 나란히, 앞에 일꾼 줄. 한 장면, 안정적. 7번은 전체 재상자"}
+{"lesson": "yyox-03", "n": 1, "j": 0, "seen": "짙은 녹색 갑옷에 상투 머리 남자가 풀밭에 서서 한 손에 칼을 아래로 쥐고, 등에 다른 칼집, 굳은 표정", "count": "사람 1, 칼 1~2", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-03", "n": 2, "j": 0, "seen": "풀밭에 새순 돋은 나무 두 그루(한 그루는 구부러져 휘고 한 그루는 곧음), 솜털 달린 가지 덤불", "count": "나무 2, 덤불 2", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-03", "n": 3, "j": 0, "seen": "해가 빛나는 아래 왕관과 붉은 용무늬 옷 남자가 나무 의자에 앉아 있음", "count": "사람 1, 해 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-03", "n": 4, "j": 0, "seen": "통나무 위에서 활활 타는 모닥불, 불똥", "count": "불 1, 통나무 약 6", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-03", "n": 5, "j": 0, "seen": "노란 옷 소년/남자가 나무 창고 문을 열고 서 있음, 안에 자루가 쌓였고 밖에 자루 하나", "count": "사람 1, 자루 여러 개", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-03", "n": 6, "j": 0, "seen": "갈아 놓은 밭 위에 묶은 누런 이삭 단 둘과 낫 하나", "count": "이삭 단 2, 낫 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-03", "n": 7, "j": 0, "seen": "하얀 긴 수염, 흰 긴 옷 노인이 두 팔을 뒤로 하고 서 있음, 낙엽 날리고 바람선", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "바람선", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-03", "n": 8, "j": 0, "seen": "모루 위 벌겋게 달군 구부러진 쇠막대와 망치, 낙엽", "count": "모루 1, 망치 1, 쇠 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-03", "n": 9, "j": 0, "seen": "검은 몸에 붙는 옷의 대머리 남자가 머리 위로 큰 돌을 두 손으로 들고 있음, 눈 덮인 배경", "count": "사람 1, 돌 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-03", "n": 10, "j": 0, "seen": "눈 속 돌계단 위로 폭포가 떨어져 둥근 검은 물웅덩이로 고임", "count": "폭포 1, 웅덩이 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-03", "n": 11, "j": 0, "seen": "갑옷 남자와 풀밭, 나무(첫 칸 전체)", "count": "1칸", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-03", "n": 11, "j": 1, "seen": "해 아래 왕과 모닥불(둘째 칸 전체)", "count": "1칸", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-03", "n": 11, "j": 2, "seen": "창고 소년과 이삭 단, 낫(셋째 칸 전체)", "count": "1칸", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-03", "n": 11, "j": 3, "seen": "흰 노인과 모루(넷째 칸 전체)", "count": "1칸", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-03", "n": 11, "j": 4, "seen": "검은 옷 남자와 폭포(다섯째 칸 전체)", "count": "1칸", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-03", "n": "scene", "one_scene": false, "crowded": false, "seams": "세로 다섯 칸이 짙은 녹색 울타리 띠로 뚜렷이 나뉨(의도된 칸막이 같음)", "lowres": false, "note": "한 장면이 아니라 다섯 장면을 나란히 붙인 구성. 칸마다 위에 사람, 아래에 물건. 칸 사이 배경색이 확 바뀜"}
+{"lesson": "yyox-04", "n": 1, "j": 0, "seen": "남자가 물뿌리개로 물을 쏟아 나무 쪽으로 뿌림, 나무 줄기에 도끼가 박혀 있음, 옆에 삽 꽂힌 흙더미", "count": "사람 1, 나무 1, 도끼 1", "text_or_numbers": "없음", "arrows_tables_signs": "물줄기", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-04", "n": 2, "j": 0, "seen": "큰 나무 줄기에 도끼가 박혀 있고 물줄기가 옆으로 떨어짐", "count": "나무 1, 도끼 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-04", "n": 2, "j": 1, "seen": "나무 울타리 같은 걸이에 도끼 두 자루와 낫 두 자루(휜 날)가 걸려 있음, 하얀 바탕", "count": "도끼 2, 낫 2", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-04", "n": 3, "j": 0, "seen": "흰 네모 판 위에 검은 점 1개, 검은 남색 바닥", "count": "점 1", "text_or_numbers": "점 1개", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-04", "n": 3, "j": 1, "seen": "검은 남색 바닥에 둥근 푸른 물웅덩이, 옆에 물뿌리개 든 남자 일부", "count": "웅덩이 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-04", "n": 4, "j": 0, "seen": "빨간 바닥 위 흰 네모 판 위에 검은 점 2개", "count": "점 2", "text_or_numbers": "점 2개", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-04", "n": 4, "j": 1, "seen": "빨간 바닥 위 통나무 모닥불, 불꽃", "count": "불 1, 통나무 약 6", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-04", "n": 5, "j": 0, "seen": "초록 바닥 위 흰 네모 판 위에 검은 점 3개(대각선 줄)", "count": "점 3", "text_or_numbers": "점 3개", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-04", "n": 5, "j": 1, "seen": "나무 한 그루에 도끼가 박혀 있고 물줄기가 떨어짐", "count": "나무 1, 도끼 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-04", "n": 6, "j": 0, "seen": "하얀 바닥 위 흰 네모 판 위에 검은 점 4개(네 귀퉁이)", "count": "점 4", "text_or_numbers": "점 4개", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-04", "n": 6, "j": 1, "seen": "도끼와 낫이 걸린 나무 걸이, 아래에 점 판 일부", "count": "도끼 2, 낫 2", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-04", "n": 7, "j": 0, "seen": "노란 둥근 터에 흰 네모 판 위에 검은 점 5개(네 귀퉁이와 가운데), 옆에 삽 꽂힌 누런 흙더미", "count": "점 5, 흙더미 1, 삽 1", "text_or_numbers": "점 5개", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-04", "n": 8, "j": 0, "seen": "흰 네모 판 위에 검은 점 1개, 남색 바닥", "count": "점 1", "text_or_numbers": "점 1", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-04", "n": 8, "j": 1, "seen": "흰 네모 판 위에 검은 점 2개, 빨간 바닥", "count": "점 2", "text_or_numbers": "점 2", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-04", "n": 8, "j": 2, "seen": "흰 네모 판 위에 검은 점 3개, 초록 바닥", "count": "점 3", "text_or_numbers": "점 3", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-04", "n": 8, "j": 3, "seen": "흰 네모 판 위에 검은 점 4개, 하얀 바닥", "count": "점 4", "text_or_numbers": "점 4", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-04", "n": 8, "j": 4, "seen": "흰 네모 판 위에 검은 점 5개, 노란 바닥", "count": "점 5", "text_or_numbers": "점 5", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-04", "n": 9, "j": 0, "seen": "남색 바닥의 둥근 물웅덩이", "count": "1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-04", "n": 9, "j": 1, "seen": "빨간 바닥의 모닥불", "count": "1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-04", "n": 9, "j": 2, "seen": "초록 바닥의 나무에 박힌 도끼와 물줄기", "count": "1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-04", "n": 9, "j": 3, "seen": "하얀 바닥의 도끼·낫 걸이", "count": "1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-04", "n": 9, "j": 4, "seen": "노란 바닥의 점 판과 흙더미, 삽", "count": "1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-04", "n": "scene", "one_scene": true, "crowded": false, "seams": "없음. 단 네 쪽 + 가운데 원이 대각선 경계(울타리 덤불)로 다섯 색 구역으로 갈림", "lowres": false, "note": "위에서 내려다본 다섯 구역(남·빨강·초록·흰·노랑). 한 장면이나 구역 경계가 뚜렷. 구역마다 주사위 같은 점 판이 놓임"}
+{"lesson": "new-uk-07", "n": 1, "j": 0, "seen": "왕관 쓴 수염 왕이 눈을 감고 볼을 불룩하게 해 입으로 숨을 길게 내뿜음, 한 손은 가슴에, 펼친 책 앞", "count": "사람 1, 숨 구름 2~3", "text_or_numbers": "없음", "arrows_tables_signs": "김/바람선", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-07", "n": 1, "j": 1, "seen": "왕의 볼이 부풀고 입을 오므려 하얀 숨 구름을 내뿜음", "count": "입김 구름 2", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "new-uk-07", "n": 2, "j": 0, "seen": "긴 흰 수염 노인이 힘들어 보이는 표정으로 손수건으로 코를 막고, 양옆으로 숨 구름이 나옴, 땀방울", "count": "사람 1, 손수건 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-07", "n": 3, "j": 0, "seen": "초록 갑옷 청년이 책상에 엎드려 눈 감고 입 벌려 침을 흘림, 옆에 굵은 곡선 세 줄(소리 표시)", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "곡선 3줄(소리 같은)", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-07", "n": 3, "j": 1, "seen": "검은 곡선 세 줄이 겹쳐 바깥으로 퍼지는 모양", "count": "곡선 3", "text_or_numbers": "없음", "arrows_tables_signs": "호 모양 선", "size": "작음", "confidence": "높음"}
+{"lesson": "new-uk-07", "n": 4, "j": 0, "seen": "밀짚모자 쓴 농부가 목을 한 손으로 움켜쥐고 얼굴을 찡그림, 책 위에 반 자른 레몬", "count": "사람 1, 레몬 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-07", "n": 4, "j": 1, "seen": "펼친 책 위에 놓인 반 자른 노란 레몬", "count": "레몬 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "작음", "confidence": "높음"}
+{"lesson": "new-uk-07", "n": 5, "j": 0, "seen": "대머리 근육 남자가 입을 크게 벌려 재채기, 침방울이 앞으로 퍼짐, 한 손은 목, 한 손에 휴지", "count": "사람 1, 휴지 1", "text_or_numbers": "없음", "arrows_tables_signs": "점 뿌림", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-07", "n": 5, "j": 1, "seen": "휴지곽 한 개, 구겨진 휴지 뭉치 3, 물컵 1, 펼친 책", "count": "휴지곽 1, 구긴 휴지 3, 컵 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "new-uk-07", "n": 6, "j": 0, "seen": "요리사 모자 쓴 사람이 놀란 눈으로 입에서 작은 김을 내뿜음, 한 손을 배에 댐", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "김", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-07", "n": 6, "j": 1, "seen": "빨간 얼굴의 초록 법복 남자가 이를 악물고 주먹으로 책상을 쳐 번쩍이는 별 모양, 머리 위 번개 선, 양쪽 귀에서 김, 옆에 저울", "count": "사람 1, 저울 1", "text_or_numbers": "없음", "arrows_tables_signs": "번개선, 폭발 모양", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-07", "n": 7, "j": 0, "seen": "왕 한 칸", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-07", "n": 7, "j": 1, "seen": "흰 수염 노인 한 칸", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-07", "n": 7, "j": 2, "seen": "초록 갑옷 엎드린 청년 한 칸, 소리 곡선", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "곡선", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-07", "n": 7, "j": 3, "seen": "밀짚모자 농부 한 칸, 레몬", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-07", "n": 7, "j": 4, "seen": "재채기 남자 한 칸", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-07", "n": 7, "j": 5, "seen": "요리사 한 칸", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "김", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-07", "n": 7, "j": 6, "seen": "화난 법복 남자 한 칸", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "번개선", "size": "큼", "confidence": "높음"}
+{"lesson": "new-uk-07", "n": "scene", "one_scene": true, "crowded": false, "seams": "없음", "lowres": false, "note": "도서관 긴 책상에 일곱 사람이 나란히 앉아 각자 다른 증상을 보임, 뒤에 사서 할머니가 팔짱. 한 장면이고 정돈됨. 사람 일곱이라 약간 많지만 간격 넉넉"}
+{"lesson": "yyox-07", "n": 1, "j": 0, "seen": "노란 옷 남자가 머리띠를 두르고 의자에 앉아 두 손으로 배를 감싸 쥐고 괴로운 표정", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-07", "n": 1, "j": 1, "seen": "낮은 나무 탁자(상)과 흰옷 노인의 손이 탁자 위에 놓임", "count": "탁자 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-07", "n": 1, "j": 2, "seen": "붉은 용무늬 옷 남자가 침상에 모로 누워 한쪽 팔로 머리를 괴고, 다리 쪽에서 휘어진 흰 줄 네 가닥이 아래로 휘두르듯 그려짐", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "휘두름 선 4", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-07", "n": 2, "j": 0, "seen": "쇠창살(세로 기둥들) 뒤에 초록 갑옷 군인이 이를 악물고 창을 앞으로 내밂", "count": "사람 1, 창 1", "text_or_numbers": "없음", "arrows_tables_signs": "창살 막대 여러 개", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-07", "n": 2, "j": 1, "seen": "까만 한복 대머리 남자가 기둥에 등이 닿은 채 서서 손은 뒤로 하고 힘없는 표정", "count": "사람 1, 기둥 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-07", "n": 3, "j": 0, "seen": "머리띠 두르고 앉아 배를 감싼 노란 옷 남자(위로 붉은 옷 남자의 휘두름 선이 걸침)", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "휘두름 선", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-07", "n": 3, "j": 1, "seen": "침상 위 누워 있는 붉은 옷 남자와 휘두르는 흰 줄 네 가닥", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "선 4", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-07", "n": 4, "j": 0, "seen": "흰 줄 네 가닥이 날아가는 베개 쪽으로 이어지고 베개가 공중에 뜸", "count": "베개 1", "text_or_numbers": "없음", "arrows_tables_signs": "선 4", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-07", "n": 5, "j": 0, "seen": "흰 옷 흰 수염 노인이 몸을 숙여 한 손은 탁자에 짚고 한 손은 앞으로 뻗어 굴러오는 검은 공을 막으려 함, 공은 계단 위 높이에 있음", "count": "사람 1, 검은 공 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-07", "n": 6, "j": 0, "seen": "쇠창살 안에서 창을 내미는 초록 갑옷 군인, 오른쪽에 흰옷 노인 일부", "count": "사람 1, 창 1", "text_or_numbers": "없음", "arrows_tables_signs": "창살", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-07", "n": 7, "j": 0, "seen": "까만 옷 대머리 남자가 한 손은 뒤로 하고 한 손으로 왼쪽 땅을 가리킴, 땅에 작은 돌 한 개", "count": "사람 1, 돌 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-07", "n": 8, "j": 0, "seen": "배를 감싸 앉은 노란 옷 남자(위에 붉은 옷 남자)", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-07", "n": 9, "j": 0, "seen": "붉은 옷 남자 휘두름과 날아가는 베개, 앉은 남자", "count": "베개 1", "text_or_numbers": "없음", "arrows_tables_signs": "선", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-07", "n": 9, "j": 1, "seen": "흰옷 노인과 검은 공", "count": "공 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-07", "n": 9, "j": 2, "seen": "쇠창살 속 창 든 군인", "count": "1", "text_or_numbers": "없음", "arrows_tables_signs": "창살", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-07", "n": 9, "j": 3, "seen": "까만 옷 남자가 땅을 가리키고 돌이 있음", "count": "1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-07", "n": 9, "j": 4, "seen": "앉은 노란 옷 남자", "count": "1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-07", "n": "scene", "one_scene": true, "crowded": false, "seams": "없음", "lowres": false, "note": "한옥 마당에 대청마루. 인물 다섯이 서로 다른 일을 하는 한 장면. 안정적"}
+{"lesson": "yyox-08", "n": 1, "j": 0, "seen": "초록 갑옷 작은 아이가 두 주먹을 번쩍 들고 웃으며 서 있고, 노란 옷 아이가 모래 원 안에 뒤로 넘어져 앉아 있음, 흰 노인이 갑옷 아이의 허리띠를 뒤에서 잡아당김", "count": "사람 3", "text_or_numbers": "없음", "arrows_tables_signs": "원(모래판 테두리)", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-08", "n": 2, "j": 0, "seen": "흰 옷 흰 수염 노인이 두 손으로 초록 갑옷 아이의 허리띠를 잡고 끌어당기는 자세, 표정은 걱정", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-08", "n": 3, "j": 0, "seen": "까만 정장 대머리 아저씨가 벤치에 앉아 주먹 쥐고 눈 찡그리며 입김을 내뿜음, 옆에 작은 초록 갑옷 아이", "count": "사람 2, 입김 1", "text_or_numbers": "없음", "arrows_tables_signs": "김", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-08", "n": 4, "j": 0, "seen": "작은 초록 갑옷 아이가 벤치에 앉아 병에 든 물을 빨대로 마시고 있음", "count": "사람 1, 병 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-08", "n": 5, "j": 0, "seen": "덩치 큰 초록 갑옷 남자가 노란 옷 아이의 등 위에 무릎 꿇고 앉아 눌러 앉힘, 아이는 엎드려 괴로운 표정", "count": "사람 2", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-08", "n": 6, "j": 0, "seen": "흰 수염 노인이 큰 갑옷 남자 손에 수염을 잡혀 얼굴을 찡그리고 두 손을 벌림", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-08", "n": 7, "j": 0, "seen": "덩치 큰 갑옷 남자가 무릎 꿇고 아이 등에 앉은 채 노인의 수염을 한 손으로 잡음", "count": "사람 2~3", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-08", "n": 8, "j": 0, "seen": "노인이 엎드린 갑옷 아이 등 위에 앉아 있고, 노란 옷 아이가 메롱하며 한 발을 차올림", "count": "사람 3", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-08", "n": 9, "j": 0, "seen": "벤치 장면(정장 아저씨와 물 마시는 아이)", "count": "사람 2", "text_or_numbers": "없음", "arrows_tables_signs": "김", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-08", "n": 9, "j": 1, "seen": "왼쪽 모래판 장면(두 손 번쩍 갑옷 아이, 넘어진 노란 아이, 노인)", "count": "사람 3", "text_or_numbers": "없음", "arrows_tables_signs": "원", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-08", "n": 9, "j": 2, "seen": "가운데 모래판 장면(큰 갑옷 남자, 눌린 아이, 노인)", "count": "사람 3", "text_or_numbers": "없음", "arrows_tables_signs": "원", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-08", "n": 9, "j": 3, "seen": "오른쪽 모래판 장면(노인, 엎드린 갑옷 아이, 발 차는 노란 아이)", "count": "사람 3", "text_or_numbers": "없음", "arrows_tables_signs": "원", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-08", "n": "scene", "one_scene": true, "crowded": false, "seams": "없음", "lowres": false, "note": "운동장에 모래 원 셋과 벤치 한 쪽. 한 장면, 사람 열 명 안팎이라 인물이 많은 편이나 간격 넉넉"}
+{"lesson": "yyox-09", "n": 1, "j": 0, "seen": "얼굴과 손이 초록색인 남자가 회색 옷으로 무릎 꿇고 바닥에 손을 짚어 깊이 고개 숙임", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-09", "n": 1, "j": 1, "seen": "붉은 옷 남자가 방석 위 장식 상자 옆에 앉아 붉은 부채를 펴 들고 미소, 뒤 병풍에 그림 둘", "count": "사람 1, 부채 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-09", "n": 2, "j": 0, "seen": "붉은 옷 남자와 붉은 부채, 방석, 상자", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-09", "n": 2, "j": 1, "seen": "초록 얼굴 회색 옷 남자가 절하는 모습", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-09", "n": 3, "j": 0, "seen": "천장에 매달린 둥근 종이 등, 왼쪽 반이 초록 오른쪽이 빨강, 가운데가 환히 빛남", "count": "등 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-09", "n": 3, "j": 1, "seen": "둥근 종이 등, 반은 초록 반은 노랑, 노란 쪽 가운데가 찢어져 구멍이 나 있음, 빛 없음", "count": "등 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-09", "n": 4, "j": 0, "seen": "벽에 걸린 초록색 노인 얼굴 탈, 오색 끈이 길게 늘어짐", "count": "탈 1", "text_or_numbers": "없음", "arrows_tables_signs": "오색 끈", "size": "작음", "confidence": "높음"}
+{"lesson": "yyox-09", "n": 5, "j": 0, "seen": "칸이 네 개인 나무 선반: 현악기 일부(줄 달린 긴 판), 쇠 갈고리, 꽃병에 꽂은 푸른 대 줄기와 흰 털 먼지떨이 같은 것, 회색 돌", "count": "칸 4, 물건 4", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-09", "n": 6, "j": 0, "seen": "여섯 폭 병풍에 다섯 인물 그림: 주먹 쥔 화난 남자, 머리 짚은 남자, 가슴에 손 얹고 숨 쉬는 사람, 기침하는 사람, 팔로 몸을 감싸고 떠는 사람", "count": "그림 5", "text_or_numbers": "없음", "arrows_tables_signs": "병풍 접힌 면 6", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-09", "n": 7, "j": 0, "seen": "붉은 옷 남자와 병풍 앞 장면", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-09", "n": 7, "j": 1, "seen": "절하는 초록 얼굴 남자", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-09", "n": 7, "j": 2, "seen": "빛나는 초록·빨강 등", "count": "등 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-09", "n": 7, "j": 3, "seen": "찢어진 초록·노랑 등", "count": "등 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-09", "n": 7, "j": 4, "seen": "선반과 물건들", "count": "4", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-09", "n": 7, "j": 5, "seen": "병풍 전체와 두 사람", "count": "사람 2", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-09", "n": "scene", "one_scene": true, "crowded": false, "seams": "병풍 그림 다섯이 작게 나뉘어 있어 약간 빽빽하나 질서 있음", "lowres": false, "note": "방 한 칸 안에 인물 둘과 등 둘, 병풍, 선반. 한 장면. 이음매 없음"}
+{"lesson": "yyox-10", "n": 1, "j": 0, "seen": "같은 갈색 옷 대머리 남자가 돌로 둘러싼 흙 화단 옆에서 한 손으로 나무를 가리킴, 나무 잎에 노란 반점이 가득", "count": "사람 1, 나무 1", "text_or_numbers": "없음", "arrows_tables_signs": "돌 테두리", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-10", "n": 2, "j": 0, "seen": "같은 갈색 옷 대머리 남자가 앙상한 어린 나무 뿌리 둘레에 흙을 자루에서 쏟아 덮음, 가지에 열매 두 개", "count": "사람 1, 나무 1, 자루 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-10", "n": 3, "j": 0, "seen": "같은 갈색 옷 대머리 남자가 배(서양배 모양) 열매가 주렁주렁한 큰 나무에서 열매 하나를 따고 있음, 발치에 열매 담긴 바구니", "count": "사람 1, 열매 약 12, 바구니 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-10", "n": 4, "j": 0, "seen": "같은 갈색 옷 대머리 남자가 갈라진 마른 땅의 빨간 잎 나무에 양동이 물을 부음", "count": "사람 1, 나무 1", "text_or_numbers": "없음", "arrows_tables_signs": "갈라진 땅 무늬", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-10", "n": 5, "j": 0, "seen": "같은 갈색 옷 대머리 남자가 벽돌 굴뚝 모양 가마의 불에 장작을 넣음, 옆에 벽돌 쌓음과 장작 더미", "count": "사람 1, 가마 1, 벽돌 약 6, 장작 더미 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-10", "n": 6, "j": 0, "seen": "같은 갈색 옷 대머리 남자가 괭이로 흙무더기를 파헤침, 흙 속에 반짝이는 노란 덩어리 여러 개(대여섯)", "count": "사람 1, 덩어리 약 6", "text_or_numbers": "없음", "arrows_tables_signs": "반짝 표시", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-10", "n": 7, "j": 0, "seen": "쇠 펌프 주둥이에서 물이 양동이로 떨어짐, 바닥에 물 고임", "count": "펌프 1, 양동이 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-10", "n": 8, "j": 0, "seen": "같은 갈색 옷 대머리 남자가 무너진 흙비탈 쪽으로 기울어진 나무를 말뚝 세 개에 묶어 받치고 두 손으로 밀어 세움", "count": "사람 1, 나무 1, 말뚝 3", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-10", "n": 9, "j": 0, "seen": "같은 갈색 옷 대머리 남자가 삽으로 흙둑을 쌓고 있고 옆으로 파란 물길이 흐름", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "물길", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-10", "n": 10, "j": 0, "seen": "같은 갈색 옷 대머리 남자가 큰 가위로 둥근 나무 가지를 다듬음", "count": "사람 1, 나무 1, 가위 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-10", "n": 11, "j": 0, "seen": "같은 갈색 옷 대머리 남자가 쇠스랑으로 모닥불 옆 장작을 정리, 위에 대나무 통에서 물이 연못으로 쏟아짐", "count": "사람 1, 불 1, 연못 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-10", "n": 12, "j": 0, "seen": "맨 윗줄 밭 세 칸(노란 반점 나무, 어린 나무, 열매 나무) 가늘고 긴 띠", "count": "3칸", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "작음", "confidence": "높음"}
+{"lesson": "yyox-10", "n": 12, "j": 1, "seen": "가운데 줄 밭 네 칸(빨간 나무, 가마, 노란 덩어리, 펌프) 띠", "count": "4칸", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "작음", "confidence": "높음"}
+{"lesson": "yyox-10", "n": 12, "j": 2, "seen": "맨 아랫줄 밭 네 칸(기운 나무, 물길, 둥근 나무, 모닥불과 연못) 띠", "count": "4칸", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "작음", "confidence": "높음"}
+{"lesson": "yyox-10", "n": "scene", "one_scene": true, "crowded": false, "seams": "밭 열한 칸이 노란 길로 나뉜 격자. 칸마다 같은 남자가 다른 일을 함. 한 장면이지만 칸 경계가 뚜렷한 일람표 느낌", "lowres": false, "note": "한 사람이 열한 번 반복 등장. 질서 있음. 빽빽하지 않으나 반복적"}
+{"lesson": "yyox-11", "n": 1, "j": 0, "seen": "흰 수염 노인이 머리가 풍선처럼 아주 크고 둥글게 부풀어 있음, 상투, 뒤 병풍엔 해와 구름이 있는 하늘 그림", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-11", "n": 1, "j": 1, "seen": "풍선 같은 큰 머리의 노인 얼굴 확대, 병풍에 해와 구름", "count": "사람 1, 해 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-11", "n": 2, "j": 0, "seen": "배가 아주 크게 부푼 할머니가 초록 저고리 빨강 치마로 앉음, 뒤 병풍에 갈아 놓은 밭 그림", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-11", "n": 2, "j": 1, "seen": "회색 머리 할머니 얼굴과 병풍의 갈아엎은 밭 그림", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-11", "n": 3, "j": 0, "seen": "파란 한복 남자의 발바닥이 몸만큼 크게 앞으로 드러남, 병풍에 먹구름과 번개", "count": "사람 1, 발 2", "text_or_numbers": "없음", "arrows_tables_signs": "번개 모양", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-11", "n": 3, "j": 1, "seen": "병풍 속 먹구름과 번개 아래 웃는 남자", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "번개", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-11", "n": 4, "j": 0, "seen": "초록 윗옷 소년의 귀가 얼굴만큼 크게 부채처럼 양옆으로 나옴, 병풍에 굽이치는 강물과 파도", "count": "사람 1, 귀 2", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-11", "n": 4, "j": 1, "seen": "큰 귀 소년과 병풍의 파란 물결", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-11", "n": 5, "j": 0, "seen": "하늘색 한복 소년의 두 손이 몸만 하게 크고 손가락을 쫙 펼침, 병풍에 초록 산", "count": "사람 1, 손 2", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-11", "n": 5, "j": 1, "seen": "병풍의 뾰족한 초록 산 그림과 아래 소년 머리", "count": "산 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-11", "n": 6, "j": 0, "seen": "노란 저고리 여자의 허벅지가 아주 크게 부풀어 양반다리, 병풍에 바람에 휘는 나무", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-11", "n": 6, "j": 1, "seen": "병풍 속 바람에 휘는 나무와 바람 선, 긴 머리 여자", "count": "나무 2", "text_or_numbers": "없음", "arrows_tables_signs": "바람선", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-11", "n": 7, "j": 0, "seen": "분홍 한복 여자의 눈이 안경알처럼 아주 크고 둥글게 튀어나옴, 병풍에 활활 타는 불", "count": "사람 1, 눈 2", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-11", "n": 7, "j": 1, "seen": "불꽃 병풍 앞에 큰 눈 여자 얼굴", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-11", "n": 8, "j": 0, "seen": "땋은 머리 어린 여자가 입을 아주 크게 벌려 웃음, 병풍에 갈대 있는 호수", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-11", "n": 8, "j": 1, "seen": "병풍 속 호수와 갈대, 아래 크게 웃는 입", "count": "호수 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-11", "n": 9, "j": 0, "seen": "여덟 병풍 위쪽 줄 전체", "count": "8", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-11", "n": 9, "j": 1, "seen": "여덟 사람과 상 전체", "count": "사람 8", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-11", "n": "scene", "one_scene": true, "crowded": false, "seams": "없음", "lowres": false, "note": "큰 방에 병풍 여덟 폭 앞에 여덟 사람이 일렬로 앉음. 한 장면. 사람마다 한 부분만 아주 크게 그려진 과장 그림. 좌우로 길고 정돈됨"}
+{"lesson": "yyox-12", "n": 1, "j": 0, "seen": "위 칸: 노랗게 빛나는 햇살 속에 왕관 얹힌 황금 기둥 하나, 위에 줄 3개짜리 판(세 줄 모두 통짜)", "count": "기둥 1, 왕관 1", "text_or_numbers": "통짜 줄 3", "arrows_tables_signs": "판/줄 모양", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-12", "n": 1, "j": 1, "seen": "왼쪽 위 칸: 호수에 하얀 오리 두 마리, 안개 낀 산, 판에 줄 3개(위가 끊김, 아래 둘 통짜)", "count": "오리 2", "text_or_numbers": "끊긴 줄 1+통짜 2", "arrows_tables_signs": "판", "size": "큼", "confidence": "낮음"}
+{"lesson": "yyox-12", "n": 1, "j": 2, "seen": "왼쪽 칸: 분홍 하늘 아래 불 타는 세발 화로, 활 하나와 화살통 하나, 판에 줄 3개(위 통짜, 가운데 끊김, 아래 통짜)", "count": "화로 1, 활 1, 화살통 1", "text_or_numbers": "통짜 줄 2+끊긴 줄 1", "arrows_tables_signs": "판", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-12", "n": 1, "j": 3, "seen": "왼쪽 아래 칸: 번개 치는 먹구름 아래 갈기 큰 사자 한 마리가 바위에 서서 입 벌려 포효, 판에 줄 3개", "count": "사자 1, 번개 3~4", "text_or_numbers": "통짜 1+끊긴 2(방향 불확실)", "arrows_tables_signs": "판", "size": "큼", "confidence": "낮음"}
+{"lesson": "yyox-12", "n": 2, "j": 0, "seen": "오른쪽 위 칸: 초록 큰 손바닥이 위로 펼쳐지고 바람 하얀 소용돌이가 손 옆을 감음, 판에 줄 3개(위 둘 통짜, 아래 끊김)", "count": "손 1", "text_or_numbers": "통짜 2+끊긴 1", "arrows_tables_signs": "판", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-12", "n": 2, "j": 1, "seen": "오른쪽 칸: 산골짜기에 돌다리가 놓이고 아래 파란 물, 교차한 활과 화살 한 쌍이 구석에 있음, 판에 줄 3개(끊김, 통짜, 끊김)", "count": "다리 1, 활과 화살 1쌍", "text_or_numbers": "끊긴 2+통짜 1", "arrows_tables_signs": "판", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-12", "n": 2, "j": 2, "seen": "오른쪽 아래 칸: 별밤 아래 눈 덮인 산봉우리와 구름, 별 약 6~7개가 굽은 줄로 늘어섬, 판에 줄 3개", "count": "산 1, 별 약 7", "text_or_numbers": "통짜 1+끊긴 2(방향 불확실)", "arrows_tables_signs": "판", "size": "큼", "confidence": "낮음"}
+{"lesson": "yyox-12", "n": 2, "j": 3, "seen": "아래 칸: 갈라진 검은 땅에 X자로 교차한 길, 판에 줄 3개 모두 끊김", "count": "길 2", "text_or_numbers": "끊긴 줄 3", "arrows_tables_signs": "판", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-12", "n": 3, "j": 0, "seen": "가운데 타원 판: 하얀 꼬리가 아홉 갈래인 여우 한 마리, 옆에 수염 노인과 초록 뱀 몸", "count": "여우 1, 꼬리 9", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-12", "n": 3, "j": 1, "seen": "위 칸의 황금 기둥과 왕관 하나 ", "count": "기둥 1", "text_or_numbers": "통짜 3", "arrows_tables_signs": "판", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-12", "n": 3, "j": 2, "seen": "아래 칸의 갈라진 땅 위 교차한 길, 판 줄 모두 끊김", "count": "길 2", "text_or_numbers": "끊긴 3", "arrows_tables_signs": "판", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-12", "n": 4, "j": 0, "seen": "가운데 타원 판에 긴 수염 노인이 한 손가락을 위로 들고 허리 아래는 초록 뱀 몸이 똬리를 틂, 옆에 여우", "count": "사람 1, 뱀 몸 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-12", "n": 4, "j": 1, "seen": "위 칸 황금 기둥과 왕관(위와 같은 장면)", "count": "기둥 1", "text_or_numbers": "통짜 3", "arrows_tables_signs": "판", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-12", "n": 4, "j": 2, "seen": "아래 칸 갈라진 땅 X자 길(앞과 같은 장면)", "count": "길 2", "text_or_numbers": "끊긴 3", "arrows_tables_signs": "판", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-12", "n": 5, "j": 0, "seen": "왼쪽 위 호수와 오리 둘 칸, 아래 분홍 칸의 불 화로 일부", "count": "오리 2", "text_or_numbers": "끊긴 1+통짜 2", "arrows_tables_signs": "판", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-12", "n": 5, "j": 1, "seen": "오른쪽 아래 눈 산과 별, 오른쪽 위 다리 칸의 활·화살 일부", "count": "별 약 7", "text_or_numbers": "없음", "arrows_tables_signs": "판", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-12", "n": 6, "j": 0, "seen": "왼쪽 아래 사자 칸과 위 분홍 칸의 화로·활·화살통", "count": "사자 1", "text_or_numbers": "없음", "arrows_tables_signs": "판", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-12", "n": 6, "j": 1, "seen": "오른쪽 위 초록 손 칸과 바람, 위 황금 기둥 일부", "count": "손 1", "text_or_numbers": "없음", "arrows_tables_signs": "판", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-12", "n": 7, "j": 0, "seen": "왼쪽 반: 호수 오리, 불 화로·활, 사자", "count": "3칸", "text_or_numbers": "없음", "arrows_tables_signs": "판 일부", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-12", "n": 7, "j": 1, "seen": "오른쪽 반: 손과 바람, 돌다리, 별 산", "count": "3칸", "text_or_numbers": "없음", "arrows_tables_signs": "판 일부", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-12", "n": 8, "j": 0, "seen": "판 한 장: 통짜 가로줄 3개(위쪽 가운데 판)", "count": "3", "text_or_numbers": "통짜 3", "arrows_tables_signs": "줄 모양", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-12", "n": 8, "j": 1, "seen": "기운 판 한 장: 위 줄 끊김, 가운데 통짜, 아래 통짜", "count": "3", "text_or_numbers": "끊긴 1+통짜 2", "arrows_tables_signs": "줄 모양", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-12", "n": 8, "j": 2, "seen": "판 한 장: 통짜, 끊김, 통짜", "count": "3", "text_or_numbers": "통짜 2+끊긴 1", "arrows_tables_signs": "줄 모양", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-12", "n": 8, "j": 3, "seen": "기운 판 한 장: 통짜 1과 끊긴 줄 2(한쪽에 몰림), 바로 뒤에 사자 꼬리", "count": "3", "text_or_numbers": "통짜 1+끊긴 2", "arrows_tables_signs": "줄 모양", "size": "보통", "confidence": "낮음"}
+{"lesson": "yyox-12", "n": 8, "j": 4, "seen": "기운 판 한 장: 통짜 둘과 끊긴 하나, 아래 손", "count": "3", "text_or_numbers": "통짜 2+끊긴 1", "arrows_tables_signs": "줄 모양", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-12", "n": 8, "j": 5, "seen": "판 한 장: 끊김, 통짜, 끊김", "count": "3", "text_or_numbers": "끊긴 2+통짜 1", "arrows_tables_signs": "줄 모양", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-12", "n": 8, "j": 6, "seen": "기운 판 한 장: 통짜 1과 끊긴 2, 눈 산 옆", "count": "3", "text_or_numbers": "통짜 1+끊긴 2", "arrows_tables_signs": "줄 모양", "size": "보통", "confidence": "낮음"}
+{"lesson": "yyox-12", "n": 8, "j": 7, "seen": "판 한 장: 줄 셋이 모두 가운데서 끊김", "count": "3", "text_or_numbers": "끊긴 3", "arrows_tables_signs": "줄 모양", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-12", "n": 9, "j": 0, "seen": "여덟 칸 바퀴 전체, 가운데 타원에 노인·뱀·여우", "count": "8칸", "text_or_numbers": "없음", "arrows_tables_signs": "여덟 판", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-12", "n": "scene", "one_scene": true, "crowded": false, "seams": "칸 사이 나무 테두리가 뚜렷(의도된 구획)", "lowres": false, "note": "여덟 쐐기 모양 칸을 모은 팔각형 한 장. 칸마다 서로 다른 풍경, 가운데에 타원 판. 칸 배경이 서로 달라 한 장면이라기보다 한 판에 모은 구성. 칸마다 겉에 줄 판이 붙음"}
+{"lesson": "yyox-13", "n": 1, "j": 0, "seen": "왼쪽 칸: 번개가 치고 열린 두 문 사이 풀밭에서 왕관 쓴 수염 남자가 보라 겉옷으로 주먹 쥐고 달려감", "count": "사람 1, 문 2, 번개 3", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-13", "n": 1, "j": 1, "seen": "카드 한 장: 끊긴 줄 두 개, 끊긴 줄, 맨 아래 통짜 줄 하나", "count": "3줄", "text_or_numbers": "끊긴 2+통짜 1(통짜가 아래)", "arrows_tables_signs": "줄 모양 카드", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-13", "n": 2, "j": 0, "seen": "왼쪽 위 칸: 왕관 쓴 남자가 웅크리고 밭에서 긴 자 같은 나무판을 밭고랑에 대고 있음, 새싹이 줄지어 있고 하얀 바람 손 모양 줄무늬", "count": "사람 1, 새싹 약 15, 자 1", "text_or_numbers": "없음", "arrows_tables_signs": "바람 줄무늬", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-13", "n": 2, "j": 1, "seen": "카드: 통짜, 통짜, 아래 끊김", "count": "3줄", "text_or_numbers": "통짜 2+끊긴 1", "arrows_tables_signs": "줄 모양", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-13", "n": 3, "j": 0, "seen": "위 칸: 큰 해 앞에서 알록달록한 꿩 한 마리와 왕관 쓴 남자가 마주 보고 몸을 기울임", "count": "꿩 1, 사람 1, 해 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-13", "n": 3, "j": 1, "seen": "카드: 통짜, 끊김, 통짜", "count": "3줄", "text_or_numbers": "통짜 2+끊긴 1", "arrows_tables_signs": "줄 모양", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-13", "n": 4, "j": 0, "seen": "오른쪽 위 칸: 갈색 황소가 쟁기를 끌고 남자가 쟁기를 잡고 갈아엎는 누런 밭", "count": "소 1, 사람 1, 쟁기 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-13", "n": 4, "j": 1, "seen": "카드: 줄 셋이 모두 끊김", "count": "3줄", "text_or_numbers": "끊긴 3", "arrows_tables_signs": "줄 모양", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-13", "n": 5, "j": 0, "seen": "오른쪽 칸: 단풍과 갈대, 연못 옆에서 왕관 쓴 남자가 활짝 웃으며 열매 가득 담긴 바구니를 안음", "count": "사람 1, 바구니 1, 열매 약 8", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-13", "n": 5, "j": 1, "seen": "카드: 끊김, 통짜, 통짜", "count": "3줄", "text_or_numbers": "끊긴 1+통짜 2", "arrows_tables_signs": "줄 모양", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-13", "n": 6, "j": 0, "seen": "오른쪽 아래 칸: 안개 속에서 왕관 남자가 칼을 들고 검은 옷 복면 사람과 칼을 X로 맞댐", "count": "사람 2, 칼 2", "text_or_numbers": "없음", "arrows_tables_signs": "칼 X", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-13", "n": 6, "j": 1, "seen": "카드: 통짜 줄 3개", "count": "3줄", "text_or_numbers": "통짜 3", "arrows_tables_signs": "줄 모양", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-13", "n": 7, "j": 0, "seen": "아래 칸: 달 뜬 밤 얼음 강가에서 왕관 남자가 바닥에 앉아 한 손으로 머리를 괴고 힘 빠진 모습, 곁에 괭이와 빈 바구니", "count": "사람 1, 괭이 1, 바구니 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-13", "n": 7, "j": 1, "seen": "카드: 끊김, 통짜, 끊김", "count": "3줄", "text_or_numbers": "끊긴 2+통짜 1", "arrows_tables_signs": "줄 모양", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-13", "n": 8, "j": 0, "seen": "왼쪽 아래 칸: 눈 덮인 산 바위 끝에서 왕관 남자가 쌓인 납작한 돌탑 위에 돌 하나를 올림", "count": "사람 1, 돌탑 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-13", "n": 8, "j": 1, "seen": "카드: 통짜 위, 아래 둘은 끊김", "count": "3줄", "text_or_numbers": "통짜 1+끊긴 2", "arrows_tables_signs": "줄 모양", "size": "보통", "confidence": "높음"}
+{"lesson": "yyox-13", "n": 9, "j": 0, "seen": "여덟 칸 바퀴 전체와 가운데 나침반, 바깥 둘레에 봄 꽃 · 여름 초록 · 가을 단풍 · 겨울 달눈", "count": "8칸", "text_or_numbers": "없음", "arrows_tables_signs": "여덟 카드", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-13", "n": 10, "j": 0, "seen": "가운데 나침반: 빨간 바늘 끝이 위, 은색 끝이 아래, 둘레 흰 선 곡선들", "count": "나침반 1", "text_or_numbers": "없음", "arrows_tables_signs": "바늘, 눈금, 별 모양 무늬", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-13", "n": 11, "j": 0, "seen": "여덟 칸 바퀴 전체 축소", "count": "8칸", "text_or_numbers": "없음", "arrows_tables_signs": "카드 8", "size": "큼", "confidence": "높음"}
+{"lesson": "yyox-13", "n": "scene", "one_scene": true, "crowded": false, "seams": "칸 사이 나무 틀이 뚜렷(의도된 구획), 바깥 네 귀퉁이는 계절 배경", "lowres": false, "note": "팔각 바퀴 한 장에 칸마다 같은 왕이 다른 일을 함. 한 판 구성이고 한 장면은 아님. 색 대비 큼. 질서 있음"}
+{"lesson": "new-zj-01", "n": 1, "j": 0, "seen": "지붕 위로 우뚝 솟은 초록 마디 막대 하나(마디 선 4~5개), 아래에 파란 하늘", "count": "막대 1", "text_or_numbers": "없음", "arrows_tables_signs": "마디 선", "size": "작음", "confidence": "높음"}
+{"lesson": "new-zj-01", "n": 2, "j": 0, "seen": "집 단면 왼쪽: 어두운 방에 쇠창살 달린 금고 네 개가 나란히(앞 둘은 자물쇠, 문이 열려 있음), 천장 조명, 맨 오른쪽 금고 앞에 보라 옷 여자가 책상에서 글을 씀, 금고마다 윗줄에 회색 구름과 풍선 다발", "count": "금고 4, 자물쇠 2, 여자 1", "text_or_numbers": "없음", "arrows_tables_signs": "금고 문, 밧줄", "size": "큼", "confidence": "높음"}
+{"lesson": "new-zj-01", "n": 2, "j": 1, "seen": "집 단면 오른쪽 끝: 노란 방의 유리창 큰 칸과 바닥에 물이 쏟아짐, 밖으로 길", "count": "창 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "new-zj-01", "n": 2, "j": 2, "seen": "흙 속 돌판 안에 사람 몸 안 그림(머리와 가슴 속 빨간 덩어리, 배 안 초록·분홍 구불구불)", "count": "그림 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "new-zj-01", "n": 2, "j": 3, "seen": "흙 속 돌판 안에 돋보기 하나", "count": "돋보기 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "new-zj-01", "n": 2, "j": 4, "seen": "흙 속 돌판 안에 작은 서랍이 많은 갈색 서랍장(4칸 x 4줄 가량, 맨 아래 줄 넓은 서랍)", "count": "서랍 약 16", "text_or_numbers": "없음", "arrows_tables_signs": "서랍 손잡이 표", "size": "보통", "confidence": "높음"}
+{"lesson": "new-zj-01", "n": 2, "j": 5, "seen": "흙 속 돌판 안에 흑백 태극 무늬 둥근 그림, 둘레에 빨강(위)·초록(왼쪽)·노랑(오른쪽)·흰(왼아래)·검정(오른아래) 점 다섯", "count": "점 5, 태극 1", "text_or_numbers": "없음", "arrows_tables_signs": "색 점", "size": "보통", "confidence": "높음"}
+{"lesson": "new-zj-01", "n": 3, "j": 0, "seen": "어두운 방 안의 금고 넷과 조명, 책상의 여자", "count": "금고 4", "text_or_numbers": "없음", "arrows_tables_signs": "밧줄", "size": "큼", "confidence": "높음"}
+{"lesson": "new-zj-01", "n": 4, "j": 0, "seen": "노란 방: 긴 유리관 다섯 개가 세워져 안에 물병과 갈색 상자가 떠 있음, 기울어진 큰 관이 대각선으로 흐름, 상자 든 남자가 달림, 바닥으로 물이 쏟아지고 상자가 떠내려옴, 금고에서 온 밧줄이 관에 묶임", "count": "관 5, 물병 약 11, 상자 약 9, 사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "밧줄 4~5", "size": "큼", "confidence": "높음"}
+{"lesson": "new-zj-01", "n": 5, "j": 0, "seen": "금고 네 개가 열려 있고 각 금고 안 선반에 구름, 풍선, 랜턴(경고 표지), 빨간 병, 곡식 자루", "count": "금고 4", "text_or_numbers": "없음", "arrows_tables_signs": "자물쇠", "size": "큼", "confidence": "높음"}
+{"lesson": "new-zj-01", "n": 5, "j": 1, "seen": "기운 큰 관 끝에서 물병과 물이 쏟아져 나오고 갈색 상자가 물에 떠 있음", "count": "관 1, 상자 1, 병 1", "text_or_numbers": "없음", "arrows_tables_signs": "물줄기", "size": "큼", "confidence": "높음"}
+{"lesson": "new-zj-01", "n": 6, "j": 0, "seen": "노란 방 전체(관 다섯, 비스듬한 관, 달리는 남자)", "count": "관 5", "text_or_numbers": "없음", "arrows_tables_signs": "밧줄", "size": "큼", "confidence": "높음"}
+{"lesson": "new-zj-01", "n": 7, "j": 0, "seen": "책상에서 글을 쓰는 보라 옷 단발 여자, 뒤에 쇠창살 금고", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "new-zj-01", "n": 7, "j": 1, "seen": "파란 옷 남자가 상자를 포개 안고 웃으며 달림, 뒤에 물병 든 관", "count": "사람 1, 상자 3", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "new-zj-01", "n": 8, "j": 0, "seen": "집 단면 위쪽 가는 띠(금고 윗부분과 관 윗부분)", "count": "—", "text_or_numbers": "없음", "arrows_tables_signs": "밧줄", "size": "작음", "confidence": "높음"}
+{"lesson": "new-zj-01", "n": 9, "j": 0, "seen": "집 단면 전체와 아래 돌판 네 개", "count": "돌판 4", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-zj-01", "n": "scene", "one_scene": true, "crowded": false, "seams": "없음. 위의 집 단면과 아래 땅속 돌판 네 개가 가로로 나뉨", "lowres": false, "note": "한 장면(집 단면). 왼쪽 어두운 금고방과 오른쪽 노란 관방이 벽으로 뚜렷이 갈림. 아래 돌판 넷은 따로 놓인 그림"}
+{"lesson": "new-zj-02", "n": 1, "j": 0, "seen": "초록 갑옷 투구 콧수염 남자가 큰 나무 키(배 조타륜)를 잡고 나무판 위에 서 있음, 판 아래는 굵은 쇠 용수철, 위아래로 화살표 두 쌍(↓ ↑ ↓), 밧줄 한 가닥이 판에서 오른쪽으로 뻗음", "count": "사람 1, 용수철 1, 키 1", "text_or_numbers": "없음", "arrows_tables_signs": "위아래 화살표 약 4", "size": "큼", "confidence": "높음"}
+{"lesson": "new-zj-02", "n": 1, "j": 1, "seen": "큰 둥근 연못 가장자리에 나무 널판 문(수문)이 걸려 있고 그 아래로 물이 빠져나가는 강, 앞에 풍선 다발(노랑·파랑·초록·주황) 하나와 빨간 풍선 하나", "count": "수문 1, 풍선 5", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-zj-02", "n": 1, "j": 2, "seen": "위쪽 긴 띠: 하늘색 연못, 구름 유령, 황새, 풍선들, 모닥불", "count": "—", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "작음", "confidence": "낮음"}
+{"lesson": "new-zj-02", "n": 2, "j": 0, "seen": "회색 윗옷 남자가 바위에 앉아 한 손으로 뺨을 괴고 우울한 표정", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "new-zj-02", "n": 2, "j": 1, "seen": "빨간 셔츠 남자가 주먹을 쥐고 소리치며 찌푸린 화난 얼굴, 머리 위 짧은 선", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "화난 선", "size": "보통", "confidence": "높음"}
+{"lesson": "new-zj-02", "n": 2, "j": 2, "seen": "강물이 둑에서 크게 솟구쳐 흰 물보라를 일으키고 오른쪽 화난 남자 쪽으로 튐", "count": "물 1", "text_or_numbers": "없음", "arrows_tables_signs": "물보라", "size": "큼", "confidence": "높음"}
+{"lesson": "new-zj-02", "n": 3, "j": 0, "seen": "밀짚모자 농부가 곡식 자루를 안고 나무 계단을 오름, 위에도 자루", "count": "사람 1, 자루 2", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "new-zj-02", "n": 3, "j": 1, "seen": "요리사 모자 여자가 노란 앞치마로 물레방아 옆에서 곡식(가루)을 쟁반에 받음", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "new-zj-02", "n": 3, "j": 2, "seen": "초록 법복 흰 목깃 노인이 병에서 초록 액체를 회색 기계 입구에 쏟아 넣음", "count": "사람 1, 기계 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "new-zj-02", "n": 3, "j": 3, "seen": "검은 민소매 근육 대머리 남자가 이를 악물고 문손잡이에 묶인 밧줄을 두 손으로 당김, 문은 닫혀 있음", "count": "사람 1, 밧줄 1, 문 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-zj-02", "n": 3, "j": 4, "seen": "밧줄이 문 쪽에서 용수철 판까지 팽팽히 이어져 있고 가운데 강물이 솟구쳐 나옴", "count": "밧줄 1", "text_or_numbers": "없음", "arrows_tables_signs": "화살표 ↓↑", "size": "큼", "confidence": "높음"}
+{"lesson": "new-zj-02", "n": 4, "j": 0, "seen": "강 위 빨간 작은 배 세 척에 풍선이 하나씩 또는 여러 개(첫 배 보라 하나, 둘째 배 빨강 하나, 셋째 배 풍선 4개), 왼쪽에 빨간 띠 같은 길", "count": "배 3, 풍선 6", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "new-zj-02", "n": 4, "j": 1, "seen": "위 장면을 더 크게: 빨간 띠가 땅에서 강으로 이어지고 배가 줄지어 떠내려감, 위에 갈라진 회색 벽", "count": "배 3", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "new-zj-02", "n": 5, "j": 0, "seen": "가운데 장면 전체: 용수철 위 갑옷 남자, 구불구불한 강, 위로 모닥불과 가면, 풍선들", "count": "—", "text_or_numbers": "없음", "arrows_tables_signs": "화살표", "size": "큼", "confidence": "높음"}
+{"lesson": "new-zj-02", "n": 5, "j": 1, "seen": "하얀 황새가 부리에 아기 담은 흰 보따리를 물고 날아감", "count": "황새 1, 아기 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "new-zj-02", "n": 6, "j": 0, "seen": "나무판 아래 굵은 용수철과 돌 받침, 양옆에 화살표 위아래", "count": "용수철 1", "text_or_numbers": "없음", "arrows_tables_signs": "화살표 3~4", "size": "큼", "confidence": "높음"}
+{"lesson": "new-zj-02", "n": 6, "j": 1, "seen": "용수철 판 위 키를 잡은 갑옷 남자, 곁에 밧줄", "count": "사람 1", "text_or_numbers": "없음", "arrows_tables_signs": "화살표", "size": "큼", "confidence": "높음"}
+{"lesson": "new-zj-02", "n": 7, "j": 0, "seen": "금 간 긴 회색 벽에서 빨간 핏방울 같은 것이 여러 곳 떨어짐, 풍선들", "count": "방울 약 7", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-zj-02", "n": 7, "j": 1, "seen": "회색 구름 모양 유령이 눈 감고 베개를 안고 떠 있음, 아래에 그림자", "count": "유령 1, 베개 1", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "보통", "confidence": "높음"}
+{"lesson": "new-zj-02", "n": 8, "j": 0, "seen": "모닥불, 엉킨 밧줄 뭉치, 얼굴 가면 6개(웃는 노랑, 슬픈 파랑, 화난 빨강, 겁먹은 연파랑, 흰색, 주황)가 일렬", "count": "불 1, 밧줄 뭉치 1, 가면 6", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-zj-02", "n": 9, "j": 0, "seen": "장면 전체", "count": "—", "text_or_numbers": "없음", "arrows_tables_signs": "없음", "size": "큼", "confidence": "높음"}
+{"lesson": "new-zj-02", "n": "scene", "one_scene": true, "crowded": true, "seams": "없음", "lowres": false, "note": "한 장면이나 구조물·인물·소품이 열 가지 넘게 흩어져 빽빽한 편이고 풍선이 곳곳에 퍼져 주의를 분산. 강이 구불구불 이어 주어 한 판으로 묶임"}

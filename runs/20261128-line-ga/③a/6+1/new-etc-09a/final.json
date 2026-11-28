@@ -1,0 +1,151 @@
+{
+  "lesson": "new-etc-09a",
+  "stations": [
+    {
+      "n": 3,
+      "problem": "膹(안 보임) 소리 고리 없음 — 숨 막힘 모습만",
+      "target": "膹",
+      "new_objects": [
+        {
+          "thing": "화장 분첩",
+          "word": "분",
+          "reading": "분",
+          "steps": 0,
+          "place_box": [
+            195,
+            890,
+            235,
+            525
+          ],
+          "action": "흰 소매 끝 한쪽에서 분 냄새가 날 듯 작은 화장 분첩이 빠져나와 하얀 분 자국이 짙은 소매 안감에 남게 한다. 노인은 계속 가슴을 쥔다."
+        }
+      ],
+      "say_add": "가슴이 막힌 흰 도포 노인의 소매에 분이 묻었다. 제기분울은 모두 폐에 속한다.",
+      "score25": 24,
+      "score_parts25": [
+        6,
+        5,
+        4,
+        3,
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "n": 6,
+      "problem": "痿(안 보임) 소리 고리 없음 · 원자 4",
+      "target": "諸痿喘嘔 皆屬於上",
+      "new_objects": [],
+      "say_add": "평상 위 첫 사람의 두 다리는 힘없이 늘어지고, 옆에서는 헐떡이고 토한다. 위·천·구는 상에 속한다.",
+      "score25": 16,
+      "score_parts25": [
+        2,
+        1,
+        4,
+        3,
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "n": 11,
+      "problem": "劉完素(사람) 소리 고리 없음 — 학자 실루엣뿐 · 書名 고리 없음",
+      "target": "劉完素 補入",
+      "new_objects": [
+        {
+          "thing": "펼친 원본 책",
+          "word": "원본 책",
+          "reading": "보입",
+          "steps": 2,
+          "place_box": [
+            2160,
+            910,
+            515,
+            595
+          ],
+          "action": "학자가 한 손으로 펼친 책을 누르고 다른 손으로 갈라진 땅이 그려진 다른 빛깔의 무문자 낱장을 원래 면 옆에 덧댄다. 학자 얼굴의 윤곽과 위의 금빛 액자를 남긴다."
+        },
+        {
+          "thing": "덧대는 조 그림 낱장",
+          "word": "덧댄 낱장",
+          "reading": "보입",
+          "steps": 2,
+          "place_box": [
+            2160,
+            910,
+            515,
+            595
+          ],
+          "action": "학자가 한 손으로 펼친 책을 누르고 다른 손으로 갈라진 땅이 그려진 다른 빛깔의 무문자 낱장을 원래 면 옆에 덧댄다. 학자 얼굴의 윤곽과 위의 금빛 액자를 남긴다."
+        }
+      ],
+      "say_add": "유완소가 펼친 책에 갈라진 땅 그림 한 장을 덧댄다. 조의 조문을 보입한 사람이다.",
+      "score25": 16,
+      "score_parts25": [
+        2,
+        1,
+        4,
+        3,
+        1,
+        3,
+        2
+      ]
+    }
+  ],
+  "zone_edits": [
+    {
+      "station": 3,
+      "box": [
+        195,
+        890,
+        235,
+        525
+      ],
+      "keep": "가슴을 쥔 두 손과 흰 도포·수염",
+      "add": [
+        "화장 분첩"
+      ],
+      "gemini_ko": "흰 소매 끝 한쪽에서 분 냄새가 날 듯 작은 화장 분첩이 빠져나와 하얀 분 자국이 짙은 소매 안감에 남게 한다. 노인은 계속 가슴을 쥔다. 다음 요소를 보존한다. 가슴을 쥔 두 손과 흰 도포·수염. 다른 구역은 편집하지 말고 글자·숫자·도형 기호를 넣지 않는다.",
+      "gemini_en": "Let a powder puff slip from the elder’s white sleeve, leaving a visible cosmetic-powder print on its dark lining. Preserve both hands clutching the chest, his beard and white robe. Preserve all pixels outside this crop. Add no text, numerals, or graphic symbols."
+    },
+    {
+      "station": 6,
+      "box": [
+        1050,
+        95,
+        915,
+        405
+      ],
+      "keep": "윗층 평상, 헐떡이는 사람, 토하는 사람과 양동이",
+      "add": [],
+      "gemini_ko": "윗층 세 사람 중 첫째의 힘 빠진 두 발만 평상 밑으로 느슨하게 늘어뜨린다. 다른 사람의 발과 겹치지 않게 한다. 다음 요소를 보존한다. 윗층 평상, 헐떡이는 사람, 토하는 사람과 양동이. 다른 구역은 편집하지 말고 글자·숫자·도형 기호를 넣지 않는다.",
+      "gemini_en": "On the upper platform, let only the first person’s weak feet hang loosely over the edge. Keep the three patients separate, including the panting figure and the one vomiting into a bucket. Preserve all pixels outside this crop. Add no text, numerals, or graphic symbols."
+    },
+    {
+      "station": 11,
+      "box": [
+        2160,
+        910,
+        515,
+        595
+      ],
+      "keep": "원래 붓과 학자의 실루엣, 위의 금빛 액자",
+      "add": [
+        "펼친 원본 책",
+        "덧대는 조 그림 낱장"
+      ],
+      "gemini_ko": "학자가 한 손으로 펼친 책을 누르고 다른 손으로 갈라진 땅이 그려진 다른 빛깔의 무문자 낱장을 원래 면 옆에 덧댄다. 학자 얼굴의 윤곽과 위의 금빛 액자를 남긴다. 다음 요소를 보존한다. 원래 붓과 학자의 실루엣, 위의 금빛 액자. 다른 구역은 편집하지 말고 글자·숫자·도형 기호를 넣지 않는다.",
+      "gemini_en": "Give the silhouette an open book under one hand. With the other hand the scholar physically adds a distinct colored, unlettered page showing cracked earth beside the original page. Preserve the silhouette and the gold-framed panel above. Preserve all pixels outside this crop. Add no text, numerals, or graphic symbols."
+    }
+  ],
+  "scene_score100": 88,
+  "to_user": [],
+  "needs_check": [],
+  "coverage_notes": [
+    "#11 학자의 이름과 서명 전체의 소리는 보입 동작만으로 복원되지 않는다. 원래 금빛 액자와 귀속을 유지한다.",
+    "#3 膹을(를) 해당 위치에서 회상하도록 수정한다.",
+    "#6 諸痿喘嘔 皆屬於上을(를) 해당 위치에서 회상하도록 수정한다."
+  ]
+}

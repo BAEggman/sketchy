@@ -198,6 +198,7 @@ P2 시범 여섯은 사용자 검수를 통과했다(11-21 12:54). P3 의학사�
 - 지시서 `runs/20261128-line-ga/DIRECTIVE.md`(= 프로젝트 `claude/Sketchy_가선_실행지시서_20261128.md`). 차례 ① 글 · 사실 → ② 표 · 트레이너 → ③a · ③b 구역 → ④a · ④b 다시 그림 → ⑤ 다시 녹음 → ⑥ 마감 점검. 번호마다 새 대화, 끝에 꾸러미 `sketchy_line-ga-<번호>_<날짜>.bundle`을 Mac `~/Downloads/sketchy_opus/`에 두고 사용자가 올린 뒤 다음 번호.
 - **① 끝(11-28, Opus 5.5)**: 23과 · 46정거장. 교재와 다름 15/18(② 과 3곳은 ②로 넘김) · 天然色 經絡圖譜 두 과를 滑壽 결정대로(교재 1641 · 문제집 239 · 108 나란히) · 5장 높음 정거장 고리(교재 암기요령 · 사용자 문장 · 교회혈 니모닉). 녹음 30정거장은 manifest `pending_review`로(목록 `runs/20261128-line-ga/rerecord.json`, ⑤에서 다시 녹음). 기록 `runs/20261128-line-ga/①/`. 사람이 들어 본 것 · 사용자가 본 것 없음.
 - ②에 넘긴 것: `new-etc-21` #3 · `new-jq-05` #5 · `new-uk-04` #6(교재와 다름). ③에 넘긴 그림 일: `①/README.md` 「③으로 넘김」.
+- **③a 끝(11-28, Opus 5.5)**: 7과 · 12정거장 그림 구역 고침(`yyox-03`은 그대로). GPT 6+1 기록(`runs/20261128-line-ga/③a/6+1/`)을 다시 돌리지 않고 예약표 · 교재 · 결정과 대조만. Gemini 붙여 넣기는 클립보드 방식(github.io 탭에서 구역을 잘라 복사 → Gemini에 붙여 넣기; Drive 첨부는 한 번 뒤 모델에 닿지 않음). 녹음 `new-uk-15` #1만 다시 녹음 대기 · 같은 과 나머지 8곳은 `image_sha256`만 새로. 독자 둘 기록 `③a/readers_*.md`. 기록 `runs/20261128-line-ga/③a/README.md`.
 - 녹음 재검토 대기 형식(새로 정함): manifest `pending_review`(키 = 과#정거장, 옛 기록 + `pending_since` · `pending_reason`). 고리만 바뀌고 낭독 글이 그대로면 녹음 유지 + `station_sha256`만 새로(`restamped`).
 
 ---

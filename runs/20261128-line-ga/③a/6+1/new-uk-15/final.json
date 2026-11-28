@@ -1,0 +1,149 @@
+{
+  "lesson": "new-uk-15",
+  "stations": [
+    {
+      "n": 1,
+      "problem": "闔(합)·樞(추)는 한자 훈이 어려운데 소리 고리 없음. 關 판본 차이는 물건에 없음.",
+      "target": "陽明爲闔·少陽爲樞",
+      "new_objects": [
+        {
+          "thing": "합장 손잡이",
+          "word": "합장",
+          "reading": "합",
+          "steps": 1,
+          "place_box": [
+            366,
+            337,
+            421,
+            668
+          ],
+          "action": "가운데 양명 닫힌 문의 빗장 손잡이 두 끝을 조각된 손바닥 한 쌍으로 바꾼다. 문을 닫을 때 두 손이 합장하듯 맞닿는다."
+        },
+        {
+          "thing": "시계추",
+          "word": "추",
+          "reading": "추",
+          "steps": 0,
+          "place_box": [
+            694,
+            360,
+            333,
+            572
+          ],
+          "action": "셋째 소양 문의 경첩에 동그란 황동 원판 시계추 하나를 달아 문이 회전하는 축 아래에서 옆으로 흔들리게 한다."
+        }
+      ],
+      "say_add": "양명 문이 닫히면 두 손이 합장한다. 소양 문은 경첩의 추가 흔들리는 추다.",
+      "score25": 22,
+      "score_parts25": [
+        5,
+        4,
+        4,
+        3,
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "n": 7,
+      "problem": "원자 다섯. 氣血 크기·색 약속이 필요.",
+      "target": "少陽 多氣少血",
+      "new_objects": [],
+      "say_add": "소양 문 앞에서는 기를 담은 풍선이 크고 혈을 담은 붉은 통은 작다.",
+      "score25": 15,
+      "score_parts25": [
+        2,
+        1,
+        4,
+        3,
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "n": 8,
+      "problem": "없음 ·",
+      "target": "少陰 陰始生",
+      "new_objects": [],
+      "say_add": "소음의 모래시계 윗방에 가느다란 그늘이 막 생긴다. 소음은 음시생이다.",
+      "score25": 15,
+      "score_parts25": [
+        1,
+        1,
+        4,
+        3,
+        1,
+        3,
+        2
+      ]
+    }
+  ],
+  "zone_edits": [
+    {
+      "station": 1,
+      "box": [
+        366,
+        337,
+        421,
+        668
+      ],
+      "keep": "빗장과 둥근 양명 창",
+      "add": [
+        "합장 손잡이"
+      ],
+      "gemini_ko": "가운데 양명 닫힌 문의 빗장 손잡이 두 끝을 조각된 손바닥 한 쌍으로 바꾼다. 문을 닫을 때 두 손이 합장하듯 맞닿는다. 다음 요소를 보존한다. 빗장과 둥근 양명 창. 다른 구역은 편집하지 말고 글자·숫자·도형 기호를 넣지 않는다.",
+      "gemini_en": "On the middle shut Yangming door, reshape the existing latch handles into facing palms that meet in a prayer gesture as the door shuts. Keep the latch and round window. Preserve all pixels outside this crop. Add no text, numerals, or graphic symbols."
+    },
+    {
+      "station": 1,
+      "box": [
+        694,
+        360,
+        333,
+        572
+      ],
+      "keep": "반쯤 열린 소양 문·경첩·일출창",
+      "add": [
+        "시계추"
+      ],
+      "gemini_ko": "셋째 소양 문의 경첩에 동그란 황동 원판 시계추 하나를 달아 문이 회전하는 축 아래에서 옆으로 흔들리게 한다. 다음 요소를 보존한다. 반쯤 열린 소양 문·경첩·일출창. 다른 구역은 편집하지 말고 글자·숫자·도형 기호를 넣지 않는다.",
+      "gemini_en": "Attach one round brass clock pendulum below the hinge of the third, half-open Shaoyang door. Let it swing sideways at the rotation axis. Keep the hinge and sunrise window. Preserve all pixels outside this crop. Add no text, numerals, or graphic symbols."
+    },
+    {
+      "station": 7,
+      "box": [
+        694,
+        360,
+        333,
+        572
+      ],
+      "keep": "소양 경첩과 일출창, 맞은편 궐음 문",
+      "add": [],
+      "gemini_ko": "소양 문 바로 앞 흰 풍선의 가득 찬 둥근 윤곽을 선명하게 하고 붉은 통은 더 작고 얕아 보이게 한다. 위치는 고정한다. 다음 요소를 보존한다. 소양 경첩과 일출창, 맞은편 궐음 문. 다른 구역은 편집하지 말고 글자·숫자·도형 기호를 넣지 않는다.",
+      "gemini_en": "Emphasize the large, fully inflated white balloon and the much smaller, shallow red bucket directly in front of the Shaoyang door. Keep their positions, the hinge and sunrise window. Do not touch the opposite door. Preserve all pixels outside this crop. Add no text, numerals, or graphic symbols."
+    },
+    {
+      "station": 8,
+      "box": [
+        1478,
+        410,
+        109,
+        131
+      ],
+      "keep": "유리 모래시계의 외곽, 창틀, 경첩",
+      "add": [],
+      "gemini_ko": "소음 원형창 안의 모래시계 윗방 가장자리에만 작은 그늘이 처음 맺히듯 채색한다. 태음의 안개와 궐음의 가는 달은 건드리지 않는다. 다음 요소를 보존한다. 유리 모래시계의 외곽, 창틀, 경첩. 다른 구역은 편집하지 말고 글자·숫자·도형 기호를 넣지 않는다.",
+      "gemini_en": "Tint only a narrow starting patch of shadow at the upper edge of the existing hourglass in the Shaoyin window. Keep the glass contour, frame, hinge, the Taiyin mist and the Jueyin crescent. Preserve all pixels outside this crop. Add no text, numerals, or graphic symbols."
+    }
+  ],
+  "scene_score100": 87,
+  "to_user": [],
+  "needs_check": [],
+  "coverage_notes": [
+    "#1 개 대신 관으로 읽는 판본 차이는 동일 물건에 별도 관문을 추가하지 않고 글로 확인한다.",
+    "#7 少陽 多氣少血을(를) 해당 위치에서 회상하도록 수정한다.",
+    "#8 少陰 陰始生을(를) 해당 위치에서 회상하도록 수정한다."
+  ]
+}

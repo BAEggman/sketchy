@@ -1,0 +1,226 @@
+{
+  "lesson": "hp-03",
+  "stations": [
+    {
+      "n": 2,
+      "problem": "須는 훈이 안 보이고 소리 고리 없음. 石膏·知母는 색깔 묘사뿐(사전: 석고 조각상·지우개 모자)",
+      "target": "相須 石膏·知母",
+      "new_objects": [
+        {
+          "thing": "석고 흉상",
+          "word": "석고",
+          "reading": "석고",
+          "steps": 0,
+          "place_box": [
+            778,
+            101,
+            519,
+            454
+          ],
+          "action": "한 형제의 흰 돌은 흰 석고 흉상으로, 다른 형제의 흰 뿌리는 분홍 지우개 모양 모자로 바꾼다. 각자 원래 물건을 든 손에서 보이게 한다."
+        },
+        {
+          "thing": "지우개 모자",
+          "word": "지우개 모자",
+          "reading": "지모",
+          "steps": 2,
+          "place_box": [
+            778,
+            101,
+            519,
+            454
+          ],
+          "action": "한 형제의 흰 돌은 흰 석고 흉상으로, 다른 형제의 흰 뿌리는 분홍 지우개 모양 모자로 바꾼다. 각자 원래 물건을 든 손에서 보이게 한다."
+        }
+      ],
+      "say_add": "팔짱 낀 형제가 석고 흉상과 지우개 모자를 들고 함께 알통을 키운다. 석고와 지모가 짝을 이룬 상수다.",
+      "score25": 22,
+      "score_parts25": [
+        5,
+        4,
+        4,
+        3,
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "n": 6,
+      "problem": "惡(미워할)은 훈이 안 맞아 안 보임인데 하는 일만 그림. 萊菔子는 사전 '난폭자'를 안 씀",
+      "target": "相惡 人蔘惡萊菔子",
+      "new_objects": [],
+      "say_add": "무를 치켜든 난폭자가 청소기로 인삼의 빛만 빨아들인다. 내복자가 인삼의 효능을 깎는 상오이다.",
+      "score25": 22,
+      "score_parts25": [
+        5,
+        4,
+        4,
+        3,
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "n": 7,
+      "problem": "甘遂는 이름 고리 없음, 甘草는 사전 '약방의 감초'와 다름",
+      "target": "甘草反甘遂",
+      "new_objects": [
+        {
+          "thing": "작은 약장",
+          "word": "약방",
+          "reading": "감초",
+          "steps": 2,
+          "place_box": [
+            1412,
+            677,
+            605,
+            447
+          ],
+          "action": "검은 막대를 든 손님 쪽에 조그만 약장을 놓고 꼭대기에 익은 감 하나를 올린다. 반대편의 붉은 뿌리 든 손님 옷은 죄수 줄무늬로 바꾼다."
+        },
+        {
+          "thing": "약장 위 감",
+          "word": "감",
+          "reading": "감",
+          "steps": 0,
+          "place_box": [
+            1412,
+            677,
+            605,
+            447
+          ],
+          "action": "검은 막대를 든 손님 쪽에 조그만 약장을 놓고 꼭대기에 익은 감 하나를 올린다. 반대편의 붉은 뿌리 든 손님 옷은 죄수 줄무늬로 바꾼다."
+        }
+      ],
+      "say_add": "감 올린 약장 앞 감초가 붉은 뿌리를 든 감옥 죄수와 맞선다. 감초와 감수가 만나면 상반이다.",
+      "score25": 22,
+      "score_parts25": [
+        5,
+        4,
+        4,
+        3,
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "n": 8,
+      "problem": "藜蘆는 蘆=갈대 한 글자만, 사전은 여우+화로. 十八(수)을 나를 물건 없음",
+      "target": "十八反 藜蘆",
+      "new_objects": [
+        {
+          "thing": "붉은 여우",
+          "word": "여우",
+          "reading": "여",
+          "steps": 1,
+          "place_box": [
+            1020,
+            569,
+            265,
+            471
+          ],
+          "action": "갈대를 든 남자 발치에 붉은 여우가 작은 둥근 화로에 몸을 맞대고 불을 쬐게 한다. 갈대는 원래 손에 남긴다."
+        },
+        {
+          "thing": "작은 화로",
+          "word": "화로",
+          "reading": "로",
+          "steps": 1,
+          "place_box": [
+            1020,
+            569,
+            265,
+            471
+          ],
+          "action": "갈대를 든 남자 발치에 붉은 여우가 작은 둥근 화로에 몸을 맞대고 불을 쬐게 한다. 갈대는 원래 손에 남긴다."
+        }
+      ],
+      "say_add": "갈대를 든 남자 곁에서 여우가 화로를 쬔다. 여우와 화로는 십팔반의 여로다.",
+      "score25": 21,
+      "score_parts25": [
+        4,
+        4,
+        4,
+        3,
+        1,
+        3,
+        2
+      ]
+    }
+  ],
+  "zone_edits": [
+    {
+      "station": 2,
+      "box": [
+        778,
+        101,
+        519,
+        454
+      ],
+      "keep": "형제의 밝은 옷·팔짱·부풀린 알통",
+      "add": [
+        "석고 흉상",
+        "지우개 모자"
+      ],
+      "gemini_ko": "한 형제의 흰 돌은 흰 석고 흉상으로, 다른 형제의 흰 뿌리는 분홍 지우개 모양 모자로 바꾼다. 각자 원래 물건을 든 손에서 보이게 한다. 다음 요소를 보존한다. 형제의 밝은 옷·팔짱·부풀린 알통. 다른 구역은 편집하지 말고 글자·숫자·도형 기호를 넣지 않는다.",
+      "gemini_en": "Replace one brother’s white stone with a small plaster bust and the other’s white root with a pink eraser-shaped hat in his hand. Keep both white shirts, linked arms and flexed muscles. Preserve all pixels outside this crop. Add no text, numerals, or graphic symbols."
+    },
+    {
+      "station": 6,
+      "box": [
+        1067,
+        656,
+        363,
+        471
+      ],
+      "keep": "인삼과 노인, 무·청소기 및 금빛의 방향",
+      "add": [],
+      "gemini_ko": "흰 무를 든 기존 사람이 난폭자처럼 팔꿈치로 탁자를 밀며 청소기를 휘두른다. 흡입구는 인삼 쪽으로 두고 그쪽 금빛만 빨아들인다. 다음 요소를 보존한다. 인삼과 노인, 무·청소기 및 금빛의 방향. 다른 구역은 편집하지 말고 글자·숫자·도형 기호를 넣지 않는다.",
+      "gemini_en": "Make the existing radish-holder shove the table with an elbow and wrench the vacuum roughly. Keep the intake facing only the ginseng glow and leave the old man and the radish visible. Preserve all pixels outside this crop. Add no text, numerals, or graphic symbols."
+    },
+    {
+      "station": 7,
+      "box": [
+        1412,
+        677,
+        605,
+        447
+      ],
+      "keep": "검은 감초 막대·붉은 감수 뿌리·두 사람 사이 해골 독구름",
+      "add": [
+        "작은 약장",
+        "약장 위 감"
+      ],
+      "gemini_ko": "검은 막대를 든 손님 쪽에 조그만 약장을 놓고 꼭대기에 익은 감 하나를 올린다. 반대편의 붉은 뿌리 든 손님 옷은 죄수 줄무늬로 바꾼다. 다음 요소를 보존한다. 검은 감초 막대·붉은 감수 뿌리·두 사람 사이 해골 독구름. 다른 구역은 편집하지 말고 글자·숫자·도형 기호를 넣지 않는다.",
+      "gemini_en": "Beside the black-stick customer place a tiny apothecary cabinet topped with one persimmon. Recolor the opposing red-root customer’s existing shirt into a prison uniform. Keep both roots and the skull cloud in between. Preserve all pixels outside this crop. Add no text, numerals, or graphic symbols."
+    },
+    {
+      "station": 8,
+      "box": [
+        1020,
+        569,
+        265,
+        471
+      ],
+      "keep": "원래 갈대와 까마귀 가면·인삼 노인·먹구름",
+      "add": [
+        "붉은 여우",
+        "작은 화로"
+      ],
+      "gemini_ko": "갈대를 든 남자 발치에 붉은 여우가 작은 둥근 화로에 몸을 맞대고 불을 쬐게 한다. 갈대는 원래 손에 남긴다. 다음 요소를 보존한다. 원래 갈대와 까마귀 가면·인삼 노인·먹구름. 다른 구역은 편집하지 말고 글자·숫자·도형 기호를 넣지 않는다.",
+      "gemini_en": "At the reed-holder’s feet, nestle a red fox against a small round brazier. Leave the reed in the same hand and preserve the crow mask, dark cloud and ginseng figures. Preserve all pixels outside this crop. Add no text, numerals, or graphic symbols."
+    }
+  ],
+  "scene_score100": 92,
+  "to_user": [],
+  "needs_check": [],
+  "coverage_notes": [
+    "#2 상수의 수는 독립 물건 없이 형제의 상호 증강으로 회상한다.",
+    "#8 십팔은 독구름 옆에 수 물건을 더 넣으면 여로·오두·감초 셋의 경계가 흐려져 사실 칸에서 확인한다.",
+    "#6 相惡 人蔘惡萊菔子을(를) 해당 위치에서 회상하도록 수정한다.",
+    "#7 甘草反甘遂을(를) 해당 위치에서 회상하도록 수정한다."
+  ]
+}

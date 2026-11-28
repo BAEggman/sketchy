@@ -2518,9 +2518,10 @@
       "audio_sha256": "0b1b0ce97de5e46b38bca11010a5429da9d98befae8f0f09cbaabb7a2a4c40b3",
       "image_sha256": "304aef63cee4f5f26adc3e577fd87d4b00b432d4d1516e26bc79e8b5b9adfc63",
       "source_commit": "db7bd76b46e86b3ae96f1605f0b0f6e42f92a74b",
-      "station_sha256": "59fd5ca76da8e6ab3c1ab75c1368eb75610bfc268a13d256c0f7ec994e329e44",
+      "station_sha256": "fbff192c077a179a263a5ed8a18d7d8cc57b572ebe4e17a3ff9a05545578da43",
       "original_wav_sha256": "4c016b8adbffd600d6f69667447acf959f016d8121932af31c22e7c362f65eb6",
-      "original_wav_filename": "new-jq-08.full.wav"
+      "original_wav_filename": "new-jq-08.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "new-jq-08#2": {
       "src": "https://baeggman.github.io/sketchy-audio/new-jq-08__s2__21f447477a6f.mp3",
@@ -2529,9 +2530,10 @@
       "audio_sha256": "a9fe6a034de2ca5082fe9c042925356bde533a95f68abf4038a9e71485dbe627",
       "image_sha256": "304aef63cee4f5f26adc3e577fd87d4b00b432d4d1516e26bc79e8b5b9adfc63",
       "source_commit": "db7bd76b46e86b3ae96f1605f0b0f6e42f92a74b",
-      "station_sha256": "d27f83da416f6240eb9773d94660dd6e1a3082afaec933afad0a87861e12e681",
+      "station_sha256": "4d792c42612aa2b0c535407a9df3d68479bc0059e22f591ad760887a5bc94350",
       "original_wav_sha256": "4c016b8adbffd600d6f69667447acf959f016d8121932af31c22e7c362f65eb6",
-      "original_wav_filename": "new-jq-08.full.wav"
+      "original_wav_filename": "new-jq-08.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "new-jq-08#3": {
       "src": "https://baeggman.github.io/sketchy-audio/new-jq-08__s3__fff115602f61.mp3",
@@ -2540,9 +2542,10 @@
       "audio_sha256": "60f78ff35c1ef743dfe5ddf5404cfc99a49ec0e589ead4ace287cca92d840249",
       "image_sha256": "304aef63cee4f5f26adc3e577fd87d4b00b432d4d1516e26bc79e8b5b9adfc63",
       "source_commit": "db7bd76b46e86b3ae96f1605f0b0f6e42f92a74b",
-      "station_sha256": "1c9e87ab0913ed418c1f8d927f119e27907b94e4a6d28560ab133c33e55b482d",
+      "station_sha256": "e833824474f88525b979094e61fb59a86e42cc7a395b73b96b23eb00f2014403",
       "original_wav_sha256": "4c016b8adbffd600d6f69667447acf959f016d8121932af31c22e7c362f65eb6",
-      "original_wav_filename": "new-jq-08.full.wav"
+      "original_wav_filename": "new-jq-08.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "new-jq-08#4": {
       "src": "https://baeggman.github.io/sketchy-audio/new-jq-08__s4__4b4ac11ccfe7.mp3",
@@ -2551,9 +2554,10 @@
       "audio_sha256": "78fcbade00ed15e0e57a5882e2dad6c36fd486b3f4ed3c87c40e6119139be588",
       "image_sha256": "304aef63cee4f5f26adc3e577fd87d4b00b432d4d1516e26bc79e8b5b9adfc63",
       "source_commit": "db7bd76b46e86b3ae96f1605f0b0f6e42f92a74b",
-      "station_sha256": "bf775de2cb30e7c3995a75f7530cebbedfcffdadae6df1bfc0601b6f26be6530",
+      "station_sha256": "16d01a6883d588e08fc5a590feed569121fc3d849a87ca3c2d088291876d9f08",
       "original_wav_sha256": "4c016b8adbffd600d6f69667447acf959f016d8121932af31c22e7c362f65eb6",
-      "original_wav_filename": "new-jq-08.full.wav"
+      "original_wav_filename": "new-jq-08.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "new-jq-08#5": {
       "src": "https://baeggman.github.io/sketchy-audio/new-jq-08__s5__b3624fc14b42.mp3",
@@ -2562,9 +2566,10 @@
       "audio_sha256": "522be83fb8fd9604601e179be0254cb72e5d1dfef074222645d17c2ed5018206",
       "image_sha256": "304aef63cee4f5f26adc3e577fd87d4b00b432d4d1516e26bc79e8b5b9adfc63",
       "source_commit": "db7bd76b46e86b3ae96f1605f0b0f6e42f92a74b",
-      "station_sha256": "cf77196e955aefc42c54f69685a1e816a1296a2a897fe2df1c4ea2794c0ba12e",
+      "station_sha256": "99215a8cd4d3d44aa2216079589061e5df740498f683ee2526e41e7bf6f0ffaf",
       "original_wav_sha256": "4c016b8adbffd600d6f69667447acf959f016d8121932af31c22e7c362f65eb6",
-      "original_wav_filename": "new-jq-08.full.wav"
+      "original_wav_filename": "new-jq-08.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "new-jq-08#6": {
       "src": "https://baeggman.github.io/sketchy-audio/new-jq-08__s6__89e9c7fd8e6b.mp3",

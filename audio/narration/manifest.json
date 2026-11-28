@@ -8031,28 +8031,6 @@
       "original_wav_sha256": "575ec3277663353b60959f1c41543c4c28a43b2ffc7783fe864140b19e9e98f8",
       "original_wav_filename": "mer-08.full.wav",
       "restamped": "2026-11-28 가 선 ①: 고리 칸만 바뀜, 낭독 글 그대로"
-    },
-    "new-uk-15#8": {
-      "src": "https://baeggman.github.io/sketchy-audio/new-uk-15__s8__cf0d7b9d7117.mp3",
-      "text": "안문의 창. 경첩 문 창에는 뒤집히는 모래시계, 소음, 음 가운데의 전환축 추. 열린 문 창에는 젖은 갈색 진흙 둔덕 위로 안개가 뭉쳐 꼴을 이룬다, 태음, 음이 성해 형체를 이룬다, 습. 닫힌 문 창에는 가는 그믐달과 첫 바람, 궐음, 음이 다해 움직임이 일고 바람이 된다, 음진, 동, 풍.",
-      "text_sha256": "cf0d7b9d71172618088bf394879d9866770edac37f487d05682b5c6881cadcda",
-      "audio_sha256": "a98b2b5a8baf26d4a1037058528581e72aac37d8bda4635db0a5bfdf26c20c79",
-      "image_sha256": "5ef53b90a68ac81d7e010fd253b11b3b2e8ba5e4dc86839ce30fa8982b88e5fb",
-      "source_commit": "501120e18d1371f25d7de4830c97f1064f8d9711",
-      "station_sha256": "ff8a68338dd4809e8622311739c851317aed407c41562d2f0aafe2e0ac5479aa",
-      "original_wav_sha256": "a32b0657f7810046f8bb6782400d70e63a2869066ce08fbc682da5c8691df55e",
-      "original_wav_filename": "new-uk-15.full.wav"
-    },
-    "new-uk-15#10": {
-      "src": "https://baeggman.github.io/sketchy-audio/new-uk-15__s10__4a1bc972f08a.mp3",
-      "text": "다시 본다. 바깥문, 태양 개, 양명 합, 소양 추. 안문, 태음 개, 궐음 합, 소음 추. 징, 궐음 일음, 소음 이음, 태음 삼음, 음이 다하는 곳은 궐음. 창, 소양 해돋이, 양명 한낮, 태양 저녁, 소음 모래시계, 태음 진흙, 궐음 그믐달과 바람. 통과 풍선, 양명만 다기다혈. 책자, 음양리합론, 열론, 상한론.",
-      "text_sha256": "4a1bc972f08af23a9a071e186452740e9d980b275949411404135c066291033d",
-      "audio_sha256": "c06da1bbd58ecf8c8949d2a2c83bce4d83b695a4fdd68abd870e5eb63f35eaf9",
-      "image_sha256": "5ef53b90a68ac81d7e010fd253b11b3b2e8ba5e4dc86839ce30fa8982b88e5fb",
-      "source_commit": "501120e18d1371f25d7de4830c97f1064f8d9711",
-      "station_sha256": "1df25579b8988ea2e4133dcc0aa1219d6c1ddefdae75bb2c665f9aa4e92a0704",
-      "original_wav_sha256": "a32b0657f7810046f8bb6782400d70e63a2869066ce08fbc682da5c8691df55e",
-      "original_wav_filename": "new-uk-15.full.wav"
     }
   },
   "pending_review": {
@@ -8419,6 +8397,32 @@
       "original_wav_filename": "new-uk-13.full.wav",
       "pending_since": "2026-11-28",
       "pending_reason": "가 선 ①: 정거장 글 바뀜(fact · hook · say) — ⑤에서 다시 녹음"
+    },
+    "new-uk-15#8": {
+      "src": "https://baeggman.github.io/sketchy-audio/new-uk-15__s8__cf0d7b9d7117.mp3",
+      "text": "안문의 창. 경첩 문 창에는 뒤집히는 모래시계, 소음, 음 가운데의 전환축 추. 열린 문 창에는 젖은 갈색 진흙 둔덕 위로 안개가 뭉쳐 꼴을 이룬다, 태음, 음이 성해 형체를 이룬다, 습. 닫힌 문 창에는 가는 그믐달과 첫 바람, 궐음, 음이 다해 움직임이 일고 바람이 된다, 음진, 동, 풍.",
+      "text_sha256": "cf0d7b9d71172618088bf394879d9866770edac37f487d05682b5c6881cadcda",
+      "audio_sha256": "a98b2b5a8baf26d4a1037058528581e72aac37d8bda4635db0a5bfdf26c20c79",
+      "image_sha256": "5ef53b90a68ac81d7e010fd253b11b3b2e8ba5e4dc86839ce30fa8982b88e5fb",
+      "source_commit": "501120e18d1371f25d7de4830c97f1064f8d9711",
+      "station_sha256": "ff8a68338dd4809e8622311739c851317aed407c41562d2f0aafe2e0ac5479aa",
+      "original_wav_sha256": "a32b0657f7810046f8bb6782400d70e63a2869066ce08fbc682da5c8691df55e",
+      "original_wav_filename": "new-uk-15.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "가 선 ①: 정거장 글 바뀜(fact · hook · say) — ⑤에서 다시 녹음"
+    },
+    "new-uk-15#10": {
+      "src": "https://baeggman.github.io/sketchy-audio/new-uk-15__s10__4a1bc972f08a.mp3",
+      "text": "다시 본다. 바깥문, 태양 개, 양명 합, 소양 추. 안문, 태음 개, 궐음 합, 소음 추. 징, 궐음 일음, 소음 이음, 태음 삼음, 음이 다하는 곳은 궐음. 창, 소양 해돋이, 양명 한낮, 태양 저녁, 소음 모래시계, 태음 진흙, 궐음 그믐달과 바람. 통과 풍선, 양명만 다기다혈. 책자, 음양리합론, 열론, 상한론.",
+      "text_sha256": "4a1bc972f08af23a9a071e186452740e9d980b275949411404135c066291033d",
+      "audio_sha256": "c06da1bbd58ecf8c8949d2a2c83bce4d83b695a4fdd68abd870e5eb63f35eaf9",
+      "image_sha256": "5ef53b90a68ac81d7e010fd253b11b3b2e8ba5e4dc86839ce30fa8982b88e5fb",
+      "source_commit": "501120e18d1371f25d7de4830c97f1064f8d9711",
+      "station_sha256": "1df25579b8988ea2e4133dcc0aa1219d6c1ddefdae75bb2c665f9aa4e92a0704",
+      "original_wav_sha256": "a32b0657f7810046f8bb6782400d70e63a2869066ce08fbc682da5c8691df55e",
+      "original_wav_filename": "new-uk-15.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "가 선 ①: 정거장 글 바뀜(say) — ⑤에서 다시 녹음"
     }
   }
 }

@@ -8163,39 +8163,6 @@
       "station_sha256": "0a2563626bc35957ecab5edce6d77e5e230e7ae528b0fd20043a8d2ba6f35ac6",
       "original_wav_sha256": "a383102d261ea3161c1f749ca02bef66460bd1870bc17fc252df6555d99dfe8f",
       "original_wav_filename": "mer-10.full.wav"
-    },
-    "mer-13#1": {
-      "src": "https://baeggman.github.io/sketchy-audio/mer-13__s1__853dedb6de06.mp3",
-      "text": "허리 옆에 작은 보물 상자, 갈무리할 장, 장회다. 혈은 장문, 난경 원문은 계협, 옆구리 갈비 끝이라 했다. 장문은 비의 모혈이고 간경 위에 세 든 혈이다. 부회, 장회, 근회, 수회는 중완, 장문, 양릉천, 절골.",
-      "text_sha256": "853dedb6de06775e46e89ea871ada669cf748a5f7cee3ff50fc05eb7cd3ee86a",
-      "audio_sha256": "a168435ae2b15d07ff7c1da5499d27e4720aa0196375872694c68bcbcec6c72a",
-      "image_sha256": "daf8c05fa74b974a53f049822a476f62d82388f702c6137053029d0688d8c843",
-      "source_commit": "e5f79d28727b605a4a79c2fe39c817e2bc03e4bb",
-      "station_sha256": "37514761f71619c98a30e25f4281e0e22e35bdc95dea1082e334b9bc167f90bb",
-      "original_wav_sha256": "0b660666d52b3bd4f1f60b13d984ffa1d890cf998daf9353b605834ba804acc7",
-      "original_wav_filename": "mer-13.full.wav"
-    },
-    "mer-13#2": {
-      "src": "https://baeggman.github.io/sketchy-audio/mer-13__s2__f64f2eef9677.mp3",
-      "text": "윗배 한가운데, 명치와 배꼽 사이에 쌀자루, 난경 원문은 태창, 큰 곳간이라 했다. 곳간은 위, 육부의 우두머리다. 부회 중완. 중완은 위의 모혈이고, 임맥, 수태양, 수소양, 족양명이 만나는 교회혈이기도 하다.",
-      "text_sha256": "f64f2eef9677ab3ec6e749b98e41241293f3ba3feba64373988c61ae88f6d938",
-      "audio_sha256": "d9b5af38a393ef874455099f228c9d032df795e79a50eef662140ab503278b7f",
-      "image_sha256": "daf8c05fa74b974a53f049822a476f62d82388f702c6137053029d0688d8c843",
-      "source_commit": "e5f79d28727b605a4a79c2fe39c817e2bc03e4bb",
-      "station_sha256": "40ef0cbc999967f2dd54ffa4b9b748d00221d97d695e6645eed66a5ecaff50fc",
-      "original_wav_sha256": "0b660666d52b3bd4f1f60b13d984ffa1d890cf998daf9353b605834ba804acc7",
-      "original_wav_filename": "mer-13.full.wav"
-    },
-    "mer-13#4": {
-      "src": "https://baeggman.github.io/sketchy-audio/mer-13__s4__9c6b20bc951e.mp3",
-      "text": "등 뒤에 붉은 천, 엎드린 거인의 등을 가로지르던 그 천이다. 제7흉추, 견갑골 아래 끝 높이의 격수, 혈회다. 배수혈 가운데 팔회혈을 겸하는 것은 격수 하나뿐이다.",
-      "text_sha256": "9c6b20bc951ebe060f5b9baeabe2f06893bf5142376d597b464ce2888b8e8bff",
-      "audio_sha256": "4dacab0887ffe49d59393d94c5ed69b87b2cbd17cc5e864bf991d062822ffa5d",
-      "image_sha256": "daf8c05fa74b974a53f049822a476f62d82388f702c6137053029d0688d8c843",
-      "source_commit": "e5f79d28727b605a4a79c2fe39c817e2bc03e4bb",
-      "station_sha256": "7a80a494d029738920b2a03d526232ab8120b45e5213f962cb951ea6295c86ee",
-      "original_wav_sha256": "0b660666d52b3bd4f1f60b13d984ffa1d890cf998daf9353b605834ba804acc7",
-      "original_wav_filename": "mer-13.full.wav"
     }
   },
   "pending_review": {
@@ -8300,6 +8267,45 @@
       "station_sha256": "b15957d6591196391ffcb2578eb76d56b324c3e5c59af2b2f171810fa55e5120",
       "original_wav_sha256": "0c456481e8d55caa432eaed82c5edfbc15e3a9065bb10d9090bfee23b8aecd3d",
       "original_wav_filename": "mer-12.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "가 선 ①: 정거장 글 바뀜(hook · say) — ⑤에서 다시 녹음"
+    },
+    "mer-13#1": {
+      "src": "https://baeggman.github.io/sketchy-audio/mer-13__s1__853dedb6de06.mp3",
+      "text": "허리 옆에 작은 보물 상자, 갈무리할 장, 장회다. 혈은 장문, 난경 원문은 계협, 옆구리 갈비 끝이라 했다. 장문은 비의 모혈이고 간경 위에 세 든 혈이다. 부회, 장회, 근회, 수회는 중완, 장문, 양릉천, 절골.",
+      "text_sha256": "853dedb6de06775e46e89ea871ada669cf748a5f7cee3ff50fc05eb7cd3ee86a",
+      "audio_sha256": "a168435ae2b15d07ff7c1da5499d27e4720aa0196375872694c68bcbcec6c72a",
+      "image_sha256": "daf8c05fa74b974a53f049822a476f62d82388f702c6137053029d0688d8c843",
+      "source_commit": "e5f79d28727b605a4a79c2fe39c817e2bc03e4bb",
+      "station_sha256": "37514761f71619c98a30e25f4281e0e22e35bdc95dea1082e334b9bc167f90bb",
+      "original_wav_sha256": "0b660666d52b3bd4f1f60b13d984ffa1d890cf998daf9353b605834ba804acc7",
+      "original_wav_filename": "mer-13.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "가 선 ①: 정거장 글 바뀜(hook · say) — ⑤에서 다시 녹음"
+    },
+    "mer-13#2": {
+      "src": "https://baeggman.github.io/sketchy-audio/mer-13__s2__f64f2eef9677.mp3",
+      "text": "윗배 한가운데, 명치와 배꼽 사이에 쌀자루, 난경 원문은 태창, 큰 곳간이라 했다. 곳간은 위, 육부의 우두머리다. 부회 중완. 중완은 위의 모혈이고, 임맥, 수태양, 수소양, 족양명이 만나는 교회혈이기도 하다.",
+      "text_sha256": "f64f2eef9677ab3ec6e749b98e41241293f3ba3feba64373988c61ae88f6d938",
+      "audio_sha256": "d9b5af38a393ef874455099f228c9d032df795e79a50eef662140ab503278b7f",
+      "image_sha256": "daf8c05fa74b974a53f049822a476f62d82388f702c6137053029d0688d8c843",
+      "source_commit": "e5f79d28727b605a4a79c2fe39c817e2bc03e4bb",
+      "station_sha256": "40ef0cbc999967f2dd54ffa4b9b748d00221d97d695e6645eed66a5ecaff50fc",
+      "original_wav_sha256": "0b660666d52b3bd4f1f60b13d984ffa1d890cf998daf9353b605834ba804acc7",
+      "original_wav_filename": "mer-13.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "가 선 ①: 정거장 글 바뀜(hook · say) — ⑤에서 다시 녹음"
+    },
+    "mer-13#4": {
+      "src": "https://baeggman.github.io/sketchy-audio/mer-13__s4__9c6b20bc951e.mp3",
+      "text": "등 뒤에 붉은 천, 엎드린 거인의 등을 가로지르던 그 천이다. 제7흉추, 견갑골 아래 끝 높이의 격수, 혈회다. 배수혈 가운데 팔회혈을 겸하는 것은 격수 하나뿐이다.",
+      "text_sha256": "9c6b20bc951ebe060f5b9baeabe2f06893bf5142376d597b464ce2888b8e8bff",
+      "audio_sha256": "4dacab0887ffe49d59393d94c5ed69b87b2cbd17cc5e864bf991d062822ffa5d",
+      "image_sha256": "daf8c05fa74b974a53f049822a476f62d82388f702c6137053029d0688d8c843",
+      "source_commit": "e5f79d28727b605a4a79c2fe39c817e2bc03e4bb",
+      "station_sha256": "7a80a494d029738920b2a03d526232ab8120b45e5213f962cb951ea6295c86ee",
+      "original_wav_sha256": "0b660666d52b3bd4f1f60b13d984ffa1d890cf998daf9353b605834ba804acc7",
+      "original_wav_filename": "mer-13.full.wav",
       "pending_since": "2026-11-28",
       "pending_reason": "가 선 ①: 정거장 글 바뀜(hook · say) — ⑤에서 다시 녹음"
     },

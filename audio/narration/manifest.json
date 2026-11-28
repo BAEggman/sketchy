@@ -3841,17 +3841,6 @@
       "original_wav_sha256": "466c4bdb0add32767c1d74b2c98acb1b8f6905b12480b7a3ed9051914fded5f8",
       "original_wav_filename": "new-gr-02.full.wav"
     },
-    "new-gr-02#1": {
-      "src": "https://baeggman.github.io/sketchy-audio/new-gr-02__s1__783240e691f6.mp3",
-      "text": "참호에서 비단 두루마리 둘을 펼친다. 발과 팔이 그려진 것, 족비십일맥구경. 검은 반 흰 반, 음양십일맥구경. 두루마리 위쪽 참호 벽의 주사위 1, 1, 열한 맥, 십일맥. 한대, 내경보다 앞선 경맥학설의 가장 첫 모습이다.",
-      "text_sha256": "783240e691f6dae21843c5bc090605e240bbf66a20f9d30dae6023bac05d1932",
-      "audio_sha256": "74f92fc888b9376e90e168891ba8fa962b9c9d177622879d67a8712df04c0982",
-      "image_sha256": "53d821876e5ce96f5ac116222f2a5f49dee3a3586214f3f8de70402bfab6552d",
-      "source_commit": "05f6b4c30c3e8ed286c3f5ba776b4620c5800034",
-      "station_sha256": "e4bc60141b242281c04b7cfbd96b52771c9540c4f9feda2d210c48f105c5eaab",
-      "original_wav_sha256": "466c4bdb0add32767c1d74b2c98acb1b8f6905b12480b7a3ed9051914fded5f8",
-      "original_wav_filename": "new-gr-02.full.wav"
-    },
     "new-gr-02#2": {
       "src": "https://baeggman.github.io/sketchy-audio/new-gr-02__s2__1de3e2179755.mp3",
       "text": "벽감 줄에 한 칸이 비고 붉은 방패만 남았다. 방패를 든 붉은 갑옷 호위무사, 심포다. 백서는 열한 맥뿐이라, 영추의 열두 경에 비해 수궐음, 심포의 맥이 없다.",
@@ -8445,6 +8434,19 @@
       "station_sha256": "256ea070428a194022c9a263f6e2b1b5ca6effc7142b25d6e357b5f29fa50988",
       "original_wav_sha256": "687b66beacc169a176f5a90f75d1a8a26badae21fd85c4c9207fe1c599730b8a",
       "original_wav_filename": "new-gr-01.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "2026-11-28 나 선 ①: 정거장 글 바뀜(say) — ⑤에서 다시 녹음"
+    },
+    "new-gr-02#1": {
+      "src": "https://baeggman.github.io/sketchy-audio/new-gr-02__s1__783240e691f6.mp3",
+      "text": "참호에서 비단 두루마리 둘을 펼친다. 발과 팔이 그려진 것, 족비십일맥구경. 검은 반 흰 반, 음양십일맥구경. 두루마리 위쪽 참호 벽의 주사위 1, 1, 열한 맥, 십일맥. 한대, 내경보다 앞선 경맥학설의 가장 첫 모습이다.",
+      "text_sha256": "783240e691f6dae21843c5bc090605e240bbf66a20f9d30dae6023bac05d1932",
+      "audio_sha256": "74f92fc888b9376e90e168891ba8fa962b9c9d177622879d67a8712df04c0982",
+      "image_sha256": "53d821876e5ce96f5ac116222f2a5f49dee3a3586214f3f8de70402bfab6552d",
+      "source_commit": "05f6b4c30c3e8ed286c3f5ba776b4620c5800034",
+      "station_sha256": "e4bc60141b242281c04b7cfbd96b52771c9540c4f9feda2d210c48f105c5eaab",
+      "original_wav_sha256": "466c4bdb0add32767c1d74b2c98acb1b8f6905b12480b7a3ed9051914fded5f8",
+      "original_wav_filename": "new-gr-02.full.wav",
       "pending_since": "2026-11-28",
       "pending_reason": "2026-11-28 나 선 ①: 정거장 글 바뀜(say) — ⑤에서 다시 녹음"
     }

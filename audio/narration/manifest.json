@@ -971,9 +971,10 @@
       "audio_sha256": "018f2e74e83ec9a0170e4bcad620e039bf5debaccb3e40ef4f22175075e3d153",
       "image_sha256": "f6f7d007d1f3fdd228312c6f3870d3f95dca64d3d32af42a86b50aefb34c908f",
       "source_commit": "acff198162e30ae7041ab9186631e9cd172fa26f",
-      "station_sha256": "8fc347c836721794eeaff382bf6316f65df65a7153e4c67169a27f1f486d0a54",
+      "station_sha256": "450f9130dba009e08d8818d2e04364be0e556bb46cd7d3194378f00da92967ce",
       "original_wav_sha256": "24875146aa99db62a704f7b61b3c0e8ba02e53a89aa5d242b3234652d36197ac",
-      "original_wav_filename": "new-uk-09.full.wav"
+      "original_wav_filename": "new-uk-09.full.wav",
+      "restamped": "2026-11-28 가 선 ②: 「표에서 연습」 잇기(table 칸)만 더함, 낭독 글 그대로"
     },
     "new-uk-09#5": {
       "src": "https://baeggman.github.io/sketchy-audio/new-uk-09__s5__941005e4a054.mp3",
@@ -982,9 +983,10 @@
       "audio_sha256": "9a3a32f8ba5e9e1887b091116c11313fab06b8b1e61d2a75331a39a5bbb28691",
       "image_sha256": "f6f7d007d1f3fdd228312c6f3870d3f95dca64d3d32af42a86b50aefb34c908f",
       "source_commit": "acff198162e30ae7041ab9186631e9cd172fa26f",
-      "station_sha256": "a80637831dfea9fe5dd079433ac137d4aafe1237747bc663d65d8c159ba04aaa",
+      "station_sha256": "04e2c41e1ddca37e41447dc3d186cb714983e7ccf8e0f53e6d73030766336096",
       "original_wav_sha256": "24875146aa99db62a704f7b61b3c0e8ba02e53a89aa5d242b3234652d36197ac",
-      "original_wav_filename": "new-uk-09.full.wav"
+      "original_wav_filename": "new-uk-09.full.wav",
+      "restamped": "2026-11-28 가 선 ②: 「표에서 연습」 잇기(table 칸)만 더함, 낭독 글 그대로"
     },
     "new-uk-09#6": {
       "src": "https://baeggman.github.io/sketchy-audio/new-uk-09__s6__964d8a7d882f.mp3",
@@ -993,9 +995,10 @@
       "audio_sha256": "63a4f8698fc86dd8401483c3e3d1f9f88f4e8b0438894521ab00ba6096e25dc1",
       "image_sha256": "f6f7d007d1f3fdd228312c6f3870d3f95dca64d3d32af42a86b50aefb34c908f",
       "source_commit": "acff198162e30ae7041ab9186631e9cd172fa26f",
-      "station_sha256": "26cfc40e044c9a5f085ffbf7002b0437bf51a5e40f58b004217756e4b9b6f1a0",
+      "station_sha256": "bec87e60691082e19f951b7cdd902bca63fd27af6b4d32e8e562c430133de6c1",
       "original_wav_sha256": "24875146aa99db62a704f7b61b3c0e8ba02e53a89aa5d242b3234652d36197ac",
-      "original_wav_filename": "new-uk-09.full.wav"
+      "original_wav_filename": "new-uk-09.full.wav",
+      "restamped": "2026-11-28 가 선 ②: 「표에서 연습」 잇기(table 칸)만 더함, 낭독 글 그대로"
     },
     "new-uk-09#7": {
       "src": "https://baeggman.github.io/sketchy-audio/new-uk-09__s7__11b858928121.mp3",
@@ -1004,9 +1007,10 @@
       "audio_sha256": "a5bf05c99d1a44f535333569151136526c9c06c990ec1e1dda01b4481a1df723",
       "image_sha256": "f6f7d007d1f3fdd228312c6f3870d3f95dca64d3d32af42a86b50aefb34c908f",
       "source_commit": "acff198162e30ae7041ab9186631e9cd172fa26f",
-      "station_sha256": "f7050202a29f05174720f5cf2fdb2a4a793b4af5b800d5631c74891b79721372",
+      "station_sha256": "6b00eeb11a7c17da5b1da7b867bdcba521de2c31a4eea17d30784057312c05c2",
       "original_wav_sha256": "24875146aa99db62a704f7b61b3c0e8ba02e53a89aa5d242b3234652d36197ac",
-      "original_wav_filename": "new-uk-09.full.wav"
+      "original_wav_filename": "new-uk-09.full.wav",
+      "restamped": "2026-11-28 가 선 ②: 「표에서 연습」 잇기(table 칸)만 더함, 낭독 글 그대로"
     },
     "new-uk-09#8": {
       "src": "https://baeggman.github.io/sketchy-audio/new-uk-09__s8__2b7f99e1463d.mp3",
@@ -1015,9 +1019,10 @@
       "audio_sha256": "05de30cd913a2e832f7be73f62e6242af139bb24454eeb97b74aeb9682c553c3",
       "image_sha256": "f6f7d007d1f3fdd228312c6f3870d3f95dca64d3d32af42a86b50aefb34c908f",
       "source_commit": "acff198162e30ae7041ab9186631e9cd172fa26f",
-      "station_sha256": "c7c1a6cde02c022365981af5df8055b022c79ed8dca6c4ecfea999031df78cf1",
+      "station_sha256": "cbdda1e765a8d65298ba7394b7ed60f7268192e1f2173ea48fcec60c77391279",
       "original_wav_sha256": "24875146aa99db62a704f7b61b3c0e8ba02e53a89aa5d242b3234652d36197ac",
-      "original_wav_filename": "new-uk-09.full.wav"
+      "original_wav_filename": "new-uk-09.full.wav",
+      "restamped": "2026-11-28 가 선 ②: 「표에서 연습」 잇기(table 칸)만 더함, 낭독 글 그대로"
     },
     "new-uk-09#9": {
       "src": "https://baeggman.github.io/sketchy-audio/new-uk-09__s9__f690d7588f33.mp3",
@@ -6968,9 +6973,10 @@
       "audio_sha256": "b1593b993c278c5a02209f26b8f35cb57ff09a23564b1a0578852c45bd0d5d2f",
       "image_sha256": "16f578a20fe5219ba6fff15ca1774258025dc6fc644e601f1708149ac75197de",
       "source_commit": "c51f8170255c88085ff1cf3c854c9d5b6f126115",
-      "station_sha256": "1553dcd694b53d6c173fbb42e5be3478f32c7ac61d239a8017046bdd6197d50f",
+      "station_sha256": "33f5d12e52f1cd3f3b5fd2684ee725e59e8d7623dc2dba2224ed93fe090f3b12",
       "original_wav_sha256": "9b080eba18e1944dee30160729c5511fa06d56bd6d14a4ff740f9659d91fa624",
-      "original_wav_filename": "mer-09.full.wav"
+      "original_wav_filename": "mer-09.full.wav",
+      "restamped": "2026-11-28 가 선 ②: 「표에서 연습」 잇기(table 칸)만 더함, 낭독 글 그대로"
     },
     "mer-09#2": {
       "src": "https://baeggman.github.io/sketchy-audio/mer-09__s2__ccc2c534ac0b.mp3",
@@ -6979,9 +6985,10 @@
       "audio_sha256": "ad6e8b469b79cf935be4461705794aa36d9d845f4b6a68c5682d66f1088e3333",
       "image_sha256": "16f578a20fe5219ba6fff15ca1774258025dc6fc644e601f1708149ac75197de",
       "source_commit": "c51f8170255c88085ff1cf3c854c9d5b6f126115",
-      "station_sha256": "21b72142a4c561572186fe826b53a75c13981bfa2ce1c21be8366b46a39b005f",
+      "station_sha256": "625f72737c1f73290919a5690572bdd8b5f31ef97250b1382ef18dec52509544",
       "original_wav_sha256": "9b080eba18e1944dee30160729c5511fa06d56bd6d14a4ff740f9659d91fa624",
-      "original_wav_filename": "mer-09.full.wav"
+      "original_wav_filename": "mer-09.full.wav",
+      "restamped": "2026-11-28 가 선 ②: 「표에서 연습」 잇기(table 칸)만 더함, 낭독 글 그대로"
     },
     "mer-09#3": {
       "src": "https://baeggman.github.io/sketchy-audio/mer-09__s3__ddb0b31efa56.mp3",
@@ -6990,9 +6997,10 @@
       "audio_sha256": "01ce88ccba137a4113eebd6e88443d47af1341d9f886f7087d26334eb3e02dbf",
       "image_sha256": "16f578a20fe5219ba6fff15ca1774258025dc6fc644e601f1708149ac75197de",
       "source_commit": "c51f8170255c88085ff1cf3c854c9d5b6f126115",
-      "station_sha256": "33461e33d5b61d09d70c6024a03374bfbf5057aab48f0fb5365da45ae4bc472f",
+      "station_sha256": "bdc8ad2f4f641c91688af8f38c5b1bd3c09e992beaa9954baa4fe5748073107e",
       "original_wav_sha256": "9b080eba18e1944dee30160729c5511fa06d56bd6d14a4ff740f9659d91fa624",
-      "original_wav_filename": "mer-09.full.wav"
+      "original_wav_filename": "mer-09.full.wav",
+      "restamped": "2026-11-28 가 선 ②: 「표에서 연습」 잇기(table 칸)만 더함, 낭독 글 그대로"
     },
     "mer-09#4": {
       "src": "https://baeggman.github.io/sketchy-audio/mer-09__s4__27e05a74edfc.mp3",
@@ -7001,9 +7009,10 @@
       "audio_sha256": "cdb961e3d0c384c07770250128b448219b5e522e3a899390174b9b0ced566140",
       "image_sha256": "16f578a20fe5219ba6fff15ca1774258025dc6fc644e601f1708149ac75197de",
       "source_commit": "c51f8170255c88085ff1cf3c854c9d5b6f126115",
-      "station_sha256": "c1857937e0a9c73637e97b293880047526dbc70fa3fc0d5d3ddcb7c5eb0c1f7c",
+      "station_sha256": "52a5bf9f14f8d2d4a2da29c3aedf35128a0bceba92aaa8a6a0ec674007628855",
       "original_wav_sha256": "9b080eba18e1944dee30160729c5511fa06d56bd6d14a4ff740f9659d91fa624",
-      "original_wav_filename": "mer-09.full.wav"
+      "original_wav_filename": "mer-09.full.wav",
+      "restamped": "2026-11-28 가 선 ②: 「표에서 연습」 잇기(table 칸)만 더함, 낭독 글 그대로"
     },
     "mer-09#5": {
       "src": "https://baeggman.github.io/sketchy-audio/mer-09__s5__226efb5b1574.mp3",
@@ -7012,9 +7021,10 @@
       "audio_sha256": "847afd923a98218b377e4fca17c66dd9a9b139d4931aba776bb611f62abfad03",
       "image_sha256": "16f578a20fe5219ba6fff15ca1774258025dc6fc644e601f1708149ac75197de",
       "source_commit": "c51f8170255c88085ff1cf3c854c9d5b6f126115",
-      "station_sha256": "e291a74b3a489e8bdface7164532710fd79dfdf931a259830e026831f2fa0301",
+      "station_sha256": "9192755803f9ed55cc1a853cffa80af112fda61e217cbb2836f8d9c02dce0128",
       "original_wav_sha256": "9b080eba18e1944dee30160729c5511fa06d56bd6d14a4ff740f9659d91fa624",
-      "original_wav_filename": "mer-09.full.wav"
+      "original_wav_filename": "mer-09.full.wav",
+      "restamped": "2026-11-28 가 선 ②: 「표에서 연습」 잇기(table 칸)만 더함, 낭독 글 그대로"
     },
     "mer-09#6": {
       "src": "https://baeggman.github.io/sketchy-audio/mer-09__s6__1616264c1c11.mp3",
@@ -7023,9 +7033,10 @@
       "audio_sha256": "34d7d82f4bd18fb18faabdc0c7a70e517f27383700a6d4b98f4a7b6b529f5701",
       "image_sha256": "16f578a20fe5219ba6fff15ca1774258025dc6fc644e601f1708149ac75197de",
       "source_commit": "c51f8170255c88085ff1cf3c854c9d5b6f126115",
-      "station_sha256": "44794ae7db80e9f18d040e60dd9ab2ae82aa41c510e8756a5e564eef29a776f9",
+      "station_sha256": "aa9c77e9b6d0065a1f3e78101e05b5e4ca3b82bec096d2c86cb0090ed4f53b8d",
       "original_wav_sha256": "9b080eba18e1944dee30160729c5511fa06d56bd6d14a4ff740f9659d91fa624",
-      "original_wav_filename": "mer-09.full.wav"
+      "original_wav_filename": "mer-09.full.wav",
+      "restamped": "2026-11-28 가 선 ②: 「표에서 연습」 잇기(table 칸)만 더함, 낭독 글 그대로"
     },
     "mer-09#7": {
       "src": "https://baeggman.github.io/sketchy-audio/mer-09__s7__f2241d0994e0.mp3",
@@ -7034,9 +7045,10 @@
       "audio_sha256": "885457c12b9e5256ac8d72aa37c79206a13fa6dcab70f384b41eb30dd9203e66",
       "image_sha256": "16f578a20fe5219ba6fff15ca1774258025dc6fc644e601f1708149ac75197de",
       "source_commit": "c51f8170255c88085ff1cf3c854c9d5b6f126115",
-      "station_sha256": "341cfcf2b42ca2eb5da058ba94879b8dcd09862e08d4e432b267edbe36cdb9ef",
+      "station_sha256": "49875fe415d55c157cba8c24ff76b29e0c6b61e4ff9af0860e9bb858db7dc830",
       "original_wav_sha256": "9b080eba18e1944dee30160729c5511fa06d56bd6d14a4ff740f9659d91fa624",
-      "original_wav_filename": "mer-09.full.wav"
+      "original_wav_filename": "mer-09.full.wav",
+      "restamped": "2026-11-28 가 선 ②: 「표에서 연습」 잇기(table 칸)만 더함, 낭독 글 그대로"
     },
     "mer-09#8": {
       "src": "https://baeggman.github.io/sketchy-audio/mer-09__s8__62f9d1cb4b27.mp3",
@@ -7045,9 +7057,10 @@
       "audio_sha256": "72ef40492012edb851eb9529f54278d019b7637e9965052cb275da2838893c8c",
       "image_sha256": "16f578a20fe5219ba6fff15ca1774258025dc6fc644e601f1708149ac75197de",
       "source_commit": "c51f8170255c88085ff1cf3c854c9d5b6f126115",
-      "station_sha256": "4e4e3de2c8a2110f43cf70d7c717ac21e71ec2f5b34f228e3577cfd9cbcf931f",
+      "station_sha256": "528b52afb66ece272aefb6208a6369fe25d135c0ee0adea6490003712bb5d8f6",
       "original_wav_sha256": "9b080eba18e1944dee30160729c5511fa06d56bd6d14a4ff740f9659d91fa624",
-      "original_wav_filename": "mer-09.full.wav"
+      "original_wav_filename": "mer-09.full.wav",
+      "restamped": "2026-11-28 가 선 ②: 「표에서 연습」 잇기(table 칸)만 더함, 낭독 글 그대로"
     },
     "mer-09#9": {
       "src": "https://baeggman.github.io/sketchy-audio/mer-09__s9__6c56d3f9af68.mp3",
@@ -7056,9 +7069,10 @@
       "audio_sha256": "a21738e539be227417e9feb5ea508e4281dfe00a3edd32028400124c936bc8ce",
       "image_sha256": "16f578a20fe5219ba6fff15ca1774258025dc6fc644e601f1708149ac75197de",
       "source_commit": "c51f8170255c88085ff1cf3c854c9d5b6f126115",
-      "station_sha256": "4e8d38faa80e6a3efc4cca3dc11925a04413354e68bb75c99b01cb89b0c26ded",
+      "station_sha256": "32045422c8e6460a44bb9ebab7078e899cbfab3be7c767dea0be4fab3b82149e",
       "original_wav_sha256": "9b080eba18e1944dee30160729c5511fa06d56bd6d14a4ff740f9659d91fa624",
-      "original_wav_filename": "mer-09.full.wav"
+      "original_wav_filename": "mer-09.full.wav",
+      "restamped": "2026-11-28 가 선 ②: 「표에서 연습」 잇기(table 칸)만 더함, 낭독 글 그대로"
     },
     "mer-09#10": {
       "src": "https://baeggman.github.io/sketchy-audio/mer-09__s10__654c4584629b.mp3",

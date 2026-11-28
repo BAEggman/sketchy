@@ -6205,9 +6205,10 @@
       "audio_sha256": "9896016cf9119c4ec1c10131a8d0a1f250a3e755733c90f5cd0074f09389d519",
       "image_sha256": "5f224a0b0b59c73a64af04d423cc9d9607a18ab5c9a2c46dbc37670803ea3278",
       "source_commit": "dce5198827527f8a1193e6da12c8deaee4ed61d0",
-      "station_sha256": "f6bbdffad62c1364ca847fec883d9409f3a343be38a0383b0fb18053ba5656b0",
+      "station_sha256": "4002f8b99b66220ab906fcfe283e907082b029cdd89ae5cb5c0ca164bdf557a5",
       "original_wav_sha256": "6d0593bdfd7a4b48e9326142ffb7f72db8828523ca172bf6885873e7b50f4639",
-      "original_wav_filename": "new-gr-12.full.wav"
+      "original_wav_filename": "new-gr-12.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "new-gr-12#6": {
       "src": "https://baeggman.github.io/sketchy-audio/new-gr-12__s6__96344a3e4632.mp3",

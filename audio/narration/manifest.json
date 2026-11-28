@@ -591,9 +591,10 @@
       "audio_sha256": "2dc7b7babf0e4cdc00551e631db255f1f7c68133364423ab9a67c0691266eb9c",
       "image_sha256": "fc4efae89bd336da2e5625715c24c12012e6be3e235e6f8d7c13bbcbf95e8174",
       "source_commit": "1c7dcbd85d6b51128cf01be5516f4e20842a18c5",
-      "station_sha256": "ccf033f38c85e7645b20af0d5bc8208edd3ffbd04ce4f5c958b96e972a77d62c",
+      "station_sha256": "aedf1d4263533c354decf3b8a1ddb2cfc4bd4c13ff4a12288caad0f9fc845d37",
       "original_wav_sha256": "0be00c04f7699648c0e1d27d1fac8f80b7beb420bad1b1ea84e7d7a441a0098b",
-      "original_wav_filename": "hist-14.full.wav"
+      "original_wav_filename": "hist-14.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "hist-14#2": {
       "src": "https://baeggman.github.io/sketchy-audio/hist-14__s2__9821c38b9dd6.mp3",
@@ -602,9 +603,10 @@
       "audio_sha256": "47dbf4b0ba9a1a7c976b7d796d800e7bb0499241d398c7eac6b1ea2a8a6f2416",
       "image_sha256": "fc4efae89bd336da2e5625715c24c12012e6be3e235e6f8d7c13bbcbf95e8174",
       "source_commit": "1c7dcbd85d6b51128cf01be5516f4e20842a18c5",
-      "station_sha256": "bb6b8c9cf03ee42d4807bdcf9a41950f3af03e8ccf2098d5f89f323ebc183465",
+      "station_sha256": "9ddb84ae6d8d4acd763ad141dfa55a36a3b4474b884d9b9e582fb81775f9984c",
       "original_wav_sha256": "0be00c04f7699648c0e1d27d1fac8f80b7beb420bad1b1ea84e7d7a441a0098b",
-      "original_wav_filename": "hist-14.full.wav"
+      "original_wav_filename": "hist-14.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "hist-14#3": {
       "src": "https://baeggman.github.io/sketchy-audio/hist-14__s3__41b07b42c9c8.mp3",
@@ -613,9 +615,10 @@
       "audio_sha256": "f8a10008bc4fbce82ec4d307c00bb90afa18fb38434fe02cb357b860c4d9d429",
       "image_sha256": "fc4efae89bd336da2e5625715c24c12012e6be3e235e6f8d7c13bbcbf95e8174",
       "source_commit": "1c7dcbd85d6b51128cf01be5516f4e20842a18c5",
-      "station_sha256": "a0fb6a5b9c346a33799c14af8cf949e68fe4942b47e588eb37cd5b9f05444d6d",
+      "station_sha256": "a642e90640a7a2847fadbb386dfd7941979ad75842a8938f05f08704e94e1bdd",
       "original_wav_sha256": "0be00c04f7699648c0e1d27d1fac8f80b7beb420bad1b1ea84e7d7a441a0098b",
-      "original_wav_filename": "hist-14.full.wav"
+      "original_wav_filename": "hist-14.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "hist-14#4": {
       "src": "https://baeggman.github.io/sketchy-audio/hist-14__s4__5c7518cc40f8.mp3",
@@ -624,9 +627,10 @@
       "audio_sha256": "8901a58c18b9f7db5a6b4ef14b6969af4e3bba06c467e8dc2f859e7ef91ff5b5",
       "image_sha256": "fc4efae89bd336da2e5625715c24c12012e6be3e235e6f8d7c13bbcbf95e8174",
       "source_commit": "1c7dcbd85d6b51128cf01be5516f4e20842a18c5",
-      "station_sha256": "e5b427067ad58e6dc95a173b4619bb1b7e49cd38658cc4e362958af6bf500a59",
+      "station_sha256": "4a9e542ecfc4728601b88bffd0498ebb46ec471c61ec78498f9fc05d0e46fa40",
       "original_wav_sha256": "0be00c04f7699648c0e1d27d1fac8f80b7beb420bad1b1ea84e7d7a441a0098b",
-      "original_wav_filename": "hist-14.full.wav"
+      "original_wav_filename": "hist-14.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "hist-14#5": {
       "src": "https://baeggman.github.io/sketchy-audio/hist-14__s5__b24f8785127e.mp3",
@@ -635,9 +639,10 @@
       "audio_sha256": "5bca8522e8005912ead18de6b8fbeabe19c13644365adeb517f7c57d3f029f44",
       "image_sha256": "fc4efae89bd336da2e5625715c24c12012e6be3e235e6f8d7c13bbcbf95e8174",
       "source_commit": "1c7dcbd85d6b51128cf01be5516f4e20842a18c5",
-      "station_sha256": "5374e70096faedd52fec35711e7798bcef2e3dbd431487fc736e089c4bcba9d7",
+      "station_sha256": "bae27ecccb595eb757fe61dda0d2b71e3a32af38b3c4455e89afd8fe5f24b29d",
       "original_wav_sha256": "0be00c04f7699648c0e1d27d1fac8f80b7beb420bad1b1ea84e7d7a441a0098b",
-      "original_wav_filename": "hist-14.full.wav"
+      "original_wav_filename": "hist-14.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "hist-14#6": {
       "src": "https://baeggman.github.io/sketchy-audio/hist-14__s6__26484d918771.mp3",
@@ -646,9 +651,10 @@
       "audio_sha256": "337ae4b6b8bab6c0b732580064da92db85f803e07d20ef8097681eb01a75fc36",
       "image_sha256": "fc4efae89bd336da2e5625715c24c12012e6be3e235e6f8d7c13bbcbf95e8174",
       "source_commit": "1c7dcbd85d6b51128cf01be5516f4e20842a18c5",
-      "station_sha256": "d2e182bade0a818134c864fe047a7d4057fceaf60fcf002652fa307397b0dae3",
+      "station_sha256": "0ef1fac0b3b7a353d3c88a4b888f1c326ba5f2bd71f7d9b1e51b44332c5e94c3",
       "original_wav_sha256": "0be00c04f7699648c0e1d27d1fac8f80b7beb420bad1b1ea84e7d7a441a0098b",
-      "original_wav_filename": "hist-14.full.wav"
+      "original_wav_filename": "hist-14.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "hist-14#7": {
       "src": "https://baeggman.github.io/sketchy-audio/hist-14__s7__afeefb88bab3.mp3",

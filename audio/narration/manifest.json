@@ -591,7 +591,7 @@
       "audio_sha256": "2dc7b7babf0e4cdc00551e631db255f1f7c68133364423ab9a67c0691266eb9c",
       "image_sha256": "fc4efae89bd336da2e5625715c24c12012e6be3e235e6f8d7c13bbcbf95e8174",
       "source_commit": "1c7dcbd85d6b51128cf01be5516f4e20842a18c5",
-      "station_sha256": "aedf1d4263533c354decf3b8a1ddb2cfc4bd4c13ff4a12288caad0f9fc845d37",
+      "station_sha256": "c2513b73b3c31370e58c882438e2f24aeb16c894da969c596cf03ff2885ba79d",
       "original_wav_sha256": "0be00c04f7699648c0e1d27d1fac8f80b7beb420bad1b1ea84e7d7a441a0098b",
       "original_wav_filename": "hist-14.full.wav",
       "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
@@ -1205,7 +1205,7 @@
       "audio_sha256": "fdfd76c32d326b54dea2bcbfed1b0d58b88afc4fe738ea59a0d8ce99cd0fa675",
       "image_sha256": "4d4d0930da9370ccbb6968762b45128773c74e5a7160366e458cf8ae29152060",
       "source_commit": "9c83e60b6a9fbcd4bce79cbc98dbb79c855ba176",
-      "station_sha256": "ef1eee36f43d45265f5a2393b13f26a0cc60405dfed342cdf4487cf804205f97",
+      "station_sha256": "cd3d5605220bbbea0f30d3fe6d766a97c2d85eb197f1405c4cc2fb7c89c89cf2",
       "original_wav_sha256": "c72673627a8d8db035f626afeb10180b349883fd3de7bfbf90951d5c5568e788",
       "original_wav_filename": "new-uk-11.full.wav",
       "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
@@ -2642,7 +2642,7 @@
       "audio_sha256": "2bd6494a87efabb6ca399f39ff40da7e88cde1e2e9ab2a45911eebd0b494255d",
       "image_sha256": "31edfeda7ab599d2d1bab002393d899c21a3975f91083801cd5cb6034c9c2285",
       "source_commit": "2bc8494b849cbabffc9be1ec99dd0d2218443956",
-      "station_sha256": "a5c43d0153684cac23f1d0a77a616209f310d8da06981bc3bdbd796e89e9a32a",
+      "station_sha256": "1165ac9e7722bb943e68dbc2a2d5cb5e5011c4ab99e3bc062a0784cf7b6796b8",
       "original_wav_sha256": "e88e597fcd3b704aa7f56508a90792d21dd9dbbd04a8eb8046b71574dd9695ba",
       "original_wav_filename": "new-jq-09.full.wav",
       "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
@@ -6161,7 +6161,7 @@
       "audio_sha256": "76e968477ba1aa7b63d9a92e8dc39eef01d1d62703e9693cd74fa1434f379048",
       "image_sha256": "42c312624449c6d8964dc3f3a319a76050ebdc64af0c5f2298149c5390907f1a",
       "source_commit": "4093469ef7a01663856c4976b48f89eacf821005",
-      "station_sha256": "2d0f44ff7d748f25df4d2bb62d270978a8d9d5656f062841c7fcd8390dee9c0b",
+      "station_sha256": "8650899975ffca70170e88018c065b380e0cf44cedf8af83e1cee679e517b903",
       "original_wav_sha256": "014480fa3176cffaf1130b66f2e964ad93d4f9b80ad8dcf8a76ab5a0afb84926",
       "original_wav_filename": "new-gr-05.full.wav",
       "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"

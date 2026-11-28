@@ -223,5 +223,49 @@
    "new-jq-05#5",
    "new-uk-04#6"
   ]
+ },
+ "line_na_20261128": {
+  "directive": "runs/20261128-line-na/DIRECTIVE.md (= 프로젝트 claude/Sketchy_나선_실행지시서_20261128.md)",
+  "base": "22b1bc6",
+  "progress": {
+   "나①": "끝(2026-11-28) — 사용자 올림 대기",
+   "나②": "대기(가 ② 뒤)",
+   "나③": "대기",
+   "나④a": "대기",
+   "나④b": "대기",
+   "나④c": "대기",
+   "나④d": "대기",
+   "나⑤": "대기"
+  },
+  "나①": {
+   "lessons_changed": 56,
+   "lessons_unchanged": [
+    "new-gr-06",
+    "new-gr-10",
+    "new-gr-31",
+    "fan18"
+   ],
+   "attrs_stations": 210,
+   "attrs_rows": 799,
+   "text_only_rows": 262,
+   "hook_stations": 29,
+   "recordings_pending": 11,
+   "recordings_restamped": 74,
+   "record": "runs/20261128-line-na/①/README.md · CHANGES.md · changes.jsonl",
+   "rerecord": "runs/20261128-line-ga/rerecord.json",
+   "tests": "hub_p1_test 40/41(실패 1 = hist-11 반복, 고치기 전과 같음) · site_check 통과 · build 경고 4(전과 같음)",
+   "user_checked": false,
+   "listening_checked": false
+  },
+  "handoff": {
+   "나④_구역": 15,
+   "나④_가름": 31,
+   "②_표": 12,
+   "6+1_필요": [
+    "mer-02#6",
+    "new-gr-09#2",
+    "new-gr-12#1"
+   ]
+  }
  }
 }

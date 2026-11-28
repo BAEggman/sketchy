@@ -61,6 +61,8 @@ def main(lid, png, spec_path):
         d['box'] = b
         d['src'] = s.get('src', [])
         d['tts'] = s['tts']
+        if s.get('attrs'):
+            d['attrs'] = s['attrs']  # 정거장 속성 줄(원자 사실 → 싣는 물건) — 나 선 ①부터
         if s.get('kind') not in ('frame', 'review', None):
             d['role'] = s['kind']
         st.append(d)

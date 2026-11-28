@@ -3520,9 +3520,10 @@
       "audio_sha256": "8553444cda66628e94c8a549a7c8460e7e3e46d47d978df0319b9558ceea7937",
       "image_sha256": "93084766d54b7fe414c6340844b01471d2ae0be63f0e665a14c8dec5a49b75e9",
       "source_commit": "c0e528dc774195f43fdaa0ce8c0c98efaf366121",
-      "station_sha256": "0ebf4f244df047230e3de09e0451467044d53fa9ba044816e47dd375f0ea82c5",
+      "station_sha256": "e5b70c14d4eb51f82b4d4c8bfd3a7231debf7d38d252b735a94b5ffe33b8ed26",
       "original_wav_sha256": "65c551ec837fd261b4233ba77eb2f192c68528e4d85c8ed6e7bb461a9d8525d0",
-      "original_wav_filename": "new-jq-21.full.wav"
+      "original_wav_filename": "new-jq-21.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "new-jq-21#2": {
       "src": "https://baeggman.github.io/sketchy-audio/new-jq-21__s2__96f02434dfbf.mp3",
@@ -3553,9 +3554,10 @@
       "audio_sha256": "3900ab88f8dc995f7560e6cba55e4acf732cbb8964a366a883f22096b56fdf23",
       "image_sha256": "93084766d54b7fe414c6340844b01471d2ae0be63f0e665a14c8dec5a49b75e9",
       "source_commit": "c0e528dc774195f43fdaa0ce8c0c98efaf366121",
-      "station_sha256": "f5b3f5b89870a05494ca2ba9d8940b6f34e1c6bdca63697677cc12a8eb32de33",
+      "station_sha256": "5307902beb319f307156ac3178ee718b6fb54a5570a53235a62aeaa7003d46dd",
       "original_wav_sha256": "65c551ec837fd261b4233ba77eb2f192c68528e4d85c8ed6e7bb461a9d8525d0",
-      "original_wav_filename": "new-jq-21.full.wav"
+      "original_wav_filename": "new-jq-21.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "new-jq-21#5": {
       "src": "https://baeggman.github.io/sketchy-audio/new-jq-21__s5__5bddd38f8934.mp3",
@@ -3575,9 +3577,10 @@
       "audio_sha256": "6d8afc54687a2b3335c5ebaff9c0d609814453722e297f7f734a3684b517d3ac",
       "image_sha256": "93084766d54b7fe414c6340844b01471d2ae0be63f0e665a14c8dec5a49b75e9",
       "source_commit": "c0e528dc774195f43fdaa0ce8c0c98efaf366121",
-      "station_sha256": "02d2c4052818c0f82d90cb2a33f15464e15d1db80929f3e8ac31b1d1bff3d3d6",
+      "station_sha256": "5d6826a249a1ed8d1e95fe95a2ab6ecdc85fc2f071b80ab751261b11b5079081",
       "original_wav_sha256": "65c551ec837fd261b4233ba77eb2f192c68528e4d85c8ed6e7bb461a9d8525d0",
-      "original_wav_filename": "new-jq-21.full.wav"
+      "original_wav_filename": "new-jq-21.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "new-jq-21#7": {
       "src": "https://baeggman.github.io/sketchy-audio/new-jq-21__s7__245d42373c13.mp3",

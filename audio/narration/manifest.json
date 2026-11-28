@@ -8097,39 +8097,6 @@
       "station_sha256": "0484cefd9fdc2f6a16cc38f1cdbf4cb4a3f7ebdc10b16b49d3bd5c6e0318a095",
       "original_wav_sha256": "e13b87aaa3bd914936aff5816eab3b98e4a417dd8843ad59c783564c8f21bc2b",
       "original_wav_filename": "new-gr-14.full.wav"
-    },
-    "mer-10#4": {
-      "src": "https://baeggman.github.io/sketchy-audio/mer-10__s4__caa300dbc0fd.mp3",
-      "text": "선창에서 그물을 깁는 넷은 팔맥교회혈 가운데 낙혈인 넷이다. 흰 수염 노인, 폐의 낙혈 열결, 임맥으로 통한다. 원문은 수태음지별 명왈열결, 손목 위 갈라진 틈에서 일어나 어제로 흩어지고, 실하면 손바닥이 뜨겁고 허하면 하품하며 소변이 잦다. 농부, 비의 낙혈 공손, 충맥으로 통한다. 나머지 짝은 족임읍, 대맥, 조해, 음교맥.",
-      "text_sha256": "caa300dbc0fdf2872b6f07dd43723f9bec1aa33dae88e60d07274fc5a451aace",
-      "audio_sha256": "ea2876b31835f0b4c0950597685b6f01eb78cc2d5ebe8e2a40879990fe458940",
-      "image_sha256": "c5ee057f03cd539dba8a967ff4b138def7329c00a83059ffcb60100d676fc174",
-      "source_commit": "34be7deb2e1a1aa50db215100c5a43d304927b50",
-      "station_sha256": "349c129e9e1c2f69d90703a1b3ae2efdd75d23e09c836ea8b20d0ba5c65539eb",
-      "original_wav_sha256": "a383102d261ea3161c1f749ca02bef66460bd1870bc17fc252df6555d99dfe8f",
-      "original_wav_filename": "mer-10.full.wav"
-    },
-    "mer-10#5": {
-      "src": "https://baeggman.github.io/sketchy-audio/mer-10__s5__93c24204ece5.mp3",
-      "text": "호위무사, 심포의 낙혈 내관, 음유맥으로 통한다. 삽 든 주황 옷, 삼초의 낙혈 외관, 양유맥으로 통한다. 안 내는 음유, 바깥 외는 양유. 팔맥교회혈 여덟 가운데 낙혈은 이 넷, 열결, 공손, 내관, 외관이다. 후계, 독맥, 신맥, 양교맥은 낙혈이 아니다.",
-      "text_sha256": "93c24204ece53b3a79a09ac7eece548149280264dc1bce17935692c792ea2c5b",
-      "audio_sha256": "4a7d67133f1145a14d20e72fcf6198af5cfd399eb2d0f831539155557206d0e9",
-      "image_sha256": "c5ee057f03cd539dba8a967ff4b138def7329c00a83059ffcb60100d676fc174",
-      "source_commit": "34be7deb2e1a1aa50db215100c5a43d304927b50",
-      "station_sha256": "77da8f7f313353fcf454e4c7f7796a237827e379d85386ed3462ad19e2995da7",
-      "original_wav_sha256": "a383102d261ea3161c1f749ca02bef66460bd1870bc17fc252df6555d99dfe8f",
-      "original_wav_filename": "mer-10.full.wav"
-    },
-    "mer-10#7": {
-      "src": "https://baeggman.github.io/sketchy-audio/mer-10__s7__487203530a8b.mp3",
-      "text": "노인의 손목을 본다. 손목 조금 위 팔뚝에 그물끈이 감겼다, 낙혈 열결 자리. 그 바로 아래 손목 주름, 맥이 뛰는 자리가 태연이다, 끈 매듭 곁을 짚은 두 손가락이 맥을 짚는 손이다. 팔회혈의 맥회는 태연이다. 열결이 아니다. 혈회는 격수, 골회는 대저, 기회는 전중.",
-      "text_sha256": "487203530a8bf692107e3445b459041318f396d9a8e9a95787d55e40f46ce876",
-      "audio_sha256": "7aa4d4992502995e445aa910e7e181d0d5b42f9f78ecc261598ee1e3899a3f9a",
-      "image_sha256": "c5ee057f03cd539dba8a967ff4b138def7329c00a83059ffcb60100d676fc174",
-      "source_commit": "34be7deb2e1a1aa50db215100c5a43d304927b50",
-      "station_sha256": "0a2563626bc35957ecab5edce6d77e5e230e7ae528b0fd20043a8d2ba6f35ac6",
-      "original_wav_sha256": "a383102d261ea3161c1f749ca02bef66460bd1870bc17fc252df6555d99dfe8f",
-      "original_wav_filename": "mer-10.full.wav"
     }
   },
   "pending_review": {
@@ -8208,6 +8175,45 @@
       "station_sha256": "3844c305b18950b400110c94a420b23784b438ac6563a202e273e4ad40b4736a",
       "original_wav_sha256": "575ec3277663353b60959f1c41543c4c28a43b2ffc7783fe864140b19e9e98f8",
       "original_wav_filename": "mer-08.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "가 선 ①: 정거장 글 바뀜(hook · say) — ⑤에서 다시 녹음"
+    },
+    "mer-10#4": {
+      "src": "https://baeggman.github.io/sketchy-audio/mer-10__s4__caa300dbc0fd.mp3",
+      "text": "선창에서 그물을 깁는 넷은 팔맥교회혈 가운데 낙혈인 넷이다. 흰 수염 노인, 폐의 낙혈 열결, 임맥으로 통한다. 원문은 수태음지별 명왈열결, 손목 위 갈라진 틈에서 일어나 어제로 흩어지고, 실하면 손바닥이 뜨겁고 허하면 하품하며 소변이 잦다. 농부, 비의 낙혈 공손, 충맥으로 통한다. 나머지 짝은 족임읍, 대맥, 조해, 음교맥.",
+      "text_sha256": "caa300dbc0fdf2872b6f07dd43723f9bec1aa33dae88e60d07274fc5a451aace",
+      "audio_sha256": "ea2876b31835f0b4c0950597685b6f01eb78cc2d5ebe8e2a40879990fe458940",
+      "image_sha256": "c5ee057f03cd539dba8a967ff4b138def7329c00a83059ffcb60100d676fc174",
+      "source_commit": "34be7deb2e1a1aa50db215100c5a43d304927b50",
+      "station_sha256": "349c129e9e1c2f69d90703a1b3ae2efdd75d23e09c836ea8b20d0ba5c65539eb",
+      "original_wav_sha256": "a383102d261ea3161c1f749ca02bef66460bd1870bc17fc252df6555d99dfe8f",
+      "original_wav_filename": "mer-10.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "가 선 ①: 정거장 글 바뀜(hook · say) — ⑤에서 다시 녹음"
+    },
+    "mer-10#5": {
+      "src": "https://baeggman.github.io/sketchy-audio/mer-10__s5__93c24204ece5.mp3",
+      "text": "호위무사, 심포의 낙혈 내관, 음유맥으로 통한다. 삽 든 주황 옷, 삼초의 낙혈 외관, 양유맥으로 통한다. 안 내는 음유, 바깥 외는 양유. 팔맥교회혈 여덟 가운데 낙혈은 이 넷, 열결, 공손, 내관, 외관이다. 후계, 독맥, 신맥, 양교맥은 낙혈이 아니다.",
+      "text_sha256": "93c24204ece53b3a79a09ac7eece548149280264dc1bce17935692c792ea2c5b",
+      "audio_sha256": "4a7d67133f1145a14d20e72fcf6198af5cfd399eb2d0f831539155557206d0e9",
+      "image_sha256": "c5ee057f03cd539dba8a967ff4b138def7329c00a83059ffcb60100d676fc174",
+      "source_commit": "34be7deb2e1a1aa50db215100c5a43d304927b50",
+      "station_sha256": "77da8f7f313353fcf454e4c7f7796a237827e379d85386ed3462ad19e2995da7",
+      "original_wav_sha256": "a383102d261ea3161c1f749ca02bef66460bd1870bc17fc252df6555d99dfe8f",
+      "original_wav_filename": "mer-10.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "가 선 ①: 정거장 글 바뀜(hook · say) — ⑤에서 다시 녹음"
+    },
+    "mer-10#7": {
+      "src": "https://baeggman.github.io/sketchy-audio/mer-10__s7__487203530a8b.mp3",
+      "text": "노인의 손목을 본다. 손목 조금 위 팔뚝에 그물끈이 감겼다, 낙혈 열결 자리. 그 바로 아래 손목 주름, 맥이 뛰는 자리가 태연이다, 끈 매듭 곁을 짚은 두 손가락이 맥을 짚는 손이다. 팔회혈의 맥회는 태연이다. 열결이 아니다. 혈회는 격수, 골회는 대저, 기회는 전중.",
+      "text_sha256": "487203530a8bf692107e3445b459041318f396d9a8e9a95787d55e40f46ce876",
+      "audio_sha256": "7aa4d4992502995e445aa910e7e181d0d5b42f9f78ecc261598ee1e3899a3f9a",
+      "image_sha256": "c5ee057f03cd539dba8a967ff4b138def7329c00a83059ffcb60100d676fc174",
+      "source_commit": "34be7deb2e1a1aa50db215100c5a43d304927b50",
+      "station_sha256": "0a2563626bc35957ecab5edce6d77e5e230e7ae528b0fd20043a8d2ba6f35ac6",
+      "original_wav_sha256": "a383102d261ea3161c1f749ca02bef66460bd1870bc17fc252df6555d99dfe8f",
+      "original_wav_filename": "mer-10.full.wav",
       "pending_since": "2026-11-28",
       "pending_reason": "가 선 ①: 정거장 글 바뀜(hook · say) — ⑤에서 다시 녹음"
     },

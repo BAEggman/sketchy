@@ -8075,28 +8075,6 @@
       "original_wav_sha256": "3d85985aff95183a49077210ebce7c7c3a87e8cac1c978a46437986d6322004a",
       "original_wav_filename": "new-jq-12.full.wav"
     },
-    "new-gr-03#8": {
-      "src": "https://baeggman.github.io/sketchy-audio/new-gr-03__s8__ec75b1f5c790.mp3",
-      "text": "셋째 칸, 간호사가 선수의 왼쪽 가슴, 심장 뛰는 쪽에 손바닥을 댄다, 허리, 위지대락. 자리는 왼쪽 젖가슴 아래. 심첨이 뛰는 자리로 그 떨림이 옷 위로도 느껴진다, 기동응의. 여기서 종기의 성쇠를 본다, 손에 닿되 세지도 급하지도 않으면 종기가 가슴에 잘 쌓인 무병.",
-      "text_sha256": "ec75b1f5c790a6cc411e4c11b2a2b1280b5018f0f5a8004ac09b21c20fb1644d",
-      "audio_sha256": "fa931a8aa2481d628b08cb0752642a4bde6e031980c7cc35d61987eff68982b3",
-      "image_sha256": "2cf2da6220fb5b34fcfd4ee1b96cb628eb3ae37ab49cc1086eba9a958707a425",
-      "source_commit": "a9d350f5a3e6a1813a506e75ff7f22f50672a667",
-      "station_sha256": "f31a3cde05aefc7d52f9a8dfce470816fd1a8493ff0dee6a60f5b5a788fa1c48",
-      "original_wav_sha256": "0f1bde6ce3390219b39dc3c1a0f75b280a8da3f6b4752b9b63caf6ebb90c8a5b",
-      "original_wav_filename": "new-gr-03.full.wav"
-    },
-    "new-gr-03#9": {
-      "src": "https://baeggman.github.io/sketchy-audio/new-gr-03__s9__e3bb9f6eff57.mp3",
-      "text": "관중석 밑, 대머리 장사 신이 발전기를 돌려 경기장 조명을 켠다, 원기. 경락이 기능하고 활동하는 바탕, 기초다. 근원은 신중동기, 원음과 원양. 함정, 종기는 추진, 원기는 기초. 둘을 바꾸면 틀린다.",
-      "text_sha256": "e3bb9f6eff578ad938f7d55f00947fde8f7a4213e0c2adc812db33f358613990",
-      "audio_sha256": "aafe555c908e5049220648aef690086a0f17ff6b02db4e17099d23d320c41f1d",
-      "image_sha256": "2cf2da6220fb5b34fcfd4ee1b96cb628eb3ae37ab49cc1086eba9a958707a425",
-      "source_commit": "a9d350f5a3e6a1813a506e75ff7f22f50672a667",
-      "station_sha256": "7c718ff219ae048c10459477b0200df08acdc9222ed6ed423cf2fb0ba0dcea94",
-      "original_wav_sha256": "0f1bde6ce3390219b39dc3c1a0f75b280a8da3f6b4752b9b63caf6ebb90c8a5b",
-      "original_wav_filename": "new-gr-03.full.wav"
-    },
     "new-gr-15#2": {
       "src": "https://baeggman.github.io/sketchy-audio/new-gr-15__s2__d29cb6c4dbeb.mp3",
       "text": "뿌리를 본다. 뿌리 끝이 손가락, 발가락 모양이고 끝마다 빛방울이 맺혔다, 근, 사지 끝의 정혈. 경기가 처음 생겨 맥 안으로 흘러드는 곳이다. 위로 올라가 우듬지에 열매가 맺혔다, 결, 머리, 얼굴과 몸통. 경기가 돌아와 맺히는 곳이고, 거기서 다시 기가로 나간다. 본, 근은 아래 끝, 표, 결은 위.",
@@ -8330,6 +8308,32 @@
     }
   },
   "pending_review": {
+    "new-gr-03#8": {
+      "src": "https://baeggman.github.io/sketchy-audio/new-gr-03__s8__ec75b1f5c790.mp3",
+      "text": "셋째 칸, 간호사가 선수의 왼쪽 가슴, 심장 뛰는 쪽에 손바닥을 댄다, 허리, 위지대락. 자리는 왼쪽 젖가슴 아래. 심첨이 뛰는 자리로 그 떨림이 옷 위로도 느껴진다, 기동응의. 여기서 종기의 성쇠를 본다, 손에 닿되 세지도 급하지도 않으면 종기가 가슴에 잘 쌓인 무병.",
+      "text_sha256": "ec75b1f5c790a6cc411e4c11b2a2b1280b5018f0f5a8004ac09b21c20fb1644d",
+      "audio_sha256": "fa931a8aa2481d628b08cb0752642a4bde6e031980c7cc35d61987eff68982b3",
+      "image_sha256": "2cf2da6220fb5b34fcfd4ee1b96cb628eb3ae37ab49cc1086eba9a958707a425",
+      "source_commit": "a9d350f5a3e6a1813a506e75ff7f22f50672a667",
+      "station_sha256": "f31a3cde05aefc7d52f9a8dfce470816fd1a8493ff0dee6a60f5b5a788fa1c48",
+      "original_wav_sha256": "0f1bde6ce3390219b39dc3c1a0f75b280a8da3f6b4752b9b63caf6ebb90c8a5b",
+      "original_wav_filename": "new-gr-03.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "가 선 ①: 정거장 글 바뀜(hook · say) — ⑤에서 다시 녹음"
+    },
+    "new-gr-03#9": {
+      "src": "https://baeggman.github.io/sketchy-audio/new-gr-03__s9__e3bb9f6eff57.mp3",
+      "text": "관중석 밑, 대머리 장사 신이 발전기를 돌려 경기장 조명을 켠다, 원기. 경락이 기능하고 활동하는 바탕, 기초다. 근원은 신중동기, 원음과 원양. 함정, 종기는 추진, 원기는 기초. 둘을 바꾸면 틀린다.",
+      "text_sha256": "e3bb9f6eff578ad938f7d55f00947fde8f7a4213e0c2adc812db33f358613990",
+      "audio_sha256": "aafe555c908e5049220648aef690086a0f17ff6b02db4e17099d23d320c41f1d",
+      "image_sha256": "2cf2da6220fb5b34fcfd4ee1b96cb628eb3ae37ab49cc1086eba9a958707a425",
+      "source_commit": "a9d350f5a3e6a1813a506e75ff7f22f50672a667",
+      "station_sha256": "7c718ff219ae048c10459477b0200df08acdc9222ed6ed423cf2fb0ba0dcea94",
+      "original_wav_sha256": "0f1bde6ce3390219b39dc3c1a0f75b280a8da3f6b4752b9b63caf6ebb90c8a5b",
+      "original_wav_filename": "new-gr-03.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "가 선 ①: 정거장 글 바뀜(fact · say) — ⑤에서 다시 녹음"
+    },
     "new-gr-18#2": {
       "src": "https://baeggman.github.io/sketchy-audio/new-gr-18__s2__7f1949432029.mp3",
       "text": "둘째 칸, 슈트를 가는 붉은 실그물이 덮었다, 가는 그물, 낙맥이다. 아픈 자리는 그의 왼쪽 어깨, 위쪽인데, 상대 칼끝은 오른쪽 아래, 손 쪽에 닿는다. 무자, 낙맥의 병에 좌우를 엇갈리고 위아래까지 엇갈려 취한다, 상병하취 하병상취. 무자는 낙, 거자는 경, 둘 다 좌우 교차라 바꾸는 함정이 가장 많다.",

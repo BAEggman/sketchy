@@ -4407,9 +4407,10 @@
       "audio_sha256": "8b3029d22aba987af9c91873a187fb9dd0cbe597cc281efda90aed843f003b00",
       "image_sha256": "58d6bd8c2ff713472d12be6143f417ae6de36b712c529ac06236c2631f5ba39d",
       "source_commit": "5f40f42cb5c36f2daf8f9e51cd5cdebee2e6171f",
-      "station_sha256": "fbb31814b08a5b70ffaa75406a83ce951d650ec8d707acd31bf476ebdcb60cd4",
+      "station_sha256": "ee0e1a43adaacb7ddefc6e4e54554236684ad28c01a18af673a65a703fd62c29",
       "original_wav_sha256": "69d7609bee28009039d1bf7d21e5f4fe7495e237eb67a076893f144434b25581",
-      "original_wav_filename": "mer-02.full.wav"
+      "original_wav_filename": "mer-02.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "mer-02#6": {
       "src": "https://baeggman.github.io/sketchy-audio/mer-02__s6__975ec3b8cc8c.mp3",

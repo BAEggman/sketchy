@@ -8196,28 +8196,6 @@
       "station_sha256": "7a80a494d029738920b2a03d526232ab8120b45e5213f962cb951ea6295c86ee",
       "original_wav_sha256": "0b660666d52b3bd4f1f60b13d984ffa1d890cf998daf9353b605834ba804acc7",
       "original_wav_filename": "mer-13.full.wav"
-    },
-    "mer-12#8": {
-      "src": "https://baeggman.github.io/sketchy-audio/mer-12__s8__051c5754d0ce.mp3",
-      "text": "폐를 예로 든다. 한격, 화를 보한다: 심경의 소부와 폐경의 화혈 어제. 수를 사한다: 폐경의 수혈 척택과 신경의 음곡.",
-      "text_sha256": "051c5754d0ce34c6c3be155f641bb867cf9d47ef9119d548fd79b2b8a8ec9d7a",
-      "audio_sha256": "1a302b2156841e0487a122c2c27161a6268a73aee424f44449fc83a8bb183bcf",
-      "image_sha256": "cb18a5d29205793e0a048f50b955e19a50846db063bf46a47f641729d6aabb3c",
-      "source_commit": "e27a7a04b2c4b437e0cf11e1e7cb297c05bd6675",
-      "station_sha256": "49c6394aca874db07427aee1b508d1f927ea0260295302e692fec7c7bb818fb7",
-      "original_wav_sha256": "0c456481e8d55caa432eaed82c5edfbc15e3a9065bb10d9090bfee23b8aecd3d",
-      "original_wav_filename": "mer-12.full.wav"
-    },
-    "mer-12#9": {
-      "src": "https://baeggman.github.io/sketchy-audio/mer-12__s9__c01f7a709372.mp3",
-      "text": "폐 열격, 수를 보한다: 한격에서 퍼내던 척택, 음곡을 이번에는 보한다. 그리고 토를 사한다: 비경의 태백과 폐경의 토혈 태연. 폐는 토를 사하는 아홉 경 가운데 하나다.",
-      "text_sha256": "c01f7a7093729e4eeb50cdb04fa35545a17c83b2d518a39223d8b6d4c164a538",
-      "audio_sha256": "21fb870b2324a9090c9e139447e9ebf30879bc40e366449d55081c3ad590580a",
-      "image_sha256": "cb18a5d29205793e0a048f50b955e19a50846db063bf46a47f641729d6aabb3c",
-      "source_commit": "e27a7a04b2c4b437e0cf11e1e7cb297c05bd6675",
-      "station_sha256": "b15957d6591196391ffcb2578eb76d56b324c3e5c59af2b2f171810fa55e5120",
-      "original_wav_sha256": "0c456481e8d55caa432eaed82c5edfbc15e3a9065bb10d9090bfee23b8aecd3d",
-      "original_wav_filename": "mer-12.full.wav"
     }
   },
   "pending_review": {
@@ -8296,6 +8274,32 @@
       "station_sha256": "3844c305b18950b400110c94a420b23784b438ac6563a202e273e4ad40b4736a",
       "original_wav_sha256": "575ec3277663353b60959f1c41543c4c28a43b2ffc7783fe864140b19e9e98f8",
       "original_wav_filename": "mer-08.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "가 선 ①: 정거장 글 바뀜(hook · say) — ⑤에서 다시 녹음"
+    },
+    "mer-12#8": {
+      "src": "https://baeggman.github.io/sketchy-audio/mer-12__s8__051c5754d0ce.mp3",
+      "text": "폐를 예로 든다. 한격, 화를 보한다: 심경의 소부와 폐경의 화혈 어제. 수를 사한다: 폐경의 수혈 척택과 신경의 음곡.",
+      "text_sha256": "051c5754d0ce34c6c3be155f641bb867cf9d47ef9119d548fd79b2b8a8ec9d7a",
+      "audio_sha256": "1a302b2156841e0487a122c2c27161a6268a73aee424f44449fc83a8bb183bcf",
+      "image_sha256": "cb18a5d29205793e0a048f50b955e19a50846db063bf46a47f641729d6aabb3c",
+      "source_commit": "e27a7a04b2c4b437e0cf11e1e7cb297c05bd6675",
+      "station_sha256": "49c6394aca874db07427aee1b508d1f927ea0260295302e692fec7c7bb818fb7",
+      "original_wav_sha256": "0c456481e8d55caa432eaed82c5edfbc15e3a9065bb10d9090bfee23b8aecd3d",
+      "original_wav_filename": "mer-12.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "가 선 ①: 정거장 글 바뀜(hook · say) — ⑤에서 다시 녹음"
+    },
+    "mer-12#9": {
+      "src": "https://baeggman.github.io/sketchy-audio/mer-12__s9__c01f7a709372.mp3",
+      "text": "폐 열격, 수를 보한다: 한격에서 퍼내던 척택, 음곡을 이번에는 보한다. 그리고 토를 사한다: 비경의 태백과 폐경의 토혈 태연. 폐는 토를 사하는 아홉 경 가운데 하나다.",
+      "text_sha256": "c01f7a7093729e4eeb50cdb04fa35545a17c83b2d518a39223d8b6d4c164a538",
+      "audio_sha256": "21fb870b2324a9090c9e139447e9ebf30879bc40e366449d55081c3ad590580a",
+      "image_sha256": "cb18a5d29205793e0a048f50b955e19a50846db063bf46a47f641729d6aabb3c",
+      "source_commit": "e27a7a04b2c4b437e0cf11e1e7cb297c05bd6675",
+      "station_sha256": "b15957d6591196391ffcb2578eb76d56b324c3e5c59af2b2f171810fa55e5120",
+      "original_wav_sha256": "0c456481e8d55caa432eaed82c5edfbc15e3a9065bb10d9090bfee23b8aecd3d",
+      "original_wav_filename": "mer-12.full.wav",
       "pending_since": "2026-11-28",
       "pending_reason": "가 선 ①: 정거장 글 바뀜(hook · say) — ⑤에서 다시 녹음"
     },

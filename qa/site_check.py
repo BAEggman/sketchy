@@ -15,7 +15,7 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LIMIT_MB = 1000   # GitHub Pages 게시 사이트 한도 1GB
 WARN_MB = 900     # 이 선을 넘으면 실패로 친다(여유 100MB)
-PAGES = ["index.html", "lessons.html", "saam.html", "pilot_review.html",
+PAGES = ["index.html", "lessons.html", "saam.html", "tables.html", "pilot_review.html",
          "recall.html", "bagua.html", "narration-review.html"]
 ASSET = re.compile(r"""["'(]((?:images|audio|docs)/[^"'()\s<>]+?\.(?:webp|png|jpe?g|svg|mp3|wav|json|csv|txt|md))["')]""")
 

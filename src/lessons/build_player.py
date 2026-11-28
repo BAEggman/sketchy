@@ -87,6 +87,12 @@ def check(L, path, errors, warns):
         for x, y, w, h in bs:
             if w <= 0 or h <= 0 or x < 0 or y < 0 or x + w > W or y + h > H:
                 warns.append(f'{tag} #{n}: 상자 {[x, y, w, h]}가 그림({W}×{H}) 밖으로 나간다')
+        tb = st.get('table')
+        if tb is not None:
+            if not (isinstance(tb, dict) and isinstance(tb.get('id'), str) and tb['id']):
+                errors.append(f'{tag} #{n}: table은 {{"id": 표 id, "label": 이름}} 꼴이어야 한다 — {tb!r}')
+            elif kind is not None:
+                errors.append(f'{tag} #{n}: 틀 · 되짚기에는 table을 달지 않는다')
         attrs = st.get('attrs')
         if attrs is not None:
             if not isinstance(attrs, list):

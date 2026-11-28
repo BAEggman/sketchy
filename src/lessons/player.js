@@ -321,6 +321,14 @@
   // ---------- 화면 전환 ----------
   function setText(el, t) { el.textContent = t == null ? '' : String(t); }
   function setHook(el, t) { el.hidden = !t; setText(el.querySelector('span'), t); }
+  // 표로 옮긴 정거장(가 선 ②): 「표에서 연습」 쪽(tables.html#표 id)으로 잇는다
+  function setTable(el, st) {
+    var tb = st && st.table, a = el.querySelector('a');
+    el.hidden = !(tb && tb.id);
+    if (el.hidden) { a.removeAttribute('href'); a.textContent = ''; return; }
+    a.href = 'tables.html#' + encodeURIComponent(tb.id);
+    a.textContent = '표에서 연습 — ' + (tb.label || tb.id) + ' →';
+  }
   function setAttrs(el, attrs) {
     if (!el) return;
     el.textContent = '';
@@ -672,6 +680,7 @@
     setText($('tSay'), st.say);
     var src = $('tSrc'), cards = Array.isArray(st.src) ? st.src : [];
     src.hidden = !cards.length; src.textContent = cards.length ? '카드 ' + cards.join(' · ') : '';
+    setTable($('tTable'), st);
     setText($('tCount'), (S.i + 1) + ' / ' + L.stations.length);
     document.querySelector('[data-act="prev"]').disabled = S.i === 0;
     document.querySelector('[data-act="next"]').disabled = S.i === L.stations.length - 1;
@@ -789,6 +798,7 @@
     setText($('rFact'), st.fact);
     setHook($('rHook'), st.hook);
     setAttrs($('rAttrs'), st.attrs);
+    setTable($('rTable'), st);
   }
   function stepReview(d) {
     var idx = contentIdx(S.L);
@@ -846,6 +856,7 @@
       setText($('sFact'), st.fact);
       setHook($('sHook'), st.hook);
       setAttrs($('sAttrs'), st.attrs);
+      setTable($('sTable'), st);
     }
   }
   function judge(ok) {

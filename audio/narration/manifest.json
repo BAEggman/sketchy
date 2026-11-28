@@ -8075,28 +8075,6 @@
       "station_sha256": "baed09d705b360d872fefe8f9337c4186ce64c6e3be6a0ce156f794e1cc64dba",
       "original_wav_sha256": "d125a37dd564d2bcd4d46c69f8a22562bfbc5b15928c358461e87415b4528f10",
       "original_wav_filename": "new-gr-15.full.wav"
-    },
-    "new-gr-14#2": {
-      "src": "https://baeggman.github.io/sketchy-audio/new-gr-14__s2__ea7953ceca6a.mp3",
-      "text": "띠는 옆구리 갈비 끝, 계협에서 시작해 몸을 한 바퀴 돈다. 띠 옆면에 둥근 징이 셋, 대맥이 쓰는 혈은 셋, 대맥, 오추, 유도. 모두 족소양담경의 혈이다. 그래서 버클을 채우는 이가 저울 든 초록 옷 재판관, 담이다.",
-      "text_sha256": "ea7953ceca6a9afb7849da4414a1099de29d1eb8df369a9a1992c8d8d02cabd8",
-      "audio_sha256": "3b8676fdb5cb7b2281d845a69ba789f16a929db3415eb243efe89712a578c3bc",
-      "image_sha256": "ab7defee5642871a442fd64dfc197ee33ec506756ffa880fada337c7f6238ee0",
-      "source_commit": "d5d67407e3fb0737df1dbbc355b452747ea2619d",
-      "station_sha256": "9c4e7a7496a257f551ba63dd053b8e3ece5181bad7b4b00a5777775bd6883ebd",
-      "original_wav_sha256": "e13b87aaa3bd914936aff5816eab3b98e4a417dd8843ad59c783564c8f21bc2b",
-      "original_wav_filename": "new-gr-14.full.wav"
-    },
-    "new-gr-14#3": {
-      "src": "https://baeggman.github.io/sketchy-audio/new-gr-14__s3__960ac71ac44b.mp3",
-      "text": "왼쪽, 달 배지 사내가 링 안쪽에 웅크린 무리를 남색 그물로 감싸 쥔다, 음유맥. 유락제음, 수족 삼음경과 임맥을 그물처럼 얽어 잇는다. 안쪽이니 주리, 영에 속한다, 속영. 사내는 가슴을 누르며 괴로워한다, 음유위병 고심통. 길은 종아리 안쪽 축빈에서 시작해 목 앞 염천에 이른다.",
-      "text_sha256": "960ac71ac44bfb86bf920757f7c61d13b04c0f60ef9014b7061bb365b5d1e018",
-      "audio_sha256": "1d0897423a4d8fbe2454ad6ad91b95af4d2aef0b4d6d364c4420a95101554337",
-      "image_sha256": "ab7defee5642871a442fd64dfc197ee33ec506756ffa880fada337c7f6238ee0",
-      "source_commit": "d5d67407e3fb0737df1dbbc355b452747ea2619d",
-      "station_sha256": "0484cefd9fdc2f6a16cc38f1cdbf4cb4a3f7ebdc10b16b49d3bd5c6e0318a095",
-      "original_wav_sha256": "e13b87aaa3bd914936aff5816eab3b98e4a417dd8843ad59c783564c8f21bc2b",
-      "original_wav_filename": "new-gr-14.full.wav"
     }
   },
   "pending_review": {
@@ -8344,6 +8322,32 @@
       "station_sha256": "b71c2704498d01647d9da79f5b4810667cd8932ca0613d9d4283cf4af86fe306",
       "original_wav_sha256": "e3c916ce9b55b8a06e1a58d28582f63f1c12a010e92816442b11e5219b71fcfd",
       "original_wav_filename": "new-gr-13.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "가 선 ①: 정거장 글 바뀜(hook · say) — ⑤에서 다시 녹음"
+    },
+    "new-gr-14#2": {
+      "src": "https://baeggman.github.io/sketchy-audio/new-gr-14__s2__ea7953ceca6a.mp3",
+      "text": "띠는 옆구리 갈비 끝, 계협에서 시작해 몸을 한 바퀴 돈다. 띠 옆면에 둥근 징이 셋, 대맥이 쓰는 혈은 셋, 대맥, 오추, 유도. 모두 족소양담경의 혈이다. 그래서 버클을 채우는 이가 저울 든 초록 옷 재판관, 담이다.",
+      "text_sha256": "ea7953ceca6a9afb7849da4414a1099de29d1eb8df369a9a1992c8d8d02cabd8",
+      "audio_sha256": "3b8676fdb5cb7b2281d845a69ba789f16a929db3415eb243efe89712a578c3bc",
+      "image_sha256": "ab7defee5642871a442fd64dfc197ee33ec506756ffa880fada337c7f6238ee0",
+      "source_commit": "d5d67407e3fb0737df1dbbc355b452747ea2619d",
+      "station_sha256": "9c4e7a7496a257f551ba63dd053b8e3ece5181bad7b4b00a5777775bd6883ebd",
+      "original_wav_sha256": "e13b87aaa3bd914936aff5816eab3b98e4a417dd8843ad59c783564c8f21bc2b",
+      "original_wav_filename": "new-gr-14.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "가 선 ①: 정거장 글 바뀜(hook · say) — ⑤에서 다시 녹음"
+    },
+    "new-gr-14#3": {
+      "src": "https://baeggman.github.io/sketchy-audio/new-gr-14__s3__960ac71ac44b.mp3",
+      "text": "왼쪽, 달 배지 사내가 링 안쪽에 웅크린 무리를 남색 그물로 감싸 쥔다, 음유맥. 유락제음, 수족 삼음경과 임맥을 그물처럼 얽어 잇는다. 안쪽이니 주리, 영에 속한다, 속영. 사내는 가슴을 누르며 괴로워한다, 음유위병 고심통. 길은 종아리 안쪽 축빈에서 시작해 목 앞 염천에 이른다.",
+      "text_sha256": "960ac71ac44bfb86bf920757f7c61d13b04c0f60ef9014b7061bb365b5d1e018",
+      "audio_sha256": "1d0897423a4d8fbe2454ad6ad91b95af4d2aef0b4d6d364c4420a95101554337",
+      "image_sha256": "ab7defee5642871a442fd64dfc197ee33ec506756ffa880fada337c7f6238ee0",
+      "source_commit": "d5d67407e3fb0737df1dbbc355b452747ea2619d",
+      "station_sha256": "0484cefd9fdc2f6a16cc38f1cdbf4cb4a3f7ebdc10b16b49d3bd5c6e0318a095",
+      "original_wav_sha256": "e13b87aaa3bd914936aff5816eab3b98e4a417dd8843ad59c783564c8f21bc2b",
+      "original_wav_filename": "new-gr-14.full.wav",
       "pending_since": "2026-11-28",
       "pending_reason": "가 선 ①: 정거장 글 바뀜(hook · say) — ⑤에서 다시 녹음"
     },

@@ -332,7 +332,8 @@ async function autoOn(page) { if ((await page.getAttribute('[data-act="auto"]', 
       localStorage.setItem('sketchy_lessons_prefs_v1', JSON.stringify({rate:1, voice:true}));`;
     const { ctx, page } = await fresh(browser, { init: okAudio, clock: true });
     await page.goto(BASE);
-    await page.click('.lrow[data-id="new-gr-14"] a.lt');
+    // 녹음이 모두 있는 과가 셋 잇달아 있어야 한다(가짜 Audio로만 넘어감). 11-28 가 선 ①에서 new-gr-14 일부 녹음이 재검토 대기로 빠져 new-jq-06으로 바꿈
+    await page.click('.lrow[data-id="new-jq-06"] a.lt');
     await tick(page, 300);
     await page.click('[data-act="autonext"]:visible');
     const on1 = await page.getAttribute('[data-act="auto"]', 'aria-pressed');

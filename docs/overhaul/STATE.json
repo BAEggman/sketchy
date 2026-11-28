@@ -52,7 +52,7 @@
   }
  ],
  "next": [
-  "사용자: 덱 감사 REPORT.md 물을 것 10에 답 → 고칠 선 정하기",
+  "가 선 고치기 진행 중(사용자 11-28 「가 선까지만」): ① 끝 → 사용자 올림 뒤 ② · ③a · ③b · ④a · ④b · ⑤ · ⑥ (runs/20261128-line-ga/DIRECTIVE.md)",
   "사용자: main에 올려 사이트 반영(명령 3줄) → 화면 확인",
   "사용자: 낭독 청취 · 의학사 22과 · 본초 장면 검수 · 보류 5과 · new-gr-14 #6 결정",
   "P3-3 유주도 19 → P3-4 舍岩 寒熱格 → P3-5 본초 분류 무대 → P4 전 단원 감사 → P5 마감",
@@ -193,5 +193,35 @@
    "총강 대조"
   ],
   "user_questions": "REPORT.md 「끝에 여쭐 것」 10"
+ },
+ "line_ga_20261128": {
+  "directive": "runs/20261128-line-ga/DIRECTIVE.md (= 프로젝트 claude/Sketchy_가선_실행지시서_20261128.md)",
+  "base": "290e363",
+  "progress": {
+   "①": "끝(2026-11-28) — 사용자 올림 대기",
+   "②": "대기",
+   "③a": "대기",
+   "③b": "대기",
+   "④a": "대기",
+   "④b": "대기",
+   "⑤": "대기",
+   "⑥": "대기"
+  },
+  "①": {
+   "lessons_changed": 23,
+   "stations_changed": 46,
+   "fact_diff_fixed": "15/18 (② 과 3곳 넘김)",
+   "recordings_pending": 30,
+   "record": "runs/20261128-line-ga/①/README.md · CHANGES.md",
+   "rerecord": "runs/20261128-line-ga/rerecord.json",
+   "tests": "hub_p1_test 40/41(실패 1 = 「이 그림 반복」 hist-11, 고치기 전 판에서도 같은 실패) · site_check 통과",
+   "user_checked": false,
+   "listening_checked": false
+  },
+  "handoff_to_2": [
+   "new-etc-21#3",
+   "new-jq-05#5",
+   "new-uk-04#6"
+  ]
  }
 }

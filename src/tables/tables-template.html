@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>표에서 연습 · 한의학 Sketchy</title>
+<style>
+:root{--paper:#faf8f2;--ink:#233d35;--muted:#61766c;--line:#d8e0d7;--green:#2d7159;--bad:#b23b3b;--good:#2d7159;--light:#edf3e9;--hi:#fff3c4}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif;line-height:1.6}
+header,main{max-width:1080px;margin:auto;padding:14px 16px}
+header{padding-bottom:0}
+a{color:var(--green)}
+h1{font-size:clamp(22px,4.5vw,32px);margin:6px 0 2px;letter-spacing:-.03em}
+.lead{color:var(--muted);margin:0 0 8px;font-size:14px}
+nav.tabs{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0 4px}
+button{font:inherit;color:inherit;cursor:pointer;border:1px solid var(--line);background:#fffdf8;border-radius:10px;padding:6px 11px;touch-action:manipulation}
+button[aria-pressed=true]{background:var(--green);color:#fff;border-color:var(--green)}
+button:focus-visible{outline:3px solid #b27a33;outline-offset:2px}
+.panel{background:#fff;border:1px solid var(--line);border-radius:14px;padding:12px 14px;margin:12px 0}
+.panel h2{font-size:18px;margin:0 0 6px}
+.row{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:6px 0}
+.muted{color:var(--muted);font-size:13px}
+.wrap{overflow-x:auto}
+table{border-collapse:collapse;width:100%;min-width:520px}
+th,td{border:1px solid var(--line);padding:5px 7px;text-align:left;font-size:15px;vertical-align:top}
+th{background:var(--light);font-size:13px}
+td.key{font-weight:700;white-space:nowrap}
+td.hid button.show{width:100%;min-height:2.2em;background:var(--hi);border-style:dashed}
+td .grade{display:flex;gap:4px;margin-top:4px}
+td .grade button{padding:2px 9px;font-size:13px}
+td .grade .ok{border-color:var(--good);color:var(--good)}
+td .grade .no{border-color:var(--bad);color:var(--bad)}
+td.was-no{box-shadow:inset 3px 0 0 var(--bad)}
+td.st{font-size:12px;white-space:nowrap}
+ul.notes{margin:6px 0 0;padding-left:18px;font-size:14px}
+.score{font-size:14px}
+</style>
+</head>
+<body>
+<header>
+  <p class="muted"><a href="lessons.html">← 과 재생기</a> · <a href="index.html">허브</a></p>
+  <h1>표에서 연습</h1>
+  <p class="lead" id="lead"></p>
+  <nav class="tabs" id="tabs" aria-label="표 고르기"></nav>
+</header>
+<main id="main"></main>
+<script>window.TABLES = __TABLES_DATA__;</script>
+<script>
+__TABLES_SCRIPT__
+</script>
+</body>
+</html>

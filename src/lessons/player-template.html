@@ -110,6 +110,8 @@ main{ padding:14px var(--gut) 40px; max-width:1360px; margin:0 auto; }
 .attrs .aobj{ color:var(--muted); font-size:.82rem; }
 .say{ margin:0; color:var(--muted); font-size:.92rem; word-break:keep-all; overflow-wrap:anywhere; }
 .src{ margin:8px 0 0; font-size:.75rem; color:var(--muted); }
+.tlink{ margin:8px 0 0; font-size:.85rem; }
+.tlink a{ font-weight:700; }
 .opts{ display:flex; flex-wrap:wrap; gap:8px; align-items:center; }
 .rate{ display:flex; align-items:center; gap:8px; font-size:.88rem; color:var(--muted); flex:1 1 200px; }
 .rate input{ flex:1; min-width:90px; accent-color:var(--accent); }
@@ -310,6 +312,7 @@ main{ padding:14px var(--gut) 40px; max-width:1360px; margin:0 auto; }
           <ul class="attrs" id="tAttrs" hidden></ul>
           <p class="say" id="tSay"></p>
           <p class="src" id="tSrc" hidden></p>
+          <p class="tlink" id="tTable" hidden><a></a></p>
         </article>
         <div class="card opts" id="tourOpts">
           <button type="button" class="btn" data-act="auto" aria-pressed="false">정거장 자동</button>
@@ -331,6 +334,7 @@ main{ padding:14px var(--gut) 40px; max-width:1360px; margin:0 auto; }
             <p class="fact" id="rFact"></p>
             <p class="hook" id="rHook"><b>고리</b><span></span></p>
             <ul class="attrs" id="rAttrs" hidden></ul>
+            <p class="tlink" id="rTable" hidden><a></a></p>
           </div>
         </article>
 
@@ -342,6 +346,7 @@ main{ padding:14px var(--gut) 40px; max-width:1360px; margin:0 auto; }
             <p class="fact" id="sFact"></p>
             <p class="hook" id="sHook"><b>고리</b><span></span></p>
             <ul class="attrs" id="sAttrs" hidden></ul>
+            <p class="tlink" id="sTable" hidden><a></a></p>
           </div>
           <div id="sDone" hidden>
             <p class="score" id="sScore"></p>

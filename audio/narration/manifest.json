@@ -3823,9 +3823,10 @@
       "audio_sha256": "c03411bd83bb9718002b34e736e09bdb43e78c3aec0432f98af8c215ca8f5d25",
       "image_sha256": "37a52a2f6b45ca9ce183b33229b8f67cb42cd00702608ec9424bc1b5b21b57f3",
       "source_commit": "475d285e69edcbdbdd32f82da4e5303c841b4ca7",
-      "station_sha256": "6e0701c914be471da3cb9a42d71e46f9266f5f829bb39750009f8aa3027eba72",
+      "station_sha256": "22506f0209fe678e1d125ee6f391e0504802706c62e495f4a83308bb6131a8a9",
       "original_wav_sha256": "687b66beacc169a176f5a90f75d1a8a26badae21fd85c4c9207fe1c599730b8a",
-      "original_wav_filename": "new-gr-01.full.wav"
+      "original_wav_filename": "new-gr-01.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "new-gr-01#3": {
       "src": "https://baeggman.github.io/sketchy-audio/new-gr-01__s3__039a9a7ab222.mp3",
@@ -3857,9 +3858,10 @@
       "audio_sha256": "da1bd02626b14800038f872d2a09aafcf3d9c289088e7d35d17177d480d4eedc",
       "image_sha256": "37a52a2f6b45ca9ce183b33229b8f67cb42cd00702608ec9424bc1b5b21b57f3",
       "source_commit": "475d285e69edcbdbdd32f82da4e5303c841b4ca7",
-      "station_sha256": "34b63c06272d8ff8a8078cbe76326fdc57997922214fc321b5c63c7b67ba86c7",
+      "station_sha256": "4d7a3eceb39c2be4ccd77d4abee76668e9d35e4b39b939d520a3047928ea6d54",
       "original_wav_sha256": "687b66beacc169a176f5a90f75d1a8a26badae21fd85c4c9207fe1c599730b8a",
-      "original_wav_filename": "new-gr-01.full.wav"
+      "original_wav_filename": "new-gr-01.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "new-gr-01#7": {
       "src": "https://baeggman.github.io/sketchy-audio/new-gr-01__s7__09b54138d4c1.mp3",

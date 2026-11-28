@@ -8064,17 +8064,6 @@
       "original_wav_sha256": "a32b0657f7810046f8bb6782400d70e63a2869066ce08fbc682da5c8691df55e",
       "original_wav_filename": "new-uk-15.full.wav"
     },
-    "new-jq-12#4": {
-      "src": "https://baeggman.github.io/sketchy-audio/new-jq-12__s4__9a08686b6429.mp3",
-      "text": "번개가 예고 없이 제단에 내리꽂힌다, 변화불측위지신, 변화를 헤아릴 수 없는 것이 신이다. 카드는 출전을 영추 본신이라 적었는데, 의심 표시가 붙어 있다. 제단 위 쌀밥과 과일, 신자수곡지정기야, 영추 평인절곡. 신은 먹은 음식의 정미로운 기운으로 길러진다.",
-      "text_sha256": "9a08686b64297a87844315841e90e1ac28ba06a3377d97953da494e1caf7ee97",
-      "audio_sha256": "9535809d6ab564af552ecd9610fdeeef10ca89b128e05b422f850d6746df8445",
-      "image_sha256": "ffb268249c130738dcee9a41f5575dedf358c4c1d6d740cc727d9473a052d884",
-      "source_commit": "2482bc9f139975b3976b95a8ba6e7b4bab23602e",
-      "station_sha256": "38dc3e94280372d407725d3513b30e16a69184e633f022dadd98fea136f57348",
-      "original_wav_sha256": "3d85985aff95183a49077210ebce7c7c3a87e8cac1c978a46437986d6322004a",
-      "original_wav_filename": "new-jq-12.full.wav"
-    },
     "new-gr-15#2": {
       "src": "https://baeggman.github.io/sketchy-audio/new-gr-15__s2__d29cb6c4dbeb.mp3",
       "text": "뿌리를 본다. 뿌리 끝이 손가락, 발가락 모양이고 끝마다 빛방울이 맺혔다, 근, 사지 끝의 정혈. 경기가 처음 생겨 맥 안으로 흘러드는 곳이다. 위로 올라가 우듬지에 열매가 맺혔다, 결, 머리, 얼굴과 몸통. 경기가 돌아와 맺히는 곳이고, 거기서 다시 기가로 나간다. 본, 근은 아래 끝, 표, 결은 위.",
@@ -8372,6 +8361,19 @@
       "original_wav_filename": "new-gr-18.full.wav",
       "pending_since": "2026-11-28",
       "pending_reason": "가 선 ①: 정거장 글 바뀜(fact · say) — ⑤에서 다시 녹음"
+    },
+    "new-jq-12#4": {
+      "src": "https://baeggman.github.io/sketchy-audio/new-jq-12__s4__9a08686b6429.mp3",
+      "text": "번개가 예고 없이 제단에 내리꽂힌다, 변화불측위지신, 변화를 헤아릴 수 없는 것이 신이다. 카드는 출전을 영추 본신이라 적었는데, 의심 표시가 붙어 있다. 제단 위 쌀밥과 과일, 신자수곡지정기야, 영추 평인절곡. 신은 먹은 음식의 정미로운 기운으로 길러진다.",
+      "text_sha256": "9a08686b64297a87844315841e90e1ac28ba06a3377d97953da494e1caf7ee97",
+      "audio_sha256": "9535809d6ab564af552ecd9610fdeeef10ca89b128e05b422f850d6746df8445",
+      "image_sha256": "ffb268249c130738dcee9a41f5575dedf358c4c1d6d740cc727d9473a052d884",
+      "source_commit": "2482bc9f139975b3976b95a8ba6e7b4bab23602e",
+      "station_sha256": "38dc3e94280372d407725d3513b30e16a69184e633f022dadd98fea136f57348",
+      "original_wav_sha256": "3d85985aff95183a49077210ebce7c7c3a87e8cac1c978a46437986d6322004a",
+      "original_wav_filename": "new-jq-12.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "가 선 ①: 정거장 글 바뀜(fact · hook · say) — ⑤에서 다시 녹음"
     }
   }
 }

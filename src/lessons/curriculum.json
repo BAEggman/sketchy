@@ -278,6 +278,12 @@
                 "yyox-02"
               ]
             }
+          ],
+          "links": [
+            {
+              "href": "tables.html#yy-split",
+              "label": "표에서 연습 — 陰陽 나누기 · 하루 · 五行 歸類 표 (new-uk-04)"
+            }
           ]
         },
         {
@@ -427,6 +433,12 @@
               "lesson": "new-uk-15",
               "level": 2
             }
+          ],
+          "links": [
+            {
+              "href": "tables.html#wuyin",
+              "label": "표에서 연습 — 五音 · 三氣 15이름 표 (new-uk-09)"
+            }
           ]
         }
       ]
@@ -474,6 +486,12 @@
             {
               "lesson": "new-jq-05",
               "level": 2
+            }
+          ],
+          "links": [
+            {
+              "href": "tables.html#tiangui",
+              "label": "표에서 연습 — 天癸 연표 (new-jq-05)"
             }
           ]
         },
@@ -973,6 +991,12 @@
               "lesson": "new-gr-38",
               "level": 2,
               "sub": "常用穴"
+            }
+          ],
+          "links": [
+            {
+              "href": "tables.html#zhuke",
+              "label": "표에서 연습 — 主客原絡 표 (12경) (mer-09)"
             }
           ]
         },
@@ -1647,6 +1671,12 @@
                 "hp-04"
               ]
             }
+          ],
+          "links": [
+            {
+              "href": "tables.html#paozhi",
+              "label": "표에서 연습 — 修治 표 (炒 · 炙 · 煅) (hp-04)"
+            }
           ]
         },
         {
@@ -1676,6 +1706,16 @@
             {
               "lesson": "hp-05",
               "level": 2
+            }
+          ],
+          "links": [
+            {
+              "href": "tables.html#herb-c",
+              "label": "표에서 연습 — 효능별 약 ③ 표 (new-etc-21)"
+            },
+            {
+              "href": "tables.html#herb-d",
+              "label": "표에서 연습 — 효능별 약 ④ · 補益藥 주의 표 (new-etc-22)"
             }
           ]
         }

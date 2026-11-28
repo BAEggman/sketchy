@@ -1,0 +1,57 @@
+{"key": "new-jq-05#1", "table": "tiangui", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-jq-05#2", "table": "tiangui", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-jq-05#3", "table": "tiangui", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-jq-05#4", "table": "tiangui", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-jq-05#5", "table": "tiangui", "fields": ["fact", "say", "tts"], "basis": "교재 1270 「身體盛長」 / 덱 「身體盛壯」 — 감사 판정 갈림(교재 오기 의심, 素問 원문 확인 필요): 나란히", "recording": "녹음 없음", "fact": {"old": "女 四七(28) 筋骨堅·髮長極·身體盛壯 / 男 四八(32) 筋骨隆盛·肌肉滿壯", "new": "女 四七(28) 筋骨堅·髮長極·身體盛壯(교재 盛長) / 男 四八(32) 筋骨隆盛·肌肉滿壯"}, "say": {"old": "4열은 신체 최전성기다. 위 여자 四七 스물여덟 — 筋骨이 단단하고 머리털이 가장 길게 자라며 몸이 왕성하다, 筋骨堅 髮長極 身體盛壯. 아래 남자 四八 서른둘 — 筋骨이 우람하게 성하고 살과 근육이 꽉 차 오른다, 筋骨隆盛 肌肉滿壯.", "new": "4열은 신체 최전성기다. 위 여자 四七 스물여덟 — 筋骨이 단단하고 머리털이 가장 길게 자라며 몸이 왕성하다, 筋骨堅 髮長極 身體盛壯. 교재 1270은 끝 글자를 씩씩할 장(壯) 대신 길 장(長)으로 적어 盛長이라 한다 — 두 표기를 함께 알아 둔다. 아래 남자 四八 서른둘 — 筋骨이 우람하게 성하고 살과 근육이 꽉 차 오른다, 筋骨隆盛 肌肉滿壯."}}
+{"key": "new-jq-05#6", "table": "tiangui", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-jq-05#7", "table": "tiangui", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-jq-05#8", "table": "tiangui", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-jq-05#9", "table": "tiangui", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-etc-21#1", "table": "herb-c", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-etc-21#2", "table": "herb-c", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-etc-21#3", "table": "herb-c", "fields": ["fact", "hook", "say", "tts"], "basis": "교재 3597 重鎭安神藥 = 朱砂 · 磁石 · 龍骨 · 琥珀 · 3599 牡蠣 = 平肝潛陽藥", "recording": "녹음 없음", "fact": {"old": "安神: 重鎭(朱砂 · 磁石 · 龍骨 · 牡蠣) ↔ 滋養(酸棗仁 · 柏子仁 · 遠志)", "new": "安神: 重鎭(朱砂 · 磁石 · 龍骨 · 琥珀) ↔ 滋養(酸棗仁 · 柏子仁 · 遠志)"}, "hook": {"old": "무거운 돌 · 자석 · 뼈 · 굴 이불 = 重鎭 / 우유 · 대추씨 = 滋養", "new": "무거운 돌 · 자석 · 뼈 이불 = 重鎭(넷째는 琥珀 — 굴 껍데기 牡蠣는 潛陽) / 우유 · 대추씨 = 滋養"}, "say": {"old": "잠 못 드는 손님 둘. 첫째 침대는 무거운 이불로 눌러 재운다 — 무거운 것으로 진정시키는 重鎭安神. 붉은 돌 朱砂, 말굽자석 磁石, 용 뼈 龍骨, 굴 껍데기 牡蠣. 둘째 침대는 따뜻한 우유와 대추씨로 기르며 재운다 — 心血을 길러 편하게 하는 滋養安神. 酸棗仁, 柏子仁, 遠志.", "new": "잠 못 드는 손님 둘. 첫째 침대는 무거운 이불로 눌러 재운다 — 무거운 것으로 진정시키는 重鎭安神. 붉은 돌 朱砂, 말굽자석 磁石, 용 뼈 龍骨, 그리고 琥珀. 이불의 굴 껍데기는 그림의 자리일 뿐 — 교재의 重鎭安神 넷은 朱砂 · 磁石 · 龍骨 · 琥珀이고, 굴 껍데기 牡蠣는 옆 장군의 平肝潛陽 쪽이다. 둘째 침대는 따뜻한 우유와 대추씨로 기르며 재운다 — 心血을 길러 편하게 하는 滋養安神. 酸棗仁, 柏子仁, 遠志."}}
+{"key": "new-etc-21#4", "table": "herb-c", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-etc-21#5", "table": "herb-c", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-etc-21#6", "table": null, "fields": ["say", "tts"], "basis": "#3과 맞춤", "recording": "녹음 없음", "say": {"old": "다시 본다. 노란 가래 손님 — 淸化熱痰, 桔梗 貝母 竹茹 海藻 昆布. 쌕쌕 손님 — 止咳平喘, 杏仁 桑白皮 款冬花. 무거운 이불 — 重鎭安神, 朱砂 磁石 龍骨 牡蠣. 우유와 대추씨 — 滋養安神, 酸棗仁. 갈고리 덩굴 — 息風, 鉤藤 天麻 羚羊角. 전복 껍데기 — 潛陽, 石決明 代赭石. 사향 — 開竅, 달이지 말고 丸散으로.", "new": "다시 본다. 노란 가래 손님 — 淸化熱痰, 桔梗 貝母 竹茹 海藻 昆布. 쌕쌕 손님 — 止咳平喘, 杏仁 桑白皮 款冬花. 무거운 이불 — 重鎭安神, 朱砂 磁石 龍骨 琥珀. 우유와 대추씨 — 滋養安神, 酸棗仁. 갈고리 덩굴 — 息風, 鉤藤 天麻 羚羊角. 전복 껍데기 — 潛陽, 石決明 代赭石. 사향 — 開竅, 달이지 말고 丸散으로."}}
+{"key": "new-uk-04#1", "table": "yy-split", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-uk-04#2", "table": "yy-split", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-uk-04#3", "table": "yy-split", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-uk-04#4", "table": "yy-split", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-uk-04#5", "table": "yy-day", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-uk-04#6", "table": "wx-guilei", "fields": ["fact", "hook", "say", "tts"], "basis": "교재 721 取象類比 · 推演繹絡 · 844 取象比類法", "recording": "녹음 없음", "fact": {"old": "五行 歸類 두 방법 = 取象比類(관찰 · 유추) · 推演絡繹(연역 · 확대)", "new": "五行 歸類 두 방법 = 取象類比(관찰 · 유추) · 推演繹絡(연역 · 확대)"}, "hook": {"old": "돋보기로 보고 넣기 = 取象比類 · 줄줄이 이은 사슬 = 推演絡繹", "new": "돋보기로 보고 넣기 = 取象類比 · 줄줄이 이은 사슬 = 推演繹絡"}, "say": {"old": "오른쪽 다섯 색 통 — 五行. 한 일꾼은 돋보기로 나무를 보고 생김새가 닮은 잎을 초록 통에 넣는다 — 取象比類, 꼴을 보고 견주어 넣는다. 다른 일꾼은 잎에서 눈, 눈에서 筋으로 줄줄이 이은 사슬을 끌어 넣는다 — 推演絡繹, 이미 아는 것에서 미루어 넓힌다. 두 방법의 뜻을 바꾸는 함정.", "new": "오른쪽 다섯 색 통 — 五行. 한 일꾼은 돋보기로 나무를 보고 생김새가 닮은 잎을 초록 통에 넣는다 — 取象類比, 꼴을 보고 견주어 넣는다. 다른 일꾼은 잎에서 눈, 눈에서 筋으로 줄줄이 이은 사슬을 끌어 넣는다 — 推演繹絡, 이미 아는 것에서 미루어 넓힌다. 교재 721은 두 방법을 取象類比와 推演繹絡으로 적고, 844는 앞의 것을 取象比類法이라고도 쓴다. 두 방법의 뜻을 바꾸는 함정."}}
+{"key": "new-uk-04#7", "table": null, "fields": ["say", "tts"], "basis": "#6과 맞춤", "recording": "녹음 없음", "say": {"old": "다시 본다. 바깥 상자 陽, 안 상자 陰 — 內外가 으뜸, 上下는 所在. 밀고 데우고 오르고 퍼지면 陽, 막고 식히고 적시고 내리면 陰. 높이 빠르게 튀면 陽脈, 낮게 느리면 陰脈, 처진 공은 陽虛 沉遲無力. 溫熱 · 辛甘淡은 陽, 寒凉 · 酸苦鹹은 陰. 교재는 陽의 맛으로 辛·甘을, 문제집은 淡까지 더해 辛·甘·淡을 든다. 하루 — 陽中陽, 陽中陰, 陰中陰, 닭 울면 陰中陽. 五行은 돋보기 取象比類와 사슬 推演絡繹.", "new": "다시 본다. 바깥 상자 陽, 안 상자 陰 — 內外가 으뜸, 上下는 所在. 밀고 데우고 오르고 퍼지면 陽, 막고 식히고 적시고 내리면 陰. 높이 빠르게 튀면 陽脈, 낮게 느리면 陰脈, 처진 공은 陽虛 沉遲無力. 溫熱 · 辛甘淡은 陽, 寒凉 · 酸苦鹹은 陰. 교재는 陽의 맛으로 辛·甘을, 문제집은 淡까지 더해 辛·甘·淡을 든다. 하루 — 陽中陽, 陽中陰, 陰中陰, 닭 울면 陰中陽. 五行은 돋보기 取象類比와 사슬 推演繹絡."}}
+{"key": "mer-09#1", "table": "zhuke", "fields": [], "basis": "", "recording": "녹음 있음 → 해시만 새로(restamped)"}
+{"key": "mer-09#2", "table": "zhuke", "fields": [], "basis": "", "recording": "녹음 있음 → 해시만 새로(restamped)"}
+{"key": "mer-09#3", "table": "zhuke", "fields": [], "basis": "", "recording": "녹음 있음 → 해시만 새로(restamped)"}
+{"key": "mer-09#4", "table": "zhuke", "fields": [], "basis": "", "recording": "녹음 있음 → 해시만 새로(restamped)"}
+{"key": "mer-09#5", "table": "zhuke", "fields": [], "basis": "", "recording": "녹음 있음 → 해시만 새로(restamped)"}
+{"key": "mer-09#6", "table": "zhuke", "fields": [], "basis": "", "recording": "녹음 있음 → 해시만 새로(restamped)"}
+{"key": "mer-09#7", "table": "zhuke", "fields": [], "basis": "", "recording": "녹음 있음 → 해시만 새로(restamped)"}
+{"key": "mer-09#8", "table": "zhuke", "fields": [], "basis": "", "recording": "녹음 있음 → 해시만 새로(restamped)"}
+{"key": "mer-09#9", "table": "zhuke", "fields": [], "basis": "", "recording": "녹음 있음 → 해시만 새로(restamped)"}
+{"key": "new-etc-22#1", "table": "herb-d", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-etc-22#2", "table": "herb-d", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-etc-22#3", "table": "bu-caution", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-etc-22#4", "table": "bu-caution", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-etc-22#5", "table": "bu-caution", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-etc-22#6", "table": "herb-d", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-etc-22#7", "table": "herb-d", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-etc-22#8", "table": "herb-d", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-etc-22#9", "table": "herb-d", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "new-uk-09#4", "table": "wuyin", "fields": [], "basis": "", "recording": "녹음 있음 → 해시만 새로(restamped)"}
+{"key": "new-uk-09#5", "table": "wuyin", "fields": [], "basis": "", "recording": "녹음 있음 → 해시만 새로(restamped)"}
+{"key": "new-uk-09#6", "table": "wuyin", "fields": [], "basis": "", "recording": "녹음 있음 → 해시만 새로(restamped)"}
+{"key": "new-uk-09#7", "table": "wuyin", "fields": [], "basis": "", "recording": "녹음 있음 → 해시만 새로(restamped)"}
+{"key": "new-uk-09#8", "table": "wuyin", "fields": [], "basis": "", "recording": "녹음 있음 → 해시만 새로(restamped)"}
+{"key": "hp-04#1", "table": "paozhi-same", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "hp-04#2", "table": "paozhi", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "hp-04#3", "table": "paozhi", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "hp-04#4", "table": "paozhi", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "hp-04#5", "table": "paozhi", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "hp-04#6", "table": "paozhi", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "hp-04#7", "table": "paozhi", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "hp-04#8", "table": "paozhi", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "hp-04#9", "table": "paozhi", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "hp-04#10", "table": "paozhi", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "hp-04#11", "table": "paozhi", "fields": [], "basis": "", "recording": "녹음 없음"}
+{"key": "hp-04#12", "table": "paozhi", "fields": [], "basis": "", "recording": "녹음 없음"}

@@ -199,7 +199,7 @@
   "base": "290e363",
   "progress": {
    "①": "끝(2026-11-28) — 사용자 올림 대기",
-   "②": "대기",
+   "②": "끝(2026-11-28) — 사용자 PR 병합 대기",
    "③a": "대기",
    "③b": "대기",
    "④a": "대기",
@@ -222,7 +222,25 @@
    "new-etc-21#3",
    "new-jq-05#5",
    "new-uk-04#6"
-  ]
+  ],
+  "②": {
+   "lessons_changed": 7,
+   "stations_linked": 55,
+   "stations_text_changed": 5,
+   "fact_diff_fixed": "3/3 (new-etc-21#3 · new-uk-04#6 고침 · new-jq-05#5 갈림 나란히)",
+   "tables": 11,
+   "cells": 170,
+   "page": "tables.html (src/tables/build_tables.py)",
+   "recordings_pending": 0,
+   "recordings_restamped": 14,
+   "record": "runs/20261128-line-ga/②/README.md · CHANGES.md · changes.jsonl",
+   "tests": "tables_test 14/14 · hub_p1_test 40/41(실패 1 = hist-11 반복, 고치기 전과 같음) · site_check 통과",
+   "handoff_to_3": [
+    "new-etc-21#3 이불 굴 껍데기 → 琥珀"
+   ],
+   "user_checked": false,
+   "listening_checked": false
+  }
  },
  "line_na_20261128": {
   "directive": "runs/20261128-line-na/DIRECTIVE.md (= 프로젝트 claude/Sketchy_나선_실행지시서_20261128.md)",

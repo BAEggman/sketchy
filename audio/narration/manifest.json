@@ -7613,50 +7613,6 @@
       "original_wav_sha256": "14bcbb2db8410732c384c7044f23ceaf9ec7436c6c75e4b0d0c5ff0d8d264234",
       "original_wav_filename": "new-gr-17.full.wav"
     },
-    "new-gr-17#1": {
-      "src": "https://baeggman.github.io/sketchy-audio/new-gr-17__s1__a19ae1c8e18c.mp3",
-      "text": "안내판에서 머리 옆 뺨 쪽을 가리키는 흰 작업복 남자, 수양명대장경의 합곡, 엄지와 검지 사이 뼈 두 개 사이의 혈이다. 면구합곡수, 얼굴과 입의 병은 합곡이 거둔다.",
-      "text_sha256": "a19ae1c8e18c07a1a4c39b180cd2cbae3416677cd88535fbbfecf260219655e5",
-      "audio_sha256": "310eca01aa7adf969ed2b202ff58444095f6d8dd2a2236736a55700fc8d3f368",
-      "image_sha256": "f12848c9621cad39e8603d01c621063f29eaaee60f864ddb9c4f6d5b4f310953",
-      "source_commit": "e4d0f8dbd7c58cb1b9c746a480ecb728cf7fb35a",
-      "station_sha256": "0be8960e3ed38007eb54fe5bdd9dda7b7b11c4ddec464f6f15c4c13a633cdae2",
-      "original_wav_sha256": "14bcbb2db8410732c384c7044f23ceaf9ec7436c6c75e4b0d0c5ff0d8d264234",
-      "original_wav_filename": "new-gr-17.full.wav"
-    },
-    "new-gr-17#2": {
-      "src": "https://baeggman.github.io/sketchy-audio/new-gr-17__s2__ada62df7ac2d.mp3",
-      "text": "배 높이에서 냄비를 젓는 요리사, 족양명위경의 족삼리. 두복삼리류, 배와 위장의 병은 삼리에 머문다. 허리, 등의 위중과 바꾸는 함정.",
-      "text_sha256": "ada62df7ac2d5872d19b7c244e1a89b7da4a7b4cddc1e2d43eb5fcd5de1b75a7",
-      "audio_sha256": "d1922e3964aa3acbffaa76341c31029ed0d4821f1f72cdbb9ab9902d87ea1ffd",
-      "image_sha256": "f12848c9621cad39e8603d01c621063f29eaaee60f864ddb9c4f6d5b4f310953",
-      "source_commit": "e4d0f8dbd7c58cb1b9c746a480ecb728cf7fb35a",
-      "station_sha256": "73b740ca546ebb4583676d4fb570c26ab64fc0df5f7bcafbdad51d62050f430b",
-      "original_wav_sha256": "14bcbb2db8410732c384c7044f23ceaf9ec7436c6c75e4b0d0c5ff0d8d264234",
-      "original_wav_filename": "new-gr-17.full.wav"
-    },
-    "new-gr-17#3": {
-      "src": "https://baeggman.github.io/sketchy-audio/new-gr-17__s3__891be95e6d0f.mp3",
-      "text": "안내판 아래 끝에서 허리를 굽혀 무릎을 짚은 물장수, 족태양방광경의 위중, 무릎 뒤 오금 한가운데다. 등을 타고 내려오는 방광경이라 요배위중구, 허리와 등의 병은 위중에서 구한다.",
-      "text_sha256": "891be95e6d0f0637232797f5da2fea0031273647f334aac2b5e6b69e02a6be5b",
-      "audio_sha256": "25b3039d7f92ec57da0427400f35d48131b2c3a3af7ba486e26816256f2b7b4e",
-      "image_sha256": "f12848c9621cad39e8603d01c621063f29eaaee60f864ddb9c4f6d5b4f310953",
-      "source_commit": "e4d0f8dbd7c58cb1b9c746a480ecb728cf7fb35a",
-      "station_sha256": "cb1b99c36010c7234caed85e8372e8142f0458cf39c0ac13b33d27110625e56f",
-      "original_wav_sha256": "14bcbb2db8410732c384c7044f23ceaf9ec7436c6c75e4b0d0c5ff0d8d264234",
-      "original_wav_filename": "new-gr-17.full.wav"
-    },
-    "new-gr-17#4": {
-      "src": "https://baeggman.github.io/sketchy-audio/new-gr-17__s4__8fd7ba911602.mp3",
-      "text": "머리 곁에서 번개를 치켜든 흰 옷 노인, 수태음폐경의 열결. 열결은 하늘이 갈라지는 번개다. 두항심열결, 머리와 목의 병은 열결을 찾는다. 면구의 합곡과 바꾸는 함정, 얼굴, 입은 합곡, 머리, 목은 열결.",
-      "text_sha256": "8fd7ba9116021a3ee1628f5eec15c287524c4543ca03d584db464195fb5e4203",
-      "audio_sha256": "3e2d196d7cfa8a3c7fd0b0e649e0be69a025e71829369e6e64f1cc3a4efe9bcd",
-      "image_sha256": "f12848c9621cad39e8603d01c621063f29eaaee60f864ddb9c4f6d5b4f310953",
-      "source_commit": "e4d0f8dbd7c58cb1b9c746a480ecb728cf7fb35a",
-      "station_sha256": "9a6969a26bce43823be10b372de6ef8c97ce73517642f0736df2db5d944c0ab4",
-      "original_wav_sha256": "14bcbb2db8410732c384c7044f23ceaf9ec7436c6c75e4b0d0c5ff0d8d264234",
-      "original_wav_filename": "new-gr-17.full.wav"
-    },
     "new-gr-17#5": {
       "src": "https://baeggman.github.io/sketchy-audio/new-gr-17__s5__b566a6e52d2c.mp3",
       "text": "여기서부터는 육총혈이 더한 둘이다. 가슴 한가운데 작은 문 곁의 붉은 방패 근위병, 수궐음심포경의 내관, 손목 안쪽의 관문. 흉부는 내관.",
@@ -7676,17 +7632,6 @@
       "image_sha256": "f12848c9621cad39e8603d01c621063f29eaaee60f864ddb9c4f6d5b4f310953",
       "source_commit": "e4d0f8dbd7c58cb1b9c746a480ecb728cf7fb35a",
       "station_sha256": "e8f7bcd8a07214e764544f0e58b54b13898b528f33b6f09e830fad8638244eda",
-      "original_wav_sha256": "14bcbb2db8410732c384c7044f23ceaf9ec7436c6c75e4b0d0c5ff0d8d264234",
-      "original_wav_filename": "new-gr-17.full.wav"
-    },
-    "new-gr-17#7": {
-      "src": "https://baeggman.github.io/sketchy-audio/new-gr-17__s7__b6ededbdfd82.mp3",
-      "text": "음양이총혈. 에스컬레이터 꼭대기, 하늘 창 바로 아래, 같은 흰 작업복 남자, 합곡이 풍선을 들었다. 풍선은 기, 하늘은 천, 해는 양, 합곡은 주기, 천, 양.",
-      "text_sha256": "b6ededbdfd827965c98ecfec66438b91c546eb1315da3912004e18b862e197c1",
-      "audio_sha256": "4d1cb62ddf5cf9d3e8fc7fa0cae64ced16c085fa08c1ffc9d2683a37ac0aa344",
-      "image_sha256": "f12848c9621cad39e8603d01c621063f29eaaee60f864ddb9c4f6d5b4f310953",
-      "source_commit": "e4d0f8dbd7c58cb1b9c746a480ecb728cf7fb35a",
-      "station_sha256": "dbd17621bd25132e7dbbadfd42e5d27091947877d113453abd42bb9200fde12c",
       "original_wav_sha256": "14bcbb2db8410732c384c7044f23ceaf9ec7436c6c75e4b0d0c5ff0d8d264234",
       "original_wav_filename": "new-gr-17.full.wav"
     },
@@ -8423,6 +8368,71 @@
       "original_wav_filename": "new-uk-15.full.wav",
       "pending_since": "2026-11-28",
       "pending_reason": "가 선 ①: 정거장 글 바뀜(say) — ⑤에서 다시 녹음"
+    },
+    "new-gr-17#1": {
+      "src": "https://baeggman.github.io/sketchy-audio/new-gr-17__s1__a19ae1c8e18c.mp3",
+      "text": "안내판에서 머리 옆 뺨 쪽을 가리키는 흰 작업복 남자, 수양명대장경의 합곡, 엄지와 검지 사이 뼈 두 개 사이의 혈이다. 면구합곡수, 얼굴과 입의 병은 합곡이 거둔다.",
+      "text_sha256": "a19ae1c8e18c07a1a4c39b180cd2cbae3416677cd88535fbbfecf260219655e5",
+      "audio_sha256": "310eca01aa7adf969ed2b202ff58444095f6d8dd2a2236736a55700fc8d3f368",
+      "image_sha256": "f12848c9621cad39e8603d01c621063f29eaaee60f864ddb9c4f6d5b4f310953",
+      "source_commit": "e4d0f8dbd7c58cb1b9c746a480ecb728cf7fb35a",
+      "station_sha256": "0be8960e3ed38007eb54fe5bdd9dda7b7b11c4ddec464f6f15c4c13a633cdae2",
+      "original_wav_sha256": "14bcbb2db8410732c384c7044f23ceaf9ec7436c6c75e4b0d0c5ff0d8d264234",
+      "original_wav_filename": "new-gr-17.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "2026-11-28 나 선 ①: 정거장 글 바뀜(say) — ⑤에서 다시 녹음"
+    },
+    "new-gr-17#2": {
+      "src": "https://baeggman.github.io/sketchy-audio/new-gr-17__s2__ada62df7ac2d.mp3",
+      "text": "배 높이에서 냄비를 젓는 요리사, 족양명위경의 족삼리. 두복삼리류, 배와 위장의 병은 삼리에 머문다. 허리, 등의 위중과 바꾸는 함정.",
+      "text_sha256": "ada62df7ac2d5872d19b7c244e1a89b7da4a7b4cddc1e2d43eb5fcd5de1b75a7",
+      "audio_sha256": "d1922e3964aa3acbffaa76341c31029ed0d4821f1f72cdbb9ab9902d87ea1ffd",
+      "image_sha256": "f12848c9621cad39e8603d01c621063f29eaaee60f864ddb9c4f6d5b4f310953",
+      "source_commit": "e4d0f8dbd7c58cb1b9c746a480ecb728cf7fb35a",
+      "station_sha256": "73b740ca546ebb4583676d4fb570c26ab64fc0df5f7bcafbdad51d62050f430b",
+      "original_wav_sha256": "14bcbb2db8410732c384c7044f23ceaf9ec7436c6c75e4b0d0c5ff0d8d264234",
+      "original_wav_filename": "new-gr-17.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "2026-11-28 나 선 ①: 정거장 글 바뀜(say) — ⑤에서 다시 녹음"
+    },
+    "new-gr-17#3": {
+      "src": "https://baeggman.github.io/sketchy-audio/new-gr-17__s3__891be95e6d0f.mp3",
+      "text": "안내판 아래 끝에서 허리를 굽혀 무릎을 짚은 물장수, 족태양방광경의 위중, 무릎 뒤 오금 한가운데다. 등을 타고 내려오는 방광경이라 요배위중구, 허리와 등의 병은 위중에서 구한다.",
+      "text_sha256": "891be95e6d0f0637232797f5da2fea0031273647f334aac2b5e6b69e02a6be5b",
+      "audio_sha256": "25b3039d7f92ec57da0427400f35d48131b2c3a3af7ba486e26816256f2b7b4e",
+      "image_sha256": "f12848c9621cad39e8603d01c621063f29eaaee60f864ddb9c4f6d5b4f310953",
+      "source_commit": "e4d0f8dbd7c58cb1b9c746a480ecb728cf7fb35a",
+      "station_sha256": "cb1b99c36010c7234caed85e8372e8142f0458cf39c0ac13b33d27110625e56f",
+      "original_wav_sha256": "14bcbb2db8410732c384c7044f23ceaf9ec7436c6c75e4b0d0c5ff0d8d264234",
+      "original_wav_filename": "new-gr-17.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "2026-11-28 나 선 ①: 정거장 글 바뀜(say) — ⑤에서 다시 녹음"
+    },
+    "new-gr-17#4": {
+      "src": "https://baeggman.github.io/sketchy-audio/new-gr-17__s4__8fd7ba911602.mp3",
+      "text": "머리 곁에서 번개를 치켜든 흰 옷 노인, 수태음폐경의 열결. 열결은 하늘이 갈라지는 번개다. 두항심열결, 머리와 목의 병은 열결을 찾는다. 면구의 합곡과 바꾸는 함정, 얼굴, 입은 합곡, 머리, 목은 열결.",
+      "text_sha256": "8fd7ba9116021a3ee1628f5eec15c287524c4543ca03d584db464195fb5e4203",
+      "audio_sha256": "3e2d196d7cfa8a3c7fd0b0e649e0be69a025e71829369e6e64f1cc3a4efe9bcd",
+      "image_sha256": "f12848c9621cad39e8603d01c621063f29eaaee60f864ddb9c4f6d5b4f310953",
+      "source_commit": "e4d0f8dbd7c58cb1b9c746a480ecb728cf7fb35a",
+      "station_sha256": "9a6969a26bce43823be10b372de6ef8c97ce73517642f0736df2db5d944c0ab4",
+      "original_wav_sha256": "14bcbb2db8410732c384c7044f23ceaf9ec7436c6c75e4b0d0c5ff0d8d264234",
+      "original_wav_filename": "new-gr-17.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "2026-11-28 나 선 ①: 정거장 글 바뀜(say) — ⑤에서 다시 녹음"
+    },
+    "new-gr-17#7": {
+      "src": "https://baeggman.github.io/sketchy-audio/new-gr-17__s7__b6ededbdfd82.mp3",
+      "text": "음양이총혈. 에스컬레이터 꼭대기, 하늘 창 바로 아래, 같은 흰 작업복 남자, 합곡이 풍선을 들었다. 풍선은 기, 하늘은 천, 해는 양, 합곡은 주기, 천, 양.",
+      "text_sha256": "b6ededbdfd827965c98ecfec66438b91c546eb1315da3912004e18b862e197c1",
+      "audio_sha256": "4d1cb62ddf5cf9d3e8fc7fa0cae64ced16c085fa08c1ffc9d2683a37ac0aa344",
+      "image_sha256": "f12848c9621cad39e8603d01c621063f29eaaee60f864ddb9c4f6d5b4f310953",
+      "source_commit": "e4d0f8dbd7c58cb1b9c746a480ecb728cf7fb35a",
+      "station_sha256": "dbd17621bd25132e7dbbadfd42e5d27091947877d113453abd42bb9200fde12c",
+      "original_wav_sha256": "14bcbb2db8410732c384c7044f23ceaf9ec7436c6c75e4b0d0c5ff0d8d264234",
+      "original_wav_filename": "new-gr-17.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "2026-11-28 나 선 ①: 정거장 글 바뀜(say) — ⑤에서 다시 녹음"
     }
   }
 }

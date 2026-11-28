@@ -8076,39 +8076,6 @@
       "original_wav_sha256": "d125a37dd564d2bcd4d46c69f8a22562bfbc5b15928c358461e87415b4528f10",
       "original_wav_filename": "new-gr-15.full.wav"
     },
-    "new-gr-13#4": {
-      "src": "https://baeggman.github.io/sketchy-audio/new-gr-13__s4__47c028111f1a.mp3",
-      "text": "파란 줄기의 길을 따라간다. 꼬리뼈 끝 장강에서 시작해 등뼈를 타고 올라, 정수리를 넘어 이마와 코를 지나 윗입술 안쪽 잇몸, 간교에서 끝난다. 곁의 주사위 2, 8, 독맥은 28혈. 임맥 24혈과 바꾸는 함정. 기출 묶음은 독 장강, 간교, 임 회음, 간교, 충 기충, 유문을 함께 묻는다.",
-      "text_sha256": "47c028111f1a52aa905dea27159c59ddd1c15c06070a11b2d4e8123d1188e599",
-      "audio_sha256": "72adbe5fda83dca592a7f596f8a05b96eae695301061f75a36d4b9a49e98f54c",
-      "image_sha256": "fb0fc93a7c897883a6d5dae2da11fd8c54e9f6aca88f8a5557a77c580ac8746f",
-      "source_commit": "46534d5a4432e29b2582e066726707d94e6abdc9",
-      "station_sha256": "479afe6cd8e8c4c5eb9663f1cf284b428cd390e6ccf1176356b71e3c224d78d3",
-      "original_wav_sha256": "e3c916ce9b55b8a06e1a58d28582f63f1c12a010e92816442b11e5219b71fcfd",
-      "original_wav_filename": "new-gr-13.full.wav"
-    },
-    "new-gr-13#7": {
-      "src": "https://baeggman.github.io/sketchy-audio/new-gr-13__s7__9934bd679601.mp3",
-      "text": "흰 줄기는 샘에서 위로 오른다, 입에서 흘러내리는 것이 아니다. 다리 사이 회음에서 시작해 배와 가슴과 목을 지나 아랫입술 아래 오목한 승장까지, 임맥의 혈은 24개, 임신부 발치의 주사위 2, 4. 그러나 경의 흐름은 승장에서 멈추지 않는다. 입술을 돌아 간교에서 독과 만나고, 두 갈래로 올라 눈 아래 승읍 부근, 목광하에서 끝난다. 기출 묶음이 임의 끝을 간교로 적은 것도 이 때문이다.",
-      "text_sha256": "9934bd679601bd1b442614d2b777b2b7718fbae680f7fbab9a2e3aff62a78464",
-      "audio_sha256": "1d018afd2c2fde2934afcf2ce4ceaf7deb99b68146c30470ab0b5cf2f5ab5153",
-      "image_sha256": "fb0fc93a7c897883a6d5dae2da11fd8c54e9f6aca88f8a5557a77c580ac8746f",
-      "source_commit": "46534d5a4432e29b2582e066726707d94e6abdc9",
-      "station_sha256": "6466eb3a408927e265e6ef0848e834ce72a85a2496eb0cce3bcfd1410242b2aa",
-      "original_wav_sha256": "e3c916ce9b55b8a06e1a58d28582f63f1c12a010e92816442b11e5219b71fcfd",
-      "original_wav_filename": "new-gr-13.full.wav"
-    },
-    "new-gr-13#9": {
-      "src": "https://baeggman.github.io/sketchy-audio/new-gr-13__s9__beb126f7070b.mp3",
-      "text": "붉은 줄기도 같은 샘에서 나온다, 기우포중, 하출우회음, 상행지기충. 사타구니의 기충에서 겉으로 나와, 족소음신경과 나란히 배꼽을 끼고 오른다, 병소음지경 협제상행. 그림의 붉은 물은 몸 밖으로 뻗었지만, 실제 길은 배꼽 곁 신경 옆이다. 혈은 기충에서 유문까지 12, 분수 곁 주사위 1, 2.",
-      "text_sha256": "beb126f7070bedde99e61687b916f4ba4694c47dfd62db69280e349bf0789011",
-      "audio_sha256": "a9de8b1e9ced7d1bcca790a1fa2088ee785a953a2c8a3b326a0c69586b621acb",
-      "image_sha256": "fb0fc93a7c897883a6d5dae2da11fd8c54e9f6aca88f8a5557a77c580ac8746f",
-      "source_commit": "46534d5a4432e29b2582e066726707d94e6abdc9",
-      "station_sha256": "b71c2704498d01647d9da79f5b4810667cd8932ca0613d9d4283cf4af86fe306",
-      "original_wav_sha256": "e3c916ce9b55b8a06e1a58d28582f63f1c12a010e92816442b11e5219b71fcfd",
-      "original_wav_filename": "new-gr-13.full.wav"
-    },
     "new-gr-14#2": {
       "src": "https://baeggman.github.io/sketchy-audio/new-gr-14__s2__ea7953ceca6a.mp3",
       "text": "띠는 옆구리 갈비 끝, 계협에서 시작해 몸을 한 바퀴 돈다. 띠 옆면에 둥근 징이 셋, 대맥이 쓰는 혈은 셋, 대맥, 오추, 유도. 모두 족소양담경의 혈이다. 그래서 버클을 채우는 이가 저울 든 초록 옷 재판관, 담이다.",
@@ -8334,6 +8301,45 @@
       "original_wav_filename": "new-gr-03.full.wav",
       "pending_since": "2026-11-28",
       "pending_reason": "가 선 ①: 정거장 글 바뀜(fact · say) — ⑤에서 다시 녹음"
+    },
+    "new-gr-13#4": {
+      "src": "https://baeggman.github.io/sketchy-audio/new-gr-13__s4__47c028111f1a.mp3",
+      "text": "파란 줄기의 길을 따라간다. 꼬리뼈 끝 장강에서 시작해 등뼈를 타고 올라, 정수리를 넘어 이마와 코를 지나 윗입술 안쪽 잇몸, 간교에서 끝난다. 곁의 주사위 2, 8, 독맥은 28혈. 임맥 24혈과 바꾸는 함정. 기출 묶음은 독 장강, 간교, 임 회음, 간교, 충 기충, 유문을 함께 묻는다.",
+      "text_sha256": "47c028111f1a52aa905dea27159c59ddd1c15c06070a11b2d4e8123d1188e599",
+      "audio_sha256": "72adbe5fda83dca592a7f596f8a05b96eae695301061f75a36d4b9a49e98f54c",
+      "image_sha256": "fb0fc93a7c897883a6d5dae2da11fd8c54e9f6aca88f8a5557a77c580ac8746f",
+      "source_commit": "46534d5a4432e29b2582e066726707d94e6abdc9",
+      "station_sha256": "479afe6cd8e8c4c5eb9663f1cf284b428cd390e6ccf1176356b71e3c224d78d3",
+      "original_wav_sha256": "e3c916ce9b55b8a06e1a58d28582f63f1c12a010e92816442b11e5219b71fcfd",
+      "original_wav_filename": "new-gr-13.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "가 선 ①: 정거장 글 바뀜(hook · say) — ⑤에서 다시 녹음"
+    },
+    "new-gr-13#7": {
+      "src": "https://baeggman.github.io/sketchy-audio/new-gr-13__s7__9934bd679601.mp3",
+      "text": "흰 줄기는 샘에서 위로 오른다, 입에서 흘러내리는 것이 아니다. 다리 사이 회음에서 시작해 배와 가슴과 목을 지나 아랫입술 아래 오목한 승장까지, 임맥의 혈은 24개, 임신부 발치의 주사위 2, 4. 그러나 경의 흐름은 승장에서 멈추지 않는다. 입술을 돌아 간교에서 독과 만나고, 두 갈래로 올라 눈 아래 승읍 부근, 목광하에서 끝난다. 기출 묶음이 임의 끝을 간교로 적은 것도 이 때문이다.",
+      "text_sha256": "9934bd679601bd1b442614d2b777b2b7718fbae680f7fbab9a2e3aff62a78464",
+      "audio_sha256": "1d018afd2c2fde2934afcf2ce4ceaf7deb99b68146c30470ab0b5cf2f5ab5153",
+      "image_sha256": "fb0fc93a7c897883a6d5dae2da11fd8c54e9f6aca88f8a5557a77c580ac8746f",
+      "source_commit": "46534d5a4432e29b2582e066726707d94e6abdc9",
+      "station_sha256": "6466eb3a408927e265e6ef0848e834ce72a85a2496eb0cce3bcfd1410242b2aa",
+      "original_wav_sha256": "e3c916ce9b55b8a06e1a58d28582f63f1c12a010e92816442b11e5219b71fcfd",
+      "original_wav_filename": "new-gr-13.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "가 선 ①: 정거장 글 바뀜(hook · say) — ⑤에서 다시 녹음"
+    },
+    "new-gr-13#9": {
+      "src": "https://baeggman.github.io/sketchy-audio/new-gr-13__s9__beb126f7070b.mp3",
+      "text": "붉은 줄기도 같은 샘에서 나온다, 기우포중, 하출우회음, 상행지기충. 사타구니의 기충에서 겉으로 나와, 족소음신경과 나란히 배꼽을 끼고 오른다, 병소음지경 협제상행. 그림의 붉은 물은 몸 밖으로 뻗었지만, 실제 길은 배꼽 곁 신경 옆이다. 혈은 기충에서 유문까지 12, 분수 곁 주사위 1, 2.",
+      "text_sha256": "beb126f7070bedde99e61687b916f4ba4694c47dfd62db69280e349bf0789011",
+      "audio_sha256": "a9de8b1e9ced7d1bcca790a1fa2088ee785a953a2c8a3b326a0c69586b621acb",
+      "image_sha256": "fb0fc93a7c897883a6d5dae2da11fd8c54e9f6aca88f8a5557a77c580ac8746f",
+      "source_commit": "46534d5a4432e29b2582e066726707d94e6abdc9",
+      "station_sha256": "b71c2704498d01647d9da79f5b4810667cd8932ca0613d9d4283cf4af86fe306",
+      "original_wav_sha256": "e3c916ce9b55b8a06e1a58d28582f63f1c12a010e92816442b11e5219b71fcfd",
+      "original_wav_filename": "new-gr-13.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "가 선 ①: 정거장 글 바뀜(hook · say) — ⑤에서 다시 녹음"
     },
     "new-gr-18#2": {
       "src": "https://baeggman.github.io/sketchy-audio/new-gr-18__s2__7f1949432029.mp3",

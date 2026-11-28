@@ -5523,9 +5523,10 @@
       "audio_sha256": "3aacdae56088be29feaba47119f951d35401a2dfb6b897bbd512c63388041dc9",
       "image_sha256": "2abc9c290fcc47d501f5ceb60188854a08177a4b359991452239e710c4b1531b",
       "source_commit": "1dd20a11634523f3884e9c8d2fcf4f3ca10f8b16",
-      "station_sha256": "44abbdd1a5ee1c04a7fa435c8116eaf9fca98c3de9fb45e6eda88eeb17e1c646",
+      "station_sha256": "7e89672016cdd834b1653277962704f7ffffa0fadf4ddf8cb6cd75cce5091e36",
       "original_wav_sha256": "3cfd01f9363272430b114cac51c07183cff56c8670f89c93299d83d92f94a523",
-      "original_wav_filename": "mer-03.full.wav"
+      "original_wav_filename": "mer-03.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "mer-03#11": {
       "src": "https://baeggman.github.io/sketchy-audio/mer-03__s11__81ea6d53196c.mp3",
@@ -5534,9 +5535,10 @@
       "audio_sha256": "d6d80f9fee68b099a740f58c5c4063040911516484ae4f58e0ef5284bd04ba57",
       "image_sha256": "2abc9c290fcc47d501f5ceb60188854a08177a4b359991452239e710c4b1531b",
       "source_commit": "1dd20a11634523f3884e9c8d2fcf4f3ca10f8b16",
-      "station_sha256": "ad0fb102f39a31f540b62777651783d43d77a9f8fa25d8425b7ca6612b22047b",
+      "station_sha256": "35672018def94b0c047e289a4d1bd8e4ce955f60777dd0c3f74abefde4ea7dd4",
       "original_wav_sha256": "3cfd01f9363272430b114cac51c07183cff56c8670f89c93299d83d92f94a523",
-      "original_wav_filename": "mer-03.full.wav"
+      "original_wav_filename": "mer-03.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "mer-03#12": {
       "src": "https://baeggman.github.io/sketchy-audio/mer-03__s12__2b75be2ee50c.mp3",

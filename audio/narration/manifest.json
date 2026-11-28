@@ -8031,17 +8031,6 @@
       "original_wav_sha256": "575ec3277663353b60959f1c41543c4c28a43b2ffc7783fe864140b19e9e98f8",
       "original_wav_filename": "mer-08.full.wav"
     },
-    "new-uk-13#7": {
-      "src": "https://baeggman.github.io/sketchy-audio/new-uk-13__s7__0c970dab7156.mp3",
-      "text": "저울 오른쪽, 작고 약한 물방울, 수운 불급. 구름의 손이 쇠 주전자로 물을 부어 준다, 카드 표현대로 사천이 운을 생해 돕는 그림이다, 금생수. 다만 교재에 흔한 예는 같은 기운의 도움, 을묘, 을유년은 금운불급에 양명조금 사천이 같은 금으로 돕는다. 양옆에서 같은 색 친구가 부축한다, 연지의 오행이 운과 같아 돕는다, 정묘년의 목운불급에 묘목, 을유년의 금운불급에 유금처럼. 모자란 운이 도움을 얻어 평기, 운불급이득조.",
-      "text_sha256": "0c970dab7156900d69ae8cb3de4ba0267412888c0854d8a5fe00bf0f29a25612",
-      "audio_sha256": "09d52e0e0c83b0da45061a66b4572621193ac388f616543bd1eb4d957fc1fffd",
-      "image_sha256": "6c2518c7706b081a355d77e3ce0b098b0ecef0596cd2bb013b5815a7a5b1808b",
-      "source_commit": "92e77e73038adb148089082196bd3d8ec2622012",
-      "station_sha256": "ec7033e94a96ed879262f2b95f00682eaaec6dd55d2be1cfcc8650f8416c2afc",
-      "original_wav_sha256": "9320319df6c2af6a819504eb8349643e114505137792a425def80a9277eb29a6",
-      "original_wav_filename": "new-uk-13.full.wav"
-    },
     "new-uk-15#8": {
       "src": "https://baeggman.github.io/sketchy-audio/new-uk-15__s8__cf0d7b9d7117.mp3",
       "text": "안문의 창. 경첩 문 창에는 뒤집히는 모래시계, 소음, 음 가운데의 전환축 추. 열린 문 창에는 젖은 갈색 진흙 둔덕 위로 안개가 뭉쳐 꼴을 이룬다, 태음, 음이 성해 형체를 이룬다, 습. 닫힌 문 창에는 가는 그믐달과 첫 바람, 궐음, 음이 다해 움직임이 일고 바람이 된다, 음진, 동, 풍.",
@@ -8372,6 +8361,19 @@
       "station_sha256": "38dc3e94280372d407725d3513b30e16a69184e633f022dadd98fea136f57348",
       "original_wav_sha256": "3d85985aff95183a49077210ebce7c7c3a87e8cac1c978a46437986d6322004a",
       "original_wav_filename": "new-jq-12.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "가 선 ①: 정거장 글 바뀜(fact · hook · say) — ⑤에서 다시 녹음"
+    },
+    "new-uk-13#7": {
+      "src": "https://baeggman.github.io/sketchy-audio/new-uk-13__s7__0c970dab7156.mp3",
+      "text": "저울 오른쪽, 작고 약한 물방울, 수운 불급. 구름의 손이 쇠 주전자로 물을 부어 준다, 카드 표현대로 사천이 운을 생해 돕는 그림이다, 금생수. 다만 교재에 흔한 예는 같은 기운의 도움, 을묘, 을유년은 금운불급에 양명조금 사천이 같은 금으로 돕는다. 양옆에서 같은 색 친구가 부축한다, 연지의 오행이 운과 같아 돕는다, 정묘년의 목운불급에 묘목, 을유년의 금운불급에 유금처럼. 모자란 운이 도움을 얻어 평기, 운불급이득조.",
+      "text_sha256": "0c970dab7156900d69ae8cb3de4ba0267412888c0854d8a5fe00bf0f29a25612",
+      "audio_sha256": "09d52e0e0c83b0da45061a66b4572621193ac388f616543bd1eb4d957fc1fffd",
+      "image_sha256": "6c2518c7706b081a355d77e3ce0b098b0ecef0596cd2bb013b5815a7a5b1808b",
+      "source_commit": "92e77e73038adb148089082196bd3d8ec2622012",
+      "station_sha256": "ec7033e94a96ed879262f2b95f00682eaaec6dd55d2be1cfcc8650f8416c2afc",
+      "original_wav_sha256": "9320319df6c2af6a819504eb8349643e114505137792a425def80a9277eb29a6",
+      "original_wav_filename": "new-uk-13.full.wav",
       "pending_since": "2026-11-28",
       "pending_reason": "가 선 ①: 정거장 글 바뀜(fact · hook · say) — ⑤에서 다시 녹음"
     }

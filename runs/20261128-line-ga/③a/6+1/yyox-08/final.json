@@ -1,0 +1,122 @@
+{
+  "lesson": "yyox-08",
+  "stations": [
+    {
+      "n": 1,
+      "problem": "承乃制의 '뒤에서 잡는 노인'은 2번 정거장에 있음. 制則生化(결과)를 나를 물건은 없음.",
+      "target": "制則生化",
+      "new_objects": [
+        {
+          "thing": "갓 핀 생화",
+          "word": "생화",
+          "reading": "생화",
+          "steps": 0,
+          "place_box": [
+            202,
+            483,
+            468,
+            486
+          ],
+          "action": "노인 손이 장군을 제지하는 쪽에 가까운 농부 발밑에만, 흙에 뿌리박고 갓 피어난 생화 한 송이를 보인다. 과도한 힘이 계속 가는 쪽에는 꽃을 두지 않는다."
+        }
+      ],
+      "say_add": "노인이 지나친 힘을 제지한 다음, 농부 곁에서 생화가 꽃을 피운다. 제하면 생화한다.",
+      "score25": 24,
+      "score_parts25": [
+        6,
+        5,
+        4,
+        3,
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "n": 5,
+      "problem": "木旺乘土와 土虛木乘의 갈림(원인이 木 쪽/土 쪽)을 나를 물건 없음.",
+      "target": "木旺乘土·土虛木乘",
+      "new_objects": [],
+      "say_add": "이 장면에서는 장군의 팔만 굵어져 목왕승토를 보인다. 다른 경우인 토허목승은 토 쪽이 허해서 목의 누름을 받는 경우다.",
+      "score25": 16,
+      "score_parts25": [
+        2,
+        1,
+        4,
+        3,
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "n": 6,
+      "problem": "侮 업신여김=수염 당기기는 뜻 고리. 木火刑金·肝火犯肺는 물건 없음.",
+      "target": "木火刑金·肝火犯肺",
+      "new_objects": [],
+      "say_add": "초록 장군의 손끝에서 번진 불기가 흰 재상의 수염 끝을 그슬린다. 목화형금, 간화범폐다.",
+      "score25": 16,
+      "score_parts25": [
+        2,
+        1,
+        4,
+        3,
+        1,
+        3,
+        2
+      ]
+    }
+  ],
+  "zone_edits": [
+    {
+      "station": 1,
+      "box": [
+        202,
+        483,
+        468,
+        486
+      ],
+      "keep": "넘어진 농부, 팔을 치켜든 장군, 주변의 인물",
+      "add": [
+        "갓 핀 생화"
+      ],
+      "gemini_ko": "노인 손이 장군을 제지하는 쪽에 가까운 농부 발밑에만, 흙에 뿌리박고 갓 피어난 생화 한 송이를 보인다. 과도한 힘이 계속 가는 쪽에는 꽃을 두지 않는다. 다음 요소를 보존한다. 넘어진 농부, 팔을 치켜든 장군, 주변의 인물. 다른 구역은 편집하지 말고 글자·숫자·도형 기호를 넣지 않는다.",
+      "gemini_en": "Draw one freshly opened living flower rooted at the farmer’s feet nearest the restraining elder. Preserve the fallen farmer, raised arms and other figures. Keep the unrestrained side flower-free. Preserve all pixels outside this crop. Add no text, numerals, or graphic symbols."
+    },
+    {
+      "station": 5,
+      "box": [
+        862,
+        432,
+        435,
+        285
+      ],
+      "keep": "초록 갑옷과 엎드린 노란 농부, 두 사람의 원래 접촉 방향",
+      "add": [],
+      "gemini_ko": "장군의 팔 한쪽만 부풀게 한다. 농부와 농부 밑의 흙은 원래대로 남겨 이 장면에서는 목의 강성 하나만 원인으로 드러낸다. 다음 요소를 보존한다. 초록 갑옷과 엎드린 노란 농부, 두 사람의 원래 접촉 방향. 다른 구역은 편집하지 말고 글자·숫자·도형 기호를 넣지 않는다.",
+      "gemini_en": "Exaggerate one green-armored upper arm. Leave the farmer and ground unchanged so this example shows strong Wood alone; retain the original figures and downward pressure. Preserve all pixels outside this crop. Add no text, numerals, or graphic symbols."
+    },
+    {
+      "station": 6,
+      "box": [
+        1225,
+        311,
+        233,
+        372
+      ],
+      "keep": "초록 장군과 흰 재상, 수염을 잡아당기는 손·찡그린 얼굴",
+      "add": [],
+      "gemini_ko": "수염을 잡은 초록 장군 손가락 가까이의 수염 끝만 작게 붉어지고 그을린 갈색으로 바뀌게 한다. 불은 장군 쪽에서 흰 수염 쪽으로 번진 흔적이 되게 한다. 다음 요소를 보존한다. 초록 장군과 흰 재상, 수염을 잡아당기는 손·찡그린 얼굴. 다른 구역은 편집하지 말고 글자·숫자·도형 기호를 넣지 않는다.",
+      "gemini_en": "Retouch the tips of the existing white beard immediately next to the green general’s pulling fingers, with a small ember fading into brown singeing farther along the beard. Preserve the grip, grimace and costumes. Preserve all pixels outside this crop. Add no text, numerals, or graphic symbols."
+    }
+  ],
+  "scene_score100": 88,
+  "to_user": [],
+  "needs_check": [],
+  "coverage_notes": [
+    "#4 빨대와 꼬마 장군을 그대로 두라는 인계를 따른다. 자병급모의 폐·비 예는 이 작은 의자에 덧그리지 않는다.",
+    "#1 制則生化을(를) 해당 위치에서 회상하도록 수정한다.",
+    "#5 木旺乘土·土虛木乘을(를) 해당 위치에서 회상하도록 수정한다.",
+    "#6 木火刑金·肝火犯肺을(를) 해당 위치에서 회상하도록 수정한다."
+  ]
+}

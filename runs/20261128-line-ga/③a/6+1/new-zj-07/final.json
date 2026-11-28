@@ -1,0 +1,77 @@
+{
+  "lesson": "new-zj-07",
+  "stations": [
+    {
+      "n": 1,
+      "problem": "靈樞 · 36難 이름 · 수 나를 물건 없음 · 원자 5",
+      "target": "難經 三十六難",
+      "new_objects": [
+        {
+          "thing": "삼지창",
+          "word": "삼지창",
+          "reading": "삼",
+          "steps": 1,
+          "place_box": [
+            2130,
+            170,
+            460,
+            540
+          ],
+          "action": "오른쪽 탑 열린 창의 빈 측면에 황금 삼지창을 아래 받침으로 세우고 중앙 날 위에 큰 은색 육각 너트를 꼭 끼운다. 두 물건이 맞닿게 한다."
+        },
+        {
+          "thing": "육각 너트",
+          "word": "육각 너트",
+          "reading": "육",
+          "steps": 1,
+          "place_box": [
+            2130,
+            170,
+            460,
+            540
+          ],
+          "action": "오른쪽 탑 열린 창의 빈 측면에 황금 삼지창을 아래 받침으로 세우고 중앙 날 위에 큰 은색 육각 너트를 꼭 끼운다. 두 물건이 맞닿게 한다."
+        }
+      ],
+      "say_add": "오른쪽 난경 창에 삼지창이 육각 너트를 떠받친다. 삼십육난의 명문을 이 창에서 떠올린다.",
+      "score25": 18,
+      "score_parts25": [
+        4,
+        1,
+        4,
+        3,
+        1,
+        3,
+        2
+      ]
+    }
+  ],
+  "zone_edits": [
+    {
+      "station": 1,
+      "box": [
+        2130,
+        170,
+        460,
+        540
+      ],
+      "keep": "흰 쌀자루·분홍 주머니·유리관과 왼쪽 돌문의 눈",
+      "add": [
+        "삼지창",
+        "육각 너트"
+      ],
+      "gemini_ko": "오른쪽 탑 열린 창의 빈 측면에 황금 삼지창을 아래 받침으로 세우고 중앙 날 위에 큰 은색 육각 너트를 꼭 끼운다. 두 물건이 맞닿게 한다. 다음 요소를 보존한다. 흰 쌀자루·분홍 주머니·유리관과 왼쪽 돌문의 눈. 다른 구역은 편집하지 말고 글자·숫자·도형 기호를 넣지 않는다.",
+      "gemini_en": "In the free side of the right tower window, set a small gold trident upright as the lower support and fit a silver hex nut on its center prong. Keep the nut above and touching it, clear of the rice sack, pink pouch and glass pipe. Do not modify the left eye gate. Preserve all pixels outside this crop. Add no text, numerals, or graphic symbols."
+    }
+  ],
+  "scene_score100": 88,
+  "to_user": [
+    "조헌가의 컴퍼스는 그대로 두고, 벌어진 간격이 일촌오분이라는 수치는 낭독에서만 짚을까요?"
+  ],
+  "needs_check": [],
+  "coverage_notes": [
+    "#2 조헌가의 컴퍼스는 재공모에서도 그대로 둔다. 눈금·숫자 없이 일촌오분을 별도 잣대에 표시하면 측정 시작점·분할 단위가 불명확하다. 네 사람과 우단의 양신을 잇는 밧줄은 보존한다.",
+    "#5 제목과 되짚기의 글을 바로잡아 둔 사용자 결정을 따른다. 이시진의 뇌 도상은 그대로 두며 손일규·장경악과 함께 셋째 실체설로 제시하지 않는다.",
+    "#1 難經 三十六難을(를) 해당 위치에서 회상하도록 수정한다."
+  ]
+}

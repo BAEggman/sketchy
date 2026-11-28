@@ -200,7 +200,7 @@
   "progress": {
    "①": "끝(2026-11-28) — 사용자 올림 대기",
    "②": "대기",
-   "③a": "대기",
+   "③a": "끝(2026-11-28) — 사용자 올림(PR 병합) 대기",
    "③b": "대기",
    "④a": "대기",
    "④b": "대기",
@@ -222,7 +222,26 @@
    "new-etc-21#3",
    "new-jq-05#5",
    "new-uk-04#6"
-  ]
+  ],
+  "③a": {
+   "lessons_changed": 7,
+   "lessons_unchanged": [
+    "yyox-03"
+   ],
+   "stations_changed": 12,
+   "images_changed": 7,
+   "retired": "images/_retired/20261128_line-ga-3a/",
+   "recordings_pending": 1,
+   "recordings_restamped": 8,
+   "record": "runs/20261128-line-ga/③a/README.md · changes.jsonl · readers_A.md · readers_B.md · 6+1/",
+   "tests": "hub_p1_test 40/41(실패 1 = hist-11 반복, 고치기 전과 같음) · site_check 통과 · build 경고 4(전과 같음)",
+   "user_checked": false,
+   "listening_checked": false,
+   "ask_user": [
+    "new-zj-07 趙獻可 컴퍼스 一寸五分은 낭독에서만?",
+    "new-etc-09a #11 劉完素 이름 고리 없음"
+   ]
+  }
  },
  "line_na_20261128": {
   "directive": "runs/20261128-line-na/DIRECTIVE.md (= 프로젝트 claude/Sketchy_나선_실행지시서_20261128.md)",

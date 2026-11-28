@@ -1603,99 +1603,96 @@
       "text": "문짝 전시장이다. 왼쪽은 해 뜬 하늘 앞의 바깥문 셋, 삼양. 오른쪽은 밤하늘 앞의 안문 셋, 삼음. 문마다 열렸는지 닫혔는지 지도리로 도는지가 개, 합, 추. 문에 박은 징의 개수가 음양의 수, 둥근 창의 그림이 형기의 단계, 문 앞의 빨간 통과 흰 풍선이 혈과 기의 많고 적음이다.",
       "text_sha256": "261b6062aba56b764102e4c5d0240deeaf4b7ee0edb7086f5c9b1d115355d8c0",
       "audio_sha256": "7e7e4fb2a47ee1d30603e2a510155294abf06583e79e44c766d87a22655222cd",
-      "image_sha256": "5ef53b90a68ac81d7e010fd253b11b3b2e8ba5e4dc86839ce30fa8982b88e5fb",
+      "image_sha256": "100042b3001ff348f35382c14df724da6ada37c731f8de31965541fe4e8ca5c5",
       "source_commit": "501120e18d1371f25d7de4830c97f1064f8d9711",
       "station_sha256": "efd5e7974bf4c3b1883e94cd89a8a6717b9692cc1abda35c82755ca732151047",
       "original_wav_sha256": "a32b0657f7810046f8bb6782400d70e63a2869066ce08fbc682da5c8691df55e",
-      "original_wav_filename": "new-uk-15.full.wav"
-    },
-    "new-uk-15#1": {
-      "src": "https://baeggman.github.io/sketchy-audio/new-uk-15__s1__b5b12700aecd.mp3",
-      "text": "왼쪽 바깥문. 활짝 열린 첫 문, 태양위개. 빗장 질러 닫힌 둘째 문, 양명위합. 큰 경첩으로 반쯤 도는 셋째 문, 소양위추. 소문 음양리합론이다. 태양의 개는 판본에 따라 관으로 적기도 한다.",
-      "text_sha256": "b5b12700aecd0912ce8347509a5c1065ead41822cc7055d9ef001734d79d9640",
-      "audio_sha256": "c064a883214e7d927d37848782cd138dcc69b735af7803fcb85084c8304d666e",
-      "image_sha256": "5ef53b90a68ac81d7e010fd253b11b3b2e8ba5e4dc86839ce30fa8982b88e5fb",
-      "source_commit": "501120e18d1371f25d7de4830c97f1064f8d9711",
-      "station_sha256": "60888eabc7d5c3c07bf1f67979968f782460b4c3e198fe4336fc6bdd02f483cb",
-      "original_wav_sha256": "a32b0657f7810046f8bb6782400d70e63a2869066ce08fbc682da5c8691df55e",
-      "original_wav_filename": "new-uk-15.full.wav"
+      "original_wav_filename": "new-uk-15.full.wav",
+      "restamped": "2026-11-28 가 선 ③a: 그림은 #1 구역(빗장 손 · 시계추)만 바뀜, 이 정거장 낭독 글 · 상자 그대로"
     },
     "new-uk-15#2": {
       "src": "https://baeggman.github.io/sketchy-audio/new-uk-15__s2__dcb4e935e584.mp3",
       "text": "오른쪽 안문. 활짝 열린 문, 태음위개. 큰 경첩으로 도는 문, 소음위추. 빗장 질러 닫힌 문, 궐음위합. 삼양과 나란히 놓으면, 태가 붙으면 개, 소가 붙으면 추, 그리고 양명, 궐음이 합.",
       "text_sha256": "dcb4e935e5844a1d0841eed148ae7e5579490fe05998a9d055e556396cfe9d4d",
       "audio_sha256": "4ca1f2b372c6c604712742e2e1a16aaf5497b15b5768de2172f19872b33896bb",
-      "image_sha256": "5ef53b90a68ac81d7e010fd253b11b3b2e8ba5e4dc86839ce30fa8982b88e5fb",
+      "image_sha256": "100042b3001ff348f35382c14df724da6ada37c731f8de31965541fe4e8ca5c5",
       "source_commit": "501120e18d1371f25d7de4830c97f1064f8d9711",
       "station_sha256": "f95dfec448aa993642cab4af452a49484c36bbb39e60041e79444100e5cb693a",
       "original_wav_sha256": "a32b0657f7810046f8bb6782400d70e63a2869066ce08fbc682da5c8691df55e",
-      "original_wav_filename": "new-uk-15.full.wav"
+      "original_wav_filename": "new-uk-15.full.wav",
+      "restamped": "2026-11-28 가 선 ③a: 그림은 #1 구역(빗장 손 · 시계추)만 바뀜, 이 정거장 낭독 글 · 상자 그대로"
     },
     "new-uk-15#3": {
       "src": "https://baeggman.github.io/sketchy-audio/new-uk-15__s3__e8f0904c1d44.mp3",
       "text": "문이 하는 일. 열린 문은 바깥으로 내보낸다, 개, 발산, 외향. 빗장 지른 문은 안으로 거두어 들인다, 합, 수납, 내향. 경첩은 문을 돌려 방향을 바꾼다, 추, 지도리, 전환의 축.",
       "text_sha256": "e8f0904c1d44ccf96e8be5120d17a72c00c6a790fed9fc0dd545ec49a2db1b25",
       "audio_sha256": "f8430750861b20883edbf3b27d644833c44b6cf79f010c67928e9418f1b31cc6",
-      "image_sha256": "5ef53b90a68ac81d7e010fd253b11b3b2e8ba5e4dc86839ce30fa8982b88e5fb",
+      "image_sha256": "100042b3001ff348f35382c14df724da6ada37c731f8de31965541fe4e8ca5c5",
       "source_commit": "501120e18d1371f25d7de4830c97f1064f8d9711",
       "station_sha256": "8708c8feb66ad0d6fc62cde8fd54549623f68be747c77c0091d97bff764fc449",
       "original_wav_sha256": "a32b0657f7810046f8bb6782400d70e63a2869066ce08fbc682da5c8691df55e",
-      "original_wav_filename": "new-uk-15.full.wav"
+      "original_wav_filename": "new-uk-15.full.wav",
+      "restamped": "2026-11-28 가 선 ③a: 그림은 #1 구역(빗장 손 · 시계추)만 바뀜, 이 정거장 낭독 글 · 상자 그대로"
     },
     "new-uk-15#4": {
       "src": "https://baeggman.github.io/sketchy-audio/new-uk-15__s4__f23b430ce5d7.mp3",
       "text": "앞 가운데 안내 책자 셋. 문 그림, 소문 음양리합론, 개합추를 말한다. 불꽃 그림, 소문 열론, 열병이 육경을 날마다 옮겨 가는 이야기. 눈송이에 줄무늬, 상한론, 육경변증. 삼음삼양을 논한 대표 편이다.",
       "text_sha256": "f23b430ce5d73614b6b4c0880d66a4bd47be44dff557eac061ff422f8862e57d",
       "audio_sha256": "183b4bf8197888c8d419391be00e8dbc59fc298aa4af5f306f1897b089c040f1",
-      "image_sha256": "5ef53b90a68ac81d7e010fd253b11b3b2e8ba5e4dc86839ce30fa8982b88e5fb",
+      "image_sha256": "100042b3001ff348f35382c14df724da6ada37c731f8de31965541fe4e8ca5c5",
       "source_commit": "501120e18d1371f25d7de4830c97f1064f8d9711",
       "station_sha256": "1db4e30db7d3d9d9b02574d06aac8407f8a7be09fec0d74555d4285e2b93d8c8",
       "original_wav_sha256": "a32b0657f7810046f8bb6782400d70e63a2869066ce08fbc682da5c8691df55e",
-      "original_wav_filename": "new-uk-15.full.wav"
+      "original_wav_filename": "new-uk-15.full.wav",
+      "restamped": "2026-11-28 가 선 ③a: 그림은 #1 구역(빗장 손 · 시계추)만 바뀜, 이 정거장 낭독 글 · 상자 그대로"
     },
     "new-uk-15#5": {
       "src": "https://baeggman.github.io/sketchy-audio/new-uk-15__s5__8e42b1f09227.mp3",
       "text": "징을 센다. 안문의 달 징, 닫힌 궐음 문 하나, 경첩 소음 문 둘, 열린 태음 문 셋. 궐음이 일음, 소음이 이음, 태음이 삼음. 바깥문도 같다, 소양 하나 일양, 양명 둘 이양, 태양 셋 삼양. 함정, 삼음이 다 지나 음이 다하는 곳, 양음교진은 궐음이다. 소음이 아니다.",
       "text_sha256": "8e42b1f092271cb883b7aeb9f497833468e3fd901e9916e34aed047d8b599fa9",
       "audio_sha256": "748a532716a185dafa35f39cffb88b2c677f3ae8411b5729b0bb802eab093380",
-      "image_sha256": "5ef53b90a68ac81d7e010fd253b11b3b2e8ba5e4dc86839ce30fa8982b88e5fb",
+      "image_sha256": "100042b3001ff348f35382c14df724da6ada37c731f8de31965541fe4e8ca5c5",
       "source_commit": "501120e18d1371f25d7de4830c97f1064f8d9711",
       "station_sha256": "74e8a2cdc831432903156ee362942444d21e0797f09201f7130dbcad6046fb83",
       "original_wav_sha256": "a32b0657f7810046f8bb6782400d70e63a2869066ce08fbc682da5c8691df55e",
-      "original_wav_filename": "new-uk-15.full.wav"
+      "original_wav_filename": "new-uk-15.full.wav",
+      "restamped": "2026-11-28 가 선 ③a: 그림은 #1 구역(빗장 손 · 시계추)만 바뀜, 이 정거장 낭독 글 · 상자 그대로"
     },
     "new-uk-15#6": {
       "src": "https://baeggman.github.io/sketchy-audio/new-uk-15__s6__4e0b5f53a5ce.mp3",
       "text": "바깥문의 창. 경첩 문 창에는 막 떠오르는 해, 소양, 양이 처음 생긴다. 닫힌 문 창에는 한낮의 해, 양명, 양이 자라 이룬다. 열린 문 창에는 낮게 지는 저녁 해, 태양, 늙은 양, 기운이 다해 멈추어 간다. 소양, 양명, 태양의 형기 발전.",
       "text_sha256": "4e0b5f53a5ce735ea0d8f37324ba84d100099da0e1fa064154ae9816f8bf1a0e",
       "audio_sha256": "c60979f202a0b861ce3e1aa3e4c8acb686738eb561bf11c874c7e2e50f16d4b6",
-      "image_sha256": "5ef53b90a68ac81d7e010fd253b11b3b2e8ba5e4dc86839ce30fa8982b88e5fb",
+      "image_sha256": "100042b3001ff348f35382c14df724da6ada37c731f8de31965541fe4e8ca5c5",
       "source_commit": "501120e18d1371f25d7de4830c97f1064f8d9711",
       "station_sha256": "b2e7c4c0a983e4a01faf54b4fae890dd857f31883c012fa2637e5c3d7cc656ea",
       "original_wav_sha256": "a32b0657f7810046f8bb6782400d70e63a2869066ce08fbc682da5c8691df55e",
-      "original_wav_filename": "new-uk-15.full.wav"
+      "original_wav_filename": "new-uk-15.full.wav",
+      "restamped": "2026-11-28 가 선 ③a: 그림은 #1 구역(빗장 손 · 시계추)만 바뀜, 이 정거장 낭독 글 · 상자 그대로"
     },
     "new-uk-15#7": {
       "src": "https://baeggman.github.io/sketchy-audio/new-uk-15__s7__81f0029940bd.mp3",
       "text": "셋째 바깥문을 다시 본다. 해 징 하나, 일양. 창의 해돋이, 양초생. 작은 빨간 통에 큰 풍선, 기가 많고 혈이 적다. 그리고 소양은 궐음의 겉, 궐음지표, 표리 짝이 닫힌 궐음 문이다. 함정, 소양은 양이 가장 적은 것이고, 두 번째로 적다 양차소는 양명을 두고 하는 말이다.",
       "text_sha256": "81f0029940bdb1a510ec8e13d025e1753111ccd0cfd9ad9ba3ee652a3193806e",
       "audio_sha256": "0538ab14357ca055790b04d9484874a6d94206a1341f50e43d04d7917b4edfc2",
-      "image_sha256": "5ef53b90a68ac81d7e010fd253b11b3b2e8ba5e4dc86839ce30fa8982b88e5fb",
+      "image_sha256": "100042b3001ff348f35382c14df724da6ada37c731f8de31965541fe4e8ca5c5",
       "source_commit": "501120e18d1371f25d7de4830c97f1064f8d9711",
       "station_sha256": "0310574e71aa106169ecdce2a88feb6d6da2089774417423636ed8dd0b97563f",
       "original_wav_sha256": "a32b0657f7810046f8bb6782400d70e63a2869066ce08fbc682da5c8691df55e",
-      "original_wav_filename": "new-uk-15.full.wav"
+      "original_wav_filename": "new-uk-15.full.wav",
+      "restamped": "2026-11-28 가 선 ③a: 그림은 #1 구역(빗장 손 · 시계추)만 바뀜, 이 정거장 낭독 글 · 상자 그대로"
     },
     "new-uk-15#9": {
       "src": "https://baeggman.github.io/sketchy-audio/new-uk-15__s9__e0bb859e5a2c.mp3",
       "text": "문 앞의 빨간 통이 혈, 흰 풍선이 기. 통도 풍선도 큰 것은 닫힌 바깥문 하나, 양명만 다기다혈. 큰 통에 작은 풍선은 열린 바깥문과 닫힌 안문, 태양, 궐음은 다혈소기. 작은 통에 큰 풍선은 나머지 셋, 소양, 소음은 소혈다기, 태음은 다기소혈. 소문 혈기형지의 표다. 닫힌 문 둘 가운데 양명은 둘 다 많고, 궐음은 혈만 많다.",
       "text_sha256": "e0bb859e5a2c8bc34f6b55c8e7ffd470fd31aae980c2483834c94c8c14d3d993",
       "audio_sha256": "11f52a11c03eee65699511d2a3004b117a7bc226c1508b8778ec76eeb8115574",
-      "image_sha256": "5ef53b90a68ac81d7e010fd253b11b3b2e8ba5e4dc86839ce30fa8982b88e5fb",
+      "image_sha256": "100042b3001ff348f35382c14df724da6ada37c731f8de31965541fe4e8ca5c5",
       "source_commit": "501120e18d1371f25d7de4830c97f1064f8d9711",
       "station_sha256": "39677f202f7195ba0a11d8ebc20325bc422f0f1b2c5636325addcb6ff0794490",
       "original_wav_sha256": "a32b0657f7810046f8bb6782400d70e63a2869066ce08fbc682da5c8691df55e",
-      "original_wav_filename": "new-uk-15.full.wav"
+      "original_wav_filename": "new-uk-15.full.wav",
+      "restamped": "2026-11-28 가 선 ③a: 그림은 #1 구역(빗장 손 · 시계추)만 바뀜, 이 정거장 낭독 글 · 상자 그대로"
     },
     "new-jq-01#0": {
       "src": "https://baeggman.github.io/sketchy-audio/new-jq-01__s0__12cf5daa35d0.mp3",
@@ -8519,6 +8516,19 @@
       "original_wav_filename": "new-gr-02.full.wav",
       "pending_since": "2026-11-28",
       "pending_reason": "2026-11-28 나 선 ①: 정거장 글 바뀜(say) — ⑤에서 다시 녹음"
+    },
+    "new-uk-15#1": {
+      "src": "https://baeggman.github.io/sketchy-audio/new-uk-15__s1__b5b12700aecd.mp3",
+      "text": "왼쪽 바깥문. 활짝 열린 첫 문, 태양위개. 빗장 질러 닫힌 둘째 문, 양명위합. 큰 경첩으로 반쯤 도는 셋째 문, 소양위추. 소문 음양리합론이다. 태양의 개는 판본에 따라 관으로 적기도 한다.",
+      "text_sha256": "b5b12700aecd0912ce8347509a5c1065ead41822cc7055d9ef001734d79d9640",
+      "audio_sha256": "c064a883214e7d927d37848782cd138dcc69b735af7803fcb85084c8304d666e",
+      "image_sha256": "5ef53b90a68ac81d7e010fd253b11b3b2e8ba5e4dc86839ce30fa8982b88e5fb",
+      "source_commit": "501120e18d1371f25d7de4830c97f1064f8d9711",
+      "station_sha256": "60888eabc7d5c3c07bf1f67979968f782460b4c3e198fe4336fc6bdd02f483cb",
+      "original_wav_sha256": "a32b0657f7810046f8bb6782400d70e63a2869066ce08fbc682da5c8691df55e",
+      "original_wav_filename": "new-uk-15.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "가 선 ③a: 그림(빗장 자리 합장한 두 손 · 시계추)과 낭독 글이 바뀜"
     }
   }
 }

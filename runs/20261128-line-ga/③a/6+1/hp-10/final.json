@@ -1,0 +1,73 @@
+{
+  "lesson": "hp-10",
+  "stations": [
+    {
+      "n": 8,
+      "problem": "嬌臟 소리 고리 없음 · 皮毛 · 가장 높음 물건 없음 · 원자 5",
+      "target": "嬌臟·皮毛",
+      "new_objects": [
+        {
+          "thing": "교탁",
+          "word": "교탁",
+          "reading": "교장",
+          "steps": 1,
+          "place_box": [
+            1597,
+            415,
+            280,
+            582
+          ],
+          "action": "가슴의 손 바로 위에 손바닥만 한 교탁을 놓고, 그 뒤 작은 교장이 기침하는 사람에게 몸을 돌려 가슴을 가리킨다. 반대쪽 팔의 갈라진 피부에는 솜털이 말려 서게 한다."
+        },
+        {
+          "thing": "작은 학교 교장",
+          "word": "교장",
+          "reading": "교장",
+          "steps": 0,
+          "place_box": [
+            1597,
+            415,
+            280,
+            582
+          ],
+          "action": "가슴의 손 바로 위에 손바닥만 한 교탁을 놓고, 그 뒤 작은 교장이 기침하는 사람에게 몸을 돌려 가슴을 가리킨다. 반대쪽 팔의 갈라진 피부에는 솜털이 말려 서게 한다."
+        }
+      ],
+      "say_add": "교탁에 선 교장의 소리로 폐의 별명인 교장을 기억한다. 마른기침하는 사람의 팔에서 살갗과 털, 피모가 보인다.",
+      "score25": 20,
+      "score_parts25": [
+        6,
+        4,
+        3,
+        3,
+        1,
+        2,
+        1
+      ]
+    }
+  ],
+  "zone_edits": [
+    {
+      "station": 8,
+      "box": [
+        1597,
+        415,
+        280,
+        582
+      ],
+      "keep": "남자의 가슴을 짚은 손·기침하는 입·갈라진 피부·뒤의 창",
+      "add": [
+        "교탁",
+        "작은 학교 교장"
+      ],
+      "gemini_ko": "가슴의 손 바로 위에 손바닥만 한 교탁을 놓고, 그 뒤 작은 교장이 기침하는 사람에게 몸을 돌려 가슴을 가리킨다. 반대쪽 팔의 갈라진 피부에는 솜털이 말려 서게 한다. 다음 요소를 보존한다. 남자의 가슴을 짚은 손·기침하는 입·갈라진 피부·뒤의 창. 다른 구역은 편집하지 말고 글자·숫자·도형 기호를 넣지 않는다.",
+      "gemini_en": "Just above the hand on the chest, place a miniature school lectern with a tiny principal turning to point at the coughing man’s chest. Curl the visible fine hairs against the cracked skin of his other arm. Keep his mouth, chest hand, windows and skin fissures visible. Preserve all pixels outside this crop. Add no text, numerals, or graphic symbols."
+    }
+  ],
+  "scene_score100": 89,
+  "to_user": [],
+  "needs_check": [],
+  "coverage_notes": [
+    "#8 교장과 피모를 채택한다. 장부들 사이의 높이라는 비교는 환자 하나를 높이 세우는 장면으로 표현하지 않았다. 희윤오조는 사실 칸에 남긴다."
+  ]
+}

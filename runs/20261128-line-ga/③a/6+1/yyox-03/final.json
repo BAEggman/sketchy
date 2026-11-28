@@ -1,0 +1,105 @@
+{
+  "lesson": "yyox-03",
+  "stations": [
+    {
+      "n": 6,
+      "problem": "稼·穡 훈(심을 가·거둘 색)이 어려워 안 보임 낱말인데 소리 고리 없음 — 뜻 고리만. 化生·承載 속성은 안 실림.",
+      "target": "稼穡·承載",
+      "new_objects": [],
+      "say_add": "왼쪽 고랑에는 심고 오른쪽 밭에서는 거둔다. 씨와 볏단을 함께 받쳐 주는 흙에서 승재를 본다.",
+      "score25": 16,
+      "score_parts25": [
+        2,
+        1,
+        4,
+        3,
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "n": 7,
+      "problem": "相傅=재상(보좌)은 교재 뜻풀이를 알아야 연결 — 훈으로 안 풀림, 소리 고리 없음. 治節도 안 실림.",
+      "target": "相傅之官",
+      "new_objects": [],
+      "say_add": "흰 수염 재상이 한쪽 손으로 동료의 팔을 아래서 받쳐 보좌한다. 폐의 벼슬은 상부지관이다.",
+      "score25": 14,
+      "score_parts25": [
+        1,
+        1,
+        4,
+        3,
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "n": 8,
+      "problem": "革=가죽→바꿈, 從=따름 두 걸음. 소리 고리 없음. 속성 넷 중 안 실린 것 있음.",
+      "target": "從革",
+      "new_objects": [],
+      "say_add": "망치 아래서 달군 쇠막대가 모루의 굴곡을 따라 휘며 모양이 바뀐다. 금의 성질은 종혁이다.",
+      "score25": 15,
+      "score_parts25": [
+        1,
+        1,
+        4,
+        3,
+        1,
+        3,
+        2
+      ]
+    }
+  ],
+  "zone_edits": [
+    {
+      "station": 6,
+      "box": [
+        836,
+        778,
+        389,
+        365
+      ],
+      "keep": "씨 뿌린 고랑과 묶인 볏단, 낫의 원래 방향",
+      "add": [],
+      "gemini_ko": "왼쪽 흙이 씨 한 알을 받고 오른쪽 낫이 베어 묶은 볏단 밑동에 닿게 한다. 이어진 흙 단면은 양쪽을 손바닥처럼 아래서 받친다. 다음 요소를 보존한다. 씨 뿌린 고랑과 묶인 볏단, 낫의 원래 방향. 다른 구역은 편집하지 말고 글자·숫자·도형 기호를 넣지 않는다.",
+      "gemini_en": "Place one existing seed in the left furrow and let the existing sickle meet the tied stalks on the right. Shape the continuous soil cross section like an upturned support under both. Keep the furrows and sheaves. Preserve all pixels outside this crop. Add no text, numerals, or graphic symbols."
+    },
+    {
+      "station": 7,
+      "box": [
+        1355,
+        151,
+        180,
+        404
+      ],
+      "keep": "흰 도포·흰 수염·갈대와 주변 인물, 피모 위치",
+      "add": [],
+      "gemini_ko": "기존 노인이 한 손을 옆으로 뻗어 옆 사람의 손목 아래를 받치는 듯 팔을 꺾게 한다. 원래 좁은 경계 안에 상대의 손과 소매 끝만 보이고 얼굴이나 새 인물은 넣지 않는다. 다음 요소를 보존한다. 흰 도포·흰 수염·갈대와 주변 인물, 피모 위치. 다른 구역은 편집하지 말고 글자·숫자·도형 기호를 넣지 않는다.",
+      "gemini_en": "Pose the existing white-robed elder’s forearm in a supporting gesture, with the tip of a neighboring sleeve and wrist resting on his palm just at the crop edge. Preserve his beard, white robes and reeds. Add no new figure. Preserve all pixels outside this crop. Add no text, numerals, or graphic symbols."
+    },
+    {
+      "station": 8,
+      "box": [
+        1283,
+        735,
+        324,
+        331
+      ],
+      "keep": "원래 모루, 달군 쇠와 망치",
+      "add": [],
+      "gemini_ko": "같은 쇠막대의 한끝은 여전히 곧게 두고 반대쪽은 모루 윗면과 옆면 두 번의 굴곡에 밀착해 계단처럼 꺾이게 한다. 망치는 굽힘 자리에 닿는다. 다음 요소를 보존한다. 원래 모루, 달군 쇠와 망치. 다른 구역은 편집하지 말고 글자·숫자·도형 기호를 넣지 않는다.",
+      "gemini_en": "Keep one end of the hot rod straight. Make the other follow two distinct bends in the top and side of the anvil as a short angular step. The existing hammer touches the bend, and the same metal remains continuous. Preserve all pixels outside this crop. Add no text, numerals, or graphic symbols."
+    }
+  ],
+  "scene_score100": 84,
+  "to_user": [],
+  "needs_check": [],
+  "coverage_notes": [
+    "#6 가·색의 음까지 실었다고 보지 않는다. 작물에 가위와 색연필을 꽂는 안은 거둠과 색칠을 혼동시켜 제외했다.",
+    "#7 보좌는 역할의 단서다. 상부의 소리나 치절의 전체 뜻은 이 칸에서 단독 복원되지 않는다.",
+    "#8 종 모양은 종기의 기존 종과 충돌해 탈락했다. 같은 쇠가 굴곡을 따르고 변하는 기존 동작을 살린다. 종혁의 소리와 변혁·숙살·수렴·하강 전체는 그림 밖 사실 칸에서 확인한다."
+  ]
+}

@@ -8053,28 +8053,6 @@
       "station_sha256": "1df25579b8988ea2e4133dcc0aa1219d6c1ddefdae75bb2c665f9aa4e92a0704",
       "original_wav_sha256": "a32b0657f7810046f8bb6782400d70e63a2869066ce08fbc682da5c8691df55e",
       "original_wav_filename": "new-uk-15.full.wav"
-    },
-    "new-gr-15#2": {
-      "src": "https://baeggman.github.io/sketchy-audio/new-gr-15__s2__d29cb6c4dbeb.mp3",
-      "text": "뿌리를 본다. 뿌리 끝이 손가락, 발가락 모양이고 끝마다 빛방울이 맺혔다, 근, 사지 끝의 정혈. 경기가 처음 생겨 맥 안으로 흘러드는 곳이다. 위로 올라가 우듬지에 열매가 맺혔다, 결, 머리, 얼굴과 몸통. 경기가 돌아와 맺히는 곳이고, 거기서 다시 기가로 나간다. 본, 근은 아래 끝, 표, 결은 위.",
-      "text_sha256": "d29cb6c4dbeb4e088f906f7645ec698ca14e3e1a2e8795d4104f6e113f0c1cd9",
-      "audio_sha256": "eccc9b625ed2c839e872a26b13c251817775b5f7cae116f1f83b1c865b698bfc",
-      "image_sha256": "7ddde210e4dd4d68e8a1a03149af4733351d912f93c9908966a8542ffeb5b1a9",
-      "source_commit": "4410eb2b07963548a4c6e07afe8058abf146652c",
-      "station_sha256": "167fab4b580d18e46d54a3e045763d09b3b4584938b1c483d7b12c1ff5bc47e2",
-      "original_wav_sha256": "d125a37dd564d2bcd4d46c69f8a22562bfbc5b15928c358461e87415b4528f10",
-      "original_wav_filename": "new-gr-15.full.wav"
-    },
-    "new-gr-15#8": {
-      "src": "https://baeggman.github.io/sketchy-audio/new-gr-15__s8__9071e4d57ab2.mp3",
-      "text": "그 아래, 아랫배 높이 구멍에 붉은 못이 있고 작은 붉은 분수가 솟는다, 앞 과의 충맥, 혈해이자 십이경지해. 아랫배다. 사해를 위에서부터, 머리 수, 가슴 기, 윗배 수곡, 아랫배 혈.",
-      "text_sha256": "9071e4d57ab22828c39d30b50f4d787ebdecf8a9c0a227686aa8e767e80c04b9",
-      "audio_sha256": "84cd81070a4cb1a7bf8a1cccf0d017e5359a8a968186d366c4639ee5a45e1640",
-      "image_sha256": "7ddde210e4dd4d68e8a1a03149af4733351d912f93c9908966a8542ffeb5b1a9",
-      "source_commit": "4410eb2b07963548a4c6e07afe8058abf146652c",
-      "station_sha256": "baed09d705b360d872fefe8f9337c4186ce64c6e3be6a0ce156f794e1cc64dba",
-      "original_wav_sha256": "d125a37dd564d2bcd4d46c69f8a22562bfbc5b15928c358461e87415b4528f10",
-      "original_wav_filename": "new-gr-15.full.wav"
     }
   },
   "pending_review": {
@@ -8348,6 +8326,32 @@
       "station_sha256": "0484cefd9fdc2f6a16cc38f1cdbf4cb4a3f7ebdc10b16b49d3bd5c6e0318a095",
       "original_wav_sha256": "e13b87aaa3bd914936aff5816eab3b98e4a417dd8843ad59c783564c8f21bc2b",
       "original_wav_filename": "new-gr-14.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "가 선 ①: 정거장 글 바뀜(hook · say) — ⑤에서 다시 녹음"
+    },
+    "new-gr-15#2": {
+      "src": "https://baeggman.github.io/sketchy-audio/new-gr-15__s2__d29cb6c4dbeb.mp3",
+      "text": "뿌리를 본다. 뿌리 끝이 손가락, 발가락 모양이고 끝마다 빛방울이 맺혔다, 근, 사지 끝의 정혈. 경기가 처음 생겨 맥 안으로 흘러드는 곳이다. 위로 올라가 우듬지에 열매가 맺혔다, 결, 머리, 얼굴과 몸통. 경기가 돌아와 맺히는 곳이고, 거기서 다시 기가로 나간다. 본, 근은 아래 끝, 표, 결은 위.",
+      "text_sha256": "d29cb6c4dbeb4e088f906f7645ec698ca14e3e1a2e8795d4104f6e113f0c1cd9",
+      "audio_sha256": "eccc9b625ed2c839e872a26b13c251817775b5f7cae116f1f83b1c865b698bfc",
+      "image_sha256": "7ddde210e4dd4d68e8a1a03149af4733351d912f93c9908966a8542ffeb5b1a9",
+      "source_commit": "4410eb2b07963548a4c6e07afe8058abf146652c",
+      "station_sha256": "167fab4b580d18e46d54a3e045763d09b3b4584938b1c483d7b12c1ff5bc47e2",
+      "original_wav_sha256": "d125a37dd564d2bcd4d46c69f8a22562bfbc5b15928c358461e87415b4528f10",
+      "original_wav_filename": "new-gr-15.full.wav",
+      "pending_since": "2026-11-28",
+      "pending_reason": "가 선 ①: 정거장 글 바뀜(hook · say) — ⑤에서 다시 녹음"
+    },
+    "new-gr-15#8": {
+      "src": "https://baeggman.github.io/sketchy-audio/new-gr-15__s8__9071e4d57ab2.mp3",
+      "text": "그 아래, 아랫배 높이 구멍에 붉은 못이 있고 작은 붉은 분수가 솟는다, 앞 과의 충맥, 혈해이자 십이경지해. 아랫배다. 사해를 위에서부터, 머리 수, 가슴 기, 윗배 수곡, 아랫배 혈.",
+      "text_sha256": "9071e4d57ab22828c39d30b50f4d787ebdecf8a9c0a227686aa8e767e80c04b9",
+      "audio_sha256": "84cd81070a4cb1a7bf8a1cccf0d017e5359a8a968186d366c4639ee5a45e1640",
+      "image_sha256": "7ddde210e4dd4d68e8a1a03149af4733351d912f93c9908966a8542ffeb5b1a9",
+      "source_commit": "4410eb2b07963548a4c6e07afe8058abf146652c",
+      "station_sha256": "baed09d705b360d872fefe8f9337c4186ce64c6e3be6a0ce156f794e1cc64dba",
+      "original_wav_sha256": "d125a37dd564d2bcd4d46c69f8a22562bfbc5b15928c358461e87415b4528f10",
+      "original_wav_filename": "new-gr-15.full.wav",
       "pending_since": "2026-11-28",
       "pending_reason": "가 선 ①: 정거장 글 바뀜(hook · say) — ⑤에서 다시 녹음"
     },

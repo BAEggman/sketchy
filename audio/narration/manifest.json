@@ -5590,9 +5590,10 @@
       "audio_sha256": "7eeaf61860c7d00d4dfd242490e591dde70a7db2c86f1870b951068f70af6751",
       "image_sha256": "75027c028fe1632aa7b3de148a459ed114abbc703e595994ca8dba8367fde00e",
       "source_commit": "40c41f0549c95ea12506e7c5c641851c139c529e",
-      "station_sha256": "6c09f4d50f139759d6b3a74cb0cdd744a04fd05dbfe22a185af5b1c5a973282f",
+      "station_sha256": "fa709aa933b53a342f3145609d453b98e96a9162ea25b580898c4e58d05eeb4c",
       "original_wav_sha256": "a2b9728c2934e095d51e9151d1adbb2bfe6eb977f6fc6dd6ffa08590c202c36b",
-      "original_wav_filename": "new-gr-11.full.wav"
+      "original_wav_filename": "new-gr-11.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "new-gr-11#2": {
       "src": "https://baeggman.github.io/sketchy-audio/new-gr-11__s2__13c1e5c49520.mp3",
@@ -5601,9 +5602,10 @@
       "audio_sha256": "d94dd229b7139ee6c0f582b60a381f0cc448cbbf84696a137dab8265fb49b70f",
       "image_sha256": "75027c028fe1632aa7b3de148a459ed114abbc703e595994ca8dba8367fde00e",
       "source_commit": "40c41f0549c95ea12506e7c5c641851c139c529e",
-      "station_sha256": "09bbb2e1e37863175af6a875d18330ab51584a2f6f8253b3ed893c5183b5fadf",
+      "station_sha256": "3b12d0e3cf7c1205ff00c8c87fc14109efb717ecadf7834be0000bb669850b32",
       "original_wav_sha256": "a2b9728c2934e095d51e9151d1adbb2bfe6eb977f6fc6dd6ffa08590c202c36b",
-      "original_wav_filename": "new-gr-11.full.wav"
+      "original_wav_filename": "new-gr-11.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "new-gr-11#3": {
       "src": "https://baeggman.github.io/sketchy-audio/new-gr-11__s3__8af9ec3cc265.mp3",
@@ -5612,9 +5614,10 @@
       "audio_sha256": "b4b6496bb0a0437c5fcab7c327994d65cd4c71f6b1a0dc7c0d15160a2130a442",
       "image_sha256": "75027c028fe1632aa7b3de148a459ed114abbc703e595994ca8dba8367fde00e",
       "source_commit": "40c41f0549c95ea12506e7c5c641851c139c529e",
-      "station_sha256": "0023acb73cd7a6f61441deb05c21ed8e8e4b0b313925875745ed9bfc97d2eb61",
+      "station_sha256": "1aace7553dee157d16d15e1351fdacaefe754dbdc1574441705fea4a2dff093f",
       "original_wav_sha256": "a2b9728c2934e095d51e9151d1adbb2bfe6eb977f6fc6dd6ffa08590c202c36b",
-      "original_wav_filename": "new-gr-11.full.wav"
+      "original_wav_filename": "new-gr-11.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "new-gr-11#4": {
       "src": "https://baeggman.github.io/sketchy-audio/new-gr-11__s4__59e2d950d5b7.mp3",
@@ -5623,9 +5626,10 @@
       "audio_sha256": "0467b5fc13d284c0ae2140383583b5f3cff3b74b012b537c9e04dadc29190796",
       "image_sha256": "75027c028fe1632aa7b3de148a459ed114abbc703e595994ca8dba8367fde00e",
       "source_commit": "40c41f0549c95ea12506e7c5c641851c139c529e",
-      "station_sha256": "e67c0ba4d2791f010390decd4a40a770e66ea2296b170c1811ea52ac0eaa8ca0",
+      "station_sha256": "0adf3add354b7be6482871e2f293236b8e01bf3474502a3bdb25a9ebcef5b3a5",
       "original_wav_sha256": "a2b9728c2934e095d51e9151d1adbb2bfe6eb977f6fc6dd6ffa08590c202c36b",
-      "original_wav_filename": "new-gr-11.full.wav"
+      "original_wav_filename": "new-gr-11.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "new-gr-11#5": {
       "src": "https://baeggman.github.io/sketchy-audio/new-gr-11__s5__c29b6e2bf0bb.mp3",
@@ -5634,9 +5638,10 @@
       "audio_sha256": "947fd7b764b863c15a3c7854667dc506ea5b22b828b892a7489e29669d902cf6",
       "image_sha256": "75027c028fe1632aa7b3de148a459ed114abbc703e595994ca8dba8367fde00e",
       "source_commit": "40c41f0549c95ea12506e7c5c641851c139c529e",
-      "station_sha256": "64fe87090968e9e11cda756da6c57dd627d3e52c95afbbdec7fe3905b5e777ab",
+      "station_sha256": "ff65c69d75685e23e03248becea4b76481290f78d594107710983ffb94204769",
       "original_wav_sha256": "a2b9728c2934e095d51e9151d1adbb2bfe6eb977f6fc6dd6ffa08590c202c36b",
-      "original_wav_filename": "new-gr-11.full.wav"
+      "original_wav_filename": "new-gr-11.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "new-gr-11#6": {
       "src": "https://baeggman.github.io/sketchy-audio/new-gr-11__s6__6c92bb7739dc.mp3",
@@ -5645,9 +5650,10 @@
       "audio_sha256": "3174d8eeea42f74af3a48e39de7b8f95177f215ce0d62c6da269f983972e71bc",
       "image_sha256": "75027c028fe1632aa7b3de148a459ed114abbc703e595994ca8dba8367fde00e",
       "source_commit": "40c41f0549c95ea12506e7c5c641851c139c529e",
-      "station_sha256": "c17869af82eaff231d480b812a4642f61a281010dfdcee7d2bebb49f8edee41b",
+      "station_sha256": "b05d9122630eeb31ca6ecc15bad2666166ff5f4230fddf00c105202ab828d8ee",
       "original_wav_sha256": "a2b9728c2934e095d51e9151d1adbb2bfe6eb977f6fc6dd6ffa08590c202c36b",
-      "original_wav_filename": "new-gr-11.full.wav"
+      "original_wav_filename": "new-gr-11.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "new-gr-11#7": {
       "src": "https://baeggman.github.io/sketchy-audio/new-gr-11__s7__7cfab498f244.mp3",
@@ -5656,9 +5662,10 @@
       "audio_sha256": "f2c4f65bcdf1ce6e1ba48d0f9cee7f87f593816348ef22b0d962873126d53e6d",
       "image_sha256": "75027c028fe1632aa7b3de148a459ed114abbc703e595994ca8dba8367fde00e",
       "source_commit": "40c41f0549c95ea12506e7c5c641851c139c529e",
-      "station_sha256": "d21cab0fb01bb23a7b77fc170a813859b68550434eb08010c339d77b148f3259",
+      "station_sha256": "9508e5d9bc6dc5bd6deef50a4118acb9df494cfe15449d48133356b60d7fa11d",
       "original_wav_sha256": "a2b9728c2934e095d51e9151d1adbb2bfe6eb977f6fc6dd6ffa08590c202c36b",
-      "original_wav_filename": "new-gr-11.full.wav"
+      "original_wav_filename": "new-gr-11.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "new-gr-11#8": {
       "src": "https://baeggman.github.io/sketchy-audio/new-gr-11__s8__bbd2e19c5854.mp3",
@@ -5667,9 +5674,10 @@
       "audio_sha256": "48903be32323650cc52e20cdbf8e7d7a3e52f816619a817db7fdba282f9b3549",
       "image_sha256": "75027c028fe1632aa7b3de148a459ed114abbc703e595994ca8dba8367fde00e",
       "source_commit": "40c41f0549c95ea12506e7c5c641851c139c529e",
-      "station_sha256": "48616ece0edb3d95e59e187ada42632aa93e81311918f7824928e4891f4ac85f",
+      "station_sha256": "627eda2b365c8d4ff74b36e0b7abb1fd59e2fa85384514d791efea51ec4c0697",
       "original_wav_sha256": "a2b9728c2934e095d51e9151d1adbb2bfe6eb977f6fc6dd6ffa08590c202c36b",
-      "original_wav_filename": "new-gr-11.full.wav"
+      "original_wav_filename": "new-gr-11.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "new-gr-11#9": {
       "src": "https://baeggman.github.io/sketchy-audio/new-gr-11__s9__c1bb8be5cc6d.mp3",
@@ -5678,9 +5686,10 @@
       "audio_sha256": "e853baf5940aeda98c450d8810abeeded57bf9deb0d7a96204f380e2a0e4b11b",
       "image_sha256": "75027c028fe1632aa7b3de148a459ed114abbc703e595994ca8dba8367fde00e",
       "source_commit": "40c41f0549c95ea12506e7c5c641851c139c529e",
-      "station_sha256": "2bb7a934bedab67df30295117fa04f6befaba5b24587091bccd13a6c280f6597",
+      "station_sha256": "8d485fb429572fc5c06319075f188224db98795d7b55d3db8dadd1d4136f4266",
       "original_wav_sha256": "a2b9728c2934e095d51e9151d1adbb2bfe6eb977f6fc6dd6ffa08590c202c36b",
-      "original_wav_filename": "new-gr-11.full.wav"
+      "original_wav_filename": "new-gr-11.full.wav",
+      "restamped": "2026-11-28 나 선 ①: 고리 · 속성 줄만 바뀜, 낭독 글 그대로"
     },
     "new-gr-11#10": {
       "src": "https://baeggman.github.io/sketchy-audio/new-gr-11__s10__e3e2739af28b.mp3",
